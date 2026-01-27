@@ -20,6 +20,8 @@ Krakauer, Jon. *Into Thin Air: A Personal Account of the Mount Everest Disaster*
 
 Ortner, Sherry B. *Life and Death on Mt. Everest: Sherpas and Himalayan Mountaineering*. Princeton, NJ: Princeton University Press, 2020.
 
+Salisbury, Richard, and Elizabeth Hawley. *The Himalaya by the Numbers: A Statistical Analysis of Mountaineering in the Nepal Himalaya, 1950–2024*. 3rd ed. Ann Arbor, MI: Himalayan Database, 2024.
+
 Synnott, Mark. *The Third Pole: Mystery, Obsession, and Death on Mount Everest*. New York: Dutton, 2021.
 
 Unsworth, Walt. *Everest: The Mountaineering History*. 3rd ed. Seattle: Mountaineers Books, 2000.
