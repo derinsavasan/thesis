@@ -22,7 +22,9 @@ This project returns to Vonnegut’s proposition. Stories can be graphed. Later 
 
 ## footnotes so far
 [1] Kurt Vonnegut, *Palm Sunday: An Autobiographical Collage* (New York: Delacorte Press, 1981).
+
 [2] Kurt Vonnegut, “Shapes of Stories,” lecture, 1995, video, YouTube, 4:38, https://www.youtube.com/watch?v=oP3c1h8v2ZQ.
+
 [3] Andrew J. Reagan et al., “The Emotional Arcs of Stories Are Dominated by Six Basic Shapes,” *EPJ Data Science* 5, no. 31 (2016), https://doi.org/10.1140/epjds/s13688-016-0093-1.
 
 
