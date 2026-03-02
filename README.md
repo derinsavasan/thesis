@@ -1,14 +1,11 @@
 # shapes of stories
 
+Link to the WIP paper [here](https://docs.google.com/document/d/10IMgddjh7UiFmDRYE6F0zgCClSYszBbIejSpz-6CFew/edit?usp=sharing)
 
 ## abstract
 Kurt Vonnegut once suggested that stories could be drawn as simple curves. Later researchers proved he was right. Emotional trajectories can be extracted from text and grouped into recurring shapes. The categories hold. What remains unclear is whether the shapes themselves stay the same. By analyzing screenplays from 1970–1999 and 2000–2024, this thesis tests whether the structure of mainstream film storytelling has shifted. It tracks five dimensions of narrative form: emotional trajectory, pacing, dialogue density, narrative reversals, and closure strength. Scripts are parsed for scenes, dialogue, and action; sentiment modeling generates arcs; clustering and supervised classification test whether production era can be predicted from narrative structure alone. The question is not whether stories of now are better or worse. It is whether they are built differently. The results show measurable structural drift across time. What has changed is not the type of stories we tell, but their shapes.
 
 **Keywords:** narrative structure; screenplays; sentiment analysis; clustering; streaming media
-
-
-Link to the WIP paper [here](https://docs.google.com/document/d/10IMgddjh7UiFmDRYE6F0zgCClSYszBbIejSpz-6CFew/edit?usp=sharing)
-
 
 # bib
 Campbell, Joseph. *The Hero with a Thousand Faces*. 2nd ed. Princeton, NJ: Princeton University Press, 1968.
