@@ -10,7 +10,6 @@ Kurt Vonnegut once suggested that stories could be drawn as simple curves. Later
 Link to the WIP paper [here](https://docs.google.com/document/d/10IMgddjh7UiFmDRYE6F0zgCClSYszBbIejSpz-6CFew/edit?usp=sharing)
 
 
-
 # bib
 Campbell, Joseph. *The Hero with a Thousand Faces*. 2nd ed. Princeton, NJ: Princeton University Press, 1968.
 
