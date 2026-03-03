@@ -1,0 +1,126 @@
+{
+  "window": 10000,
+  "step": 2000,
+  "windows": [
+    {
+      "start": 0,
+      "end": 10000,
+      "tokens": 10000,
+      "compound": 0.9999
+    },
+    {
+      "start": 2000,
+      "end": 12000,
+      "tokens": 10000,
+      "compound": 1.0
+    },
+    {
+      "start": 4000,
+      "end": 14000,
+      "tokens": 10000,
+      "compound": 1.0
+    },
+    {
+      "start": 6000,
+      "end": 16000,
+      "tokens": 10000,
+      "compound": 1.0
+    },
+    {
+      "start": 8000,
+      "end": 18000,
+      "tokens": 10000,
+      "compound": 1.0
+    },
+    {
+      "start": 10000,
+      "end": 20000,
+      "tokens": 10000,
+      "compound": 1.0
+    },
+    {
+      "start": 12000,
+      "end": 22000,
+      "tokens": 10000,
+      "compound": 1.0
+    },
+    {
+      "start": 14000,
+      "end": 24000,
+      "tokens": 10000,
+      "compound": 1.0
+    },
+    {
+      "start": 16000,
+      "end": 26000,
+      "tokens": 10000,
+      "compound": 0.9998
+    },
+    {
+      "start": 18000,
+      "end": 28000,
+      "tokens": 10000,
+      "compound": 0.9984
+    },
+    {
+      "start": 20000,
+      "end": 30000,
+      "tokens": 10000,
+      "compound": -0.9994
+    },
+    {
+      "start": 22000,
+      "end": 32000,
+      "tokens": 10000,
+      "compound": -0.9998
+    },
+    {
+      "start": 24000,
+      "end": 34000,
+      "tokens": 10000,
+      "compound": -0.9998
+    },
+    {
+      "start": 26000,
+      "end": 36000,
+      "tokens": 10000,
+      "compound": -0.9998
+    },
+    {
+      "start": 28000,
+      "end": 38000,
+      "tokens": 10000,
+      "compound": -0.9998
+    },
+    {
+      "start": 30000,
+      "end": 40000,
+      "tokens": 10000,
+      "compound": -0.9996
+    },
+    {
+      "start": 32000,
+      "end": 42000,
+      "tokens": 10000,
+      "compound": -0.9927
+    },
+    {
+      "start": 34000,
+      "end": 43600,
+      "tokens": 9600,
+      "compound": 0.9988
+    },
+    {
+      "start": 36000,
+      "end": 43600,
+      "tokens": 7600,
+      "compound": 0.9996
+    },
+    {
+      "start": 38000,
+      "end": 43600,
+      "tokens": 5600,
+      "compound": 0.9998
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "window": 10000,
+  "step": 2000,
+  "windows": [
+    {
+      "start": 0,
+      "end": 10000,
+      "tokens": 10000,
+      "coverage": 0.835,
+      "happiness": 5.43095808383242
+    },
+    {
+      "start": 2000,
+      "end": 12000,
+      "tokens": 10000,
+      "coverage": 0.8473,
+      "happiness": 5.4436032101971
+    },
+    {
+      "start": 4000,
+      "end": 14000,
+      "tokens": 10000,
+      "coverage": 0.8559,
+      "happiness": 5.4377789461386214
+    },
+    {
+      "start": 6000,
+      "end": 16000,
+      "tokens": 10000,
+      "coverage": 0.8643,
+      "happiness": 5.457123683906132
+    },
+    {
+      "start": 8000,
+      "end": 18000,
+      "tokens": 10000,
+      "coverage": 0.8763,
+      "happiness": 5.476719160105043
+    },
+    {
+      "start": 10000,
+      "end": 20000,
+      "tokens": 10000,
+      "coverage": 0.878,
+      "happiness": 5.483917995444236
+    },
+    {
+      "start": 12000,
+      "end": 22000,
+      "tokens": 10000,
+      "coverage": 0.8758,
+      "happiness": 5.489034026033423
+    },
+    {
+      "start": 14000,
+      "end": 24000,
+      "tokens": 10000,
+      "coverage": 0.8634,
+      "happiness": 5.464100069492847
+    },
+    {
+      "start": 16000,
+      "end": 26000,
+      "tokens": 10000,
+      "coverage": 0.8595,
+      "happiness": 5.426732984293295
+    },
+    {
+      "start": 18000,
+      "end": 28000,
+      "tokens": 10000,
+      "coverage": 0.8526,
+      "happiness": 5.399931972789216
+    },
+    {
+      "start": 20000,
+      "end": 30000,
+      "tokens": 10000,
+      "coverage": 0.8514,
+      "happiness": 5.379136715997256
+    },
+    {
+      "start": 22000,
+      "end": 32000,
+      "tokens": 10000,
+      "coverage": 0.85,
+      "happiness": 5.357134117647156
+    },
+    {
+      "start": 24000,
+      "end": 34000,
+      "tokens": 10000,
+      "coverage": 0.858,
+      "happiness": 5.3618484848486005
+    },
+    {
+      "start": 26000,
+      "end": 36000,
+      "tokens": 10000,
+      "coverage": 0.8599,
+      "happiness": 5.363769042912115
+    },
+    {
+      "start": 28000,
+      "end": 38000,
+      "tokens": 10000,
+      "coverage": 0.8595,
+      "happiness": 5.346700407213616
+    },
+    {
+      "start": 30000,
+      "end": 40000,
+      "tokens": 10000,
+      "coverage": 0.8581,
+      "happiness": 5.342016082041812
+    },
+    {
+      "start": 32000,
+      "end": 42000,
+      "tokens": 10000,
+      "coverage": 0.8628,
+      "happiness": 5.370547056096479
+    },
+    {
+      "start": 34000,
+      "end": 43600,
+      "tokens": 9600,
+      "coverage": 0.8623958333333334,
+      "happiness": 5.379555501872289
+    },
+    {
+      "start": 36000,
+      "end": 43600,
+      "tokens": 7600,
+      "coverage": 0.8636842105263158,
+      "happiness": 5.3905880560634145
+    },
+    {
+      "start": 38000,
+      "end": 43600,
+      "tokens": 5600,
+      "coverage": 0.8719642857142857,
+      "happiness": 5.423608437436018
+    }
+  ]
+}

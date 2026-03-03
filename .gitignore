@@ -1,0 +1,15 @@
+# Virtual environments
+.venv/
+.venv311/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Env / tokens
+.env
+huggingfacehub_cache/
+.hf_cache/
