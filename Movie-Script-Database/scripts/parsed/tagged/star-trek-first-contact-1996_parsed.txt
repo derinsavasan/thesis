@@ -1,0 +1,1819 @@
+M: STAR TREK: FIRST CONTACT
+M: story
+M: by
+M: Rick Berman & Brannon Braga & Ronald D. Moore
+M: Screenplay
+M: by
+M: Brannon Braga & Ronald D. Moore
+M: Directed
+M: by
+M: Jonathan Frakes
+M: THIS MATERIAL IS THE PROPERTY OF PARAMOUNT PICTURES AND IS
+M: INTENDED AND RESTRICTED SOLELY TO USE BY PARAMOUNT
+M: PERSONNEL. DISTRIBUTION OR DISCLOSURE OF THIS MATERIAL TO
+M: UNAUTHORIZED PERSONS IS PROHIBITED. THE SALE, COPYING, OR
+M: REPRODUCTION OF THIS MATERIAL IN ANY FORM IS ALSO
+M: PROHIBITED.
+M: REV. THIRD DRAFT
+M: June 6, 1996
+M: STAR TREK: BORG
+T: FADE IN:
+N: (MAIN TITLES ARE INTERCUT WITH THE FOLLOWING SEQUENCE) 1 EXTREME CLOSE UP - A HUMAN EYE (VFX-P} Staring blankly. The pupil and cornea fill the frame. We begin to pull back, slowly revealing the face of
+C: CAPTAIN JEAN-LUC PICARD.
+D: WHOOSH! We ZOOM BACK with lightning speed to see Picard is standing inside a vast CHAMBER crammed with THOUSANDS of BORG DRONES standing upright in their individual alcoves. They're everywhere -- on the ceiling, walls, floor. This is a BORG COLL~CTIVE, thousands of Borg that form a gigantic "hive mind." Everythings dank, monochrome, except for the one tiny smudge of color -in the far distance - - Picard I s uniform . 2 AN EXPLOSION OF SURREAL IMAGERY #1 A SUBJECTIVE POV rushing down a Borg corridor, camera tilting wildly. Borg Drones line the walls half-human/half-machine with lifeless expressions, like vampires in their coffins. 3 SURREAL IMAGERY #2 -- Picard being SLAMMED down onto a Borg operating table. A BORG HAND holds down his head ... 4 SURREAL IMAGERY #3 -- Picard 1 s eye staring again, as the needle-sharp PROBE begins moving directly toward it. 5 SURREAL IMAGERY #4 -- Picard back in uniform, standing in the alcove as before. He's struggling against his restraints, but he can't get out. 6 SURREAL IMAGERY #5 -- A WOMAN'S MOUTH. The skin pale, lips drained of color. The mouth smiles, speaks in a low, raspy voice: 6 CONTINUED:
+E: original 11 TNG11 uniform
+C: WOMAN
+D: Locutus. 7 SURREAL IMAGERY #6 -- A BORGIFIED PICARD (LOCUTUS} turns in response to his name. His face half-covered with Borg machinery. 8 SURREAL IMAGERY #7 -- Human Picard in the alcove struggling to get out! 9 SURREAL IMAGERY #8 Borgified Picard.
+C: BORGIFIED PICARD
+D: I am Locutus of Borg. Resistance ... is futile. 10 SURREAL IMAGERY #9 -- Picard 1 s eye as the needle-like probe reaches the cornea, a split-second away from puncturing the surface. Picard screams -- 11 PICARD bolts awake, sweating, panting. We see that it was all a nightmare. He sits up on the couch, in uniform, and we see that we are now ... 12 INT. ENTERPRISE-E - READY ROOM Picard makes his way across the room to ... 13 NEW ANGLE - BATHROOM He reaches under the faucet and water automatically comes on. He splashes some of it onto his face, looks up into the mirror, stares at his reflection. His breathing slows as he begins to relax ... A muscle in his cheek twitches slightly, and produces a strange CHIRPING sound. Picard grimaces, but it won 1 t stop. He reaches up, tries to smooth it with his hand, but it still won't stop twitching. 13, 13 CONTINUED: He frowns, and suddenly a BORG SERVO PUNCHES THROUGH THE FLESH OF HIS CHEEK!
+E: VFX-I
+C: SHOCK CUI' TO:
+D: 14 PICARD sitting up on his couch -- this time he's really awake. we hear the chirping sound again. He jumps slightly, but then realizes it's the computer monitor on his desk. He lets his breathing slow ... then moves to his desk, looks on the monitor, focuses on what it says ... 15 THE MONITOR SCREEN shows a message: "INCOMING TRANSMISSION. STARFLEET COMMAND TO CAPT. J.L. PICARD. USS ENTERPRISE NCC 1701-
+C: E. COMMAND AUTHORIZATION REQUIRED."
+D: 16 PICARD taps a control.
+C: PICARD
+D: Authorization: Picard, Four-seven alpha tango. 17 ANGLE ON MONITOR SCREEN The screen changes to a Starfleet Logo, then we see a high-ranking official at Starfleet Headquarters appear
+E: to computer VFX-P
+C: ADMIRAL HAYES. PICARD
+D: Admiral.
+C: ADMIRAL HAYES
+D: Catch you at a bad time, Jean-Luc?
+C: PICARD
+D: No, of course not.
+C: ADMIRAL HAYES
+D: I just received a disturbing report from Deep Space Five. Long range sensors have picked up But Picard already knows what he's going to say -- as we will learn, Picard has a mysterious connection to the Borg. He knows what's going on even before the Admiral says it. 17 CONTINUED: I know.
+C: PICARD
+D: The Borg. Off the Admiral's surprised look ... 18 EXT. SPACE - A NEBULA A multi-colored riot of gas, dust and radiation. Out of the clouds comes the new STARSHIP ENTERPRISE -- a sleek, powerful-looking vessel. 19 INT. OBSERVATION LOUNGE {VFX-I) A spacious, comfortable room with an impressive array of windows looking out into space. One wall of the room is dominated by a large GLASS CASE, which is filled with models of previous Enterprises, souvenirs of past missions, books, commendations from Starfleet, etc. There is a sense of pride and tradition here. Picard is facing his team: DATA, RIKER, TROI, GEORDI, BEVERLY. A spacious, comfortable room with an impressive array of windows looking out into space. One wall of the room is dominated by a large GLASS CASE, which is filled with models of previous Enterprises, souvenirs of past missions, books, commendations from Starfleet, etc. There is a sense of pride and tradition here. Picard is facing his team: DATA, RIKER, TROI, GEORDI, BEVERLY. .
+E: END TITLE SEQUENCE VFX-I NOTE: Geordi no longer wears the VISOR. He has electronic ocular implants for eyes NOTE: Geordi no longer wears the VISOR. He has electronic ocular implants for eyes
+C: RIKER
+D: How many ships?
+C: PICARD
+D: One. And it's on a direct course for Earth. It will cross the Federation border in less than an hour. (beat} Admiral Hayes has begun mobilizing a fleet in the Typhon Sector.
+C: DATA
+D: At maximum warp, it will take us three hours, twenty-five minutes to reach
+C: PICARD
+D: We're not going. If possible, this stuns everyone even more.
+C: RIKER
+D: What do you mean, we're not going? 19 CONTINUED:
+C: PICARD
+D: our orders are to patrol the Neutral Zone ... in case the Romulans take advantage of the situation.
+C: TROI
+D: The Romulans?
+C: DATA
+D: captain, there has been no unusual activity along the Romulan border for the past nine months. It seems highly unlikely that they would choose this moment to start a conflict.
+C: BEVERLY
+D: Does Starfleet feel we need more shakedown time?
+C: GEORDI
+D: We've been in space for nearly a year. We're ready. The Enterprise-Eis the most advanced Starship in the fleet. We should be in the frontlines.
+C: PICARD
+D: I've gone through all this with Starfleet Command ... their orders stand. Dead silence falls on the room.
+C: PICARD
+D: Number One, set course for the Neutral Zone. Picard EXITS. As everyone takes in the shocking news .. 20 EXT. SPACE - THE ENTERPRISE at impulse. 21 INT. READY ROOM CUT TO: CLOSE ON a cup of Earl Grey Tea. We are assaulted by OPERA playing at full-volume. Berlioz. The cup is rattling in its saucer in time to the dark, blaring music. MOVE TO REVEAL -- 5 . 21 CONTINUED: Picard, staring out the window, his arms crossed, a fierce expression on his face -- the music seemingly channeling his anger into the air. After a beat, Picard sees the reflection of Riker entering the Ready Room behind him. Picard turns as Riker winces at the incredibly loud music. Picard taps a control on his desk, and the music drops to a muted level, but does not stop playing . Riker smiles a little.
+E: VFX-I
+C: RIKER
+D: Bizet?
+C: PICARD
+D: Berlioz. What do you have? Riker hands him a PADD.
+E: curt
+C: RIKER
+D: We finished our first sensor sweep of the Neutral Zone. Picard takes the PADD, glances at it.
+C: PICARD
+D: Fascinating. Twenty particles of space dust per cubic meter . . . fifty-two ultra-violet radiation spikes ... and a class two comet. This is certainly worthy of our time. He tosses the PADD onto a table. Riker eyes him. They have a long relationship together and Riker is one of the few people who might get Picard to open up at this moment.
+E: dry
+C: RIKER
+D: Captain ... why are we out here chasing comets? Picard looks at him . . . tries to let go of some of the tension in his - voice .
+C: PICARD
+D: Let's just say that Starfleet has every confidence in the Enterprise and her crew ... but they're not so sure about its Captain. He takes a couple of steps around the room, anger and frustration in every word and gesture as he paraphrases Starfleet's own orders to him. 21 CONTINUED:
+E: 2
+C: PICARD
+D: They believe that a man who was once captured by the Borg and assimilated ... should not be put in a situation where he would face them again. To do so would be to introduce an "unstable element into a critical situation." Riker can't believe what he's hearing.
+C: RIKER
+D: That's ridiculous. Your experience with the Borg makes you the perfect man to lead this fight.
+C: PICARD
+D: Admiral Hayes ... disagrees. Troi 1 s com voice breaks the moment:
+C: TROI 'S COM VOICE
+D: Bridge to Captain Picard.
+C: PICARD
+D: Go ahead.
+C: TROI 'S COM VOICE
+D: We've just received word from the fleet. They've engaged the Borg. Picard and Riker exchange a look, then they both head out ... CUT TO: 22 INT. BRIDGE Picard and Riker ENTER. Troi and N.D.s at their stations. The Bridge has been redesigned. A single Captain's chair dominates the room. Surrounding consoles and stations all face inward instead of out, giving Picard instant access to his officers. An officer named LIEUTENANT HAWK sits at Conn. Data is at Ops. Picard moves to his chair.
+C: PICARD
+D: Mister Data, put Starfleet frequency one-four-eight-six on audio.
+C: DATA
+D: Aye, sir. 22 CONTINUED: Data works his console. As Picard sits down, we begin to hear COM TRAFFIC from the distant battle. It's staticky, eerie. The faces of everyone on the Bridge betray an inner-tension as the faraway battle takes place.
+C: COM VOICES
+D: Flagship to Endeavor ... stand by to engage at grid A-fifteen. Defiant and Bozeman, fall back to mobile position one ... Acknowledged ... We have it in visual range ... A Borg Cube on course zero mark two-one-five .. . Speed: warp nine point eight .. . Suddenly a BORG VOICE breaks in -- thousands of voices speaking as one. And as the Borg speak, we move in on Picard 1 s face.
+E: fritzed, overlapping
+C: BORG COM VOICE
+D: We are the Borg. Lower your shields and surrender your ships. We will add your biological and technological distinctiveness to our own. Your culture will adapt to service us. Resistance is futile. We are the Borg. The Com Voices are now interspersed with explosions, static, a chaotic cacophony.
+C: COM VOICES
+D: All units open fire ... Remodulate shield nutation ... We're losing power ... warp core breach ... all hands abandon ship ... A loud EXPLODING sound startles everybody. The voices more urgent now:
+C: COM VOICES
+D: This is the Flagship! They've broken through the defense perimeter -- they're heading toward Earth! Pursuit course! Break off the attack and Picard signals Data to cut off the transmission. He's heard enough. A tense moment of silence as everyone looks at the Captain, wondering what he 1 ll do next. 22 CONTINUED:
+E: 2
+C: PICARD
+D: Lieutenant Hawk ... set course for Earth. Maximum warp. Surprised looks around the Bridge. Picard exchanges a knowing look with Riker, then turns to his crew.
+E: to Conn
+C: PICARD
+D: I am about to commit a direct violation of our orders. Any of you who wish to object, do so now . It will be noted in my log. Everyone looks at each other -- no one objects.
+E: to all
+C: DATA
+D: I think I speak for everyone here, sir, when I say ... to hell with our orders. Picard smiles.
+C: PICARD
+D: Red Alert. All hands to Battle Stations. The ship goes to RED ALERT and people scramble into action. Picard settles into his chair.
+E: to com
+C: PICARD
+D: Engage. 23 EXT . SPACE - THE ENTERPRISE As it turns and blasts INTO WARP. 24 EXT. SPACE - EARTH CUT TO: The familiar big blue marble hanging in the far distance. A peaceful sight. Until suddenly a GRAY MASS enters frame. CAMERA PANS with the Cube as it flies past . .. and we see that the massive ship is on a speedy course directly for the distant EARTH. A BARRAGE of TORPEDOES whisk in from off camera and SLAM INTO the Borg ship, causing damage all along the surface. 25 WIDER Showing a MASSIVE SPACE BATTLE in progress_ A DOZEN STARFLEET VESSELS are swarming about the massive Borg Cube like flies around a giant elephant. The Borg ship sends out deadly FIRE of its own, destroying one ship and severely damaging another. 26 NEW ANGLE - THE DEFIANT Which is in the thick of the action. Five rapid Borg torpedoes SLAM into it. But it was built to take this kind of punishment, and it unleashes its own phaser
+E: VFX-I VFX-I The Borg Cube VFX-I VFX-I
+C: FIRE.
+D: 27 INT. DEFIANT BRIDGE SHAKING. Smoke, debris, several dead bodies lying about. The ship has taken a few hard hits and is falling apart at the seams. Someone reaches up a HAND from behind a sp~rking console, clamps down on it and heaves himself upward. It's WORF. He looks bedraggled and has a nasty-looking gash on his cheek.
+C: WORF
+D: Report!
+C: CONN OFFICER
+D: Main power's off-line! We've lost shields and our weapons are gone! A grim beat.
+C: WORF
+D: Perhaps today ... is a good day to die. Ramming speed!
+E: beat
+C: CONN OFFICER
+D: Sir -- there's another Starship coming in ... It's the Enterprise! Off Wort's surprise ... 28 EXT. SPACE - THE ENTERPRISE SWOOPS into view and unleashes its own BARRAGE of FIRE at the Borg ship. The Cube concentrates its fire on the Enterprise now. 29 INT. ENTERPRISE BRIDGE Red Alert .
+E: beat VFX-I
+C: RIKER
+D: The Defiant 1 s losing life support.
+C: PICARD
+D: { to com) Bridge to Transporter Room Three. Beam the Defiant survivors aboard.
+C: RIKER
+D: Captain, the Admiral's ship has been destroyed.
+C: PICARD
+D: What's the status on the Borg Cube?
+C: DATA
+D: It has_ sustained heavy damage on its outer-hull. I am reading fluctuations in their power grid.
+E: off console
+C: PICARD
+D: On screen. 30 NEW ANGLE - PICARD/VIEWSCREEN A tense beat. Picard stands .. . moves toward the image of the massive Cube as it wipes on to the Holographic Viewscreen. And he HEARS the faint VOICES of the BORG COLLECTIVE in his head. An eerie cacophony. The voices fade ... and he seems to realize something. 31 NEW ANGLE - PICARD
+E: VFX-I
+C: PICARD
+D: Number One, open a channel to the other Starfleet vessels. Riker works. Picard moves to Data"s console, begins working it rapidly.
+C: PICARD
+D: { to com) This is Captain Picard of the Enterprise. I 1 m taking command of the fleet. Target every weapon you have on the following coordinates ... and fire on my command. 31 CONTINUED:
+C: DATA
+D: Captain, the coordinates you have indicated do not appear to be a vital system.
+C: PICARD
+D: Trust me, Data.
+C: RIKER
+D: The fleet's responded, Sir. They're standing by.
+C: PICARD
+D: 32 EXT. SPACE Every Federation ship, including the Enterprise, opens up with a BLINDING DISPLAY OF FIRE POWER -- phasers and torpedoes honing _in on a single spot on the Cube. After a few seconds, even the massive Borg vessel can't withstand the onslaught. It EXPLODES in a TITANIC BLAST. 33 INT. BRIDGE Everyone reacting to the explosion. The ship trembles slightly. 34 EXT. SPACE Out of the expanding cloud of gas and flame a portal opens on the Cube, and another ship emerges -- a BORG SPHERE flying at high speed past the camera and toward Earth! 35 INT. ENTERPRISE BRIDGE - VIEWSCREEN Picard stares at the sphere as it zips away. 36 NEW ANGLE - PICARD
+E: VFX-I VFX-I VFX-I
+C: PICARD
+D: Pursuit course. Engage. Picard moves back to his chair with a troubled look on his face as he realizes what just happened. Troi senses his turmoil -- moves to him. 36 CONTINUED:
+C: TROI
+D: What?
+C: PICARD
+D: I can hear them. Picard doesn't respond. Just then the Turbolift doors open and Beverly ENTERS.
+C: BEVERLY
+D: I have a patient here who insisted on coming to the Bridge. She turns with a smile as Worf ENTERS, his uniform still torn and bloodied but otherwise okay.
+E: to Picard
+C: PICARD
+D: Welcome to the Enterprise-E, Mister Worf.
+C: WORF
+D: Thank you, sir. The Defiant ... ?
+C: PICARD
+D: Adrift ... but salvageable.
+C: RIKER
+D: Tough little ship.
+C: WORF
+D: Little? Riker smiles. It's good to see his friend again.
+C: PICARD
+D: We could use some help at Tactical, Worf. Worf moves to Tactical, relieves the N.D. working there and begins familiarizing himself with the console. Riker moves with him.
+C: RIKER
+D: You do remember how to fire phasers? Worf gives him a look ... 37 EXT. SPACE - BORG SPHERE Which is making a NOSE-DIVE toward Earth. 38 INT. BRIDGE As before.
+E: quiet VFX-I
+C: DATA
+D: Sensors show chronometric particles emanating from the sphere ... Picard studies the monitor.
+C: PICARD
+D: They're creating a temporal vortex ...
+C: RIKER
+D: Time travel ... 39 EXT. EARTH'S ATMOSPHERE The Borg Sphere GLOWING RED and beginning to burn with friction as it PLUMMETS toward Earth. Just ahead of the Sphere a TEMPORAL VORTEX opens -- a maelstrom of light and energy stretching into infinity. The Sphere flies inside. As it does it creates a SPLASH of energy that BLASTS outward. 40 THE ENTERPRISE As it's HIT by the energy WAKE from the vortex. 41 INT. BRIDGE The ship trembles. The Viewscreen shows the energy wake sweeping over the ship.
+E: VFX-I VFX-I VFX-I
+C: DATA
+D: We appear to be caught in a temporal wake! The trembling subsides.
+C: WORF
+D: Everyone looks at the Viewscreen. The energy wake is THINNING to reveal Earth. But Earth has changed -- the blue marble is now covered by a dark, turbulent atmosphere. The vortex is still open -- visible within the vortex is blue Earth, normal Earth ... 43 NEW ANGLE
+E: off Viewscreen} Captain, the Earth ... 42 ANGLE - VIEWSCREEN
+C: DATA
+D: The atmosphere contains high concentrations of methane, carbon monoxide and fluorine.
+C: PICARD
+D: Lifesigns?
+C: DATA
+D: Population ... approximately nine billion. All Borg. A shocking moment.
+E: beat
+C: TROI
+D: But how?
+C: PICARD
+D: They must've done it in the past ... they went back and assimilated Earth ... changed history ...
+C: BEVERLY
+D: But if they changed history ... why are we still here?
+C: DATA
+D: The temporal wake must have somehow protected us from changes in the time-line. Data's console beeps.
+C: DATA
+D: The vortex is collapsing.
+E: off console
+C: PICARD
+D: Mister Hawk, hold your course. We have to follow them back ... repair whatever damage they've done. As Hawk works ... CUT TO: 44 EXT. SPACE - THE ENTERPRISE & VORTEX The Enterprise just barely makes it inside the vortex as it finally COLLAPSES. Both the Enterprise and the vortex VANISH. 45 EXT. MISSILE COMPLEX - NIGHT A mid-21st century missile complex in Montana. This is a base that was probably built in the late 20th century by the U.S. Air Force and should have the familiar elements -- Quonset huts, tents, radar dishes, etc. The complex is now a makeshift community of sorts ... populated by ex-soldiers, ranchers, and various drifters who have come here for shelter, food and some sense of community. 46 NEW ANGLE One of the tent structures has been converted into a BAR. People going in and out ... some lights, a little music playing on a slightly futuristic jukebox. A man and a woman EXIT the bar and walk out into the cold, Montana night. The man is mid-fifties, graying hair, a little drunk. His name is ZEFRAM COCHRANE, a brilliant but eccentric scientist with more than a passing fondness_for alcohol. The woman is LILY SLOANE, black, thirties. She's pretty, smart, with a cutting sense of humor and somewhat volatile temper. Lily likes Cochrane, but the thing that binds them together is the dream of launching the warp ship and making a lot of money. He comes up with the ideas; she scavenges or steals the equipment he needs.
+E: making a decision VFX-I
+C: LILY
+D: You're going to regret this. Cochrane weaves a bit and she puts her arms in his, steadies him.
+C: COCHRANE
+D: If there's one thing you should've learned about me by now, Lily ... it's that I have no regrets. {beat) Come on ... one more round. He tries to turn back to the bar but she keeps on cou~se.
+C: LILY
+D: You've had enough, z. I'm not going in that thing with a drunken pilot.
+C: COCHRANE
+D: Well, I'm sure as hell not going up there sober. Lily suddenly notices something up in the night sky. 46 CONTINUED:
+C: LILY
+D: What the hell is that? Cochrane glances up in his drunken haze.
+C: COCHRANE
+D: That, my dear, is the Constellation Leo.
+C: LILY
+D: No ... that. She points to .. . 47 THE NIGHT SKY Across the starry heavens we can see a tiny bright light moving -- the Borg Sphere. They peer at the strange light ... and as they watch, two distant photon blasts streak aw~y from the sphere. 48 NEW ANGLE - LILY & COCHRANE as they hear a distant boom. They react with puzzlement and then ... WHAM! A PHOTON BOLT SLAMS into the ground nearby, ripping out a huge hole in the earth. They both dive for cover as the mysterious star in the sky unleashes a BARRAGE of PHOTON FIRE, which RIPS into the military base. 49 WIDER The photons fire from orbit is causing terrific DAMAGE. Huge explosions, fires, people scrambling for cover, desperately looking for cover from the mysterious attack.
+E: VFX-I VFX-P VFX-P
+C: LILY
+D: It's the ECON! Lily grabs Cochrane and tries to get them both under some kind of shelter. Cochrane's attitude is depressed and tinged with irony. He's a man who's watching his dream being yanked away.
+C: COCHRANE
+D: After all these years ... More explosions in the background as they huddle for cover. Unlike Cochrane, Lily isn't ready to give up the fight. 49 CONTINUED;
+C: LILY
+D: We gotta get to the Phoenix! She takes off, assuming Cochrane 1 s going to follow. Cochrane takes two steps to follow her, but then a nearby explosion makes him think twice. Lily continues running toward the distant missile silo.
+C: COCHRANE
+D: To hell with the Phoenix. And he heads back towards the bar ... 50 EXT. SPACE - THE VORTEX The Enterprise comes ROARING out into space. The vortex VANISHES behind the ship. 51 INT. BRIDGE The shaking subsides. Everyone exchanges a look, tries to re-orient themselves.
+E: VFX-I
+C: PICARD
+D: Report.
+C: RIKER
+D: Shields are down ... long range sensors are off-line ... main power's holding ...
+C: DATA
+D: (working} According to our astrornetric readings ... we are in the mid- 21st century. From the radioactive isotopes in the atmosphere, I would estimate we have arrived approximately ten years after the Third World War.
+C: RIKER
+D: Makes sense. Most of the major cities were destroyed ... only a few governments left ... six hundred million dead. No resistance.
+C: WORF
+D: Captain! so 52 ANGLE - VIEWSCREEN Everyone looks at the Viewscreen, which now shows the Borg vessel firing its PHOTONS at the surface of the Earth. 53 ANGLE - PICARD
+E: VFX-I
+C: PICARD
+D: Quantum torpedoes! Fire! 54 EXT. SPACE - THE ENTERPRISE On the underside of the saucer, we see the TORPEDO LAUNCHER send out a spread of FIVE QUANTUM TORPEDOES. 55 THE BORG SPHERE {VFX-I) as the torpedoes _penetrate the Sphere. There's a long moment as we see internal explosions and flashes beginning to happen within the Sphere itself. A beat later, the Sphere EXPLODES. 56 INT. BRIDGE As the Enterprise is rocked by the shockwave. A momentary sense of relief from everyone, but then Picard moves ~nto action.
+E: urgent VFX-I
+C: PICARD
+D: They were firing at the surface. Location? Riker moves to a console begins working it.
+C: RIKER
+D: Western hemisphere ... North American continent .. . Looks like a missile complex in Central Montana.
+E: off console beat
+C: PICARD
+D: Missile complex ... This strikes a chord in Picard. He thinks quickly.
+C: PICARD
+D: The date. Data, I need to know the exact date. 56 CONTINUED;
+E: CONTINVED
+C: DATA
+D: The date is April 4th, 2063 . Picard and Riker exchange a look -- this date has significance to both of them.
+E: working, realizing
+C: RIKER
+D: April 4th .. . the day before First Contact.
+C: DATA
+D: Precisely.
+C: BEVERLY
+D: If that's true, then the missile complex must be where Zefrarn Cochrane is building his warp ship.
+C: PICARD
+D: That's -what they came here to do ... stop First Contact.
+C: RIKER
+D: How much damage did they do?
+C: HAWK
+D: Can't tell. Long-range sensors are still off-line. Picard makes an instant decision -- they don't have much time.
+C: PICARD
+D: We have to go down there ... find out what happened. Data, Beverly, you're with me. Number One, have a secu=ity team meet us in Transporter Room Three. Computer, mid-21st century civilian clothes. Number One, you have the Bridge. Riker nods. Picard, Beverly and Data head for the door . . . CUT TO: 57 EXT. MISSILE SILO - NIGHT Picard, Data, Beverly and four Security Guards MATERIALIZE near the perimeter of a large missile launch area. 57 CONTINUED: They're all wearing civilian clothes -- no combadges in sight. A huge, poured concrete door covers the silo below. The Borg phaser fire has created giant smoking CRATERS in the ground. The Away Team draws phasers and tricorders. Picard sees a metal staircase leading to underground.
+E: beat. VFX-P
+C: PICARD
+D: There. They head for the stairs and start walking below ... CUT TO: 58 INT. MISSILE SILO - CONTROL ROOM This small, underground room is filled with 21st century equipment, consoles and monitors. The ceiling has partially collapsed. Chunks of concrete and fallen beams have destroyed some of the equipment. Only a few of the consoles are active, most are dark or fritzing sporadically. Three dead bodies can be seen strewn around the room. 59 PICARD and his team ENTER the dark and smoking ruin. Beverly quickly SCANS the room.
+C: BEVERLY
+D: They're all dead.
+E: re: bodies
+C: PICARD
+D: See if one of them's Cochrane. Data -- let's check on the warp ship. Data and Picard head out a doorway ... 60 INT. MISSILE SILO - CORRIDOR - NIGHT A long, narrow passageway leading between the control room and the silo. Picard and Data on the move. 61 INT. MISSILE SILO Lily, the woman seen earlier, is crouched down on a catwalk, holding an automatic weapon.
+E: grim
+C: (CONTINUED}
+D: 61 CONTINUED: She reacts to the sound of the BLAST DOOR sliding down, shrinks behind some cover, holding her weapon at-the­ ready. Her face is covered with sweat. She blinks. Although there's no obvious wound, she 1 s not feeling well and has trouble concentrating -- what we ' ll learn is radiation poisoning. 62 NEW ANGLE - BLAST DOOR As Picard and Data step onto an upper-catwalk, which surrounds the Silo walls. In the middle is the WARP SHIP itself. It should look like an advanced ICBM missile with a COCKPIT in place of the warhead, and with numerous modifications to the fuselage. The name 11 Phoenix 11 is written on the side. There is obvious DAMAGE to the ship -- scorch marks, etc. Data scans it. There are other catwalks below this one, with ladders connecting the different levels. 63 LILY
+C: DATA
+D: There is significant damage to the fuselage and primary intercooler system. is having difficulty seeing the people on the catwalk above her ... 64 LILY'S POV The image of Picard and Data drifts in and out of focus. The sound of their voices distant, hazy. blinks, struggles ... all that she knows is that are two men and they seem to be holding weapons. pulls back a bolt on her weapon. 65 PICARD eyes the warp ship.
+C: PICARD
+D: We should have the original blueprints in the Enterprise comp-- She there She There's HAIL OF BULLETS from below! Picard and Data dive for cover on the catwalks. The gunfire stops for a moment. Picard calls out:
+C: (CONTINUED}
+D: 65 CONTINUED:
+C: PICARD
+D: Hold your fire! We're here to help you!
+C: LILY'S VOICE
+D: Bullshit! Another BLAST of gunfire.
+C: DATA
+D: Captain, I believe I can handle this. Picard nods. Data takes a few steps along the catwalk ... and then suddenly JUMPS off the side! 66 NEW ANGLE As Data PLUMMETS sixty feet straight down and lands with a metal CRASH on his feet on a catwalk. He steps toward another drop-off ... 67 LILY reacts, cant believe what she just saw. 68 DATA as he JUMPS again -- a forty foot drop. As Data falls, a TORRENT of BULLETS rip into his clothing and torso ... until he LANDS on his feet a short distance away from Lily. She stares at him, open-mouthed with shock, then starts FIRING again. Data rocks back slightly from the impact, but is basically unharmed. The gun clicks empty. Data stares down at his smoking chest with an impassive expression, then looks at Lily.
+E: sotto VFX-P
+C: DATA
+D: Greetings. Lily is thunderstruck. Data begins walking toward her. She recoils from the shocking image. Dizziness overwhelming her now, she trips, falls to the catwalk and when her head hits the metal grating she falls unconscious. Data moves to her and carefully takes the gun out of her hand. 68 CONTINUED:
+C: DATA
+D: Captain, this woman requires medical attention! 69 ELEVATOR DOORS CUT TO: whooshing open. Beverly and Picard step out. Beverly rushes to Lily, bends over her unconscious form. Data is scanning the ship with a tricorder.
+E: calls out VFX-P
+C: BEVERLY
+D: Severe theta-radiation poisoning.
+C: DATA
+D: The radiation is coming from the damaged throttle assembly.
+E: off tricorder
+C: BEVERLY
+D: We're all going to have to be inoculated ... and I need to get her to Sickbay. Picard gives her a look.
+C: PICARD
+D: Doctor ...
+C: BEVERLY
+D: Please, no lectures about the Prime Directive. I'll keep her unconscious.
+C: PICARD
+D: Very well. Tell Commander Riker to beam down with a search party. We need to find Cochrane.
+C: BEVERLY
+D: Right. Crusher to Enterprise. Two to beam directly to Sickbay. As Beverly and Lily DEMATERIALIZE ... Picard eyes the damaged ship.
+E: hits combadge
+C: PICARD
+D: We have less than fourteen hours before this ship has to be launched. 69 CONTINUED:
+E: MORE
+C: PICARD {CONT'D)
+D: Picard to Engineering. INTERCUT: 70 INT. ENGINEERING A large, almost cavernous room, multi-leveled with a high ceiling and a giant, newly designed warp core that pulses and hums with power. The many consoles are being manned by N.D. Engineers. Geordi is looking over a PADD while two Engineers named EIGER and PORTER work nearby.
+E:  taps combadge
+C: GEORDI
+D: La Forge here, Captain.
+E: to com
+C: PICARD
+D: Geordi: .. Cochrane's ship was damaged in the attack. Get down here with an Engineering detail. We have some work to do.
+C: GEORDI
+D: I 1 m on my way, Captain. Geordi moves into action, turns to the room.
+C: GEORDI
+D: Alpha shift -- assemble in Transporter Room Three! We 1 re heading down to the surface! Geordi and a group of seven ENGINEERS head for the main doors, which open to reveal the large CORRIDOR beyond.
+E: to N.D.s
+C: GEORDI
+D: Porter, you're in command here until I get back.
+E: on the move
+C: PORTER
+D: Aye, sir. Geordi pulls at his collar.
+C: GEORDI
+D: And take a look at the Environmental Controls. It's getting a little warm in here. Let's go. 70 CONTINUED: Geordi heads out into the corridor . . . CUT TO: 71 INT. MISSILE SILO - NIGHT Picard and Data standing near the cockpit of the Phoenix. N.D. Engineers work in the b.g., making a thorough survey of the damaged warp ship. There's a quiet beat as Picard watches his men work ... then he looks at the warp ship.
+C: PICARD
+D: Isn't it amazing? This ship used to be a nuclear missile ...
+C: DATA
+D: It is an historical irony that Doctor Cochrane would choose an instrument of mass destruction to inaugurate an era of peace. Picard reaches out and puts a hand on the ship itself, feeling the cool metal beneath his fingers. Data notices the look of wonder on his face. Picard notices Data watching him and smiles slightly.
+C: PICARD
+D: Boyhood fantasy. I must've seen this ship hundreds of times in the Smithsonian ... but I was never able to touch it.
+C: DATA
+D: Does tactile contact alter your perception of the Phoenix?
+C: PICARD
+D: Oh, yes. For human beings, touch can connect you to an object in a very personal way ... makes it more real. Data cocks his head at this notion, reaches out and touches the ship, mimicking Picard. Picard gives him an expectant look.
+C: DATA.
+D: I can detect imperfections in the titanium casing ... temperature variations in the fuel manifold ... but it is no more 11 real 11 to me now than it was a moment ago. 7 2 NEW ANGLE As Troi comes around the corner, stops at the odd sight of Picard and Data both stroking the side of the warp ship.
+C: TROI
+D: Would you three like to be alone? Picard pulls his hand away. Data, with no hint of embarrassment, turns to look at her, but continues to stroke the ship absently.
+C: PICARD
+D: What have you found?
+C: TROI
+D: There's no sign of Cochrane anywhere in the complex.
+C: PICARD
+D: He must be nearby. This experiment meant everything to him. - Start searching the ... "community" out there. And be careful -- the people of this time are desperate and frightened. They're not going to welcome strangers.
+E: beat
+C: TROI
+D: Understood . Captain, we should consider the possibility that Doctor Cochrane was killed in the attack.
+E: beat
+C: PICARD
+D: If that's true .. . then the future may die with him. 73 INT . ENGINEERING Porter has a panel open on an upper-level of Engineering. Eiger is standing nearby. Both are starting to sweat.
+C: EIGER
+D: What do you think?
+C: PORTER
+D: It's like the entire environmental system's gone crazy. And it's not just Engineering -- it's the entire deck. 73 CONTINUED: Frustrated, he stares at the circuitry.
+C: PORTER
+D: Maybe it's a problem with the EPS conduits ... He climbs up an access ladder, which leads to a HATCH on the ceiling. He opens the hatch and crawls inside ... 74 INT. JEFFERIES TUBE A narrow crawlway used for maintenance. Dark, moody, hot. Porter crawls inside, starts scanning the various conduits with a tricorder. A noise! A brief skittering sound coming from down the narrow Tube. 75 PORTER'S POV We catch just a glimpse of a dark form which vanishes around a corner. Porter stares in puzzlement -- did he see that or not?
+C: PORTER
+D: Hello? Hey!
+C: EIGER'S VOICE
+D: Who are you talking to?
+C: PORTER
+D: Is there anyone else doing maintenance in this section?
+E: to Eiger
+C: EIGER'S VOICE
+D: Not that I know of. Curious, Porter crawls down the Tube ... comes to an intersection where four Tubes come together. He looks to the left and sees that the Tube has been ALTERED. Instead of the neat and orderly Starfleet technology, he is confronted by a bizarre amalgam of organic and mechanical cabling. Some of the tubes are pulsing with fluids and energy. And then behind Porter, a few feet down the Tube, we see something moving. Shapes crawling toward him. Porter is unaware. 76 INT. MAIN ENGINEERING Eiger standing outside the hatch, sweating profusely. She hears a THUMP and a sickening liquid CRUNCH from within the Tube.
+C: EIGER
+D: Paul? No response.
+C: EIGER
+D: You okay in there? She climbs up on the ladder ... 77 INT. JEFFERIES TUBE As Eiger slowly pokes her head up into the ominous darkness. A suspenseful moment ... and then a DARK SHAPE rushes at her. Off the shocking moment -- CUT TO= 78 INT. MISSILE SILO - NIGHT Picard, Riker and Data are examining the Phoenix. Picard reacts as he suddenly hears the distant VOICES of the COLLECTIVE again. A sense of dread and foreboding comes over the Captain. The voices fade away. Troi picks up on it instantly, looks concerned.
+C: TROI
+D: What is it?
+C: PICARD
+D: Picard to Enterprise. Is everything all right up there, Mister Worf? 79 INT. BRIDGE INTERCUT: Worf in Command, standing by Hawk who is working a console.
+E:  taps combadge
+C: WORF
+D: Yes, sir. We are experiencing some environmental difficulties on Deck Sixteen ... but that is all. 79 CONTINUED:
+E: to com
+C: PICARD
+D: What kind of difficulties?
+C: WORF
+D: Humidity levels have risen by seventy-three percent ... and the temperature has jumped ten degrees in the last hour. Picard has a bad feeling about this.
+C: PICARD
+D: Data and I are returning to the ship.
+C: WORF
+D: Understood. Picard turns to Riker.
+C: PICARD
+D: Number One, take charge down here.
+C: RIKER
+D: Aye, sir ... As Picard and Data walk off ... CUT TO: 80 OMITTED 81 INT. SICK.BAY Beverly is just taking the clamshell off of Lily, who is lying unconscious on the surgical table. NURSE OGAWA stands nearby. Patients and nurses in the b.g. The room is HOT -- everyone is sweating slightly.
+E: puzzled
+C: BEVERLY
+D: The damage to her cell membranes is repaired. She should be fine, but I'd like to run another test on her spinal tissues. {beat) And find out why it 1 s so hot in here. Suddenly the lights flicker and GO OUT. The monitors in the room go dead. Everyone reacts.
+C: OGAWA
+D: Now what? 81 CONTINUED:
+C: BEVERLY
+D: Crusher to Engineering. Static on the com no response.
+E:  taps combadge
+C: BE'VERLY
+D: Crusher to Bridge. Nothing. Suddenly, in the dark, eerie silence, we hear strange SKITTERING sounds just outside the ceiling and the walls. Something is out there .. . and they're trying to get in. Beverly grabs a tricorder and scans the walls ... reacts at the realization that it's the Borg. 82 INT. BRIDGE Worf in command .as Picard and Data ENTER. Picard is driven by the dread of what he's about to find.
+E: VFX-P
+C: PICARD
+D: Report.
+C: WORF
+D: We have just lost contact with Deck Sixteen -- communications, internal sensors, everything. I was about to send a security team to investigate.
+C: PICARD
+D: No. Seal off Deck Sixteen, and post security teams at every access point.
+C: WORF
+D: (confused} Aye, sir. Worf works his tactical console.
+C: PICARD
+D: Mist~r Hawk -- before we lost internal sensors, what were the exact environmental conditions in Main Engineering? Hawk works. 82 CONTINUED:
+C: HAWK
+D: Atmospheric pressure was two Kilopasquals above normal .. . ninety-two percent humidity .. . thirty-nine point one degrees Celsius ...
+C: PICARD
+D: ... Thirty-nine point one degrees Celsius. Like a Borg ship. Everyone on the Bridge freezes for a moment. A frightening thought.
+E: overlapping beat
+C: PICARD
+D: They realized their ship was doomed ... our shields were down .. ~ and somehow they transported here without being detected. They'll assimilate the Enterprise ... and then Earth. A chilling beat. Static.
+E: thinking
+C: PICARD
+D: Picard to Riker.
+E: to com
+C: PICARD
+D: Enterprise to Away Team. Respond. More static. At that moment, the lights begin to flicker and consoles start going out one by one.
+C: HAWK
+D: Sir, command control is being re­ routed to Main Engineering! Weapons, shields, propulsion ...
+C: PICARD
+D: Data, quickly -- lock out the Main Computer! Data rushes to a console and works the controls with ANDROID SPEED, his hands a blur of motion. On the monitor we see 24th century ENCRYPTION CODES. 82 CONTINUED:
+E: 2
+C: DATA
+D: I have isolated the Main Computer with a fractal encryption code. It is highly unlikely the Borg will be able to break it. The lights GO OUT, leaving only emergency lighting. Only a few consoles are left functioning.
+C: WORF
+D: The Borg have cut primary power to all decks ... except Sixteen.
+C: HAWK
+D: But without the computer, they won't be able to control the ship.
+C: PICARD
+D: The Borg won 1 t stay on Deck Sixteen ... 83 POV - BLACKNESS CUT TO: Slowly, we hear distorted sounds: the eerie skittering mixed with human voices calling out, urgent. Surreal, dream-like.
+C: VOICES
+D: Wake up ... you're all right ... come on. . . wake up . . . The blackness begins to fade up ... images appear ... human shapes ... movement ... and we realize we're seeing someone's POINT OF VIEW. As it clears, we see the face of Beverly Crusher staring down at us. We're in Sickbay.
+E:  distorted
+C: BEVERLY
+D: Wake up! You"re all right. 84 NEW ANGLE - LILY is lying on the bio-bed, groggy. Beverly has her by the shoulders, shaking her hard.
+C: LILY
+D: No ..
+C: BEVERLY
+D: There's no time to explain. I need you to sit up. 84 CONTINUED: Lily stumbles off the bed. Patients and nurses are rushing through a small hatch in the wall, escaping into a Jefferies Tube. The skittering noises are louder and all around Sickbay. Ogawa is scanning the doors to Sickbay with a tricorder.
+C: BEVERLY
+D: Alyssa. Ogawa grabs Lily by the arm, steers her toward the Jefferies Tube. Beverly glances around, desperate.
+E: re: Lily
+C: BEVERLY
+D: Is the EMH still on-line?
+C: OGAWA
+D: It should be. The doors starts to CREAK and BUCKLE INWARD.
+E: glances at a console
+C: BEVERLY
+D: Take her and go. I swore I'd never use one of these things ... Computer -- activate the EMH program. A HOLOGRAPHIC DOCTOR APPEARS -- the same calm, unflappable Doctor as seen on 11 Voyager. 11 Ogawa is now crawling into the Jefferies Tube, helping Lily in behind her.
+E: to Ogawa, re: Lily  to herself to com
+C: DOCTOR
+D: Please state the nature of the medical emergency.
+C: BEVERLY
+D: Twenty Borg are about to break down that door. Create a diversion. She heads for the Jefferies Tube. The Doctor looks at the door, which is about to give way any second, with irritation.
+E: urgent
+C: DOCTOR
+D: This isn't part of my program. I'm a doctor ... not a doorstop. 84 CONTINUED:
+E: 2
+C: BEVERLY
+D: Dance for them, tell them a story, I don't care, just give us a few more seconds! By now, Beverly has helped Lily into the Tube and is closing the hatch behind them. The doors BLOW INWARD. We STAY ON the Doctor as the Borg enter offcamera. We hear cybernetic whirring and clanks as the Borg approach him.
+C: DOCTOR
+D: According to Starfleet medical research, Borg implants can cause severe skin irritations. Perhaps you'd like an .. . analgesic cream? 85 INT. JEFFERIES TUBE - CONTINUOUS Ogawa and the others crawling along. Lily is directly in front of Beverly, who is bringing up the rear. The group reaches an intersection .
+E: to Borg, improvising
+C: OGAWA
+D: Which way? Beverly scurries toward the front of the group.
+C: BEVERLY
+D: {to all) Follow me. We need to get off this deck. Everyone keeps moving. The group rounds a corner ... but Lily stops ... fully awake now. She's scared and completely flipped out, but she doesn't want to go with these strange people. She takes an adjacent passage and strikes out on her own ... 86 INT. SECURITY BAY A contingent of TEN STARFLEET SECURITY OFFICERS are grabbing phaser RIFLES out of lockers, checking them, charging them, getting ready for the fight of their lives. Worf and Data are listening to Picard Follow me. We need to get off this deck. Everyone keeps moving. The group rounds a corner ... but Lily stops ... fully awake now. She's scared and completely flipped out, but she doesn't want to go with these strange people. She takes an adjacent passage and strikes out on her own ... 86 INT. SECURITY BAY A contingent of TEN STARFLEET SECURITY OFFICERS are grabbing phaser RIFLES out of lockers, checking them, charging them, getting ready for the fight of their lives. Worf and Data are listening to Picard .
+E: Picard and Data are back in UNIFORM Picard and Data are back in UNIFORM
+C: PICARD
+D: The first thing they'll do in £ngineering is establish a Collective -- a central point from where they 1 ll control the hive. 86 CONTINUED: Picard moves to a large display PADD propped against the wall, activates it -- a SCHEMATIC DIAGRAM of MAIN ENGINEERING appears.
+C: PICARD
+D: The problem is, if we begin firing particle weapons inside Engineering, we risk hitting the warp core. So I believe our goal should be to puncture one of the plasma coolant tanks. He taps a control and the view ROTATES and ZOOMS IN on a simple diagram of the warp core with two COOLANT TANKS clearly marked with 24th century bio-hazard symbols.
+C: PICARD
+D: Data?
+C: DATA
+D: An excellent idea. Plasma coolant will liquefy organic material on contact.
+C: WORF
+D: But the Borg aren't entirely organic.
+C: PICARD
+D: No ... but like any true cybernetic lifeforrn, they can't survive without their organic components. Worf starts preparing a phaser rifle.
+C: WORF
+D: I have ordered all weapons to be set on a rotating modulation. But the Borg will adapt quickly. We will have a dozen shots at most .
+C: PICARD
+D: One other thing. You may encounter Enterprise crewmembers who have already been assimilated. Do not hesitate to fire. Believe me ... you'll be doing them a favor. Picard grabs a phaser rifle.
+E: grim
+C: {CONTINUED)
+D: 86 CONTINUED:
+E: 2
+C: PICARD
+D: Let's go. CUT TO: 87 EXT. MISSILE COMPLEX - NIGHT The "town" is starting to come back to life ... people moving about, cleaning up debris, assessing the damage, eyeing the sky with worried looks, etc. There is the sound of MUSIC echoing into the night ... it's coming from the tent/bar seen earlier. 88 INT. TENT BAR - NIGHT The futuristic jukebox seen earlier is now pounding out a ROCK AND ROLL classic. It's on a little too loud and the driving beat is in contrast to the emptiness of the surroundings. Troi is sitting at the bar by herself, studying a glass of liquor in front of her. She's rubbing her temples, as if from a headache. After a beat, Riker ENTERS and stops in the doorway.
+C: RIKER
+D: Deanna ... Deanna! But the music is too loud -- she can't hear him. He turns to the jukebox which is just inside the door, finds the power cord and yanks it out of the wall. The music stops. Troi turns around.
+C: TROI
+D: Wil, no, don't turn off the CRASH! A bottle of liquor slams into the wall next to Riker. He spins to see -- 89 ZEFRAM COCHRANE staring at Riker with drunken outrage. He's just walked out from behind a liquor storage area.
+C: COCHRANE
+D: Who is this jerk and who told him to turn off my music? Riker looks mystified. Troi runs a hand through her hair, and we get the feeling that in the short time she's met him, it's already been a strain for her to deal with him. 89 CONTINUED:
+E: to Troi
+C: TROI
+D: Wil Riker ... Zefram Cochrane.
+C: COCHRANE
+D: Friend of yours?
+C: TROI
+D: Yes.
+C: COCHRANE
+D: Husband?
+C: TROI
+D: No.
+C: COCHRANE
+D: Good. Cochrane dumps out Troi's drink ... pours her another glass and one for himself.
+C: COCHRANE
+D: Now this, Deena ...
+E: to Troi, re: drink
+C: TROI
+D: Deanna. COCHR.Mm This is the good stuff. Riker moves toward him.
+C: RIKER
+D: Doctor Cochrane ...
+C: COCHRANE
+D: Here's to the Phoenix ... may she rest in peace. He knocks back the alcohol, pounds the table a couple of times. Troi throws it back, as well. Riker watches this small scene play itself out, not sure what to do. Cochrane picks up the bottle and frowns in disgust.
+C: COCHRANE
+D: Okay, that was bad. He tosses the bottle to the floor, where it breaks. He stumbles back into the storage area. Troi puts her hands to her temples.
+C: TROI
+D: Wil, I think we have to tell him the truth. 89 CONTINUED;
+E: 2
+C: RIKER
+D: But if we tell him ... the time­ line could--
+E: wary
+C: TROI
+D: Time-line ... this is no time to argue about time ... we don't have the time. (beat} What was I saying? Riker looks at her.
+C: RIKER
+D: You're drunk.
+C: TROI
+D: I am not.
+C: RIKER
+D: Yes, you are.
+C: TROI
+D: Look, he wouldn't even talk to me unless I had a drink with him and then it took three shots of something called "tequila" just to find out he was the one we're looking for. And I've spent the last twenty minutes trying to keep his hands off me, so don't start criticizing my counseling technique!
+E: defensive, rambling
+C: RIKER
+D: Sorry ... Troi drunkenly tries to muster her dignity.
+C: TROI
+D: It's a primitive culture and I'm just trying to blend in ...
+C: RIKER
+D: You're blended, all right.
+C: TROI
+D: I already told him our cover story. He didn't believe me. 89 CONTINUED:
+E: 3
+C: RIKER
+D: We~ getting short on time ... If we do tell him the truth ... you think he'll be able to handle it? Cochrane comes out again ... holding another bottle of liquor. He moves past Riker and Troi and heads for the jukebox.
+E: considers
+C: TROI
+D: If you're looking for my professional opinion as ship's Counselor ... he's nuts.
+C: RIKER
+D: I'll note that in my log . Cochrane plugs the jukebox back into the wall ... the Rock and Roll song heard earlier starts playing, distorted, the CD skipping. Cochrane hits the jukebox and the tune continues BLARING. Cochrane drunkenly sways to a chair and plops into it. Troi's head hits the bar -- out cold. Off Riker's exasperated look ... what's he going to do now? CUT TO: 90 EXT. SPACE - THE ENTERPRISE in orbit of Earth. 91 INT. CORRIDOR Picard, Data and five SECURITY OFFICERS are moving down the Corridor with grim looks on their faces, everyone carrying phaser rifles. The feeling is of an elite combat squad heading for a dangerous mission. They stop at one point and Data lifts up a DECKPLATE, exposing a large HATCH in the floor. 92 INT. ANOTHER CORRIDOR Worf and five SECURITY OFFICERS in a different corridor. Worf is opening an identical hatch in the deck. He releases the locking mechanism and the hatch slides open with a soft whoosh. He glances at his men for a moment, then JUMPS down the hatch ... 93 INT. DECK SIXTEEN - CORRIDOR As Picard lands on his feet. The light is dim, no power on this deck, hard to see. He looks around warily for a moment, phaser at-the-ready, then activates the light source on his phaser rifle. He shines the light around the darkened corridor, then silently motions his arm for the others to follow. Data drops down next to him. As the other security officers start to drop into the corridor from the hatch above ... 94 INT. DECK gJXTEEN - ANOTHER CORRIDOR Team #2 is already spread out along the corridor, weapons ready, everyone alert with fingers on the triggers. Worf gives a hand signal and the team begins to make their way down the hall ... 95 PICARD'S TEAM moving down the hall. Data stops at an intersection, shines his light around a corner, reacts to what he sees. He motions for the team to stop, then waves Picard forward. Picard cautiously moves to Data's position, looks around the corner ... 96 NEW ANGLE The Corridor directly walls, ceiling, floor jungle of technology. at the sight. ahead has been BORGIFIED. The are now covered with a dark Picard takes in a sharp breath Data swallows -- a little anxious.
+E: VFX-I Team #1 Team #2
+C: DATA
+D: Captain, I believe I am feeling ... anxiety. It is an intriguing sensation ... a most distracting--
+C: PICARD
+D: I'm sure it 1 s a fascinating experience. But perhaps you should deactivate your emotion chip for now.
+C: DATA
+D: Good idea, sir. Data tilts his head and all traces of nervousness vanish from his face.
+C: DATA
+D: Done. 96 CONTINUED:
+C: PICARD
+D: Data ... there are times I envy you. As they move into the Borg corridor ... 97 WORF'S TEAM is already deep into their own section of Borgified corridor, moving about cautiously. Everyone is tense, jumpy. They reach a large intersection, begin to cross through it ... A NOISE somewhere nearby! Everyone WHIRLS. A nearby hatch is starting to open. They all take aim as the hatch opens to reveal ... 98 BEVERLY who is frozen at -the sight of a half dozen phaser rifles with their lights all trained directly on her. She's dirty, bedraggled.
+C: BEVERLY
+D: It's only me. Everyone relaxes. Worf moves forward as Beverly crawls out.
+E: small
+C: WORF
+D: Doctor, are you all right?
+C: BEVERLY
+D: Yes ... but we have wounded here.
+C: WORF
+D: Lopez -- get these people back to Deck Fourteen. The guard moves to help Ogawa and the other nurses and patients out of the Tube.
+E: to Guard
+C: BEVERLY
+D: There was a civilian with us ... a woman from the 21st century. We got separated.
+C: WORF
+D: We'll watch for her. 98 CONTINUED:
+C: BEVERLY
+D: She has no idea whats going on, Worf. Try to find her. Beverly heads off with the others ... 99 PICARD'S TEAM As they round a corner ... TWO BORG move past them. This is the first time we've seen Borg up close, and it's a hair-raising moment. Everyone jumps, raises their weapons, but Picard stops them.
+E: urgent
+C: PICARD
+D: Wait -- lower you weapons. The Borg ignore them completely, continue moving down the hall.
+C: PICARD
+D: They'll ignore us ... until they consider us a threat. Picard and the others follow the two Borg down the corridor ... and soon they come to an intersection. Picard signals for the team to stop. 100 NEW ANGLE looking down a straight section of corridor. Directly in front of them, about fifteen yards away, are the double doors marked 11 MAIN ENGINEERING." The corridor has been Borgified. BORG DRONES line the walls in special alcoves. The Borg are motionless, silent, in some kind of "sleeping" state. The two Borg we've been following take up positions in their own alcoves. Picard looks up. Worf's team is arriving from an adjacent corridor.
+C: PICARD
+D: Mister Worf, hold this position. With Picard and Data in the lead, the Captain's team starts walking toward Engineering. Worf and his guards stay in position farther down the corridor. It's a long, tense walk. Although the Borg don't seem to be aware of our presence, it's unnerving to be this close. Finally, Picard and Data reach the double doors. 100 CONTINUED: A very tense moment as Data opens an access panel that is still visible among the Borg machinery. We can see an emergency release handle. Data grabs the handle, looks to Picard. Picard glances around at his security forces, making sure everything is in place before they open the doors. Anticipation on everyone's face. Picard nods. Data yanks down the handle and it cracks off in his hand. The doors stay closed. A surprised moment as everyone realizes nothing has happened. Picard and Data exchange a look, and the tension breaks a little.
+C: PICARD
+D: Perhaps we should just knock. Suddenly, the SOUNDS of mechanical whirring and clamps being released!
+C: THE BORG
+D: are emerging from their alcoves ... a dozen of them ... they see our security teams and move calmly toward them.
+E: VFX-P
+C: WORF
+D: Ready phasers ... Worf and the guards raise their weapons ... the Borg getting closer ...
+C: WORF
+D: Worf and the guards start FIRING. 102 TWO BORG are HIT and go down. 103 ANOTHER SET OF BORG are blasted backward, dead. But two more come right behind, stepping over them ... expressionless, implacable, unstoppable. 104 PICARD AND DATA
+E: VFX-P VFX-P VFX-P
+C: PICARD
+D: Data, I need cover. 1.04 CONTINUED: Data takes up a defensive posture -- SHOOTS down an approaching Borg. Picard moves to an access panel by the doors and begins yanking out circuitry and rearranging it ... 105 THE TEAM firing at various Borg ... 106 VARIOUS BORG are HIT and fall to the deck, dead. 107 MORE BORG are emerging from their alcoves. No matter how many bodies pile up, the Borg just keep coming. 108 WORF fires at a Borg. A BORG SHIELD appears. The Borg keeps moving. 109 PICARD
+E: VFX-P VFX-P VFX-P
+C: WORF
+D: Captain -- they 1 ve adapted! is frantically adjusting circuitry. The panel FRITZES and the doors jerk open slightly. Picard rushes to the doors, puts his fingers into the opening and tries to pry the doors apart. They start to open ... wider ... it looks like he's going to make it inside the darkened room ... A Borq leaps out from within Engineering. Picard tries to jump out of the way. 110 DATA sees Picard in trouble. 111 PICARD The Borg closing in -- certain death. Just then Data moves into view, and HURLS the Borg across the corridor. The Borg goes CRASHING head-first into an alcove. 111 CONTINUED: Three more Borg move out of Engineering grab Data from behind. He struggles to break free, but the Borg are stronger. They start to DRAG him into the darkness of Engineering ... Picard tries to get to him, but the Borg are closing in on him, blocking his way. A terrible, frustrating moment -- Picard can"t get to his friend! Data looks back at Picard with a stricken, plaintive look on his face. It's a moment frozen in time.
+E: to Picard
+C: DATA
+D: Captain ... In the blink of an eye, DATA IS PULLED INSIDE ENGINEERING AND THE DOORS CLANK SHtIT BEHIND HIM. Gone. 112 WIDER A final volley of phaser blasts. Borg Shields appear each time. The skirmish line is collapsing ... the Borg unstoppable now .. -.
+E: VFX-P
+C: PICARD
+D: Regroup on Deck Fifteen! Don't let them touch you! What follows is a wild scramble as the team tries to get out any way they can. Up access ladders leading to the second level ... into a Jefferies Tube ... anywhere to escape. 113 A SECURITY GUARD crawling into a Jefferies Tube is grabbed around the neck by a Borg. Strange assimilation "talons" extrude from the Borg's fingers and quickly pierce his skin. Instantly, the Guard stiffens as though paralyzed ... and something jagged and technological SPREADS beneath the skin of his neck. 114 WORF makes it to the second level, helps another guard up ... 115 PICARD tries to join Worf and the others, but the Borg have cut him off. He turns to run the other way, but there are Borg coming from that direction, too. Trapped. 115 CONTINUED! He glances down ... there's a Jefferies TUbe hatch low on the wall ... he moves to it ... Borg closing in ... 116 THE SECURITY GUARD who was grabbed earlier. His face and neck sprout BORG TECHNOLOGY -- assimilation has begun. 117 PICARD narrowly avoids a Borg and scrambles toward a Jefferies Tube. Suddenly a voice stops him --
+E: to team there are no Borg on the second level VFX-I VFX-I
+C: SECURITY GUARD1 S VOICE
+D: Help ... Picard turns to see: 118 THE SECURITY GUARD who is writhing on the floor in agony, the Borg technology sticking out of his face and neck. The Borg who attacked him gone, now.
+E: VFX-P
+C: SECURITY GUARD
+D: Please. . . help ... Picard hesitates -- What is he going to do? He raises his phaser and FIRES, killing the Guard instantly. A grim beat, then Picard scrambles into the Jefferies Tube and slides the hatch shut. 119 INT. JEFFERIES TUBE Picard begins scrambling through the tube ... makes it to an intersection, when suddenly someone wraps an optical cable around his neck. A Borg? Picard instinctively drops his phaser and grasps at the cable around his throat. He slams his body backwards, smashing his assailant into the wall. The cable loosens around his neck and he looks up to see -- 120 LILY who lunges for the phaser, grabs it and points it directly at Picard 1 s face. Picard freezes. Lily's eyes are wild, clothes torn and scorched -­ she1s almost crazed with anger, terror, confusion. l.18 120 CONTINUED:
+C: PICARD
+D: You ... how did you He moves toward her.
+C: LILY
+D: Back off!
+C: PICARD
+D: Calm down .. .
+C: LILY
+D: Shut up. Who are you?
+C: PICARD
+D: My name is Jean-- She looks even more deadly, moves the phaser closer.
+C: LILY
+D: No. W~o are you with? What faction? He looks at her blankly for a moment, confused by the question ... then he realizes what she means.
+C: PICARD
+D: I'm not part of the Eastern Coalition. Look, this is difficult to explain but--
+C: LILY
+D: I said, shut up. I don't care who you're with. Just get me the hell out of here ...
+C: PICARD
+D: That's not going to be easy ...
+C: LILY
+D: Well you'd better find a way to make it easy, soldier ... {re: phaser) ... or I'm going to start pressing buttons. Picard looks at her -- he can see in her eyes that she means it and it's no use arguing with her. He slowly gets up and leads the way out.
+C: PICARD
+D: Follow me. He starts heading off down the Jefferies Tube. She follows, keeping the phaser trained on him, suspicious ... 121 OMITTED 122 CLOSE ON DATA 1 g FACE His eyes are closed. There's a beat, then his eyes fly open and he looks around. We PULL BACK slightly, revealing Data is lying on some kind of tabletop with metallic clamps and restraints. He tenses his arm and tries to move, but he is unable to break the restraints. About two feet in front of his face is what appears to be a bulkhead. There is a cacophony of strange background NOISE -- scratching, hisses, gurgling liquids, odd alien hums ... Suddenly, the table begins it does so we realize that down staring at the floor. as our perspective changes to MOVE. It ROTATES, and as Data has been hanging upside It's a disorienting moment and Data rotates upright.
+C: DATA'S POV
+D: As the table gyrates, we REVEAL the ROOM slowly. And we realize we 1 re in -- 124 INT. ENGINEERING/BORG HIVE Engineering has now been fully transformed into the INNER-SANCTUM of the BORG. The room has a dark, moist, organic feel -- a tropical jungle of cybernetic equipment. The walls, ceiling and floor are now honeycombed with the ALCOVES that make up the BORG HIVE. Borg drones are motionless in their alcoves, cabling and other conduits connecting them to various equipment ... while other Borg are moving about the room, carrying out various modifications to the room. At one point, we glimpse the PLASMA COOLANT TANKS as seen in the diagram earlier. They are nestled in a Borgified wall, well out of reach. 125 DATA is strapped to a table, which is twisting and rotating, giving him frightening new glimpses of the room. A new image appears -- FOUR BORG DRONES are clustered together in one section of the room, each with an elaborate series of hoses and conduits connected to its face. 125 CONTINUED: Through the tubes we can see an exchange of FLUID and ENERGY pulsing back and forth -- some sort of bizarre "feeding" or "renewal" is going on. The tubes all seem to lead toward the ceiling ... Data is now horizontal on his back and the table LOCKS into position. Two Borg Drones are working at a console nearby -- on the monitor we can see the~ encryption graphics Data used to protect the computer on the Bridge. The Borg never stop working, focused on breaking the code.
+E: CONTINOED
+C: DATA
+D: Your efforts to break the encryption codes will not be successful. Nor will your attempts to assimilate me into your Collective. Suddenly a new VOICE is heard echoing through the room -­ a woman's voice, low, seductive, deadly:
+E: to Borg
+C: WOMAN'S VOICE
+D: Brave words. I've heard them before from thousands of species across thousands of worlds ... since long before you were created. Data looks up toward ... 126 THE CEILING A RUSTLE of MOVEMENT somewhere in the cyber-tangle, almost like a snake slithering beneath the weeds. 127 DATA Frowns. He saw it, too, but he's not sure what to make of it.
+C: WOMAN'S VOICE
+D: But now ... they are all Borg. Suddenly three Borg drones converge on Data with various wicked-looking Borg devices.
+C: DATA
+D: I am unlike any lifeform you have encountered before. so. 127 CONTINUED: DATA The codes stored in my neural net cannot be forcibly removed.
+E: MORE Cont'd
+C: WOMAN'S VOICE
+D: You are an imperfect being ... created by an imperfect being. Finding your weakness is only a matter of time. One of the Borg has a specialized cybernetic ARM, which EXTRUDES a series of stiletto-tipped DRILL SPIKES. As the six-inch spikes begin to BORE INTO Data's head ... CUT TO: 128 EXT. MISSILE SILO - NIGHT It 1 s cold, middle of the night. Geordi is setting up a 21st century refracting TELESCOPE, checking the angle with his tricorder. Cochrane is staring at Riker and Troi with a skeptical and slightly drunken look.
+C: COCHRANE
+D: Let me make sure I understand you correctly ... "Commander. 11 A group of cybernetic creatures from the future have travelled back through time to enslave the human race ... and you're here to stop them.
+E: beat
+C: RIKER
+D: That's right.
+C: COCHRANE
+D: Hot damn, you're heroic.
+C: RIKER
+D: We're going to prove it to you. Geordi?
+E: beat
+C: GEORDI
+D: These old refractors can be pretty tricky to align ... but I think ... yeah, there she is. Beautiful. All right, take a look. Everyone looks at Cochrane expectantly. He moves over to the telescope, eager to get this over with, looks into the eyepiece. 128 CONTINUED:
+C: COCHRANE
+D: Well, well, well ... what do we got here? I love a good peep._. show ... He trails off in shock at what he sees, pulls his head away from the telescope.
+C: COCHRANE
+D: That's a trick. How'd you do that?
+C: GEORDI
+D: It's your telescope. Cochrane checks the scope controls ... then looks back through the eyepiece. 129 COCHRANE'S POV - TELESCOPE In the viewfinder we see a tiny, but distinctive view of the ENTERPRISE hanging against the stars. 130 RESUME Cochrane stares at the image with a frown, then finally turns away ... gives Riker a new look.
+E: VFX-I
+C: RIKER
+D: That's our ship. The Enterprise.
+C: COCHRANE
+D: And ... Lily's up there right now?
+C: TROI
+D: That's right.
+C: COCHRANE
+D: Can I talk to her?
+C: RIKER
+D: We've lost contact with the Enterprise. We don't know why yet. He peers through the scope again, amazed.
+C: COCHRANE
+D: So ... what is it you want me to do? 130 CONTINUED:
+C: RIKER
+D: Simple. Conduct your warp flight tomorrow morning, just as you planned ... Cochrane looks at them ... he's starting to believe them, tries to think about the Phoenix, uncertain.
+C: COCHRANE
+D: Why tomorrow morning?
+C: RIKER
+D: Because at eleven 0 1 clock ... an alien ship begins passing through this solar system. Cochrane, starting to become overwhelmed by all this, takes a seat on the concrete missile doors.
+C: COCHRANE
+D: More bad guys ...
+C: TROI
+D: Good guys. They're on a survey mission. They have no interest in Earth ... too primitive.
+C: RIKER
+D: Doctor, tomorrow morning, when they detect the warp signature from your ship, and realize that humans have discovered how to travel faster than light ... they decide to alter their course ... and make First Contact with Earth ... right here. Here?
+C: COCHRANE GEORDI
+D: Actually, over there. Riker can see that he"s getting snowed under with all this. Riker moves to him, smiles, tries to ease his mind and make this sound exciting, appealing. And as our heroes tell him about the future, we can see the passion on their faces. In essence, they"re selling Cochrane "Star Trek" ... and they believe in it.
+E: points
+C: RIKER
+D: It's one of the most pivotal moments in human history, Doctor. 1.3 0 130 CONTINUED: RIKER You get to make First Contact with an alien race. And after that ... everything begins to change.
+E: MORE 2 Cont'd
+C: GEORDI
+D: Your theories on warp drive will allow fleets of Starships to be built ... and mankind to start exploring the galaxy.
+C: TROI
+D: It unites humanity in a way that no one ever thought possible ... when they realize they're not alone in the universe. Poverty, disease, war ... they'll all be gone within the next fifty years.
+E: beat
+C: RIKER
+D: But unless you make that warp flight tomorrow ... before eleven­ fifteen ... ~ of this will happen. Cochrane stares at them.
+C: COCHRANE
+D: And you people ... you"re all astronauts on some kind of ... star trek? Geordi smiles warmly.
+C: GEORDI
+D: Exactly. Look Doc, I know this is a lot for you to take in, but we're running out of time here. We need your help.
+E: beat
+C: RIKER
+D: Are you with us? Cochrane considers, but what can he say?
+C: COCHRANE
+D: Why not? Everyone looks relieved. Cochrane manages a weak smile, but it's clear that he"s a little uncertain about it all ... he peers back through the telescope ... 131 COCHRANE'S POV - TELESCOPE The Enterprise, hanging in space ... 132 INT. ENTERPRISE BRIDGE CUT TO: Dark. All consoles out, lit only by a few feeble emergency lights. A SECURITY OFFICER opens a manual hatch on the Bridge and climbs up a ladder, ENTERS. He's tired, harried, carrying a phaser rifle over his shoulder. Worf, Hawk and a few N.D.s move to him.
+E: VFX-I
+C: SECURITY OFFICER
+D: It's pretty bad, sir. Looks like they control Decks Twenty-six up to Eleven. But once they took Deck Eleven, they just ... stopped. Worf reacts in surprise.
+E: beat
+C: WORF
+D: If they have assimilated more than half the ship in just a few hours ... why stop there? What is on Deck Eleven?
+E: to Hawk
+C: HAWK
+D: Hydroponics ... Stellar Cartography ... Deflector Control ... no vital systems.
+C: WORF
+D: They would not have stopped there unless it gave them a tactical advantage. Worf thinks, tries to puzzle this out.
+C: WORF
+D: Return to your checkpoint. Send reports every ten minutes.
+E: to Security Officer
+C: SECURITY OFFICER
+D: Right. He heads off. 132A INT. JEFFERIES TUBE Picard and Lily moving along. Lily still has the phaser trained on him -- her fear is being subsumed by her anger. From her perspective, the war has started again and Picard is the enemy.
+C: PICARD
+D: Something must have happened in Sickbay. Where are Doctor Crusher and the others?
+C: LILY
+D: Why'd you break the cease-fire?
+C: PICARD
+D: We're not the ones who attacked you . . .
+C: LILY
+D: Who did? Picard turns, opens a hatch directly in front of them, which leads into: .. 133 INT. UMBILICAL DOCKING PORT Picard and Lily step inside the room, which is sloped outward at a 45 degree angle.
+C: PICARD
+D: There's a ... new faction that wants to prevent your launch tomorrow morning. But we're here to help you.
+C: LILY
+D: You want to help? Get me out of here. He stops in front of a wall panel, turns to her, tries to make her understand one last time.
+C: PICARD
+D: This may be difficult for you to accept ... but you're not in Montana anymore ... you're in a spaceship, orbiting Earth at an altitude of about two hundred and fifty kilometers. She looks at him for a long beat, then calmly raises the phaser a little higher and points it directly at his face.
+C: 132A
+D: 133 CONTINUED:
+C: LILY
+D: I think it's time to start pushing buttons ... what do you think? Picard realizes he has no choice but to shock her into accepting what he's saying.
+E: a threat
+C: PICARD
+D: All right. You want a way out ... here .it .is. He touches a wall panel, and suddenly a huge, CIRCULAR PORTAL SLIDES OPEN on the sloping wall, revealing SPACE and the EARTH hanging far below them. It's a dizzying sight. Lily reacts, stunned, as shocked as she's ever been in her life. She takes a couple of steps away, grabs onto an outcropping, as though she might fall through the opening.
+C: LILY
+D: What ... what is this ...
+C: PICARD
+D: That's Australia ... New Guinea ... the Solomons ... Montana should be coming up soon, but you may want to hold your breath -- it's a long way down. Lily tears her eyes away for a moment. Her entire reality is shifting beneath her feet. She looks to Picard for some kind of stability. Picard gives her his most compassionate and understanding look -- he empathizes with her, knows this is a difficult moment and he's going to help her accept this situation and earn her trust.
+E: re; Earth
+C: PICARD
+D: Listen to me. I'm not your enemy. I gm get you home. But you'll have to put that weapon down ... and trust me. She looks at him ... and she can hear the sincerity in his words and see it in his eyes ... and she's beginning to waver. She backs up against the wall, nowhere else to move now. She glances between Earth and Picard, not wanting to believe what he's saying. He tries a different tack.
+C: PICARD
+D: Jean-Luc Picard.
+E: off her look} My name. What's yours? 133 CONTINUED:
+C: LILY
+D: Lily ...
+E: wavering
+C: PICARD
+D: Welcome aboard, Lily. He holds out his hand for the phaser. Lily atruggles ... but she just can"t argue with the giant planet hanging out the window ... finally hands him the phaser. Picard takes it.
+E: gently
+C: PICARD
+D: Thank you. He checks the phaser setting, smiles a little.
+C: PICARD
+D: Maximum setting. If you'd fired this I would have been vaporized.
+C: LILY
+D: My first ray gun. He smiles at her ... and she can't help but smile back, the tension eased a little between them. She looks out the window one more time, and as she does, she notices something.
+E: apologetic
+C: LILY
+D: There's no glass. Picard moves over, reaches for the portal and lightly taps a FORCEFIELD, which lights up for a moment.
+C: PICARD
+D: Forcefield. She looks amazed. He moves to the door and motions for her to follow.
+C: LILY
+D: I've never seen that kind of technology ...
+C: PICARD
+D: That's because it hasn't been invented yet.
+C: LILY
+D: What?
+N: 133 CONTINUED: ( 3)
+C: PICARD
+D: There's ... more I need to tell you . . . come on ... As they head out the door ... 134 INT. BORG HIVE It's a while later, and Data is still immobilized on the Borg operating table ... his right arm and shoulder are encased in some kind of strange cybernetic SHELL, obscured from view. Clear tubes run out of the shell into Borg machinery -- liquid is coursing through the tubes. A couple of Borg drones are moving about the room, carrying out various tasks. The two Borg finish their work and take a few steps back and wait. Clearly, something is about to happen. We hear the voice of the mysterious woman: Data
+C: WOMAN'S VOICE
+D: Are you ready? stares at the murky ceiling.
+C: DATA
+D: Who are you?
+C: WOMAN'S VOICE
+D: I am the Borg.
+C: DATA
+D: That is a contradiction. The Borg have a collective consciousness. There are no individuals. 135 ANGLE ON CEILING {VFX-I) Out of the darkness that hugs the top of the room DESCENDS the BORG QUEEN. She is unlike any of the Borg we've ever seen -- she has no body, only a head, a neck and upper-shoulders. Her face is humanoid, with pale flesh, and her eyes have a silvery glint to them. Her demeanor is low and seductive, in contrast to the harsh, mechanical surroundings. Below her head is a tangle of Borg technology that forms a sort of spine. She's SUSPENDED by a complex rig of CABLES and HYDRAULICS. As she talks, her head and shoulders start to LOWER down ... and we FOLLOW HER: 135 CONTINUED:
+C: BORG QUEEN
+D: I am the beginning ... the end. The one who is many. I am the Borg. Her head and shoulders descend into a synthetic BORG BODY which is standing below. The cables detach and FLY AWAY ... the head CLICKS into place and the body ANIMATES. The Queen walks forward, now a fully­ integrated humanoid form. 136 ANGLE ON DATA
+E: over above action
+C: DATA
+D: Greetings. I am curious. Do you control the Borg Collective?
+E: beat
+C: BORG QUEEN
+D: You imply a disparity where none exists. I fil!1 the Collective. Data tilts his head, puzzled by the cryptic answer.
+C: DATA
+D: Perhaps I should rephrase the question. I wish to understand the organizational relationships. Are you their leader?
+C: BORG QUEEN
+D: I bring order to chaos.
+C: DATA
+D: An interesting, if cryptic, response.
+C: BORG QUEEN
+D: You are in chaos, Data. You are the contradiction. A machine who wishes to be human.
+C: DATA
+D: Since you seem to know so much about me ... you must be aware that I am programmed to evolve ... to better myself.
+C: BORG QUEEN
+D: We, too, are on a quest to better ourselves ... evolving toward a state of perfection. 136 CONTINUED:
+C: DATA
+D: Forgive me ... but the Borg do not evolve, they conquer.
+C: BORG QUEEN
+D: By assimilating other beings into our Collective, we are bringing them closer to perfection. She smiles ... stares at him intensely, and we get the hint that her interest in Data may go beyond simple assimilation.
+C: DATA
+D: Somehow ... I question your motives.
+C: BORG QUEEN
+D: Thats because you haven't been properly .. . stimulated yet. The Queen looks at him, and we hear a servo work in Datas head. Data reacts with sudden fear. He abruptly pulls it under control.
+C: DATA
+D: You have re-activated my emotion chip ... why?
+C: BORG QUEEN
+D: Don't be frightened.
+C: DATA
+D: I am not frightened. The Queen looks at the cybernetic shell that is encasing Data's right arm, which OPENS at her silent command. 137 ANGLE ON DATA1 S ARM We can now see that all of the skin has been removed from Data's right arm, showing the INNER-WORKINGS of his android limb -- circuitry and servos, etc. But on the top of the mechanical forearm there is something new -- a small PATCH of HUMAN FLESH held in place with various nasty-looking hooks and clamps and small tubes carrying blood. It's a delicate, fragile piece of organic life on an ugly, mechanical surface. 138 ANGLE ON DATA Data looks down at the patch of flesh with a rising sense of dread.
+E: covering
+C: BORG QUEEN
+D: Do you know what this is, Data?
+E: re: flesh
+C: DATA
+D: It would appear you are attempting to graft organic skin onto my endo­ skeletal structure.
+C: BORG QUEEN
+D: What a cold description ... for such a beautiful gift. She smiles slightly, utterly confident. She leans her face in close to Data's still immohili2ed right arm ... 139 EXTREME CLOSE UP - DATA'S ARM We are so close to the patch of flesh that we can see the individual hairs. The Borg Queen's LIPS move into frame, and she EXHALES a long and sensuous breath. We see GOOSE BUMPS form on the skin, and the hairs stand straight up in response. 140 NEW ANGLE As Data's eyes widen and he looks down at the skin in surprise -- this is a sensation he 1 s never felt before. The Borg Queen sees the look on his face and smiles.
+E: VFX-I
+C: BORG QUEEN
+D: Was that good for you? Data can barely describe the sensation. But clearly, it was pleasurable. He doesn't know what to say. Off his confused and disturbed look ... CUT TO: 141 INT. CORRIDOR Dimly lit but deserted and not yet Borgified. Picard drops down from a hatch on the ceiling ... looks around, phaser-in-hand, then signals for Lily to follow. She drops down to the deck and they start walking cautiously down the hall. 141 CONTINUED; Their relationship has progressed since we last saw them. Picard has told Lily about the future and her curiosity has been peaked. She wants to know more. And while Picard still has the responsibility of getting them safely to the Bridge ... he is responding to her, as well. We get the feeling there might've been a closer friendship between them if the circumstances had been different. Picard stops at an active computer panel on the wall, hits a few controls.
+C: LILY
+D: How many planets are in this ... "Federation?"
+C: PICARD
+D: Over one hundred fifty ... spread across eight thousand light years.
+C: LILY
+D: You must not get home much.
+C: PICARD
+D: Actually, I tend to think of this ship as home. But if it 1 s Earth you're talking about, I try to get back when I can. The message "ACCESS DENIED 11 appears. Picard looks a little relieved.
+C: PICARD
+D: Good. They haven't broken the encryption codes yet.
+C: LILY
+D: Who? Those bionic zombies you told me about? The ...
+C: PICARD
+D: Borg.
+C: LILY
+D: Borg. Sounds Swedish. He gives her a look. They keep moving, Picard thinking, trying to formulate a plan while Lily tries to keep the conversation alive to keep her nerves steady. She glances around.
+C: LILY
+D: How big is this ship?
+C: PICARD
+D: Twenty-four decks ... almost seven hundred meters long. 141 CONTINUED:
+E: 2
+C: LILY
+D: It took me six months to scrounge up enough titanium just to build a four meter cockpit. How much did this thing cost? Picard smiles slightly.
+E: reacts beat
+C: PICARD
+D: The economics of the future are ... somewhat different. Money doesn't exist in the 24th century.
+C: LILY
+D: No money? You don't get paid?
+E: disbelief
+C: PICARD
+D: The acquisition of wealth is no longer a driving force in our lives. We work to better ourselves and the rest of humanity. We're actually quite like you . .. and Doctor Cochrane. She looks at him, bursts out laughing. Picard isn't sure what exactly he said that was so funny. As they round a corner ...
+E: smiles
+C: PICARD
+D: What? They round the corner and Lily stops ... the laughter changing to a gasp. Picard turns and sees ... 142 NEW ANGLE Directly ahead is a stretch of BORGIFIED CORRIDOR. There are a dozen Borg in their alcoves lining the walls, several Borg walking around, working. Theyve just walked into a den of wolves. Lily's instinct is to flee. But Picard grabs her by the arm.
+C: PICARD
+D: It's all right. They won't attack us unless we threaten them. Come on.
+E: beat
+C: LILY
+D: Isn't there another way around? He holsters his phaser ... takes her by the hand.
+C: PICARD
+D: I know what I 1 m doing. They start walking through the Borgified corridor. Borg move about them, almost touching them but ignoring them completely. Picard eyes them warily. Lily tries to keep a grip on her rising panic. Mechanical whirs and gurgling sounds swirl around her, nightmarish. A Borg suddenly jolts out of it 1 s alcove, as though to attack. Lily recoils, but the Borg simply walks past her and goes on its way. Another Borg brushes up against her. Yet another almost walks into them and Picard has to pull her out of the way. It's the longest walk of her life ... Picard stays focused on getting them through without disturbing the Borg ... when suddenly he starts to HEAR the VOICES of the Borg Collective in his head again. It's not a good -time. He concentrates, shakes his head slightly to push -the voices out ... and after a moment they eventually fade away . . . He presses on ... and finally the Borgified section of hallway ends and they move out into Federation corridor. Picard looks down an adjacent corridor, sees something at the far end and gets an idea. Lily glances back at the Borg with dread and anxiety.
+C: LILY
+D: Definitely not Swedish. Picard pulls out his phaser and FIRES at a Borg conduit, which EXPLODES in a shower of sparks. Instantly, TWO BORG turn and start walking toward Picard and Lily.
+E: shaken
+C: LILY
+D: What the hell are you doing!! Picard doesn't answer, grabs her hand and heads down the Holodeck corridor. They stop outside the large set of double doors. Picard hits a control and the doors whoosh open ... thru OMITTED thru 145 INT. HOLODECK GRID The doors slide shut behind them in what appears to be a completely empty, dark room. The room is lit only by a small, glowing computer panel. 145 CONTINUED: Picard rushes to the wall panel, starts working it. A slithering scrape on the outside of the doors announces the arrival of the Borg. Picard looks Lily up and down.
+C: PICARD
+D: The Borg have just stepped into a scene from a film noire detective novel. A long stretch of corridor lined with empty red booths and a couple of late-night drinkers. The Borg stand still for a moment, trying to orient themselves to this unexpected setting. They enter the corridor and start walking toward the far end of the hall ... 147A INT. NIGHTCLUB - BALLROOM 147A Huge and opulent. There's a bar, bandstand and dance floor, dining tables, etc. It's near closing time. A few patrons in period garb are having late night drinks, chatting, smoking, etc. Busboys are clearing tables. The band is packing up for the night. l47B NEW ANGLE - PICARD AND LILY Picard is dressed as Dixon Hill, his hard-boiled detective character. Lily in a slinky, satin dress. He's leading Lily through the scene. Lily is still in a state of shock, letting Picard lead her through this bizarre scene. Picard finally sees a BARTENDER behind the main bar, cleaning some glasses. He calls out.
+E: still working} Perhaps something in satin ... Off her puzzled look ... 146 INT. CORRIDOR The two Borg Drones physically force the doors open with their cybernetic strength. There's a shriek of metal as the doors open and the Borg rush inside for the kill ... 147 INT. 1940 1 S NIGHTCLUB - ENTRYWAY
+C: PICARD
+D: Eddie!
+C: BAR.TENDER
+D: Dixon! Picard heads for the har ... but before they can reach it, a DRUNKEN PATRON walks up.
+E: to Picard
+C: 147B 147B CONTINUED: DRUNK
+D: Hey, beautiful drink? how 'bout a He gives Lily a lascivious pat on the butt. She instantly gives him a backhanded SLAP across the face. Picard steps in.
+C: PICARD
+D: Hands off, Buster ... she's with me. The drunk staggers off. They keep moving. Lily rubs her hand.
+C: LILY
+D: I thought you said none of this was real.
+C: PICARD
+D: It's not. They're all holograms.
+C: LILY
+D: It sure felt real ... 147C INT. NIGHTCLUB - ENTRYWAY The two Borg are nearly at the entrance to the main Ballroom, when an officious MAITRE'D walks up to them.
+E: rubbing her hand NOTE: The Borg should not be able to see into the Ballroom yet.
+C: MAITRE'D
+D: I'm sorry, gentlemen. But we're closing. The Borg make no move to leave and the Maitre 1 d looks annoyed.
+C: MAITRE'D
+D: And you do understand we have a strict dress code. So if you boys don't leave right now, I'll --
+E: firm
+C: 147B 147C
+D: One of the Borg grabs the Maitre'd by the collar, hauls him close, sends out a thin LASER BEAM from his eyepiece. The Maitre 1 d FRITZES out slightly -­ revealing him to be a hologram. 147D INT. NIGHTCLUB - BALLROOM 147D Picard and Lily are approaching the bartender.
+C: 147D CONTINUED: BARTENDER
+D: What'll it be, Dix? The usual?
+C: PICARD
+D: I'm looking for Nicky the Nose. The Nose? months.
+C: BARTENDER
+D: He hasn't been here in Picard stops, puzzled -- this wasn't the answer he was expecting. At that moment, Picard suddenly sees the Maitre'd come TUMBLING out of the entryway and CRASH into a waiter. Picard has to think fast.
+C: PICARD
+D: This is the wrong chapter ... Computer -- begin Chapter Thirteen.
+E: to com, urgent
+C: 147E WIDER ANGLE 147D 147E
+D: The room remains the same, as do Picard and Lily, but the room suddenly FILLS with PATRONS. The band is playing. Waiters moving about. A new chapter in the halo-program -- the club is in full-swing on a Saturday night. Picard and Lily are in the middle of the dance floor, which is filled with people dancing who effectively hide them from the view of the Borg. Picard grabs Lily and starts to dance.
+C: PICARD
+D: Try to look like you're having a good time. She glances toward the Borg, who are starting to move through the crowd, looking for Picard and Lily.
+C: PICARD
+D: No, no -- look at me. Try to act naturally. He gives her his most winning smile, projecting a look of utter confidence. Lily smiles back, forced, strained.
+C: LILY
+D: Come here often?
+E: groping for words
+C: 147F THE BORG
+D: moving methodically through the crowd ...
+C: 147G PICARD AND LILY
+D: are dancing their way toward the far side of the room.
+C: LILY
+D: You're not bad. Picard smiles slightly, then sees someone.
+E: re: dancing
+C: PICARD
+D: There he is.
+C: 147H PICARD'S POV
+D: Sitting at one of the large booths lining the wall is NICKY THE NOSE. He's a fat mobster wearing a metal nose. His HENCHMAN is sitting across from him. 1471 PICARD AND LILY
+C: 147F 147G 147H
+D: start dancing toward the mobster. A woman suddenly grabs Picard and plants a long kiss on his lips. She's a femme-fatale named RUBY.
+C: PICARD
+D: Ruby ... this isn't a good time. He tries to pull away, but she won't let go.
+C: RUBY
+D: It's never the time for us, is it, Dix? Always some excuse ... some case you're working on.
+E: hurt
+C: PICARD
+D: Yeah. I gotta talk to Nicky. I'll see you later on.
+E: rushed
+C: RUBY
+D: Okay, but watch your caboose. And dump the Broad. He finally breaks away and heads for the mobster's table.
+C: 147J THE BORG
+D: are working their way through the crowd, getting closer ...
+C: 147K PICARD AND LILY
+D: reach the mobster's table.
+C: THE NOSE
+D: Well, well, well ... look what the cat dragged in. What's shakin', Dix? Picard quickly moves to the booth and starts patting down the Henchman, looking for a gun. The Henchman looks at him, puzzled.
+C: PICARD
+D: The usual, Nick. Martinis and skirts-. Excuse me.
+E: over above action
+C: HENCHMAN
+D: Hey -- I 1 m gonna take this personal in a second. No gun. The Borg are getting closer! Picard finally sees a violin case sitting next to the Henchman. He lunges for it. The henchman grabs Picard, but Lily SLAMS him with a champagne ice bucket. He topples in a shower of ice.
+C: 147J 147K
+D: Picard pops opens the violin case, whips out a TOMMYGUN. He whirls to face the Borg, pulls back a bolt on the gun and OPENS FIRE. Bullets rip into the BORG, tables, glasses, patrons screaming and diving for cover. People are running out of the doors. The expression on Picard's face is ferocious as he pumps the two Borg full of bullets. The Drones finally crash to the floor, twitching and smoking. Picard's gun clicks empty. He walks over to the Borg, looks down at them with an expression of loathing on his face. Lily walks up next to him. They stare at the dead Borg for a moment.
+C: LILY
+D: I think you got 'em. Picard ignores her, kneels down next to one of the dead Borg. The nightclub is almost totally empty now. He begins to open a panel on the Borg's abdomen.
+C: (CONTINUED} 147K CONTINUED: LILY
+D: I don't get it. You said this was all a bunch of holograms ... if the gun isn't real ...
+C: PICARD
+D: I disengaged the safety protocols ... without them, even a holographic bullet can kill.
+C: 147K
+D: He reaches his arm deep inside the alien circuitry. He treats the dead Borg with no more care than he would an open computer console.
+C: LILY
+D: What are you doing?
+C: PICARD
+D: Looking for the neuro-processor. Every Borg has one. It's like a memory chip . .. it'll contain a record of the instructions this Borg's been receiving from the Collective. Lily kneels down on the other side of the Borg, watching with a little revulsion as Picard digs through its insides. She notices that the Borg is wearing the remnants of a Starfleet uniform.
+C: LILY
+D: Jean-Luc ... that's one of your uniforms. Picard doesn't even look up.
+C: PICARD
+D: This was Ensign Lynch. He rips out a hunk of circuitry -- plucks off a small, distinctive BORG CHIP. He pulls out his tricorder, places the chip into an open slot in the back of it ... hits a control and the slot ADJUSTS to fit the chip. Lily glances back at the Borgified Ensign.
+C: LILY
+D: Tough break.
+C: PICARD
+D: (beat} We've got to get to the Bridge. His tone of voice and complete lack of compassion makes Lily look up at him. This is not the same man who was so interesting and charming in the corridor a few minutes ago. 147K CONTINUED: (2} 147K OFF Picard 1 s icy expression as he heads for the exit ... CUT TO: thru OMITTED
+C: 150A
+D: 151 EXT. MISSILE COMPLEX - WIDE - DAYBREAK Our first look at the sprawling Montana landscape in daylight. The "tent city" is situated on a mountain slope, the missile silo below it. In the distance, we can see that the forest in this area has been burned away in a devastating fire. Townsfolk are milling about. Huge craters from the Borg attack are still giving off thin wisps of smoke. 152 EXT. MISSILE COMPLEX - DAY Cochrane is walking from the town to the missile complex. A group of young Starfleet officers dressed in 21st century garb pass by. The officers glance up, see Cochrane, and give him looks of awe. To the officers, Cochrane is a towering figure from history. thru
+E: MATTE VFX-P
+C: 150A
+D: Cochrane frowns a bit, not used to getting these starry­ eyed looks. It makes him uncomfortable. He tries to find some privacy behind a large structure near the silo ... reaches inside his jacket, pulls out a small flask and takes a long pull from it.
+C: GEORDI'S VOICE
+D: Doctor. He whirls around, hiding the flask.
+C: COCHRANE
+D: Yeah?
+C: GEORDI
+D: Will you take a look at this? Cochrane pockets the flask and moves over to Geordi, who is standing nearby, holding a PADD. Geordi hands it to him.
+C: GEORDI
+D: I tried to reconstruct the intermix chamber from what I remember in school. Tell me if I got it right. Cochrane is getting agitated -- the more he hears about his role in history, the less he likes about it. 152 CONTINUED:
+C: COCHRANE
+D: School ... you learned this in school?
+C: GEORDI
+D: Yeah. Basic warp design is a required course at the Academy. The first chapter's called ... Zefrarn Cochrane. Cochrane glances at the PADD.
+C: COCHRANE
+D: Well, it looks like you got it right ... Geordi smiles, satisfied. LIEUTENANT BARCLAY walks up. Barclay keeps glancing at Cochrane nervously, excited to be this close to the Legend.
+C: BARCLAY
+D: Commander, this is what we're thinking of using to replace the damaged warp plasma conduit. He hands Geordi a large section of copper tubing. 153 CLOSE ON GEORDI'S EYES As Geordi looks at it, his PUPILS DILATE and PIXILATE. 154 RESUME Cochrane watches, unsettled but fascinated.
+E: to Geordi VFX-P
+C: GEORDI
+D: Fine, but you've got to reinforce the copper tubing with a nano­ polymer. He hands the tube back to him. Barclay hesitates before he goes, gives Cochrane an excited look.
+C: BARCLAY
+D: Doctor Cochrane ... I ... I know this sounds silly, but ... can I shake your hand? Cochrane gives him a forced smile, lets Barclay eagerly pump his hand for a moment. 154 CONTINUED:
+C: BARCLAY
+D: Thank you Doctor I can't tell you what an honor it is to be working with you on this project I never imagined I'd be meeting the man who invented warp drive I mean it IS a"
+E: gushing
+C: GEORDI
+D: Reg ... Reg. Barclay stops.
+E: overlapping
+C: BARCLAY
+D: Oh ... right ... sorry. Thank you! Cochrane nods uncomfortably. Thrilled, Barclay walks off. Geordi and Cochrane start walking.
+E: to Cochrane, awed
+C: COCHRANE
+D: Do they have to keep doing that?
+C: GEORDI
+D: It 1 s just a little hero-worship, Doc. I can't say I blame them. We all grew up hearing about what you did here ... or what you're about to do here. And you know, I probably shouldn't be telling you this but ... I went to Zefrarn Cochrane High School.
+E: beat, slightly embarrassed
+C: COCHRANE
+D: Oh, really ... There's a trace of fear in Cochrane's voice that Geordi doesn't pick up on. They stop. Cochrane runs a hand through his hair, trying not to think about his place in history. He looks around the landscape. Geordi laughs.
+E: weak smile
+C: GEORDI
+D: I wish I had a picture of this.
+C: COCHRANE
+D: What.? 1.54 CONTINUED:
+E: 2
+C: GEORDI
+D: Well ... in the future, this whole area becomes an historical monument. You're standing in almost the exact spot where your statue's going to be. Geordi is beaming -- this is one of the high-points of his entire life.
+C: COCHRANE
+D: Statue ...
+C: GEORDI
+D: Yeah. It's marble ... about twenty meters tall ... Geordi imitates a pose.
+C: GEORDI
+D: You're looking up at the sky ... your hand sort of reaching toward the future ... Cochrane stares back with a smile that could be described as horrified. He wants to end this conversation.
+C: COCHRANE
+D: I have to take a leak. Geordi looks around the missile doors, concerned.
+C: GEORDI
+D: Leak? I 1 m not detecting any leaks.
+C: COCHRANE
+D: Don't you people ever pee in the 24th century?
+C: GEORDI
+D: Oh ... leak. I get it. That's pretty funny.
+C: COCHRANE
+D: Excuse me. Cochrane quickly walks toward the woods. Geordi watches him for a moment, then turns and heads down into the silo ... 155 NEW ANGLE As Cochrane walks a short distance away from the silo ... takes a few deep breaths, happy to be alone for a moment, then glances back to make sure no one's followed him .. . Zefram Cochrane takes off running into the forest as fast as he can. 156 EXT. MONTANA - BIRD'S EYE VIEW - DAY Cochrane comes running out of the woods and into a vast BURN AREA. Off the image of the tiny figure lost in a sea of dead trees ... hoping not to be seen as he crosses toward some distant green forest ... CUT TO: INT. JEFFERIES TUBE Picard and Lily are stopped outside a hatch, which Picard is manually opening. A beat, then the hatch slides aside ... and Picard finds himself at the business end of three phaser rifles. 158 PICARD'S POV Worf, Hawk and Beverly relax as they realize it's him.
+C: WORF
+D: Captain. They lower the rifles and Worf gives Picard a hand up. 159 INT . BRIDGE As Picard crawls out of the Tube. The Bridge is still dark, and there are some open consoles where N.D.s are laboring to bring them back on-line.
+C: BEVERLY
+D: Jean-Luc, we thought you were
+C: PICARD
+D: Reports of my assimilation have been greatly exaggerated. I found something you lost. Picard climbs out of the tube and we see Lily behind him. Worf reaches down to pull her out onto the Bridge. Lily reacts to the sight of the towering Klingon. 159 CONTINUED:
+E: smiles, to Beverly
+C: WORF
+D: I'm Klingon. Lily nods. Picard and Worf move aside to discuss tactical matters. Lily looks around the Bridge, wonderous.
+C: PICARD
+D: Report.
+E: to Worf
+C: WORF
+D: The Borg control over half the ship. We've been trying to restore power to the Bridge and the weapons systems ... but we've been unsuccessful. Picard reacts to the grim news ...
+C: PICARD
+D: We have another problem. I accessed a Borg neuro-processor ... and I 1 ve discovered what they're trying to do. They're transforming the deflector dish into an interplexing beacon.
+E: beat
+C: HAWK
+D: Interplexing?
+C: PICARD
+D: A kind of subspace transmitter ... If they activate the beacon, they'll establish a link with the Borg living in this century.
+C: BEVERLY
+D: But in the 21st century, the Borg are still in the Delta quadrant ...
+C: PICARD
+D: They'll send reinforcements. Humanity would be an easy target. Attack Earth in the past ... to assimilate the future. An unsettling beat.
+C: WORF
+D: We must destroy the deflector dish before they activate the beacon. 159 CONTINUED:
+E: 2
+C: PICARD
+D: we can't get to deflector control or a £huttlecraft. He gets an idea.
+E: thinking
+C: PICARD
+D: Mister Worf ... do you remember your zero-g combat training? Worf looks a little wary at the suggestion.
+C: WORF
+D: I remember it made me sick to my stomach. What are you suggesting?
+C: PICARD
+D: I think it's time we went for a little stroll. CUT TO: 159A EXT. MONTANA WOODS - DAY 159A Riker and Geordi are moving through the sun-dappled forest, scanning with tricorders. Starfleet N.D.s are spread out and moving through the forest. Everyone searching for Cochrane. Geordi stops, reacts to his tricorder.
+E: VFX-P
+C: GEORDI
+D: There's a humanoid lifesign ahead ... five hundred meters.
+C: RIKER
+D: Cochrane? Geordi looks up, and his EYES PIXILATE in a strange effect ... 159B GEORDI'S POV 159B A DIGITIZED view of the forest ... which ZOOMS IN on a distant THERMAL signature ... until finally the signature gets large and clear enough to see its a MAN making his way through the trees. As we watch, the man pauses for a moment ... pulls something out of his jacket and takes a swig.
+E: VFX-P
+C: 159C RESUME 159C GEORDI
+D: It's him, all right. Riker signals to the rest of the team, and they all move out in that direction ... 160 OMITTED CUT TO: 161 INT. AIRLOCK Picard, Worf and Hawk are pulling on SPACESUITS. The suits are form-fitting, sleek, no bulky oxygen tanks. The helmets are the same -- they conform to the contours of the skull and face. Worf is handing Picard and Hawk a phaser rifle.
+C: WORF
+D: I have remodulated the pulse emitters. But I don't believe we will get more than one or two shots before the Borg adapt.
+E: re: rifles
+C: PICARD
+D: Then we'll just have to make those shots count. Magnetize. Each of them touches a small control pad on the thigh of their suit. A GREEN LIGHT appears on each of their boots, and we hear a metallic chunk as the boots are magnetized.
+E: to all
+C: PICARD
+D: Ready. Worf and Hawk nod. A Starfleet N.D. goes to a wall panel and activates the control. The Airlock door seen earlier OPENS. Picard turns to Lily.
+C: LILY
+D: Watch your caboose, Dix.
+C: PICARD
+D: I intend to. Picard, Worf and Hawk enter the airlock and an N.D. closes the door behind them. CUT TO: thru OMITTED 165 EXT. SPACE - THE ENTERPRISE The rounded underbelly of the SAUCER SECTION hangs above us -- a vast landscape of metal with the Earth and stars looming beyond. Three tiny FIGURES are climbing the far rise, walking toward us, upside-down. They're backlit by Earth, and cast long shadows across the hull. Our heroes -- Picard, Worf, Hawk. 166 CLOSE ON PICARD, WORF, HAWK We see only their upper-bodies hanging upside-down in the frame. Worf is breathing heavily, getting spacesick.
+E: VFX-I VFX-I
+C: PICARD
+D: Worf ... how are you doing?
+C: WORF
+D: Not good.
+E: fighting nausea
+C: PICARD
+D: Try not to look at the stars. Keep your eyes on the hull. Worf looks down, which is 11 up" to the audience ... 167 WORF 1 S POV {VFX-I) Looking down at his boots on the hull on the Enterprise. His breathing slows ... and the POV TILTS UP, and as it does so we see the EXPANSE OF THE SHIP laid out before us, right-side-up for the first time. It's a dizzying sight. {NOTE: The deflector dish is not visible from this position.) 168 CLOSE ON PICARD, WORF, HAWK Looking down at his boots on the hull on the Enterprise. His breathing slows ... and the POV TILTS UP, and as it does so we see the EXPANSE OF THE SHIP laid out before us, right-side-up for the first time. It's a dizzying sight. {NOTE: The deflector dish is not visible from this position.) 168 CLOSE ON PICARD, WORF, HAWK 168 CLOSE ON PICARD, WORF, HAWK Looking down on Picard, Worf and Hawk standing on the hull.
+E: VFX-I VFX-I VFX-I
+C: PICARD
+D: Let's go. thru 168 ,
+C: BO.
+D: 169 HIGH ANGLE The three men begin walking forward on the massive hull. .. CUT TO: 170 INT. BORG HIVE Data is strapped to the surgical table, two Borg Drones still working on his body. The process of adding flesh to Data has progressed -- his right arm and part of his face are now an amalgam of android circuitry and HUMAN FLESH. The Borg Queen emerges from a dark region of the room, glances over the progress, pleased.
+E: VFX-I VFX-P
+C: DATA
+D: Tell me. Are you using a polymer­ based neuro-relay to transmit the organic nerve impulses to the central processor in my positronic net? One of the Drones briefly removes one of the restraints holding Data's right android arm. The Drone quickly reattaches it. Data takes note of this, his mind working ... but he doesn't stop talking for even a second.
+E: to Queen
+C: DATA
+D: If that is the case, how have you solved the problem of increased signal degradation inherent to organo-synthetic transmission across a
+E: continuing
+C: BORG QUEEN
+D: Do you always talk this much?
+E: cutting him off
+C: DATA
+D: Not always ... but often.
+E: thinks about it
+C: BORG QUEEN
+D: Why do you insist on utilizing this primitive linguistic communication? Your android brain is capable of so much more.
+C: DATA
+D: Have you forgotten? I am endeavoring to become more human.
+C: {CONTINUED)
+D: 81.. 170 CONTINUED:
+C: BORG QUEEN
+D: "Human." We used to be exactly like them. Flawed, weak ... organic. But we evolved to include the synthetic ... and now we use both to attain perfection. Your goal should be the same as ours.
+E: beat
+C: DATA
+D: Believing oneself to be perfect is often a sign of a delusional mind.
+C: BORG QUEEN
+D: Small words from a small being, trying to attack what he doesn't understand.
+C: DATA
+D: I understand that you have no real interest in me ... that your goal is to obtain the encryption codes for the Enterprise computer. over the next speech, the Drone opens a restraint on Data's android arm for a brief instant.
+C: BORG QUEEN
+D: That is one of our goals. But in orderto reach it, I am willing to help you reach yours. Data seizes the moment: He BREAKS off the restraint with his arm and KNOCKS THE BORG aside with android strength. He then quickly hits a control which releases the other restraints. The Borg Drones move to Data, but he's now on his feet. Data GRABS one of them with his android arm, FLINGING the Drone across the room. He KICKS another, sending him flying. The Queen moves to get out of the way, tilts her head in a silent command. Data makes a dash for the door ... but stops when a Borg FORCEFIELD flashes into view, trapping him. He turns to run the other way ... but then a third Drone SLASHES at Data, who instinctively raises his right arm to ward off the blow, and as he does the Borg claw RIPS into the new flesh on Data's forearm. Data's eyes go wide in a mixture of surprise and pain. He gasps, cradles his arm to his body and stops. He's shocked, rooted to the spot. The Borg Drones move in for the kill, but the Queen raises her hand and they all freeze in place.
+C: (CONTINUED}
+D: J.70 CONTINUED: For one timeless moment, Data stands in the middle of the room, holding his bleeding arm, the emotions of shock, wonder and pain moving across his face.
+E: 2
+C: BORG QUEEN
+D: Is it becoming clear to you yet? The Borg Queen moves toward him. Data cradles his arm, rubbing it, caressing it, holding it in a way that he's never treated his body.
+C: BORG QUEEN
+D: Look at yourself. Standing there, cradling the new flesh I've given you. If it means nothing to you ... why protect it?
+C: DATA
+D: I am simply ... imitating the behavior of humans.
+C: BORG QUEEN
+D: You're becoming more human all the time, Data ... now you're learning to lie.
+C: DATA
+D: My programming was not designed to process these sensations ...
+E: wavering
+C: BORG QUEEN
+D: Then tear the skin from your limb, like you would a defective circuit. Go ahead, Data. We won't stop you. Do it. Don't be tempted by flesh. Data hesitates ... reaches at one of the edges of his new skin ... but can't quite bring himself to tear it away. The Queen moves close to him, face to face. She lightly strokes a portion of his cheek which is now human flesh.
+E: beat
+C: BORG QUEEN
+D: Are you familiar with ... physical forms of pleasure? 170 CONTINUED:
+E: 3
+C: DATA
+D: If you are referring to sexuality ... I am fully functional ... and I have been programmed in multiple techniques.
+C: BORG QUEEN
+D: How long has it been since you've used them?
+C: DATA
+D: Eight years, seven months, sixteen days, four minutes, twenty-two
+C: BORG QUEEN
+D: An angle from inside the "spoon" looking toward the sloping dish. Three heads rise into view -- Picard, Worf and Hawk. As they peer over the lip, they all react in shock ... 172 THEIR POV - THE DEFLECTOR DISH The giant, glowing dish is about fifty yards away, and covered with SIX BORG, who are working to modify the dish. A large, multifaceted crystalline structure has been erected in the middle of the dish -- Borg technology. 173 CLOSE ON PICARD'S FACE as he studies the alien structure ... 174 PICARD'S POV a closer shot of the Borg technology. It has 12 isolinear 11 spires, 11 six of which are stationary and pointing straight up. The other six can swing up or down and are currently in the 11 down" position. The Borg are working on the stationary Spires, and we can see that they are wearing special HARNESSES which in turn are holding cylindrical "powert~es." As we watch, Borg #1 takes a "powertube 11 out of Borg #2 1 s harness and then places it on the top of one of the stationary Spires. This action causes the Spire to LIGHT UP. The other Borg are working in the b.g., SCANNING the Dish with their Borg arm devices, ATTACHING thick black hoses to the base of the dish, or PREPARING power tubes for installation. 175 PICARD, WORF, HAWK as before, watching ... all surprised at seeing Borg out here.
+E: interrupting} Far too long. She drops her hand and stares into his eyes ... Data looks confused, struggling . .. She kisses him. Data reacts, surprised ... and then a tranquil look crosses his face as he submits to the inevitable. And we see Data's hand move to the small of the Queen 1 s back. A subtle gesture, but it seems as though Data has made his choice. CUT TO: 171 EXT. SPACE - THE DEFLECTOR ARRAY VFX-I VFX-I VFX-I
+C: WORF
+D: We should bring reinforcements.
+C: PICARD
+D: There's no time. It looks like they're building the beacon right over the particle emitter.
+E: beat
+C: HAWK
+D: If we set our phasers to full power ...
+C: PICARD
+D: No. We can 1 t risk hitting the dish. It's charged with antiprotons ... we'd destroy half the ship. We need another way ... Off Picard's face, his mind working going to handle this? how are they CUT TO: EXT. MONTANA WOODS - DAY Cochrane is climbing up a steep incline, breathing heavily, out of shape and a little drunk. He sees something up ahead, stops with alarm ... 177 COCHRANE'S POV A little hazy. Standing amongst a grouping of trees, a dark figure is watching him -- a Starfleet Engineer. 178 COCHRANE turns to run in another direction ... stops. Another Starfleet Officer! He whirls to run the other way, finds himself face to face with -- 179 RIKER AND GEORDI
+E: thinks VFX-P
+C: GEORDI
+D: Still looking for the bathroom?
+C: COCHRANE
+D: I'm not going back ...
+E: panicked
+C: GEORDI
+D: Doc ... we can't do this without you.
+C: COCHRANE
+D: I don't care! And I don't want a statue! Riker takes a step toward him.
+C: RIKER
+D: Doctor --
+C: COCHRANE
+D: Get away from me! Cochrane runs wildly through the trees. Riker and Geordi exchange a look.
+C: RIKER
+D: We don't have time for this. He pulls out his phaser, aims and FIRES at Cochrane. Cochrane is stunned and falls to the forest floor. Riker and Geordi move to him, look down at his unconscious form with a mixture of sadness and irritation. Riker looks at Geordi.
+C: RIKER
+D: You told him about the statue? CUT TO: 180 EXT. ENTERPRISE HULL - A BORG A mindless drone working on the deflector dish. The Borg pulls a powertube off his neighbor, and as he does he notices something offcamera ... 181 NEW ANGLE - BORG PERSPECTIVE Picard and Worf are walking along the slope of the deflector dish in the b.g. 182 THE BORG takes note of them, but then turns back to his work, ignoring them as he attaches the tube to the top of a stationary Spire. The Spire LIGHTS UP and now we see that there are THREE stationary tubes LIT. 183 HAWK has reached his position at the top of the deflector array. 184 WORF is approaching his own point at the side of the dish, when he stops and starts to get dizzy. He puts a hand to his stomach. 185 PICARD has reached his own point when he notices Worf getting ill.
+C: PICARD
+D: Mister Worf, you're not going to vomit in there. That's an order.
+E: over com
+C: WORF
+D: Aye ... sir.
+E: over com
+C: HAWK
+D: kneels down, pops open a deckplate labeled "MAGLOCK PORTAL ONE," revealing a complex web of Starfleet circuits and controls. 187 OMITTED 188 BORG #1 is attaching a powertube on one of the spires, when Hawk's actions at the Maglock cause him to react. He stops working for a moment and looks at Hawk There's a beat and then Borg #1 attaches the tube, lights the Spire and then leaves the dish and heads for Hawk.
+C: 188A WORF
+D: has just opened his own deckplate - "MA.GLOCK PORTAL THREE," and begins working. 188B BORG #2
+C: 188A 188B
+D: now reacts to Worf's actions by stopping his work and looking at Worf. Borg #2 was in the middle of attaching a black hose to the base of one of the Spires and now he has to deal with Worf. 188C BORG #3
+C: 188D
+D: is raising a "swing arm" spire into the "up" position when he stops and looks over at Picard, who we can see is now also working on his own opened panel. Borg #3 works quickly with Borg #4 to lock the Spire into place. Borg #3 attaches a powertube into the upright swing arm and thus LIGHTS the Spire. He now moves toward Picard. thru OMITTED 192 HAWK working controls. A shadow falls over his face. He looks up to see . .. 193 BORG #1 is almost on top of him. Hawk quickly aims his rifle and FIRES. The Borg is blasted backward, SKIDDING across the hull in a shower of sparks. quickly goes back to work. phaser goes Hawk l88C
+E: NOTE: Borg #4 has a very distinct and unique look. VFX-I
+C: 188D
+D: thru
+C: 193A OMITTED 193A
+D: 194 BORG #4 now turns and sees that Hawk has killed Borg #1. But before he can leave, Borg #4 must now allow Borg #6 to quickly remove a powertube from Borg #4's harness. Borg #6 will use this tube to power another swing arm that is being moved into place. Borg #4 now heads for Hawk. As Borg #4 leaves, ANOTHER STATIONARY SPIRE is LIT in the b.g. 195 WORF Borg #2 is getting closer. Worf reaches into the circuitry and grabs hold of a hydraulic LEVER -- pulls it out and twists it. We hear the rumbling clank and hiss of a large clamp depressurizing somewhere deep within the ship.
+E: who was helping Borg #3 VFX-I
+C: WORF
+D: The magnetic constrictors are disengaged! Worf stands and FIRES at Borg #2. A Borg SHIELD comes up. His weapon is useless.
+E: to com
+C: WORF
+D: They've adapted! He lets go of his rifle and it floats in space. He backs away from the approaching Borg #2, giving them some room to fight. 196 PICARD working frantically. Borg #3 is almost on top of him. Suspense. What now? He pulls up his phaser rifle, aims at the section of hull between him and the Borg ... then FIRES, blowing a large HOLE in the deckplate. The explosion sets off a huge, powerful JET of GASEOUS VAPOR which vents out into space like a firehose. It Blows Borg #3 out into SPACE. 197 THE DEFLECTOR DISH The three remaining Borg are still working. Another stationary "spire" lights up, and it's clear that once they are all .lit the beacon will be active. It's a race against time. At the moment, SIX stationary Spires and TWO swing arms are ACTIVE. 197A BORG #5 197A now stops working on the Dish in reaction to Borg #3 being blown into space. Borg #5 now heads for Picard.
+E:  to corn VFX-I
+C: 197B OMITTED 197B
+D: 198 WORF stops moving when he feels he has enough room to make a stand.
+E: VFX-I
+C: 198A PICARD 19BA
+D: is working. He glances up in time to see Borg #4 is almost on top of Hawk. But Hawk 1 s back is turned and he doesn't see the Borg coming!
+E: VFX-I
+C: PICARD
+D: Hawk! - The distant figure of Hawk turns, but it's too late. The Borg starts attacking him, pulls him down out of view. Picard reacts -- there's nothing he can do.
+C: 198B WORF 198B
+D: watches defiantly as Borg #2 reaches out for him, but just before the Borg hand grabs his suit ... Worf whips out a Bat'leth sword which was hidden on his back. He SLASHES at the Borg's forearm, SEVERS it in a shower of SPARKS and floating blood. The forearm begins to float away, but it is tethered to his body by a piece of tubing. The Borg LUNGES at him. Worf spins away, but as he does, the Borg TEARS a piece of Worf's suit on his leg. OXYGEN and ATMOSPHERE start HISSING out his spacesuit. Worf PLUNGES the sword into the Borg's neck. The Borg starts convulsing with a terrible cybernetic shriek ... and dies. The Borgs feet remain magnetized to the hull, -and his body drifts ghoulishly in the weightless environment. 199 CLOSE ON WORF as his breathing becomes labored, barely conscious as his suit vents air. 199 CONTINUED: 200 OMITTED
+C: COMPUTER VOICE
+D: Warning: decompression in forty­ five seconds. 200A BORG #5 200A is making its way around the spewing gas toward Picard. There are now only THREE Spires left to go before they will all be lit.
+E: in helmet One of the swing arms was raised into position and lit o.c. during the previous sequence.
+C: 200B PICARD 200B
+D: grabs hold of a . hydraulic lever, pulls it out and twists it. A loud clang and hiss is heard somewhere deep in the ship. 200C CLOSE ON MAGLOCK MONITOR 200C A small screen down deep in the controls is FLASHING: 11 CYCLE INCOMPLETE." 200D PICARD 2000 glances up-- sees that Worf is standing adrift, feet still attached to the hull, nearly unconscious, his suit spewing vapor. It looks like Worf is a goner, and there's nothing Picard can do. Picard looks up where Hawk was stationed ... 201 PICARD'S POV The portal where Hawk was working is still open and Borg #4 reappears from over the lip of the hull and heads back for the Dish. But there's no sign of Hawk. 202 CLOSE ON DEFLECTOR DISH ONE of the three final remaining isolinear spires comes alive. Time is running out! 203 PICARD turns toward Borg #5, which has now walked around the venting gas and is coming up toward him. Picard takes a couple of steps backward, backs up against the slope of the array. He's trapped. There's no way for him to get past the Borg. 204 BORG #5 raises an arm and we see one of the whirring, saw-like devices on the end -- certain death for Picard. 205 PICARD looking around wildly for some way past the Borg. He suddenly gets an idea ... reaches down and hits the magnetic control on his thigh. The green light goes out and we hear the sound of his boots being demagnetized. For a terrifying instant, he begins lifting off into space!
+E: VFX-I
+C: NEW ANGLE
+D: As Picard KICKS the side of the wall with full force and LAUNCHES HIMSELF toward the far side of the Deflector. 207 WIDER As Picard hurtles through space, twisting and _ turning out of control as he goes over the head of the Borg. 208 PICARD'S POV soaring through space -- and heading directly for the spewing GAS from the hole in the hull! We FLY right through the vapor. 209 WIDER 209 ,, Picard spinning wildly through the air toward the other side of the dish ... 210 CLOSE ANGLE - TOP OF THE DEFLECTOR ARRAY As Picard CRASHES into the hull. He scrambles for a handhold, then MAGNETIZES his boots again. 210 CONTINUED: Picard reaches down into the open access panel where Hawk was working and activates a final series of controls ... grabs the hydraulic LEVER ... pulls and twists. We hear the clank and hiss of clamps being released. 211 THE DEFLECTOR DISH Around the perimeter of the dish, we see a series of EXPLOSIVE BOLTS start to BLOW sequentially. The Borg on the dish look around to see what's happening. 212 WIDER As the ENTIRE DEFLECTOR DISH begins separating from the ship! After a moment, it stops four feet above, still tethered to the -~hip by a pillar of power cables. The two Borg keep working, faster now, ANOTHER SPIRE LIGHTS UP. Only one more left! 213 PICARD reaches for Hawks abandoned rifle, preparing to cut the dish loose. But behind Picard we see Hawk rise into view. Picard catches the movement out of the corner of his eye and turns ... 214 CLOSE ON HAWK'S FACEPLATE which is obscured by a reflection of Earth. As he turns, the reflection CLEARS to reveal the now partially Borgified face of Hawk. He LUNGES at Picard and the two men begin struggling on the hull. 215 PICARD struggling against the superior strength of Borg-Hawk, who forces Picard down on his back. 216 BORG #5 sees that Picard is being taken care of by Borg-Hawk, and so Borg #5 tries to climb up the power cables to reach the Dish and help complete the work. 217 PICARD Hawk SMASHES his fist into Picard 1 s faceplate. The glass starts to CRACK under the blow. 218 HAWK raises his arm for one final punch, then a PHASER BLAST comes in from o.c. and blasts into his CHEST, blowing him backward, tumbling off into the VOID of space. 219 WORF who is on his feet and has just fired his weapon at Hawk. He's all right! Just below his knee, a makeshift tourniquet has wrapped tightly around his leg, effectively stanching the flow of gas from his suit. A Borg hand dangles into view, and we realize the tourniquet has been made from the severed arm's long tubing. It's a peculiar sight. 220 CLOSE ON THE DEFLECTOR DISH One of the Borg on the beacon finally completes his work and the final Spire LIGHTS UP. Suddenly all twelve Spires begin to go ON and OFF in SEQUENCE. This pattern of lights goes AROUND and AROUND all twelve Spires. At the same time, an identical pattern of lights begins to flash the SAME SEQUENCE underneath the floating dish. Both sets of light continue to flash faster and faster ... 221 PICARD Aims his rifle and FIRES at the tether ... 222 THE POWER CABLES holding the dish to the ship are severed in a shower of sparks ... 223 THE DISH starts to FLOAT AWAY from the ship! Two Borg are still on the Dish and Borg #5 is still holding onto one of the dangling cables. 224 CLOSER ANGLE - THE BORG ON THE DISH stop working as all the lights on the floating dish GO OUT. The beacon is powerless. 225 PICARD reacts. 226 WIDE ANGLE The dish floating away from the ship -- a good fifty feet away. 227 WORF raises his rifle and takes aim. He FIRES.
+E: VFX-I VFX-I VFX-I VFX-I VFX-I VFX-1 VFX-I VFX-I VFX-I VFX-I VFX-I VFX-I VFX-I
+C: WORF
+D: Assimilate this. 228 WIDER as the Deflector dish EXPLODES in a titanic BLAST of fire and debris. 229 WORF smiles in victory, looks at Picard. 230 PICARD relieved, smiles in return. They did it. 231 HIGH ANGLE - LOOKING DOWN As Picard and Worf head off in the direction they came. It's a moment of triumph. 232 INT. BORG HIVE Three Borg Drones are huddled over Data, working on him but we can't see exactly what they're doing. The Borg Queen steps up to the unseen Data, watching the work with a grim look.
+E: VFX-I VFX-1
+C: BORG QUEEN
+D: We 1 ve had a change of plans, Data. CUT TO: 232A EXT. MONTANA - MISSILE SILO - DAY As before.
+C: 232A
+D: 232B INT. PHOENIX COCKPIT 232B Three astronaut couches lying on their backs, facing a control panel and a row of windows. There are switches, dials, read-outs all around the cockpit -- an extremely complex set-up. Cochrane is sitting in the pilot's seat, running over a few checks on the controls in front of him. Through the open door we can see a Starfleet Security Guard watching his every move. Cochrane glances at him, gives him a fake smile. He looks beaten, resigned to his fate but not happy about it. After a moment Riker climbs into the cockpit.
+C: RIKER
+D: We've only got an hour to go, Doc -­ how're you feeling?
+C: COCHRANE
+D: I have a four alarm hangover ... either from the whiskey, or your laser beam, or both. But I'm ready to make history! Riker can't help but smile -- Cochrane is a wacky but likeable guy ... TROI Is COM VOICE Troi to Commander Riker.
+E: fake cheeriness
+C: RIKER
+D: Riker here. 232C INT. MISSILE SILO - CONTROL ROOM - DAY INTERCUT: Troi and various N.D.s getting ready for the flight.
+C: TROI
+D: We're ready to open the launch door.
+C: 232C
+D: 232D INT. PHOENIX COCKPIT Riker looks at Cochrane, who shrugs.
+C: RIKER
+D: Go ahead. 232E INT. MISSILE SILO - CONTROL ROOM - DAY Troi works a control. 232F INT. PHOENIX COCKPIT The cockpit RUMBLES as the large concrete silo door SLIDES OPEN. Sunlight streams in. Riker slides into one of the couches and looks out. The crystal blue Montana sky can be seen far above them. The moon is visible -- a half-crescent hanging in the morning sky. Riker eyes it for a moment.
+E: to com VFX-P
+C: RIKER
+D: Look at that.
+E: re: moon
+C: COCHRANE
+D: What ... you don't have a moon in the 24th century?
+C: RIKER
+D: Sure we do ... it just looks a lot different. Fifty million people live on the moon in my time ... you can see Tycho City, New Berlin, even Lake Armstrong on a day like this. Cochrane can't help but look up at the moon, trying to imagine the image Riker has described.
+E: off his look
+C: COCHRANE
+D: Hmm.
+C: RIKER
+D: And you know, Doctor ...
+C: COCHRANE
+D: (quickly} Please ... don't tell me it's all thanks to me. I 1 ve heard enough about the great Zefram Cochrane. Cochrane continues to work on the navigational computer.
+C: 232D 232E 232F 232F CONTINUED: COCHRANE
+D: I don't know who wrote your history books ... or where you got your information ... but you people have some pretty funny ideas about me. You all look at me like I'm some kind of saint, or visionary or something. I don't Doc ... And now
+E: beat
+C: RIKER
+D: think you're a saint, but you did have a vision. we"re sitting in it. Cochrane looks at him.
+C: COCHRANE
+D: You know what my vision is? Dollar signs. Money. There's still an economy out there, you know. There may not be any gold left in Fort Knox, but there's tons of cash overseas. Do you know how much the Indonesian Space Agency would pay for a faster-than­ light rocket?
+C: RIKER
+D: I can't imagine ...
+C: COCHRANE
+D: You're damn right you can't. But I can. I didn't build this ship to usher in a new era for humanity. You think I want to go to the stars? I don't even like to fly! I take trains! {beat) I built this ship so I could retire to some tropical island filled with naked women. That's Zefrarn Cochrane ... that's his vision. He goes back to punching numbers into the computer.
+C: COCHRANE
+D: This other guy you keep talking about ... this historical figure ... I haven't seen him since the war. A long beat. Cochrane looks uncomfortable, vaguely angry. Riker thinks for a moment.
+C: 232F
+D: 232F CONTINUED: { 2)
+C: RIKER
+D: Someone once said ... "Don't try to be a great man ... just be a man. Let history make its own judgements. 11
+C: COCHRANE
+D: Rhetorical nonsense ...
+C: RIKER
+D: You said it. About ten years from now. Cochrane looks at him in surprise, not sure what to say. Riker smiles, taps the clipboard that Cochrane's holding.
+C: RIKER
+D: Fifty-eight minutes, Doc. Better get back to that checklist. Riker crawls out -of the cockpit, leaving a still troubled but thoughtful Cochrane. 233 INT. BRIDGE Lily is standing outside the emergency airlock with Beverly. The airlock door OPENS and Picard and Worf ENTER. They are pulling on their ur.~forms.
+C: PICARD
+D: We stopped them ... but we lost Hawk. Worf looks a little unsteady.
+C: BEVERLY
+D: Worf, are you feeling all right?
+E: to Worf
+C: WORF
+D: I'm fine. A light beat, and then we hear a voice speak urgently:
+E: defensively, answering a bit too quickly
+C: SECURITY OFFICER'S VOICE
+D: They're on the move again! Everyone turns in time to see a Security Officer crawling out of a hatch.
+C: 232F
+D: 233 CONTINUED:
+C: SECURITY OFFICER
+D: The Borg just overran three of our defense checkpoints ... they've taken Decks Five and Six. They've adapted to every modulation of our weapons. It's like we're shooting blanks.
+C: PICARD
+D: We'll have to start working on another way to modify our phasers so they're more effective. In the meantime, tell your men to stand their ground. Fight hand-to­ hand, if they have to. The Security officer looks grim, but nods.
+E: beat
+C: SECURITY OFFICER
+D: Aye, sir. He turns to go.
+C: WORF
+D: Wait. Captain ... Our weapons are useless. We must activate the auto-destruct sequence, and use the escape pods to evacuate the ship.
+E: to Picard
+C: PICARD
+D: No.
+E: instantly
+C: BEVERLY
+D: Jean Luc, If we destroy the ship, we'll destroy the Borg.
+C: PICARD
+D: We are going to stay and fight.
+C: WORF
+D: We have lost the Enterprise. We should not sacrifice more --
+C: PICARD
+D: We have not lost the Enterprise, and we are not going to lose the Enterprise. Not to the Borg, and not while I'm in command. You have your orders. 233 CONTINUED: The Officer nods and walks off the Bridge.
+E: to Worf, sharp to Security officer 2
+C: WORF
+D: Captain, I must object to this course of--
+C: PICARD
+D: Your objection has been noted. Worf struggles to control his temper, tries to re­ establish the personal bond he 1 s developed with this man over the years.
+E: voice rising
+C: WORF
+D: With all due respect, sir, I believe you are allowing your ... "personal experience" with the Borg to influence your judgement. Lily watches, disturbed, as Picard's rage mounts. Picard takes a quick step toward Worf, and for a moment it looks like Picard might actually hit him, a terrible fury in his face. But he doesn't. He holds his voice down into a tight, cold tone.
+E: quieter
+C: PICARD
+D: You're afraid ... you want to destroy the ship and run away. You coward. Worf stiffens. And the tension level between the two men rises. Beverly tries to diffuse the situation.
+C: BEVERLY
+D: Jean-Luc ... But he cuts her off with a quick gesture of his hand. Worf looks into the eyes of the Captain he's respected for so long.
+C: WORF
+D: If you were any other man ... I would kill you where you stand.
+C: PICARD
+D: Get off my Bridge. A long, tense beat ... then Worf backs down. He turns ... walks off the Bridge, climbs down the hatch without a look back. The Bridge is utterly silent as he leaves. Picard looks around at the shocked faces of the crew for a moment ... then turns and heads for the Observation Lounge. The doors slide shut. Lily's the first one to break the silence.
+C: {CONTINUED)
+D: 233 CONTINUED:
+E: 3
+C: LILY
+D: What do we do now?
+C: BEVERLY
+D: We carry out his orders. Kaplan, Dyson -- start working on a way to modify the --
+E: to crew
+C: LILY
+D: Wait a minute ... this is stupid. If we can get off this ship, and blow it up, we should do it.
+C: BEVERLY
+D: Once the Captain's made up his mind, the discussion"s over. Beverly signals the N.D.s and they move into action. Lily gestures impatiently, then she 1 s off toward the Observation Loun~e.
+C: BEVERLY
+D: Lily -- Too late. Lily's walking into ... thru OMITTED thru 242 INT. OBSERVATION LOUNGE Picard is standing at the table . He's just begun to disassemble a phaser rifle, and an engineering kit sits on the table. He looks up sharply as Lily storms in. These are two people on a collision course.
+C: LILY
+D: You son-of-a-bitch!
+C: PICARD
+D: This isn't really the time --
+C: LILY
+D: Look, I don't know jack about the 24th century, but I do know that everyone out there thinks that staying here and fighting the Borg is suicide. They're just too afraid to come in here and say it.
+C: PICARD
+D: The crew is accustomed to following my orders. 242 CONTINUED;
+C: LILY
+D: They 1 re probably accustomed to your orders making sense.
+C: PICARD
+D: None of them understand the Borg as I do. No one does. No one can.
+C: LILY
+D: What's that supposed to mean? He gives her a chilling look, which freezes her for a moment.
+C: PICARD
+D: Six years ago they assimilated me into their Collective ... had their cybernetic devices implanted throughout my body. I was linked to the hive mind ... every trace of individuality erased. I was one of them. He lets that hang in the air for a moment. Picard 1 s attitude is challenging, almost daring her to argue with him.
+C: PICARD
+D: so as you can imagine, my dear, I have a somewhat ... unique perspective on the Borg, and I know how to fight them. Now, if you'll excuse me, I have work to do. He returns to his work on the table, pops open another panel on the rifle, starts tinkering with circuits. But Lily doesn't move. She watches him for a moment, struck by a sudden realization. She smiles ruefully.
+E: beat
+C: LILY
+D: I am such an idiot. She smiles, sits down in one of the chairs and almost laughs.
+C: LILY
+D: It's so simple ... The Borg hurt you and now you're going to hurt them back. Her comment hits a nerve but he 1 s not going to let her see that. He gives her a cold smile. 242 CONTINUED:
+E: off his look 2
+C: PICARD
+D: In my century we don't succumb to ... revenge. We have a more evolved sensibility. She eyes him confident that she's right ... and goes on the attack.
+C: LILY
+D: Bullshit. I saw the look on your face when you shot those Borg on the Holodeck. You were almost enjoying it.
+E: beat
+C: PICARD
+D: How dare you ...
+C: LILY
+D: Come ori, Captain, admit it. You're not the first person to get a thrill out of murdering someone. I see it all the time. Picard is starting to bristle -- he's offended at the very notion of what she's saying.
+E: .needling
+C: PICARD
+D: Get out.
+E: tight
+C: LILY
+D: Or what? You'll kill me? Like you killed Ensign Lynch? He glares at her. Their voices start rising as the argument heats up.
+C: PICARD
+D: There was no way to save him ...
+C: LILY
+D: You didn't even try. Where was that "evolved sensibility" then? A poisonous silence.
+C: LILY
+D: {pressing) You're as possessed now as you were when the Borg possessed you.
+C: PICARD
+D: I don't have time for this ...
+N: 242 CONTINUED: ( 3)
+C: LILY
+D: Oh, hey, sorry. Didn't mean to interrupt your little quest. Captain Ahab has to go hunt his whale.
+C: PICARD
+D: What?
+C: LILY
+D: Don't you have books in the 24th century?
+C: PICARD
+D: This is not about revenge!
+C: LILY PICARD
+D: This is about saving the future of humanity!
+C: LILY
+D: Then blow up this ship!
+C: PICARD NO!
+D: As he says this, Picard hurls the phaser rifle across the room and it SMASHES into the glass case, spilling artifacts everywhere. It's a moment of pure fury and rage, unlike any we've seen from our Captain.
+C: PICARD
+D: I will not sacrifice the Enterprise. We've made too many compromises already, too many retreats! They invade our space and we fall back -- they assimilate entire worlds and we fall back! Not again! The line must be drawn here -- this far and no further! I will make them pay for what they've done! An electrifying moment as both Lily and Picard realize what he's just said ... and that everything she's been saying is true. A long silent beat. Lily looks over at the shattered remains of the case ... a couple of broken Enterprise models on the deck.
+C: LILY
+D: You broke your ships. 242 CONTINUED: ( 4} Picard looks down ... takes a few steps toward the window ... looks out at the stars.
+E: quiet
+C: LILY
+D: See you around, Ahab. Lily turns to go ... but before she reaches the door, Picard's quiet voice stops her.
+C: PICARD
+D: "He piled upon the whale's white hump the sum of all the rage and hate felt by his whole race ... if his chest had been a cannon, he would've shot his heart upon it." Lily stops, puzzled. Picard turns to her with an ironic smile.
+C: LILY
+D: What? -
+C: PICARD
+D: Moby Dick.
+C: LILY
+D: Actually ... I never read it. She gives him an embarrassed smile. It lightens the moment just enough.
+C: PICARD
+D: Ahab spent years hunting the white whale that crippled him ... a guest for vengeance. And in the end, the whale destroyed him ... and his ship.
+C: LILY
+D: I guess he didn't know when to quit. He holds her eyes for a long moment ... then heads out of the Observation Lounge. Lily follows him. 243 INT. BRIDGE - CONTINUOUS Picard ENTERS. Beverly and the others turn to him. A quiet beat as everyone sees what he's going to do.
+C: PICARD
+D: Prepare to evacuate the Enterprise. CUT TO; 244 INT. MISSILE SILO - SERIES OF SHOTS Quick cuts: -- Riker, Cochrane and Geordi strapping themselves into the Phoenix cockpit. 245 INT. CONTROL ROOM -- In the Control Room, Troi and a couple of Starfleet N.D.s put on 21st century headsets to communicate with the Phoenix cockpit. -- The BLAST DOOR begins closing. 246 INT. PHOENIX COCKPIT -- Cochrane's hands flipping switches, working the controls. OVER THESE SHOTS _:
+C: COCHRANE'S VOICE
+D: ATR set ting ...
+C: GEORDI'S VOICE
+D: Active.
+C: COCHRANE'S VOICE
+D: Main bus ... RIKER 1 S VOICE Ready.
+C: COCHRANE1 S VOICE
+D: Initiate pre-ignition sequence. 247 NEW ANGLE -- The Phoenix ENGINES at the base of the ship begin spewing nitrogen gas. 248 INT. ENTERPRISE BRIDGE Picard in the Captain 1 s chair. Lily and Beverly standing nearby. Worf climbs up through the hatch.
+E: VFX-I
+C: PICARD
+D: Computer -- this is Captain Jean­ Luc Picard. Begin auto-destruct sequence. Authorization Picard forty-seven-alpha-tango.
+C: J.07.
+D: 249 INT. EVACUATION CORRIDOR Starfleet Crewmembers opening the hatches, checking the escape pods, crawling inside.
+C: BEVERLY'S VOICE
+D: Computer, this is Commander Beverly Crusher. Confirm auto­ destruct sequence. Authorization Crusher twenty-two-beta-charlie. An N.D. is working a control panel. A monitor says "ENTER DESTINATION COORDINATES." The N.D. types in a series of numbers ... then the monitor screen shows a MAP of EARTH and the graphic ZOOMS IN on a tiny ISLAND in the South Pacific. "COORDINATES ACCEPTED. LANDING TARGET: GRAVETT ISLAND. AREA: 10 SQUARE KILOMETERS. POPULATION - 0. 11
+E: over the above
+C: WORF'S VOICE
+D: This is Lieutenant Commander Worf. Confirm auto-destruct sequence. Authorization Worf three-seven­ gamma-echo. INT . BRIDGE As before . Picard, Beverly, Lilly, and Worf.
+E: over the above
+C: COMPUTER VOICE
+D: Command authorizations accepted. Awaiting final code to begin countdown.
+C: PICARD
+D: This is Captain Picard: destruct sequence A-one. Fifteen minutes. Silent countdown. Enable.
+E: beat
+C: COMPUTER VOICE
+D: Self-destruct in fourteen minutes, fifty-five seconds. There will be no further audio warnings. Picard, Worf and Beverly exchange a look. Picard stands from his chair and takes a long, last look around his Bridge.
+C: BEVERLY
+D: So much for the Enterprise-E.
+C: PICARD
+D: I barely knew her. 250 CONTINUED:
+C: BEVERLY
+D: Think they'll build another?
+C: PICARD
+D: Plenty of letters left in the alphabet. Beverly, Worf and the other officers begin to crawl out through a Jefferies Tube hatch.
+C: PICARD
+D: Mister Worf? Worf stops, turns to him.
+C: PICARD
+D: I regret some of the things I said to you earlier.
+C: WORF
+D: ,with humor) Some? - Picard smiles back, then holds out his hand. Worf shakes it.
+C: PICARD
+D: In fact I think ... you're the bravest man I've ever known.
+C: WORF
+D: Thank you, Sir.
+C: PICARD
+D: {beat) See you on Gravett Island. Worf EXITS, leaving Picard alone on the Bridge. He takes a moment to walk around the deserted Bridge of his ship one last time ... and then Picard hears the WHISPER of BORG VOICES in his head again. He struggles to push it away ... trying not to be overwhelmed by the experience ... and then a single voice cuts through the cacophony.
+C: DATA'S VOICE
+D: Captain. Picard freezes. The voices are gone.
+C: PICARD
+D: Data ... Hold a moment on Picard's growing realization ... 251 INT. MISSILE SILO - CONTROL ROOM Troi is watching a countdown timer, which is approaching the final 30 seconds.
+C: TROI
+D: Control to Phoenix -- final launch sequence checks are complete. You"re at the thirty second mark. Good luck.
+E: to com
+C: RIKER'S COM VOICE
+D: Thanks, Deena. 252 INT. PHOENIX COCKPIT Riker, Geordi and Cochrane making final adjustments to the controls.
+C: RIKER
+D: Everyone ready to make a little history?
+C: GEORDI
+D: Always am.
+C: COCHRANE
+D: I think I'm forgetting something ...
+C: RIKER
+D: What?
+C: COCHRANE
+D: I'm not sure. It's probably nothing ... TROI Is COM VOICE Fifteen seconds ... begin ignition sequence. A low RUMBLE begins and the ship starts to tremble slightly.
+C: COCHRANE
+D: Oh God ... now I remember. Where is it? He starts searching his pockets frantically, looking for something. Troi's countdown continues over the following:
+C: GEORDI
+D: What ... what? l.10.
+C: I I
+D: 252 CONTINUED:
+C: TROI'S COM VOICE
+D: Ten ... nine ... eight ...
+C: COCHRANE
+D: We can't lift-off without it ...
+C: RIKER
+D: Okay, Geordi, let's abort
+C: TROI'S COM VOICE
+D: Seven ... six ... five ...
+C: COCHRANE
+D: No, no wait! I found it! He whips out an optical disk, quickly slips it into a slot on the control panel and hits a switch.
+C: TROI'S VOICE
+D: Four ... three ... two ... one. And as the ROAR of the ENGINES fill the cabin, we hear the ROCK AND ROLL TUNE heard earlier blare through the cockpit. Riker and Geordi exchange a look. Cochrane smiles.
+C: COCHRANE
+D: Let's rock and roll. 253 INT. MISSILE SILO - PHOENIX ENGINES As they IGNITE and start pouring out sheets of FLAME. 254 INT. MISSILE SILO - CONTROL ROOM - DAY Troi reacts to the sound of the rock music blaring in her headset. 255 INT. PHOENIX COCKPIT which is shuddering and shaking ... Rock and Roll music blaring. EXT. MONTANA - MISSILE SILO - WIDE SHOT - DAY as the Phoenix is LAUNCHED up into the sky, riding a pillar of fire and smoke. We hear the Rock and Roll music, which is now part of the SCORE. 257 INT. PHOENIX COCKPIT Ship shaking violently. Cochrane white-knuckling it, frightened -- his first flight. But Riker and Geordi look perfectly calm -- just another day in the office. 258 INT. MISSILE SILO - CONTROL ROOM - DAY Troi walking along the row of monitors and consoles ... checking on the flight. 259 EXT. MISSILE COMPLEX - TOWN - DAY A few townsfolk have stopped what they are doing, and are looking up at the sky, shielding their eyes against the sun. 260 INT. PHOENIX COCKPIT _ RIKER Can you turn it down a little? Cochrane hits a control, lowers the rock music. The g­ forces push them back into their seats.
+E: VFX-I VFX-I VFX-I re: music
+C: GEORDI
+D: There's a red light on the second intake valve.
+C: COCHRANE
+D: Ignore it. We'll be fine. Prepare for first stage shut-down and separation on my mark ... Three ... two ... one ... mark! EXT. SPACE - THE PHOENIX The first stage booster separates from the ship and DROPS AWAY, leaving three-quarters of the ship in space. After a beat, two fifty-foot long sheets of metal fall away from the ship on either side of the Phoenix, revealing primitive WARP NACELLES tucked inside the craft. The warp nacelles then begin slowly extending themselves outward on either side -- the basic design of the nacelles should be familiar to anyone who's ever seen STAR TREK. 262 INT. PHOENIX COCKPIT The ship stops trembling, and all is quiet.
+E: beat beat VFX-I
+C: RIKER
+D: All right, let's bring the warp core on-line. Cochrane starts to work, but then glances out the window and stops and stares, a look of wonder on his face. Riker notices the look and nudges Geordi, who also sees the look on cochrane's face. They both smile and give Cochrane a moment. 263 NEW ANGLE As Cochrane gazes out at the glorious sight of EARTH far below.
+E: checks controls VFX-I
+C: COCHRANE
+D: Wow.
+E: overwhelmed
+C: GEORDI
+D: You ain't seen nothing yet. 264 INT. EVACUATION CORRIDOR CUT TO: As seen before. The hatches are closing along the corridor. There are only two hatches still open. Picard and Lily are the last two left in the corridor. He hands her a PADD.
+C: PICARD
+D: If you see Commander Riker or any of my crew ... give them this.
+C: LILY
+D: What is it?
+C: PICARD
+D: Orders to find a quiet corner of North America ... and stay out of history's way. An awkward beat. This is goodbye.
+C: LILY
+D: Well ... good luck.
+C: PICARD
+D: To both of us.
+C: {CONTINUED)
+D: Picard smiles. She holds his eyes for a moment ... sees right through him. Beat.
+C: LILY
+D: You're not leaving, are you?
+C: PICARD
+D: When I was held captive aboard the Borg ship ... my crew risked everything to save me. There is someone who 1 s still on this ship. I owe him the same. Lily looks at him and finally nods.
+C: LILY
+D: Go find your friend. A long moment and then she goes into the escape pod. Picard closes the hatch behind her. A final look between them, then Picard closes the hatch behind her and goes to a master control panel on the wall. 265 EXT. SPACE - THE ENTERPRISE As FIFTEEN ESCAPE PODS are EJECTED from the side of the saucer. As soon as the pods clear the ship, their own engines IGNITE and they start rocketing down toward the distant Earth ... 266 INT. ENTERPRISE - CORRIDOR An empty, normal corridor. Picard is walking purposely through the empty ship. He stops outside a hatch ... pauses . .. gathers himself ... then he hits a control and the hatch slides aside to reveal ... INT. BORGIFIED CORRIDOR Dark, moody, dank. Picard steps through and walks down one of the creepy Borgified hallways seen earlier, And as he does, he begins to hear the distant whispering VOICES of the Borg Collective in his head. He frowns, tries to shake it off ... but this time the whispers won't go away. He continues to hear them as he moves down the corridor ... passes an intersection ... TWO BORG suddenly walk out and block his path. Picard stops. A tense beat as he faces them. 267 CONTINUED: But the Borg make no aggressive move. Finally, they part and step aside, allowing him to pass. Picard continues walking ... and the whispering voices start to get a little louder ... 268 INT. DECK SIXTEEN - CORRIDOR Just outside Main Engineering, the scene of the earlier firefight. Picard hesitates. The Borg Voices in his head have now grown to a loud cacophony -- an incoherent babble, almost overwhelming Picard as he prepares himself to go through those doors. Suddenly the doors to Engineering slide open and simultaneously the VOICES STOP. Picard pauses, looks back down the way he came, as if reconsidering his decision ... then steels himself and walks inside ... 269 INT. BORG HIVE Picard ENTERS. The Borg Queen is nowhere in sight. But dozens of Borg Drones line the walls in their respective alcoves. Picard cautiously makes his way into the vast chamber. He looks around. Again, the Borg Drones pay no attention to him. Movement behind him. The Borg Queen. Picard freezes, a chill running up his spine. He slowly turns, sees her and takes a step back in surprise.
+E: VFX-I
+C: BORG QUEEN
+D: What's wrong, Locutus ... don't you recognize me? 270 MEMORY FLASH The Borg Queen on a Borg ship, leaning over Picard .
+E: Locutus
+C: BORG QUEEN
+D: Organic minds are such fragile things. How could you forget me so quickly? 271 MEMORY FLASH The Queen and Locutus face-to-face ...
+C: BORG QUEEN
+D: We were very close, you and I. 272 MEMORY FLASH The Queen caressing Locutus. Locutus doesn't react. 273 PICARD staggers back, as though the memories are physically assaulting him. He HEARS the voices of the collective again, and now the Queen smiles slightly in satisfaction.
+C: BORG QUEEN
+D: You can still hear our song ... He stares at the Queen with a mixture of shock, realization, anger ... his memories finally falling into place.
+C: PICARD
+D: Yes ... I remember you. You were there the entire time ... But ... -that ship and all the Borg on it were destroyed ...
+E: beat
+C: BORG QUEEN
+D: You think in such three­ dimensional terms. How small you've become. Data understands me ... don't you, Data?
+E: beat
+C: DATA (VFX-P}
+D: who has been in one of the Borg alcoves lining the walls the entire time, suddenly steps forward. He is nearly human. Gold eyes now blue, hair tousled, most of his face real flesh. Pinocchio is almost a real boy.
+C: PICARD
+D: What have you done to him?
+C: BORG QUEEN
+D: Given him what he's always wanted. Flesh and blood. We're not sure what's going on inside Data's head -­ how much he's changed.
+C: PICARD
+D: Let him go. He's not the one you want.
+C: BORG QUEEN
+D: Are you offering yourself to us? ll.6. 274 CONTINUED: Picard bores in on her, the memories fueling his anger. And at the same time, he's gaining an awareness into his experience as Locutus, putting together the pieces of a puzzle, and finding the chink in the Borg Queen's armor. Picard at his most insightful and commanding.
+C: PICARD
+D: Offering myself ... that's it ... I remember now. It wasn't enough to assimilate me ... you wanted me to ... give myself freely to the Borg. . . to you.
+C: BORG QUEEN
+D: You flatter yourself. I have overseen the assimilation of countless millions. You were no different.
+C: PICARD
+D: You"re _lying. You wanted more than just another Borg Drone ... a human being with a mind of his own who could bridge the gulf between the Borg and humanity. You wanted a counterpart. But I resisted ... I fought you. The Borg Queen eyes Picard for a long moment.
+C: BORG QUEEN
+D: You can't begin to imagine the life you denied yourself.
+C: PICARD
+D: It's not too late. Locutus can still be with you, just as you wanted him. An equal. Let Data go, and I will take my place at your side ... willingly ... without resistance. The Queen moves closer ... coming right up to his face.
+E: beat
+C: BORG QUEEN
+D: Such a noble creature ... a quality we sometimes lack. We will add your distinctiveness to our own. Welcome home, Locutus. She reaches out a hand, lightly touches his cheek. Picard tries not to flinch. She pulls away, looks over at Data. The forcefield surrounding him FLASHES OFF. 274 CONTINUED:
+E: beat 2
+C: BORG QUEEN
+D: You're free to go, Data. But Data doesn't move.
+C: PICARD
+D: Data, gQ-
+C: DATA
+D: No. I do not wish to go. Picard reacts in surprise.
+C: BORG QUEEN
+D: As you can see, I've already found an equal. Data ... deactivate the self­ destruct sequence. Picard reacts - -- how did she know that? He takes a step toward Data but is immediately grabbed and held back by two Drones.
+E: beat
+C: PICARD
+D: Data! Don't do it! Listen to me! Data quickly works the computer console for a moment.
+C: COMPUTER VOICE
+D: Auto-destruct sequence deactivated. The Queen smiles at Picard in victory. Picard, whose entire plan has been defeated, thinks rapidly but can 1 t find a way out.
+C: BORG QUEEN
+D: Now ... enter the encryption codes and give me computer control. Data works. Again, the Queen stares into Picard's eyes, as if pointing out to him just how completely he's been beaten. All of the consoles in Engineering suddenly COME TO LIFE. The warp core starts pulsing again. Data moves to her side, as if it 1 s the most natural thing in the world. Picard is stunned by the betrayal.
+C: DATA
+D: He will make an excellent Drone. The two Drones start to drag Picard off ... CUT TO: 275 INT. PHOENIX COCKPIT As before. Riker, Cochrane, Geordi at the controls.
+E: to Queen, re: Picard
+C: GEORDI
+D: Plasma injectors are on-line ... everything's looking good. I think we're ready.
+C: RIKER
+D: They should be out there right now. We need to break the warp barrier within the next five minutes if we're going to get their attention.
+C: GEORDI
+D: Nacelles charged and ready. Riker looks at Cochrane.
+E: works
+C: RIKER
+D: Let's do it.
+C: COCHRANE
+D: Engage. 276 EXT. SPACE - THE PHOENIX The warp nacelles FLARE with power and the ship begins moving forward in space. THE ENTERPRISE suddenly looms into frame! It quickly gains on the tiny Phoenix. 277 INT. PHOENIX COCKPIT As before.
+E: VFX-I VFX-I
+C: GEORDI
+D: Warp field looks good ... structural integrity holding ... Riker activates a monitor which begins showing a digital display of their speed.
+C: RIKER
+D: Speed ... twenty thousand kilometers per second. Cochrane reaches up to hit some switches above his head, and as he does, glances out the window and reacts in shock. 277 CONTINUED:
+E: off monitor
+C: COCHRANE
+D: Jesus! Riker and Geordi look up. Outside the windows they can see the massive Enterprise heading their way!
+C: RIKER
+D: Relax, Doctor. I'm sure they're just here to give us a send-off. 278 INT. BORG HIVE As Picard is slammed onto the surgical table by the Queen. The Queen hovers over Picard. Picard stares at the Queen unafraid and more defiant than ever. Data is now working at a Sensor Console located near the entrance to Engineering. Above this console is a
+E: NOTE: Picard is lying in the opposite direction that Data was -- facing the doors to Engineering.
+C: VIEWSCREEN MONITOR. DATA
+D: I am bringing the external sensors on-line. Data works for a moment, and then the Viewscreen is ACTIVATED and we see an exterior view of the PHOENIX. 279 INT. PHOENIX COCKPIT As before. Cochrane is now steering the ship with a 21st century JOYSTICK CONTROL. The ship is moving faster and faster, trembling now, a ROAR building.
+C: RIKER
+D: Thirty seconds to warp threshold ... 280 EXT. SPACE The warp ship WHIPS by ... and then a moment later, the ENTERPRISE ROARS into view, chasing the tiny ship. 281 INT. PHOENIX COCKPIT Trembling harder.
+E: VFX-I
+C: RIKER
+D: Approaching light speed ... 281 CONTINUED: Geordi glances out a side window.
+C: GEORDI
+D: They're getting pretty close ...
+E: sotto, to Riker
+C: COCHRANE
+D: We"re at critical velocity ... The ship is really SHAKING HARD now. 282 INT. BORG HIVE Data is moving across the room toward an Auxiliary Weapons Control console which is located near the warp core itself. NOTE: it is important that this console be situated so that it cannot be seen if the Borg Queen is looking at the Viewscreen. Data works the W~apons console for a moment and then a CROSSHAIR TARGETING GRID appears on the Viewscreen.
+E: VFX-I
+C: DATA
+D: Quantum torpedoes locked.
+C: BORG QUEEN
+D: Destroy them. After a beat, Data hits a control. 282A EXT. SPACE - THE ENTERPRISE 282A As it FIRES a spread of three photon torpedoes at the tiny warp ship! 282B INT. BORG HIVE Picard looks at the Viewscreen with horror as the torpedoes streak out toward the Phoenix. The Queen is also watching the screen with satisfaction. 282C INT. PHOENIX COCKPIT Shaking harder than ever now. Riker, Geordi, Cochrane working. (NOTE: They do not see the torpedoes approaching. }
+C: COCHRANE
+D: We're crossing the threshold!
+C: 282B 282C
+D: 282D EXT. SPACE - THE PHOENIX 282D The torpedoes coming closer ... closer. 282E INT. BORG HIVE .282E
+C: 282F
+D: The Queen and Picard watching the Viewscreen. In the b.g., Data begins to slowly take a few steps toward the warp core, also watching the Viewscreen. This should appear to be a casual move -- Data trying to get a better look at the screen.
+E: NOTE: The Queen should not be able to see Data, her attention is on the Viewscreen.
+C: BORG QUEEN
+D: Watch ... your future's end. thru OMITTED
+E: to Picard
+C: 282G 282F
+D: thru
+C: 282G
+D: 282H EXT. SPACE - THE PHOENIX The three torpedoes fly past the Phoenix, narrowly missing the warp ship! 2821 INT. BORG HIVE Picard and the Queen react to the near-miss on the monitor. She whirls around toward Data, who is now standing by one of the coolant tanks.
+C: BORG QUEEN DATA
+D: Resistance ... is futile. He whirls and PUNCHES HIS FIST INTO ONE OF THE COOLANT TANKS. A HUGE EXPLOSION OF DEADLY LIQUID GAS knocks Data across the room and begins to sweep through the entire Borg Hive. Everything happens at once: -- The Borg Queen reacts, looks toward the ceiling, prompting her THREE UMBILICAL CABLES to start quickly snaking down to rescue her from the gas.
+C: 282H
+D: 282! -- Picard stands on the table and THROWS HIMSELF at the descending cables, GRABS ONTO ONE of them, begins a desperate scramble toward the ceiling, away from the gas. 282! CONTINUED: 2821 -- The Queen sees this ... grabs onto a second cable with one hand, pulls herself up to avoid the onrushing gas. 283 EXT. SPACE - THE PHOENIX As it GOES INTO WARP -- it shoots forward in the familiar "Rubberband effect" and streaks away from the Enterprise! 284 INT. PHOENIX COCKPIT Everyone slammed back into their seats as the stars WHIP PAST the windows. Cochrane cuts loose with a yell of fear and exhilaration.
+E: VFX-I VFX-I
+C: COCHRANE
+D: Whoooa-a-a-a-a! 285 INT. BORG HIVE Picard is still hanging onto his cable, gas swirling just inches below him. The Queen is pulling herself up her cable ... reaches out a hand and GRABS his leg ..... . Picard tries to kick at her, but it's no use. The Queen YANKS down hard, causing Picard to slip another inch down his cable. Another YANK ...
+E: VFX-I
+C: 285A DATA 285A
+D: suddenly RISES UP out of the gas behind the Queen! The human flesh on half his face and arm has MELTED AWAY, but it doesn't slow him down. He throws himself at the Queen and DISLODGES her -- they both FALL into the GAS! The cable wrapped around Picard twitches and goes limp. Picard quickly scrambles up toward the ceiling to safety ... 285B IN THE GAS 285B The Queen is lying on the deck, the gas swirling around her ... and as it does, we see the FLESH on her body start to LIQUEFY and MELT AWAY. 286 OMITTED 287 INT. PHOENIX COCKPIT As before, but the ride has smoothed out considerably. Everyone exchanges a smile. It's a moment of victory.
+E: VFX-I
+C: RIKER
+D: That should be enough. Throttle back ... bring us out of warp. we drop out of warp. The view out the front window begins turning ... and in the far distance they can see a single blue STAR brighter than all the others.
+C: COCHRANE
+D: Is that Earth?
+E: re! star
+C: GEORDI
+D: That's it. And we can begin to see a change on Cochrane 1 s face as he stares at the distant point of light.
+C: COCHRANE
+D: It's so ... small.
+C: RIKER
+D: It's about to get a whole lot bigger. Off the moment ... 288 INT. BORG HIVE CUT TO: Picard still wrapped up in the now limp cables. He starts to make his way through the tangle of cables over to the side of the room, where he can safely jump down onto the third level of Engineering. The deadly gas fills the lower half of the room like a soft blanket far below. He JUMPS onto the third level grating ... makes his way to a wall panel. A Borg drone is suddenly in front of him. Picard reacts, ready to fight ... but the Borg is twitching, convulsing in the throes of some kind of seizure. Picard moves around him ... opens the wall panel, hits a control. Immediately there is a WHOOSHING sound as an enormous VENTILATION SYSTEM kicks in. Picard moves to the edge of the third level and looks down ... 124 .. 289 PICARD 1 S POV As the last few wisps of gas are being sucked out of the room, revealing a scene of carnage. Borg Drones are lying on the floor, dead -- al~ orga~ic matte~ and flesh have been dissolved from their bodies, leaving only mechanical components. 290 PICARD quickly scrambles down the access ladders to the first level. His boots hiss slightly as they hit the residual acid left on the floor. He looks around, finally sees -- 291 OMITTED 292 PICARD starts to move to Data ... when he HEARS the VOICES of the Collective in his head once again. He looks up to see -- 293 THE UPPER LEVEL Several Borg Drones are writhing and fritzing, but still alive. The death of their Queen is throwing them into a state of shock. 294 PICARD still reacting to the voices. He senses a movement behind him and whirls to find 295 THE BORG QUEEN is lying nearby, now a CYBERNETIC SKELETON: A metallic spinal column with a blinking, steel CRANIUM at the top. The Queen writhes. A frightening moment, and then -- Picard1s hands reach in, grab the metal spine and SNAP IT IN TWO. The blinking cranium FRITZES OUT ... and the voices of the Collective stop ... once and for all. 296 THE UPPER LEVEL The Borg Drones all slump over, dead ... lights out. 297 INT. CORRIDOR Two Borg Drones moving down the hall suddenly stop. -­ twitch ... the blinkies on their bodies GO OUT ... and they both FALL OVER DEAD. Their connection to their Queen severed. 298 INT. BORG HIVE As before. Data looks up at Picard, who helps him to his feet.
+E: VFX-I
+C: PICARD
+D: Are you all right?
+C: DATA
+D: I would imagine I look worse than I feel. Data looks down at the smoking form of the Queen.
+C: DATA
+D: Strange. Part of me is sorry that she is dead.
+C: PICARD
+D: She was ... unique.
+C: DATA
+D: She brought me closer to humanity than I ever thought possible. And for a time, I was tempted by her offer.
+C: PICARD
+D: How long a time?
+C: DATA
+D: Zero point eight-six seconds. Picard looks at him, begins to smile.
+C: DATA
+D: For an android, that is nearly an eternity. Picard smiles and helps him to his feet. They head for the door. CAMERA PULLS BACK to emphasize the two men alone in the smoking ruin of £ngineering ... CUT TO: 299 EXT. MISSILE COMPLEX - NIGHT Townspeople are moving to the edge of the complex. A sense of urgency -- somethings going on. 299 CONTINUED: PICARD Captain's log, April 5th, two thousand, sixty-three. The voyage of the Phoenix was a success . .. again. The alien ship detected the warp signature ... and is on its way to a rendezvous with history. 300 BRIGHT LIGHTS are GLOWING just above the night clouds. A massive ship is about to burst through ... 301 THE TOWNSPEOPLE Men, women and children of the 21st century, trying to see what's happening ... and they react with shock and amazement to what they see ... 302 AN ALIEN SHIP is settling down onto the earth. Lights cutting through the darkness. 303 OUR CREW Riker, Troi, Geordi, Cochrane and Lily standing together. Picard and Beverly stand apart from the others, not wanting to be noticed. They are watching history unfold with awe and wonder. This is the moment they've been waiting for. 304 THE ALIEN SHIP settles, engines whining down ... 305 RIKER AND GEORDI move to Cochrane, take him gently by the arm.
+E: V . O. VFX-P VFX-P VFX-P
+C: GEORDI
+D: Doctor ... you're on. Cochrane looks a little bewildered, tries to grapple with the moment.
+C: COCHRANE
+D: My God ... they're really from another world? 305 CONTINUED:
+C: RIKER
+D: And they"re going to want to meet the man who flew that warp ship. There's a mechanical WHIRR and a HISS of air as a HATCH opens on the ship. Riker looks at Cochrane, who hesitates for a moment ... then finally takes a deep breath ... and strides out toward the alien ship. A man alone about to change the course of human history. 306 THE ALIEN SHIP As Cochrane stops a few feet away, the hatch swings completely open ... light streams out into the night air ... and THREE HOODED, ROBED FIGURES EMERGE. 307 OUR CREW watching in awe.- .. 308 A VULCAN pulls his hood back, revealing the familiar slanted eyebrows and pointed ears, holding himself with that austere, regal dignity we've come to associate with his race. He steps forward to greet Cochrane ... raises his hand as if to wave. Cochrane raises his hand automatically, as if to wave back. But then the Vulcan splits his fingers in the classic Vulcan greeting.
+E: VFX-P
+C: VULCAN
+D: Live Long and Prosper. Cochrane tries to emulate the Vulcan hand-sign ... but can't quite do the awkward finger-split.
+C: COCHRANE
+D: Um ... thanks. The Vulcan cocks an eyebrow at him. The very first Alien-Human relationship is underway ... 309 OUR CREW Our heroes share a glance with ~ach ether and smile.
+E: VFX-P
+C: PICARD
+D: I think it 1 s time for us to make a discreet exit. 309 CONTINU'ED: Riker nods.
+C: RIKER
+D: { taps combadge) Riker to Enterprise. Stand by to beam us up. Everyone a moment. them in a and under moves off, leaving Picard and Lily alone for The bright lights from the Vulcan ship cast dramatic silhouette. They"ve become friends, other circumstances they might 1 ve become something more.
+C: LILY
+D: I envy you ... the world you 1 re going to.
+C: PICARD
+D: I envy you ... taking these first steps into a new frontier.
+C: LILY
+D: Mightve been fun to take them together. A quiet beat.
+C: PICARD
+D: I'll miss you, Lily. Lily gives him a smile ... and they take each hands for a warm moment ... lock eyes ... then away. Picard takes his place with his crew. combadge.
+C: PICARD
+D: Picard to Enterprise. Energize. other 1 s Lily walks Taps his The crew DEMATERIALIZES together. Lily can't help but look up into the night sky ... 310 INT. BRIDGE Everybody there Picard, Riker, Data, Geordi, Beverly, Worf, and Troi. Our entire crew together.
+C: PICARD
+D: Report.
+C: WORF
+D: The moon's gravitational field obscured our warp signature. The Vulcans did not detect us. Picard nods, sacisfied, heads for his chair. 310 CONTINUED:
+C: GEORDI
+D: I 1 ve reconfigured our warp field to match the chronometric readings of the Borg Sphere.
+E: to Picard
+C: PICARD
+D: Recreate the vortex, Commander.
+C: GEORDI
+D: Aye, Sir.
+C: RIKER
+D: All decks report ready. Data turns, and we see that his face is still partially metallic.
+C: DATA
+D: Helm standing by.
+C: PICARD
+D: Lay in a course for the 24th century, Mister Data. Picard hesitates ... looks around the Bridge for a moment. The family is back together.
+C: PICARD
+D: I suspect our future is there waiting for us.
+E:  continuing
+C: DATA
+D: Course laid in sir.
+C: PICARD
+D: Make it so. 311 EXT. THE NIGHT SKY As seen from Earth. Lily watching. There's a colorful FLASH of light in the heavens high above as the vortex opens and the tiny star of the Enterprise flies inside. 312 EXT. MISSILE COMPLEX - NIGHT POLL BACK to reveal that Lily is standing outside the tent/bar. Inside the open bar we can see Cochrane with the Vulcans, talking excitedly. He hits a control on the jukebox and ROCK MUSIC starts to blare. The Vulcans raise an eyebrow at the curious noise. 312 CONTINUED: Townspeople are gathering ... watching this meeting unfold with awe and fascination. It's a moment frozen in time. Star Trek is born. FADE TO BLACK.
+E: VFX-I
+C: ROLL CREDITS
+N: THE END

@@ -1,0 +1,2238 @@
+M: HORSE SOLDIERS
+M: Written by Ted Tally
+M: Based on the book by Doug Stanton
+M: CURRENT REVISIONS BY PETER CRAIG
+M: September 2, 2016
+M: BLACK SCREEN
+M: Rockets split the air with a deafening rip. It’s a MISSILE
+M: PAD firing in salvos, but it sounds like the earth is
+M: cracking open. With the sound of an approaching missile -
+T: FADE IN ON:
+N: CAPTAIN MITCH NELSON (29) U.S. Special Forces. He waits on a spooked horse at the opening of a canyon. A windstorm of smoke and dust nets in his beard and eyelashes.
+C: VOICE
+D: They’re gone, boss. We can’t do anything for them. Another rocket cuts the air. Nelson looks down to see: THE KNEES OF HIS HORSE ARE TREMBLING. As his men panic, he quietly comforts the horse.
+E: O.S.
+C: NELSON
+D: You’re okay, girl. It’s going to be okay. An army of horsemen has amassed at the opening: the Northern Alliance, rags over their faces to block the grit. A blast RATTLES THE CANYON, spraying stone.
+C: VOICE
+D: Do we fall back? Smoke gathers inside, bottling up, and escaping toward them.
+E: O.S.
+C: VOICE
+D: Captain? Among the restless troops, ready to flee, Nelson and his horse are as still as a statue. The detonation cloud unravels, swallowing the frame. We hear a PRE-LAP OF CARTOONS: phony explosions and comic, inconsequential injuries. Road Runner and Coyote. INT. NELSON HOME - FORT CAMPBELL, KY - 7:45 AM CDT MADDY NELSON watches cartoons on a Monday morning, sucking her thumb and clutching a blanket chewed along the edge. In the background, JEAN NELSON searches piles of MOVING BOXES. CAPTION: “FORT CAMPBELL, KY. 2 MONTHS EARLIER.”
+E: O.S. CONT’D 4 25
+C: JEAN
+D: Honey, don’t let her watch that now. We’ll never get her off the couch. MITCH NELSON, in uniform, clean-cut, looks so different from the first scene, it takes a beat to recognize him. Boxes clutter every corner of their cramped new apartment. Nelson pauses at the TV, gauging his daughter’s transfixed eyes as she absorbs the bedlam on screen.
+C: NELSON
+D: I’m turning it off on the count of three, okay? One...
+C: JEAN
+D: I need those immunization records!
+E: searching a box
+C: NELSON
+D: Two. Two-and-a-half. He turns off the TV and his daughter frets.
+C: NELSON
+D: Three. I gave you a warning. Jean appears with a pink backpack, holding a sheath of forms. She uncorks Maddy’s thumb from her mouth.
+E: CONT’D
+C: JEAN
+D: Come on, sweetie - don’t make daddy pay for braces. INT. PRESCHOOL - FORT CAMPBELL - 8:09 AM CDT PANNING ACROSS A CROWDED ROOM, parents chat as they drop their children at pre-school. We catch a snippet of JEAN speaking with other mothers amid a din of friendly noise.
+C: JEAN
+D: No, my husband was just transferred here. Uh-huh. From North Carolina. We move off Jean, sinking down to MITCH NELSON, in a crouch, trying to extract the BLANKET from his daughter.
+C: JEAN
+D: So far, so good. We’re kind of in a scramble...
+E: O.S. CONT’D
+C: NELSON
+D: We’ll leave the blanket right here in the cubby. Okay? You can have it for lunch. Reluctant, his daughter lets it go. He makes a show of folding it ceremonially and placing it into the cubby. She stands exposed, staring at this group of new kids and garrulous parents. From Nelson’s crouch, he has the same POV as her, legs everywhere, kids darting around in chaos. He sees a row of books.
+C: NELSON
+D: Look what they have. He pulls out HAROLD AND THE PURPLE CRAYON.
+E: CONT’D
+C: NELSON
+D: This was my favorite book from when I was your age. JEAN’S POV - Distracted from her conversation, she notices her husband: the only adult on the floor, he’s foregone all chitchat to focus on his daughter. There’s a moment of pure affection that crosses her face.
+E: CONT’D
+C: NELSON
+D: This little guy has a magic crayon, and he can get himself out of any kind of trouble with it. The bell rings and the teacher begins herding out parents.
+E: CONT’D
+C: TEACHER
+D: Alright, parents... it’s time. If everybody could clear out...
+E: O.S.
+C: NELSON
+D: If you’re good today, I’m going to read this to you at home. INT. PRESCHOOL HALLWAY - FORT CAMPBELL - MOMENTS LATER With a folder full of paperwork, Jean hustles beside Mitch Nelson as they head toward the office.
+C: JEAN
+D: Well, so... they weren’t sacrificing any animals at least.
+C: NELSON
+D: That’s in the afternoon. Snack, story time... then move onto the pagan rituals. Then nap time.
+C: JEAN
+D: Oh, god... nap time. Can Daddy come home for nap time? Nelson smiles flirtatiously at her as they continue ahead.
+C: JEAN
+D: Where are we supposed to take this stuff anyway? There. They pop into the main SCHOOL OFFICE, paperwork in hand. INT. PRESCHOOL OFFICE - 8:10 AM CDT The desk is abandoned. The Nelsons head in further, to where they see many of the SCHOOL STAFF gathered around a TV. The Today show plays: “We’re showing you live footage from our affiliate WPIX in New York, just minutes ago, a second plane crashed into the World Trade Center.” Teachers gape as smoke rises from the First Tower. As people talk over one another with alarm, the TV plays: “I, I’ve never seen anything like it, I saw a large plane heading directly into the World Trade Center. It just flew into it, into the other tower, coming from south to north...” Shocked, Jean’s eyes move to her husband. He looks at her with concern.
+E: CONT’D re: the paperwork seeing the door
+C: NELSON
+D: I’ll get you home. EXT. CUMBERLAND RIVER - KENTUCKY - 8:14 AM CDT A blanket of fog drapes over the water. Rising slowly, there comes the sound of an outboard motor. Puncturing mist, TWO ZODIACS cut upstream, full of exhausted soldiers. We hone in on Chief Warrant Officer CAL SPENCER . He steers with a stoic look, the “old man” of the team. Near the end of his run on Special Forces, he looks at the river with nostalgia: every exercise may be last. He scans the men in the Zodiacs, the incomplete team of ODA 595, all of them wet and shivering in the pale light. EXT. CUMBERLAND RIVER - BOAT LANDING - 8:31 AM CDT SPENCER secures the Zodiacs onto the trailers...
+E: 40
+C: SPENCER
+D: If this is my last exercise, I’m going out with a real whimper. He’s talking to his closest friend on the team: SFC SAM DILLER , Intel officer, a former linebacker with a stone jaw and a West-Virginia drawl. Diller’s professionalism doesn’t quite conceal the bar-brawler underneath.
+E: 37
+C: DILLER
+D: Quit that. You’re scaring me. Stripping off wet clothes nearby, SFC SEAN COFFERS is the team’s designated complainer.
+E: 28
+C: COFFERS
+D: This is perfect. Our Captain retires to Florida, so we can dick around on a pointless exfil exercise.
+C: DILLER
+D: Don’t leave me with Coffers. PAN TO SFC PAT ESSEX -- He’s the group’s engineer and intellectual, glasses dappled with moisture.
+E: to Spencer 35
+C: ESSEX
+D: Crank the heater. Cal Spencer throws the keys to a passing soldier: SFC BEN MILO , a heavy-set Chicago native who’s just stripped off his soaked uniform down to a bare chest. WE FOLLOW MILO TO THE TRUCK CAB - where he drapes his wet socks over the vents, then starts the engine to blast heat.
+E: 30
+C: ESSEX
+D: Great, Milo. Now I’m breathing in Athlete’s Foot. Milo smirks as he turns on the radio: “And that’s all we know at this moment, a day unlike any since Pearl Harbor...” Milo’s smile drops and he meets eyes with Essex.
+E: CONT’D
+C: MILO
+D: What the hell is this? ON SPENCER AND DILLER -- still securing the zodiacs. The sound of the radio echoes in the forest. “...an act of war against this country. The events we do know at this time - at least four targets have been attacked...” Spencer and Diller meet eyes. “The Twin Towers in New York City, the Pentagon, and a plane that has crashed outside of Pittsburgh.” The two men are quiet. All business.
+C: DILLER
+D: Pearl Harbor, he said.
+C: SPENCER
+D: Yeah. I better drive. EXT/INT. - HONDA CIVIC - FORT CAMPBELL - 8:33 AM CDT There’s a massive traffic jam getting back onto the base - and the NELSONS are stuck in it. The empty child’s car seat sits behind them, dusted with crumbs - as they listen to the onslaught of emotion on the radio: “I've never seen anything like this. I saw people jumping out of the World Trade Center. It's a horrible, horrible situation.” Jean turns to her husband’s profile, his face determined.
+C: JEAN
+D: I’m so relieved you’re at a desk right now. She’s probing him. But he stays silent, deep in thought.
+C: JEAN
+D: Honey? Did you hear me? They won’t move you off this rotation, will they?
+E: CONT’D
+C: NELSON
+D: Nobody knows anything right now, baby. Let’s just get back onto the base.
+C: JEAN
+D: You’re not going to try to get back onto a team?
+C: NELSON
+D: I can’t tell... I’m not sure. I’m a soldier, that’s all I know right now. She faces the traffic ahead of them, fear in her eyes.
+C: JEAN
+D: That’s all I know, too. INT. TRUCK - HIGHWAY 41A NEAR CLARKSVILLE - MID-MORNING As Spencer is stuck behind a SLOW-MOVING VAN TOWING A CANOE, the men are wired in the double cab. The radio plays: “The death toll at this hour is unknown, but it is expected to be - in the words of Mayor Giuliani - ‘horrendous.’”
+C: MILO
+D: Is this us? Our bell just get rung?
+C: ESSEX
+D: If anybody in the Middle East did this, yeah: Fifth Group.
+C: DILLER
+D: Pass this guy, Spence. Spencer pulls out into the opposite lane, but has to drift back as oncoming traffic blows past.
+C: SPENCER
+D: We’re going to war and I got Lewis and Clark in front of me.
+C: COFFERS
+D: Relax. We’re not going anyplace without a Captain. Spencer sees his chance and guns it around the van. INT. FORT CAMPBELL - ADMINISTRATIVE OFFICES - CONTINUOUS Phones ring in every cubicle as dozens of SUPPORT STAFF answer, losing their professional calm. It’s a cacophony of voices: “I’m sorry, sir, he’s on another call”; “I apologize, I can’t answer that right now”; “I’m sorry, the Lt. Colonel can’t talk right now.” The sound is madness as - INT. STORAGE ROOM - FORT CAMPBELL - CONTINUOUS As the din continues, DESK SERGEANTS search through every drawer of a massive METAL FILE CABINET - CU ON FINGERS, sorting through thick reports, moving backward across - BOSNIA, BANGLADESH, BAHRAIN, AZERBAIJAN - finally yanking out a pathetically thin report: “DEPARTMENT OF
+C: DEFENSE REPORT: AFGHANISTAN.”
+D: INT. CORRIDOR - FORT CAMPBELL - CONTINUOUS CLOSE ON LT. COLONEL BOWERS a scowling bull of a man, harried as he walks with support staff on all sides of him.
+E: 50s
+C: BOWERS
+D: So the DoD has a contingency plan for every country except the one we want?
+C: DESK SERGEANT
+D: I didn’t see one for the Netherland Antilles, sir. They approach CAPTAIN MITCH NELSON as he unpacks supplies on his desk. Nelson’s eyes follow Bowers and his staff.
+C: BOWERS
+D: Well, thank Christ we weren’t attacked by Aruba. I have no idea what’s next, but Fifth Group better be ready to ship out: I want all six teams gearing up.
+C: DESK SERGEANT
+D: Five, sir. Five teams. ODA 595’s Captain retired three weeks ago. We haven’t had a chance to replace him. Bowers stops a few feet across the room of desks. He’s furious, glaring at the Sergeant.
+C: BOWERS
+D: This is the wrong day to be catching up on paperwork, Sergeant. Nelson eavesdrops, his eyes filling with resolve.
+C: BOWERS
+D: There’s no goddamn way I’m going in front of Colonel Mulholland without a full contingent. It’s an embarrassment. Nelson leans over his desk, eyes closed, deep in thought. He’s nodding as if preparing for a fight. Finally he steels himself and strides across to: INT. BOWERS’ OFFICE DOORWAY - FORT CAMPBELL - CONTINUOUS Nelson faces Bowers, just sitting down and holding the phone.
+E: CONT’D continuing to his office
+C: NELSON
+D: Sir, just wanted to introduce myself. Captain Mitch Nelson. Transferred from Fort Bragg. Administrative detail. As Bowers looks up past his staff, the room goes silent. It takes Bowers a moment for his eyes to focus on this new Captain, hovering in his doorway. But finally, the wheels begin turning in Bowers’ mind... just as Nelson wanted.
+C: BOWERS
+D: Good to meet you, welcome aboard. Nelson returns to his desk and Bowers keeps thinking.
+C: BOWERS
+D: Get me his file. We’re just making all kinds of new friends today. CUT TO:
+E: CONT’D
+C: HELICOPTER ROTORS
+D: We’re just above the blurring rotors, following a CHINOOK HELICOPTER as it flies low over an otherworldly terrain of cliffs and dry valleys. CAPTION: “September 15. Darya Balkh Valley, Afghanistan.” EXT. DARYA BALKH RIVER VALLEY - DAY Stepping off the CHINOOK, THREE FIGURES move into a hamlet cut into the hillside. As the helicopter descends away -- terrified goats retreat up the steep hillside. Faces wrapped, the THREE FIGURES enter a single-room structure of stone. INT. REMOTE OUTPOST - DARYA BALKH RIVER VALLEY - DAY They unwrap their faces to show that they’re TWO AMERICAN CIA AGENTS with an Afghan interpreter. They’re in a Spartan room choked with smoke, filled with men in dusty robes, AK-47s on their laps as they eat - emissaries of an Uzbek warlord.
+C: CIA AGENT JJ
+D: Salaam aalaikum. We’re here on behalf of the United States. The INTERPRETER is an echo behind him in Dari.
+C: CIA AGENT JJ
+D: We’re looking for General Abdul Rashid Dostum. The oldest Afghan stares back, beard full of crumbs. He has one blind eye with cataracts. In Dari, he talks with his mouth full of challow.
+E: CONT’D
+C: INTERPRETER
+D: Dostum is busy in the north.
+C: CIA AGENT JJ
+D: Do you know which side he intends to fight for? The old men look at each other, blank.
+C: CIA AGENT JJ
+D: Will he work with the other generals in the alliance? No answer.
+E: CONT’D
+C: CIA AGENT JJ
+D: Does he plan to fight for or against the Taliban? PUSH IN ON JJ, concerned as the men confer languidly in Dari.
+E: CONT’D
+C: INTERPRETER
+D: He says, “General Dostum has always fought for himself.”
+C: CIA AGENT JJ
+D: We’d like to you to give him a message. We were hoping we might start a dialogue with the general. The other agent grabs a large black nylon bag and unzips it, revealing 1.5 MILLION DOLLARS IN US CURRENCY. The Afghan elder exhales a puff of smoke and speaks slowly, revealing nothing, a hard-edged negotiator in rags.
+E: nods to the other agent
+C: INTERPRETING
+D: He says, “The general has always enjoyed good conversation.” We hear a PRE-LAP of a TELEPHONE RINGING. INT. NELSON APARTMENT - FORT CAMPBELL - NIGHT While the phone rings in the other room, Nelson lies on his daughter’s bed, reading her HAROLD AND THE PURPLE CRAYON. The TV is blaring in the kitchen.
+C: NELSON
+D: “And he walked along with the moon, wishing he was in his room and in bed. Then, suddenly, Harold remembered.” The phone rings until Jean answers it across the apartment.
+C: JEAN
+D: Hello? Can I ask who’s calling? Mitch listens, acutely aware even as he continues to read.
+E: O.S.
+C: NELSON
+D: “He remembered where his bedroom window was, when there was a moon.” You read this word now. Here.
+C: JEAN
+D: Honey?
+C: MADDY
+D: It... was...
+E: reading
+C: JEAN
+D: Honey, it’s for you. He detects the worry in his wife’s voice.
+E: CONT'D
+C: NELSON
+D: “Already around...” and you know that part.
+E: to Maddy
+C: MADDY
+D: “The moon.”
+C: NELSON
+D: Save our place right here. FOLLOW NELSON as he rises, moves twenty paces across carpet, and grabs the phone.
+C: NELSON
+D: Hello. We hear only the FAINT MURMUR of LT. COLONEL BOWERS.
+E: CONT’D
+C: NELSON
+D: Yes, sir. Jean returns to unpacking and rinsing dishes, but she hangs on every word. On TV, the CNN logo gives way to Larry King.
+E: CONT’D
+C: NELSON
+D: Thank you, sir.
+E: CONT’D
+C: MADDY
+D: Daddy!
+E: O.S.
+C: JEAN
+D: Honey, your daddy’s on the phone! Larry interviews John McCain: “The President says we’re at war. With whom, where’s it going to be fought, and how?”
+C: NELSON
+D: Of course, sir. I’m grateful for that opportunity. I’m glad my record spoke for itself. Jean feels these words in her spine. On TV, McCain says, “Yesterday, we prayed and tomorrow we fight, and it will be a war against those who choose to or seek to inflict damage upon the United States of America...”
+C: NELSON
+D: You won’t be sorry, sir. Jean keeps rinsing dishes; she can’t look at her husband. She’s on the verge of tears, a bulge of tension in her jaw. Nelson hangs up and watches her for a moment. On TV, McCain continues, “...and I think it could include a wide range of military options, including putting troops on the ground. Not for a long period of time, but put them on the ground in order to get the mission accomplished.
+E: CONT’D
+C: NELSON
+D: Honey?
+E: CONT’D
+C: JEAN
+D: Just give me a minute, okay?
+E: looking away
+C: NELSON
+D: It’s my job. It’s what I trained for. Not to sit at a desk while people are dying.
+C: ***[FIX LINE HERE] MADDY
+D: Daddy!
+E: O.S.
+C: JEAN
+D: Go finish your story. INT. REI CAMPING SUPPLIES - MORNING A SHOPPING CART, loaded with supplies, moves down the aisle. PULL BACK to reveal it’s SFC BEN MILO pushing it, flanked by DILLER and COFFERS. Milo’s wearing a hat with ear flaps, a HEAD LAMP over it.
+C: MILO
+D: And what if we don’t get the call? My wife’s going to kill my ass when she sees this bill.
+C: DILLER
+D: You want to requisition this shit through the DoD? See you in June. We got to be ready in case... CLOSE ANGLES of their hands as they plunder shelves for tool kits, camp stoves, water filters...
+C: COFFERS
+D: They’re just sticking us with some new Captain so Bowers isn’t caught with his pants down. DILLER flips through an outdated TRAVEL GUIDE TO AFGHANISTAN.
+C: DILLER
+D: Still gotta be ready to deploy. Get this: Average nightly temperature is negative three celcius. They pass into the aisle of thermals and low temperature sleeping bags. Diller begins piling thermals into the cart.
+C: MILO
+D: If we don’t go - I’m going to be the only asshole in Kentucky with ten pairs of long underwear. INT. SPENCER HOUSEHOLD - FORT CAMPBELL - NIGHT In uniform, Spencer comes into the room of his son, JAKE . Jake has fallen asleep with his baseball mitt. Spencer sits down on the bed. Then he looks up to see - MARCHA SPENCER . She’s just come into the doorway.
+E: 12 37
+C: MARCHA
+D: Do you know where they’re sending you?
+C: SPENCER
+D: Even if I did, I can’t tell you. 0500. I’ll let him sleep ‘til then. Marcha has a way of thinking out loud, which she does while Spencer watches their son sleep.
+E: eyes on his son
+C: MARCHA
+D: I hate the idea of y’all being in the hands of a brand new Captain.
+C: SPENCER
+D: Diller and I will take care of him.
+C: MARCHA
+D: His wife must be beside herself. She probably doesn’t know a soul here. I’ll have her over. He just looks at her, a long history in their eyes.
+C: MARCHA
+D: You’ve been gone half his life, Cal. For God’s sake, wake him up. INT. DILLER HOUSEHOLD - KITCHEN - BEFORE DAWN TRACKING THROUGH DARK ROOMS WITH DILLER, we pass a digital clock that reads: “3:40 AM.” He moves into a bright kitchen, where he’s surprised to see his wife on the floor by the open oven door... cleaning.
+E: CONT’D
+C: DILLER
+D: Lis’? She looks up. It’s not hysteria: she’s just finished cleaning the broiler pan. The kitchen is spotless.
+C: DILLER
+D: Aw, baby. If you got all the way to the oven, you’re breakin’ my heart.
+E: CONT’D
+C: LISA
+D: Some women cry, some clean. She rises and meets his eyes.
+C: LISA
+D: So this house is gonna be spotless. Until you get home and throw your socks all over the floor. She hugs him, still clutching the dirty rag. EXT. BUS - FORT CAMPBELL - 4:35 AM MILO’s teenage son is crying, despite every effort not to. Milo pops him lightly in the shoulder.
+E: CONT’D
+C: MILO
+D: Come on now, big guy. I need you. You got to take care of your mom. His son nods, mouth quivering. Milo hugs him roughly.
+C: MILO
+D: I’m going to go do my job, you do yours. It’s that simple, bud. MOVING OFF MILO, we follow STAFF SERGEANT CHARLES JONES as he listens to BLARING HEADPHONES, nonchalant as he throws his pack under the bus, a headbanger turned soldier. As he comes up from the storage compartment, COFFERS grabs him.
+E: CONT’D 20s
+C: COFFERS
+D: Jones. Check out the medic. Jones doesn’t hear anything with the blaring music in his ears, so Coffers takes off his headphones to talk in his ear.
+C: COFFERS
+D: Look how good our medic is. FOLLOW JONES’ GAZE to -- SFC SCOTT BLACK , the medic, a short man with bottle-thick glasses, saying goodbye to TWO FOUR-EYED SONS who look exactly like him.
+E: CONT’D 28
+C: COFFERS
+D: He can clone himself. Beside them, SFC TIAGO RAMIREZ -- junior engineer, says goodbye to his kids in English, then his parents in Spanish.
+E: CONT’D 27
+C: RAMIREZ
+D: Voy a tener cuidado. No te preocúpes. Ramirez is distracted by VERN MICHAELS , passing with a golf club hanging out of his pack, a cover on the head.
+E: 29
+C: RAMIREZ
+D: Michaels? You dumb-ass, you brought your driver to the desert?
+E: CONT’D
+C: MICHAELS
+D: Why the hell would I do that, Ramirez? Sand wedge. Passing is FRED FALLS , an awkward man who’s all Adam’s apple, carrying his gear beside a very attractive older woman in tight jeans and heels. COFFERS and JONES ogle the woman as Falls hugs her, then trundles his gear toward them.
+E: takes off the cover 25
+C: COFFERS
+D: Falls! Got yourself a cougar. What’d you do? Cruise the Red Lion?
+C: FALLS
+D: That’s my mom, asshole! As Falls throws in his pack and heads off, FOLLOW HIM to settle on SPENCER and DILLER, the senior team members. They stand by the entrance, worried as they scan the parking lot.
+C: SPENCER
+D: Bowers pulled him off a desk.
+C: DILLER
+D: What else you know about him?
+C: SPENCER
+D: Top of his class at Fort Bragg, not that that’ll mean much. He’s going to need help: I hope he’s not the type who’s too proud to ask for it.
+C: DILLER
+D: He’s sure waiting to make an entrance. Track past them, toward the window of a parked Honda Civic, obscured by steam. PASS THROUGH INTO: INT. HONDA CIVIC - FORT CAMPBELL - CONTINUOUS Facing the team, MITCH NELSON and JEAN wait in the car, savoring their last moment together as the windshield fogs. Nelson exhales, visibly nervous.
+C: NELSON
+D: Some of these guys are legends. I heard about them in the Q. They were in Somalia and the Gulf.
+C: JEAN
+D: I just see eleven men. Six wives. Fourteen kids.
+C: NELSON
+D: Yeah. They’re coming home safe, every one of them.
+C: JEAN
+D: One day at a time. He smiles and kisses her - a lingering kiss, which they both stop before it becomes its own conversation. Nelson then turns to the back, where Maddy sleeps in her car seat with her blanket over her.
+C: NELSON
+D: She going to school today?
+C: JEAN
+D: She’s going to be too tired.
+C: NELSON
+D: She should go. Don’t break her routine. Jean nods. Nelson pivots to wake his daughter.
+C: NELSON
+D: Maddy, sweetie.
+E: CONT’D
+C: JEAN
+D: Honey, Daddy’s saying goodbye. The little girl wakes up, her eyes on her father, the windshield fogging over behind him.
+C: MADDY
+D: Where are you going?
+C: NELSON
+D: I’m going to work, sweetie. Just like you go to school. I’m going to do my best - and you’re going to do yours, okay? Every night, I want you to practice your reading. And then you’re going to show me when I come home. Jean’s eyes well up but she hides it from her husband.
+E: a beat
+C: NELSON
+D: And I’ll come home soon. Just like Harold in that book.
+E: CONT’D
+C: MADDY
+D: Harold didn’t come home. He just drew a window around the moon. Jean starts laughing, wiping her eyes.
+C: JEAN
+D: She’s right, baby. Harold wasn’t dealing with reality. He kisses Maddy, kisses Jean, and finally - with a breath like he’s about to leap into cold water- he gets out. EXT. BUS - FORT CAMPBELL - CONTINUOUS As the new CAPTAIN NELSON heads toward the bus, EVERY SINGLE MAN, WOMAN AND CHILD turns to watch him approach. A few feet away he stops, nodding to their awaiting eyes. He reaches out his hand - polite, formal.
+C: NELSON
+D: Captain Mitch Nelson. The men gather around the doorway to meet him, shaking hands, Diller, Coffers, Ramirez, they all say their names, all formally. After a beat, they begin filing aboard behind Nelson. INT. BUS - FORT CAMPBELL - PRE-DAWN As the men take their seats, dead quiet - Milo tromps aboard last, breaking the silence.
+C: MILO
+D: Taliban motherfuckers! They pissed me off! And they pissed my wife off! And they pissed my kids off! He stirs up shouts and laughter, loosening the atmosphere. He passes senior medic BENNETT , Ramirez and Falls.
+E: 31
+C: BENNETT
+D: Getting a big jarhead vibe from the Captain.
+C: RAMIREZ
+D: Straight out of the Q and into the weight room.
+C: FALLS
+D: Should’a joined the SEALS. ON NELSON - he’s feeling the scrutiny, hearing lowered voices. He slips onto a seat, staring out the window. Spencer clocks this from beside Diller. After the two men exchange a glance, Spencer rises....
+C: SPENCER
+D: Captain, I’m your Chief Warrant Officer, Cal Spencer.
+C: NELSON
+D: Good to meet you. Mitch Nelson. The men grasp hands as Spencer sits down next to Nelson. The bus begins to roll away. Spencer keeps his eyes on Nelson as he turns to the window.
+C: SPENCER
+D: That’s my wife, Marcha. That’s Diller’s wife, Lisa. They’re going to recruit your wife. She’ll never know what hit her. Nelson looks out at his wife by the car. Marcha and Lisa have just approached Jean and are introducing themselves.
+C: SPENCER
+D: This part never gets any easier. Spencer eyes both of their wives now by Nelson’s Honda.
+E: CONT’D
+C: SPENCER
+D: How in the world can a man love his family and want to go to war at the same time? Nelson looks at him, struck by this. EXT. AIRFIELD - MOMENTS LATER Six teams from Fifth Special Forces step off separate buses into a blast of wind on the tarmac. In lines, they trundle their loads past a C-130 to a hangar. INT. HANGAR - MOMENTS LATER The structure is crowded with other soldiers, but Nelson’s team are gathered at one end. Nelson feels all of their eyes on him. He takes a breath.
+E: CONT’D 72 men in all ODA 595
+C: NELSON
+D: Listen up. I was hoping there was a better spot for me to do this, but here goes: I’m Captain Mitch Nelson. He glances over to where he sees CAPTAIN DEAN NOSOROG of Team 555 . With his CWO beside him, Nosorog can’t help but smile at the scene he’s overhearing.
+E: the Triple Nickels
+C: NELSON
+D: You’ve all known each other a long time and built up a lot a trust. DILLER glances at Coffers beside him and shakes his head: No Coffers, I don’t trust you.
+E: CONT’D
+C: NELSON
+D: I have the benefit of that experience and I’m grateful for it. But remember that decisions still have to come from me. I’m going to listen and learn. But there’s not always time for consensus. I can’t ask you to have that same trust in me right away; but I can ask you for this: Give me the chance to earn it. The eleven other men are clearly unsure how to respond to this young Captain. The very fact that he’s giving this speech drives the point home: they’re going to war under the command of a man they’ve just met. Spencer and Diller exchange an almost telepathic look. Finally...
+E: CONT’D
+C: DILLER
+D: Welcome aboard, Captain. The teams begin filing out onto the tarmac outside. Spencer is still studying Nelson, deep in thought. Nelson finally turns to him last, meeting his eyes.
+C: SPENCER
+D: You write that speech last night?
+C: NELSON
+D: This morning. EXT. RUNWAY - MOMENTS LATER The C-130 takes off toward a trace of dawn in the east. EXT. K2 BASE - UZBEKISTAN - DAY CAPTION: “K2, KARSHI-KHANABAD, UZBEKISTAN” A boom town crossed with a cesspool. Wooden boardwalks span puddles of anti-freeze-colored slime. Chinooks helicopters have been broken down and shipped inside C-17s. Beside concrete Soviet Quonsets, engineers swarm on them like ants.
+C: COLONEL MULHOLLAND
+D: Gentlemen, welcome to K2. On a sand berm, a signpost shows mileage to U.S. Cities. One sign pointing south reads: “BAD GUYS, 120 miles.”
+E: V.O.
+C: COLONEL MULHOLLAND
+D: Six special forces teams are here. On a wide open leach field of latrine holes, an Uzbek soldier is squatting, reading a newspaper.
+E: V.O.
+C: COLONEL MULHOLLAND
+D: We’re guests of the fine country of Uzbekistan, who have graciously opened their doors to us. INT. BRIEFING TENT - K2 - LATE AFTERNOON We catch up to Colonel Mulholland addressing the six teams. NELSON sits in the center, surrounded by his men. He has a pile of notebooks and material in front of him. All the soldiers are growing out their beards to fit in with Afghans.
+E: V.O.
+C: COLONEL MULHOLLAND
+D: 19 men attacked us on September 11th. 12 of you will be first to respond. He scans the eyes around the room: Diller, looking hard; Black, nervous; Nelson, resolved.
+C: COLONEL MULHOLLAND
+D: Only one team will be chosen to go in country. First time Special Forces has ever been the lead element. You’re going to be soldiers and diplomats. You’ll drop behind enemy lines and link up with a warlord of the Northern Alliance. We don’t know much about our allies yet. You’ll need to assess his ground forces, his capabilities... even his commitment. You’ll then coordinate with him to fight the Taliban, who are heavily- equipped and dug into this region here. ON A MAP, he shows them canyons and dried river beds.
+E: CONT’D
+C: COLONEL MULHOLLAND
+D: Your mission is to take back this strategic linchpin, the Taliban stronghold, the city of Mazar-i-Sharif. The gathering and entry point for the entire Taliban force in the north. The city sits on a single plateau at the end of snaking narrow canyons, a pedestal surrounded by jagged terrain.
+E: CONT’D
+C: COLONEL MULHOLLAND
+D: Those of you not selected will remain here in Uzbekistan as logistical support. There’s a collective groan: no one wants to stay behind. NOSOROG sits with team 555, “The triple nickels,” exuding confidence. He eyes NELSON, something mocking in his stare.
+E: CONT’D
+C: COLONEL MULHOLLAND
+D: If you want the job, study your mission plans, your briefs and background info. EXT. K2 BASE - LEACH FIELD - UZBEKISTAN - DAY
+E: CONT’D
+C: COLONEL MULHOLLAND
+D: As of today, every team here begins on equal ground. A SHOVEL plunges into wet earth. On the other end of it is COFFERS, scowling. PULL BACK TO REVEAL: Half the men of ODA 595 are digging latrines - with Nelson out of earshot across the field talking to an Uzbekistani Commander.
+E: POST-LAP Coffers, Milo, Diller, Ramirez, Falls
+C: COFFERS
+D: So happy we flew across the world to dig holes for these hajis to shit in.
+C: MILO
+D: I blame the Taliban.
+C: COFFERS
+D: I blame this Captain. We’re just here on a technicality, man. No way the Colonel picks us. This whole selection process is a beauty pageant and we’re that homely chick always up there at the end.
+C: RAMIREZ
+D: Where’s he from anyway?
+C: COLONEL MULHOLLAND MILO
+D: Kansas.
+E: CONT’D
+C: COFFERS
+D: Shit. Perfect. “There’s no place like home.” EXT. BARRACKS TENT - K2 - J.O.C. - LATE NIGHT The wind rages outside, a relentless storm. The tent is dark except for a single light showing through the canvas. INT. BARRACKS TENT - K2 - J.O.C. - CONTINUOUS The single light is Nelson’s PANASONIC TOUGHBOOK. While everyone sleeps, NELSON is studying at a far table, relentless and determined. Milo rouses in bed, amazed to see Nelson still reading. He taps Coffers beside him.
+C: MILO
+D: He seriously thinks we’re going to get this job.
+E: whispering
+C: COFFERS
+D: Or he just wants to be the most informed shithole digger he can be. Spencer worries Mitch can hear and speaks up.
+C: SPENCER
+D: Don’t cram all night, Captain. A few more men are awake now - Spencer, Diller and Falls. They all rise up to see what Nelson is studying. The wind drones and flaps the canvas of the tent.
+C: NELSON
+D: I don’t see how there’s going to be time. Winter hits, overnight temps get below zero. These passes will ice over.
+C: SPENCER
+D: So how long you figure the team will have?
+C: NELSON
+D: From touching down to taking Mazar, depending on how fast we launch... maybe three weeks. The men glance at each other, smirking. Three weeks sounds ludicrously rushed. ON THE TOUGHBOOK, Nelson is now looking at images of the Taliban, troops, training regimen, groups of black-robed men on the backs of Toyota Hiluxes with RPG tubes. As more men watch, he clicks a montage of news footage. Bearded men throw radios and books on a bonfire.
+C: NELSON
+D: These guys want to turn back time. The Taliban banned everything modern. No art, no literature.
+E: CONT’D
+C: ESSEX
+D: Milo? What it’s like living without art or literature?
+C: MILO
+D: Sort of like this. ON THE LAPTOP: A WOMAN HANGS DEAD FROM A SOCCER GOALPOST.
+E: shows his middle finger
+C: NELSON
+D: It’s a perversion of Shari’a law. This woman was accused of adultery. NEXT: A little girl is stoned to death in a crowd.
+C: NELSON
+D: Girls can’t go to school... ON SCREEN: It’s a savage sight as the girl’s bones crack.
+E: CONT’D
+C: NELSON
+D: They found something hidden in her room. The girl falls, murdered by the hurled stones. The men now stand quiet, faces lit by the screen.
+E: CONT’D
+C: NELSON
+D: A book. She was learning to read. We see in Nelson’s eyes the profound effect this has on him - as he’s thinking of his own little girl. EXT. JOINT OPERATIONS CENTER - NIGHT - DAWN Un-assembled Chinooks lie under tarps, gathering sand. INT. JOINT OPERATIONS CENTER - CORRIDOR - DAY NELSON waits on a chair beside the FIVE OTHER CAPTAINS. Each is waiting his turn for the final interview with the brass. Nelson is nervous, cotton-mouthed, getting himself focused. Beside him, the 515 CAPTAIN complains to the 595 CAPTAIN. 515 CAPTAIN The commo plan’s a nightmare. We get into trouble, there’s no way to radio out. 595 CAPTAIN Yeah, we broke it down last night. Whoever gets this, I give them about a ten percent chance to survive. Nelson just stares ahead as he eavesdrops, even more determination on his face. The door opens and BOWERS gestures to the 595 CAPTAIN. 515 CAPTAIN Godspeed. As 595 CAPTAIN follows Bowers into the CONFERENCE ROOM, Nelson waits, between 515 and CAPTAIN NOSOROG of the 555s. After a long pause, Nelson glances over at NOSOROG. CAPTAIN NOSOROG You sure you want the job?
+E: CONT’D 555
+C: NELSON
+D: I didn’t come this far just to switch desks. INT. CONFERENCE TENT - FIVE MINUTES LATER CAPTAIN MITCH NELSON enters and hovers. Papers cover a table and Mulholland sorts through them, trying to get to Team 595.
+E: eyes ahead, a nod
+C: COLONEL MULHOLLAND
+D: Captain Nelson. Please. Sit down. Bowers’ body language is dismissive: he’s not even watching.
+C: BOWERS
+D: Nelson is our newest Captain. It’s incredibly dismissive, but Mulholland just nods at this.
+C: COLONEL MULHOLLAND
+D: So... everyone has balked on this question, so I’m going to skip right to it. Do you think you could call in close air support with a B-52? A pause.
+C: NELSON
+D: Yes. Sir.
+C: BOWERS
+D: It’s never been done before. From the altitude they’d have to fly over the peaks, you could be dropping on your own heads.
+C: NELSON
+D: If it’s what we have to do, I’ll do it.
+C: COLONEL MULHOLLAND
+D: You studied Russian in the SFQC.
+E: reading paperwork
+C: NELSON
+D: Yes, sir. Mulholland keeps perusing his file, frowning. Nelson waits for a follow-up question, but it doesn’t come.
+C: COLONEL MULHOLLAND
+D: Have you had a chance to get to know your team very well?
+C: NELSON
+D: They’re professionals and so am I. Bowers is impatient for this interview to be over.
+C: COLONEL MULHOLLAND
+D: Son, you did well in all your training... This is a promising career. But we’ve got an elephant in this room. You have no experience on the ground. In combat.
+E: to the paperwork
+C: NELSON
+D: That’s correct, sir. But this is a unique case, and I don’t believe that’s a disadvantage. Mulholland looks over at Bowers, who seems amused: Okay, let’s hear this one.
+C: NELSON
+D: If “experience” is the criterion for selecting the right man, then no one here is qualified. There’s a long pause as Mulholland locks on his eyes.
+E: CONT’D
+C: COLONEL MULHOLLAND
+D: Maybe you should explain that.
+C: NELSON
+D: You’re about to drop twelve men into the unknown... to link up with a warlord we don’t know a thing about. We won’t know our enemies from allies. We’ll need to fight through superior Taliban forces, over the minefields of a hundred other wars. If any other Captain tells you he’s got experience with this, sir - he’s not dealing with reality. Mulholland meets the young Captain’s eyes, head on.
+C: COLONEL MULHOLLAND
+D: Good. Bowers is astonished - and not happy to see the black sheep hit one out of the park. EXT. BARRACKS TENT - K2 - J.O.C. - MOMENTS LATER Laughing and loose, the rest of Team ODA 595 is watching “SPIES LIKE US” dubbed into Uzbek. Spencer is guffawing heavily at Chevy Chase, while Milo, Coffers and Falls marvel at the guttural voice coming out of a familiar actor. Nelson comes into the entrance and lingers. One by one, they look up at him, noticing his posture. Spencer’s still laughing, last to avert his attention.
+C: NELSON
+D: Saddle up. We got the job. Most of the men look astonished by the news. ON SCREEN - Chevy Chase and Dan Aykroyd are loaded into a rocket and dropped off a tower, nose-first into the ground. No one’s laughing. JONES takes off his blaring headphones. Finally, Diller reveals a grin, ear to ear. He leaps up, congratulating his Captain with a rough pat on the back.
+C: DILLER
+D: Atta boy, Mitch! Beautiful! As Diller jostles Nelson, Spencer and Essex come over to thank the Captain. PAN TO COFFERS, FALLS, JONES and BLACK, with warier looks.
+C: FALLS
+D: With a Captain straight out of the Q? What’s the catch?
+C: COFFERS
+D: Remember the Apollo program? Both men look over at him, confused.
+C: COFFERS
+D: They sent a monkey up first. EXT. K2 BASE - UZBEKISTAN - SUNSET The sun sets over the tall cordillera of mountains to the south. In a brewing sandstorm, it’s colored a deep red.
+E: CONT’D
+C: NELSON
+D: “Northern Alliance” is a misnomer. INT. QUONSET HUT - K2 - EVENING Nelson stands by a screen where he projects slides off transparencies. Only his team fills up the wide space now - and the room feels desolate. The wind whistles outside.
+E: PRE-LAP
+C: NELSON
+D: It’s a few tribes - and most have been fighting each other all their lives. They were held together by Massoud. So... Bin Laden and Al Qaeda kill him as payment for Taliban support of 9-11. It’s left the whole alliance hanging by a thread. If they fall apart, this whole country becomes a terrorist training camp.
+C: SPENCER
+D: Who’s our lucky warlord, Mitch?
+C: NELSON
+D: General Abdul Rashid Dostum. Nelson clicks ahead a few slides to an old picture of Dostum from the Soviet years: a sturdy man with wily eyes in a squint, a devilish smile, like he’s outsmarting the world.
+C: NELSON
+D: Don’t get used to this picture. It’s 22 years old. That’s him with the Soviets. CIA says he might be sick now. Diabetic. They think he’s lost use of one of his arms. The team isn’t liking this news.
+E: CONT’D
+C: NELSON
+D: He doesn’t speak English, but his Russian is good. From back when he ran militias for the Soviets. He made his money smuggling opium those years.
+E: CONT’D
+C: COFFERS
+D: So he’s a criminal?
+C: DILLER
+D: Our criminal.
+C: NELSON
+D: He was forced into exile in ‘98. Taliban stole his land, money, slaughtered his people. He wants revenge.
+C: DILLER
+D: What kind of troop strength does he have?
+C: NELSON
+D: Yeah, he’s got... “...a few hundred paid soldiers and an undetermined number of part-time militiamen.” The whole team exchanges glances: This is a death march.
+E: reading
+C: JONES
+D: And the other side?
+C: NELSON NELSON
+D: Mullah Razzak. A slide: MULLAH RAZZAK, Taliban leader in the north. Dressed in black, his eyes are encircled by kohl and exude hatred.
+E: CONT'D
+C: NELSON
+D: 50,000 Taliban and Al-Qaeda fighters. The entire group seems struck in the chest.
+E: CONT’D
+C: NELSON
+D: Armor, rockets, mortars, and machine guns. Yeah, we’re outnumbered.
+E: CONT’D
+C: COFFERS
+D: 5,000 to 1.
+C: DILLER
+D: That’s called a target-rich environment.
+C: NELSON
+D: Dostum’s been holding off Razzak with whatever he has. But he’s out of ammo and money. We’re going to advise and assist. As soon as this weather clears, we’re going to helicopter in. Dostum’s going to meet us at our landing point and take us to his headquarters. From there, we’ll mount our assault. A brutal pause. This plan sounds impossible. The wind whistles and flaps the tent.
+C: SPENCER
+D: How do we know he won’t just ransom us off to the Taliban? The other men all clock this, a visible strain.
+C: NELSON
+D: We don’t. It’s a risk. We’re a covert insertion, so if we’re captured, there’s no rescue. And if we die...
+C: SPENCER
+D: ...nobody ever knows how or why.
+C: NELSON
+D: That’s our job.
+C: MILO
+D: I’ll take it. They hit us in the mouth, I’m swinging back. Period.
+C: ESSEX
+D: Hold on. What evidence do we have that Dostum even wants to fight with us?
+C: DILLER
+D: It’s an Arabic bumper stick: “The enemy of my enemy is my friend.”
+C: NELSON
+D: Yeah, sort of. I read the CIA report on him, too. He’s smart. He was a dirt poor kid, started out in the gas fields as muscle for the Russians, busting up unions. He’s been at war since he was twelve. If he didn’t like his deal, he switched sides. He’s fought with the Tajiks, the Hazaras, the Pashtun. We don’t know whose side he’s really on. But he’s got a knack for picking winners. We need to show him that’s what we are. EXT. SAND BERM - K2 - NIGHT The wind is rising up; an ominous sandstorm is brewing. Thwack! With the SAND WEDGE, NELSON strikes the ball off the berm. He’s beside MICHAELS, talking him through his swing. Both men have their faces wrapped with a keffiyeh scarves to block to dust. The ball soars off, twisting in the wind, vanishing into the gritty darkness.
+E: a beat
+C: MICHAELS
+D: Not bad. Keep your head down. Nelson lowers his keffiyeh, looking with dread at the storm. EXT. NELSON’S TEAM TENT - K2 - DAY CAPTION OVER: “OCTOBER 17.” The sandstorm has struck hard. The tents flap and twist under merciless winds. INT. NELSON’S TENT - DAY There’s an exasperated mood. Essex reads an ancient paperback about the Soviets. Milo peeks over his shoulder at the cover: THE BEAR WENT OVER THE MOUNTAIN.
+C: MILO
+D: Gay mountaineering book?
+C: ESSEX
+D: As in the Russian bear, you dipshit homophobe. Nelson enters and they all look up, eyes expectant.
+C: NELSON
+D: Mulholland’s tired of waiting for the weather. We go tonight. Single ship, no backup. Spencer and Essex look at each other. The wind is howling.
+C: COFFERS
+D: They had a successful test flight?
+C: NELSON
+D: We’re the test flight. INT. NELSON'S TEAM TENT - K2 - DUSK As Nelson finishes a LAST LETTER to Jean...
+C: LIAISON OFFICER
+D: You guys know the drill... The liaison officer passes man to man with a plastic bag.
+E: O.S.
+C: LIAISON OFFICER
+D: Any personal artifacts. In the event you’re captured, any item that could be used against you for torture... Spencer puts in a picture of Marcha and Jake. Falls drops in a picture of his parents, including his ATTRACTIVE MOTHER.
+E: CONT’D
+C: COFFERS
+D: Can I have the picture of Falls’ Mom? We end of NELSON, sitting beside Diller. He shows him a picture of his daughter, Maddy. As the liaison officer approaches, Nelson slips the PHOTO into his boot. Then he meets eyes with Diller.
+C: DILLER
+D: Right. Nobody’s getting captured. We carry out the mission...
+C: NELSON
+D: Or we die with our boots on. Diller smiles solemnly, a look of brewing respect on his face. He slips a picture of LISA into his boot as well. CLOSE ON THEIR UNIFORMS as NAME TAGS are cut off...
+C: MULHOLLAND
+D: You can’t be acknowledged, so there won’t be any reinforcements. ...“Diller,” “Michaels,” “Ramirez” - until the uniforms are anonymous. HELICOPTER ROTORS rise up in PRE-LAP.
+E: V.O. PRE-LAP
+C: MULHOLLAND
+D: It’s just you twelve men, the tip of the spear. Everything’s on your shoulders. Dostum’s the key - to winning or losing, living or dying. EXT. TARMAC - NIGHT The men cover their faces against the blowing sand as they rush to load onto the CHINOOK. Mulholland moves beside NELSON, his final words blanketed by the increasing sound of the wind and chopper.
+E: V.O. PRE-LAP CONT’D
+C: MULHOLLAND
+D: Criminal, killer, I wish we had more intel to give you. You’re going to have to read him as you go. There’s no playbook for this one, Mitch. You’re going to have to write it. The rest is lost in noise as they approach the Chinook. INT. CHINOOK HELICOPTER - MINUTES LATER The men hook into the web seats, gear strapped around them. Nelson shouts instructions over the rotors.
+C: NELSON
+D: Gentlemen, listen up! We got a nine- hour flight. There’s been missiles fired from the peaks and this sandstorm will ruin the engines. So we’re flying at 25,000 feet.
+C: COFFERS
+D: A little above operation capacity, ain’t it, Cap?
+C: NELSON
+D: By 15,000 feet. Nobody in the history of the Army’s ever flown a chopper this high for this far. Milo and Diller applaud, cheering this bit of news.
+C: MILO
+D: Start off big.
+C: NELSON
+D: Before we call Guinness: there’s no oxygen. These masks, they’re shut off to make sure our pilots have air. Suddenly no one is cheering. Milo leans over and takes off Essex’s glasses, tucking them into his shirt pocket. EXT. TARMAC - CONTINUOUS As the Chinook lifts off in a storm, curling into the black stratus, Nelson’s briefing continues.
+C: NELSON
+D: After a few hours, you’ll get hypoxic - and pass out. When we drop back down, you’ll wake up with one hell of a hangover. INT. CHINOOK HELICOPTER - TWO HOURS LATER PAN ACROSS the men, gray with airsickness and delirium. Falls is shivering. Milo whispers Hail Marys. END ON NELSON, strapped across from Spencer. The storm howls.
+E: V.O.
+C: SPENCER
+D: Set your pack next to you so you don’t hurt your neck when you drop.
+C: NELSON
+D: I’m not even dizzy.
+C: SPENCER
+D: Big talk for a Kansas boy. That’s low country.
+C: NELSON
+D: When everybody comes to, I’ll be right here - watching over them.
+C: SPENCER
+D: You don’t need to prove so much. You got a veteran team. They don’t need to be tucked in for bedtime. Nelson notices Spencer’s smirk, and he’s getting angry.
+C: NELSON
+D: Maybe I’ll tuck you in, Cal. Spencer is now irritated also.
+C: SPENCER
+D: Must be the altitude talking, son. I’ll bet you a week’s worth of MREs that I watch you take a nap.
+C: NELSON
+D: I’m not closing my eyes.
+C: SPENCER
+D: Sounds like we got ourselves a bet. I’m warning you, Kansas. I been around a long time. Never lost a drinking contest in my life. INT. COCKPIT - CHINOOK HELICOPTER - ANOTHER HOUR LATER With zero visibility, the chopper moves at full-speed, engines roaring, rotors slicing the air. INT. CHINOOK HELICOPTER - BAY - CONTINUOUS PAN ACROSS each man, green with airsickness, chattering with cold. FALLS is woozy. JONES slaps himself. MICHAELS motions to throw up into his sleeping bag case. But everyone is aware of the duel... At the end of the line, SPENCER and NELSON face each other across the aisle, eyes determined.
+C: SPENCER
+D: Queasy yet? Don’t worry. Take a nap. As the Chinook tips downward, BLACK’S limp body droops. Nelson shakes his head back and forth rapidly.
+C: SPENCER
+D: No? Then you better pass the time. Tell me how you got off that Kansas farm and wound up here in a storm? MILO and BENNETT sag in the web seats, unconscious. Half the team has passed out. Diller, bleary-eyed, tries to stay alert to watch the standoff between Spencer and Nelson.
+E: CONT’D
+C: SPENCER
+D: Too sick to talk? ESSEX and COFFERS nod off, eyes rolling back.
+E: CONT’D
+C: NELSON
+D: Joined the army because of my Dad.
+C: SPENCER
+D: Ex-mil?
+C: NELSON
+D: Far from it. Cattle rancher. This is about the last place he’d ever see me. Diller hears Nelson’s words with narrowed eyes; then his head droops against Spencer. Spencer’s eyes are on Nelson.
+C: NELSON
+D: He passed when I was nineteen. Heart attack. I figured I’d blaze my own trail.
+E: CONT’D
+C: SPENCER
+D: You don’t think he’d approve? PUSH IN on NELSON as he remembers, keeping himself alert.
+C: NELSON
+D: It wasn’t his plan, so probably not. He was tough. It was his way or the highway. He used to say he’d rather we were scared of him than anybody else. Like he could bully us into being brave. But that’s not how you teach courage. That’s how you teach fear. My brothers and I, we grew up scared of making any mistake at all. So I enlisted at nineteen, SFAS at 23. Figured it was the best way to do something good, instead of just trying not to do something wrong. Cal? Cal? REVERSE ON SPENCER, passed out against his gear. As they pass over a ridge, the cabin slopes in the other direction and loose items tumble past. As Nelson realizes that he’s the last man standing, he allows himself a private smile. EXT. HIGH DESERT PLATEAU - AFGHANISTAN - 3:10 AM The helicopter touches down in zero visibility. The men deploy in formation. They form a defensive perimeter with Nelson at the apex while the helicopter lifts off, vanishing behind the grit swirling underneath it. Finally, the din of the chopper is gone, leaving almost total silence. The winds have died and the skies have cleared. Nelson gestures to the men, who move in silence. Nelson pulls on NIGHT VISION GOGGLES. THROUGH NIGHT VISION: They inch ahead on a foreign terrain. Suddenly - pfft - like a streaking comet, a TRACER BULLET pierces into the earth. Nelson spins, rifle raised. There’s nothing but a faint whistle of wind. His hand is up, halting the crew. His breathing is loud and ragged. Like hail - PFFT, PFFT, PFFT - shells splash into dirt, fired from a machine gun somewhere in the mountains.
+E: a beat
+C: NELSON
+D: Down, down, down. Nelson gestures and every man drops on the flat bare earth. There’s no cover. They try to merge with the ground as - pfft, pfft, pfft - the bullets blow geysers of dust around them, a flurry that pockmarks the ground. One shot strikes MILO’S PACK, echoing off a canteen. From his stomach, Nelson raises binos: Shots spark from miles away, up in the dark, jagged mountains.
+C: DILLER
+D: They’re shooting blind.
+E: whispering
+C: SPENCER
+D: Where the chopper set down. Nelson reacts quickly, like an athlete, waving to the others.
+C: THROUGH NIGHT VISION
+D: Nelson finds a two-foot lip of raised dirt, stretched out along the plateau. He slides in behind it. EXT. DEFENSIVE POSITION - HIGH DESERT - 3:12 AM All of the men take cover in the darkness, now hearing the far off chatter of a MACHINE GUN in the hills.
+C: DILLER
+D: That’s a waste of a whole bandolier.
+C: MILO
+D: Motherfuckin’ warlord left us hanging out here to rot. Nelson raises his hand to silence everyone. Bullets whip and whistle into the dust beyond them.
+C: MICHAELS
+D: Captain? What do we do?
+C: NELSON
+D: We wait.
+C: COFFERS
+D: For Dostum?
+C: NELSON
+D: Or sunrise. Just then, the wind begins rising up again, picking up dust as if the earth is shedding around them. They drop down behind the lip, as sound is drowned out. EXT. DEFENSIVE POSITION - HIGH DESERT - 3:45 AM Crouched down, the twelve men lean against their meager cover, as sand and grit blows over them. The storm swallows them, raging in the darkness. EXT. DEFENSIVE POSITION - 4:30 AM Once the winds have died down. In very faint light, we see what appears to be a formation of sand, dirt and rock. Suddenly, it moves and - - it’s NELSON, sand and dust flaking off him as he finally peers over the lip. The entire team has been waiting, perfectly still. Breathing is heavy all around Nelson as he rises binos to scan the craggy hills below.
+C: NELSON
+D: Somebody’s on the path. When a LIGHT comes on twenty yards ahead, they raise their weapons, sand and grit flying, twelve rifles rising in unison. Nelson pauses a moment, squinting at the man through the glare. He gestures for them to lower the muzzles. They do. There’s a SHADOW in front of the light. A gaunt man wrapped in a ragged blanket that flaps in the wind. A figment from a dream. He’s wearing FLIP FLOP shower shoes and holds a rifle like a cane. He’s FAKIR and he faces this space-aged army as they form a semi-circle around him.
+E: 40s
+C: NELSON
+D: Salaam aliekum. Nelson puts his hands together in praying shape, bowing to the strange figure in the sandstorm. After a pause, FAKIR makes the same motion back, bowing.
+E: CONT’D
+C: FAKIR
+D: Scham bacher. Namse-man “Fakir” ast. More and more RIFLEMEN begin appearing out of the murky air. TWELVE... FIFTEEN... TWENTY... and entire ragged army. TEAM 595 eyes them warily as Nelson greets them with bows. Whatever tribe this is, Team 595 is already outnumbered; but it appears like men from different eras of history converging. Out of darkness, comes A YOUNG AFGHAN SOLDIER - whom we’ll know as NAJEEB . He seizes the strap of Nelson’s pack. Nelson swings his rifle, angry that he let the kid sneak up on him.
+E: 14
+C: NELSON
+D: Hold on. Where’d you come from? The kid tugs on his shoulder-strap and Nelson twists away.
+C: NELSON
+D: I got it, I’m good.
+E: CONT’D
+C: MILO
+D: How do we know these aren’t the same guys who were shooting at us? Fakir turns and begins walking away with his lantern, the others trailing him. Nelson pivots to see all of his men looking ahead with confused faces.
+C: NELSON
+D: Okay. We’re following this guy. His name is “Fakir.”
+C: COFFERS
+D: Faker? Of course, it is. Nelson leads and the men fall in behind him, descending off the plateau down a craggy hillside of loose rocks. EXT. AFGHAN HIGH DESERT - 3:30 AM - LONG SHOT The team follows down a steep path. Coffers and Falls carry a box that makes a clanking noise.
+C: COFFERS
+D: What’s in here?
+C: NELSON
+D: Vodka. CIA thinks Dostum developed a taste with the Soviets. Nelson hurries ahead down the scree toward Fakir, who’s walking ahead with his face completely wrapped. Nelson’s face already looks tenderized by the grit.
+C: NELSON
+D: A ty govorish’ po russki?
+E: CONT'D
+C: FAKIR
+D: Malen’kiy.
+C: NELSON
+D: Ya khochu vstret’sya s Dostum.
+C: FAKIR
+D: Dostum ne zdes’. As Nelson slows, Spencer notices the change on his face.
+C: SPENCER
+D: What’s up?
+C: NELSON
+D: Pidgin Russian. Dostum’s not here.
+C: SPENCER
+D: He’s not here?
+C: NELSON
+D: That’s what he said. There’s a tense look between Nelson and Spencer. This is a bad sign. But they keep their faces stern as they carry on. EXT. AFGHAN PLATEAU - TEN MINUTES LATER As they near the encampment, the team passes a clearing of stones, covered with blood.
+C: MICHAELS
+D: What the hell happened there? DILLER shines his light over the blood, down into a pocket between stones where he sees... A SEVERED HUMAN FINGER.
+C: DILLER
+D: A little discipline, I guess. EXT. RIDGE - NEAR “ALAMO” - LATE NIGHT They crest a hill and stand facing a MUD FORT against the night sky. Fakir murmurs in quiet Russian to Nelson.
+C: NELSON
+D: Okay. This is it. They call this, “The Alamo.”
+C: COFFERS
+D: Do they know we lost that one? Fakir leads them to a dark doorway leaking out smoke. Nelson glances at Spencer, eyes wary. Nelson scans his team: faces anxious and raw. He studies the fort, its oblong shape clear against the night sky.
+C: COFFERS
+D: Captain? Nelson pauses at the potential death-trap of this fort. He steadies himself and speaks with a forceful tone.
+E: CONT’D
+C: NELSON
+D: Falls, Michaels, secure the perimeter. Diller. You and Milo get up on the roof: opposite corners. Radio contact every fifteen. Diller nods and heads off. Milo shuffles after him, giving a look to his Captain that says: Thanks for the worst job. Captain Nelson steels himself, then ducks down to lead the rest of his team inside the fort. INT. ALAMO - COURTYARD - MOMENTS LATER Fifty Afghans step from the shadows, holding rifles, bandoliers of ammo draped over robes. They wear sandals, men’s dress shoes, or tennis shoes without laces. The youngest is in his teens; the oldest, his sixties. Nelson takes in all of the weathered faces, watching blankly.
+C: NELSON
+D: Salaam Alaikum. We are American Special Forces. We’ve come to help you fight the Taliban. No reaction. It’s like talking to the mud walls.
+C: NELSON
+D: This is your war. We’re here to help you fight it. Nelson waits. Nothing. They recognize that he’s finished and return to divots in the dirt where they go back to sleep. Nelson looks over at Spencer in disbelief.
+E: CONT’D
+C: SPENCER
+D: Guess there weren’t any questions. INT. ALAMO - LOW-CEILINGED ROOM - MOMENTS LATER Woven carpets have been laid on the mud floor for the Americans - clearly the best the Afghans have. Nelson appears touched by it. The team is easing off packs, claiming places. Jones shows Spencer a spot on the wall carved with the names and regiments of BRITISH SOLDIERS. 1863, 1839. Overlapping them are more recent carvings: RUSSIAN SOLDIERS. 1980. 1988.
+C: JONES
+D: Spencer? Check this out.
+C: SPENCER
+D: “The graveyard of empires.” This doesn’t seem to register with Falls, who pulls out his combat knife and starts carving in his name. EXT. ALAMO - MOMENTS LATER As Milo heads outside with his M-4, the same solicitous AFGHAN KID who tried to grab Nelson’s pack now follows him.
+C: MILO
+D: I’m on watch, Menudo. Don’t get any ideas. He shakes his M-4. Uncomprehending, the boy proudly displays his weapon: an ancient Lee-Enfield rifle.
+C: MILO
+D: Yeah. Nice musket.
+E: CONT’D
+C: NAJEEB
+D: Namse-chase Najeeb. Najeeb.
+E: hand on chest
+C: MILO
+D: Okay, Najeeb. I’m gonna take a piss now, so... Najeeb doesn’t understand. So Milo pantomimes taking a piss.
+C: MILO
+D: We like to do this by ourselves, bro. Respect my culture, okay? He finds TWO HOLES dug into a corner of the fort. He turns, unzips, and curses while Najeeb watches him. EXT. ALAMO - MOMENTS LATER Nelson parks by the doorway on his pack, staring out at the darkness, rifle across his lap. Spencer sidles closer, suddenly more kind and fatherly.
+E: CONT’D
+C: NELSON
+D: Got to be a reason he’s not here.
+C: SPENCER
+D: You’re going to need sleep. Everybody got a wink on that flight but you.
+C: NELSON
+D: Something’s not right here.
+C: SPENCER
+D: I get that. But don’t push so hard you get exhausted. This is about being smart - not superhuman. Nelson takes this in... but nods curtly.
+C: SPENCER
+D: You want those MREs now or later?
+E: CONT’D
+C: NELSON
+D: Double or nothing we make it to Mazar.
+C: SPENCER
+D: Fair enough.
+C: NELSON
+D: Get some rest. I’ll let you know if I get tired. Spencer nods, setting back into the darkness. Nelson keeps his eyes out the doorway.
+C: ON THE HORIZON
+D: Light slowly begins to come through, like a photograph developing. Silhouettes form, the horizon clarifies. A rooster crows. As the sun colors a dusty landscape, there comes a distant sound: Gunfire. Pop-pop-pop. INT. THE ALAMO - ROOM - DAWN - CONTINUOUS Nelson jerks awake at the sound. He grabs his rifle, looking out at empty mountains in pale light. Pop - pop - pop. He hears more shots from down the valley, where he spies a PLUME OF DUST. Crackling like firecrackers, there’s more small-arms fire. The rest of the team is waking, grabbing rifles, chambering bullets - the rattles and clicks of a unit preparing to fight out of a dead sleep.
+C: MICHAELS
+D: We’re taking fire. At the doorway, Nelson squints at the moving dust. Bennett and Ramirez are locked and loaded.
+C: NELSON
+D: Coffers, check the courtyard for an ambush. Rifle ready, Coffers checks out the other doorway, seeing the Afghans all still sleeping on the ground. Essex and Jones come in close behind Nelson, guns ready. The gunshots continue - p-p-pop-pop, whole clips emptied.
+C: SPENCER
+D: I think they’re signaling. There’s a long tense beat, filled with chattering shots.
+C: NELSON
+D: Yeah. It’s him. He’s here. EXT. THE ALAMO - CONTINUOUS Nelson exits and walks with his gun lowered, out to a vantage where he can see the entire valley below. A BATTALION OF HORSES stirs up dust like a wind devil, scored by random shots fired into the air. It’s like a gang of horse rustlers from the Old West, riding without saddles and firing wild. Nelson makes a sharp rancher’s whistle that draws men out of the shelter and down from the roof: SPENCER, DILLER, MILO, ESSEX, COFFERS, FALLS, BENNETT and MICHAELS. They fall in beside Nelson to watch. REVERSE ON: A WHITE HORSE emerges out of dust. The man in the saddle is sturdy and strong-shouldered, holding the reins in one hand, arrogantly, grinning into the wind. Behind him are FIFTY HORSEMEN, following in a stampede over loose rocks.
+C: NELSON
+D: So much for diabetes. The horses take the steep hillside like its nothing.
+C: ESSEX
+D: We either got a whole lot of new friends, or we’re surrounded. Finally - DOSTUM pulls up and swings off his horse. This man is nothing like the CIA briefing. He’s 6’3” and sturdy, with Turkic features and gray stubble around his bushy, Stalinesque mustache. He has a proprietary air, as if he owns the land beneath every step.
+C: NELSON
+D: General Dostum? Salaam Alaikum. Peace be with you. Dostum sizes up the Americans. His eyes move back and forth between Spencer and Nelson. Then he returns a slight bow.
+C: DOSTUM
+D: Salaam Aleikum.
+C: NELSON
+D: Mnye skazali, chto vy govotite po- Russki. There’s a long stone-faced pause from Dostum.
+C: NELSON
+D: They said he spoke Russian. Vy govorite na Russkom, ser?
+E: CONT’D to Spencer, quietly to Dostum
+C: DOSTUM
+D: Khorosho chtoby govorit’ na yazyke vashikh vragov.
+E: a beat
+C: NELSON
+D: He says it’s good to know the language of your enemies. With a stern face, Dostum bows to Spencer - a focused greeting to the oldest American. He gestures for Spencer to join him. Speaking to Nelson like a translator, he says:
+C: DOSTUM
+D: Syuda. Priyekhat’.
+C: NELSON
+D: He wants you to go with him, Cal. Dostum heads into the fort. Nelson waits a moment with Spencer, confused - then decides:
+C: NELSON
+D: Maybe he means all of us. INT. ALAMO - CONTINUOUS As the group enters, Nelson watches Dostum’s attendants unroll dusty carpets from their saddlepacks. The dust fills the room still as they set down glass bowls containing pistachios, apricots, almonds... A very old man hobbles over with a brass kettle from the fire. Nelson watches him shake as he pours tea into cups.
+E: CONT’D
+C: NELSON
+D: Tea ceremony. Shoes off. Be careful: he’s watching everything. Dostum has taken a seat on a pillow as the attendants continue finishing arrangements. Nelson gestures to his men - and they all take off their boots. Dostum catches a glimpse of NELSON’S PICTURE falling out. His daughter. Nelson quickly slips it into his sock.
+C: NELSON
+D: Okay we’re supposed to sit. I need to be at the general’s left. Don’t show anybody the soles of your feet. Nelson watches as the OLD MAN struggles to pour the tea. He notices that he’s missing his thumbs on both hands. Nelson freezes, watching the man, showing sympathy as he struggles. INT. ALAMO - TWENTY MINUTES LATER Twenty minutes have felt like hours as Nelson and six team members sit among the Afghans on the wide carpet. Nelson sits to Dostum’s left as the men chew loudly and belch. Dostum keeps gazing at Nelson with distaste. He mutters something to his own men in Dari.
+E: CONT’D between Dostum and Spencer
+C: NELSON
+D: We can’t just sit here and let him size us up.
+C: SPENCER
+D: That’s what he’s doing.
+C: NELSON
+D: Michaels, let’s give him the gift. Get the horse feed. General’naya. U nas yest’ podarok. Michaels drags over two huge bags of oats. He stops at the edge of the carpet and shows them to Dostum, running some of the oats through his fingers.
+E: to Dostum
+C: NELSON
+D: For your horses. Dlya loshadey. There’s a torturous pause. Grim, Dostum watches the oats pour through Michaels’ fingers. Dostum says something in Dari to his sub-commanders, AHMED LAL and KHALED , a gaunt, glowering Uzbek. KHALED makes a plea to Dostum in Dari, hostile, until Dostum interrupts with:
+E: CONT’D 30s 40s
+C: DOSTUM
+D: Loshadi skazat’ spasibo. The air leaves the room. Dostum looks disgusted.
+C: NELSON
+D: He said, “The horses thank you.” Dostum’s men stare down, morose.
+C: NELSON
+D: We insulted him. These guys are starving, we bring them horse feed.
+E: CONT’D
+C: MICHAELS
+D: What about the vodka, boss?
+C: COFFERS
+D: You trust that Intel? They didn’t get a thing right about this guy. Now we hand a Muslim a drink?
+C: DILLER
+D: He ain’t no stranger to contraband.
+C: NELSON
+D: He’s listening to us. Nelson realizes that Dostum is watching closely. Nelson meets eyes with the WARLORD, who stares back. His eyes are cold, but there’s a hint of a wry smile on his face.
+C: NELSON
+D: Okay, get it. Let’s go for it. Diller heads to one of the crates brought off the helicopter. He lifts up a bottle of Russian vodka, showing it to Dostum.
+E: CONT’D
+C: DILLER
+D: General? Frowning, Dostum gestures for him to bring it over. Diller hands it to him. Dostum turns it over in his hands, looking at the CYRILLIC LETTERS on the front. He unscrews the cap and smells it. Then, with his eyes hard, he raises the bottle up in the air and says in perfect English:
+C: DOSTUM
+D: To my new American friends. I hope you do not think you will succeed here by copying the Russians. He takes a hard swig on the bottle. The Americans are stunned by his English as much as his vigorous drinking. He comes up from his swig, baring his teeth. He leans past Nelson to hand the bottle directly to Spencer.
+C: DOSTUM
+D: What I really need from you men... are bombs.
+E: CONT’D
+C: NELSON
+D: Sir, we have more bombs than you could ever want. Dostum looks back to the younger Captain, baffled by what he thinks is an interruption.
+C: NELSON
+D: JDAMs. GPS-guided. We can target anything: we just need to get close.
+E: CONT’D
+C: SPENCER
+D: Show him our map. Energized, Nelson gestures to ESSEX, who immediately begins unfolding a small CIA map of the northern provinces.
+C: NELSON
+D: We know we need to take Mazar-i-Sharif to control the north. We’re here to assist you on this route. He traces along the RIVER VALLEY below Dostum’s skeptical eyes. The warlord looks across Nelson to address SPENCER.
+C: DOSTUM
+D: I don’t need this. I already told you what I need from you. It’s clear that he assumes the oldest man is in charge.
+C: NELSON
+D: General, one detail: I’m Captain Nelson. That’s Chief Warrant Officer Spencer. It’s my team. Dostum looks Nelson up and down.
+C: DOSTUM
+D: Then you will show me the bombs. All at once, Dostum rises and heads toward the door.
+C: DOSTUM
+D: Come. Let’s go. Dostum gestures and his men begin filing out past him.
+E: CONT’D
+C: DILLER
+D: A little light on strategy. Nelson pauses, watching Dostum move into the glare outside the tent. Suddenly, Nelson springs up after him. EXT. ALAMO - CONTINUOUS Dostum barks order to his men in Dari. As Nelson catches up to him, Spencer, Diller and the others trail behind.
+C: NELSON
+D: Sir? Where do you plan on taking us?
+C: DOSTUM
+D: To kill the Taliban. Inshala.
+C: NELSON
+D: I need to know specifically where we’re going.
+C: DOSTUM
+D: Six hours. By horse.
+C: NELSON
+D: And you have horses for my men?
+C: DOSTUM
+D: I have six.
+C: NELSON
+D: There are twelve of us.
+C: DOSTUM
+D: I can spare six. Dostum holds up six fingers at Nelson like a child. Nearby, a few Afghans have begun to make excited war cries.
+C: NELSON
+D: When would we leave?
+C: DOSTUM
+D: Now. Dostum pivots and continues ahead through dust as the rest of the group catches up to Nelson.
+C: NELSON
+D: Are you kidding me? He’s going to make me split the team. Day one.
+E: to Spencer
+C: SPENCER
+D: I was worried he might just want to milk us for cash. At least this sonofabitch wants to go.
+C: NELSON
+D: How do we know he’s not cashing us in? Nelson looks at the horses brought out: shaggy, thin-legged, and short. Nelson is so tense, his jaw hurts.
+C: DILLER
+D: We refuse, we lose face. Nelson grabs the map from Essex - and storms back to Dostum through the stirred dust.
+C: NELSON
+D: Sir? Can you show me on the map where you’re taking us? Dostum waves his hand over the map in Nelson’s fist - then points across hills and sharp peaks under the midday sun.
+C: DOSTUM
+D: Cobaki. There. On the other side of those mountains. Nelson is gripping the map as Dostum heads toward the horses. Spencer has stepped up, waiting. After a pause, Nelson speaks to Spencer, loud enough for Dostum to hear.
+C: NELSON
+D: Okay, Cal. I’ll take half the team, you take the other. I’m going to be in touch every four hours. You don’t hear from me, you call in the big guns. Dostum shakes his head, aware of the ploy. He whistles over to KHALED, speaking in Dari:
+C: DOSTUM
+D: Besyar khub! Zhwan! Khaled cracks a smile - and Nelson clocks it, fearing that the men are making fun of their caution. Once Dostum and Khaled are out of earshot:
+C: NELSON
+D: You think they believed that?
+C: SPENCER
+D: Nope. EXT. ALAMO - FARTHER FROM FORT - MOMENTS LATER As Nelson returns, the others from guard duty fall in.
+C: NELSON
+D: We’re splitting the team. The remaining team members are shocked, but Nelson doesn’t pause to let them respond.
+C: NELSON
+D: I’m taking five with me: Diller, Coffers, Michaels, Ramirez and Bennett. Coffers and Michaels exchange mystified looks.
+E: CONT’D
+C: NELSON
+D: Daypacks only. These horses are small: let’s not wear them out. By the stable, Dostum is already on his horse, surrounded by his riding party.
+E: CONT’D
+C: DILLER
+D: He’s fixin’ to leave without us. Dostum kicks his stallion’s flanks and rides back to Nelson. As he stops, he points to a snowy peak.
+C: DOSTUM
+D: I took Dehi from the Taliban four days ago. Some there are loyal to Mullah Razzak. They will not be as polite as I am. He starts to ride his horse away, then stops, looking back.
+E: a grin
+C: DOSTUM
+D: Another thing, Toran Nelson. The Taliban has put a very good price on your heads. You should be flattered. One hundred thousand US dollars for your body... Fifty thousand for a bloody uniform. Good luck. Cho! Cho! He gallops off, casting a storm of dust.
+E: CONT’D spurring his horse
+C: DILLER
+D: You reckon that’s a warnin’ or a threat?
+C: NELSON
+D: It means we need to show him we’re worth more alive than dead. EXT. ALAMO CAMP - NEAR THE STABLES - MOMENTS LATER Afghans lead out SIX HORSES for Nelson’s Alpha Cell. They’re a breed called yaboos - short, ornery beasts.
+C: NELSON
+D: All right. Who’s ridden before? Only Michaels and Bennett raised their hands.
+C: BENNETT
+D: Summer camp. When I was nine. They don’t cover this in basic anymore.
+C: DILLER
+D: Not since the Civil War.
+C: COFFERS
+D: You’re still pouting about that one, aren’t you? An Afghan hands Nelson the reins of a horse. CLOSE-UP ON THE SADDLE: Three boards hinged together, covered with goatskin over a filthy blanket. No pommel.
+C: NELSON
+D: Okay, old-school cavalry, you boys got five minutes to catch up on five- thousand years. He grabs the edge of the board, jabs his toe into the stirrup, and heaves himself up. The stirrups are too short for a man of his size, but he nevertheless finds his balance. Afghans help them mount. Diller is far too big for his horse, his knees up high. He strains to stay on. Nelson wrestles the reins, then - exerting force - he gets the animal to submit. He trots in a zigzag around his men, using the reins to punctuate his lesson.
+C: NELSON
+D: Here’s how you make her go. And here’s how you turn. And if you get thrown and your boot gets stuck in these stirrups, you’ll get dragged. Don’t do that. Bravo Cell all gather around the Alamo, amused by the sight.
+E: CONT’D heels into its ribs pulls the reins Spencer, Milo, Essex, Black, Falls, and Jones
+C: NELSON
+D: You get raked over this rough ground, you’ll die. Bennett’s horse starts to saunter away.
+E: CONT’D
+C: NELSON
+D: Show the horse you’re in charge. If you’re not sure, neither’s he. Diller is a huge man, and on his bowlegged horse he looks as if he’s trying to settle on a Shetland pony. Nearby, Ramirez has the shortest yaboo of all.
+E: CONT’D
+C: COFFERS
+D: Figures. Ramirez got a low-rider. Ramirez just slaps Coffers’ horse on the butt -- and it takes off running a few yards. In a cloud of dust, Coffers shouts and pulls back on the reins until the horse throws him. The Afghans look on in disbelief: these are our allies!? Nelson looks off into the distance, where Dostum and his horsemen are already cresting the hill.
+C: NELSON
+D: He’s not waiting. EXT. ALAMO - A FEW MINUTES LATER Finally everyone is mounted. The Alpha group goes slowly through the front gate, Nelson at the lead. Spencer strides alongside him the last few yards.
+C: SPENCER
+D: I’ll schedule a drop: I’ll request blankets for Dostum’s men.
+C: NELSON
+D: I’ll be on the PRC. Michaels will have the commo package to K2.
+C: SPENCER
+D: He’ll see it if you’re scared, Mitch. Take your own advice. Fear begets fear. Don’t be afraid of making a mistake. Nelson stops. He looks down at Spencer, surprised.
+C: NELSON
+D: You were out cold when I said that. Oops. Spencer was just caught. He betrays a subtle smile.
+C: SPENCER
+D: I was. Wasn’t I? Spencer pats the horse.
+C: SPENCER
+D: Every great leader needs to start off with a win.
+E: CONT’D
+C: NELSON
+D: Sonofabitch. Spencer nods at the distant figure of Dostum.
+C: SPENCER
+D: Hurry up. We’re losing the war. EXT. AFGHAN PLATEAU - DAY Following the dust cloud of Dostum’s posse, Nelson and the alpha cell move through an empty settlement. Mud houses are blackened by fire. Shell-casings cover the dirt road. Essex is studying the map against the neck of his horse, confused by the route. He looks up ahead to Nelson.
+C: ESSEX
+D: Captain? I don’t understand this route we’re taking. EXT. AFGHAN PLATEAU - FARTHER ALONG - DAY But they carry on, tailing the back of Dostum’s group. They pass a row of graves - many of them small tombstones for children. In the dust, Diller sees long tracks.
+C: DILLER
+D: T-52s. Suddenly, riding up behind are TEN AFGHAN SOLDIERS, Dostum’s rear guard. They pass the Alpha team, trailing three mules loaded with rucksacks and bottles of water. AHMED LAL mutters Russian to Nelson, who nods. Back to his own men, Nelson gestures to a graveyard, mounds adorned by makeshift shrines fidgeting in the wind.
+C: NELSON
+D: That’s a mass grave. The Taliban’s work. Everybody stay sharp. EXT. DEHI - MOMENTS LATER They see the first group of people standing at the edge of the village, watching them come on. A few starved and beleaguered-looking old men with hollow eyes. EXT. DEHI - FARTHER IN - MOMENTS LATER Nelson rides alongside Diller past a house gouged with bulletholes. Under the awnings swing the skinned sides of sheep. Eyes follow them through the broken slats of shutters. People slowly emerge from their homes, staring. Nelson clocks a few men of fighting age.
+C: NELSON
+D: Smile and stay ready. Grinning, Nelson lays his M-4 across the saddle, barrel pointing at the crowd. Villagers begin crowding the road, reaching out to touch the passing legs of the soldiers.
+C: DILLER
+D: Took us down a damn parade route. Bennett sees a young girl in the shade of an awning: HER NOSE has been cut off, leaving a chasm on her face.
+C: BENNETT
+D: What the hell happened here? Nelson scans to where ARMED AFGHANS stand in the shadows, carrying AK-47s, torpid. Another carries an RPG tube. The two men are holding hands.
+C: COFFERS
+D: Dill, how come you never hold my hand anymore?
+C: NELSON
+D: Just keep a finger on the trigger. Without warning the AFGHAN REAR GUARD stops. Everybody on Nelson’s team halts and tenses up. Diller puts his hand onto the sidearm in the holster on his leg.
+C: BENNETT
+D: What? What’s going on?
+C: NELSON
+D: Don’t know. Pochemu my ostanovilis’? Calmly digging through his saddle pack, LAL replies:
+E: to Lal
+C: LAL
+D: Nam nuzhny veshchi.
+C: NELSON
+D: Oh, boy. Supplies.
+C: MICHAELS
+D: Come on.
+C: COFFERS
+D: Are they trading us for the supplies? Now the villagers press in around the legs of the horses. Many are children, disfigured from minefields. They walk with wooden crutches; they reach out mangled hands.
+C: NELSON
+D: Salaam alaikum. The long silence is filled only with the hollow sound of footsteps on the walkway boards around them.
+C: NELSON
+D: Chedor hastee? Namse-chase?
+E: CONT’D
+C: COFFERS
+D: What is taking these guys so long? Over the heads of the crowd, Nelson scans an alley. He sees sudden movement. He grips his rifle, but -- It’s a mother in a faded BURQA, moving with her young child across the shadows. The villagers are all around now. Ramirez turns quickly toward an OLD MAN with a rifle.
+C: RAMIREZ
+D: Tell him to drop his weapon. Now. The old man begins using the rifle as a walking stick. Finally, the AFGHAN SOLDIERS emerge from the store carrying even more water. They load everything onto the mules, whose knees tremble under the weight. One of the mules won’t stand still, so an Afghan soldier beats it with a leather crop. Nelson looks at Diller, both uncomfortable with the cruelty. The Afghans swing onto their horses and take off.
+C: BENNETT
+D: Wouldn’t want to be a mule here.
+C: DILLER
+D: Don’t think you want to be an Afghan neither.
+C: NELSON
+D: We didn’t do this for ten gallons of water. Dostum just showed us off. He’s saying, “Here come the Americans. And they’re with me.” EXT. DARYA SUF RIVER - LATER The horses plunge into the frigid water, soaking the men up to their knees. Everyone gasps at the cold. EXT. MOUNTAIN TRAIL - HOURS LATER They climb a trail insinuated into stone. The horses strain, as the Americans wince in their saddles. To Coffers’ left is a 1,000 foot drop. His horse scuffles, nearly slipping. An avalanche of rocks cascades below. EXT. DOSTUM’S COBAKI HEADQUARTERS - LATE AFTERNOON They crest a final hill onto flat ground, the horses lathered, the men drenched with sweat. Nelson dismounts first and looks out at the massive expanse of valley: red hills, dust devils on the plains. He spurs his horse past TRENCHES to where Dostum’s men have unrolled rugs. One of them is singing a call-to-prayer. Finally, Dostum meets eyes with Nelson across the sloped ground and nods to him. Michaels has already begun setting up the comms. Nelson watches as Dostum’s entire unit begins the EVENING PRAYER, facing Mecca in light from the setting sun. EXT. NEAR CAVES - COBAKI HEADQUARTERS - TEN MINUTES LATER As Nelson moves supplies into the shade of the steep cliffs, Michaels approaches him with a grim look.
+C: MICHAELS
+D: Cap? Minor issue. We’re on the northern edge of this range.
+C: NELSON
+D: What does that mean?
+C: MICHAELS
+D: The commo satellite orbits to the south. I can point the dish, but I can’t make contact here.
+C: NELSON
+D: So we’re cut off.
+C: MICHAELS
+D: We get out onto that plateau, we’ll be okay, but here at camp, yeah.
+C: NELSON
+D: He’s got us camping in a dead zone. Am I paranoid? There’s no way he could know where our satellite is. Nelson looks out at the campsite, seeing Dostum emerge from the largest of three caves.
+C: MICHAELS
+D: Maybe it’s a coincidence. Dostum meets eyes with Nelson, watching him from a distance.
+C: NELSON
+D: There’s already a lot of coincidences with this guy. Get out onto that plateau and check in with Spencer. Let him know. Dostum approaches with the setting sun behind him, a long shadow angled off him. He stops a few yards away.
+E: thinking
+C: DOSTUM
+D: We are too late. We will kill the Taliban in the morning. Nelson stares ahead, the dread now sinking into his bones. INT. CAVE - COBAKI HEADQUARTERS - NIGHT Nelson and Diller sit on opposite sides of a campfire, while Coffers and Bennett stand guard. Nelson’s eyes are on the other dark cave opening across camp.
+C: NELSON
+D: First he splits the group, then I gotta send Michaels downrange every time I check in. Spencer’s back there outnumbered twenty to one. Nelson pokes the fire.
+C: DILLER
+D: Makes you miss your old job, I bet.
+C: NELSON
+D: No. What’d you used to do?
+C: DILLER
+D: If I can remember back that far... I was a schoolteacher. In West Virginia. Fifth grade.
+C: NELSON
+D: No shit.
+C: DILLER
+D: American History. Loved it, man. Frickin’ loved it. Bull Run to Pearl Harbor. All the big hits.
+C: NELSON
+D: How’d you wind up in Mogadishu with Spencer?
+C: DILLER
+D: My temper. And a girl. I was with her at a bar. Some sonofabitch put his hands on her and he almost died in the hospital. I was this close to Man One. ‘Stead I got aggravated assault. Judge gave me a choice between jail or the army. Twelve years later, here I am where I really belong. In a cave. Nelson laughs. But he suddenly goes silent when he sees movement far across the campfire.
+C: NELSON
+D: Maybe you’ll wind up in somebody’s history book. A SHADOW approaches the edge of the cave.
+C: DILLER
+D: Let’s hope it’s ours and not his. It’s DOSTUM, emerging out of the darkness, flanked by riflemen. Coffers and Bennett let him pass.
+C: DOSTUM
+D: Captain. We have a problem. Come with me.
+C: NELSON
+D: Come with you where?
+C: DOSTUM
+D: Come. Dostum turns and moves away back into the darkness. Nelson stares at Diller in the firelight. Diller shrugs with an expression that says: “Go for it.” Then - as Nelson rises to leave - Diller quietly readies his weapon. EXT. COBAKI HEADQUARTERS - MOUNTAIN PATH - MOMENTS LATER Catching up to Dostum, Nelson hikes a trail that winds above the camp. Rounding a bend, hidden from the others, he comes to Dostum, blocking his path.
+C: DOSTUM
+D: Sit. Please.
+C: NELSON
+D: Sir, whatever you need to tell me you can say it in front of my men.
+C: DOSTUM
+D: Sit. Nelson sits down. The sky is a spray of stars above them.
+C: DOSTUM
+D: You are my guests. Under code of shari’a, we’re sworn to defend you. But your men stand guard. Nelson studies Dostum’s face in faint light: he’s insulted.
+E: CONT’D a beat
+C: NELSON
+D: Oh, okay. I get it. But... We have a cultural difference here, sir. This is how we’re trained; this is our code.
+E: a loud exhale
+C: DOSTUM
+D: We are hospitable people. Anything you want from my home, my camp... take it. It’s yours. Nelson can’t tell if this is sincere or a ploy.
+C: NELSON
+D: I respect that, sir. I do. But we have a mission plan, and I have to follow orders from above. Dostum grabs Nelson by the shoulder, faux-fatherly for a moment - then more like he’s showing off his strength.
+C: DOSTUM
+D: “From above,” you say. This is where you will see that we have the biggest difference. It seems there are many men above you. While for me... There is only God. EXT. HIGH PLATEAU - OVERLOOK - DAWN On an 8,000 foot ridge filled with Dostum’s troops, Nelson waits as the attendants arrange a carpet and pillows. There’s absurdity to their fastidiousness in heavy winds. They motion that it’s ready and Dostum sits onto his pillow. Nelson joins him. Looking like they’re on a magic carpet, they peer at hills gouged by decades of fighting. Behind them, portable SOLAR CELLS power the radios. Dostum points at something far in the distance.
+E: glancing upward
+C: DOSTUM
+D: There. Mullah Razzak’s men. Nelson takes his binoculars from his pack. THROUGH THE BINOS: Nelson scans rugged terrain.
+C: NELSON
+D: I don’t see anything. Dostum raises the binoculars up to... THROUGH BINOS: ...a spot very far away. Around a bunker, eight Toyota pickups sit, surrounded by men in black robes.
+C: NELSON
+D: I can’t target from here. I need you to take me in closer.
+E: CONT’D
+C: DOSTUM
+D: No. Too dangerous.
+C: NELSON
+D: From this far, that’s not air support. It’s a fireworks show.
+C: DOSTUM
+D: Then we’ll have a show.
+C: NELSON
+D: If we could just move another few miles to that ridge over -
+C: DOSTUM
+D: I can lose a thousand cheriks before one American gets a scratch. Nelson’s face flushes with anger; but Dostum won’t even look at him: he keeps his face pointed into the wind. Nelson stands and takes stock. Other than Michaels setting up equipment, he’s alone with fifty Afghans, watching him. KHALED is leering at him.
+E: cutting him off
+C: NELSON
+D: I have to fix the bunker on a map and call in coordinates. It can’t be done from this far away. You’re setting me up for failure...
+C: DOSTUM
+D: Show me your little map. Nelson unfolds the map from his shirtsleeve pocket. Dostum shoves his finger into the middle of it.
+C: DOSTUM
+D: Here is the Taliban. There is the Taliban. Drop your bombs. Maniacally, he makes the whistling sound of a bomb, tracing the path down the sky with his index finger. Nelson stews with frustration.
+E: CONT’D jabbing the map pointing outward
+C: MICHAELS
+D: Mitch? I don’t think he believes us. Nelson turns back to all the Afghans, robes aflutter in wind.
+C: NELSON
+D: Why the hell should I believe him? Nelson turns back to Dostum, immovable, ruffled by the wind.
+E: quiet, to Michaels
+C: NELSON
+D: Sir. How can I confirm that it’s the Taliban and not somebody else? Like the Tajiks or Hazaras. Dostum’s eyes now look murderous.
+E: CONT’D
+C: DOSTUM
+D: Because I told you.
+C: NELSON
+D: All due respect, sir: there’s a lot of armies in these mountains - and we’re only at war with one of them. Dostum is so angry now that his men feel it. KHALED clutches his rifle, looking ready to shoot. Finally... Dostum shows Nelson a strange smile. He taps his finger to his head as if to say, “Very smart.” He rises, picks up a MOTOROLA RADIO, and speaks into it.
+C: DOSTUM
+D: This is General Dostum. Come in. After a moment, the speaker plays a wash of angry sound. He’s summoned the Taliban, full of shouts and chatter. DOSTUM I’m here with the Americans! They’ve come to kill you. What do you have to say about that? The radio roars with a mix of shouting and laughter.
+E: IN DARI, SUBTITLES IN DARI, SUBTITLES CONT’D
+C: MICHAELS
+D: They’re talking trash.
+C: DOSTUM
+D: He wants to know you are Taliban. Tell them you are Taliban so we can kill you. Dostum holds up the furious cheering and taunting in Dari from the other side.
+E: IN DARI, SUBTITLES in English
+C: DOSTUM
+D: Yes? Good? Now show me the bombs. Nelson looks out at a dust devils coursing across the valley as the Taliban continues shouting on the radio.
+E: CONT’D
+C: NELSON
+D: Goddamn it, I guess the first shot of this war is going to be a Hail Mary. EXT. OVERLOOK - MOMENTS LATER Nelson reads the GPS hanging by a lanyard. Latitude and longitude. He writes the numbers in a notebook from his shirtsleeve pocket. He cross-references with the map. He peers through a scope’s reticule. More Afghans gather, watching as if it’s witchcraft.
+C: MICHAELS
+D: You ever see that cartoon when the Flintstones met the Jetsons? From the caves nearby, Diller, Bennett, Ramirez, and Coffers watch Nelson scribble coordinates. He searches the sky. ON THE SKY: There it is - a B-52, miles above, barely visible, scratching a thin white contrail. Michaels readies the satellite radio. Nelson keys in.
+C: NELSON
+D: Tiger 02. BUICK 02 Buick 02. Cleared to drop.
+E: INTO RADIO ON RADIO
+C: NELSON
+D: Enemy position: 36 degrees 11 minutes, zero-zero point 38 seconds north. BUICK 02 36, 11, zero-zero point 38 north.
+E: INTO RADIO ON RADIO CONT'D
+C: NELSON
+D: Roger. 66, 38, zero-two point 21 east. Elevation 3-5-3-4. BUICK 02 66, 38, zero-two point 21 east. Elevation 3534.
+E: INTO RADIO ON RADIO CONT'D
+C: NELSON
+D: Roger. Drop when ready.
+E: INTO RADIO
+C: MICHAELS
+D: You hit the green on this one, boss, you’re a goddamn genius. BUICK 02 Arming. One away hot. Thirty seconds to impact. For a moment, there’s total silence. BUICK 02 Twenty seconds. Now there’s hardly a breath. The sky is a vast stretch of blue; the mountains shed dust in the steady wind. BUICK 02 Ten seconds. Nelson closes his eyes and whispers a prayer: Please God, don’t let me miss. Then, in total silence... A MUSHROOM CLOUD. They see it first, then there’s an earth- shattering boom, with a gust of wind. THROUGH NELSON’S BINOS: As dirt rains from the sky, Nelson sees that the bunker is untouched.
+E: ON RADIO ON RADIO CONT’D ON RADIO CONT’D
+C: NELSON
+D: Shit. But Dostum’s men are thrilled, cheering and revelling.
+C: DOSTUM
+D: I told you, you donkeys! FAKIR walks up and down the line giving high-fives. He stops at Nelson and gives him an enthusiastic embrace, shaking him.
+E: INTO RADIO
+C: FAKIR
+D: Yes, yes. Very good. Very good! As FAKIR breaks away, Nelson is exasperated.
+C: NELSON
+D: Somebody explain to these guys we missed! The second bomb hits and the delayed rumble is even louder. Dostum and his men howl with delight. But... THROUGH NELSON’S BINOS: He’s missed again. Taliban soldiers file out of the bunker in black robes. Bewildered, they crouch with their weapons as if under infantry attack. They peer at the sky, then the smoking crater - like it might be divine intervention. They’ve never seen anything like it. On his Motorola, Dostum taunts the Taliban in Dari. He makes noises and laughs at them, revelling in Dari.
+C: DOSTUM
+D: Madar jende, pedar sag!
+E: INTO RADIO
+C: NELSON
+D: This is ridiculous. I didn’t come here to play around. Two bombs hit in rapid succession, geysers of earth, as Nelson grabs a HANDHELD RADIO and storms off.
+C: NELSON
+D: Hang fire. We’re way off! All the Afghans are celebrating. But Dostum stops his trash talk on the radio to watch Nelson....
+E: INTO RADIO CONT’D
+C: NELSON
+D: Stay here! I’m calling coordinates back myself. He walks furtively to his HORSE. He leaps onto it, and rides past the bewildered Afghan attendants. CLOSE ON DOSTUM. With the celebration and the Taliban chatter around him, Dostum watches the young American Captain gallop downhill, speeding toward another EXPLOSION. EXT. RIDGE NEAR BESCHAM - TEN MINUTES LATER His horse in a lather, Nelson reaches a crest closer to the enemy command post. As he leaps off the horse, the massive detonation craters are visible. He drops to his stomach and glasses the landscape. THROUGH NELSON’S BINOS: He sees what he was attempting to hit - two ZSU-23s , anti-aircraft tanks with long artillery guns.
+E: CONT’D Zuesses
+C: NELSON
+D: Ready for new coordinates?
+E: INTO RADIO
+C: MICHAELS
+D: We got some anxious people here. Down below, Nelson sees the tanks turning their massive artillery toward his position. They’ve spotted him. EXT. OVERLOOK - ON MICHAELS - CONTINUOUS Michaels remains by the satellite radio, green with nerves. The campsite is in a frenzy, as Dostum, Lal and Khaled take off with fifty riders toward Nelson.
+E: ON RADIO
+C: MICHAELS
+D: They’re heading your way.
+E: INTO RADIO
+C: NELSON
+D: 36 degrees, 11 minutes, zero-zero point 39 seconds nor--- There’s a whistle of a bullet on the radio.
+E: ON RADIO
+C: MICHAELS
+D: Mitch? EXT. RIDGE NEAR BESCHAM - CONTINUOUS Perched on the ridge, Nelson is now taking fire from the Command Post below. Pop! Pop! Pop! The shale cracks above him. His horse rears back, then takes off running.
+E: INTO RADIO
+C: MICHAELS
+D: Mitch, you there? THROUGH NELSON’S BINOS: He sees the MASSIVE ARTILLERY GUNS slowly rotating toward him, lowering barrels. ZZZIP - a rocket zippers the air, shattering a cliff face. As Nelson scrambles for cover, he watches the horse gallop off toward an approaching party: Dostum and his men. The bullets scream at him. Nelson finds a secure position, then looks down at the coordinates on his pad. He’s sweating so heavily that droplets fall onto the numbers...
+E: ON RADIO
+C: NELSON
+D: 36 degrees, 11 minutes, zero-zero point 39 seconds north. 66, 38, zero-two point 22 east. Make the correction. Altitude is 3-7-9-1. As his sweat droplets spread through the paper, blurring numbers, he’s taking fire from two directions. Just then, there’s a rifle shot behind him. Dostum’s men fire as they dismount, taking positions. LAL grabs Nelson and attempts to drag him to safety; but Nelson pulls away and returns to his radio.
+E: INTO RADIO
+C: NELSON
+D: Michaels? You copy?
+E: INTO RADIO CONT’D
+C: MICHAELS
+D: In the air, boss. Ten seconds. Better get out of there. If the elevation’s off, they’re falling on your head.
+E: ON RADIO
+C: BELOW IN THE VALLEY
+D: The Taliban’s Zuess finishing pivoting into position. Most of Dostum’s men fire back non-stop; but a few pause, terrified, as the barrel angles toward them, about the blow them to smithereens. Just then -- BOOOOM! There’s a DIRECT HIT on the ZUESS, sending it up into a splash of earth. A gritty wind gusts over them on the hillside; and it takes a moment for Dostum to see... The hit obliterated the artillery and the barracks. Chunks of ripped steel still fall out of the sky. Dostum looks between the bomb site and Nelson. As the smoke clears, hundreds of black-robed Taliban are rushing out of the partially collapsed COMMAND POST. Dostum grins and shouts:
+C: DOSTUM
+D: Mostaqim! Thirty Afghans take off on their horses, charging down the rugged hillside in a surprise ambush. They hold the reins in their teeth and fire non-stop at the bewildered enemy. They cut the Taliban battalion in half, sending some men fleeing northward in pickups while gunning down others. As the battle rages, Dostum crosses the hillside to Nelson.
+C: DOSTUM
+D: You will not live long here by ignoring what I tell you.
+E: CONT’D
+C: NELSON
+D: You told me to bomb, sir. That’s what I did. Nelson begins treading back uphill, bruised and tired. INT. CAVE - DOSTUM’S MOUNTAIN HQ - DUSK In a basin of water, Nelson rinses out scuffs and cuts on his hands and arms. Outside a bonfire burns against the dim sky. BENNETT and RAMIREZ sit at the mouth of the cave, while COFFERS eats an MRE. Behind Nelson, Diller is reading Sun Tzu’s THE ART OF WAR. He looks up from the book and gestures to the mouth of the cave, where Dostum’s RIFLEMEN pace back and forth -- on guard.
+C: DILLER
+D: I feel safer already. One guard is FAKIR, walking his sentry route barefoot.
+C: COFFERS
+D: What do you expect? Six-hundred Gs worth of white boy in this cave.
+C: RAMIREZ
+D: Speak for yourself, puto.
+C: COFFERS
+D: Yeah, I guess a Mexican would be worth a little less.
+C: RAMIREZ
+D: Oh, you’re going down for that.
+C: NELSON
+D: They’re responsible for us. Nelson eyes KHALED, watching the US soldiers with cold eyes.
+C: NELSON
+D: It’s the culture. There’s something in Khaled that chills Nelson, something mercenary and calculating in this older Afghan.
+E: CONT’D
+C: DILLER
+D: And it’s Mogadishu. They all turn to Diller, wondering what he means.
+C: DILLER
+D: Dostum thinks Americans take off running the second they take a hit. That’s why he’s holding him back. Nelson watches the Afghans, patrolling silhouettes.
+E: CONT’D
+C: NELSON
+D: Right. We got to prove we can do more than make shit fall out of the sky. EXT. AFGHAN PLATEAU - DAWN At first we’re watching nothing more than the sun rise over the horizon in time-lapse, shadows blooming off rocks and chaparral. It’s a vast, empty landscape until - CRASH! - a huge crate smashes onto the ground from out of nowhere, boards splintering and debris tumbling. A supply drop. Its tangled parachute descends and drapes across rocks and weeds. All of the team’s supplies lie scattered across the desert - clothes, water, MREs, ammunition. AFGHANS rush toward this bonanza. Old men, boys, and women in burqas fight over horse feed, rice, bandages. REVERSE ON: On a ridge near the Alamo, SPENCER and MILO watch through binoculars as the locals pillage the crate.
+C: MILO
+D: It’s like God dropped a piñata.
+C: SPENCER
+D: I need you to ride into Dehi and salvage whatever you can. As Milo lowers his binos, his face isn’t amused anymore. EXT. DEHI - STREET MARKET - TWO HOURS LATER - MORNING MILO, ESSEX and JONES comb through the STREET MARKET, now stocked with their canteens, blankets, and boots. Milo grabs boots and shows them to an OLD MAN, staring back from behind his massive, tangled white beard.
+C: MILO
+D: Yeah, these are my boots, Santa. Exasperated, Milo looks across the bazaar to see - ESSEX, haggling at a table over a pile of reclaimed supplies: sleeping bags, cooking stoves, camo pants. The old man holds up all ten fingers, but he’s missing two fingers and a third down to the knuckle.
+C: ESSEX
+D: Ten? Or seven-fifty? Just beyond Essex, Milo sees watchful eyes on him: NAJEEB, the young soldier, hovering nearby, following. EXT. MOUNTAIN PATH - MORNING Exhausted, Milo, Essex, and Jones head back to camp with two DONKEYS hauling all of their recovered gear.
+C: ESSEX
+D: We got about ten percent of the MREs, a quarter of the blankets. Jones is just listening to his blasting headphones.
+C: MILO
+D: Jones? Christ, the guy lives in a music video. They hear a wagon coming from the other direction.
+C: MILO
+D: Oh, you got to be shitting me. REVERSE TO REVEAL: a very old man driving a DONKEY CART. He’s wearing a full CHEMICAL WARFARE SUIT.
+E: CONT’D
+C: ESSEX
+D: Tres chic. INT. ALAMO - MORNING In the courtyard, Milo, Essex and Falls have returned with reclaimed blankets. As they distribute them, the AFGHAN SOLDIERS give them to their horses, draping them over them. Najeeb still trails Milo, a grin on his face. Milo salutes him facetiously. Najeeb earnestly returns the gesture. Milo sidles up to Spencer, taking stock of supplies.
+C: MILO
+D: Spence, man, see that dude? Spencer follows his gaze and see Milo’s young shadow, NAJEEB, now squatting with his ancient ENFIELD rifle.
+C: MILO
+D: I can’t even take a leak without him up in my business.
+E: CONT’D
+C: SPENCER
+D: So what? Essex and Falls join the close conversation.
+C: MILO
+D: So it’s... a violation. I mean, what if he’s... you know.
+C: ESSEX
+D: You know what?
+C: MILO
+D: Don’t ask, don’t tell. Falls and Essex struggle to keep straight faces.
+C: ESSEX
+D: Yeah, that must be it. He’s into fat guys from Chicago. Falls and Essex burst into laughter, puzzling the Afghans. But Spencer keeps a straight face.
+C: SPENCER
+D: Milo. Don’t you get it? Milo just stares back, irritated by the ridicule.
+C: SPENCER
+D: They’re supposed to guard us. If any of us get killed - Dostum will execute the guy who let it happen. Plus his entire family.
+E: CONT’D
+C: ESSEX
+D: These guys don’t mess around. Milo looks back at Najeeb, suddenly moved by his predicament.
+C: SPENCER
+D: That poor kid got you. The biggest, dumbest target out here. EXT. MOUNTAIN TOP - NEAR DOSTUM’S MOUNTAIN HQ - MORNING In heavy wind, Nelson kneels by the radio, where Michaels has just rigged a connection in a spot with reception.
+C: SPENCER
+D: Reclaimed most of the blankets and about a week’s worth of MREs. But... bad news... we can’t find anybody’s letters from home. And we lost some morphine. Not good.
+E: ON RADIO with static
+C: NELSON
+D: I’m out of range from K2 here, Cal - I need you to update them. We’re going to need to rig the drops. A long pause, full of static.
+E: INTO RADIO
+C: NELSON
+D: Copy that, Cal?
+E: INTO RADIO CONT’D
+C: SPENCER
+D: That’ll float with Dostum?
+E: ON RADIO
+C: NELSON
+D: It has to. We can’t be dependent on him for food and water. Nelson looks out at the emptiness, strain on his face. INT. DOSTUM’S CAVE - NOON NELSON faces DOSTUM across a campfire, warming a pot of tea. The smoke is so thick any normal person would choke. Empty VODKA BOTTLES lay scattered.
+E: INTO RADIO
+C: DOSTUM
+D: Ali babas. They shamed us. They’ll pay for it.
+C: NELSON
+D: There’s no need to do that, sir.
+C: DOSTUM
+D: My people are loyal because I don’t tolerate betrayal.
+C: NELSON
+D: It’s not betrayal.
+C: DOSTUM
+D: Bandits like this - it’s why so many welcomed the Taliban. When the Russians left, they stole, raped, killed. The Taliban enacted shari’a law. Flogging for rape. For theft... ...the hand.
+E: pantomiming an axe
+C: NELSON
+D: Don’t cut off any hands.
+C: DOSTUM
+D: My men will guard your things now.
+C: NELSON
+D: You don’t need to guard the drops. What I’m trying to explain... from now on, they’re going to guard themselves. They’re going to be booby-trapped. Explosive packs. Anybody that doesn’t know how to disarm them will be blown apart. Dostum stares across the fire with murderous eyes.
+C: NELSON
+D: It’s a harsh measure, I know. But any further loss of supplies will put our mission in jeopardy. Dostum tosses an empty vodka bottle into the fire.
+E: CONT’D
+C: NELSON
+D: I need you to get word out, so we can avoid civilian casualties. Dostum’s eyelids look heavy with disgust. It’s taking every bit of restraint to keep his temper under control.
+E: CONT’D
+C: DOSTUM
+D: You think I’m a savage. For cutting off the hands of thieves.
+C: NELSON
+D: I’m just saying it isn’t necessary.
+C: DOSTUM
+D: To you, it’s more civilized to blow them apart... while you are miles away. There’s disgust in his voice and Nelson looks down into the fire, where the bottle is changing colors.
+C: NELSON
+D: I’m asking for your cooperation to prevent that. The flames gust and flicker between them.
+C: NELSON
+D: And, General, if I may ask you one more question. Do you intend to follow up on our ambush today? If we don’t move on Bescham soon - the Taliban will have a chance to -
+E: CONT’D
+C: DOSTUM DOSTUM
+D: Three o’clock.
+E: CONT'D
+C: NELSON
+D: 1500 hours. Okay. Why so late? Dostum is so irritated, he needs to close his eyes.
+C: DOSTUM
+D: So there will be only three hours of light. If there is more, the Taliban will have too much time.
+C: NELSON
+D: To counter. I understand. Sir, we’re your partners. The sooner you let me in on your plans, the better I can prepare my men. The bottle has turned black. The trace of vodka in it is boiling off. Dostum studies him in the firelight.
+E: a beat
+C: DOSTUM
+D: The Khalqi, mujahideen, Soviets, Taliban, I fought all my life here. Every mountain you see, I have won it and lost it and won it again. Right here, I have freed my people, punished my enemies, and buried my sons. Who are you to tell me how to fight? How many battles have you survived? There’s a pause as Nelson keeps his eyes locked on Dostum.
+C: NELSON
+D: None, sir. Before yesterday, I’d never been in battle. Dostum is astonished.
+C: DOSTUM
+D: This is the warrior the Americans gave me. Dostum looks back down at the fire where the bottle smolders.
+C: NELSON
+D: 1500 hours. My men will be ready.
+C: DOSTUM
+D: And you will be ready to lead them?
+C: NELSON
+D: Yes, sir. As smoke fills the room, Dostum has withdrawn. He no longer seems to acknowledge the Nelson’s presence. Nelson nods to himself: Maybe he just lost the warlord - and the war. EXT. MOUNTAINSIDE - ABOVE BESCHAM - MIDDAY TRACKING SHOT - Down a line of part-time MILITIAMEN, gathered on the ridge, a motley group, spanning fourteen to sixty in colorful rags. As Nelson waits on his horse, Michaels has set up the comms equipment. Far down in the valley, Taliban artillery is visible around the sprawl of the village.
+C: NELSON
+D: Be careful: I don’t know what kind of state the General’s in. Dostum paces on his MOTOROLA, chattering almost casually in Dari. By the posture of Nelson and the Americans, it’s clear they’ve been waiting for an unexplained delay.
+C: BENNETT
+D: Mitch? Mitch? What’s he doing?
+C: NELSON
+D: I don’t know. Sir? The B-52s are in position. Dostum puts up his hand to silence Nelson.
+E: calling over
+C: NELSON
+D: What’s the delay? Nelson looks over to COMMANDER AHMED LAL on his horse.
+E: CONT’D
+C: NELSON
+D: Pochemu zhe my zhdem? LAL answers in a monotone flurry of Russian. Nelson reacts with visceral surprise, so much that his horse feels it and moves ahead a few steps.
+E: CONT’D
+C: COFFERS
+D: What?
+C: NELSON
+D: He’s trying to figure out if his nephew’s still over there on the Taliban side. Coffers rolls his head back; Michaels’s eyes widen. Lal continues in a monotone of untranslated Russian.
+C: DILLER
+D: Some of these guys switch sides every other week. Coffers looks over at all of the stoic faces behind him on their horses, hundreds of dark eyes on him. He notices KHALED in the group, hard eyes on him.
+C: COFFERS
+D: Yeah and this Khaled asshole, he’s counting his money whenever he looks at me. Dostum breaks the tension with a whistle and a thumbs-up from the end of the line. He yells back to Lal in Dari, who conveys it in nearly a whisper of Russian.
+C: NELSON
+D: His nephew deserted this morning. We’re good to go.
+C: COFFERS
+D: Oh, good. War’s back on. Dostum sees a man in the crowd and strides to him.
+C: NELSON
+D: Sir, we’re a few minutes from range. Dostum grabs an OLD SOLDIER limping past, speaking in Dari. The old man turns to Nelson and pulls up his dishdasha’s hem, proudly showing Nelson HIS PROSTHETIC RIGHT LEG.
+C: DOSTUM
+D: Arezo! My friend. This is why we will win. He has already walked ten miles today to fight. Dostum raises his arms and shouts to the men:
+C: DOSTUM
+D: Allahu Akbar! They raise their arms and cheer. He walks the line, greeting and thanking each. In the distance, Nelson now sees units of DOSTUM’S CAVALRYMEN crossing the rugged plain toward their battle positions. No order was given: they’re simply taking their spots.
+E: CONT’D
+C: NELSON
+D: Sir, I have issues we need to address. The bombs are going to startle the horses.
+C: DOSTUM
+D: The horses will not be afraid.
+C: NELSON
+D: Why not?
+C: DOSTUM
+D: They will know they are American bombs. Dostum paces ahead - energized by the approaching battle.
+C: NELSON
+D: We’re in another dimension.
+C: MICHAELS
+D: Two minutes, Captain. Dostum lifts his Motorola, speaks in Dari to his captains. EXT. CANYON OUTSIDE BESCHAM - CONTINUOUS KHALED hears Dostum and moves his team of a hundred horses into position. The horses huff and stamp.
+C: MICHAELS
+D: Twenty seconds. EXT. ANOTHER CANYON - CONTINUOUS COMMANDER AHMED LAL hurries his two hundred horses into position. His men grip AKs and RPG tubes. Bandoliers of ammo jangle on their chests.
+E: ON RADIO
+C: MICHAELS
+D: Ten seconds. EXT. MOUNTAINSIDE - ABOVE BESCHAM - CONTINUOUS Eight seconds of total silence is followed by the sound of something cutting the air. Then -- BOOM! A Taliban ZSU-23 explodes into smoke and metal. Dostum looks over at Nelson, smiling at the direct hit. Nelson nods back, mouth tight, hiding his relief. BOOOM! A tank vanishes beyond his face, leaving a crater in the road. THROUGH NELSON’S BINOS: TALIBAN rushing to positions, firing at nothing. MULLAH RAZZAK is shouting into his radio and it plays on Dostum’s right beside Nelson.
+E: ON RADIO
+C: MULLAH RAZZAK
+D: Dostum. Madar jende!
+E: ON RADIO
+C: DOSTUM
+D: Razzak! Chocheh Sag! Son a dog! The Americans will killlll you! BOOOM! Another direct hit rips apart a Toyota Hilux, scattering body parts and collapsing part of the trench. In a succession of blasts, the row of BMPs go up -- one, two, three. Dostum’s face says: This is too good to be true.
+E: INTO RADIO
+C: NELSON
+D: The eastern flank is clear. Sir. Dostum changes freqs and lifts his Motorola to his lips.
+C: DOSTUM
+D: Mostaqim!
+E: INTO RADIO
+C: COMMANDER LAL’S HORSEMEN
+D: - burst out of the valley with a roar. Hooves thunder down the draw, gathering speed. EXT. MOUNTAINSIDE - ABOVE BESCHAM - CONTINUOUS Nelson looks down the edge of the hillside. From opposite sides, both units of horsemen stampede out of the draws toward battle. BOOM! Another tank rips the line. Dostum is barking directions into the Motorola over the noise. EXT. BESCHAM BATTLEFIELD - ANOTHER ANGLE - CONTINUOUS COMMANDER KHALED and his horsemen charge the Taliban line. Air strikes send up fountains of dirt. EXT. TALIBAN LINES - OUTSIDE BESCHAM - CONTINUOUS TRACKING ACROSS Taliban artillery, firing in salvos - - we come to MULLAH RAZZAK, his skeletal face behind the long black beard, kohl around his eyes. Dostum’s voice pours through his radio in Dari, filled with mocking laughter. Razzak bares his teeth and curses in Dari into his radio.
+C: MULLAH RAZZAK
+D: Dostum! Kerr um tha kunet! His remaining guns open up, blanketing all other noise. EXT. BESCHAM VALLEY - CONTINUOUS FAKIR rides with the reins in his teeth so that his hands are free to fire. Shells whistle past. Afghans fly backwards, ripped from their saddles. THE REMAINING ZUESSES fire. Six Northern Alliance Soldiers vanish in a cloud of red smoke, blood and body parts flying. EXT. MOUNTAINSIDE - ABOVE BESCHAM - CONTINUOUS NELSON lowers his rangefinder and shouts an adjustment.
+C: NELSON
+D: Make it 67 degrees, 10’46.5 north. BOOM! A direct hit. Zuesses shatter. The guns are silenced. Nelson looks up from his radio, meeting eyes with Dostum. Nelson has just dissected the battlefield, clearing out all of the Taliban artillery for the approaching riders. ON THE RIDERS - A HUNDRED YARDS FROM THE TALIBAN LINE Dostum’s men leap from their horses. They stand on the reins and spray the trenches with rifle shots. AERIAL SHOT: As they hold this line, a second wave of riders thunders past. Under cover fire, the two waves form one line. EXT. TALIBAN LINES - OUTSIDE BESCHAM - CONTINUOUS A UNIT OF TALIBAN GUNMEN loses heart and climbs out from trenches, hands raised. MULLAH RAZZAK grows livid. He draws his pistol and - Boom! Boom! Boom! - kills his own men as they attempt to surrender. EXT. MOUNTAINSIDE - ABOVE BESCHAM - CONTINUOUS THROUGH NELSON’S BINOS: He witnesses this atrocity.
+C: NELSON
+D: Razzak’s shooting his own men. He’s sickened. But his attention is diverted to - AN ENTIRE NEW DIVISION OF TALIBAN TANKS and BMPs. They roll out of the shade of a canyon beyond the village.
+C: NELSON
+D: Where the hell’d those come from? Nelson looks over at Dostum, stunned.
+E: CONT’D
+C: NELSON
+D: Sir? They have reinforcements! Dostum faces the battlefield as it changes shape. Nelson pivots back to Michaels, ashen. Then Nelson begins down the ridge. EXT. TALIBAN LINES - OUTSIDE BESCHAM - CONTINUOUS CLOSE ON THE TALIBAN TANKS. Turrets rotate toward the approaching cavalry charge. ON THE LAL’S HORSEMEN -- They leap trenches as - Boom! - blast rips through them. FAKIR -- pivots his horse to retreat. But a bullet pierces his back, spraying blood through an exit wound. Nelson rushes downhill toward the battle to where Fakir is retreating toward him. There’s a moment of relief as Nelson sees him, upright in the saddle, trotting ahead.
+E: CONT’D
+C: NELSON
+D: Jesus, you tough sonofabitch, I thought... But as the horse continues ahead, Nelson sees - - FAKIR is already dead in the saddle, held upright against a pommel and the reins. He bounces for a few more strides, then falls off onto the rocks, lifeless. Nelson can hardly breathe as he looks down at Fakir’s vacant eyes, staring at the sky. Rockets cut the air overhead. PULL BACK TO REVEAL: Hundreds of Dostum’s men lie dead on the ground, mixed with Taliban for miles. Nelson looks uphill to see DOSTUM. Pulling out his radio and headset, Nelson turns to the battle.
+C: NELSON
+D: Wolfman, this is Tiger 02. I’ve got a ton of new targets.
+E: INTO RADIO CONT’D
+C: WOLFMAN
+D: Negative. I’m bingo. Ahead of Nelson, a Taliban tank fires at the riders at close range, blowing them apart in a spray of dust and blood.
+E: ON RADIO
+C: NELSON
+D: You’re kidding me!?
+E: V.O.
+C: WOLFMAN
+D: I’m sorry. I’m out of fuel.
+E: V.O.
+C: NELSON
+D: They’ve got a whole new division. You gotta drop. I’m begging you.
+E: V.O.
+C: WOLFMAN
+D: Sir, I’m out. Bingo. Nelson throws down the handset. He stands at the bottom of the hill as Dostum’s forces retreat back toward him. The BMP’s mounted machine gun sweeps over them as they approach. Men fly off their saddles; horses stumble and drop. The others flee over body parts and abandoned weapons. Nelson covers his face in horror and disbelief. Then he gathers himself. He turns back uphill and ascends toward Dostum, who hasn’t moved from his high ground. There, the General stoically watches the smoking battlefield.
+E: V.O.
+C: NELSON
+D: The planes are out of fuel. He’s out of breath and cringing with grief.
+C: NELSON
+D: That means we lost our air support. Sir. That means we’re done.
+E: CONT’D
+C: DOSTUM
+D: Now you have seen battle. How do you like it? Afghans evacuate hundreds of injured men. Blood stains the rocky walls of the canyon. Green with disgust, Nelson lifts his binos to see: MULLAK RAZZAK, firing his AK into the sky to celebrate the retreat of Dostum’s army. EXT. RAVINE NEAR BESCHAM - AN HOUR LATER The Afghans use ARMY BLANKETS to carry away their wounded. Diller and Bennett ride past a macabre landscape of slain bodies and severed arms. Diller sees a DECAPITATED HEAD sitting in the dirt. Dostum’s subcommander, KHALED, is gathering heads of the enemy, carrying a few by the hair. He puts them down, then drags another body a few feet. Diller and Bennett meet eyes: Are you kidding me? Diller dismounts his horse, provoked - and Bennett trails him. As Khaled unsheathes a machete, ready to hack off the head of another enemy - Diller lunges in and shoves him.
+C: DILLER
+D: Get back to the camp, you goddamn savage - before I knock your last four teeth out.
+C: BENNETT
+D: Dill - come on, man. Hold it. Diller is seething - but KHALED looks back with confounded eyes, completely at a loss.
+C: BENNETT
+D: Deep breath, Dill. These guys are on our side.
+E: CONT’D
+C: DILLER
+D: I’m not so sure about that one. Trying to pacify the furious American, Khaled offers him one of the heads. Diller looks up at the sky like he can’t believe it.
+C: BENNETT
+D: Let it go, brother. Let it go. Diller sighs, then heads across the rocks to help some other Afghans bundle up a wounded man. EXT. HILLSIDE ABOVE BATTLEFIELD - TEN MINUTES LATER FOLLOW TWO AFGHANS -- carrying a wounded soldier in a blanket. As he passes, Nelson looks down and watches AREZO’S EYES turn hollow. He’s still grinning. He mutters something in Dari to Dostum, who grabs his hand.
+C: NELSON
+D: Sir, if we can get them back to the Alamo, we’ve got a medic who’ll do everything he can. RISE UP TO REVEAL: A LINE OF WOUNDED soldiers stretches for miles, long shadows on the ground as the sun sets. INT. SURGERY ROOM - THE ALAMO - HOURS LATER A BLOODY BLANKET is dropped beside other wounded men. On a makeshift operating table, Medic SCOTT BLACK is knee- deep in gore. He’s attempting to stop internal bleeding in a nineteen-year-old soldier....
+C: BLACK
+D: These people are tough. We barely got any anaesthesia. Should I give him the rest of the morphine? Falls? How many out there? Falls glances out of the room, seeing that the line of wounded stretches into the darkness and out of sight.
+C: FALLS
+D: I think you better conserve it. INT. CAVE - DOSTUM’S MOUNTAIN HQ - NIGHT - INTERCUTTING Just outside the mouth of the cave, BENNETT is working his own triage of less-wounded soldiers. Nelson comes out of the triage area and gets onto the radio.
+C: NELSON
+D: Talk to me, Cal.
+E: INTO RADIO
+C: SPENCER
+D: I had to call in an airdrop of stretchers and morphine. And I got bad news.
+E: ON RADIO
+C: NELSON
+D: So that wasn’t bad?
+E: INTO RADIO
+C: SPENCER
+D: I got word from the brass. They’re not happy you missed targets yesterday, and they’re pissed as hell you were turned back at Bescham. Nelson drops his head, the weight of the world on him.
+E: ON RADIO
+C: SPENCER
+D: Bowers is saying he picked the wrong team. You’re already behind schedule. They’re bringing in two Air Force targeting specialists. Nelson rolls his head back and groans.
+E: ON RADIO CONT’D
+C: NELSON
+D: The hardest job here is earning Dostum’s respect. They show up tomorrow, he’s going to know I don’t even have my own people behind me.
+E: INTO RADIO
+C: SPENCER
+D: I can hold them off a few days. I’ll tell them we’re taking fire, it’s not safe to bring down another bird. You get yourself on better footing with the warlord. Nelson stares ahead with the weight of the world on him. EXT. DOSTUM’S MOUNTAIN HQ - NIGHT Dostum sits on a carpet beside several radios hooked to portable solar cells and car batteries. Nelson steps out to him, standing above the carpet, pausing.
+E: ON RADIO
+C: NELSON
+D: General. You know this whole area. Am I wrong to assume that you knew about the Taliban’s supply line? Dostum doesn’t acknowledge him.
+C: NELSON
+D: You neglected to share that detail. No response.
+E: CONT’D
+C: NELSON
+D: If they can move reinforcements that quickly, that assault was suicide. You led us in anyway. Dostum puts up his hand, dismissive. Then he gets onto his Motorola, speaking in a wash of friendly, salesmanlike Dari.
+E: CONT’D
+C: NELSON
+D: What was that?
+E: CONT’D
+C: DOSTUM
+D: Anyone who wants to fight the Taliban tomorrow, I said, “Come and join us.” Nelson stares back, blank-faced.
+C: NELSON
+D: Sir, if you want to kill your own men, there’s nothing I can do. But I’m not going to let you put my men in harm’s way until we deal with their supply chain.
+C: DOSTUM
+D: “Come, fight with the Americans. Be prepared to die.”
+E: INTO RADIO
+C: NELSON
+D: Sir? If I’m supposed to fight with a few thousand horsemen against tanks, then you have an obligation to tell me everything you know. Nelson is seething, but Dostum grins like it’s absurd.
+C: DOSTUM
+D: You do not have the stomach for “everything I know.” You will never win here, my friend. Because you are not honest with yourselves.
+E: a beat
+C: NELSON
+D: Were you testing me today?
+C: DOSTUM
+D: You expect victory without blood.
+C: NELSON
+D: I expect you to share strategic information and stop treating us like children! You let people die to prove a point.
+C: DOSTUM
+D: I smell your fear. It stinks like a whore. Nelson pulls back from him, seething with anger.
+C: DOSTUM
+D: You’re angry. Good. There’s just you and me here. Kill me.
+E: CONT’D
+C: NELSON
+D: That is not how it works. My mission is to -
+C: DOSTUM
+D: Your mission will fail. Because you fear death. Mullah Razzak and his men, they welcome it. They know they will be rewarded in the afterlife.
+C: NELSON
+D: Well, then give me the goddamn information I need... and let’s reward every last fucking one of them. Dostum can’t help but smile. He likes this comment.
+C: NELSON
+D: You don’t respect me, sir - fine. I’m not here to be your friend. But I’m your partner. I’m the link between you and the entire American arsenal. So if you want to win this war, if you want to walk back into Mazar-i-Sharif... I’m all you’ve got. Dostum is completely still as Nelson strides away. EXT. NELSON’S CAMPSITE - DOSTUM HQ - LATE NIGHT Nelson is asleep in his bag. Slowly, footsteps begin approaching him in the darkness. Shadows begin bending off the firelight as several men get closer. Nelson’s eyes crack open, alert to the sound. Suddenly a rifle butt reaches down to his side. He’s poked by the muzzle and - fast a rattlesnake - he whips out of his bag, pointing a pistol at the AFGHAN GUARDS. They both rear back, revealing... DOSTUM.
+E: CONT’D
+C: DOSTUM
+D: Quiet. Come with me. INT. DOSTUM’S CAVE - LATE NIGHT Nelson follows to where Commander Lal has unrolled a MASSIVE MAP. The real map, wide as a carpet. Nelson is astonished at the level of detail: Pencil marks have been erased and revised where peaks have changed hands, exquisite care given to every mine, trench, and defensive berm. Nelson eyes Dostum for a long time, knowing what it means that he’s showing him. Dostum gouges a trail in the map with his dirty fingernail.
+C: DOSTUM
+D: They bring weapons from here through the Tiangi Gap... He shows Nelson the impossibly narrow gorge.
+C: DOSTUM
+D: ...to here Shulgareh... ...to here Baruch... to here Bescham. He sits upright over his scratched map in the earth. His fingernail is bleeding, but he doesn’t notice.
+E: CONT’D a zigzagging line
+C: DOSTUM
+D: From here through the Gap, it is “too far away” to bomb. So we move forward. He points to the space around the zigzagging path.
+E: CONT’D
+C: DOSTUM
+D: Out here, outside the valley, there is nothing. No water, shade. No passage. Our only way to Mazar is here. The Tiangi Gap. He shows them the canyon, insinuated into the earth.
+E: CONT’D
+C: NELSON
+D: A choke point.
+C: DOSTUM
+D: That is the only way. Out here... ...not even a donkey could pass. Dostum grins at Nelson for a moment, watching his profile as he studies the man.
+E: the land around it
+C: DOSTUM
+D: No matter how much you own the skies, war is won and lost in the dirt. A long pause.
+E: CONT’D
+C: DOSTUM
+D: One thing to know. I care about my men as much as you. Fakir was my “godson.” I knew about their supply line here, but I didn’t expect the weapons they had. I was mistaken. But I am the leader of these men not because I am perfect. But because they are willing to die for me. Because I am brave enough to ask them to. EXT. MOUNTAINSIDE - COBAKI - NIGHT The sky is a spray of stars. NELSON sits by himself on the dark ridge, staring off, deep in thought. He looks east and sees the moon rising late, colored by a dusty horizon.
+E: CONT’D a beat
+C: NELSON
+D: No water, no shade, no passage. Faintly, the moon lights the miles of emptiness in a dull glow. Homesickness crosses over his face. Slowly the meditation changes his features, as an idea comes over him...
+E: to himself
+C: NELSON
+D: And Harold followed the Moon, and the Moon followed Harold. EXT. CAVE - AROUND CAMPFIRE - NIGHT Nelson and Diller study their inferior map in the firelight. Nelson traces a serpentine path.
+E: CONT’D
+C: NELSON
+D: The Taliban won’t be defending their Western flank. They can’t fathom anything coming from this desert. It’s a crazy idea, but...
+C: DILLER
+D: Say it.
+C: NELSON
+D: The Taliban’s reinforcement convoys come through the Tiangi Gap here. That’s why Dostum’s killing himself trying to move forward. All they have to do is hold him off long enough to bring in more artillery. Diller notices the resolve on Nelson’s face.
+C: DILLER
+D: Right.
+C: NELSON
+D: There’s nothing out there. It’s like the surface of Mars. The others eavesdrop as the gravity becomes clear.
+C: NELSON
+D: I’d have to split the team again. You’d go wide, outflank them. Take thirty Afghans into no man’s land. On the map, Nelson traces an arcing route into uncharted mountainous regions, nothing but empty elevation symbols.
+E: CONT’D
+C: NELSON
+D: You’d come around behind enemy lines then start calling in strikes - cut off that supply chain. Ammo dumps, convoys, anything you see. Gut them from behind.
+E: CONT’D
+C: DILLER
+D: Corner blitz, at their blind side.
+C: NELSON
+D: You couldn’t get resupplied: a drop would give up your position. You’d have to carry all your water. The commo pack’s a hundred pounds.
+C: DILLER
+D: Dostum can spare a couple mules.
+C: NELSON
+D: You’d have to trust thirty Afghans not to cash you in for the reward. The thirstier they get, the more they’re going see dollar signs on your backs. Shit, I can’t order you to do this.
+E: a beat
+C: DILLER
+D: Yes, you can. Captain. This is my job. Diller is grinning. It’s an assignment for a madman - and he’s thrilled. Nelson keeps his eyes down at the map, then speaks with increasing authority.
+C: NELSON
+D: Pick a medic and a commo officer.
+C: NELSON DILLER
+D: Bennett and Coffers. ON COFFERS: Oh, shit. INT. ALAMO - ENTRANCE AREA - CONTINUOUS Spencer is half-asleep in the doorway when he hears Nelson’s voice on the radio.
+E: CONT'D
+C: NELSON
+D: Bravo cell, come in. Bravo. Cal? Spencer heads over to the radio and responds.
+E: ON THE RADIO
+C: SPENCER
+D: I’m here.
+C: NELSON
+D: I need you to get everybody up here to the camp. I’m splitting the team again. I’m sending Diller downrange. Spencer looks stunned. Then he nods... accepting it.
+E: V.O.
+C: SPENCER
+D: Okay, Mitch. You got it. EXT. “BURRO CAMP” - LATE NIGHT/BEFORE DAWN Breath steaming, Nelson finishes loading the mules. Diller secures his saddle pack.
+C: NELSON
+D: You’re going to have a two hour head start on the sun, at least.
+C: DILLER
+D: Reminds me of going hunting. You ever get up this early as a kid?
+C: NELSON
+D: Anybody slept past six a.m. in my house, they’d better have pneumonia. Diller climbs onto his horse.
+C: DILLER
+D: Don’t take too much shit from that old warlord.
+C: NELSON
+D: Trying not to. Then he turns to nod an understated goodbye. He takes off, leading thirty Afghans into a vast dark desert.
+C: DILLER
+D: And remember this, Mitch: “All warfare is based on deception.” That’s Sun Tzu.
+C: COFFERS
+D: He also said, “Never fight a land war in Asia.” As Nelson watches them ride off against a pre-dawn sky, in a private moment, the burden on his face is visible. As Nelson heads across the campsite toward the cave, he glimpses a shadow. He freezes. In a stripe of moonlight, he sees -- -- DOSTUM, watching him. Dostum’s face looks hard in the light off a smoldering fire. Nelson stands in place. Finally Dostum retreats into the darkness again. EXT. TRAIL TO “BURRO CAMP” - AN HOUR LATER Spencer rides down the steep trail toward the camp, followed by Black, Milo, Essex and Jones - the entire Bravo cell, except for Falls, who’s nowhere to be seen. By the sweat and dust, by their slumped postures, their journey has obviously been painful. Nelson, Ramirez and Michaels come out to greet them, laughing as they make clumsy attempts to dismount.
+C: MICHAELS
+D: The cavalry’s arrived.
+C: RAMIREZ
+D: Who’s laughing now? DOSTUM steps out, regarding the new arrivals.
+C: NELSON
+D: What the hell happened to Falls?
+C: MILO
+D: He was right behind us. Just as Dostum emerges, they hear a panicked shout and look up the hillside to the narrow, winding path. FALLS’ horse leaps off the path to ride straight downhill toward them. Falls leans back so far in the saddle that his head starts bouncing on the horse’s flanks, while his boots swim around its ears. He descends in a avalanche at an impossible angle.
+C: FALLS
+D: I don’t wanna diiiieeee!! At the bottom, the horse leaps over a ditch to make a perfect landing at the camp. Falls dismounts, then drops to one knee, exhausted. Dostum has watched all this with a face that betrays nothing. For a long beat, he stares at Falls. Finally:
+C: DOSTUM
+D: You’re the finest horseman I’ve ever seen. EXT. “BURRO CAMP” - NEAR THE CAVES - MOMENTS LATER Spencer groans as he drops down into the cave beside Nelson. Close behind, SCOTT BLACK lingers in the opening.
+C: NELSON
+D: What’s the matter with you?
+C: SPENCER
+D: What’s the matter with me is that I’m forty goddamn years old. And that’s a medical fact.
+C: BLACK
+D: Slipped a disc, I think. Nelson stays at the mouth of the cave.
+C: NELSON
+D: Diller missed his first check-in on the
+C: PRC.
+D: Spencer looks concerned for a moment, then squelches it.
+C: SPENCER
+D: The mountains. No reception. Nelson looks out through the cave, obviously worried.
+C: SPENCER
+D: Look, if you had to send somebody, he’s the man. I’ve known Diller a long time. He’s a hothead, but he’s smarter than hell. Did you need to do this?
+E: CONT’D
+C: NELSON
+D: Either he slows down that supply line... or we don’t move.
+C: SPENCER
+D: So trust him. He’ll do his job. EXT. ROCKY HILLSIDE - AFTERNOON From beyond a mountain range, plumes of smoke rise. The echoing roar of heavy guns sounds like a far-off thunderstorm. Dostum’s troops are heavily engaged. Nelson sweats beside Michaels.
+C: NELSON
+D: Michaels?
+C: MICHAELS
+D: All set for round two, sir. EXT. BESCHAM BATTLEFIELD - DAY
+C: AFGHAN MILITIAMAN
+D: Allahu Akbarrrr!!! A wave of Dostum’s horsemen crest a hill and charge down the other side toward the Taliban lines. Across the scorched earth, the Taliban guns open up. Mortars drop. Rocket- propelled grenades whiz past. Beside Nelson and FALLS, Dostum kicks his horse.
+C: DOSTUM
+D: This is a bad place now. Come! The two best American horsemen! Follow me!
+E: circling Nelson
+C: NELSON
+D: Michaels! Stay on the headset! Nelson heads over and quickly mounts his horse. He looks over to find Falls, wobbling on his horse beside him. Downhill, Nelson sees men topple in their saddles, punched by rifle fire. He hears whine of rounds passing by his head. He gets onto his handheld radio and calls back to Michaels.
+C: NELSON
+D: Drop! Now! He lowers his head at the shriek of a passing bullet. Then he looks up just as the entire Taliban front line explodes. As the smoke clears, the bomb has opened a line through the Taliban’s defenses -- into the occupied town of Bescham. Dostum shouts on his Motorola, leading the forces in. EXT. BESCHAM BATTLEFIELD - AERIAL SHOT Nelson falls in along with the Afghan horsemen as they ride in formation straight toward the village. EXT. BESCHAM BATTLEFIELD - NELSON’S POV But as they gallop forward, Nelson sees: It’s a trick. ZSU-23s are wheeled from gutted houses and stables. They’ve hidden artillery in the village.
+E: INTO RADIO CONT’D Zuesses
+C: NELSON
+D: General! Within moments, the Taliban has dialed the range on them - and the rapid banging of the anti-aircraft guns hurl through the approaching Afghan line. It’s a calamity. Men blow apart in their saddles. Nelson looks over to see COMMANDER KHALED riding beside him. They meet scared eyes just as - KHALED is lifted off the ground by a blast, cut in half. Nelson winces, closes his eyes, and pulls his horse away from the detonation crater. As he opens his eyes, still galloping, his face has been sprayed with blood and dust. Ahead of him, the horsemen halt, trapped by gunfire. They begin to drop and take cover on the ground.
+C: NELSON
+D: Sir, we need to fall back!
+E: CONT’D
+C: DOSTUM
+D: We are not losing again. Attack! Mostaqim, tez, tez! Moshtrarak! Dostum leaps from his horse and charges straight down the hillside - over bodies, marching toward the carnage ahead. It looks like suicide.
+C: FALLS
+D: Holy shit! What do we do?
+C: NELSON
+D: We let him get hurt, we’re in a world of pain. You and the Afghans: form a perimeter around his advance. Now! Nelson spurs his horse and gallops downhill at a nearly impossible angle, galloping toward the General.
+C: FALLS
+D: Shit. Falls waits a beat, swallows, and chickens out... But all around him, AFGHAN HORSEMEN follow Nelson, forming a perimeter around their charging warlord. Finally Falls closes his eyes and spurs his horse, holding on as it gallops downhill. ON NELSON -- He catches up to Dostum in a full sprint. While Nelson lays down suppressive fire, Dostum begins passing his own frozen men, yelling in Dari, leaping over some as they look up amazed and, finally, embarrassed. His men stand and follow, humiliated into action. They form a line, screaming as they run with their general. Within another hundred yards, the remaining force is back on foot and horseback, charging through the barrage of anti- aircraft fire before the Taliban can shorten their range. They charge through the rising columns of smoke. Nelson pulls up, waiting with Dostum as his SOLDIERS cross the gutted trenches and reach a ZSU-23. They yank a TALIBAN GUNNER off the ZSU-23, killing him with blades. They seize the weapon and turn it, firing it back into the occupied village: BOOM! A splash of splintered houses. Nelson watches Dostum, shouting over the din. All around him, the Taliban are fleeing into the canyon. Nelson is amazed by how the tide was turned: a battle of will - and nothing more. Dostum turns back to Nelson with a nod, acknowledging that the Captain covered him.
+C: DOSTUM
+D: Sometimes you must point your men back in the right direction. EXT. BESCHAM - EVENING The town has been nearly obliterated by battles; but nevertheless, children now play again in the streets. Laundry lines span between the mud houses like flags. CHILDREN pick up unspent shells. They carry the bullets in their long shirts, held out like baskets. The children give the unspent shells to LAL, who places them in a bag filled with broken glass. He shakes the bag vigorously, then takes the bullets out, shiny, free of grit and sand. Reusable. He reloads his rifle with them.
+C: PAN PAST TO:
+D: Milo and Najeeb sit by a fire, eating MREs. Najeeb is puzzled by the consistency of his first-ever Mac n’ Cheese.
+C: MILO
+D: No, no. Try again.
+C: NAJEEB
+D: Mudda... fuggah.
+C: MILO
+D: That’s good. Getting closer. Najeeb grins proudly, taking another bite.
+C: NAJEEB
+D: Mudda-fuggah!
+C: PAN PAST TO:
+D: Dostum’s and Nelson’s troops have taken up camp farther into this small village along the edge of the canyon. As the sun sets, the higher rocks are bathed in light, creating a striped effect of day above, night on the ground. Nelson hovers by wreckage, watching kids play a game in the dirt. They gesture to Nelson and he paces over. They show him how to play: it’s almost like JACKS but with bullet shells. Nelson takes a turn with the kids - and they all begin laughing. He can’t help but smile.
+C: DOSTUM
+D: Besh Tosh. Nelson turns around to find Dostum watching.
+C: DOSTUM
+D: It is an Uzbek game. Usually it is with rocks, but... children use whatever they find.
+E: CONT’D
+C: NELSON
+D: What’s the Taliban policy on it? Dostum makes a cutting motion across his throat. Nelson stands and joins Dostum beside the playing children...
+C: DOSTUM
+D: When I ruled Mazar and the north, women walked without veils. The girls went to school. Movies played in the theater, Indians movies. Aamir Khan? Do you know him?
+C: NELSON
+D: Sorry.
+C: DOSTUM
+D: And there was music at night. I was betrayed by a brother. He made a deal with the Taliban to force me from power - and when I fled, Razzak killed my family and friends. He left them to rot in the streets, worse than dogs. I have not seen Mazar since. A long silence.
+E: a beat
+C: NELSON
+D: You’ll hear music again there, sir. Want to hear some now? Dostum looks intrigued.
+E: a long beat
+C: DOSTUM
+D: You have some then? Nelson makes his loud whistle across the town to - - JONES, unloading supplies off the mules. Jones looks over, confused for a moment. Rising up in PRE-LAP we hear, Jones’ favorite, the opening to “Iron Man.” EXT. “BURRO” CAMP - MOUNTAINS - NIGHT Jones is playing BLACK SABBATH’S “Iron Man” on his portable CD player for Dostum, the entire Afghan army, and every villager. They crowd around, listening. They smile and laugh at Ozzy’s voice as he begins, pure revelry to them... Dostum is rapt. He faces Jones, then Nelson.
+C: DOSTUM
+D: Iron Man! Nelson is all smiles as he heads away from the scene. TRACK WITH HIM PAST drying, bloody laundry and cooking fires all around the edges of a reclaimed settlement. The festive atmosphere has spread far out to the edges. But as Nelson reaches his campsite -- RAMIREZ is waiting for him, in the glow of a PANASONIC TOUGHBOOK, looking worried.
+C: RAMIREZ
+D: Mitch? You got a message. Through the Intel interface with Bowers. It’s from Secretary Rumsfeld.
+C: NELSON
+D: No shit? What’d he say?
+C: RAMIREZ
+D: “When are you going to get off your asses and get to Mazar?” Nelson deflates, pacing away to work off his burst of anger. INT. CAVE - AN HOUR LATER Nelson tries to sleep. In dim light from the moon, we can see the anger on his face. He turns over in his sleeping bag, thrashing, waking some of the men nearby.
+C: RAMIREZ
+D: Are you going to answer it or sleep? ‘Cause some of us are tired. Nelson takes the PANASONIC TOUGHBOOK. He moves to the mouth of the cave and props it across his knees. The light from the screen illuminates his face as he types fast, a drizzle becoming a deluge. As he types, we see A SEQUENCE OF IMAGES.
+C: NELSON
+D: “Sir. Let me explain the reality here. I am advising a man how best to employ horse cavalry in attacks against Taliban T-55 tanks, mortars, and machine guns.” -- COMMANDER LAL’s riders charge right at the revolving turret of a tank. CAPTION: “OCTOBER 26.”
+E: V.O.
+C: NELSON
+D: “No American has fought this way since the invention of the Gatling gun. But they do it every day. They have attacked with ten rounds of ammunition per man. With little water and less food.” -- THE OLD SOLDIER, AREZO, recovered, grins at Nelson, his prosthetic leg exposed through his torn pants.
+E: V.O.
+C: NELSON
+D: “I observed one soldier who walked ten miles to the fight, proud to show me his artificial leg.” -- DOSTUM’S RIDERS charge ahead. “OCTOBER 27. BALUCH.”
+E: V.O.
+C: NELSON
+D: “We have witnessed the cavalry riding spur to spur to attack Taliban strongholds.” -- DILLER AND HIS NEW CELL, WITH THIRTY AFGHANS, walking their horses. They blow a Taliban ammo dump...
+E: V.O.
+C: NELSON
+D: “We are doing everything we can to break the Taliban’s supply lines.” The ammo dump explodes. The startled horses take off running - - and our group chases after them.
+E: V.O.
+C: NELSON
+D: “The medical care if injured, it’s a donkey ride to the doctor.” -- SCOTT BLACK, drenched with blood, tries to save an AFGHAN SOLDIER from internal bleeding.
+E: V.O.
+C: NELSON
+D: “The Afghans are remarkable people. These are men who have nothing, yet they have offered us everything...” The patient’s eyes meet Black’s. Suddenly, they glaze over - as the patient dies in front of him.
+E: V.O.
+C: NELSON
+D: “...their lives.” Black gently closes the soldier’s eyes. INT. PENTAGON PRESS CONFERENCE - WASHINGTON, DC - DAY Sec. of Defense DONALD RUMSFELD stands at a podium, holding a printout of Nelson’s e-mail, as a mass of journalists and TV crews surround him. CAPTION OVER: “OCTOBER 29.”
+E: V.O.
+C: RUMSFELD
+D: “Everywhere I go the Afghans tell me they are glad the U.S.A. has come. They speak of their hopes for a better Afghanistan once the Taliban are gone. But for now I’m dealing with reality.” He lowers the printout, as everyone begins shouting.
+E: reading
+C: JOURNALISTS
+D: Mr. Secretary! Sir, over here! Rumsfeld points to one of them.
+C: TV REPORTER
+D: Sir, Can you tell us the name of the soldier who sent this? Was he Special Forces? INT. NELSON APARTMENT - FORT CAMPBELL - DAY Jean sits on the couch, watching the press conference as she’s on the phone. Across the room, Maddy is diligently coloring on the floor...
+C: RUMSFELD
+D: I will only say he’s a brave young officer, serving his country well. As the shouting of journalists continues...
+E: ON TV
+C: JEAN
+D: I know. I heard it too.
+E: ON THE PHONE
+C: MARCHA
+D: They said it was from Special Forces. But it was well-written, so I knew it wasn’t Cal. Anything in it sound like Mitch to you? Jean stares at the TV, phone to her ear. We see in her eyes that she believes she’s just heard her husband.
+E: ON THE PHONE
+C: JEAN
+D: “Dealing with reality.” Yeah, I think I’ve heard that one before. As she stares ahead, we hear machine-gun fire. EXT. BALUCH BATTLEFIELD - DAY CAPTION OVER: “OCTOBER 31. BALUCH.” Nelson and Michaels call in strikes from a trench taking heavy enemy fire. Perched against a berm, Ramirez and Falls lay down suppressive fire. Dostum and his sub-commanders wait with 200 militiamen.
+E: ON THE PHONE
+C: NELSON
+D: Olive Thirty-one, Tiger 02 requests a drop. Dostum clutches his Motorola, waiting for his cue... A voice comes onto the satellite radio: ALLISON BLACK, navigator for the Airforce’s First Special Operations Group. ALLISON BLACK Copy. Ready for immediate attack.
+E: ON THE RADIO
+C: NELSON
+D: Clear. Dostum’s eyes go wide at the sound of her voice.
+C: DOSTUM
+D: A woman!? A woman is the pilot?
+C: NELSON
+D: Yes, sir. ALLISON BLACK Confirming coordinates. Rifle, one away, one away hot. Thirty seconds to impact. Nelson is watching Dostum closely, not sure what his reaction means. Dostum’s stunned face changes to devilish glee... as a mischievous idea forms. He raises his Motorola:
+E: ON THE RADIO
+C: DOSTUM
+D: Mullah Razzak! A woman is coming to kill you! Suddenly the radio erupts with furious voices.
+E: INTO RADIO
+C: DOSTUM
+D: Motawa geh bosha. You don’t believe me? Listen. He holds the Motorola to the satellite radio. ALLISON BLACK Fifteen seconds to impact. Dostum shouts into his Motorola:
+E: INTO RADIO CONT’D ON THE RADIO
+C: DOSTUM
+D: She is the Angel of Death! The Motorola is squawking back like a chicken coop.
+C: DOSTUM
+D: Mostaqim! Chaaarge! As the riders launch downhill, the Taliban line explodes. EXT. BALUCH BATTLEFIELD - FATHER DOWN The riders charge a horizon blooming full of dust. EXT. BALUCH BATTLEFIELD - ON NELSON - CONTINUOUS As dirt blows over Nelson, he hears on his radio:
+E: CONT’D
+C: DOSTUM
+D: The cowards are running! Baba Mitch! They are giving up Baluch.
+E: ON RADIO
+C: NELSON
+D: They’re falling back to Shulgareh. Come on. Press! Press! EXT. EMPTY DESERT RIDGE - DAY CAPTION: “NOVEMBER 1.” Through heat fumes, across a vast empty landscape, turbaned figures rise over a ridge, elongated in the haze. Bearded men, thin as scarecrows. As they come closer we hear a famished man hoarsely singing:
+C: DILLER
+D: County roads, take me home... to the place I belooong... West Virginia... Exhausted, Diller and his team struggle past. EXT. MOUNTAIN RIDGE - OVERLOOKING THE SUPPLY LINE Thud! Diller and his team drop onto their bellies to look over a valley. Below they see - - hundreds of Taliban ZUESSES and BMPs in storage, waiting to be called into battle. With crazed eyes, Diller nods to Coffers... who begins calling in coordinates. EXT. DESERT - MOMENTS LATER As Diller and his men descend from the ridge, once again single-file, once again singing...
+E: from a distance
+C: DILLER
+D: West Virginia... Mountain Mama... take me home, country -- BOOM! A massive explosion goes up behind them. The munitions cache is ignited, setting off a chain reaction of smaller explosions as they continue wending downhill. EXT. CAVE - SHULGAREH CAMP - MORNING - NOVEMBER 2 CAPTION OVER: “NOVEMBER 2. TWO WEEKS IN-COUNTRY” As Nelson sleeps, there’s a faint mechanic whir in the distance. The noise grows loud enough to awaken Nelson. His eyes pop open, confused: it sounds like a GOLF CART. EXT. SHULGAREH CAMP - MORNING - CONTINUOUS From behind a motorized GATOR, we ride toward the campfire smoke. As the Gator comes closer, more and more Afghans rise to watch. CONTINUE PAST - - all the way to where CAPTAIN NELSON has emerged from the cave with Michaels at his side. The cart stops in front of them. Nelson and the rest of the team are leathery and bearded, wearing the local clothes. REVERSE ON: TWO AIR FORCE TARGETING SPECIALISTS - WINEHOUSE and TATUM - finally come to a stop in a cart LOADED DOWN with gear. They’re clean-cut, in tidy uniforms, looking like they’re stepping out of the future in a rolling time machine. Spencer limps out, the gray in his beard showing.
+C: WINEHOUSE
+D: Captain Nelson? Air Force. Sergeants Winehouse and Tatum. We’ve brought the
+C: SOFLAM. NELSON SOFLAM. TATUM
+D: It’s a laser-targeting system... to assist you with accuracy. You point the laser beam, and the coordinates are uploaded to the pilots overhead. No more guesswork. Nelson looks over at Spencer. Spencer makes a deep sigh.
+C: SPENCER
+D: I’ll radio back to K2. As Spencer shuffles off with Michaels and the COMMO PACK - Nelson comes ahead to the two AIR FORCE SPECIALISTS.
+C: NELSON
+D: You need to ditch all of this gear. He begins unloading their supplies onto the ground. Cooking materials, fuel, camelback water filters. Nelson seems to have pure authority now in his demeanor. Spencer and Michaels have already got a line back to base - and Spencer waves Nelson over.
+C: NELSON
+D: There’s no room for anything you can’t carry on a horse. As Nelson heads away, WINEHOUSE and TATUM just sit like stranded astronauts, peering at each other.
+E: CONT’D
+C: TATUM
+D: Man, these guys are ripe. EXT. SHULGAREH CAMP - AROUND COMMO PACK - MORNING Approaching, Nelson sees the troubled look on Spencer’s face.
+C: NELSON
+D: No more bad news, Spence.
+C: SPENCER
+D: Can’t help it. They dropped the Triple Nickels onto the ground in the Balkh. They’ve linked up with General Atta and the Tajiks. Nelson takes this news like it’s a body punch.
+C: NELSON
+D: Dostum’s biggest rival. They gave up. They took the ground out from under us. Nelson turns, looking over at Dostum’s new tent, a large white canvas affair, stiff as sailcloth.
+E: a deep breath
+C: SPENCER
+D: You’ve earned his trust a little. Right? Nelson just looks at Spencer to say: Are you kidding me?
+C: SPENCER
+D: Look at it this way. It’s a promotion. Bowers and Mulholland just handed you the most important diplomatic job in the free world: Keep the Northern Alliance together.
+E: CONT’D
+C: NELSON
+D: Let’s be prepared to get out of here fast if we have to. EXT. REMOTE MOUNTAINSIDE - MORNING Dense fog. Dragging onward, Diller and his band look like castaways. They push through the mist, thin, leathery and ragged. Diller carries his rifle like a crucifix on his shoulders, clothes hanging off him. They walk beside their horses and mules down the wet scree, exhausted. Suddenly, they hear a bell in the dense fog.
+C: COFFERS
+D: What the hell is that?
+C: DILLER
+D: That’s the supper bell, boys! Diller starts running ahead down the loose rocks, wild-eyed, kicking up an avalanche around him. Through the fog, he comes to a SHEPHERD, moving his flock along the slick stones. Each sheep has a bell around its neck so he won’t lose it in the fog.
+C: DILLER
+D: Oh... Salaam alaikum. Diller puts his hand on his heart while he gasps for air. The shepherd just stares at him, a lunatic come out of the fog. One of the Afghans, HABIB, comes down the hill.
+E: CONT’D
+C: DILLER
+D: Habib! Tell him we’re starving and we wanna buy one of his sheep. Habib has a quick exchange with the shepherd in Dari.
+E: CONT’D
+C: HABIB
+D: He says, “They are not for sale.”
+C: DILLER
+D: Motherfucking sheep-herding son-of-a- bitch - don’t translate that part! Tell him to wait! Wait here! Diller forages through the saddle pack.
+C: DILLER
+D: Alright, Habib. You tell ‘im we’ll give him $50 for 3 sheep. There’s an exchange between the men.
+E: CONT’D
+C: HABIB
+D: He says he will take $500.
+C: DILLER
+D: For a sheep? Ask him who the fuck else he’s gonna to sell ‘em to? Another exchange. Diller does everything he can to manage his fiery temper.
+C: HABIB
+D: No one. He will eat them. Diller is seething, but he breathes deeply. Then, calmly, he begins counting out money.
+C: DILLER
+D: This guy ought to come to the U.S. and be a military contractor. INT. DOSTUM’S TENT - SHULGAREH CAMP - DAY Nelson enters the tent to find Dostum in a very good mood. He’s eating - and he’s been listening to Jones’ portable CD player. He welcomes Nelson with his mouth full.
+C: DOSTUM
+D: Baba Mitch! My blood brother. Come, come in. Iron Man! Nelson sits cautiously across from him.
+C: DOSTUM
+D: Today is a great day, my friend. The Taliban are pulling back to reinforce the gap. We can move forward to here. He shows Nelson the map, where he’s made new notes in pencil.
+E: CONT’D
+C: NELSON
+D: Sir, I have some bad news. Dostum goes immediately silent and stern, watching him.
+C: NELSON
+D: There’s another team like ours. They’ve been placed with General Atta Mohammed Noor. And they’re going to be moving toward Mazar from the other side. The silence is excruciating.
+E: CONT’D
+C: DOSTUM
+D: A betrayal.
+C: NELSON
+D: Sir, no, it’s not. From the US point of view, you are the Northern Alliance. The enemy is the Taliban, and that’s all anybody’s thinking. “My enemy’s enemy is my friend.” A long silence.
+C: DOSTUM
+D: They have handed him Mazar. He is miles closer to it.
+C: NELSON
+D: Music in the streets. That’s what you said you wanted to hear. And I promise you, that’s what there’s going to be. But we’re not dropping these bombs so you can get there and go to war with Atta. Our mission hasn’t changed, sir. We’re going to break through the Tiangi Gap and take the city. As Dostum grabs the map - there’s a fiery rage in his eyes.
+E: a beat
+C: DOSTUM
+D: Tiangi Gap is 2 miles long... between cliffs. Razzak’s best weapons are hidden here. Machine guns. Mortars. Heavy armor. And this is not even the same Taliban. This will be the 055 Brigade: foreign fighters. Al Qaeda. They will not give an inch. They prefer death. Nelson is staring ahead at Dostum’s blinding anger.
+C: DOSTUM
+D: The Americans have given Mazar-i-Sharif to Atta - while they have given me nothing... while they have given me you. Nelson just takes this attack, absorbing it.
+E: CONT’D
+C: DOSTUM
+D: I will not die for this.
+E: CONT’D
+C: NELSON
+D: Then I request five hundred of your best cheriks at dawn. My team’s going through the Gap with or without you.
+C: DOSTUM
+D: How? With his hands shaking, Nelson shows Dostum on the map.
+C: NELSON
+D: We’ll overwhelm them with air support. Flush the canyon out - then follow with a full-frontal assault. No response from Dostum.
+C: NELSON
+D: They’ll protect their weapons. They’ll evacuate through these passes here. Nelson takes the pencil. He traces canyon routes.
+E: CONT’D
+C: NELSON
+D: I’ll put men at each flank. Essex to shield this Eastern flank. When they try to get past -- he’ll call in CAS. Spencer will do the same to the West. I already sent Diller downrange to set up at the northern rim. If the Taliban retreats from the air strikes, he’ll call in more from behind them. We’ll eliminate most of their arsenal. Once we’ve smoked them out of the canyon, we’ll sweep up the holdouts. A long pause.
+E: CONT’D drawing with the pencil
+C: NELSON
+D: If you won’t lead the ground assault, I will. General Atta and the 555s will be coming in this direction. If they break through ahead of us, we’ll share the city. But I bet on us. I bet we bust down this door first. He finally looks up at Dostum.
+E: CONT’D tracing the map
+C: NELSON
+D: There’s going to be music in Mazar, sir. I just can’t tell you whose favorite song yet. Dostum looks down at the marks Nelson has made all over the map, his eyes cold. He takes away the pencil.
+E: CONT’D
+C: DOSTUM
+D: I wish it could be as easy as it was for your pencil. EXT. SHULGAREH CAMP - DUSK Nelson sits down across from his horse. He takes off his boot and, from the lining, unfolds the PHOTO of his daughter. INT. NELSON APARTMENT - FORT CAMPBELL - BEDROOM - NIGHT As a phone rings.... Jean turns over and fumbles for it.
+C: JEAN
+D: Hello...? EXT. SHULGAREH CAMP - INTERCUTTING Nelson sits against the outside wall of a ruined mud hut. He’s holding the bulky satellite phone.
+E: ON THE PHONE
+C: NELSON
+D: Hey, honey.
+E: ON THE PHONE
+C: JEAN
+D: I can’t believe it’s you!
+E: ON THE PHONE
+C: NELSON
+D: How are you doing? How’s Maddy?
+E: ON THE PHONE
+C: JEAN
+D: We’re both great. I mean, not great. We miss you. I’ve read her that same damn book every night since you left. Nelson closes his eyes - stung by this. JEAN But... she’s adjusting in school. She made a friend. Emma’s her name. Nelson can’t open his eyes. The sound of her voice is piercing him. JEAN I guess I made some friends, too. Marcha Spencer and Lisa Diller. They’ve been all over me. It’s almost been hard to have a moment to myself. I’m not complaining. Did it sound like I was complaining?
+E: ON THE PHONE ON THE PHONE CONT’D ON THE PHONE CONT’D
+C: NELSON
+D: Not at all. I miss you.
+E: ON THE PHONE
+C: JEAN
+D: I miss you. Where are you?
+E: ON THE PHONE
+C: NELSON
+D: I wish I could tell you. In the bedroom, she goes to the window in her nightgown.
+E: ON THE PHONE
+C: JEAN
+D: From where you are, can you see the moon? He looks up. There’s no trace of it yet.
+E: ON THE PHONE
+C: NELSON
+D: Yeah.
+E: ON THE PHONE
+C: JEAN
+D: That makes me feel closer to you... Are you okay? You sound like maybe something’s wrong.
+E: ON THE PHONE
+C: NELSON
+D: Just office politics. Me and the guys are fine. Will you tell the wives? We’re all okay. We’re hanging in.
+E: ON THE PHONE
+C: JEAN
+D: They’ll be so jealous I talked to you.
+E: ON THE PHONE
+C: NELSON
+D: I can’t stay on. Just needed to hear your voice. I love you.
+E: ON THE PHONE
+C: JEAN
+D: I love you, too. Lowering his phone, Nelson stays in his spot. Finally, he does see the moon, rising over the ridge. EXT. SOUTHERN EDGE OF TIANGI GAP - PRE-DAWN CAPTION: “NOVEMBER 9, 19 DAYS-IN COUNTRY.” A seemingly endless stretch of horses sleep, each covered with a US ARMY BLANKET. Steam blows from their nostrils. Suddenly, the skies light up like a thunderstorm. There’s a massive boom. The horses fight their hitches. PAN ACROSS them to: MITCH NELSON, awake, sitting alone on a rock, listening to the distant air strikes coming ahead of the dawn. It’s a private moment, full of fear, as he breathes steam. EXT. NORTHERN SECTION OF GAP - CLIFFS - PRE-DAWN In darkness for a moment we hear breath and footfalls. Another bomb lights up the sky, showing us: Diller and his team, on a jagged escarpment. They drop down to look into the canyon, dark as a well. THROUGH NIGHT VISION BINOCULARS: Diller watches a TALIBAN CONVOY move into the Gap from the north.
+E: ON THE PHONE
+C: DILLER
+D: Coffers, how quick can you set up that radio?
+C: COFFERS
+D: Without light? Twenty minutes.
+C: DILLER
+D: You got five. Coffers and Bennett drop the pack and begin unloading the components of the SATELLITE RADIO. Just then -- A streak from below rips the air. An RPG smashes into the hillside, spraying rock chips. The horses panic, galloping down the opposite hill. Bennett and Coffers scramble to take cover in the rocks. Diller has been knocked flat onto his back, disoriented. A chip of shale has struck him in the head, and he’s bleeding. There comes the horrifying scrape of new RPGs, fired from the canyon floor straight up into the cliffs. Suddenly, someone grabs Diller and drags him ahead.
+C: DILLER
+D: We got to get the radio. It’s COFFERS. .50-cal shells splash around them, taking bucket-sized chunks out of the cliffs.
+E: CONT’D
+C: COFFERS
+D: The radio’s fine, you redneck. You just got punched in the face.
+C: DILLER
+D: It’s on. EXT. SOUTHERN EDGE OF TIANGI GAP - JUST BEFORE DAWN As the units gear up, Nelson’s unable to reach Diller by radio. The camp is awash with faint blue light now, and the streams of smoke from snuffed campfires.
+C: NELSON
+D: Charlie cell, come in. Diller? Dill? He weaves through the crowds, stopping when he sees -- GENERAL DOSTUM. Mounted on his horse, he faces the dark mouth of the canyon. He pivots to face Nelson, showing no sign of any of the ambivalence from the day before.
+E: INTO RADIO
+C: NELSON
+D: Sir. Good morning. Looks like we’re all set up for a beautiful sunrise.
+E: CONT’D
+C: DOSTUM
+D: Yes. If we die, it will be a perfect morning for it. Nelson lets this sink in for just a moment - then he skips straight into the logistics.
+C: NELSON
+D: I’ve lost comms with Diller. He’s cutting off the supply line: we may want to wait for his signal. Dostum’s horse stammers and Dostum calms him.
+C: DOSTUM
+D: Even my horse agrees. We stop for no one today, Captain. EXT. EASTERN FLANK - HILLTOP - DAWN With Milo and Essex watching, Winehouse stands on a trench, setting up his SOFLAM gear: a metal box on a tripod, with a trigger grip on a cable . The morning sky is filled with CONTRAILS looping up there, weaving an intricate pattern.
+E: for firing its targeting laser
+C: WINEHOUSE
+D: We got air this morning, bigtime. Essex is setting up his big radio pack and antenna.
+C: ESSEX
+D: The more the merrier. Off the reverse slope there’s a draw where the horsemen have their mounts picketed. They are crouched nearby, waiting. In the trench, MILO makes a screw adjustment to NAJEEB’S ENFLIELD RIFLE. He slides the bolt home, then hands it back.
+C: MILO
+D: There you go, Najeeb. Good as new. EXT. SOUTHERN EDGE OF TIANGI GAP - DAWN Nelson rides behind DOSTUM, Lal and Dostum’s fighters. As Nelson gets back onto the radio, he’s looking towards the opening of the TIANGI GAP. Dostum’s column has begun disappearing between its rocky walls as Nelson catches up.
+C: NELSON
+D: Dostum’s in. Here we go - down the rabbit hole. AERIAL VIEW: The column of riders stretches out, three wide, and walks into the shady canyon.
+E: INTO RADIO
+C: PULL BACK TO: FALLS AND MICHAELS
+D: They perch atop of the canyon. Falls has an M24 sniper rifle and Michaels, a scope and anti-tank tube. EXT. WESTERN FLANK - PLAINS - DAWN The transmission comes on a radio as SPENCER is setting up:
+C: NELSON
+D: Spencer, Essex, move forward to your western position. Tired, with dusty glasses, BLACK is helping Tatum and a dozen Afghans finish a SANDBAG FORTIFICATION on the Western Flank. SLAM CUT TO:
+E: ON RADIO
+C: BOOM!
+D: A blast from an RPG takes a chunk out of a cliff. DILLER, BENNETT, COFFERS and the Afghans have taken cover in a firefight. Diller takes stock of the radio pack. As bullets shriek, he looks downhill to their previous perch, seeing: THE SATELLITE DISH. Abandoned, bullets flying around it. Diller scrambles downhill for it, as the rock walls explode. The SATELLITE DISH wobbles. He surfs downhill in a landslide. He comes to the very edge of the cliff, teetering, managing to keep his balance as he looks straight over the edge at a two-hundred foot drop. Below in the canyon, he sees: A FLATBED TRUCK hauling a massive load of 9-foot-long projectiles. Stunned, Diller seizes the heavy dish and begins running uphill amid gunfire.
+C: DILLER
+D: They got a BM-21, a goddamn monster. EXT. THE TIANGI GAP - MORNING In the aftermath of bombing, the canyon is scorched. From DEEP CAVES in the stone walls, THE 055 BRIGADE begins to crawl out in black robes - an infestation. Out of holes deep in the rocks, they begin to drive out a huge MOBILE MISSILE LAUNCHER: the BM-21. ON DOSTUM AND HIS MEN They ride in silence. There’s only the echoing sounds of hooves on the stone. HANDHELD SHOT, DIZZYING -- Nelson scans cliffs for snipers. EXT. EASTERN FLANK - MORNING Milo, Essex, and Winehouse stand in their trench, flanked by Afghan soldiers. Najeeb stays near Milo. They’re silent, staring tensely down at... A T-55 TANK rumbling along a dirt track, followed by a caravan of Hi-Luxes mounted with machine guns and packed with men in BLACK ROBES.
+C: ESSEX
+D: We got 055 Brigade spilling out of the canyon to the east with a T-55. Winehouse peers through the scope of his SOFLAM. He raises his trigger grip, squeezes it... THROUGH ITS CROSSHAIRS: a magnified view of the tank. A Taliban officer is standing in the open hatch. A red laser dot appears, dancing on the turret below him.
+E: INTO RADIO
+C: WINEHOUSE
+D: Locked on.
+C: ESSEX
+D: Drop. THROUGH ESSEX’S SCOPE: There’s a massive blast as the tank vanishes in an orange and black fireball. The turret soars high in the air, tumbles back down. As the smoke and dust settle, all that’s left is a blackened hulk. Essex lifts his eyes from the scope. Just then, his face drops. Hundreds of Al Qaeda charge uphill toward him.
+E: CONT'D in the radio, calm
+C: ESSEX
+D: Uh-oh. EXT. TIANGI GAP - DAY Total silence. Dostum is now deep inside the Gap. He rides cautiously, scanning the rocky walls. Above, concealed in a cleft, a TALIBAN LOOKOUT studies the column through binos, raising his walkie-talkie. DOSTUM indicates the scout to NELSON, far back down the chain, who talks into a HEADSET.
+E: CONT’D
+C: NELSON
+D: A scout just picked us up.
+E: INTO RADIO
+C: ON FALLS AND MICHAELS
+D: Michaels is spotting for Falls as he stares through the scope, sharp-shooting. THROUGH THE SCOPE -- Falls glimpses the scout’s head.
+C: FALLS
+D: Range?
+C: MICHAELS
+D: 950 meters.
+C: FALLS
+D: Wind?
+C: MICHAELS
+D: Ten to twelve, west to east.
+E: CONT'D
+C: FALLS
+D: I bet you’re one heck of a golfer.
+C: MICHAELS
+D: Scratch. Falls just squeezes off a shot... EXT. TIANGI GAP - CANYON FLOOR Nelson looks up to see THE BODY OF A TALIBAN SCOUT tumble out of a nook in the canyon, falling like a rag doll. Within seconds, DOZENS of scouts rise up from locations above and begin rushing deeper into the canyon.
+C: NELSON
+D: Just stirred up a hornet’s nest. As they lead the horsemen forward -- POP! POP! POP! -- shots are fired from the first wave of Taliban defense. Dostum shouts in Dari to his men.
+E: INTO RADIO
+C: NELSON
+D: Take cover! The columns split, taking opposite sides of the canyon and hunkering down amid moraines and arroyo debris. The allied forces fire back blind, feeding whole bandoliers into machine guns. It’s an echoing din. Each side holds the other back around a sharp bend in the canyon. EXT. CLOSER TO THE SOUTHERN OF TIANGI GAP - CONTINUOUS Nelson’s column has fallen back farther south toward the mouth of the canyon, retreating from the crossfire. He and Lal stare ahead, tension on their faces.
+E: CONT’D
+C: NELSON
+D: General? Can you hear me? What’s your status? Do you copy? No response.
+E: INTO RADIO
+C: NELSON
+D: Essex! It’s Mitch! I’ve lost comms with Dostum about a half-mile ahead of me. You got a visual from there? EXT. HILLTOP - EASTERN FLANK - CONTINUOUS A crack of gunfire. Essex has to shout to be heard.
+E: INTO RADIO CONT’D
+C: ESSEX
+D: Negative! We got a situation - can’t talk! Over! Just then Essex sees: an 055 AL QAEDA FIGHTER a hundred yards away, ready to fire another RPG.
+E: INTO RADIO
+C: ESSEX
+D: Holy fff--! But Milo fires at the soldier, hitting his leg. The RPG fires wide and blows dirt across Essex and Milo.
+E: CONT’D
+C: MILO
+D: Drop now! Drop!
+E: to Winehouse
+C: PILOT
+D: We’re not authorized so close to you. Milo sees HUNDREDS OF BLACK ROBES rushing up the hill.
+E: ON RADIO
+C: MILO
+D: Tell them to drop anyway! He fires off shots, so loud that we can’t hear Winehouse.
+C: WINEHOUSE
+D: They’re dropping! If we’re within 900 feet we’re going to be dust. As Essex looks back -- he sees that many of the Northern Alliance are dead, torn to bits. Milo lifts his pack, leaving MREs scattered across the trench.
+C: PILOT
+D: Forty seconds to impact.
+E: V.O.
+C: MILO
+D: Go! Go! Go! Milo grabs Najeeb; Essex helps Winehouse with the radio -- and they take off running amid gunfire. They drop onto their butts and begin sliding downhill. They tumble for fifteen seconds in an avalanche.
+C: WINEHOUSE
+D: Twenty more seconds! They scale the next hill, Afghans and U.S. Soldiers -- finally diving into another TRENCH.
+C: WINEHOUSE
+D: Keep your mouths open!
+E: CONT’D
+C: MILO
+D: How come?
+C: WINEHOUSE
+D: So the overpressure doesn’t blow your fucking brains out! With his binos, Milo scans the hill they evacuated: AL QAEDA SOLDIERS cover it. One picks up an MRE, eating Skittles.
+C: MILO
+D: Fucker’s eating my lunch. The bomb hits. Milo drops at a sound as loud as the earth splitting. The strike levels the entire mountain and blows dust and grit over them like a Tsunami of dirt. EXT. WESTERN FLANK - PLAINS - MIDDAY As Spencer, Black, Tatum, Ramirez and others in Delta Cell finish their fortifications, they hear Nelson on the radio. Spencer squints into the wind. In the distance, HUNDREDS OF TALIBAN march, hands up, a white sheet raised.
+C: SPENCER
+D: You got to be kidding me? Is this a real surrender or a trick?
+C: RAMIREZ
+D: What we supposed to do with ‘em?
+C: SPENCER
+D: Black! Get on the horn with Mitch. Sixty ragged soldiers approach, hands raised. It’s as nerve- racking as an attack.
+C: SPENCER
+D: Shit. Spencer rises up from behind the fortification, rifle raised.
+E: CONT’D
+C: SPENCER
+D: No, no. You want to surrender, wait right there. Moazeb Bash. Hands up. Aram Shoo. Black, Ramirez... we got to search ‘em one by one. Call them forward one at a time. Black is sweating as he comes forward. But the allied Afghans are bantering with the surrendering Taliban. The familiarity between sides is astonishing: there’s already hugging between some of the Allied troops and POWs. IN THE MIDDLE, one SURRENDERING SOLDIER smiles, hands up, eyes on the ground, his long beard full of dust.
+E: CONT’D
+C: SPENCER
+D: Just wait one second before you all switch teams... BOOM! A suicide bomber detonates in the middle of the crowd. A splash of blood and shrapnel. All sound goes out, leaving only the racing throb of a heartbeat. ON SPENCER, HANDHELD -- He’s been sprayed with nails from the homemade explosive. He bleeds from his neck and chest. His eyes bulge in shock. As sound begins to return with a hiss...
+E: CONT’D
+C: BLACK
+D: Spencer’s hit! Spencer’s hit! The Americans and allied Afghans are rushing Spencer ahead, as he staggers with them on useless legs. EXT. SOUTHERN EDGE OF TIANGI GAP - CONTINUOUS Nelson hears on his radio:
+E: INTO RADIO
+C: BLACK
+D: Spencer’s hit! Spencer’s hit! We need immediate evac! With the sound of shooting in the canyon ahead of him, Nelson scrambles for his radio.
+E: ON RADIO
+C: NELSON
+D: Black - how bad? EXT. NORTHERN EDGE OF TIANGI GAP - CONTINUOUS Amid whistling bullets, COFFERS’ hands are shaking as he tries to fix the SATELLITE RADIO, shearing and reattaching wires. Diller is sweating, out of breath.
+E: INTO RADIO
+C: COFFERS
+D: Everything’s bent, Jesus Christ -- I got to -- I can’t --
+C: DILLER
+D: Get her fixed, Coffers! An RPG hits with an ear-shattering baritone. EXT. HILLTOP - EASTERN FLANK - MIDDAY An eerie silence. A sea of red dirt. Fists punch up through the dirt, followed by arms, shoulders, then MILO’S HEAD. Gasping for breath, he claws himself free. Essex is scrabbling out of the earth, turning back to help Winehouse. Coughing, spitting dirt, they’re bleeding from the ears and noses. Milo stares down, awestruck, into the valley, scarred and desolate. Al Qaeda bodies litter the ground.
+C: ESSEX
+D: Milo. Milo turns to see Najeeb’s skinny legs stick out from the dirt: he’s buried, facedown, from the thighs up... Quickly the three men grab his legs, pulling hard, but he won’t come free. They claw frantically at the dirt, throwing fistfuls aside, till they can finally work the boy loose. Milo turns him over. Najeeb lies still, not breathing.
+C: MILO
+D: Ah, no. Come on, brother. No. He pushes down hard, with the heels of his palms, on the boys abdomen. Once, twice, three times. Nothing. Suddenly, Najeeb hawks out dirt. He gasps for breath. His eyelids flutter, then open. Milo exhales, relieved. EXT. TIANGI GAP - DOSTUM AND BOWERS - AFTERNOON DOSTUM fires from cover behind the rocks and debris. His men are holding their positions, but bottled up in a stalemate. From this position, the canyon bows outward, a sheltered but dead-end cove to the east of them. FARTHER BACK -- Nelson is holding his horse in position against a retreating current of Afghans. Jones has ridden up along Nelson’s side, panic on his face.
+C: JONES
+D: Do we retreat?
+C: NELSON
+D: No. We got one shot. EXT. TIANGI GAP - AROUND THE BEND - MID-AFTERNOON The BM-21 wheels into place around BMPs with mounted machine guns. Slowly, the MISSILE PAD lowers into place. The missiles begin to fire: whoosh, whoosh, whoosh. MULLAH RAZZAK steps up beside it, smiling wide. EXT. TIANGI GAP - CANYON ALCOVE - ON BOWERS AND DOSTUM Nelson hears the otherworldly sound, like a beating on the air itself, whoosh, whoosh -- and his eyes open wide as -- THE ROCKETS pulverize the canyon walls. EXT. NORTHERN EDGE OF TIANGI GAP - CONTINUOUS With a spark of two salvaged wires touched together, Coffers just manages to repair the radio...
+C: COFFERS
+D: Got it! Yes! Diller drops to a bloody, scuffed knee and keys in:
+C: DILLER
+D: This is Tiger 02, Charlie cell - Mitch, do you copy? Mitch? EXT. SOUTHERN EDGE OF TIANGI GAP - MID-AFTERNOON NELSON receives the transmission under the horrifying rhythm of the missiles. The canyon ahead fills up with smoke.
+E: INTO RADIO
+C: NELSON
+D: Go ahead! He stands still on his horse as AFGHAN RIDERS begin fleeing past him out of the canyon.
+E: INTO RADIO
+C: DILLER
+D: There’s a BM-21 in the chute. I saw the missiles go in.
+E: ON RADIO
+C: NELSON
+D: How many?
+E: INTO RADIO
+C: DILLER
+D: Enough to blow us all to hell. WE CATCH UP TO THE OPENING SHOT OF THE MOVIE. This time, instead of remaining tight on NELSON, we see the landscape: the nervous horses, Jones losing his nerve, the canyon coming apart with each blast. On his horse, Nelson faces the chaos. The noise is awful, a thumping that shakes the earth. Smoke pours out -- and the better part of Dostum’s army is fleeing.
+E: ON RADIO
+C: JONES
+D: They’re gone, boss. Nelson stares ahead. What may have seemed like indecision in the opening shot, now - in context - appears to be resolve. An explosion drowns part of Jones’s panicked words.
+C: JONES
+D: We can’t do anything for them. A closer blast RIPS THE CANYON, spraying rock. The detonation cloud rolls toward them, painting faces with grit. Nelson is comforting his terrified horse.
+E: CONT’D
+C: NELSON
+D: You’re okay, girl. It’s going be okay.
+C: JONES
+D: Do we fall back? Captain? Nelson picks up his radio and keys in.
+C: NELSON
+D: Black. Give me Spencer’s status. EXT. WESTERN FLANK - RIVER VALLEY - CONTINUOUS BLACK, blood on his fingers, responds as Ramirez and two Afghans carry Spencer in a makeshift stretcher back to the mechanized GATOR on higher ground.
+E: INTO RADIO
+C: BLACK
+D: I think it’s a punctured lung.
+E: INTO RADIO
+C: ON NELSON
+D: He waits on his horse. Riderless horses race past him out of the canyon. Explosions rumble in the distance. Nelson looks at Lal. Even he looks scared.
+C: NELSON
+D: The Taliban’s going to swamp the camp before an evac can get in. Put the radio to Spencer’s ear. BLACK -- catches up to Spencer and holds the radio to him, as Spencer is staring up at the sunlight.
+E: INTO RADIO
+C: NELSON
+D: Cal. This is double or nothing right here. Double or nothing. We’re going to evac you... Spencer frowns. With dried spit and blood around his mouth, he’s starting to respond deliriously...
+E: ON RADIO CONT’D
+C: SPENCER
+D: Don’t stop.
+E: INTO RADIO
+C: NELSON
+D: We going to airlift you out... from the other side of the Gap. On the road to Mazar-i-Sharif. That’s the only way, Cal. We’re busting down this door to get you out. A smile forms on Spencer’s pale face. NELSON -- looks upward. The smoke and dust from the Tiangi Gap now covers the sun, a blood-red eclipse.
+E: ON RADIO
+C: NELSON
+D: They’ve got a BM-21 another mile into the canyon. It fires forty missiles in salvos. Got it? Jones nods, terrified.
+E: CONT’D
+C: NELSON
+D: Forty, then two minutes to reload. Jones looks delirious, unable to absorb the words.
+E: CONT’D
+C: NELSON
+D: Two minutes. Say it back to me so I know you heard!
+E: CONT’D
+C: JONES
+D: Two minutes.
+C: NELSON
+D: That’s how long we’re going to have to storm their positions. Nelson looks down and sees: the knees of his horse trembling. The terrified animal is frothing at the mouth. Nelson reaches forward and pets his horse on the neck.
+C: NELSON
+D: You’re okay, girl. It’s going to be okay. A single, calm voice in a panic. The horse lifts up its head and trusts its rider. Nelson spurs him. Slowly, they push ahead against the stream of fleeing men.
+E: CONT’D
+C: NELSON
+D: Negah konid... Negah konid! He continues ahead, into the smoke and dust of the Tiangi Gap, his face stern. One man, attacking alone. One man, who won’t look back. He rides into the smoke and vanishes. Behind him, Jones and the Afghans exchange frightened, confused glances. Is this ferignhee crazy? Ahmed Lal makes up his mind. Grim-faced, proud, he turns his horse, too, following Nelson at a walk... One by one, other fighters grip their AKs and RPG tubes, turn their horses’ heads, and fall in behind their leaders. The trickle gradually becomes a stream... ON DOSTUM - PENNED IN THE ALCOVE Dostum’s men fire blindly at the canyon ahead. Just then, another rocket strikes -- blowing rocks over them. Men are bludgeoned to death by the flying stones. Dostum steps ahead through the wreckage. He picks up a bloody gun from the ground, then he drops behind a rock. Another ROCKET splashes dirt and scree over him. Then he rises in the murky air, firing with both hands. BOOM! A chunk of sandstone and shale explodes nearby. EXT. TIANGI GAP - LATE AFTERNOON Nelson is counting the percussions of the BM-21: “Sixteen, seventeen, eighteen...” As they ride deeper in, the canyon is a hellish sight. Dead men sprawl everywhere, flung high in the rocks. As Nelson rides along, Dostum’s men stand up from their hiding places, seeing the young American. They’re startled, watching him pass. Then they see Lal and the other muj following -- calm, steady, advancing with deadly purpose. One by one, the survivors climb down from the rocks, grabbing dropped rifles, pistols, bandoliers - even rocks. They fall into step behind the horsemen. And the stream of men behind Nelson gradually becomes a flood... Nelson sneaks a peek over his shoulder, sees that there are now hundreds of Afghans marching with him. He closes his eyes. Thank you, God... Then he rises in his saddle, sweeps his arm forward.
+E: CONT’D
+C: NELSON
+D: Twenty-two, three, four. Wait. Wait until my word! The reconstituted army continues ahead, over the wreckage, through the clouds of smoke and dust.
+E: to Lal, in Russian
+C: NELSON
+D: Twenty-six, seven, eight. The roar of the BM-21 grows louder as they approach. EXT. TIANGI GAP - CANYON ALCOVE - CONTINUOUS Dostum and a hundred troops take refuge in the cove.
+E: CONT’D
+C: NELSON
+D: Twenty-nine, thirty, thirty-one... EXT. NORTHERN EDGE OF TIANGI GAP - CONTINUOUS DILLER is hanging off an aerie to fire at a CONVOY of missiles on trucks.
+E: V.O.
+C: NELSON
+D: Thirty-two, thirty-three, thirty-four. EXT. WESTERN FLANK - DIRT PATH - CONTINUOUS The GATOR moves with SPENCER, as BLACK struggles to keep him alive, opening up his wounds with a scalpel...
+E: V.O.
+C: NELSON
+D: Thirty-five, thirty-six, thirty-seven. ...filling Spencer’s torso up with “Curlex” to soak the bleeding. EXT. EASTERN FLANK - CONTINUOUS Essex, Milo and Winehouse carry NAJEEB across a scorched landscape, toward the booming sound in the distance.
+E: V.O.
+C: NELSON
+D: Thirty-eight, thirty-nine... NELSON -- rides ahead as the last missile is fired.
+E: V.O.
+C: NELSON
+D: That’s it. Two minutes to reload. He looks at Lal, then back at the soldiers who’ve fallen in line behind him, hundreds.
+C: NELSON
+D: Mostaqim! Tez! Tez! Tez! He kicks into a gallop, followed by Lal and the horsemen, with the foot soldiers breaking into a run, shouting.
+E: CONT’D
+C: COMMANDER LAL
+D: Allahu Akbaaaarrrr!!! AERIAL ANGLE -- soaring above the charging mass, as they pour down the canyon like a river. Taliban snipers fire down from cliffs. Suddenly they’re struck down by -- MICHAELS AND FALLS -- taking the shots.
+C: ON THE TALIBAN’S BM-21
+D: A gang of Taliban hurry to reload missiles from a FLATBED truck parked crookedly on the canyon floor. Each missile weighs 150 lbs, and takes three men to load into the pad. MULLAH RAZZAK shouts in Pashtun at his crew as he directs a TANK toward the bend and Nelson’s approach.
+C: ON NELSON
+D: He leads charging Afghans, his horse in full gallop, reins in his teeth. He fires his M-4 non-stop at the front lines of Taliban and 055 fighters. Around the bend comes the TANK, a faded Soviet star on the side. Nelson pulls up on his horse. The tank’s turret slowly lowers to target him. Nelson takes a deep breath. Then he spurs his horse and takes off, galloping right at the tank. As the gun moves into place, Nelson pulls the reins, kicks his horse, and leaps onto the tank. His horse gallops over the top. The tank fires late, as Nelson vaults onto the silt on the other side. He looks back to see ALLIED AFGHANS leaping onto the tank, pulling open the hatch to kill the Taliban inside. INT. TIANGI GAP - CANYON ALCOVE - CONTINUOUS DOSTUM holds his position, shielded from the BM-21. His men lie on their bellies, firing at anything that moves. He squeezes off a few shots then drops behind rocks, reloading. The noise at the mouth of the cove grows louder. His men fire at it, creating a deafening echo chamber. But Dostum fires straight into the air, screaming...
+C: DOSTUM
+D: Dresh! Dresh! There’s silence. Then comes the clacking sound of hooves. Into the mouth of the cove steps NELSON on his horse, trailed by hundreds of men, bandoliers jangling. It takes a moment for Dostum to recognize Nelson, his face blackened with smoke and dust. But when he does, Dostum places his hand onto his heart. Nelson stops on his horse - then does the same.
+C: NELSON
+D: Mostaqim! Nelson kicks up a charge around the last bend, toward the teeth of the Taliban front line, as Dostum runs to his horse, calling his men in Dari. The survivors leap out of hiding to join Nelson’s charge.
+C: ON THE BM-21
+D: Almost reloaded, the crew inserts and locks in a few last missiles. Then the truck starts and the pad begins moving into position for a new assault. As it angles downward... NELSON, DOSTUM, and AHMED LAL round the bend on galloping horses, leading the frenzied men straight toward missile pad, crossing a line of fire from a mounted machine gun on a BMP. Al Qaeda fighters are clipped off the mounted guns. The BM-21 opens fire, a first rocket slicing the air. But the shot sails overhead, past the advancing positions of Nelson and Dostum, blowing apart the canyon beyond. NELSON’S TEAM reaches the BM-21 and attacks the crew with knives, pistols, and bayonets. Nelson pulls back as he’s facing A FOREIGN FIGHTER in black robes. The man smiles then gives him - A THUMBS-UP SIGN. A grenade pin hangs around his thumb. Nelson rears back on his horse, out of range of the detonation, as the FOREIGN FIGHTER blows up in his path. Breathing a sigh of relief, he looks past to where - COMMANDER LAL’S MEN are taking over the MISSILE LAUNCHER. MULLAH RAZZAK leaps into a jeep to flee, driving over bodies and debris. Suddenly, beside him, galloping full speed is DOSTUM.
+C: ON RAZZAK’S JEEP
+D: Razzak looks terrified, as Dostum rides up without hands, brandishing his pistol. Suddenly, Dostum grabs his reins and leaps over a creek channel, as - - the JEEP goes straight down, front wheels first. THE WINDSHIELD shatters, sprayed with Razzak’s blood. The wheels of the jeep continue spinning with a screaming sound. Calmly, Dostum steps off his horse and walks to his rival, barely alive. He strides ahead, finally seeing Razzak’s terrified eyes. The Mullah is pinned in the Jeep, staring up. Execution-style, Dostum raises his revolver and -
+C: DOSTUM
+D: For Mazar.
+C: ON NELSON
+D: Boom! From across the canyon, he hears the shot and sees blood color the Jeep’s windshield. EXT. NORTHERN EDGE OF TIANGI GAP - AFTERNOON Coffers perches on the ledge and fires at soldiers below. Diller stops him, hand on his shoulder.
+C: DILLER
+D: Hold it. He points downward, where they see a swarm of men and equipment moving in the other direction.
+C: DILLER
+D: They’re turnin’ tail. Coffers scrambles for the rebuilt radio:
+E: CONT’D
+C: COFFERS
+D: Mitch, we got a mass retreat!
+E: INTO RADIO
+C: ON NELSON
+D: As his radio comes in and out with static, Nelson has trotted his horse across the canyon to find reception.
+C: COFFERS
+D: They’re running. Nelson pivots his horse back from the direction he came - noticing... Dostum is already gone.
+E: ON RADIO CONT’D
+C: NELSON
+D: Where’s Dostum?
+C: COFFERS
+D: The Gap is clear. I repeat... All across the canyon, the Afghan and American soldiers break out with an echoing swell of jubilation. But Nelson is panicked as he looks for Dostum.
+E: ON RADIO
+C: COFFERS
+D: I repeat. The Gap is clear. NELSON spurs his horse and takes off, northbound. EXT. RIVER VALLEY - DUSK On a rolling Gator, Black, Ramirez and others move SPENCER in a stretcher along the river as the sun vanishes behind the canyon walls. Nelson’s voice comes on, shaking as his horse speeds beneath him.
+E: ON RADIO CONT’D
+C: NELSON
+D: Keep going forward for interdiction! Black, bring Spencer through for an evac! The cheering on the radio fades to silence. On the far bank, thousands of horses walk out, an entire army of horses surrounding them without riders. Spencer’s dying eyes watch the horses... a surreal sight. BLACK speeds up, fording the river in the GATOR. EXT. NORTH OF TIANGI GAP - DUSK On the flat river plain just beyond the canyon -- a CHINOOK HELICOPTER descends out of the night sky, scaring away a few horses that have been left alone to graze. SPENCER is rushed ahead on a stretcher, carried by BLACK and JONES. Spencer smiles, then closes his eyes. EXT. NORTH OF CANYON - RIVER VALLEY - DUSK Mitch Nelson rides full speed ahead on his horse, stirring up dust in the ancient riverbed. INT. CHINOOK HELICOPTER - BAY - EVENING The sun has just set and Spencer rocks with the motion of the Chinook. Below, he sees A LONG STRING OF LIGHTS on the road below. Taillights. INT. CHINOOK HELICOPTER - COCKPIT The pilots curl off from the road, radioing in.
+E: ON RADIO
+C: PILOT
+D: This is your eye-in-the-sky traffic report. We got one heck of a logjam out of Mazar. EXT. ROAD FROM MAZAR-I-SHARIF TO KONDUZ - NIGHT Taliban vehicles jam the road leaving Mazar, headlights stretching all the way to the horizon. We see pickup after pickup filled with retreating enemy fighters.
+E: INTO RADIO
+C: PILOT
+D: A full-scale retreat to Konduz. EXT. PLAINS SOUTH OF MAZAR - NIGHT The moon shines in a clear, dark sky. Gradually, from over a hillock, there comes a thunderous sound. It grows in volume, jangling, knocking. Then, all at once, hundreds of silhouettes of horses crest the ridge. GENERAL DOSTUM rides at the front of his surviving troops, exhausted but pushing onward through the dark toward Mazar. Dostum’s MOTOROLA chatters in Dari, and he screams back into it, spitting with anger. He’s not slowing down. WE RISE UP FROM THE ROAD AND SWEEP BACK TWO MILES TO: CAPTAIN NELSON, galloping ahead, delirious from exhaustion. Trying to catch up to Dostum before Mazar, he rides his horse at a full sprint with a long tail of dust cast up into the air behind him. Suddenly - NELSON has to pull on his reins. He’s stopped by a whole NEW ARMY, filling the road, VEHICLES around horses. He trots his horse in a circle, and rides up to a familiar face: CAPTAIN DEAN NOSOROG of the Triple Nickels.
+E: ON RADIO
+C: NOSOROG
+D: Ho-ho-hold it. Hold it. Nosorog’s face drops in shock as he suddenly recognizes in the dark that it’s CAPTAIN NELSON.
+C: NOSOROG
+D: Mitch?
+E: CONT’D
+C: NELSON
+D: Where’s Atta?
+C: NOSOROG
+D: Orders are straight from Bowers: we’re supposed to stay put. The men are falling off their horses from exhaustion. We’re supposed to merge forces right here and ride into Mazar tomorrow.
+C: NELSON
+D: Where’s General Atta?
+C: NOSOROG
+D: He drove ahead with some men. Nelson rides in closer and leans down off his horse to meet Nosorog’s eyes.
+C: NELSON
+D: Captain, there’s no tomorrow. Dostum’s not stopping and neither is Atta. They’re going to square off over the city - and in a few hours you’re going to see the end of the Northern Alliance. I’m breaking orders: blame it on me. Nelson takes off again on his horse, leaving a stunned NOSOROG reeling on his feet. Finally, after a beat, Nosorog makes the call and gestures to his men.
+C: NOSOROG
+D: Follow him. Let’s go.
+C: OVERHEAD SHOT
+D: The convoy of headlights catches up to Mitch Nelson as he gallops ahead on his horse. Nelson races, leading the charge, heading toward the dark figures of horses on the road. EXT. PLAINS SOUTH OF MAZAR - MOMENTS LATER As headlights begin to shine onto Dostum, the general is in an enraged trance. His Motorola murmurs in Dari. Coming into the lights at the edge of the city, Dostum leads a weary string of 1,500 men, on horses and on foot. He puts up his hand, and -- all at once -- the exhausted troops halt. Under a cloud of dust, another army approaches from the off the road. As the haze clarifies around them, we see BLACK TOYOTA PICKUPS filled with troops, rifle barrels and RPGs hanging from all sides. All around, Dostum’s men begin shouldering their weapons.
+C: FROM THE PERIMETER
+D: Nelson reaches the edge of this scene on horseback just as Nosorog’s JEEPS begin pulling up around him. Stopping cold, Nelson watches from a few yards away. DOSTUM dismounts and walks into the headlights from the surrounding trucks. He pauses a moment. He looks back at the Jeeps. His eyes search through the headlights until he sees: CAPTAIN NELSON, still on his horse. He smiles. Then he turns and heads back into the stopped BLACK TOYOTAS. A HUNDRED RIFLES follow him as he paces forward to his rival: The Tajik GENERAL ATTA MOHAMMED NOOR. Atta sits in a stolen Taliban Jeep. Unlike Dostum, he’s a regal man with a black beard, a Pakol hat, a pristine knee- length blouse, white cotton pants and black leather boots. As NELSON watches, Dostum advances, bloodlust in his eyes. GENERAL ATTA steps out, facing Dostum on road. The horses, the men, the cars are all silent. Then Dostum reaches out his hand. Slowly, ATTA takes it, grips it. Nelson is astonished. Without thinking, he drifts forward on the horse toward the crossfire of headlights. Dostum looks to back to see his American ally on the road.
+C: DOSTUM
+D: Baba Mitch. I would like to ride into Mazar with my American brothers. Shonha a shonha. Shoulder to shoulder. EXT. SOUTH OF MAZAR - MOMENTS LATER Nelson and Dostum ride side by side on horses, with the entire convoy behind them. As they reach the lights of the city, his men spur their horses and gallop across the plain. The first crowds of welcoming Afghans appear. Hundreds of men, women and children cheer as they approach, throwing paper flowers. A few yards behind roll Milo and Essex in a Gator loaded with gear. Essex looks astonished by the jubilant crowd. Dostum is invigorated by it. He waves to the crowd. As the people begin to recognize their former leader, they go wild. Dostum is milking it, becoming a politician before Nelson’s eyes. The crowd of revelers becomes so thick that the convoy slows, crawling ahead. Hundreds of hands reach out to touch the General and the Americans. Nelson just watches Dostum, curious and amazed at the man as he reaches out to shake hands and grab fists, beaming at the residents. Suddenly, Nelson sees something straight ahead.
+C: NELSON
+D: Stop! Stop! Hold up! All of the men draw their sidearms. Walking down the center of the straight at the convoy with AK- 47s, there comes a ragged, dusty team of Afghans, pack mules, and horses. One by one, the US soldiers begin to lower their weapons, as they see the man at the lead isn’t Afghan. IT’S DILLER, bearded, sun-scorched, thin as a scarecrow. He grins and raises his rifle to fire celebratory shot into the air; prompting returning cheers from all around. EXT. MAZAR-I-SHARIF - KARTE MANDVI - NIGHT A WOMAN holds up a boom box, long forbidden, as a pop song blares out, sung by the exiled Farhad Darya. A CROWD of Afghans has gathering around, growing larger and larger, listening excitedly, holding hands.
+C: BBC REPORTER
+D: Music was broadcast over Radio Mazar for the first time in four years after opposition forces captured this key city from the Taliban regime. INT. SPENCER HOUSEHOLD - FORT CAMPBELL - DAY Jean, Maddy, Marcha Spencer, and Marcha’s son Jake watch TV. They’re ecstatic, leaning forward to watch street scenes.
+E: V.O.
+C: BBC REPORTER
+D: We are seeing these joyous, spontaneous celebrations, reminiscent of the liberation of Paris in World War II. TV CAMERA PANS, showing the jubilant streets. BBC REPORTER Meanwhile, U.S. military sources refuse comment on whether American Special Forces were involved.
+E: ON TV ON TV CONT’D
+C: JAKE
+D: It’s them, isn’t Mom? Isn’t it?
+C: BBC REPORTER
+D: For security reasons, these men are keeping a low profile... Marcha looks over at Jean and nods...
+C: MARCHA
+D: I really do think it is. Jake has tears in his eyes. EXT. RESTAURANT - MAZAR-I-SHARIF - LATE NIGHT Nelson and Dostum stand on the sidewalk near dawn, watching the city as it reawakens. Wistful, Dostum looks out at the lights now festooning the buildings. Children play; woman walk the sidewalks. From a distance, there comes the beautiful, warbling sound of Persian music. For a long moment, Nelson watches Dostum as he listens to the music with his eyes closed.
+C: NELSON
+D: You know this song?
+C: DOSTUM
+D: Yes. Very well.
+E: eyes closed
+C: NELSON
+D: What’s she singing?
+C: DOSTUM
+D: “To the children, yours and mine... tomorrow when they want to know... where they were born and why.” Nelson turns to watch Dostum’s profile as he translates the lyrics. Everyone around the city is celebrating, but there’s wisdom in Dostum’s new sadness.
+C: DOSTUM
+D: “Tell me now what I should say, what was it that we searched for, what happened to the home that we destroyed.” Dostum finally opens his eyes and looks over at Nelson.
+E: CONT’D
+C: DOSTUM
+D: Do you have children, Baba Mitch?
+E: CONT’D
+C: NELSON
+D: One on the way. I won’t be there for the birth. Dostum looks back out at the music in the distance.
+C: DOSTUM
+D: You’re a warrior now, my friend. But when you meet your child, teach him how lucky he is. It is a tragedy to grow up in a land that cannot even imagine peace.
+C: NELSON
+D: Yak Team Wahed. We’re an alliance tonight, General.
+C: DOSTUM
+D: In Afghanistan, there is a saying: “What you do to your enemies today, you will do to your friends tomorrow.” This is the graveyard of empires. That won’t be different for you. The Americans will be just another tribe here. If you leave, you’ll be cowards; if you stay, you’ll be enemies. But know this: you will always be my brother. Mitch Nelson reaches out his hand. Dostum takes it, a solemn shake. Then he leans in and hugs his young counterpart. As he steps back, listening to the final flourish of the song, they startle at the sound of -- POP-POP-POP. Nelson draws his gun, shielding Dostum as if it’s an assassination attempt. Dostum tries to cover Nelson. But... ...it’s THREE BOYS on the street setting off FIREWORKS. Dostum and Nelson stare ahead at the boys on the street, firecrackers sparking all around them in the darkness. Then they look at each other, their body language saying everything: they were both willing to die for the other. PRELAP -- Bigger fireworks and a marching band. INT. FORT CAMPBELL - TARMAC - DAY Families cheer, waving banners as Nelson’s team comes off the plane. We see quick glimpses: SPENCER, on crutches but alive, reunited with Marcha and Jake; Diller with LISA; Milo with his teenage son. The crawl begins: “When the Taliban and Al- Qaeda collapsed in 2001, there were fewer than 100 Americans in Afghanistan.” Last off the plane is CAPTAIN NELSON. He comes down the stairs and passes through the crowd, unable to find Jean. “When the U.S. focus shifted to Iraq, the Taliban rebuilt and regained a foothold. By 2010, almost 100,000 US troops were in Afghanistan.” Mitch Nelson finds Jean, holding Maddy’s hand. As Nelson comes ahead, tears form in Jean’s eyes. Mitch reaches out and holds Jean. Then he crouches down to meet Maddy at eye-level: the same angle as when he said goodbye during her first day of school.
+C: NELSON
+D: Can you read that book all on your own now? Proud of herself, the little girl nods. Then she reaches out, and feels her father’s new beard.
+C: BLACK SCREEN
+D: The sound of the band softens, as if marching away. It fades to only the wind on a ridge. “After sparring with his Tajik rival Atta for years, Dostum survived an assassination attempt in 2003. After an exile in Turkey, he returned to his home in 2009 to support the re- election of Afghan President Hamid Kharzai.” “On 28 December 2014, NATO ended combat operations in Afghanistan and transferred security to the Afghan government.” “Continuing to battle the Taliban, Afghanistan is ruled today by a coalition of bitter longtime rivals.” “General Abdul Rashid Dostum is the Vice President.”
+N: ROLL CREDITS

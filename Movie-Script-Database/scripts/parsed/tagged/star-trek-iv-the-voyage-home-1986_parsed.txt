@@ -1,0 +1,2671 @@
+M: STAR TREK IV: THE VOYAGE HOME
+M: Screenplay by:
+M: HARVE BENNETT & NICHOLAS MEYER
+M: Story by:
+M: STEVE MEERSON & PETER KRIKES
+N: THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING WITH THE TELEVISION LEGAL DIVISION. This script is not for publication or reproduction. No one is authorized to dispose of same. If lost or destroyed, please notify script department. PARAMOUNT PICTURES CORP. REV. SHOOTING SCRIPT 5555 Melrose Avenue Los Angeles, California 90038 March 11, 1986 rev. thru Apr. 10, 1986 Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) PRODUCTION NOTES 1. Please note that the character of Starfleet Commander is "Admiral Cartwright," not "Admiral Morrow." Please modify all scripts and production boards accordingly. 2. Please note that Master Chief Petty Officer Rand now first appears in Scene 25 and in all subsequent Starfleet Command scenes. 3. Please note that Commander Chapel appears in Scene 25 and in all subsequent Starfleet Command Scenes. 4. Please note that a new Scene 188A has been included and Scotty's side of the dialogue will be photographed in the Cargo Bay Area. 5. Please note the readmission of Scenes 132 and 6. Uhura is now present in Scene 132. 7. Please note that in a new scene 158A, we are covering Kirk in the Transporter area of the Bird of Prey during the plexiglass lowering sequence. Also note, we will require Video playback from production footage of Gillian's image outside. Existing video monitor in Cargo Bay will be playback source for this image. 8. Please note that in Scene 188A, Scotty will be covered in the Cargo Bay. 9. Please note that Admiral Morrow (Cartwright) does not appear in Scenes 265, 266, 267. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) DEDICATION IN BLACK In the silence preceding the Paramount Logo, in simple white letters which FADE IN is the following legend: "THE CAST AND CREW OF STAR TREK WISH TO DEDICATE THIS FILM TO THE MEN AND WOMEN OF THE STARSHIP CHALLENGER WHOSE COURAGEOUS SPIRIT SHALL LIVE TO THE 23RD CENTURY AND BEYOND."
+T: THE LEGEND FADES OUT.
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+T: FADE IN:
+N: SPACE - A STARFIELD - ILM A HORN sounds the STAR TREK FANFARE, and we begin to MOVE FORWARD. MAIN TITLES begin. And to the delight of Star Trek lovers everywhere, the MUSIC OVER the early credits is the SERIES THEME by Alexander Courage. We're in for a classic, good old Star Trek time. But hold on... After the first 16 bars and early CREDITS, the music trails off ominously into silence -- and a faint new SOUND. At the same time, we pick up a speck of light coming toward us from deep space. As the SOUND GROWS, the speck begins to assume shape and form. CLOSER - THE PROBE - ILM A simple cylinder, non-threatening but huge in size, with odd, eye-like antennae. It emits the SOUND, a long synthesized gibberish, foreign to our ears. The SOUND STOPS; the antennae rotates; the SOUND is heard a second time, then stops. As the probe slowly passes us we hear:
+C: FEMALE VOICE
+D: What do you make of it?
+C: MALE VOICE
+D: It appears to be a probe, Captain. From an intelligence unknown to us.
+N: SPACE - THE STARSHIP SARATOGA - ILM A RELIANT class vessel.
+C: FEMALE VOICE
+D: Continue transmitting; Universal Peace and Hello in all known languages. Get me Starfleet Command.
+E: then
+S: INT. BRIDGE - USS SARATOGA - FAVORING THE CAPTAIN
+N: She is a concerned Starfleet professional. Her male SCIENCE OFFICER stands beside her. CREDITS RESUME. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: CAPTAIN
+D: Starfleet Command, this is USS Saratoga patrolling Sector 5, neutral zone. We are tracking a probe of unknown origin on apparent trajectory to the Terran solar system. Attempts to communicate with the probe have been negative on all known frequencies.
+C: STARFLEET VOICE
+D: Continue tracking, Saratoga. We will analyze transmissions and advise.
+C: CAPTAIN
+D: Roger, Starfleet, Saratoga out.
+C: HELMSMAN
+D: Range 400,000 kilometers, closing. Here it comes again.
+E: GIBBERISH starts
+N: The CALL, louder this time. As they listen, the Bridge lights begin to dim.
+C: CAPTAIN
+D: What's causing that!?
+C: SCIENCE OFFICER
+D: Captain, their call is being carried on an amplification wave of enormous power!
+C: CAPTAIN
+D: Can you isolate the wave?
+C: SCIENCE OFFICER
+D: Negative. It's impacting on all our systems!
+N: Even as he speaks, the GIBBERISH increases in volume and the lights on the bridge dip lower.
+C: CAPTAIN
+D: Yellow alert! Shields up. Helm, reduce closing speed!
+N: The Helmsman attempts to comply. Nothing works.
+C: HELMSMAN
+D: Captain, Thruster controls have been neutralized!
+C: CAPTAIN
+D: Emergency Thrusters! Create PDF files without this message by purchasing novaPDF printer
+E: http://www.novapdf.com
+C: HELMSMAN
+D: No response, Captain!
+E: tries, then
+N: SPACE - THE PROBE, PAST SARATOGA - ILM The distance closes rapidly; the Probe's size is getting awesome; the GIBBERISH resumes, loud... SARATOGA BRIDGE As the Gibberish reaches a loud climax, the lights go out entirely, along with all engine and electronic sounds. In the sudden darkness:
+C: CAPTAIN'S VOICE
+D: Emergency lights!
+N: Very low level lights; baffled faces; systems Checking.
+C: CAPTAIN
+D: Damage report!
+C: SCIENCE OFFICER
+D: Captain... All systems have failed... We are functioning on reserve power only.
+C: CAPTAIN
+D: We're out of control -- Rig for collision...
+S: EXT. SPACE - THE PROBE - ILM
+N: As it bears down on Saratoga, and passes massively overhead, endlessly; The Probe is now recognized as miles long. It passes now, and goes off into the dis- tance. 7A BACK TO THE BRIDGE 7A
+C: SCIENCE OFFICER
+D: They've finished us. And we don't even know what they want...
+E: stunned
+N: The Captain considers this, turns to the Comm Officer. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: CAPTAIN
+D: Give me whatever you've got on the emergency channel. Starfleet Command, this is Saratoga. Can you hear me...? Come in, please... Come in, please...
+E: then
+N: 7B SPACE - THE PROBE - ILM 7B Disappearing in the distance. The GIBBERISH begins faintly, ominously again.
+S: EXT. SAN FRANCISCO BAY AREA - DAY - ILM
+N: The City of the 23rd Century, the Golden Gate Bridge: PUSH IN to Federation Headquarters.
+S: INT. CORRIDOR - FEDERATION HEADQUARTERS - CLOSE ON
+N: FEET Hurrying over marble floors, as CREDITS CONTINUE. PAN UP now to reveal SAREK, Spock's father, moving OUT OF SHOT.
+S: INT. CORRIDOR
+N: As we PAN Sarek INTO SHOT with COMMANDER CHAPEL, Starfleet Medical Officer whose history in Star Trek is known to all.
+C: CHAPEL
+D: Thank you for coming. It's not going well.
+C: SAREK
+D: Am I to late to testify?
+C: CHAPEL
+D: I don't know.
+N: Sarek raises an eyebrow, as they start out.
+S: INT. FEDERATION COUNCIL CHAMBER - ANGLE ON ENTRY
+N: As Sarek and Chapel enter in semi-darkness, while events are taking place O.S. They look in wonder at: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) SPACE - THE ENTERPRISE As it comes toward us, only to be wrecked and torn apart by a series of explosions. BACK TO SAREK, CHAPEL Awed, seeing this for the first time. ANGLE - (GIANT SCREEN) As Enterprise streaks to its fiery death, watched in LONG SHOT by Kirk and crew. Then as Kirk's face is seen, CLOSE:
+C: KLINGON VOICE
+D: There! Hold the image, hold!
+N: As Kirk's image FREEZES, PULL BACK to reveal:
+S: INT. FEDERATION COUNCIL CHAMBER - FULL
+N: A doomed room in which the FEDERATION COUNCIL and its PRESIDENT sit at a long table before the Federation Seal. There is a gallery of representatives from vari- ous planets. The screen on which Kirk's image is frozen is centrally located. And at a spot lit glass podium, stands the KLINGON AMBASSADOR, pointing.
+C: KLINGON AMBASSADOR
+D: Behold! The quintessential devil in these matters! James T. Kirk, renegade and terrorist! Not only is he responsible for the murder of a Klingon crew; the theft of a Klingon vessel. See now the real plot and intentions:
+N: VARIOUS ANGLES IN ROOM AND ON SCREEN Kirk, ON SCREEN, introduces the Genesis Device and its awesome visuals (STAR TREK II AND III). Many people in the room have never seen the secret material and react accordingly. And the Klingon continues his tirade
+C: KLINGON AMBASSADOR
+D: Even as the Federation negotiated a peace treaty with us, Kirk was secretly developing the Genesis torpedo! Conceived by Kirk's son and test detonated by the Admiral himself!
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) (the proof is on screen) The result of this awesome energy was euphemistically called "The Genesis Planet..." A secret base from which to launch the. annihilation of the Klingon people! (as the audience stirs) We demand the extradition of Kirk! We demand justice!
+C: SAREK
+D: Klingon justice is a unique point of view, Mr. President.
+N: As the audience stirs, Sarek descends the stairs.
+C: SAREK
+D: Genesis was perfectly named: The creation of life not death. It was the Klingons who had first blood while trying to possess its secrets.
+E: continuing
+C: KLINGON AMBASSADOR
+D: Vulcans are well known as the intellectual puppets of the Federation!
+C: SAREK
+D: Your vessel did destroy U.S.S. Grissom. Your men did kill Kirk's son. Do you deny these events?
+E: evenly
+C: KLINGON AMBASSADOR
+D: We deny nothing! We have the right to preserve our race!
+C: SAREK
+D: Do you have the right to murder?
+N: The gallery erupts in reaction and the Council President gavels them to silence.
+C: COUNCIL PRESIDENT
+D: Order. There will be no further outbursts from the floor.
+C: SAREK
+D: Mr. President, I have come to speak on behalf of the accused.
+E: reaches a podium
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: KLINGON AMBASSADOR
+D: Personal bias! His son was saved by Kirk!
+N: The President remains calm amid the buzzing. Then:
+C: COUNCIL PRESIDENT
+D: Mr. Ambassador, with all respect, the Council's deliberations are over. You have been allowed to speak in order to put your views on the record.
+C: KLINGON AMBASSADOR
+D: Then Kirk goes unpunished?!?
+C: COUNCIL PRESIDENT
+D: Admiral Kirk has been charged with nine violations of Starfleet regulations...
+C: KLINGON AMBASSADOR
+D: Starfleet regulations? Outrageous! Remember this well: there will be no peace as long as Kirk lives!
+E: then
+N: And with a flourish, he exits with his staff as the assembly murmurs. Then:
+C: COUNCIL PRESIDENT
+D: Sarek of Vulcan, with all respect -- we ask you to return Kirk and his crew to answer for their crimes.
+C: SAREK
+D: With respect to you, Mr. President, there is only one crime: denying Kirk and his crew the honors they so richly deserve.
+C: COUNCIL PRESIDENT
+D: ... You are welcome to remain and testify.
+N: He gavels the meeting to its end. CREDITS CONCLUDE. SPACE - THE PLANET VULCAN - MOVING IN - ILM A great red sphere.
+C: KIRK
+D: Captain's Log, Stardate 8390... Create PDF files without this message by purchasing novaPDF printer
+E: http://www.novapdf.com
+S: EXT. VULCAN - BIRD OF PREY - HIGH SHOT - ILM
+N: CAMERA MOVES IN. The Klingon ship rests on its landing pad; the crew gathered outside as in a meeting.
+C: KIRK'S VOICE
+D: We are in the third month of our Vulcan exile. We are uncertain about the progress of Captain Spock's memory training.. And it was Doctor McCoy with a fine sense of historical irony, who decided on a name for our captured Klingon vessel.
+S: EXT. LANDING PAD - CLOSE - BIRD OF PREY - NEAR RAMP
+N: The words "H.M.S. BOUNTY" have been hand painted on the side of the open bay doors. CAMERA MOVES toward the gathered Captain and Crew.
+C: KIRK'S VOICE
+D: ... And like those mutineers of 500 years ago, we too have a hard choice to make. A choice made harder because we are all too old to suffer fools gladly... Nevertheless:
+N: CAMERA PANS: as Kirk calls the roll: BONES... SCOTTY... UHURA... CHEKOV... SULU. Each raises a hand and holds it. Kirk now says:
+C: KIRK
+D: Let the record show that the Commander and the crew of the late Starship Enterprise have voted unanimously to return to Earth to face the consequences of their actions in the rescue of their comrade, Captain Spock. Thank you all... Repair stations, please.
+E: a long beat
+N: As they disperse:
+C: KIRK
+D: Mr. Scott, how soon can we get underway?
+C: SCOTTY
+D: Give me one more day, sir. The damage control is easy. Reading Klingon is hard.
+N: Kirk nods, Scotty heads inside. Bones hangs back sourly. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: BONES
+D: You'd think they could at least send a ship. Bad enough to be court marshaled and spend the rest of our lives mining borite -- but to come home in this Klingon flea trap...
+C: KIRK
+D: We could learn a thing or two from this flea trap. It has a cloaking device that cost us a lot.
+C: BONES
+D: I just wish we could cloak the stench.
+N: And he starts off. WIDEN as Kirk turns to LT. SAAVIK, dressed in Vulcan attire.
+C: SAAVIK
+D: Admiral, I'd like to continue my work on the ship until you leave.
+C: KIRK
+D: Thank you, Lt. Saavik.
+C: SAAVIK
+D: And... Here is a deposition I have made. If it is not sufficient, I will return to Earth to testify.
+E: produces disc
+C: KIRK
+D: Don't concern yourself, Saavik. Your leave has been granted for good and proper cause. How are you feeling?
+E: a beat
+C: SAAVIK
+D: I am well, Admiral.
+C: KIRK
+D: You will be in good hands here.
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) They exchange a look, and she starts in, leaving him alone in thought. Then he slowly, almost secretly looks upward: he stares uncertainly at the mountain above. HIGH PROMONTORY ABOVE - UP ANGLED - A FIGURE We SLOW ZOOM to the hooded figure. It is SPOCK watching impassively. After a long moment, he turns and leaves.
+S: INT. SPOCK'S TEST CHAMBER - CLOSE ON THREE SCREENS
+N: They form a computer console like a great pipe organ, with a bank of keys. On each screen are the words: MEMORY TESTING INTERRUPTED." PULL BACK as Spock enters, sits thoughtfully,. Then he places a small lightweight headset on:
+C: SPOCK
+D: Resume.
+N: What follows happens rapidly: Questions appear on all three screens. The tempo increases through the sequence to a crescendo. Spock takes it all on in stride, answering questions by keyboard, or verbally, without being flapped. Q. What is the molecular formula of Yominum Sulfide crystals? (A. K4YM3 (SO73 Es 2) Q. Who said, "Logic is the cement of our civilization with which we ascend from chaos using reason as our guide?" (A. T'plana-Hath, matron of Vulcan philosophy.) Q. What significant legal precedent arose from the peace pact between Argus and Rigel IV? (A. All beings may not be created equal yet shall be given equal opportunity and treatment under the law.) Q. Solve: (a graphic of 3-dimensional chess) (A. White Queen to section 5, grid 6. Queen takes Knight. Rook takes Queen. White pawn to section 5, grid 7, pawn takes Rook. Checkmate.) Q. What was Kiri-kin-tha's first law of metaphysics? (A. Nothing unreal exists.) Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) Q. Adjust the sine wave of this magnetic envelope so that anti-neutrons can pass through it but anti- gravitons cannot. (A. Spock works keypad and the image of the envelope is changed on one of the screens.) Q. What is the electronic configuration of Gadolinium? (A. Spock types, in one second: 5s22s22p63d104s24p6 4d104f75s25p64d16s2.) Q. Identify: (an image appears) (A. A Klingon mum- mification glyph from the earliest part of the Zanxthkolt dynasty.) Q. What were the principle historical events on the planet Earth in the year 1987? (A. Spock types, but things are going too fast for us to see the answer.) Q. What significant contribution to bio-engineering was made on the Loonkerian outpost on Klendth? (A. The universal atmospheric element compensator.) Q. What is this a model of? (A. A three dimensional theoretical representation of a four dimensional time gate as proposed by the Andorian scientist, Shres.) Q. Where were the first conclusive advances made on toroidal space-time distortion and by whom? (A. At Cambridge, Massachusetts, Earth, in 2052 by Ralph Seron.) Q. Evaluate and conclude: A starship's sensors indi- cate it is being pursued so closely that it occupies the same space as its pursuer. (A. The warp drive regulators are creating a parallex matter echo.) Abruptly, the hectic pace stops, there is a beat of silence; then, on all three screens comes the legend: MEMORY TEST SATISFACTORY. Then: READY FOR FINAL QUESTION. Spock is ready. HOW DO YOU FEELO? Spock sees it on all three screens and seems baffled. The question begins to flash impatiently.
+C: SPOCK
+D: I do not understand.
+N: He stares at the flashing question. He becomes aware of someone in the room. He turns to see his mother, AMANDA. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: SPOCK
+D: I do not understand the final question...
+E: continuing
+C: AMANDA
+D: You are half human. The Computer knows that.
+C: SPOCK
+D: The question is irrelevant.
+C: AMANDA
+D: Spock... The retraining of your mind has been in the Vulcan way, so you may not understand feelings. But as my son, you have them. They will surface.
+C: SPOCK
+D: As you wish, since you deem them of value. But I cannot wait here to find them.
+C: AMANDA
+D: Where must you go?
+C: SPOCK
+D: To Earth. To offer testimony.
+C: AMANDA
+D: You do this -- for friendship?
+E: hopefully
+C: SPOCK
+D: I do this because I was there,
+C: AMANDA
+D: Spock. Does the good of the many outweigh the good of the one...?
+E: a pause
+C: SPOCK
+D: I would accept that as an axiom.
+C: AMANDA
+D: Then you stand here alive because of a mistake -- made by your flawed, feeling, human friends. They have sacrificed their futures because they believed that the good of the one -- you -- was more important to them.
+C: SPOCK
+D: Humans make illogical decisions... Create PDF files without this message by purchasing novaPDF printer
+E: a pause http://www.novapdf.com
+C: AMANDA
+D: ... They do, indeed.
+N: Spock cocks his head, still baffled by this contradiction. SPACE - THE PROBE - ILM It passes CAMERA innocently emitting its CALL. No cause for alarm. Except as the Probe passes into the distance, we see it is headed directly for the blue marble, Earth.
+S: EXT. SAN FRANCISCO - 23RD CENTURY - DAY - ILM
+N: The sun is shining. MOVE, along the Golden Gate Bridge, toward Starfleet Headquarters.
+S: INT. STARFLEET COMMAND - DAY - ILM ELEMENTS
+N: Large windows overlook the bay. But in the midsection of the room, hi-tech displays monitor the universe. The scene, and the tension are feverish. One of the communicators is LT. RAND formerly of the Enterprise crew. Commander Chapel is also present. A verbal babble, and visual reports at hectic pace. ADMIRAL MORROW, Starfleet Commander, presides. The Council President enters.
+C: COUNCIL PRESIDENT
+D: Status report, Admiral!
+C: MORROW
+D: Mr. President, the Probe has passed through all quadrants. The starships Shepard and Yorktown and three smaller vessels have been neutralized.
+C: COUNCIL PRESIDENT
+D: "Neutralized?" How?
+C: MORROW
+D: We don't know. It's using forms of energy our best scientists do not understand...
+C: COUNCIL PRESIDENT
+D: Can you protect us?
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: MORROW
+D: We are launching everything we have.
+N: As the President reacts to this...
+S: EXT. SPACE DOCK - ILM
+N: The great rotating satellite, home of grand Spaceships. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+S: INT. SPACE DOCK - CONTROL BOOTH, OVERLOOKING SPACE CRAFT
+N: TWO CONTROLLERS, back to us, sit in the control seats. They control several Starships in b.g.
+C: CONTROLLER ONE
+D: Excelsior and Intrepid are cleared to depart. Open space dock doors.
+N: Over this, the SOUND OF THE PROBE'S SIGNAL is heard. Almost immediately, Controller Two is in big trouble.
+C: CONTROLLER TWO
+D: Sir! Space dock doors are inoperative!
+C: CONTROLLER ONE
+D: Keep trying. Excelsior and Intrepid stand by! Malfunction on exit doors.
+E: then
+C: INTREPID VOICE
+D: Control, Intrepid. Never mind. We can't get powered up!
+N: The Two Controllers look at each other as the SOUND OF the Probe's GIBBERISH comes in at DEAFENING VOLUME.
+C: CONTROLLER TWO
+D: Space doors not responding. All Emergency systems are non- functional.
+N: All over Space dock, lights are dimming.
+C: CONTROLLER ONE
+D: Engage reserve power. Starfleet Command, this is Space dock on emergency channel. We have lost all internal power. Repeat, we have lost all power!...
+N: SPACE - THE PROBE - ENTERING EARTH ORBIT - ILM The Probe's thrusters fire, and it slows to orbit the blue marble below. CLOSER ANGLE - THE PROBE - ILM As the antennae rotate to face the Earth. As the GIB- BERISH comes on, LOUD: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+S: EXT. OCEAN SURFACE - ILM
+N: An amazing EFFECT: The SOUND, like the prow of an invisible boat, cuts the surface of the ocean, leaving not a wake of water -- but of rising CLOUDS. SERIES OF SHOTS - ILM We INTERCUT between the Probe's transmissions and the impact on the water surfaces of Earth to create a clear impression: CLOUD COVER is slowly forming as ocean water is being transformed into cloud vapor by the SOUND.
+S: 31A INT. STARFLEET COMMAND - VIEW SCREEN INCLUDED 31A
+N: The dignitaries are stunned to see the cloud cover totally enveloping their planet.
+S: EXT. VULCAN SUNRISE - ILM
+N: Long shadows over the red planet.
+S: EXT. BIRD OF PREY - DAWN - ILM
+N: The " HMS BOUNTY" sits alone in the morning light.
+S: INT. BIRD OF PREY - BRIDGE
+N: Renovated and spruced up by the Enterprise crew. CAMERA FOLLOWS Kirk as he inspects the pre-launch activity.
+C: KIRK
+D: Systems report. Communications?
+C: UHURA
+D: Communications Systems ready. Communications Officer -- ready as she'll ever be.
+C: KIRK
+D: Mr. Sulu?
+C: SULU
+D: Guidance is functional. Onboard Computer will interface with Federation memory bank...
+C: KIRK
+D: Weapons systems?
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: CHEKOV
+D: Operational, Admiral. Cloaking Device now available in all modes of flight.
+C: KIRK
+D: I'm impressed, Mr. Chekov. A lot of effort for a short voyage.
+C: CHEKOV
+D: We are in an enemy wessel, sir. I didn't wish to be shot down on thee way to our own funeral.
+E: shrugs
+C: KIRK
+D: Most prudent. Engine room. Report, Scotty.
+E: comm. button
+S: INT. ENGINE ROOM - BIRD OF PREY
+N: Our first look in this cavern. In addition to the transporter and engine areas, there is a large Cargo hold.
+C: SCOTTY
+D: We're ready, sir. I've converted the Dilithium Sequencer to something less primitive. And Admiral -- I've replaced the Klingon Food Packs. They was givin' me sour stomach.
+N: BACK TO BRIDGE
+C: KIRK
+D: Appreciated by all, Mr. Scott. Prepare for departure.
+E: then
+N: As the crew chatters through the pre-launch check list, Kirk crosses to Saavik, near the exit doors, her work finished.
+C: KIRK
+D: Well, Saavik. I guess this is goodbye.
+E: continuing
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: SAAVIK
+D: Yes, Admiral. Sir. I have not had the opportunity to tell you about your son. David died most bravely. He saved Spock. He saved us all... I thought you should know.
+E: then, stiffly then
+N: Kirk wants to know, but is deeply moved. At last he reaches for her shoulders, holds on affectionately. After a moment, they separate. We FOLLOW Saavik to the garb, stands in the open doorway looking back at Saavik. A moment. Then:
+C: SAAVIK
+D: Good day, Captain Spock... May your journey be free of incident.
+E: continuing
+C: SPOCK
+D: Live long and prosper, Lieutenant.
+N: She looks back at Kirk for the briefest moment, then exits. Spock has started forward to Kirk. ANGLE - SPOCK AND KIRK
+C: SPOCK
+D: Permission to come aboard.
+C: KIRK
+D: Permission granted.
+C: SPOCK
+D: Thank you, Admiral.
+C: KIRK
+D: Jim, Spock, Jim. Remember...?
+C: SPOCK
+D: It would be improper to refer to you as Jim while you are in command, Admiral... Also, I must apologize for my attire. I seem to have misplaced my uniform.
+E: befuddled
+C: KIRK
+D: Well, I... find that understandable
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) (at Spock's eyebrow) I mean, you've been through a lot. (then) Station, please. Spock nods, and somewhat rigidly crosses to the Science station. Kirk watches, uncertain. Bones is suddenly by his side, whispering.
+C: BONES
+D: You sure this is such a bright idea?
+C: KIRK
+D: What do you mean?
+C: BONES
+D: I mean him, back at his post, like nothing happened. I don't know if you'd got the whole picture but he isn't exactly working on all thrusters.
+C: KIRK
+D: It'll come back to him.
+C: BONES
+D: Are you sure? That's what I thought.
+E: Kirk isn't
+C: KIRK
+D: Mr. Sulu... Take us home...
+N: The whine of the energizers begins, the engines come alive.
+S: EXT. LAUNCH PAD - DAWN - THE RAMP
+N: As Saavik walks away without looking back. The wind and ROAR of the engines. She walks to a waiting Amanda.
+S: EXT. LAUNCHING PAD - BIRD OF PREY - ILM
+N: With a ROAR and a belch of rocketry, the Bird of Prey lifts off, and starts its journey. CLOSE - SAAVIK AND AMANDA Wind blown, they watch as: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+S: EXT. VULCAN CANYON - BIRD OF PREY - ILM
+N: The Bird disappears among the canyons of Vulcan.
+S: INT. STARFLEET COMMAND - SCREEN AND GRAPHICS -
+N: PULL BACK It is bedlam. Data is pouring in from every corner of the Earth. All the visuals and audio reports combine to create a trend that is inescapable: AUDIO #1 Juneau, Alaska, cloud cover increased to 95 percent! AUDIO #2 Tokyo, total cloud cover. All power is from reserve banks. AUDIO #3 Leningrad has lost electrical power. Cloud cover 100 percent. Temperatures dropping rapidly. As the reports continue on SCREENS and on SOUND:
+C: PRESIDENT
+D: What is estimate cloud cover of the Planet at this time?
+C: COMPUTER VOICE
+D: 93.2 percent. Probe now orbiting South Pacific. Estimate total cloud cover by next orbit. No known way to dissipate cloud cover.
+C: MORROW
+D: Notify all stations: Starfleet Emergency, Red Alert. Switch power immediately to Planetary Reserves.
+N: The SOUND OF THE PROBE is heard throughout, like the death knell. Morrow turns to the President and says privately:
+C: MORROW
+D: Mr. President, even with Planetary Reserves we cannot survive without the sun.
+C: PRESIDENT
+D: I am well aware of that, Admiral.
+N: Now the President steps to the great window, where Sarek is watching the world of San Francisco. Rain has begun to streak the window. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: PRESIDENT
+D: Sarek... Is there no answer we can give this Probe?
+C: SAREK
+D: It is difficult to answer if you do not understand the question. Mr. President, perhaps you should transmit a planet distress signal, while we still have time.
+E: then
+N: The President looks at Sarek deeply. If his old wise friend has no answer, what hope is there...?
+S: EXT. SPACE - BIRD OF PREY - ILM
+N: As it passes us at high speed.
+S: INT. BRIDGE - BIRD OF PREY - PAST SULU TO KIRK
+C: SULU
+D: Estimating Planet Earth one point six hours present speed.
+C: KIRK
+D: Continue on course. Chekov, any signs of Federation escort?
+C: CHEKOV
+D: No, sir. And no Federation wessels on assigned patrol stations.
+C: KIRK
+D: That's odd. Uhura, what's on the Comm channels...?
+C: UHURA
+D: Very active, Sir. Multi-phasic transmissions, overlapping.... almost a gibberish... Let me see if I can sort it out.
+E: baffled by headset a beat
+N: She sets to work, intently: Spock reacts, picks up an earpiece to listen in, perhaps be helpful. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) BONES He sees Spock at science station, takes this opportunity to walk to his old comrade, break the silence of months.
+C: BONES
+D: Hi... Busy?
+C: SPOCK
+D: Uhura is busy. I am monitoring.
+C: BONES
+D: Umm. Well, just wanted to say -- nice to have your katra back in your head, not mine. I mean, I may have carried your soul, but I sure couldn't fill your shoes.
+E: He smiles; Spock stares
+C: SPOCK
+D: ... My shoes...
+C: BONES
+D: Forget it... How 'bout covering a little philosophical ground? Life, Death, Life... Things of that nature?
+E: a new tack
+C: SPOCK
+D: I did not have time on Vulcan to review the Philosophical disciplines.
+C: BONES
+D: Spock, it's me, Bones! I mean our experience was unique. You really have gone where no man has gone before. Can't you tell me what it felt like?
+C: SPOCK
+D: It would be impossible to discuss the subject without a common frame of reference.
+C: BONES
+D: You're joking...!
+C: SPOCK
+D: A joke is a story with a humorous climax.
+C: BONES
+D: You mean I have to die to discuss your insights on death?
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: SPOCK
+D: Pardon me, Doctor, I am hearing many calls of distress.
+E: re earpiece
+N: Bones is enraged and frustrated by this as we go to: 47A FAVORING UHURAH'S STATION 47A As Kirk arrives in response to her wave.
+C: KIRK
+D: What is it?
+C: UHURA
+D: Overlapping distress calls. Some from Starships... others...
+C: KIRK
+D: On screen!
+N: ON SCREEN, we have the option of playing FRAGMENTS of distress calls from SARATOGA, and other VESSELS. But these fragments are ultimately superceded by the tearing image of the FEDERATION PRESIDENT. Some of his message will be obscured until Uhura can find a balance.
+C: PRESIDENT'S IMAGE
+D: This is... President of... Grave Warning: Do not approach Planet Earth... To all Starships, repeat, do not approach! ... Orbiting Probe... emits transmissions on energy wave unknown to us... Wave, directed at our oceans... Ionized our atmosphere... All power sources have failed. Starships are powerless. ... A cloud envelope has enveloped the Planet. Heavy rain and flooding. Temperature dropping to critical level. Planet cannot survive unless Probe is responded to... Probe transmissions dominate all standard channels. Communications may not be possible... Save yourselves. Avoid the Planet Earth... Farewell.
+E: as Crew reacts clearing now
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: KIRK
+D: Spock? What do you make of it?
+C: SPOCK
+D: Most unusual. An unknown form of energy of great intelligence and power. I find it illogical that its intentions are hostile...
+C: BONES
+D: Really? You think this is its way of saying "Hi there" to the people of the Earth?
+E: dripping sarcasm
+C: SPOCK
+D: There are millions of other species on Earth, Doctor. Only human arrogance would assume the message was meant for man.
+C: BONES
+D: I liked him better before he died.
+E: to Kirk, aside:
+C: KIRK
+D: Bones --
+C: BONES
+D: Dammit, Jim, they've made him into a goddam green-blooded computer!
+N: And as Bones stalks off:
+C: KIRK
+D: Spock -- you're suggesting the transmission is meant for life form other than man?
+C: SPOCK
+D: A distinct possibility, Admiral. The President did say the transmission was directed at the Earth's Oceans
+C: KIRK
+D: Uhura... Can you modify the Probe's signals by accounting for density temperature and salinity factors?
+C: UHURA
+D: I'll try, sir.
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) Now begins a virtuoso performance by Uhura: a series of SOUND CHANGES accounting for all the factors; a feeling of a deductive process, modifying the GIBBERISH by slowing it down and changing it, until:
+C: UHURA
+D: I think I have it, sir.
+E: continuing
+N: The Bridge is filled with a SOUND familiar to some in our audience, but baffling to our 23rd Century friends.
+C: KIRK
+D: Then, this is what it would sound like underwater?
+E: to Uhura
+C: UHURA
+D: Yes, sir.
+C: SPOCK
+D: Fascinating. If my suspicion is correct, there can be no response to this message.
+N: As this impacts, he rises abruptly and heads for the door.
+C: KIRK
+D: Where are you going?!
+C: SPOCK
+D: To the on-board computer room. To confirm my suspicion.
+E: turns
+N: Spock turns and is gone. Beat; Kirk starts after him followed by Bones. Kirk turns back to Bones.
+C: KIRK
+D: Bones, stay here.
+C: BONES
+D: No way -- somebody has to keep an eye on him!
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) THE ORBITING PROBE - ABOVE EARTH - ILM The ultimate condition statement: below the Probe, the Planet has become a grey-black enshrouded ball. Pinpoint lightning flashes can be seen as tiny Christmas lights. And the Probe's SOUND goes on.
+S: INT. STARFLEET COMMAND - FAVORING DISPLAY SCREENS
+N: Above the din of the Probe's call and the shouts and chatter of officers, the screens convey a series of terrible images, some deteriorating: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) -- Clouds, tumbling abnormally in response to the Probe's call, build up massive thunderheads, split by LIGHTNING and THUNDER. -- A familiar Landmark (The Leaning Tower, The Sphinx) is seen against grey-black tumbling clouds. Rain has begun to fall heavily. The Sphinx appears to be crying. -- A dam cracks, and torrents of water pour into the valley below, all under leaden skies. -- SAN FRANCISCO BAY: Dark with giant clouds, whipping wind and rain. Lightning crackles on top the Golden Gate. As we WIDEN from the screen, we are in the midst of Bedlam. Morrow, trying to chatter orders, the President trying vainly to be heard on a comm channel, Commander Chapel urgently directing medical and evacuation efforts. (DIALOGUE TO COME) ANGLE AT GREAT WINDOW The rain howls outside, and water is beginning to spray in through the seals. A CREW, drenched, is attempting to shore up the window itself.
+S: INT. COMPUTER ROOM - BIRD OF PREY - CLOSE SCREEN
+N: As the Probe's modified CALL is heard (WHALE SONG), a series of graphic images present themselves on screen; The computer search narrows down to whales, and then, specific species thereof. In short order the computer finds a match, and a line drawing of a great whale appears. A printout indicates: "Megaptera Novaeangliae." As this is occurring, ANGLE WIDENS to include Kirk and Bones watching intently behind Spock.
+C: KIRK
+D: Spock...?
+C: SPOCK
+D: As suspected, the Probe's transmissions are the songs sung by whales.
+C: KIRK
+D: Whales?
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) On Screen: "HUMPBACK WHALE" begins flashing to replace the Latin species name.
+C: SPOCK
+D: Specifically, Humpback Whales.
+C: BONES
+D: That's crazy! Who would send a probe hundreds of light years to talk to a whale?
+C: KIRK
+D: It's possible. Whales were on Earth far earlier than man...
+E: reflects
+N: As DATA continues to flash on screen:
+C: SPOCK
+D: 10 million years earlier. Humpbacks were heavily hunted by Man. They have been extinct since the 21st Century... It is possible that an alien intelligence sent the probe to determine why they lost contact.
+C: BONES
+D: ... My God...
+C: KIRK
+D: Spock, could the Humpback's answer to this call be simulated?
+C: SPOCK
+D: The sounds, but not the language. We would be responding in gibberish.
+C: KIRK
+D: Is there any other planet where this species exists?
+C: SPOCK
+D: The Humpback was indigenous to Earth. Earth of the past.
+C: KIRK
+D: That leaves us no choice. We must destroy the probe before it destroys Earth.
+C: SPOCK
+D: That would be futile, Admiral. The probe would neutralize us easily.
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: KIRK
+D: But we can't turn away! Is there no alternative?
+C: SPOCK
+D: There is one, but I cannot guarantee its success. We could attempt to find some Humpback Whales.
+C: BONES
+D: You just said there aren't any except on Earth of the past.
+C: SPOCK
+D: That is what I said, Doctor.
+C: BONES
+D: Then how.?
+N: He trails off, seeing Kirk deep in thought.
+C: BONES
+D: Now wait just a damn minute.
+E: continuing
+C: KIRK
+D: Spock, start your computations for time warp. Come on, Bones. Let's pay Scotty a visit.
+E: a beat
+S: = 52A INT. CARGO BAY - KIRK AND SCOTTY 52A
+N: striding through a vast Cargo area. Bones follows.
+C: KIRK
+D: Scotty, how long is this bay?
+C: SCOTTY
+D: About 60 feet, Admiral.
+C: KIRK
+D: That should be enough. Can you enclose it to hold water?
+C: SCOTTY
+D: I suppose I can, sir; are you planning to take a swim?
+C: BONES
+D: Off the deep end, Mr. Scott.
+N: As Scotty puzzles - Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: KIRK
+D: Scotty, we have to find some Humpbacks.
+C: SCOTTY
+D: Humpbacked - people.?
+E: carefully
+C: KIRK
+D: Whales, Scotty. 45 to 50 feet long; about 40 tons a piece.
+C: SCOTTY
+D: Admiral - how am I going to handle all that weight?
+C: KIRK
+D: You'll work it out, Scotty. And remember: two of them.
+C: SCOTTY
+D: Two?
+C: KIRK
+D: It takes two to tango, Mr. Scott.
+N: And with a confident grin, Kirk exits, pursued by Bones.
+C: SCOTTY
+D: The great flood and Noah's Ark. what a way to finally go.
+N: 52B ANOTHER ANGLE - THE CARGO BAY 52B As Bones catches up with Kirk.
+C: BONES
+D: You're really going to try this time travel in this rust bucket?
+C: KIRK
+D: We've done it before.
+C: BONES
+D: Sure, slingshot around the Sun. If you pick up enough speed you're in time warp. If you don't, you fry..
+C: KIRK
+D: Would you prefer to do nothing?
+N: And Kirk passes through the Cargo Bay into: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+S: 52C INT. NECK CORRIDOR - BIRD OF PREY 52C
+N: Bones pursues Kirk on the way to the bridge.
+C: BONES
+D: I prefer a dose of common sense. you are proposing to head backwards in time, find Humpback Whales, then bring them forward in time, drop them off - and hope they tell this Probe what to do with itself!
+C: KIRK
+D: -- That's the general idea.
+C: BONES
+D: That's crazy!
+C: KIRK
+D: If you have a better idea - now's the time.
+N: There is a pause. Bones does not have a better idea.
+S: 52D INT. BRIDGE - BIRD OF PREY 52D
+N: The doors open, Kirk strides in, Bones following.
+C: KIRK
+D: Mr. Spock, your computations?
+C: SPOCK
+D: In progress, Admiral.
+C: KIRK
+D: Uhura. Get me through to Starfleet Command.
+S: EXT. SAN FRANCISCO BAY - ILM
+N: Waves crash against the bridge posts and the shoreline. Wind roars: Lightning, thunder, crackle and rumble.
+S: INT. STARFLEET COMMAND
+N: Torrential rain at the window; lightning reflects deep into the room. The situation screens have become erratic; technicians scurry desperately and there is CHATTER overlapping from all. Through this:
+C: COMM OFFICER
+D: Sir... I'm picking up a faint transmission... It's Admiral Kirk calling...!
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: MORROW
+D: On screen!
+N: But at this moment, the entire situation display goes fuzzy, distorts, and is gone.
+C: MORROW
+D: Satellite reserve power, now!
+E: continuing
+N: The board starts up again, but dimmer, more erratic. A distorted image of Kirk appears on SCREEN (INTERCUT WITH BIRD OF PREY). We will not hear every word.
+C: KIRK'S IMAGE
+D: ... Analysis... Probe call... Captain Spock... Opinion... extinct species, Humpback Whale... proper response... Do you read me...?
+C: MORROW
+D: Stabilize! Emergency reserve!
+N: As the Comm Officer responds, Sarek steps up beside Morrow. Now Kirk's image clears enough to see:
+C: KIRK
+D: Starfleet, if you read, we are going to attempt time travel. We are computing our trajectory at this time...
+N: But suddenly the power fails, Kirk's image is gone. A silence as they stare at the blank screen.
+C: SAREK
+D: Good luck, Kirk. And all you go with you.
+E: softly
+N: The interruption is sudden: the entire great window facing the bay CRASHES INWARD, filling the room with debris, cries, and howling wind.
+S: EXT. SPACE - BIRD OF PREY - ILM
+N: Cloud covered Earth is distant b.g. The ship passes us. PAN to see she's heading for the Sun. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+S: 56A INT. BIRD OF PREY BRIDGE 56A
+C: SPOCK
+D: Ready to engage computer, Admiral.
+C: KIRK
+D: What is our target in time?
+C: SPOCK
+D: The late 20th Century.
+C: KIRK
+D: Surely you can be more specific...
+C: SPOCK
+D: Not with this equipment. I have had to program some of the variables from memory.
+C: KIRK
+D: What are the variables...?
+C: SPOCK
+D: Availability of fuel components; Mass of the vessel through a time continuum, and the probable location of Humpbacks, in this case, the Pacific basin.
+C: KIRK
+D: You've programmed that from memory...?
+C: SPOCK
+D: I have.
+C: BONES
+D: Angels and ministers of grace, defend us.
+E: eyes to heaven
+C: SPOCK
+D: Hamlet, Act I scene 4.
+C: KIRK
+D: Mr. Spock... None of us has doubts about your memory. Engage computer. Prepare for Warp Speed.
+E: then
+S: EXT. SPACE - BIRD OF PREY - ILM
+N: Her wings move to their sleekest position as she con- tinues her course to the Sun. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+S: INT. BIRD OF PREY BRIDGE
+C: KIRK
+D: Shields, Mr. Chekov.
+C: CHEKOV
+D: Shields, aye.
+C: KIRK
+D: May fortune favor the foolish. Mr. Sulu, Warp Speed!
+E: then
+S: EXT. SPACE - SERIES OF SHOTS - ILM
+N: The Bird of Prey explodes into WARP; she blurs past our eyes several times, gaining speed toward the Sun --
+T: INTERCUT - BRIDGE (ILM ELEMENTS)
+C: SULU
+D: Warp two... three...
+C: KIRK
+D: Steady as she goes...
+N: On VIEW SCREEN the sun is getting larger. Vibration begins on the bridge and increases markedly with speed...
+C: SULU
+D: Warp five... seven...
+C: SCOTTY'S VOICE
+D: I don't think she'll hold together, sir!
+C: KIRK
+D: No choice now, Scotty!
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: CHEKOV
+D: Sir, heat shields at maximum!
+C: SULU
+D: Warp Nine... Nine point two... Nine point three...
+C: KIRK
+D: Mr. Sulu, we need breakaway speed!
+C: SULU
+D: Hang on, sir... Nine point seven... point eight... Breakaway threshold...
+C: KIRK
+D: Steady!!... Now, Mr. Sulu!
+E: cues from SCREEN
+N: SPACE - SERIES OF SHOTS - THE SLINGSHOT - ILM -- Just as the Bird appears certain to be swallowed by the Sun, a BLAST of some kind accelerates the ship along the far curve of the great star. Solar flares lick at the bright blur as she -- -- Arcs suddenly behind the sun, whipping almost faster than we can see and -- -- Like a tracer bullet on a circular course, the bright blur emerges from the opposite side of the sun and starts back toward Earth.
+S: EXT. SPACE - BIRD OF PREY - ILM
+N: We are behind the ship, chasing and closing rapidly as it sizzles through space. We overtake the ship until the blue white heat of the engines FILLS THE SCREEN --
+S: INT. BIRD OF PREY BRIDGE
+N: FROM THE REAR as CAMERA CONTINUES MOVING IN toward Kirk sitting in his chair. As the back of Kirk's head FILLS
+C: THE SCREEN:
+D: Create PDF files without this message by purchasing novaPDF printer
+E: http://www.novapdf.com
+N: TIME TRAVEL SEQUENCE - SUBJECTIVE - ILM We are inside Kirk's MIND as we see a series of hypnot- ic dream images floating up from Kirk's subconscious; undulating figures which float toward us and pass... Liquid faces... amorphous figures... images of Kirk's shipmates in semi-transparent ghostly shapes -- aging and regressing. Kirk's image of himself running toward himself... underwater looking up at a sunlight-dappled surface... gently waving strands of reeds at an abstract shoreline... disembodied voices, sounds and music add to the hypnotic effect. And then... A WHOOSHING ROAR begins to mount and grow louder until it climaxes with a terrible BANG! And we:
+T: CUT TO:
+S: EXT. SPACE - STAR FIELD - ILM
+N: Empty a moment, then the Bird of Prey descends INTO THE SHOT, no longer glowing, tranquil in flight.
+S: INT. BIRD OF PREY BRIDGE
+C: KIRK
+D: Mr. Sulu...? ... Mr. Sulu?!
+C: SULU
+D: ... Aye sir...?
+E: out of trance
+C: KIRK
+D: What is our condition?
+C: SULU
+D: Sir... Braking thrusters seem to have fired.
+C: KIRK
+D: Picture, please.
+N: ON SCREEN: The spectacle of Earth as seen from high orbit (NASA MATERIAL). Awesome.
+C: KIRK
+D: Earth... But when?... Spock?
+E: continuing
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: SPOCK
+D: Judging by the pollution content of the atmosphere, I believe we have arrived at the late 20th Century.
+E: at his station
+C: KIRK
+D: Well done, Mr. Spock.
+C: UHURA
+D: Admiral, I am receiving whale songs.
+C: KIRK
+D: On speakers.
+N: Sure enough.
+C: KIRK
+D: Home in on the strongest signal. Descend from orbit.
+E: continuing
+C: SPOCK
+D: Admiral, if I may: we're probably already visible to the tracking devices of the time.
+C: KIRK
+D: Quite right, Spock. Mr. Chekov, engage cloaking device!
+S: EXT. SPACE - BIRD OF PREY - ILM (CLOAK EFFECT)
+N: Descending, the ship, via the cloaking device, disappears.
+S: INT. BIRD OF PREY BRIDGE
+C: SULU
+D: We are crossing the terminator into night.
+C: SPOCK
+D: Homing in on the west coast of North America...
+C: UHURA
+D: Individual whale song getting stronger... This is strange, Admiral. The song is directly ahead. It's coming from San Francisco.
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: KIRK
+D: From a city? That doesn't make sense....
+C: SULU
+D: Perhaps thy are stranded in the Bay, sir?... Or in captivity?
+C: SCOTTY'S VOICE
+D: Admiral, you and Spock better get down here...!
+C: KIRK
+D: Continue approach...
+E: thoughtfully
+S: INT. BIRD OF PREY ENGINE ROOM- CLOSE - POWER CONSOLE
+N: (AS SHOT) Within a shielded sub-room, we can see through a window dilithium crystals. They are beautiful, but they're dim. WIDEN as Scotty tells Kirk and Spock:
+C: SCOTTY
+D: They're giving out. De-crystallizing.
+C: KIRK
+D: Give me a round figure, Mr. Scott.
+C: SCOTTY
+D: Oh, twenty-four hours, give or take, staying cloaked. After that, Admiral, we'll be visible -- and dead in the water. In any case, we won't have enough to break out of the Earth's gravity, to say nothing of getting back home.
+N: Kirk scowls at the crystals.
+C: KIRK
+D: I can't believe we've come this far only to be stopped by this! Scotty, is there any way dilithium can be re-crystallized?
+E: thinks
+C: SCOTTY
+D: Sorry, sir. We can't even do that in the 23rd Century.
+C: SPOCK
+D: There is a 20th Century possibility.
+C: KIRK
+D: Explain. Create PDF files without this message by purchasing novaPDF printer
+E: http://www.novapdf.com
+C: SPOCK
+D: If memory serves, there was a dubious flirtation with nuclear fission reactors resulting in toxic side effects. By the beginning of the fusion era, these reactors had been replaced, but at this time, we should be able to find some.
+C: KIRK
+D: But you said toxic.
+C: SPOCK
+D: We could rig a device to collect their high energy photons safely; we could then inject the photons into the dilithium chamber, causing crystalline restructure.... Theoretically.
+C: KIRK
+D: Where would we find these reactors... Theoretically.
+C: SPOCK
+D: Nuclear power was widely used in naval vessels...
+N: Kirk looks at him, thinking.
+S: EXT. SAN FRANCISCO - DOWN ANGLED POV - NIGHT - ILM
+N: The city, alive with lights. We are descending. THE BRIDGE The FOOTAGE is seen on screen. Kirk is on station. They are all watching.
+C: BONES
+D: It doesn't look all that different.
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: KIRK
+D: Let's hope so, Bones. Mr. Sulu, set us down in Golden Gate Park.
+C: SULU
+D: Aye, sir. Descending.
+C: KIRK
+D: We'll divide into teams. Commanders Chekov and Uhura are assigned to the Uranium problem.
+C: CHEKOV
+D: Yes, sir.
+C: KIRK
+D: Dr. McCoy, you, Mr. Scott and Commander Sulu will convert us a whale tank.
+C: BONES
+D: Oh, joy.
+C: KIRK
+D: Captain Spock and I will attempt to trace these whale songs to their source.
+C: UHURA
+D: I'll have bearing and distance for you, sir.
+C: KIRK
+D: Right. Now look: I want you all to be very careful. This is terra incognita. Many customs will doubtless take us by surprise. It's a forgone conclusion these people have never seen an extra-terrestrial before.
+E: then
+N: Everyone looks at Spock. He arches an eyebrow; reaches into his robe and pulls out a strip of lining which he ties around his head, concealing his ears and making him look like a Japanese gentleman in samurai dress.
+C: KIRK
+D: This is an extremely primitive and paranoid culture. Mr. Chekov, issue a phaser and communicator to each team.
+E: continuing
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) (then) We'll maintain radio silence except in emergency, all transmissions to be preceded by three coded bleeps. Anyone in uniform, get rid of your rank insignia. (they do) Any questions? (then) All right, let's do our job and get out of here. Our own world is waiting for us to save it if we can.
+S: EXT. GOLDEN GATE PARK - NIGHT
+N: A garbage truck is stopped as TWO GARBAGE MEN empty park trash cans into the rear of the truck.
+C: 1ST GARBAGE MAN
+D: So I told her: if you think I'm laying out sixty bucks for a goddam toaster oven you got another thing coming.
+C: 2ND GARBAGE MAN
+D: So what'd she say?
+N: Before he can answer, a mighty wind comes up. We're talking Hurricane Gloria at 150 m.p.h. It's all they can do to hang on to the truck for dear life, squinting in the direction of the wind. After a couple of moments, the wind dies as quickly as it arose.
+C: 1ST GARBAGE MAN
+D: What the fuck was that?
+N: But both are now taken by a WEIRD SOUND, and they look to see:
+S: EXT. PARK - NIGHT - ILM
+N: The ramp of the Bird of Prey descends, the only visible part of the ship. Kirk and his crew descend, back-lit. BACK TO THE TRUCK The garbage men stare in disbelief. Number One starts for the cab, grabs Number Two, who's frozen, and they scramble into the truck, fumble for the starter, and roar away. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+S: INT. TRUCK
+C: NUMBER TWO
+D: Did you see that?
+C: NUMBER ONE
+D: No. And neither did you, so shut up.
+N: BACK TO RAMP As the truck roars off in the distance, Kirk and the crew reach the ground. The ramp closes, restoring normal light.
+C: KIRK
+D: We'll stick together till we get orientated. Bearing to the whales?
+C: UHURA
+D: 283 degrees... 15.2 kilometers...
+E: with tricorder
+C: KIRK
+D: Everyone remember where we parked.
+N: And they move off.
+T: CUT TO:
+S: EXT. DOWNTOWN SAN FRANCISCO - VARIOUS SHOTS - DAY
+N: Culture shock! Bustling traffic and people. Our doughty band moves through the scene in awe and wonder, taking in sights and sounds. They are little noticed by passersby; their dress may be a little odd, but this is San Francisco. Now they stop in front of a news machine. POV - THE HEADLINE, SAN FRANCISCO CHRONICLE "Nuclear Arms Talks Stalled." BACK TO SCENE
+C: BONES
+D: It's a miracle these people ever got out of the 23rd century.
+N: A man steps to the machine, inserts coins, takes a paper. Kirk frowns.
+C: KIRK
+D: Damn, they're still using money. We're going to need some.
+N: He looks around in thought, sees: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) HIS POV - ANTIQUE STORE : "WE BUY AND SELL" BACK TO SCENE
+C: KIRK
+D: You people wait here... And spread out. We look like a cadet review. ... Spock --
+N: The group spreads out self consciously, as Spock follows Kirk across the street. In mid-street, a car SQUEALS to a stop to avoid hitting Kirk.
+C: CAR DRIVER
+D: Watch were you're going, you dumb ass!
+C: KIRK
+D: And double dumb ass on you!
+E: flustered
+N: Spock reacts to this language.
+S: 84A EXT. THE OTHER SIDE OF THE STREET 84A
+N: The rest of the crew having spread out per Kirk's instructions, are waiting as A YOUNG JAPANESE BOY passes Sulu, does a double take and comes up to him. The scene will be played IN JAPANESE with English sub-titles.
+C: THE BOY
+D: Ojichan? Akira ojichaan dewa naino? Koko de nani shiteru no? 
+E: in wonder translation Uncle Akira?! Is that you? What are you doing here?
+C: SULU
+D: Gomen nasarei. Hito chigai de gozaranuka na. I'm sorry, my son. You have mis- taken me for someone else.
+E: in classical Japanese translation
+C: THE BOY
+D: Ah, chigaau hito da. Hanashi kata ga okashii. Yes, this must be true. You talk funny.
+E: translation
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) He starts to back away apologetically but Sulu stops him.
+C: SULU
+D: Chotto omachi nasarei. Namae wa nanto moosareruka na. Wait my son. What is your name?
+E: translation
+C: THE BOY
+D: Sulu Hikaru.
+C: SULU
+D: Ah, sorenara mazu mazu nagaiki wo sareru to mira. Ah... Then I am sure that you will have a long and happy life.
+E: visibly moved translation
+C: THE BOY
+D: Arigato. Sayonara. Thank you, honorable sir.
+E: translation
+N: The boy departs and Bones steps to Sulu.
+C: BONES
+D: Who was that?
+C: SULU
+D: That, Doctor, was my great great grandfather.
+N: On McCoy's reaction we CUT TO:
+S: INT. ANTIQUE STORE - DAY
+N: The OWNER examines Kirk's glasses, now shattered.
+C: OWNER
+D: Yes, they're eighteenth Century American, quite valuable. Are you sure you want to part with them?
+C: KIRK
+D: How much will you give me?
+N: As the Owner examines the glasses:
+C: SPOCK
+D: Weren't those a birthday present from Dr. McCoy?
+C: KIRK
+D: And they will be again, Spock. That's the beauty of it. How much?
+E: to Owner
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: OWNER
+D: They'd be worth more if the lenses were intact. I'll give you 200 bucks take it or leave it.
+C: KIRK
+D: Is that a lot? Create PDF files without this message by purchasing novaPDF printer
+E: brightly http://www.novapdf.com
+S: EXT. ANOTHER STREET CORNER
+N: As Kirk divides the money.
+C: KIRK
+D: That's all there is, so nobody splurge. Are we set? Then, good hunting.
+E: they are
+N: And they divide into teams and start off. We stay with Kirk and Spock as they begin walking.
+C: KIRK
+D: Well, Spock, thanks to your restored memory and a little bit of luck, we are in the streets of San Francisco looking for a pair of humpback whales. How do you propose to solve this minor problem?
+E: continuing then
+C: SPOCK
+D: Simple logic will suffice. We need a map. That one should do.
+E: gestures
+N: He leads Kirk to a SYSTEM MAP in a bus stop enclosure.
+C: SPOCK
+D: I will juxtapose our coordinates on this map and find our destination.
+E: continuing
+N: He starts to, but the map is diagrammatic, and very puzzling to Spock. As he struggles with its illogic, a BUS pulls up. On the side is an ad: "See GEORGE AND GRACIE, the only two Humpback Whales in Captivity at the Cetacean Institute, Sausalito." Kirk smiles.
+C: KIRK
+D: I think we'll find what we're looking for at the Cetacean Institute in Sausalito. Two Humpbacks called George and Gracie.
+C: SPOCK
+D: How do you know this...?
+E: perplexed
+C: KIRK
+D: ... Simple logic. Create PDF files without this message by purchasing novaPDF printer
+E: http://www.novapdf.com
+N: ANGLE AT BUS DOOR Kirk, followed by Spock, enters. The door closes, but the bus does not start. CAMERA PANS along bus to the rear exit door, which opens, disgorging a frustrated Kirk and a puzzled Spock.
+C: SPOCK
+D: What does it mean, exact change?
+S: EXT. STREET - DAY
+N: Bones, Scotty and Sulu.
+C: BONES
+D: Would you mind telling me how we plan to convert this tank?
+C: SCOTTY
+D: Ordinarily, I could do it with a piece of transparent aluminum...
+C: SULU
+D: You're about 150 years too early for that.
+C: SCOTTY
+D: I know. We've got to find the 20th Century equivalent...
+C: SULU
+D: What about that?
+E: points
+N: They look off. RACK FOCUS to a billboard: "CAN'T FIND IT? TRY THE YELLOW PAGES!"
+S: INT. PHONE BOOTH - CLOSE ON PHONE BOOK - DAY
+N: A finger runs down one of the white pages, finds some- thing, snaps the book shut. WIDEN to reveal Chekov emerging from the booth, Uhura waiting.
+C: UHURA
+D: Find it?
+C: CHEKOV
+D: Yes, under "U.S. Government." Now we need directions.
+N: He steps forward, stops a PASSERBY.
+C: CHEKOV
+D: Excuse me, sir. Can you direct me to the Navy base in Alameda?
+E: continuing
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: PASSERBY
+D: The... Navy base?
+E: hearing the accent
+C: CHEKOV
+D: Yes. Where they keep the nuclear wessels.
+S: INT. BUS - DAY
+N: Kirk and Spock are riding across the Golden Gate Bridge. In front of them, a punker listens to a ghetto blaster so loudly that every time Kirk tries to talk, he can't be heard. Finally he leans forward and shouts:
+C: KIRK
+D: Excuse me. Can you please stop that sound?
+N: In response, the punker flips him the finger. In response to which, Spock gives the punker a Vulcan nerve pinch and disarms the radio. Other passengers applaud. Kirk and Spock settle into their seats.
+C: SPOCK
+D: As you observed, a primitive Culture.
+C: KIRK
+D: Yes.
+C: SPOCK
+D: Admiral, may I ask you a question?
+C: KIRK
+D: Spock, don't call me Admiral. Don't you remember: you used to call me Jim... Now what's your question?
+C: SPOCK
+D: Your use of language has altered since our arrival. It is currently laced with -- shall I say -- more colorful metaphors: "Double dumb ass on you" -- and so forth...
+C: KIRK
+D: You mean profanity. That's simply the way they talk here.
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) Nobody pays any attention to you if you don't swear every other word. You'll find it in all the literature of the period.
+C: SPOCK
+D: For example?
+N: Kirk thinks.
+C: KIRK
+D: Oh, the complete works of Jacqueline Susan, the novels of Harold Robbins....
+C: SPOCK
+D: Ah... The giants.
+S: EXT. MARITIME CETACEAN INSTITUTE - DAY
+N: The bus pulls up and disgorges Kirk, Spock and a few other visitors. They head for the impressive building.
+S: INT. INSTITUTE - MAIN ROOM - DAY
+N: Large, beautiful, with great hanging replicas of whales dominating. A tour group has gathered, and DR. GILLIAN TAYLOR, perkily attractive , enters to take charge.
+C: GILLIAN
+D: Good morning. I'm your guide this morning; my name's Dr. Gillian Taylor, but you can call me Gillian. I'm Assistant Director of the Maritime Cetacean Institute. Please follow me and just give a yell if you can't hear, okay?
+N: She starts off, all follow.
+C: GILLIAN
+D: The Cetacean Institute is the only museum in the world exclusively devoted to whales. As you can see we have a great seal to offer, but that is small compared to what we know -- or rather what wee don't know about whales. The first commonly held misconception is that whales are fish.
+E: continuing
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) They're not; they're mammals like us. Warm-blooded, needing air to breathe and producing milk to nurse their young. They are very old mammals -- 11 million years, give or take. During the spiel, Taylor notices Kirk. In an odd way, they connect. He's attractive, even in his odd clothes, and he pays stricter attention than the average Joe.
+C: A MAN
+D: Do whales attack people -- like in "Moby Dick"?
+C: GILLIAN
+D: Most whales don't even have teeth. They strain vast amounts of tiny shrimp for food and that is the limit of their hostility. Un- fortunately, their principle enemy is far more aggressive.
+C: KIRK
+D: You mean man...
+C: GILLIAN
+D: To put it mildly. Since the dawn of time, men have harvested whales for a variety of purposes, most of which can be achieved synthetically at this point. A hundred years ago, using hand-thrown harpoons, they did plenty of damage -- but that was nothing compared to what they've achieved in this century.
+N: Gillian pushes a button and screens modern whale-hunt footage. Pretty gruesome stuff.
+C: GILLIAN
+D: This is mankind's legacy: whales hunted to the brink of extinction. Virtually gone is the Blue Whale, largest creature ever to inhabit the Earth.
+E: continuing; still emotional for her
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) (beat) Despite all attempts at banning whaling, there are still countries and pirates currently engaged in slaughter of these inoffensive creatures. Where the humpback whale once numbered in the hundreds of thousands, today there are less than 7 thousand specimens alive and those that are taken are no longer fully grown. In addition, many of the females are killed, still bearing unborn calves. The pictures graphically illustrate what she's talking about.
+C: SPOCK
+D: To hunt a species to extinction is not logical.
+C: GILLIAN
+D: Whoever said the human race was logical? Now if you'll follow me, I'll introduce you to the Institute's pride and joy.
+E: bitter then
+N: They start after her.
+S: EXT. WHALE TANK - DAY - ILM ELEMENTS
+C: GILLIAN
+D: This is the largest sea water tank in the world -- and it contains the only two humpback whales in captivity.
+N: The two whales undulate majestically. They are colossal. Kirk and Spock react in awe.
+C: GILLIAN
+D: They are mature humpbacks, weighing 45,000 pounds each. They wandered into San Francisco Bay as calves and were brought here. We call them George and Gracie.
+E: continuing
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: KIRK
+D: It's perfect, Spock: a male, a female, together in a contained space can beam them up together and consider ourselves damn lucky...
+E: excited whisper
+N: Spock reacts oddly to this.
+C: GILLIAN
+D: Beautiful, aren't they? And extremely intelligent. Why shouldn't they be? They're swimming around with the largest brains on Earth... Now if you'll follow me please.
+N: The group enters the building. Spock hangs back. Kirk does not notice his absence.
+S: 93A INT. BUILDING 93A
+N: As Gillian continues the tour.
+C: GILLIAN
+D: Despite all the things they are teaching us we have to return George and Gracie to the open sea.
+C: KIRK
+D: Why's that?
+C: GILLIAN
+D: Well, for one thing, we simply don't have the money to keep feeding them a couple of tons of shrimp a day!
+C: KIRK
+D: How soon?
+C: GILLIAN
+D: Soon... It's too bad because they're very friendly as you can see. I've grown quite attached to them... This way.
+N: She starts down a spiral staircase that winds around the tank. The others follow, minus Spock. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+S: ANGLE NEXT TO TANK WINDOW, LOWER LEVEL
+N: Gillian stops with her back to the tank.
+C: GILLIAN
+D: Here's a much better way to see George and Gracie -- underwater.
+N: Kirk has begun to look for Spock -- but in vain. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+S: INT. TANK - UNDERWATER
+N: As Gillian continues her spiel, CAMERA MOVES IN toward the whales and discovers Spock -- in the water, swimming to them! He approaches one, and looks it in the eye. The great eye stares back. CLOSER ANGLE - UNDERWATER Spock and the whale are a foot apart. Spock gently puts his hand on the whale -- a MIND MELD. A shaft of back lightning makes the mood ethereal.
+S: EXT. TANK
+N: Over speakers, we hear WHALE SONG. The crowd reacts.
+C: GILLIAN
+D: What you're hearing is whale song. It is sung by the male. He'll sing any- where from six to as long as thirty minutes, and then, start again. In the ocean, other whales will pick up the song... And pass it on.
+N: Now Kirk sees Spock in the water behind Gillian and is in mild shock. He watches wild-eyed as Spock and whale move through the water in mid mind-meld.
+C: GILLIAN
+D: The songs change every year, but we still don't know what purpose they serve. Are they navigational? Part of the mating ritual? Or pure communication beyond our comprehension?
+E: continuing
+C: AN OLDER WOMAN
+D: Maybe he's singing to the man.
+N: As the woman points, Gillian turns around to see: POV - SPOCK AND WHALE IN TANK BACK TO SCENE
+C: GILLIAN
+D: What the hell --! Excuse me! Wait right here!
+E: starts out
+N: She dashes up the stairs as Kirk desperately pursues. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+S: EXT. EDGE OF TANK - DAY
+N: Spock climbs out, and is putting on his robe as Gillian comes running to him from a distance, followed but Kirk.
+C: GILLIAN
+D: Who the hell are you? What were you doing in there?!
+N: Spock turns to Kirk for guidance, but:
+C: KIRK
+D: You heard the lady!
+N: Spock gives it his best logical shot.
+C: SPOCK
+D: Attempting the hell to communicate.
+C: GILLIAN
+D: Communicate? Communicate what? You have no right to be here!
+N: Spock hesitates.
+C: KIRK
+D: Come on, fellah -- speak up!
+C: SPOCK
+D: Admiral, if we were to assume these. whales are ours to do with as we please, we would be as guilty as those who caused their extinction.
+C: GILLIAN
+D: Ohhhkay. I don't know what this is about, but I want you guys outta here right now or I call the cops.
+E: realizes they are together
+C: KIRK
+D: I assure you that won't be necessary. We were only trying to help...
+C: GILLIAN
+D: The hell you were, buster. Your friend was messing up my tank and messing up my whales...
+C: SPOCK
+D: They like you very much. But they are not the hell your whales.
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: GILLIAN
+D: I suppose they told you that...?
+C: SPOCK
+D: The hell they did.
+S: EXT. ROAD NEAR CETACEAN INSTITUTE - DAY
+N: Kirk and Spock walking, Golden Gate Bridge in the back- ground . Slight tension between them. Then:
+C: KIRK
+D: Spock...
+C: SPOCK
+D: Yes?
+C: KIRK
+D: About those colorful metaphors we discussed. I don't think you should try to use them.
+C: SPOCK
+D: Why not?
+C: KIRK
+D: Well, for one thing, you haven't quite got the hang of it.
+C: SPOCK
+D: I see.
+C: KIRK
+D: And another thing... It is not always necessary to tell the truth.
+C: SPOCK
+D: I cannot tell a lie.
+C: KIRK
+D: You don't have to lie... You could exaggerate.
+C: SPOCK
+D: Exaggerate.
+C: KIRK
+D: You've done it before. Can't you remember?
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: SPOCK
+D: The hell I can't
+C: KIRK
+D: What else did you learn from your mind meld?
+E: sighs; then
+C: SPOCK
+D: They are very unhappy about the way their species has been treated by man.
+C: KIRK
+D: They have a right to be... Do you think they'll help us?
+E: then
+C: SPOCK
+D: I believe I was successful in communicating our intentions.
+C: KIRK
+D: ... I see.
+E: an uncertain beat
+S: EXT. WHALE TANK - DAY
+N: Gillian sits on the edge, dangling her feet. George and Gracie swim back and forth next to her, blowing water that showers her. She strokes them.
+C: GILLIAN
+D: It's all right. Yes. I know. It's okay. They didn't mean any harm.
+N: The whales make NOISES. They are trying to tell her something -- but what? BOB BRIGGS, Director of the Institute, comes up behind her.
+C: BOB
+D: Heard there was some excitement.
+C: GILLIAN
+D: Just a couple of kooks...
+N: Bob watches her affectionately from behind; kicks off his shoes and, rolling up his slacks, sits down next to her with his feet in the water.
+C: BOB
+D: How're you doing?
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: GILLIAN
+D: Fine. Just fine.
+C: BOB
+D: Don't tell me fish stories, kiddo. I've known you too long.
+C: GILLIAN
+D: Bob... it's tearing me apart.
+C: BOB
+D: I know. I feel the same thing. But we're between a rock and a hard place. We can't keep them without risking their lives and we can't let them go without a taking the same chance.
+C: GILLIAN
+D: Yeah.
+E: dully
+C: BOB
+D: And finally, they're not human beings, you know. Their intelligence has in no way been proven comparable to ours --
+C: GILLIAN
+D: I don't know about you, but my compassion for someone is not limited to my estimate of their intelligence. I mean whales may not have painted the Mona Lisa or invented the dirt bike but they didn't ravish the land either.
+E: beat
+N: Bob is rebuked. Gillian rises.
+C: GILLIAN
+D: Sorry if I spoke out of turn.
+E: continuing
+C: BOB
+D: Not at all. You gave me things to think about. You always do. You do sound a little wrecked, why don't you go home and stare at the ceiling?
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: GILLIAN
+D: Why don't I?
+E: nods
+N: Gillian goes off. Bob sits, then takes his feet out of the tank. JOE, an assistant, comes over.
+C: JOE
+D: We all squared away?
+C: BOB
+D: Looks like it.
+C: JOE
+D: She's gonna go berserk.
+C: BOB
+D: It's for her own good, Joe; it's the only way. She'll call me names for a while, but then she'll calm down and understand.
+S: EXT. ALAMEDA NAVAL BASE - LONG SHOT - DAY -
+N: ESTABLISHING A great AIRCRAFT CARRIER at dock; the Naval Base beyond. As CAMERA MOVES IN, we note from the gangplank banners and the dockside cabanas that this is "U.S.S. ENTERPRISE, CVN65." A definite Star Trek moment. 103A REVERSE - A PARK-LIKE AREA, CLOSE BY - (AND INTERCUT) 103A (AS SHOT) CAMERA MOVES to reveal Uhura and Chekov coming through the trees to discover ENTERPRISE in the near distance. A moment between them. Then Uhura whips out her tricorder and begins getting some readings. As the tricorder BEEPS, Chekov pulls out the communicator.
+C: CHEKOV
+D: Team leader, this is team 2. Come in, please...
+C: UHURA
+D: I have the coordinates of the reactor...
+E: the BEEPS increase
+C: CHEKOV
+D: ... It gives me a great sense of history.
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: UHURA
+D: It gives me a great sense of danger. We have to beam in next to the reactor room, not in it.
+C: KIRK'S VOICE
+D: Team 2? Kirk here....
+C: CHEKOV
+D: Admiral, we have found the nuclear wessel.
+S: EXT. ROAD - KIRK AND SPOCK - (INTERCUT) (AS SHOT)
+C: KIRK
+D: Ah, well done, team 2.
+C: CHEKOV
+D: And Admiral, it's the Enterprise.
+C: KIRK
+D: Understood. What is your plan?
+C: CHEKOV'S VOICE
+D: We will beam in tonight, collect the photons and beam out. No one will ever know we were there.
+C: KIRK
+D: Understood and approved. Keep me informed. Kirk out.
+N: As Kirk is about to start another call on the comuni- cator, an approaching vehicle makes him put the device away. He turns to see: 104A POV - A LANDROVER APPROACHING 104A
+S: INT. LANDROVER - DAY
+N: HER POV - THROUGH WINDSHIELD Kirk and Spock trudging down the road ahead. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) INSIDE CAR She reacts, keeps her eyes on them, and passes them slowly enough so that they look up to see her. As she leaves them behind, she purses her lips, stops the car, considers. Then she backs up. KIRK AND SPOCK
+C: KIRK
+D: It's her -- from the Institute. If we play our cards right, we may learn when those whales are really leaving.
+C: SPOCK
+D: How will playing cards help?
+N: The Land rover backs into the scene; Kirk acknowledges her presence but continues walking, playing it cool. Gillian begins tracking alongside.
+C: GILLIAN
+D: Well, if it isn't Robin Hood and Friar Tuck.
+N: No response. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: GILLIAN
+D: Where're you fellahs heading?
+E: continuing
+N: Kirk eyes her, keeps walking.
+C: KIRK
+D: Back to San Francisco.
+C: GILLIAN
+D: Came all the way down here to jump in and swim with the kiddies, huh?
+C: KIRK
+D: There's really very little point in my trying to explain.
+C: GILLIAN
+D: I buy that. What about him?
+C: KIRK
+D: He's harmless. Back in the sixties he was part of the Free Speech movement at Berkeley. I think he did too much LDS.
+E: inspiration
+C: GILLIAN
+D: LDS?? Are you dyslexic on top of everything else? Come on, Lemme give you a lift. I have a notorious weakness for hard luck cases -- that's why I work with whales.
+C: KIRK
+D: We don't want to be any trouble.
+C: GILLIAN
+D: You've already been that. C'mon.
+N: She stops, pushes open the door. They get in, Spock in the middle staring straight ahead.
+C: KIRK
+D: Thanks.
+C: GILLIAN
+D: Don't mention it. And don't try anything, either. I got a tire iron right where I can get at it.
+N: Kirk has no idea what she's talking about. Silence. Then, to Spock: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: GILLIAN
+D: So you were at Berkeley.
+E: continuing
+C: SPOCK
+D: I was not.
+N: Kirk rolls his eyes.
+C: KIRK
+D: Memory problems, too.
+C: GILLIAN
+D: Uh huh. What about you? Where you from?
+C: KIRK
+D: Iowa.
+C: GILLIAN
+D: A landlubber. Come on, what the hell were you boys really trying to do back there? Was it some kinda macho thing? If that's all, I'm gonna be real disappointed. I hate that macho type.
+C: KIRK
+D: Can I ask you something?
+C: GILLIAN
+D: Go ahead.
+C: KIRK
+D: What's going to happen when you release the whales?
+N: Long pause. Gillian doesn't like considering this.
+C: GILLIAN
+D: They're gonna hafta take their chances.
+C: KIRK
+D: What does that mean, exactly? Take their chances.
+C: GILLIAN
+D: It means that they will be at risk from whale hunters -- same as the rest of the humpbacks. What did you mean when you said all that stuff back at the Institute about extinction?
+E: to Spock
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: SPOCK
+D: I meant --
+C: KIRK
+D: He meant what you were saying on the tour: that if things keep on the way they're going, humpbacks will disappear forever.
+C: GILLIAN
+D: That's not what he said, farm boy. "Admiral, if we were to assume these whales are ours to do with as we please, we would be as guilty as those who caused -- past tense -- their extinction." I have a photographic memory. I see words.
+E: pause
+N: A silence.
+C: SPOCK
+D: Are you sure it isn't time for a colorful metaphor?
+E: to Kirk
+C: GILLIAN
+D: You're not one of those guys from the military, are you? Trying to teach whales to retrieve torpedoes, or some dipshit stuff like that?
+C: KIRK
+D: No, ma'am. No dipshit.
+C: GILLIAN
+D: Well, that's something. I'da let you off right here.
+C: SPOCK
+D: Gracie is pregnant.
+E: suddenly
+N: Gillian stops the car with a SQUEAL OF BRAKES.
+C: GILLIAN
+D: All right. Who are you? and don't jerk me around any more. I want to know how you know that.
+C: KIRK
+D: We can't tell you.
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) (she starts to interrupt) Please, just -- let me finish. I can tell you that we're not in the military and that we intend no harm to the whales.
+C: GILLIAN
+D: Then --
+C: KIRK
+D: In fact, we may be able to help -- in ways that, frankly, you couldn't possibly imagine.
+C: GILLIAN
+D: Or believe, I'll bet.
+C: KIRK
+D: Very likely. You're not exactly catching us at our best.
+E: he sinks back into his seat
+C: SPOCK
+D: That much is certain.
+N: Silence.
+C: KIRK
+D: You know I've got a hunch we'd all be a lot happier talking over dinner. What do you say?
+N: Gillian considers this for a moment; she's got nothing better to do. Finally:
+C: GILLIAN
+D: You guys like Italian food?
+N: Kirk and Spock exchange glances, mystified. KIRK (overlapping) SPOCK Yes. No. She looks at them. What a group.
+S: EXT. PLEXIGLASS FACTORY - BURLINGAME - DAY
+N: A big sign -- PLEXICORP tells us what this place is. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+S: INT. FACTORY WORK AREA - DAY
+N: Scotty, dressed conservatively, paces back and forth. After a moment, the manager, NICHOLS, emerges with Bones.
+C: NICHOLS
+D: Professor Scott, I'm Dr. Nichols, plant manager. I'm terribly sorry but there's been an awful mix-up Would you believe I was never told about your visit?
+C: BONES
+D: I tried to clear things up, Professor Scott. I explained you'd come all the way from Edinburgh on appointment to study manufacturing methods here at Plexico, but they don't seem to know anything about it.
+C: SCOTTY
+D: Don't know anything about it? I find it difficult to believe that I've come millions of miles --
+E: furious
+C: NICHOLS
+D: Millions?
+C: BONES
+D: Thousands; the Professor's understandably upset --
+C: SCOTTY
+D: Thousands of miles on an invited tour of inspection, only to be informed that I was never invited in the first place!
+E: not missing a beat
+C: NICHOLS
+D: Professor Scott, if you'll --
+C: SCOTTY
+D: I demand to see the owners! I demand --
+C: BONES
+D: Professor, just take it easy! Dr. Nichols is offering to take us around personally.
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: SCOTTY
+D: He is?
+E: chagrined
+C: NICHOLS
+D: With pleasure.
+C: SCOTTY
+D: Well, that's different.
+C: NICHOLS
+D: If you'll follow me, Professor --
+C: SCOTTY
+D: I will. Can my assistant come, too?
+C: NICHOLS
+D: Of course.
+N: Scotty starts past Bones.
+C: BONES
+D: Don't bury yourself in the part.
+S: EXT. PLEXIGLASS FACTORY - BIG YARD - DAY
+N: Sulu moves through the grounds where Plexiglass Products of all shapes and sizes are stacked. In the midst of this, sits a great HUEY helicopter with the company logo on its side. Its PILOT is working on his engine as Sulu comes up touches the craft lovingly, stares studiously into the cockpit.
+C: PILOT
+D: Hi.
+C: SULU
+D: Hi. Huey 205, isn't it?
+C: PILOT
+D: Right on. You fly?
+C: SULU
+D: Oh, here and there. I flew something similar in my Academy days.
+E: pats it
+C: PILOT
+D: All right, then this is old stuff to you.
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: SULU
+D: Old, yes. But interesting. Do you mind if I ask a few questions...?
+E: then
+S: INT. NICHOL'S CUBICLE - DAY
+N: An impressive glass-walled cubicle separating the boss from the factory chaos. Nichols leads Scotty and Bones inside.
+C: NICHOLS
+D: Well, so much for the tour of our humble plant. I must say, Professor your knowledge of engineering is most impressive.
+C: BONES
+D: Back home, we call him the miracle worker.
+C: NICHOLS
+D: Indeed... May I offer you gentlemen anything?
+N: A look between Bones and Scotty. Then:
+C: SCOTTY
+D: Doctor Nichols, I might have something to offer you.
+C: NICHOLS
+D: ... Yes?
+C: SCOTTY
+D: I notice you're still working with polymers.
+C: NICHOLS
+D: Sill? What else would I be working with?
+E: mystified
+C: SCOTTY
+D: Ah, what else indeed? Let me put it another way: how thick would a piece of your plexiglass need to be at 60 feet by 10 feet to withstand the pressure of 18,000 cubic feet of water?
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: NICHOLS
+D: That's easy: 6 inches. We carry stuff that big in stock.
+C: SCOTTY
+D: Yes, I noticed. Now suppose -- just suppose -- I could show you a way to manufacture a wall that would do the same job but was only an inch thick. would that be worth something to you, eh?
+C: NICHOLS
+D: ... Are you joking?
+C: BONES
+D: He never jokes... Perhaps the professor could use your computer.
+C: NICHOLS
+D: Please...
+N: He gestures, and Scotty sits at a nearby Macintosh. He surveys the machine quizzically, clears his throat, and in a loud voice says:
+C: SCOTTY
+D: Computer --
+N: Bones steps in quickly, picks up the "Mouse" and shoves it into Scotty's hand. Scotty looks at the mouse, baffled, then puts it to his lips like a mike.
+C: SCOTTY
+D: Hello? Computer...?
+E: continuing
+C: NICHOLS
+D: Just use the keyboard...
+E: bewildered
+C: SCOTTY
+D: The keyboard... How quaint.
+N: Then, preparing his fingers like a concert pianist, he plunges to work furiously. CLOSE - COMPUTER SCREEN An awesome series of figures and graphics are appearing. PULL BACK to reveal Scotty, now master of the keyboard, while Nichols watches in awe, next to Bones. with a flourish, Scotty hits a last command, and a wondrous three dimensional graphic appears. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: NICHOLS
+D: Transparent aluminum?
+E: wide-eyed
+C: SCOTTY
+D: That's the ticket, laddie.
+C: NICHOLS
+D: ... But it would take years just to figure out the dynamics of this matrix...!
+C: BONES
+D: You'll be rich beyond the dreams of avarice.
+C: SCOTTY
+D: So, is it worth something? Or should I just punch "clear"...
+C: NICHOLS
+D: No! No... What did you have in mind...?
+E: then
+C: BONES
+D: A moment alone, please.
+C: BONES
+D: You know, if we give him the formula, we'll be altering the future.
+E: continuing
+C: SCOTTY
+D: Why? how do you know he didn't invent the thing!
+N: As Bones accepts the truth of this, we hear:
+C: KIRK'S VOICE
+D: Right here is fine.
+S: EXT. GOLDEN GATE PARK - SPACESHIP SITE - DUSK
+N: The Land rover pulls to a stop. Kirk and Spock get out, but Kirk gets back in. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) CLOSER - ACROSS GILLIAN IN CAR Spock is now outside. Gillian calls to him:
+C: GILLIAN
+D: You sure you won't change your mind?
+C: SPOCK
+D: Is there something wrong with the one I have?
+C: KIRK
+D: Just a little joke. See you later, old friend.
+E: shrugs
+C: GILLIAN
+D: How did you know Gracie's pregnant? Nobody knows that.
+E: still to Spock
+C: SPOCK
+D: Gracie does. I'll be right here.
+E: to Kirk
+N: Spock walks OUT OF VIEW.
+C: GILLIAN
+D: He's just going to hang around the bushes while we eat?
+C: KIRK
+D: It's his way.
+E: shrugs
+N: And they drive off. ANGLE ON SPOCK - ILM After the Land rover has departed, he is left alone, standing quietly. Then, with no warning, he BEAMS OUT.
+S: INT. ITALIAN RESTAURANT - KIRK AND GILLIAN - NIGHT
+N: Not fancy but nice; a WAITER stands, ready to take their order.
+C: GILLIAN
+D: Do you trust me?
+C: KIRK
+D: Implicitly.
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: GILLIAN
+D: Good. A large mushroom and pepperoni with extra onions. And a Michelob.
+E: to Waiter
+C: WAITER
+D: And you, sir?
+N: Kirk stares at the menu blankly. He shrugs.
+C: KIRK
+D: Make it two.
+N: The Waiter leaves. Kirk and Gillian, a moment; then:
+C: KIRK
+D: So how did a nice girl like you get to be a cetacean biologist?
+E: continuing
+C: GILLIAN
+D: Just lucky, I guess.
+E: unhappily
+C: KIRK
+D: You're upset about losing the whales.
+C: GILLIAN
+D: ... You're very perceptive.
+C: KIRK
+D: How will that be done, exactly?
+C: GILLIAN
+D: They'll be flown in a special 747 to Alaska and released there.
+C: KIRK
+D: Flown... And that's the last you'll see of them?
+C: GILLIAN
+D: See, yes. But we'll tag them with radio transmitters on a special frequency so we can keep tabs on them.
+C: KIRK
+D: You know, I could take those whales somewhere they wouldn't be hunted.
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: GILLIAN
+D: You? You can't even get from Sausalito to San Francisco without a lift.
+E: smiles despite herself
+N: The Waiter returns with their beers, and two plates.
+C: GILLIAN
+D: Thanks. Cheers.
+E: continuing
+C: KIRK
+D: If you have such a low opinion of my abilities, how come we're having dinner?
+C: GILLIAN
+D: I told you: I'm a sucker for hard luck cases. Besides, I want to know why you travel around with that ditzy guy who knows that Gracie is pregnant and calls you Admiral.
+N: Kirk says nothing, looks at her. There's chemistry, all right.
+C: GILLIAN
+D: Where could you take them?
+E: continuing; finally
+C: KIRK
+D: Hm?
+C: GILLIAN
+D: My whales? Where could you take them where they'd be safe?
+C: KIRK
+D: It's not so much a matter of a place as of time.
+E: carefully
+C: GILLIAN
+D: Sorry, the time would have to be right now.
+C: KIRK
+D: What do you mean now?
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: GILLIAN
+D: Let's just say that no humpback born in captivity has ever survived. Problem is, they won't be a whole lot safer at sea because of all the hunting this time of year... So that, as they say, is that. Damn.
+E: bitterly, into her beer a sigh her eyes begin to moisten
+N: As she dabs her eyes with a napkin, Kirk's communicator BEEPS three times from under his clothes. Pained, he ignores it.
+C: GILLIAN
+D: What's that?
+E: continuing
+C: KIRK
+D: What's what?
+C: GILLIAN
+D: You got a pocket pager? What are you, a doctor?
+N: The BEEPER again. Exasperated, Kirk flips it open.
+C: KIRK
+D: What is it? I thought I told you never to call me --
+E: testy
+S: 118A INT. BIRD OF PREY CARGO BAY - TRANSPORTER CONTROL AREA 118A
+C: SCOTTY
+D: Sorry, Admiral. We just thought you'll like to know, we're beaming them now.
+N: 118B BACK TO SCENE 118B
+C: KIRK
+D: Oh I see -- Tell Them phasers on stun. Good luck. Kirk out.
+E: Sotto
+N: Long pause. Gillian stares at him, pulls on her beer thoughtfully. Then: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: GILLIAN
+D: Wanna try it from the top?
+C: KIRK
+D: Tell me when the whales are going to be released?
+C: GILLIAN
+D: ... Who are you?
+C: KIRK
+D: Who do you think I am?
+N: She bites her pizza.
+C: GILLIAN
+D: Don't tell me: you're from outer space.
+C: KIRK
+D: No, I'm from Iowa. I just work in outer space.
+C: GILLIAN
+D: Well, I was close. I knew outer space was going to come into it sooner or later.
+C: KIRK
+D: All right. The truth?
+C: GILLIAN
+D: I'm all ears.
+C: KIRK
+D: That's what you think. Okay...Truth... I'm from what, on your calendar, would be the late 23rd Century. I've been sent back in time to bring two Humpback Whales with me in an attempt to... repopulate the species.
+E: then
+C: GILLIAN
+D: Well, why didn't you say so? Why all the coy disguises?
+C: KIRK
+D: You want the details?
+C: GILLIAN
+D: Are you kidding? I wouldn't miss this for all the tea in China.
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: KIRK
+D: Then tell me when the whales are leaving.
+C: GILLIAN
+D: Jesus, you are persistent. Okay, your friend was right. Gracie is not only pregnant, she is very pregnant... At noon tomorrow -- in what is sure to be a media circus -- the whales get shipped out.
+E: then
+C: KIRK
+D: Noon tomorrow...?!
+E: stunned
+N: The Waiter arrives, plunks the pizza down and holds up the check.
+C: WAITER
+D: Who gets the bad news...?
+C: GILLIAN
+D: Don't' tell me: they don't have money in the 23rd Century.
+C: KIRK
+D: Well, we don't. Come on. I don't have much time now.
+E: then, rising
+N: And so saying, he exits, leaving a baffled Gillian and Waiter. Gillian, a beat, then covers to the Waiter:
+C: GILLIAN
+D: Uh... Could we have this to go?
+S: EXT. NAVAL BASE - NIGHT
+N: U.S.S enterprise, floodlit, secure. Shore Patrolmen on duty. A general sense of tight security.
+S: INT. CORRIDOR - U.S.S ENTERPRISE
+N: A SAILOR in dungarees and a DRUG DOG patrol the empty corridor. As they near CAMERA a familiar SOUND (THE BEAM-IN) is heard faintly. The dog stops, his ears go up in surprise. The sailor has not heard the sound. He whistles to the dog and urges him on down the corridor. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+S: INT. MACHINERY ROOM - NIGHT
+N: Deep within the bowels of the ship. Uhura and Chekov have made it in. They carry with them the COLLECTING DEVICE, a long, flashlight-like tube with a folded up metal piece. They start forward, hide momentarily as a PAIR OF FEET walk above them, seen through the metal decking which forms a ceiling above them. Then they start carefully OUT OF SHOT.
+S: INT. ROOM ADJACENT TO REACTOR AREA (AS SHOT)
+N: Signs of danger and warnings. Definitely off limits. They move quickly to the "Reactor threshold," a control area marked by sings, warnings, and flashing red lights. Uhura takes a confirming reading on her tricorder, nods, and Chekov fans the metal piece open into a parabolic shape. He places the "dish" in the place indicated by Uhura, turns on a power source. A FAINT SOUND indicates it is working.
+C: UHURA
+D: How long?
+C: CHEKOV
+D: Depends on how much shielding is between us and the reactor.
+N: She looks around nervously. thru thru
+S: EXT. GOLDEN GATE PARK - LANDING SITE - NIGHT
+N: As the Land rover pulls to a stop. ANGLE INSIDE LAND ROVER - KIRK AND GILLIAN As she pulls on the handbrake. The empty pizza box is between them.
+C: GILLIAN
+D: Well, "Admiral," that may be the strangest dinner of my life and the biggest cockamamie fish story I've ever heard.
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: KIRK
+D: You asked. Now, will you tell me something? George and Gracie's transmitter. What's the frequency?
+E: then at her look
+N: She looks at him --
+C: GILLIAN
+D: Sorry, that's classified. I don't really have a clue who you are... You wouldn't want to show me around your space ship, would you?
+E: sighs beat
+C: KIRK
+D: It wouldn't be my first choice, no.
+C: GILLIAN
+D: So. There we are.
+C: KIRK
+D: Lemme tell you something. I'm here to bring two humpbacks into the 23rd Century. If I have to, I'll go to the open sea to get them, but I'd just as soon take yours -- better for me, better for you... and better for them.
+C: GILLIAN
+D: I bet you're a damn good poker player.
+C: KIRK
+D: Think about it -- but don't take too long because I'm out of time. If you change your mind, this is where I'll be.
+C: GILLIAN
+D: Here... In the park?
+E: looks around
+C: KIRK
+D: Right.
+N: He gives her a brief kiss and is gone. She sits there, surprised, but not disagreeably. Then she RESTARTS her CAR and is about to depart when she hears an ODD SOUND O.S. and there is a SLIGHT FLICKER of reflected LIGHT. She turns and looks back through the rear window. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) HER POV There is no one within a hundred feet of where Kirk last stood. BACK TO GILLIAN She turns back, puzzled; slips the car into gear, and still puzzled, departs. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+S: INT. BIRD OF PREY TRANSPORTER ROOM - ILM
+N: Kirk materializes and is met by Spock. Immediately they begin walking.
+C: KIRK
+D: Status?
+C: SPOCK
+D: The tank will be finished by morning...
+C: KIRK
+D: That's cutting it closer than you know. What about team two?
+C: SPOCK
+D: No word since beam-in. We can only wait for their call.
+C: KIRK
+D: Damn.... Damnit! We've been so lucky. We have the two perfect whales in our hands, but if we don't move quickly, we'll lose them!
+C: SPOCK
+D: In that event, the probabilities are that our mission would fail.
+C: KIRK
+D: Our mission! Goddam it, Spock, you're talking about the end of every life on Earth! You're half human, haven't you got any goddamned feelings about that!!
+E: stunned
+N: Enraged and frustrated, Kirk stalks off, leaving Spock. A critical moment: his feelings are surfacing: anger, pain, and above all, confusion.
+S: INT. SHIP COMPARTMENT - CLOSE ON "COLLECTOR"
+N: PULL BACK. The device is still HUMMING. Uhura looks at Chekov in concern. He can only shrug.
+S: 131A INT. C.I.C. ROOM - NIGHT - FAVORING RADAR SCREEN 131A
+N: Which seems to be having electronic trouble. Watching it are a RADAR OPERATOR and an ELECTRONIC TECHNICIAN. in b.g. are other ENLISTED TECHS, and TWO OFFICERS. The Operator plays with the faulty screen and says: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: OPERATOR
+D: The hell... There it is again.
+C: TECHNICIAN
+D: That's weird. Commander...
+E: turns
+N: The COMMAND DUTY OFFICER steps to the console.
+C: C.D.O.
+D: Thought you were running a test program...
+C: TECHNICIAN
+D: Aye, sir, but we're getting an apparent power drain through the module. It's coming from somewhere in the ship...
+C: C.D.O.
+D: C.I.C., Command Duty Officer Rogerson. Yes, Chief, we're tracking it here, too. What do you make of it? You sure?... Check the Video scan, I need a confirm. He thinks there's an intruder in one of the MMR's.
+E: listens he tightens cups phone; to the others
+N: 131B UHURA AND CHEKOV 131B The Collector makes a sound that appears final. As Chekov removes the device from the bulkhead and folds the metal in place, Uhura flips the communicator open.
+C: UHURA
+D: Scotty: we're ready for beam out. Scotty... Can you hear me...?
+E: a pause; static
+N: 131C THE C.I.C. ROOM 131C As the C.D.O., waiting on phone hears a voice.
+C: C.D.O.
+D: Yes, Chief?... Confirmed, Roger that.
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) He clicks off, dials a number code and in a moment:
+C: C.D.O.
+D: Mardet C.O. this is Commander Rodgerson, the Command Duty Officer. We have and intruder in the #4 M.M.R. I say again...
+E: continuing; urgent now
+N: 131D OMITTED 131D 131E 131E 131F UHURA AND CHEKOV 131F
+C: UHURA
+D: Scotty... Come in please... Do you read.
+C: SCOTTY'S VOICE
+D: Aye, lass, I hear you.
+E: breaking up
+N: 131G BIRD OF PREY TRANSPORTER AREA - SCOTTY (INTERCUT) 131G
+C: SCOTTY
+D: ... My transporter power's down to minimal. I got to bring you in one at a time. Stand by...
+N: 131H UHURA, CHEKOV - ILM VISTAVISION (INTERCUT) 131H
+C: CHEKOV
+D: Take the collector. You go first!
+N: Chekov steps aside, as Scotty sweats back in the B.O.P. Transporter. The Transporter power is discernibly weak. At last, Uhura is slowly BEAMED OUT. Chekov, looks nervously about.
+C: CHEKOV
+D: Scotty... How soon... Hello...?
+N: BACK TO SCOTTY Scotty is working feverishly as Chekov's voice breaks up on speaker. During scene Uhura enters and listens anxiously.
+C: SCOTTY
+D: Chekov, you're breaking up. Please signal again. Chekov, can you hear me? Create PDF files without this message by purchasing novaPDF printer
+E: http://www.novapdf.com
+N: BACK TO CHEKOV The RUNNING FEET, an O.S. COMMOTION, are louder, closer.
+C: CHEKOV
+D: Scotty... Now would be a good time --
+N: ANOTHER ANGLE - PAST CHEKOV (AS SHOT) From all angles, U.S. MARINES in jungle fatigues, helmets and bandoliers have surrounded Chekov, their SHOTGUNS leveled at him.
+C: MARINE LEADER
+D: Freeze!
+N: There is a pause as Chekov stares back.
+C: CHEKOV
+D: Precisely what does this mean -- "freeze?"
+N: thru thru
+S: INT. INTERROGATION ROOM - ENTERPRISE - NIGHT
+N: (AS SHOT) We are CLOSE on an FBI AGENT, his badge in lapel pocket. He's examining Chekov's I.D.
+C: FBI AGENT
+D: Lt. Commander Pavel Chekov, Starfleet, United Federation of Planets.
+N: PULL BACK to include Chekov, various NAVAL OFFICERS, and a CIVILIAN, (A.E.C.)
+C: FBI AGENT
+D: All right, Commander, you wanna tell us anything?
+E: continuing
+C: CHEKOV
+D: Like what?
+C: FBI AGENT
+D: Like who you really are and what you're doing here and what this thing is.
+N: The phaser -- on the desk. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: CHEKOV
+D: My name is Pavel Chekov. I am a Lt. Commander in Starfleet, United Federation of Planets, service number 656-5827b.
+C: FBI AGENT
+D: All right. Let's take it from the top.
+C: CHEKOV
+D: The top of what?
+C: FBI AGENT
+D: Name?
+C: CHEKOV
+D: My name?
+C: FBI AGENT
+D: No, my name.
+C: CHEKOV
+D: I do not know your name.
+C: FBI AGENT
+D: You play games with me and you're through
+C: CHEKOV
+D: I am? May I go now?
+N: The Agent takes a deep breath of exasperation and, leaving Chekov at the table, walks back to the Civilian.
+C: FBI AGENT
+D: What do you think?
+C: CIVILIAN
+D: He's a Russkie.
+C: FBI AGENT
+D: No kidding... He may be a russkie, all right, but he's a retard or something.
+C: CIVILIAN
+D: We better call Washington...
+N: While they huddle, Chekov snatches up the phaser.
+C: CHEKOV
+D: Don't move.
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) They stare at him in disbelief.
+C: FBI AGENT
+D: Okay... Make nice and give us the ray gun.
+C: CHEKOV
+D: I varn you. If you don't lie on the floor, I vill have to stun you.
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: FBI AGENT
+D: Go ahead. Stun me.
+E: patiently
+C: CHEKOV
+D: I'm wery sorry, but --
+N: He aims the phaser and pulls. It makes a pathetic BURBLING SOUND. Everyone stares. Chekov, apologetically:
+C: CHEKOV
+D: It must be the radiation...
+E: continuing
+N: With an abrupt change of mood he bolts for the nearest bulkhead door, dogs it open and reaches out.
+C: FBI AGENT
+D: Someone sound a general alarm. better tell the Marines to go easy, don't hurt the crazy bastard.
+E: wearily
+N: 139A OMITTED 139A 139B 139B
+S: INT. SHIP COMPANIONWAYS AND DECKS - NIGHT - SERIES
+N: OF SHOTS A140 -- As ALARMS SOUND, Chekov dogs a bulkhead door behind him, then as a choice of down a hatch or up a ladder. He wisely goes up. B140 -- Marines pour from hatchways and corridors in hot pursuit. C140 -- Chekov up a ladder, Marines in pursuit below. -- Up the ladders come the Marines. D140 -- HANGAR DECK: Chekov breaks into the great empty space, barn like; he see's the elevator opening and a shot at freedom, he races toward the light. E140 -- Marines, gaining, follow him across the hangar deck. F140 -- Chekov reaches the elevator portal, races onto the elevator and the gangway beyond -- only to see: G140 -- SHORE PATROLMEN, coming up the gangplank to the elevator. H140 -- Behind Chekov, the Marines have caught up. He veers to his left, thinking to dive into the water, trips and, with a cry: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+S: 140A EXT. SHIP - UP ANGLED - NIGHT 140A
+N: It's too late for Chekov. He falls from the elevator into CAMERA -- 140B REVERSE - TOWARD BARGE 140B Chekov has landed on a floating barge below the elevator. He lies there, unmoving. UP ANGLED - THE PURSUERS The Marines and Shore patrolmen look in horror. The FBI MAN rushes up, and seeing:
+C: F.B.I. MAN
+D: Damn... Get an ambulance...
+S: 141A INT. BIRD OF PREY BRIDGE - FAVORING UHURA - NIGHT 141A
+N: She's at her station, distraught, monitoring a series of local POLICE and PARAMEDICAL EMERGENCY CALLS. Kirk enters, comes to her.
+C: KIRK
+D: Any luck...?
+C: UHURA
+D: Nothing... I should never have left him...
+C: KIRK
+D: Uhura, you did what was necessary. Keep trying. You'll find him...
+E: gently
+N: Kirk steps to his chair, presses COMM, weary, frustrated.
+C: KIRK
+D: Mr. Scott, you promised me an estimate on the dilithium crystals...
+S: 141B INT. CARGO BAY - DILITHIUM CHAMBER (INTERCUT) 141B
+N: Scotty and Spock are watching a slow re-crystallization process.
+C: SCOTTY
+D: It's going slow, sir. It'll be well into tomorrow.
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: KIRK
+D: Not good enough, Scotty. You've got to do better!
+C: SCOTTY
+D: I'll try, sir. Scott out. Well now, he's got himself in a bit of a snit, don't he.
+E: wearily then, to Spock
+C: SPOCK
+D: ... He is a man of deep feelings.
+E: thoughtfully
+C: SCOTTY
+D: ... So what else is new...
+N: HOLD on Spock. Up above, HOLD on Kirk, as Uhura's police calls ECHO faintly in b.g., he feels all the frustration of waiting...
+T: DISSOLVE TO:
+S: EXT. CETACEAN INSTITUTE - MORNING
+N: The Land rover pulls up and Gillian gets out, puzzled. It's very quiet. No press. No crews. The main door is locked. She takes out a key, and enters.
+S: EXT. TANK AREA - ILM
+N: Gillian enters, and stares: It's strange, ghostly, and empty here. She can see no sign of George or Gracie. Has her world gone mad? Has she walked into the wrong dimension? As her distress mounts she turns to face: ANGLE TO INCLUDE BOB
+C: BOB
+D: They left last night. We didn't want a mob scene with the press, it wouldn't have been good for them. Besides -- we thought it would be easier on you this way.
+E: quietly then
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: GILLIAN
+D: You -- sent them away. Without even letting me say goodbye?
+E: rage rising
+C: BOB
+D: Gillian --
+N: She slaps him hard.
+C: GILLIAN
+D: You son of a bitch.
+S: EXT. THROUGH LAND ROVER WINDOW - PARKING LOT
+N: As Gillian runs to her car from b.g. and climbs in, close. For a moment she just sits there, her head on the wheel, sobbing now. Then with determination, she starts the car, and peels out of the scene.
+S: EXT. AIR TO AIR - OVER SAN FRANCISCO - DAY
+N: The Plexicorp helicopter, carrying an enormous pane of plexiglass across the city. It is not exactly steady.
+S: INT. HELICOPTER
+N: Sulu is at the controls, muttering to himself.
+C: SULU
+D: ... How the hell did they ever keep these things in the air...?
+S: EXT. THE EDGE OF GOLDEN GATE PARK - GROUND TO AIR -
+N: DAY As the chopper and its load pass overhead; 150A OMITTED 150A
+S: EXT. LANDING SITE
+N: The Land rover drives up and stops. Gillian jumps out, still overwrought. She looks around and almost like a silent scream for help, she yells Kirk's name. The scream is silent because its drowned out by the SOUND OF THE APPROACHING HELICOPTER. Gillian looks up to see: THE HELICOPTER It comes closer, then hovers. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) CLOSE - SCOTTY He climbs into SHOT from below FRAME LINE, waves Sulu in like a landing officer on a carrier. GILLIAN She cannot believe what she's seeing O.S. HER POV - ILM The chopper is lowering the plexiglass into thin air, and guiding the process is half of Scotty, visible only from the waist up. BACK TO SCENE Gillian, stunned, moves forward to get a better view, and clunks her head on an invisible strut. She gets up and feels the thing like a blind person. She's starting to understand she's in some Twilight Zone. In desperation:
+C: GILLIAN
+D: Kirk! Kirk! Listen to me! Oh, God, Kirk, I need you!!
+N: TO SCOTTY He's seen her distress below him. To communicator:
+C: SCOTTY
+D: Admiral, we have problem.
+S: 158A INT. BIRD OF PREY CARGO BAY - ON KIRK 158A
+N: He is looking upward, a shaft of daylight falling on his face. As he hears Scotty's cry from above, he turns quickly to a SURVEILLANCE MONITOR close by. There on the screen he sees Gillian's agitated figure. There is a moment of amazed reaction then looking back up to Scotty:
+C: KIRK
+D: Stand by, Scotty!
+N: BACK TO SCENE - ILM ELEMENTS As, hysterically, she trips and bumps into other parts of the invisible ship. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: GILLIAN
+D: Kirk!! Please, Kirk!!
+N: The SOUND she once heard, she hears again; and to her disbelief, she disappears in the BEAM EFFECT.
+S: INT. BIRD OF PREY TRANSPORTER AREA - ILM ELEMENTS
+N: As Gillian BEAMS IN. Kirk is there.
+C: KIRK
+D: Hello, Alice. Welcome to wonderland.
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) She looks about, dazed as he helps her off transporter.
+C: GILLIAN
+D: It's true... what you said...
+C: KIRK
+D: Yes... And I'm glad you're here. Though I'll admit, you picked a hellova time to drop in...
+N: She's about to faint; Kirk catches her.
+C: KIRK
+D: Steady, now. We need your help.
+E: continuing
+C: GILLIAN
+D: Have I flipped out? ... Is any of this real?
+C: KIRK
+D: It's all real. Look. The storage tanks for the whales.
+E: takes her
+C: GILLIAN
+D: But Kirk...
+C: KIRK
+D: We'll bring them up just like we brought you. It's called a transporter beam...
+C: GILLIAN
+D: Kirk. They're gone.
+E: clearing now
+C: KIRK
+D: ... Gone?!
+C: GILLIAN
+D: They were taken last night. I wasn't told. They're in Alaska by now.
+C: KIRK
+D: ... Damn!
+C: GILLAIN
+D: But they're tagged, I told you. Can't you go find them?
+C: KIRK
+D: At the moment, we can't go anywhere.
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: GILLIAN
+D: What kind of spaceship is this, anyway?
+C: KIRK
+D: A spaceship with a missing man.
+N: He looks up to see Spock entering, all business.
+C: SPOCK
+D: Admiral. Full power is restored.
+C: KIRK
+D: Thank you, Spock.
+N: As Gillian stares at Spock's ears:
+C: SPOCK
+D: Hello, Doctor. Welcome aboard.
+N: He offers his hand. She shakes it in wonder as:
+C: UHURA'S VOICE
+D: Admiral -- are you there?
+E: emotionally
+C: KIRK
+D: Yes, Uhura -- what's wrong?
+S: 160A INT. BIRD OF PREY BRIDGE - UHURA ON STATION (INTERCUT) 160A
+C: UHURA
+D: I've found Chekov, sir: he's in emergency surgery right now.
+E: shaken
+C: KIRK
+D: Uhura!... Where!
+C: UHURA
+D: Mercy Hospital.
+T: BACK TO CARGO BAY (INTERCUT)
+C: GILLIAN
+D: That's in the Mission District.
+C: UHURA'S VOICE
+D: They report his condition as critical; he is not expected to survive.
+C: BONES
+D: Jim, you've got to let me go in there! Don't leave him in the hands of Twentieth Century medicine.
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: KIRK
+D: What do you think, Spock?
+E: already decided, but:
+C: SPOCK
+D: Admiral, may I suggest that Dr. McCoy is correct. We must help Chekov.
+C: KIRK
+D: Is that the logical thing to do, Spock...?
+E: testing
+C: SPOCK
+D: No, Admiral... But is the human thing to do.
+C: KIRK
+D: Right. Will you help us?
+E: takes a beat to Gillian
+C: GILLIAN
+D: ... How?
+C: BONES
+D: We'll need to look like physicians.
+S: INT. MERCY HOSPITAL CORRIDOR - DAY
+N: TRACK with Kirk, Bones and Gillian -- dressed as DOCTORS AND NURSES. Bones carries his own medical equipment in a traditional black bag.
+C: KIRK
+D: We'll check this way; you try down there...
+N: They split; Kirk and Gillian go one way. We follow Bones. He walks down a corridor, nodding to other doctors, nurses, interns. He sees a gurney, steps to it. On it is a very feeble ELDERLY WOMAN.
+C: WOMAN
+D: Doctor...
+C: BONES
+D: What's the matter with you?
+C: WOMAN
+D: Kidney... dialysis...
+E: faint
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: BONES
+D: Dialysis?? What is this, the dark ages? Here, swallow one of these.
+N: He slips a lozenge from his bag under her tongue.
+C: BONES
+D: Call me if you have a problem.
+E: continuing
+S: INT. HOSPITAL - ANGLE AT ELEVATOR - DAY
+N: Kirk and Gillian. Kirk gestures, O.S. WIDEN to admit Bones.
+C: KIRK
+D: They're holding him in a security corridor one flight up. His condition is critical.
+N: Bones reacts, then looks around. He sees an empty gurney.
+C: BONES
+D: Come on.
+S: INT. CORRIDOR - OUTSIDE ROOM - DAY
+N: Kirk and Bones, masks on their faces, emerge wheeling the gurney with Gillian under the covers. They head for an elevator. The doors open.
+S: INT. ELEVATOR - DAY
+N: Kirk and Bones push the gurney in. TWO INTERNS are talking.
+C: 1ST INTERN
+D: So, Weintraub says radical chemotherapy or she's gonna croak. Just like that...
+C: 2ND INTERN
+D: And Gottlieb?
+C: 1ST INTERN
+D: Well, what'd you expect? All he talked about was image therapy.
+C: BONES
+D: Unbelievable.
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: 1ST INTERN
+D: You have a different view, Doctor?
+C: BONES
+D: Sounds like the goddam Spanish Inquisition...
+N: The doors open. They wheel the bed out, the doors close, leaving the Interns looking at each other, perplexed.
+S: INT. UPSTAIRS CORRIDOR - DAY
+N: We TRACK behind Kirk, Bones and the bed towards the end of the hall. TWO POLICEMEN block their passage.
+C: BONES
+D: Out of the way!
+N: They don't budge. Under the sheet, Gillian starts to wail.
+C: POLICEMAN
+D: Sorry, doctor! we have strict orders...
+N: Gillian wails louder. The Policemen look uncertain.
+C: BONES
+D: Dammit, this woman has immediate post prandial upper abdominal distension! Do you want an acute case on your hands?
+N: Gillian wails. The Policemen finally move aside and they push their way through. ANGLE - OTHER SIDE OF DOORS
+C: KIRK
+D: What did you say she was getting?
+C: BONES
+D: Cramps.
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) Gillian sits up, throws off the sheet as they see the operating theatre. They leave the bed where it is and proceed into the room, lifting their surgical masks.
+C: DOCTOR
+D: Lee, why hasn't this man been prepped?
+E: O.S.
+N: Kirk looks to Bones, who nods and they walk around the curtain where Chekov, unconscious, lies on the table. Two nurses arrange instruments in preparation for surgery, while a YOUNG DOCTOR reads Chekov's chart.
+C: DOCTOR
+D: Who are you? Doctor Adams was supposed to assist me.
+E: looks up
+C: BONES
+D: We're just -- observing.
+C: DOCTOR
+D: I was not informed about observers.
+N: Then, to the curious glances of the surgical team, Bones takes out his Tricorder and passes it over to Chekov --
+C: DOCTOR
+D: What the hell do you think you're doing?
+E: continuing
+C: BONES
+D: Reading the patient's vital signs.
+C: KIRK
+D: An experimental device, doctor.
+C: BONES
+D: Tearing of the middle meningeal artery...
+C: DOCTOR
+D: What's your degree in, dentistry?
+C: BONES
+D: How do you explain slowing pulse, low respiratory rate and coma?
+C: DOCTOR
+D: Fundoscopic examination --
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: BONES
+D: Fundoscopic examination is unrevealing in these cases!
+C: DOCTOR
+D: A simple evacuation of the expanding epidural hematoma will relieve the pressure.
+E: condescendingly
+C: BONES
+D: My God, man, drilling holes in his head is not the answer. The artery must be repaired without delay or he will die! So put away your butcher knives and let me save the patient!
+N: The young Doctor gives Bones an icy stare.
+C: DOCTOR
+D: I don't know who the hell you are, but I'm going to have you removed.
+N: But as he turns to leave, Kirk blocks his path, then --
+C: KIRK
+D: Doctors, doctors, this is highly unprofessional --
+N: He gives the Doctor a swift, sure, Judo chop. Gillian and the nurses gasp.
+C: KIRK
+D: Quite harmless, I assure you.
+E: continuing
+N: As Bones pulls out his Medical Tricorder and begins working on Chekov, Kirk slings the fallen Doctor over his shoulder, and draws a phaser.
+C: KIRK
+D: Ladies. Please...
+E: continuing; to Nurses
+N: Indicating a windowed room adjoining, he herds them in there, lowers the Doctor to the floor, and closes the door. Then he adjusts his phaser, aims at the lock and: 167A INSERT - ILM 167A Kirks phaser MELTS the lock. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) 167B BACK TO SCENE 167B Bones, muttering as he passes the device over Chekov.
+C: BONES
+D: Chemotherapy... fundoscopic examination... dealing with medievalism here!
+N: Kirk joins him; Chekov has begun to moan faintly...
+C: BONES
+D: Wake up, man, wake up!
+E: continuing
+C: KIRK
+D: Come on, Pavel...
+N: Chekov's eyes begin to flutter.
+C: BONES
+D: He's coming 'round, Jim...
+C: KIRK
+D: Pavel, can you hear me? Give me your name and rank...
+C: CHEKOV
+D: ... Chekov... Pavel H... Rank - ... Admiral...
+E: a fantasy smile
+C: GILLIAN
+D: Don't you guys have any enlisted types...?
+N: Now Chekov is pulling out of it. He sits up.
+C: CHEKOV
+D: Dr McCoy... ZDRASTVUYTE!
+C: BONES
+D: Hello to you, Chekov.
+S: EXT. UPSTAIRS CORRIDOR
+N: The "Doctors," pushing the sheet-draped Chekov, exit, passing the two Policemen we saw before. POLICEMAN 1 How's the patient...?
+C: KIRK
+D: He's gonna make it!
+E: exiting
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: POLICEMAN
+D: He? They went in with a she...
+N: They look at each other, make a beeline for the O.R.
+C: KIRK
+D: One little mistake...
+E: mutters
+S: INT. BIRD OF PREY ENGINE ROOM - DILITHIUM CHAMBER
+N: The crystals are coming back to life! WIDEN to reveal the process supervised by Scotty, watched by Spock.
+S: INT. HOSPITAL CORRIDOR - KIRK AND FRIENDS
+N: Rolling the gurney in a hurry. ALARMS go off! LOUDSPEAKERS! They break into a run. 170A SAME CORRIDOR - NEAR DOUBLE DOORS 170A A group of HOSPITAL and POLICE GUARDS round a corner, see the fleeing Kirk, and race toward us, CAMERA PANNING. As they exit, HOLD on double doors which open. Sitting up on an emergency gurney, happy as a clam, is the feeble old lady we saw before. Two DOCTORS, one pushing. DOCTOR 2 So! How do you explain it? DOCTOR 1 (stunned) According to the scanner... (beat) ... She's grown a new kidney...
+S: INT. HOSPITAL CORRIDOR - VARIOUS SHOTS
+N: -- Kirk and friends, racing at high speed... -- The guards, weapons drawn are gaining... -- On the speeding Gurney, Chekov raises his head in confusion; Bones clunks him down. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) -- A large elevator door opens ahead; as the gurney heads for it, a hospital GUARD steps in the way; using the gurney as a battering ram, Kirk takes the Guard out of the play, races with Bones and Gillian into the elevator. The doors close just as the perusing forces get there. The guards check the "UP" indicator and head for the stairs! -- Inside the elevator, going up. Gillian is concerned.
+C: GILLIAN
+D: If we keep going up, they'll catch us!
+C: KIRK
+D: Calm yourself, Nurse. Scotty, get us out of here!
+E: pulls out communicator
+N: -- TOP FLOOR: The pursuers race out of the Stairwell, across the Elevator, where the indicator says they've beat the elevator. Weapons drawn, they wait: when the doors open and they press forward: -- POV: The Elevator is empty. -- Back to the group: Consternation. thru thru
+S: EXT. LANDING SITE - SERIES OF SHOTS - ILM ELEMENTS
+N: -- Kirk, Gillian, Bones and Chekov BEAM IN. Bones leads Chekov toward -- -- The descending RAMP. Sulu appears to help. They all disappear up the ramp, which now begins to close. -- Kirk alone with Gillian. She sees the ramp closing and begins to sense something wrong.
+C: KIRK
+D: Gillian... Would the whales be at sea by now?
+C: GILLIAN
+D: Yes... If you have a chart on board, I can show you.
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: KIRK
+D: All I need is the radio frequency to track them.
+C: GILLIAN
+D: What are you talking about? I'm coming with you.
+C: KIRK
+D: You can't. Our next stop is the 23rd Century.
+C: GILLIAN
+D: What do I care? I've got nobody but those whales...
+C: KIRK
+D: I have no time to argue, Gillian. Or even tell you how much you've meant to us... The frequency.
+C: GILLIAN
+D: All right. The frequency is 401 megahertz.
+C: KIRK
+D: Thank you. For everything. Beam me up, Scotty.
+E: flips communicator
+N: As Kirk starts to BEAM UP, Gillian leaps, grabs him round the waist. And as they are BEAMED IN together:
+C: GILLIAN'S VOICE
+D: Surprise!
+S: INT. BIRD OF PREY BRIDGE - ON DOORS
+N: WHOOSH, and Kirk strides in angry, Gillian following, looking around room at all the crew in wonder.
+C: KIRK
+D: Mr. Spock, where the hell is the power you promised me?
+C: SPOCK
+D: Admiral, you must wait one damn minute.
+C: SCOTTY
+D: I'm ready Spock. Let's go find George and Gracie...
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: KIRK
+D: Mr. Sulu?
+C: SULU
+D: I'm trying to remember how this works. I got used to a Huey.
+E: punching buttons
+N: As he works, Kirk turns to Gillian:
+C: KIRK
+D: You tricked me.
+C: GILLIAN
+D: You need me.
+C: SULU
+D: Ready sir.
+C: KIRK
+D: Go, Mr. Sulu.
+N: And the GREAT ROAR BEGINS...
+S: EXT. LANDING SITE - DAY - SERIES OF SHOTS
+N: As a GREAT HURRICANE envelopes the meadow along with the ROAR. Trees bend, trash cans and panic tables tumble until the roar begins to recede -
+S: EXT. GOLDEN GATE PARK - VERTICAL POV - PULLING UP -
+N: DAY The landing area below is receding rapidly as the Bird's rockets ROAR.
+S: INT. BRIDGE - BIRD OF PREY
+N: As the professionals from the future crackle their routine, Gillian watches, wide eyed.
+C: CHEKOV
+D: Cloaking device is stable... All systems normal.
+C: KIRK
+D: Stabilize Energy Reserve!... Report helm:
+C: SULU
+D: Maintaining impulse climb. Wing five by zero, helm steady.
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: KIRK
+D: Advise reaching 10,000. Steer three-one-zero.
+C: SULU
+D: Three-one-zero, aye!
+C: KIRK
+D: Uhura, scan for the whales. 401 megahertz!
+C: UHURA
+D: Scanning, sir!
+S: EXT. SAN FRANCISCO - VERTICAL POV - STILL RISING - DAY
+N: By now we see the outline of the bay and bridges on a sun sprayed beautiful day. BRIDGE
+C: SULU
+D: 10,000 M.S.L., Admiral.
+C: KIRK
+D: Wing to cruise configuration... Full impulse power.
+C: SULU
+D: Aye, sir... Three-one-zero to the Bering Sea. E.T.A.: 12 minutes.
+N: As Gillian reacts to this, the impulse engines ROAR and:
+S: EXT. - POV LOOKING FORWARD FROM BIRD (UNDERCRANKED)
+N: We are speeding at Mach 16 or 17 down the California coast and out toward the open sea.
+T: BRIDGE - (INTERCUT ENGINE ROOM)
+C: KIRK
+D: Scotty: Are the whale tanks secure?
+N: 188A CARGO BAY - SCOTTY 188A
+C: SCOTTY
+D: Aye. But I've never beamed up 400 tons before.
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: KIRK'S VOICE
+D: 400 Tons?
+C: SCOTTY
+D: It ain't just the whales, it's the water.
+N: 188B BACK TO BRIDGE - KIRK 188B
+C: KIRK
+D: Yes, of course.
+N: Kirk moves to Uhura, followed by Gillian.
+C: KIRK
+D: The whales... Any contact?
+N: Uhura, earpiece pressed, holds up her hand to indicate she is working on it. 188C FAVORING SPOCK'S STATION 188C As Spock looks baffled, Bones ENTERS SHOT.
+C: BONES
+D: You, ah... You present the appearance of a man with a problem.
+E: diplomatically
+C: SPOCK
+D: Your perception is correct, Doctor... In order to return us to the exact moment at which we left the 23rd Century, I have used our journey back through time as a referent, calculating the coefficient of elapsed time in relation to the acceleration curve.
+C: BONES
+D: Naturally. So what is your problem?
+E: then
+C: SPOCK
+D: Acceleration is no longer a constant.
+C: BONES
+D: Well, you're gonna have to take your best shot.
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: SPOCK
+D: ... Best shot...?
+C: BONES
+D: Guess, Spock. Your best guess.
+C: SPOCK
+D: "Guessing" is not in my nature...
+C: BONES
+D: Well nobody's perfect...
+E: has waited 10 years for this
+N: ANGLE - UHURAH'S STATION FAINT SOUND of Whale Transponder is heard. Gillian reacts:
+C: GILLIAN
+D: That's it! That's it!
+C: UHURA
+D: Affirmative. Contact with the whales.
+C: KIRK
+D: Bearing!
+C: UHURA
+D: Bearing 327, range 600 nautical.
+C: KIRK
+D: Put them on screen!
+C: GILLIAN
+D: How can you do that?! It's radio!
+C: UHURA
+D: Image translation on screen!
+N: On VIEWSCREEN, a slightly deteriorated image, but we can make out George and Gracie. There is a moment of reaction from Gillian, Kirk, Spock and all. Then:
+S: EXT. OCEAN - THE WHALES - DAY
+N: They breech, singing their song, and the music swells to say what is in everyone's heart: hang in there! Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) BACK TO BRIDGE
+C: UHURA
+D: Admiral, I have a signal closing on the whales. Bearing 328 degrees.
+C: KIRK
+D: On screen.
+N: ON VIEWSCREEN: A semi-clear image of a whaling ship, its prow cutting through the water, its harpoon gun very much in evidence.
+C: BONES
+D: What kind of ship is that?
+C: GILLIAN
+D: A whaling ship, Doctor.
+C: KIRK
+D: Estimate range, ship to whales!
+C: UHURA
+D: Sir... Estimating one nautical mile.
+C: GILLIAN
+D: Oh my God, we're too late!
+C: KIRK
+D: Mr. Sulu: full power descent!
+S: EXT. OCEAN - POV - (UNDERCRANKED)
+N: The horizon rises as our view dips 20 degrees, the speed increases to 12,000 MPH, and we whiz through puffy clouds toward an unseen ocean target hundreds of miles away.
+S: EXT. OCEAN - THE SHIP - SERIES OF SHOTS - DAY
+N: (35MM STOCK) The Whaler is modern, and plows through the water at 25 knots. Its crew are largely bearded; they are Northern Europeans, maybe Swedes, Icelanders or Russians, all famous as Humpback hunters. The radar turns lazily. Then: In the crow's nest a sailor points. Binoculars are trained. They see something! The ship begins a gradual course change. The engine telegraph signals FLANK SPEED. The decks are exploding with activity as she heads toward the quarry.
+S: EXT. OCEAN - DAY
+N: The whales break the surface, arcing majestically; enjoying the sun and their freedom... Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+S: INT. BRIDGE - BIRD OF PREY
+N: (NOTE: We may now utilize, on VIEWSCREEN, scenes of WHALES and WHALING SHIP, as well as POV's of the Bird's forward view, which at the moment, is on screen.)
+C: SULU
+D: Dive speed is 200 knots per minute, 3.3. per second. Estimate reaching whales in 1.2 minutes.
+N: ABOARD THE SHIP - VARIOUS ANGLES Feverish activity, punctuated by the rising SOUND OF SONAR PINGING. Harpoons are being carried to the gun and loaded. The crew begins pointing excitedly to the distance.
+S: EXT. OCEAN - THE WHALES - ILM
+N: George and Gracie, oblivious to the danger, move through the water.
+S: INT. BRIDGE
+C: SULU
+D: Range to whales, 30 seconds...
+S: EXT. OCEAN - THE BOAT
+N: The harpoon gun is loaded and is transversing. thru thru
+S: INT. THE BRIDGE
+N: We see the boat on screen.
+C: SULU
+D: 10 seconds, sir!
+C: KIRK
+D: Hover on my mark, Mr. Sulu! Mr. Chekov, stand by de-cloaking -- Scotty, ready for power build up! Mark, Mr. Sulu... Create PDF files without this message by purchasing novaPDF printer
+E: then http://www.novapdf.com
+N: THE OCEAN - GEORGE AND GRACIE They lazily appear on the surface, oblivious to danger. They are a perfect target. THE SHIP The gunner sights with confidence -- fires! FX SEQUENCE The harpoon sails through the air toward the whales, then, with a great THWANG, hits an invisible something, and falls harmlessly into the sea. THE BOAT Bafflement! Consternation! Then: 209A THE BRIDGE - CLOSE - KIRK 209A
+C: KIRK
+D: Scotty -- Disengage cloaking device!
+C: SCOTTY'S VOICE
+D: Aye, sir.
+S: EXT. OCEAN - ILM
+N: Where the harpoon had stopped, now comes a ROAR OF SOUND and LIGHT. The Bird of Prey, big as a football field, DE-CLOAKS! ABOARD THE SHIP - VARIOUS ANGLES Oh-my-God! What-he-hell! ALARM KLAXONS! The helmsman spins the wheel! The engine telegraph goes to flank.
+S: INT. BRIDGE
+N: The defeat of the whaler causes the cheers of all. But Kirk quiets them with:
+C: KIRK
+D: Mr. Scott. It's up to you now. Commence build up for transporter beam!
+C: SCOTTY'S VOICE
+D: Give it me best, sir!
+N: As the SOUND of the beam build-up begins: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) CARGO BAY - SCOTTY - (INTERCUT WITH BRIDGE) Everything is to the firewall and he's sweating.
+C: SCOTTY
+D: Stay with me, sir -- I need more power curve...
+C: KIRK
+D: How long, Scotty?
+C: SCOTTY
+D: 10 seconds, Admiral; 5 - 4 - 3 - 2 - 1.
+N: As the energy WHINE PEAKS:
+S: EXT. OCEAN - UNDERWATER - ILM ELEMENTS
+N: George and Gracie, moving slowly through the deep, begin to BEAM OUT... CARGO BAY - FAVORING THE TANK - ILM ELEMENTS As Scotty watches in awe, the whales, and half a tank of sea water, BEAM IN. On Scotty, open-mouthed.
+C: SCOTTY
+D: Admiral! There be whales here!
+T: THE BRIDGE (INTERCUT)
+C: KIRK
+D: Well done, Mr. Scott. How soon can we be ready for warp speed?
+C: SCOTTY
+D: I'll have to re-energize.
+C: KIRK
+D: Don't take too long. We're sitting ducks for their radar systems... Mr. Sulu, impulse climb.
+E: then
+S: EXT. BIRD OF PREY - ILM
+N: as she begins to climb with moderate speed to altitude. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+T: BRIDGE (CONTINUE INTERCUTTING)
+C: UHURA
+D: Unidentified aircraft, 40,000 feet MSL, range 30 miles, bearing 010.
+C: KIRK
+D: Mr. Scott -- how soon?
+C: SCOTTY
+D: Stand by, sir. Miracle worker at work...
+C: KIRK
+D: Mr. Scott, don't make jokes, we are in danger of -
+C: SCOTTY
+D: Full power, sir.
+C: KIRK
+D: Mr. Sulu, if you please.
+E: recovers from his pique and.
+C: SULU
+D: Aye, sir, warp speed!
+S: EXT. SUB-SPACE - ILM
+N: The Bird of Prey EXPLODES into warp speed, disappearing into the deep blue-black of Space beyond. AT BRIDGE
+C: KIRK
+D: Mr. Sulu, take the con. I'm taking our guest down to see her whales. Mr. Spock: have you accounted for the variable mass of whales and water in your time re-entry program?
+E: as he starts
+C: SPOCK
+D: Mr. Scott cannot give me exact figures, Admiral. So I will... Make a guess.
+E: a beat
+C: KIRK
+D: You? Spock, that's extraordinary.
+E: laughs
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) He steps forward, shakes Spock's hand as though he had just come through a great transformation. In high spirits, Kirk leads Gillian off the bridge, leaving a puzzled Spock.
+C: SPOCK
+D: ... I don't think he understands...
+C: BONES
+D: No, Spock. It means he feels safer about your "guesses" than most other peoples facts.
+N: There is a pause.
+C: SPOCK
+D: You're saying... It is a compliment.
+C: BONES
+D: It is.
+N: Spock straightens, pulls the bottom of his garment straight with dignity, and accepts the responsibility.
+C: SPOCK
+D: I will try to make the best guess I can.
+S: INT. CARGO BAY - WHALES IN TANK - ILM ELEMENTS
+N: The two whales are contentedly behind the plexiglass, their eyes focusing on Gillian. Kirk, Scotty flank her, all watching the whales.
+C: KIRK
+D: Ironic. When man was killing these creatures, he was destroying his own future...
+C: SCOTTY
+D: The beasties seem happy to see you, Doctor. I hope you like our little aquarium.
+E: to Gillian
+C: GILLIAN
+D: A miracle, Mr. Scott.
+C: SCOTTY
+D: ... The miracle is yet to come.
+N: Scotty exits shot. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: GILLIAN
+D: ... What does that mean?
+C: KIRK
+D: He means our chances of getting home are not very good. You might have lived a longer life if you'd stayed where you belong.
+C: GILLIAN
+D: I belong here. Suppose by some miracle you do get them through. Who in the 23rd Century knows anything about Humpback whales?
+E: at his look beat
+C: KIRK
+D: ... You have a point...
+E: a long moment
+N: As she looks at Kirk, the ship begins to vibrate quietly.
+C: SCOTTY
+D: You better get up there, sir. We're having some power fall-off...
+C: KIRK
+D: On my way...!
+N: Kirk hurries out.
+C: SCOTTY
+D: Buckle up, Lassie. It gets bumpy from here.
+S: EXT. SPACE - BIRD OF PREY - TO THE SUN - ILM
+N: As before she's heading straight for the great Star.
+S: INT. BRIDGE - BIRD OF PREY
+N: Kirk enters through the WHOOSHING DOORS. The bridge is beginning to shake badly now. Kirk listens to:
+C: SCOTTY'S VOICE
+D: Warp seven point five... Seven point nine... Mr. Sulu, that's all I can give ye!
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: CHEKOV
+D: Shields at Maximum!
+N: Kirk steps forward.
+C: KIRK
+D: Can we make breakaway speed!?
+C: SPOCK
+D: Hardly, Admiral, I cannot even guarantee we will escape the Sun's gravity! I will attempt to compensate by altering our trajectory.
+C: SULU
+D: Warp eight. Eight point one... Maximum speed, sir!
+C: SPOCK
+D: Admiral, I need thruster control...
+C: KIRK
+D: Acceleration thrusters at Spock's command...!
+N: CLOSE on Spock as the buffeting gets intense. A wait. A further wait. Then:
+C: SPOCK
+D: Steady... Steady... Now.
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) SPACE - SERIES OF SHOTS - "THE SLINGSHOT" - ILM -- Just as the Bird appears certain to be swallowed by the Sun, a BLAST accelerates the ship along the far curve of the Sun as before. Solar flares lick the blurring vessel as she disappears behind the Sun. The CAMERA PANS ACROSS the Sun, waiting for the "comet" to appear around the far side of the Sun as she did before... And we wait. And we wait. -- CLOSER. The bird does not appear. The wait is interminable. Has the ship incinerated...? Then abruptly: there is a BANG and the SOUND OF RETROS as we heard in the first time sequence. Suddenly:
+S: INT. BIRD OF PREY - BRIDGE
+N: The SILENCE is total and deafening. We do not hear even the ambient pings and pongs of the electronic equipment. We have a feeling of LIMBO. Yet the people seem all right, though baffled. Are we in some new dimension? Kirk surveys the scene, and dares to speak:
+C: KIRK
+D: Spock... Did braking thrusters fire?
+C: SPOCK
+D: They did, Admiral.
+C: KIRK
+D: Then... Where the hell are we?
+N: Consternation from all; then, FAINTLY in the void of sound, we begin to hear the PROBE GIBBERISH...
+S: (REPEAT OF SCENE 53) - EXT. SAN FRANCISCO BAY
+N: WAVES CRASH against the shore. This sequence is exactly as we saw earlier in the film. GIBBERISH louder now.
+S: (REPEAT OF SCENE 54) - INT. STARFLEET COMMAND
+N: As before; Panic; Lightning and PROBE GIBBERISH.
+C: COMM OFFICER
+D: Sir... I'm picking up a faint transmission... It's Admiral Kirk calling...!
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: MORROW
+D: On screen!
+N: But at this moment, the entire situation display goes fuzzy, distorts, and is gone.
+C: MORROW
+D: Satellite reserve power, now!
+E: continuing
+N: The board starts up again, but dimmer, more erratic. A distorted image of Kirk appears on SCREEN (INTERCUT WITH BIRD OF PREY). We will not hear every word.
+C: KIRK'S IMAGE
+D: ... Analysis... Probe call... Captain Spock... Opinion... extinct species, Humpback Whale... proper response... Do you read me...?
+C: MORROW
+D: Stabilize! Emergency reserve!
+N: As the Comm Officer responds, Sarek steps up beside Morrow. Now Kirk's image clears enough to see:
+C: KIRK
+D: Starfleet, if you read, we are going to attempt time travel. We are computing our trajectory at this time...
+N: But suddenly the power fails, Kirk's image is gone. A silence as they stare at the blank screen.
+C: SAREK
+D: Good luck, Kirk. And all you go with you.
+E: softly
+N: The interruption is sudden: the entire great window facing the bay CRASHES INWARD, filling the room with debris, cries, and howling wind. (END REPEAT SEQUENCE.)
+S: INT. STARFLEET COMMAND - NEW FOOTAGE
+N: As the wind and the rain blow through the room, we find Sarek and Morrow, hands held up to protect their faces, then, suddenly, Sarek looks outward -- point"
+C: SAREK
+D: Look! Create PDF files without this message by purchasing novaPDF printer
+E: http://www.novapdf.com
+S: EXT. THE BAY - POV - BIRD OF PREY - ILM
+N: Deep overcast, lightning flashes, heavy rain. We are looking toward the Golden Gate. The BIRD OF PREY is descending out of the overcast headed toward the bridge in a shallow, but uncontrolled dive. PROBE GIBBERISH present through out sequence.
+S: INT. BRIDGE
+N: The buffeting of turbulence; the GIBBERISH loud. A sense of helplessness we've never seen from this crew.
+C: KIRK
+D: Spock: Condition report!
+C: SPOCK
+D: No data, Admiral. Computers are non-functional.
+C: CHEKOV
+D: The mains are down, sir! Aux power is not responding.
+C: KIRK
+D: Mr. Sulu, switch to manual control!
+C: SULU
+D: I have no control, sir!
+C: KIRK
+D: Picture, Uhura!
+C: UHURA
+D: I can't, sir -- Nothing!
+C: KIRK
+D: Out of control, and blind as a bat!
+C: BONES
+D: For Godsakes, Jim, where are we...?!
+S: EXT. SAN FRANCISCO BAY - BIRD OF PREY - SERIES OF
+N: SHOTS - ILM -- Where they are is: headed for the Golden Gate Bridge. -- Sarek, Morrow and the others watch in horror as -- -- The Bird narrowly misses by sheer luck and WHOOSHES under the great bridge -- -- Skimming now over the ocean, closer and closer to impact... Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+S: INT. BRIDGE
+C: SULU
+D: Sir -- I've got some back pressure on manual --
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: KIRK
+D: Ground cushion! Keep the nose up if you can --
+T: OUTSIDE - (AND INTERCUT)
+N: -- The Bird's long snout rotates up just a bit and: -- The crew holds its breath and -- -- The Bird of Prey SLAMS into the water like a giant stone being skipped, bounces once, then bellies in with ripping SOUNDS -- -- The crew is thrown about the bridge -- and the side WINDOWS blow out with a POW! -- The Bird comes to rest, nose high. After a moment it is clear she is sinking.
+S: INT. BRIDGE - VARIOUS SHOTS - TILTED
+N: Water sprays from seams and pipes; the crew struggles to move against the uphill tilt.
+C: KIRK
+D: Blow the hatch!
+N: Spock does. Kirk struggles to the blown out hatch near Spock. He looks up into the rain above: HIS POV Rain, fog, but above all: the GIBBERISH of the Probe. BACK TO KIRK
+C: KIRK
+D: You got us to the right place, Spock. Now all we have to do is get the whales out before we sink. Mr. Scott, come in!... Scotty...?! Damn... Mr. Spock, see to the safety of all hands.
+E: reaches Comm then
+C: SPOCK
+D: I will, Admiral.
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) Stay with Kirk as he fights his way downhill to the exit doors, which he forces open with great effort, then exits. FLOODED CARGO BAY - ASLANT - SCOTTY AND GILLIAN They're in trouble. The water is waist deep and rising. Scotty cannot open the hatch door to the NECK.
+S: INT. THE "NECK" CORRIDOR
+N: Kirk, water spraying about him, reaching the cargo bay door. He tugs at the emergency release. It's stuck.
+T: FLOODED CARGO BAY - (INTERCUT)
+N: Water is now up to their necks. Scotty and Gillian can't get out unless -- -- Kirk now wrenches the release, pulls the door open. He reaches his hand down, helps Gillian, then Scotty, into the temporary safety of the corridor above. Above the DIN OF WIND, RAIN and HISSING WATER, Kirk shouts:
+C: KIRK
+D: The whales...?!
+C: SCOTTY
+D: No power to the bay doors.
+C: KIRK
+D: The explosive override -- ?
+C: SCOTTY
+D: It's under water! There's no way to reach it...
+C: KIRK
+D: Go on ahead... Close the hatch!
+C: SCOTTY
+D: Admiral, you'll be trapped!
+N: But Kirk takes a deep breath and is gone, diving below. Scotty watches helplessly, then turns to aid Gillian up and out, closing the hatch as ordered.
+S: INT. CARGO BAY - UNDERWATER - (TANK)
+N: As Kirk swims in, begins searching. It's not going to be easy: Kirk cannot hold his breath forever. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+S: EXT. OCEAN - DAY - (INTERCUT)
+N: As the crew, one by one, emerge from the bridge window into the pelting rain. They cling to the floating bridge. Inside the bridge, Spock helps Scotty and Gillian in and to the window exit. TOP OF CARGO BAY Kirk breaks the surface, his lungs screaming for air. Only a few inches remain unflooded. He gulps air, and dives one last time.
+S: INT. CARGO BAY - UNDERWATER - SERIES OF SHOTS
+N: A determined Kirk swims rapidly down, looks desperately, finally finds the panel behind a layer of wreckage. He rips the barrier away, opens the seal, presses the sensor. There is a MUFFLED EXPLOSION and:
+S: EXT. UNDERWATER - BOTTOM OF CARGO HOLD - ILM
+N: The bay doors swing open! BACK TO KIRK - UNDERWATER IN CARGO BAY - (INTERCUT) He looks up and around for his best way out: deciding he suddenly dives down, disappears and -- -- emerges out the open bay doors. He heads for the surface and --
+S: EXT. OCEAN - VARIOUS SHOTS - DAY
+N: -- Kirk pops to the surface gulping for air. The rain pelts him. He looks round. -- The last of the survivors, Gillian and Spock emerge safely. -- Kirk relieved but where are the whales? And the Probe's nagging GIBBERISH is heard again. He dives once more... UNDERWATER - KIRK comes toward us, stops to see: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+S: EXT. UNDERWATER - CARGO BAY DOORS - ILM
+N: George and Gracie emerge from the bay doors, and majes- tically move away from the ship.
+T: UNDERWATER - KIRK (INTERCUT)
+N: He watches in wonder; then heads for the surface. THE SURFACE - VARIOUS SHOTS - (TANK) -- Kirk surfaces near the floating bridge and the sur- vivors. Rain pelts; fog obscures; and above all: the still unanswered CALL of the Probe. -- CLOSER: Kirk arrives at the wreckage, takes a hand hold near Gillian and Spock, looks back in deep concern.
+C: KIRK
+D: Why don't they answer? Why don't they sing, dammit!
+E: a beat
+S: EXT. OCEAN - UNDERWATER - (ILM/IMAX)
+N: Now something few have seen: "George" swims into center stage, undulates, and drops into a hanging ver- tical position. Then he begins: WHALE SONG.
+S: EXT. SPACE - THE PROBE - (INTERCUT) - ILM
+N: It's antenna turns to the new SOUND. Then, it trans- mits a NEW GIBBERISH, somehow more conversational.
+T: UNDERWATER - THE WHALE - (INTERCUT)
+N: As this new dialogue mounts, the Probe will always trans- mit GIBBERISH from above, the whale will always answer with WHALE SONG from underwater. But even the dullest of us will sense the relaxing of concern and tension, the almost conversational climax between the two commu- nicators. And then: SPACE - THE PROBE - SPACEDOCK IN B.G. - ILM It sends what sounds what like a farewell burst of GIBBERISH; then, a THRUSTER FIRES, and the Probe arcs up and out of orbit into the far distance, leaving Earth behind. As it leaves, the lights in SPACEDOCK slowly begin to wink on. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+S: EXT. SAN FRANCISCO BAY - VARIOUS SHOTS - ILM
+N: -- The rain begins to stop. -- The swirling clouds begin to calm -- and part. -- A shaft of slim sunlight peeks through. -- Kirk, Spock, Gillian watch. -- The crew watches as the clouds begin to part.
+S: INT. STARFLEET COMMAND
+N: Suddenly, the great BOARD becomes reactivated. Lights go on. SOUND and chatter return to normal.
+C: MORROW
+D: Mr. President -- we have power!
+C: PRESIDENT
+D: By God! Launch rescue shuttle!
+E: at window
+S: EXT. BAY AREA - ILM
+N: With our floating survivors in f.g., we see the rapidly clearing skies over the Golden Gate Bridge and the city beyond. We hear FAINTLY, approaching RESCUE SHUTTLE.
+S: EXT. OCEAN - THE SURVIVORS - SUNLIT NOW - (TANK)
+N: They hear the growing SOUND of approaching rescue and looks at the clearing sky.
+C: BONES
+D: Congratulations, Jim. I think you've saved the Earth.
+C: KIRK
+D: Not me, Bones... They did it.
+S: EXT. OCEAN - THEIR POV - (INTERCUT) - ILM
+N: George and Gracie breach and frolic in their new world; the sun breaks fully through, creating a most wonderful rainbow... All in all, a beautiful day in the 23rd century.
+T: ABRUPT CUT TO:
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+S: INT. FEDERATION COUNCIL CHAMBER
+N: Somber, hushed by contrast. Galleries filled largely by STARFLEET PERSONNEL. Some coughs. No talk. Then: SIDE ENTRY DOOR It WHOOSHES open and the President and the Council enters soberly and take their places. The President goes to the central podium. He looks into the front row.
+C: PRESIDENT
+D: Bring in the accused.
+N: ANGLE A somber group in spanking fresh uniforms, enters... They are Kirk, Bones, Scotty, Uhura, Sulu and Chekov. They walk past a front row where Gillian, Chapel, Rand, Sarek and Spock watch them. The audience murmurs as the "Accused" take their place on the Federation Seal. Moment. Then Spock rises and crosses to Kirk's group where he stands at attention. BACK TO SCENE
+C: PRESIDENT
+D: Captain Spock, you do not stand accused.
+C: SPOCK
+D: I stand with my shipmates. Their fate shall be mine.
+C: PRESIDENT
+D: As you wish. The charges and specifications are: Conspiracy; Assault on Federation Officers; Theft of Federation Property; namely the Starship Enterprise; Sabotage of the U.S.S. Excelsior; willful destruction of Federation Property, specifically the aforementioned U.S.S. Enterprise; and finally, disobeying direct orders of the Starfleet Commander... Admiral Kirk, how do you plead?
+E: then
+C: KIRK
+D: On behalf of all of us, Mr. President, I am authorized to plead guilty.
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+C: PRESIDENT
+D: So entered. Hear now the sentence of the Federation Council: Because of certain mitigating circumstances, all charges but one are summarily dismissed. The remaining charge, disobeying orders of a superior officer is directed only at Admiral Kirk. I'm sure the Admiral will recognize the necessity of keeping discipline in any chain of command.
+E: clears throat a buzz through the crowd looks up
+C: KIRK
+D: I do, sir.
+C: PRESIDENT
+D: James T. Kirk. It is the judgment of this Council that you be reduced in rank to Captain. ... And that as a consequence of your new rank, you be given the duties for which you have repeatedly demonstrated unswerving ability: the command of a Starship.
+E: uncertain buzz
+N: Reactions, buzz, happiness, but the President gavels for order!
+C: PRESIDENT
+D: Silence! Captain Kirk, your new command awaits you. You and your crew have saved this planet from its own short-sightedness... And we are forever in your debt.
+E: continuing it is silent
+N: The tide breaks loose: everyone in the great hall rises to a standing ovation for Kirk and the crew.
+T: DISSOLVE TO:
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+S: INT. FEDERATION COUNCIL CHAMBER
+N: The last of the crowd is exiting. Kirk and the Crew are accepting the last handshakes and congratulations. Spirits are high. And Kirk suddenly turns to find himself face to face with Gillian.
+C: GILLIAN
+D: My own exonerated Kirk! I'm so.. juiced, I can't tell you! Bye, Kirk... Thanks.
+E: she kisses him
+N: She starts away.
+C: KIRK
+D: Hey! -- Where you going?!
+C: GILLIAN
+D: You're going to your ship, I'm going to mine. Science Vessel. I've got 300 years of catch-up learning to do.
+C: KIRK
+D: You mean this is -- goodbye?
+C: GILLIAN
+D: Why does it have to be goodbye?
+E: perplexed
+C: KIRK
+D: Well, I... As they say in your century -- I don't even have your phone number. How will I find you?
+C: GILLIAN
+D: Don't worry. I'll find you. See you around the galaxy...
+E: then
+N: And she is gone. Kirk shakes his head in affection and disbelief, then turns to see: HIS POV - SPOCK In a corner of the empty chamber, Spock waits stiffly as Sarek approaches him. BACK TO KIRK He sees, then waits discreetly, leaving them to talk alone. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) ANGLE - SPOCK AND SAREK As the father reaches the Son. A quiet moment in the empty, echoing hall.
+C: SPOCK
+D: Father...?
+C: SAREK
+D: I will be returning to Vulcan within the hour... I wanted to take my leave of you.
+C: SPOCK
+D: It is kind of you to make this effort.
+C: SAREK
+D: It is not an effort. You are my son. Besides; I am most impressed with your performance in this -- crises.
+E: then, covering this emotionalism
+C: SPOCK
+D: Most kind, Father.
+N: Sarek looks at him uncertainly, wanting to hear some- thing. Finally:
+C: SAREK
+D: As I recall, I opposed your enlistment in Starfleet... It is possible that judgment was incorrect. Your associates are people of good character.
+E: Spock, an eyebrow
+C: SPOCK
+D: They are my friends.
+C: SAREK
+D: Yes, of course... Do you have any message for your mother?
+C: SPOCK
+D: Tell her I feel fine...
+E: thinks; then
+N: HOLD on Sarek. It is his turn to raise a Vulcan eyebrow. Now Spock crosses to the waiting Kirk. They share a moment, and depart together. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+S: 272 INT. SPACEDOCK - ILM 271
+N: From the Dock in the distance, amid the great SHIPS, a tiny SHUTTLECRAFT comes toward us slowly.
+S: INT. SHUTTLECRAFT - KIRK AND CREW - ILM BLUE SCREEN
+N: A great window in the front of the craft gives everyone a view of the ships and where they are headed. They do not seem to know. POV - THROUGH THE WINDDOW (AND INTERCUT WITH SHUTTLE) Various vessels, odd shaped, undistinguished. A Reliant class, a Saratoga. As they watch:
+C: BONES
+D: The bureaucratic mentality is the only constant in the universe. We'll get a freighter.
+C: SULU
+D: With all respect, Doctor, I'm counting on Excelsior.
+C: SCOTTY
+D: Excelsior? Why in God's name would you want that bucket of bolts?
+C: KIRK
+D: Scotty, don't prejudge. A ship is a ship.
+N: Ahead, through the window, is Excelsior.
+C: SCOTTY
+D: Whatever you say, sir. Thy will be done.
+E: to himself
+N: And then, through the window screen, it happens: the shuttle, automated, begins a rising climb. The Excelsior DISAPPEARS BELOW THE FRAME LINE and in the near distance, a new SPACESHIP appears. It appears to be a Starship of the U.S.S. Constitution Class. The faces of Kirk and the crew light up.
+S: INT. SPACEDOCK - THE SPACE SHIP - CLOSE MOVING
+N: APPROACH - ILM It looks like the Enterprise. As we get closer, it is. Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)
+S: INT. SPACEDOCK - CLOSER ANGLE - U.S.S. ENTERPRISE -
+N: ILM FAVORING the great dish; where in freshly painted letters: "U.S.S. ENTERPRISE" and on the line below, "NCC 1701 - A" A painter, in spacesuit waves cheerily. BACK TO THE SHUTTLE The emotion is high from all, but very restrained. Kirk says it for all.
+C: KIRK
+D: My friends... We've come home.
+S: EXT. SPACEDOCK - ILM
+N: The great exit doors open. The U.S.S. Enterprise emerges and heads out on a trial run.
+S: INT. BRIDGE - U.S.S. ENTERPRISE
+N: Shiny, new, refitted for anything that may come. And the crew is where they belong, all at their stations. And Kirk is in his Captain's chair.
+C: KIRK
+D: Let's see what she's got, Mr. Sulu.
+C: SULU
+D: Aye, sir!
+N: SPACE - THE ENTERPRISE - ILM The great vessel curves and heads out. Over this we hear:
+C: KIRK'S VOICE
+D: Space, the final frontier. These are the voyages of the Starship Enterprise. Her ongoing mission: to explore strange new worlds... to seek out new life and new civilizations... To boldly go where no man has gone before...
+N: With that, the Enterprise hits WARP SPEED, and is gone into the stars.
+T: FADE OUT.
+N: THE END Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) STAR TREK IV : THE VOYAGE HOME APPENDIX A. N.D. STARSHIP DIALOGUE (as it appears in Scene 42) VERSION 1 Starfleet command, this is Captain Joel Randolph of the starship Yorktown reporting. Emergency channel Zero-one-three-zero, code red. It has been three hours since our contact with the alien probe and all attempts at regaining power have failed. All non-essential crew have been given hiber-sedatives to slow down consumption of life support reserves. Our chief engineer is attempting to deploy a makeshift solar sail with which to focus and absorb radiation from a nearby sun we are orbiting. We have high hopes that this will, if successful, generate power to keep us alive indefinitely. If you would patch us through to Engineering Control we could link up with the technicians there and hopefully lick this problem. We will keep you posted on our condition. Starfleet, and inform you of any further developments. Captain Randolph out. VERSION 2 Starfleet Command, this is communications officer Trillya of the U.S.S. Shepard reporting on emergency status code zero one nine five. Our condition remains the same, the probe has neutralized all power supplies and we are functioning on reserves only. All attempts to reinstate main power have failed. Captain Clampett has quarantined all but minimal support crew due to failure of Bio- Sterilization capsules containing Vegan D virus, which has already killed fifteen crew members. All aboard are believed to be infected. Atmospheric regeneration and reclamation systems are not functional, and all medical supplies are spoiling due to refrigeration shut down. At present condition life support systems will be exhausted within eight hours. Starfleet, please advise...? Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) STAR TREK IV: THE VOYAGE HOME APPENDIX B. COUNCIL PRESIDENT MESSAGE (as appearing in Scene 47)
+C: COUNCIL PRESIDENT
+D: This is the President of the United Federation of Planets with a Planet Alert, Priority One: Do not Approach Earth -- This is a Priority One warning to all Starships, repeat do not approach! Earth is under the attack of an unidentified orbiting probe which emits transmissions on an energy wave unknown to us. This powerful wave, directed at our oceans, has almost totally ionized our atmosphere. All power sources have failed or been neutralized. All Earth orbiting Starships are powerless. A cloud envelope has enshrouded the planet causing heavy rain and flooding. Temperatures are dropping to critical levels. This planet cannot survive unless the Probe is responded to. The Probe's transmissions dominate all standard channels. Further communications may not be possible and we have discovered no methods to repel the Probe or destroy it. Do not attempt confrontation with the Probe!! Save your energy, save yourselves. Avoid the Planet Earth at all costs. Farewell...
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) STAR TREK IV: THE VOYAGE HOME APPENDIX C. KIRK'S SPEECH #1 (as appearing in Scene 54)
+C: KIRK
+D: Starfleet Command, this is Admiral James T. Kirk in route to Earth in Klingon vessel. We have intercepted and analyzed the call of the Probe threatening Earth. With the help of Captain Spock it is our opinion that only the extinct species Humpback Whale can give the proper response to the Probe. Do you concur with this opinion?... Do you read me? Starfleet Command, do you read me?
+N: KIRK'S SPEECH #2 (as appearing in Scene 54)
+C: KIRK
+D: Starfleet Command, we hope you can hear us. If you read, Starfleet, we are going to attempt time travel. We are computing our trajectory at this time.
+N: Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com) STAR TREK IV: THE VOYAGE HOME APPENDIX D. (as in Scene 25)
+C: STARFLEET COMMAND TABLE OPERATOR
+D: Right, I want S.F.C. up on console 5 on One... cue. Coming up on console three Com sat 4 no filtering southern Quadrants... check zero one five niner On cue three. Switching over to manual Camera control on sat vert two three Two. Mark on my cue 4... 3... 2... 1... check coming up on com 4... new probe data input to major A.1. banks for possible com link... switching to data com line priority one weather control... Quadrant 12-340 has partial power maintenance... Probe has passed A-13 new data unavailable... line three... Sector 15 monitoring station graphic consolidation display up on main display 1. All neutral zone monitoring graphics on screen 5... On my count... cueing up now... check K- 12 we've got you clear; I'm putting You up on the main screen... Rigel Monitoring graphics general data synth With graphic reps on main 3... Check... We're clear...
+N: Switching now to line 13 with sat com 12... coming up on three... ... Check... we've got interactive visuals from Delta 5 on alien probe possible mag flux ratios... 4... 3... 2... 1... we are putting on Sat four Graphics on screens 5 and 2... All Clear on patch 13... Putting up Communications from Reon seven with Infra-red filtering... Check... Increase contrast please... stop... Down one third... Check that's it... Okay... Moving to console seven... new Status... Update graphics on Rigel 5... Check... continue update... fine... Information dump clear for storage... Okay we're clear... Bandit 5 you're Coming through... Graphic data on Pleadian Quadrants 5 and 7 coming up on Screen alpha-delta seven... Create PDF files without this message by purchasing novaPDF printer (http://www.novapdf.com)

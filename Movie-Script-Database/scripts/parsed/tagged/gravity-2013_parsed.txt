@@ -1,0 +1,1384 @@
+M: GRAVITY
+M: A Space Suspense in
+M: 3D
+M: Written by
+M: Alfonso Cuaré6n & Jonas Cuar6én
+M: & Rodrigo Garcia
+M: Property of Artisan Gold Limited
+M: November 2,
+N: BLACK.
+C: SILENCE.
+D: CARD 1 AT 600 KM ABOVE PLANET EARTH THE TEMPERATURE FLUCTUATES BETWEEN 120 AND -100 DEGREES CELSIUS.
+C: SILENCE.
+D: CARD 2 THERE IS NOTHING TO CARRY SOUND, NO OXYGEN, AND NO AIR PRESSURE.
+C: SILENCE.
+D: CARD 3
+C: LIFE HERE IS IMPOSSIBLE. SILENCE. TITLE- GRAVITY
+D: BLACK -
+N: OUTER SPACE, 600 KILOMETERS ABOVE- PLANET EARTH. Like all images of Earth seen from space, this image of our planet is mythical and majestic. The globe seems almost tangible, slowly spinning, floating in the endless void of space. It is a blue planet, and bright white clouds twirl and stretch in capricious patterns across the deep blue of the oceans and the jigsaw of continents: green, yellow and brown. It is noon in Cape Town and early night in India. The sphere is almost a perfect orb except for the darkened sliver on its Eastern edge. It is beautiful! And so full of life. But not here. Here it is completely silent. SILENCE- IN THE DISTANCE- A small metal object crosses the empty space surrounding Earth. If it appears to be a small satellite in the distance, that is only because it is very far away from us. It is fifty meters in length and twenty across. It is- The TIANGONG 8 SPACE STATION. The biggest achievement of the Chinese Space Program, its extensive solar panels reflect the sunlight, giving the station a glow. It orbits at an altitude of 300 km above sea level. It moves at an average of 27,700 kilometers per hour, completing 15.7 laps around the Earth per day. As the Chinese Station orbits away into the distance, another object appears. It is traveling in the same direction and also at great speeds, orbiting at a higher altitude of 500 km above sea level. It is- The INTERNATIONAL SPACE STATION (ISS) It is older than the Chinese Station but floats with a sense of proud achievement. The Station resembles a dragonfly. Its solar panels stretch out, like wings, from the long body made of connected pressurized modules. It is the size of one football field. It 1S orbiting over Zimbabwe. To the East, the island of Madagascar. Up to the North, the expansive dry lands of Somalia and Ethiopia. The International Space Station curves around the spherical planet and orbits into the distance. It becomes smaller, almost indistinguishable, no more than a small bright spec grazing over the blue atmosphere. CLOSER TO US~ Orbiting at an altitude of 600 km- The ATLANTIS SPACE SHUTTLE becomes visible. This icon of space exploration has played a key role in all of NASA’S missions since the late 90’s. An ASTRONAUT floats near the bottom side of the Shuttle wearing a bulky white space suit and a full, bubble-like helmet. He controls a MANNED MANEUVERING UNIT, a propulsion backpack used to perform spacewalks. His name is MATT KOWALSKI. He is the best guy to be with in outer space but you’d never want to hang out with him back on Earth. He is the Guidance Officer for this mission. He coordinates all operations and supervises all space walks. With a flashlight he inspects all of the shielding tiles on the Shuttle’s surface. MATT is an old dog of space exploration. He has been on several missions since the early stages of the Space Station. He holds world records for accumulated time spent spacewalking (over 130 hours). This is his last mission.
+C: MATT
+D: the tile is a little smoked but in perfect shape. Atlantis is okay for Earth re-entry.
+N: Through a radio system he communicates and receives instructions from TOP COMMAND in Houston.
+C: TOP COMMAND
+D: Thank you, Kowalsky.
+E: on radio
+N: He propels himself to the other side of the Shuttle where the fuselage roof 1S open, creating an exterior hangar where- The HUBBLE TELESCOPE is docked. The Hubble is one of the largest telescopes orbiting around the Earth. The size of one school bus, it is a long cylindrical tower with a huge lens at one end.
+C: TOP COMMAND
+D: What’s the status, Shariff? OUTER SPACE. SPACE SHUTTLE. EXTERIOR HANGAR. 600 KM ABOVE EARTH.
+E: CONT'D on radio
+N: Stationed aroun@g the telescope are TWO ASTRONAUTS carrying out a repair mission. They are also wearing space suits but unlike Matt, they are not wearing Manned Maneuvering Units. SAFETY TETHERS are the only things stopping them from floating away into space.
+C: SHARIFF
+D: We’re almost there. Almost.
+N: If working in zero gravity is already difficult, working in zero gravity while wearing a space suit is even harder - the joints of the suit are very stiff and every small movement requires a huge effort, making it awkward to carry out even Simple tasks like fastening a bolt.
+C: TOP COMMAND
+D: Still negative. No signal of remote system.
+E: on radio
+C: SHARIFF
+D: Any moment you’ll have it. Any moment now.
+N: SHARIFF DASARI is an Indian engineer in his mid-thirties. He 1s attached with tethers to a platform on one side of the Hubble. This is his second mission into outer space.
+C: TOP COMMAND
+D: Do you have an approximate time of completion? Houston is getting anxious.
+E: on radio
+C: SHARIFF
+D: Ah, very nice people, the Houston people. Very nice. But they shouldn’t get anxious, anxiety is not good for the heart. The system 1s set and ready to re-activate.
+C: TOP COMMAND
+D: Huh?... Oh, roger that. Activating Solar Panel.
+E: on radio
+N: Two SOLAR PANELS on the side of the Hubble slowly expand.
+C: SHARIFF
+D: The peacock is spreading its wings.
+N: More a bumblebee than a peacock, the telescope spreads its wings. The solar panels glow with the reflection of the golden sun.
+C: MATT
+D: Let’s hope your peacock isn’t all feathers and no action.
+N: Matt floats over from beneath the Shuttle.
+C: SHARIFF
+D: Oh no, I have a very reliable peacock. Very reliable.
+N: The panels are fully expanded.
+C: TOP COMMAND
+D: Panels engaging into position and testing Remote Orientation System.
+E: on radio
+N: The solar panels BEGIN TO ROTATE.
+C: SHARIFF
+D: What did I tell you? What did I tell you?! The wings are flapping!
+C: TOP COMMAND
+D: This is Houston. Remote Control engaged and fully working. You got a loud round of applause from everyone here! Congratulations Shariff!
+E: on radio
+N: Shariff cheers and begins singing a pop tune in Hindi, bursting into a Zero-G Bollywood choreography.
+C: SBARIFF
+D: Jaise Baadal Paani Ka, Yaarana Hai Oh Jaise Paani Ka, Yaarana Hal
+E: Singing
+C: TOP COMMAND
+D: What is he doing?
+E: on radio
+C: MATT
+D: It looks like he’s doing the Macarena or something.
+C: TOP COMMAND
+D: What’s the status with the Imaging Card, Dr. Stone?
+E: on radio
+N: The other astronaut stands perched on a ROBOTIC ARM attached to the Shuttle. The arm is a crane-like moving platform remotely operated from inside the Shuttle.
+C: TOP COMMAND
+D: Dr. Stone. Do you copy?
+E: CONT’D
+N: RYAN STONE is a medical engineer, specialized in hospital scanning systems. She’s focused on her work as though she’s all alone in the world. This is her first mission.
+C: TOP COMMAND
+D: Do you copy, Dr. Stone?
+E: CONT'D
+N: Ryan whispers, almost to herself.
+C: RYAN
+D: Should be running.
+C: TOP COMMAND
+D: Can‘t make you out, Dr. Stone. Could you speak up?
+N: She speaks a little louder.
+C: RYAN
+D: It’s up and running, Houston.
+C: TOP COMMAND
+D: Mmmm... That’s a negative.
+E: on radio
+C: RYAN
+D: No.
+C: TOP COMMAND
+D: We're not getting anything.
+E: On radio
+C: RYAN
+D: Try it again.
+C: TOP COMMAND
+D: Negative, Dr. Stone.
+E: on radio
+C: RYAN
+D: There’s probably something you‘re not reading right.
+N: She moves the card around.
+C: TOP COMMAND
+D: We're not receiving anything down here.
+E: on radio
+N: Again, as if to herself-
+C: RYAN
+D: Hold on. Okay, yeah. One of the condensation plates must be damaged. I’ll bypass the circuit.
+C: TOP COMMAND
+D: Can we have a time estimate on that, Dr. Stone?
+N: But Ryan’s too busy to answer. Matt propels himself over to Ryan.
+C: MATT
+D: You know, I’d love to extend my farewell walk as long as possible, but if we’re still...
+C: RYAN
+D: You’re in my light.
+N: Matt repositions to unblock the sunlight.
+C: MATT
+D: if we’re still planning to touch down at Kennedy tomorrow at 1400, we should pack our picnic and head back to the Space Station immediately.
+C: TOP COMMAND
+D: How much time do you need to replace the plate, Ryan?
+E: on radio
+N: Ryan’s still working, barely taking her concentration away from what she’s doing. She mutters softly-
+C: RYAN
+D: Thirty.
+C: TOP COMMAND
+D: Say again?
+C: RYAN
+D: Thirty.
+C: TOP COMMAND
+D: We can’t get you thirty minutes.
+E: on radio
+N: A new voice joins the conversation, It is the SPACE STATION CAPTAIN.
+C: SPACE STATION CAP
+D: This is Space Station. We could start moving stuff to the docking area, that may cut down some of the prep time if Atlantis is up to it.
+E: on radio
+N: The voice of the Atlantis CAPTAIN, ARLENE BVANS, comes in through the radic.
+C: ATLANTIS CAP
+D: This is Atlantis. I can wait twenty minutes under one condition, Ryan.
+E: on radio
+C: RYAN
+D: Yes?
+C: ATLANTIS CAP
+D: You need to learn how to speak up, honey.
+E: on radio
+N: She answers softly.
+C: RYAN
+D: Roger.
+N: And immediately corrects herself, this time louder.
+C: RYAN
+D: Roger, Atlantis.
+E: CONT'D
+C: TOP COMMAND
+D: Dr. Stone, you have twenty minutes.
+E: on radio MORE 
+C: TOP COMMAND
+D: Enjoy your last walk out there, Matt.
+E: CONT'D
+N: Matt propels himself closer to where Ryan is working.
+C: MATT
+D: Houston, may I ask permission to help with the bolting?
+C: RYAN
+D: I’m okay.
+N: Matt lands next to Ryan. He anchors himself to the telescope.
+C: TOP COMMAND
+E: on radio
+N: Permission granted. Their faces are visible through their helmets’ glass. Matt smiles at her. He takes out his pistol grip, and with fast precision puts its head to a bolt and begins unscrewing.
+C: MATT
+D: So, you took your videos?
+C: RYAN
+D: Say again?
+C: MATT
+D: Your vids of drinking water and twirling around in Zero-G.
+C: RYAN
+D: Why would I do that?
+C: MATT
+D: You know, so you can show them off back on Earth.
+C: RYAN
+D: Is that what you do?
+C: MATT
+D: That’s the only thing that still gets me laid. She doesn’t acknowledge him and continues unscrewing.
+N: Matt removes bolt after bolt with confidence. A bolt comes off and- He DROPS IT. He tries to grab it but MISSES, barely touching it but giving it a push that makes it change direction. The bolt begins to FLOAT AWAY from him. He turns and reaches out to grab it, but he is the Hubble, and the bolt is already out of his
+C: MATT
+D: Shit!
+E: CONT’D
+N: The bolt spins out into the emptiness of space A hand GRABS it before it has gone too far. Ryan puts the bolt away.
+C: MATT
+D: Nice catch.
+E: CONT'D
+N: Ryan looks at him with annoyance. He begins to another bolt. Ryan points to the lower corner of the panel.
+C: RYAN
+D: Work on that corner, I‘1ll finish up here. Atlantis, pivot the arm two feet to the left.
+C: ATLANTIS CAP
+D: Roger. Standby for arm maneuver.
+E: on radio
+N: strapped to reach. when-— UNnScCrew The robotic arm moves very slowly, pulling Ryan along while Matt begins to unharness himself from the telescope to shift position.
+C: SHARIFF
+D: Hey Matt, the Solar Panels are secured. What do you want me to do now?
+C: MATT
+D: Start packing your stuff. We still have to undock the telescope, and we've been out here for more than five hours.
+C: SHARIFF
+D: Roger that. li.
+N: The robotic arm stops.
+C: ATLANTIS CAP
+D: Stone, arm is locked,
+E: on radio
+C: RYAN
+D: Roger that.
+N: Ryan begins unbolting.
+C: MATT
+D: So, your brain scanner will work to see the universe?
+C: RYAN
+D: It’s not my brain scanner. I only developed the software. They’re hoping I can make it work here.
+C: MATT
+D: Well, six months ago you were working on the eighth floor ina hospital in Denver, and now you’re here, on top of the world. You are one lucky girl, Dr. Stone.
+C: RYAN
+D: Oh, yes. Pinch me.
+N: Ryan points to a corner of the panel-
+C: RYAN
+D: Start unscrewing those.
+E: CONT'D
+N: Matt moves to a different part of the telescope.
+C: SHARIFF
+D: Kowalsky!
+N: Matt turns to Shariff.
+C: MATT
+D: What?
+N: Shariff raises his arms again.
+C: SHARIFF
+D: Is this great or what?!
+N: Shariff JUMPS and FLOATS AWAY from the Shuttle screaming and flapping his arms. A long SAFETY TETHER attached to his waist tenses and- Brings Shariff to an ABRUPT STOP, snapping him back like a bungee cord. Matt takes a pause to stare down. A sad smile is on his face.
+C: MATT
+D: God. I'm really gonna miss it here.
+N: THE BARTH, with its ever-changing surface of blues and whites, greens and browns, iS massive and serene below him, Ryan holds a panel from inside the telescope-
+C: RYAN
+D: Yeah, the condensation plate seems to be damaged.
+N: Ryan carefully examines the condensation plate.
+C: RYAN
+D: This will take me less time than...
+E: CONT‘D
+N: Top Command interrupts on the radio.
+C: TOP COMMAND
+D: ISS, do you copy? Over.
+E: on radio
+C: SPACE STATION CAP
+D: This is ISS. We copy. Over.
+E: on radio
+N: Ryan inserts the plate into the Hubble.
+C: TOP COMMAND
+D: Atlantis, this is Houston. Over.
+E: On radio
+C: ATLANTIS CAP
+D: Hello Houston, Arlene here. Over.
+E: on radio
+C: TOP COMMAND
+D: This is Top Command for immediate action. Abort mission! Repeat. This is Top Command for immediate action. Abort mission!
+E: on radio
+N: All the astronauts stop what they’re doing and anxiously await further instructions, except for Ryan who keeps working.
+C: TOP COMMAND
+D: Apply Emergency Procedure Code Red. Execute appropriate protocol for emergency re-entry. Repeat.
+E: on radio
+N: Matt is immediately flung into action and rapidly unharnesses himself from the Hubble.
+C: ATLANTIS CAP
+D: Matt, this is Arlene. Immediate return to the Shuttle. Repeat, immediate return to the Shuttle.
+E: on radio
+C: MATT
+D: Rogex.
+C: SHARIFF
+D: Shariff here. I’m unharnessed and on my way back.
+N: Shariff makes his way toward the airlock.
+C: ATLANTIS CAP
+D: Airlock engaged and ready to receive you.
+E: on radio
+N: Ryan is working on the panel.
+C: MATT
+D: What are you doing?
+C: RYAN
+D: I’m almost finished.
+C: ATLANTIS CAP
+D: Ryan, standby for arm maneuver.
+E: on radio
+C: RYAN
+D: Just one second, one second.
+N: She keeps on furiously tweaking.
+C: MATT
+D: We have to go now!
+C: RYAN
+D: I know, I know. One second, one second,
+C: MATT
+D: Now!
+C: RYAN
+D: Aaaaand... done! I’m locked in the
+N: arm, ready to move. The ROBOTIC ARM slowly moves, carrying Ryan back to the Shuttle.
+C: ATLANTIS CAP
+D: Hey Matt, I’m disengaging the Hubble. I need you to give it a push.
+E: on radio
+C: MATT
+D: Copy that.
+N: Matt PROPELS himself to the base of the Hubble using the propelling unit on his back.
+C: MATT
+D: Shariff, come help me with this.
+E: CONT'D
+C: SHARIFF
+D: Roger.
+N: Shariff turns and heads toward the base of the telescope holding onto the hangar‘’s hand rails.
+C: SPACE STATION CAP
+D: This is Space Station here. Can we request further information on Code Red? We’re in the dark here.
+E: on radio
+C: TOP COMMAND
+D: It seems that a Russian Satellite was hit by a missile.
+E: on radio
+C: SHARIFF
+D: What?
+C: ATLANTIS CAP
+D: Are they nuts? Whose missile?
+E: on radio
+C: SPACE STATION CAP
+D: Probably the Russians shot it themselves. Disposing a dying spy satellite. It wouldn’t be the first time.
+E: on radio
+C: TOP COMMAND
+D: The impact has created a cloud of debris traveling at 30,000 km per hour. The debris has already hit other satellites, creating more debris. It’s a chain reaction.
+E: on radio
+N: Matt and Shariff arrive to the base of the telescope. The arm is retracting very slowly, carrying Ryan back.
+C: MATT
+D: Atlantis, this 1s Matt. We’re ready for the Hubble to disengage.
+N: ATLANTIS CAP (on radio) Matt, this is Atlantis, locks releasing in three... two... one... The locks attaching the Hubble to the Atlantis release. Matt and Shariff give the Hubble a push away from the hangar. Pushing the huge telescope is not a difficult task in zero gravity. As it floats away Matt gives the telescope a small Spin.
+C: SPACE STATION CAP
+D: Do you have confirmation on the orbit of the debris?
+E: on radio
+C: TOP COMMAND
+D: Debris orbiting between 200 and 600 km above sea level.
+E: on radio
+C: MATT
+D: We have to get out of here.
+N: Shariff makes his way back toward the airlock as the Hubble Slowly floats away.
+C: TOP COMMAND
+D: The debris seems to be expanding.
+E: on radio MORE 
+C: TOP COMMAND
+D: We have lost contact with 70 percent of our satellites.
+E: CONT'D
+N: The arm is slowly moving but it is still far from the hangar. TOP COMMAND (CONT'D) (on radio) Please confirm evacu... A high frequency of interference and- THE COMMUNICATION IS Lost.
+C: SPACE STATION CAP
+D: Houston. Do you copy? Over. There’s no answer.
+E: on radio
+C: ATLANTIS CAP
+D: Houston. This is Atlantis. Do you copy? Over.
+E: on radio
+N: Still no answer.
+C: ATLANTIS CAP
+D: We lost Houston. We lost Houston!
+E: CONT’D
+C: RYAN
+D: Look!
+N: Ryan points at something in space about half a mile away. A LARGE OBJECT, a piece of a BSE SATELLITE, passes next to them at a tremendous speed.
+C: MATT
+D: This is Matt confirming visual contact with debris. It seems to he a big chunk of a BSE satellite.
+N: ANOTHER OBJECT, a part of a WEATHER SATELLITE, hurls by them, a little bit closer than the previous one.
+C: SHARIFF
+D: Look, another one!
+C: MATT
+D: We have to go. Go, go! Go!
+N: It is followed by a SMALL PIECE OF DEBRIS. It zooms by faster than the previous ones and hits the BSE SATELLITE. The satellite EXPLODES into hundreds of pieces and- A CHAIN REACTION takes place. The DEBRIS from the BSE satellite hits the WEATHER SATELLITE, and it EXPLODES, sending debris in all directions. A PIECE of the debris HITS the Hubble’s SOLAR PANELS, making a 12-inch HOLE on its golden surface.
+C: ATLANTIS CAP
+D: It’s going to take too long to get Ryan back with the arm.
+E: on radio
+C: MATT
+D: T’'ll go get her. Ryan, begin to unstrap!
+N: Matt starts PROPELLING himself toward Ryan as she begins to unstrap herself from the arm.
+C: MATT
+D: Come on, we have to go!
+E: CONT'D
+C: RYAN
+D: I’m going as fast as I can.
+C: ATLANTIS CAP
+D: Try using the relea... COMMUNTCATIONS ARE LOST as-
+E: on radio
+N: The SPACE SHUTTLE receives an IMPACT- a 6-inch wide hole in the middle of its back wing.
+C: MATT
+D: Atlantis is hit! Atlantis is hit on the back wing!
+N: Next to Ryan an IMPACT, the size of a bullet, punctures the Rubble. It 18 immediately followed by ANOTHER IMPACT, and- ANOTHER IMPACT. The surface of the telescope erodes with the impacts. Shariff is a couple of feet away from the airlock when - A piece of the debris HITS Shariff’s helmet, breaking through the glass and hitting his head like an expansive bullet.
+C: MATT
+D: Man down! Man down! Shariff's been hit!
+E: CONT'D
+C: RYAN
+D: Oh my God.
+N: Matt PROPELS himself toward Shariff, who is floating away from the Shuttle unconscious. The arm of one of the Hubble’s solar panels is SHATTERED, expelling a new shower of debris, shaking the structure of the telescope. This is followed by- Another IMPACT. A piece of debris HITS the robotic arm like a cannon ball and DETACHES it from the Shuttle. The broken piece of the arm SPINS AWAY from the Atlantis at a great speed with Ryan attached to it. INSIDE RYAN’S HELMET- The Earth and the Sun appear and disappear as the Shuttle recedes with every spin. A big piece of debris HITS THE HUBBLE. The top of the cylinder EXPLODES into more gebris, which is expelled in all directions. ON THE ARM- Ryan tries to release the tether that binds her to the arm, but the release isn’t working. She struggles to detach herself, her panic growing as she spins farther into the nothingness of space.
+C: RYAN
+D: Mayday! Mayday! I’m spinning away! Mayday!
+E: CONT’D
+C: MATT
+D: You have to detach yourself. Stone, detach now!
+E: on radio
+C: RYAN
+D: I’m trying. I’m trying! This thing’s stuck. 19,
+N: Ryan grabs a PISTOL SHAPED TOOL attached to her suit. She DRILLS at her waist, where the harness is attached. It is an uncomfortable position to hold the drill. And EVERYTHING IS SPINNING around. With every spin the Shuttle diminishes until it is nothing more than a tiny dot in the distance. The robotic arm spins with Ryan attached to it. She is DRILLING frantically, trying to break the harness. Ryan’s cool facade from earlier has completely melted away. The DRILL accidentally HITS the fabric of her suit. INSIDE THE HELMET- AN ALARM and a RED LIGHT in the monitoring system warn that PRESSURE and OXYGEN in her suit are beginning to drop.
+C: RYAN
+D: Oh, no! Shit, no. Ryan continues drilling at the harness, and finally-
+E: CONT'D under her breath
+N: THE HARNESS BREAKS. She PUSHES herself AWAY from the robotic arm and FLIES OFF in a new direction. The arm SPINS AWAY. OUTER SPACE. 630 KM ABOVE EARTH. Ryan floats, drifting into the empty darkness of space. She turns off the alarms but she does not have a propelling system and cannot alter her course.
+C: RYAN
+D: I'm detached and I’m floating away. I’m floating away.
+C: MATT
+D: In which direction?
+E: on radio
+N: Matt’s faint voice is heard on the transmission under a lot of static.
+C: RYAN
+D: I don’t know, away. Everything is black.
+N: Beneath her Earth seems still and very distant. Night is moving across the sphere. Matt's signal begins to break up, becoming fainter.
+C: MATT
+D: Calm down. You have to stay calm.
+E: on radio
+N: Breath slowly to preserve oxygen. Report your position.
+C: INSIDE THE HELMET-
+D: Ryan is panicking and begins to hyperventilate as she speaks.
+C: RYAN
+D: There’s nothing. There’s nothing. I’m drifting!
+C: MATT
+D: Do you have a visual of the Atlantis or the ISS? Matt's signal is growing even fainter.
+E: on radio
+C: RYAN
+D: I don’t know. Everything is moving. There’s no up or down. Ryan panics.
+C: RYAN
+D: I’m losing pressure. I can’t breath. I can’t breath. She inhales and exhales with guick short breaths-
+E: CONT'D
+C: AHHHH... OHHHH AHHHH... OHHHH
+D: Ryan’s eyes are wide open and desperate as-
+N: THROUGH THE HELMET- She sees her legs and arms float against the endless space. Her breathing accelerates.
+C: AHH... OHH... AHH... OHH
+D: AHH... OHH... AHH... OHH
+N: Her limbs look fragile against the black and incalculable void. AHH... OHH... AHH... OHH She inhales. AHH... And her throat closes. HH.. Her mouth is open, but she cannot exhale. THROUGH THE HELMET- She floats in the empty void, immeasurable expanses of black extend in front of her. A starry landscape changes constantly as she spins. She's not exhaling. Not a breath. As she spins, planet Earth comes into view. THE SUN SETTING in the Western Hemisphere. INSIDE THE HELMET-— She exhales. OHH.. And begins breathing deeply. AHHHHHAH... OHHHHAH.... As her breathing grows steadier, she begins to focus, her eyes searching the distance. A RAY of sunlight hits the surface of a metallic object in the distance and makes it gleam. It is- THE CHINESE SPACE STATION, a bright spec over the horizon.
+C: RYAN
+D: I can see... I think it’s... the... yes... it’s the Chinese Station... She concentrates hard, trying to make calculations.
+E: CONT'D
+C: RYAN
+D: It’s at... eight...
+E: CONT'D
+N: But it’s hard because she’s spinning.
+C: RYAN
+D: No, nine forty five...
+E: CONT'D
+N: The Sunset becomes visible.
+C: RYAN
+D: Sunset is at... at... Sunset is at two thirty... Yes... two thirty. The INTERNATIONAL SPACE STATION appears in the distance. And I see the International Space Station... I see the Space Station! It is... at eight o’clock.
+E: CONT'D
+N: Ryan takes a deep breath as the LAST RAYS of the sun disappear. The Station and the Shuttle fade into BLACK.
+C: RYAN
+D: Matt, do you copy?
+E: CONT'D
+N: Silence.
+C: RYAN
+D: Houston, do you copy?
+E: CONT'D
+N: THE SUN HAS SET COMPLETELY. The whole face of the Earth is in shadow. INSIDE THE HELMET-— She waits for an answer. The glow from the control panel under the visor is the only source of light against a darkness that is foreign and immense.
+C: RYAN
+D: Is anybody listening?
+E: CONT'D
+N: There is nothing but silence, complete and absolute. Ryan is calm.
+C: RYAN
+D: Please help me.
+E: CONT'D
+N: A soothing light hits Ryan’s face. THE MOON is riSing over the Pacific Ocean. It's almost full and its soft cool light pours over the globe, brightening the deep blue waters and- IN THE DISTANCE - A LIGHT, not bigger than a star, 18 FLICKERING. Ryan’s eyes focus on it. The light goes off and her despair turns to hope as she notices- A SMALL WHITE DOT approaching, lit by the moonlight. With a new burst of energy Ryan opens a pouch in her suit and takes out a FLASHLIGHT. She shines it toward the approaching dot.
+C: IN THE DISTANCE-
+D: A LIGHT shines back at her.
+N: A faint radio transmission comes in, sounds that are barely distinguishable as they rise over the static.
+C: MATT
+D: ». Stone.. Can you read me?
+E: on radio
+C: RYAN
+D: Matt...?
+N: The dot grows in size and the figure of an astronaut can be distinguished.
+C: MATT
+D: Can you read me?
+E: on radio
+C: RYAN
+D: Matt... this is Ryan... I copy you.
+N: Ryan begins to wave her hand, MATT {on radio) Good... please report your status.
+C: RYAN
+D: Um... There’s a rip in my suit. My pressure is dropping fast. I‘m alright. I’m alright.
+N: A figure is becoming clear now; it is Matt propelling toward her.
+C: MATT
+D: Can you locate the rip?
+E: on radio
+C: RYAN
+D: It's at my waist.
+C: MATT
+D: Put your hand over it and press against it as hard as you can.
+E: on radio
+C: RYAN
+D: I’m doing that.
+C: MATT
+D: What is your reading?
+E: on radio
+C: RYAN
+D: .30 psi, going down .01 every minute.
+N: Matt can be seen now closing the distance between them.
+C: MATT
+D: {on radio) Nearly there. Matt quickly grows in size and ARRIVES to Ryan.
+C: MATT
+D: Hello Lady, have you seen my dog?
+E: CONT'D
+C: RYAN
+D: What?
+C: MATT
+D: Are you okay?
+C: RYAN
+D: Aha.
+N: He hands her a TETHER.
+C: MATT
+D: Attach it to your suit.
+C: RYAN
+D: That’s a negative. Harness lock broken,
+N: MATT You’re losing pressure. We don’t have time to lose. Can you hold onto it?
+C: RYAN
+D: Yes.
+C: MATT
+D: Are you sure?
+N: Ryan quickly WRAPS the TETHER around her wrist.
+C: RYAN
+D: Yes. Yes.
+N: Matt ignites the propellers, pulling Ryan behind him. Ryan holds onto the tether with one hand, and with the other she presses against the rip in her suit. MATT (to the Shuttle) Atlantis, can you read me? This is Lt. Kowalski. The intercom is down but hopefully you’re receiving my AM transmission. I have retrieved Dr. Stone, and we’re making our way back to the Shuttle. The two figures, moving together, one behind the other, approach the Shuttle, which is just a small dot in the distance.
+C: MATT
+D: Do not send rendez-vous rescue Mission, but please make sure the airlock iS prepared for our arrival.
+E: CONT'D
+N: Silence.
+C: RYAN
+D: Can they hear you?
+C: MATT
+D: Let’s hope so. With all of these satellites down communication must be a nightmare on Earth.
+N: Matt gives the propellers a new thrust, pulling Ryan with him.
+C: RYAN
+D: The debris 1s on an orbital trajectory. It’s going to come back.
+N: Matt thinks about it. She’s right.
+C: RYAN
+D: Houston reported that it was traveling at fifty thousand miles per hour. At this distance from Earth -- we're looking at about -- 45 minutes -- at the most.
+E: CONT’D
+N: Matt reviews the math in his head quickly. Then-
+C: MATT
+D: Set up your stopwatch for forty.
+N: Ryan reaches for a digital watch strapped on her wrist and sets up the timer for- 40 MINUTES. He does the same. The COUNTER begins to go down as they travel along. Ryan has settled in a little. She looks at her surroundings. Then, to herself-
+C: RYAN
+D: What the hell am I doing here?
+C: MATT
+D: Did you say something, Stone?
+C: RYAN
+D: No.
+N: They make their way forward and the Shuttle begins to take form. It is still very small but its wings can be seen clearly from this distance.
+C: MATT
+D: How you doing, Stone?
+C: RYAN
+D: I’m okay.
+C: MATT
+D: Pretty scary shit being untethered up here, huh?
+C: RYAN
+D: No kidding.
+N: Matt points ahead.
+C: MAT?
+D: We’re almost there. Hold on.
+N: Matt gives one more thrust, pushing them ahead. The SHUTTLE is less than a mile away. The lights inside the cabin are on and shine out into the dark landscape. MATT (CONT'D) (to the Shuttle) Atlantis. Atlantis. This is Kowalski. We're about 500 meters away from you. The main cabin seems intact but the back wing has been badly damaged. The Shuttle is unusable for re-entry. We’ll have to make our way to the Space Station. The HUBBLE is completely destroyed, reduced to a piece of metallic structure and ripped solar panels. SHARIFF’s body floats motionless beside the unhooked tether, 300 meters away from the Shuttle.
+C: MATT
+D: I will retrieve the body of Shariff and bring it back to the Shuttle. Please prepare the airlock for re- entry in less than three minutes,
+E: CONT’D to the Shuttle
+N: As Matt nears the body of Shariff, he ignites the back propellers and slows down their course. He catches the tether hanging from Shariff's suit and continues toward the Atlantis, pulling Ryan and the body of Shariff behind him. Ryan can see- Shariff’s motionless, frozen DEAD FACE through the broken visor in his helmet, She fights her horrified fascination and looks away. She notices- A LAMINATED PHOTOGRAPH floats next to Shariff, tied to his suit with a small chain. It is a family portrait. Shariff Stands beside his WIFE, and TWO BOYS sit in front of them.
+C: RYAN
+D: I should've stopped working as soon as I was told.
+C: MATT
+D: We were going to be hit no matter what. There was nothing you could’ve done to change that.
+N: The photograph floats in the empty space with the Earth in the background. Ryan cannot take her eyes away from this image as- They arrive to the- SPACE SHUTTLE. OUTER HANGAR. 600 KM ABOVE THE EARTH. Where Matt abruptly stops the propellers as he sees that- A huge HOLE, more than one meter in diameter, punctures the left wall of the Atlantis. Several objects are floating out of it and into space.
+C: RYAN
+D: Oh my God!
+N: With a final thrust Matt pulls himself up next to the hole and grabs onto its edge. Ryan and Shariff's corpse BANG up against the surface of the Shuttle. She BOUNCES and lets go of the tether. She begins to FLOAT OUT into space. A HAND reaches out, grabbing her by the leg. Matt pulls her back and Ryan holds onto the edge of the hole.
+C: MATT
+D: I can't make it through the hole with the propelling unit. You go inside and check on the crew.
+N: She nods and makes her way into- SPACE SHUTTLE. 600 KM ABOVE EARTH. Ryan enters through the hole. Inside the ship objects drift in chaos. She floats her way to the front of the vessel. As she arrives to the COCKPIT, she sees the body of an astronaut floating, motionless. Ryan lets out a cry-
+C: RYAN
+D: Denis is dead, he's dead.
+N: At the end of the cabin, among the floating objects, another body is drifting.
+C: RYAN
+D: And Arlene - they‘re dead. They’re both dead.
+E: CONT'D
+C: MATT
+D: Calm down, calm down. What about the cabin?
+E: on radio
+N: The cabin has been destroyed. A disarray of objects, smashed and devastated, float among the wreckage of machinery and lifeless bodies.
+C: RYAN
+D: The cabin is gone, it’s all gone. It’s all shit.
+C: MATT
+D: Listen to me. You have to stay calm. You have to get some duct tape to cover your rip. Look in the toolboxes. Hurry.
+E: on radio
+N: INSIDE THE HELMET- The monitors show- OXYGEN LEVEL- 8 percent. PRESSURE- 0.25 bars and dropping, reaching RED on the graph.
+C: MATT
+D: Houston, Houston, this is Lt. Kowalski of STS- 116 reporting. The Shuttle has been hit. Repeat. The Atlantis has been hit.
+E: CONT ’D on radio MORE
+C: MATT
+D: Denis, Arlene and Shariff are all down. Ryan and I are the sole Survivors.
+E: CONT'D
+N: Ryan exits the cockpit into the- LOWER DECK- Everything inside the Shuttle is drifting in confusion. She reaches a panel with drawers. Most of the drawers are open and their contents are hovering around. As she searches through the drawers, looking for the tape, more objects float out. The chaos inside the Atlantis grows.
+C: MATT
+D: Space Station, this is Kowalsky. It is vital that you prepare the Soyuz escape pods. I repeat. Prepare the Soyuz escape pods, they’re our only chance for re-entry to Earth.
+E: on radio
+N: INSIDE THE HELMET- The pressure keeps dropping as Ryan searches through the objects.
+C: RYAN
+D: I can’t find it. Everything's a mess in here.
+C: MATT
+D: It’s in a red case.
+E: on radio
+N: Ryan looks around the cabin and finally spots a red case floating at the other end. She moves across the cabin toward it. She grabs the case but realizes that all the objects inside have flown out. She turns around, desperately looking for the tape, but she can’t find it.
+C: MATT
+D: Here, here it is.
+E: CONT'D
+N: Matt is outside the hole in the fuselage. His arm is stretching inside, trying to grab the roll of tape which is floating by, just beyond his reach. The tips of his fingers brush against the tape, making it roll. Ryan quickly makes her way to the tape and grabs it. She tries to peel away the end of the tape, but it is impossible with her bulky gloves.
+C: RYAN
+D: I can’t lift the edge with these gloves on.
+C: MATT
+D: Find a tool.
+N: Ryan looks around the floating objects and grabs a ruler.
+C: MATT
+D: Come, I’ll hold the tape for you.
+E: CONT'D
+N: Matt helps Ryan to hold the tape as she uses the ruler to lift its edge. She finally succeeds in pulling it up enough to tear off a piece.
+C: RYAN
+D: Got it.
+N: She patches up the rip and tears off another piece.
+C: RYAN
+D: The rip is patched.
+E: CONT'D
+C: MATT
+D: Listen. We have to reach the Space Station. Are you following me?
+C: RYAN
+D: Uh huh.
+N: Matt passes her the safety tether.
+C: MATT
+D: You’re going to tie this tether very tightly. Do you copy me?
+C: RYAN
+D: Yes.
+N: Ryan begins to tie the tether.
+C: MATT
+D: Space Station. Space Station. This is Lt. Kowalski reporting from Hubble Site.
+N: (MORE )
+C: MATT
+D: Dr. Stone and I are making our way to you with my Propelling Unit. If you're receiving this, please send a rescue mission. Repeat. Please send Rescue mission.
+E: CONT'D
+N: Ryan has finished securing the tether and begins exiting through the hole in the fuselage. She stops. Leaning out, she seems hesitant to leave the confined space and to throw herself once more into the immense void.
+C: MATT
+D: Have you secured the tether?
+E: CONT'D
+C: RYAN
+D: Yes.
+C: MATT
+D: Come on.
+N: And, like diving into a pool of water, with one push she enters- OUTER SPACE. SPACE SHUTTLE. 600 KM ABOVE EARTH. Ryan slowly drifts away from the Atlantis but is suddenly stopped by the safety tether. Matt finishes strapping Shariff to the surface of the Shuttle and points into the distance.
+C: MATT
+D: Okay, that’s where we want to go.
+N: Ryan looks up and sees a bright dot. It is the Space Station.
+C: MATT
+D: Are you feeling better?
+E: CONT'D
+C: RYAN
+D: Yeah.
+C: MATT
+D: Ryan?
+C: RYAN
+D: Uh huh?
+N: MATT We‘re going to make it to that Station. Ryan nods, reassured. Matt ignites his propellers and shoots forward, passing ahead of Ryan and pulling her behind him. The two astronauts push forward together, leaving behind the shell of the Shuttle and the remains of the Hubble. They are heading toward a small point in the distance, the Space Station, which is in a lower orbit. OUTER SPACE. 550 KM ABOVE EARTH We see the two astronauts crossing the distance - a thrust, and they coast ahead, and then another thrust. Matt pulls Ryan behind him. Two specks glide across the dark sky as a sliver of light grows on the darkened hemisphere. THE SUN IS RISING. THE SUN looks brighter and clearer than ever outside of Barth’s atmosphere. The oceans and continents brighten as the sun's light spills over the Earth. Warm rays of sun caress the two astronauts as they propel themselves across the empty expanse.
+C: MATT
+D: It’s beautiful, isn’t it?
+C: RYAN
+D: What?
+C: MATT
+D: That sunrise.
+N: But Ryan is not into the view right now.
+C: MATT
+D: What do you do back home for fun?
+E: CONT'D
+C: RYAN
+D: Ehhh?
+C: MAT?
+D: For fun, Dr. Ryan. You’ve heard of fun?
+N: RYAN Oh -- IT don't know.
+C: MATT
+D: Is there a Mr. Dr. Stone?
+C: RYAN
+D: What? No.
+N: Ryan is breathing hard. MATT Kids? RYAN No. I have... I have a dog. MATT What kind of dog? She’s out of breath, so talking is difficult.
+C: RYAN
+D: Just a -- a dog. A regular dog.
+C: MATT
+D: Is it one of those little dogs you girls like to have?
+N: She is catching her breath and does not answer.
+C: MATT
+D: I bet it has a name like Teacup.
+E: CONT'D
+N: Her awkward smile tells us that it’s even worse.
+C: MATT
+D: Yeah. I bet it is Teacup. It’s male but you neutered him. He sleeps in your bed. You have special wipes for his behind. How am I doing? It’s close to home. She says nothing. Matt laughs.
+E: CONT'D
+N: MATT (CONT'D) Hey -- as long as you don’t share a toothbrush, right? You share a toothbrush?! She’'s silent. Matt stretches his arm so he can look at Ryan on the REAR VIEW MIRROR attached to his sleeve.
+C: MATT
+D: Ryan. Are you with me?
+E: CONT'D
+C: RYAN
+D: Eh? Aha.
+N: Ryan is breathing heavily. Matt tries to keep her focused.
+C: MATT
+D: What’s your reading?
+N: Ryan does not respond.
+C: MATT
+D: Ryan, what's your pressure reading?
+E: CONT'D
+C: RYAN
+D: Oh... O.195 bars.
+C: MATT
+D: Inject Oxygen into the suit
+N: immediately. Get your pressure up to 0.2. Ryan presses a button on the control panel by her chest and oxygen flows into her suit. The pressure begins to rise.
+C: MATT
+D: Hey, are you still with me?
+E: CONT'D
+N: But Ryan is still dizzy.
+C: RYAN
+D: Aha... aha...
+C: MATT
+D: Let it flow until its .2 bars. Don’t over do it. We don’t have much oxygen left.
+N: INSIDE THE HELMET-— The graph shows her pressure slowly rising, but- OXYGEN LEVELS- Go down to 4 percent.
+C: MATT
+D: Do you want to hear a dirty joke?
+E: CONT'D
+C: RYAN
+D: What?
+C: MATT
+D: I got your attention, huh?
+N: They cruise toward the Space Station. From here the solar panels are already distinguishable from the rest of the structure.
+C: RYAN
+D: .2 bars.
+C: MATT
+D: Good, switch it off. Feeling a little better?
+C: RYAN
+D: Yeah.
+C: MATT
+D: What's your oxygen reading?
+C: RYAN
+D: Three percent.
+N: Matt gives a thrust and checks- THE REAR VIEW MIRROR- Where Ryan is pulled behind him. She is beginning to catch her breath, but is still sweating and clearly dizzy.
+C: MATT
+D: You know why the blind don’t sky dive?
+C: RYAN
+D: What? Why?
+C: MATT
+D: Because it scares the shit out of the dog.
+N: Something like a laugh comes out of her throat as she’s gaining breath. Ahead- Matt pulls her along, seemingly defiant against the void,
+C: RYAN
+D: You’re not scared?
+C: MATT
+D: Scared? No. Scared shitless. But that’s not the point. We fight to get back and we make it back, okay?
+N: A beat.
+C: RYAN
+D: Okay.
+N: MATT LOOKS AHEAD-— The Station is ten miles away, but even from here it looks large. On one of its modules a SMALL ROUND OBJECT is moving and detaching from the rest of the Station.
+C: MATT
+D: You see that? Look at the Docking Module. The Soyuz - they're sending a rescue mission.
+N: The Soyuz, a Russian Spacecraft used in emergency evacuations, begins to float away from the Station. MATT (CONT'D) (to ISS) Space Station, this is Matt. I can see the Soyuz detaching from the Station. Rescue mission is greatly appreciated. We are ten miles East of you, with Sunrise at nine thirty. The two of them are clearly relieved.
+C: MATT
+D: You see, they’re coming. And its a good thing too, I don’t think my fuel would’ve made it all the way there.
+E: CONT'D
+C: RYAN
+D: Now you tell me.
+C: MATT
+D: I didn’t want to worry you.
+N: Now the Station is even closer and the Soyuz can be easily seen. It is undocking and giving a thrust with its lateral propellers, spinning the capsule into position.
+C: MATT
+D: How’s your pressure?
+E: CONT'D
+C: RYAN
+D: Not good. Not good.
+C: MATT
+D: We're almost there.
+N: A big flame shoots out from the back of the Soyuz, launching it forward into space.
+C: MATT
+D: Here they come.
+E: CONT'D
+N: The Soyuz has gained speed, clearly taking a downward trajectory.
+C: MATT
+D: Shit.
+E: CONT’D
+C: RYAN
+D: What?
+N: The Soyuz cruises towards the Earth’s atmosphere. Matt almost yells:
+C: MATT
+D: Hey! Hey! Get back here, you sons of bitches! God damn it! Come back!
+C: RYAN
+D: What’s going on?
+C: MATT
+D: They're not coming for us.
+C: RYAN
+D: What?
+C: MATT
+D: The Soyuz is heading back to Earth.
+C: RYAN
+D: They can’t. What about...
+N: Ryan is having difficulty breathing due to the low pressure in her suit.
+C: MATT
+D: Don’t worry. There’s another Soyuz at tne Station.
+C: RYAN
+D: You said we didn’t have enough fuel.
+C: MATT
+D: Yes, that could be a problem. I’m going to give a big thrust and hope that we aim just right. There’s not going to be much fuel for repositioning. Hang in there.
+N: He gives a SMALL THRUST to position himself in the right direction.
+C: MATT
+D: Ready?
+E: CONT’D
+C: RYAN
+D: Uh huh.
+C: MATT
+D: Here we go.
+N: He holds this SINGLE THRUST for longer than all of the previous ones, immediately gaining speed, floating straight toward- THE SPACE STATION-~ Which is half a mile away, and now all of its modules are clearly visible. It also becomes clear that- IT WAS HIT BY THE DEBRIS. The surface of a module is badly scratched and some solar panels have been ripped.
+C: MATT
+D: Houston, this is Matt reporting. We’re approaching the Western face of the Station. The solar panels were badly hit. Station must be running on the energy reserve.
+E: CONT'D to Houston
+N: INSIDE THE HELMET- A new alarm begins to beep showing that her suit’s pressure levels are reaching RED.
+C: RYAN
+D: The pressure is down to 0.185 again.
+N: MATT Pump the remaining Oxygen. 4Q.
+C: RYAN
+D: There’s nothing left.
+C: MATT
+D: Hold on. We’re nearly there.
+N: She's losing her breath.
+C: RYAN
+D: Shouldn’t we be turning now?
+C: MATT
+D: Not yet. We have to wait. We only have one more thrust.
+N: They approach the Space Station, which is just ahead of them and a hundred meters below. THE SECOND SOYUZ becomes visible, attached to the Station's Docking Module. A piece of red and white fabric floats around the spherical capsule.
+C: MATT
+D: Shit.
+E: CONT’D
+C: RYAN
+D: What?
+C: MATT
+D: The parachute of the second Soyuz has been deployed. Debris probably triggered the release mechanism. It’s unusable for re-entry.
+C: RYAN
+D: But... What?
+C: MATT
+D: First let’s worry about getting you back inside. She’s sweating and starts to hyperventilate. The Station is passing beneath them. It looks as though they're going to pass the Station and continue into the empty void ahead.
+N: She tries to speak, but her voice doesn't come out.
+C: MATT
+D: And... Now!
+E: CONT'D
+N: He gives one more thrust, making a sharp turn that sends both of them straight down toward the Station. They approach the Central Area of the Station. They’re going very fast.
+C: RYAN
+D: Brake... brake... brake!
+C: MATT
+D: I’m out of propulsion. Prepare for a hard collision and hold onto whatever you can!
+N: Matt is the first to COLLIDE against it. The wall immediately stops his trajectory. Ryan passes, flying above him, and hits the roof of the Station. The tether breaks as it pulls Matt, who follows Ryan's momentum. She ROLLS over- The roof of the Space Station. With every tumble she attempts to grab hold of the handles and rods that stick out from the surface of the modules, but she’s rolling too quickly. INSIDE THE HELMET- The Heavens, the Earth and the surface of the Station pass in and out of her sight as she tumbles across the modules. She bounces across the Station, each bounce bigger than the last and threatening to send her flying off into space. As she rolls, she can see, for a moment, Matt behind her, also bouncing and trying to grab onto the Station. She’s guickly reaching the end of the Station, there is only one handle left ahead, her last chance before floating away into the black void. She extends her arm in mid roll and GRABS the handle tightly for dear life. The force flips her 180 degrees and- SHE STOPS. She’s holding onto the handle. INSIDE THE HELMET- Pressure not doing well. She looks up and sees- Matt is bouncing straight toward her and- He COLLIDES against her. For a moment they are face to face, only the glass of their headgear separates their faces. But she loses her grip on the handle and the impact projects her into the emptiness. Drifting away from the Station, she sees- The infinite black void ahead of her and- HER FOOT GETS STUCK IN THE PARACHUTE. It becomes tangled in the strings and fabric, slowing her down. Ryan is panting, her face covered in sweat. She turns back and sees- Matt drifting in her direction. She stretches out her arm. Matt's arm is also outstretched.
+C: MATT
+D: Give me five here, Dr. Stone.
+E: CONT’D
+N: He’s trying to make light of it, but he’s really struggling to reach her. Ryan stretches farther. Matt’s hand comes closer to hers. The tips of their fingers are almost touching.
+C: RYAN
+D: I‘ve got you. I’ve got you.
+N: The very tips of their fingers touch -- BUT THEY MISS. Matt passes by her and continues floating away. 43,
+C: MATT
+D: Missed ya.
+N: And SHE STOPS as the parachute tenses. And with the breath that she has left, she mutters-
+C: RYAN
+D: Come back... Please come back!
+C: MAT?
+D: No can do.
+C: RYAN
+D: What? No. No}
+N: Matt drifts away from the Station into the empty space. Ryan is paralyzed with horror. A few moments of silence.
+C: MATT
+D: You have to make your way into the Station...
+E: on radio
+N: Ryan is frozen stiff.
+C: MATT
+D: Now! You have to make your way in before you faint. Move!
+E: CONT'D on radio
+N: She grabs hold of the fabric and begins climbing through the parachute. The transmission becomes weaker, filled with STATIC.
+C: MATT
+D: It’s only a matter of minutes before the debris hits again. You have to use the Soyuz and get out of here.
+E: CONT‘D on radio
+N: He stretches his arm, pointing at something in the distance.
+C: MATT
+D: Listen, do you see the Chinese Station over there? 44,
+E: CONT'D on radio
+N: Ryan has reached the Soyuz and stops to look toward the East where- A small bright spec glitters in the distance, several hundred miles ahead of them orbiting the Earth. It is the Chinese Space Station.
+C: RYAN
+D: Uh huh... I see it.
+N: She’s breathing frantically.
+C: MATT
+D: The Chinese Station should have a lifeboat. Take the Soyuz there.
+E: on radio
+N: Ryan doesn’t know what to say and is silent.
+C: MATT
+D: Did you copy me?!!!
+E: CONT'D on radio
+N: She’s out of breath and speaks softly.
+C: RYAN
+D: Yes.
+C: MATT
+D: Do you copy?
+N: Louder-
+C: RYAN
+D: Yes. Yes.
+N: She begins to climb over the Soyuz toward the Station.
+C: MATT
+D: The Chinese re-entry lifeboat is a Shenzhou, its re-entry procedure should be very similar to the soyuz's. You know how to fly a Soyuz, right?
+E: On radio
+C: RYAN
+D: Only on a simulator.
+C: MATT
+D: That’ll have to do.
+C: RYAN
+D: I don’t know if... I don’t know if I can do that. In training I wasn’t that good at...
+C: MATT
+D: Don’t be a baby. Ryan, do you hear me? Repeat what I said. Repeat what I said... Repeat what I said!
+E: on radio
+C: RYAN
+D: Take the Soyuz, go to the Chinese Station, use their re-entry lifeboat.
+E: out of breath
+N: A beat.
+C: MATT
+D: Good. And now shut up and let me enjoy the view. I only have three and a half minutes of oxygen left.
+E: on radio
+N: Matt‘s tiny figure in the distance seems vulnerable and isolated, surrounded by the vastness of space. The solitude is terrifying. Ryan is frozen there, watching him drift away. It’s mesmerizing.
+C: MATT
+D: Don’t let me down, Dr. Stone.
+E: CONT’D Out of breath
+N: Matt keeps falling farther into the distance, a white speak in a sky of stars.
+C: RYAN
+D: Matt?
+N: There’s no answer.
+C: RYAN
+D: Matt?
+E: CONT'D
+C: SILENCE
+D: The transmission is gone. INSIDE THE HELMET-
+N: Ryan is dizzy, sweating, and having trouble focusing. She sees Matt- Nothing more than a dot. She stretches her hand toward him, as if trying to touch him with the tips of her fingers. But the dot has already vanished into never-ending darkness. EVERYTHING IS BLURRED. Ryan is about to lose consciousness. She takes one deep breath as she opens her eyes widely. If she doesn’t move, she’ll die. Ryan pulls herself forward, reaching for a handle on the Soyuz. She grabs it and reaches for another, climbing her way toward the Station’s Docking Module, never losing her grip. In space this task doesn’t require much strength because there is no gravity to hold her down, but it does require focus. AND EVERYTHING IS LOSING FOCUS. As her right hand is reaching for the handle on the Docking Module, everything becomes a blur- AND SHE MISSES. She is left hanging, grabbing onto the handle at the end of the Soyuz. INSIDE THE HELMET - She pants, exhausted, trying to stay focused. She mumbles words that are unintelligible. She reaches up again, almost blindly. Her hand grips the handle, and Ryan pulls herself up onto the Docking Module. She reaches for one more handle, and as she pulls herself up, she sees- The AIRLOCK is at the end of the Docking Module. It is not even twenty meters ahead, but- INSIDE THE HELMET- Her brain is shutting down from lack of oxygen. She struggles to open her eyes and with one huge effort- She sprints across the Docking Module, swinging from handle to handle, in one continual push, until she reaches the- AIRLOCK. She stops, takes one deep breath and- She turns the latch and OPENS the re-entry hatch. The hatch BLOWS OPEN as the air inside the cabin escapes into the vacuum, almost throwing Ryan back into space, but she holds tightly onto the latch. She hangs outside, trying to gasp the last breath of oxygen inside her life system. She sees her feet dangling against the emptiness of space and- With one last effort, she pulls herself into the airlock. AIRLOCK MODULE. INTERNATIONAL SPACE STATION. 500 KM ABOVE EARTH. As she enters she does a 180-degree flip. As soon as her legs are in, she grabs onto the latch, and- CLOSES THE HATCH. She turns the latch and- THE CABIN IS SEALED OFF. INSIDE THE HELMET-~ Ryan is suffocating. With very little oxygen and her body intoxicated by the nitrogen in her blood, her breathing is coarse and painful. She can hardly keep her eyes open, and she pushes herself through the cabin, an empty cylinder lit by two circular mercury lights. She reaches the- STS CONTROL PANEL, a small computer with a screen that monitors the atmospheric and temperature levels inside the airlock. She presses a button on the panel and- THE CABIN BEGINS TO PRESSURIZE. A low hissing sound can be heard as the tanks in the Station begin pumping pure oxygen into the airlock. The control panel’s monitor shows the atmospheric levels slowly rising. INSIDE THE HELMET~ Ryan gasps for air, but there is none. She stares at the red-orange-green graph in the control panel showing the atmospheric levels. It reads red. Her pupils begin to dilate as- SOUND BEGINS TO SURFACE- In the vacuum of space there was nothing to carry sound waves, but now sound begins to travel through the oxygen that slowly fills the cabin. A muffled beeping sound intermittently penetrates the airlock, anxious and halting. The Control System’s graph slowly moves from red to orange. The cabin is still not fully pressurized. But that will have to do. With one sharp motion- SHE TAKES OFF HER HELMET-— And pushes it from her head. She gasps for air and coughs. She contorts and shakes, fighting to breath in the thin atmosphere of the airlock. Her helmet bounces around the walls of the cabin, floating. The beeping sound has become clearer and recognizable - it is an alarm ringing out across the Station. Orange is turning to green. Her lungs begin to absorb the oxygen and her breath becomes more even. Her body floats, relaxed in the confined space of the airlock. SHE FLOATS. Ryan brings her hands together and removes one glove. And then the other. Desperately, she begins to unscrew the lock near her waist. She squirms under the suit and pushes off the upper half. Then she throws off the lower half, squirming out of it, desperate to be free of the claustrophobia. Wearing only underwear and a t-shirt, she floats in mid-air, relieved and exhausted. The hum of the Space Station surrounds her. She brings her arms and knees to her chest and floats ina fetal position. OUTER SPACE. 500 KM ABOVE THE EARTH. SILENCE. The International Space Station, with its modules, its torn solar panels, and the Soyuz with its parachute billowing out from its center, is dwarfed against Earth’s orb and the infinite universe stretching out beyond. The Station looks frail and secluded, lost somewhere between the grandness of the Heavens and the Earth below. Everything is still. INTERNATIONAL SPACE STATION. ZVEZDA MODULE The module is like a wide corridor filled with cabinets, a small eating area and a small gym. An ALARM'S STACCATO reverberates across the station and only the emergency lights are working. At the end of the module there is an open circular hatch leading into the- UNITY NODE 1. A spherical space with three hatches, each leading into different modules. A faint haze of SMOKE fills the node, A HATCH OPENS and- Ryan floats in. She stops at the center and holds onto a handle. She's holding the digital watch with one hand as- She looks through~ THE THREE HATCHES-— The one BELOW- Leads to a module where the SOYUZ is docked. To the LEFT- Is a thirty-meter long corridor comprised of two joined modules - the ZVEZDA, which serves as a canteen and living quarters, and the ZARYA, with the communication and navigational systems. To her RIGHT- The SMOKE is coming in through the hatch that leads to the Laboratory Section. She launches herself in that direction, into the- DESTINY LAB MODULE. The CLOUD OF SMOKE is denser here.
+C: RYAN
+D: Hello?
+N: No answer. Ryan enters and makes her way through the tunnel-shaped module. She reaches a CLOSED HATCH at the opposite end of the lab which leads to the JAPANESE MODULE. She carefully touches its metal surface. She pulls back - the METAL IS HOT! The module on the other side of the hatch is in flames.
+C: RYAN
+D: Damn!
+E: CONT’D
+N: She turns around and with one push floats across the lab and into the- UNITY NODE As soon as she’s all the way in, she CLOSES the hatch and, turning the latch, she shuts it tightly. She continues to the- ZVEZDA MODULE. There are sleeping bags fastened to the walls. Clothes, shoes, a strip of three condoms -- all kinds of personal objects float in chaos around the module. It’s clear that someone left in a hurry. Ryan passes a stationary bicycle and reaches for a metal cabinet on the wall. She OPENS drawers, looking for something.
+C: RYAN
+D: Come on, come on. Don’t tell me you
+N: took it all with you. She finds what she’s looking for: a BAG OF WATER with a straw at one end. She unscrews the top and begins to drink from it. She DRINKS in long gulps, squeezing the bottle, trying to quench her thirst. DROPS FLOAT out of her mouth as the water overflows. They float around her face like perfect pearls of different sizes. She takes a pause from drinking to catch her breath. The water is cooling her down, but she still takes another long, thirsty gulp and empties the bag. She checks the count on the STOPWATCH- 14 minutes. She takes a new bag of water from the drawer, and pushing herself off of a wall, she dives into the- ZARYA MODULE. The walls are filled with electrical equipment and wires. Without slowing down her momentum, she floats to the- MAIN CONSOLE- A large deck which houses all of the communication and navigational systems. On the opposite wall there is a LARGE PORTHOLE through which Earth is clearly seen. She begins to PUSH BUTTONS. COMPUTERS COME TO LIFE-
+C: RYAN
+D: Aha. Here we go.
+N: A screen Shows a- GRAPH OF THE STATION- It displays different measurements that report the status of all the different modules. The Japanese Module REPORTS A FIRE. Ryan puts on a communications headset.
+C: RYAN
+D: Houston, Houston. This is ISS. Over.
+E: CONT'D
+N: She drinks from her bag of water. There is no signal coming through.
+C: RYAN
+D: Houston. Houston, this is ISS. Over.
+E: CONT'D
+N: She waits. There is nothing, only the relentless ringing of the alarm. She pushes a button that shuts it off. Everything becomes very quiet.
+C: RYAN
+D: Houston, this is Dr. Ryan Stone. I’m not getting any response, I hope that someone is receiving this-
+E: CONT'D
+N: She pauses.
+C: RYAN
+D: A Soyuz undocked twenty minutes ago and left the Station in re-entry mode. I presume that Dr. Hayes and Lt. Sidorovy evacuated on it.
+E: CONT'D
+N: She takes a gulp of water as she slowly drifts to the PORTHOLE, out of which the Earth is seen.
+C: RYAN
+D: Except for me, all the other astronauts from the mission are down. Dr. Dasari, Captain Evans, and Captain Rosenthal are all down.
+E: CONT’D
+N: She clears her throat. RYAN (CONT’D) Lt. Kowalsky went down while saving my life. Ryan fights back tears. She has reached the porthole. Outside, a third of the hemisphere is in complete darkness.
+C: RYAN
+D: I need to evacuate the Station. There is a fire in the Japanese Lab, and the debris could hit again at any moment.
+E: CONT'D
+N: A typhoon is forming over the Pacific.
+C: RYAN
+D: The second Soyuz’s parachute is out and I can not use it to land on Earth, but I can use it to reach the Chinese Station.
+E: CONT’D
+N: The Chinese Station is barely visible from here as it orbits over the Northern Hemisphere, where the Aurora Borealis performs its ghostly dance over the Arctic. Ryan’s FACE is REFLECTED in the porthole, SUPERIMPOSED over the EARTH. Her eyes stare out hopelessly. Help is so far away. There is only the murmur of the Station. She pleads.
+C: RYAN
+D: Houston? Houston, do you read me?!
+E: CONT'D
+N: She listens carefully, but the only sound coming in through the radio is static. With a sharp burst of anger she throws the headset. It bounces off the floor and floats up. This form of therapy sooths her. She grabs the bottle of water and throws it with all her strength. The force pushes her in the opposite direction. The bottle of water bounces around the module, knocking things in its path. Objects float in chaos through the confined space. This is making her feel better, so she reaches for a binder and throws it up and- It crashes against the ceiling. Sheets of paper and a pen are expelled in all directions. She swats floating pieces of paper angrily until- The pen bounces off the control panel and floats spinning directly at Ryan. She stretches her arm and catches the pen in mid air. She is ready to throw it to the floor when- An ALARM goes off. Ryan reacts immediately and checks the- GRAPH OF THE STATION- The fire has expanded from the Japanese Module to the Destiny Lab. She closes her eyes for a moment, tired. Does it ever end? Ryan presses different buttons and commands on the panel, re- activating systems. LIGHTS come on in the module as she pushes herself straight to the hatch, exiting into the- ZVEZDA MODULE LIGHTS begin to FLICKER as they come to life. Ryan crosses the module She grabs a BAG OF WATER floating next to the open cabinets and continues to the other end, where smoke is coming from the- UNITY NODE. The spherical cabin is now filled with THICK SMOKE and BLUE FLAMES rise from the ducts, rapidly growing. THE FIRE IS EXPANDING, blocking her way to the Soyuz. Ryan reaches for a FIRE EXTINGUISHER on the wall of the module. The round blue flames caress her as- She points the nozzle at the fire and SPRAYS. With no gravity to hold her down, the force of the spray SENDS HER FLYING BACK and- SHE CRASHES AGAINST A WALL. The fire extinguisher bangs against her face and CUTS HER LIP. DO. The impact is so strong that it almost knocks her out. Her eyes fill with tears but she reacts. There’s no time to lose. She fastens her feet to a strap on the floor, and- SPRAYS the extinguisher at the fire. The cloud of white dust expands through the module, pushing the fire back, and she dives into the- DOCKING MODULE. Making a fast turn, Ryan grabs the latch. The FLAMES are trying to force their way in. She closes the hatch. THE CABIN IS SEALED OFF. But some FLAMES have managed to get in and quickly spread through the module. She throws the extinguisher into the Soyuz. She unharnesses one of the SPACE SUITS propped against the wall and- She sends it floating into the Soyuz. THE FIRE EXPANDS, consuming the module. She dives into the- SOYUZ. AIRLOCK, Ryan crashes against the Space Suit floating inside. She needs to close the hatch before the fire reaches the cabin, but she’s tangled up with the empty suit. Struggling, she manages to turn as- THE FIRE is spreading outside in the module, sucking the oxygen out of the Soyuz. Ryan, faster than fire, closes the hatch. THE SOYUZ IS SBALED OFF. She closes a second hatch, and the Soyuz is safe. She exhales in RELIEF.
+C: RYAN
+D: Now -- that wasn’t so bad, was it?
+N: A RUMBLE in the Station makes the Soyuz quake. The extinguisher is blocking her path to the hatch and Ryan has to push it into the cabin as she darts toward the- SOYUZ. CONTROL CABIN. There is just enough space for three astronauts to sit surrounded by the CONTROL PANEL that navigates the vessel. Ryan sits down in the command chair. She fastens the safety belts, securing herself tightly to the seat, and- PRESSES different buttons on the board above her. Lights turn on and it is possible to hear the Soyuz’s systems starting up. Another RUMBLE in the Station. She PRESSES buttons to her left, and- THREE MONITORS TURN ON, showing detailed angles of the undocking maneuver. Above her three portholes give a partial view of the outside. She releases the safety lock on the undocking button.
+C: RYAN
+D: Okay.
+N: AN EXPLOSION in the Station makes everything shake. The vibration passes through her body, startling her. She puts her finger over the button.
+C: RYAN
+D: And... go!
+E: CONT'D
+N: SHE PRESSES and- ON THE MONITORS- The locks securing the Soyuz to the Station DISENGAGE. The SOUND of a mechanism releasing reverberates throughout the vessel. OUTER SPACE. INTERNATIONAL SPACE STATION. 500 KM ABOVE EARTH. SILENCE A SPRING MECHANISM pushes the Soyuz away from the Station. SLOWLY VERY SLOWLY The distance between the Soyuz and the Docking Module grows little by little as the vessel drifts freely into outer space. The Spacecraft is made out of three modules. The propellers, the control cabin, and the airlock at the front. As the Soyuz separates from the Station, it drags its parachutes, which float lifelessly in space.
+C: SOYUZ. CONTROL CABIN.
+D: Detached from the Space Station, the rumbling has ceased, leaving only the gentle hum of the cabin. Ryan sits tensely, looking at-
+C: THE MONITORS-
+D: The Space Station is slowly drifting away. Ryan checks her STOPWATCH- 6 minutes. She presses different buttons on the board, bringing to life a new set of systems. The SOUND of the main propulsion engines is heard as they activate in preparation for launch. She puts on the communications headset.
+C: RYAN
+D: Houston, this is Dr. Ryan Stone from the Atlantis mission.
+N: Steam comes out of her mouth as she exhales. She checks the TEMPERATURE DIAL, 6 degrees.
+C: RYAN
+D: I‘m in the Soyuz Emergency Capsule. I have just disengaged from the ISS. I’ll engage lateral propellers in...
+E: CONT'D
+N: She pushes two more buttons, grabs a joystick with her hand, and- She presses on the joystick. OUTER SPACE. 500 KM ABOVE THE EARTH. The lateral propellers give a small thrust. It is a very small one, just enough to move the spacecraft away from the Station. But the thrust has upset the parachutes, causing them to billow out in different directions. One of the parachutes wraps its fabric around one of the Station’s solar panels. THE PARACHUTE TANGLES. And as the Soyuz pulls away of the Station, the parachute’s ropes tense. SOYUZ. CONTROL CABIN. Ryan is busy checking on the navigational system when- A BIG JOLT. Her seat belts prevent her from being projected forward as the Soyuz is pulled to a sudden stop. OUTER SPACE. 500 KM ABOVE THE EARTH. The ropes, stretched taut and tense, have brought the Soyuz to a sharp halt. The force of the pull draws the Station and the Soyuz floating toward each other. SOYUZ. CONTROL CABIN. Ryan is very confused, unaware of the reason for the sudden stop. She looks at- THE MONITORS- The Station is coming at her.
+C: RYAN
+D: Oh, no. No, no, no.
+N: She immediately inputs a new set of commands on the control panel. AN ALARM SOUNDS. ON THE MONTTORS- The Station is coming closer, and it looks as though- THEY’RE ABOUT TO COLLIDE. She presses the joystick. OUTER SPACE. 500 KM ABOVE THE EARTH. The Station 1s barely three meters away when the Soyuz’s PROPELLERS ignite, launching it upwards. The Soyuz skims just over the Docking Module and passes three inches away from the solar panels, barely avoiding a collision with the metal giant. And as the Soyuz drifts upwards, the Station passes under it.
+C: SOYUZ. CONTROL CABIN.
+D: Now Ryan can see through- THE PORTHOLE-
+N: The parachute is tangled with a solar panel and the ropes are tensing up, and- SHE'S SHAKEN BY A NEW PULL. OUTER SPACE. 500 KM ABOVE THE EARTH. With the parachute entwined with the solar panel, the Station is now TOWING the Soyuz in its path. SOYUZ. CONTROL CABIN. She looks out at- THE PORTHOLE- The rope extends from the cabin to the parachute tangled with the Station. OUTER SPACE. 500 KM ABOVE THE EARTH. SILENCE The Station hovers below the Soyuz like a large whale swimming beneath a tiny lifeboat.
+C: SILENCE
+D: The HATCH of the Soyuz OPENS.
+N: Ryan comes out of the craft into space. She’s wearing the Space suit she packed and she carries a large bag. She holds onto handles as she floats, SAFELY TETHERED to the inside of the cabin. She LOOKS around- The International Space Station is a looming presence floating ten meters below. It is pulling the Soyuz by its parachute. An ALARM on her STOPWATCH RINGS. It’s been FORTY MINUTES. She turns the alarm off and looks around.
+C: RYAN
+D: Clear skies but with a chance of satellite debris.
+N: SHE HUMS A SONG as- She begins to climb around the vessel. With plenty of oxygen in her pressurized suit, this is not a difficult task. She pulls herself from handle to handle, quickly making her way around the Soyuz and reaching-
+C: THE PARACHUTE CONTAINER-
+D: Its cover is missing, and the three ropes float out of the container into space. Three meters away from the vessel each
+N: rope branches into dozens of parachute strings. Harnessing herself to a handle, she inspects the ropes. The three ropes are bolted to the container’s frame. She's HARNESSING the bag when- An object moves in the distance. A LONESOME PIECE OF DEBRIS, a piece of a satellite, floats by at great speed, barely thirty meters away from where she is.
+C: RYAN
+D: Oh, come on. Give me a break!
+E: CONT’D
+N: And with a deep breath she turns her back to the oncoming debris so that she can try to work without loosing focus. She RESUMES her HUMMING, louder this time, as she grabs the PISTOL-GRIP from the bag, To place the tool against the FIRST BOLT she must stretch her arm into the parachute container. It is an awkward position. Below her a tiny piece of high-speed debris nicks the side of the Station ever so slightly as it passes, causing the Station to tremble and move, pulling the Soyuz with it. Ryan freezes for a moment, then forces herself back to work.
+C: RYAN
+D: I am not going to die here. I refuse to die here.
+E: CONT’D
+N: She pulls the trigger and the drill rotates, turning the bolt, but it slides out of the notch, She places the tool once more against the bolt and pulls the trigger. The drill rotates, SLOWER this time.
+C: INSIDE THE HELMET-
+D: She is very focused. She HUMS under her breath and SWEAT begins to drop down her forehead. She turns a little and out of the corner of her eye she can see- DOZENS OF PIECES OF DEBRIS cruising in the distance. She immediately resumes her task, but her hand is shaking.
+C: RYAN
+D: Okay, then, bring it on! Bring it
+E: CONT'D
+N: right on! She’s hardly convincing herself and the stress is beginning to show. She makes the tool spin and- THE BOLT COMES OFF. As it FLOATS OFF into space, Ryan detaches the rope from the frame and pulls it out of the container. The ROPE FLOATS away from the Soyuz, undulating like a long snake. INSIDE THE HELMET-— She’s humming louder. She brings the pistol-grip to the SECOND BOLT. She pulls on the trigger and the bolt spins. Ryan stares intently at the head of the bolt turning when- TWO PIECES OF DEBRIS FLOAT NEARBY. The larger of the pieces comes very close, barely missing the Station. It passes and continues spinning out of control into the distance. The drill is spinning and- THE SECOND BOLT COMES OFF. She quickly pulls the rope lose from the frame and lets it float away. There is still one more rope to detach. She hurries to bring the drill to the remaining bolt when- The drill slides off the head of the bolt as she sees that- DEBRIS HITS THE STATION’S SOLAR PANEL, breaking it into pieces that fly in all directions.
+C: RYAN
+D: Come on, I’ll take as much as you can give. Come on! Ryan guickly tries to put the drill to the bolt. INSIDE THE HELMET-
+E: CONT'D
+N: The humming is even louder, the bravado is full tilt now.
+C: RYAN
+D: Take your best shot!
+E: CONT’D
+N: Her face is now covered in sweat, which pours into her eyes, making it difficult to see as she unscrews this last bolt. The ropes shake as- A cluster of debris PIERCES THE PARACHUTE. Ryan continues drilling- THE LAST BOLT COMES OFF when- DEBRIS HITS THE STATION. It CRASHES in SILENCE against one of its modules, creating a hole the size of a car wheel. The vacuum sucks BLUE FLAMES from the station that quickly die without oxygen to consume. Shaken by the impact, the Space Station begins to spin, dragging the parachute with it. Ryan barely has time to UNHOOK the rope when it is SNATCHED from her hands, pulled by the Station. She braces herself as- MORE DEBRIS HIT THE STATION. It CRASHES against the Japanese Lab, which silently EXPLODES into millions of pieces. The pieces expand away from the Station, some of which fly straight toward- THE SOYUZ SPACECRAFT. Ryan quickly makes her way toward the Airlock as- Debris PASS, like bullets, barely missing Ryan and the vessel. Ryan changes her tune-
+C: RYAN
+D: Oh, no. Please, stop. Please let it stop. Help, help me, please help me.
+E: CONT'D
+N: MORE DEBRIS HITS THE STATION and- THE STANDING SOLAR PANEL of the Soyuz, which disintegrates into pieces. DEBRIS IS WREAKING HAVOC- some pieces hit the Station, others crash against one another. Each collision creates more debris that ricochet and fly away in all directions. SMALL PIECES hit the Soyuz, all of them just scratching the Shield of the vessel, coming closer and closer to Ryan. 64, She reaches the Airlock and braces herself when- The Space Station BREAKS IN TWO. Ryan SCREAMS, shocked. As it receives more impacts the Station begins to crumble. The remaining pieces drift away, colliding in their path with more debris, joining- THE TIDE OF DEBRIS, which is coming to an end. A surf of flickering junk that orbits into the dark side of Earth.
+C: EVERYTHING IS CALM
+D: One lonely piece of debris cruises in the distance. Ryan can hardly move at first, then she breaths and screams-
+C: RYAN
+D: So, is that all you got?!
+E: CONT'D
+C: THEN-—
+D: One tiny piece flying by, the last of the last --
+N: PIERCES a HOLE the size of a penny where the fuel and engines are located. LIQUID LEAKS out through the small hole.
+C: RYAN
+D: Shit.
+E: CONT'D
+N: The liquid freezes upon contact with SPACE and forms a stalactite around the hole, sealing off the leak.
+C: RYAN
+D: I hate space. SOYUZ SPACECRAFT. CONTROL CABIN.
+E: CONT'D
+N: A SYMPHONY OF ALARMS is shrieking loudly, different voices all of which are distressing. The hatch opens and a helmet floats in, followed by Ryan. She straps herself in the commander chair.
+C: RYAN
+D: Oh, shut up!
+N: She presses different buttons, and with each a voice of the alarm symphony dies until they are completely silent, but the monitors keep blinking with RED WARNING LIGHTS. She takes a breath and begins fastening the seat belt. She puts on the communication headset and- Resets the STOPWATCH- 40 minutes and counting down,
+C: RYAN
+D: Houston, this is Dr. Stone calling from the Soyuz. The International Space Station was hit by debris and is gone.
+E: CONT'D
+N: She notices the breath coming out of her mouth. She looks carefully at the different blinking monitors.
+C: RYAN
+D: One of the Soyuz'’s auxiliary fuel tanks was hit and is almost empty. Many other systems are out as well, including the heating.
+E: CONT’D
+N: She presses two more buttons.
+C: RYAN
+D: I’m on my way to the Chinese Station. I hope I'll be able to use one of their escape pods for re- entry. She takes the JOYSTICK.
+E: CONT’D
+C: RYAN
+D: I’m initiating Positioning Maneuver.
+E: CONT’D
+N: She releases the lock. QUTER SPACE. 500 KM ABOVE EARTH The Soyuz slowly spins, drifting away from what is left of the Space Station, when- A SMALL THRUST from the side slows down its rotation. Then- The Earth is seen below, half shadowed in darkness. A clear line cuts the Pacific Ocean in two halves, separating day from night. ANOTHER SMALL THRUST steadies the vessel into position. The Pacific Islands still enjoy the gracious warmth of sunlight, while the Americas are already under night’s dark veil. YING-YANG. CONTROL CABIN For a moment Ryan is taken in by the sight of Earth. She snaps out of it and she focuses on- THE MONITOR- The crosshair on the monitor approximates the location of the Chinese Station, which appears only as a dot in the distance. But the crosshair goes too far to the right. Ryan moves the joystick to the left and the crosshair readjusts, approaching the dot. On the side of the monitor A GRAPH displays the ALTITUDE of the Tiangong- 220 kilometers above sea level.
+C: RYAN
+D: Wow. The Chinese Station is too low. It’s orbiting at 220, it Should be at least 250.
+N: When the crosshair is about to aim directly at the Station, under her breath-
+C: RYAN
+D: Okay, here we go.
+E: CONT'D
+N: She unlocks a RED BUTTON.
+C: OUTER SPACE.
+D: The Soyuz seems to be steady when-
+N: A FLAME, big and symmetrically controlled, bursts out of the propeller on the end of the Soyuz, giving the vessel- ONE LONG THRUST that propels it toward the dark side of Earth, where the Chinese Station is barely seen, almost indistinguishable from the millions of stars in the black firmament. The LONG THRUST ENDS, and the flame immediately recedes with control. But- A RECKLESS FLAME stays behind at one side of the engines. The FROZEN STALACTITE HAS IGNITED, dripping pearls of fire. The Engine Module- BLOWS UP. A small explosion rips a hole through which more FLAMING DROPLETS fall, dancing like sparkles around the Soyuz. SOYUZ SPACECRAFT. 300 KM ABOVE EARTH. EVERYTHING IS SHAKING and the cacophony of ALARMS has never been so strident. Ryan, shaken, looks at all the blinking monitors, trying to make sense of what just happened.
+C: RYAN
+D: There waS an explosion. Everything seems fine in the cabin but alarms are going off like crazy and...
+N: She looks at THE PORTHOLE- Bright incandescent particles begin to flicker outside, like fireflies hovering outside the window. It would be beautiful, if it weren’t that- ONE OF THE MONITORS- A DIAGRAM shows a fire expanding in one of the fuel compartments.
+C: RYAN
+D: Oh no! The Engine Module is on fire. Is going to blow up!
+E: CONT'D
+N: she releases a safety lock.
+C: RYAN
+D: I’m initiating tri-module separation in...
+E: CONT’D
+N: And PULLS on a lever.
+C: OUTER SPACE.
+D: The locks connecting the three modules of the Soyuz release. CONTROL CABIN, AIRLOCK, and the ENGINES SEPARATE.
+N: A mechanism pushes the CONTROL CABIN away from the AIRLOCK and the ENGINES, and it slowly gains distance from them. The ENGINES of the Soyuz drift, consumed in flames. The CONTROL CABIN is not a hundred meters ahead when- The ENGINES MODULE EXPLODES. A new storm of debris is expelled in all directions. DEBRIS hits the AIRLOCK, shattering its surface. The air trapped inside explodes into the void, ripping apart the module like a cracked egg. Ahead of the mayhem the CABIN of the Soyuz floats with a slow Spin toward- The Chinese Station, a spec in the distance, so far ahead that you can barely see it. SILENCE SOYUZ SPACECRAFT. ALARMS ARE RINGING. Ryan is pushing buttons, deactivating the alarms until- THE CABIN FALLS SILENT. Now that it is disconnected from the engines, there is only the gentle hum of the ventilation system. Ryan takes a deep breath, exhales a dense cloud of steam, and begins checking the status on the Control Panel.
+C: RYAN
+D: Houston. Houston, I’m stuck in the re-entry cabin orbiting at 300 kilometers. Ryan blows on her hands, trying to warm them.
+N: Ryan checks- THE MONITOR- Where the Tiangong is seen three degrees to the left of the crosshair. I’m descending toward the Tiangong. There’s no propulsion system in the cabin. I cannot correct the trajectory. I will miss the station by... She checks the coordinates on the monitor.
+C: RYAN
+D: by about a hundred miles.
+E: CONT'D
+N: She checks the STOP WATCH- 33 minutes.
+C: RYAN
+D: There is nothing I can do.
+E: CONT’D
+N: White noise and static comes out of the communication system. She begins to shiver and looks out- THE PORTHOLE- THE SUN SETS A magical cosmic act. As the sun dips behind the edge of the Earth, the atmosphere brightens, shining with a luminous orange light that is reflected off the surface of the Pacific Ocean. Ryan looks at it all, sad and tired, but also like a little girl enthralled at a magic show. OUTER SPACE. 300 KM ABOVE EARTH. Lingering sunrays try to reach the Soyuz as it cruises into the night. At the Soyuz’s orbiting speed the sunset does not last long, and the whole face of the Earth is quickly in shadow. The cabin is lost in the deep black of night.
+C: CONTROL CABIN.
+D: And the night has brought with it its cold grip.
+N: Ryan shivers and her teeth chatter. CLICK CLICK CLICK CLICK CLICK She looks at the- TEMPERATURE DIAL, -8 degrees and dropping. CLICK CLICK CLICK CLICK CLICK And underneath the chattering- A CRACKLING. Ryan becomes alert and tries to control the chattering. CLICK CLICK The CRACKLING SOUND is coming from the communication headset. Ryan puts it on and brings the mouthpiece to her lips.
+C: RYAN
+D: Houston. Houston! This is Ryan stone. Over.
+N: This glimmer of hope gives her a new burst of energy and she attempts to tune into the frequency, turning one of the control panel's dials.
+C: RYAN
+D: You’re coming in through the AM frequency. Over.
+E: CONT’D
+N: Fragmented words emerge through the static.
+C: TRANSMISSION
+D: Han... ni... tS...
+N: She turns the dial slowly and with precision to maintain the reception.
+C: RYAN
+D: I'm Dr. Stone from the Atlantis Mission. Over. Do you copy? Over.
+N: The words become clearer now.
+C: TRANSMISSION
+D: Hannik ya ite... pini.
+N: Clearly the transmission is not in English. RYAN Tiangong. Tiangong, is that you, over? As she tunes in a faint voice is distinguished. It doesn't appear to be in Chinese either. A noise in the background makes Ryan smile.
+C: RYAN
+D: Are those dogs? Those are dogs! You’re calling from Earth!!
+E: CONT'D
+N: The barking of several dogs can be heard behind- A MALE VOICE.
+C: RYAN
+D: Listen! I’m in trouble! Do you speak English?
+E: CONT’D
+C: TRANSMISSION
+D: Hannic ya itcitem pini!
+C: RYAN
+D: Mayday! Can you copy? Mayday!
+N: Mayday! The voice on the transmission appears to be a man in a very jovial mood. He keeps laughing.
+C: TRANSMISSION
+D: Mayday!
+C: RYAN
+D: yes. Mayday!
+C: TRANSMISSION
+D: Aningang!
+C: RYAN
+D: Aningang?
+N: TRANSMISSION Mayday, Aningang. Aningang, Mayday. The old man laughs.
+C: RYAN
+D: Your name is Aningang?
+C: TRANSMISSION
+D: Aningang! Suli, suli!
+C: RYAN
+D: Aningang, help!
+C: TRANSMISSION
+D: Mayday, Ieukpalliktuq uumaruq taigaa naabuqtuda.
+C: RYAN
+D: Aningang, police!
+C: TRANSMISSION
+D: Mayday, Aatauraba isrumaaluktug
+N: aatkaa. Suli aasrivak aatgatik niuruq... The glimmer of hope fades from her face with the realization that this man does not understand her plea for help. Ryan listens to the dogs howling in the background.
+C: RYAN
+D: I can hear your dogs.
+C: TRANSMISSION
+D: Teukpalliktugq uumarug taigaa naabugtuq.
+C: RYAN
+D: Dogs! Woof. Woof. Woof.
+N: She makes barking noises. The man begins to laugh and barks back at her.
+C: TRANSMISSION
+D: Auuu. Auuu. Olpmig. Olpmig! Auuu. Auuu.
+N: Ryan and Aningang bark in unison.
+C: RYAN AND TRANSMISSION
+D: Auuu. Auuu. Woof. Woof,
+N: Aningang laughs and she can hear Aningang taking a gulp from a bottle. She looks out of-
+C: THE PORTHOLE-—
+D: THE MOON-
+N: Is almost full, hovering over the Northern curvature of the Earth, bathing the darkened hemisphere in a soft, cool light. THE GLASS ON A DIAL CRACKS. The TEMPERATURE DIAL marks -16 degrees and dropping. Ryan’s face is looking pale and her fingers seem stiff from the cold.
+C: RYAN
+D: Where are you Aningang? Is it cold down where you are?
+N: Aningang begins to Sing. Because here it’s cold as hell... and it is lonelier than shit. His song is happy, but has a touch of melancholy. RYAN (CONT'D) You know Aningang, I’m going to die. Well, I know we're all going to die, but I’m going to die very soon. Aningang stops singing.
+C: ANINGANG
+D: Aatauraba isrumaaluktug aatkaa. Suli aasrivak aatqatik niuruq.
+C: RYAN
+D: Exactly man, that’s the whole thing. No matter how prepared you think you are, or how much you tell yourself it’s okay, it doesn’t matter. I’m afraid. I’m afraid.
+N: Aningang resumes with his song.
+C: RYAN
+D: And you know what, I have never prayed in my life. I guess I should have. I just don’t know how. A beat.
+E: CONT'D
+C: RYAN
+D: I suppose it must be something like this.
+E: CONT'D
+N: Ryan stays silent, comforted by Aningang’s song. Abruptly, the old man stops singing.
+C: TRANSMISSION
+D: Mayday, hey Mayday, Oipmiq.
+N: A moment of Silence and then we hear the old man talking again, and a BABY babbling back. Ryan is transfixed by the sounds of the baby. The baby is sobbing.
+C: RYAN
+D: A baby. There's a baby there with you.
+N: It makes sense now.
+C: RYAN
+D: You were Singing a lullaby to your baby, that’s so sweet.
+E: CONT'D
+N: And with that she begins to laugh. TRANSMISSION Inuulilaurtugq Saali upatimi. Bye-bye Mayday. Bye-bye.
+C: RYAN
+D: Wait! Wait!
+C: TRANSMISSION
+D: Bye-bye. RYAN
+N: No, no, please don’t hang up... Aningang, don’t go! But THE TRANSMISSION ENDS. The voice of Aningang and the baby and the barking of his dogs disappear. Only the sound of static remains. She is alone and she internalizes this in silence.
+C: RYAN
+D: A baby...
+E: CONT'D
+N: she’s consumed by an overwhelming sense of solitude and-
+C: SHE SURRENDERS.
+D: DHE WEEPS.
+N: A quiet deep sorrow that silently grows in intensity and that finally explodes into- A SOFT WAIL. TEARS float around her like tiny satellites, pearls that become brightened by- A SOFT WARM LIGHT that shines in through the condensation that has frozen on the glass. It is- THE SUNLIGHT caressing Ryan’s face as she stares out of- THE PORTHOLE- The rays of sun brighten the Tiangong, which is now only eighty kilometers away. It looks much bigger now and its shape is clearly visible. Ryan clears her wet eyes, sniffles, and- With a new surge of determination-
+C: RYAN
+D: I'm bored of space. I’m going home.
+E: CONT'D
+N: She switches the cabin lights back on, and from a pouch under the panel she takes out the- SOYUZ OPERATIONAL MANUAL-— She opens the thick binder and browses through its index. OUTER SPACE. 300 KM ABOVE EARTH. THE SUNRISE. The sun emerges over the East, and its warm light spills down onto the darkened hemisphere below. CONTROL CABIN. Ryan is staring closely at a page of the MANUAL, where there is- A DIAGRAM OF THE SOFT LANDING ENGINES- An ILLUSTRATION of the Soyuz Capsule two meters before landing and hitting the ground. A thrust is shooting from under its bottom, cushioning its fall. She puts on the communication headset~
+C: RYAN
+D: Houston, I’m going to miss the Chinese Station by seventy kilometers. The re-entry cabin does not have a propulsion system but it does have a break. The Soft Landing Engines are programmed to go off automatically before hitting the ground at landing.
+N: It is very cold, but Ryan is excited.
+C: RYAN
+D: I‘1ll use them to propel the cabin closer to the Tiangong.
+E: CONT’D
+N: Ryan scans through the different charts and diagrams in the manual, and using it as reference, she begins to click on a set of buttons.
+C: RYAN
+D: I’m activating the soft landing’s manual system.
+E: CONT’D
+N: Consulting the manual, she pushes two more buttons.
+C: RYAN
+D: Landing engines ready for ignition.
+E: CONT'D
+N: Ryan puts her finger to the button that ignites the landing jet.
+C: RYAN
+E: CONT'D to herself
+N: You’ve got one shot, so you better aim well. She looks at-
+C: THE MONITOR-
+D: The landscape outside changes rapidly as the cabin spins. She looks at- THE PORTHOLE-
+N: Where the Earth and the stars come in and out of view as everything spins. And then- THE CHINESE SPACE STATION enters view,
+C: RYAN
+D: There you are.
+E: CONT'D
+N: She looks at- THE MONI TOR- Where the moving landscape passes over the crosshair and the Chinese Station approaches it. On the side- The graph displaying the altitude of the Chinese Station marks- 180 kilometers.
+C: RYAN
+D: The Station is dropping altitude. It’s now at 180.
+E: CONT'D
+N: The Tiangong is coming closer to the crosshair. She holds her finger ready on the button, but with the spin of the Soyuz- The Station moves away from the cross hair. RYAN (CONT'D) Don’t think you’re going to get away from me. She stares intently at-
+C: THE MONITOR-
+D: Where the Chinese Station is coming back toward the crosshair. It gets closer and closer, and when it is as close
+N: as it’s going to get-
+C: RYAN
+D: Got ya.
+E: CONT’D
+N: She presses the button and- OUTER SPACE. A THREE SECOND THRUST ignites at the back of the cabin, pushing it at great speeds toward the Chinese Station. SOYUZ CONTROL CABIN. The strength of the thrust pushes Ryan back in her seat. She looks at- THE MONITOR- The center of the crosshair is aiming three degrees below the Space Station,
+C: RYAN
+D: It worked. It worked! I told you it would work.
+N: Ryan looks out of- THE PORTHOLE - The whole structure of the Station is visible. It is now less than ten miles away.
+C: RYAN
+D: I’ll miss the Station by half a mile. But we’re getting closer. We're getting closer.
+E: CONT‘D
+N: Ryan UNSTRAPS herself and gets up. She reaches for the helmet, puts it on, and locks it. She presses a button on the control panel by her chest and the suit begins to pressurize. She grabs the fire extinguisher and holds it tightly against her chest with one arm. With the other arm she- Reaches up to grab the LATCH that opens the exit hatch. She looks at-
+C: THE PORTHOLE-
+D: As the cabin spins, the Station enters the view. It is even closer, hovering above her less than a mile away. It comes in and out of her view as the cabin gently spins. Out of the corner of her eye she notices the- ALTITUDE DIAL- 155 km and dropping. RYAN
+E: CONT'D
+N: Wow. Wow. Wow. The Chinese Station is collapsing. It's going to hit the atmosphere in no time. She holds onto the latch, preparing to pull it. The Station is hovering right next to her and the cabin is going to pass it. She holds tightly to the fire extinguisher.
+C: RYAN
+D: This is not a good idea.
+E: CONT’D
+N: She turns the latch, and- The brutal force of the infinite VACUUM of space SUCKS THE AIR out of the cabin, swinging the hatch wide open. Ryan is LAUNCHED out of the cabin at a tremendous speed. SHE HITS HER SHOULDER as she goes through the hatch into- OUTER SPACE. A CANNONBALL WOMAN is launched up from the Soyuz’s hatch. She passes the Chinese Station as she twirls up toward the Heavens. The Soyuz continues its straight trajectory toward Earth. INSIDE THE HELMET- Ryan is stunned from the impact and her shoulder is in pain. Outside- Everything twirls. Earth and Heavens. An ALARM in her STOPWATCH RINGS. It’s been FORTY MINUTES. And she spins and sees- THE TIANGONG, one mile below her. And below it- A bright comet leaves behind a yellow scratch over the Earth. It is- THE SOYUZ BURNING upon contact with the atmosphere. Ryan drifts away. She holds tightly to the fire extinguisher with one hand, and with the other she checks her right Shoulder. IT HURTS. But there’s no time, the Tiangong is getting farther away. She points the nozzle of the fire extinguisher away from her and triggers a- SPRAY —- BO. It acts like a thrust that pushes her toward the Station. It helped, but she is still off target. INSIDE THE HELMET- She is in pain. The glass visor is steaming up. She begins HUMMING as she looks at- The Station drifting ahead, less than five hundred meters away. From this distance the damage caused to the Tiangong by the debris is clear. The solar panels are shredded to pieces, and several modules appear to have been badly hit. Ryan gives- ANOTHER SPRAY- Propelling herself even closer to the Station. INSIDE THE HELMET-— She stops humming. Her breath is fogging up the glass, giving her a blurred view of- The Station, which is less than a hundred meters away. She can see that- The LIFEBOAT, the SHENZHOU, a vessel very similar to the Soyuz, 1s docked on a module. It’s now clear that she’s not flying straight toward the Station. Ryan attempts to correct her trajectory by giving- ANOTHER SPRAY- But only a very SMALL THRUST comes out of the extinguisher, not enough to push her on the right track. She PULLS the trigger again- But only a few dust particles come out. The extinguisher is empty. She lets go of it and it floats away. She drifts toward the Station, SLOWLY. She is less than twenty meters away, and getting closer. AND CLOSER.
+C: RYAN
+D: Come on, Ryan. Get Lucky.
+N: And she misses it by a hair. She drifts, very slowly, two meters above the Station. Her arm, outstretched, tries to grab hold of anything it can. INSIDE THE HELMET- Ryan winces in pain and looks at- Her outstretched arm reaching toward- THE STATION- She slowly drifts across the modules, the tips of her fingers almost touching the surface of the Tiangong.
+C: RYAN
+D: Come on, come on. God -- damn -- !
+E: CONT’D
+N: A handle passes under her, almost within reach, but she does not manage to hold onto it. INSIDE THE HELMET- She’‘s struggling, but she knows she’s not going to make it. She looks ahead at- THE STATION- A solar panel, following the rotation of the Station, comes into view. She stretches out her arm as she gets closer to it. But the solar panel continues its rotation and she is approaching very slowly. The panel is rotating away. She STRETCHES, and- She GRABS onto a rod on the Solar Panel, STOPPING her momentum. Ryan hangs from the Station. She holds her right arm tightly to her chest. INSIDE THE HELMET- She catches her breath and is clearly in pain. Ryan sees-— A LONESOME PIECE OF DEBRIS. It hovers above the Station and glows as the sunlight hits its surface. It passes very quickly. And there’s ANOTHER ONE cruising farther above. She pulls her right arm up.
+C: RYAN
+D: Ahhhhhh!
+E: CONT‘D
+N: The pain is excruciating, but she grabs onto the panel’s rod, and- SHE PULLS HERSELF UP, and clinging with her leg, she secures herself to the panel. INSIDE THE HELMET- She’s panting, and through the fogged up glass she can see, far away over the horizon- BRIGHT DOTS. Pieces of debris burn as they hit the atmosphere. A swarm of incandescent locusts that- Is coming directly at her. Ignoring her pain but using her right arm as little as possible, she climbs up to- THE BODY OF THE STATION. She goes over the module and makes her way across, pulling herself from handle to handle. When she reaches the end of it, with one last BIG PULL she makes it to the- HATCH that leads into the airlock. With her bad arm she holds onto a handle. With the other, she pulls on the latch and- OPENS THE AIRLOCK A gust of AIR bursts out, pushing the hatch wide open. Ryan holds on tightly to the handle. ABOVE HER- Clusters of DEBRIS pass by, flying at different distances and at great speeds. Pieces COLLIDE with each other, exploding into more debris. A BIG PIECE OF DEBRIS is flying downward, missing the Station by ten meters as it continues its descent. And- 250 meters below, it BURNS like a shooting star. The Station is rapidly approaching Earth’s atmosphere. And over the Eastern horizon- A CLOUD OF DUST is quickly approaching. THE TIDE OF DEBRIS. TIANGONG. AIRLOCK. 150 KM ABOVE THE EARTH. Ryan secures the hatch. The Airlock is smaller than the one in the International Space Station but, like the ISS, there is a small control panel on one side. INSIDE THE HELMET- The glass is almost fogged up. She makes her way to the- CONTROL PANEL- The red, yellow, and green graph is bright red. Under it, TWO BUTTONS with Chinese ideograms on them. 45 and i Her finger hesitates as she takes a wild guess. She presses- tek A FAINT HISSING SOUND is heard.
+C: THE CABIN PRESSURIZES.
+D: As oxygen fills the space-
+C: SOUND BEGINS TO EMERGE.
+D: Unrecognizable at first is a rhythmic pattern under a syncopated murmur. But as air allows sound to conduct its waves, it becomes clear. AN ALARM IS GOING OFF. Over it a recording plays in a LOOP. It 1s in Mandarin. The VOICE in the recording is urgent. Clearly it is not good news.
+C: LOOP
+D: 15 BR! TA HME Oh GB!
+N: And with a horrible accent-
+C: RYAN
+D: No hablo espanol.
+N: She's in pain and more tired than ever now, and she’s punchy.
+C: LOOP
+D: 5 He! TK WME ty we! She waits, floating.
+N: INSIDE THE HELMET— The glass is completely fogged up. Through the condensation, she can only discern a RED LIGHT filtering through. She waits.
+C: RYAN
+D: Come on. Come on.
+N: And when the RED GLOW turns to ORANGE- Ryan UNLOCKS her helmet and, using only her left hand, struggles to take it off. As the helmet floats, bouncing off of the cabin walls, Ryan massages her injured shoulder. She does this gently, as even the smallest pressure inflicts pain. The orange light is turning green when- She feels the Station quake fiercely, reverberating through the handle she’s holding onto. THE STATION RUMBLES. OUTER SPACE. The Tiangong is plummeting. The tip of a solar panel is already grazing over the outer layers of the atmosphere, leaving a trail behind it as it parts the gases. DEBRIS passing under the Station burn up. TIANGONG NODE 1. EVERYTHING SHAKES. Ryan rushes out of the airlock. She stops at the center of the node, holding her helmet. She inspects her surroundings. Through a hatch she sees a long corridor-like cabin that leads to another node. It is the LAB MODULE. The LOOP keeps on playing.
+C: LOOP (BB BE!
+D: WR MMS a BE
+N: She enters the hatch into the- TIANGONG LAB MODULE. The only light is coming from flickering emergency lights. Objects float in chaos. Ryan makes her way, dodging the disarray of lab objects~ Scientific instruments: A plant drifting by with its roots exposed, clusters of liquid floating like wobbly spheres, two eggs hovering, one of which is broken. THE SHAKING INTENSIFIES as- She reaches the end of the module and goes into the~ TIANGONG NODE 2. She floats to the center of the node. There are three open hatches— RIGHT, LEFT, and- BELOW- A Docking Module, very similar to the one in the ISS. At the far end of it an open hatch leads into the SHENZHOU ESCAPE POD. A FROG floats next to her, wobbling and twisting as it struggles with zero gravity. MORE RUMBLING SHAKES THE STATION.
+C: RYAN
+D: Yeehaaa!
+C: OUTER SPACE.
+D: A SOLAR PANEL, defeated by the friction with the atmosphere, breaks off from the Station and is thrown farther down, where
+N: it quickly burns, dissolving into sparks. The TIDAL WAVE of debris is catching up with the Station, a cloud of metal pieces that sparkle with the sunlight. BRIGHT STREAKS can be seen as debris burns, scratching through the atmosphere. TIANGONG NODE 2. Ryan swings the helmet and- CATCHES THE FROG inside it.
+C: RYAN
+D: No frog stays behind.
+N: Ryan springs into the- DOCKING MODULE. Floating through it and reaching the open hatch at the other end, she tosses the helmet inside the Shenzhou. A LOUD METALLIC ROAR. The Station is collapsing. She dives through the hatch into the-
+C: SHENZHOU ESCAPE POD. AIRLOCK.
+D: It is almost identical to the Soyuz’s airlock. She does a quick flip and- CLOSES the outer hatch. Then she pulls on another latch and- CLOSES the inner hatch. The Shenzhou is SEALED OFF from the rest of the Station. She throws the helmet into the Control Cabin and follows through, into the- SHENZHOU ESCAPE POD. CONTROL CABIN. She struggles to turn around in the confined space, and then- She pulls the hatch CLOSED. THE CONTROL CABIN IS SEALED. The Shenzhou is smaller than the Soyuz and has only one seat. In this confined space, the SHAKING of the station is felt even stronger. She sits, BUCKLES herself in, and looks at the-
+C: CONTROL PANEL.
+D: It has more monitors than the Soyuz’s panel, and the main board is arranged differently. All of the buttons are labeled with CHINESE IDEOGRAMS. RYAN
+N: Come on, Ryan -- how hard can this be? AND IT IS SHAKING FIERCELY. Through- THE PORTHOLE- A thin bright yellow halo covers the whole window. OUTER SPACE. The yellow halo envelops the whole Station as it glides over the outer atmosphere.
+C: FRICTION.
+D: The remaining SOLAR PANEL resists breaking off from the
+N: structure, but still goes up in flames, leaving a trail of SPARKS. SHENZHOU ESCAPE POD. EVERYTHING IS SHAKING She passes her finger over the board, trying to make sense of the buttons.
+C: RYAN
+D: Beni... meeni... miini...
+N: She presses #. Under the ongoing LOOP, a new RECORDING starts, this one calmer, giving some instructions.
+C: RECORDING
+D: BB 1G 48 Wr IR
+C: RYAN
+D: I’m sorry dude, wrong number.
+N: She turns it off. It’s shaking very intensely but she’s wide-eyed now, clearly close to being beside herself.
+C: RYAN
+D: Miini... moh...
+E: CONT'D
+N: She tries a BIG BUTTON that says- ifn « The LIGHTS on the Control Panel GO ON. The cabin makes a humming sound as SYSTEMS BEGIN TO ACTIVATE. On the control panel lights go on in patterns reminiscent of the switchboard in the Soyuz.
+C: RYAN
+D: Okay.
+E: CONT'D
+N: She begins activating buttons.
+C: RYAN
+D: And this should be...
+E: CONT'D
+N: And she presses a button, and systems turn to green.
+C: RYAN
+D: Okay, ready. But before we go, let’s set the record straight. I’ve worked my ass off to get this far, but I guess that’s neither here nor there. I’m about to re-enter Earth and I may survive in one piece or I might be blown to smithereens. I'll do whatever I have to do and you do whatever you have to do and there will be no hard feelings, okay?
+E: CONT'D
+N: Then-
+C: RYAN
+D: Life is good.
+E: CONT'D
+N: She thinks about that. Then-
+C: RYAN
+D: Yes it is.
+E: CONT‘D
+N: She laughs. THE SHAKING IS VERY INTENSE NOW OUTER SPACE. The Station is bouncing over the atmosphere. One end of it is glowing more brightly and catches FIRE. The TIDE OF DEBRIS is getting closer. Not far off some pieces are already burning. A LARGE PIECE OF DEBRIS has caught on fire and is flying at great speed and- COLLIDES WITH THE STATION, Tearing it into two parts, which are sent twisting in opposite directions. SHENZHOU ESCAPE POD. Ryan is SHAKEN and RATTLED in her seat, and she’s laughing. GRAVITY is still minimal, but the force of the inertia is rough and it jerks her around. She sees- A RED LEVER above her, very Similar to the one she used to separate the cabin from the Soyuz. But she can only reach it with her bad hand. SHE STRETCHES
+C: RYAN
+D: Ahhhhhhhh!
+N: SHE GRABS THE LEVER- AND PULLS IT.
+C: OUTER SPACE.
+D: THE LOCKS DISENGAGE-
+N: THE CABIN separates from the rest of the vessel and from the Station. It spins away, plummeting toward the atmosphere. The two fragments of the Tiangong follow, spinning in a rage of sparks and fire. SHENZHOU ESCAPE POD. The spinning is punishing. Ryan is shaken violently. She is also mumbling words to herself that we can’t hear. It looks like she rambling. Some LIGHTS GO OFF. ATMOSPHERE. 130 KM ABOVE THE EARTH. The capsule’s aerodynamics slow down the spinning, positioning the vessel nose up. It cuts through the atmosphere at incredible speeds. Its metal is burning hot. Smoldering DEBRIS and the fragments of the STATION chase the Shenzhou in its descent. SHENZHOU ESCAPE POD. THE PORTHOLE- A blinding light pours in from outside the window. The spinning is over, but the cabin vibrates with a loud rumble. As the G-Force restrains Ryan against her seat, she clenches her face and sweats. On the ceiling, condensation begins to form. ATMOSPHERE. 120 KM ABOVE THE EARTH. The Shenzhou is a ball of fire precipitating from the skies. It’s followed very closely by DEBRIS and the two fragments of the STATION. The TWO FRAGMENTS COLLIDE and EXPLODE into a ball of fire that breaks into many pieces. An avalanche of fire cascades towards the Shenzhou, rapidly closing the distance. SHENZHOU ESCAPE POD. In THE PORTHOLE- Outside burning debris is passing by. The gravitational pull keeps Ryan tense in her seat as drops fall on her face. She looks at- THE CEILING- where condensation is dripping. ATMOSPHERE. 100 KM ABOVE THE EARTH. The avalanche is about to swallow the cabin when the burning debris disintegrates before reaching the cooling STRATOSPHERE. The capsule escapes the inferno as the debris crumbles in a final explosion expelling- A VERY SMALL PIECE OF DEBRIS that- SHOOTS towards the Shenzhou and- SKIMS its surface, tearing one of the outer shields. SHENZHOU ESCAPE POD. The impact is felt inside and a panel falls off. A small smoke trail is formed around its wires. Ryan is restrained against her seat by the gravitational force of the fall and- EVERYTHING IS SHAKING. LOWER ATMOSPHERE. 70 KM ABOVE EARTH The Shenzhou has left the burning debris behind. As it touches the lower atmosphere, it immediately COOLS DOWN, dimming its brightness, surrounded by a purple sky. It FREEFALLS 9.8 meters per second. It freefalls only for a few moments, but by now Ryan seems beyond fear and exhaustion. Her face is relaxed for the first time. And- SHE BEGINS TO LAUGH. A GIGGLE OF JOY A BREATH OF RELIEF, and- A PARACHUTE RELEASES. The long fabric comes out and EXPANDS as the air fills the red and white canopy. When it’s fully open it SLOWS DOWN the cabin'’s descent and lets it glide in a diagonal path over the Earth. SHENZHOU ESCAPE POD. THE PORTHOLE- The ropes of the parachute extend out to the large canvas cushioning the fall. And A YELL OF GLEE. She sees, through- THE PORTHOLE- Another piece of fabric is released and with it- A NEW EXPLOSION OF LAUGHTER, LOWER ATMOSPERERE. 10 KM ABOVE THE EARTH. A SECOND PARACRUTE expands. It slows the fall even further, shifting the cabin into a more vertical descent toward the ground that is so close it now seems tangible. SHENZHOU ESCAPE POD. We've never seen her laugh like this. Nobody has. Not even herself. She keeps on laughing. And laughs, and- COUGHS. The cabin is quickly filling with SMOKE, and- The white cloud of smoke overflowing the small space is getting thicker. LOWER ATMOSPHERE. 1 KM ABOVE THE EARTH. The Shenzhou drops, hanging from the parachutes, at a speed of thirty kilometers per hour. It is surrounded by a blue sky. It passes through a layer of clouds. SHENZHOU ESCAPE POD. She coughs as the white smoke is becoming unbearable. She’s suffocating. LOWER ATMOSPHERE. 100 METERS ABOVE THE EARTH. The Shenzhou is rapidly approaching the ground. [It is falling straight toward a lake. Two meters before hitting its surface- THE LANDING ENGINES IGNITE, giving the downward thrust meant to cushion the landing on a hard surface. The thrust parts the water, creating a curtain of steam, and the Shenzhou gently falls down- INTO THE LAKE- Making a wave that spreads out in a circle.
+C: SHENZHOU ESCAPE POD.
+D: Ryan feels the cabin hit the water. She has landed safely.
+N: But she cannot celebrate because she can’t stop coughing. She 1s asphyxiating in the thick cloud of smoke. She UNSTRAPS herself and- Reaches a LEVER at the side of the hatch. She PULLS THE LEVER. ON THE LAKE With a small controlled explosion, the hatch cover is launched away from the cabin. Smoke pours out through the open hatch.
+C: SHENZHOU ESCAPE POD.
+D: She begins to unstrap herself when- WATER POURS IN through the open hatch.
+N: She tries to make her way out, fighting against the strong current that is gushing in, but the flow is too strong and- IT PUSHES HER BACK IN. She struggles to force her way through the cascade rapidly filling the cabin, but it is too strong.
+C: THE CABIN IS OVERFLOWING.
+D: The water has reached Ryan’s chin when- She manages to take ONE LAST DEEP BREATH of air before-
+N: WATER COMPLETELY FILLS IT. UNDERWATER The metallic capsule, which weights almost three tons, sinks quickly into the lake. As the ropes of the parachute tense, the long fabric follows the cabin down. SHENZHOU ESCAPE POD. Air trapped inside Ryan’s suit leaks out through the collar and small bubbles float up. Ryan fights her way to the hatch, and pulling with her good arm, she swims out. UNDERWATER She pushes herself away from the cabin, swimming away from the pod as- THE SHENZHOU HITS THE LAKE BOTTOM. A dark cloud of mud swells up around it. Ryan struggles to SWIM UP to the surface, but she can only use one arm and the wet suit is DRAGGING HER DOWN. She strokes rapidly, but she isn’t moving up. Instead- SHE’S GOING DOWN, and HER FEET SINK INTO THE LAKE BED. She looks up and sees- The rays of sunlight breaking through the lake’s surface are eclipsed by the parachute, which floats down toward her like a huge jellyfish about to engulf its pray. THE FROG crosses in front of her, effortlessly Swimming on its way to the surface. Small bubbles of air come out of Ryan’s nose as she struggles to open her suit. She takes off the BOTTOM PART of the suit. Above her- THE PARACHUTE IS GETTING CLOSER, a net about to trap her. She struggles out of the TOP PART of her suit. And squirming out from under it- She frees herself from the heavy garments and SWIMS UP as- THE SINKING PARACHUTE traps her foot and begins dragging her down. But with a kick- SHE SETS HERSELF FREE, and- SHE SWIMS UP, stroking with her good arm. She is completely out of breath, only the tiniest bubbles rise from her nose. She is about to lose consciousness, when she sees- THE FROG swimming ahead of her, sliding smoothly through the water toward the rays of sunlight diffracted by the surface, Ryan’s eyes are closed as she floats up, her body limp. The surface is coming closer and closer. She reaches the thin boundary between water and air and she come out to the- SURFACE. And she takes an enormous breath.
+C: RYAN
+D: AAAHHHHHH!
+N: Almost primal, like the first breath of a newborn child, it burns her lungs but reclaims life. She only has enough strength to keep her face above water. She FLOATS, catching her breath and taking long gulps of air. She looks up at- THE SKY- Where the clouds move, caressed by air and light. And beyond them-— OUTER SPACE, but-
+C: SHE'S BACK ON EARTH.
+D: She turns around, and- TAKING A DEEP BREATH-
+N: She SWIMS, breaking through the water and harnessing every last bit of energy in her. And soon she arrives to the- SHALLOW EDGE OF THE LAKE She crawls out of the water, and- COLLAPSES ON THE SHORE. The water laps gently over her, washing in and out around her legs. SHE LIES with her face against the muddy shore and her eyes closed, recovering her strength. AND SHE BREATHES. SHE BREATHES AIR. And as her breath steadies-~ SHE SMILES. She pushes her face against the ground, enjoying the sense of weight, and- SRE OPENS HER EYES. Then she looks at her surroundings, taking in the almost unbearable beauty of the planet Earth. She's breathing deeply and begins to cough. It’s not a cough, it’s a chuckle. RYAN IS CRACKING UP. Ecstasy overcomes Ryan and- Joyful laughter fills her body. SHE IS ALIVE. She PLANTS HER PALMS against the ground and- With an effort, she pushes herself up. SHE FEELS HER WEIGHT, and manages to rise to her hands and knees. And she STANDS UP. ONE FOOT FALLS heavily on the ground. It sinks into the mud and then-
+C: ANOTHER FOOT.
+D: Ryan's FEET are solidly planted on the mud.
+C: RYAN
+D: Ahhhhh!!!
+N: One foot moves forward and lands on more solid ground, unstable, coping with the weight. And then- The other foot follows as- SHE BEGINS TO WALK ON PLANET EARTH, laughing. SHE IS PUNCH DRUNK. SHE IS FREE. THE END

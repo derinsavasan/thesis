@@ -1,0 +1,2189 @@
+M: PASSENGERS
+M: by
+M: Jon Spaihts
+T: FADE IN:
+S: EXT. INTERSTELLAR SPACE
+N: A million suns shine in the dark. A STARSHIP cuts through the night: a gleaming white cruiser. Galleries of windows. Flying decks and observation domes. On the hull: EXCELSIOR - A HomeStead Company Starship. The ship flashes through a nebula. Space-dust sparkles as it whips over the hull, betraying the ship’s dizzying speed. The nebula boils in the ship’s wake. The Excelsior rockets on, spotless and beautiful as a daydream.
+S: INT. STARSHIP EXCELSIOR - GRAND CONCOURSE
+N: A wide plaza. Its lofty atrium cuts through seven decks, creating tiers of promenades framing a vast skylight. The promenades are empty. Chairs unoccupied. Beetle-like robots vacuum the carpets and wax the floors.
+C: CAFETERIA
+D: Super-modern and gleaming. Hundreds of tables, all empty.
+C: FORWARD OBSERVATION DECK
+D: Lounge furniture and star-filled windows. Completely deserted. A robot on spindly legs washes the glass.
+C: HIBERNATION BAY
+D: Endless corridors lined with vertical glass tubes. Inside each tube stands a PASSENGER. Eyes closed in sleep. If they’re breathing you can’t tell by looking. They sleep on their feet, leaning against padded supports. Straps secure them in place; sensors adhere to their skin. They wear shorts and tank tops with HomeStead Company logos. We survey their faces. No children, no senior citizens. Men and women of every ethnicity in the prime of their lives. We settle on one man. JIM PRESTON, 38. Sound asleep. A small display on his pod reads:
+C: JAMES PRESTON
+D: Rate 2 Mechanical Engineer Denver, Colorado Age: 38 Blood type: A+ Passenger class: silver Fare: one-way A deep BOOM. Echoes roll down the corridors. Lights wink on in Jim’s hibernation pod. Machinery hums to life. Instruments beep and chitter. Medical data fills the pod’s screen. Jim’s temperature rises. His heart begins to beat. He takes a breath. Jim opens his eyes. Groggy, blinking, seeing nothing. The backrest behind him converts into a recliner, lowering him into a seated position. The sensors on his skin drop off and snake back into the pod’s machinery. A video screen descends before Jim’s eyes. ONSCREEN - A beautiful stewardess appears, beaming at the camera. She is inhumanly perfect, a computer-generated image.
+C: VIDEO STEWARDESS
+D: Good Morning, James!
+C: JIM
+D: Jim. What the...
+E: disoriented
+C: VIDEO STEWARDESS
+D: Don’t worry, Jim. It’s normal to feel confused. You’ve just spent a hundred and twenty years in suspended animation. She makes it sound sexy. Jim scowls and rubs his eyes. ONSCREEN - An animation. Happy people go to sleep in glass tubes in a hospital. The tubes are loaded onto a spaceship.
+C: VIDEO STEWARDESS
+D: You’re a passenger on the Starship Excelsior - a Homestead Company Starship. We’ve nearly completed the 120-year flight from Earth to your new home - the colony world of Homestead II. Congratulations! ONSCREEN - The Excelsior leaves a skyscraper-covered Earth and soars through space to a lush green Homestead II.
+E: CONT’D
+C: JIM
+D: Oh, yeah.
+E: remembering
+C: VIDEO STEWARDESS
+D: The Excelsior is on final approach. For the next two months, you’ll enjoy luxury space travel. Food. Fun. New friends. ONSCREEN - The ship’s lavish amenities: fine dining, sports facilities, shops, all swarming with happy passengers.
+E: sensually
+C: VIDEO STEWARDESS
+D: Then you’ll start your new life on Homestead II. Back to basics. A fresh start. Room to grow. ONSCREEN - Publicity shots of Homestead II. Mountains, forests, beaches. Settlements ringed by farmland.
+E: CONT’D
+C: VIDEO STEWARDESS
+D: Your wake-up capsules and nutrient juice will help you recover from hibernation! Pills rattle into a dish; a glass of pink juice appears. He takes his pills and gulps his juice with a grimace. Jim’s backrest eases him onto his feet. A drawer pops open, revealing a Homestead Company bathrobe and slippers.
+E: CONT’D
+C: VIDEO STEWARDESS
+D: Make yourself comfortable in your complimentary robe and slippers. He puts them on.
+E: CONT’D
+C: VIDEO STEWARDESS
+D: Your shipcard is your key to the starship. Don’t lose it! The pod produces Jim’s shipcard: a plastic ID card on a lanyard. He hangs it around his neck.
+E: CONT’D flirtatiously
+C: VIDEO STEWARDESS
+D: Now you’re ready to go to your cabin. Make yourself at home! Enjoy the rest of your voyage, Jim!
+E: CONT’D
+C: JIM
+D: Right. Jim steps out of his pod into the corridor. All the other pods are closed, the people inside asleep. A look of concern crosses Jim’s face.
+C: VIDEO STEWARDESS
+D: Jim, your cabin is this way. The screen flips around to face him. The video stewardess points down the corridor.
+C: VIDEO STEWARDESS
+D: Take Elevator D to deck seven. Your cabin number is on your shipcard.
+E: CONT’D
+C: JIM
+D: Thanks. He shuffles down the corridor in his slippers, rubbing his face. Having trouble keeping his eyes open. Behind him, his pod closes up. Its screen reads PASSENGER
+C: DISCHARGED. ELEVATOR FOYER
+D: Jim finds a bank of elevators. As he approaches, the indicators blink on. An elevator opens, spilling light. He steps inside, and muzak begins to play.
+C: DECK SEVEN
+D: A corridor lined with doors. A CLEANING ROBOT vacuums. Jim appears. Instantly the corridor lights brighten. The cleaning robot rolls past Jim.
+C: CLEANING ROBOT
+D: Hello, Passenger.
+C: JIM
+D: Hello, robot. Jim follows wall markings to his cabin. Lets himself in.
+E: startled
+C: JIM’S CABIN
+D: Cozy but small. A bed, a desk, an armchair. No window. A SCREEN lights up. The HomeStead Company theme music plays. An ANNOUNCER speaks.
+C: ANNOUNCER
+D: Welcome to your cabin, Jim! Your home until we make landfall. Jim doesn’t pay attention. Pokes around, opening drawers.
+E: V.O.
+C: ANNOUNCER
+D: Over the next two months, you’ll prepare for your new life on Homestead II. Jim peers into the tiny bathroom. There’s a little video screen, and the presentation’s running there too.
+E: V.O. CONT’D
+C: ANNOUNCER
+D: Passengers are organized into Learning Groups for orientation. You’ve been assigned to Learning group...thirty-eight! Don’t forget! ONSCREEN: “Learning Group 38.” The DOORBELL rings. Jim opens the door eagerly - and deflates. No one there. He looks down. A waist-high CARGO ROBOT peers up at him with goggle eyes. It carries two suitcases and a duffel bag.
+E: V.O. CONT’D
+C: CARGO ROBOT
+D: Passenger James Preston?
+C: JIM
+D: Jim. Yeah.
+C: CARGO ROBOT
+D: Your luggage, Passenger Jim. Swipe your shipcard to confirm. Jim swipes his shipcard through a slot on top of the robot. The robot scoots inside and deposits Jim’s bags on the floor.
+C: CARGO ROBOT
+D: Enjoy your luggage!
+E: CONT’D
+C: JIM
+D: Thanks.
+C: CARGO ROBOT
+D: Thank you, Passenger Jim! The robot zips out the door. Jim looks up and down the corridor. The receding robot is the only sign of life. He steps back inside.
+C: ANNOUNCER
+D: Your group’s orientation starts in forty-five minutes. Join them in Conference Room Twenty on Deck One. Don’t forget! DECK FOUR - SHOPPING DISTRICT A mall with tiled floors and ornate storefronts. Jim walks along in his robe and slippers. Storefront signs flicker to life as he passes. A dry fountain gushes water at his approach. DECK ONE - CONFERENCE ROOM TWENTY Forty chairs around a big table. A large screen on the wall. ONSCREEN: A digital INSTRUCTOR, a handsome woman of middle age, waits with a computer’s infinite patience. Jim walks in. The door slides closed behind him.
+C: VIDEO INSTRUCTOR
+D: Hello, Passengers. Will you all please take a seat. Jim looks around. He’s the only one there. He sits.
+C: VIDEO INSTRUCTOR
+D: Earth is a prosperous planet. The cradle of civilization. A world with a long, proud history. But for many, it’s also overpopulated. Over-priced. Overrated. Overrun. Behind the Instructor, video clips of Earth’s urban sprawl: an endless gleaming metropolis glittering with traffic.
+E: CONT’D
+C: JIM
+D: Can I just...
+E: raising his hand
+C: VIDEO INSTRUCTOR
+D: No questions until the end, please.
+C: JIM
+D: Wait. Where are all the other...
+C: VIDEO INSTRUCTOR
+D: The Colonies offer an alternative. A better way of life. The screen fills with shots of Homestead II: aerial footage of mountains, beaches, beautiful garden cities.
+C: VIDEO INSTRUCTOR
+D: And none is more beautiful than Homestead II, the Jewel of the Occupied Worlds.
+E: CONT’D
+C: ONE HOUR LATER
+D: Jim sits wearily, chin propped on his hand. The Video Instructor chatters on. Inspiring footage of Homestead II.
+C: VIDEO INSTRUCTOR
+D: ...thriving job markets in mining, farming and manufacturing. An explosion in the cultural arts. And if you long for the life less civilized, you can apply for a pioneer permit and seek your fortune in the wild. Any questions?
+E: a pregnant pause
+C: JIM
+D: Where IS everybody?! The Instructor pauses. The question seems to confuse her.
+E: exploding
+C: VIDEO INSTRUCTOR
+D: We’re all on the Starship Excelsior. Five thousand passengers and fifty- eight crew members.
+C: JIM
+D: But I’m the only one awake.
+C: VIDEO INSTRUCTOR
+D: No, all the passengers wake up at the same time.
+C: JIM
+D: Then something’s wrong with the other hibernation pods.
+C: VIDEO INSTRUCTOR
+D: Hibernation pods are fail-safe.
+C: JIM
+D: So why am I the only one here?
+C: VIDEO INSTRUCTOR
+D: I’m sorry. I don’t understand your question.
+C: GRAND CONCOURSE
+D: Jim finds an INFOMAT - an information kiosk. A banner scrolls across the screen: ASK ME A QUESTION! Jim taps the screen.
+C: INFOMAT
+D: Hello! What’s your question?
+E: insanely cheerful
+C: JIM
+D: I need to talk to a person. A real live person.
+C: INFOMAT
+D: What sort of person? Personal trainer? Travel planner? Therapist?
+C: JIM
+D: Someone in charge.
+C: INFOMAT
+D: The Ship Steward handles passenger affairs. You can find him in his office on the Service Deck. ONSCREEN: A dotted line on the map shows how to get there.
+C: JIM
+D: Thank you.
+C: INFOMAT
+D: Happy to help! SERVICE DECK - CORRIDOR Jim appears around the corner. The lights brighten, the ventilation kicks up a notch. He finds a door marked SHIP STEWARD.
+C: SHIP STEWARD’S OFFICE
+D: The lights flash on as Jim enters, revealing...an office in mothballs. Empty chairs, barren desks.
+C: JIM
+D: Not good.
+C: ELEVATOR LOBBY
+D: Another Infomat. Jim arrives at a jog.
+C: INFOMAT
+D: Hello! What’s your quest...
+C: JIM
+D: Who’s flying the ship?
+C: INFOMAT
+D: The bridge crew includes the Captain, the Pilot, the Chief Navigator...
+C: JIM
+D: The Captain. I want to talk to the Captain.
+C: INFOMAT
+D: The Captain rarely handles passenger queries directly.
+C: JIM
+D: Emergency, okay? Where is he?
+C: INFOMAT
+D: The Captain is usually found on the Bridge, on the Command Deck. ONSCREEN: A helpful map shows the way. Jim marches off.
+C: COMMAND DECK
+D: Jim finds the door to the Bridge. He opens it eagerly - only to find a second door behind it - an armored hatch labeled FIREWALL and SECURE ACCESS AREA. A porthole of thick glass gives a narrow view of the Bridge. It’s deserted. Instrument lights gleam in the dark.
+C: JIM
+D: Come on! What the hell is happening? DECK THREE - CAFE COURTYARD Jim RUNS past restaurants, lounges, shops. All deserted.
+E: pounding on the hatch
+C: JIM
+D: Hello? Hello! SERVICE DECK - CELESTIAL PROMENADE The highest promenade on the ship: windows on all sides. The huge skylight just overhead. It’s almost like being outside. The atrium plunges seven stories to the Concourse below.
+E: panic in his voice
+C: JIM
+D: Hello! A SOUND behind him makes him spin. But it’s just a window-washer: a robot with long spindly limbs. It moves past Jim, polishing windows. Oblivious. A sign catches Jim’s attention: “OBSERVATORY - Your Place In the Universe.”
+E: an echoing shout
+C: OBSERVATORY
+D: Jim enters the planetarium of the future: theater seats facing a holographic “stage.” IN HOLOGRAM: An image of the starship hangs in space. Glowing text reads “Look through the eyes of the Starship Excelsior!” Jim goes to the control podium. Touches the screen.
+C: OBSERVATORY
+D: What can I show you?
+E: a voice as deep as God’s
+C: JIM
+D: We’re supposed to land pretty soon, but it looks like I’m the only one awake. Is that normal?
+C: OBSERVATORY
+D: I don’t understand. What can I show you?
+C: JIM
+D: Show me Homestead II. IN HOLOGRAM: The planet Homestead II, Earth’s twin sister.
+E: impatiently
+C: OBSERVATORY
+D: Homestead II is the fourth planet in the Bhakti system.
+C: JIM
+D: Right. And how soon are we landing?
+C: OBSERVATORY
+D: Approximately ninety years.
+C: JIM
+D: What?
+C: OBSERVATORY
+D: We land on Homestead II in ninety years, three weeks, and one day.
+C: JIM
+D: No. How long ago did we leave Earth?
+C: OBSERVATORY
+D: Approximately thirty years ago. Jim stares at the hologram in horrified realization.
+C: JIM
+D: I woke up too soon.
+C: OBSERVATORY
+D: I don’t understand.
+C: JIM
+D: Neither do I.
+C: HIBERNATION BAY
+D: Jim sprints down a row of hibernation pods. Heart pounding. Slides to a stop in front of his empty pod. Jim fusses with the controls, pressing buttons. But the screen just reads “PASSENGER DISCHARGED.” Crouching, he pulls at the pod’s canopy, trying to open it with his hands. It doesn’t budge.
+C: JIM
+D: I’m supposed to be in there! HIBERNATION BAY - CORRIDOR Jim trudges between rows of sleeping passengers to the aft end of the huge Hibernation Bay. There he finds a hatch labeled CREW HIBERNATION FACILITY. Jim opens it eagerly - and finds another armored hatch with a small porthole. Labels reads FIREWALL and SECURE ACCESS AREA. Jim presses the switch. No result. He peers through the porthole. Inside, the entire crew of the starship stands sleeping. GRAND CONCOURSE - INFOMAT Jim stands at another Infomat.
+C: JIM
+D: How do I make a phone call?
+C: INFOMAT
+D: Your cabin telephone...
+C: JIM
+D: No. Long distance. How do I send a message to Earth?
+C: INFOMAT
+D: Interstellar messages are sent by laser array. Speak to the Duty Officer in the Comm Center. ONSCREEN: The Infomat displays a helpful map.
+C: INFOMAT
+D: Please note that interstellar messaging is an expensive service.
+E: CONT’D
+C: JIM
+D: Bite me.
+E: walking away
+C: INFOMAT
+D: Happy to help! COMMAND DECK - COMMUNICATIONS CENTER Two communications booths for passenger use. Jim sits at one of these. Swipes his shipcard.
+C: COMMUNICATIONS BOOTH
+D: Planet and connection?
+C: JIM
+D: Earth. The HomeStead Company.
+C: COMMUNICATIONS BOOTH
+D: There are thirty thousand phone numbers listed under “HomeStead Company.” What number?
+C: JIM
+D: I don’t know. I’m emigrating to Homestead II. I have an emergency.
+C: COMMUNICATIONS BOOTH
+D: Division of Colonial Affairs, Homestead II Program. I have a Customer Help Line.
+C: JIM
+D: Sounds about right. The booth’s camera zooms in on Jim’s face. A microphone extends toward his mouth. The red RECORDING light comes on.
+C: COMMUNICATIONS BOOTH
+D: Begin message. Jim’s a deer in the headlights. He collects himself.
+C: JIM
+D: Hi. I’m Jim Preston. I’m a passenger on the Excelsior. Something went wrong with my hibernation pod and I woke up too soon. Ninety years too soon. I can’t get back to sleep. Nobody else is awake. If I don’t figure something out, I’m going to die of old age before we get to Homestead II. So help me out here. I’ll keep trying to fix this. Maybe I missed something simple. But I could use a hand. Thanks. Jim pushes the “SEND” button. Sits back in his chair.
+E: with growing panic takes a deep breath
+C: COMMUNICATIONS BOOTH
+D: Message sent.
+C: JIM
+D: Outstanding.
+C: COMMUNICATIONS BOOTH
+D: Message will arrive in nineteen years.
+C: JIM
+D: Say what?
+C: COMMUNICATIONS BOOTH
+D: Earliest possible reply in fifty-five years.
+C: JIM
+D: No.
+C: COMMUNICATIONS BOOTH
+D: We are nineteen light years from Earth. By the time your message arrives, we will be thirty-six light- years from Earth. We apologize for the delay.
+C: JIM
+D: Fifty-five years.
+E: devastated
+C: COMMUNICATIONS BOOTH
+D: That will be six thousand dollars.
+C: GRAND CONCOURSE
+D: Jim crosses the Concourse like a sleepwalker in his robe and slippers. He looks shell-shocked. He comes to the Concourse Bar: the fanciest watering hole on the ship. Black leather stools along a marble bartop. Jim touches the bartop...and a MAN swings up behind the bar - as if mounted on a hinge. A handsome fellow in a bartender’s uniform - his hair and skin eerily perfect. This is ARTHUR. Jim jumps out of his skin.
+C: ARTHUR
+D: What can I get you?
+C: JIM
+D: I thought I was the only one awake!
+C: ARTHUR
+D: I doubt it. It’s the middle of the afternoon. Are you drinking or not? He produces a cloth and polishes the bartop. In a startling movement, he glides the length of the bar, polishing all the way, and glides back as if on roller skates. Jim steps up on the footrail and peers behind the bar. Arthur’s body stops at the waist. He’s mounted on rails, built into the bar.
+C: JIM
+D: You’re a robot.
+E: deflated
+C: ARTHUR
+D: Android, technically. Arthur’s the name.
+C: JIM
+D: I’m Jim. Arthur shakes his hand.
+E: taking a seat
+C: ARTHUR
+D: Pleased to meet you. What’ll it be?
+C: JIM
+D: Whiskey, neat. Arthur pours. Jim knocks the drink back. Points into the empty glass while his eyes water. Arthur pours another. Jim takes a big swallow and sets the glass down half-full.
+C: JIM
+D: Arthur, how much do you know about the ship?
+E: CONT’D
+C: ARTHUR
+D: I don’t know. I know some things.
+C: JIM
+D: What do I do if my hibernation pod malfunctions?
+C: ARTHUR
+D: Impossible. Hibernation pods are fail- safe.
+C: JIM
+D: Yeah, well, I woke up early.
+C: ARTHUR
+D: Can’t happen.
+C: JIM
+D: How long until we get to Homestead
+E: a challenge
+C: II? ARTHUR
+D: Ninety years or so.
+C: JIM
+D: And when are all of us passengers supposed to wake up?
+C: ARTHUR
+D: Not until the last two months.
+C: JIM
+D: So how can I be sitting here with ninety years to go? Arthur’s eyes take on a faraway look. His head twitches.
+C: ARTHUR
+D: It’s not possible for you to be here. He smiles as if he’s solved the problem.
+C: JIM
+D: But I am.
+C: ARTHUR
+D: Sorry, Jim. My specialty is cocktails and conversation. Take your fancy trick questions to one of those Infomats. They think they know everything.
+C: JIM
+D: Arthur, I’m in trouble. I’m screwed. I am completely, ridiculously screwed.
+C: ARTHUR
+D: Lot of self-pity.
+C: JIM
+D: Self pity? I’m going to die of old age on this ship!
+C: ARTHUR
+D: Jim, we all die. Even androids end up on the scrap heap. It’s not dying that matters, it’s living. This is your life. Are you going to live it or lie down and die? Jim shakes his head in surrender.
+C: JIM
+D: What do I owe you?
+C: ARTHUR
+D: Jim, the booze is on the house. DECK NINE - AFT OBSERVATION DECK - NIGHT A moody lounge with panoramic windows. Jim walks in. Strolls up to the glass. Stares out at the red stars behind the ship, the cold white stars all around. INT. JIM’S CABIN - MORNING Jim wakes up and rolls out of bed. Shuffles into the shower.
+C: CAFETERIA
+D: Machines offer food and drink in dizzying variety. Each machine has a card slot and a screen displaying its menu. Jim enters, dressed in his own clothes - jeans, a T-shirt. He swipes his shipcard at a coffee machine. It offers sixteen kinds of coffee, from a simple cup of joe to the “Mocha Cappuccino Extreme.” Jim picks the best of the lot.
+C: COFFEE MACHINE
+D: Sorry. The Mocha Cappuccino Extreme is reserved for gold-class passengers. Please select another item. Jim presses one button after another, denied each time.
+C: COFFEE MACHINE
+D: Sorry...sorry...sorry...Large coffee.
+E: CONT’D
+C: JIM
+D: Are you serious?
+C: COFFEE MACHINE
+D: Please enjoy.
+C: ELEVATOR
+D: Jim ascends, sipping coffee and eating an egg sandwich. The doors open at the Command Deck. A sign reads “Crew Area - No Passengers beyond this point.” Jim breezes past the sign.
+C: COMMAND DECK
+D: Jim prowls the floor, opening doors. He finds a room marked EMERGENCY GEAR and opens it eagerly. It’s full of space suits and oxygen tanks. He peers into a red HAZARD cabinet: fire extinguishers, an axe, an epoxy foamer for atmosphere leaks - all behind glass. He opens another door marked EMERGENCY MANUALS - and smiles: shelf after shelf of waterproof, fireproof technical manuals. Jim pulls a manual labeled HIBERNATION SYSTEMS. INT. SUBDECK B - PASSENGER CARGO STOWAGE - DAY A cavernous cargo hold. Jim drives a forklift down the aisle, scanning container numbers. He finds a container labeled “PASSENGER #1498, JAMES PRESTON.” The forklift pulls it from the rack.
+C: THE CARGO CONTAINER
+D: Opens to reveal Jim’s belongings. Cartons marked “sports” or “clothes” or “kitchen stuff.” Amidst the cartons, a heavy-duty TOOLBOX. Jim hauls it out.
+C: HIBERNATION BAY
+D: Jim sits in front of his empty hibernation pod. His toolbox beside him. The Hibernation Systems manual lies open. Jim tinkers with the electronics inside his pod. The pod hums to life. Its data screen flickers with information. Mysterious WHIRS and THUNKS. The canopy opens. Elated, Jim bounces to his feet. Strips off his shirt and scrambles in. The canopy closes over him. He assumes the position, his back against the backrest, waiting for the pod to put him to sleep. Nothing happens. He pokes at the ports where the sensors and intravenous lines used to protrude. Shakes the machine. He gives up. It’s not working. But now he’s trapped inside the pod. He pushes at the canopy, but it’s locked shut. He pounds on the glass with no effect. Finally he loses it, shouting and stamping, hammering and raging - all muffled behind glass. Exhausted, he sinks to the floor of the pod, staring out at his tools and his manual, his discarded shirt. Then he notices the emergency release handle down by the floor. He pulls it, and the canopy pops open.
+C: OUTSIDE THE POD
+D: The pod’s display screen blinks back to its original message.
+C: PASSENGER DISCHARGED. CREW HIBERNATION FACILITY DOOR
+D: Jim looks through the porthole at the sleeping crew. Jim swipes his shipcard through the door switch. ACCESS DENIED. He pokes at the keypad. ACCESS DENIED. Jim opens his toolbox, selects a tool and starts to remove the keypad’s cover plate. FADE TO BLACK.
+C: SUPER: THREE WEEKS LATER
+D: INT. CREW HIBERNATION FACILITY DOOR - MORNING Jim works on the door with an industrial LASER CUTTER. Sparks fly. He’s drenched in sweat. Mussed and unshaven. He lifts the goggles and inspects the door. The laser cutter has barely marked the surface. The door’s a mess. Its switch hangs on wires. There are pry marks around the latch. Gouges around the window. Failed drill holes. Dents left by an axe. But the door stands firm. Jim lets the laser cutter fall. It joins a scrapyard of tools on the floor: sledgehammer, jackhammer, drill, crowbar, axe. HIBERNATION BAY - JIM’S POD Another debris field surrounds Jim’s hibernation pod. Tools and cables, electronic instruments, a diagnostic laptop. Jim stalks by without so much as a sideways glance. CONCOURSE BAR - DAY Arthur stands behind the bar polishing glasses. Jim sits, sweaty and grimy, a whiskey in front of him. His speech is soft around the edges. He’s had a few.
+C: JIM
+D: I thought I’d figure something out. I thought it would just come to me.
+C: ARTHUR
+D: Stands to reason.
+C: JIM
+D: But I’ve tried everything.
+C: ARTHUR
+D: Sometimes you can’t catch a break. Jim gives Arthur a thoughtful look.
+C: JIM
+D: I’m your only customer, but you’re always polishing a glass.
+C: ARTHUR
+D: Trick of the trade. Makes people nervous when a bartender just stands there.
+C: JIM
+D: Okay. Lay some bartender wisdom on me. I’m lost in space here. Arthur polishes the bar while he thinks that one over.
+C: ARTHUR
+D: You’re not where you want to be. You feel like you’re supposed to be somewhere else. Right?
+C: JIM
+D: You said it.
+C: ARTHUR
+D: Well, here’s the thing. Say you could snap your fingers and be wherever you wanted to be. Back on Earth, or on Homestead II.
+C: JIM
+D: Okay.
+C: ARTHUR
+D: I’ll bet even if you got your wish, you’d still feel this way. Not in the right place. Supposed to be somewhere else. That’s not a crisis, it’s the human condition. Jim takes a moment to consider that.
+C: JIM
+D: That’s not me.
+C: ARTHUR
+D: Well, maybe not. The point is, you can’t get so wrapped up in where you’d rather be that you forget to make the most of where you are.
+C: JIM
+D: What are you telling me?
+C: ARTHUR
+D: It’s a big ship. You’re always running around banging on things and yelling at the computers. Take a break. Live a little. Jim spins on his barstool, surveying the Grand Concourse.
+C: JIM
+D: Live a little. When he comes back around he gives a shove. He spins faster.
+C: ARTHUR
+D: That’s the spirit. Jim goes for one more shove. Misses. Falls off his stool. GRAND CONCOURSE - INFORMATION KIOSK Jim scans a map of the ship. Second-class cabins. First-class cabins. And the good stuff: palatial suites named for European cities. His finger stops on one of the biggest. The Berlin Suite.
+C: BERLIN SUITE
+D: High ceilings, posh furniture, panoramic windows. The door jumps in its frame with a THUNK. Slides open. Jim enters, a crowbar in hand. A cargo robot follows him in, carrying his toolbox and suitcases. It deposits them on the floor.
+C: CARGO ROBOT
+D: The Berlin Suite! Enjoy your luggage! BERLIN SUITE - BATH Jim cleans up in the opulent bathtub. A robot arm with a water jet washes his back. BERLIN SUITE - BEDROOM Jim unpacks. Stowing clothes in closets, laying out mementos. He pulls a pair of sneakers out of his luggage. DECK TWO - GYMNASIUM - BASKETBALL COURT Jim shoots baskets in sneakers and gym clothes. He’s not bad. He shoots, rebounds, shoots.
+C: SPA
+D: Jim lies on a massage table wearing a towel. A pair of robot arms emerge from the table and begin to massage him. DECK THREE - MARCELLO’S - DAY The Italian restaurant. Cafe tables, white tablecloths. Jim sits perusing a menu. A robotic waiter - a machine, not a counterfeit human - rolls up to the table.
+C: JIM
+D: Let me have the rigatoni alla diabla, with the sauteed spinach and a glass of the Montepulciano. DECK TWO - ARCADE - EVENING A state-of-the-art game room. Jim inspects the flagship game: “Z Factor!” A huge holographic display, a futuristic cockpit. Jim swipes his shipcard. The game speaks like an angry giant.
+E: with relish
+C: Z FACTOR
+D: Jim Preston! Welcome to the cutting edge of gaming! The greatest challenge you will ever know!
+C: JIM
+D: All right then. He clambers into the cockpit.
+C: Z FACTOR
+D: Are you ready to play Z Factor?
+E: snarling
+C: JIM
+D: Yes!
+C: Z FACTOR
+D: Begin! IN HOLOGRAM: A fortress shines on a hilltop. War machines crawl over a blasted land. Letters flash: LEVEL ONE. A WARRIOR appears. Jim’s character. Jim works the controls. IN HOLOGRAM: The Warrior rises off the ground on a beam of light - and is immediately torn to pieces by enemy fire.
+E: an echoing roar
+C: Z FACTOR
+D: You lose! Z Factor reigns supreme! The game howls with demonic laughter. DECK FOUR - MOVIE THEATER - EVENING A classic theater. Seats for a thousand. A velvet curtain. Jim enters. Cued by his arrival, the curtain parts. The film begins. Jim settles into a seat. FADE TO BLACK.
+E: CONT’D
+C: SUPER: THREE MONTHS LATER
+D: DECK TWO - ARCADE - DAY Jim is playing “Z Factor!” and he’s on fire. IN HOLOGRAM: The Warrior battles dragons above a crystalline city. A title announces “Level 40.” Jim moves like a martial artist, dripping sweat. IN HOLOGRAM: The Warrior challenges the game’s Final Enemy - a colossus with a hundred eyes. The Final Enemy falls dead.
+C: Z-FACTOR
+D: You are victorious!
+C: JIM
+D: Yes!
+C: Z-FACTOR
+D: You are the Grand Master of Z Factor!
+C: JIM
+D: I am the Grand Master of Z Factor! GYMNASIUM - BASKETBALL COURT Jim shoots baskets. He’s brought dozens of balls onto the court. He no longer rebounds, just grabs the nearest ball. He shoots from half court. From even farther away. Long shots, bounce shots off the wall. He launches a full-court shot, bangs it off the rim, and lets himself topple over backward. Lies staring at the ceiling. BELLA CANTINA - AFTERNOON The ship’s Mexican restaurant. It has the same robot waiters as the Italian place, but here they wear sombreros. Jim sits over the wreckage of his lunch. He downs a margarita and puts the empty glass down beside several others.
+E: elated
+C: JIM
+D: Another margarita!
+C: MEXICAN ROBOT WAITER
+D: You have had many, senor.
+C: JIM
+D: Margarita otra vez!
+E: drunkenly
+C: MEXICAN ROBOT WAITER
+D: Si, senor. LIBRARY - AFTERNOON A room full of workstations, each with a reading machine. Jim sits at one in a headset, taking a Russian Language course.
+C: RUSSIAN TEACHER
+D: This is the Gudonov Russian Language Course. Level One. Let’s begin. Repeat after me. [I am beginning to learn.]
+E: FILTERED in Russian
+C: JIM
+D: [I am beginning to learn.]
+E: in Russian
+C: RUSSIAN TEACHER
+D: I am beginning to learn.
+E: FILTERED
+C: JIM
+D: I am beginning to learn. CONCOURSE BAR - EVENING Jim sits drinking. Three glasses in front of him. Drunk.
+C: JIM
+D: [I be study the Russian.]
+E: in bad Russian, subtitled
+C: ARTHUR
+D: [Good for you! It’s a beautiful language.]
+E: in perfect Russian, subtitled
+C: JIM
+D: You speak Russian!
+C: ARTHUR
+D: Of course. We have Russian passengers.
+C: JIM
+D: Well, I’m trying new things. From now on, every time I sit down, I want a drink I haven’t had before.
+C: ARTHUR
+D: Fair enough. Arthur mixes a bright green drink, sets it in front of Jim. Jim takes a sip and makes a horrible face.
+C: JIM
+D: What’s that?
+C: ARTHUR
+D: Something new. FADE TO BLACK.
+C: SUPER: THREE MONTHS LATER
+D: INT. BERLIN SUITE - BEDROOM - MORNING Jim sleeps in his luxurious bed. The covers knotted around him. He hasn’t shaven in weeks. His eyes open. He lies staring at the ceiling. After a long moment he gets up. Shuffles toward the bathroom in his underwear. He’s put on a beer gut. CAFETERIA - MORNING Jim walks past empty tables. Dials up a coffee and a roll. Sits sipping coffee and staring at nothing. ARCADE ENTRANCE - DAY Flashes and blasts of noise. The sounds of Z Factor!
+C: Z FACTOR
+D: You are victorious!
+E: O.S.
+C: AT THE Z-FACTOR MACHINE
+D: Jim sits blank-faced in the cockpit.
+C: Z-FACTOR
+D: New high score! Bored, Jim punches his name into the High Scores board. JIM. All the other high scores say JIM. CONCOURSE BAR - MORNING Jim walks up to the bar and slides onto a stool.
+C: JIM
+D: [I’m ready for today’s new drink]
+E: in fluent Russian, subtitled
+C: ARTHUR
+D: [I’m afraid I can’t help you, my friend.] Jim thumps his fist on the bar.
+E: in Russian, subtitled
+C: JIM
+D: [Don’t argue with me, robot. Give me a new drink.]
+E: in Russian, subtitled
+C: ARTHUR
+D: There are no new drinks.
+E: reluctantly
+C: JIM
+D: What do you mean?
+C: ARTHUR
+D: I can make two thousand, seven hundred and thirty-eight cocktails. You’ve had them all. The news hits Jim like a death in the family.
+C: JIM
+D: There are no new drinks. NIGHTCLUB - EVENING On the holographic stage, a sexy LOUNGE SINGER in a slinky dress croons a torch song. Jim stands just inches away. He touches her face. The hologram dissolves into static. Jim drops his hand, restoring the illusion. Closes his eyes in an agony of loneliness. GRAND CONCOURSE - SHOPPING DISTRICT - NIGHT Jim walks past the upscale shops, blind to their displays. He comes to a PHOTO BOOTH. The promotional pictures on the side catch his attention: people clowning, smiling, kissing. He pulls back the curtain, sits in the booth. The curtain falls. The strobe flashes. A photostrip drops into the tray outside the machine: four identical shots of Jim staring into the lens without emotion. ELITE DECK - ELITE PROMENADE - DAY Jim walks numbly along, ignoring the stellar view. He munches potato chips out of a bag. A SWEEPER ROBOT follows him like a dog, collecting crumbs. Jim feeds it chips. One for Jim, one for the robot.
+C: FORWARD OBSERVATION DECK
+D: Jim enters, still munching chips. The sweeper robot follows. Jim stands at the windows. Stares out into the dark. Sighs a terrible sigh. Suddenly he’s wracked by sobs. Tears welling up. He leans his forehead against the glass. Moaning. After a moment he sits down blindly. The whole room begins to slide past him. Confused, Jim looks around. He’s accidentally sat down on the sweeper robot: it carries him across the room.
+C: TRAVELING SHOT
+D: The robot carries Jim up and down the Celestial Promenade. Down an elevator. Past the Concourse Bar. Jim waves. Arthur waves back, speechless.
+C: DECK ONE
+D: The robot heads into a low hatch. Jim ducks to fit through.
+C: ROBOTICS CENTER
+D: A mechanical hive. Here the ship’s robots are cleaned, repaired, recharged. Robots bustle everywhere - never colliding, never getting lost. A ballet. Jim’s sweeper robot vomits its load of collected dirt into a waste chute. Heads into a recharging niche. Jim jumps off. He explores: it’s an engineer’s fantasia. Jim’s eyes show signs of life. But it’s a hazardous place, with cranes and platforms, hoses and blowtorches on the move. He exits through another low hatch to find himself in the...
+C: HIBERNATION BAY
+D: Thousands of sleepers in their glass tubes. Jim walks among them, looking at their faces. Suddenly he stops, staring. Inside a pod, a woman stands sleeping. This is AURORA DUNN. A breathtaking beauty.
+C: JIM
+D: Who are you? Aurora. He moves on, browsing people. Stops. Backtracks. He stands in front of Aurora, looking in through the glass. He glances at her data screen again.
+E: peers at her data screen
+C: JIM
+D: New York City. Journalist. INT. DECK TWO - LIBRARY A workstation. Jim types “Aurora Dunn” into a search engine. It returns a list of New Yorker articles. Some titles: The New Corporate Overlords Patient or Patent? Genetic Medicine and You Modern Love: Dating the Database Jim moves the articles onto a digital slate. CONCOURSE BAR - EVENING Jim sits reading one of Aurora’s articles. Arthur keeps busy.
+E: CONT’D
+C: JIM
+D: Did you know ninety percent of the businesses in the world are owned by just eight companies?
+C: ARTHUR
+D: Is that right?
+C: JIM
+D: She’s good. She knows her stuff, and she’s not afraid of anybody.
+C: ARTHUR
+D: Who’s that?
+C: JIM
+D: Aurora.
+C: ARTHUR
+D: Who’s Aurora?
+C: JIM
+D: A woman. A passenger. FADE TO BLACK.
+C: SUPER: THREE MONTHS LATER
+D: INT. BERLIN SUITE - MORNING Jim lies asleep, wearing boxer shorts and a full beard. The suite’s a wreck. Laundry and dishes litter the floor. His eyes open. He looks at the stars outside. Gropes under the pillow and pulls out a remote control. Punches a button. The window shades come down, hiding the view.
+C: CORRIDOR
+D: Jim emerges from his room in boxer shorts and slippers. He’s dragging a blanket. A housekeeping robot, its dustpan quivering in anticipation, hovers outside his door. Jim taps the “Do Not Disturb” button on his door panel and walks away. The housekeeping robot squeals in frustration as the door closes over the mess inside.
+C: CAFETERIA
+D: Jim pours milk over a bowl of cereal.
+C: ELEVATOR
+D: Jim descends, the blanket draped over his shoulders like a serape. He holds his bowl of cereal in both hands. HIBERNATION BAY - AURORA’S POD Jim stands eating cereal and staring at Aurora. His eyes never stray from her face. GRAND CONCOURSE - CONCOURSE BAR Jim glowers at the bar in his boxers and blanket. The cereal bowl on the bar beside him.
+C: JIM
+D: I’m not saying the universe is evil. It’s just got an ugly sense of humor. It doesn’t just crush you. It crushes you ironically.
+C: ARTHUR
+D: Things may look dark sometimes...
+C: JIM
+D: You get to fly to another planet, but you die on the way. You’re completely alone, with the perfect woman right in front of you, just out of reach.
+C: ARTHUR
+D: Aurora.
+C: JIM
+D: Yes, Aurora! Arthur, I’m falling for her. I’ve read all her stuff. Sometimes I talk to her and I know exactly what she’d say.
+C: ARTHUR
+D: Jim, Aurora’s asleep.
+C: JIM
+D: I know. I know. DECK NINE - OBSERVATORY - DAY IN HOLOGRAM: Excelsior’s progress diagram. The Excelsior hangs between Earth and Homestead II. A legend reads: “TIME TRAVELED: 30 YEARS. TIME REMAINING: 90 YEARS.” Jim stands watching. The numbers change with a digital click. TIME TRAVELED: 31 YEARS. TIME REMAINING: 89 YEARS. CONCOURSE BAR - MORNING Jim walks up to the bar with the HIBERNATION SYSTEMS MANUAL. Drops the book on the bar with a thud and takes a seat.
+E: lays his head on the bar
+C: JIM
+D: Arthur. Say you were trapped on a desert island, and you had the power to wish somebody there with you. You wouldn’t be alone anymore, but you’d be stranding another person on the island. Would you make the wish?
+C: ARTHUR
+D: I don’t know. I’ve never been on an island.
+C: JIM
+D: Okay. Say you figured out how to do something that would make your life a hundred times better. But it’s wrong, and there’s no taking it back. How wrong would it have to be to stop you? I mean, what if it made your life a thousand times better? How do you do the math?
+C: ARTHUR
+D: Jim. These are not robot questions. Jim stares at Arthur in frustration.
+C: JIM
+D: I know how to wake up Aurora.
+E: spelling it out
+C: ARTHUR
+D: Sounds like a fine idea. You could use some company.
+C: JIM
+D: I’d be stranding her on this ship for the rest of her life!
+C: ARTHUR
+D: Oh. Well, you can’t do that. Jim buries his face in his hands.
+C: JIM
+D: What am I going to do?
+C: ARTHUR
+D: Jim. I’m here for you.
+C: JIM
+D: Arthur, you’re a machine. Jim hauls the manual off the bartop and stalks away. EXT. STARSHIP EXCELSIOR The ship forges through space, its lit windows shining. Jim paces back and forth on a promenade, a tiny figure dwarfed by the mighty ship and the tapestry of stars. DECK TWO - HALL OF FAITH - DAY Jim passes under a sign reading “Hall of Faith,” into a circular walk. There’s a small fountain in the middle of the circle. Around the edges, doors labeled: BUDDHISM, JUDAISM, HINDUISM,
+E: looking up
+C: CHRISTIANITY, ISLAM, OTHER FAITHS.
+D: Jim walks the circle, looking through the doorways: a cross, a Buddha, an abstract sculpture in the “Other Faiths” chapel. He continues around the circle and out into the ship. DECK FOUR - STARBOARD E.V.A. ROOM Jim opens a door marked “Starboard E.V.A. Room - No Passengers Beyond This Point!” The E.V.A. Room is dominated by an airlock. Spacesuits in racks. Tools, tethers, shuttle docking rings. Jim goes to the airlock. Opens the inner door. A BUZZER sounds a warning. He steps into the airlock. The door closes behind him. Jim looks at the red lever that opens the outer door. He grips the lever. Looks thoughtfully out at the stars. EXT. STARSHIP EXCELSIOR - STARBOARD AIRLOCK The airlock outer door opens with a blast of air. Jim emerges from the airlock - wearing a SPACE SUIT. He plants his feet on the hull and walks up the side of the ship on magnetic boots.
+C: ATOP THE SHIP
+D: Jim walks forward across the giant skylight.
+C: AT THE BOW
+D: Jim stands, face uplifted. The cosmos reflected in his visor. Raises his arms. Imploring the heavens for an answer. But no answer comes. His lifted arms fall. INT. HIBERNATION BAY - AURORA’S POD Jim stands looking at Aurora: a bearded pilgrim in a holy place. FADE TO BLACK. INT. BERLIN SUITE - BATH - DAY Jim stands at the sink with a futuristic shaver in his hand. He talks to himself as he takes off his castaway’s beard.
+C: JIM
+D: I’m shaving off my beard. It’s wrong, man. The whiskers pile up in the sink, wash down the drain. His face emerges from its mask.
+E: to his reflection
+C: JIM
+D: Seriously wrong. You can’t do it. He’s finished. Clean-shaven.
+E: CONT’D
+C: JIM
+D: Don’t even think about it. I’m shaving off my beard.
+E: CONT’D astonished at himself
+C: CORRIDOR
+D: Jim exits his cabin in his coveralls, carrying his toolbox. He finds a squadron of housekeeping robots waiting outside. He taps the “PLEASE SERVICE” button beside his door. The robots zoom inside with squeals of joy. HIBERNATION BAY - AURORA’S POD Jim stands in front of Aurora: toolbox in one hand, the technical manual in the other. He’s breathing hard. He sets the toolbox down. Opens the manual. It’s densely annotated in Jim’s handwriting. He opens the pod’s cover panel and goes to work, following the steps in his manual. His hands shake. He starts to close a final contact. Stops. Gets to his feet. Stands looking at Aurora. Quickly he kneels and completes the circuit. Pulls his hands away as if the metal had burned him.
+C: JIM
+D: Okay. Aurora’s pod hums. Medical data flows across its screen. Her vital signs re-start. Her pale skin flushes with color. Jim beats a retreat.
+C: AURORA’S POD
+D: Aurora’s perfect lips part. She takes a shallow breath - and then a deep one. Her chest rises and falls. Her thighs shift as she bends her knees. The sensors on her body drop off and withdraw into the pod. She opens her eyes. They’re beautiful. Her pod’s backrest flexes, scooping up her knees as it becomes a seat. A video screen drops in front of her.
+C: VIDEO STEWARDESS
+D: Good morning, Aurora!
+C: BERLIN SUITE
+D: The luxury cabin now tidy and immaculate. Jim bursts in, wild-eyed. Drops his toolbox. Hides the marked- up manual in the closet. He splashes water on his face. Stares into the mirror. HIBERNATION BAY - AURORA’S POD Aurora puts on her Homestead Company bathrobe and slippers. Places her shipcard around her neck on its lanyard.
+C: VIDEO STEWARDESS
+D: You’re ready to go to your cabin. Make yourself at home! Enjoy the rest of your flight, Aurora! Woozy, Aurora sees the other passengers still asleep.
+C: AURORA
+D: Wait! Why are all these people still hibernating? The screen pivots to face her. The Video Stewardess points.
+C: VIDEO STEWARDESS
+D: Aurora, your cabin is this way! DECK SEVEN - CORRIDOR Jim sticks his head out of his cabin, looks up and down the hall. Steps out warily. HIBERNATION BAY - AURORA’S POD Jim approaches Aurora’s pod, electrified. The pod is empty. The screen reads PASSENGER DISCHARGED. DECK NINE - NUMBER NINE PROMENADE Aurora finds her cabin. It’s a first-class cabin, its door overlooking the Grand Concourse atrium.
+C: AURORA’S CABIN
+D: Posher than Jim’s original cabin. A king-sized bed, a panoramic window. A widescreen video screen lights up. The Homestead Company theme music plays.
+C: ANNOUNCER
+D: Welcome to your cabin, Aurora! Your home until we... Aurora slaps the display off. Goes to the phone. A touch of her finger brings up the ship’s telephone directory. Aurora selects “Information.”
+C: PHONE
+D: No one is available at that number. She touches other phone links, faster and faster.
+C: PHONE
+D: No one is available...No one is...No one...No one...No one is available at that number.
+E: CONT’D
+C: AURORA
+D: What the hell’s going on? DECK FOUR - SHOPPING DISTRICT Aurora strides down the lane of quiet shops. Actively searching for other people. ELITE DECK - ELITE PROMENADE Jim paces nervously, glancing around. She could be anywhere.
+C: AURORA
+D: Hello? Jim rushes to the railing. Below on the Grand Concourse, Aurora is turning in circles, looking up at the balconies.
+E: O.S.
+C: AURORA
+D: Hello!
+E: CONT’D shouting
+C: JIM
+D: Hi. Hello! Aurora spins. Spots him.
+E: a husky whisper mustering a shout
+C: AURORA
+D: Hey! I want to talk to you!
+E: shouting
+C: JIM
+D: I’ll come down. Jim runs down six flights of stairs, his heart in his throat. He reaches the Grand Concourse out of breath. He stops a few paces away, just looking at Aurora, getting his wind back.
+E: shouting
+C: AURORA
+D: Passenger or crew?
+C: JIM
+D: Passenger. Jim Preston. He sticks out a hand. She shakes it firmly. Electric for Jim. First contact.
+C: AURORA
+D: I’m Aurora. Jim’s lips move as she speaks her name, almost saying it with her. Aurora. She doesn’t pick up on it.
+C: AURORA
+D: Do you know what’s happening? Nobody else in my row woke up.
+E: CONT’D
+C: JIM
+D: Yeah, I...same for me.
+C: AURORA
+D: The crew’s supposed to wake up a month before we do. But I haven’t seen anybody. Jim swallows hard.
+C: JIM
+D: The crew’s still sleeping. They’ve got a special facility. I can see them in there but I can’t get in. Aurora stares at him.
+C: AURORA
+D: You’re saying nobody’s awake?
+C: JIM
+D: Just me.
+C: AURORA
+D: Just you?
+C: JIM
+D: Just us.
+C: AURORA
+D: But somebody’s got to land the ship in a few weeks. Jim’s finding it unexpectedly hard to deliver the bad news.
+C: JIM
+D: I have to show you something.
+C: ELEVATOR A
+D: Jim and Aurora ride upward. She looks out into the atrium, watching the floors go by.
+C: AURORA
+D: Typical. There’s so much incompetence in these big companies. No accountability! They lost my luggage on the flight to the spaceport. I’m leaving the planet and my bags almost didn’t make it! And nobody apologizes. Nobody even feels bad. Jim is only half listening - his eyes drawn to the spill of her hair over her neck, the line of her jaw.
+C: AURORA
+D: It’s the corporate mentality. Where are we going? Jim yanks his eyes away from her neck.
+E: CONT’D looking at Jim
+C: JIM
+D: The Observatory.
+C: OBSERVATORY
+D: Aurora’s eyes, wide and staring. Her face a mask of horror. In front of them hangs the starship’s progress indicator - the Excelsior hanging between Earth and Homestead II. Thirty- one years elapsed; Eighty-nine years to go.
+C: AURORA
+D: Eighty-nine years to go.
+E: a shocked whisper
+C: JIM
+D: The other passengers aren’t late waking up. We’re early. Aurora stares at Jim.
+C: AURORA
+D: We’ve got to get back to sleep.
+C: HIBERNATION BAY
+D: Jim and Aurora walk down a row of hibernation pods.
+C: AURORA
+D: Nobody strands me on a spaceship for a hundred years. I work for the New Yorker. I’ll write an expose so hot you’ll need oven mitts to read it. Trust me.
+C: JIM
+D: It’s not that simple. Putting somebody into hibernation takes special equipment. Remember the facility where they put us to sleep? Jim points at a pod beside them. A middle-aged woman inside.
+C: JIM
+D: This pod will keep her in hibernation as long as you want. And it can wake her up. But it can’t put her back to sleep.
+E: CONT’D
+C: AURORA
+D: You don’t think there’s a way back into hibernation.
+E: getting it
+C: JIM
+D: Not that I can see.
+C: AURORA
+D: There has to be. There’s always a way. Where’s the crew?
+C: CREW HIBERNATION FACILITY DOOR
+D: Jim and Aurora stand staring at the door: scarred by Jim’s many assaults. Aurora looks through the porthole at the crew inside. She runs her hands thoughtfully over the door’s dents and gouges.
+C: AURORA
+D: How long have you been awake, Jim?
+E: dreading the answer
+C: JIM
+D: A year and three months. Aurora covers her mouth. Her eyes full of horror.
+C: AURORA
+D: Oh, my God. No. She turns her back. Suddenly she walks briskly away. And breaks into a run. Jim watches her go, astonished. After a moment he runs after her.
+C: HIBERNATION BAY
+D: Aurora runs down a row of hibernation pods, her eyes searching wildly among the glass tubes. She turns a corner. Hesitates. Runs down another row. She’s fighting tears. She puts on speed. Her sash unknots itself and her robe billows behind her.
+C: IN ANOTHER ROW
+D: Jim jogs along, worried. He’s lost her. He pauses, listening. In the distance, slippered feet. He runs that way. He stops: the sash of Aurora’s robe lies on the deck. He picks it up. Runs on.
+C: JIM
+D: Aurora! He turns another corner and sees her. She’s sitting down, her back against a hibernation pod. Laughing at her own tears.
+C: AURORA
+D: I can’t even find the one I’m supposed to be in. Jim extends a hand. She lets him pull her to her feet. He gives her the sash, and she ties her robe around her.
+C: AURORA
+D: Thanks. Jim looks back at her, miserable with guilt.
+E: CONT’D
+C: JIM
+D: I shouldn’t have told you like that.
+C: AURORA
+D: No, I’m sorry. It just hit me how serious this is. How did you wake up?
+C: JIM
+D: I just did. I woke up, my pod dumped me out, and there I was.
+C: AURORA
+D: Me too. We have to get help. COMMAND DECK - COMMUNICATIONS CENTER Jim and Aurora stand in at a Passenger Communication Station. Jim swipes his card through the Comm Station’s slot. It brings up his account information.
+C: JIM
+D: I’ve sent...sixteen messages to Earth. A bunch to the Homestead company, one to the Space Administration, one to the United Nations. A couple to Homestead II, just for the hell of it. My phone bill’s about eighty grand.
+C: AURORA
+D: How soon could we hear something?
+C: JIM
+D: With speed-of-light lag, fifty-six years. That’ll be from Earth. Nothing from Homestead II until we’re almost there anyway. Eighty years or so. Aurora’s mouth goes dry. She swallows hard.
+C: AURORA
+D: What about the other planets?
+C: JIM
+D: The other occupied worlds are even farther away. We’d die of old age before they could answer.
+C: AURORA
+D: What about other ships? Jim?
+E: off Jim’s stare
+C: JIM
+D: I never thought of other ships.
+E: feeling very stupid
+C: AURORA
+D: Jim, you’ve had more than a year! There has to be a flight plan or something... They search the Comm Center and find a map table showing the Excelsior’s position relative to the Occupied Worlds. Aurora fiddles with the controls. Interstellar flight plans appear: a spiderweb of starship tracks between the worlds.
+C: AURORA
+D: There! They inspect the threads of light - an icon on each thread representing a starship. Even Jim is excited now.
+E: CONT’D
+C: AURORA
+D: How do we tell how far away they are?
+E: CONT’D
+C: JIM
+D: The computer knows. Give me a ship.
+C: AURORA
+D: The starship Zephyr.
+E: peering at the star map
+C: JIM
+D: Round-trip message lag...ninety-nine years.
+C: AURORA
+D: The starship Andromeda.
+C: JIM
+D: One hundred thirty-two years.
+C: AURORA
+D: The Maximilian.
+C: JIM
+D: Eighty-one years. Jim and Aurora deflate visibly.
+C: AURORA
+D: That’s the closest one. GRAND CONCOURSE - EVENING The ship’s lights turn the cool blue of evening. Jim and Aurora walk across the plaza.
+C: AURORA
+D: I know I should be working the problem right now, but I can barely keep my eyes open.
+C: JIM
+D: You just came out of hibernation. It’ll be a couple days before you’re a hundred percent. You should rest.
+C: AURORA
+D: I think I have to.
+E: yawning
+C: JIM
+D: I’ll walk you to your cabin.
+C: AURORA
+D: No, I’m all right.
+C: JIM
+D: Okay.
+C: AURORA
+D: Jim. Don’t look so down. It’s going to be okay. You’ve got me on the team now. Chin up, all right? Jim nods, speechless.
+C: AURORA
+D: I’m in cabin ninety forty-eight, if you need me. Jim watches her walk away.
+E: CONT’D
+C: JIM
+D: I’m in the Berlin Suite if you need me. She stops. Turns to look back at him.
+C: AURORA
+D: A year and a half? Must have been hard.
+C: JIM
+D: It was.
+C: AURORA
+D: Good night, Jim. GRAND CONCOURSE - CONCOURSE BAR Jim sits down at the bar.
+C: JIM
+D: Whiskey. Rocks.
+C: ARTHUR
+D: Sure thing. How’s your day been? Jim takes a stiff drink.
+C: JIM
+D: Aurora’s awake.
+C: ARTHUR
+D: Congratulations. You don’t look happy.
+E: off Jim’s face
+C: JIM
+D: Arthur. Can you keep a secret?
+C: ARTHUR
+D: I’m a bartender.
+C: JIM
+D: Don’t tell Aurora I woke her up. She thinks it was an accident. Let me tell her. Okay? AURORA’S CABIN - NIGHT Aurora sleeps, her hair a fan of gold on the pillow. BERLIN SUITE - BEDROOM - NIGHT Jim lies awake, fidgeting and staring at the ceiling. GRAND CONCOURSE - INFOMAT - MORNING Aurora talks with a relentlessly cheerful Infomat. She’s wearing her own clothes, and it’s a transformation: she looks hip and urban, beautiful.
+C: AURORA
+D: How can there be no way to put someone into hibernation aboard ship? What if a pod breaks down?
+C: INFOMAT
+D: No pod has malfunctioned in thousands of interstellar flights.
+C: AURORA
+D: Well, I’m awake.
+C: INFOMAT
+D: Hibernation pods are fail-safe. Jim appears behind Aurora.
+C: JIM
+D: Good morning. Have you eaten?
+C: AURORA
+D: I’m starving. This is the dumbest machine.
+C: CAFETERIA
+D: Jim watches in astonishment as Aurora blithely orders the snacks that the machines deny him. The Mocha Cappuccino Extreme. The French Breakfast Puff. The Gourmet Fruit Salad. They sit. Aurora eyes Jim’s tray.
+C: AURORA
+D: You’re a man of simple tastes.
+C: JIM
+D: I’m a silver class passenger. The French Breakfast Puff is above my pay grade.
+C: AURORA
+D: Oh, no! All this time? What can I get you?
+C: JIM
+D: No, I’m fine, really...
+C: AURORA
+D: Shut up. I’ll be right back. She gets up. In a minute she’s back, setting a tray down in front of Jim: A western omelette with a side of bacon...a cafe latte...half a honeydew melon. Jim shoves his old breakfast aside.
+C: JIM
+D: Thank you. They dig in.
+C: AURORA
+D: You think the crew members would know what to do?
+C: JIM
+D: I was hoping so.
+C: AURORA
+D: Could we wake them up if we got in there?
+C: JIM
+D: I’m no expert. But I think so.
+E: awkwardly
+C: AURORA
+D: Maybe there’s another way to go to sleep. Did you check out the infirmary?
+C: JIM
+D: I looked around. It’s the usual hospital stuff. Scanners, autodocs.
+C: AURORA
+D: Did you look for ways of going to sleep?
+C: JIM
+D: Not really.
+C: AURORA
+D: Well, Jim!
+C: JIM
+D: You think they’ve got suspended animation pills sitting around?
+C: AURORA
+D: You don’t know until you look. What about cargo? Maybe there’s a hibernation machine in the hold.
+C: JIM
+D: I looked at the manifests. It’s mostly farming stuff, industrial machines. We’re not going to find a hibernation facility in a box.
+C: AURORA
+D: You don’t know that! We have to think big here. Maybe we can build our own hibernation machine.
+C: JIM
+D: No, we can’t.
+C: AURORA
+D: You’re not even trying!
+C: JIM
+D: I’ve been awake a year and a half. I’ve tried everything I can think of.
+C: AURORA
+D: Well, it looks to me like you missed some possibilities. And I’m not ready to give up. She strides out. Jim watches her go. Reaches over and takes the Gourmet Fruit Salad off her tray. DECK TWO - LIBRARY - DAY Aurora sits at a library workstation.
+E: she gets up angrily
+C: WORKSTATION
+D: No plans are available.
+C: AURORA
+D: What about research articles, any kind of technical documents?
+C: WORKSTATION
+D: Hibernation technology is proprietary. The following articles deal with the subject on a theoretical level. COMMAND DECK - COMMUNICATIONS CENTER - DAY Aurora sits at the Passenger Communications Booth.
+C: COMMUNICATIONS BOOTH
+D: Planet and connection, please.
+C: AURORA
+D: Earth. The New Yorker magazine, office of the Editor in Chief.
+C: COMMUNICATIONS BOOTH
+D: Begin message.
+C: AURORA
+D: My name is Aurora Dunn. I’m doing a long-term piece on the colony worlds. I know you won’t get this message for a long time...but you should know I’m in trouble. SERVICE DECK - INFIRMARY - DAY Aurora inspects the gleaming medical equipment. Rummages through cabinets full of medicines and instruments. She opens a steel vault. A deep freeze: icy vapor rolls out. Inside: racks of steel capsules at subzero temperatures. She leans close: each frosted capsule is labeled with a passenger’s name and the word SPERM or OVA. CREW HIBERNATION FACILITY DOOR - EVENING Aurora frowns through the window at the sleeping crew. A litter of tools still surrounds the battered door. Aurora snatches up a crowbar and bashes the porthole. The bar spins from her stinging hands, but the window’s not even marked. ELITE DECK - ELITE PROMENADE - EVENING Jim sits at a table with his tools, struggling with a high- tech mechanism. Aurora drops into a chair across from him. He looks up. Takes in her condition: weary and frustrated.
+E: into camera
+C: AURORA
+D: There’s no way we’re going to build a hibernation machine.
+C: JIM
+D: No.
+C: AURORA
+D: And there’s no magic sleeping drugs in the infirmary.
+C: JIM
+D: No.
+C: AURORA
+D: I did find the gene bank. Five thousand sperm and egg samples on ice. I should be glad they do that. By the time we get to Homestead II, that little capsule in the freezer is going to be all that’s left of me. We really are screwed, aren’t we?
+C: JIM
+D: Pretty much. BELLA CANTINA - EVENING Jim and Aurora sit across a Mexican dinner they’ve already put a dent in. An electric candle burns between them. A robot in a sombrero drops off two mojitos and scoots away.
+C: AURORA
+D: So who are you, Jim? I’m going to be seeing you around. I should know who I’m talking to.
+C: JIM
+D: I’m from Denver. Lived there all my life.
+C: AURORA
+D: What kind of work do you do?
+C: JIM
+D: A little of everything. Transport, robotics, industrial systems. I fix what’s broken. On the emigration forms I’m a “rate two” mechanical engineer. Means I don’t have a Ph.D.
+C: AURORA
+D: Neither do I. But a journalist doesn’t need one; she just needs a way with words and an attitude. I’m from Manhattan, so I had the attitude.
+C: JIM
+D: I noticed.
+C: AURORA
+D: And the words have always been there when I needed them. I would never have lasted a year with no one but robots to talk to. They’re all such idiots!
+E: she laughs
+C: JIM
+D: Not all of them. GRAND CONCOURSE - CONCOURSE BAR - NIGHT Jim leads Aurora up to the Concourse Bar. It appears deserted. Aurora is all curiosity. Suddenly Arthur appears, doing his swinging-up-on-hinges trick. Aurora gives a squeal of surprise.
+C: ARTHUR
+D: Evening, Jim. Who’s the lovely lady?
+C: JIM
+D: Arthur, this is Aurora. Aurora, Arthur.
+C: ARTHUR
+D: Aurora. A pleasure. He takes her hand formally.
+C: AURORA
+D: Arthur! Lovely to meet you. She peeks over the bar at Arthur’s mechanical mounting, the rails he rolls on.
+C: ARTHUR
+D: What’ll it be?
+C: AURORA
+D: Dirty martini! Now this is a robot I can talk to.
+E: to Jim
+C: JIM
+D: Android, technically. Whiskey and soda.
+E: to Arthur
+C: LATER
+D: Empty glasses show that Jim and Aurora have been doing yeoman’s work at the bar. Both are tipsy and laughing.
+C: AURORA
+D: My God, I almost forgot my life is in ruins. That wipes the smile off Jim’s face.
+E: collecting herself
+C: JIM
+D: Sorry.
+C: AURORA
+D: What for? It’s time to sleep. In the morning we’ll think of something brilliant.
+C: JIM
+D: All right.
+C: AURORA
+D: Good night, Jim. Good night, Arthur. She exits.
+C: ARTHUR
+D: Good night. She’s wonderful. Excellent choice. Jim drops his head into his hands. AURORA’S CABIN - NIGHT Aurora stows clothing in drawers and closets. She hangs snapshots on the wall: family and friends. Most of the pictures were apparently taken at the same grand party. She looks at them wistfully - and a look of astonishment crosses her face.
+E: to Jim, sotto voce
+C: AURORA
+D: Of course! ELITE DECK - BERLIN SUITE DOOR Aurora pounds on the door.
+C: AURORA
+D: Jim! Wake up! The door opens. Jim stands blinking in his bathrobe.
+C: AURORA
+D: We’ll go home!
+E: CONT’D
+C: JIM
+D: What? She pulls him down the hall, chattering.
+C: AURORA
+D: It takes too long to get to Homestead II. But we’re still closer to Earth. We’ll turn the ship around.
+C: ELEVATOR
+D: Aurora drags Jim in and punches the button.
+C: AURORA
+D: We’ll go home.
+C: JIM
+D: It would take decades.
+C: AURORA
+D: It’s our only chance of getting off this ship in our lifetimes.
+C: COMMAND DECK
+D: Aurora drags Jim out of the elevator. Looks around.
+C: AURORA
+D: Where’s the...navigating place?
+C: JIM
+D: That way. But... She drags him toward the Bridge.
+C: AURORA
+D: We can learn how to pilot the ship. We have all the time in the world.
+C: JIM
+D: There’s just one problem. COMMAND DECK - BRIDGE DOOR Aurora opens the Bridge door - revealing the armored firewall hatch just beyond it.
+C: JIM
+D: Everything important - the reactor, the gravity drive - it’s all behind firewalls. There’s no way through.
+C: AURORA
+D: Oh.
+C: JIM
+D: Sorry.
+C: AURORA
+D: That was my last good idea. FORWARD OBSERVATION DECK - DAY Aurora sits curled up in an armchair. Around her, a dizzying view of the cosmos. There’s a cup of coffee on a table beside her. In her lap, an electronic slate with an attached microphone.
+E: crushed
+C: AURORA
+D: New file. My Voyage. A clean page opens on the slate. The title in the corner: “My Voyage.” As Aurora speaks, the page fills with words.
+C: AURORA
+D: I boarded the Excelsior on assignment. Maybe the most ambitious writing assignment ever given. But things have taken an unexpected turn. I’m not writing for The New Yorker anymore. I’m writing for me. ELITE DECK - CORRIDOR - DAY Aurora jogs in sneakers and sweats. Cabin doors flash past.
+E: CONT’D
+C: AURORA
+D: I’ve been awake on this ship for seven days, awake far too soon... Dead end. She’s reached the aft end of the ship. She crosses a lobby and runs back the other way.
+E: V.O.
+C: AURORA
+D: ...and I might spend the rest of my life here... Running along a promenade, Aurora reaches the forward end of the ship. Dead end again.
+E: V.O. CONT’D
+C: AURORA
+D: ...in a little steel world five hundred meters long.
+E: V.O. CONT’D
+C: GRAND CONCOURSE
+D: Jim sits at a table, a technical manual open in front of him. He looks up. Watches Aurora jog around the atrium and vanish.
+C: AURORA
+D: I’m not alone. Another passenger shares my fate. A mechanic named Jim Preston. SWIMMING POOL - DAY The swimming pool is a marvel: one entire wall is a window extending from the ceiling to the bottom of the pool. Aurora enters in her HomeStead Company bathrobe. Drops the robe to reveal a bathing suit.
+E: V.O.
+C: AURORA
+D: The other passengers will sleep for another ninety years. She dives into the pool. EXT. STARSHIP EXCELSIOR - SWIMMING POOL WINDOW Aurora swims, a slender shape moving on the water’s surface. We pull out, the ship dwindling, the blue window receding.
+E: V.O.
+C: AURORA
+D: By the time they wake, Jim and I will have lived, grown old and died. INT. FORWARD OBSERVATION DECK Back on Aurora in her armchair, writing.
+E: V.O.
+C: AURORA
+D: Vanished, like a dream, in the blink of an eye. She falters, frightened by her own words. CAFETERIA - DAY Jim sits eating and tinkering with a small robot. The table is strewn with dishes and tools. Aurora sits down across from him.
+C: AURORA
+D: Why did you do it? Jim is thunderstruck. The game is up. He swallows hard.
+C: JIM
+D: Do what?
+C: AURORA
+D: Emigrate. Leave Earth. I’m interviewing you.
+C: JIM
+D: You’re what?
+C: AURORA
+D: Interviewing you. You’re the first victim of hibernation failure in the history of space travel. That makes you news.
+C: JIM
+D: Who are you going to tell?
+C: AURORA
+D: Posterity. So why’d you give up your life on Earth? Jim seems stunned by the question. He hadn’t thought about it in quite those words.
+C: AURORA
+D: A hundred and twenty years’ hibernation means you never see your family and friends again. You sleep your way to another planet and another century. The ultimate geographical suicide.
+E: CONT’D
+C: JIM
+D: I, uh...I never really...
+C: AURORA
+D: Were you running away from something?
+C: JIM
+D: No. Things were okay.
+C: AURORA
+D: So?
+C: JIM
+D: I just wanted more, I guess. You know. More room. A fresh start. Back to basics.
+C: AURORA
+D: That’s HomeStead Company propaganda.
+E: chiding
+C: JIM
+D: I guess.
+C: AURORA
+D: Jim!
+C: JIM
+D: I’m a mechanic. A rate-two mechanic. We’re a dying breed on Earth. But in the colonies, they still have problems to solve. My kind of problems. In the colonies, a handyman is somebody. Nothing there for Aurora to scoff at. She looks impressed.
+C: JIM
+D: And there’s room! Open country. Woods and fields. I like the outdoors. You know, room to grow.
+E: CONT’D
+C: AURORA
+D: Now you’re back to advertising.
+C: JIM
+D: Can’t it still be true?
+C: HIBERNATION BAY
+D: Jim and Aurora walk down an aisle of hibernation pods.
+C: AURORA
+D: You know how much the Homestead Company’s made off its first planet, Homestead I? Over eight quadrillion dollars. That’s eight million billions. Colony planets are the biggest business there is. Did you pay full price for your ticket?
+C: JIM
+D: No, I’m in a desirable trade.
+C: AURORA
+D: So they fill your head with dreams, discount your ticket, and you fly off to populate their planet and pay HomeStead ten percent of everything you do for the rest of your life. You think you’re free? You’re just part of the business plan. Jim waves at the rows of sleepers.
+E: triumphantly
+C: JIM
+D: All you see here is five thousand suckers?
+C: AURORA
+D: I see zeroes on the HomeStead Company’s bottom line.
+C: JIM
+D: I see five thousand men and women changing their lives. For five thousand different reasons. You don’t know these people. Jim walks up to a hibernation pod. Glances at the data screen. He covers the screen with his hand.
+C: JIM
+D: This guy. Banker, teacher, or gardener? Aurora studies the sleeper: a barrel-chested man of 50 with gray temples and a jutting jaw.
+E: CONT’D
+C: AURORA
+D: Banker.
+C: JIM
+D: Gardener. Jim moves down the row, peeks at another screen, covers it.
+C: JIM
+D: Is this Madison, Donna, or Lola? Aurora peers: a birdlike young woman with long red hair.
+E: CONT’D
+C: AURORA
+D: She’s too silly to be a Donna. I think she’s a Lola.
+C: JIM
+D: Madison. Chef, accountant, or midwife?
+C: AURORA
+D: She has to be a midwife. There’s no way you made that one up.
+C: JIM
+D: She’s a midwife. I didn’t know they still had midwives. They move among the sleepers, quizzing each other.
+E: chuckling, caught
+C: AURORA
+D: Married, or strangers?
+E: pointing at a man and woman side by side
+C: JIM
+D: Married.
+C: AURORA
+D: Yes.
+E: impressed
+C: JIM
+D: Sixteen, twenty-six, or thirty-six?
+E: indicating a young woman
+C: AURORA
+D: I’d almost say sixteen...twenty-six.
+C: JIM
+D: Right.
+C: AURORA
+D: Politician, historian, or artist?
+E: about an older woman
+C: JIM
+D: I don’t know. Artist?
+C: AURORA
+D: It doesn’t say. But I’ll tell you this: I like her. We’d be friends. Jim looks at Aurora seriously.
+C: JIM
+D: You think you can see that?
+C: AURORA
+D: Don’t you? Jim looks at the woman in the pod. Smiles.
+C: JIM
+D: Yeah. FORWARD OBSERVATION DECK - DAY Jim and Aurora sit at opposite ends of a sofa - their feet almost but not quite touching. They sip cocktails.
+C: AURORA
+D: That was my plan. Travel to Homestead II. Live there for a year and see what emigrating’s really like. Then back to Earth. I’m the only passenger on board with a round-trip ticket.
+C: JIM
+D: I left Earth for a new life. But you end up back where you started.
+E: perplexed
+C: AURORA
+D: No! I end up in the future. Two hundred and fifty years in the future. On Earth, which is still the center of civilization, overcrowded or not. And I arrive in the future with an amazing story. A perspective no other writer has. Literary immortality.
+E: MORE
+C: JIM
+D: And what’s this amazing story?
+C: AURORA
+D: The selling of the colonial dream.
+C: JIM
+D: Big plans.
+C: AURORA
+D: My friends threw me this huge farewell party. Everyone came. It was the happiest, saddest night. And look what it’s all come to. Jim, I can’t think of anything else to try. To save us, I mean. I don’t even want to think about it anymore. So. What is there to do around here? MOVIE THEATER - DAY Jim leads Aurora into the movie theater. The lights come up. The curtain opens. Aurora looks around in wonder. A bundle of cables snakes down the aisle.
+E: she sighs
+C: JIM
+D: Watch your step. I’ve made a few changes. Next to Jim’s favorite seat there’s a cluster of machines with power cables and hoses running to them. Jim and Aurora sit. A screen beside Jim lists movies.
+C: JIM
+D: I got tired of running up to the projector room, so I moved the controls down here. Thirty thousand movies to choose from. I’ve only watched about five hundred of them. He taps a button on another machine, which produces a bucket of hot popcorn. He offers Aurora some.
+E: CONT’D
+C: JIM
+D: Popcorn? Aurora grins and takes some.
+E: CONT’D
+C: AURORA
+D: GYMNASIUM - BASKETBALL COURT - DAY Jim and Aurora play one-on-one. She’s not especially good, but fiercely competitive. They jostle and scramble, laughing. Aurora snags the ball. For a minute she just stands there, beaming.
+E: CONT'D
+C: JIM
+D: What are you so happy about?
+C: AURORA
+D: I’m up two points! She cuts around him toward the basket. DECK TWO - VIRTUAL MUSEUM - EVENING Jim and Aurora walk through the museum’s white rooms. The walls display a Jackson Pollock collection. Aurora goes to the control podium. Scrolls through the menu, covers her eyes and chooses blind. The wall panels fill with Heironymous Bosch paintings - medieval visions of Hell. She winces and chooses again. A somber collection of portraits by Dutch masters. She frowns. Jim steps to her side and makes a selection. The walls fill with abstract landscapes - stark plains and oceans, with lonely figures isolated in the vastness. The images pull Jim and Aurora in: they stand before a dark seascape. Without thinking she reaches out and tucks her hand in the crook of his elbow. FADE TO BLACK.
+C: SUPER: ONE MONTH LATER
+D: SWIMMING POOL - MORNING Aurora swims laps, cutting through the water. In the balcony above the pool, Jim stands watching her. Aurora, making a turn at the end of a lap, catches a glimpse of him but doesn’t let on. Underwater she smiles. DECK THREE - SHOPPING DISTRICT - MORNING A cleaning robot scurries along the shopping street, looking for spots to polish. Jim’s hands reach into frame, pluck the robot off its wheels. DECK NINE - NUMBER NINE PROMENADE Aurora stands at the railing, watching curiously as Jim crosses the Concourse below with the robot under his arm. SUBDECK C - MACHINE SHOP - DAY Jim stands at a workbench, the robot in front of him. He tinkers with its complex works. GRAND CONCOURSE - DAY Jim sits in an armchair with his industrial laptop. He types a string of commands, hits EXECUTE. Beside him on the floor, his kidnapped cleaning robot does a figure-eight. Jim smiles in satisfaction. FORWARD OBSERVATION DECK - DAY Aurora sits in her habitual writing position: cross-legged on her favorite sofa, her writing slate in her lap.
+C: AURORA
+D: The starship’s designers gave the ship a daily rhythm. The light is warm in the morning, bright during the day, cool at night. We need those changes. But I miss other rhythms. There are no holidays here. Every day is a day of leisure. There are no seasons. The sky never changes. A mechanical whir distracts her. She looks down. Jim’s pet robot looks up at her with binocular eyes. It carries a note in a clip on its back. Aurora pulls it free. A handwritten invitation from Jim. It reads: Come to dinner with me tonight? - Jim Aurora reads the note with a grin.
+C: AURORA
+D: Is he asking me on a date? SUBDECK C - MACHINE SHOP Jim sits at his laptop, watching the screen: a robot’s-eye- view of Aurora. He wiggles a joystick on his laptop, and...
+E: CONT’D to the robot
+C: FORWARD OBSERVATION DECK
+D: ...the robot nods its goggle head. Aurora laughs. Beside the note-clip, the robot carries a pen in a makeshift holder. Aurora takes the pen, scribbles on the paper. Tucks it back into the robot’s note clip. GRAND CONCOURSE - CONCOURSE BAR Arthur polishes glasses behind the bar. The robot crosses the Concourse, note clipped to its back. Arthur watches it pass. SUBDECK C - MACHINE SHOP Jim plucks the note from the robot’s back. Aurora’s reply is written in bold letters: Love to.
+C: -A
+D: AURORA’S CABIN - EVENING Aurora gets ready for dinner. A slim gown, a few pieces of jewelry, her hair up. She looks like a goddess. The doorbell rings. She answers it. Jim stands on her doorstep in a black jacket, looking dapper. His eyes widen as he takes Aurora in.
+C: JIM
+D: Wow.
+C: AURORA
+D: You clean up all right yourself. You went shopping.
+C: JIM
+D: I went shoplifting. In the corridor stands a cargo robot to which Jim has attached an upholstered loveseat. He helps Aurora aboard and takes a seat beside her. She’s charmed.
+C: JIM
+D: Rutherford! To the bar!
+E: CONT’D
+C: CARGO ROBOT
+D: Yes, Passenger Jim! The robot zooms off to the sound of Aurora’s laughter. GRAND CONCOURSE - CONCOURSE BAR Jim and Aurora take seats. Arthur puts on his best manners.
+C: ARTHUR
+D: Evening. What can I get for you?
+C: AURORA
+D: A manhattan, please.
+C: JIM
+D: Single malt, rocks. Arthur pours.
+C: ARTHUR
+D: You two look fine this evening.
+C: AURORA
+D: We’re on a date!
+E: confidentially
+C: ARTHUR
+D: Very nice.
+C: AURORA
+D: Took you long enough to ask.
+E: to Jim, teasing
+C: JIM
+D: I was giving you space!
+C: AURORA
+D: Space is one thing I don’t need more of. I’ve been doing research. I found a drug that would put us in a coma indefinitely, and machines that would keep us alive.
+E: MORE
+C: JIM
+D: Really?!
+C: AURORA
+D: But it’s not suspended animation. We’d still be aging.
+C: JIM
+D: Oh.
+C: AURORA
+D: Yeah. If I have to grow old on this ship, I’d at least like to be awake for it. So that was a failure.
+C: JIM
+D: A highly ambitious failure.
+C: AURORA
+D: There’s the title of my memoir. “A Highly Ambitious Failure,” by Aurora Dunn. Jim laughs. He thinks for a minute.
+C: JIM
+D: “Voyage to Nowhere,” by Jim Preston.
+C: AURORA
+D: “My Life in a Tin Can.”
+E: laughing
+C: JIM
+D: “A Spaceship Built For Two.” THE STARDOME - XANADU A great glass dome, the highest point on the ship. Outside the dome, a riot of stars. Inside, a luxury restaurant. Jim and Aurora emerge into the dome. She turns, looking at the glittering river of the Milky Way, the blue stars ahead of the ship, the pink stars behind them.
+C: AURORA
+D: Incredible. They sit at the best table. Robots attend to their every need. The blue stars frame Jim’s head; the pink, Aurora’s. Beautiful dishes arrive: new wines with every course.
+C: AURORA
+D: NIGHTCLUB - NIGHT A holographic 12-piece band plays on stage: a jazz standard. Jim walks onto the dance floor. Holds out his hand to Aurora. She comes to him, and they dance. They’re pretty good. Smiles grow on their faces. Jim spins her out, spins her back - close enough to kiss. They almost do - but they don’t. DECK THREE - SHOPPING DISTRICT - NIGHT Jim and Aurora ride along on the cargo robot. Her head rests on his shoulder. Suddenly she sits up.
+E: CONT'D
+C: AURORA
+D: Rutherford, stop! The robot stops. She pulls Jim off.
+C: AURORA
+D: Come on, we have to do this! She pulls him to the photo booth. They tumble inside. As the strobe flashes, she kisses him hard. Outside, the photo strip drops into the tray: four color pictures. In the first they laugh; in the second they clown; in the third, they kiss. In the last image, Aurora smiles at the camera; Jim looks at Aurora. Aurora taps the pictures: they start to move: each is a one- second movie clip. The pictures laugh, and clown, and kiss. DECK NINE - CORRIDOR - OUTSIDE AURORA’S CABIN The robot pulls up to Aurora’s door. Jim helps her down. Aurora opens the door. Turns back to him.
+E: CONT’D
+C: AURORA
+D: Thank you. I had an amazing time. A great night.
+C: JIM
+D: Yeah, me too. Well, good night. He turns to go.
+C: AURORA
+D: Jim. He turns back. Aurora grabs him and drags him into her cabin.
+C: AURORA’S CABIN
+D: They stagger across the room together. He backs her up against a wall, kisses his way down her throat. She drags his jacket off his shoulders. Pulls at his shirt. He slips the straps from her shoulders. Her dress slides to the floor. They roll onto the bed. CAFETERIA - MORNING Breakfast. Jim watches Aurora eat.
+C: AURORA
+D: This is so good. I’m starving. Last night was just what I needed.
+E: she smiles at him
+C: JIM
+D: You are the most beautiful woman I’ve ever seen. You’re so beautiful it hurts me. She stares, shocked. Leans across the table and kisses him. Soon they’re making out right on top of breakfast. A passing robot pauses to observe the scene - then moves on.
+C: SERIES OF SHOTS
+D: 1. Jim and Aurora make out fiercely in the movie theater while a movie plays onscreen. 2. Aurora straddles Jim in a jacuzzi in the ship’s Spa. She moves against him: she’s close. She climaxes gorgeously. 3. Jim stands on a promenade. Aurora passes, jogging. He gives her a smile as she goes by. A moment later she runs back into frame and tackles him. They tumble to the deck.
+C: BERLIN SUITE
+D: Jim and Aurora lie in Jim’s imperial bed, glistening with sweat and breathing hard. She lays her head on his shoulder, her eyes far away and wistful.
+C: JIM
+D: You okay?
+C: AURORA
+D: Yes, I’m fine. It’s just... She waves her hand in the air as if to signify, all of this.
+C: JIM
+D: I know. She snuggles in tighter, and he holds her close. EXT. STARSHIP EXCELSIOR - BERLIN SUITE WINDOW Through the window, Jim and Aurora lie together in the luxurious bed. We pull out, the window dwindling, as the Excelsior soars away from us into the stars. FADE TO BLACK.
+C: SUPER: THREE MONTHS LATER
+D: ELITE DECK - CORRIDOR - MORNING A luxury cabin door: the doorplate reads “Vienna Suite.” VIENNA SUITE - BEDROOM The best suite on the ship. One one side of the bedroom, Aurora’s mementos and possessions. On the other side, Jim’s. They wake together. She kisses him on the cheek with the ease of long habit and heads for the shower. He watches her go. SWIMMING POOL - MORNING Swimming, Aurora reaches the end of a lap. A hand reaches down and catches her before she can turn. Jim kneels at the edge of the pool, in coveralls and work boots, a tool belt slung over his shoulder. Aurora pulls herself up and kisses him.
+C: JIM
+D: I’m going to finish my survey of the cargo hold. See what there is to play with.
+C: AURORA
+D: Be careful.
+C: JIM
+D: Back by happy hour. FORWARD OBSERVATION DECK - DAY Aurora writes on her sofa, surrounded by electronic slates, each displaying a reference book or research paper. On one, a map of the Polynesian archipelago.
+C: AURORA
+D: The Polynesians set out into the Pacific Ocean with no destination. Searching for islands. They sailed into the endless sea on faith. SUBDECK A - NUMBER EIGHT CARGO HOLD - DAY Jim walks among the towering cargo racks. His flashlight illuminates machines stacked from floor to ceiling: tractors and combines, helicopters and seaplanes.
+C: AURORA
+D: Some never returned, but others found land, and prospered. What drove them out onto the sea? Curiosity? Tradition? The wish for something better? Jim opens cargo containers. He finds ingots of metal, computer components, spools of superconducting wire. Raw materials for a young world.
+E: V.O.
+C: AURORA
+D: The urge to move is as primal as hunger or thirst. We run, we drive, we sail, we fly. Jim finds a stash of utility golf carts and his eyes light up. He unpacks one, starts it up. Drives off into the dark. GRAND CONCOURSE - CONCOURSE BAR - DAY Aurora sits at the bar with her slate, sipping a drink.
+E: V.O. CONT’D
+C: AURORA
+D: Is it movement that we need? Or the possibility of something new?
+C: ARTHUR
+D: What’s that?
+C: AURORA
+D: I’m writing, Arthur. Hush. Aurora’s slate has recorded this exchange: she erases the extra words with her fingertip. SUBDECK A - NUMBER SEVEN CARGO BAY Jim drives his cart into a new bay - and stares in wonder. In oversized hibernation pods: cattle, horses, sheep, oxen. All asleep. Chickens, ducks and geese in individual cells.
+C: AURORA
+D: Like seeds, we carry what we need. The wind drives us - whether the trade winds, the solar winds, or the winds of chance. The next aisle holds plants in stasis: saplings in tubes, seedlings in individual vials. Jim stops in front of a glass case. Rosy light bathes his face. He smiles. We don’t see why.
+E: V.O.
+C: AURORA
+D: We take root where we fall. And helplessly we grow. VIENNA SUITE - BEDROOM - EVENING Aurora sits with her slate. Eyeing Jim’s side of the room. Giving in, she begins to explore Jim’s possessions: poking into the drawers of his nightstand and dresser. She opens his closet. Shifting things, she finds a dog-eared manual on hibernation pods. She pulls it out. There’s a bookmark in the pages. She goes to open the book - and the bookmark slides into her hand. It’s the photo strip Jim took during his isolation: Four identical shots of his face, bearded and hollow-eyed. The melancholy images hit her hard. She touches the pictures to make them move: but Jim sits immobile. In the fourth image, he sighs heavily. Voices in the hall.
+E: V.O. CONT’D
+C: CLEANING ROBOT
+D: Hello, Passenger.
+E: O.S.
+C: JIM
+D: Hello, robot. Hastily Aurora replaces the manual. Closes the closet. Jim appears in the doorway: tool belt over his shoulder, duffel bag in hand.
+E: O.S.
+C: AURORA
+D: Hi.
+C: JIM
+D: Hi. How was your day?
+C: AURORA
+D: I don’t know. I wrote a few pages. I’m not sure what I’m doing anymore. I was writing a book, and I was keeping a diary. But the book and the diary are running together. I think I’m writing about us.
+C: JIM
+D: Makes sense to me.
+C: AURORA
+D: I’m not sure I want to write about this life. I don’t even know how to think about it. I live in a palace. But it’s also a prison. I’m moving at half the speed of light and I can’t go anywhere! Jim takes that in.
+C: JIM
+D: The cargo hold is full of pioneer gear. There’s a submarine down there, can you believe it? Ships and airplanes and bulldozers. That’s what I wanted, a world still being built. But I’ll never see it. They sit for a moment in glum contemplation.
+C: AURORA
+D: Did you find anything that could help us?
+C: JIM
+D: Yes. I found these. Jim unzips his duffel bag and takes out a bouquet of long- stemmed roses. Aurora gasps. Reaches out to touch them.
+C: AURORA
+D: Are they real?
+C: JIM
+D: I cut them myself. Aurora leaps into action. She finds scissors, a pitcher. At the sink she trims the stems, arranges the flowers.
+C: AURORA
+D: Thank you.
+C: JIM
+D: You’re welcome. She looks into his eyes.
+C: AURORA
+D: For very unlucky people, we got pretty lucky. FADE TO BLACK.
+C: SUPER: THREE MONTHS LATER
+D: INT. ELITE DECK - CORRIDOR - DAY Jim and Aurora sprint down the hall, cabin doors flashing by. Jim’s practically dragging her along. A deep background RUMBLE.
+C: JIM
+D: It’s coming! Run!
+C: CELESTIAL PROMENADE
+D: Jim and Aurora run up the stairs onto the highest promenade on the ship: glass all around, skylight above. The deep RUMBLE is louder. A bloody light fills the sky. A STAR looms ahead of the ship: a RED GIANT. The Excelsior rockets toward the star. The passage takes less than a minute. The Red Giant swells in the windows. The ship shudders. The engines howl. Aurora falls into Jim’s arms. The ship bathed in red light. The star fills the skylight, fills the sky itself. A fiery surface turbulent with sunspots and mysterious currents. The engines howl. And then they’re past. The star recedes, dwindling as quickly as it grew. The engines quiet. The ship’s calm restored.
+C: AURORA
+D: That was incredible.
+E: breathlessly
+C: JIM
+D: Closest we’ll get to a star on the whole trip. Happy birthday. She throws her arms around him. VIENNA SUITE - BEDROOM - EVENING Aurora stands in her bathroom, getting pretty for dinner. SUBDECK C - MACHINE SHOP Jim puts the finishing touches on a beautiful RING woven from gold and silver wire. It’s crowned with a flower of gold. He removes the ring from its clamp: inspects it thoroughly. Satisfied, he wraps it in a cloth and tucks it in his pocket. STARDOME - XANADU - EVENING Jim and Aurora dine. They laugh and flirt with easy intimacy. Their plates emptied, they sit back, sipping wine. Jim lifts the table’s candle and waves it in the air. A robot rolls up with a birthday cake, candles alight.
+C: JIM
+D: Happy birthday to you... Happy birthday to you... Happy birthday, dear Aurora... Happy Birthday to you. Aurora sits bathed in candlelight, and for this moment she is truly and fundamentally happy. She blows the candles out. GRAND CONCOURSE - CONCOURSE BAR - NIGHT Jim and Aurora sit at the bar, tipsy. Arthur pours.
+E: singing
+C: ARTHUR
+D: Birthday cocktail for the birthday girl.
+C: AURORA
+D: Aren’t you going to check my I.D.? I might not be old enough to drink.
+C: ARTHUR
+D: I’d never ask your age in front of a gentleman.
+C: AURORA
+D: Jim’s not a gentleman. Anyway there’s no secrets between me and Jim.
+C: ARTHUR
+D: Is that so?
+E: looking at Jim
+C: JIM
+D: You heard the lady. Be right back. He walks away.
+C: AURORA
+D: You know what I like about you, Arthur? You have a sense of occasion. I bet ladies fall for you on every trip.
+C: ARTHUR
+D: I’d say you were pulling my leg, but I haven’t got any.
+C: AURORA
+D: Exactly! There you go.
+E: laughing
+C: ARTHUR
+D: I remember your last birthday, a year ago. Jim was really looking forward to meeting you. Aurora frowns, processing this sentence - her smile fading.
+C: AURORA
+D: What?
+C: MEN’S WASHROOM
+D: Jim stands at the mirror, straightening his lapels, touching up his hair. He unwraps the ring. Looks it over. Smiles at his reflection.
+C: CONCOURSE BAR
+D: Aurora scowls at Arthur, trying to get her bearings.
+C: AURORA
+D: What do you mean, he was looking forward to it? How could he...
+C: ARTHUR
+D: He couldn’t stop talking about you, let me tell you. He spent months deciding whether to wake you up. Aurora eyes widen in shock.
+C: AURORA
+D: Jim woke me up.
+C: ARTHUR
+D: Oh, yes. Said it was the hardest decision of his life, but I see it worked out just fine. Aurora stops breathing. She stares at the bartop. Jim strolls up to the bar. His hand slides into the jacket pocket where the ring lies hidden. But Aurora’s body language is all wrong. He stops, perplexed.
+C: JIM
+D: What? She looks up, her face rigid. Her voice a whisper.
+C: AURORA
+D: Did you wake me up, Jim? Jim’s hand slides out of his jacket pocket. He shoots a look at Arthur, who smiles back, oblivious. Aurora’s eyes bore into him. Finally Jim finds his voice.
+C: JIM
+D: Yes. I woke you up.
+C: AURORA
+D: How could you do it?
+E: in agony
+C: JIM
+D: I tried not to.
+C: AURORA
+D: You pulled me out of hibernation. You destroyed the rest of my life. You murdered me!
+C: JIM
+D: That’s a little strong...
+C: AURORA
+D: You murdered me. I’m going to be sick. Oh, my God. I...I can’t see. She gets up to leave.
+C: JIM
+D: Aurora. He goes after her.
+C: AURORA
+D: Get away from me! She slaps at him blindly, almost hysterical. Stumbles away. SERVICE DECK - CELESTIAL PROMENADE Aurora stares out at the stars. Jim appears behind her. She speaks without turning.
+C: AURORA
+D: How did you decide? Did you just go shopping? A couple thousand women in their underwear, and you get to pick your favorite.
+E: bitterly turning on him
+C: JIM
+D: It wasn’t like that.
+C: AURORA
+D: What was it like? And you had it all planned out! Dinner and movies and our big date...Oh, my God! And I just ate it up. Fake! All fake!
+C: JIM
+D: This was real. I didn’t plan this. It...happened.
+C: AURORA
+D: “Find true love on the Starship Excelsior! Romance between the Stars! The woman of your dreams!” Was it everything you thought it would be?
+E: mocking
+C: JIM
+D: Aurora. I love you.
+C: AURORA
+D: This is sick. Show me how you did it. HIBERNATION BAY - AURORA’S POD Aurora walks up to her old hibernation pod. Jim trails her.
+E: she glares at him
+C: AURORA
+D: So? Jim stares at her, unbelieving. But she means it. He opens the cover panel, points out the key components.
+C: JIM
+D: I looked at my pod. A couple different processors burned out at the same time. I triggered the same failure in your pod. Short circuit across these two contacts, and then these two. And cut these wires.
+C: AURORA
+D: Just like that.
+C: JIM
+D: Just like that.
+C: AURORA
+D: I’m so stupid. I fell for all of it. I fell for you. I thought you saved me. But you didn’t save me, Jim. You did this to me. And now I’m stuck with you. Stuck with the second-rate mechanic who ruined my life.
+C: JIM
+D: Rate two mechanic. But Aurora’s already walking away. VIENNA SUITE - DAY Aurora walks in, barely under control, and breaks down. Sinks to her knees, racked by sobs. HIBERNATION BAY - AURORA’S POD - DAY Jim sits at the foot of Aurora’s hibernation pod, staring into the empty tube. VIENNA SUITE - EVENING Jim walks in. All of Aurora’s things are gone. Her half of the bed has been made. She’s moved out. DECK THREE - CAFETERIA - MORNING Aurora sits finishing her breakfast. Jim enters and approaches her table.
+E: lamely
+C: JIM
+D: Can I talk to you?
+C: AURORA
+D: I don’t want to talk anymore. I don’t want to look at you anymore. If you see me coming, get out of my way. If you see me sitting, find somewhere else to be. There’s plenty of choices. It’s a big boat. DECK FOUR - SHOPPING DISTRICT - DAY Jim walks alone, hands in his pockets, in a deep funk. A little robot crosses his path: he KICKS it down the street.
+C: SWIMMING POOL
+D: Aurora swims. Reaches the end of a lap and rests. She looks up abruptly as if she senses someone watching her - but the balcony above the pool is deserted. ELITE DECK - FORWARD OBSERVATION DECK - DAY Aurora sits reading. Digital slates surround her. A whir distracts her. She looks down. Jim’s pet robot sits beside her. A note on its back. She picks up the note. It’s the photo strip from her first date with Jim: their first kiss captured on film. Clipped to the photo strip is a handwritten note: “This was real.” Aurora leans down toward the robot’s binocular eyes.
+C: ROBOT’S POV
+D: Aurora looms close. She holds the note up to the robot’s eyes and crumples it up.
+C: AURORA
+D: Watching me through a robot is creepy, Jim. Cut it out. SUBDECK C - MACHINE SHOP Jim sits in front of his laptop: Aurora’s accusing eyes stare out of the screen. He closes the laptop. COMMAND DECK - COMMUNICATIONS CENTER - DAY Jim sits at the security console, disheveled and bearded. Twenty screens give different views of the ship. One screen shows the Elite Promenade. As he watches, Aurora jogs by in sneakers and shorts. Jim has her route mapped: as she vanishes from one screen she appears on the next. He follows her from screen to screen. He picks up a microphone.
+C: ELITE DECK
+D: Aurora circles the atrium. OVER THE P.A. SYSTEM: Jim clears his throat.
+C: JIM
+D: Aurora. Aurora stops in surprise, looking up.
+E: VIA INTERCOM
+C: JIM
+D: Please, just hear me. Aurora rolls her eyes and resumes running. COMMAND DECK - COMMUNICATIONS CENTER Jim watches Aurora move from screen to screen. He holds the mic in both hands. His voice reverberates through the ship.
+E: VIA INTERCOM CONT’D
+C: JIM
+D: The day I first saw you, my life changed. I couldn’t forget your face. I kept coming back to see you. Trying to know you through the glass. I read every word you ever wrote, trying to hear you. The day you woke up... DECK NINE - NUMBER NINE PROMENADE Aurora doesn’t break stride. But she’s listening.
+C: JIM
+D: When you woke up I had no idea what would happen next. I had no reason to believe you would see anything in me. When you did, when we found each other, this ship I’m trapped inside suddenly felt like a limitless place. My pointless life suddenly had meaning. Aurora skids to a stop beside a Deck Steward’s station. She leans over the counter, finds an intercom terminal and grabs the microphone. A whine of feedback. She looks into the lens of the nearest security camera.
+E: VIA INTERCOM MORE
+C: AURORA
+D: That’s great, Jim. Just great. I’m glad that ruining my life somehow improved yours. But I have a run to finish, so... GRAND CONCOURSE - CONCOURSE BAR Arthur looks up, listening, as voices echo through the ship.
+C: JIM
+D: Wait. Aurora. Don’t go.
+E: VIA INTERCOM
+C: AURORA
+D: You may be the only game in town, Jim, but that doesn’t mean I have to play. Just pretend I’m not here. Because as far as you’re concerned, I’m not. DECK NINE - NUMBER NINE PROMENADE At the Deck Steward’s station, Aurora stares into the camera.
+E: VIA INTERCOM
+C: JIM
+D: I don’t want to lose you. COMMAND DECK - COMMUNICATIONS CENTER Jim stares at Aurora on the video screen.
+E: VIA INTERCOM
+C: AURORA
+D: Jim, you lost me. She drops the microphone and walks out of frame. Jim slumps over the console in defeat. FADE TO BLACK.
+E: VIA INTERCOM
+C: SUPER: THREE MONTHS LATER
+D: ELITE DECK - VIENNA SUITE - BEDROOM Jim lies asleep on his bed in dirty clothes and shoes. He has a shaggy beard.
+E: DAY
+C: JIM
+D: Half-finished dishes in bed with him. The suite is squalid. ELITE DECK - CAFE MAXINE The ship’s posh French cafe. Aurora eats a fancy lunch, reading a novel on a digital slate. She’s groomed and put together. DECK THREE - CAFETERIA Jim sits in front of a bowl of breakfast cereal, a dry slice of toast. He stares into space. He has milk in his beard.
+E: VIA INTERCOM CONT'D
+C: FORWARD OBSERVATION DECK
+D: Aurora sits in her writing chair, dictating to her slate.
+C: AURORA
+D: It’s the modern way of life. We surround ourselves with people. A constant din of conversation. As if we need the mirror of other faces to see ourselves. The clamor of voices in our ears to reassure us that we exist. Do we need it? Can we live without it? VIENNA SUITE - DAY The TV blares. Jim lies asleep in an armchair, covered with snack chips.
+C: AURORA
+D: I think the secret to survival is productive activity. SHOPPING DISTRICT - CRAFT SHOP - DAY Aurora investigates the craft shop’s shelves. Collects an electronic book on painting. Paints and canvasses. An easel.
+E: V.O.
+C: AURORA
+D: We need to be good for something. VIENNA SUITE - BATHROOM - DAY Jim lounges in the bathtub in his bathrobe: sopping wet and drunk. Gold glitters in his hand: the RING he made for Aurora. He scowls at the ring.
+E: V.O.
+C: AURORA
+D: A challenge equal to our character. With a snarl, Jim tosses the ring into his mouth. Chases it with a slug of vodka straight from the bottle. Swallows hard. SERVICE DECK - CELESTIAL PROMENADE Aurora stands in front of her easel on the promenade. She looks out the window and begins to paint.
+E: V.O.
+C: AURORA
+D: Something worth doing. SHOPPING DISTRICT - AVENUE Jim plays kick-the-can with the empty vodka bottle. Drunk. The bottle clatters against the PHOTO BOOTH. Muttering in Russian, Jim attacks the booth, punching and kicking - and hurts his foot with a shout. He limps away. A moment later he’s back - wearing his tool belt. He pulls a LASER CUTTER and starts carving the booth away from the wall. SHOPPING DISTRICT - LATER Jim drives his golf cart unsteadily across the deck. A HORRIBLE NOISE: he’s dragging the photo booth across the floor by its power cord.
+E: V.O.
+C: STARBOARD E.V.A. ROOM
+D: Jim looks into the airlock through the small porthole in the inner door. Red lights flash. The photo booth is crammed into the airlock. EXT. STARSHIP EXCELSIOR - AIRLOCK The airlock shoots open. The photo booth tumbles into space. GRAND CONCOURSE - CONCOURSE BAR - EVENING Arthur does make-work behind the bar. Jim and Aurora approach simultaneously. They meet awkwardly: they haven’t spoken in a long time.
+C: AURORA
+D: What are you doing here?
+C: JIM
+D: You! Tuesday’s my day with Arthur. You’re trespassing.
+E: drunk
+C: ARTHUR
+D: Actually, today’s Wednesday.
+C: JIM
+D: I slept through Tuesday?
+C: AURORA
+D: Forget it. The bar’s all yours. But I’d say a drink is the last thing you need. You’re pathetic. Aurora leaves. Jim takes a seat.
+C: ARTHUR
+D: What’ll it be?
+C: JIM
+D: I’m going to kill myself.
+C: ARTHUR
+D: Why’s that?
+C: JIM
+D: I’m a murderer.
+C: ARTHUR
+D: Who’d you murder?
+C: JIM
+D: Aurora.
+C: ARTHUR
+D: But she’s alive. She was just here.
+C: JIM
+D: She won’t talk to me. She won’t let me tell her what happened. How I fell in love with her. How I want to be with her. And I’m not sorry I woke her up. I’m not. I love her. And you know what? She loves me. Around the corner, out of sight, Aurora stands listening.
+C: JIM
+D: What was I supposed to do? I couldn’t live without her. It was now or never, and I chose now. I chose now. And I was right. But I woke her up, Arthur. I woke her up, and she says I killed her. And now she’s gone. She’s gone. Gimme another bottle.
+E: CONT’D MORE sobbing
+C: ARTHUR
+D: I think you’ve had enough. Jim looks at Arthur as if he’s said something profound.
+C: JIM
+D: You know what? You’re right. I’ve had enough. SUBDECK A - CARGO HOLD - DAY Jim drives his cart up to a rack of large batteries: they’re identical to the battery that powers the golf cart itself. Jim starts loading his cart with extra batteries. SERVICE DECK - CELESTIAL PROMENADE Paintings leans against the windows: Aurora’s starscapes. The first few are rudimentary, the later ones quite good. She works on a new one: a red nebula. She looks out the window - and her focus changes. She sees her own reflection. Her brush moves across the canvas. She adds the suggestion of a cheekbone...a slender neck...an eye. A face made of stars. SUBDECK C - MACHINE SHOP Jim finishes connecting a bank of batteries to his cart’s motor: quadrupling the power. He rolls a huge tractor tire up to the cart and bolts it on. DECK FOUR - SHOPPING DISTRICT Aurora jogs. A rumble and wail of rubber behind her. Jim’s monster golf cart comes ROARING toward her. Aurora leaps for safety as the cart passes. Jim blasts past her with a war whoop and a wave. He wears welding goggles. Aurora looks after Jim in astonishment.
+C: JIM
+D: DECK FOUR - SERVICE CORRIDOR Jim races down a long straightaway. Squeals around a corner. Puts the cart on two wheels as he dodges a cleaning robot. He steers down a stairway: The cart bounces crazily down to the deck below. At the bottom Jim takes the corner too hard. The cart tumbles and SLAMS into the bulkhead. Debris rains down. Jim lies crumpled in the wreckage, his goggles askew.
+E: CONT’D
+C: FORWARD OBSERVATION DECK
+D: Aurora sits in her writing chair, a slate in front of her. But the slate is blank, and her face is tense.
+C: AURORA
+D: I haven’t written in days. I don’t know why. It’s the old problem, I guess. Who’s my reader? Who am I talking to? What’s it for? I used to love it. SERVICE DECK - INFIRMARY Jim lies in the autodoc in his underwear - his head protruding, his body visible behind glass. Lasers and sensors pass over his body.
+E: she sighs
+C: AUTODOC
+D: Two separated ribs. Fracture of the right arm, radius and ulna. One fractured finger. Dislocated thumb.
+C: JIM
+D: Am I gonna be okay? Blindingly fast, robot arms straighten Jim’s elbow. Wrap his ribs and arm with smooth white bandages. Jim shouts in shock.
+C: AUTODOC
+D: Leave the bandages on for one week. The autodoc opens and Jim climbs out, testing his arm. A bottle of pills rattles into a tray in front of him.
+C: AUTODOC
+D: Take one of these pills each day until they are gone.
+E: CONT’D
+C: JIM
+D: Thanks, doc.
+C: AUTODOC
+D: And take better care of yourself. FADE TO BLACK.
+C: SUPER: THREE MONTHS LATER
+D: FORWARD OBSERVATION DECK - DAY Aurora paints, wild-eyed and fragile. Her brushstrokes are fierce. She slashes at the canvas. As she paints she begins to cry, silently. She doesn’t stop painting. The easel shakes as she works.
+C: GRAND CONCOURSE
+D: Jim kneels on the Grand Concourse. He’s torn a huge hole in the carpet to expose the deck plates beneath. With his laser cutter he cuts a large rectangular hole. Pries the plate up with a crowbar, opening a cavity in the deck.
+C: AURORA’S CABIN
+D: Aurora paces in her bathrobe, hair wrapped in a towel. She looks at her gallery of snapshots. Touches the pictures one by one. The faces begin to move and speak. A cacophony of good wishes. Laughter and cheers. Finally only one clip still plays. Aurora’s mother.
+C: AURORA’S MOTHER
+D: I promise you we’ll think of you every day. When you wake up, I know we’ll be gone...but you just know that we lived our lives remembering you, and holding you in our hearts. I don’t understand, baby. I’m trying, but I can’t believe I’m losing you. I hope you find what you’re looking for. I hope it makes you happy. Aurora watches, devastated. GRAND CONCOURSE - CONCOURSE BAR - DAY Jim, in work clothes and tool belt, drops by the bar. He’s as dirty as a coal miner but he looks happy.
+E: She starts to cry. She tries to soldier.
+C: ARTHUR
+D: Hello, Jim. Whiskey?
+C: JIM
+D: Iced tea.
+C: ARTHUR
+D: Coming up. Are you getting my barstool dirty?
+C: JIM
+D: Got to get dirty to get things done, Arthur. If your hands are too clean, it means you’re not making anything.
+C: ARTHUR
+D: And what are you making?
+C: JIM
+D: Improvements. ELITE DECK - ELITE PROMENADE - EVENING Aurora strolls listlessly. Glances over the railing at the Grand Concourse below - and gasps. She runs for the elevator.
+C: GRAND CONCOURSE
+D: Aurora walks wonderingly up to a GARDEN on the Concourse: a ten-foot OAK TREE surrounded by flowerbeds and green grass. ELITE DECK - FORWARD OBSERVATION DECK Jim walks through Aurora’s informal art gallery. She has abandoned starscapes in favor of self-portraiture. The painted faces ever more tragic. The last one is a field of white. Aurora fading away. INFIRMARY - GENETIC BANK - DAY Wisps of cold mist roll off the metal capsules. Aurora browses the rotating racks, reading names. With a start she comes across her own name. AURORA DUNN, FEMALE, BORN 4/27/2819. She punches buttons. The racks rotate, shedding flakes of frost. She finds what she’s looking for. JAMES PRESTON, MALE, BORN 9/9/2810. She looks at the metal cartridge for a long moment. Then she slaps a switch, and the genetic bank closes up on itself. GRAND CONCOURSE - LOUNGE Jim sits reading an electronic slate. He looks up to find Aurora standing over him.
+C: AURORA
+D: I need you. The last thing Jim expected to hear.
+C: AURORA
+D: I mean, I need a repairman. Jim’s face falls. EXT. AURORA’S CABIN Jim opens the door. Inside is chaos: the lights throb. Static sizzles on video screens. Speakers blare noise. The blinds jerk and flap. The adjustable bed convulses like a monster.
+E: CONT’D
+C: JIM
+D: Wow. You do need a repairman. INT. AURORA’S CABIN - LATER A dark room. In the light of a utility lamp, Jim re-attaches a control panel to the cabin wall. Aurora watches.
+C: JIM
+D: The control unit burned out. I took the one from the cabin next door. He throws a switch. The lights come on. Back to normal.
+C: JIM
+D: All better. Aurora gives him a brittle smile and sits on the bed.
+E: CONT’D
+C: JIM
+D: So how are you doing? You all right?
+E: CONT’D
+C: AURORA
+D: I’m fine, Jim. Thanks for your work. She sits immobile, frosty. After a moment Jim walks out. FADE TO BLACK.
+C: GRAND CONCOURSE
+D: Jim passes a cleaning robot stuck in a corner. He frees the robot: it plows right back into the corner. Another robot zooms in - and gets stuck beside the first one. Jim studies the robots thoughtfully. SUBDECK C - MACHINE SHOP - DAY Jim tinkers with a malfunctioning robot. A squawk of static comes over the P.A. system. Jim looks up, listening.
+C: FORWARD OBSERVATION DECK
+D: Aurora sits with her digital slate in her lap. She too is looking up, listening.
+C: VOICE
+D: Hello! Anybody there? Aurora bolts to her feet, wide-eyed. SUBDECK C - MACHINE SHOP Jim has vanished - the robot still rocking on the workbench. DECK ONE - HIBERNATION BAY Jim sprints down the hallway, eyes searching left and right.
+E: VIA INTERCOM
+C: VOICE
+D: This is Deck Chief Gus Mancuso. Jim skids to a stop, astonished: the door to the Crew Hibernation Facility stands open.
+E: VIA INTERCOM
+C: VOICE
+D: Who the hell planted a tree on my ship? The Grand Concourse! Jim spins and runs back the other way.
+E: VIA INTERCOM CONT’D
+C: GRAND CONCOURSE
+D: GUS MANCUSO stands at a deck steward’s station, intercom mic in hand. A stocky man of 55, with a bristling mustache, wearing a crewman’s coverall. Haggard and weary. He stares in consternation at the garden in the middle of the Concourse. Running footsteps. Jim and Aurora race into the Concourse from opposite directions. They see Gus and stop, astonished.
+C: GUS
+D: Who did that? Jim raises a hand sheepishly. Gus shakes his head.
+E: pointing at the tree
+C: GUS
+D: I can’t even talk about that now. Who are you?
+E: CONT’D
+C: JIM
+D: Jim Preston. Rate-two mechanic.
+C: GUS
+D: Mechanic, huh? And who are you?
+E: to Aurora
+C: AURORA
+D: Aurora. Aurora Dunn.
+C: GUS
+D: Gus Mancuso, Senior Deck Chief. Nice to meet you. How long have you been awake?
+E: looks at the tree again
+C: AURORA
+D: A year.
+C: JIM
+D: Two years.
+C: GUS
+D: This is not good.
+C: CAFETERIA
+D: Jim, Aurora, and Gus sit around a table. Gus leans heavily on his elbows, sipping from a mug.
+C: GUS
+D: I always get a hibernation hangover but this is the worst ever. So it’s just the two of you?
+E: he drinks
+C: JIM
+D: Yeah.
+C: GUS
+D: Two years. Ouch. You know what it means, right? There’s no way back into hibernation.
+E: looks them in the eye
+C: AURORA
+D: I was hoping you’d know something we didn’t.
+C: GUS
+D: No. We’re awake for the duration. How far along are we? You know?
+C: JIM
+D: Thirty-two years. Eighty-eight years to go. Gus blows air.
+C: GUS
+D: That’s tough. Hibernation failure! They said it couldn’t happen. And now three on one trip. Aurora shoots Jim a look. Gus doesn’t notice.
+E: he shakes his head
+C: GUS
+D: Well, let’s see what we can do.
+E: CONT’D
+C: COMMAND DECK
+D: Gus leads Jim and Aurora to the Bridge’s armored hatch. He swipes his crew card and the door opens.
+C: JIM
+D: You have no idea how long I’ve been trying to get in here.
+C: GUS
+D: Now you’re in. Don’t touch anything.
+C: BRIDGE
+D: The computer consoles of the Bridge brighten as they enter. Gus walks from station to station, studying the screens.
+C: GUS
+D: We’re on course....Whatever’s wrong with the ship, NavComp’s still minding the store.
+C: JIM
+D: What do you think is wrong?
+C: GUS
+D: Three pod failures? Something’s wrong. Question is what. He turns to leave.
+C: AURORA
+D: Wait. What about diverting the ship? Can we go back to Earth? Gus almost laughs.
+C: GUS
+D: We’re going forty percent of lightspeed away from Earth. To go home we’d have to come to a stop, accelerate back towards Earth, and then come to a stop again. It’d take as long as going on to Homestead II. Anyway, navigation’s not for amateurs. Space is a big place, and a planet’s just a little thing. Gus has a coughing fit. Wipes his mouth with his fist.
+C: GUS
+D: Let’s go next door. See how the old girl’s doing.
+E: CONT’D
+C: DIAGNOSTIC CENTER
+D: Gus opens a secure compartment beside the bridge. Inside, the Diagnostic Computer stands dark and dead.
+C: GUS
+D: I thought we’d see a lot of red lights here. That would mean trouble.
+C: AURORA
+D: So everything’s okay?
+C: GUS
+D: No, if everything was okay we’d see a lot of green lights here.
+C: AURORA
+D: What does no lights mean?
+C: GUS
+D: No lights means big trouble. Diagnostic Computer’s down. We’ve got some work to do.
+C: JIM
+D: What do you need?
+C: GUS
+D: Right now? Cheeseburger. ELITE DECK - STARDUST DINER Gus eats a cheeseburger. Jim and Aurora sit across from him.
+C: GUS
+D: Never been so hungry. Worst hibernation hangover ever. Jim can’t take his eyes off Gus. A new person.
+E: with his mouth full
+C: JIM
+D: So where you from, Gus?
+C: GUS
+D: Grew up in Chicago. But I’ve lived on this ship a long time. The Excelsior’s made five inter-planetary runs, and I’ve been on every one. I live aboard. When she makes port, I live where she lands until she lifts again.
+C: JIM
+D: How old does that make you?
+E: doing the math
+C: GUS
+D: Fifty-six.
+C: JIM
+D: But how long ago were you born?
+C: GUS
+D: Oh. Hang on... About six hundred years ago. Most of that I lost to hibernation or relativity. Doesn’t really count. I tell you, I feel about six hundred years old right now. I woke up hard.
+E: he does mental math MORE he coughs again
+C: AURORA
+D: You should rest.
+C: GUS
+D: I think I will. Tomorrow morning, eight bells, you meet me beside that tree of yours. Until I figure out what’s wrong with the Excelsior, you work for me. Jim and Aurora smile.
+E: he climbs to his feet
+C: JIM
+D: Yes, sir.
+C: AURORA
+D: Good night, Gus. Gus waves and walks off. That leaves Jim and Aurora sitting awkwardly on the same side of a diner booth. After a moment Aurora moves over to the other side. Looks at Jim across the table.
+C: AURORA
+D: Six hundred years old!
+E: CONT’D
+C: JIM
+D: I’ve missed you. Aurora stares, caught off guard. She gets up.
+C: AURORA
+D: See you in the morning. COMMAND DECK - DIAGNOSTIC CENTER - MORNING Gus and Jim examine the Diagnostic Computer. Jim holds a flashlight while Gus pokes around with a voltmeter inside. Behind them, Aurora stands watching with a digital slate.
+C: GUS
+D: The CPU’s burned out, can you believe it? Why should that happen? It’s rated for five hundred years.
+C: AURORA
+D: Can you fix it?
+C: GUS GUS
+D: You don’t fix it, you replace it. There are spares for everything in storage. Make a note. Diagnostic Computer CPU. And a new cooling fan, this one looks shot.
+E: CONT'D
+C: AURORA
+D: Got it.
+C: GRAND CONCOURSE
+D: Gus and Aurora stand waiting as if for a bus.
+C: AURORA
+D: Don’t take this the wrong way - I wish for your sake you were still asleep - but I’m glad you’re here.
+C: GUS
+D: Thank you, sweetheart. A GROWL of gears. Jim drives up in his souped-up golf cart.
+C: GUS
+D: What’s this?
+E: CONT’D
+C: JIM
+D: The golf cart. Gus takes in the bank of batteries, the giant tractor wheels.
+C: GUS
+D: This I like. SUBDECK A - NUMBER TEN CARGO BAY Jim pilots the cart through the stacks. Aurora rides shotgun. Gus, in the back seat, plays a flashlight over the stacks.
+C: GUS
+D: Next bay is the ship’s stores. So how fast can she go? Jim puts the pedal down. The cart lays rubber on the deck plates and shoots down the aisle while Aurora and Gus yell.
+C: SHIP’S STORES
+D: Up on a hydraulic lift, Gus digs components out of storage. Hands them to Aurora, who hands them to Jim, who loads them into the cart.
+C: DIAGNOSTIC CENTER
+D: Gus works on the Diagnostic Computer while Jim looks on. Nearby, Aurora thumbs through Gus’s technical manuals. Gus clamps a final component in place and nods at Jim.
+C: GUS
+D: Start ‘er up. Jim closes a circuit breaker and powers up the computer. A deep electrical HUM as the machine boots up. The screen flashes a message: RUNNING VESSEL DIAGNOSTIC. A progress bar shows that the diagnostic is 0.0% complete. The lights on the indicator panel remain dark. The first light begins to flicker as the diagnostic runs.
+C: JIM
+D: How long will it take?
+C: GUS
+D: Full diagnostic from a cold start? Days. But it’ll tell us everything.
+C: GRAND CONCOURSE
+D: Gus strolls through the ship, looking around nostalgically. He passes Jim’s garden and shakes his head.
+C: CONCOURSE BAR
+D: Gus walks up to the bar.
+C: ARTHUR
+D: Chief Mancuso! Good to see you.
+C: GUS
+D: Good to see you too, Arthur.
+C: ARTHUR
+D: What can I get you?
+C: GUS
+D: Just an ice water with a little lemon. I feel hot as hell. Gus mops sweat from his brow and sips his water. His hand trembles hard enough to rattle the ice cubes.
+C: GUS’S CABIN
+D: A homey space, filled with Gus’s possessions: pictures of fellow spacers and vacation spots on half a dozen planets. Books, keepsakes and mementos. Gus sits on his bed, on a handmade quilt. Coughs violently into a handkerchief, leaving the cloth spotted with blood. GRAND CONCOURSE - GARDEN - MORNING Aurora stands waiting by the oak tree. Jim arrives with two cups of coffee, and hands her one. Aurora smiles, touched.
+C: AURORA
+D: Thank you. Gus arrives in a fresh coverall, a steaming mug in hand. No signs of frailty. He hands each of them a digital slate.
+C: GUS
+D: All right. Last night I checked ten atmosphere stations and two of them were burned out. Twenty percent failure rate. Unheard of. So we’re going to see how far the rot runs. You. You’re going to walk Decks Two, Three, and Four, and check every atmosphere station. Green light good, red light bad, no light really bad. Write down what you find, I want a complete census.
+E: to Aurora
+C: AURORA
+D: Yes, sir.
+C: GUS
+D: You. Go down to the Ship’s Stores. Find atmosphere station CPUs and take an inventory of the spares. I know what the manifest says, but lists ain’t facts.
+E: to Jim
+C: JIM
+D: Got it.
+C: GUS
+D: I’m going down to the Hibernation Bay to look at our pods. Maybe I can spot what went wrong. Jim and Aurora exchange glances.
+C: AURORA
+D: That should be interesting. HIBERNATION BAY - AURORA’S POD - DAY Gus kneels in front of the pod, examining the mechanism. Alone, he doesn’t hide his difficulty: sweating and panting. Something he finds inside the machine makes him forget his symptoms. He stares, astonished.
+C: GUS
+D: Son of a gun. A sound behind him. Gus turns to find Jim watching. He looks from Jim to the pod mechanism and back again.
+C: GUS
+D: You’re supposed to be doing inventory.
+E: CONT’D
+C: JIM
+D: I finished.
+C: GUS
+D: I looked at your pod. Very simple. The clock chips burned out. Not supposed to happen, but it’s simple. Jim fidgets. Starts to speak. Gus cuts him off.
+E: holding Jim’s eyes
+C: GUS
+D: My pod was complicated. A bunch of different failures at once, the whole thing went haywire. I think that’s why I feel so bad. But this pod...
+E: CONT’D points at Aurora’s pod
+C: JIM
+D: Gus...
+C: GUS
+D: You did this.
+C: JIM
+D: Yeah.
+C: GUS
+D: I was thinking what a lucky son of a bitch you were, stuck with a beauty like Aurora. But it wasn’t luck.
+C: JIM
+D: No. Gus sits down heavily, looking at Jim.
+C: GUS
+D: She knows?
+C: JIM
+D: She knows. Gus thinks that over, shaking his head at the idea.
+C: GUS
+D: I could see there was some trouble between you. Gus starts putting his tools away. Jim lays the electronic slate down beside him.
+C: JIM
+D: Here’s your inventory. I’ll be in the machine shop if you need me. COMMAND DECK - DIAGNOSTIC CENTER Gus sits working. Behind him the Diagnostic Computer displays its progress bar: the diagnostic is 9% complete. Aurora enters with a digital slate.
+C: AURORA
+D: I finished the census. You saw the hibernation pods?
+E: she hesitates
+C: GUS
+D: Yeah.
+C: AURORA
+D: So you know. What Jim did. Aurora’s chin begins to tremble.
+C: GUS
+D: Yeah, he told me.
+C: AURORA
+D: He told you? Just like that? And? She waits, trembling with righteous indignation. Gus doesn’t want to get into this: he looks away uncomfortably.
+C: AURORA
+D: It’s not forgivable, Gus. It’s not. Don’t tell me it is.
+E: CONT’D
+C: GUS
+D: No, it’s a bad thing. But... Look. When a drowning man drags somebody down with him, you don’t call it right. But he’s drowning. A starving man steals a loaf of bread, what can you say? You should have starved?
+E: he shrugs helplessly
+C: AURORA
+D: I would have starved.
+C: GUS
+D: Really? Aurora looks hard at Gus, thinking, and says nothing. ELITE DECK - ARGENTINA STEAKHOUSE - EVENING A rustic restaurant. Gus, Jim, and Aurora sit around a table. Gus reads an electronic slate.
+C: GUS
+D: By Aurora’s count, about thirty percent of the atmosphere station CPUs are burned out.
+C: JIM
+D: We can replace them.
+C: GUS
+D: We will. But they’ll just burn out again if we don’t figure out why it’s happening.
+C: JIM
+D: Where do we start?
+C: GUS
+D: We wait for the diagnostic report. You’ve been knocking around this ship for two years. A few days more won’t kill you. Gus hacks and coughs. For a moment his weakness is plain to see...but robots sweep in and lay dishes on the table. Gus sets his slate aside.
+C: GUS
+D: Here you go. This is the best food on the ship. GRAND CONCOURSE - CONCOURSE BAR Jim, Aurora, and Gus sit at the bar. Arthur stands by.
+E: CONT’D
+C: AURORA
+D: So how did you end up in space?
+C: GUS
+D: Only place I ever wanted to be. When I was sixteen I lied about my age and got onto a lunar shuttle crew. A few years later I moved on to planetary ships. Made the Venus run a hundred times, then Jupiter and Saturn. Then the gravity drive came along. Real spaceflight. I did everything I could to get onto an interstellar ship. I was thirty-six years old the first time I saw an alien sun. No going back after that. I’ve walked on seventeen planets in five solar systems.
+C: JIM
+D: That’s incredible.
+C: AURORA
+D: Don’t you feel homeless?
+C: GUS
+D: I’m a spacer. My home is where I am. You can’t take much with you, so you don’t get hung up on things. You have yourself. The things you do. The company you keep. Gus pushes himself off his stool. Momentarily shaky, he pulls himself together. He takes a seat at the grand piano and plays - a fine beerhall pianist. Gus touches a switch and lifts his hands: the piano keeps playing. Gus stands and extends a hand to Aurora. She takes it, and Gus sweeps her across the floor. Jim watches from the bar.
+C: ARTHUR
+D: Gus always dances with the ladies. Aurora follows Gus’s lead - but steals looks at Jim. Her eyes unreadable. They watch each other as the dance goes on. GRAND CONCOURSE - THE GARDEN - MORNING Jim and Aurora wait beside the garden. They’ve been waiting for a while. Both look around for Gus.
+E: aside, to Jim
+C: JIM
+D: You haven’t seen him at all?
+C: GUS’S CABIN DOOR
+D: A doorbell chimes. Jim and Aurora wait in the hall, listening. Jim rings again.
+C: AURORA
+D: I don’t think he’s up.
+C: GUS’S CABIN
+D: Gus lies feverish and semi-conscious in his bed. A THUNK! The door slides open. Jim and Aurora rush in.
+C: JIM
+D: Gus! Are you all right?
+C: GUS
+D: No. No, I’m not.
+C: INFIRMARY
+D: Gus lies in a medical scanner. Jim and Aurora watch as the machine bathes Gus in light, sensors floating over his body.
+C: GUS
+D: Couldn’t get up. Weak as a baby. What does it say is wrong with me? The scanner’s display screen lists not one diagnosis, but hundreds: disorders, diseases, dysfunctions.
+C: JIM
+D: It’s a few things.
+E: hiding his horror
+C: MEDICAL SCANNER
+D: Diagnosis complete. Gus hauls himself out of the scanner. Pulls a bathrobe on and comes around to look at the screen. He sees it and blanches.
+C: MEDICAL SCANNER
+D: Six hundred twelve disorders found.
+E: CONT’D
+C: GUS
+D: What’s the summary?
+C: MEDICAL SCANNER
+D: Pan-systemic necrosis. Progressive organ failure. Cause unknown.
+C: GUS
+D: I’ll tell you the cause. My goofy hibernation pod is the cause.
+E: losing his temper
+C: AURORA
+D: What’s the treatment?
+C: MEDICAL SCANNER
+D: No treatment known. Gus pivots the monitor so that only he can see it.
+C: GUS
+D: Prognosis. A series of images flickers over the screen, casting shadows on his face. Gus swallows hard and looks away.
+C: GUS
+D: How long have I got?
+E: CONT’D
+C: MEDICAL SCANNER
+D: Between two and three days. A long moment of silence. Gus turns and exits.
+C: MEDICAL SCANNER
+D: These sedatives will alleviate suffering in the final hours... Pill bottles clatter into a metal bin. Aurora scoops them up. Jim goes after Gus.
+E: CONT’D
+C: CORRIDOR
+D: Gus settles himself behind the wheel of Jim’s cart.
+C: JIM
+D: Gus!
+C: GUS
+D: Sorry, Jim. Gus puts his foot down and the cart squeals away. Aurora stumbles into the hall, her hands full of pill bottles. She and Jim watch the cart recede. COMMAND DECK - COMMUNICATIONS CENTER Aurora sits at the security console, watching the monitors. Jim enters.
+C: JIM
+D: He’s not in his room. Aurora flips on the intercom, speaks into the mic. Her voice resonates through the ship.
+C: AURORA
+D: Where are you? Gus, please answer. We’ll be at the Concourse Bar every hour. I’m really worried.
+C: JIM
+D: Where is he? What’s he doing?
+C: GUS
+D: What are you doing? They spin. Gus stands in the doorway behind them.
+E: O.S.
+C: GUS
+D: Guy’s got a couple of days to live and he can’t get any peace.
+E: CONT’D
+C: AURORA
+D: Where have you been?
+C: GUS
+D: Making arrangements. You kids have dinner plans?
+C: JIM
+D: No.
+C: GUS
+D: Xanadu at eight. Now stop shouting at me. GUS’S CABIN - EVENING Gus makes a tour of the room, touching his photographs and mementos in farewell. He puts on his dress uniform: chest crowded with medals and decorations for the planets he’s seen, the voyages he’s made. He takes a photograph from a dresser: a handsome woman in her forties. Kisses the snapshot. Tucks it in his breast pocket. In the mirror he studies his haggard face. Suddenly he SHOUTS, a wordless cry of anger. Pounds on the dresser with his fists. Teeth clenched in pain and fury. Then he straightens. Stands at attention. Takes a deep breath. Pivots on his heel and leaves the room. STARDOME - XANADU - NIGHT Jim and Aurora enter the Stardome to find Gus sitting shaky but proud at the head of a table. They sit. Gus pours wine with a trembling hand.
+E: exiting
+C: AURORA
+D: You look magnificent.
+C: GUS
+D: Ladies love the dress blues. Thanks for coming. Sorry to run out today, but I didn’t have a lot of time, and there was a lot to do. He sips his wine. Jim and Aurora watch with concern.
+E: to Jim to both of them
+C: JIM
+D: How you feeling?
+C: GUS
+D: Fine, fine.
+C: AURORA
+D: Gus, just because some stupid machine says there’s no cure...
+C: GUS
+D: State-of-the-art machine, Aurora. Anyway, I can feel it happening.
+C: AURORA
+D: But you just got here. It’s barely been a week. He takes her hand.
+C: GUS
+D: No point counting the days. XANADU - LATER Their dinners are nearly done. Gus pours more wine. He’s in the middle of a tale of adventure.
+C: GUS
+D: A pure oxygen environment is about as dangerous a place as you can be. A steel pipe will burn in pure O2. And there I am with a hammer, trying to close this valve and stop the oxygen flow, when one spark will kill us all. But the thing is, O2 makes you punchy. So I can’t stop laughing. And then the guys behind me start in, and soon everybody’s going. Captain’s giggling like a girl. The Navigator pissed his pants laughing. Jim and Aurora laugh. But pain contorts Gus’s face. He grips the table with white knuckles. And nobody’s laughing anymore.
+C: GUS
+D: This is happening fast. I got some things for you. Come with me. DECK FOUR - STARBOARD E.V.A. ROOM On a table at the edge of the plaza, a small pile of objects waits. Gus stops beside them. Turns to Jim and Aurora.
+E: CONT’D
+C: GUS
+D: I went through the ship’s manuals and made notes wherever there was something special you should know. These should keep you straight. In a few days the Diagnostic Computer will show you what needs fixing. He takes his shipcard from around his neck. Hands it to Jim.
+C: GUS
+D: This’ll get you anywhere you need to go. Questions?
+E: CONT’D
+C: JIM
+D: Why are we standing by the airlock?
+C: AURORA
+D: Oh, God! Gus, no!
+C: GUS
+D: Got no choice about going. But I can decide how to go, and I’m going out on my own two feet.
+C: JIM
+D: Are you sure about this?
+E: shocked
+C: GUS
+D: If you knew how this feels, Jimbo, you wouldn’t ask me to stay. Gus extends a hand to Aurora. She throws her arms around him.
+C: AURORA
+D: Gus. I can’t stand it. There’s got to be some other way. Don’t do this. Gus gently frees himself from her arms.
+C: GUS
+D: It’s all right, Aurora. It’s all right. Gus turns to Jim. They clasp hands. Slap each other’s shoulders in a rough embrace.
+E: tenderly
+C: GUS
+D: Jim. Fix the ship.
+E: CONT’D
+C: JIM
+D: Yes, sir.
+C: GUS
+D: And take care of each other. Gus turns and opens the airlock. He straightens, squares his shoulders, and steps inside. Turns to face them.
+C: GUS
+D: All right. Aurora covers her mouth. Jim raises a hand in stunned farewell. The airlock door closes. Red lights flash. Through the porthole they see Gus look out into space. Then the outer door slams open and a blast of air shoots Gus out among the stars. His body lost in the infinite night. Aurora steps into Jim’s arms. Lays her head on his chest. For a moment he holds her. Then she pushes him gently back. Meets his eyes sadly. Jim watches her walk away. INT. GRAND CONCOURSE - DAY Arthur polishes glasses, chipper as ever. A SWEEPER ROBOT passes on its daily errands.
+E: CONT’D
+C: FORWARD OBSERVATION DECK
+D: Aurora slouches in her writing chair, staring into space - a picture of sorrow. SUBDECK C - MACHINE SHOP Jim sits motionless at his workbench, brooding. A CLATTER rouses him. Jim’s little pet robot is banging its head against the wall, emitting beeps of distress. Jim frowns.
+C: ROBOTICS CENTER
+D: Jim walks in. Everywhere robots bunch and stumble. A pair of sweeper robots fight to enter the same recharging niche. They trip up a procession of gangly window washers - who stumble into a parade of robot waiters. Chaos spreads. The robots’ clockwork perfection upset.
+C: CAFETERIA
+D: Aurora draws a glass of orange juice and gets green sludge. Dials for toast and gets two slices of charcoal. COMMAND DECK - DIAGNOSTIC CENTER Aurora enters. The Diagnostic Computer’s console is no longer dark: it’s a sea of green and red lights. A lot of red. The computer’s screen reads “Diagnostic Complete.” It displays a long list of error messages. Aurora stares in horror at the red lights.271 271 Jim enters behind her. Takes in the bad news.
+C: AURORA
+D: There’s trouble everywhere. Atmosphere systems, water systems, waste systems, robot control.
+C: JIM
+D: What’s happening? Aurora goes to the worktable: its surface displays the diagnostic report. Thousands of faults and failures.
+E: under his breath
+C: AURORA
+D: It started two years ago. Thirty years with no trouble, then forty- seven failures in a single day. Structural concussion. System overvoltage. Transient pressure anomaly. Circuit reset, conduit 12. Sync failure, hibernation pod 1498.
+E: reading the list
+C: JIM
+D: Pod 1498? That’s me!
+C: AURORA
+D: Whatever happened that day woke you up. She pulls up a graph of failures over time: A trickle of breakdowns that swells into a torrent.
+C: JIM
+D: Ever since then, more and more failures. Faster and faster.
+C: AURORA
+D: How do we find out what’s going on?
+C: JIM
+D: We start at the beginning. The breakdowns from the day I woke up. Aurora brings up a map of the ship on the display. Red markers blink on the map.
+C: AURORA
+D: They’re all on Deck One. DECK FOUR - AFT FIREWALL An armored hatch leads to the Engine Room. Jim wears his tool belt. Aurora carries a flashlight. Each of them carries one of Gus’s manuals. Jim swipes Gus’s crew card and the hatch opens. They go in. ENGINE COMPARTMENT - UPPER LEVEL A huge space spanning multiple decks at the rear of the ship. Here the real heart of the Excelsior throbs in the dark. Jim and Aurora emerge into a humming electrical station. Jim peers at gauges.
+C: JIM
+D: Power Converter seems okay.
+C: AURORA
+D: The failures are all below us. ENGINE COMPARTMENT - MIDDLE LEVEL A huge sphere 120 feet across dominates the compartment. Signs read: CAUTION - FUSION REACTOR. A deep RUMBLE. Jim and Aurora descend beside the reactor on a spiral stair. They emerge onto a catwalk at the reactor’s equator and walk around the sphere.
+C: REACTOR CONTROL ROOM
+D: Jim cards open a door labeled “REACTOR CONTROL ROOM.” Red light pours out. They enter. JIM & AURORA Don’t touch anything. Banks of control panels - but Jim and Aurora have eyes only for the windows into the reactor’s heart. Inside the reactor is a caged sun: an orb of fire hanging in space. Loops and tongues of flame leap from its surface. It roars like a forest fire.
+E: together
+C: AURORA
+D: It’s beautiful.
+C: JIM
+D: Scares the hell out of me.
+C: AURORA
+D: What keeps it in?
+C: JIM
+D: Gravity. The gravity plant gives us weight. Propels the ship. And it contains the fusion reaction. All one system. Aurora watches Jim as he walks among the consoles, studying the instruments.
+C: JIM
+D: Not much trouble here. A couple of computers running hot.
+E: CONT’D
+C: AURORA
+D: The cluster of failures is still one level down. ENGINE COMPARTMENT - LOWER LEVEL Jim and Aurora emerge from an elevator. They come to a door marked CENTRAL COMPUTING.
+C: AURORA
+D: This should be it. Jim cards the door with Gus’s shipcard. The lock flashes a red light and stays closed.
+C: JIM
+D: Gus’s card should open any door.
+C: AURORA
+D: Let me try an override code. She squeezes past Jim. Taps at the door’s keypad. Jim peers through the narrow window in the door.
+E: flipping through her manual
+C: JIM
+D: Wait a sec, maybe there’s a reason the door... The light flashes green. The door begins to slide open. A HOWLING WIND sucks Aurora against the crack in the door. She screams. Jim grabs at her. A hurricane drags her inside.
+C: CENTRAL COMPUTER FACILITY
+D: Aurora tumbles into the room and smashes into a column. She clings in the gale-force wind, grimacing in pain. There’s a RAGGED HOLE punched in the hull. Outside, stars burn in the vacuum of space. A tornado of escaping air screams out through the hole. Red lights flash. Claxons sound. The door begins to close. Jim pulls a HAMMER from his belt and jams it crossways in the doorway, propping open the door. The door’s motors whine. Jim dives inside. Skids to a stop beside Aurora. Pulls her loose from the column and shoves her toward the door, fighting the wind. Aurora scrambles through the doorway. Jim tries to follow - but the hammer suddenly bends and springs out of the doorway. The door slams: Aurora outside, Jim in the airless room. The last of the atmosphere flashes away into space. Aurora screams and pounds on the other side of the door. But Jim hears only his own thudding heartbeat. The last air leaves Jim’s lungs in a silent shout, vapor whipping away between his teeth. He spins. Scans the room desperately.
+C: OUTSIDE THE DOOR
+D: Aurora re-enters the override code. But the code is denied. She drops to her knees. Scans frantically through her manual.
+C: IN THE AIRLESS ROOM
+D: Jim rips open a wide metal drawer built into the wall. It’s full of computer components: Jim sweeps them onto the floor.
+C: OUTSIDE THE DOOR
+D: Aurora tears open an instrument panel beside the door, revealing a yellow emergency button marked “PURGE.” She flips back the safety catch and slams the button.
+C: IN THE AIRLESS ROOM
+D: White jets of compressed air blast from the ceiling, turning the room into a whirling tornado of debris. Jim clings for his life, gulping air as flying fragments batter him. The wind tears him from his handholds and hurls him toward the jagged hole in the hull. He falls ACROSS THE HOLE. Metal fangs inches from his body. He strains to avoid being speared or sucked out into space. The air jets stop. The wind dies as the air escapes. Jim lunges back to the open drawer. Pulls the LASER CUTTER from his tool belt and cuts the entire drawer free. He turns back, holding the metal DRAWER like a shield - and staggers, half fainting.
+C: OUTSIDE THE DOOR
+D: Aurora sees Jim falter. Slams the PURGE button again.
+C: IN THE AIRLESS ROOM
+D: Compressed air blasts into the room, renewing the windstorm. Jim rides the wind, sliding across the steel deck and SLAMMING the steel drawer across the hole in the hull. Air screams away through the gaps. Jim lunges to an emergency locker and pulls out an epoxy foamer - a steel canister like a fire extinguisher. He aims it at the hole in the hull and pulls the trigger. ORANGE FOAM blasts out, stiffening into a hard plastic. Jim buries the steel drawer and the hull breach in foam. His eyes flutter closed. Starved of oxygen, he falls limp.
+C: OUTSIDE THE DOOR
+D: Aurora hits the PURGE button. White jets of air blast into the sealed room. The pressure comes up. The door slides open.
+C: CENTRAL COMPUTER FACILITY
+D: Aurora dashes in. Falls to her knees beside Jim. Takes his pulse. Listens for breath: he’s not breathing. She presses her mouth over his and blows air into his lungs. After a moment Jim coughs. He opens bloodshot eyes. She props his head on her knee.
+C: AURORA
+D: Jim. Are you okay? Jim breathes deeply. Blinks his eyes.
+C: JIM
+D: I think I’m all right. Look. In the center of the room a round column houses the CORE COMPUTER. There’s a CRATER blasted in the machine.
+E: his eyes go wide
+C: JIM
+D: That’s the core computer. Jim hauls himself to his feet, leaning on Aurora. He approaches the blasted computer. Reaches into the hole. Strains. A CREAK...and Jim pulls a melon-sized METEOR from the crater. An orb of pitted metal. COMMAND DECK - DIAGNOSTIC CENTER Jim and Aurora sit at the worktable. The meteor sits between them on the table.
+E: CONT’D
+C: JIM
+D: A meteor.
+C: AURORA
+D: A rock. They stare at the meteor: the cause of it all. A BEEP: on the Diagnostic Computer’s console, more green lights turn red. New errors pop up on the diagnostic report.
+C: AURORA
+D: I don’t get it. This thing hit down on Deck One. But there are failures everywhere.
+E: CONT’D
+C: JIM
+D: The computers are networked. Ever since the core computer got blown away, all the other computers must have been carrying the load. Running at full capacity around the clock for two years. They’re burning out.
+E: a brainstorm
+C: AURORA
+D: And every computer that burns out increases the load on the others.
+C: JIM
+D: Yeah. The breakdown accelerates. If we don’t stop it, the whole ship will go down.
+C: AURORA
+D: I’m trapped on a sinking ship?
+C: JIM
+D: Gus said there’s spares for everything. If we replace the core computer, it’ll pick up the load. The burnouts will stop. Another BEEP. Another green light turns red.
+C: AURORA
+D: Let’s go. SUBDECK A - SHIP’S STORES Jim pilots his golf cart at breakneck speed through the cargo racks. Aurora rides shotgun, reading an electronic map.
+C: AURORA
+D: Two more rows, then left! The cart squeals around a corner.
+C: CENTRAL COMPUTER FACILITY
+D: Aurora buries the hull breach in another layer of epoxy foam. Jim wrestles a massive crate off the golf cart’s cargo deck. Wearily uncrates the replacement computer. CENTRAL COMPUTER FACILITY - LATER Aurora inspects the replacement core computer, a manual in her hands. The pages she’s consulting are covered with Gus’s handwritten notes. Jim sits on the floor with another manual.Cables and connectors lie around him on the floor.
+C: AURORA
+D: First you connect the data bus, then the sync cable, then bridge the power and backup power...you’re supposed to run a startup checklist, but Gus made a note. He says you can skip straight to power-up as long as you... Jim! Jim is nodding off over his manual. He looks up, blinking.
+E: MORE frowning
+C: AURORA
+D: You need to sleep. We can’t make mistakes here.
+E: CONT’D
+C: JIM
+D: I’m fine.
+E: groggy
+C: AURORA
+D: You just got sucked into outer space. Take a break. ELITE DECK - BERLIN SUITE - NIGHT Jim lies asleep in trousers and T-shirt, dead to the world. DECK NINE - AURORA’S CABIN - DAWN Aurora wakes. Rolls out of bed. COMMAND DECK - DIAGNOSTIC CENTER - DAY Aurora sips coffee. Surveys the Diagnostic Computer’s warning lights. Turns to stare thoughtfully at the meteor itself. She exits. The console flickers. A green light turns red. And another. The pattern of red lights spreads like a bloodstain. ELITE DECK - BERLIN SUITE Jim still lies sleeping. He hasn’t moved a muscle. Aurora looks in on him, and slips quietly away. DECK TWO - SWIMMING POOL In a bathing suit, Aurora dives into the pool, cleaving the water cleanly and striking out in a crawl stroke. She reaches the end of the lane. Kick-turns and swims back... ...and the gravity cuts out. The water heaves itself into weird humps and tentacles. Aurora flounders in the weightless water.
+C: AURORA BERLIN SUITE
+D: Sound asleep, Jim floats weightless from his bed, his blanket billowing. He touches the ceiling. His eyes open. He shouts in astonishment. Gus’ crew card floats in front of him. He grabs it. His blanket snarls around him: he struggles to free himself.
+E: CONT'D ZERO GRAVITY
+C: SWIMMING POOL
+D: Rippling masses of water float everywhere, dividing and merging. There is no surface. There is no up. In the middle of this chaos, Aurora is trying not to drown. A truck-sized blob of water swallows her up. Inside the jiggling mass she struggles, running out of air. She gathers herself. Lunges through the water. Shoots out of the blob, gasping for breath. She drifts within reach of a railing and grabs hold.
+E: ZERO GRAVITY
+C: BERLIN SUITE
+D: Jim braces himself in a corner of the ceiling. Spots his tool belt floating in mid-air. He dives through the air, snags his tool belt on the way, and opens the door.
+E: ZERO GRAVITY
+C: JIM
+D: Aurora! ELITE DECK - ELITE PROMENADE Jim emerges from a corridor onto the promenade: airborne, propelling himself from one handhold to the next. He’s barefoot in trousers and undershirt, his toolbelt around his waist. Gus’s shipcard around his neck.
+E: ZERO GRAVITY
+C: AURORA
+D: Jim! In the middle of the atrium, Aurora drifts mid-air, far from any handhold. She wears a damp shirt over her bathing suit.
+E: O.S.
+C: JIM
+D: What are you doing?
+C: AURORA
+D: I’m drifting helplessly.
+E: exasperated
+C: JIM
+D: We’ve got to get you down. The gravity might come back on. Aurora hadn’t thought of that. She looks down fearfully. Jim swings over the railing. Braces his feet. Takes aim.
+C: AURORA
+D: Whoa. Hey. Let’s talk about this.
+C: JIM
+D: Hang on.
+C: AURORA
+D: To what?! Jim dives at her like Superman. Wraps his arms around her. They tumble through space until Jim grabs a railing.
+C: JIM
+D: You okay?
+C: AURORA
+D: There’s no gravity.
+C: JIM
+D: Yeah. That’s bad.
+C: AURORA
+D: Why is there no gravity?
+C: JIM
+D: The gravity plant’s failing. Internal field goes first. After that the engines die...then the fusion reactor goes nova.
+C: AURORA
+D: That is bad.
+C: JIM
+D: We’ve got to get the core computer online. Now. ENGINE COMPARTMENT - FUSION REACTOR A roar of THUNDER. The caged sun shudders. Tongues of fire lick from its surface. DECK FIVE - CORRIDOR Jim and Aurora, getting the hang of it, shoot down a hallway - dodging a robot that spins its wheels in the air. ENGINE COMPARTMENT - CORE COMPUTER ROOM Jim and Aurora float into the room and stare: Jim’s golf cart and the replacement Core Computer hang tumbling in the air. Aurora extends her hand to Jim. He takes her hand, and with his other hand grabs a handhold. Aurora floats up and grabs the replacement core computer by a cable. A human chain, they haul it down to the deck. Aurora holds the new computer down. Jim floats up to the ruined old computer. Opens latches. Disconnects cables. Eases the machine out of the column into the air. The room shakes. A deep note in the background falls silent.
+E: ZERO GRAVITY ZERO GRAVITY ZERO GRAVITY
+C: JIM
+D: The engines just shut down. FUSION REACTOR CONTROL ROOM Consoles alive with warning lights. The room is bathed with a hellish glow: the orb of fire swells and roars. A computer burns out with a sputter of flame. The air fills with a haze of smoke.
+E: ZERO GRAVITY
+C: FUSION REACTOR
+D: The caged sun boils and swells. Tentacles of flame graze the reactor walls, leaving charred trails. CORE COMPUTER ROOM Jim and Aurora strain at the replacement computer: it’s nearly in place. Each shoves with one hand, gripping a handhold with the other. Their feet kick in the empty air. Red lights flash. A warning klaxon sounds.
+E: ZERO GRAVITY
+C: ANNOUNCER
+D: Reactor failure. Reactor failure. Passengers please remain calm. Aurora holds the computer in place, gripping two handholds, her shoulder planted against the machine. Jim floats up, reaches around the computer to connect cables.
+C: JIM
+D: Does the data cable go in the “bus” port or the “through” port?
+C: AURORA
+D: Bus port! The blue one! The ship shudders violently, throwing them from side to side. Jim forces one cable after another into their sockets. Aurora tires: the computer slides out of place.
+C: JIM
+D: Hold it! Hold it!
+C: AURORA
+D: Trying! She strains. The computer slides back into place. Jim closes the last connection. Slips out of the niche and lowers the clamps that hold the computer in place. He throws the heavy power lever. The lights go out. EXT. STARSHIP EXCELSIOR A wave of darkness engulfs the ship. INT. SUBDECK A - CORE COMPUTER ROOM Floating, Jim and Aurora stare at each other in the dark.
+C: AURORA
+D: What’s happening?
+C: JIM
+D: Don’t know. The core computer flashes to life. The lights come back on. So does the gravity. Jim and Aurora slam to the floor. Inches away, the old computer plunges down and embeds itself in the deck. Across the room the golf cart bounces on its tires. INT. FUSION REACTOR The orb of fire withdraws its blazing tentacles and dwindles to its proper size.
+C: CORE COMPUTER ROOM
+D: Jim and Aurora lie on the deck, breathing hard. Aurora starts to laugh.
+C: JIM
+D: What’s so funny?
+C: AURORA
+D: We’re alive! The engines rumble back to life. A distant, rhythmic sound begins: BOOM-CHAK...BOOM-CHAK... DECK TWO - PROMENADE Jim and Aurora walk wearily.
+C: JIM
+D: We have to replace the other burned- out computers. But we have time. Aurora slides her arm around his waist.
+C: BOOM-CHAK...BOOM-CHAK... JIM
+D: What is that sound? Aurora stiffens, looking over his shoulder. Outside the window, a hibernation pod spins into view. A woman inside.
+E: CONT’D
+C: AURORA
+D: Jim! He turns. Stares in shock as more pods drift past the window.
+E: finding her voice
+C: HIBERNATION BAY
+D: Jim and Aurora sprint into the facility. The sound is loud here: BOOM-CHAK...BOOM-CHAK... It’s the sound of hibernation pods being ejected. The wave of ejections marches down an aisle: one pod after another disappearing into the ceiling. Jim rushes to a CONSOLE. Scans the display.
+C: JIM
+D: The hibernation system rebooted. It thinks the ship’s in port. It’s ejecting the empty pods.
+C: AURORA
+D: They’re not empty. EXT. STARSHIP EXCELSIOR The ship leaves a trail of glowing hibernation pods. INT. HIBERNATION BAY Jim slides to a halt in front of a hibernation pod. Pulls a power driver from his belt and removes the cover panel. Aurora arrives on his heels. Watches as he works. An ominous sound approaches. BOOM-CHAK...BOOM-CHAK... The wave of ejections advances down their row.
+E: horrified
+C: AURORA
+D: Hurry.
+C: JIM
+D: I see it. He’s not fast enough. The pod slides up and out of sight. EXT. STARSHIP EXCELSIOR The pods Jim was working on tumbles out into space. INT. CREW HIBERNATION FACILITY Jim slams into the facility at a dead run. Scans the crew hibernation pods. Picks one and goes to work. Aurora enters. Looks at the man inside the hibernation pod: a stern fellow with a bristling gray beard.
+C: AURORA
+D: Who’s that?
+C: JIM
+D: The Captain. The sounds of the ejection wave come closer. Boom-chak.
+C: AURORA
+D: You don’t have much time.
+C: JIM
+D: I know. BOOM-CHAK! A crewman’s pod vanishes into the ceiling on the opposite side. The ejections march down the row.
+C: AURORA
+D: Go go go! The wave of ejections reaches the end of the facility and marches back on Jim’s side.
+C: JIM
+D: Got it! The hibernation pod hums to life. Inside, the Captain opens his eyes. He stares in astonishment at the first thing he sees: Aurora, in her bathing suit and shirt, a disheveled angel.
+C: BOOM-CHAK!
+D: The pod beside the Captain’s shoots out of sight. He sees it. Looks at Aurora in alarm. Reaches out, his hand spread flat on the glass. She reaches back, her hand matching his. The Captain’s pod rises through the ceiling and vanishes. Jim roars in frustration. Aurora leaps back with a cry of horror. DECK NINE - AFT OBSERVATION DECK Jim and Aurora stare out the windows. In the ship’s wake, five thousand pods glitter like diamonds. The cloud of pods dispersing as they watch. Stricken, Aurora walks away. Jim watches her go, then turns back to the window, looking out at the tumbling sparks. EXT. STARSHIP EXCELSIOR The starship recedes, leaving five thousand pods in its wake. FADE TO BLACK.
+C: SUPER: TWO WEEKS LATER
+D: INT. COMMAND DECK - DIAGNOSTIC CENTER - DAY Jim stands at the Diagnostic Computer. The indicator light panel is a sea of green. Only a few red lights remain. Aurora enters.
+C: JIM
+D: That’s the last of the burned out processors. When it reboots we should be all green.
+C: AURORA
+D: Can we talk?
+C: FORWARD OBSERVATION DECK
+D: Aurora’s writing couch. Jim and Aurora sit facing each other. Aurora gathers her thoughts. Takes a deep breath.
+C: AURORA
+D: You know, if it wasn’t for you waking me up, I’d be drifting out in space right now with the others. And if you’d never awakened, the whole ship would have been lost while we slept. Jim shakes his head at the tangle of it.
+C: AURORA
+D: But no matter how we got here, the fact is that we’re here. All I know is, when I have a good idea, you’re the person I want to tell. When I wake up in the morning, I wish you were there. When I look at you, I just see Jim. And I miss him. Jim looks at her, moved and caught off-guard.
+E: CONT’D
+C: JIM
+D: I’ve missed you too.
+C: AURORA
+D: I don’t want to be angry anymore. I can’t be. We’ve come through too much. No matter what you’ve done... the fact is, I love you. Jim reaches out and takes her hand. She watches him intertwine his fingers with hers. Aurora gazes out at the stars - the endless shining sky that enfolds them. She looks at Jim and smiles.
+C: AURORA
+D: Hell of a life. Jim meets her eyes.
+E: CONT’D
+C: JIM
+D: Hell of a life. She climbs into his lap, and they kiss. A kiss with a year’s frustration behind it. A kiss that matters. EXT. STARSHIP EXCELSIOR - STARBOARD AIRLOCK - DAY The airlock opens with a gust of air. Jim emerges in a space suit - followed by Aurora.
+C: ATOP THE SHIP
+D: They walk toward the bow, stars reflected in their visors.
+C: AT THE BOW
+D: They sit side by side. Aurora takes Jim’s hand. They lean together, helmets touching, and look together into the blue stars of their future. FADE TO BLACK.
+C: SUPER: EIGHTY-EIGHT YEARS LATER
+D: EXT. HOMESTEAD II - CAPITAL LANDING FIELD - DAWN An orange sun rises over green hills. In the foreground the roofs of Homestead II’s capital city glow in the dawn. At the city’s edge, timeworn spacecraft sit on their landing gear around a grassy landing field. Colonists gather. They watch the sky expectantly... A new star shines on the horizon. The star grows into a white starship gleaming in the sun. The Excelsior sweeps over the field with a rumble of engines. The ship’s hull is scorched and abraded from its cosmic crossing. But the lights shine, the engines throb, the landing gear receive the weight of the ship. The starship’s gangway lowers. The doors open. CHILDREN run down the gangway. Children of all ages, of all races. Twenty of them, thirty. They point at the sun, at the clouds, laughing, wide-eyed in wonder. We move up the gangway, through the disembarking passengers. Behind the children: Teenagers. Adults in smaller numbers as they grow older. Finally a handful of gray-haired elders. INT. STARSHIP EXCELSIOR - GRAND CONCOURSE Transformed by the wear and tear of a century’s habitation. Paths worn into floors, furniture repaired or re-purposed. We move past vegetable gardens. Battered sweeper robots water the plantings. Window-washers till the soil. The OAK TREE towers a hundred feet tall over the Concourse. Its branches brush the skylight far above. We move past walls decorated with murals and carvings. At the Concourse Bar, Arthur is slicing vegetables. His timeworn uniform mended by hand. At the aft end of the Concourse, a high wall. Here a long list of dates is inscribed. The last date is the ship’s landfall on Homestead II; the first, Jim’s awakening. In between: an accelerating tally of births, deaths, marriages, catastrophes and achievements...a century of shipboard life. At the base of the wall we find a table like an altar, where a collection of artifacts is displayed: The meteor pried from the Excelsior’s heart. Gus’s worn shipcard, his picture still visible. A beautiful hand-bound book. In the Blink of an Eye: Our Lives Between the Stars, by Aurora Dunn. Beneath these printed words, a handwritten dedication: For Jim. In the center of it all, in the place of honor: the photo strip of Jim and Aurora from their first date. They laugh. They clown. She kisses him. Aurora looks into the camera’s eye. Jim looks at Aurora. FADE OUT.
+N: THE END.

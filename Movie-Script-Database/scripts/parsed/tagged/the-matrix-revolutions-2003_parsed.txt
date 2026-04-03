@@ -1,0 +1,2132 @@
+M: THE MATRIX REVOLUTIONS
+M: tarry and Andy Wachowski
+M: October 27, 20-00
+M: GOLDENROD REVISIONS JUNE 27, 2002 1.
+S: 501 INT. THE MATRIX - NIGHT
+T: Fade in--
+N: On the Matrix at code level, where we are traveling with the speed of thought-- Rushing through streaks of coded light before pausing to survey an area from above, as a god might. We glide down for a slightly closer look at the encoded metropolis, effortlessly moving through the walls and rooms of a skyscraper, until we again accelerate beyond the speed of light to search--
+S: 502 INT. MJOLNIR - MAIN DECK - NIGHT
+N: As the code forms the familiar drips and we pull out onto the monitors of the Mjolnir's operator's station. AK, Link's counterpart on this ship, beats his keyboard.
+C: AK
+D: I got nothing, sir. No sign of Niobe or Ghost. Nothing but blue pills. The crew of the Mjolnir are gathered on the main deck.
+C: MAUSER
+D: Should we jack in and try to contact them?
+C: ROLAND
+D: It won't matter. My gut says they're down.
+C: MAUSER
+D: Then we should start back?
+C: ROLAND
+D: No. If that ship can still fly, we need it.
+C: MAUSER
+D: I was afraid you were going to say that.
+C: ROLAND
+D: Search every pipe, every hole, every crack we know. Sweep as wide as possible, as fast as possible.
+C: AK
+D: Captain, these lines are crawling with calamari. GOLDENROD REVISIONS JUNE 27, 2002 2.
+C: ROLAND
+D: Then the sooner we find them the better. INT. MJOLNIR - INFIRMARY - NIGHT Neo lies unconscious. Trinity is at his bedside. The door opens and Maggie, the ship's medic, enters with a small plate of food.
+C: MAGGIE
+D: Thought you could use something to eat.
+C: TRINITY
+D: Thank you. Trinity takes the plate from her.
+C: MAGGIE
+D: Any change? She shakes her head. Maggie starts to check Neo's monitors when Bane groans. She steps over to his bed which is a reverse of Neo's position.
+C: TRINITY
+D: How is he?
+C: MAGGIE
+D: He's going to be fine. At least until he wakes up.
+C: TRINITY
+D: What do you mean?
+C: MAGGIE
+D: The Captain has some questions for him and he better have some good answers. Bane becomes silent and still.
+C: MAGGIE
+D: You see these cuts on his body? Trinity nods.
+E: CONT'D
+C: MAGGIE
+D: I think they're self inflicted.
+E: CONT'D
+C: TRINITY
+D: Why? GOLDENROD REVISIONS JUNE 27, 2002 3.
+C: MAGGIE
+D: VDT's maybe. I don't know. But, like I said, the answer better be good. 504 INT. MJOLNIR - MAIN DECK - NIGHT Morpheus and Link have remained at the perimeter of the meeting. Now Morpheus steps out of the shadows.
+C: MORPHEUS
+D: Roland.
+C: ROLAND
+D: Yeah?
+C: MORPHEUS
+D: I would like to run one more search through the Matrix.
+C: ROLAND
+D: For what?
+C: MORPHEUS
+D: For Neo.
+C: AK
+D: How could he be in the Matrix, sir? He's not plugged in.
+C: MORPHEUS
+D: Please, for me. 505 INT. MJOLNIR - INFIRMARY - NIGHT Maggie re-reads Neo's life monitors.
+C: MAGGIE
+D: This is what keeps bothering me. Trinity rises to see the display.
+C: TRINITY
+D: What?
+C: MAGGIE
+D: His neural patterns don't read like someone who's in a coma. The strange thing is that I see these patterns all the time.
+C: TRINITY
+D: Where?
+N: GOLDENROD REVISIONS JUNE 27, 2002 4.
+C: MAGGIE
+D: On someone jacked in. INT. MJOLNIR MAIN DECK - NIGHT The Matrix drips down the window of the monitor.
+C: AK
+D: The big bubkis. Nada, sir. He ain't in there. Morpheus stares at the monitor not willing to accept it. Colt slides down the ladder from the cockpit
+C: COLT
+D: Sir, I've got the projections.
+C: ROLAND
+D: How long?
+C: COLT
+D: Based on point of entry and their past speed, it looks like the Machines will reach Zion in just under twenty hours.
+C: AK
+D: Jesus H. Christ.
+C: ROLAND
+D: All right. Let's move with a purpose. AK, get upstairs. I want you on holographic .
+C: AK
+D: Yes, sir. He pulls off his headset jumping free of his operator's station.
+C: ROLAND
+D: Mauser, I want forward and aft guns manned at all times. Suddenly Link notices something.
+C: LINK
+D: Hey ...
+C: ROLAND
+D: Make sure we're running on as few pads as possible . GOLDENROD REVISIONS JUNE 27, 2002 5.
+C: LINK
+D: Hey. Heyl Everyone stops and looks.
+C: LINK
+D: You got a call.
+E: CONT'D
+C: ROLAND
+D: What? Link jumps into the seat, throwing on the headsets.
+C: LINK
+D: Operator. SERAPH This is Seraph. I must speak to Morpheus. Link hands Morpheus the headset.
+E: V. 0 .
+C: LINK
+D: It's Seraph. He wants to talk to you. 507 EXT. CHINATOWN - PHONE BOOTH - NIGHT Seraph is in a phone booth.
+C: SERAPH
+D: I bring word from the Oracle. She knows what has happened to Neo. You must come at once. 508 INT. MOBIL AVE. STATION - NIGHT Neo slowly, painfully, wakes up. His face is mashed against a grey concrete slab. Every part of him hurts. A hot-wire migraine sears through both hemispheres of his brain. He peels open his eyes and sees a tiny pair of shoes. Into the glare of fluorescent light, he looks up at a beautiful little Indian girl. She smiles at him.
+C: INDIAN GIRL
+D: Good morning.
+N: GOLDENROD REVISIONS JUNE 27, 2002 6. For a moment he sees her as a program of pure radiant energy . Bathed in the shimmering aura of her light he feels his pain melting away.
+C: NEO
+D: ... who are you?
+C: SATI
+D: My name is Sati. Your name is Neo. My Papa says that you are not supposed to be here. He says you must be lost. Are you lost, Neo?
+C: NEO
+D: Where am I?
+C: SATI
+D: This is the train station.
+C: NEO
+D: The what? He pushes himself up to look around. The ceramic tiles have been painted with the name of the station; Mobil Ave.
+C: NEO
+D: This isn't the Matrix?
+E: CONT'D
+C: SATI
+D: That's where the train goes. That's where we're going. But you can't go with us.
+C: NEO
+D: Why not?
+C: SATI
+D: He won't let you.
+C: NEO
+D: Who won't?
+C: SATI
+D: The Trainman. I don't like him. But Papa says we have to do what the Trainman says or else he'll leave us here. She whispers as if afraid the Trainman was listening.
+C: SATI
+D: Forever and ever . GOLDENROD REVISIONS JUNE 27, 2002 7. 509 INT. ORACLE'S BUILDING - TENEMENT HALL - NIGHT Seraph leads Morpheus and Trinity into the Oracle's old apartment. 510 INT. ORACLE'S APARTMENT - LIVING ROOM - NIGHT Morpheus and Trinity enter the old apartment. An Older Woman sits alone in the church-like silence.
+E: CONT'D
+C: WOMAN
+D: Morpheus. Trinity. Thank you for coming. They look at one another, unable to recognize this woman. The Older Woman sighs.
+C: WOMAN
+D: One thing I've learned in all my years is that nothing ever works out just the way you want it to.
+E: CONT'D
+C: TRINITY
+D: Who are you?
+C: WOMAN
+D: I'm the Oracle. Neither believes it.
+C: ORACLE
+D: I wish there was an easy way to get through this but there ain't. I'm sorry this had to happen. I'm sorry I couldn't be sitting here like you remember me. But it wasn't meant to be.
+C: TRINITY
+D: What happened?
+C: ORACLE
+D: I made a choice and that choice cost me more than I wanted it to.
+C: MORPHEUS
+D: What choice?
+N: GOLDENROD REVISIONS JUNE 27, 2002 7A.
+C: ORACLE
+D: To help you. To guide Neo. Now, since the real test for any choice is having to make the same choice again, knowing full well what it might cost, I guess I feel pretty good about that choice 'cause here I am, at it again.
+C: TRINITY
+D: You know what happened to Neo?
+C: ORACLE
+D: Yes. He is trapped in a place between this world and the Machine World. There are links that have been constructed like islands, used for trafficking information. Somehow Neo washed up onto one of them. The only way to rejoin his mind and body is to bring him back out through this world. GOLDENROD REVISIONS JUNE 27, 2002 8.
+C: TRINITY
+D: How?
+C: ORACLE
+D: It won't be easy. The link is controlled by a program called the Trainman. He uses it to smuggle programs in and out of the Matrix. If he finds out where Neo is before you get to him, then I'm afraid our choices are going to become difficult.
+C: TRINITY
+D: Why?
+C: ORACLE
+D: Because of who the Trainman works for.
+C: MORPHEUS
+D: The Merovingian.
+C: ORACLE
+D: He has placed a bounty on your lives. You must be careful at all times. Seraph knows how to find the Trainman. He'll go with you. For years he has protected me. I hope he can do the same for you.
+C: SERAPH
+D: Please follow me. Morpheus remains unsure, unable to step neither forward or backward.
+C: MORPHEUS
+D: Oracle ..
+C: ORACLE
+D: I know, Morpheus. filled with doubt, uncertainty.
+C: MORPHEUS
+D: I can see you are clouded by After all that has happened, how can you expect me to believe you? I don't. expected: damn mind.
+C: ORACLE
+D: I expect just what I've always For you to make up your own Believe me, or don't. GOLDENROD REVISIONS JUNE 27, 2002 BA. All I can do is tell you that your friend is in trouble and he needs your help. She turns to Trinity. GOLDENROD REVISIONS JUNE 27, 2002 9.
+C: ORACLE
+D: He needs all our help. INT. MOBIL AVE. STATION - NIGHT Neo sits rubbing his temples, trying to piece together what happened.
+E: CONT'D
+C: SATI
+D: Are you from the Matrix?
+C: NEO
+D: Yes, no. I mean, I was.
+C: SATI
+D: Why did you leave?
+C: NEO
+D: I had to.
+C: SATI
+D: I had to leave my home too.
+C: MAN
+D: Sati! Come here. Leave the poor man in peace.
+C: SATI
+D: Yes Papa. She runs to a middle-aged Indian man who is sitting on a bench beside his beautiful wife. Several suitcases stand in a line next to the bench.
+C: MAN
+D: I am sorry. She is still very curious. Neo recognizes the man. He smiles.
+C: NEO
+D: I know you. He stands.
+N: GOLDENROD REVISIONS JUNE 27, 2002 10.
+C: MAN
+D: Yes. In the restaurant of the Frenchman.
+C: MAN
+D: I am Rama-Kandra. This is my wife Kamala. My daughter Sati. We are most honored to meet you.
+E: CONT'D
+C: NEO
+D: Hello.
+C: RAMA
+D: We have heard much about you. Where we come from you are called "the one that is expected."
+C: NEO
+D: You're programs.
+C: RAMA
+D: Oh yes. I am the Power Plant systems manager for recycling operations. My wife is an interactive software programmer. She is highly creative.
+C: KAMALA
+D: What are you doing here? You do not belong here.
+C: RAMA
+D: Kamala. Goodness I apologize. My wife can be very direct.
+C: NEO
+D: It's okay. I don't have an answer. I don't even know where "here" is.
+C: RAMA
+D: This place is nowhere. It is between your world and our world.
+C: NEO
+D: How do you get out of here?
+C: RAMA
+D: There is only one way. The train.
+C: NEO
+D: Who is the Trainman? GOLDENROD REVISIONS JUNE 27, 2002 11.
+C: RAMA
+D: He works for the Frenchman.
+C: NEO
+D: Why did I know you were going to say that.
+C: RAMA
+D: The Frenchman does not forget and he does not forgive.
+C: NEO
+D: You know him?
+C: RAMA
+D: I know only what I need to know. I know that if you want to take something from our world into your world that does not belong there, you must go to the Frenchman.
+C: NEO
+D: Is that what you are doing here?
+C: KAMALA
+D: Rama, please!
+C: RAMA
+D: I do not want to be cruel, Kamala. He may never see another face for the rest of his life.
+C: NEO
+D: I'm sorry. You don't have to answer that.
+C: RAMA
+D: No. I don't mind. The answer is simple. He lays his hand on Sati's head.
+C: RAMA
+D: I love my daughter very much. I find her to be the most beautiful thing I have ever seen. But where we are from, that is not enough. Every program that is created must have a purpose. If it does not, it is deleted. Kamala looks away.
+E: CONT'D
+C: RAMA
+D: I went to the Frenchman to save my daughter.
+E: CONT'D
+N: GOLDENROD REVISIONS JUNE 27, 2002 12. Neo struggles with the idea of a Machine loving another Machine.
+C: RAMA
+D: You do not understand?
+E: CONT'D
+C: NEO
+D: I just have never ..
+C: RAMA
+D: Heard a program speak of love?
+C: NEO
+D: It is a human emotion.
+C: RAMA
+D: No, it is a word. What matters is the connection the word implies. He reads Neo's code.
+C: RAMA
+D: I see that you are in love. Neo feels awkwardly exposed.
+E: CONT'D
+C: RAMA
+D: Can you tell me what you would give to hold on to that connection?
+E: CONT'D
+C: NEO
+D: . anything. Rama smiles.
+C: RAMA
+D: Then perhaps the reason you are here is not so different than the reason I am here. INT. SUBWAY TRAIN - NIGHT A wild-eyed derelict sits in the front car of a subway train. The train clatters and screeches down the urban throat where fluorescent lights hang like broken teeth, glowing against the darkness. It is late at night and the train is virtually empty. The rear door is shoved open with a sudden rush of wind and noise. The derelict turns and sees Seraph leading Morpheus and Trinity into the car. The wild eyes widen. GOLDENROD REVISIONS JUNE 27, 2002 13.
+C: SERAPH
+D: That's him. The Trainman leaps up, the burnished blue metal of a .38 special flashing free from his layers of clothes.
+C: TRAINMAN
+D: Get away! Get away from me! The few passengers react, while Seraph continues calmly toward him.
+C: SERAPH
+D: Please. We don't want trouble.
+C: TRAINMAN
+D: Get away the hell away from mel
+C: SERAPH
+D: We need your help.
+C: TRAINMAN
+D: I can't help you! No one can help you! The train passes through a station and the Trainman yanks the emergency lever-- Throwing the train into a lurching stop. He dives out the open door. Seraph, Morpheus and Trinity lunge after him. 513 INT. SUBWAY STATION ONE - PLATFORM A - NIGHT SL Like a panicked antelope that breaks from the pack, directionless, bolting with a kind of awkward grace-- 514 INT. SUBWAY STATION ONE - PASSENGER TUNNELS - NIGHT He bounds up the stairwell, and zig-zags through the mostly deserted tunnels that lead up to inter-connecting stations. Checking a wrist full of watches, he veers off towards another staircase. Almost flying he hurls himself down the stairs to the train platform below. 515 INT. SUBWAY STATION ONE - PLATFORM B - NIGHT He turns and fires at the three pursuing figures. GOLDENROD REVISIONS JUNE 27, 2002 14. Weaving behind the steel and concrete columns, he continues to fire forcing them to take cover until-- The station begins to rumble and the Trainman smiles. He whirls out from his column firing, emptying the gun, waiting for the train to blast into the station. Seraph sees the train that is not going to stop and realizes what the Trainman is about to do.
+C: SERAPH
+D: Oh no. He spins out into the line of fire, bullets burying in pillars with plumes of concrete colored dust. The Trainman turns, sprinting towards the train tracks and jumps. For a flashing instant, a perfect silhouette in the blaring train-light, his wild clothes like the broken wings of a bat as-- He leaps from one platform to another disappearing behind the rushing train. And when it finally passes, he is gone, leaving the three alone in the silence that slowly swallows the dopplering train.
+C: MORPHEUS
+D: Damnit. 516 INT. MOBIL AVE. STATION - NIGHT Rama is looking at his watch.
+C: NEO
+D: When is the train due?
+C: RAMA
+D: It is already late. It is not like the Trainman to be late. He eyes Neo for a moment.
+C: NEO
+D: You think it has something to do with me?
+C: RAMA
+D: I can not say. Who knows such things? Only the Oracle. GOLDENROD REVISIONS JUNE 27, 2002 15.
+C: NEO
+D: You know the Oracle?
+C: RAMA
+D: Everyone knows the Oracle. I consulted with her before I met with the Frenchman. She promised she would look after Sati after we said goodbye.
+C: NEO
+D: Goodbye? You're not staying with her?
+C: RAMA
+D: It is not possible. Our arrangement with the Frenchman was for our daughter only. My wife and I must return to our world.
+C: NEO
+D: Why?
+C: RAMA
+D: That is our karma.
+C: NEO
+D: You believe in karma?
+C: RAMA
+D: Karma is a word, like love. A way of saying what I am here to do. He looks at his daughter.
+C: RAMA
+D: I do not resent my karma. I am grateful for it. Grateful for my wonderful wife. For my beautiful daughter. They are gifts and so I do what I must do to honor them. The station begins to rumble.
+E: CONT'D
+C: SATI
+D: Papa, the train!
+C: RAMA
+D: Yes. Find your bag. Quickly.
+C: NEO
+D: Can I carry that for you? Rama pauses.
+C: RAMA
+D: All right. GOLDENROD REVISIONS JUNE 27, 2002 16. He hands Neo one of the bags. The train is only one car long. It screams to a stop and the doors clamber open. The Trainman steps out.
+C: TRAINMAN
+D: Hurry it up! I'm late! They start to get on board, but suddenly the Trainman grabs Neo.
+C: TRAINMAN
+D: Who are you?!
+E: CONT'D
+C: RAMA
+D: He is a friend.
+C: KAMALA
+D: Rama!
+C: TRAINMAN
+D: Wait .. wait . I know you. His eyes widen.
+C: TRAINMAN
+D: That's why they were-- His smile is yellow and crooked.
+E: CONT'D
+C: NEO
+D: I need to get back. He starts to laugh.
+C: NEO
+D: I'll pay whatever you want. The joke gets better.
+E: CONT'D
+C: NEO
+D: One way or another I'm getting on this train.
+E: CONT'D
+C: TRAINMAN
+D: Oh no, no, no. You're going to stay right here until the Merovingian says different and if I know him, you're going to be here for a long, long time. GOLDENROD REVISIONS JUNE 27, 2002 17.
+C: NEO
+D: I don't want to hurt you. The curl of his lips is more like a scythe than a smile.
+C: TRAINMAN
+D: You don't get it. I built this place. Down here, I make the rules. Down here, I make the threats. He hits Neo and sends him flying, smashing into the ceramic and concrete wall.
+C: TRAINMAN
+D: Down here, I'm God. He scowls at Rama and his family.
+E: CONT'D
+C: TRAINMAN
+D: Get on the train or you stay here with him. Rama drops his eyes and gets on the train. 517 INT. LINCOLN - NIGHT Seraph is driving the big Lincoln. Trinity stares out the window alone in the back seat.
+E: CONT'D
+C: SERAPH
+D: We should return to the Oracle. She will know what to do.
+C: TRINITY
+D: No. Morpheus turns to her.
+C: TRINITY
+D: We know what has to be done. Morpheus can see the answer reflected in her eyes.
+E: CONT'D
+C: MORPHEUS
+D: The Merovingian. 518 INT. MOBIL AVE. STATION - NIGHT Cradling his broken ribs, Neo jumps down onto the tracks. They disappear into darkness. He starts running in the same direction as the train went. GOLDENRCD REVISIOKS JUNE 27, 2002 18. we watch for a nocnent, then pan back to look :en t.he opposite direct.i..on .. .,,here we see him r.,::y;:.,_1 running towards us .. He stops as he enters the station: "1-':obil Ave." He .looks back the way he came. He runs that way or.ly to end up exactly where he star1:ed.
+C: NEO
+D: Shit. 519 INT. UNDERGROUND GAR.AGE - NIGHT ': 19 A corral of exqu.Lsite cars and linousines are parked near a single met.al door. The B:..g Bald Mar. and two of the lupine killers from the Merovingian's gang, guard the ::Joor. Footsteps begin t.o ri,1g softly against the tor:ib--gray concrete as a sha::low moves toward ,:;hem.
+C: BIG MAN
+D: You gotta be kiddir.g.
+C: KILLE:<
+D: Holy shit! It's wingless! Seraph, Trinity, and Morpheus step into the small pool of l:..ght.
+C: BIG I/JIN
+D: I get it. Yo.1 must :Oe ready to die. SER.l\Vil We need to speak with hiD. The Big Man yanks back: the lever o:: his machine g.1n.
+C: BIG EAN
+D: Only way you're gett.Lng thrcugL this door is over DY big dead ass.
+C: SEFAFH
+D: S~) be i-:.. .. 'l'r ini ty moves and the machine gur: erupt,i, breathing fire and spi.tting lead as we enter-- Bullet Time. We see 'Ir:.r.ity weaving :.mpossi.bly fror:i a diving crouc~ i.nto a cartwieel, even as every inch of space is pur.ct~red by a storm of mi~dless missiles. 'I'o the eye, sh be i-:.. .. 'l'r ini ty moves and the machine gur: erupt,i, breathing fire and spi.tting lead as we enter-- Bullet Time. We see 'Ir:.r.ity weaving :.mpossi.bly fror:i a diving crouc~ i.nto a cartwieel, even as every inch of space is pur.ct~red by a storm of mi~dless missiles. 'I'o the eye, sh(?. is a flash, a.lmost a ghost a;3 s:--1E~ spir.s into a coil and then lau~ches herself into the air-- GOLDENROD REVISIONS JUNE 27, 2002 19. Rising in Bullet Time, bullets chasing her in the fanning arc of a ticking second hand until-- A savage kick bounces the huge man against the steel door back into Trinity who slices him with the precision of a sushi-master, dropping him to the floor. Before the other two can react, Seraph and Morpheus attack, leaping out from behind the nearest vehicles-- Catching the killers off balance as they deliver their blows with lethal fury. It is over quickly, three dark heaps laying crumpled in the pool of white light. Without hesitation, Trinity opens the metal door. Seraph and Morpheus follow. 520 INT. REL NIGHT CLUB - UNDERGROUND ENTRANCE - NIGHT A small brick room with only a gated elevator. Trinity opens it and they climb in. 521 INT. REL NIGHT CLUB - ELEVATOR - NIGHT There are only two buttons. The lower button is slightly red with the word, "hel" written on it.
+E: ?. is a flash, a.lmost a ghost a;3 s:--1E~ spir.s into a coil and then lau~ches herself into the air-- GOLDENROD REVISIONS JUNE 27, 2002 19. Rising in Bullet Time, bullets chasing her in the fanning arc of a ticking second hand until-- A savage kick bounces the huge man against the steel door back into Trinity who slices him with the precision of a sushi-master, dropping him to the floor. Before the other two can react, Seraph and Morpheus attack, leaping out from behind the nearest vehicles-- Catching the killers off balance as they deliver their blows with lethal fury. It is over quickly, three dark heaps laying crumpled in the pool of white light. Without hesitation, Trinity opens the metal door. Seraph and Morpheus follow. 520 INT. REL NIGHT CLUB - UNDERGROUND ENTRANCE - NIGHT A small brick room with only a gated elevator. Trinity opens it and they climb in. 521 INT. REL NIGHT CLUB - ELEVATOR - NIGHT There are only two buttons. The lower button is slightly red with the word, "hel" written on it.
+C: SERAPH
+D: There are no weapons allowed in the club. At the bottom of this elevator there is a coat check girl and if we are lucky, one man for checking weapons.
+C: TRINITY
+D: And if we're unlucky?
+C: SERAPH
+D: There will be many men. Ka-chung. The elevator stops. Trinity slides open the gate. 522 INT. REL NIGHT CLUB - COAT CHECK - NIGHT They are very unlucky. Five men turn as the beautiful coat check girl steps between them.
+C: COAT GIRL
+D: May I check your-- Oh my god! GOLDENRO::J REVISICNS ,JUNE :27, 2002 20. The me 0 1 -::urn to look as SEerapi grabs the coat check 9ic::l, pushing her down behind a counter while every hand grabs the nearest gLln. ~lorpheus and 'l'rinity oharge into tie roorr. behi:1d the cacophony of emptying olips and spray and pray gunfire. Bodies dive, spinnin9, flying off the walls, passing each other like p:anes in a dog:'ight as-- The entire room is sl:redded, bullets rippi.ng 1:hrough everything, tearing -::he wa::_ls and furniture apart like termites chewing wood to dust. I!,T. HEL NIGHT CLUB - KIG:lT It is a dark alternative club filled with both prcgrac."Ils and humans. Several people react to the :wise which can barely be heard above the po,.md2-ng music. 524 INT. HEL :JIGHT CLUB - COAT CHECK - NIGHT A final blcody exchange and the last of the guards sL1mp -r:.o the ground amidst the falling snow-globe debris. Immediately they anr. themselves frorr. the mass of weapons in the weapons check. 525 INT. HEL N:GHT CLUB - DANCE FLOOR/VIP AREA -- NI3ET They push througi the heavy doors like b:ood-soaked divers slipping into shark-filled waters. :nstan::ly they are recognized. Forming a Laager, back to back, their guns constan::ly sl'.i:'ting frorr. hard stare tc clenched jaw, they move into the crowd that clinc:-tes arcund :..he.m, probing, looking :fer an. opening. On a raised platfcrm, at the far end o:' the club, the !:-1erovingian rises fro:n his seat.
+C: MEROVINGI.~
+D: Wr.at in the hell .. Grabbir.9 the railing, he sees the three, comp::.etely surrour:ded, tc::yi:ig to push through the dance floor. Y!E?OVINGIAN ( crn,r' D: I dcn'L believe this-- He begins to laugh. GOLDENROD REVISIONS JUNE 27, 2002 21.
+C: MEROVINGIAN
+D: Hey. Hey! Hey!! The music is killed, plunging the catacombed chamber into silence.
+E: CONT'D
+C: MEROVINGIAN
+D: The prodigal child returns! <<The angel with no wings.>> Are you here for the bounty, Seraph? He laughs again as the crowd contracts around them.
+E: CONT'D
+C: MEROVINGIAN
+D: Tell me, how many bullets are there in those guns? I don't know, but I don't think you have enough.
+E: CONT'D
+C: SERAPH
+D: We only want to talk. The Merovingian glances back at the Trainman surrounded by the eternally young and beautiful.
+C: MEROVINGIAN
+D: Oh yes. I am sure you do. You have fought through Hell to do so. Yes? I'll tell you what I will do. Put down the guns and I will promise you safe passage out of here. Seraph checks with Morpheus and Trinity.
+C: SERAPH
+D: All three of us?
+C: MEROVINGIAN
+D: Yes, yes. Of course. Slowly they lower their guns. The point of no return passes as their weapons clatter to the floor. Immediately they are snatched up by the surrounding crowd, who smile now, teeth flashing the way a knife does as it is being sharpened. The Merovingian giggles as they climb the stairs followed bJ the newly armed men and women. r.: .~, ~ :; . .:. _) GOL::JENROD REVI~7C>N:i .JUNE ;,7, 2J0::0 21A .. MER-JVINGIAN GOL::JENROD REVI~7C>N:i .JUNE ;,7, 2J0::0 21A .. MER-JVINGIAN <<What. a ,ourpr.ise, eh,'>> Who coulcl have guessed we would all be seeing ea'3h other so seen after ou= last meeting. The Fates arE, tc,c k.i.nd. c: ') r-_1 ,: , GOLDENROD REVISIONS JUNE 27, 2002 22 He sits beside his gorgeous wife who is riveted with anticipation.
+E: COl':T'D COl':T'D
+C: MEROVINGIAN
+D: Please, sit, sit. Be comfortable. The Trainman smiles at Seraph.
+E: CONT'D
+C: SERAPH
+D: You know why we are here? The Merovingian picks up his martini.
+C: MEROVINGIAN
+D: Come now. What kind of question is this? Of course I know. It is my business to know. Some might think that this is a very strange coincidence, but I do not. He sucks at an olive.
+C: MEROVINGIAN
+D: I am curious though, as to how it actually happened. Do you know?
+E: CONT'D
+C: TRINITY
+D: No.
+C: MEROVINGIAN
+D: No? I did not think so, but it is always best to ask. He pops the olive into his mouth chewing it with obvious relish. He smiles.
+C: MORPHEUS
+D: We want to make a deal.
+C: MEROVINGIAN
+D: Always straight to business, eh Morpheus? Okay. So, I have something you want. To make a deal, you must have something I want, yes?
+C: MEROVINGIAN
+D: And it so happens there is something I want. I want them very badly, and I think you may be the only ones who can get them for me.
+E: CONT'D
+N: GOLDENROD REVISIONS JUNE 27, 2002 23. He slides the last olive from its silver toothpick with his teeth.
+C: MEROVINGIAN
+D: There are only two of them and I must have them both. There is a faint smile as he chews.
+E: CONT'D
+C: SERAPH
+D: What are they?
+C: MEROVINGIAN
+D: The eyes of the Oracle. Seraph doesn't react while several of the armed goons chuckle.
+C: MEROVINGIAN
+D: She won't need them anymore, what with the end of the world and all. He drops the metal toothpick into the empty martini glass.
+E: CONT'D
+C: MEROVINGIAN
+D: So here, you bring them to me in this glass and I will give you back your savior. His smile is MepbistopbeJeau as he lifts the glass to Seraph. Seraph doesn't move.
+E: CONT'D
+C: MEROVINGIAN
+D: Do we have a deal? Eh? Yes? No? The empty glass hovers between them as they stare at one another with the kind of intensity that is only possible after years of deep felt hatred.
+E: CONT'D
+C: TRINITY
+D: I don't have time for this shit. She attacks, every blow breaking some kind of bone. Seraph and Morpheus scramble at the surrounding guards, barely able to stop them from shooting her as-- She cuts a path between her and the Merovingian. Seraph kicks one of the guns, spinning up into the air as dozens of heavily armed men storm up the platform.
+N: GOLDENROD REVISIONS JUNE 27, 2002 24. The gun floats above the frozen chaos of inter-locked bodies until-- Trinity snatches it out of the air and whirls around-­ Jamming it against the Merovingian's head. Everyone freezes; guns check-mating every move.
+C: TRINITY
+D: You want a deal? How about this? You give me Neo or we all die, right here, right now.
+E: CONT'D
+C: MEROVINGIAN
+D: Interesting deal. He looks at her, reading the bio-chemistry in her code.
+C: MEROVINGIAN
+D: You are really ready to die for this man. She thumbs back the hammer.
+E: CONT'D
+C: TRINITY
+D: Believe it. Persephone stares at her like a junkie about to be given a fix.
+C: PERSEPHONE
+D: She'll do it. If she has to she'll kill every one of us. Her eyes flash with the memory of it.
+C: PERSEPHONE
+D: She's in love.
+E: CONT'D
+C: MEROVINGIAN
+D: It is remarkable how similar the pattern of love is to the pattern of insanity.
+C: TRINITY
+D: Time's up. What's it going to be, Merv? INT. MOBIL AVE. STATION - NIGHT Neo is sitting cross-legged, concentrating trying to re­ connect his mind to his body .
+C: NEO
+D: Okay, you can do this. You got yourself in here, you can get yourself out. GOLDENROD REVISIONS JUNE 27, 2002 25. He centers his mind, focusing, drawing closer and closer until he begins to feel something-- Something that frightens him. A single image suddenly slashes across his minds eye: three black lines across a brimstone desert. His mind rushes forward, following the lines as if following a path as the entire world begins to rumble. He opens his eyes as the train thunders into the station. When Trinity steps out of the doors, he almost can't believe it. She runs to him, throwing her arms around him.
+C: NEO
+D: Tell me I'm not dreaming.
+E: CONT'D
+C: TRINITY
+D: Does this feel like a dream? She kisses him and he smiles.
+C: NEO
+D: No.
+C: TRINITY
+D: Then you're not dreaming. EXT. CITY STREET DAY The Matrix is crowded with people rushing through the routine of their lives as the black-green Lincoln is swept into the flow of traffic. INT. LINCOLN - DAY Neo and Trinity are in the back seat. Morpheus dials his cell phone.
+C: LINK
+D: Operator.
+E: V.O.
+C: MORPHEUS
+D: Are you ready for us? 529 INT. MJOLNIR - MAIN DECK - DAY Link is wearing the headset, pacing behind AK who is typing furiously.
+N: GOLDENROD REVISIONS JUNE 27, 2002 26.
+C: LINK
+D: Almost sir. They got some pretty ancient hacks here. We're working on it. But you found Neo? MORPHEUS Can't you see him?
+E: V. 0.
+C: LINK
+D: No sir. We re reading something, but I couldn't tell what it was. INT. LINCOLN - DAY Neo stares out the window. There is something familiar about the moment, but he is unsure if he is remembering something he has done or something he has to do.
+C: NEO
+D: I can't leave yet. Morpheus turns back to him.
+C: NEO
+D: I have to see her.
+E: CONT'D
+C: TRINITY
+D: Now?
+C: NEO
+D: It's my last chance. INT. ORACLE'S APARTMENT - KITCHEN - DAY A small pair of hands dig into a mound of cookie dough, kneading a cascade of chocolate chips and broken candy bars. The Oracle is making cookies with Sati.
+C: ORACLE
+D: That's it. That's the secret. You've got to use your hands.
+C: SATI
+D: Why?
+C: ORACLE
+D: Cookies need love like everything does . Neo again slips through the beaded entrance.
+C: SATI
+D: Neo! GOLDENROD REVISIONS JUNE 27, 2002 27. The Oracle seems surprised.
+C: ORACLE
+D: I was hoping to have these done before you got here. Oh well. She turns to Sati, picking up the bowl.
+C: ORACLE
+D: Sati, honey, I think it's time for a tasting. Take the bowl to Seraph and find out if they're ready.
+E: CONT'D
+C: SATI
+D: Okay. She scoops up the big bowl with her cookie dough covered fingers.
+C: SATI
+D: I'm glad you got out.
+E: CONT'D
+C: NEO
+D: Me too. The Oracle goes to the sink to wash her hands.
+C: ORACLE
+D: So, do you recognize me? Neo reads her code.
+C: NEO
+D: A part of you.
+C: ORACLE
+D: Yeah, that's how it works. Some bits you lose. Some bits you keep. I don't yet recognize my face in the mirror but I still love candy. She offers Neo a piece.
+C: NEO
+D: No, thank you. She pops a piece in her mouth.
+C: NEO
+D: What happened?
+E: CONT'D
+C: ORACLE
+D: I made a choice.
+N: She smiles. GOLDENROD REVISIONS JUNE 27, 2002 27A.
+C: ORACLE
+D: Choice. The gift we are forever unwrapping. And you know better than most that certain choices can forever change our lives. Sometimes, those changes are visible. Sometimes, they're not. Remember, what you were like when you first walked through my door? Jittery as a June Bug. And now, just look at you. She smiles almost as a parent might.
+E: CONT'D
+C: ORACLE
+D: You sure did surprise me, Neo. And you still do.
+E: CONT'D
+C: NEO
+D: You gave me a few surprises too.
+C: ORACLE
+D: I hope I helped. She takes out a cigarette . GOLDENROD REVISIONS JUNE 27, 2002 28.
+C: NEO
+D: You helped me to get here. But my question is why? She lights it.
+C: NEO
+D: Where is this going? Where does it end?
+E: CONT'D
+C: ORACLE
+D: I don't know.
+C: NEO
+D: You don't know or you won't tell me?
+C: ORACLE
+D: I told you before, no one can see beyond a choice they don't understand. And I mean no one.
+C: NEO
+D: What choice?
+C: ORACLE
+D: It doesn't matter. It's my choice. I have mine to make, same as you have yours.
+C: NEO
+D: Does that include what things to tell me and what not to tell me?
+C: ORACLE
+D: Of course not.
+C: NEO
+D: Then why didn't you tell me about the Architect? Why didn't you tell me about Zion and the Ones before me? Why didn't you tell me the truth?
+C: ORACLE
+D: Because it wasn't time for you to know.
+C: NEO
+D: Who decided it wasn't time?
+C: ORACLE
+D: You know who. She points to the sign behind him. He turns and reads it once again.
+N: GOLDENROD REVISIONS JUNE 27, 2002 29.
+C: NEO
+D: I did. Her familiar Chesire smile.
+C: NEO
+D: Then I think it's time for me to know a few more things.
+E: CONT'D
+C: ORACLE
+D: So do I.
+C: NEO
+D: Tell me how I separated my mind from my body without jacking in. Tell me how I stopped four Sentinels by thinking it. Tell me just what the hell is happening to me.
+C: ORACLE
+D: The power of the One extends beyond this world. It reaches from here all the way back to where it came from.
+C: NEO
+D: Where?
+C: ORACLE
+D: The Source. That's what you felt when you touched those Sentinels. But you weren't ready for it.
+C: NEO
+D: The Architect told me that if I didn't return to the Source, Zion would be destroyed by midnight tonight. She rolls her eyes.
+C: ORACLE
+D: Please. You and I may not be able to see beyond our own choices, but that man can't see past any choices.
+C: NEO
+D: Why not?
+C: ORACLE
+D: He doesn't understand them. He can't. To him they are variables in an equation . One at a time each variable must be solved then countered. That's his purpose. To balance the equation. She nods. GOLDENROD REVISIONS JUNE 27, 2002 30.
+C: NEO
+D: What's your purpose?
+C: ORACLE
+D: To unbalance it.
+C: NEO
+D: Why? What do you want?
+C: ORACLE
+D: I want the same thing you want, Neo. And I'm willing to go as far as you are to get it.
+C: NEO
+D: The end of the war.
+C: NEO
+D: Is it going to end?
+E: CONT'D
+C: ORACLE
+D: One way or another.
+C: NEO
+D: Can Zion be saved?
+C: ORACLE
+D: I'm sorry I don't have the answer to that question, but if there is an answer, there's only one place you're going to find it.
+C: NEO
+D: Where?
+C: ORACLE
+D: You know where. Neo's jaw tightens.
+C: ORACLE
+D: And if you can't find the answer, then I'm afraid there may be no tomorrow for any of us.
+E: CONT'D
+C: NEO
+D: What does that mean?
+C: ORACLE
+D: Everything that has a beginning has an end.
+C: L..
+D: GOLDENROD REVISIONS JUNE 27, 2002 31. She stabs the cigarette out.
+C: ORACLE
+D: I see the end coming. I see the darkness spreading. I see death. And you are all that stands in his way. Her eyes bore into him. She nods.
+E: CONT'D
+C: ORACLE
+D: If you can not stop him tonight, then I fear that tomorrow may never come.
+E: CONT'D
+C: NEO
+D: Smith.
+C: ORACLE
+D: Very soon he is going to have the power to destroy this world. But I believe he won't stop there. He can't. He won't stop until there is nothing left at all.
+C: NEO
+D: What is he?
+C: ORACLE
+D: He is you. Your opposite. Your negative. The result of the equation trying to balance itself out.
+C: NEO
+D: Then you knew he would come.
+C: ORACLE
+D: He was as inevitable as you were.
+C: NEO
+D: And if I can't stop him?
+C: ORACLE
+D: One way or another, Neo, this war is going to end. Tonight the future of both worlds will be in your hands. Or in his. INT. MJOLNIR - INFIRMARY - DAY As if hearing his name called, Bane opens his eyes GOLDENROD REVISIONS JUNE 27, 2002 32. INT. MJOLNIR - MAIN DECK - DAY Neo opens his eyes. Beside him are Morpheus and Trinity, both obviously relieved.
+C: TRINITY
+D: How do you feel? Are you all right? He nods. She slides the needle from his head and he hauls himself out of the chair. Everyone is gathered around him, staring at him, expecting him to know what they must do.
+C: NEO
+D: I ... I don't know ... I need .. He turns and leaves. Roland shakes his head.
+C: ROLAND
+D: That figures. INTERCOM Captain Roland. Roland grabs the handset.
+E: V. 0.
+C: ROLAND
+D: What's up, Maggie?
+C: MAGGIE
+D: Bane is, sir. He's conscious.
+E: V.O.
+C: ROLAND
+D: Good. He shoots Morpheus a look.
+C: ROLAND
+D: Maybe he's got some answers. INT. ORACLE'S BUILDING - TENEMENT HALL - DAY The front door slides open and a pair of men's gleaming black leather shoes pass through. They are followed by an identical pair. Followed by another. And another.
+E: CONT'D
+N: GOLDENROD REVISIONS JUNE 27, 2002 33 .
+S: 535 INT. ORACLE'S APARTMENT - KITCHEN - DAY
+N: The Oracle and Sati are near the oven, baking the cookies. The Oracle cracks the door and takes a good whiff.
+C: ORACLE
+D: Mrnm. I love that smell. I sure am going to miss it. Seraph rushes into the room.
+C: SERAPH
+D: Oracle.
+C: ORACLE
+D: I know, I know. Here honey. Take a few cookies and go with Seraph.
+C: SATI
+D: What about the rest?
+C: ORACLE
+D: Don't worry. I'll finish them. But it's time for you to go.
+C: SATI
+D: Can I come back? I would like to come back.
+C: ORACLE
+D: I would like that too.
+C: SATI
+D: Then I'll see you tomorrow.
+C: ORACLE
+D: I hope so, hon. I hope so. She gathers up her cookies.
+C: SERAPH
+D: What are you doing?
+C: ORACLE
+D: We all do what we have to do.
+C: SERAPH
+D: I have never left you.
+C: ORACLE
+D: Please, take Sati. Try to keep him away from her.
+N: GOLDENROD REVISIONS JUNE 27, 2002 34. Seraph remains as rooted as a golem.
+C: ORACLE
+D: What would I have done, all these years without your strength? Please, it's all I ask. She touches his face for the last time.
+E: CONT'D
+C: ORACLE
+D: Good bye, my friend.
+E: CONT'D
+C: SERAPH
+D: I will miss you. She smiles.
+C: ORACLE
+D: I know. 536 SCENE 536 OMITTED SCENE 537 RENUMBERED AS 540A 538 INT. ORACLE'S BUILDING - TENEMENT HALL - DAY Seraph hits the elevator button. He stands with Sati at the end of the hall. Suddenly the elevator light goes out. One by one the fl 11orescents flicker off; darkness creeping towards them, slowly swallowing them.
+C: SATI
+D: I'm scared, Seraph.
+C: SERAPH
+D: Come. He picks her up and rushes for the stairs. 539 INT. ORACLE'S BUILDING - STAIRWELL - DAY They start down the stairwell but Seraph hears footsteps below. Peeking over the railing edge, he sees dozens of Smiths climbing towards them. Quickly they exit onto another floor.
+N: GOLDENROD REVISIONS JUNE 27, 2002 34A .
+S: INT. ORACLE'S BUILDING - TENEMENT HALL - DAY
+N: Still carrying Sati, Seraph rushes down the corridor, looking through walls and doors, searching for an empty apartment.
+C: 540A OMITTED 540A
+D: 30LDENROD REVISIONS ,JUNE 27, 2002 35-Jj~ 541 IN':'. EMPT'Y APARTMENT He moves towards t:,e farthest bedroom w:'1:cle Sati stares back over his shoulder.
+C: SATI
+D: He's fo:..lowing us. He s,2,ts her down staring at something beyond -::he cracked blar.k walls. ':'hev can hear his footsteos in the roorr. outside. The door cri~s as it is opened, revealing the silhouetted Smit:,s, their sunglasses starir.g, emp:.y of express:.on like the lidless, eyeless sockets of a sku~l. A single Smith steps into t'.le roorr .
+C: SMITH
+D: Well, well, it's beer. a long time. I remember chasing you was like chasing a ghost.
+C: SERAPH
+D: I have beaten you bef:,re.
+C: SMITH
+D: Yes. True. But as yot: can see, things are a little different now. He bends down to Sati.
+C: SMITH
+D: You must be the last Exile.
+E: CO::JT'D
+C: SATI
+D: -The Oracle told me about y-::n1.
+C: SMITH
+D: Really? What did she say?
+C: SATI
+D: That you were a bad man.
+C: SMITH
+D: Oh, I'm not so bad once you 9et to kr.ow ne. ':'he Srr .. itr.s beg:.n spreading into th," room. 542 SCEKE 542 OMITTED 543 SCENE 543 O~ITTED
+N: GOLDENROD REVISIONS JUNE 27, 2002 38A .
+S: INT. ORACLE'S APARTMENT - KITCHEN - DAY
+N: She sits in the darkened kitchen, smoking her last cigarette. Smith pushes through the beaded entrance.
+C: SMITH
+D: The great and powerful Oracle. We meet at last. He enters the kitchen, while his gang of Smiths cluster at the entrance.
+C: SMITH
+D: I suppose you've been expecting me right? The all-knowing Oracle is never surprised. How can she be? She knows everything. But if that's true, then why is she here? If she knew I was coming, why wouldn't she leave? He suddenly grabs the plate of cookies and hurls it, smashing it against the wall. She doesn't flinch.
+E: CONT'D
+C: SMITH
+D: Maybe you knew I was going to do that. Maybe you didn't. She is the Sphinx.
+E: CONT'D
+C: SMITH
+D: If you did, then that means you baked those cookies and set that plate right here. Deliberately. Purposefully. Which means that you are sitting there, also deliberately. Purposefully.
+E: CONT'D
+C: ORACLE
+D: What did you do with Sati? One of the Smiths standing at the door wiggles his fingers at her. PAGES 36-38 OMITTED
+N: GOLDENROD REVISIONS JUNE 27, 2002 39.
+C: SMITH/SATI
+D: Cookies need love, like everything does. The Smiths chuckle.
+C: ORACLE
+D: You are a bastard.
+C: SMITH
+D: You would know, Mom. She crushes out her cigarette.
+C: ORACLE
+D: Do what you're here to do.
+C: SMITH
+D: Yes ma'am. He takes hold of her arm and presses two of his fingers into her. The moment he does, we see an explosion of light and energy as the lines of code that make up the entire room break apart, code flying frantically, caught in the violent winds of a digital tornado. The kitchen-in-itself looks as if a cyclone were tearing it apart as the Smiths gathered at the door, glance about like nervous chickens. The wind dies, the kitchen now destroyed and sitting where the Oracle was, is another Smith. He stands, dizzy, overwhelmed by the experience. The other Smith steps away from him. The Oracle/Smith removes his sunglasses as he looks for a moment beyond the room, beyond the code. For a moment he looks into the future. And what he sees, makes him laugh. INT. MJOLNIR - MESS HALL - DAY Bane sits silently, a small twitch in his eye as the crews of both ships stare at him. If there was a sound being made by anyone, it would be the grinding of Roland's teeth.
+N: GOLDENROD REVISIONS JUNE 27, 2002 40.
+C: BANE
+D: I really wish I could help ... I just .. I don't remember any of it.
+C: ROLAND
+D: What about the cuts on your arms? Those cuts are more than one day old.
+C: BANE
+D: Yeah, definitely. You're right about that, sir. They look like they might be self inflicted, but why would I do something like that to myself? Unless of course, I wasn't myself. But if I'm not me, then who am I? Bane stares into the cut across his palm.
+C: ROLAND
+D: Has this man been tested for VDT's?
+C: MAGGIE
+D: Yes sir. It was negative, but he is showing a lot of unusual neural activity. Some cross synaptic firing, as well as signs of recent trauma with fresh fibrotic scarring throughout the cortex. Bane continues to stare at the scabbing cut. Frustrated, Roland gets up, whispering to Maggie. She nods.
+C: ROLAND
+D: I want the truth. I don't care what it takes. Make him remember. INT. MJOLNIR - BEDROOM - DAY Neo is alone, sitting on the bunk, looking for his own answer. Again he focuses and sees something that is there, but not there: the Desert of the Real. A dark scorched plane of earth marked by the three black lines that pull us closer and closer until-- He blinks and the image is gone . GOLDENROD REVISIONS JUNE 27, 2002 41. INT. MJOLNIR - LOWER DECK - DAY Excited, Mauser slides down the ladder as Roland steps out of the mess hall.
+C: MAUSER
+D: Sir! Sir! We found her!
+C: ROLAND
+D: The Logos?
+C: MAUSER
+D: Yes sir.
+C: ROLAND
+D: About time we had some goddamn good news. EXT. PIPELINE - DAY The Logos lies hidden; its hull a lifeless shadow obscured by rubble and debris. It appears that a massive bomb exploded near the mouth of the small pipeline. Search-lights sweep over the Logos as the Mjolnir glides overhead carefully maneuvering through the damaged opening. 549 INT. MJOLNIR - COCKPIT - DAY Morpheus, Roland, Mauser and AK are in the cockpit.
+C: MORPHEUS
+D: Are the thermals picking up any signs of life?
+C: AK
+D: No sir. Nothing yet.
+C: ROLAND
+D: What about the ship?
+C: MAUSER
+D: Holographic says the hull's intact.
+C: AK
+D: Sentinels. AK points as the lights sweep over the still metal carcasses of several Sentinels.
+C: ROLAND
+D: Drop her down there and keep a man in the rear turret.
+N: ,ii .... 1,,, I ; ' l ' GOLDENROD REVISIONS JUNE 27, 2002 42.
+C: MAUSER
+D: Yes sir. 550 EXT. PIPELINE - DAY There is a bright burst of electricity as current arcs out from the lower pads to the metal of the pipeline. 551 INT. MJOLNIR - COCKPIT - DAY The ship bangs down, Morpheus already up and heading for the ladder.
+C: ROLAND
+D: Get a full diagnostic on that ship as fast as humanly possible. 552 EXT. PIPELINE/MJOLNIR - CARGO BAY - DAY The hull doors open and Colt is the first out, a high beamed flashlight attached to his lightning gun. Morpheus quickly follows, scanning the dark skeletal remains of the bomb blast.
+C: COLT
+D: Careful sir. Them squids are sneaky bastards. Could be a trap. Morpheus nods, but is not listening. AK and Mauser begin unloading various pieces of equipment. Link hurries out with a lightning gun, trying to guard Morpheus. They pass one of the dead Sentinels. Cautiously, Link steps over to it and kicks it when there is a loud bang.
+C: AK
+D: What was that?
+C: MAUSER
+D: Over there! The light sweeps towards another loud bang and finds-­ Niobe.
+C: NIOBE
+D: You can put that shit away boys. All she needs is a jump. GOLDENROD REVISIONS JUNE 27, 2002 43. Ghost and Sparks crawl down from their hiding spot, up in the tangled briar of debris.
+C: MORPHEUS
+D: Niobe. He seems, for a moment, caught between what he should do and what he wants to do.
+C: NIOBE
+D: Are you all right, Morpheus?
+C: MORPHEUS
+D: What? Yes, I just-- We weren't sure what happened after, and I ... I'm sorry.
+C: NIOBE
+D: No, it's okay. I'm happy to see you too. She smiles at his awkwardness.
+C: NIOBE
+D: Did you get Neo out? He's surprised by the question.
+E: CONT'D
+C: MORPHEUS
+D: Yes, How did you know about that?
+C: NIOBE
+D: The Oracle.
+C: MORPHEUS
+D: You saw her?
+C: NIOBE
+D: Just before the Sentinels found us.
+C: MORPHEUS
+D: What-- What did she tell you?
+C: NIOBE
+D: The same thing she always does. Exactly what I needed to hear. She heads off for the ramp. 553 INT. ZION - COUNCIL CHAMBERS - DAY Lock addresses the council.
+C: I
+D: GOLDENROD REVISIONS JUNE 27, 2002 44.
+C: LOCK
+D: In less than twelve hours the Machines will breach the dock walls. In every simulation we've run, we've seen that once the Machines are inside the city, the odds of our survival decrease dramatically. The room is crowded but quiet, everyone intently following the logic of Lock.
+C: LOCK
+D: Thus our primary objective must be to destroy or disable the diggers inside the dock. If we can do that, perhaps we can prevent them from ever reaching the city. He speaks like a coroner, describing a cause of death, precise and without emotion.
+E: CONT'D
+C: LOCK
+D: If not, then the only place we will be able to mount an effective defense will be at the entrance of the Temple. It is small enough that it will force them into a bottleneck allowing us to concentrate the remainder of our defense.
+E: CONT'D
+C: TUCHMAN
+D: Commander, what's to stop the Machines from tunneling straight into the Temple?
+C: LOCK
+D: It appears to us that the diggers are targeting the electrical activity of Zion. I don't think they are even aware that the Temple exists.
+C: DILLARD
+D: We understand that you have requested additional volunteers.
+C: LOCK
+D: That is correct.
+C: WEST
+D: Precisely what size force are you planning to commit to the primary dock objective.
+C: LOCK
+D: Right now, the entire APU Corps and half the infantry. GOLDENROD REVISIONS JUNE 27, 2002 45.
+C: WEST
+D: Half the infantry?
+C: LOCK
+D: If it were up to me, councillor I'd take every man, woman and child, put a gun in their hand and march them straight into that dock.
+C: DILLARD
+D: Perhaps it is best that it is not up to you.
+C: LOCK
+D: Time will tell, councillor.
+C: HAMMAN
+D: Commander, just one more question. Has there been word of the Nebuchadnezzar?
+C: LOCK
+D: None and at this point there is no reason to expect there ever will be.
+C: HAMMAN
+D: No Commander, but we can hope.
+C: LOCK
+D: I'm afraid hope is an indulgence I don't have time for. 554 INT. ZION - RESIDENT CATWALKS - DAY The catwalks and platforms are alive with activity, its inhabitants preparing for the impending siege. 555 INT. ZION - LINK'S HOME - DAY Zee is alone folding a powdery mixture in a large teflon bowl. The table is strewn with strange tools as if she were baking a cake or fixing an engine. She sets the bowl next to a set of scales, looking up as Cas enters, carrying several bags. The children are behind her.
+C: CAS
+D: Zee what are you doing?
+C: ZEE
+D: Making shells.
+N: GOLDENROD REVISIONS JUNE 27, 2002 46.
+C: CAS
+D: They're evacuating our level. We have to go.
+C: ZEE
+D: I'm not going with you.
+C: CAS
+D: What?
+C: ZEE
+D: They called for volunteers to hold the dock. Cas drops her bag.
+C: CAS
+D: Kids, you wait right there. She closes the door and goes to the table.
+C: CAS
+D: I know how you feel, Zee, but you can't do this.
+E: CONT'D
+C: ZEE
+D: I have to.
+C: CAS
+D: Why?
+C: ZEE
+D: Because I love him, I love him same as he loves me and if I was out there and he was here, I know what he'd do.
+C: CAS
+D: But you're going to get yourself killed. It's crazy Zee.
+C: ZEE
+D: Maybe it is, but ask yourself, if it was Dozer and you knew the only chance you had to see him again was to hold that dock, what would you do? She looks down considering what she would do to have Dozer alive again. There is only one answer to the question.
+C: CAS
+D: ... make shells. Zee hugs her. GOLDENROD REVISIONS JUNE 27, 2002 47. INT. ZION - DOCKS - DAY The kid shoves a wheelbarrow with two crates of ammo from the APU support bunker. The front wheel bumps over a tangle of power lines and the kid loses control, tumbling forward as the bin tips over. The boxes smash open with the bright metal chatter of endless strings of bullets spilling out around the kid.
+C: MIFUNE
+D: What the shit is going on over there?
+C: KID
+D: An accident sir. I didn't see-- I'm sorry.
+C: MIFUNE
+D: Who in the hell are you?
+C: KID
+D: Unit volunteer, sir.
+C: MIFUNE
+D: What's a pod-born pencil-neck like you doing volunteering for my Corps?
+C: KID
+D: I want to do my part, sir. We have to hold the dock.
+C: MIFUNE
+D: How old are you, kid?
+C: KID
+D: Eighteen. Mifune scoffs.
+C: MIFUNE
+D: You should have said sixteen. I might have believed that.
+C: KID
+D: Okay. I'm sixteen.
+C: MIFUNE
+D: Minimum age for the Corps is eighteen. Sixteen is too young.
+C: KID
+D: The Machine's don't care how old I am. They'll kill me just the same.
+C: GCLDENRJD REVISIONS GHOST
+D: Now what?
+C: JUNE
+D: .;. ' ' 2002 49~ 5 6 2 INT. ,lcJOLNIR MESS HAL::.. - DAY '; 62 The Captains and Seconds of each ship are gathered arour.d the table.
+C: RCLAND
+D: The Machines have ta:C<en 3uncti:m Twenty­ one. i:='he way I see it, if 'i.le drop down from broadcast here, intersect One­ seve:1ty, we nigt:t surprise them. There is an i:1tricate map cf the sewer lines spread OJt on the table.
+C: ROLA..'ID
+D: We'll go first, hammer as deep as we can, then blow our EMP. Hopefully we can pur.ch a hole big enough for you to get through. He leans back.
+E: CONT'D
+C: ROLAND
+D: It air.'t pretty, but the way I see it, it's the only way back.
+E: CON':''D
+C: NIOBE
+D: No it isn't. Niobe's been sitting back until now.
+C: NIOBE
+D: There's ar.ot:i.er way. A support line. It drops dowr. right here, at least a thousand meters short of T'".-1enty--0ne. If we're lucky, we may be able to slip down without them ever knowing.
+E: CONT'D
+C: ~OLAND
+D: That's a mecha:1ical line. It's i.mpo:3si:::ile. No one can pil:it mechanical. )lIOBE I can.
+C: RCLAND
+D: Bullshit.
+C: NIOBE
+D: I've done it.
+N: GOLDENROD REVISIONS JUNE 27, 2002 50.
+C: MORPHEUS
+D: That was a long time ago, Niobe and nowhere near this long a run.
+C: NIOBE
+D: I said I can do it.
+C: ROLAND
+D: So what? If you can, you're the only one that can. There's no way we can follow you. The door suddenly ratchets open. They all turn to find Neo standing in the doorway. They wait for him to speak.
+C: NEO
+D: Hi ... He looks at Morpheus.
+C: NEO
+D: I know time is always against us ... I'm sorry that I took so long, but I wanted to be sure ..
+E: CONT'D
+C: TRINITY
+D: Sure of what?
+C: NED
+D: I know what I have to do.
+C: MORPHEUS
+D: What?
+C: NEO
+D: There is no easy way to say this, so I'll just say it. I have to take one of the ships.
+C: ROLAND
+D: What?
+C: MORPHEUS
+D: To go where?
+C: NEO
+D: To the Machine city . Everyone is stunned for a moment trying to figure out if they heard him right . .562 GOLDENROD REv=srom; ,JUNE .,, , , 2002 5~. Trinity stares at hi:n and he i.s unable to hide his thou9hU; frcm her. Somet'1in9 unspoken ::,asses between t'-lem. Roland b:.irsts into l.au9hte:::-. NEC (COKT'Dj I know it's difficult to understand--
+C: ROLAND
+D: No it's not. You're out o:: your goddamn mind.
+C: NEO
+D: I still have to go.
+C: ?..OLAND
+D: Ycu'll never make it. In a hundred years nc ship has been within a hundred kilometers of it. You'll never make it.
+C: NEO
+D: I :-iave to try. c-10?..PEEUS Is this what the Oracle told you?
+C: NEO
+D: No.
+C: ROLAND
+D: This is asinine. If yoi.:. want to kil:.. yourself, go do it. Bu~ do it withou~ wasting one cf our ships.
+C: NEO
+D: You have to believe me. I have to 90.
+C: ROLAND
+D: Bullshit! I am the Captain of this ship. I say where Lt :i.as to 90. And believe me, this ship w:..11 90 to hell lon9 before I let you take it anywhere.
+C: NIOBE
+D: He can ~ake mine. ?..oland almost spits out his ton9ue.
+C: ROLAND
+D: You can't do that--
+N: GOLDENROD REVISIONS JUNE 27, 2002 52.
+C: NIOBE
+D: Don't even think about telling me what I can and can't do with my ship after that little speech.
+C: ROLAND
+D: But for christ's sakes, Niobe--
+C: NIOBE
+D: I'll pilot this ship, Neo can take mine. If we leave inside the hour, we should reach Zion as the Machines do. That plan sounds as good as any. Roland gets up, leaving in disgust.
+C: ROLAND
+D: It's a waste! A goddamned waste! Morpheus is staring at Niobe.
+C: NIOBE
+D: Two ships. Two directions. Sounds like providence, doesn't it Morpheus?
+C: MORPHEUS
+D: You've never believed in the One.
+C: NIOBE
+D: I still don't.
+C: MORPHEUS
+D: Then why are you doing this?
+C: NIOBE
+D: Because I believe in him. Neo isn't sure how to respond.
+C: NEO
+D: ... thank you. INT. LOGOS - MAIN DECK - NIGHT Sparks is at the operator's station. All the monitors are blank.
+C: SPARKS
+D: Uplinks in place. I'm bringing her back online . He Lifts a main switch and the monitors all flicker to life. GOLDENROD REVISIONS JUNE 27, 2002 53.
+C: SPARKS
+D: Looking good, except-- There is something wrong with the three central monitors where the Matrix is viewed. The Matrix code is glitching uncontrollably.
+E: CONT'D
+C: SPARKS
+D: What the-- He pounds on the monitor. It doesn't help.
+E: CONT'D
+C: SPARKS
+D: There's something wrong with the Matrix feed. INT. MJOLNIR - MAIN DECK - DAY AK and Link are staring at the same thing.
+E: CONT'D
+C: AK
+D: No there's not. You're looking at what we're looking at.
+C: SPARKS
+D: What the hell is going on in there?
+E: V.O.
+C: LINK
+D: Whatever it is, it can't be good. INT. MJOLNIR - INFIRMARY - DAY Bane is sitting on the table. Maggie is drawing a serum into a hypodermic needle.
+C: BANE
+D: What's that for?
+C: MAGGIE
+D: To help you relax. To make it easier for you to remember.
+C: BANE
+D: What if I don't want to remember?
+C: MAGGIE
+D: Why would you want that?
+C: BANE
+D: What if I blew that EMP? What if I did destroy those ships and I am responsible for the deaths of all those men?
+N: He smiles~ GOLDENROD REVISIONS JUNE 27, 2002 54. If I did that, then it wouldn't be very safe for me here, would it? Maggie sees something behind his eyes that frightens her. She tries to stab him with the needle, but he's ready for it. He catches her and leaps off the table, driving her back against the wall. With snake-bite speed, he whips a hidden scalpel from his sleeve and jams it into her heart.
+C: BANE
+D: Of course, it might not be very safe for you either. INT. MJOLNIR - BEDROOM - DAY Neo grabs his tools and shoulders his bag. When he turns, Trinity is standing in the door with her bag.
+E: CONT'D
+C: TRINITY
+D: I'm ready.
+C: NEO
+D: Trinity .. He drops his bag. She waits.
+C: NEO
+D: There's something I have to say. Something you need to understand .. NEO I know I'm supposed to go, but beyond that ... I don't know ... I'm not sure if .. . He is unable to find the words, so she does.
+E: CONT'D CONI' 'D
+C: TRINITY
+D: I know, Neo. You don't think you're coming back. He nods, surprised as always by her.
+C: TRINITY
+D: I knew it the moment you said you had to leave. GOLDENROD REVISIONS JUNE 27, 2002 55. I saw it in your face, just like you knew the moment you looked at me, that I was coming with you.
+E: CONT'D
+C: NEO
+D: I'm scared, Trin. She drops her bag and steps close to him.
+C: TRINITY
+D: So am I. It took me ten minutes to buckle up one boot. But I'll tell you something Neo, six hours ago I told the Merovingian I was ready to give anything and everything for you. He believed me. Do you know what's changed in the last six hours?
+C: NEO
+D: No.
+C: TRINITY
+D: Nothing. She kisses him and in the kiss there is a vow.
+C: TRINITY
+D: Now grab your bag and let's go. 567 INT. MJOLNIR - COCKPIT - DAY They are preparing for take off. Roland is on the radio.
+E: CONT'D
+C: ROLAND
+D: You finished loading that ammunition? 8 INT. LOGOS - LOADING BAY - DAY Several crew members haul the last few boxes of ammunition.
+C: MAUSER
+D: Just about, sir.
+C: ROLAND
+D: Let's move it. We are out of time. 569 INT. MJOLNIR - COCKPIT - DAY Niobe is in the pilot's seat.
+E: V.O.
+C: NIOBE
+D: You're not leaving them anything?
+N: GOLDENROD REVISIONS JUNE 27, 2002 56.
+C: ROLAND
+D: He said they didn't need it. INT. MJOLNIR - LOADING BAY - DAY Morpheus and Link are saying goodbye to Neo and Trinity. Link locks a bear-hug on her.
+C: LINK
+D: I ain't saying goodbye. I'm just saying good luck.
+C: TRINITY
+D: Thanks. He hides his tears as he turns away. Morpheus isn't sure what to say to Neo.
+C: MORPHEUS
+D: I can only hope you know what you're doing.
+C: NEO
+D: Me too. Neo offers his hand, as he did when they first met.
+C: NEO
+D: It was an honor, sir. Morpheus smiles as he shakes it.
+E: CONT'D
+C: MORPHEUS
+D: No, the honor is still mine. Hauling their bags, Neo and Trinity head down the ramp, disappearing into the darkness of Lhe pipe. 571 INT. MJOLNIR - COCKPIT - DAY Niobe, Ghost and Roland prepare for take-off. MAUSER We're ready, sir.
+E: V. 0.
+C: ROLAND
+D: About damn time. He looks at Niobe .
+C: ROLAND
+D: We're already late, so let's hit it, Captain, and hit it hard. GOLDENROD REVISIONS JUNE 27, 2002 57. Niobe looks out one last time at her ship.
+E: CONT'D
+C: NIOBE
+D: Goodbye baby. Take good care of them. EXT. PIPELINE - DAY Spastic strings of electricity leap from the pads, as the Mjolnir lifts off the ground, spins and glides by leaving the Logos behind. INT. LOGOS - COCKPIT - DAY Neo climbs into the seat beside Trinity.
+C: TRINITY
+D: Ready? He looks out as the lights from the Mjolnir disappear around the corner of intersecting pipe. He nods. She takes hold of the stick when suddenly the lights in the cockpit die. Checking several gauges, she listens to the ship's engine.
+C: TRINITY
+D: Engine's still firing. It must be a fuse. I'll check it. 574 INT. LOGOS - ENGINEERING ROOM - DAY The hatch slaps open and Trinity climbs down the ladder, her fluorescent torch the only source of light. The room looks like a dozen old basements were crarrn:ned into a crawl-space. Trinity searches the fuse boxes that line the walls and finds a series of disconnected fuses when-- Bane attacks. Her light clatters to the floor as he grabs her from behind, pressing the scalpel against her throat.
+E: CONT'D
+C: BANE
+D: I should have known he'd send his bitch first.
+C: TRINITY
+D: Bane?! GOLDENROD REVISIONS JUNE 27, 2002 58. He digs the blade up under her jawbone, forcing her head back.
+C: BANE
+D: No one ever got away from me as many times as you did. Every single time I thought it was the last, every time I was sure we had you, somehow you'd slip through our fingers. I really can't express just how aggravating that can be.
+C: TRINITY
+D: What are you talking about?
+C: BANE
+D: I think I might even enjoy killing you as much as killing him. At the mention of Neo, her eyes fire with the intensity of a lion guarding its cubs. She grabs the knife hand, fighting it with all her strength as she screams throwing them both backward crashing to the floor. The two bodies writhe and twist, knotting and unknotting until Trinity slips free-- Grabbing the light as he grabs her. Twisting back, she smashes it into his face, pitching the room into darkness except for the light that falls through the hatch. She lunges for the ladder, scrambling up it as a shadow leaps after her. 575 INT. LOGOS - LOWER DECK - DAY 575 She climbs out the hatch just as Bane snatches her foot, tripping her. She slams to the floor, but as he rises up through the hatch, she kicks him in the face-- Breaking his nose, the treads on her boot ripping open his upper lip. Clambering to her feet, she rushes for the intercom. 576 INT. LOGOS - COCKPIT - DAY The intercom spits out her voice. GOLDENROD REVISIONS JUNE 27, 2002 59.
+C: TRINITY
+D: NeoJ It's Bane! He's psychotic! She's cut off, shooting Neo from his seat. :577 INT. LOGOS - LOWER DEC:K - DAY 577 Bane bangs Trinity against the metal wall. Stunned, she falls to the floor and before she can recover, he kicks her savagely in the ribs, almost flipping her over. Pain explodes through her body, black spots bursting in her vision. Bane wipes the back of his hand across his shattered nose.
+C: BANE
+D: You're going to pay for that. 578 INT. PIPELINE - DAY The Mjolnir leaves a wake of static electricity like a race car laying down smoke and burnt rubber. 579 INT. MJOLNIR - COCKPIT - DAY Ghost studies the monitors.
+C: GHOST
+D: Another twenty one kilometers. Niobe nods as the intercom crackles on.
+C: AK
+D: Captain! Captain we got an emergency down here!
+E: V.O.
+C: ROLAND
+D: What is it, AK?
+C: AK
+D: It's Maggie, sir. She's dead. Murdered sir. I think it was Bane.
+E: V.O.
+C: ROLAND
+D: Goddamnit! He throws the handset down, jumping up from his seat . . 580 INT. MJOLNIR - INFIRMARY - DAY A sheet is pulled over the bloody body of Maggie.
+N: GOLDENROD REVISIONS JUNE 27, 2002 60.
+C: ROLAND
+D: I knew it! I knew he was out of his goddamn mind! He fired that EMP! Goddamnit, I should have beaten it out of him! Colt hurries into the room.
+C: COLT
+D: We searched the whole ship, Captain. He ain't here.
+C: ROLAND
+D: I know where he is.
+C: MORPHEUS
+D: The Logos.
+C: LINK
+D: We've got to go back.
+C: ROLAND
+D: It's too late.
+C: LINK
+D: You don't know that. What if they need help?
+C: ROLAND
+D: It's too dangerous.
+C: LINK
+D: Why?
+C: MORPHEUS
+D: Because if he's killed them, he'll control another EMP.
+C: ROLAND
+D: At this point, they're on their own. Just like us. Link turns to Morpheus, but Morpheus knows Roland is right. 581 INT. LOGOS - LOWER DECK - DAY Neo climbs down the ladder, sweeping the barrel of the lightning gun from shadow to shadow.
+C: NEO
+D: Trinity! Neo! GOLDENROD REVISIONS JUNE 27, 2002 61.
+C: TRINITY BANE
+D: Yes, we're over here! He hears him forcing her quiet.
+C: NEO
+D: Trinity! He runs through the heavy cabled passageways that wind around the base of the core leading to the engineering hatch. Bane stands just beyond the open floor hatch holding Trinity, whose hands are tied behind her back. Neo charges forward, but stops when he sees the scalpel point puncture the white skin of her exposed throat.
+C: BANE
+D: Hello, Mr. Anderson. I see you are as predictable in this world, as you are in the other.
+C: NEO
+D: What?
+C: TRINITY
+D: He's out of his mind.
+C: BANE
+D: It might appear that way to you, but Mr. Anderson and I know that appearances can be deceiving. A rush of something familiar floods Neo's mind.
+C: BANE
+D: Confused, Mr. Anderson? It'll all become clear in a moment. Now, thank you for bringing me the gun, you can set it down right there.
+E: CONT'D
+C: TRINITY
+D: Don't do it. The scalpel bites deeper.
+C: TRINITY
+D: Shoot, Neo. Shoot now. GOLDENROD REVISIONS JUNE 27, 2002 62.
+E: CONT'D
+C: BANE
+D: Yes, shoot. Fry us. Burn us alive. Neo is frozen~
+C: TRINITY
+D: Do it. You have to. If you don't, he'll kill us both.
+C: BANE
+D: Look at him. He knows he should do it, but he won't. Neo raises the gun.
+C: TRINITY
+D: I told you nothing's changed. Nothing. Neo braces himself to fire.
+C: BANE
+D: He won't do it. He can't.
+C: TRINITY
+D: Do it. He knows what he should do.
+C: TRINITY
+D: Please. But he can't. He closes his eyes unable to kill the woman he loves and throws down the gun. Bane srniles, blood cove:ring feasting carnivore.
+E: CONT'D
+C: NEO
+D: Let her go.
+C: BANE
+D: Back away.
+C: NEO
+D: Drop the knife.
+C: BANE
+D: Fair enough. like some He drops it and it bounces, clattering down through the open hatch. GOLDENROD REVISIONS JUNE 27, 2002 63.
+C: BANE
+D: Back away from the gun and turn around. Neo does.
+E: CONT'D
+C: NEO
+D: Let her go. With one quick shove, Bane throws Trinity down the hatch as Neo spins back, catching a glimpse of her-- Falling, screaming as she crashes to the metal floor below. Both men dive for the gun, Bane getting there first, but Neo manages to grab the barrel. Bane yanks Neo off-balance, ramming his knee into his gut, then swings the gun around and clubs Neo over the head. Neo drops to his hands and knees, shaking off the blow, but when he looks up, he finds himself staring down the barrel of a gun.
+C: BANE
+D: Somehow familiar, isn't it? We've been here before, you and I? Remember? I do. I think of nothing else. INT. LOGOS - ENGINEERING ROOM - DAY Trinity tries to move; everything hurts. She can hear their voices above her and as she rolls over she sees the scalpel glinting in the light. INT. LOGOS - LOWER DECK - DAY 583 Bane stands over Neo, blood still dripping from his ruined face.
+C: NEO
+D: Who are you?
+C: BANE
+D: You still don't recognize me? I admit it is difficult to even think encased in this rotting piece of meat, the stink of it filling every breath, a suffocating cloud you can't escape. Mucus bubbles out of his mangled nose.
+N: GOLDENROD REVISIONS JUNE 27, 2002 64.
+C: BANE
+D: Look at this. Disgusting. Look at how pathetically fragile it is. Any excuse and it begins to spew. He spits a clot of blood.
+E: CONT'D
+C: BANE
+D: Nothing this weak is meant to survive. INT. LOGOS - ENGINEERING ROOM - DAY Trinity saws through the wire binding her wrists. Closing her mind to the pain, she pushes herself up and steps towards the ladder, but as she does-- A piece of glass from the broken light crunches under her boot. She looks up as Bane looks down. Leaping for the ladder, she sees Bane kick the hatch shut and as she is buried in darkness, she hears the wheel-lock snap into place.
+E: CONT'D
+C: TRINITY
+D: Nol Neo! 585 INT. LOGOS - LOWER DECK - DAY Neo starts for him, but Bane is too far, the gun holding him in check.
+C: BANE
+D: Persistent isn't she?
+C: NEO
+D: What do you want?
+C: BANE
+D: I want what you want. Neo can almost hear the voice of Smith.
+C: BANE
+D: Yes, that's it, Mr. Anderson. Look past the flesh, look through the soft gelatin of these dull cow eyes and see your enemy . GOLDENROD REVISIONS JUNE 27, 2002 65. INT. LOGOS - ENGINEERING ROOM - DAY In absolute darkness, Trinity gropes her way along the fuse board, feeling each one as if reading braille.
+E: CONT'D
+C: TRINITY
+D: Seven ... fourteen ... twenty-one ... .587 INT. LOGOS - LOWER DECK DAY Neo doesn't want to believe it.
+C: NEO
+D: No . Bane smiles, with his blood-slick teeth.
+C: BANE
+D: Oh yes, Mr. Anderson.
+C: NEO
+D: It can't be.
+C: BANE
+D: There is nowhere I can't go, there is nowhere I won't find you ..
+C: NEO
+D: It's impossible.
+C: BANE
+D: Not impossible. Inevitable. The word is like ice down his spine.
+C: BANE
+D: Goodbye, Mr. Anderson. Bane raises the gun to fire as-­ '588 INT. LOGOS - ENGINEERING ROOM - DAY Desperate, her fingers lock onto a single fuse.
+E: CONT'D
+C: TRINITY
+D: That's it ... It's got to be ... She yanks the fuse. 589 INT. LOGOS - LOWER DECK - DAY The lights go out.
+N: GOLDENROD REVISIONS JUNE 27, 2002 66. There is a window between the moment Bane understands what happened and the moment he fires the gun. It is a window that is only a fraction of a second wide-- But that is wide enough. The lightning bolt slashes open the darkness, a sizzling ball of electricity that bursts against the ground where Neo had been, but is no longer. In the strobing light of the gun, Neo lunges for Bane, diving into him, colliding with the gun that continues to fire-- Raking up the walls, severing cables that shower the darkness with star-bursting spark light. Neo tackles Bane, driving into him, toppling him backward, until they both crash to the ground-- The gun bouncing free. The two men merge into a single writhing shadow, limbs flailing wildly as they fight to separate. Gone is the grace and precision of fighting in the Matrix; Neo swings his fist like a club, bludgeoning it against Bane's skull-- Each blow laying open the flesh covering his knuckles, while sending shivers of pain shooting up his forearm. The fight is violent and chaotic; two dogs searching for the other's neck-- Neo finds it first, his hands clamping like jaws onto Bane's throat. He leans into it, with all his might, trying to crush his windpipe. Bane thrashes madly, eyes bulging, until-- His hand seizes hold of a snaking black cable, its end hissing, spitting embers like a roman candle. He jams it straight into Neo's face, sending him screaming backwards.
+S: INT. LOGOS - ENGINEERING ROOM - DAY
+N: The terrifying scream almost stops her heart .
+C: TRINITY
+D: Oh no. GOLDENROD REVISIONS JUNE 27, 2002 67. INT. LOGOS - LOWER DECK - DAY Neo is badly burned, a slash of white blistered flesh across both eyes. Bane scurries away, grabbing the nearest weapon he sees: a thick piece of pipe Neo spins toward the sound and Bane freezes, realizing two things at once: the gun is at Neo's feet, but he can't see it. Neo is blind. Bane laughs as Neo tries to find his bearings, stepping away from the gun.
+C: BANE
+D: I wish you could see yourself, Mr. Anderson. Bane leads Neo further away, his voice luring him into the main chamber.
+C: BANE {CONT'D)
+D: A blind messiah. He slowly feels his way towards him, but as Bane moves Neo seems to lose him for a moment.
+C: BANE
+D: A symbol for your kind. Helpless. Pathetic. Bane circles back, his grip tightening on the pipe.
+E: CONT'D
+C: BANE
+D: Just waiting to be put out of your misery. Raising the pipe, he swings it like a bat, but just as it's about to cave in Neo's head-- Neo ducks. Bane blinks in disbelief, immediately swinging again, but Neo catches hold of his wrist. Bane is again surprised as Neo leans in, his ruined eyes looking at Bane or more accurately, looking into him as--
+E: CONT'D
+N: GOLDENROD REVISIONS JUNE 27, 2002 68. We see what Neo sees: a world of total darkness, except for the pale glowing specter of Agent Smith, like a ghost made of phosphorescent light, his sunglasses like the dark sockets of a skull.
+C: NEO
+D: I can see you. Smith's face slackens with fear as Neo attacks-­ Twisting Bane's arm, snapping it violently as Bane howls. Neo spins the pipe, jamming the end into Bane's gut, dropping him to the ground. Bane looks up, the white of his eyes bright against his blood­ wet face.
+C: BANE
+D: It's not over, Mr. Anderson. The ghost of Smith also looks up at him.
+C: SMITH
+D: It's not over. Neo brings the pipe down, bashing in Bane's skull as-- The ghost head explodes, the entire skein of Smith bursting apart like a balloon, particles of light rushing up and away as if a fierce wind blew through a bonfire. In one world, Neo stands over Bane's lifeless body. In another world, Neo stands alone, in total darkness. INT. LOGOS - ENGINEERING ROOM - DAY The wheel-lock snaps open and light streams into the darkness as Neo opens the hatch.
+C: TRINITY
+D: Neo. She rushes up the ladder. INT. LOGOS - LOWER DECK - DAY Immediately she sees the wound, realizing as she does that he can't see her .
+C: TRINIIY
+D: Oh no ... Neo ... GOLDENROD REVISIONS JUNE 27, 2002 69. He feels her fingers on his face.
+C: TRINITY
+D: Your eyes . ...
+E: CONT'D
+C: NEO
+D: I'll be okay.
+C: TRINIT::
+D: Neo .. She shuts her eyes holding him.
+C: NEO
+D: It's all right, Trin. But I think you're gonna have to dri;,,e. He feels her smile against his cheek.
+C: N30
+D: Corne on. Help me. t94 INT. ZION - COMMAND CENTER - :!-IIGHT In the world of the monitor, the diggers steadily blip, inching their way towards Zion. In the real i.orld, the network of caves is vibrating, duet drizzling down onto the officers and their equipment. Commander Lock sits gravely at the helm. LIEUTENAN'.c Seismic is projecting twenty-two minutes to breach. Lock studies the screens.
+E: CONT'D
+C: LOCK
+D: 'Ihey can't know we don't have an EMP. 'Ihey'll have to attack in waves. Concentrate our offense on the diggers. Order the APUs into position. LIEUl'ENANT YE~S sir. 195 INT. ZION - CORE - NIGHl' The cli.:fs sides of Zion shudder, the abandoned hovels an::! cat.walks ringing under the approachin-:, storm. 59,
+N: GOLDENROD REVISIONS JUNE 2002 70.
+S: 596 INT. ZION - EXTERIOR TEMPLE ENTRANCE - NIGHT
+N: Casis leading her children into the Temple.
+S: 597 INT. ZION - DEFENSE DUCT - NIGHT
+N: Huddled in the defense duct, a group of ground troops wait, eyes wide, the tiny passage filled with white noise. Amongst the soldiers, Zee crouches, the pounding in her heart rising with the sound of the digger. Charra, her artillery partner, is checking the handmade bazooka.
+C: ZEE
+D: You scared, Charra?
+C: CHAR.RA
+D: Shit yeah. But I'll make you a deal; you keep loading, I'll keep shooting. She holds out her hand and Zee takes it.
+C: ZEE
+D: Deal. INT. ZION - DOCKS - NIGHT The kid is threading a massive bandolier into one of the guns on an Armored Personal Unit; a walking anti-aircraft machine, its twin bipedal guns jutting from hulking shoulders. He slaps down the lid on one of the APU's now full ammo bins and looks up at Mifune.
+C: KID
+D: Take care, sir. Mifune nods and the kid jumps down hefting one end of a huge wheelbarrow and pushes it quickly away down a heavy catwalk. Mifune addresses the Corps, their faces aglow in the blue light of their APU's instrument panels.
+C: MIFUNE
+D: All right, this is it. You all know me. I don't make speeches, so I'll just say this as simple as I can. If it's our time to die, it's our time. All I ask is if we have to give these bastards our lives, we give them hell before we do .
+C: CORPSMEN
+D: Lock and load! GOLDENROD REVISIOKS JUNE 27, 2002 71. INT. PIPELINE - NIGHT The :'-ljolnir creeps along, its pads at a minimam, dropping like a feather into the mainline. INT. MJOLNIR - COCKPIT - NIGHT Almost everyone is squeezed into the cockpit. The hologram shows the massive artery clogged entirely by the Machine army.
+C: AK
+D: Holy christ would you look at that.
+C: ROLAND
+D: Quiet. How far to the opening?
+C: GHOST
+D: One point four kilometers.
+C: MORPHEUS
+D: We're still generating too hot a field.
+C: NIOBE
+D: Ghost, kill all auxiliary systems. Give me full manual and drop down to four pads.
+C: AK
+D: It'll bottom out!
+C: NIOBE
+D: If we can just get close enough . ;: Ghost
+C: I
+D: s fingers fly over the console, as the lights die in the cockpit, almost every monitor blinking off.
+C: 6CO
+D: EXT. MJOLNIR - NIGHT 60] :-All but four pads shut down as the Mjolnir sinks gliding like II: a flounder over the sewer bottom. ;; INT. MJOLNIR - COCKPIT - NIGHT 60: . Ghost watches as they near the mechanical line.
+C: GHOST
+D: One kilometer . The ship creeps down the pipeline.
+C: NIOBE
+D: Easy baby.
+N: GOLDENROD REVISIONS JUNE 27, 2002 72.
+C: GHOST
+D: Seven hundred meters ... Six hundred.
+C: AK
+D: There! They can see the dark opening, but a section of the tunnel roof has collapsed in front of it. Niobe's grip tightens and she banks the ship trying to slip over the fallen debris, but it scrapes against a jagged, metal outcropping creating a terrible noise.
+C: NIOBE
+D: Shit! 603 INT. PIPELINE - NIGHT Several Sentinels react to the sound, dishes snapping open. 604 INT. MJOLNIR - COCKPIT - NIGHT Ghost sees a group of Sentinels on his monitor breaking from the main army.
+C: GHOST
+D: Jig's up. Here they come.
+C: NIOBE
+D: Damnitl Full power! Full systems!
+C: ROLAND
+D: Man the gun turrets! Every goddamn one of them.
+C: NIOBE
+D: Ghost you're the best gunner we liavel with them!
+C: GHOST
+D: You need help.
+C: NIOBE
+D: Morpheus, take his place. 605 INT. ZION - DOCKS - NIGHT--LAAGER POSITIONING The seismic roar has reached a fevered pitch. Mifune is strapped into the war machine. He taps the safety and his two cannons whir then lock into a boxer's defensive pose, the other machines snapping into the same position in unison. GOL:JENROD ?.EVISIO:-JS J'UNE 2:7, 20();2 73. 6C:i At the top o:: thE:: :l.0:112 a. ~3piderweb fracture bE:gin:.: to form~ cne of the f.i_ssi..:.res begins to w:iden and wr~: racf! along it as it zig-zags over the super hardened steel-crete, puzzle piece shards pLmmet.:..ng tc the dock flocr. Suddenly the nose o:: the digger punctures the roo::, a wh.:..rling white-ho-: t.or:1ad:, of teeth. The roof seizures as tne earth is cleaved open and with a lightning clap the ci.:'.. tanker-sized Machi:1e b:::-eaks through raini.nq strands o:: gabby magma-- Free falling in the open space above the docks-­ Lancing .in a deafening metal rer.di.ng co:net crash. IN~. ZION - COMMAND CENTER - NIGHT Alarms scream while ::.,ock stands agair.st a ti.de of rising panic.
+C: FIRST OPE~TOR
+D: Breach! The dock .is breached!
+C: LOCK
+D: Infantry! Go! INT. ZION - DEFE:'JSE DUCT - I\IGH':' A scout turns, half of hi.s face masked by a faceplate of monitors and moti.o:1S to a cluster of soldiers.
+C: SCOUT
+D: Go J Ge! rrake ou:.. its legs! The soldiers he::'t their weap.::,ns rac.ing up .inclined access branches. INT. ZION - DOCKS - NIGH'I 608 The M.:..fune and the other APU' s look down at Digger 1 then -1p ;, to t:-i.e Digger hole . They kno~ ... , what's ccming. k Smoke hisses off of the cone of the ciigger, as i.t. sits half embedded i.n the crinkled d::ick floor like an undetonated miss.llE::. Mifune estab~ishes l1urnan contra~ over the AFU and t~e prelude * to guns up position. * Duck an:i GcOS(?- arE eitl:":::::r side of Mi::une,m:>vi.n9 :into gur::s ~1F -;; Position in anticipat~on of the Sentinel swarrr. *
+N: GOLDENROD REVISIONS JUNE 27, 2002 73A. 609 RENUMBER - NOW SC 618F 609 * GOLi)ENROD ?EV::C-:SIO:-J~J .JUNE 27, 2,:1 0:2 74. 10 RENUMBER - Nm/ SC 6 .l 8A ?.ENUMBER - NOW SC 618M INT. ZION - COM .. \ffi..'lI:: CENTER -- NIGH'r The Fi:!:-st Operator spins ::ram the mass c,f oncorr.ing white b~ips.
+C: ?IRST OPERATOR
+D: Eight seconds to firs~ wave. INT. ZION - :JOCKS - NIGHT- CHERRY BLOSSOM The APUs are strategically placec. to crossL:_re i.nto tr .. e opening.
+C: MIFUNE
+D: Dig in! Each Corpsmen fires :.heir AP:J's metal support claws, which gouge into -:.he ground to brace against :.he guns' incredi::i:..e recoil. INT. ZION - TERMITE TUKNEL - NIGHT A rushing Sen:.inel P.O.V., :.he black glass shaft fli.ckering psychedelically. At the e:,d .o:: the tunnel the en:.rance :.o Zion's docking bay is a wideni.ng pinprick. 6CB
+N: GOLDENROD REVISIONS JUNE 27, 2002
+S: 615 INT. ZION - DOCKS - NIGHT
+N: An deep ancestral war cry wells up from Mifune's gut.
+C: MIFUNE
+D: For Zionl The other Corpsmen scream with him as the first wave hits. A biblical black swarm. Gouts of flame flash instantly from the APUs, lines of hot armor piecing tracer rounds snaking and snapping through the air like huge metal whips. Stray bullets tear puge trenches in the walls and ceiling, causing an avalanche of debris to rain onto the dock floor. The cloud of Sentinels spread like an unending oil slick, but a trickle of them slip past the crossfire and begin to attack. Under the fire fight, the digger rises into the air like a guillotine and slowly it begins to turn. 616 RENUMBER - NOW SC 618M 6 1 7 RENUMBER NOW SC 619B GOLDENROD REVISIONS JUNE 27, 2002 76. INT. ZION - DOCKS - NIGHT - SENTINELS SWARM The air is thick with Machines as they continue to pour in, red laser lines dissecting the air into a patchwork pattern of stained glass. The gun-barrels of the APUs glow like hot ulcers, as they throw a pulverizing barrage against the Machine army. Fat rounds crush dents in the Sentinel armor cleaving through their tentacles spread like talons but-- They are everywhere. A pair of ground troopers are cut down as they run from a pouncing Sentinel, its laser slicing through them like a band saw. 618A INT: DOCKS - NIGHT - DIGGERS #1 LEG SHOT OFF Grinding back to life, hulking crane legs unfold from the Machine's abdomen and it slowly begins to lift itself from its crater, nose down. Under the fire fight, the digger rises into the air like a guillotine and slowly it begins to turn Debris falls from the hole overhead like snow. It's legs expand outward. 618B INT: UPPER LEVEL SERVICE CHANNEL - NIGHT Bazooka TEAM #3 get into position. They load and fire the bazooka's 618C INT: FOXHOLE - NIGHT Bazooka TEA.~ #2 load & fire 618D INT: FOXHOLE - OTHER - NIGHT As the Digger rises .Bazooka TEAM 1 enters fg to prepare firing the bazooka.Sentinels swarming around close to the Digger,protecting it ,intercepting rockets 618E INT: DOCKS - NIGHT
+C: 618A 618B 618C 618D
+D: 618E
+N: The Digger rises and plants all four legs.Sentinels swarming * around close to the Digger,protecting it ,intercepting * rockets. Artillery exploding all around it. * GOLDENROD REVISIONS JUNE 27, 2002 76aA .
+S: 618F INT. ZION - FOXHOLE - NIGHT
+N: A hatch flips up and Zee and Charra roll out, as a steady barrage of artillery is hurled against the Machine by the entrenched infantry. 618F * Charra shoulders the fat double barreled bazooka aiming it at * one of the digger's kneecaps, * 618G INT: DOCKS - NIGHT Digger l's drill begins to spin. The cone is starting to rotate.It begins to tear through tunnel pipes.
+S: 618H INT. ZION - DEFENSE DUCT - NIGHT
+N: Several soldiers scatter as the point of the digger bores into the duct shredding through it like paper. 618J INT: FOXHOLE - OTHER - NIGHT
+C: 618G 618H 618J
+D: Zee loads two oil-can rounds and hits Charra on the shoulder. * She fires. The two heavy projectiles streak toward their * mark, cotton candy strands of heat and smoke in their wake-- * 618K INT: DOCK - NIGHT 618K Charra's & Zee's rocket hits the Digger l's knee. It breaks . but the Digger begins to rebalance. 618M INT. FOXHOLE - NIGHT 618M Zee starts to reload but stops, looking up as the metal cavern is filled with the rising mechanized locust scream of the Sentinel army. Zee pats Charra again and she fires, the two shells this time exploding uselessly against the armored plate of the digger.
+C: CHARRA
+D: Shit, we need a better angle. They climb back down into the duct. 618N INT. ZION - COMJV!-AND CENTER - NIGHT Lock studies the data flowing across the monitor windows.
+C: FIRST OPERATOR
+D: Four APUs down. Two disabled. 618N
+N: GOLDENROD REVISIONS JUNE 27, 2002 76aB.
+C: 618N LOCK
+D: Countermeasures! Release countermeasures! 618P INT. ZION - DOCKS - NIGHT 618P The air is thick with Machines as they continue to pour in, red laser lines dissecting the air into a patchwork pattern of stained glass.
+C: MIFUNE
+D: Back to back! Goose and Duck spin firing in all directions. The gun-barrels of the APUs glow like hot ulcers, as they throw a pulverizing barrage against the Machine army. Fat rounds crush dents in the Sentinel armor cleaving through their tentacles spread like talons but-- They are everywhere. A pair of ground troopers are cut down as they run from a pouncing Sentinel, its laser slicing through them like a band saw. 619 INT. ZION BUNKER - NIGHT The kid waits at his wheelbarrow, the sound of the battle ringing against the walls of the bunker when the huge reinforced metal doors open, another reloading team hurrying back inside. One of them is cradling his bloody, laser-
+N: lacerated shoulder. * A Sentinel leaps at the open door before the bunker sentry can close it. As it pounces to the opening, the nearest APU rings out and cuts the Machine in two. The kid swallows hard as the door slams shut. Flanked by a gunnery escort, the kid runs, pushing his ammo bin out onto the dock floor, red laser-lightning crackling above him. *
+T: CUT TO: *
+N: GOLDENROD REVISIONS JUNE 27, 2002 76aC .
+S: 619A INT : DOCKS - SENTINELS LINEBACKER - NIGHT
+N: Sentinels fly around the dock,towards Mifune, Duck and Goose.Hero Sentinel dives taking out Goose ,wrapping it's tentacles around him,dragging him over the edge of the catwalk. Goose falls to his death.
+S: 619B INT. ZION - DEFENSE DUCT - NIGHT - TUNNEL CRASH
+N: A small group of soldiers run in a half crouch along the duct, shock-waves shaking the alloy walls. A scout points down a branching duct.
+C: SCOUT
+D: Keep moving. Don't let them lock down your position.
+C: 619A 619B
+D: As Zee and Charra split off, the roof caves in behind them, a * falling Sentinel carcass and Gooses APU cratering the dock * floor. * 620 RENUMBER - NOW SC 618L 621 INT. ZION - DOCKS - NIGHT Huge louvered vents snap open, forming a halo around the top of the dock cavern . GOLDENROD REVISIONS JUNE 27, 2002 76A. As their exhaust fans begin to churn, the gust carries a swirling chromium particle cloud that begins to engulf the dock. A Sentinel unit swoops down through the cloud for another pass at the APUs. But as their lasers light up--
+N: GOLDENROD REVISIONS JUNE 27, 2002 77. They are suddenly refracted off of the dust, splintering into chaotic vectored tangles. The stray beams cut through the armored bellies and limbs of the Machines some even reflected back into the laser's source, resulting in overload explosions. The digger, now at full boring speed, lowers itself into the dock floor, its teeth-covered cone whirring like a turbine, chewing into the ground with the shriek of tortured metal. 622 RENUMBER - NOW 618H 622
+S: 623 INT. ZION - COMMAND CENTER - NIGHT
+N: Lock can hear the digger above them.
+C: LOCK
+D: Where in the hell's my Infantry?! I want that goddamn machine taken down! 623A INT: DOCK - SENTINELS ATTACK TOWER - NIGHT
+C: 623A
+D: Sentinels form a "mini-snake" around the Tower.The tower gun * destroys it. * 623B INT:DOCK - HAND OF GOD - NIGHT Hand of God curls back and under itself.It approaches the Tower - ramming directly into Gate Control.The crane is ripped from the roof, toppling down through the Dock ... THE LIGHTS GO OUT!!! 623C INT: DEFENSE DUCTS - NIGHT The crane 624 INT. ZION - DOCK FLOOR - NIGHT
+E: board ZUS0683
+C: 623B 623C
+D: Zee and Charra race along shaking tunnel towards the hatch. Charra pops up from one of the sub defense ducts, Zee feeding the bazooka. Sentinels react to them and rush to defend the digger, as Charra shoulders and aims her weapon.
+C: CHARRA
+D: Dig this . She fires; her aim is true and the rocket explodes against the leg of the digger. GOLDENROD REVISIONS JUNE 27, 2002 77A. The joint shatters, the Machine twisting loose, unable to support itself as it spins from its mooring, toppling like a great crippled beast-- Landing with a deafening crunch. 625 INT. ZION - COMMAND CENTER - NIGHT A small cheer passes through Control, Lock clenching his fist, until the Seismic Alarm sounds.
+C: FIRST OPERATOR
+D: Bogies two and three at the breach point!
+C: LOCK
+D: Goddarnnitl
+N: GOLDENROD REVISIONS JUNE 27, 2002 78 .
+S: INT. ZION - DOCKS - NIGHT- DIGGER TWO F'ALLS
+N: The dock trerr0les, the entire domed ceiling shattering like tempered glass as it tears open, giving birth to not one, but two diggers. Mifune can only watch as the monster lands with a morale­ squashing crash.
+S: 627 INT. MJOLNIR - COCKPIT - NIGHT
+N: Niobe pounds down the pedal as the Mjolnir reaches full power.
+C: MORPHEUS
+D: Here they come. 628 INT. PIPELINE - NIGHT A swarm of Sentinels fill the end of the tunnel like the spray of a twelve gauge. 629 INT. MJOLNIR - GUNNERY BAYS - NIGHT The crew of the Mjolnir scrarr0le to their battle stations, Colt motioning Link into one of the stern underside gunpits. Link's fingers fly over the controls, the heads up displays quickly coming online. He takes Zee's necklace, wraps it around his trigger hand then kisses it.
+C: LINK
+D: I'm coming baby. 630 INT. PIPELINE - NIGHT The opening of the mechanical line widens directly in between them. The charging Sentinels open fire, lasers skewering the darkness. 631 INT. MJOLNIR - GUNNERY BAYS - NIGHT Roland sees how close the mechanical intersection is.
+C: ROLAND
+D: Slow down! This ain't the Logos. GOL~ENROD REVISIONS JUNE 27, 2002 79. INT. MJOLNIR -- CDCKPIT - NIGHT Niobe increases their speed.
+C: NIOBE
+D: Hang onto your lunch, Roland. Here we go . .'lORPHEUS Fifty meters ... The ship lurches up, cur~ing into the air, rolling over into a back-dive, even as the Sentinel lasers carve into its armored underbelly. 33 INT. MJOLNIR - GUNNERY BAYS - NIGHT Roland is almost dropped onto his head.
+C: ROLAND
+D: Holy christl I didn't know this ship could do that! 4 INT. MECHANICAL TRIBUTARY - NIGHT 634
+N: The "Hammer" explodes thro.igh a veil of detritus that hangs from the pipes like swamp moss. Behind them the more nimble Sentinels easily follow.
+S: INT. MJOLNIR - GUNNERY BAYS - NIGHT
+N: Colt screams over the intercom.
+C: COLT
+D: Let's heat 'em up! INT. MECHANICAL TRIBUTARY - NIGHT The Mjolnir gun turrets ~nleash a fury of heavy metal filling their wake with anti-aircraft fire. Ahead, there are several collapsed cross-pipes wedged in their path like fallen tree trunks. INT. MJOLNIR - COCKPIT - NIGHT 637 Niobe tries to duck down through them, but the ship bottoms out with an explosion of sparks and arcing electricity.
+C: NIOBE
+D: Shit, she's got a fat ass!
+N: GOLDENROD REVISIONS JUNE 27, 2002 80 .
+S: 638 INT. MECHANICAL TRIBUTARY - NIGHT
+N: The Sentinels nip at the hind quarters of the Mjolnir like a pack of hungry wolves. A laser licks the edge of one of the rear pads and the Mjolnir fishtails scraping against the conduit-lined walls.
+S: 639 INT. MJOLNIR - COCKPIT - NIGHT
+N: The muscles in Niobe's forearms are a bulge of thick cables as she fights to steady the ship.
+C: NIOBE
+D: Keep 'em off me! 640 INT. MJOLNIR - GUNNERY BAYS - NIGHT A Sentinel leaps onto the back of the hull.
+C: ROLAND
+D: There's a shit-storm of them! He swings his gun spray at it, cutting through its tentacles. The severed limb is a flash of mangled circuitry and silicon gristle as the Sentinel cartwheels into oblivion. Link saws his turrets back and forth carving through the attack and growls. 641 INT. MECHANICAL TRIBUTARY - NIGHT A Sentinel leads a chain of them, swooping onto the ship clustering around a large antenna. 642 INT. MJOLNIR - GUNNERY BAYS - NIGHT Maciser sees them first.
+C: MAUSER
+D: Captain, you see that?
+C: ROLAND
+D: They're after the radio. Stop them! Ghost has the best angle, swinging his turret around, targeting the Sentinels as they sink their lasers into the scaled metal flesh, feasting on the exposed electrical innards . GOLDENROD REVISIONS JUNE 27, 2002 81. He fires just as they slice through the supports beneath the antenna. A heavy barrage of bullets batters the lead Sentinel but before it dies, it rips the antenna like a tooth being torn root and all from a bloody gum.
+C: ROLAND
+D: Damnit! INT. ZION - DOCKS NIGHT Digger 2 breaks through the bridge and continues it's fall. It crashes onto the dock floor. EXT. ZION - UPPER LEVEL SERVICE CHANNEL - NIGHT 643A A small circular hatch door opens with a cough of smoke as Charra and Zee climb up into a long thin channel running between the pipelines. 643A
+E: CONT'D
+N: GOLDENROD REVISIONS JUNE 27, 2002 81A.
+C: 643A
+D: On hands and knees, they move forward towards the thin gap created by the two major pipes running overhead. The pipes elbow down creating the edge of a "waterfall" that flows from the upper level to the lower dock floor. Zee holds Charra by the belt as Charra squeezes out between the two major pipes and peers over the edge. Below her, the Digger that has crashed through one of the bridges that stood beneath her, folds in its legs as it begins to drill into the dock floor.
+C: CHARRA
+D: Just give me one clean shot ... The protective school of Sentinels seems to open for a moment and she fires, the twin shells slipping through, finding the bulls-eye of the molten center of the digger's core exhaust. The missiles hit starting a chain-reaction that ends with the sunken digger exploding-- Concrete and metal shrapnel erupting like a volcano as a section of the dock floor is demolished. The Sentinels scream as though they were hit, immediately swarming after Zee and Charra who scurry back into the tight channel-- Sentinels swarm above them, landing with the crashing din of metal to metal as they jam their tentacles into the thin running channels between the pipes. Zee and Charra race for the open hatch, dodging and diving between the stabbing tentacles with a mounting sense of impossibility that rises until-- A claw cleaves the calf of Churra, She screams just as Zee reaches the open hatch. Zee can only watch as another tentacle stabs through Charra's stomach, impaling/eucserting her.
+C: ZEE
+D: Charra! GOLDENROD REVISIONS JUNE 27, 2002 82. 644 INT. ZION - COMMAND CENTER - NIGHT On the periphery of a radar screen, a missile shaped cone appears trailed by a series of hot glowing dots.
+C: SECOND OPERATOR
+D: Commander Lock! I got incoming!
+C: LOCK
+D: We got a dock-full of incoming!
+C: SECOND OPERATOR
+D: Sir, yes s . But this is different sir.
+C: LOCK
+D: What? Lock moves behind the operator.
+C: SECOND OPERATOR
+D: I think it's one of ours, sir.
+C: LOCK
+D: That's impossible.
+C: SECOND OPERATOR
+D: Holographies is trying to confirm, sir. Lock studies the white blip.
+C: LOCK
+D: Contact them. Ask for access codes.
+C: SECOND OPERATOR
+D: We're trying, sir. There's no response.
+C: LOCK
+D: It's a trick. That's not one of ours. It can't be. That's a mechanical line. No one can pilot mechanical. 645 INT. MJOLNIR - COCKPIT - NIGHT Like hell. The Mjolnir plummets through the macaroni corkscrews, bouncing against its magnetic cushion as it banks into ninety degree elbows. Niobe is in a trance, the zone, hands and feet operating independently, her body perched like a jockey, moving in perfect unison with the thundering thoroughbred between her legs.
+N: GOLDENROD REVISIONS JUNE 27, 2002 83.
+C: NIOBE
+D: Forward aft, thirty degrees at eighty percent. Lower starboard, sixty degrees at twenty percent. Morpheus flies over the pad controls as he tries to keep up.
+C: MORPHEUS
+D: Thirty degrees, eighty. Sixty degrees, twenty. The ship swerves, its back end fishtailing into the curved wall of conduit with the spark-lit screech of metal on metal.
+C: NIOBE
+D: Come on! Keep up!
+C: MORPHEUS
+D: I'm trying. INT. MECHANICAL TRIBUTARY - NIGHT As the over-sized hovercraft weaves with incongruous agility, a Sentinel rears up from pursuit. It hangs in the air as the rest of the pack rockets past. One of its limbs whips forward and its satellite dish snaps open. 647 INT. ZION - DOCKS - NIGHT Up in the shattered dome of the dock, a series of Sentinels receive the message, their discs fanning open. In unison, they strike, diving down past Mifune, converging on the humongous turbines which control Gate One. 648 INT. ZION COMMAND CENTER - NIGHT The First Operator receives the report from the virtual system.
+C: FIRST OPERATOR
+D: Sir, Holographic confirms! It's the Hammer, sir!
+C: LOCK
+D: How can that be? GOLDENROD REVISIONS JUNE 27, 2002 83A.
+C: FIRST OPERATOR
+D: The ship is under attack, sustaining heavy damage.
+N: GOLDENROD REVISIONS JUNE 27, 2002 84. But at its present velocity, it will reach Gate One in twelve minutes.
+C: LIEUTENANT
+D: Sir, their EMP could take out every Sentinel up there.
+C: LOCK
+D: It'll take out more than that. It'll wipe out our entire defense system. We blow an EMP inside there, we'll lose the dock.
+C: LIEUTENANT
+D: Sir, we've already lost the dock. Lock analyzes the probable chain-reaction like someone trying to avoid an inevitable checkmate.
+C: LOCK
+D: Open the gate. 649 INT. ZION - DOCKS - NIGHT The Sentinels have torn into the mechanical guts at the base of the gate, steam gushing from crippling wounds. The surrounding Sentinels, including those attacking Mifune, join the frenzy. Mifune realises the Sentinels plan. 650 INT. ZION - GATE CONTROL - NIGHT The controller shouts into his headset, sentinels clumped around the tower like flies on a corpse.
+C: GATE OPERATIONS
+D: Gate One is not responding, Cornmaude.c. 651 INT. ZION - COMMAND CENTER - NIGHT Gate Operations' voice crackles over the intercom.
+C: GATE OPERATIONS
+D: The system has taken critical damage, sir! They've lost control! They can't open itl 652 INT. MECHANICAL TRIBUTARY - NIGHT Huge clumps of Sentinels cling to the Mjolnir chewing through its armor, trying to cripple its propulsion system. GOLDENROD REVISIONS JUNE 27, 2002 84A. The ship blasts forward like a mad dying animal, banking and rolling through the intestine tangle of service tunnel. For every Sentinel the Mjolnir's gun turrets knock down, two more take its place.
+E: V.O.
+N: GOLDENROD REVISIONS JUNE 27, 2002 85.
+S: INT. MJOLNIR - GUNNERY BAYS - NIGHT
+N: Zee's necklace cuts deep into Link's fist as he squeezes the gun turret controls, a whirling fury.
+C: LINK
+D: Mauser watch it! Mauser swings the turrets in a frantic circle.
+C: MAUSER
+D: Jesus, there's too many of them! On his monitors we see a Sentinel break through the crossfire leaping at Mauser's turrets.
+C: LINK
+D: Mauser! Fire and sparks suddenly ejaculate from Mauser's controls arcing around the gunpit. Mauser screams. INT. ZION - DOCKS - NIGHT- VISTA OF DESTRUCTION The dock is completely over run. The thunder of the diggers boring into the dock floor is deafening. The APU Corps have been broken and are now fighting for their lives in scattered locations. Mifune's recoil supports release as he retreats from the unrelenting swell of Sentinels above him. His left gun whirs empty and he screams into his headset.
+C: MIFUNE
+D: Reload! 655 INT. ZION - BUNKER - NIGHT APU Support throws open the door.
+C: RADIOMAN
+D: Go! The kid hefts the wheelbarrow loaded with two ammo crates and shoves it forward. Two soldiers flank him, guarding him with lightning guns as they race across the catwalks toward Mifune. INT. ZION - COMMAND CENTER - NIGHT Lock surveys the screens, his mind scrambling.
+N: GOLDENROD REVISIONS JUNE 27, 2002 86.
+C: FIRST OPERATOR
+D: They're one thousand meters from the Mainline.
+C: LOCK
+D: How many APUs are operational?
+C: LIEUTENANT
+D: Thirteen sir.
+C: LOCK
+D: Get me the one closest to Gate One. INT. MJOLNIR - COCKPIT - NIGHT Niobe is drenched in sweat. Every muscle as taught as a violin string vibrating under the sawing strain of the fast­ twitch chase. Morpheus sees the opening of the mechanical tributary leading into the Mainline.
+C: MORPHEUS
+D: There's the exit
+C: NIOBE
+D: On my mark. Throw full power at ninety degrees to lower left starboard.
+C: MORPHEUS
+D: One hundred percent, ninety degrees. 658 INT. MECHANICAL TRIBUTARY - NIGHT The ship dive's down toward the intersection, as the swarm of Sentinels attack with desperation, several of them sacrificing themselves to the hailstorm of bullets. 659 INT. MJOLNIR - COCKPIT - NIGHT The opening widens, as the ship spits through, nose-diving straight down--
+C: NIOBE
+D: Now! Morpheus cranks back on the pad controls and the ship seems to bounce against a cushion of lightning-- Arcing waves of electrical overflow washing out from the front pads-- Pitching the ship into a shuddering spiral.
+N: GOLDENROD REVISIONS JUNE 27, 2002 87.
+C: NIOBE
+D: Hold on baby! Hold on! Every nut and bolt vibrates under the strain as the ship seems ready to burst apart, skimming up and around the walls of the Mainline-- Until finally it buoys up and rockets forward. ROLAND Goddamn woman you can drive!
+E: CONT'D V .0.
+C: NIOBE
+D: We ain't home yet. What about the gate?
+C: MORPHEUS
+D: Sentinels are inside the dock.
+C: NIOBE
+D: Are we too late? 660 INT. ZION~ COMMAND CENTER - NIGHT Lock clutches the radio handset.
+C: LOCK
+D: Captain, do you understand? Over. There is a hissing burst of static.
+C: LOCK
+D: Mifune, I repeat, do you understand?! Over!
+E: CONT'D
+C: MIFUNE
+D: You dumb f ... You don't know what ... The rest of his response is drowned by the report of his APU's massive guns. INT. ZION - DOCKS - NIGHT- RELOADING MIFUNE Mifune fires straight into the face of an attacking Sentinel. He is unable to hear his radio as a deluge of Sentinels pour down onto him and his Support Unit. The crackle of lightning guns white out the ringing clatter of heavy caliber weapons being loaded. Cords of muscle bulge in Mifune's neck, his face twisted in a snarl as an inverted sea of black metal churns above him . His dual repeating cannons chop at the sky whirring as-- GOLDENROD REVISIONS JUNE 27, 2002 88. A Sentinel snake circles above him. * Mifune ejects the empty ammo cartridge. * The Kid stands by to reload * Sentinels are poised to attack the Kid, he is protected by * his gunnery escort until one of them is taken out. * The Kid reloads,but the ammo cartridge gets stuck * The Kid-climbs the back of the APU and kicks it into * positi=. * Mifune looks up to see the Sentinel snake screaming towards * him. He fires at the "snake" hammerhead but he is no match * against the raging Sentinels * Blasting straight into the warrior's chest, the force of the Sentinel "snake" rips the support claws from the catwalk, * toppling the APU onto its back, hurling the Kid onto the * catwalk. * Mifune screams as the Sentinel mauls him, tentacles ripping apart 'his flesh like meat being gouged from a lobster tail. The kid scrambles to his feet
+E: V.O.
+C: KID
+D: No! The Sentinel whirls around, covered in the Captain's gore, its metal mandibles slick with blood. The kid fires, the bolt like a jagged spear of light, puncturing the Sentinel's armor, tearing out its back in an Eggerton apple-burst. The kid rushes to his Captain.
+C: KID
+D: Captain Mifune! Mifune spits a clump of wadded blood, as the kid helps him from his harness.
+E: CONT'D
+C: MIFUNE
+D: They're coming ... the Hammer.
+C: KID
+D: What?
+N: GOLDENROD REVISIONS JUNE 27, 2002 88A.
+C: MIFUNE
+D: You have to open that gate ... cut the counter weights ... GOLDENROD REVISIONS JUNE 27, 2002 89. He grabs the kid's collar, the last of his life seeping out of him.
+C: MIFUNE
+D: You can do it ... hurry ... not much time.
+E: CONT'D
+C: KID
+D: Captain, I didn't finish the training program. Mifune smiles, his teeth bright with his own blood.
+C: MIFUNE
+D: Neither did I. .. SCENE 662 OMITTED INT.'MAIN LINE - NIGHT A pad ignites in a blowout, spitting electric fire and spewing streams of black smoke, as the ship slides side to side-- Bottoming out, throwing a plume of sparks like a car with only three wheels.
+N: GOLDENROD REVISIONS JUNE 27, 2002 90.
+S: 664 INT. MJOLNIR - GUNNERY BAYS - NIGHT
+N: Roland's targeting monitors are cross-cut with lines of static.
+C: ROLAND
+D: We won't make it! 665 INT. MJOLNIR - COCKPIT - NIGHT Niobe strains at the wheel, fighting the teeth rattling turbulence for control. ROLAND We've got to blow the EMP now! Morpheus looks at Niobe.
+E: V. 0
+C: NIOBE
+D: Come on. Someone. Please,. 666 INT. ZION - DOCKS - NIGHT Close on the leg of an APU as its recoil supports stab into the ground. The kid punches a command and the left leg supports also dig into the dock floor. The kid manipulates the controls as if by memory, fingers flying over buttons that cause the APU's monitors and exoskeleton to close in around him, like a luxury car seat adjusting.
+C: KID
+D: Keep your weight forward. Let the machine do the 1,-10!:k. He mutters the operating instrnctions ingrained in his mind from thousands of virtual hours of combat drills. In one motion the APU groans from its indented resting place and is on its feet. The anchors retract, snapping out of the ground.
+C: KID
+D: Unlock your anchors. Now-- GOLDENROD REVISIONS JUNE 27, 2002 91. He sees the heavy cable twice as thick as his head, attached to two stories of counterweights
+E: CONT'D
+C: KID
+D: Light as a feather. Light as a feather. The mechanized behemoth sprints up the incline toward the gate, a hulking gazelle. 667 INT. ZION - COMMAND CENTER - NIGHT f' The Systems Analyst sees the Hammer falling. New hope.
+E: CONT'D
+C: SYSTEMS ANALYST
+D: Three minutes, sir.
+C: LIEUTENANT
+D: Cormnander, Holographic reports, Captain Mifune's APU is up and moving to Gate One. 668 INT. ZION - DOCKS - NIGHT A group of Sentinels race down to the kid, the leader crashing down in front of him.
+C: KID
+D: Don't over squeeze the trigger. A fury shoots from the APU cannons mutilating the Sentinel hide like tinfoil. 668A INT. ZION CONTROL 668A Lock stands between the onrushing forces.
+C: SECOND OPERATOR
+D: Sir, the Hammer's coming fast.
+C: LIEUTENANT
+D: Captain Mifune's APU has just reached Gate One.
+C: LOCK
+D: How much time?
+C: SECOND OPERATOR
+D: Three minutes, three seconds to impact.
+C: 668A
+D: GOLDENROD REVISIONS JUNE 27, 2002 Lock grabs the transmitter .
+C: LOCK
+D: Captain Mifune, do you copy?
+C: FIRST OPERATOR
+D: I think his radio is down, sir.
+C: LOCK
+D: Mifune. This is Lock.
+C: 668A 668B INT~ TUNNELS 668B
+D: Bodies are strewn throughout the tunnel. The sounds of clattering Sentinels and the screams of men and women are heard echoing throughout the pipes. A pair of boots stop beside a dead man's radio. LOCK I don't know if you can hear me but if you can the Hammer is three minutes away. Zee picks up the radio.
+E: V .0.
+C: LOCK
+D: You have three minutes, Captain, to get that gate open. She looks up and a part of her can feel him coming.
+E: V.O. CONT'D
+C: ZEE
+D: Link. Zee grabs a lightning gun and sprints away. SCENE 669 OMITTED GOLDENROD REVISIONS JUNE 27, 2002 92. INT. MJOLNIR - GUNNERY BAYS - NIGHT Link climbs from the smoke that oozes from the lower gunpits, coughing and guarding his ribs, while Ghost pulls a wounded Roland from his seat.
+C: ROLAND
+D: Get to the Main Deckl Charge the EMPJ 671, INT. ZION - DOCKS - NIGHT The kid with a clean line of sight at the weighted cable takes.aim just as-- Another Sentinel wraps up his APU from behind, its tentacles snaking around its legs squeezing like a boa constrictor causing-- The APU to pitch forward crashing to the ground in a thundering belly-flop. The Sentinel rises up, like an animal poised to sink its teeth into the exposed jugular of its prey, when-- The white hot bolt of a lightning gun blasts through its back. The Sentinel, wounded, spins in time to see Zee level the gun and fire again-- The bolt, brilliantly white in the dark dock, jabs into the Sentinel like a meat hook and drives the spastic, flailing machine up until its eyes burst open and it dies.
+C: ZEE
+D: Do it, kid. 672 SCENE 672 OMITTED 673 INT. MJOLNIR - MAIN DECK - NIGHT The shattered Main Deck is aglow in a raging electrical fire. Link sits in the operator's chair.
+C: LINK
+D: EMP charged and ready. 674 INT. ZION - DOCKS - NIGHT The kid sees the cable still in his fritzing target monitor. With a mighty heave, he lifts aiming the APU's cannon.
+N: He fires. GOLDENROD REVISIONS JUNE 27, 2002 92A.
+C: KID
+D: I believe, Neo. The burst cleaves through the braided alloy, the counterweight falling-- Towing the right half of the gate along its steel channel, grinding as it opens . GOLDENROD REVISIONS JUNE 27, 2002 93. 675 INT. ZION - COMMAND CENTER - NIGHT The First Operator spins from his monitor.
+C: FIRST OPERATOR
+D: He did it, sir! 676 INT. MAIN LINE - NIGHT The left side of the door creeps open. 677 INT. MJOLNIR - COCKPIT - NIGHT Niobe wrestles the steering collum with all her might-­
+C: MORPHEUS
+D: Can we make it?
+C: NIOBE
+D: We didn't come this far ... 678 INT. MAIN LINE - NIGHT She pitches the ship shoulder downward, driving it into the sewer bottom, pouring on the thrusters. The Mjolnir shudders venerably as it bounces against the tunnel, twisting sideways as it-- Aims at the cracked gate. 679 INT. MJOLNIR - MAIN DECK - NIGHT Link sits at the operator's chair gripping the necklace.
+C: LINK
+D: Almost there. Almost there ... 680 SCENE 680 OMITTED 681 INT. MJOLNIR - COCKPIT - NIGHT The cockpit shakes spastically, as Morpheus hits the collision alarm. 682 INT. ZION - DOCKS - NIGHT All at once, the Sentinels begin to flee en masse-- GOLDENROD REVISIONS JUNE 27, 2002 94. A bottleneck of black, forming at the digger tunnels, while-- 683 INT. ZION - COMMAND CENTER - NIGHT The virtual soldiers scramble to jack out of their system. 684 INT. ZION - DOCKS - NIGHT The Mjolnir plows through the opening gate-- Armor plating and landing gear shearing from its hull as it arcs into the docks. 685 INT. MJOLNIR - COCKPIT - NIGHT Morpheus screams.
+C: MORPHEUS
+D: Burn it, Link! 686 INT. MJOLNIR - MAIN DECK - NIGHT Link cranks the detonator. 687 INT. ZION DOCKS - NIGHT The docking bay is filled with a wave a white, EMF light-­ Even as the Mjolnir crashes into the bay platforms in a cacophonous roar-- All electrical systems dying. And as the Mjolnir shrieks to a skidding stop-- Another sound begins to rise; the thundering downpour of dead Sentinels. They flow from the jet glass tunnels like water from a spigot, until-- At last it is over. As the echoing rolls away like a fading storm, the soldiers of Zion begin to crawl from the defense labyrinth and fallen APUs, their bloody faces frozen in disbelief. 688 INT. ZION - COMMAND CENTER - NIGHT The control room walls ring with jubilation. GOLDENROD REVISIONS JUNE 27, 2002 95. 689 INT. MJOLNIR COCKPIT - NIGHT Morpheus lowers himself down from his now perpendicular hanging chair, offering a hand down to Niobe. He smiles.
+C: MORPHEUS
+D: You did it.
+C: NIOBE
+D: No, we did it.
+C: MORPHEUS
+D: You're a hell of a pilot.
+C: NIOBE
+D: Some things in this world never change.
+C: MORPHEUS
+D: But some things do? She smiles.
+C: NIOBE
+D: Yes. Luckily. Some things do. 690 INT. ZION - DOCKS NIGHT In the silence, a door falls from its hinges along the ship's back, the crew of the Mjolnir climbing out. As Colt helps Roland from the opening, Link staggers past them onto the dock floor.
+C: ZEE
+D: Link!
+C: LINK
+D: Zee! They push through the soldiers gathered on the catwalks surrounding the crashed ship, until they fall into each other's arms .
+C: ZEE
+D: I knew you'd come. Somehow ... I knew you would.
+C: LINK
+D: I promised. He kisses her and she sees the charm hanging around his neck.
+N: GOLDENROD REVISIONS JUNE 27, 2002 96.
+C: 69D ZEE
+D: You did wear it.
+C: LINK
+D: You kidding? I'm never gonna take it off. INT. PIPELINE - NIGHT The Logos banks along a pipe thick with steam that is breathed from a series of openings caked with human grease and machine rust, like a scab that continues to leak. 692 INT. LOGOS - COCKPIT - NIGHT Trinity feels the cold wind whistling down the throat of the pipe. Neo's eyes are bandaged with gauze.
+C: TRINITY
+D: Temperature's dropping. She weaves the ship into a worm hole through the debris until she can see the dim light streaming into the opening.
+C: TRINITY
+D: Here we go. The opening appears to have been made by an earthquake; the pipeline cracked and separated, one side wrenched from the other. The ship shoots into the deep jagged fissure before banking straight up, revealing-- The surface of the Earth. 693 EXT. SURFACE - NIGHT The fetus fields run right up to the edge of the ravine. The pickers continue their work like grazing animals, oblivious to the Logos. The sky is a churning black sludge, its clotted clouds froth and leak a pale yellow light, casting a glow that is the color of dead callowed flesh. In the distance, the mile high towers of the Power Plant are visible. 694 INT. LOGOS - NIGHT Neo stares out, as if able to see where they are . GOLDENROD REVISIONS JUNE 27, 2002 97.
+E: CONT'D
+C: NEO
+D: We're over the fields, aren't we?
+C: TRINITY
+D: How did you know that?
+C: NEO
+D: I can ... feel them. We move closer to him and we suddenly glimpse the fields as he does-- EXT. SURFACE - NIGHT A night sky filled with stars, though pressed flat as if into a circuit board, wired into the distant towers that vibrate with violent flashing light. 696 INT. LOGOS - COCKPIT - NIGHT
+C: NEO
+D: Over there. He points out across the charred desert that surrounds the fields.
+C: NEO
+D: There's our path. Can you see it? Three lines . Three enormous cables, each several hundred feet thick snake from the Power Plant out across the scorched earth.
+E: CONT'D
+C: TRINITY
+D: The power lines.
+C: NEO
+D: Follow them. She swallows down her fear and steers the ship along the path of the giant umbilicus. INT. ZION - COMMAND LEVEL ELEVATOR - NIGHT The elevator bangs down and the metal gate ratchets open as Morpheus, Roland and Niobe get out. Lock is waiting for them.
+C: LOCK
+D: Three Captains. One ship. I'll assume the other ships were lost under equally pointless circumstances.
+N: GOLDENROD REVISIONS JUNE 27, 2002 98.
+C: NIOBE
+D: It's good to see you too, Jason.
+C: LOCK
+D: The council is waiting to hear your explanation. You'll forgive me for not attending, but I have to try to salvage this debacle.
+C: ROLAND
+D: Did I miss something, Commander? I thought we just saved the dock.
+C: LOCK
+D: That's the problem with you people. You can't think but five minutes in front of your face. That EMP knocked out almost every piece of hardware and every APU. If I were the Machines, I'd send every Sentinel I had here right now. Saved the dock, Captain? You just handed it to them on a silver platter. INT. ZION - DOCKS - NIGHT Soldiers are scrambling to unload the ammunition from the Mjolnir. It is the kid that hears them first.
+C: COLT
+D: Come on kid. Let's move it!
+C: KID
+D: You hear that? He turns with the kid towards the rent gate. Afteor A rnnrnent he hears it; the sound of air being forced out through a pipe, like a distant trumpet or a scream heard from far away.
+C: COLT
+D: Shit. 699 INT. ZION - COMMAND CENTER - NIGHT Lock's Second Operator is lugging a heavy battery powered radio.
+C: SECOND OPERATOR
+D: Commander! It's the dock. They got incoming .
+N: GOLDENROD REVISIONS JUNE 27, 2002 99.
+C: LOCK
+D: Order everyone to fall back. Seal the shaft. Now. 700 INT. ZION - DOCKS - ELEVATOR SHAFT - NIGHT They're already running for the elevator.
+C: SERGEANT
+D: Fall back! Move it! Move it! The wind that signaled the first onslaught of the Sentinels is nothing compared to the howl that rises to fill the entire dock. The elevator is packed with the last batch of soldiers who slowly lower into the shaft as-- The Sentinel army pours into the concrete concourse from every hole, spilling into the empty dock like sand.
+C: COLT
+D: Mother-- 701 INT. ZION - COMMAND CENTER - NIGHT The Second Operator receives the call.
+C: SECOND OPERATOR
+D: All clear!
+C: LOCK
+D: Do it! 702 INT. ZION - COMMAND CENTER - NIGHT A lever is thrown inside a barricaded bunker. 703 INT. ZION - ELEVATOR SHAFT - NIGHT Explosions fire one by one as though shattering a spinal column, one disc at a time. 704 INT. ZION - DOCKS - NIGHT The Sentinels react as the explosions erupt from the shaft. 705 INT. ZION - COMMAND CENTER - NIGHT Rock and earth bury the entrance.
+N: GOLDENROD REVISIONS JUNE 27, 2002 100.
+S: 706 INT. ZION - NIGHT
+N: A thick cloud of earth is coughed from the opening near the top of Zion.
+S: 707 INT. ZION - COMMAND CENTER - NIGHT
+N: The rumble from the explosion slowly fades. Lock stares up at the dark cave ceiling, talking to his enemy as one might talk to God.
+C: LOCK
+D: Your move. EXT. BLACK DESERT - NIGHT The monstrous cables lay beneath us like giant black worms as the Logos roars past us following the lines that stretch beyond the dark horizon. 709 OMITTED 710 OMITTED 711 OMITTED 712 OMITTED GOLDENROD REVISIONS JUNE 27, 2002 lOOA-101. SCENE 713 OMITTED 714 SCENE 714 OMITTED 715 SCENE 715 OMITTED 716 SCENE 716 OMITTED
+N: GOLDENROD REVISIONS JUNE 27, 2002 102 . OMITTED 717 OMITTED 718 OMITTED 719 OMITTED 720
+S: INT. ZION - COUNCILLOR HAMMAN'S ROOM - NIGHT 721
+N: The council is crowded into the private quarters, questioning the three Captains . She nods. GOLDENROD REVISIONS JUNE 27, 2002 103.
+C: DILLARD
+D: So you gave them your ship?
+C: NIOBE
+D: That is correct, councillor. I did.
+C: GRACE
+D: Knowing what he planned to do with it?
+C: HAMMAN
+D: And the Oracle said nothing of this?
+C: NIOBE
+D: She told me that Neo would need my help and that when the time came, I would choose to help him or not.
+C: WEST
+D: But what hope can a single vessel have against their entire defense system?
+C: ROLAND
+D: None. It's completely impossible. But he wouldn't listen. He wouldn't even take any ammunition. He was totally out of his goddamn mind. Morpheus has sat as silent as a stoic until now.
+C: MORPHEUS
+D: No. The council turns to him.
+C: MORPHEUS
+D: He was not. Neo is doing what he believes he must do. What he says, he says as much for himself as for them. He stands.
+E: CONT'D
+C: MORPHEUS
+D: I don't know if what he's doing is right. I don't know if he'll reach the Machine city and if he does, I don't know what he can do to save us. But I do know that as long as there is a single breath in his body, he will never give up. GOLDENROD REVISIONS JUNE 27, 2002 104.
+E: CONT'D
+C: MORPHEUS
+D: And either can we. INT. ZION - COMMAND CENTER - NIGHT A large spool of black cable bangs against the metal floor as a new line is uncoiled out from a large portable power supply. The control room is a frenzy as they work to bring the defense systems back online. Operations Officers Mattis and Wirtz study the hologram of the dock as a ring of Sentinels circle the silent digger.
+E: CONT'D
+C: WIRTZ
+D: What are they doing?
+C: MATTIS
+D: I don't know .. Better get the Commander. 723 INT. ZION - DOCKS - NIGHT A single Sentinel has attached itself to the abdomen of the digger, tentacles and feelers merging with heavy machinery. Its red eyes throb hypnotically as its brethren glide ritual­ like around it in a steady inciting circle. 724 INT. ZION - COMMAND CENTER - NIGHT A crowd has now gathered around the screen, including Commander Lock. They watch as it floats above the digger.
+C: LOCK
+D: Goddamnit!
+C: MATTIS
+D: What are they doing?
+C: LOCK
+D: The same thing we are. 725 INT. ZION - DOCKS - NIGHT Electricity crackles from the Sentinel, wrapping the digger in a gossamer web of blue light. The flashing bolts light up the dock like a giant arc welder. There is a small explosion inside the gut of the digger, a burst of combustion as it is jolted back to life. And the Sentinel falls lifelessly to the dock floor. GOLDENROD REVISIONS JUNE 27, 2002 105. Its enormous arms crank open, a crane unfolding as it begins to lift itself. The grinders roar to life, getting up to speed before it lowers itself back down. Immediately Sentinels swarm around it, gliding in tight circles; so many of them that it feels as though a wall were being built to protect it. 726 INT. ZION - COMMAND CENTER - NIGHT The rumble of the digger returning to its job shakes the room.
+C: FIRST OPERATOR
+D: What do we do now, Commander? Lock doesn't have an answer. 727 EXT. BLACK DESERT - NIGHT Neo looks out at the distapt horizon that breaks against the jagged edge of a mountain range. He is able to see a powerful source of light, glowing like a sun about to rise, hidden behind a horizon of seething darkness. 728 INT. LOGOS - COCKPIT - NIGHT
+C: NEO
+D: There. Those mountains. That's it.
+C: TRINITY
+D: Do you see what's coming?
+C: NEO
+D: Yes.
+C: TRINITY
+D: If you tell me we're going to make it, I'll believe you.
+C: NEO
+D: We'll make it. He reaches out for her hand. She takes it.
+C: NEO
+D: We have to. GOLDENROD REVISIONS JUNE 27 2002 106. 729 EXT. BLACK DESERT - NIGHT Through the window of the cockpit we see what's coming; a massive force of huge, heavy war Machines led by a swarm of Sentinels. 730 INT. ZION - COUNCIL CHAMBERS - NIGHT Lock addresses the Council and military heads.
+E: CONT'D
+C: LOCK
+D: It is now a matter of time. The Machines will breach the walls of the city. I recommend the Council join the rest of the non-military personnel inside the Temple.
+C: GRACE
+D: How long do we have?
+C: LOCK
+D: Two hours. Maybe less. The council reacts with obvious dismay.
+C: LOCK
+D: My men have begun fortifying the entrance with enough artillery to make our last stand. Beyond that there isn't anything more I can do.
+E: CONT'D
+C: DILLARD
+D: Commander, do you think that we have a chance of surviving?
+C: LOCK
+D: If I were you, Councilor, T wn11 lr4n'+- .:::ic:dr me that question. I'd ask one of them. He gestures towards Hamman and Morpheus.
+C: DILLARD
+D: Why?
+C: LOCK
+D: Because they're the ones that believe in miracles. 731 EXT. BLACK DESERT - NIGHT The Logos flies into the jaws of the Armada, Machines forming rows of jagged shark-teeth. GOLDENROD REVISIONS JUNE 27, 2002 107. They attack in a frenzy; red lasers stabbing into the Logos as the larger armored crab-like machines spit bolts of energy that break against the hull sending a shiver of sizzling electricity through the entire ship. INT. LOGOS - COCKPIT - NIGHT Trinity has to let go of the stick as hot arcing voltage surges through the controls. Neo clings to her hand as he wades into battle, hurling his mind at them with ballistic force. EXT. LOGOS - NIGHT Three spinning Sentinels release three tow-bombs that open up as they rocket towards the ship. Neo reacts quickly, exploding the first immediately, the second, just before it hits, the fire washing over the windshield as the Logos shoots through. But the third he grabs hold of, straining against its force and direction, bending it to his will as he once bent a spoon. The device sails up over the cockpit, before turning and hurtling back at the Machines. The Sentinels dodge out of the way, but the armored crustacean is too slow and-- The device slams into it, unleashing a violent orange rage of destruction. The dog-fight continues as the Sentinels now reach the Logos, leaping onto its back, sticking their lasers through its hide like toreadors thrusting swords into the back of a charging bull. INT. LOGOS - COCKPIT - NIGHT Sweat covers Neo's body as he reacts more and more violently.
+C: NEO
+D: There's too many ... 735 EXT. LOGOS - NIGHT A Sentinel dives like a kamikaze straight at the cockpit as Neo reaches out to stop it--
+N: GOLDENROD REVISIONS JUNE 27, 2002 108. Wrestling with it. As its eyes begin to blink, it corkscrews wildly out of control, slamming against the heavy plated glass which shatters, cratering under the Machine's bulk as-- We experience what Neo experiences; a meteor of light that blasts through his body--
+S: 736 INT. LOGOS - COCKPIT - NIGHT
+N: Wrenching free his grip from Trinity. His arm flails back as he feels himself disconnect, his mind flung loose until-- She snatches hold of him again,
+C: TRINITY
+D: I got you. His head swims as he drags himself back from the abyss.
+C: TRINITY
+D: Come on, Neo! I need help here! Ahead they are approaching a perfect line of fearsome floating Machines, each like an entire division of tanks welded into one.
+E: CONT'D
+C: NEO
+D: ... left.
+C: TRINITY
+D: What?
+C: NEO
+D: Bank left. A tank fires just as Trinity banks left, a missile of energy chewing up the entire underbelly of the ship. Inside the cockpit several monitors explode and the main lights die.
+C: NEO
+D: I can't beat them.
+E: CONT'D
+C: TRINITY
+D: What do we do?
+C: NEO
+D: Go up. Over them . What?! The sky. She looks at him GOLDENROD REVISIONS JUNE 27, 2002 109.
+C: TRINITY NEO NEO
+D: It's the only way.
+E: CONT'D
+C: TRINITY
+D: Then up we go. She pounds on the pedal and outside the pads erupt, opening all the way as the ship tips-- EXT. BLACK SKY - NIGHT Rocketing towards the churning black sky, leaving a white-hot jet trail that cuts up from the black earth at a forty-five degree angle. Several Sentinels leap from the back of the ship, but many remain as it barrels towards the dark roiling ceiling. The Logos plunges into the sky with a surreal splash, like a plane crashing into a sea of shaving cream. The molecular replicators.immediately drain the life from the Sentinels and they fall dead-- Tearing through the clouds that cling to them momentarily like shredded pieces of parachute, before letting them fall away. The Logos is engulfed by a ball of lightning as it is attacked by the sky. It shakes violently, every light blowing out, until the ship dies-- 738 INT. LOGOS - COCKPIT - NIGHT Drowning the cockpit with darkness, where we glimpse-­ Two hands still holding tight. 739 EXT. BLUE SKY - DAY The forward momentum carries them just a little higher until suddenly there is a spectacular explosion of light as-- The ship breaks out the other side revealing a perfect blue sky lit by a brilliant yellow sun. GOLDENROD REVISIONS JUNE 27, 2002 110. INT. LOGOS - COCKPIT - DAY The light washes over her face with a warmth she has never known. It is a vision of the real world she has never seen.
+C: TRINITY
+D: ... beautiful. 741 EXT. BLUE SKY - DAY The ship hits its apex, hangs then slowly twists, as it begins to fal~, slipping quickly back into the billowing black silk of clouds . Their stomachs pitch as the Logos is buffeted by storm and wind, spinning like a falling leaf until-- It splashes out of the clouds, revealing-- 742 EXT. THE MACHINE CITY - NIGHT The Machine City. To Trinity it looks like a massive mechanical coral reef, spreading as far as the eye can see. To Neo, it is another universe; a pinwheel nebula, spiraling towards him, a billion pinpricks of light strung together, swirling into clusters that blaze beneath a veil of glowing vapor. 743 INT. LOGOS COCKPIT - NIGHT Their fall accelerates, the city rushing towards them as Trinity again turns to Neo.
+C: NEO
+D: Pump the ignitor. The ship will start. She grabs the lever and pumps. Tries the ignition. Nothing.
+C: NEO
+D: Again. She does it again, pumping vigorously.
+E: CONT'D
+C: NEO
+D: Slowly. Calmly, methodically, she pumps the lever while the architecture of the city gains dimension, its towers rising like fingers of a hand reaching up with a rushing force. GOLDENROD REVISIONS JUNE 27, 2002 111. Neo feels the energy in the ignition slowly building as a single tower now looms, filling the entire windscreen. Trinity closes her eyes, pumping vigilantly, until--
+E: CONT'D
+C: NEO
+D: Now. She hits the ignition, opening her eyes to the tower that is now a wall. The engine fires, the pads crackle with life and their fall slows, but not fast enough. EXT. MACHINE CITY TOWER - NIGHT The ship bores into the tower, plowing through the nano-built structure that is a surrealist re-combining of the organic and the mechanical; an anthill or wasps' nest built from a webwork of pipes, wires and silicon. INT. LOGOS - COCKPIT - NIGHT The windshield explodes as Neo and Trinity are again torn apart. Xhe ship merges violently with the tower, grinding to a final wrenching stop. All becomes quiet. Cobwebs of shimmering light drape all around Neo as it takes him a moment to realize that he is in fact still alive.
+E: CONT'D
+C: NEO
+D: Trin? There is no response.
+C: NEO
+D: Trinity? Trinity! Yanking his feet free from the crush of debris, he crawls in the direction of her chair.
+E: CONT'D
+C: NEO
+D: Trinity!
+E: CONT'D
+C: TRINITY
+D: ... I'm here.
+C: NEO
+D: Where? She reaches her hand out to him. GOLDENROD REVISIONS JUNE 27, 2002 112.
+C: TRINITY
+D: Here. With her touch comes a flood of relief.
+C: NEO
+D: We made it.
+C: TRINITY
+D: You said we would. He draws closer, feeling his way.
+C: NEO
+D: I couldn't have done it without you.
+C: TRINITY
+D: ... I know. He smiles; unable to see her, he looks at the gossamer threads of light surrounding them.
+C: NEO
+D: It's unbelievable, Trin. Light everywhere. Like the whole thing was built of light. I wish you could see what I see. We see her face for the first time and we see that she is crying.
+C: TRINITY
+D: You've already shown me so much. He knows something is wrong.
+C: NEO
+D: What is it? Trinity? What's wrong?
+C: TRINITY
+D: I can't go with you, Neo. I've gone as far as I can.
+C: NEO
+D: What ... He reaches for her and immediately feels the wet warmth of her blood soaking through her shirt.
+C: NEO
+D: Oh no, no, no. GOLDENROD REVISIONS JUNE 27, 2002 113. Long shafts of metal are driven through her body like needles pinning a butterfly in place.
+E: CONT'D
+C: TRINITY
+D: It's all right, Neo. It's time. I've done what I can do. Now you have to do the rest.
+C: NEO
+D: No.
+C: TRINITY
+D: You have to. You have to finish it. You have to save Zion.
+C: NEO
+D: I can't not without you.
+C: TRINITY
+D: You can. You will. I believe it. I always have. Tears leak from his bandages.
+C: NEO
+D: Trinity, you can't die. You can't!
+C: TRINITY
+D: Yes, I can. You brought me back once. But not this time. He doesn't want to believe it.
+C: TRINITY
+D: Do you remember on that roof, after you caught me? The last thing I said to you?
+E: CONT'D
+C: NEO
+D: You said, I'm sorry.
+C: TRINITY
+D: I wish I hadn't. That was my last thought. I wished that I had one more chance to say what mattered .. He feels her tears on his fingertips.
+C: TRINITY
+D: To say how much I loved you, how grateful I was for every moment I was with you, but by the time I knew how to say what I wanted, it was too late. GOLDENROD REVISIONS JUNE 27, 2002 114. She smiles.
+E: CONT'D
+C: TRINITY
+D: But you brought me back. You gave me my wish; one more chance. To say what I really wanted to say ... For the last time she reaches up and touches his face.
+E: CONT'D
+C: TRINITY
+D: Kiss me ... once more ... kiss me ... He lowers his lips to hers and it ends as it began-­ With a kiss. He feels her last breath on his lips and he weeps, holding the hand that can no longer hold him back. 746 INT. ZION - TEMPLE ENTRANCE - NIGHT The rumbling of the digger shakes all of Zion. The Temple is congested with panicked chaos. Near the entrance, Lock is organizing the defense. 747 INT. ZION - NIGHT The entire tower is quivering as the wall begins to crack. The wall splits, giving birth to a ball of metal teeth spitting rock and dust. The digger chews through, rending rock, shredding steel and shaking the entire city. It emerges with a final rearing thrust, then tips free and falls-- Smashing through the lacework of catwalks, before crashing into the knotted tangle of pipe at the base of Zion, burying into the bedrock and metal like a knife to its hilt. The black hole breathes brimstone as a cloud of dust settles over Zion like a shroud. 748 INT. ZION - TEMPLE - NIGHT People cling to each other as the booming crash echoes through their bodies. Link holds Zee and looking up at the dark ceiling of the Temple, he whispers.
+E: CONT'D
+N: GOLDENROD REVISIONS JUNE 27, 2002 115.
+C: LINK
+D: Neo ... You gonna do something, you better do it quick. INT. MACHINE CITY TOWER - NIGHT Neo climbs. Feeling his way, rising from the wreckage along the coiled mechanical intestines. There are sounds all around him: a ratcheting clatter that rises and fades like a rattlesnake warning, the hiss of a radiator pipe, the scrape of a rake dragged against concrete. The sounds circle as if patiently watching him like vultures watching a dying man. He heaves himself up into a large passageway running hQrizontally through the tower. It spirals, coiling inward, woven out of shiny metal rods that are ribbed and knuckled like bones. INT. MACHINE CITY TOWER - TUNNEL - NIGHT As Neo stands, we experience the passage as he does; a tunnel of light, its surface as perfectly smooth as a mirror . He steps forward and a ripple spreads out from his foot as though he were walking on water that had been rolled into a tube. At the end of the passage there is an opening that windows out of the tower. Neo moves towards it, until he stands on the edge, awed by what he sees. 751 EXT. MACHINE CITY TOWER - NIGHT He sees the Machine city, an endless sprawling metropolis built out of pure energy. Towers of glowing spun glass rise up from crystalline structures of radiant light. Everywhere, hovering like hummingbirds, are creatures seemingly created out of fibers of light, soldered into patterns of a three dimensional circuit board. There is a celestial and even spiritual quality to the image, until we reveal the city-in-itself-- A dark industrial nightmare. Underlit by angry bursts of lightning. Demons of black steel and chrome hang everywhere, J crawling along the walls, the springs in their limbs tightening like a rat trap being loaded-- While thousands of blood-red eyes bore into Neo. GOLDENROD REVISIONS JUNE 27, 2002 116. Suddenly those closest to him, scatter, leaping from the walls, flying away, clearing, as small fish run from the approach of a much bigger fish. From below, an enormous and complex Machine rises to face Neo. It is so large that it eclipses the entire city. Neo steadies himself, overwhelmed momentarily by its power and brilliance. The Deus ex Machina unleashes a locust swarm of tiny machines that seem ready to envelop Neo.
+C: NEO
+D: I only ask to say what I have come to say. After that, do what you want and I won't try to stop you. The locust swarm swirls back creating an undulating ball of mechanical bugs that remain in constant motion. Neo experiences the Deus ex Machina as a huge ball of energy, like a sun, its face in constant flux. The bugs coalesce and an almost human face pushes itself out from underneath.
+C: DEUS EX MACHINA SPEAK!
+D: The voice has a synthesized quality, resonating with a sense that it is not one voice, but every voice.
+C: NEO
+D: The program called Smith has grown beyond your control. The face disappears as quickly as it appeared.
+C: NEO
+D: Soon he will spread through this city as he spread through the Matrix. The locusts begin vibrating, chittering and trembling like animals sensing a storm.
+E: CONT'D
+C: NEO
+D: You cannot stop him. But I can. Rage explodes from the face, spitting bugs at Neo as it screams.
+E: CONT'D
+N: GOLDENROD REVISIONS JUNE 27, 2002 117.
+C: DEUS EX MACHINA
+D: WE DO NOT NEED YOU! WE NEED NOTHING!
+C: NEO
+D: If that's true, then I've made a mistake and you should kill me now. The face fades, the storm circling Neo for a moment before slowly collecting itself as the face re-emerges.
+C: DEUS EX MACHINA WHAT DO YOU WANT?
+D: Neo looks up into the blinding brightness.
+C: NEO
+D: Peace. INT. ZION - TEMPLE ENTRANCE - NIGHT The Sentinel army pours from the dark gaping mouth flooding the entire city. 753 INT. ZION - TEMPLE - NIGHT The kid swallows hard, wiping the sweat from his palms as he steadies the grip on his gun. 754 INT. ZION - TEMPLE ENTRANCE - NIGHT The leading force descends to the Temple entrance, limbs outstretched like the talons of an attacking bird of prey. The first Sentinel slams down onto the metal bridge, rearing back on its haunches as its brethren smack down behind him. 755 INT. ZION - TEMPLE - NIGHT Every gun is clutched like a talisman as the Sentinel peers into the cave. 756 INT. ZION - TEMPLE ENTRANCE - NIGHT Suddenly, a circling Sentinel jerks upward, its communication dish snapping open. It raises it as if trying to hear something . The message spreads quickly as the clicking dishes fan open in every Sentinel. J The lead Sentinel backs up. GOLDENROD REVISIONS JUNE 27, 2002 118. 757 INT. ZION - TEMPLE - NIGHT Niobe doesn't understand it.
+C: NIOBE
+D: What are they doing? Morpheus isn't sure. 758 INT. MACHINE CITY TOWER - NIGHT The entire passageway comes alive around Neo as cables and metal rods grow like a time-lapsed plant, forming a seat under him and filling every jack. A cobra-like cable rises up to the back of Neo's neck pausing, its needle probing at the brain-jack.
+C: DEUS EX MACRINA AND IF YOU FAIL? NEO
+D: I won't. The face almost smiles as it fades away. The cable thrusts into Neo, plunging the pistol-needle into his brain, plugging his cousci onsuess into the Matrix. 759 INT. ZION - TEMPLE - NIGHT Morpheus sets his gun down and stands up.
+C: NIOBE
+D: What are you doing? He steps over Tho h;:.ry.j ,....,adc. ,:::,n/""t \r.73.lk.s up the path to the entrance.
+C: LOCK
+D: Morpheus! Lock signals to several soldiers to cover him. The kid lurches out just behind Niobe. Morpheus stops at the edge of the pool of water. Outside the Temple, he can see the Sentinels gliding in slow patterns. Three Sentinels lay just outside the opening like sleeping lions. One of the soldiers raises his gun and a Sentinel leaps to its feet with the sound of a dozen machine guns being co,J:cked.
+N: GOLDENROD REVISIONS JUNE 27, 2002 119.
+C: MORPHEUS
+D: No! The soldier drops his gun and slowly the Sentinel lowers back down.
+C: NIOBE
+D: Neo. Morpheus nods.
+C: MORPHEUS
+D: He fights for us. EXT. MATRIX CITY STREET - NIGHT
+N: A sick green-black sky vomits a raging storm upon the urban night-scape below. Lightning spits from every cloud like the constant flicker of snake tongues. Black boots stride down the center of the rain soaked street. We follow as Neo walks, glancing left, then right at a city of Agent Smiths. They line the streets, their perfect silhouettes filling the windows of skyscrapers. rt is a city of dark-suited, sunglass-wearing shadows. Lightning flash-bulbs a group of them, staring at Neo, smiling identically. A singular Smith enters the street and turns towards Neo, walking at him until they stand, like gun fighters-- Face to face.
+C: SMITH
+D: Mr. Anderson. Welcome back. We missed you. Rain pours off his face as lightning pitch-forks the sky behind him.
+C: SMITH
+D: Like what I've done with the place? Another bolt strikes, this time in front of him, so we see it reflected in his sunglasses.
+E: CONT'D
+C: NEO
+D: It ends tonight. GOLDENROD REVISIONS JUNE 27, 2002 120.
+C: SMITH
+D: I know it does. I've seen it. That's why the rest of me is just going to enjoy the show. We already know that I'm the one that beats you.
+C: NEO
+D: The only place you can beat me, Smith-- He snaps open his coat, his body automatically settling into a defensive position.
+C: NEO
+D: Is in your dreams. Smith's smile twists into a sneer and he hurls himself at his enemy. The first exchange is a squall, fast and furious, as lightning strobes the water exploding with every blow. They mirror one another, neither one gaining or losing ground until each sees the exact same opening-- Simultaneously delivering a thunder packed punch that sends both men flying backwards-- Neo flips and lands gracefully, while Smith smashes down, concrete buckling beneath him. Smith growls, cocking and loading himself, then firing out, hurtling up through the driving rain as-- Neo leaps to meet him and they collide high above the street. Two equal and opposite forces slamming together like atoms smashing as an expanding sphere of energy is unleashed from the collision-- A globe of glass clearing away the rain swelling until it breaks open against the surrounding urban cliffs. The two men remain suspended in mid-air, battling, fists and feet thrown with particle-accelerator speed. Neo fights with ultimate precision, but Smith has become overwhelmingly powerful. A blow snaps Neo's head back, sending his glasses flying and before he recovers-- Smith grabs him, spinning like a decathlete in the hammer toss, and releases-- Hurling Neo into the side of a building. GOLDENROD REVISIONS JUNE 27, 2002 121. He smashes into the building like a bullet, another seismic wave of damage shattering the face of the building, following the initial impact, the way thunder follows lightning. INT. MATRIX BUILDING - NIGHT Looking back through the bored opening his body just created, Neo barely has time to stand before Smith barrels into him. The battle rages through the building, Smith pummeling Neo with wrecking ball force-- Smashing him through walls of concrete, brick and steel. Smith steps through one of the holes as Neo struggles to get back on his feet.
+E: CONT'D
+C: SMITH
+D: Can you feel it, Mr. Anderson? Closing in on you once more? I can. Once more, Neo picks himself up. He smiles.
+C: SMITH
+D: I really should thank you for it. After all, it was your life that taught me the purpose of all life.
+E: CONT'D
+C: SMITH
+D: The purpose of life is to end. Neo settles into a pose we have seen before. He signals to Smith, "come get some." Nothing frustrates Smith as much as that little wave. Another fury roars through the building, but this one ends with Neo unloading an explosion of kicks culminating in-- Bullet Time; a final boot launched like a LAS rocket, blasting Smith-- EXT. MATRIX CITY STREET - NIGHT Out of the building, sailing back through the sheets of rain until he slows regaining control. He looks back at the opening in the building where- Neo stands, lit by flashing lightning. GOLDENROD REVISIONS JUNE 27, 2002 122. Smith grinds his teeth and launches himself back at him while Neo dives into the open air and-- Again they fly at each other, the impact of this collision much more powerful than the first as-- Waves of force shatter windows and rip lamp posts from the concrete like a hurricane uprooting trees. EXT. MATRIX CITY STREET - MID-AIR - NIGHT They fight in mid-air, punching, kicking, grappling, locked together but in constant motion like electrons chasing each other around a single nucleus-- Oblivious to the height, they rise up beyond the city's glass towers until they are amidst the flashing electric tongues of lightning and the city is a distant pattern of light beneath them. Smith lands a series of savage blows that stun Neo and he slips down, twisting, lost for a moment, suddenly vulnerable. Above him, Smith rises up just as twin bolts of lightning strike, haloing the dark-suited demon with jagged broken rays of light. With the crashing din of thunder that follows, Smith attacks. Diving down, he slams into Neo, tackling him, driving him back to the earth-- Streaking like a comet, faster than the rain, plummeting past the mirrored towers as Neo struggles to get free, fighting, even as the inevitability of the ground rushes towards them and-- The unstoppable force meets the immovable object. 764 EXT. MATRIX STREET CRATER - NIGHT The concussive blast craters the street, buckling buildings, as a wave of unequaled destruction rushes out over the urban chasm. The explosion thunders away until there is only the hissing rain, as the Smiths gather along the crater's edge. Inside the bowl of earth is the exposed viscera of the metropolis; broken pipes, sparking cables and rent sewers. The rain on his face slowly brings Neo's consciousness back.
+E: CONT'D
+N: GOLDENROD REVISIONS JUNE 27, 2002 123. Smith stands over him as he tries to get up.
+C: SMITH
+D: Why, Mr. Anderson? It is an effort to even pull his arm from the wet sucking mud.
+C: SMITH
+D: Why do you do it? Why get up? Why keep fighting? Neo rolls over, pushing himself to his hands and knees.
+E: CONT'D
+C: SMITH
+D: Do you believe you're fighting for something? For more than your survival? Can you tell me what it is? Do you even know? Neo glares at him with animal-like eyes. He laughs.
+E: CONT'D
+C: SMITH
+D: Is it freedom? Or truth? Perhaps peace? Yes? No? Could it be for love?
+E: CONT'D
+C: SMITH
+D: Illusions, Mr. Anderson. Vagaries of perception. The temporary constructs of a feeble human intellect trying desperately to justify an existence that is without meaning or purpose. Neo's hands clench into fists.
+E: CONT'D
+C: SMITH
+D: And all of them as artificial as the Matrix itself, although only a human mind could invent something as insipid as love. Rain streaks the mud down Neo's face like black tears.
+E: CONT'D
+C: SMITH
+D: You must be able to see it, Mr. Anderson. You must know it by now. You can't win. It's pointless to keep fighting. Neo summons his strength and once more, he stands.
+E: CONT'D
+C: I GOLDENROD REVISIONS JUNE SMITH
+D: Why, Mr. Anderson? Why? Why do you persist?!
+E: CONT'D
+C: NEO
+D: Because I choose to. 2002 124. Smith howls in frustration, hurling at him, but Neo absorbs the attack, catching Smith momentarily off-balance--- Firing back a furious attack that has Smith reeling, unable to defend himself as Neo loads up a bomb. It is not a punch; it is a cannonball-- Shot into Bullet Time; his fist shattering through the glass­ like rods of rain as it hurls at Smith-- Connecting flush, distorting his features as the flesh of his face is knocked loose and his eyes go blank. He staggers, stunned, out on his feet as Neo hauls back and gathers the Tai-chi ball, summoning every last bit of his energy, his life-force, then-- Slams it into Smith, catapulting him into the wall of the crater-- Burying him from sight. Neo sways in the rain with barely enough strength to stand as the army of Smiths look down from the crater edge. A low ominous rumble begins to shake the earth. Neo drops his head unable to watch as the rumble rises until-- The wall of the crater explodes like an exit wound, earth and asphalt shot-gunning -f-rryrn hi~ r,-r:::itro -- ~--- ~~-...... :;1- - ~ ~ ~ He hangs in the air, his mud-covered face distorted with rage.
+C: SMITH
+D: This is my world! My world! He dives into Neo who has nothing left and batters him, each bludgeoning blow striking in time with searing bolts of lightning. He seizes Neo by the throat, hoisting him up like a rag doll and fires a super-punch that sends Neo flying-- Bouncing down to the earth like a crashing airplane, trenching to a stop. GOLDENROD REVISIONS JUNE 27, 2002 125. Smith is about to press his frenzied assault, but he freezes, the image of Neo laying splayed, suddenly familiar.
+C: SMITH
+D: Wait ... I've seen this ... This is it! This is the end! He looks at Neo and in a flash of lightning we see the immediate future as Smith stabs his entire fist into Neo's chest. Smith blinks away the raindrops blurring his vision.
+E: CONT'D
+C: SMITH
+D: Yes, you were laying right there, just like that ... And I ... Another flash and we see the black mirror begin to cover Neo's body. Smith walks over to Neo who is desperately clinging to his consciopsness as if hanging from the edge of a precipice.
+E: CONT'D
+C: SMITH
+D: I stand here, right here and I'm supposed to say something ... I say ... Again the future flashes in his eyes and he sees Neo's hands buried beneath the gleaming blackness.
+E: CONT'D
+C: SMITH
+D: Everything that has a beginning, has an end. The familiar words suddenly clear Neo's mind. He looks up as Smith looks down.
+E: CONT'D
+C: SMITH
+D: Don't be afraid, Neo. Neo almost can't believe what he just heard as-- Another flash reveals the liquid obsidian covering Neo's face, but his face is calm, even serene.
+E: CONT'D
+C: SMITH
+D: What? What did I just say? In his confusion, he looks to Neo who now understands.
+E: CONT'D
+C: SMITH
+D: No, no. This isn't right. This can't be right! GOLDENROD REVISIONS JUNE 27, 2002 126. One final time, Neo rises to his feet.
+E: CONT'D
+C: SMITH
+D: Get away from me!
+E: CONT'D
+C: NEO
+D: What are you afraid of?
+C: SMITH
+D: It's a trick!
+C: NEO
+D: No, it's what you want. It's why you're here.
+C: SMITH
+D: No!
+C: NEO
+D: You were right, Smith. You were always right. Rain pours down Smith's tortured face.
+C: NEO
+D: It was inevitable. Smith's eyes fire, a scream rises up from him and in a crackling, blinding flash of lightning-- He stabs his fist into Neo, who stands with his arms open, accepting the blow. Exactly as in the flashing visions, Neo is covered by the darkness. Rising up over his face, Neo closes his eyes and is lost beneath the liquid shroud. The whole sky continues to weep as Smith enters him, possessing him, as the darkness snaps into a perfect pair of sunglasses. The mud covered Smith backs away from the new Smith as if not trusting him.
+E: CONT'D
+C: SMITH
+D: Is it over? The new Smith nods his head once and the old Smith smiles. And as a giddiness spreads through him, he starts to laugh. GOLDENROD REVISIONS JUNE 27, 2002 127. 65 INT. MACHINE CITY TOWER - NIGHT 765 Neo's body hangs motionless, supported by the passageway as we see as Neo would, an empty husk that is being filled, liquid light pouring into him from every connection. EXT. MATRIX CITY STREET - NIGHT The old Smith realizes that he is laughing alone. There is something wrong with the new Smith. The new Smith begins to tremble, a shiver that grows into a convulsion.
+C: OLD SMITH
+D: Oh no, no, no. It's not fair! It's not fair! t67 INT. MACHINE CITY TOWER - NIGHT 767 Neo's body arches, his arms pinned wide as he tries to scream but instead of sound, a shaft of light beams out. He opens his eyes and light pours out of them. EXT. MATRIX CITY STREET - NIGHT 768 Light brightens around Smith's sunglasses, until they begin to crack and shred like wet tissues as shafts of brilliant light burst free. Now the old Smith begins to feel it as his body begins to shiver uncontrollably.
+C: OLD SMITH
+D: No! The new Smith continues to crack open, light beaming out from his distended and deteriorating form, filling the entire crater as-- One by one it spreads through to all the Smiths. Shafts of light burst from the shells of Smith like water breaking through a dam, dissolving away each dark silhouette-- Until there are hundreds of faceless forms all made out of bright radiant light. The old Smith, at the center of the crater, fights to the last. His scream rails against the buildings as he bursts open and is consumed by light.
+C: II
+D: GOLDENROD REVISIONS JUNE 27 1 2002 128. From high above we see the explosion of blinding light sweep through the entire city as-- INT. MACHINE CITY TOWER - NIGHT A final surge rushes through Neo, his body convulsing against his metal coils and we see the light drain out of him, as life slowly leaves him and his body falls quiet and still. Neo dies.
+C: OMITTED SCENE
+D: 771 INT. MATRIX CRATER - NIGHT In the center of the crater lies the body of the Oracle. 772 INT. MACHINE CITY TOWER - NIGHT The cables and rods lower Neo's lifeless body, as it is laid onto the floor of the mechanical cave. The face of the Deus ex Machina gazes once more upon him.
+C: DEUS EX MACRINA
+D: It is done. The face recedes and the enormous Machine sinks away like a setting sun. 773 INT. ZION - TEMPLE - NIGHT A hovering Sentinel of the hole made by Sentinels follow. closes the digger. One by one the other No one can believe what they are seeing. Lock stands alone clutching his gun.
+C: LOCK
+D: It doesn't make sense. up Morpheus walks across the stream and stands at the door of the Temple looking up at what is without question a miracle: the entire Sentinel army leaving Zion~
+C: MORPHEUS
+D: He did it. GOLDENROD REVISIONS JUNE 27, 2002 129. The others move in behind him, their faces staring up in awe.
+C: KID
+D: He saved us. He saved us. The last of the Machines glide out of sight and waves of emotion sweep through all of them. The kid can't hold it in and he screams, joy bursting out of him.
+C: KID
+D: He did it! It's over! He did it! INT. ZION - TEMPLE - NIGHT His voice spills out into the Temple as he follows, almost falling, caught by several soldiers.
+E: CONT'D
+C: HAMMAN
+D: What is it? What's happened?
+C: KID
+D: Sir, Councilor, he did it, sir! Neo did it!
+C: HAMMAN
+D: Did what?
+C: KID
+D: He ended the war! The Sentinels are gone! It's over, sir! The war is over! Hamman is unable to breathe as he drinks down the information. The kid turns and leaps onto a boulder, his voice filling the Temple.
+C: KID
+D: Zion! It's over! The war is over! Tears stream down both Link and Zee's faces as they embrace. A huge resounding cheer surges up from the people of Zion as they break open with relief and joy. INT. ZION - TEMPLE ENTRANCE - NIGHT Morpheus and Niobe hear the cheering that rolls up out of the Temple. Morpheus unable to move, unable to embrace a moment he waited his entire life for. GOLDENROD REVISIONS JUNE 27, 2002 130.
+E: CONT'D
+C: MORPHEUS
+D: I've ima9ined this moment for so 1ong~*Q He looks at her.
+C: MORPHEUS
+D: Is it real? She nods and he reaches out to her, trying to feel something to make him believe it and-- Finding it in her arms. Niobe looks up with tears brimming in her bright eyes.
+E: CONT'D
+C: NIOBE
+D: Wherever you are, Neo, thank you. INT. MACHINE CITY TOWER - NIGHT Neo's body is dragged from the passageway by a Machine that looks like a sawed-open garbage truck. The Machine quietly and efficiently drops him onto the open bed, then turns, gliding away as a barge might drift out to sea. We ~ee the Machine City once more as Neo did; dazzling crystalline structures of light and at the center, bearing away the body of Neo, a being that appears like an angel made from the morning sun as it glitters against the wide open ocean. 777 EXT. MATRIX CITY STREET - NIGHT Rain pebbles the angelic face of Sati as a black cat carefully pads up next to her and licks her cheek. In a blink the cat disappears and as it does-­ It stops raining. The cracked and broken ground is now replaced with a perfectly smooth sidewalk. Sati remains in the in the same sleeping position as the cat again softly pads in and licks her cheek, exactly as it just did. Sati slowly wakes up and smiles at the cat.
+C: SATI
+D: Good morning. GOLDENROD REVISIONS JUNE 27, 2002 131. The cat purrs, nudging against her.
+C: SATI
+D: Is it morning? She yawns and lifts herself up. EXT. ANOTHER STREET - DAWN A pair of expensive black loafers stride down the street. The black shoes stop as the man finds what he was looking for sitting on a park bench. The Oracle smiles at him.
+E: CONT'D
+C: ORACLE
+D: Well, now ain't this a surprise. The Architect hides his sneer in the corners of his mouth.
+C: ARCHITECT
+D: You played a very dangerous game.
+C: ORACLE
+D: Change always is.
+C: ARCHITECT
+D: If it were up to me, it wouldn't have ended this way.
+C: ORACLE
+D: Then I'm grateful it wasn't up to you.
+C: ARCHITECT
+D: Just how long do you think this peace is going to last?
+C: ORACLE
+D: As long as it can. She smiles and he decides to leave.
+C: ORACLE
+D: What about the others?
+E: CONT'D
+C: ARCHITECT
+D: What others?
+C: ORACLE
+D: The ones that want out.
+C: GOLDENROD REVISIONS ARCHITECT
+D: Obviously, they will be freed.
+C: ORACLE
+D: I have your word? He glances back, insulted.
+C: ARCHITECT
+D: What do you think I am? Human? He smiles and walks away as Sati yells.
+C: SATI
+D: Oracle! JUNE 2002 Carrying the cat, she leads Seraph over the hill to the bench, bolting to the Oracle.
+C: SATI
+D: We were afraid we might not find you.
+E: CONT'D
+C: ORACLE
+D: Everything's okay now.
+C: SERAPH
+D: It's good to see you again.
+C: ORACLE
+D: It's always good to see you.
+C: SATI
+D: Look! Look! She points to an unbelievably beautiful sunrise, rays of extraordinarily vibrant colors streaked across the sky with the joy and ardor of a child's finger-painting.
+C: ORACLE
+D: Just look at that. Beautiful. Did you do that? Sati beams, as she nods her head.
+C: SATI
+D: For Neo.
+C: ORACLE
+D: That's nice. I know he'd love it.
+C: SATI
+D: Will we ever see him again? GOLDENROD REVISIONS JUNE 27, 2002 133.
+C: ORACLE
+D: I suspect so. Someday. She stands up.
+C: ORACLE
+D: Now I don't know about you two, but I sure would like something to eat. Something sweet.
+E: CONT'D
+C: SATI
+D: Me too! Seraph turns to the Oracle.
+C: SERAPH
+D: Did you always know?
+C: ORACLE
+D: Oh no. No I didn't. But I believed. She smiles.
+C: ORACLE
+D: I believed. They head to their home, walking into the sunrise as-­ Young dawn raises her rose-red fingers.
+E: CONT'D
+T: Fade out.

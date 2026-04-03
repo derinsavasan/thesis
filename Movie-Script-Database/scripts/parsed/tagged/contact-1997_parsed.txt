@@ -1,0 +1,2777 @@
+M: CONTACT
+M: by
+M: Menno Meyjes,
+M: Ann Druyan & Carl Sagan,
+M: Michael Goldenberg,
+M: Jim V. Hart
+M: Rewrite by
+M: Michael Goldenberg
+M: Based on the Novel by
+M: Carl Sagan
+M: September 8, 1995
+M: UNIVERSE - EIGHT BILLION LIGHT YEARS FROM EARTH
+N: The cosmos on the grandest scale we know. Clusters of galaxies strewn like sea froth; whorls and smudges of light representing hundreds of billions of stars each. MILKY WAY GALAXY A view from the edge. We DRIFT ABOVE the majestic, spiraling disk, tens of thousands of light years across. RING NEBULA (M57) - CONSTELLATION LYRA A local group of stars, the brightest of which is a point of hot, blue-white light... VEGA Rings of glowing gas and debris surround the giant, blue- white star... and then we notice something ahead of us in polar orbit. CLOSER An immense, world-sized construct gleams in Vega's blue light. Far too big to be artificial, by human standards --but this wasn't built to human standards. Bowl-shaped transmitters cover the quicksilver gel-like surface of the polyhedron, forming then vanishing again. We DESCEND INTO one vast bowl as it deepens-- --then silently convulses. A lost chord. We SWING AROUND, assuming a breathtaking, MOVING POV-- A message begins its journey.
+T: DISSOLVE TO:
+N: SUBTERRANEAN DARKNESS Shadows appear, dark and murky. Slowly we become aware of a MUFFLED, PULSING sound; like a DISTANT, BOOMING HEARTBEAT. Suddenly a bright light unzips the amniotic darkness; two great hands reach in to assist what we now realize is a Caesarean birth. ELLIE ARROWAY age five seconds, opens her eyes wide. In the b.g., we can see a nurse methodically giving CPR to the unseen mother; the decor beyond tells us we are in a small-town doctor's office. The DOCTOR holds Ellie as he calls softly to the nurse.
+C: DOCTOR
+D: You can call it, Nan. Mark time of birth as... 12:04 A.M. Happy New Year, little lady. Tell Ted he has a girl.
+E: looking down at the baby to the nurse
+N: TED ARROWAY stands watching through the window in the office door. Numb. BABY'S TINY HAND clasps its mother's finger.
+T: CUT TO:
+N: WIDE TABLEAU Ted, holding his newborn daughter, sitting quietly next to the bed where his sheet-covered wife still lies.
+S: EXT. MAIN STREET (NEHALEM, OREGON) - DAWN
+N: Ted, carefully holding little Ellie, walks down the empty street, his FOOTSTEPS ECHOING... DEEP SPACE - MESSAGE rockets through a black dust cloud where young stars are just beginning to glow. An icy worldlet evaporates, releasing gasses which blow away in spectral bursts of iridescent color... SURFACE OF ALIEN WORLD We are MOVING OVER an exotic, technological landscape; strange ALIEN SQUELCHES and SQUEALS become audible-- --and then a child's hand reaches in and twists a giant dial on what we now see is an old shortwave RADIO.
+C: ELLIE
+D: CQ CQ WR2 GFO... WR2 GFO, come back.
+E: V.O.
+S: INT. ARROWAY HOUSE - NIGHT
+N: SIX-YEAR OLD ELLIE leans in towards a large microphone.
+C: ELLIE
+D: CQ WR2 GFO, do you copy? I'm not getting anything.
+E: calls
+N: Ted joins his daughter at the workbench where she sits in front of the short-wave, her feet dangling from the stool. He puts his hands on her shoulders.
+C: TED
+D: Small moves, Captain, small moves.
+C: ELLIE
+D: I can't move any smaller.
+C: TED
+D: Try again between the static and 'Hey Jude'; that's where they're hiding.
+N: Ellie bites her lip, tries again. Her little hand slowly turns the dial--suddenly--
+C: RADIO VOICE
+D: Copy... WRS GFO... W2P KLD talking... what's your handle, WR2 GFO?
+E: V.O. filtered off STATIC
+C: ELLIE
+D: What do I do?
+C: TED
+D: Talk to him.
+C: ELLIE
+D: But what do I say?
+C: TED
+D: Just be yourself, Captain. Find out where he is.
+N: Ellie tentatively reaches out and grasps the microphone.
+C: ELLIE
+D: Where are you calling from, W2P KLD, come back.
+C: RADIO VOICE
+D: Pensacola, over.
+E: V.O. filtered
+C: ELLIE
+D: Pensacola--! Where's Pensacola?
+E: beat
+C: TED
+D: Give you a hint: orange juice.
+N: MAP OF WORLD above the work area is dotted with colored pins; Ellie's finger traces the Gulf of Mexico, stopping at Pensacola. Ellie, breathless with wonder. Contact.
+S: EXT. ARROWAY BEDROOM - NIGHT
+N: The house in the woods dwarfed under the immense dome of night.
+S: INT. ELLIE'S BEDROOM - NIGHT
+N: Now in her pajamas, Ellie sits hunched over in bed, working intently on her latest masterpiece. A crayon behind her ear.
+C: ELLIE
+D: Could we hear to China?
+C: TED
+D: On that old shortwave? Maybe on a clear night. Come on now, under the covers.
+C: ELLIE
+D: Could we hear to the moon?
+C: TED
+D: Big enough radio, I don't see why not.
+C: ELLIE
+D: Could we hear God?
+C: TED
+D: Mmm, that's a good one. Maybe his echo... Okay, no more stalling.
+E: then
+C: ELLIE
+D: Okay, okay... there.
+E: coloring frantically
+N: She hands Ted the drawing. As he holds it up to the lamp we see it shows an idealized beach, palm trees. It glows in the light.
+C: ELLIE
+D: Pensacola.
+C: TED
+D: That's a beauty, Captain. Now get some sleep.
+E: kisses her on the forehead
+N: He carefully pins the drawing on the wall, turns out the light. As he starts out she says softly--
+C: ELLIE
+D: Do you think there're people on other planets?
+N: Ted pauses, smiles at his daughter's inexhaustible curiosity. He returns, sits on the edge of her bed, now lit by starlight.
+C: TED
+D: Well let's see... the Universe is a pretty big place... And the one thing I know about nature is it hates to waste anything. So I guess I'd say if it is just us, an awful lot of space is going to waste.
+N: He tenderly brushes a stray lock of her hair behind her ear.
+C: TED
+D: Time to sleep now, Captain. But you can ask more questions in the morning, okay?
+C: ELLIE
+D: Okay.
+E: sighs
+N: He kisses her again, rises, goes to leave, stopping at the door to watch her. Ellie looks out the window at the stars... DEEP SPACE - MESSAGE A comet blows by. We chase it, riding its luminous tail of evaporating ice... TED'S CALLUSED HAND careful as a safecracker, slowly TURNS the DIAL on an ancient A.M. RADIO--finally landing on an old HANK WILLIAMS TUNE.
+S: INT. TED'S TRUCK - MOVING - DAY
+N: Ted sits up, smiles in satisfaction.
+S: EXT. TRUCK - DAY
+N: The old red Ford trundles through the pines along a mountain road.
+S: INT. ARROWAY KITCHEN - DAY
+N: NINE-YEAR OLD ELLIE throws her schoolbooks on the table and goes to the refrigerator. As she starts to take out items we see her hand-drawn chart taped to the side of the fridge; Mondays and Thursdays say "Ellie Cooks!"
+S: EXT. MOUNTAINS - DAY
+N: A fawn is feeding. CUT WIDE to reveal it standing in the middle of an empty road, nibbling at the grass growing out of the old blacktop. The TWITTER of a BIRD; the wind in the trees... and then, far in the distance, we hear an ENGINE STRAINING. LOGGING TRUCK heads up the mountain road, its driver humming along to the same HANK WILLIAMS TUNE.
+S: INT. ARROWAY KITCHEN - DAY
+N: A stew of some sort bubbles on the stove. Ellie hums as she experiments with every spice on the rack. SERIES OF SHOTS A) Ted sings to the RADIO as he eases off the gas to take a bend in the road-- B) The fawn continues to graze, oblivious. We can now hear the RADIO in the DISTANCE. C) Ted look up as he rounds the bend--sees the deer-- D) The logging TRUCK ROARS around a blind curve-- E) Ted swerves onto the wrong side of the road, misses the deer, sighs in relief-- F) The truck driver looks up, sees the Ford coming at him, Ted still looking over his shoulder at-- FAWN who suddenly looks up at the O.S. sound of a HORRIBLE CRASH-- --then bounds off into the woods.
+S: INT. ARROWAY KITCHEN - DUSK
+N: The table is set. A stubby candle and some wildflowers in a peanut-butter jar. Ellie sits at her place, frowning. She glances up at the wall clock--and then slowly stands as she sees something else THROUGH the kitchen window: A sheriffs' car is pulling up, lights going, siren silent. The sheriff looks up--their eyes meet--PUSH IN ON Ellie--
+T: CUT TO:
+S: EXT. COUNTRYSIDE - NIGHT
+N: Little cones of light illuminate the darkness as NEIGHBORS search with their flashlights, calling:
+C: NEIGHBORS
+D: Ellie... Ellie...?
+S: EXT. ARROWAY HOUSE - NIGHT
+N: The sheriff stands in front of the house, shaking his head as he talks to a MINISTER. VOICES continue to CALL. We start to CRANE UP, HIGHER and HIGHER until we clear the house--REVEALING Ellie lying on the roof, staring up at the stars. Her fingers grip the shingles...
+S: EXT. COUNTRY CEMETERY - DAY
+N: The Minister kneels next to Ellie, watching her knead another piece of bread into a ball before tossing it into a small fish pond. In the b.g. we see the sheriff and several relatives watching.
+C: MINISTER
+D: I'm so sorry, Ellie. More than I can ever say.
+N: Ellie keeps watching the pond. The clouds overhead are reflected in the patches of water between the lily pads.
+C: ELLIE
+D: Those lily pads must look like clouds to that carp, don't you think?
+N: The Minister frowns. Gently:
+C: MINISTER
+D: Ellie... this life doesn't last forever. Some day you and your Dad are going to be together again, in heaven.
+C: ELLIE
+D: He isn't in heaven; he's in the ground. We just put him there, remember?
+E: turns to him; equally gentle
+N: OFF the astonished Minister--
+S: INT. ARROWAY HOUSE - NIGHT
+N: Relatives, townspeople, the Minister and sheriff mingle quietly. The kitchen table and counters are covered with a sea of casseroles. Ellie watches the gathered from a doorway, then slips away.
+S: INT. ARROWAY HOUSE - WORKSHOP AREA - NIGHT
+N: Ellie slowly approaches the darkened bench area where the SHORTWAVE is set up; the pin-dotted map above it. She TURNS it ON; the dial glows. She reaches out for the microphone, holding it tightly in both hands. Pushes the button.
+C: ELLIE
+D: CQ WR2, this is GFO, do you copy?
+E: MORE
+C: ELLIE
+D: Dad, this is Ellie, come back.
+E: CONT’D looking up
+S: EXT. HOUSE - HIGH ANGLE - NIGHT
+N: Tiny Ellie is visible THROUGH the window, and as we begin to PULL UP and AWAY her emotion-choked voice continues, small and faraway...
+C: ELLIE
+D: This is Eleanor Arroway broadcasting on 9.2 megahertz. Dad, are you there? Come back. Come back. Come back...
+E: V.O.
+T: CUT TO:
+N: DEEP SPACE - MESSAGE --rockets through the Rosette Nebula, a vast cloud of glowing red hydrogen illuminated by young hot stars a hundred times brighter than the sun. Their solar wind is blowing out an immense cavity in the interstellar gas and dust. PALM LEAF lies on the streetlamp-lit sidewalk. We hear the sound of a BUS PULLING UP, its door opening. After a moment a pair of sneakered feet tentatively step INTO FRAME. A suitcase is set down next to them as we hear the BUS WHEEZE OFF into the night. A hand reaches down, picks up the palm leaf. 22-YEAR-OLD ELLIE examines it, then looks up in apprehension at the old prewar Spanish structure of Cal Tech.
+S: INT. CAMPUS BUILDING - CORRIDOR - NIGHT
+N: Ellie's FOOTSTEPS ECHO as she walks down a corridor, its walls hung with portraits of Galileo, Copernicus, Hubble. She pauses at a photograph of Einstein standing outside the entrance we just saw. Sound up cut: THE RAMONES' "I Wanna Be Sedated"--
+S: INT. DORM CORRIDOR - NIGHT
+N: An altogether different sort of hallway, reflecting the imagination and individuality of its occupants. The walls are covered with whimsical graffiti ("anthropocentrism is a 17 letter word;" "WATCH FOR FLYING POTATOES") and 3 A.M. paintings of alien sunsets; the MUSIC is coming from behind a door covered in Tolkien and comic book art. As Ellie enters this strange new world she begins to hear animated voices coming from a room at the end of the hall. VOICE #1 (V.O.) ...radio luminosity? VOICE #2 (V.O.) I dunno, maybe a post-spectral starburst or something.
+C: EVERYBODY
+D: Right, right--
+E: V.O.
+N: VOICE #3 (V.O.) E+A is an elliptical? How can you tell it's being lensed? Pass me the Fruity Pebbles. VOICE #4 (V.O.) Well I guess you'd have to check other elliptical galaxies, Mr. Wizard--
+S: INT. DORM ROOM - NIGHT
+N: As Ellie peers around the corner we see six or seven STUDENTS, mostly male, of mixed nationality and race, passing around cereal which they eat from the box. A primitive (circa 1980) home-built personal computer glows in the b.g.; a door opens onto a terrace and the California night beyond. They stop, look up at Ellie--
+C: ELLIE
+D: I--uh-- I was looking for Koestler Hall?
+E: clears her throat
+C: GUY
+D: This is it. Hey, do you know the average radio-luminosity of an E+A elliptical galaxy?
+E: STUDENT
+C: ELLIE
+D: Um... I'm not sure. Maybe you could deduce it from lensing a post-spectral starburst...?
+E: hesitates
+C: GUY
+D: See, I told you! Want some Fruity Pebbles? Carcinogenic, but totally worth it.
+E: beat, then to his friend to Ellie
+N: Ellie takes the box, and as she tentatively enters the room--nibbles on the cereal--she slowly sits. Smiles. The argument rages on. She's home. DEEP SPACE - MESSAGE We ROAR by a rapidly rotating, flashing pulsar. Cosmic dust filters the light into the shifting spectrum of colors...
+S: EXT. MOJAVE DESERT - DAY
+N: DAVID DRUMLIN, 42, fit, sardonic--and the world's foremost radio astronomer--leads a group of grad students past the first Jet Propulsion Lab radio telescopes at Goldstone. Ellie lags behind talking to PETER VALERIAN, who is about as good-looking as an astronomer should be allowed to be.
+C: ELLIE
+D: ...Drumlin said you're been down at Arecibo for the last year.
+C: PETER
+D: It's beautiful but it does get a little lonely. Sometimes I think
+E: MORE
+C: PETER
+D: the reason we build these things in such godforsaken places isn't to avoid excess radio traffic but because we're all such pathetic antisocial misfits... Speaking of which: How're you getting on with the old man?
+E: CONT’D
+C: ELLIE
+D: He's an incredible prick but I never learned so much in my life.
+C: PETER
+D: That's what they all say.
+E: smiles
+N: In the b.g. we can see the majestic twin dishes tilted up toward the hard blue sky. An awkward moment, which Ellie fills by extending her hand.
+C: ELLIE
+D: Ellie. Arroway.
+C: PETER
+D: Peter Valerian.
+C: ELLIE
+D: Sounds like a Russian general.
+C: PETER
+D: Yavol.
+C: DRUMLIN
+D: You're out of shape, Valerian. What's the matter, eat too many tacos down there in Puerto Rico?
+E: calling back
+N: He pronounces it "tackos" in his distinctive Montana twang.
+C: ELLIE
+D: I read your paper on ETI's. It's brilliant.
+C: PETER
+D: Keep it down, okay? Drumlin thinks I'm enough of a flake as it is. Look--everyone here has their little fetishes. Caven goes to topless bars, Vernon's got his carnivorous plants... mine just happens to be extraterrestrial intelligence.
+E: embarrassed but pleased then
+C: ELLIE
+D: What a coincidence. It happens to be my fetish too.
+N: A brief but electric moment between them. They both feel it. Drumlin calls back from the head of the group:
+C: DRUMLIN
+D: You two coming along or you just gonna do it right here in the sand?
+N: The other students laugh good-naturedly. Ellie and Peter, rather than being embarrassed, seem to be considering the idea.
+S: EXT. MOJAVE CLIFFS - LATE AFTERNOON
+N: A dusky orange sun hangs over the mountains, the Goldstone telescopes visible in the distance. Ellie and Peter walk along a windswept cliff overlooking a vast desert lake.
+C: ELLIE
+D: ...I'm just so sick of feeling defensive about the things I care about! Or being lumped in with the lunatic fringe by people like Drumlin, when if they'd just put aside their preconceptions for two seconds and look at the facts...
+C: PETER
+D: They can't. I think it's against human nature to admit to that level
+E: MORE
+C: PETER
+D: of... insignificance; to not see yourself as basically the center of the universe.
+E: CONT’D
+C: ELLIE
+D: It's like the pre-Copernicans who swore the sun revolved around the Earth, or the Victorians at the end of the last century who concluded that all major discoveries had now been made. I mean... try to imagine civilization a thousand years ahead of us--then imagine trying to explain... I dunno, a microwave oven --to someone even a hundred years ago--I mean the basic concepts didn't exist...
+C: PETER
+D: 'Any sufficiently advanced technology...'
+E: murmurs
+C: ELLIE
+D: '...is indistinguishable from magic.'
+E: finishing it with him
+N: A moment... and then Peter takes her hand like it's the most natural thing in the world.
+C: PETER
+D: I dunno. I know I should be objective, ice-cold hard-assed scientific about it, but just on an intuitive level--what's the point of a universe so vast if we're the only ones in it? It'd just be such a... waste of space.
+N: Ellie stops, looks at him--and then slowly, carefully leans in and kisses him. A pleasantly awkward beat.
+C: ELLIE
+D: Sorry.
+N: Peter laughs.
+S: EXT. DESERT - NIGHT
+N: A million stares blaze overhead as Peter and Ellie make love on an Indian blanket in the middle of the desert. Ellie looks searchingly up into Peter's face... and then her gaze drifts upwards to the canopy above... SQUIRREL gnaws on a beechnut as two enormous pair of feet walk by.
+C: ELLIE
+D: --but I've already submitted my proposal!
+E: V.O.
+S: EXT. CAL TECH CAMPUS - DAY
+N: Ellie and Drumlin walk briskly, in heated discussion.
+C: DRUMLIN
+D: I'm sorry, Miss Arroway, not only is it too speculative a subject for a doctoral dissertation, at this point in your career it'd be tantamount to suicide.
+C: ELLIE
+D: I'm willing to take that risk.
+C: DRUMLIN
+D: I'm not. You're far too promising a scientist to waste your considerable gifts on this nonsense--
+C: ELLIE
+D: Dr. Drumlin, we are talking about what could potentially be the most important discovery in the history of humanity. There are over four hundred billion stars out there--
+C: DRUMLIN
+D: And only two probabilities: One:
+E: MORE
+C: DRUMLIN
+D: there is intelligent life in the universe but they're so far away you'll never contact it in your lifetime--
+E: CONT’D
+C: ELLIE
+D: You're--
+C: DRUMLIN
+D: Two: There's nothing out there but noble gasses and carbon compounds and you'd be wasting your time.
+C: ELLIE
+D: What if you're wrong? No--I'll grant you probabilities but as a scientist without all the evidence--you can't deny the possibility--and I believe even the remotest possibility of something this profoundly... profound is worth investigation-- and worth taking a few risks.
+E: as he starts to speak
+C: DRUMLIN
+D: I disagree.
+C: ELLIE
+D: Then disagree but don't stand in my way!
+N: By this point they've gathered a small crowd. Drumlin regards her for a moment; then, softly:
+C: DRUMLIN
+D: What is it that makes you so lonely, Miss Arroway? What is it that compels you to search the heavens for life when there's so much of it being neglected right here at home?
+N: Body blow. Ellie just stares, stunned. Finally:
+C: DRUMLIN
+D: I will approve a general thesis on the detection of radio signals from space but that's all. No E.T.I.s. Enough?
+N: Flushed, overwhelmed... Ellie nods. Enough. DEEP SPACE - MESSAGE Approaching a backwater area of the galaxy. A small, unspectacular yellow star comes INTO VIEW. PAIR OF HEADLIGHTS cuts through the night. A Jeep negotiates an overgrown mountain road.
+S: EXT. ARECIBO, PUERTO RICO - AERIAL SHOT - PRE-DAWN
+N: The two tiny beams from high above as we DESCEND OVER a mountainous jungle range, a hot-house of life that drops away to reveal an enormous white thousand-foot radio telescope, cradled in the natural bowl of the mountain valley. SUPERIMPOSE: ARECIBO, PUERTO RICO - 1992
+S: EXT. ARECIBO - DAWN
+N: The mud-spattered Jeep pulls up in front of the living quarters of the primitive installation. Peter Valerian climbs out, looks up at the crude facilities in dismay. ELLIE lies asleep in bed. Peter sits quietly next to her, gently touches her face. Her eyes slowly open. She smiles. SAME - FEW MINUTES LATER Ellie is in the shower. Peter looks around her quarters; peeling paint, a few steps down from your average dorm room.
+C: ELLIE
+D: ...I keep telling myself okay, that's just the price, you have to do your time doing shitwork before you're allowed to get to the good stuff... but if I have to catalog one more quasar... God, I've missed you.
+E: O.S. calls from the shower sticks her head out
+C: PETER
+D: Any luck on the grant money?
+C: ELLIE
+D: Please. Any chance of that died the day David Drumlin was appointed head of the N.S.F. I have been in contact with a few other SETI people; we've been trying to find backing from private investors. I've even managed to scrounge a couple of hours of telescope time here and there...
+C: PETER
+D: And?
+C: ELLIE
+D: I've examined over forty stars of roughly solar spectral type but so far, nothing. Still, we've barely started...
+N: Peter is silent.
+S: EXT. MT. ARECIBO (PUERTO RICO) - DAY
+N: Ellie and Peter walk along the periphery of the vast concave dish. A gentle breeze blows.
+C: ELLIE
+D: ...We've been going after some of the big multi-nationals but without
+E: MORE
+C: ELLIE
+D: much luck; got a donation from a New York dowager... We've even been thinking about selling T-shirts.
+E: CONT’D
+C: PETER
+D: Ellie... even if you do manage to raise the money, have you thought about what it would really mean to follow through on this? I mean a college fetish is one thing, but we're talking about your career. You won't be publishing. You won't be taken seriously... and you could spend your entire life looking and never find anything at all.
+N: Ellie pauses; looks out at the endless ocean of green. Quietly:
+C: ELLIE
+D: If we lived at any previous time in human history we wouldn't even have the option of failing--we'd have to wonder our whole lives, unable to do anything about it. This time, right now, is unique in our history, in any civilization's history--the moment of the acquisition of technology. The moment when contact becomes possible. We've already beaten incredible odds by being lucky enough to be alive now.
+C: PETER
+D: How close are you to getting this funding put together?
+E: pausing
+C: ELLIE
+D: It's almost there. The hardest part is getting someone to sell us the telescope time.
+C: PETER
+D: What if I said I could get Drumlin
+E: MORE
+C: PETER
+D: to agree to sell you time in New Mexico?
+E: CONT’D
+C: ELLIE
+D: The V.L.A.?
+E: stunned
+C: PETER
+D: Thirty-one linked dishes. You could search more sky there in a day than you could in a year here.
+C: ELLIE
+D: Peter--if you can get him to do that for me he'd obviously do the same for you--we could--!
+C: PETER
+D: Actually--
+C: ELLIE
+D: We could be together again--
+C: PETER
+D: --I'm moving to Washington.
+C: ELLIE
+D: Greenbank?
+E: confused
+C: PETER
+D: I'm going on staff at the N.S.F. To work for Drumlin.
+C: ELLIE
+D: But what about your research--?
+C: PETER
+D: This is a chance to be of enormous help to other people's research-- to have the power to be a real advocate where David's got blind spots--
+C: ELLIE
+D: But the work--
+C: PETER
+D: 'The work,' Jesus, Ellie, can't there just once be more to life than the work? Okay, maybe that's the only way to get the recognition, win the prizes--
+C: ELLIE
+D: Please, you're just as ambitious as I am, more--
+C: PETER
+D: Maybe that's the problem. I want... a family, Ellie. I want kids. A townhouse on L street instead of still living like a college kid. A real life. Maybe that makes me a sellout but I don't care anymore. It's what I want.
+C: ELLIE
+D: And you think I don't want those things? You think I don't stay up half the night wondering if I've made the right choice living half a world away from you, wondering if any of this is worth what I'm giving up for it every day? Let's get married.
+E: as Peter is silent; suddenly
+C: PETER
+D: Jesus--
+C: ELLIE
+D: Right now--we'll drive down to Ramey and get the base chaplain to marry us.
+C: PETER
+D: Ellie--
+C: ELLIE
+D: I'm serious about this, Peter--
+C: PETER
+D: Ellie--I'm getting married. Her name's Laura. She came up to Owens Valley to do her post-doc about six months after you left.
+E: off a stunned silence
+C: ELLIE
+D: You sonofabitch.
+E: stares
+C: PETER
+D: That is true. But it's also true that if I really thought we wanted the same things, I'd follow you anywhere... but the truth is I don't think you want the company. Be honest, El. There's nowhere you'd rather be than sitting out at some remote corner of the world searching for the answers to the mysteries of the universe. And call me crazy, but I just can't compete with that... I'm sorry.
+E: softly
+N: There's nothing left to say. He rises, starts to make his way down. OFF Ellie, stunned-- DEEP SPACE - MESSAGE The yellow star is now definitely brighter than the rest.
+S: EXT. NEW MEXICO DESERT - AERIAL SHOT - NIGHT
+N: A 1967 T-Bird travels swiftly along a dirt road through the moonlit desert. The VIEW CLIMBS, WIDENS to include a huge radio telescope, and as we come around we see an even more stunning sight: 30 more of them. SUPERIMPOSE: SAPPORO, NEW MEXICO - 1993
+S: EXT. VLA MAIN BUILDING - NIGHT
+N: The T-Bird pulls up in front of a bland, institutional building. Ellie climbs out, stretches, then pulls a single small suitcase from the back seat.
+S: INT. CAFETERIA/LOUNGE - NIGHT
+N: Over an ancient Mr. Coffee machine some hysteric has scribbled: "Someone has been drinking the coffee without leaving the .10c in the cup and WE KNOW WHO YOU ARE." Ellie drops her dime in. As she pours she hears a strange sound: a steady repetitive SSSHHH... SSSHHH... She follows the noise down the hall.
+S: INT. CONTROL ROOM - NIGHT
+N: The lights are off; the large room is illuminated solely by the night sky and glowing banks of electronic equipment. Through the large panorama window we can see the silhouettes of the enormous radio telescopes in the moonlight. We make out a shape sitting in the darkness listening to the sounds, louder now: SSSHHH... SSSHHH... And then a voice calls out:
+C: VOICE
+D: Light's behind you, to the left.
+E: O.S.
+N: Ellie finds the switch, flips on the lights, revealing KENT CULLERS, 30's, wearing Raybans.
+C: ELLIE
+D: Dr. Cullers?
+C: KENT
+D: Kent, Kent for Chrissakes. You must be Eleanor.
+C: ELLIE
+D: Ellie. Pulsar?
+E: moving to the control panel
+C: KENT
+D: 1919+21. Found a glitch in the timing; probably a starquake.
+C: ELLIE
+D: Nice. Where?
+N: Kent types in a few commands and the computer screen lights up. It reads "Radio Sky" and it looks nothing like the ordinary optical sky; more like an elaborate oriental rug. Pointing:
+C: KENT
+D: Here, right around Centaurus A.
+C: ELLIE
+D: This is how you see the sky?
+C: KENT
+D: It's how I hear it. The display's just a little something I programmed for astronomers with the misfortune of sight.
+C: ELLIE
+D: It's beautiful.
+C: KENT
+D: Never seen the optical sky myself, but I hear it's nice too.
+C: MILLINGTON
+D: Yo, Ray Charles, time's up. Oh-- sorry--
+E: O.S.
+C: KENT
+D: Doctors Millington, Curtain, Dr. Arroway.
+N: Ellie raises a hand in greeting to the two men in the doorway, they wave awkwardly back.
+C: KENT
+D: Rick's doing black holes at the center of galaxies; Tom's studying globular clusters in the e-band. And Dr. Arroway here will be spending her precious time listening for little green men. All yours, guys.
+E: to the guys
+N: As he rises MILLINGTON and CURTAIN move to take his place at the controls. They maneuver shyly around Ellie.
+C: ELLIE
+D: Um... should I...
+C: MILLINGTON/CURTAIN
+D: No, no, no--have a seat.
+E: way too fast
+N: Kent smiles, exits. Ellie sits, looks over the control console, rubs her hands...
+T: DISSOLVE TO:
+S: INT. VLA CONTROL ROOM - DAY
+N: In the daylight we see the sad truth of the place: a character-free cinderblock box filled with a mishmash of equipment, aging and jerry-rigged alongside the spoils of the odd successful grant application. Through a wall of windows we can see the cafeteria/lounge area; an ancient Ping-Pong table.
+C: ELLIE
+D: Hey, Fish, has that pointing error in twenty-nine been fixed yet?
+E: O.S.
+C: FISHER
+D: It's a worm gear; still a little sluggish but it'll have to do.
+N: Ellie again sits at the main console, but time has clearly dissipated some of her initial enthusiasm. She frowns as she peers at the telescope THROUGH the windows...
+C: ELLIE
+D: J39 Z186...?
+C: WILLIE
+D: Been there, done that, got the T-shirt.
+C: ELLIE
+D: VB10's an M dwarf; Signa Draconis... too old.
+C: KENT
+D: You've only searched--what is it, sixteen hundred stars without a peep? Try not to take it too personally.
+E: at the coffee machine
+C: ELLIE
+D: Thank you, Mr. Sensitive. I'm coming at this wrong... missing something... something...
+E: frowns
+T: DISSOLVE TO:
+N: PAIR OF HANDS pick up a thin coil of cable. DUSTY PAIR OF SNEAKERS trek through the moonlit scrub desert, trailing cable behind them...
+S: EXT. DESERT - NIGHT
+N: Ellie sits cross-legged on the hard earth, hunched over with her fingers barely touching the pair of headphones she wears. We hear the faint arrhythmic pulsing of STATIC... Ellie's eyes are closed; she leans forward, an expression of peculiar intensity on her face...
+T: CUT TO:
+S: EXT. DESERT - WIDE
+N: Ellie's tiny hunched-over figure is sitting about a thousand yards away from the main building, rocking slowly back and forth under the vast desert sky, back and forth, listening...
+T: DISSOLVE TO:
+S: EXT. NEW MEXICO DESERT - AERIAL SHOT - DAY
+N: A government sedan travels the dusty road to the VLA.
+S: EXT. VLA MAIN BUILDING - LATER AFTERNOON
+N: The sedan pulls up. WILLIE climbs out of the driver's side and comes around to get the bags as David Drumlin emerges, formidable and patrician as ever. Kent, Fisher, Millington, Curtain and a number of other scientists are there to greet him.
+C: DRUMLIN
+D: Now I remember why I went into theoretical work. Kent.
+E: hand at his back
+C: KENT
+D: Glad to have you, David. How's the new office?
+C: DRUMLIN
+D: Still settling in, really. Where's Dr. Arroway?
+E: looking over the group
+S: INT. VLA CONTROL ROOM - AFTERNOON
+N: Kent and Fisher lead Drumlin through the complex; his conservative suit out of place among the jeans and T-shirts; other scientists either smile obsequiously or avert their gaze.
+C: FISHER
+D: ...not that there's a whole lot in the way of entertainment around here but I guess it beats communing with washing machines.
+C: DRUMLIN
+D: What's that?
+C: KENT
+D: Nothing. Okay. Some of us have been a
+E: looking at Fisher; hesitates a long beat MORE
+C: KENT
+D: little... not concerned, exactly, but...
+E: CONT’D
+C: DRUMLIN
+D: Tell me.
+E: almost gently
+C: KENT
+D: Last week, about 3 A.M., Fish--Dr. Fisher--was on a late shift, and he found her doing laundry.
+E: hesitates again; finally
+C: DRUMLIN
+D: So?
+C: KENT
+D: So... there wasn't any clothes in the machine. She was just sitting there on the floor with her ear pressed up against the Maytag. Listening.
+S: EXT. VLA LIVING QUARTERS - ESTABLISHING - DUSK
+N: Across a barren patch of desert lies a weathered residential outbuilding, something between a dormitory and a Motel Six.
+S: INT. ELLIE'S QUARTERS - DUSK
+N: Home. Painted cinderblock, a single star map up on the wall. An old lumpy couch, several monitors along a shelf on one wall that connects her to the control room. Headphones, listening equipment. Ellie is at the fridge.
+C: ELLIE
+D: Pepsi? Tequila?
+C: DRUMLIN
+D: No, thanks.
+N: He sits on the corner of the unmade bed. Ellie pops open a soda, unselfconscious.
+C: DRUMLIN
+D: Peter sends his regards.
+C: ELLIE
+D: Oh? How's he doing?
+E: a little too nonchalant
+C: DRUMLIN
+D: Very well; since my appointment he's been made interim director.
+C: ELLIE
+D: Really? Congratulations, by the way.
+C: DRUMLIN
+D: I'm surprised you even knew it was an election year.
+C: ELLIE
+D: 'President's Science Advisor'--so what, you just spend all your time jetting around on Air Force One now...?
+C: DRUMLIN
+D: Not exactly. It's... complicated.
+C: ELLIE
+D: No doubt.
+C: DRUMLIN
+D: Ellie...
+E: a beat, then
+C: ELLIE
+D: Did I tell you we've expanded the search spectrum? We're including several other possible magic frequencies--not just the hydrogen line anymore. I was trying to get inside their heads, y'know? And I started thinking, what other
+E: avoiding the inevitable MORE
+C: ELLIE
+D: constants are there in the Universe besides hydrogen, and then suddenly it was so obvious--transcendantals, right? So we've been trying variations of pi...
+E: CONT’D
+C: DRUMLIN
+D: You know why I'm here.
+C: ELLIE
+D: It's not enough having my search time systematically cut down--you know I'm down to three hours a week now.
+C: DRUMLIN
+D: Ellie, I should have done this a long time ago, certainly before I left the N.S.F., but I wanted to give you every benefit of the doubt--
+C: ELLIE
+D: You can't just pull the plug, David.
+C: DRUMLIN
+D: It's not like you've given me much choice.
+C: ELLIE
+D: Meaning...
+C: DRUMLIN
+D: Meaning I have to go defend a budget to the President and to Congress and you're out here listening to washing machines.
+C: ELLIE
+D: I'm searching for patterns in the noise, that's all. Order in the chaos. I'm practicing listening--
+E: quietly
+C: DRUMLIN
+D: The point is, this isn't just scientific inquiry anymore--it's turned into some kind of personal obsession.
+C: ELLIE
+D: The difference being what--that I refuse to adopt the standard line, that I don't care about the results of my work? Well, I do care. Of course any discovery has to be verifiable, of course it must be subject to all rigors of scientific method, but I refuse to go around pretending I'm some kind of dispassionate automaton when it's obvious to anyone with a brain I'm just not.
+C: DRUMLIN
+D: No... You're not. But the price has just gotten too high.
+C: ELLIE
+D: Goddamnit, they are out there, David--
+C: DRUMLIN
+D: Then why haven't you detected any signals? If, as you claim, there have been thousands, millions of advanced civilizations out there for millions of years then why hasn't one signal gotten through? It'll take a month or two for the paperwork to go through; you're welcome to stay until then.
+E: rising
+C: ELLIE
+D: David--
+C: DRUMLIN
+D: It was a worthy experiment--worthy of you; I was wrong about that part. But it's over now.
+N: He leaves. Ellie just stands there in the window, fighting back the emotion, watching the telescopes in the falling light...
+S: EXT. SPACE - MESSAGE
+N: approaches the out regions of our solar system; Neptune-- an austere, deep blue gas world with swirling clouds of methane. The message shoots by more worlds at the speed of light. Saturn. Jupiter. Closer. MESSAGE - TO EARTH - DESCENDING VIEWS Approaching the big blue and white marble, breathtaking against a backdrop of stars. We PLUNGE PAST the outer satellites, the Hubble telescope --Space Station Mir. We ENTER the atmosphere, DESCENDING THROUGH layers of clouds, DOWN farther and farther, FASTER AND FASTER-- We RUSH DOWN TOWARD North America, the Southwest U.S., SMASHING DOWN TOWARD the tiny dot of the VLA, TOWARD the westernmost dish and INTO the antenna at its center-- INSERT - TV - LARRY KING LIVE The famous host's familiar features, pixilated in EXTREME CLOSEUP.
+C: LARRY KING
+D: My guest tonight is author and theologian Palmer Joss, 'God's diplomat' according to the New York Times. His new book--Losing Faith --is currently number one on that publication's bestseller list. Thanks for being with us, Reverend. Okay--who's losing faith--and why?
+E: V.O. TV
+N: Our first glimpse of Palmer Joss. He has a rumpled, rugged charm that has become just the slightest bit polished. No bullshit, agreeably ironic, he's ridden the wave of the New Spiritualism farther than even he ever imagined.
+C: JOSS
+D: Well, let me start this way, Larry. What has science done for you lately?
+E: V.O.
+C: LARRY KING
+D: Besides letting me broadcast this program all over the world?
+E: V.O.
+C: JOSS
+D: Besides that. Or better, I'll give you that, but tell me this: Are you happier? Are we happier? Is our would fundamentally a better place?
+E: V.O. smiles
+N: WIDEN SLOWLY to reveal:
+S: INT. VLA CONTROL ROOM - NIGHT
+N: Willie and Fisher sit at the command console, battling the ennui of their watch. BOB MARLEY plays on a battered BOOMBOX; Fisher watches Joss on a Watchman.
+C: JOSS
+D: Don't get me wrong--we're smart, Larry. We shop at home, we surf the net... and we feel emptier and lonelier and more cut off from each other than at any other time in human history...
+E: V.O. TV
+N: Fisher eats a Baby Ruth and sips a Coke as he watches. Willie, heavy into his Gameboy, has a sudden epiphany.
+C: WILLIE
+D: Y'know who'd make great astronomers? Vampires. Think about it; the perfect synthesis of career and lifestyle.
+C: FISHER
+D: Shut up, Willie.
+E: engrossed in TV
+S: INT. ELLIE'S ROOM - NIGHT
+N: Ellie lies crashed out on the couch, headphones on. All we hear is STATIC... ...and then, beneath the static, we begin to hear another sound, barely audible but definitely there... A faint irregular PULSING, FADING IN AND OUT of reception. Ellie slowly swims up to consciousness. After a moment her eyes open. She sits up-- TIGHT ON BOOMBOX still playing REGGAE. A hand reaches in and turns it OFF.
+S: INT. VLA CONTROL - ROOM
+N: Willie and Fisher look up in surprise as Ellie goes to the main console, starts checking instrument readings.
+C: WILLIE
+D: Got a bogey, boss?
+C: ELLIE
+D: I'm not sure. You mind checking right ascension 18 hours, 34 minutes; declination plus 38 degrees 41 minutes?
+C: FISHER
+D: What's the frequency?
+C: ELLIE
+D: 4458.8 gigahertz.
+N: Fisher and Willie look at each other significantly.
+C: ELLIE
+D: It's probably nothing.
+N: They start typing in coordinates. THROUGH WINDOW - GIANT RADIO TELESCOPES turn one by one, fixing on the same point in the sky.
+S: INT. VLA CONTROL - CONTINUOUS ACTION
+N: Willie puts on headsets, flips a switch, twists a dial.
+C: WILLIE
+D: Hydrogen times pi... Got it. Strong sucker.
+E: in wonder calling to Ellie
+C: ELLIE
+D: Put it on speakers.
+N: He punches a button. An eerie, PULSING METALLIC SOUND. Willie and Fisher run their routine checks with a practiced calm--
+C: WILLIE FISHER
+D: Could be AWACS from Glitch in number Kirtland; verifying seventeen. intensity. Wasn't Monochromatic, strong seventeen where we found too. That was twenty- that owl's nest last three, besides I got month? signal across the board.
+N: Around the room a few night owls are watching with growing interest. Ellie types rapidly on a keyboard, watching a monitor above her: SEARCH)STAR FIELD ORIGIN OF SIGNAL)
+C: FISHER
+D: Checking interferometric position. Somewhere in Lyra, I think...
+C: ELLIE
+D: Vega...?
+C: WILLIE
+D: That can't be right; it's only twenty-six light years away.
+C: ELLIE
+D: I scanned it at Arecibo; negative results, always.
+C: FISHER
+D: Linearly polarized; a set of moving pulses restricted to two different amplitudes--
+C: WILLIE
+D: Air Force isn't supposed to be on this frequency.
+C: ELLIE
+D: That's what they always say; punch up the darks.
+N: Another display shows all satellites and major debris in orbit; "darks" glow in red.
+C: ELLIE
+D: How's the spying tonight, guys?
+E: murmurs
+C: WILLIE
+D: NORAD's not tracking any spacecraft in our vector including snoops; shuttle Endeavor's in sleep mode.
+C: FISHER
+D: Interferometry now rules out a Molniya-type orbit.
+C: WILLIE
+D: Confirming sidereal motion; whatever it is, it ain't local.
+N: Ellie fights to stay calm--but the excitement rippling through the gathered is palpable--
+C: ELLIE
+D: Display absolute intensity.
+N: On another monitor a sound spike leaps with each pulse.
+C: WILLIE
+D: Reading over a hundred janskys--
+N: Ellie puts on headsets, shuts her eyes in fierce concentration as she listens--for a moment only a signal echoes through the control room--
+C: ELLIE
+D: Numbers. Those are numbers, each pulse is a set--break it down--
+N: Now with each pulse, long strings of zeros and ones appear. On the monitor: PROMPT: CONVERTING TO BASE 10) OPERATION COMPLETED MAIN DISPLAY With each pulse a number appears: 59 61 67 71 79 83 89 91--
+C: ELLIE
+D: 79--83--91--they're all primes, no way that's a natural phenomenon--!
+N: The room ignites. Ellie shouts over the din--
+C: ELLIE
+D: Okay, let's just slow down. Pull up the starfield signal origin.
+C: KENT
+D: It can't be coming from Vega, the system's too young.
+E: O.S.
+N: Kent stands sleepily in the doorway, wearing Kermit the Frog pajamas and an old robe. Willie punches up a screen:
+C: ELLIE WILLIE
+D: Maybe they didn't grow up Constellation Lyra, there, maybe they're just brightest star Vega, visiting. A-zero main sequence dwarf, estimate several KENT million years old. The system's full of debris Distance 26 light years --any spacecraft that accretion disk, no stayed for long would get known planets. clobbered.
+C: NEARBY SKEPTIC
+D: Not if they took evasive action and used their photon torpedoes.
+C: ELLIE
+D: Or if they're in polar orbit--but no, you're right. If we go public and we're wrong, that's it--it is over for us. Vega will set in a couple of hours; it's probably already risen in Australia. Let's call Ian and see if we can get some verification on this.
+E: the room grows quiet
+N: Willie picks up the phone and dials. All eyes on Ellie.
+C: ELLIE
+D: Okay. We have an intense, not very monochromatic signal, linearly polarized as if coming from an antenna, source moving with the stars so it can't be an airplane or spacecraft; on and only on a frequency whose only significance would be to an intelligence that wanted to be directed. If anyone can come up with any plausible or even implausible explanation besides ETI I want to hear it, now.
+N: Silence. Willie on the phone--
+C: WILLIE
+D: Yeah--yeah, just a sec--
+N: He looks up at Ellie. She looks back--
+S: EXT. CSCIRO RADIO TELESCOPE (AUSTRALIA) - DAY
+C: IAN
+D: ...We put it smack in the middle--
+E: V.O. phone
+S: INT. CSCIRO CONTROL ROOM - CONTINUOUS ACTION
+N: IAN BRODERICK, head of SETI down under, reaches across a star map surrounded by other excited technicians--
+C: IAN
+D: Vega.
+N: As his finger hits the map--
+S: INT. VLA CONTROL ROOM - SAME TIME
+C: ELLIE
+D: Thanks, Ian. Can you just keep tracking it as long as you can and we'll get back to you. Get this out to every observatory and radio array on the planet. Um... and get me the President's Science Advisor.
+E: pausing slowly puts down the phone, then
+N: Outside the sun is coming up. They all look to the windows. The telescopes are silhouetted against the pale light. Ellie goes. They watch her--then turn to look out at the rows of mechanical flowers pointing up at the new dawn.
+S: INT. ELLIE'S ROOM
+N: Ellie shuts the door behind her. She sinks to the floor, looks up, breathless--
+C: ELLIE
+D: Hello, Pensacola...
+N: ELLIE'S E-MAIL as it types out on various screens at radio telescopes in exotic locations around the world; various teams gather round-- ANOMALOUS INTERMITTENT RADIO SOURCE AT RIGHT ASCENSION 18 34m, DECLINATION PLUS 38 DEGREES 41 MINUTES, DISCOVERED BY VLA SYSTEMATIC SKY SURVEY. FREQUENCY 4458.8 GIGAHERTZ, LYRA/VEGA SYSTEM. 174 AND 179 JANSKYS. EVIDENCE AMPLITUDES ENCODE SEQUENCE OF PRIME NUMBERS. FULL LONGITUDE COVERAGE URGENTLY NEEDED. E. ARROWAY, DIRECTOR, PROJECT ARGUS, SOCORRO, NEW MEXICO, U.S.A. Sound upcut: a JET ENGINE ROARS--
+S: EXT. WHITE SANDS AFB - DAY
+N: AIR FORCE 2 lands with a SCREECH as Government Motor Pool cars speed toward it across the tarmac. National Security Advisor MICHAEL KITZ--very sharp and serious as death--steps out of the plane... followed momentarily by David Drumlin. He doesn't look happy.
+S: EXT. VLA - MAIN ENTRANCE - DAY
+N: Security guards stonewall two mobile TV news trucks. A handful of protesters picket the entrance carrying signs; "JUSTICE," "STOP THE COVERUP," "ROSWELL."
+C: PROTESTERS
+D: U-F-O-s--We want to know--
+E: chanting
+N: As Kitz, Drumlin and a small VIP delegation make their way in, Local News Reporters thrust microphones in their faces --"Mr. Kitz, Dr. Drumlin--"
+C: KITZ
+D: The President will be making a statement in due time; until then we have no comment.
+S: INT. CONTROL CENTER - DAY
+N: Fisher leads Kitz, Drumlin and the rest of the delegation around the room. Coffee cups and cigarettes abound. Drumlin crosses over to Willie's console, studies the display. In the b.g. we hear the constant BEEPING of the MESSAGE.
+C: DRUMLIN
+D: What's the latest?
+C: WILLIE
+D: Forty-four stations worldwide now confirming the signal, sir.
+C: DRUMLIN
+D: Let's get some decryption people here, now. Dr. Lunacharsky's visiting at the University of New Mexico--
+E: to an aide
+N: Kitz and others look at the main display as the primes continue to scroll.
+C: KITZ
+D: I don't get it. If this civilization is so advanced why the remedial math?
+C: SENATE DELEGATE
+D: Why don't they just speak English?
+C: ELLIE
+D: Maybe because seventy percent of the planet speaks other languages.
+E: O.S.
+N: All eyes turn to Ellie; she hasn't slept but you'd hardly notice.
+C: ELLIE
+D: Mathematics is the only truly universal language, Senator. We think this may be a beacon--an announcement to get our attention.
+C: DRUMLIN
+D: If it's attention you want I'd say you've got it. Just one thing: Why Vega? Everyone's looked at Vega for years with no results, and now, yesterday,
+E: as Ellie turns to him MORE
+C: DRUMLIN
+D: they start broadcasting primes. Why?
+E: CONT’D
+C: ELLIE
+D: It's hardly yesterday; the signal's been traveling for over twenty-six years. As for why... I'm hoping your own expertise in decryption algorithms will help us find out--to see if there's another message buried deeper in the signal.
+E: meeting his gaze
+N: Drumlin frowns, effectively neutralized for the moment.
+C: KITZ
+D: Dr. Arroway--
+C: DRUMLIN
+D: Michael Kitz, National Security Advisor.
+C: KITZ
+D: Dr. Arroway, let me first say--
+C: ELLIE
+D: Before you do could you please ask the gentlemen with the firearms to wait outside? This is a civilian facility.
+N: Kitz pauses--then gives a signal to dismiss the Berets.
+C: ELLIE
+D: Oh, and if you could ask them not to use their radios--interference. Thanks so much.
+N: Drumlin warns her with a look, which she conveniently avoids.
+C: KITZ
+D: I'll come right to the point, Doctor. Your sending this message
+E: MORE
+C: KITZ
+D: all over the world may well be a breach of National Security.
+E: CONT’D
+C: ELLIE
+D: This isn't a person to person call, Mr. Kitz. I don't really think the civilization sending the message intended it just for Americans.
+C: KITZ
+D: I'm saying you might have consulted us; the contents of this message could be extremely sensitive...
+C: ELLIE
+D: You want to classify prime numbers?
+C: DRUMLIN
+D: Mike, because of the Earth's rotation we're only in line with Vega so many hours a day; the only way to get the whole message is to cooperate with other stations. If Dr. Arroway hadn't moved quickly we could have lost key elements.
+C: KITZ
+D: Okay, fine, they've got the primes --but if you're right about there being another more significant transmission still to come--
+C: ELLIE
+D: --which we'll also need the network's help to receive and decode!
+C: KITZ
+D: You don't seem to understand that it's your interests I'm trying to protect--!
+N: Suddenly the steady BEEPING of the MESSAGE STOPS, replaced by terrible STATIC. On the various displays the prime numbers start to scramble.
+C: FISHER
+D: Oh shit.
+C: ELLIE
+D: Interference--we're losing the signal.
+S: EXT. VLA CONTINUOUS ACTION - DAY
+N: Media choppers circle like buzzards: CNN, ABC, WGH Santa Fe, freelance weather choppers on the lookout for "Hard Copy"--
+S: INT. VLA - CONTINUOUS ACTION - DAY
+N: The DRONE of the CHOPPERS continues in the b.g.
+C: KENT
+D: Can't we get rid of them?
+C: ELLIE
+D: It's a civilian facility.
+E: looks up at Kitz; slowly
+N: Kitz allows himself the barest hint of a smile--then switches on his radio and speaks calmly into it.
+C: KITZ
+D: Colonel Jarrod, I'd like a twenty mile radio-silent perimeter put around this installation immediately.
+C: ELLIE
+D: And a hundred mile airspace.
+C: KITZ
+D: And a hundred mile airspace.
+S: EXT. VLA PERIMETER - DUSK
+N: In the extreme f.g. a heavy-duty aluminum post is thrust into the earth--a fence is being erected.
+S: INT. VLA ROOM - DUSK
+N: Kitz stands in the former lounge/cafeteria; an improvised command center has been set up on the ping-pong table. Aides continue to hook up equipment as he talks on a red phone:
+C: KITZ
+D: ...under control for the moment but the longer we wait the more unstable the situation could become. I think you should consider coming here...
+S: INT. CONTROL ROOM - DUSK
+N: STEPHEN LUNACHARSKY, a high-strung Russian scientist, chain smokes as he types. Ellie and Drumlin stand over him, Kent next to him, others nearby.
+C: ELLIE
+D: ...could it be a nested code of some sort?
+C: DRUMLIN
+D: You must have checked the signal for polarization modulation already...
+N: Ellie hesitates. Drumlin looks at her. Whoops.
+C: ELLIE
+D: Dr. Lunacharsky...?
+C: LUNACHARSKY
+D: Analyzing signal polarization shifts.
+E: takes a drag
+N: He type in a series of commands. Something begins to happen on the main display--
+C: LUNACHARSKY
+D: Bingo.
+N: POV - THROUGH WINDOW Kitz, on the phone, sees the activity around the console. BACK TO SCENE Lunacharsky types in commands as he talks.
+C: LUNACHARSKY
+D: A second layer, nested within the main signal; possibly... a picture? Product of three primes...
+C: KITZ
+D: What.
+E: joining them
+C: LUNACHARSKY
+D: ...definitely three dimensions, either a hologram or a two- dimensional picture that moves in time; a movie.
+C: DRUMLIN
+D: Hope there's a cartoon.
+E: dryly
+C: KITZ
+D: How is that possible? How could all that information be encoded in--
+C: KENT
+D: Well, sir, some bits of the signal are bits that tell us how to interpret the other bits. Technically speaking.
+N: JURYRIGGED 35-INCH MONITOR Strings of zeros and ones fill the screen as the group assembles around it.
+C: ELLIE
+D: Enlarge.
+N: Willie types. Ellie moves closer, studying it. Intuitively:
+C: ELLIE
+D: Try plotting values in a three dimensional coordinate system.
+N: A pattern begins to emerge.
+C: DRUMLIN
+D: Throw a gray scale on it; standard interpolation.
+C: ELLIE
+D: Rotate 90 degrees counter clockwise.
+N: Willie enters commands. All are mesmerized by the shadows taking form on the screen.
+C: ELLIE
+D: It has to be an image. Stack it up, string-breaks every 60th character.
+N: On the screen a distinct black and white moving image forms; grays define it even further. The group is transfixed. Kitz whispers to an aide who makes a call in a hand radio.
+C: KENT
+D: Um... I've got an auxiliary sideband channel here. I think it's audio.
+N: An otherworldly RUMBLING GLISSANDO of sounds joins the image, sliding up and down the spectrum... and then the faint SWELLING MUSIC is heard. Ellie reaches over Willie and types more commands. The picture rotates, rectifies, focuses--
+C: KITZ
+D: What in the hell...?
+C: DRUMLIN
+D: It's a hoax. I knew it!
+C: KENT
+D: Um, excuse me, but would someone mind telling me what the hell is going on?
+N: Other reactions range from astonishment to nervous laughter. Ellie and Peter stare in utter amazement. ON SCREEN A grainy black and white image of a massive reviewing stand adorned with an immense Art Deco eagle. Clutched in the eagle's concrete talons is a swastika. Adolph Hitler salutes a rhythmically chanting crowd. The deep baritone voice of an ANNOUNCER, scratchy but unmistakably GERMAN, BOOMS through the room. The dark absurdity of the moment plays over Ellie's face; helpless:
+C: ELLIE
+D: Anybody know German?
+N: Kent tilts his head, closes his eyes.
+C: KENT
+D: The Fuhrer... welcomes the world to the German Fatherland... for the opening of the 1936 Olympic Games.
+N: Hitler's face fills the screen. The crowd roars its approval.
+T: CUT TO:
+N: TELEVISED RIOT in Berlin. Police with hoses try to keep a mob of skinheads under control.
+C: GERMAN ANNOUNCER
+D: ...the signal from the American observatory depicting Adolph Hitler has brought about chaos in the streets of Berlin, where hundreds of neo-Nazis gathered to swear eternal fealty...
+E: V.O. in German
+N: Slowly WIDEN to reveal a monitor wall. A kaleidoscopic display of global news coverage of the event. Demonstrations in a dozen cities, commentary from pundits, Aryan leaders and Auschwitz survivors. A single figure sits before the monitors, taking in the cacophony.
+S: INT. VLA CORRIDOR - DAY
+N: A huddle of figures sweeps down a dark corridor, charged with power and purpose.
+C: FEMALE VOICE
+D: Forty million people die defeating that sonofabitch and he becomes our first ambassador to another civilization? It makes me sick.
+E: O.S.
+C: DRUMLIN
+D: With all due respect, the Hitler broadcast from the '36 Olympics was the first television transmission of any power that went into space. That they recorded it and sent it back is simply a way of saying 'Hello, we heard you--'
+E: O.S.
+C: KITZ
+D: --Or 'you're our kind of people--'
+E: O.S.
+C: DRUMLIN
+D: --It's extremely unlikely that they had any idea what they were looking at.
+E: O.S.
+C: FEMALE VOICE
+D: I can't believe that everything on TV is automatically broadcast all over the universe. 'Hard Copy'... Rickie Lake'... Oh God, the '60 Minutes' interview.
+E: O.S. paling
+N: The huddle bursts through a door and out into the dazzling New Mexico morning, revealing the PRESIDENT and her entourage: Drumlin, Kitz, Secret Service, and fighting to keep up, Ellie. A sea of press awaits them as they move toward the podium, which has been set up with the 31 enormous radio antennas in the b.g. As the CHIEF OF STAFF takes the podium Ellie looks over her note cards, then nervously out at the crowd.
+C: CHIEF OF STAFF
+D: Ladies and gentlemen, the President of the United States.
+N: President Helen Lasker addresses the crowd. She's an American version of Margaret Thatcher.
+C: PRESIDENT LASKER
+D: My fellow Americans, citizens of the world, ladies and gentlemen of the press. At 7:09 A.M. Eastern Standard Time yesterday morning, American scientists detected a radio signal from space. This message was largely mathematical, and in spite of some of the headlines I've seen today, so far seems to be completely benign in nature. To better explain the extraordinary events of the last 24 hours, I'm turning you over to... Doctor David Drumlin.
+E: FEMALE VOICE
+N: Ellie looks up in surprise. Drumlin doesn't miss a beat as he strides to the podium.
+C: DRUMLIN
+D: Good morning. In 1936 a very faint television signal transmitted the opening ceremonies of the Olympic games as a show of German superior technology. That signal left Earth at the speed of light and twenty-six years later arrived on Vega, which they then sent back to us hugely amplified. As evidence of intelligence this is indisputable--
+N: As Drumlin continues we see Fisher ease onto the dais from behind, approach Ellie and surreptitiously hand her a note.
+C: DRUMLIN
+D: Whoever or whatever they are, they're clearly move advanced than we...
+N: Ellie reads it, looks up at Fisher in surprise--then quietly slips away. A murmur among the press as they notice; the President and then Drumlin as well--
+C: DRUMLIN
+D: ...maybe only decades or centuries, maybe much further along than that...
+S: INT. VLA CONTROL ROOM - DAY
+N: Ellie hurries into the control room--then stops dead. POV - MAIN MONITOR The incredibly complex geometric pattern we see flashing on the screen will be referred to as hieroglyphics--but they are like no hieroglyphics ever seen before; chillingly otherworldly, they are the first visual artifact of an alien civilization. The scientists stand stunned and silent. BACK TO SCENE
+C: ELLIE
+D: What...
+C: LUNACHARSKY
+D: In ancient times when parchment was in short supply people would write over old writing... it was called a palimpsest.
+E: softly
+C: ELLIE
+D: A third layer.
+N: A phalanx of officials led by Drumlin, Kitz and the President hurry in... and also stop at the sight of the hieroglyphs.
+C: PRESIDENT LASKER
+D: Oh my God...
+C: KITZ
+D: What is it?
+C: ELLIE
+D: I think we just hit the cosmic jackpot.
+C: KENT
+D: It's incredibly rich. We've been cataloging it in frames or 'pages'; right now we're on 10,413.
+C: PRESIDENT LASKER
+D: What does it say?
+C: ELLIE
+D: It could be anything. The first volume of some Encyclopedia Galactica...
+C: KITZ
+D: ...instructions to acquaint us with their colonization procedures.
+C: KENT
+D: Moses with a few billion new commandments...
+C: KITZ
+D: Ms. President, in the interest of national security, I strongly recommend we militarize this project immediately--
+C: ELLIE
+D: Pardon me, but you can't do--!
+C: KITZ
+D: If at some later date the message proves harmless, we can discuss sharing it with the rest of the world, but until then--
+C: ELLIE
+D: That's terrific, but there's one problem: we don't have the means to receive all the data on our own.
+C: PRESIDENT LASKER
+D: Is that true?
+C: DRUMLIN
+D: The only way would be if we had a radio telescope in orbit.
+C: PRESIDENT LASKER
+D: We don't? Why don't we?
+C: ELLIE
+D: Because you cut it from the budget three years running.
+C: PRESIDENT LASKER
+D: How soon will you be able to decode it?
+C: LUNACHARSKY
+D: There's no way of knowing. Without a key--a primer, to help us, maybe never.
+C: ELLIE
+D: Maybe it'll be at the end of the data when the message recycles.
+C: PRESIDENT LASKER
+D: Well. That would seem to decide it. Like it or not, for the moment, anyway, it looks like we're all in this together.
+C: KITZ
+D: But--
+C: PRESIDENT LASKER
+D: That's it, Mike. Last time I checked, I was still running the country. Although it seems that for the moment, Dr. Arroway is running the planet.
+N: The President looks up at the screen and involuntarily shivers.
+C: PRESIDENT LASKER
+D: Let's get out of here.
+T: CUT TO:
+N: MONITOR WALL (LOCATION UNKNOWN) - DAY More global news coverage, private surveillance camera feeds; also some disturbing pornographic images. On one monitor, a moment from the President's VLA press conference plays over and over--the moment when Drumlin stepped up to the podium in front of Ellie. A gnarled hand pushes a button on a console and the image enlarges --we see Ellie's expression of shock and hurt, over and over. Over and over. On the next monitor over is live CNN coverage of the scene outside the VLA--we begin to PUSH IN ON it--
+C: WOLF BLITZER
+D: ...There had been speculation on the part of psychologists that the proliferation of depictions of aliens in movies and on television in recent years might make for an almost blasé acceptance of the news.
+E: V.O.
+T: MATCH CUT TO:
+S: EXT. DESERT (NEW MEXICO) - DAY
+N: The road leading to the VLA is jammed with vehicles, RVs, vans, busses, as far as the eye can see. More people walk on the side of the road.
+C: WOLF BLITZER
+D: But the truth is, it turns out, is far stranger than anything Hollywood might have dreamed up--and here, today, the prospect of extraterrestrial intelligence if no longer science fiction--it's the best show in town.
+E: V.O.
+N: The VIEW CLIMBS, REVEALING campfires, BBQs, tents of all shapes and sizes littering the plains surrounding the telescope array. Signs and banners reading "Watch the Skies" and "There are Aliens Among Us." Woodstock 1998.
+C: VOICE
+D: ...I know you're angry--we're all angry. About the lies. The corruption. About the cancer of despair spreading through every aspect of our lives. But Rome will fall, my friends; everywhere now are the signs of closure. Even now the end begins.
+E: O.S.
+S: EXT. VLA ENTRANCE - CONTINUOUS ACTION
+N: Various preachers and new age gurus speak to gatherings all along the new cyclone fence surrounding the VLA. We become aware of a crowd concentrated around a young man speaking on a small stage: JOSEPH. He has the appeal of a rock star, albeit a compelling well-spoken one. His AMPLIFIED VOICE RINGS OUT:
+C: JOSEPH
+D: The millennium is upon us. God has fulfilled his promise, sending us this herald to warn the faithless-- the scientists who tell us He doesn't even exist--and to promise us, the faithful, we will be saved.
+N: Beyond Joseph we can see through the shiny new cyclone fence to the VLA building, now surrounded by tents and temporary structures.
+C: JOSEPH
+D: I don't know what this voice from the sky says--but I do know that if history has taught us anything, it's that the politicians and the scientists are lying to us, right now, for their own good! Are these the kind of people you want talking to your God for you--?
+E: O.S.
+S: INT. VLA CONTROL ROOM - DAY
+N: Outside, the panorama window searchlights fan, CROWDS CHANT frightening rhythms. Inside, the numbing, never- ending pulses of the signal and scrolling numbers. The former lounge/cafeteria has been turned into decryption central: dozens of personal workstations, populated with Silicon Valley's finest assortment of techno-wizards, crashed out on cots in a 'round-the-clock effort to break the code. Ellie sips her coffee as she walks briskly through the chaos; Drumlin matches her stride for stride.
+C: DRUMLIN
+D: ...Arrangements also have to be made for the V.I.P.s coming in, mostly religious leaders...
+C: ELLIE
+D: What? Why?
+C: DRUMLIN
+D: The theological ramifications of all this are obvious; the President feels we need to include religious interests rather than alienate them. She's also named Palmer Joss as their liaison; he's requested a meeting with you.
+C: ELLIE
+D: With me.
+C: DRUMLIN
+D: Apparently he's genuinely interested in science. This could be a chance to win him over.
+C: ELLIE
+D: I'm going to convert Mr. Science-is- the-root-of-all-evil? This is absurd, David. We have work to do here, I don't have time to play babysitter to the God Squad.
+C: DRUMLIN
+D: Ellie--
+E: low and dangerous
+N: Ellie looks at him in surprise as he grabs her by the elbow.
+C: DRUMLIN
+D: I want you to listen to me, carefully. The minute the implications of this message became clear, this stopped being simply a scientific matter and became a political one--an extremely complex, extremely volatile one. There are forces at work here you don't understand; I can help you up to a point, but only up to a point.
+C: ELLIE
+D: Are you threatening me?
+E: in innocent wonder
+C: DRUMLIN
+D: It's not a threat, Ellie, it's a fact--if you're not careful, you may find yourself out in the cold very quickly. Play ball. Really. It's good advice.
+N: Ellie stops as she notices through the windows, Lunacharsky stepping out of the decryption area. He's looking right at her.
+C: ELLIE
+D: Excuse me.
+N: ANGLE As Ellie approaches Lunacharsky, something in his eyes tells her there's more to his weary look than just fatigue.
+C: ELLIE
+D: What?
+C: LUNACHARSKY
+D: We've repeated. A few minutes ago the message cycled back to page one.
+C: ELLIE
+D: And?
+C: LUNACHARSKY
+D: No primer.
+C: ELLIE
+D: How can that be?
+E: incredulous
+C: LUNACHARSKY
+D: I don't know. Maybe there is a fourth layer in there somewhere, but if there is, I sure as hell can't find it.
+N: Ellie stares at him--turns to look at Drumlin--then walks out of the room.
+S: INT. ELLIE'S ROOM - NIGHT
+N: Bleary-eyed, three days with no sleep, Ellie sits at her terminal, staring at the hieroglyphics, more impenetrable then ever. In the corner, the TV DRONES.
+C: BERNIE SHAW
+D: ...And with church attendance at record highs, a coalition of religious leaders are using their increased political capital to challenge the very legality of radio astronomy itself, claiming the message and its contents subvert the moral climate of their constituencies. More after this...
+E: V.O.
+N: A CNN special report logo--"The Message," dazzlingly vulgar with its own graphics and there. A COMMERCIAL CONTINUES in the b.g.:
+C: COMMERCIAL ANNOUNCER
+D: In the air, under the sea, in the depths of D.N.A. itself, Hadden Industries is at the frontier...
+E: V.O.
+N: Ellie, chin on forearms, stares at her screen, willing herself to find a pattern. Suddenly she blinks--something is changing. A dot appears in the middle of the screen. It begins to grow, revealing a complex fractal shape. It splits, enlarges, splits again, the shapes finally revealing themselves as... English letters. Which read: "TAKE ME TO YOUR LEADER" Ellie stares--
+C: ELLIE
+D: Someone's broken into the system, someone's compromised the fucking--!
+N: She quickly type in: "Who are you?" The fractals reform" "I'VE GOT A SECRET." Ellie types again: "WHO ARE YOU?" The fractals reform: "YOUR PLACE OR MINE?" Ellie stares--more fractals form as she grabs a pen and paper--
+S: EXT. VLA - NIGHT
+N: National Guardsmen have established a perimeter around the compound; soldiers are posted on the main road as well. As Ellie ROARS through the gate in her 1967 T-BIRD, our VIEW RISES: the new Woodstock nation is, for the moment, asleep.
+S: EXT. HIGHWAY (NEW MEXICO) - NIGHT
+N: Ellie's tense face lit by the dash. She picks up a piece of paper with scribbled directions on it. Turns onto a dirt road.
+S: EXT. HIGHWAY (NEW MEXICO) - LOW ANGLE POV - NIGHT
+N: of Ellie's CAR ROARING by SWINGS to reveal a jackrabbit sitting at the side of the road, its nose twitching.
+S: EXT. DESERT - NIGHT
+N: Ellie's car approaches a small, private airstrip; a black, unmarked helicopter is waiting. HIGH ABOVE UTAH - DAWN The strange rock formations of southeastern Utah almost resemble another planet.
+S: EXT. LARGER AIRSTRIP (UTAH)
+N: As the helicopter sets down, we see two Lear jets and another Helicopter... service vehicles for the enormous Russian transport plane that sits beyond them. A dark-suited Japanese MAJOR DOMO helps Ellie out of the helicopter.
+C: MAJOR DOMO
+D: You should be flattered. He hardly lands for anyone.
+S: INT. TRANSPORT PLANE
+N: The Major Domo leads Ellie down a corridor of the plane's custom interior. Through one door we can see into a room where several very beautiful, very young women sit watching TV with vacant eyes. Ellie only catches a glimpse before the Major Domo nods for her to enter the main room and takes his post outside. Ellie cautiously enters the interior of what appears to be a flying Dacha; dark, heavy on the chintz. Bookshelves, an exercise machine... and a wall of monitors, filled top to bottom with scrolling hieroglyphics. Ellie reaches out to them--
+C: HADDEN
+D: Dr. Arroway, I presume.
+E: O.S.
+N: Ellie turns to see S.R. HADDEN. Thick glasses, wearing a cardigan, he stands by a silver samovar.
+C: ELLIE
+D: S.R. Hadden... You compromised our security codes.
+E: beat
+C: HADDEN
+D: Once upon a time I was a hell of an engineer. Please, sit, Doctor. I have guests so rarely, it's important to me they feel welcome in my home. Did you know this was once Yeltsin's flying dacha? That dent is where he threw a bottle of vodka at the pilot. At least that's what the people who sold me the plane said...
+E: turns to the samovar
+N: As he speaks, he slowly and with great effort raises a glass to the samovar, fills it with tea.
+C: ELLIE
+D: You live here.
+C: HADDEN
+D: I find it convenient to keep my interests... mobile. Anyway, I've had my fill of life on the ground. After spending much of this century pursuing the evils and pleasures the world has to offer--after outliving three wives and two children... I find I've had quite enough of planet Earth.
+E: a bare flicker of emotion
+C: ELLIE
+D: Why am I here, Mr. Hadden?
+C: HADDEN
+D: The infamous, unfashionable bluntness. You're here so we can do business. I want to make a deal.
+E: smiles turning
+C: ELLIE
+D: What kind of deal?
+C: HADDEN
+D: The powers that be have been quite busy lately, falling over each other to position themselves for the game of the century, if not the millennium. Perhaps you've noticed. Perhaps I could help deal you back in.
+E: as Ellie reacts, Hadden smiles
+C: ELLIE
+D: I didn't realize I was out.
+C: HADDEN
+D: Oh, maybe not out--but definitely looking for your coat. I understand you've had some difficulty locating the--what are you calling it? The 'primer' that will make decryption possible... I've found it.
+E: beat he turns to her, simply
+C: ELLIE
+D: You've... found it. What could I possibly have that you would want, Mr. Hadden?
+E: catching her breath
+C: HADDEN
+D: I've had a long time to make enemies, Dr. Arroway. There are many governments, business interests, even religious leaders who would like to see me disappear. And I will grant them their wish soon enough... But before I do, I wish to make a small contribution-- a final gesture of goodwill toward the people of this little planet who've given--from whom I've taken so much.
+C: ELLIE
+D: If I knew you any better I'd say that doesn't sound like you.
+C: HADDEN
+D: That's my girl... Lights.
+E: a dazzling smile then
+N: The lights dim. The wall monitors take center stage.
+C: HADDEN
+D: Forgive the theatrics, it's a weakness.
+N: Hadden pulls on a pair of gloves for an imaginary VR keyboard. He gestures for Ellie to sit beside him, facing the monitors. He begins to type as the monitors scroll hieroglyphics--
+C: HADDEN
+D: Page after page of data--over sixty-three thousand in all, if I'm not mistaken... and at the end of each...
+C: ELLIE
+D: A page-break signal. A period.
+C: HADDEN
+D: Not if you think like a Vegan.
+C: ELLIE
+D: You're saying... there is no separate primer in the message-- because it's on every page so the recipient can decipher it wherever he is--
+C: HADDEN
+D: --even if he doesn't receive the entire transmission. Heaven is the mustard seed.
+N: Hadden ghost-types a series of commands. The monitor wall syncs into a giant vidscreen-- The hieroglyphics begin to enlarge. An almost invisible dot in the lower right corner of the screen--the page- break signal--grows larger and larger, until it reveals a level of complexity and detail greater than that of the hieroglyphics themselves.
+C: ELLIE
+D: Holy shit...
+E: breathless
+N: These new symbols begin to mutate change... something is happening, Hadden leans in to Ellie.
+C: HADDEN
+D: You'll like this part. A little flashy...
+N: ON SCREEN The symbols metamorphose into strange, fractal shapes; like crystals, they begin to grow and shift, interacting in a stunningly beautiful and intricate ballet--
+C: ELLIE
+D: Some kind of circuitry...?
+C: HADDEN
+D: Very good, Doctor. I've also detected structural elements, back references, a general movement from the simple to the complex--all of which would seem to indicate instructions--an enormously complicated set of instructions-- for building something.
+C: ELLIE
+D: A machine. But a machine that does what?
+E: off Hadden's nod
+C: HADDEN
+D: That would seem to be the question of the hour.
+E: smiles MORE
+C: HADDEN
+D: I want to build it, Doctor. Of course I'm already lobbying through the usual channels of influence and corruption--but as I said, my colorful past has made many of those channels... difficult to navigate. I need someone on the inside.
+E: CONT’D turning to her
+C: ELLIE
+D: And in return?
+C: HADDEN
+D: In return... you get the primer-- and with it the power to stay in the game. Do we have a deal?
+N: Ellie pulls herself away from the hypnotic display.
+C: ELLIE
+D: Mr. Hadden, I'm a scientist; I don't make deals... But. If you wish to give me, in good faith, access to your information, I can assure you that I will exert all reasonable efforts to promote your cause wherever it doesn't conflict with the best interests of science... or my better judgment.
+C: HADDEN
+D: That's my girl. Done.
+E: delighted
+N: Ellie turns to watch the screens as the fractals continue to coalesce. Dazzled--
+T: CUT TO:
+S: EXT. CAMP DAVID - AERIAL SHOT - DAY
+N: The snow-covered Presidential retreat in its forest setting.
+S: INT. CAMP DAVID - BRIEFING ROOM - DAY
+N: Charts display a decoded periodic table, the slice of circuitry; monitors scroll through hundreds of decoded pages.
+C: ELLIE
+D: ...And while its function remains, for the moment, a mystery, my best guess is that it represents a transport of some kind.
+C: PRESIDENT LASKER
+D: A transport. So are they coming or are we going?
+C: KITZ
+D: The transport theory is only one hypothesis, Ms. President, and in my view a rather naive one. It could just as easily be some kind of Trojan Horse. We build it and out pours the entire Vegan army.
+E: interrupting
+S: CHAIRMAN OF JOINT CHIEFS
+N: Why even bother to risk personnel? Why not send some kind of doomsday machine? Every time an emerging technological civilization announces itself by broadcasting radio waves into space they reply with a message. The civilization builds it and blows itself up. No expeditionary force needed.
+C: ELLIE
+D: Ms. President, this is communist paranoia right out of War of the Worlds. There is no reason whatsoever to believe the ETIs intentions are hostile. We pose no threat to them--it would be like us going out of our way to destroy microbes on a beach in Africa.
+C: DRUMLIN
+D: Interesting analogy. And how guilty would we feel if we happened to destroy some microbes on a beach in Africa?
+C: KITZ
+D: I hope you're right, Doctor. But right now my job is to protect American lives from any plausible threat, and in that regard I have to assume the worst.
+E: turning to Ellie
+C: RICHARD RANK
+D: From a non-secular perspective, I'm forced to agree.
+N: All heads turn to RICHARD RANK, a surprisingly young and well-spoken spokesman for the religious right.
+C: RANK
+D: My coalition's phone lines have been flooded with calls from concerned families, wondering if this message signifies the end of the world or the advent of the rapture. We feel that U.S. policy in this matter wants to be extremely conservative--if there's any chance of danger or threat to our way of life perhaps the message and its contents should simply be disregarded.
+E: smiles
+C: ELLIE
+D: This is absurd.
+N: Drumlin shoots her a warning look; Rank ignores her.
+C: RANK
+D: The Bible states that God made man in His own image. From everything I've been told it's highly unlikely the creatures who sent this message
+E: MORE
+C: RANK
+D: resemble human beings in any way, shape or form, ergo, they are not of God; and therefore by definition evil. My constituents simply want to know what their government plans to do to protect them--
+E: CONT’D
+C: ELLIE
+D: Ms. President, forgive me but I thought this was to be a serious discussion of policy and technical issues, not a war council against Satan's minions--
+C: PRESIDENT LASKER
+D: Mr. Rank's organization represents the point of view of tens of millions of families, Dr. Arroway. Feel free to disagree, but there won't be any suppressing of opinions here today.
+C: ELLIE
+D: Yes--of course--all I'm saying is, this message was written in the language of science--mathematics --and was clearly intended to be received by scientists. If it had been religious in nature it should have taken the form of a burning bush, or a booming voice from the sky...
+C: JOSS
+D: But a voice from the sky is just what you say you've found.
+E: O.S.
+N: Palmer Joss sits forward in his chair.
+C: JOSS
+D: I agree with Mr. Rank that there are unavoidable religious implications here--but I don't think it justifies taking an alarmist position. Dr. Arroway is right--
+E: MORE
+C: JOSS
+D: their chosen means of communication was a scientific one, and a scientific approach is probably appropriate, at least until the theological dimensions of the problem become more apparent.
+E: CONT’D
+C: ELLIE
+D: And where exactly does that put your position...?
+C: JOSS
+D: I'd have to say I don't know enough to have one yet. For the moment I don't believe the two approaches have to be mutually exclusive.
+N: Ellie looks at him, impressed in spite of herself.
+C: PRESIDENT LASKER
+D: What's the status of the decryption effort?
+C: ELLIE
+D: Well--
+C: DRUMLIN
+D: We're continuing around the clock, but the amount of data is enormous. It's difficult to tell when we'll find the key that will tell us the machine's purpose--maybe tomorrow, maybe next year, maybe never.
+C: PRESIDENT LASKER
+D: I want to know the minute you find anything.
+C: DRUMLIN
+D: Of course, Ms. President. We'll keep you fully informed.
+N: That's the cue; most of the gathered begin to rise, make their way to the door. As Ellie collects her things Drumlin accompanies her out--then starts to shut the door behind her--
+C: DRUMLIN
+D: The President wants to discuss a few matters in private.
+N: As Ellie looks beyond she sees that Kitz, the Chairman of the Joint Chiefs and Joss still remain.
+C: ELLIE
+D: But--
+N: But it's too late. The door closes on the inner circle.
+S: INT. NATIONAL SCIENCE MUSEUM - RECEPTION - NIGHT
+N: Captains of industry, social editors, minority leaders. At least for tonight, scientists are the hottest show in town. Ellie stands with a group of dignitaries, straining to make small talk. As she glances up a familiar face catches her eye: Peter Valerian. He looks up, sees her too. A beat... he whispers something to the young woman he's standing with; she looks up too. They excuse themselves to Drumlin, make their way over.
+C: PETER
+D: Ellie.
+C: ELLIE
+D: Peter.
+N: Peter extends his hand. They shake.
+C: PETER
+D: My wife Laura...
+C: ELLIE/LAURA
+D: Nice to meet you.
+C: PETER
+D: You look wonderful.
+E: an awkward pause, then
+C: ELLIE
+D: You dress up pretty good yourself. How's... the baby?
+E: another awkward silence
+C: LAURA
+D: Wonderful. She's almost four now.
+C: ELLIE
+D: Really. Well. That's wonderful... Well. If you'll excuse me--I'm paid to mingle... I don't believe I just said that.
+E: a really horrible silence
+N: Peter and Laura laugh. Some of the tension is diffused. Some.
+C: PETER
+D: It's good to see you, Ellie.
+C: ELLIE
+D: You too.
+N: She manages a smile, quickly hurries away. AT THE BAR Ellie has never needed a drink more in her life.
+C: ELLIE
+D: Champagne please.
+C: JOSS
+D: Make that two.
+E: O.S.
+N: Ellie turns to find Joss, looking terrific in his tux.
+C: JOSS
+D: Want to fight some more?
+N: A long, extremely complex pause, then--
+C: ELLIE
+D: Yes.
+S: INT. ANOTHER PART OF MUSEUM - NIGHT
+N: Their voices and FOOTSTEPS ECHO as they walk past old spacecraft. They sip their champagne.
+C: JOSS
+D: ...What I'm curious about are the wilderness years. You're out there all alone, no money, mocked by the skeptics. It must have taken tremendous faith.
+C: ELLIE
+D: I'd say logic more than faith. The odds were on my side.
+C: JOSS
+D: And what would you have done if the odds had gone against you?
+C: ELLIE
+D: I guess I would've felt sorry for the universe.
+C: JOSS
+D: Spoken like a true believer.
+C: ELLIE
+D: What about you? Doesn't all of this shake your faith at all?
+C: JOSS
+D: How do you mean?
+C: ELLIE
+D: Well it's been a while, but I don't recall the Bible saying too much about alien civilizations.
+C: JOSS
+D: 'My father's house has many mansions.'
+E: thinks, then
+C: ELLIE
+D: Very smooth. It's Palmer, right? Where I came from a palmer was a person who cheated at cards. Really though... the Bible describes a God who watches over one tiny world a few thousand years old. I look out there and see a universe of hundreds of billions of galaxies, each with hundreds of billions of stars... I mean burn me for a heretic, but your God seems awfully small.
+E: as Joss laughs
+N: Joss looks at her--challenged, intrigued. Slowly:
+C: JOSS
+D: Who was it who said--it was a scientist I think--that one's sophistication is determined by the ability to tolerate paradox--to hold contradictory ideas at the same time...
+N: They approach a circular brass railing surrounding a circular mosaic below; at its center is a Foucault pendulum; a basketball-sized iron sphere suspended from the ceiling. They lean on the railing.
+C: JOSS
+D: ...which I suppose is as good a definition of faith as any. Care to test yours?
+E: getting an idea; smiles
+N: He takes her champagne glass, sets it down on the floor alongside his, then climbs under the rail. At her surprise--
+C: JOSS
+D: It's okay. I'm a preacher.
+N: He offers her his hand. She takes it, climbs under the railing. Joss helps her down into the circular space below.
+C: JOSS
+D: Your 'faith' tells you that the distance a pendulum swings from the vertical can never get bigger, only smaller.
+C: ELLIE
+D: That's not faith, it's physics. The second law of thermodynamics.
+N: Joss places his arms around the metal ball and walks it over to the outer rim of the circle, right in front of Ellie's nose.
+C: JOSS
+D: And you believe this law with all your heart and soul.
+C: ELLIE
+D: And mind, yes. What are you--
+C: JOSS
+D: So if I let the pendulum go, when it swings back you wouldn't flinch.
+N: Ellie pauses. Then, almost curiously.
+C: ELLIE
+D: No.
+N: Joss lets go. We see the ball fall away and reach the opposite railing. As it slows and then reverses direction it appears to approach much faster than we expected.
+C: JOSS
+D: Don't lean forward. Not even a hair.
+N: As it careens towards her, the ball grows alarmingly in size. We understand completely when the pendulum almost reaches her and she instinctively moves. But Ellie can't believe it.
+C: ELLIE
+D: I flinched.
+C: JOSS
+D: Only a tiny bit. Even the most devout believer is allowed a little doubt.
+C: ELLIE
+D: That's not doubt. That's four hundred years of science fighting a billion years of instinct. I always wondered what you religious types did with your free time.
+E: studying him
+C: JOSS
+D: Now you know.
+S: EXT. NATIONAL SCIENCE MUSEUM - NIGHT
+N: Stars shine down as Ellie and Joss walk along the portico. The party continues inside. The mood is subdued, intimate.
+C: JOSS
+D: ...It's an old story. I grew up in South Boston, more or less on the streets. By the time I was thirteen I'd tried my first hit of heroin, by fifteen I'd stopped using but I was dealing full-time. By the time I was nineteen I decided I didn't want to live anymore, at least not in a world like that. One day I got on a bus; I got as far as Ohio before my money ran out, and after that I just kept walking. Didn't eat, didn't sleep... just walked. I ended up collapsing in a wheat field. There was a storm... I woke up... And that's about as far as words'll go.
+E: beat
+C: ELLIE
+D: Can you try?
+C: JOSS
+D: I had... an experience. Of belonging. Of unconditional love. And for the first time in my life I wasn't terrified, and I wasn't alone.
+C: ELLIE
+D: And there's no chance you had this experience simply because some part of you needed to have it?
+E: delicately
+C: JOSS
+D: Look, I'm a reasonable person, and reasonably intelligent. But this experience went beyond both. For the first time I had to consider the possibility that intellect, as wonderful as it is, is not the only way of comprehending the universe. That it was too small and inadequate a tool to deal with what it was faced with.
+C: ELLIE
+D: You may not believe this... but there's a part of me that wants more than anything to believe in your God. To believe that we're all here for a purpose, that all this... means something. But it's because that part of me wants it so badly that I'm so stubborn about making sure it isn't just self-delusion. Of course I want to know God if there is one... but it has to be real. Unless I have proof how can I be sure?
+E: a beat, then softly
+C: JOSS
+D: Do you love your parents?
+C: ELLIE
+D: I never knew my mother. My father died when I was nine.
+E: startled
+C: JOSS
+D: Did you love him?
+C: ELLIE
+D: Yes. Very much.
+E: softly
+C: JOSS
+D: Prove it.
+N: Ellie stops and looks at him, truly disarmed. And then, inside, a COMMOTION is heard.
+S: INT. NATIONAL SCIENCE MUSEUM - NIGHT
+N: The party is suddenly and dramatically breaking up; Senators on cell-phones, getting their coats. Something has happened. Ellie finds Drumlin in the chaos, also on a cell-phone; he hangs up as she approaches.
+C: ELLIE
+D: What is it? What's happened?
+C: DRUMLIN
+D: We've cracked it. Lunacharsky found it.
+C: ELLIE
+D: You mean--
+C: DRUMLIN
+D: You were right, Ellie. You were right all along.
+N: As Ellie stares at him--
+T: CUT TO:
+S: EXT. U.N. PLAZA - DAY
+N: Media, onlookers, crowd control--and delegates from over 100 countries swarm as the World Machine Consortium is called to session. TV lights and demonstrations. Huge banners read "DON'T BUILD SATAN'S CHARIOT!" and "WHO WILL SPEAK FOR EARTH?"
+S: INT. U.N. GENERAL ASSEMBLY HALL
+N: Full house. From various HEADSETS and MONITORS we hear the POLYPHONY of a hundred simultaneous TRANSLATIONS. On a large screen behind the SECRETARY GENERAL'S podium and on monitors all over the darkened room we see a single, striking image: A human figure inside a rotating dodecahedron.
+C: SECRETARY GENERAL
+D: A human has been summoned.
+N: In the darkened hall we FIND the U.S. delegation: Kitz, Joss, Drumlin--and Ellie. We begin to PUSH IN ON her--
+C: SECRETARY GENERAL
+D: Who will that person be? How will this ambassador be chosen?
+N: We see it in her eyes--she wants to go, more than anything.
+S: INT. U.N. - LATER
+N: An INDIAN DELEGATE concludes her remarks. In the audience Ellie, deep in thought, isn't paying attention.
+C: INDIAN DELEGATE
+D: ...of course none of us would be here if it weren't for the scientist who first discovered the history- making message and who has led this effort from the very beginning-- Dr. Eleanor Arroway--
+N: ELLIE looks up in surprise. The applause grows, becoming deafening. People motion for her to stand. Dazed, she does so. The ovation continues. Ellie leans over to speak into her mike.
+C: ELLIE
+D: Um... thanks... Thanks very much. I'm not sure what I did to earn that response; I just happened to pick up the phone when they called.
+N: A big laugh, more applause. Ellie squints into the lights.
+S: EXT. U.N. PLAZA - DUSK
+N: Floodlights illuminate the building; if anything, there are now more onlookers and media. The woman BBC Reporter and her camera crew try to shoot their report amid the noise and chaos.
+C: BBC REPORTER
+D: ...and as the curtain falls on the first day of the symposium the question remains: who will build this machine, if it indeed will be built--and if it is, who will be selected as the Earth's first ambassador to another world. This is Marjorie Blake, B.B.C.3, at the U.N.
+N: She holds--
+C: VOICE
+D: We're clear.
+E: O.S.
+N: And the Reporter instantly sags.
+S: INT. U.N. LOBBY - SAME TIME
+N: The event is breaking up; people making their way out. Ellie waits for Drumlin to come out; goes after him--
+C: ELLIE
+D: David--
+C: DRUMLIN
+D: Ellie.
+C: ELLIE
+D: Do you have a minute--?
+C: DRUMLIN
+D: Actually I'm running late--
+C: ELLIE
+D: It'll just take a moment.
+N: Drumlin reluctantly stops; Ellie takes a deep breath.
+C: ELLIE
+D: David... I know we've had our differences... but I've always thought of you as a fair man, even when we've disagreed--and it's in that light I'm hoping you'll consider my request...
+C: DRUMLIN
+D: I don't understand.
+C: ELLIE
+D: I'm asking for your help, David. I want to go. They'll need someone relatively young, unattached--and probably a scientist. As the President's Science Advisor you have enormous weight... I'm asking if you'll support my candidacy.
+E: quickly
+C: DRUMLIN
+D: Ellie... you should know that I'm no longer the President's Science Advisor.
+E: slowly
+C: ELLIE
+D: What?
+C: DRUMLIN
+D: As of three o'clock this afternoon. I submitted my resignation.
+N: Ellie's eyes open wide as the depth of his betrayal dawns.
+C: ELLIE
+D: You...
+C: DRUMLIN
+D: Excuse me, I'm late for a meeting.
+E: hesitates, then
+N: He turns and walks away, leaving Ellie to stare after him.
+C: PRESIDENT LASKER
+D: ...And as our parents did a generation before us...
+E: V.O.
+S: INT. U.N. GENERAL ASSEMBLY HALL
+N: Packed to the rafters. President Lasker makes the speech of her lifetime, her booming, amplified voice going out to the world.
+C: PRESIDENT LASKER
+D: ...I believe we should dedicate ourselves, by the end of this decade --to build this machine that our brothers from across the vastness of time and space have asked us to build--!
+N: In the darkened hall the American delegation sits watching. PUSH IN ON Ellie. Drumlin. The crowd roars. THREE APACHE HELICOPTERS fly low over the endless Texas landscape, blue-gray in the light of pre-dawn. Below a convoy of military vehicles moves down an empty road.
+C: PRESIDENT LASKER
+D: To meet with courage and determination the challenges of this new day--!
+E: V.O.
+N: The CROWD ROARS LOUDER in VOICE OVER. MOVING WITH the convoy... AFS Berets sit stone-faced, barely visible. UP ahead the twinkling lights of an installation becomes visible. The convoy passes through a security gate in the first perimeter. AFS officers check I.D. and cargo. As the convoy continues our VIEW begins to RISE, REVEALING three more checkpoints beyond--
+C: PRESIDENT LASKER
+D: To greet with hope the dawn of this new Century!
+E: V.O.
+N: Our VIEW continues to CLIMB, REVEALING an immense sprawl of lights and buildings. Concentric electric fences surround the rambling facility; new roads are still being added to old ones. Encircling the installation is a vast graveyard of discarded aircraft--the detritus of Twentieth Century war-making. And in the center of it all lies an enormous open area, its very emptiness full of danger and promise. Orange surveying FLAGS RUFFLE in the BREEZE.
+C: PRESIDENT LASKER
+D: And to raise our voices to the heavens as one world, one people, in one ringing, defiant declaration-- bring on the millennium!
+E: V.O.
+N: The ROAR of the CROWD is deafening. The sun begins to rise over the new Los Alamos.
+T: HARD CUT TO:
+S: INT. OBSERVATION FACILITY (MACHINE, TEXAS) - DAY
+N: An enormous multi-tiered room bustling with activity. The main floor consists of tables devoted to various constituents of the international selection committee; each area devoted to a different discipline: medical, psychological, philosophical, religious, diplomatic/political, and military/communications. The room is dominated by ten enormous overhead viewscreens, each monitoring the activity of one of the ten machine candidates while also displaying telemetry readouts of their vital signs. One candidate is undergoing a psychological evaluation, another is visible via infrared camera in a sensory deprivation tank; another on a treadmill, another sleeping (EEG displayed); we also catch brief glimpses of Ellie and Drumlin. All are watched with great interest by the committee members swarming on the floor. A level above the floor and looking out over it THROUGH large floor to ceiling windows is the pool media area; a group of REPORTERS and camera crews allowed limited access, with blue-badged MACHINE SECURITY carefully monitoring their every word. As we MOVE THROUGH the maelstrom we COME ACROSS a familiar face...
+C: REPORTER
+D: I'm here with Peter Valerian, recently named David Drumlin's replacement as Science Advisor to the President. Doctor, there were loud complaints from the international community last week when it was announced that three of the ten candidates--were to be Americans. How do you defend that decision?
+C: PETER
+D: I believe the response was somewhat disingenuous; when it was determined that national interests would be represented on a pay for play basis it was understood that the U.S., by shouldering close to one third of the financial burden, would be entitled to commensurate representation.
+E: a bit nervous
+N: INSERT - TV MONITOR
+C: REPORTER
+D: You've addressed the political side of the coin but what about the larger issues? On what basis do you choose a human being to represent humanity?
+E: V.O.
+N: We begin to WIDEN REVEALING our location in the back of a news van, crammed with broadcasting equipment. An engineer monitors the signal.
+C: PETER
+D: It's a good question. Who do you send? An athlete? A religious leader? A philosopher? A soldier? If you don't know what the Olympic event will be, you send a decathlon champion--
+E: V.O.
+C: REPORTER
+D: And if the event turns out to be chess?
+E: V.O.
+C: PETER
+D: Yes... well, ultimately it was decided that the representative should be somebody fluent in the language the message was sent in-- science. If you'll excuse me--
+E: V.O.
+N: We have continued to WIDEN, finally PULLING OUT the back of the van and CRANING UP to reveal--
+S: EXT. MEDIA CITY (MACHINE, TEXAS) - DAY
+N: A vast encampment of vans, tents, reporters and satellite dishes; print and video journalists from every nation. Competing twenty-foot high skyboxes from various networks overlook the action. Our VIEW continues to CLIMB until finally in the distance, wavy and hard to make out THROUGH the LONG LENS, we can see a structure beginning to rise. Our first glimpse of the machine.
+C: CNN REPORTER
+D: ...and if you look closely you can just see the superstructure beginning to take shape. Construction on this trillion dollar plus effort has been complicated by the nearly unprecedented scale...
+S: INT. OVAL OFFICE - CONTINUOUS ACTION - DAY
+N: President Lasker leans back, watching the same wavy image on the television. Also visible are a number of closed- circuit monitors showing candidates. Kitz standing behind her, also watching.
+T: CUT TO:
+S: EXT. MACHINE, TEXAS - SERIES OF SHOTS - DAWN
+N: Bulldozers break earth as the human-designed support structure continues to rise. Trucks emerge from huge transport planes, carrying enormous curved reflectors.
+S: INT. LAB (MACHINE, TEXAS)
+N: Two robotic arms holding flasks of liquid are maneuvered over a petri dish. Scientists watch THROUGH the safe- chamber window as a drop from each flask is carefully placed in the dish. Another robot arm takes the dish and slides it under an electron microscope. ELECTRON MICROSCOPE VIEW Tiny crystals are forming in familiar, unearthly fractal patterns. Something is growing.
+S: EXT. MACHINE SITE - DAY
+N: An enormous high-tech crucible has been erected; gantries and support structures rise above it. From behind a series of protective plastic veils we see the same chemicals we saw in the lab again being carefully mixed together, this time in much larger proportions. WIDE SHOT - MACHINE SUPERSTRUCTURE - DAY PULL BACK to reveal Ellie standing at the window of her quarters, wearing a white jumpsuit. She slowly folds her street clothes as she looks out at the machine.
+S: INT. CENTRIFUGE ROOM - DAY
+N: One by one the candidates are whipped around the centrifuge, subjected to higher and higher G-forces. A hard-eyed NASA COMMANDER watches carefully, checks the control panel.
+S: INT. OBSERVATION FACILITY - DAY
+N: The two hundred members of the ISC watch each of the candidates' reactions. FEATURE Joss, studying the screens intently-- For CAPTAIN JOHN RUSSELL, a classic chiseled Astronaut type, this is as easy as breathing. For Drumlin it's not quite that, but he takes it, stoically. A flaxen-haired male candidate--the French semioticist (JEAN-CLAUDE)--looks like he's about to throw up. Ellie seems to be enjoying herself tremendously.
+S: INT. CORRIDOR - DAY
+N: Ellie, Drumlin and the eight other candidates, several still a bit wobbly, follow the Commander down a corridor. Jean-Claude wipes his face with a towel as he sounds off.
+C: JEAN-CLAUDE
+D: You realize how absurd this is. There are no precedents here; all training models are useless. Trying to turn us all into astronauts is a pathetic waste of time.
+N: The Commander turns to him.
+C: COMMANDER
+D: You know what, sir? You're right. We have no idea whatsoever what one of you may encounter. That leaves us with two options: we can sit around and do nothing and hope for the best, even if that includes a few things that feel a little silly. And if one of these 'silly' exercises ends up saving your life I'll have done my job.
+N: Jean-Claude raises an amused eyebrow, smokes his Gauloises. HUGE MULTI-TENTACLED BEING flashes on the screen, followed immediately by another and another--a rapid series of images of creatures waving grotesque stalked appendages, horrific and bizarre. ANGLE ON ELLIE sitting alone in a single chair, watching the images flash on an enormous screen. Hardened.
+S: INT. OBSERVATION FACILITY - CONTINUOUS ACTION - DAY
+N: A panel of PSYCHOLOGISTS closely monitor Ellie's reaction on the monitors. A PROJECT OFFICIAL approaches, watches the monitors as he sips from a Styrofoam cup.
+C: PROJECT OFFICIAL
+D: How long now?
+C: PSYCHOLOGIST
+D: Going on five hours.
+C: PROJECT OFFICIAL
+D: Ugly little suckers.
+C: PSYCHOLOGIST
+D: Yeah. And those are only the ones that live on the human body.
+N: We MOVE AWAY FROM them to find another figure, standing silently watching the screens. Joss.
+S: INT. CONFERENCE ROOM - SERIES OF DISSOLVES - DAY/NIGHT
+N: as we CIRCLE the table, CONDENSING MONTHS of arguments and discussions. Trays of uneaten food pile up, whiteboards become colored with scribbled questions--
+C: NIGERIAN CANDIDATE
+D: ...but even if somehow it has faster than light capacity it is still twenty-six years to get to Vega--
+C: ELLIE
+D: That's from the point of view of someone on Earth--from the traveler's point of view it'll only seem like two years...
+C: RUSSELL
+D: ...the fact is, nobody here knows what's gonna happen when one of us enters that thing. We can guess all we want, but in the end... we just don't know...
+T: INTERCUT WITH:
+S: INT. OBSERVATION FACILITY - SERIES OF DISSOLVES
+N: The members of the philosophical committee watch, make notes, argue passionately. The discussion continue on screen:
+C: DRUMLIN
+D: ...Two years is still a hell of a long time--and as far as we can tell there aren't any provisions in the machine design for storing food, water, even air...
+E: V.O. on screen
+C: ELLIE
+D: ...I can't believe they wouldn't take something as basic as our biological needs into account...
+C: RUSSIAN CANDIDATE
+D: Based on what evidence? As far as we know all they know about us is what they've learned from watching three minutes of German television... even if they do not mean to do damage they may do so inadvertently. Look at the impact they've had on the world by simply sending the message...
+C: ELLIE
+D: ...we're not looking at this from their point of view. It's the first time this has happened to us but it's highly unlikely that's true for them as well. Chances are they've been doing this for thousands if not millions of years...
+E: V.O. on screen
+T: CUT TO:
+N: SAME - REAL TIME
+C: DRUMLIN
+D: They knew our level of development. If, as you say, they've done this many times they'd be well aware of the implications.
+C: ELLIE
+D: Maybe they are. Maybe this is all part of the package. The building of the machine has demanded international cooperation on an unprecedented scale. Maybe requiring us to come together in this way was, in effect, part of the plan.
+C: JEAN-CLAUDE
+D: Very well. Assume this is true. Assume they have only the best of intentions. Suppose they decide to just step in and solve all our problems for us. You have no objection to them so flagrantly intervening in human affairs?
+C: ELLIE
+D: We've just lived through a century of incredible violence and self- destruction. Do you call it 'interventionist' when you stop a toddler from walking in front of a truck?
+N: Before anyone can reply an out-of-breath ASSISTANT enters.
+C: ASSISTANT
+D: Sorry to bother you but they just got some tape in from Japan--I think you're gonna want to see this.
+S: INT. MAIN TESTING HANGER (MACHINE, TEXAS) - DAY
+N: The vast hanger serves as home for a series of new labs and testing areas--state of the art, gleaming and high- tech. Engineers, scientists, security, and technicians wearing blue jumpsuits and security badges are everywhere.
+C: FEMALE P.A. VOICE
+D: Component test C-4-90 commencing in T-minus three minutes. All personnel clear bay twelve; repeat, clear bay twelve--
+E: V.O.
+N: We FIND Ellie. Drumlin and the rest huddled around a large monitor. Also present is TEAM LEADER--cool, level-headed, solid. The ultimate line producer.
+C: TEAM LEADER
+D: This just came in from systems integrations in Hokkaido.
+N: He presses play. The monitor shows a large, apparently empty lucite chamber. A clock showing tenths and hundredths of a second is inset into the screen.
+C: TEAM LEADER
+D: The chamber contains an exotic substance manufactured according to message specifications. In its normal state it appears as you see it, a transparent gas which is apparently breathable. As you'll see, it also has some other... unusual properties.
+N: A Japanese technician places his hand inside a waldo, picks up a REVOLVER. He aims it into the chamber, FIRES-- --as then we see the bullet slow, coming to a dead stop in mid-air. We see the same thing again, this time in slow motion. As we watch, the air in the chamber seems to thicken around the bullet, changing from a gas to liquid, from gel-like colloidal to diamond-hard solid in a tenth of a second.
+C: TEAM LEADER
+D: The substance appears to have intelligent multiphasic properties; able to shift states at will. We believe it may function as some sort of transport medium.
+C: DRUMLIN
+D: Now I know why the Japanese gave up having a candidate in exchange for licensing rights...
+C: ELLIE
+D: How does it work?
+C: TEAM LEADER
+D: We have no idea. According to all known physical laws it shouldn't.
+C: ELLIE
+D: Magic...
+E: murmurs
+C: TEAM LEADER
+D: What you haven't seen is what occurred when a technician went into the chamber to retrieve the bullet... As I said, the substance had already been deemed breathable after extensive tests on laboratory animals.
+E: looks at her, then
+C: DRUMLIN
+D: What happened?
+N: The Team Leader pushes play. We see the action as he describes it:
+C: TEAM LEADER
+D: There was apparently an aqueous residue covering part of the chamber floor. The technician slips. As he falls the substance hardens around him, breaking his fall...
+N: We see the technician as his fall slows--and then he suddenly convulses--and then stops, suspended at an odd angle slightly above the ground. He doesn't move. Ellie, Drumlin and the other candidates watch in horror.
+C: TEAM LEADER
+D: ...and solidifying in his lungs and bloodstream, killing him instantly.
+C: ELLIE
+D: Maybe... maybe it was an anomalous reaction. Maybe when it's correctly integrated with other components of the machine...
+E: shaken
+N: She looks again to the eerie sight of the suspended dead technician. Team Leader snaps off the monitor.
+C: TEAM LEADER
+D: Maybe. Unfortunately that's all we have is maybes, increasing exponentially every day. This machine is now building itself as much as we're building it. Almost as if it's growing, evolving...
+N: They all take this in... then instinctively look out the hanger doors at the structure taking shape in the field beyond, now rising to a height of twelve stories. We PUSH IN ON it...
+C: TEAM LEADER
+D: It's scary, folks. We're like cavemen building a nuclear warhead. We are constructing the most advanced, dangerously powerful... whateveritis in the history of the planet and we don't have a fucking clue how we're doing it.
+E: O.S.
+N: CLOSE ON WHITE TABLETOP A very sleek, low profile helmet is set down; four tiny lenses visible near the temples.
+C: PROJECT LEADER
+D: Personal recording unit.
+E: V.O.
+S: INT. CLEAN ROOM - DAY
+N: Ellie, Drumlin sit around a table with other candidates.
+C: PROJECT LEADER
+D: Normal, infrared, ultraviolet, stereoscopic lenses, digital microchip good for thousands of hours of recording, state of the art, very tough, casting good to 15,000 degrees plus or minus.
+C: DRUMLIN
+D: 15,000 degrees... isn't that a little excessive?
+C: PROJECT LEADER
+D: Well, sir... the thinking was...
+E: hesitates
+N: A Project Official at the back of the room steps forward.
+C: PROJECT LEADER
+D: The thinking was that even if the passenger were to encounter conditions that were... extreme... there still might be a chance to retrieve the helmet.
+S: INT. OBSERVATION FACILITY
+N: The members of the committee intently study the candidate's reaction on the monitors; Drumlin, Ellie. Captain Russell frowns.
+S: EXT. AMMUNITION RANGE - DAY
+N: A hand holds a small, unassuming object. It looks a little like a car alarm beeper you'd find on a key chain.
+C: PROJECT LEADER
+D: Lightweight, easily concealable...
+N: Project Leader points the DEVICE at a six-inch thick steel target five hundred yards away. FIRES. The target is instantly and efficiently vaporized. Project Leader turns to the assembled candidates.
+C: PROJECT LEADER
+D: ...and good for approximately one thousand uses.
+C: ELLIE
+D: Does it dice and make julienne fries?
+C: PROJECT OFFICIAL
+D: You have a question, Dr. Arroway?
+C: ELLIE
+D: I question the thinking behind sending the first ambassador to another civilization in armed-- basically announcing our intentions are hostile.
+C: PROJECT OFFICIAL
+D: It's designed purely as a defensive device. Call it a reasonable precaution.
+C: ELLIE
+D: Call it xenophobic paranoia. Don't you see the absolute absurdity of this? This isn't about them, it's about us--our violence, our fear and mistrust--
+C: PROJECT OFFICIAL
+D: Dr. Arroway, you are entitled to your opinion. But we feel quite strongly that it would by both irresponsible and naive to send a
+E: MORE
+C: PROJECT OFFICIAL
+D: human being into a completely unknown, completely uncontrollable situation absolutely defenseless.
+E: CONT’D
+C: ELLIE
+D: Y'know what? Fine. I guess if we want them to know the truth about who we are there's no quicker way to show them.
+S: INT. ELLIE'S QUARTERS - PRE-DAWN
+N: Ellie walks out of the bathroom in her robe, brushing her teeth. She sees an envelope slipped under the door. She picks it up and opens it, glances over the typed agenda. Her eye comes to something that stops her.
+S: INT. SMALL BRIEFING ROOM
+N: Dark, windowless, a single lamp on. Ellie waits at a small table, not sure what to expect. After a moment the door opens as a PHYSICIAN enters, 50's, paternal.
+C: PHYSICIAN
+D: Good morning, Dr. Arroway.
+C: ELLIE
+D: Good morning.
+N: He sits down opposite her. Looks her over for a moment... then carefully removes a small pillbox from his jacket pocket. He opens it, removes a small red pill and sets it down on the table. Ellie looks up at him.
+C: PHYSICIAN
+D: We've been giving them to the astronauts since the first days of the Mercury program; of course it's never been made public. It's fast and painless. As soon as it hits the oral mucosa it starts to work-- a matter of seconds, really.
+S: INT. MONITORING ROOM - DAY
+N: Joss and the other members of the committee all study Ellie's reaction intently on the monitor. The same scene is playing out simultaneously with the other nine candidates on other monitors.
+C: ELLIE
+D: You want me to travel all the way to Vega to commit suicide?
+E: V.O. on monitor, dryly
+C: PHYSICIAN
+D: Doctor, despite your enduring faith that the civilization in question has only our best interests at heart, even you have to admit there's a possibility they might turn out to be... less than benign.
+E: V.O. on monitor
+N: BACK TO ROOM
+C: PHYSICIAN
+D: And even if they aren't, something else may go wrong. There may be an unforeseen mechanical failure. You may be marooned, unable to return. There are a thousand reasons we can think of for the occupant of the machine to have this with them-- but mostly it's for the reasons we can't think of.
+N: BACK TO MONITORS Joss. Watching. We LEAVE him and onscreen Ellie and MOVE TO Captain Russell's monitor. He is also looking at the pill--
+S: EXT. HOUSTON SUBURBAN HOME - BACK YARD - DAY
+N: Scores of REPORTERS around a back yard swingset where Russell holds his LITTLE GIRL.
+C: REPORTER
+D: Say it again? What did you tell your daddy?
+E: mike in her face
+C: RUSSELL'S LITTLE GIRL
+D: I don't want you to go.
+C: RUSSELL
+D: Nothing would give me more pride than to represent my country and my world. But what do you say to that?
+S: INT. ELLIE'S QUARTERS - NIGHT
+N: Ellie sits on her bed watching the replay of the Russell interview on TV. Studies the Little Girl's smiling face as she hugs her dad.
+S: EXT. MACHINE - RESIDENTIAL AREA - DAY
+N: Ellie pulls out in her T-Bird. As she drives toward the perimeter she sees a figure walking toward her. Joss. He sticks out a thumb.
+S: EXT. TEXAS COUNTRYSIDE - DAY
+N: Ellie tears down the highway, wind whipping her hair. Joss is pushed back in his seat, enjoying himself immensely. He yells over the WIND'S ROAR:
+C: JOSS
+D: You like to drive fast.
+N: Ellie nods. Floors it.
+S: EXT. MOUNTAINS - DAY
+N: A beautiful meadow, a trickling stream. Ellie and Joss walk.
+C: ELLIE
+D: So. Is this kosher fraternizing with the enemy like this?
+C: JOSS
+D: Some of my best friends are scientists.
+C: ELLIE
+D: I was referring to the selectees mingling with the selectors.
+C: JOSS
+D: Some of my best friends are scientists. They're saying the machine is alive.
+E: pausing as Ellie smiles
+C: ELLIE
+D: Not exactly. It has organic qualities, but we don't really understand how they're integrated with the mechanical systems.
+C: JOSS
+D: Maybe you're creating a monster.
+C: ELLIE
+D: I don't think so.
+C: JOSS
+D: Why?
+C: ELLIE
+D: It's too... elegant. The degree of economy is extraordinary; it's really the next logical step... Even on Earth technology has always aspired to a condition of nature. D.N.A. outclasses any computer we can come up with; the human body is the most exquisitely designed machine imaginable.
+C: JOSS
+D: In other words, God is one hell of an engineer.
+C: ELLIE
+D: In other words.
+E: sideways smile
+N: They sit under a tree, pick at the grass.
+C: JOSS
+D: Relativity. Explain this to me one more time... even if you traveled near the speed of light, when you came back--
+C: ELLIE
+D: If you came back.
+C: JOSS
+D: If you came back... you'd only be four years older--but over 50 years would have passed on Earth.
+E: after a beat
+C: ELLIE
+D: Something like that.
+C: JOSS
+D: And everybody you care about would be dead and buried.
+N: Ellie looks up at him.
+C: ELLIE
+D: If you came back. If you survived at all. Which it's pretty certain you wouldn't.
+C: JOSS
+D: You're willing to die for this.
+C: ELLIE
+D: It's what my whole life's been... aimed at; the only thing that's given it a sense of purpose.
+N: She looks away. A beat, then:
+C: ELLIE
+D: I read your book.
+C: JOSS
+D: Really.
+C: ELLIE
+D: Losing Faith: The Search For Meaning In the Age of Reason. Catchy.
+C: JOSS
+D: What'd you think?
+C: ELLIE
+D: I'm more interested in the story behind the story... How a young man goes from living on the streets of South Boston to being the best- selling media figure rubbing elbows with the President.
+C: JOSS
+D: I won't deny I was ambitious. When I had my... experience... I wanted to tell my story to as many people as possible. I'm the first to admit that process included making some compromises. You didn't answer my question.
+E: after a pause still seems troubled; then
+C: ELLIE
+D: I thought it was well-written. Heart-felt. And a little bit naive... But that's just the enemy's perspective.
+C: JOSS
+D: I don't consider you the enemy, Ellie. I'm not 'out to get' technology. I only ask the question: Does it have to have all the answers? I look out there and I see so much emptiness... People are so starved for meaning, and it's
+E: MORE
+C: JOSS
+D: something they just don't seem to be getting from science.
+E: CONT’D
+C: ELLIE
+D: Did you ever stop to think that maybe that isn't science's fault, but meaning's?
+C: JOSS
+D: I don't follow.
+C: ELLIE
+D: Maybe the reason people are having trouble finding meaning isn't because science has obscured it... maybe it's just revealed it isn't there.
+E: quietly
+N: Now it's Joss' turn to be disarmed. He looks at her; softly:
+C: JOSS
+D: Do you really believe your life is meaningless?
+C: ELLIE
+D: I don't know. But as a scientist I have to consider that possibility.
+E: looking away
+C: JOSS
+D: And yet you're willing to die for this cause, the one thing that's given your life a sense of purpose. Don't you see the contradiction here--?
+C: ELLIE
+D: It's getting late...
+C: JOSS
+D: What are you so afraid of, Ellie?
+C: JOSS
+D: You're shaking. You're the paradox here, Ellie. So incredibly brilliant, and yet... What does it feel like to understand everything in the universe except yourself?
+E: fascinated softly
+N: She stares at him--Joss, instantly regretting his words--
+C: JOSS
+D: Ellie--
+C: ELLIE
+D: It's late. We should go back.
+N: She stands and starts walking briskly down the hill.
+S: EXT. MEDIA CITY - NIGHT
+N: The skyboxes lit up, the satellite dishes aimed at the stars. Grips smoke, play cards. Up in a skybox a reporter vamps.
+C: REPORTER
+D: ...With the machine nearing completion and final testing beginning next week, tomorrow's round of closed-door I.S.C. candidate interviews would bring to a close this long chapter of the machine drama...
+E: V.O.
+S: INT. MAIN AUDITORIUM (MACHINE, TEXAS) - DAY
+N: Ellie is seated alone at a long table, opposite the entire ISC. The atmosphere is formal and tense.
+C: ELLIE
+D: ...Another question I would ask would be a very simple one. How did
+E: reading from her notes MORE
+C: ELLIE
+D: you do it? How did you evolve as far as you have and not destroy yourselves?
+E: CONT’D
+C: JOSS
+D: An excellent question, Doctor. But what if we don't like the answer?
+C: ELLIE
+D: How do you mean?
+C: JOSS
+D: What if their answer is, 'Oh, that's easy. A thousand years ago our world was in terrible shape, our population out of control, violent crime, no food... so we called a general council and decided to eliminate the anti-social. The weak. The sick. The unwanted. And ever since we've been doing great.'
+C: PROJECT OFFICIAL
+D: I think Reverend Joss raises an excellent point. I believe we should discuss the formation of a panel to review any potentially delicate communications before... am I amusing you, Dr. Arroway?
+N: Ellie is smiling grimly to herself, shaking her head.
+C: ELLIE
+D: You kill me, you really do. The first truly global, a-political event in history and you can't wait to spin it.
+C: PROJECT OFFICIAL
+D: How would you propose we handle it, Doctor?
+C: ELLIE
+D: I guess I'd say I trust us enough to believe our response would be
+E: MORE
+C: ELLIE
+D: something to the effect of, thanks for the advice, but no thanks. But to dilute or censor the truth, for whatever reason--
+E: CONT’D
+C: PROJECT OFFICIAL
+D: Nobody is proposing we censor the truth here, Doctor. We're simply talking about putting a mechanism in place--
+C: ELLIE
+D: For managing the truth. But the truth won't be managed, sir. It stops being the truth the moment you try.
+N: OFF Joss-- SAME SCENE - LATER Ellie is making her final, prepared remarks to the committee.
+C: ELLIE
+D: I don't claim to be a perfect example of the human species... far from it. But I think, paradoxically, that's my strength as a candidate. Because I think we need to share the truth of who we are with them--our strengths--
+N: Her eyes suddenly fall on Joss, looking at her from his seat on the panel. A timeless beat--
+C: ELLIE
+D: --and our weaknesses. To go to them openly, nakedly, and say these are our dreams, these are our fears. What I'm saying, ladies and gentlemen, is that I believe we should make this journey with honesty and integrity or not at all.
+N: The words are spoken with passion and conviction, but something tells us this isn't playing in Peoria. Ellie looks uncertain. SAME SCENE - LATER Drumlin in the chair. Reassuring, smooth--statesman- like.
+C: DRUMLIN
+D: Ladies and gentlemen, I come to you today not only as a scientist, but as a politician--an occupation for which I make no apologies. With all due respect to Doctor Arroway's talk of naked honesty and integrity--high ideals, to be sure--I believe it would be foolish and, in fact, dangerous to ignore the fact that what we are dealing with here is a political situation--the most political of situations--and one that must be examined in that context.
+S: INT. AIR FORCE ONE (40,000 FEET) - DAY
+N: The President, watching Drumlin on closed circuit. An aide hands her a cup of coffee. She sips it, her eyes never leaving the screen.
+C: DRUMLIN
+D: The image we put forth, the impressions we give may determine precedent for decades if not millennia to come.
+E: V.O. on screen
+N: BACK TO AUDITORIUM - TIGHT ON DRUMLIN
+C: DRUMLIN
+D: We must be optimistic enough to hope for the best--and wise and experienced enough to prepare for the worst.
+N: A murmur of assent from the ISC. Drumlin continues.
+C: DRUMLIN
+D: Ladies and gentlemen. I'm proud of what we've achieved as a species and a civilization. I would hate to see all that we stand for, all that we've fought for, for a thousand generations, slighted, taken advantage of, or God forbid, done in by the fact that at the final hour we chose to send a representative who didn't put our best interests first.
+S: EXT. MACHINE, TEXAS - DUSK
+N: Ellie walks out. She stands looking at the machine in the distance. It is almost complete; the enormous gantries partly obscuring the gigantic sphere that is the machine's outer benzel. Another figure stands nearby, smoking in the shadows.
+C: JEAN-CLAUDE
+D: I am become death; the destroyer of worlds. I wonder if this is how Oppenheimer felt on the eve of the first A-bomb test.
+E: takes a puff
+N: Ellie steps closer. The Frenchman smiles at Ellie, offers her a cigarette. She shakes her head.
+C: ELLIE
+D: I'd say this is slightly different.
+C: JEAN-CLAUDE
+D: Perhaps. But on the off-chance that it is a 'doomsday device' of some kind, I plan to be very far away from your lovely Texas when it is activated.
+C: ELLIE
+D: I thought you were here because you want to go.
+C: JEAN-CLAUDE
+D: I do. More than anything. But I am also a realist. Soon this... what is your charming term--? Dog and pony show will finally be over, and I will go home.
+C: ELLIE
+D: You're implying that the whole selection process is a sham?
+C: JEAN-CLAUDE
+D: I think it is your naiveté I like best about you, Eleanor. Oh, there'll be a worldwide protest, but we all knew it from the very beginning. You Americans discovered the signal, you led the decryption effort. The machine is being built on your home soil... Of course the passenger will be an American, chosen by Americans. Anyway, it is what the whole world wants, no? This is the big show. The sort you put on better than anyone. It's good marketing. It's good casting. It's the American way.
+E: smiles expansively
+S: EXT. LANDING STRIP (MACHINE, TEXAS) - NIGHT
+N: Air Force One sits on the tarmac. The lights inside are burning.
+S: INT. AIR FORCE ONE - NIGHT
+N: President Lasker, Kitz, Joss and Valerian sit around a table.
+C: KITZ
+D: It's not even close. Arroway may be a good, even great scientist, but she's politically tone-deaf and a loose cannon. She leaked the message without so much as a nod to
+E: MORE
+C: KITZ
+D: the D.O.D. or N.S.C., and I don't think anybody here would say diplomacy's her strong suit. Drumlin may not be as glamorous a choice, but he's reliable, patriotic, sound. He has impeccable scientific credentials. And I think he'd be perceived by the public as the safer choice.
+E: CONT’D
+N: The President taps her cigarette, turns to Peter.
+C: PETER
+D: It's her discovery, Ms. President. She deserves to go.
+N: The President frowns. Turns to Joss. Slowly.
+C: JOSS
+D: I've been watching and getting to know Eleanor Arroway for some time now... and I can say unequivocally, that I have never before met a human being with such extraordinary faith. In humanity... and in our right to a place of importance in the cosmos.
+N: Peter watches Joss as he speaks, and as he listens, we hear too: There's more than simple admiration for Ellie in Joss' voice.
+C: JOSS
+D: I believe that the person we're selecting will play a crucial role in humanity's future. I believe that when this person comes back-- if they come back--they will be seen as being anointed by a higher intelligence, and may well emerge as one of the most important people on Earth. It may be true that Eleanor Arroway is not a perfect human being --but I believe her honesty, her purity, and her integrity to be unimpeachable. Ms. President--
+E: MORE
+C: JOSS
+D: aren't those qualities that this representative should embody? Are we seriously considering choosing a man who openly claims that he stands for nothing more than political self-interest to be the one person to represent the human race?
+E: CONT’D
+N: The President. Unreadable.
+S: INT. MAIN AUDITORIUM (MACHINE, TEXAS)
+N: The SRO press conference/media event--the Superbowl, Olympics and Oscar night all rolled into one. Government officials, diplomats, ISC. The seven remaining candidates (the Frenchman conspicuously absent) sit in the front row. Ellie. Drumlin. The SECRETARY GENERAL of the U.N. at the podium.
+C: SECRETARY GENERAL
+D: The International Selection Committee has come to a decision, ladies and gentlemen, and may I say, I think it has been a great oversight on the part of the Vegans not to build a few more seats on the boat... But only one human being can go, and that person, the person we feel best represents the world, is the candidate from the United States of America, Doctor David Drumlin.
+E: off polite laughter
+N: Drumlin closes his eyes in triumph, a long, deep breath. Ellie. Expressionless. Joss.
+T: CUT TO:
+S: INT. ELLIE'S ROOM - LATE AFTERNOON
+N: Ellie is packing. A discreet KNOCK at the door. Drumlin enters. An awkward beat. He notices the suitcase.
+C: DRUMLIN
+D: You aren't staying?
+C: ELLIE
+D: This... seemed best.
+C: DRUMLIN
+D: Right. Well.
+C: ELLIE
+D: Good luck, David.
+E: after a beat
+N: Drumlin pauses. Nods, starts to go... then stops at the door.
+C: DRUMLIN
+D: Ellie... we both know that if I was any kind of a man, I never would've entered this race. That I would have told the President straight out: Helen, Eleanor Arroway is naive and strident and an enormous pain in the ass... but she's got more courage and intelligence than the rest of us put together. That more than anyone else on the planet, she's earned this. And that she should be the one to go because she's the best we have. But that's not who I am. I like to think it's who I might've been if things had gone a different way; that I might have been worthy, really worthy of what I've been given... You do what you have to do. And in the end, as with everything, it comes down to power. And it isn't fair...
+E: beat shrugs
+C: ELLIE
+D: What would you have me say, David?
+E: quietly
+C: DRUMLIN
+D: Nothing. I guess I just wanted to thank you.
+C: ELLIE
+D: Thank you?
+C: DRUMLIN
+D: For giving me a chance, just for a moment, to feel what it must be like to be you.
+E: nods
+N: And he turns and goes, closing the door behind him.
+T: CUT TO:
+S: EXT. SMALL TOWN (TEXAS) - DAWN
+N: Local residents and children watch in awe as a huge convoy of super-human scale passes through the one-street town.
+S: EXT. MACHINE SITE - DAY
+N: The convoy heads through the gates and arrives at the machine site. Enormous winches are wheeled in place; cables attached.
+S: EXT. RESIDENTIAL COMPLEX (MACHINE) - DAY
+N: Ellie packs the last of her things in the back of her T-Bird. She notices the activity at the machine site, keeps packing.
+S: INT. MACHINE CONTROL ROOM - DAY
+N: Large windows, monitors look out on the machine superstructure. Drumlin is surrounded by technicians; Team Leader is at the main console; several of the ex- candidates chat, smoke in back. Kent sucking on a lollipop.
+S: EXT. HIGHWAY - DAY
+N: Ellie ROARS down the deserted highway, her hair blowing. She floors it.
+S: EXT. MACHINE SITE - SERIES OF SHOTS - DAY
+N: The enormous erbium dowels are hoisted into place. Positioned at the side of the outer benzel and aligned for insertion. Finally in place, an ALARM SOUNDS; all workers begin to leave the area of the superstructure.
+S: INT. CONTROL ROOM - DAY
+N: The technicians fit Drumlin with a high-tech video headset.
+S: EXT. ROADSIDE BAR - DAY
+N: Somewhere in West Texas. Ellie pulls up in cloud a of dust.
+S: EXT. MACHINE SITE - DAY
+N: We see a technician in a hard-hat walking towards one of the superstructure's elevators. As he approaches, we recognize Joseph, now clean-shaven, wearing spectacles.
+S: INT. ROADSIDE BAR - DAY
+N: HANK WILLIAMS ON the JUKEBOX. Ellie sits on a barstool. The BARTENDER approaches, recognizes her--she sees he sees--and then he nods, treats her like any other customer.
+C: BARTENDER
+D: What can I get you, pretty lady?
+C: ELLIE
+D: Beer, please.
+S: EXT. MACHINE SITE - DAY
+N: Joseph rides the elevator up the gantry. Under his vest we can see his body wrapped with plastic explosives.
+S: EXT. MEDIA CITY - DAY
+N: Business as usual. Reporters nap under flapping tents.
+S: INT. CONTROL ROOM - DAY
+N: Everyone watches as the enormous dowel is positioned beside a giant sphere of the machine and prepared for insertion. Then Team Leader spots something on one of the monitors--he enlarges the image--Joseph climbing onto one of the dowels. Team Leader pushes the abort button. ALARMS SOUND as the controllers panic--Drumlin looks around in confusion-- JOSEPH stands next to the sphere, puts a hand out to touch it. A last look up to heaven--and then he EXPLODES in a BALL of FLAME--
+S: INT. CONTROL ROOM - DAY
+N: Everyone freezes--a timeless moment... and then, as the smoke begins to clear, we see the damage to the machine is minimal. Drumlin exhales. Everyone breathes a nervous sigh of relief-- --and then one of the MONITORS begins to RATTLE.
+S: EXT. MACHINE SITE - DAY
+N: The entire SUPERSTRUCTURE begins to RUMBLE. A giant erbium dowel shudders downwards, crashing into the sphere and ripping a hole in the machine. The controllers stare as another EXPLOSION rents the bottom of the machine, weakening the support structure. Gantries begin to collapse around it as the giant sphere falls off its support--
+S: EXT. MACHINE OUTER PERIMETER - DAY
+N: Workers stare in amazement--and then start running--
+S: EXT. MEDIA CITY - DAY
+N: Reporters look up at the SOUNDS of DESTRUCTION--
+S: EXT. MACHINE SITE
+N: The SPHERE IMPLODES in a blinding flash of light. Time and gravity seem suspended as debris gets sucked into an eerily vacuole of nothingness--as if for a moment, the space around the machine is turning inside out--and then the VACUOLE EXPLODES in a unearthly FIREBALL of nuclear proportions. WIDE SHOT The fireball begins to expand, the shockwave spreading out to envelop the entire facility. Bodies are tossed through the air like rag dolls. The blast wave approaches the control tower--
+S: INT. CONTROL TOWER - DAY
+N: The occupants stare in horror as the shock wave approaches --Team Leader--Drumlin--it hits--
+S: INT. ROADSIDE BAR - LATE AFTERNOON
+N: A TV above the bar plays an afternoon talk show ("Intergalactic Fashions--today on Geraldo") as Ellie nurses her second beer. Suddenly a LOW RUMBLE is heard, barely on the threshold of sound. GLASSES RATTLE in their racks--and then the TV GOES OFF, followed by the lights and the JUKEBOX. PUSH IN ON Ellie as she looks up at the frightened Bartender--
+C: ELLIE
+D: How far away are we from--
+C: BARTENDER
+D: Two hundred miles.
+N: SERIES OF SHOTS - AFTERMATH An eerie silence. The remains of the superstructure burns quietly. Media city lays in ruins; the toppled skyboxes blaze. Dozens of flaming satellite dishes point impotently at the sky. ...And, nearby, Drumlin's video headset, quietly smoldering.
+T: FADE OUT. FADE IN:
+S: EXT. ARLINGTON NATIONAL CEMETERY - DAY
+N: A light drizzle falls. President Lasker reaches down to a large marble slab and ignites an eternal flame that wavers in the wind and drizzle before burning fiercely. ANGLE MUFFLED DRUMS ROLL. A state funeral for all who perished in the machine disaster. Peter, his wife beside him; Joss, quietly praying. Ellie stands alone. HADDEN'S MONITOR WALL (LOCATION UNKNOWN) CNN coverage of the funeral continues. As we SLOWLY WIDEN, the next monitor over shows footage of the destruction at Machine, Texas; FBI sharpshooters and police firing into a run-down motel; an amateur video of Joseph's suicide note. He is spookily well-spoken, calm:
+C: JOSEPH
+D: What we do, we do for the good of all mankind. This will not be understood, not now, but the apocalypse to come will vindicate our faith...
+E: V.O. on monitor
+N: We CONTINUE TO WIDEN as a pair of familiar glasses float INTO VIEW; a gnarled hand plucks them from mid-air as Hadden turns to look out a panorama window showing a breathtaking view of Earth from 250 miles out in space.
+S: EXT. EARTH ORBIT - 250 MILES UP
+N: A privatized space shuttle breaks through the atmosphere and heads towards the Russian space station Mir--which now bears the Hadden Industries logo.
+S: INT. MIR DOCKING BAY (SPACE)
+N: The shuttle nestles with a CLANK against the station. Air floods the chamber and the locked door opens. The Japanese Major Domo we saw at Hadden's plane appears in the hatchway; Ellie a moment later. He points toward the other end of the airlock. Ellie starts to glide-walk through, glancing back to see the Major Domo gesturing to three, very young, very beautiful women with empty eyes. Ellie keeps moving...
+S: INT. MIR SPACE STATION - STATEROOM/STUDY
+N: Compact but luxurious. Earth is visible through a panorama window. Hadden floats before it, curled up with arthritis like a dying insect. Ellie moves beside him.
+C: HADDEN
+D: A sunrise and a sunset every forty- five minutes.
+C: ELLIE
+D: It's so... small.
+C: HADDEN
+D: Poor, tired, spinning girl... How we feasted on her. And now that we've had our fill and given her a giant dose of the clap... we're pulling out. That's Paris, where my daughter was born. Moscow, where gangsters rule the night and I gave up smoking. So many battles, so many lives... all that sturm, and drang. As if it never happened. If it weren't for a few power grids, you wouldn't know we existed.
+E: points
+N: The sun begins to set. They watch the stunning transition as night comes on. The Boston-New York corridor appears as a glittering necklace of light; a tropical storm brews in the Caribbean. Ellie points to a sparkling glow in the Pacific.
+C: ELLIE
+D: What's that?
+C: HADDEN
+D: Japanese squid fleet. They use lights to attract them to the surface... then turn them into sushi.
+N: Ellie traces the magical glow with her finger on the window.
+C: ELLIE
+D: It looks like pixie dust... Kent would've given anything to see this. David, too.
+E: beat
+C: HADDEN
+D: Yes. A shame. Still... it'd be worse if they died for nothing.
+C: ELLIE
+D: What are you talking about? It's over.
+C: HADDEN
+D: Oh, not quite yet. At least for their sake... ...I hope it's not. Because they're running out of time.
+E: indicates the Earth
+C: ELLIE
+D: You sound like Joseph. You think the world ends with the millennium?
+C: HADDEN
+D: I think whoever sent the message did it because they're worried about us.
+C: ELLIE
+D: The gods sent us the machine because they took pity on us.
+C: HADDEN
+D: Wouldn't you if you saw Hitler on
+C: TV?
+D: Come; I want to show you something.
+E: then
+N: He reaches up to the ceiling, punches a button. A large display appears, showing the Earth. He enlarges the display until only Japan is visible, then only a large island to the north--
+C: HADDEN
+D: Hokkaido Island.
+C: ELLIE
+D: The systems integration site.
+C: HADDEN
+D: Mmm. Look closer.
+N: The display enlarges still further, revealing more and more detail--until it comes to rest on a familiar gantry-enveloped sphere, surrounded by hundreds of ant- like technicians... A second machine.
+C: HADDEN
+D: As each component was tested and shipped off to Texas a duplicate was maintained and assembled in Hokkaido --for backup purposes, of course. We've been right behind you the entire time. You see my problem: I couldn't appear to control too large a percentage; my enemies wouldn't stand for it. So I simply made sure the Japanese consortium received the systems integration contract. Of course no one had to know the corporations involved were recently acquired, wholly-owned subsidiaries--
+E: as Ellie is stunned
+C: ELLIE
+D: --of Hadden Industries.
+N: Ellie is nonplussed. Hadden smiles dazzlingly.
+C: HADDEN
+D: Want to take a ride?
+S: EXT. SPACE STATION MIR
+N: The sun rises over the Earth like a dazzling jewel.
+S: INT. DOCKING BAY
+N: Hadden glide-walks Ellie to the airlock. They share one last look at the magnificent view of Earth--then she turns to him:
+C: ELLIE
+D: Why don't you come back with me?
+C: HADDEN
+D: Can't. Doctor's orders. The low oxygen/zero gravity environment is the only thing keeping the cancer from eating me alive. It's all right--I like it here. Ever try sex in zero-G?
+E: pausing laughs at Ellie's shock
+N: He raises an eyebrow. Ellie smiles, then steps into the airlock. They face each other. Hadden pauses before closing it.
+C: HADDEN
+D: One more thing, Doctor. If you do meet these Vegans...? Ask them if we have to die.
+N: ELLIE'S POV FROM SHUTTLE - MINUTES LATER The umbilicals release; the shuttle drifts away. Hadden watches from his panorama window, small, motionless, as Mir recedes and the shuttle retros back towards Earth.
+S: EXT. SEA OF JAPAN - AERIAL POV - DAY
+N: We RUSH DOWN THROUGH the clouds to Hokkaido Island, DESCENDING PAST the snow-covered peaks of Saporro TO...
+S: EXT. OBIHIRO VILLAGE (HOKKAIDO ISLAND) - DUSK
+N: A shimmering vision of the machine sits in the middle of the square; after a moment we realize it is made of ice. Japanese artisans chip and grind, putting the finishing touches on the enormous sculpture.
+C: REPORTER
+D: ...it would be fair to say an upbeat atmosphere prevails here; the Japanese playing their role of host impeccably.
+E: O.S.
+N: The promenade, decorated with colorful banners for the Winter Festival, is alive with activity; street vendors and film crews abound. We BOOM DOWN to include the REPORTER in the f.g.:
+C: REPORTER
+D: And there is reason for optimism: the way the machine consortium has bounced back in these last few months is nothing short of miraculous, and that restored sense of hope and purpose is clearly in evidence here today.
+S: INT. HOKKAIDO COMPOUND - PRESS CONFERENCE/PHOTO OP (MOS)
+N: Madhouse. CAMERA WHIR and CLICK, REPORTERS shout questions. Ellie squints in the glare of the lights, overwhelmed.
+C: REPORTER
+D: But look beneath the surface and you can clearly sense a darker mood here --an undercurrent of apprehension and fear as tomorrow approaches. And questions: What awaits the world at the end of the long road to
+E: V.O. MORE
+C: REPORTER
+D: Hokkaido? What will happen when the machine is finally activated? And what must Eleanor Arroway be feeling on this, what may well be her last night on Planet Earth...?
+E: V.O. CONT’D
+S: EXT. JAPANESE INN - ESTABLISHING SHOT - NIGHT
+N: An ancient, elegant structure. Security posted outside.
+S: INT. ELLIE'S QUARTERS - NIGHT
+N: Cherry wood and rice paper; candles, orchids... and a jumpsuit hanging in the corner. Ellie paces restlessly. Tries to read a book. Tries to write a letter... crumples it up. Ellie lays down on the bed. A goldfish bowl sits on the nightstand. Ellie peers at it THROUGH the glass. And then she hears a sound; the CRUNCHING of FOOTSTEPS on PEBBLES. Ellie sits up: a silhouette is visible THROUGH the rice paper wall. She goes to the door, slides it open-- --revealing Palmer Joss, rumpled and jetlagged, holding a sorry-looking bouquet of airport flowers.
+C: JOSS
+D: You didn't think I was going to let you leave without saying good-bye...
+N: A long moment... and then she embraces him.
+C: JOSS
+D: Ellie... the last time we spoke... I said some things...
+C: ELLIE
+D: I remember. You were indelicate, indiscreet and entirely less than
+E: MORE
+C: ELLIE
+D: tactful... Sound like anyone you know?
+E: CONT’D
+N: He smiles, grateful. A moment.
+C: JOSS
+D: So. The final countdown.
+C: ELLIE
+D: The final countdown.
+C: JOSS
+D: Oh. I brought you something.
+E: remembering
+N: From his jacket he produces a small palm frond, presents it to her. She takes it, looks at him quizzically.
+C: JOSS
+D: During the crusades--pilgrims who made the journey to the holy land brought back a palm frond to show they'd actually been there. I thought it sort of made sense that Earth is now your holy land, so...
+C: ELLIE
+D: Thank you.
+E: visibly moved
+N: Joss takes her hand.
+C: JOSS
+D: You're trembling.
+C: ELLIE
+D: I do seem to be... Maybe because I'm just a little bit terrified about tomorrow.
+C: JOSS
+D: Maybe that's okay.
+E: softly
+N: She looks up at him, utterly vulnerable. He raises his hand to her cheek... then leans in and kisses her. It's a very good kiss. They kiss again, more passionately... and then Ellie pulls away.
+C: JOSS
+D: What...?
+E: softly
+C: ELLIE
+D: I'm sorry.
+C: JOSS
+D: What is it?
+N: And suddenly she's crying, trying desperately to stop-- Joss puts his hands on her shoulders--
+C: JOSS
+D: Ellie, what is it?
+C: ELLIE
+D: I'm sorry--I can't--
+C: JOSS
+D: What?
+C: ELLIE
+D: I can't do this--
+C: JOSS
+D: What are you so afraid of?
+C: ELLIE
+D: Please, Palmer--if you care for me at all, don't push this now--
+C: JOSS
+D: What are my other options? In fifty years? Never?
+C: ELLIE
+D: Please--
+C: JOSS
+D: I'm in love with you, Ellie.
+C: ELLIE
+D: Don't you understand? I just have to hold it together--just until tomorrow--
+E: stares, then
+C: JOSS
+D: And then what? Then you'll be safe?
+C: ELLIE
+D: --I don't know--
+C: JOSS
+D: Do you really think your life is meaningless, Eleanor? Is that why you're so quick to risk it-- because if your life means nothing then you have nothing to lose?
+E: intensely
+C: ELLIE
+D: I can't hear this now--
+C: JOSS
+D: Ellie, there is no reason you have to be alone.
+C: ELLIE
+D: And yet that's always how I seem to end up, isn't it? If you really do love me, Palmer, you'll leave. Now. Please.
+E: looking up; helpless a moment
+N: She pulls away from him, leaving the room. Joss stands looking after her... then goes to the door... exits. Ellie watches from the doorway...
+S: INT. ELLIE'S QUARTERS - DAY
+N: The bed is made. The jumpsuit is gone. PUSH IN ON the palm frond, sitting on the nightstand, next to the goldfish bowl.
+C: FEMALE COMPUTER VOICE
+D: Activation T-minus O-seven hundred and counting--
+E: V.O. on P.A.
+S: EXT. MACHINE - DUSK
+N: Floodlights illuminate the machine superstructure with intense light. Technicians in blue jumpsuits, many of them, Japanese, swarm around the instrument/camera bleachers. While the Hokkaido machine differs somewhat from the one in Texas in the details of its human-designed superstructure, the eerie uniformity of the giant sphere, here bathed in soft lavender light, is the same. Elaborate instrument and camera bleachers surround it; in the distance we can make out a control tower similar to the one we saw vaporized in Texas.
+S: INT. CONTROL ROOM - DUSK
+N: The Female Assistant Team Leader from Texas runs the console, more technicians at their various stations. Peter hovers nearby. Standing in the back we notice a number of poker-faced officials, some wearing U.S. military uniforms. Joss stands at the window looking out; he puts his hand to the glass. REPORTER #1 (V.O.) --The security here in Hokkaido has been incredibly tight; for obvious reasons only a single pool feed has been allowed at the machine site. Through the eye of the camera world...
+S: EXT. PLAZA (SINGAPORE)
+N: A sea of Asian faces transfixed by a giant outdoor screen. REPORTER #2 (overlapping) ...watches, holding its breath for that moment, now less than ten (MORE) REPORTER #2 (CONT’D) minutes away, when a single human being--
+S: EXT. MACHINE - DUSK
+N: A van pulls up. Out steps Ellie, composed, wearing her jumpsuit and holding her video helmet. Two Japanese technicians accompany her as she heads toward the main gantry elevator. REPORTER #2 (V.O.) --boarding a machine of unknown origin and unknown function, will step into history... REPORTER #3 (V.O.) (overlapping on "history") ...the question that's on everyone's mind: will history repeat itself?
+S: EXT. FIFTH AVENUE (NEW YORK) - DAY
+N: The street is deserted. Televisions glow in every window. REPORTER #3 (V.O.) With a piece of engineering this complex, this unprecedented--
+S: INT. CHICAGO FUTURES EXCHANGE - DAY
+N: The receipt-strewn floor lies deserted. REPORTER #3 (V.O.) --with so many unknown variables--
+S: EXT. MACHINE - MAIN GANTRY ELEVATOR
+N: The elevator gates open; Ellie and the technicians step in. REPORTER #3 (V.O.) --could the unthinkable occur? Could what happened in Texas happen again?
+C: FEMALE COMPUTER VOICE
+D: T-minus five minutes and counting.
+E: V.O.
+S: EXT. HOKKAIDO MACHINE SITE - OUTER PERIMETER - DUSK
+N: Hundreds of reporters doing stand-ups. A cacophony of voices. REPORTER #3 (V.O.)
+T: Cutting to the feed now.
+N: INSERT TELEVISION The elevator rises, finally arriving in position halfway up the great sphere. ANGLE - LASKER AND KITZ watch from Camp David. ELEVATOR GATES open, revealing Ellie flanked by the two technicians. She looks down the long narrow walkway that leads to the machine. She puts on her helmet. She begins her long walk. WIDE SHOT - MACHINE Ellie's tiny figure approaches the blazingly lit sphere.
+S: INT. GRAND CENTRAL STATION - DAY
+N: Commuters stand stock still, watching the big screen.
+S: EXT. BEIJING STREET - DAY
+N: Chinese peasants crowd the front of an appliance store; jockeying to see the televisions.
+S: INT. CONTROL ROOM
+N: On the monitors Ellie walks toward the machine.
+C: ELLIE
+D: Someone tell me this is really happening.
+E: V.O. filtered
+C: PETER
+D: It's really happening.
+E: into chin mic
+C: ELLIE
+D: That you, Valerian?
+E: V.O. filtered
+C: PETER
+D: Like it or not.
+C: ELLIE
+D: Like it. Almost there.
+E: V.O. filtered
+N: ELLIE approaches the alien fractal-embossed surface of the machine. She pauses. Looks around--her last glimpse of Earth...? She takes a step--and as she does the panel before her loses its solidity, becoming an opaque gray mist. Darkness beyond. Ellis is on the threshold.
+S: EXT. PLAZA (SINGAPORE)
+N: A million people hold their breath--
+S: INT. CONTROL ROOM
+N: Peter. Joss-- TIGHT ON ELLIE'S FACE as she steps into the unknown. WIDE SHOT - MACHINE Tiny Ellie disappears into the machine.
+S: INT. MACHINE
+N: As Ellie enters, the panel silently resolidifies behind her.
+C: ELLIE
+D: That's one small step for a woman...
+E: murmurs
+N: Darkness. A dim glow ahead shows through similar openings in two more spherical benzels. The surface beneath Ellie's feet seems almost liquid. She continues...
+S: INT. OUTER DODECAHEDRON
+N: The enormous chamber is webbed with delicate organosilicate implanted pattern. An inner dodecahedron marks the core of the machine. Ellie steps through, staring in wonder.
+C: A.T.L.
+D: Arroway, this is command control; do you copy?
+E: V.O. filtered
+C: ELLIE
+D: Arroway to control; reading you five by five.
+T: INTERCUT WITH:
+S: INT. COMMAND BRIDGE
+C: A.T.L.
+D: Showing green across the board. All systems go...
+N: Hesitates...
+C: PETER
+D: What?
+C: A.T.L.
+D: I'm not sure. We have no launch protocol; the entry of the passenger is supposed to initiate activation.
+C: PETER
+D: Anything happening in there, El?
+E: into chin mic
+C: ELLIE
+D: Not so far--but--
+E: V.O. filtered
+N: A deep RUMBLING is heard--everyone jumps--
+C: A.T.L.
+D: What the hell--
+C: ELLIE
+D: Did you get that?
+C: JOSS
+D: Look.
+N: They all look out the windows. FULL SHOT - MACHINE - DUSK The mighty benzels slowly begin to move. It is an awesome sight.
+S: INT. CONTROL ROOM
+C: A.T.L.
+D: We have benzel activation, repeat, we have benzel activation. Control to Arroway, you okay in there? Repeat, Control to Arroway, come back.
+E: off silence
+C: PETER
+D: Ellie?
+E: into chin mic
+S: INT. MACHINE
+C: ELLIE
+D: Arroway to Control, come in. Arroway to Control, do you copy?
+E: off nothing, willing herself to calm
+S: INT. COMMAND BRIDGE
+N: The BENZELS have begun to generate a HARMONIC HUM, each generating a DIFFERENT TONE. It grows LOUDER as they continue to pick up speed--
+C: A.T.L.
+D: We've lost contact.
+C: PETER
+D: Pull the plug. Get her out of there.
+C: A.T.L.
+D: There's no plug to pull.
+C: PETER
+D: What?
+C: A.T.L.
+D: There is no abort procedure--we don't know how we turned the damn thing on, let alone how to turn it off.
+N: Peter stares at the spinning benzels, rapidly gaining speed. Palmer Joss closes his eyes and quietly starts to pray.
+S: INT. MACHINE
+N: Something is happening inside the machine; a shimmering, almost as if the air itself was changing...
+C: ELLIE
+D: Control, I'm going to continue broadcasting on the assumption...
+E: MORE
+C: ELLIE
+D: hope... that you can hear me. The atmosphere within the chamber seems to be undergoing some sort of spontaneous state conversion...
+E: CONT’D
+N: The shimmering amber-lit gas surrounds Ellie, in some places remaining gaseous (for breathing); in others aqueous, in others a gel-like colloidal, supporting her. Nervously:
+C: ELLIE
+D: My breathing seems normal...
+N: The MACHINE SHUDDERS.
+C: ELLIE
+D: What was that--?
+N: FROM TWO MILES OUT AT SEA We see clouds gather; an ominous microclimate forming over Hokkaido. Strange violet-hued lights in the sky--
+S: INT. CONTROL ROOM
+N: The HUM of BENZELS is deafening, like a galactic choir--
+S: INT. VLA - SAME TIME
+N: Fisher, Willie and the team are glued to the set.
+S: INT. CAMP DAVID - SAME TIME
+N: President Lasker and Kitz watch the same coverage.
+S: INT. MIR - SAME TIME
+N: Hadden floating, silhouetted against his TV wall.
+S: EXT. MACHINE
+N: The lower support structure begins to withdraw but the enormous sphere remains spinning freely in space--the clouds part-- ELLIE whirls around in terror as the light grows dazzlingly bright. FULL SHOT - MACHINE Suddenly the benzels flicker--go transparent-- everything is visible for a millisecond as a blinding flash of light illuminates the superstructure and surrounding countryside brighter than the brightest day--
+S: INT. CONTROL ROOM - SAME MOMENT
+N: Monitors whiteout in a blaze of blinding light.
+S: INT. MIR STATION
+N: Hadden's TV wall whites out as he dies smiling--
+T: CUT TO:
+S: INT. MACHINE
+N: The sense of acceleration is tremendous, as if dropping through the center of the earth. The fluid has become more gel-like solid, supporting Ellie's body. The front panel is now opaque, the left and right panels semi- transparent. A bright blue-white light up ahead, illuminating what seems not so much to be a tunnel as a sense of space warping around us; like being inside a fisheye lens as it dolly/zooms. Ellie speaks breathlessly into her mike...
+C: ELLIE
+D: I'm falling... sense of enormous acceleration. It's a wormhole, it's got to be, but how do they keep it stable? The energy required--
+N: Now the front panel becomes transparent: Ahead is a dazzlingly bright blue-white object with dimmer copies of it surrounding it. As speed increases the subsidiary images become fainter, moving in a transverse circle. Behind Ellie, though she doesn't see it, the panels show similar images of the launch site at Hokkaido. The blue-white light from up ahead becomes blinding as the Dodec erupts into space.
+C: ELLIE
+D: It's a star, I'm in orbit around a star, spectral type A, maybe early F. Getting weird multiple images here; relativity effects? Accretion disk... gotta be Vega, only... oh my God...
+N: A great mass passing above eclipses Vega's light, throwing the Dodec into shadow. The immense polyhedron construct from the opening of the film, dappled with its millions of transmitters, drifts overhead. It's easily 100 miles across. Staring in awe:
+C: ELLIE
+D: They're talking to the whole universe... Okay, okay, clearly artificial, some sort of relay station but the scale is just... tens of thousands of receivers, hundreds... some sort of biotechnology, like the machine but... don't see anything like a docking port...
+N: The machine suddenly makes a hard left; an object appears ahead, an impossible inside-out sphere in space; four dazzling lights seem to be embedded within it.
+C: ELLIE
+D: Another wormhole? Bigger this time --oh God--
+N: The Dodec plunges down it as Ellie struggles to contain her wildly fluctuating emotions. The surrounding gas begins to shift color, modulate--
+C: ELLIE
+D: Okay. Okay. A series of wormholes, linked together, artificially created, but why would...? Jesus, it's a subway system.
+E: then
+N: The Dodec erupts into a quadruple star system. A pair of red and blue stars orbit each other while a pair of yellow-green dwarfs orbit them. Ellie swallows hard, hyperventilating--
+C: ELLIE
+D: Quadruple system... incredible... don't recognize any background constellations... hundreds, possibly thousands of light years from Earth now. So beautiful. So...
+N: Ellie growing woozy; trying to snap out of it.
+C: ELLIE
+D: The physics must be a thousand, ten thousand years beyond us but... oh God... oh God something's... happening...
+N: Ellie is overwhelmed with emotion--we think she's about to cry but then she bursts out laughing--
+C: ELLIE
+D: It's beautiful. It's beautiful. I keep saying that but I can't... my mind can't... words... should've sent a poet. I'm a poet and don't know it... Ground control to Major Tom... Relativitistic side-effect? Or-- induced by the transport medium? The gas...
+E: sings struggling
+N: Now Ellie is crying, sobbing uncontrollably.
+C: ELLIE
+D: Oh, Palmer, I wish I'd had a baby.
+N: The Dodec plunges into another inside-out sphere, this one larger and glowing blood red-- SERIES OF SHOTS A) A GIANT RED STAR As it engulfs an Earthlike planet. We watch the planet's oceans boil away; the surface chars, sears dead-- B) SUPERNOVA Tidal waves of gas clouds rush away from the exploding sun--shock waves tumble debris AT us. At the center of the cataclysm a rapidly rotating neutron star flashes like a lighthouse, ten times a second. C) LARGE BLUE GAS GIANT Circling an emerald green star. On the night side of the planet are huge glowing jellyfish-like shapes, the floating cities of an alien civilization. Millions of glowing gold particles connect them in elaborate swirling patterns, a dance of golden glitter... D) LAST WORMHOLE choked with multicolored pinprick flares--a sense of tremendous acceleration, finally erupting into-- CENTER OF GALAXY So many dazzling multicolored stars they almost touch. Millions more stars than are visible from Earth on the clearest night. An immense, spiraling river of gas and dust, millions of miles long, pours into the maw of a black hole of staggering dimensions. Flashes of radiation leap from the center like summer lightning--
+C: ELLIE
+D: The center of the galaxy...
+N: The Dodec suddenly rotates. Swimming INTO OUR FIELD OF VIEW... GALACTIC GRAND CENTER STATION It fills half the sky. A vast, vast, artificial planet; immeasurably immense liquid clouds drift in its atmosphere, punctuated by planet-size holes, columns of mist thousands of mile high. The Dodec gently plunges into an atmosphere of blue night; below we can make out thousands of yellow-lit openings in the gel-like surface, each a different geometric shape.
+C: ELLIE
+D: Docking ports... those are docking ports for other machines... hi, everybody...
+N: As the Dodec continues to lower toward a hexagonal receptor the panels grow opaque, blocking out all light. Ellie fights to remain conscious as it grows dimmer and dimmer:
+C: ELLIE
+D: Now arriving Grand Central Station... floating down... floating... Twinkle twinkle... little star... how I wonder... ellemenopee... ...have to stay awake... stay awake... Please... please...
+E: like a little girl shaking her head slipping
+N: She passes out.
+T: FADE TO BLACK.
+N: IN BLACK Nothing. Still nothing. Finally, a gentle, familiar SOUND...
+T: FADE IN:
+N: ELLIE lies in a fetal position. After a long moment she opens her eyes. The familiar RHYTHMIC sound is LOUDER. Her eyes widen...
+S: EXT. BEACH - DAWN
+N: Ellie sits up on a pristine white beach. Huge ranges of cumulus lit red/gold by the dawn silhouette clusters of palm trees; the sound of gently ROLLING SURF, SQUAWKING GULLS. Ellie stands. The Dodec is nowhere to be seen. She looks around in disbelief. She takes a few halting steps, like a child learning to walk. She kneels, scoops up some sand. Frowns in confusion... Ellie digs her hand into the sea, almost loses her balance again. She tastes the water. Normal. Her confusion grows...
+C: ELLIE
+D: I... remember this...
+N: She steps further into the water; letting its warmth soothe her, wipes the furrows from her brow. Closes her eyes as she lets the water take her.
+S: EXT. BEACH - LATER
+N: The sun is higher now. The SURF CRASHES.
+C: ELLIE
+D: Recording... check, check. Recording, is this on? I think this is on.
+E: O.S.
+N: Ellie sits against a palm tree, looking out at the sea. She seems a little more cogent.
+C: ELLIE
+D: Okay. I've traveled thirty thousand light years, give or take a few parsecs, to go to the beach. So... Either they've created this environment... or the illusion of this environment, to make me feel at home... or else somehow I am at home
+E: MORE
+C: ELLIE
+D: --or else this is my cage at the intergalactic zoo and the tour bus will be along any minute...
+E: CONT’D
+N: A distant figure becomes visible down the beach. As it approaches Ellie continues, unaware:
+C: ELLIE
+D: Or else, of course, I'm completely insane. This should not be discounted as a possibility-- although the fact that I'm questioning my sanity should be a pretty good indication that I am in fact sane... unless of course... unless...
+N: Ellie stops, as if sensing something. The figure grows closer, now clearly humanoid. Ellie turns to look-- --and stares in utter disbelief. She rises to her feet... ELLIE'S POV Ted Arroway is walking easily toward her. He smiles.
+C: TED
+D: Morning, Captain.
+N: ELLIE Tears come to her eyes... she approaches, staring... He takes her hand--
+C: TED
+D: I've missed you.
+N: It's too much. Ellie throws herself into his arms, holds him tight.
+C: ELLIE
+D: Dad...
+N: She sobs. He holds her.
+C: TED
+D: It's okay...
+N: Ellie recovers a bit, wiping away her tears--
+C: ELLIE
+D: I used... I used to dream you were alive... and then I'd wake up and lose you all over again.
+C: TED
+D: I'm sorry I couldn't be there for you, sweetheart.
+C: ELLIE
+D: Dad... But tell me, how did... I mean how can...?
+N: Reality returns like a cloud passing over the sun. Softly:
+C: ELLIE
+D: You're not real. None of this is.
+C: TED
+D: That's my scientist.
+E: smiles sadly
+C: ELLIE
+D: So. Are you an hallucination? Or are little gear trains and circuit boards under your skin?
+E: struggling to breathe
+C: TED
+D: Am I artifact or dream? You might ask that about anything.
+C: ELLIE
+D: But you're so... I mean how could you possibly...? When I was unconscious. You... downloaded... my thoughts, my memories, even...
+E: realizing MORE
+C: ELLIE
+D: This beach. I've never been here but I remember... it's how I always imagined... Pensacola.
+E: CONT’D realizing softly
+C: TED
+D: We thought this might make things a little easier.
+N: And in the blink of an eye they are no longer standing on a beach but on the rim of the Grand Canyon, looking out at a spectacular sunset.
+C: TED
+D: ...although this is nice too.
+N: Ellie tries hard to swallow her amazement as Ted begins to stroll along the rim; she walks with him.
+C: ELLIE
+D: So who--what--are you?
+C: TED
+D: Originally just another species like yourselves. Well, not like you at all actually, but...
+C: ELLIE
+D: Can you show me?
+C: TED
+D: Small moves, Captain, small moves.
+C: ELLIE
+D: Why did you contact us?
+C: TED
+D: You contacted us. We were simply listening. We've been listening for millions of years.
+C: ELLIE
+D: And those other docking ports I saw... I mean... there are others?
+C: TED
+D: Many others.
+C: ELLIE
+D: And they all travel here through this wormhole subway system you built.
+C: TED
+D: Oh, we didn't build it. The transit system has been in place for billions of years; we're just its... caretakers.
+C: ELLIE
+D: So who...?
+C: TED
+D: We don't know. Whoever they were, they were gone long before we ever got here.
+C: ELLIE
+D: The scale... it's just... So all the civilizations you detect; they all end up coming here?
+E: catching her breath
+C: TED
+D: Not all. Some choose to stay at home and dream their dreams. Some never make it this far.
+E: sadly
+C: ELLIE
+D: So we passed some kind of test?
+C: TED
+D: You have your mother's hands... There are no tests, Ellie. We don't sit in judgment. Think of us more as... librarians. Curators of the Universe's rarest and most valuable creation...
+E: beat
+N: And now they are walking through a familiar forest. Sunlight streams through the tall trees.
+C: TED
+D: As many civilizations as we've found, compared to the vastness of space...
+N: He seems momentarily overcome with a terrible sadness... and then he recovers, smiles.
+C: TED
+D: ...life is unspeakably rare. So whenever we do find another civilization, especially one that's... struggling... We send a message. Sometimes we can offer help. Sometimes we can't. But we always try. Life is simply too precious not to.
+C: ELLIE
+D: Can you help us?
+N: Ted hesitates. They are now standing in the middle of a vast alien desert, stretching to the horizon. The dome of the sky darkens revealing a view from outside the galaxy; the Milky Way hangs like a pinwheel in the blackness of intergalactic night.
+C: TED
+D: You're an interesting species; an interesting mix. Capable of such exquisite dreams; such horrifying nightmares. Technologically you've advanced very quickly--some think too quickly... and yet...
+N: CLOSE ON TED He turns to Ellie, puts a loving hand to her face. Softly:
+C: TED
+D: You're so lost. So cut off... and so sad.
+N: And suddenly Ellie is standing on the sun-dappled Cal Tech campus. She turns to find herself standing opposite David Drumlin.
+C: DRUMLIN
+D: What is it that makes you so lonely, Miss Arroway?
+N: Ellie stares at him--instinctively backs away, turning around-- --to find herself high atop the radio dish at Arecibo looking into Peter Valerian's face--
+C: PETER
+D: Be honest, El. The truth is you really don't want the company.
+N: Peter shakes his head--then begins to melt, morph into Palmer Joss--
+C: JOSS
+D: What does it feel like to understand everything in the universe except yourself?
+N: --the Texas meadow instantly dissolves behind him to become the darkness of the Hokkaido night--
+C: JOSS
+D: Ellie, there is no reason you have to be alone.
+N: Ellie stares at him; he slowly morphs back into Ted as he and the space around them become infused with an unearthly golden light; his voice ECHOING and resonating into infinity--
+C: TED
+D: We are alone. For millions of years we've searched the cosmos... and after all the suffering, after all the chaos and desolation of the void --the one thing we've found that makes the emptiness bearable is each other. That's why I sent the message. That's why I made contact.
+N: Ellie moves closer, staring into his eyes... and catches a glimpse of infinity. She holds her breath--
+C: ELLIE
+D: Who are you?
+E: whispers
+N: We begin to MOVE THROUGH them, INTO-- ANOTHER DIMENSION
+C: TED
+D: Am I one... or many?
+E: reading her mind
+C: ELLIE
+D: The librarian... or the library...?
+N: We are lost inside an unimaginable realm, an infinity of nested realities turning inside and within each other in a staggering visual paradox that dazzles and overwhelms, that builds and soars until-- --the soft CRASHING of the SURF... Ellie is back, standing with her father on a perfect beach in the glow of twilight. A gentle breeze blows. Ellis is overcome.
+C: ELLIE
+D: ...all those voices... you gather them all together. Millions of intelligences in one consciousness... and now we're a part of it.
+C: TED
+D: You always have been. We're all descendants of the same stars, Ellie. All made of the same primordial atoms.
+C: ELLIE
+D: So. What happens now?
+E: overwhelmed
+C: TED
+D: Now... you go home.
+C: ELLIE
+D: No! I mean... why so soon?
+E: instinctively; like a child as Ted smiles
+C: TED
+D: If we don't engineer a consistent causality it'll work itself out on its own, and that's almost always worse. Ellie, according to your physics none of this is possible. A lot of it you're simply not capable of understanding, not yet. No offense.
+E: seeing her confusion
+C: ELLIE
+D: None taken... but... do we get to come back? Others of my kind, I mean.
+N: He tenderly brushes a stray lock of hair behind her ear.
+C: TED
+D: Eventually you'll get here on your own. This was just the first step; in time you'll take another.
+C: ELLIE
+D: But--other people from our planet should see what I've seen--they should witness this for themselves.
+C: TED
+D: That isn't the way it works.
+C: ELLIE
+D: But you said you wanted to help-- don't you see what it would mean?
+C: TED
+D: No more stalling, Captain.
+E: gently
+C: ELLIE
+D: Please--if you... downloaded... everything about us you know the problems we face, the impact it could have--it could make the difference--
+E: intensely
+C: TED
+D: Ellie... this is the way it's been done for billions of years...
+N: She looks at him pleadingly... and as the part of him that is her father look into his daughter's eyes, he hesitates--
+C: TED
+D: ...but we'll consider your request.
+N: A breeze blows, stronger now.
+C: TED
+D: It's time to go home now.
+C: ELLIE
+D: No. Please.
+C: TED
+D: Childhood is over, Ellie. It's time to grow up.
+E: smiles sadly
+N: A WHOOSH of AIR--Ellie spins around-- The Dodec sits incongruously on the beach. She turns back. Ted has vanished.
+C: ELLIE
+D: No...
+N: And as Ellie finally and fully mourns her lost father, we leave her, crying, alone on an empty beach, 30,000 light years from home...
+T: FADE TO BLACK. FADE IN:
+S: EXT. MACHINE (HOKKAIDO) - NIGHT
+N: The HUM DIES as the benzels slowly come to rest. Ellie emerges from the machine. Her expression composed. The opening solidifies behind her-- --and then we hear a sudden BURST of STATIC, followed by a cacophonous BARRAGE of VOICES--Ellie instinctively puts her hands to her helmet--
+C: CONTROLLER
+D: --Got her--!
+E: V.O. filtered
+C: A.T.L.
+D: --all benzel motion has ceased. Repeat, benzels are stopped; securing the area--
+E: filtered
+C: PETER
+D: Ellie--are you okay?
+E: V.O. filtered
+C: ELLIE
+D: I'm--I'm fine.
+C: PETER
+D: Thank God. When we lost contact, I thought--we thought... but you're okay. We're still trying to determine the nature of the malfunction. Did you notice anything at all that--
+E: V.O. filtered
+C: ELLIE
+D: Wait--hold on a minute--
+C: PETER
+D: It's all right, the important thing is you're safe--
+E: V.O. filtered
+C: ELLIE
+D: Peter, what are you talking about? What malfunction? What day is this?
+E: looking around
+C: PETER
+D: What day?
+E: V.O. filtered
+C: ELLIE
+D: How long was I gone?
+S: INT. COMMAND CONTROL - CONTINUOUS ACTION
+N: Peter stands at the command console, just as we left him.
+C: PETER
+D: Ellie... we saw you enter the machine. The benzels spun up, generating some sort of atmospheric disturbance. The benzels spun down. And then... just now... you stepped out. We were out of radio contact exactly... seven minutes and thirty- five seconds. The machine never went anywhere.
+S: INT. MEDICAL BUNKER - IMMEDIATELY FOLLOWING
+N: A team of physicians examine Ellie, hooked up to various medical equipment--
+C: DOCTOR
+D: Are you experiencing any flu-like symptoms. Aching joints? Fever?
+C: ELLIE
+D: I'm fine--
+C: DOCTOR
+D: Headaches? Swollen glands?
+C: ELLIE
+D: No--could somebody please just--
+N: The DOCTOR checks a series of monitors, turns to an official.
+C: DOCTOR
+D: Vitals identical to pre-launch stats.
+C: ANOTHER SCIENTIST
+D: No sign of radiation or biological contamination of any kind. She's clean.
+N: Peter enters the room, briefly confers with the official --then approaches Ellie, who sighs in grateful relief.
+C: ELLIE
+D: Peter... What is going on? Has everyone gone completely insane?
+C: PETER
+D: That's one way of putting it. Kitz, the President, the I.S.C. have shut down all official communications; there've also been reports of riots flaring up across the U.S. and Europe. Until we figure out what went wrong things may get rough, especially for you--
+C: ELLIE
+D: But the machine worked--that's what I've been trying to tell everyone! The tape--it's all there, if they'd just look at... ...the tape...
+E: in utter frustration seeing Peter's grim look
+N: And as Ellie realizes with sickening certainty--
+T: CUT TO:
+N: STATIC-FILLED MONITOR Colored snow. Nothing.
+S: INT. DEBRIEFING ROOM
+N: Kitz turns off the monitor, turns to Ellie, still in her hospital gown and robe. Peter stands nearby, as do a group of frighteningly expressionless I.S.C. and Pentagon officials.
+C: ELLIE
+D: ...I don't understand it. All I can think is that maybe because the video gear wasn't accounted for in the original plans it somehow violated the integrity of the design.
+C: KITZ
+D: Is that your official response?
+C: ELLIE
+D: I don't have an official response, Michael. All I have are the same questions you have.
+N: Kitz pauses... and then he turns to her, his intensity increasing as we PUSH IN ON him--
+C: KITZ
+D: I'm afraid that's not a satisfactory answer, Doctor. We spent two trillion dollars. You walked into that machine with the hopes and prayers of an entire planet with you, and you stepped out with nothing. Those people are going to want more than idle speculation and conjecture--they're going to want answers--and I hope for all our sakes you can come up with them.
+S: EXT. MACHINE (HOKKAIDO) - NIGHT
+N: Ellie, surrounded by a phalanx of security, moves quickly through the nightmarish mob scene. Disorienting TV lights glare, illuminating a flurry of drift snow-- As Ellie is hustled toward a van she glimpses a figure-- an oasis of stillness in the mob, watching her--Joss. Their eyes meet for the briefest of moments--and then Ellie is swept into the van and away. Joss watches her go --looks at the chaos, the madness around him--then slowly looks up to the sky...
+T: DISSOLVE TO:
+S: EXT. WASHINGTON D.C.
+N: A hard rain falls. We FIND a government sedan, FOLLOW it THROUGH burned-out slums--
+C: SECRETARY
+D: I have Mr. Kitz for you Ms. President.
+E: V.O. filtered
+C: PRESIDENT LASKER
+D: Put him through. Well?
+E: V.O. as PHONE CLICKS
+C: KITZ
+D: Nothing. Apparently the surface began to ossify immediately after she emerged; all subsequent attempts to re-enter the machine have failed...
+E: V.O. filtered
+N: The sedan approaches the Capitol Building. The steps are mobbed with a surreal menagerie of the fanatical and the dispossessed. A huge bonfire has been built; images of Ellie on the cross...
+C: KITZ
+D: ...as have all attempts at internal analysis. We've tried sonargrams,
+E: V.O. MORE
+C: KITZ
+D: magnetic resonance, gamma rays; it's completely impenetrable.
+E: V.O. CONT’D
+C: PRESIDENT LASKER
+D: Recommendations?
+E: V.O.
+C: KITZ
+D: I don't know. Maybe we built the damn thing wrong. Maybe it was all a hoax... The safest thing would probably be to do a Chernobyl; encase it in concrete.
+E: V.O. sighs
+C: PRESIDENT LASKER
+D: Have your department make a full report.
+E: V.O.
+S: INT. OVAL OFFICE - CONTINUOUS ACTION - DAY
+N: The rain pours down. The President slowly hangs up the phone.
+S: INT. SEDAN - CONTINUOUS ACTION
+N: Ellie looks out the window at the mob descending on the car, all fighting desperately to catch a glimpse of her-- faces filled with hope, hate, desperation--Ellie shrinks back--
+S: INT. SENATE ANTEROOM - DAY
+N: The CLOCK TICKING on the wall reads five to nine. Ellie sits alone in the small room. Waiting. A KNOCK on the door. Ellie looks up nervously-- Palmer Joss stands in the doorway. A moment... and then Ellie slowly rises and goes to him. Embraces him. He holds her.
+C: JOSS
+D: Oh, Ellie...
+N: Ellie finally pulling away, wiping her eyes.
+C: ELLIE
+D: Hi.
+C: JOSS
+D: Hi.
+C: ELLIE
+D: I'm assuming you read my deposition.
+C: JOSS
+D: It was quite a page turner.
+C: ELLIE
+D: Pretty ironic, huh? I had to go all the way to the center of the galaxy... Just to find you.
+N: She takes his hand, kisses it. He touches her face. The CLOCK TICKS.
+C: ELLIE
+D: So. I'm assuming they sent you here to administer last rites?
+C: JOSS
+D: I'm not sure it's come to that.
+C: ELLIE
+D: They don't believe me.
+C: JOSS
+D: I do.
+C: ELLIE
+D: You're sure you want to? In the universe I saw we're not exactly the stars of the show. What happened to me makes us all seem pretty damn small.
+C: JOSS
+D: It also makes God enormous. I think of the scope of your universe,
+E: MORE
+C: JOSS
+D: Ellie... and it takes my breath away. As it will everyone else's.
+E: CONT’D
+C: ELLIE
+D: I don't have any proof, Palmer.
+C: JOSS
+D: Ellie, you're the proof. You tell them your story. Ultimately they'll have no choice but to believe you.
+C: ELLIE
+D: It's not enough, don't you understand? I know it happened-- but by every standard of science, by every standard I've lived my life by that fact is utterly beside the point. It may be true but it doesn't matter because I can't prove it's real.
+C: JOSS
+D: Ellie, the only one holding you to that standard is you! The people want to hear your story, they need to hear it!
+C: ELLIE
+D: But--
+C: JOSS
+D: Have you seen what's happening out there? The terror, the despair? The world is on fire, Ellie. People need something they can believe in, something worthy, and you can give it to them!
+C: ELLIE
+D: I want to, Palmer--more than anything. But it has to be real. It has to be true.
+C: JOSS
+D: Ellie... if you go out there like this--if you admit to even the possibility that what you experienced didn't actually happen --I'm afraid they really will crucify you. Please. For your own sake, for the sake of the world... tell them what you know to be the truth. Tell them it really happened.
+E: hesitates
+N: Ellie looks up at him--and then the door opens and an AIDE enters.
+C: AIDE
+D: They're ready for you.
+S: INT. U.S. SENATE
+N: Every corner of the cavernous Senate Chamber is jammed with media, politicians, onlookers. The world stage. The big show. The International Committee is composed of eight men and two women, including Kitz. Occupying the center seat is the COMMITTEE CHAIRMAN, An Asian American Senator in his sixties. Sitting all by herself at a long table opposite them, Ellie looks very small and alone.
+C: SENATOR
+D: You were in the machine for seven minutes, thirty-five seconds, is that correct, Doctor?
+C: ELLIE
+D: Earth time, yes.
+C: SENATOR
+D: Earth time.
+E: pausing
+C: ELLIE
+D: Senator... I believe I traveled through a series of wormholes. Wormholes are a phenomenon deduced by Einstein; they're essentially tears in the fabric of space/time. Because of the effects of relativity what I experienced as a period of approximately eighteen hours passed almost instantaneously on Earth. To you I seemed to depart and arrive back at the same moment.
+E: a deep breath
+C: KITZ
+D: Doctor, isn't it true that wormholes are merely predictions of relativity theory? That there's no evidence they actually exist?
+N: Ellie hesitates. Looks up at Joss in the gallery. Then:
+C: ELLIE
+D: There is no direct evidence, no.
+C: KITZ
+D: And current theory holds that to sustain the sort of wormholes you're talking about, even for a fraction of a second, would require more energy than our sun produces in a year, is that correct?
+C: ELLIE
+D: I don't have the figures in front of me, but yes, that sounds about right.
+C: KITZ
+D: In fact, by all the laws of physics we know what you claim to have experienced is simply impossible.
+C: ELLIE
+D: By our standards... yes.
+E: beat, then, softly
+N: Palmer Joss, sitting in the gallery, closes his eyes. SAME SCENE - LATER The Chairman flips slowly through a file as he questions Ellie.
+C: CHAIRMAN
+D: ... And this is how the extraterrestrial presented himself to you? As your father?
+C: ELLIE
+D: Yes, sir.
+C: CHAIRMAN
+D: He died... ...in 1972.
+E: looks at file
+C: ELLIE
+D: Yes, sir.
+C: CHAIRMAN
+D: Dr. Arroway, do you think it's possible you had some kind of... delusional episode.
+E: pausing
+N: Joss leans forward in his chair.
+C: ELLIE
+D: Is it possible...?
+C: CHAIRMAN
+D: All the elements are there. A woman, orphaned young, under a great deal of stress. The failure of a project she's staked her self-worth and very sense of identity on-- induces a fantasy of reuniting with her 'father in heaven' as it were. Is it possible?
+N: Ellie is silent.
+C: KITZ
+D: Please answer the question, Doctor.
+C: ELLIE
+D: Is it possible. Yes. But--
+E: a long silence
+C: KITZ
+D: Thank you, Doctor. Now--
+C: ELLIE
+D: --but I don't believe it to be the truth.
+E: overriding him
+C: CHAIRMAN
+D: You don't believe it to be... tell me something, Doctor. Why do you think they would go to all this trouble... bring you tens of thousands of light years, and then send you home without a shred of proof? Sort of bad form, wouldn't you say? What was their intent?
+E: peering at her; intrigued
+C: ELLIE
+D: I don't know. Ultimately their motives may be as incomprehensible as their technology.
+E: hesitates
+N: The crowd murmurs. Committee members exchange glances.
+C: CHAIRMAN
+D: Dr. Arroway, you come before us with no evidence. No records, no artifacts--only a story that--to put it mildly--strains credibility. Over two trillion dollars was spent, hundreds of lives were lost, many more may be in jeopardy due to the almost incalculable worldwide psychological impact... Are you
+E: sigh MORE
+C: CHAIRMAN
+D: going to sit there and tell us that we should simply take this all on faith?
+E: CONT’D
+N: The word rings out like a shot. Silence.
+C: KITZ
+D: Answer the question, Doctor. As a scientist--can you prove any of this?
+N: JOSS Holding his breath. ELLIE Closes her eyes. Finally, almost inaudibly:
+C: ELLIE
+D: No.
+N: The room is silent. Almost gently:
+C: KITZ
+D: So why don't you admit what by your own standards must be the truth: that this experience simply didn't happen.
+C: ELLIE
+D: Because I can't.
+E: pauses, then, simply
+N: The crowd reacts. Ellie looks up to the gallery... and finds Joss. As she speaks with great emotion and restraint, she seems to be talking directly to him.
+C: ELLIE
+D: I had... an experience. I can't prove it. I can't even explain it.
+E: MORE
+C: ELLIE
+D: All I can tell you is that everything I know as a human being, everything I am--tells me that it was real.
+E: CONT’D
+N: The room grows quiet.
+C: ELLIE
+D: I was given something wonderful. Something that changed me. A vision of the universe that made it overwhelmingly clear just how tiny and insignificant--and at the same time how rare and precious we all are. A vision... that tells us we belong to something greater than ourselves... that we're not--that none of us--is alone.
+E: softly
+N: JOSS Moved beyond words. ELLIE looks lovingly at Palmer... then shifts her gaze to Michael Kitz. Softly:
+C: ELLIE
+D: I wish I could share it. I wish everyone, if only for a moment-- could feel that sense of awe, and humility... and hope. That continues to be my wish.
+N: The emotion in her voice compels the room to silence. Kitz. Joss. Ellie.
+S: INT. CAPITOL BUILDING - CORRIDOR - NIGHT
+N: Spilling out; reporters closing in. As Kitz emerges he sees Ellie--she meets his gaze. A moment... and then he nods, walks briskly off. Ellie turns--to find Joss standing by the door, waiting for her. A timeless moment... ...and then she silently crosses to him and lets him fold her into his arms.
+S: EXT. CAPITOL BUILDING - NIGHT
+N: The rain lashes down unabated. A sea of press crushing in on Ellie and Joss as they grimly make their way through, police clearing the way--A ZEALOT intones in the b.g.--
+C: ZEALOT
+D: '...He dreamed, and behold, a ladder was set up on the Earth, and the top of it reached to heaven... Surely the Lord is in this place, and I knew it not. This is none other but the House of God.'
+N: As Ellie moves through the crowd PEOPLE in wheelchairs fight to approach, people with terrible deformities-- they call to her:
+C: PEOPLE
+D: Ellie... Bless me, Ellie... Heal me...
+N: Ellie, torn between wanting to help these suffering souls and not wanting to lie, whispers:
+C: ELLIE
+D: I'm sorry... I'm sorry...
+N: And then the reporters descend, shouting out questions-- one in particular rings out--
+C: REPORTER
+D: Reverend Joss, do you think the failure of the machine is God's rebuke to science?
+N: Joss stops. He turns to the crowd; slowly:
+C: JOSS
+D: As a person of faith... I am bound by a different covenant than Dr. Arroway--but I believe our goal is one and the same: the pursuit of the truth. I think today Dr. Arroway continued that pursuit under the most trying of conditions.
+N: He puts his arm around Ellie and hurries away. The crowds, the media watch as the Messiah who failed disappears into the rainy night. SERIES OF SHOTS A) HOKKAIDO The entombment of the machine has begun. Scaffolding on all sides, swarming with workers in quarantine suits. Helicopters fly overhead, dumping load after load of concrete. B) VLA boarded up, deserted. Weeds springing up around the now-rusting cyclone fence; the desert moving in to reclaim what it had briefly lost. The radio dishes waiting, silent. C) SMALL COUNTRY CEMETERY a familiar fishpond in the b.g. Ellie, holding a small bunch of wildflowers, kneels to gently place them on her father's grave.
+S: EXT. LAKE TIMOTHY (OREGON) - DUSK (DECEMBER 31, 2001)
+N: The small figures of Ellie and Joss walk along the beautiful lake under the forested slopes of Mt. Hood.
+C: ELLIE
+D: ...but it is a good question, and I suppose I'll always wonder about the
+E: MORE
+C: ELLIE
+D: answer: Why would they send me back without proof?
+E: CONT’D
+C: JOSS
+D: Maybe what you experienced can't be reduced to images on a videotape. Maybe they still plan to grant your request, only in their own way, in their own time... Or maybe it's just like you said: ultimately their motives may be as incomprehensible as their technology.
+C: ELLIE
+D: In other words, God works in mysterious ways...
+C: JOSS
+D: In other words.
+E: smiles
+N: They stop, look out at the water.
+C: ELLIE
+D: I don't know. If it was a god, it was searching for a greater one. It was still searching for meaning...
+C: JOSS
+D: Does that mean you think it doesn't exist?
+C: ELLIE
+D: I'm not sure... Maybe it simply exists in the search for it. Maybe it’s something we have to make for ourselves.
+E: looking up
+C: JOSS
+D: Meaning...
+C: ELLIE
+D: Something my dad--they--said. 'After all the suffering, after all
+E: MORE
+C: ELLIE
+D: the desolation of the void--the one thing that makes the vastness tolerable is each other.' The one thing that makes it bearable is love.
+E: CONT’D looking up at Joss
+N: She takes his hand... and then they look up at the sky, where the first stars are coming out.
+C: BBC REPORTER
+D: ...and while the riots here in London continue for the fourth night in a row, on the other side of the Atlantic the news is equally grim...
+E: V.O.
+N: REPORTER #1 (V.O.) (overlapping) ...thousands of starving refugees fled the area as the bloody fighting continued... REPORTER #2 (V.O.) ...a massive book burning took place in downtown Berlin today... REPORTER #3 (V.O.) ...and on this last night of the old millennium and the eve of the new one, looking back on a past racked by violence and chaos, we of the human race look ahead to an uncertain future--a future which, at least for now, seems to promise only more of the same...
+T: The VOICES FADE into oblivion. CUT TO:
+S: EXT. HOKKAIDO MACHINE - DUSK
+N: The machine stands entombed; silent, inscrutable. All is still. Then, the first sign: small insects crawl from cracks in the pavement. A stirring. A slight breeze. A subtle HUMMING sound-- A monk stirs in his bed in the nearby monastery; if not awakened by the strange vibration then by the SHRIEKING MONKEYS outside. A vibration. Something is happening at the core of the concrete edifice--it begins to crack-- From inside comes a sound, a terrible, otherworldly ROAR-- The next transformation has begun. FROM TWO MILES OUT AT SEA The island of Hokkaido is shrouded by an ominous microclimate... a vortex out of which radiates an awful vibration like the shockwave of a bomb. A Japanese fisherman smoking a cigarette on his shrimpboat looks up in awe. MACHINE is lifting, spinning--dissolving into itself--leaving only the vortex of a prodigious wormhole-- DOWNTOWN TOKYO A thousand neon signs go dark. New Year’s revelers look up in fear.
+S: EXT. SAN DIEGO ZOO - NIGHT
+N: and the keepers have never known the animals to be so disturbed. VIRGINIA SUBURB Peter Valerian steps out of his front door and stares up at the sky. His wife joins him; he silently puts his arm around her-- WASHINGTON OFFICE Michael Kitz turns to look out the window at the D.C. skyline--fear on his face as he looks down at a picture of his family, wife and two kids-- BALKANS Guerrillas look up at the terrifying sky as the GUNFIRE DIES. ON SERENGETI Stampeding wildebeest wheel around seemingly to form a vast circle. SOMEWHERE IN PACIFIC Great swirling pod of dolphin swim in a frenzied circle. INDIA A circle of dung beetles in the dust. EARTH from Hadden's darkened viewport. The land obscured by a rapidly growing cloud that fills the ecosphere. ELLIE AND JOSS stand outside a lakeside cabin, transfixed. A wind picks up. Grows stronger. A deep RUMBLING sound, felt more than heard: a sound too vast to be any sound at all. The wind grows stronger. The LIGHTNING CRACKLES, flushing birds from trees-- And then everything becomes perfectly still--the RUMBLING STOPS-- --a deafening silence--then-- SOUNDLESS CONCUSSION OF VIOLET LIGHT high over Times Square--Kitz's office--a solitary farmhouse under the Nebraska sky--downtown Tokyo--a lonely freighter in the middle of the Pacific-- EVERYWHERE--
+S: EXT. EARTH ORBIT - 250 MILES UP
+N: Looking toward the Earth past the deserted Mir Station-- the brilliant violet flash-- EGYPT The Valley of the Kings. The faces of the long dead Pharaohs bathed in the violet light. SAHARA Children stare up in wonder at the same light. TIME SQUARE/PICCADILLY CIRCUS People stand frozen in awe. WASHINGTON D.C. At the Lincoln Memorial the great man looks down as the homeless crawl out from their cardboard shelters, bathed in the brilliant light... ELLIE AND JOSS stare up at the sky at an impossible view. It is the view from the center of the galaxy. THROUGH the mouth of the enormous wormhole, we can see the machine returning to Grand Central Station as a dazzling Aurora Borealis fills the sky-- VARIOUS SHOTS - ALL OVER THE WORLD All over the world faces of every race and ethnicity stare up at a billion blazing multicolored suns lighting up the heavens, brighter than the brightest day. The citizens of the Earth look up and wonder as the CHIMES of MIDNIGHT RING OUT all over the world-- ELLIE Her eyes filled with tears of wonder and joy, smiles. She's found what she's been searching for.
+T: CUT TO:
+N: BLACK CARD BRING ON THE MILLENNIUM
+T: FADE TO BLACK.
+N: THE END

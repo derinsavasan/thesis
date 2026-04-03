@@ -1,0 +1,2625 @@
+M: 'MR. TURNER'
+M: An Original Screenplay
+M: by
+M: Mike Leigh
+M: Sunset. A windmill by a stream.
+M: TWO WOMEN pass by, chattering cheerfully in Dutch.
+M: A MAN stands on the horizon. He is sketching.
+M: This is J.M.W. TURNER.
+M: TITLES
+M: A busy London street in the mid-1820’s. TURNER goes on his
+M: way, carrying his bags.
+M: Arriving at his house, Turner lets himself in with his key.
+M: In the hall, he hangs up his hat.
+M: TURNER
+M: Oi!
+M: He encounters a young woman, HANNAH.
+M: Aye, aye, me damsel.
+M: HANNAH
+M: Welcome home, Mr. Billy. We've been
+M: worried to death about you.
+M: TURNER
+M: For why?
+M: HANNAH
+M: On account of that explosion.
+M: TURNER
+M: What was that?
+M: HANNAH
+M: At Ostend.
+M: TURNER
+M: Oh, yes. I heard tell of that at
+M: Antwerp. Dreadful. Dirty linen.
+M: He gives her one of his bags.
+M: HANNAH
+M: Mr. William's been getting in a
+M: stew about it.
+M: TURNER
+M: Is he out and about his business?
+M: HANNAH
+M: That he is.
+M: Turner enters his dark studio. He starts to open the
+M: shutters. Light streams into the room. Hannah brings him a
+M: small glass of sherry, which he drinks. She helps him to
+M: open the shutters and to move a work table.
+M: TURNER
+M: You faring well?
+M: HANNAH
+M: Thank you. How was your journey
+M: home?
+M: TURNER
+M: It was execrable.
+M: HANNAH
+M: Oh. Mm. You in need of anything
+M: else?
+M: TURNER
+M: Tea.
+M: He has sat down. She hovers by him.
+M: He feels her breast. Then he briefly lays his had on her
+T: crutch. She scuttles out.
+N: WILLIAM TURNER SNR comes round the corner of a busy street, carrying a large shopping basket. He enters a shop. Shelves of art supplies, notably large jars of brightly coloured pigments. The COLOURMAN stands behind the counter.
+C: TURNER SNR
+D: Good morning, Signor Grande.
+C: COLOURMAN
+D: Mr. Turner. Buongiorno.
+C: TURNER SNR
+D: Joshua.
+C: JOSHUA
+D: Morning, Sir.
+E: an assistant
+C: COLOURMAN
+D: We have the damn rats.
+C: TURNER SNR
+D: No shortage of them in this city.
+C: COLOURMAN
+D: What can I do for you today?
+E: says something in Italian. Then -
+C: TURNER SNR
+D: Let me see.
+C: COLOURMAN
+D: He is back?
+C: TURNER SNR
+D: We are expecting him any day now.
+C: COLOURMAN
+D: What do we need?
+C: TURNER SNR
+D: An ounce of chrome yellow.
+C: COLOURMAN
+D: Chrome yellow, Joshua.
+C: JOSHUA
+D: Chrome yellow, sir. Joshua attends to this.
+C: TURNER SNR
+D: A large packet of flake white.
+C: COLOURMAN
+D: Flake white.
+C: TURNER SNR
+D: What is your price for a bladder of ultramarine?
+C: COLOURMAN
+D: My price is the best price. He weighs out the powdered paint.
+C: TURNER SNR
+D: And what might that price be?
+C: COLOURMAN
+D: Blue ultramarine is coming from far, far away. Afghanistan. What else do you need?
+C: TURNER SNR
+D: Bottle of poppy oil, some Indian red.
+C: COLOURMAN
+D: Poppy oil, Joshua.
+C: JOSHUA
+D: Yes, sir. A bustling market. TURNER SNR passes by the stalls, inspecting the wares as he goes. He enters a butcher’s shop. The butcher selects a pig’s head for him. Turner’s house. In the kitchen. Hannah pounds some ingredients with a mortar. Turner Snr puts down his basket. The pig’s head is visible.
+C: TURNER SNR
+D: There’s your prize porker.
+C: HANNAH
+D: Is he handsome?
+C: TURNER SNR
+D: He has a big smile on his face. You making the sauce?
+C: HANNAH
+D: It’s all but done, save the brains.
+C: TURNER SNR
+D: Good. Dearie me.
+C: HANNAH
+D: Will you take a dish of tea, Mr. William?
+C: TURNER SNR
+D: Thank ye, Hannah. He makes as if to sit, then doesn’t.
+C: HANNAH
+D: Shall you be putting those chattels away? I should.
+C: TURNER SNR
+D: Best do it now. Then I can rest me weary legs. He leaves the kitchen, and goes up some stairs. Hannah follows him at a short distance. She hovers in a doorway, listening to the old man and his son. In Turner’s studio.
+C: TURNER SNR
+D: You’re home, Billy boy!
+C: TURNER
+D: Hey, Daddy! They hug each other.
+C: TURNER SNR
+D: I thought you was exploded. I’ve been down on my knees and praying you was safe.
+C: TURNER
+D: Well, you’ve been chafing your old pedestals for naught, Daddy. I was a hundred miles distant.
+C: TURNER SNR
+D: You heard tell of it, then?
+C: TURNER
+D: I did indeed.
+C: TURNER SNR
+D: Terrible. They poor souls has perished, two score or more.
+C: TURNER
+D: Yes, took a few brave soldiers with it an’ all. I was vexed to learn you’ve been entertaining concerns, old Dadda.
+C: TURNER SNR
+D: ‘Twas only natural.
+C: TURNER
+D: Daddy. They kiss each other. Then they move to the work table, where Turner is preparing some watercolours.
+C: TURNER SNR
+D: How was your crossing?
+C: TURNER
+D: Set fair on departure, lumpy in the middle.
+C: TURNER SNR
+D: Did you sail from Rotterdam?
+C: TURNER
+D: No, Dieppe. Night coach from Brighton proved to be an heinous travail.
+C: TURNER SNR
+D: How so?
+C: TURNER
+D: It was stuffed full of yacking and cackling females. Pox-ridden harridan as broad in the beam as the old Victory at Trafalgar.
+C: TURNER SNR
+D: Were your travels productive?
+C: TURNER
+D: Exceeding refreshing, old Daddy. Amsterdam: had a gander at the Rembrandt; Militia Company, Antwerp Cathedral; Rubens, the triptych; Flanders: still as flat as a witch's tit. Hannah brings Turner Snr a cup of tea.
+E: MORE
+C: TURNER SNR
+D: Thank you, Hannah. You sly girl. Did you find tolerable diggings?
+C: TURNER
+D: Stinking fleapit at Dieppe, then moved to the harbour. Westerly aspect, fine sunset. Oh, Daddy, I’m in need of an eight by six.
+C: TURNER SNR
+D: I have a seven by five and a half ready sized and primed.
+C: TURNER
+D: That should suit.
+C: TURNER SNR
+D: Right you be. Turner Snr sits down at a desk.
+C: TURNER
+D: More's to the point, how have you been faring?
+C: TURNER SNR
+D: In good health, thank the Lord.
+C: TURNER
+D: Bronchials still rattling?
+C: TURNER SNR
+D: No.
+C: HANNAH
+D: He was wheezing last week.
+C: TURNER SNR
+D: Shh!
+C: TURNER
+D: October ain’t quite come round the corner yet, has it?
+C: TURNER SNR
+D: I’ve been over to Grande’s. Ultramarine's gone up to a guinea a bladder.
+C: TURNER TURNER
+D: Gawd’s truth! That brigand still robbing us, is he?
+E: CONT'D
+C: TURNER SNR
+D: You’re in need of a shave.
+C: TURNER
+D: Well, be that as it may, Daddy. Presently I'm gonna throw myself into the arms of Morpheus. Turner leaves the room and goes upstairs. Hannah hovers for a moment, then leaves. The old man attends to some paperwork. Turner’s house. Turner Snr bears a very large canvas through the hall, and into the studio. In the kitchen, Hannah watches as Turner Snr shaves the pig’s head. Turner Snr carries a jug of hot water up the stairs and enters Turner’s bedroom. Turner is asleep on his bed, fully clothed. His father pinches his toe. He wakes up. Church bells chime in the distance. A little later, Turner Snr is shaving his son.
+C: TURNER SNR
+D: I took a trip down west, Exeter, last week.
+C: TURNER
+D: How fares the old uncle?
+C: TURNER SNR
+D: Bearing up, considering.
+C: TURNER
+D: Considering what?
+C: TURNER SNR
+D: Well, his age, living alone. Here’s the thing. He wants to arrange a family gathering. They both roar with laughter. Father and son are eating at the kitchen table. Hannah sits nearby, watching them. The cooked pig’s head sits on a large plate.
+C: TURNER SNR
+D: Will you take some more cheek?
+C: TURNER
+D: Cast us another morsel. Turner Snr serves his a slice of pork. Hannah gives him some vegetables.
+C: HANNAH
+D: Missing your button, Mr. Billy. Turner inspects his coat. Hannah scratches the back of her neck, which is a little inflamed. A darkened room in Turner’s house, hardly lit - only a couple of candles. Turner Snr shows three middle-aged people into the room, and ELEGANT LADY and GENTLEMAN, and a long-haired, bespectacled ARTISTIC-LOOKING MAN.
+C: TURNER SNR
+D: Be so kind as to enter the vestibule. The darkness is to a purpose. I shall return, by and by. He goes out, closing the door behind him. The gentleman whispers something to the lady. Long pause. Then Turner Snr returns. He moves round them.
+C: TURNER SNR
+D: Madam. Gentlemen. He stops by some double doors, which are closed.
+C: TURNER SNR
+D: Behold! Turner’s brightly-lit art gallery is revealed.
+C: TURNER SNR
+D: Three steps down. Pray view at your leisure. The trio step down into the gallery and begin to peruse the paintings. Turner Snr hovers near the door. Turner is in his studio, painting at an easel. He stops, and goes to the wall; he opens a very small door, about the size of a small book, and looks through a tiny peep-hole into the gallery. Turner Snr smiles slyly at him as the potential customers inspect the goods. A little later, Turner is still painting in his studio. His father is relaxing in the drawing room, reading his newspaper and smoking his pipe. There is a loud knock on the front door. He looks up. On her way to the front door, Hannah closes the door of Turner’s studio. In the drawing room Turner Snr listens to the following, which we only hear. So does Turner in his studio. He is not pleased.
+C: SARAH DANBY
+D: Good day to you, Hannah.
+C: HANNAH
+D: Good day to you, Aunt Sarah.
+C: SARAH DANBY
+D: And how are you faring?
+C: HANNAH
+D: Very well, thank you. Are you coming in?
+C: SARAH DANBY
+D: I most certainly am. Is he at home?
+C: HANNAH
+D: He is. I’ll tell him you’re here.
+C: SARAH DANBY
+D: I can inform him myself, thank you kindly. SARAH DANBY now bursts aggressively into Turner’s studio, accompanied by her two adult DAUGHTERS, one of whom holds a newborn baby.
+C: SARAH DANBY
+D: Good day to you, sir.
+C: TURNER
+D: And a very good day to you, Mrs D. He continues to paint.
+C: SARAH DANBY
+D: And how do we find you on this fair morning?
+C: TURNER
+D: Exceedingly preoccupied, madam.
+C: SARAH DANBY
+D: ‘Twas ever thus. You’ve always been preoccupied. You’re too preoccupied for your own good, sir.
+C: TURNER
+D: Nothing comes from nothing, madam.
+C: SARAH DANBY
+D: And we have had nothing from you, sir. Evelina, Georgiana, come and greet your father.
+C: EVELINA
+D: Good day, Father. May I present my child to you?
+C: SARAH DANBY
+D: Your granddaughter.
+C: EVELINA
+D: Rosalie Adelaide.
+C: SARAH DANBY
+D: Your only surviving grandchild. Georgiana, cease your dithering! The younger daughter, who has hovered by the door, comes forward tentatively.
+C: TURNER
+D: May I suggest, Mrs. D, with the utmost respect, that you withdraw to the drawing room? Turner Snr enters.
+C: TURNER SNR
+D: Good day to you, Mrs Danby. Would you care to step this way?
+C: SARAH DANBY
+D: Good day to you, Mister Turner. And will you be gracing us with your presence in the withdrawing room, sir?
+E: To Turner
+C: TURNER
+D: Hmm.
+C: SARAH DANBY
+D: I sincerely hope you will. And, pray, do not keep us waiting. We have our own lives to lead. Come along, daughters.
+C: EVELINA
+D: The vapours in this room are most noxious to a child’s lungs. The women all sweep out. Turner Snr exchanges an understanding glance with his son, then leaves, closing the door behind him. As he does so, Turner angrily kicks a stool across the studio. In the drawing room. Evelina has sat down, holding the baby. Sarah and Georgiana stand by the sofa. Hannah hovers. Turner Snr enters.
+C: TURNER SNR
+D: Ladies, pray, sit yourselves. Sarah, if you please.
+C: SARAH DANBY
+D: I shall be seated, William, when it suits me, and not before.
+C: TURNER SNR
+D: So be it. She’s a pretty little thing.
+C: EVELINA
+D: Thank you, Grandfather. We are most proud of her.
+C: SARAH DANBY
+D: We are indeed.
+C: HANNAH
+D: Have you been out strolling, Aunt Sarah?
+C: SARAH DANBY
+D: No, neice. I’ve been to collect my pension at Leicester Fields, it being the first of the month. She sits.
+C: HANNAH
+D: Indeed. Enter Turner.
+C: TURNER
+D: Your latest infant?
+C: EVELINA
+D: To be sure, Father.
+C: TURNER
+D: Of robust constitution?
+C: EVELINA
+D: She has an excellent character.
+C: TURNER
+D: One must trust in Providence. Colour of eye?
+C: EVELINA
+D: Blue, as yourself.
+C: TURNER
+D: Splendid.
+C: SARAH DANBY
+D: Do not forget your other daughter, sir, whom you have deigned to neglect these past two years. Sit down, Georgiana. Georgiana does so.
+C: EVELINA
+D: She is learning French.
+C: SARAH DANBY
+D: And music. She is having an education. Reading, writing, arithmetic and geography with the globe.
+C: EVELINA
+D: Sit up straight, Georgie. Dit quelque chose en français.
+C: TURNER
+D: Bonjour.
+C: GEORGIANA
+D: Bonjour, Papa.
+C: SARAH DANBY
+D: Are you keeping well?
+C: TURNER
+D: I am.
+C: SARAH DANBY
+D: I was not addressing you, sir.
+C: TURNER SNR
+D: I enjoy good health, thank’ee. And yourself.
+C: SARAH DANBY
+D: We are surviving as best we can under the circumstances.
+C: TURNER SNR
+D: And what circumstances might they be?
+C: SARAH DANBY
+D: Straightened circumstances, sir. But we manage to keep body and soul together, no thanks to your ungrateful son. Turner walks out of the room. Sarah gets up, and shouts after him.
+C: SARAH DANBY
+D: How dare you take your leave of me, Billy Turner! You insult me, as you have always insulted me! Billy! A street. Turner gets into a two-horse coach. A coachman holds the door open for him, then closes it, and clambers up onto the back of the coach. There are two coachmen at the front. One of them is driving. The coach leaves. Now the coach wends its way through the beautiful English countryside. It arrives at a stately home. Later. Sunset. Across an expansive meadow towards the house comes an elderly gentleman with his dogs. This is LORD EGREMONT, and the house is Petworth. Turner watches him from the steps. Lord Egremont arrives, the dogs disperse, and the two men walk through a couple of rooms. A piano is being played somewhere nearby.
+C: LORD EGREMONT
+D: Good evening, William.
+C: TURNER
+D: Felicitations of the evening to you, Your Lordship. You faring well?
+C: LORD EGREMONT
+D: Bit breathless. Been up to the farm. Watch the sunset. Say goodnight to the milkmaids.
+C: TURNER
+D: Any further consideration as to mechanicalising the thresher?
+C: LORD EGREMONT
+D: You can’t beat the old oxen.
+C: TURNER
+D: Is that so, Your Lordship?
+C: LORD EGREMONT
+D: Indeed. We had a ploughing competition last spring between teams of horses and teams of oxen.
+C: TURNER
+D: And the victor?
+C: LORD EGREMONT
+D: The horses.
+C: TURNER
+D: Well, the ox is a sluggish beast.
+C: LORD EGREMONT
+D: Yes, but strong.
+C: TURNER
+D: With the added benefit, when it comes to the end of its natural working life, it makes a very succulent dish.
+C: LORD EGREMONT
+D: Unlike the horse.
+C: TURNER
+D: Good for glue. A STOUT, AFFECTED FELLOW has been hovering in the background. He now approaches them.
+C: MANNERS
+D: Your Lordship. A very good evening to you, sir.
+C: LORD EGREMONT
+D: Good evening, Manners.
+C: MANNERS
+D: Mr. Turner. Are we not blessed by the heavens to witness so glorious a crepuscular time of day......? He leaves them.
+C: LORD EGREMONT
+D: Imbecile. Turner and Lord Egremont now inspect a pair of Turner’s landscapes that have clearly been painted specially for the permanent positions they occupy in the room.
+C: TURNER
+D: Continuing satisfaction as to the arrangement, Your Lordship?
+C: LORD EGREMONT
+D: I think we have successfully achieved the correct effect, William.
+C: TURNER
+D: Thank you. They move on, passing a wigged footman who is seeing to the candelabra on the mantelpiece.
+C: LORD EGREMONT
+D: Good evening, Nat.
+C: FOOTMAN
+D: Good evening, My Lord. They now pass A LADY playing the piano.
+C: LORD EGREMONT
+D: Good evening, Miss Coggins.
+C: MISS COGGINS
+D: Your Lordship. Mr. Turner. Turner and Lord Egremont arrive at two more of Turner’s paintings set in the wall.
+C: LORD EGREMONT
+D: How’s your Father faring, William?
+C: TURNER
+D: Bearing up, Your Lordship. Very gracious of you to inquire. We thought we’d lost him this last winter, a very harsh one. He came through. He’s a hardy old cove.
+C: LORD EGREMONT
+D: Excellent. See you at dinner.
+C: TURNER
+D: Indeed. After a momentary pause, Turner joins Miss Coggins, standing near the piano until she finishes playing.
+C: TURNER
+D: Exceedingly beautiful.
+C: MISS COGGINS
+D: You are too kind.
+C: TURNER
+D: I’m familiar with the melody, but...
+C: MISS COGGINS
+D: Herr Beethoven. The Pathétique.
+C: TURNER
+D: I possess a rare fondness for Henry Purcell.
+C: MISS COGGINS
+D: As do I. Yes. She plays a fragment of a tune.
+C: TURNER
+D: ‘Dido’s Lament.’ May my wrongs create, create no sorrow ...
+E: Sings MORE
+C: MISS COGGINS
+D: “Trouble”
+C: TURNER
+D: Trou ... no trouble in they breast ... thy breast;
+C: MISS COGGINS
+D: “Thy breast.”
+C: TURNER
+D: In thy breast. Remember me, remember me, but
+C: MISS COGGINS
+D: “Ah! Forget my fate”
+C: TURNER
+D: Forget my fate. Remember me, but ah! Forget my fa ... my fate. A song of lost love.
+E: Pause
+C: MISS COGGINS
+D: Indeed.
+C: TURNER
+D: I thank you.
+C: MISS COGGINS
+D: Thank you, Mr. Turner.
+C: TURNER
+D: Madam. He leaves, discretely. Miss Coggins is overcome with emotion. Elsewhere in the house, two slightly hysterical YOUNG LADIES rush up a staircase, stopping at the top by a doorway. They giggle at something going on in the room, which they then enter. Watched by a stout, MIDDLE-AGED LADY sitting near him, Turner is painting at an easel. The young women join them.
+C: TURNER LADY STUCKLEY
+D: Mr. Turner: I have often pondered: might there be a distinction between the way you paint a sunrise as opposed to a sunset?
+E: CONT'D
+C: TURNER
+D: There is indeed, Lady Stuckley. ‘Cause one is going up, whilst the other is going ...
+C: FIRST YOUNG LADY
+D: ... the other is going down.
+C: SECOND YOUNG LADY
+D: Eliza, do hush.
+C: LADY STUCKLEY
+D: And might it also be determined by the angle of the light?
+C: TURNER
+D: Well, it’s weather, vapour, wind, frangibility and such like.
+C: SECOND YOUNG LADY
+D: Eliza, look at his nails.
+C: FIRST YOUNG LADY
+D: Shh.
+C: TURNER
+D: Whilst you Goddesses are languishing in the Kingdom of Hypnos, I am up before the lark to witness Helios popping his head above the parapet, with the only benefit that the sunrise is not afflicted... with diminishing light. He spits on the canvas. One of the young ladies laughs, whilst the other turns away in disgust. Still at Petworth. Turner leads a bespectacled man into a room, where a third man is looking at a painting. The men are HAYDON, a painter, and CAREW, a sculptor. Carew speaks with an Irish accent. The painting is “Saint Sebastian comforted by an Angel” by Gerard Seghers. Turner slaps Carew on the back.
+C: TURNER
+D: Carew.
+C: CAREW
+D: Turner. I’m by way of observing poor Saint Sebastian here.
+C: HAYDON
+D: The artist is not known to me.
+C: TURNER
+D: Flemish. Uncommonly capacious rump on the cherub.
+C: HAYDON
+D: It might have gained in potency with an increase of arrows.
+C: TURNER
+D: Well, yon celestial fellow’s tugging them all out.
+C: HAYDON
+D: I can hardly bear to look upon it.
+C: CAREW
+D: The pain on his face. The mark of resignation in it.
+C: HAYDON
+D: ‘Tis a willing sacrifice, is it not?
+C: TURNER
+D: ‘Twas not how the poor soul perished. He was brought back to full health by a good Samaritan. Then the heathens cudgelled him to death and deposited him in a sewer.
+C: HAYDON
+D: I would question the veracity of that telling.
+C: TURNER
+D: No good deed goes unpunished. At this, Carew promptly leaves.
+C: HAYDON
+D: What a curious fate is mine. Last month in the King’s Bench Prison in the company of debtors. This month a guest of quality, rank and fashion.
+E: MORE
+C: TURNER
+D: Rejoice, Haydon. You find yourself in a veritable bacchanalia. His Lordship keeps a very fine wine cellar. Be sanguine. Fill your boots!
+C: HAYDON
+D: Might I ask you to loan me some money, Turner?
+C: TURNER
+D: I beg your pardon?
+C: HAYDON
+D: I’m in dire and pressing need of one hundred pounds.
+C: TURNER
+D: Out of the question.
+C: HAYDON
+D: My landlord, he’s a good man, a patient man, but he will not wait forever. I need to pay the wine merchant, my colourman ...
+C: TURNER
+D: And your dear wife, Mrs. Haydon, she faring well?
+C: HAYDON
+D: Mrs. Haydon is presently with child.
+C: TURNER
+D: Well, you have my hearty congratulations, Haydon.
+C: HAYDON
+D: Congratulations are not in order. I’m in torment.
+C: TURNER
+D: I’m not unsympathetic to your impecunity, Haydon. Therefore I can advance you fifty pounds.
+C: HAYDON HAYDON
+D: Turner, if one hundred pounds will not spare me from this predicament, what in Jesu’s name can fifty pounds do?
+E: CONT'D
+C: TURNER
+D: Then you are refusing to accept the fifty pounds?
+C: HAYDON
+D: It is damned inadequate.
+C: TURNER
+D: I wish you good day, sir. Turner leaves. Haydon hesitates for a moment, then follows him to the doorway to the expansive meadow.
+C: HAYDON
+D: Turner. My word is my bond. I may not yet be an Academician, but I am a gentleman. I have a painting presently with the King at Windsor. I’m assured he will buy it from me for five hundred guineas or more. Furthermore, I have another fine painting in mind, a companion piece, which he is most certain to purchase in addition.
+C: TURNER
+D: Who has made these assurances?
+C: HAYDON
+D: The King’s private secretary, Knighton. Turner grunts.
+C: TURNER
+D: I can furnish you with five pounds this morning.
+C: HAYDON
+D: Five pounds? Fifty pounds is not sufficient. Five pounds is tantamount to an insult.
+C: TURNER
+D: Sir, I beseech you, brook your ire. If you attend my residence at London, I will loan you fifty pounds.
+C: HAYDON
+D: In addition to the five?
+C: TURNER
+D: Mr. Haydon, you are exceedingly tiresome.
+C: HAYDON
+D: I am gratified. I humbly accept the fifty pounds. Might I find you at the same address? I may swim. Haydon strides off purposefully. JONES, LESLIE and BEECHEY join Turner; they all watch Haydon recede into the distance.
+C: JONES
+D: ‘And the spirit immediately drove him out into the wilderness.’
+C: LESLIE
+D: A tormented soul, for sure. I sympathise, but he attributes all of his failures to anything other than his own behaviour.
+C: BEECHEY
+D: Indeed.
+C: LESLIE
+D: His complaint with life is as absurd as that of a spoke in a wheel railing against the motion that it must of necessity partake.
+C: TURNER
+D: I concur. He suffers the fate of Tantalus. He reaches for the fruit, the branch moves. When he stoops to drink, the water goes down.
+C: BEECHEY
+D: If only he would consider the wishes of his public rather than pursuing his own peculiar convictions. It would be his salvation.
+C: LESLIE
+D: And yet, my dear Beechey, as his personal troubles increase, so the quality of his painting suffers.
+C: BEECHEY
+D: But, still, the man can paint.
+C: LESLIE
+D: For sure. He can paint a Haydon.
+C: JONES
+D: The return of one prodigal is worth more than gold.
+C: BEECHEY
+D: An essential quality for a prodigal, sir, is humility.
+C: TURNER
+D: He is a cracked pot. He’s heading for a fall. He goes off into the house.
+C: LESLIE
+D: Gentleman, are we as one?
+C: BEECHEY
+D: Sadly. I cannot give him my support. He is not of our temper.
+C: JONES
+D: Alas, the Academy does not have need of Haydon so much as Haydon has need of the Academy. They leave. Haydon is still visible on the distant horizon, striding towards the lake. Exterior. Petworth House. A moonlit night. Bright lights in the house. Two men stroll along the terrace. A piano is playing inside. In the large candle-lit room, a concert is being given to a large, enthusiastic audience. Turner is sketching. The first of the two young ladies we saw earlier is singing a song by Rossini . She is accompanied by Miss Coggins. Lord Egremont enters. Everybody stands, including Turner, but he beckons them all to sit. The songs ends, to much applause. The Second Young Lady enters the room, and rushes over to her friend. They giggle together. A YOUNG MAN gets up and speaks.
+E: in English
+C: YOUNG MAN
+D: With Your Lordship’s permission, ladies and gentlemen, our next offering, we hope, is of a somewhat more playful nature.
+C: LORD EGREMONT
+D: Playful as you wish.
+C: YOUNG MAN
+D: Thank you. He picks up a clarinet and proceeds to play it badly. The First Young Lady and Miss Coggins are put out. Turner winces in an amused way.
+C: FIRST YOUNG LADY
+D: I’m a poor simple girl So excuse me, sir, pray. I am just one and twenty the first of next May. I never do harm, but I tend to my farm. I'm up early and late, and though humble my state. I don't envy my betters but bear 'em good will. And I’m called Pretty Kitty - Pretty Kitty, Pretty Kitty, The maid of the mill. I have lovers in plenty Come hither to woo. If they will be so teasing, pray what can I do? I'm good-tempered and kind and a youth to my mind Who is open and free would be happy with me - But they all are so stupid that none of them will Pop the question to Kitty - Pretty Kitty - The maid of the mill. All have been much amused throughout the course of the song, although, to Turner’s wry amusement, a SMALL ECCLESIASTICAL MAN ran out in disgust at the “lovers in plenty”. Loud applause at the end. On a steamer at sea. Turner, his bag on his shoulder, picks his way through the passengers. A FIDDLER plays a nautical tune. Turner goes up some stairs to the upper deck. He stands by an UNHAPPY YOUNG COUPLE. The youth is trying to coax his grumpy partner. She is having none of it, and leaves. The embarrassed young man tips his hat at Turner, and follows her. Turner watches as the Fiddler concludes. Applause. The Fiddler bows. Now Turner is at a busy seaside town, on the seafront. Passing fish and vegetable vendors, and many folk out strolling or chatting, he stops by a small house, and inspects it. He reads a card in the window. An ELDERLY MAN is sitting on a stool, smoking his pipe.
+E: Singing
+C: TURNER
+D: Good day to you, sir.
+C: MAN
+D: Good day to thee.
+C: TURNER
+D: You be a lodgings, then?
+C: MAN
+D: It be, yes.
+C: TURNER
+D: This chamber, ‘tis available?
+E: Indicating an upstairs room
+C: MAN
+D: It is.
+C: TURNER
+D: May I peruse it? Taking his time, the man gets up and goes into the house. He calls to a woman who is beating a rug in the back yard. Turner looks out to sea.
+C: MAN
+D: Mrs. Booth! There be a gentleman. MRS BOOTH stops beating the rug, and comes to the front door.
+C: MRS BOOTH
+D: Good day to you, sir.
+C: TURNER
+D: Good day to you, madam.
+C: MRS BOOTH
+D: Are you seeking lodgings?
+C: TURNER
+D: Indeed I am.
+C: MRS BOOTH
+D: Here, Mr Booth. She gives her husband the wicker carpet beater.
+C: TURNER
+D: Your top front, ‘tis available?
+C: MRS BOOTH
+D: Maybe, sir, yes.
+C: TURNER
+D: May I peruse it?
+C: MRS BOOTH
+D: Indeed, sir. If you’d care to follow me. They go into the house and up the stairs. Mrs Booth leads the way.
+C: MRS BOOTH
+D: You just come off the boat?
+C: TURNER
+D: Indeed.
+C: MRS BOOTH
+D: The ‘Maggie’ or the ‘Billy’?
+C: TURNER
+D: The ‘Maggie’.
+C: MRS BOOTH
+D: ‘Twas early today.
+C: TURNER
+D: We’d the best of the tide. They enter a bright room with a double bed.
+C: MRS BOOTH
+D: There. This be my bettermost chamber.
+C: TURNER
+D: Exceeding homely.
+C: MRS BOOTH
+D: I do thank you, sir. You’re looking at the finest view in Margate. They do say this town be the first place in England the sun do reach of a morning. Now, all my linen is freshly aired, clean and sweet-smelling, and I can lay a fire for you should you require. Now, sir, my terms is one guinea for the week with no meals or full board for an extra fifteen and sixpence. And I’m afraid I do have to ask for a small deposit and a reference. Turner gives her a bank note.
+E: She opens the window
+C: MRS BOOTH
+D: Five pounds!
+C: TURNER
+D: ‘Tis my reference and deposit.
+C: MRS BOOTH
+D: I can’t take this, sir. ‘Tis far too much.
+C: TURNER
+D: Refund the balance on departure. That suit you, madam?
+C: MRS BOOTH
+D: I do thank ye, sir. Well, I should introduce myself. My name is Mrs. Booth. And you, sir?
+C: TURNER
+D: Beg your pardon?
+C: MRS BOOTH
+D: I was asking your name, sir.
+C: TURNER
+D: Mallard.
+C: MRS BOOTH
+D: Mr. Mallard. Well, I do hope you’ll be most comfortable here, Mr. Mallard. Now, is there anything else I can provide for you?
+C: TURNER
+D: A small bowl of water, madam, if you’d be so kind.
+C: MRS BOOTH
+D: Might that be a glass of water?
+C: TURNER
+D: No. A bowl.
+C: MRS BOOTH
+D: Very well, sir. I shall bring that up for you. She leaves. A few minutes later, she climbs the stairs, holding a bowl. Turner is in the bedroom. She knocks on the door.
+C: TURNER
+D: Yes?
+C: MRS BOOTH
+D: Found you a small bowl, sir. I hope this do suit your requirements.
+C: TURNER
+D: Indeed.
+C: MRS BOOTH
+D: Where would you like I should put it for you?
+C: TURNER
+D: Upon the windowsill, if you’d be so kind. She places it down.
+C: MRS BOOTH
+D: Good. Oh, dear. Do be coming along blowing now. Well, I shall serve your supper downstairs in the parlour at six of the clock. And if you ever feel the need of a bit of company, you’d be more than welcome to join Mr. Booth and I in our kitchen.
+C: TURNER
+D: I would not wish to impose, madam.
+C: MRS BOOTH
+D: Not at all, Mr. Mallard. We should be glad of your company. She goes out. Turner proceeds to unpack his work materials. Later. Turner sits at the table by the window in Mrs Booth’s parlour, looking out to sea. He is eating his supper. Mrs Booth enters with a jug.
+C: MRS BOOTH
+D: I’ll top up your ale, Mr. Mallard.
+C: TURNER
+D: Thank you kindly, madam. She pours the beer.
+C: MRS BOOTH
+D: I hope you’re enjoying your supper.
+C: TURNER
+D: Mmm.
+C: MRS BOOTH
+D: Oh, good. Some folk do find shackles too salty for their taste.
+C: TURNER
+D: Can never be too salty for me, madam. Mrs Booth giggles. Turner skips along a wide, empty beach. Later. Dusk. In Mr and Mrs Booth’s kitchen. Turner sits at the table, Mr Booth by the fireplace. Mrs Booth brings in two glasses of sherry, and gives one to Turner.
+C: MRS BOOTH
+D: There, Mr. Mallard. This’ll warm you up. No, no, sit yourself down. I can squeeze around here, just about, these days. So, you had a good walk, then?
+C: MR BOOTH
+D: As far as Broadstairs and back.
+C: MRS BOOTH
+D: Oh, dear. That is a long way. You’ll sleep well tonight.
+C: TURNER
+D: Your very good health, madam. Sir.
+C: MRS BOOTH
+D: Very good health to you too, sir.
+C: TURNER
+D: Will you not take a drink yourself?
+C: MR BOOTH
+D: I ain’t touched a drop this many a long year.
+C: MRS BOOTH
+D: He did used to enjoy a tipple, though that were long before I knew him.
+C: TURNER
+D: Man of the sea?
+C: MRS BOOTH
+D: He was, weren’t he?
+C: MR BOOTH
+D: Ship’s carpenter.
+C: TURNER
+D: Carpenter? Noble craft. What did you ply? Whalers? Spicers? Traders?
+C: MR BOOTH
+D: Slavers. For my sins.
+C: MRS BOOTH
+D: He don’t like to talk about it, though.
+C: MR BOOTH
+D: Africa, Zanzibar, the Indies. Such terrible sufferings I did see. Treated like animals, they was. Worse than.
+C: TURNER
+D: The howling sound of sorrow.
+C: MR BOOTH
+D: Yes. Changed my life, it did.
+C: MRS BOOTH
+D: It did there.
+C: MR BOOTH
+D: Led me back to chapel.
+C: TURNER
+D: Humans.
+C: MRS BOOTH
+D: Humans can be dreadful cruel. I watch them boys down there in the sands whipping them poor donkeys. Mind you, you’re better off being a donkey than them wretched souls on the slave ships. So, are you familiar with Margate, Mr. Mallard?
+C: TURNER
+D: As a boy.
+C: MRS BOOTH
+D: You come here on your holidays, then?
+C: TURNER
+D: Schooling, two years.
+C: MRS BOOTH
+D: Oh, yes, Margate be famous for its schools.
+C: TURNER
+D: Coleman’s.
+C: MRS BOOTH
+D: Mr. Coleman. I do remember he, up there by the Dane.
+C: TURNER
+D: Back of the old town. I lost two dear friends.
+C: MRS BOOTH
+D: I am sorry.
+C: TURNER
+D: Scrofula.
+C: MRS BOOTH
+D: Oh, yes. Terrible sickness.
+C: MR BOOTH
+D: Aye.
+C: TURNER
+D: Long time ago. Pause. Sadness. Another busy London street. A LADY knocks at Turner’s front door. Hannah opens it.
+C: LADY
+D: Good afternoon.
+C: HANNAH
+D: Good afternoon, madam.
+C: MRS SOMERVILLE
+D: It is Mrs Somerville -
+C: HANNAH
+D: Yes. You are expected.
+C: MRS SOMERVILLE
+D: Thank you most kindly. What an elegant residence. In Turner’s drawing room. Mrs Somerville is sitting with Turner Snr.
+E: She enters.
+C: TURNER SNR
+D: Have you come far, Mrs Somerville?
+C: MRS SOMERVILLE
+D: Oh, yes, indeed. All the way from Chelsea. I took the steamer to Westminster; about an hour.
+C: TURNER SNR
+D: Was the river busy?
+C: MRS SOMERVILLE
+D: Extremely. You can see the whole world on the Thames. Turner enters.
+C: TURNER
+D: Mrs Somerville.
+C: MRS SOMERVILLE
+D: Good afternoon, Mr. Turner.
+C: TURNER
+D: My apologies if I have forced you to wait upon me.
+C: MRS SOMERVILLE
+D: Not at all. I have enjoyed a most pleasant interlude with your father.
+C: TURNER
+D: You find yourself well?
+C: MRS SOMERVILLE
+D: Passing fair, thank you. And you?
+C: TURNER
+D: Indeed. Doctor Somerville likewise?
+C: MRS SOMERVILLE
+D: Oh, yes, he’s much engaged in administering to the poor veterans. Well, now, it’s a beautiful sunny day. Just perfect for our experiment. I have everything I need here in my wee bag.
+C: TURNER SNR
+D: Are we going to witness an explosion?
+C: MRS SOMERVILLE
+D: Goodness me, no, I hope not.
+C: TURNER
+D: I’m astounded you have all your paraphernalia contained in yon small pouch.
+C: MRS SOMERVILLE
+D: Indeed it is, Mr. Turner. Everything except God’s good sunlight.
+C: TURNER
+D: Daddy, Mrs Somerville is a natural philosopher.
+C: TURNER SNR
+D: Is she, now?
+C: TURNER
+D: Mathematician, astronomer, geologist.
+C: MRS SOMERVILLE
+D: The universe is a wondrous thing, is it not, Mr. Turner?
+C: TURNER SNR
+D: It is, to be sure.
+C: MRS SOMERVILLE
+D: The planets and the stars. The oceans and the tides. The clouds and the air. Mountains, volcanoes.
+C: TURNER SNR
+D: The tides be subject to the effect of the moon.
+C: MRS SOMERVILLE
+D: Quite so. The mysterious force of gravity. It is my strong belief that all things on this earth are connected. Nothing exists in isolation.
+C: TURNER
+D: Indeed.
+C: TURNER SNR
+D: The rain falls, the sun shines and the onions grow.
+C: MRS SOMERVILLE
+D: Oh, yes.
+C: TURNER
+D: Daddy likes to affect the pretence of being a dunce. He is in fact a man of high intellect. He taught me to read and write.
+C: MRS SOMERVILLE
+D: Is that so?
+C: TURNER SNR
+D: Education is an important thing.
+C: MRS SOMERVILLE
+D: It is indeed most important for everyone. I myself am presently engaged in the tutoring of my children.
+C: TURNER
+D: That is indeed commendable. Hannah has entered with the tea tray.
+C: MRS SOMERVILLE
+D: Which is a privilege that was not afforded to me. I am an uneducated, self-taught Scotch woman.
+C: TURNER
+D: Mrs Somerville, you are what you are, as are we, Daddy.
+C: TURNER SNR
+D: True. Hannah gives Mrs Somerville a cup of tea.
+C: MRS SOMERVILLE
+D: Thank you. And what was your profession, Mr. Turner?
+C: TURNER
+D: Daddy was the finest barber in Covent Garden.
+C: TURNER SNR
+D: I had some success in the business.
+C: TURNER
+D: Wigmaker. He was a master of the razor and the brush.
+C: MRS SOMERVILLE
+D: You’re the master of the brush now, Mr. Turner. Hannah gives the old man his tea.
+C: TURNER SNR
+D: My little lad could draw afore he could read and write.
+C: TURNER
+D: Sat in the corner of the shop scratching away with the chalk and charcoal.
+C: TURNER SNR
+D: I’d stick his pictures in the window.
+C: TURNER
+D: And sell ‘em, all of ‘em.
+C: TURNER SNR
+D: For two or three shillings apiece on occasion.
+C: MRS SOMERVILLE
+D: Do you have children yourself, Mr. Turner.
+C: TURNER
+D: I do not, Mrs Somerville. Hannah and Turner Snr barely exchange looks. A little later in Turner’s studio. Turner and his father are assisting Mrs Somerville as she organises her experiment. Hannah looks on.
+C: MRS SOMERVILLE
+D: Thank you, Mr. Turner. Have you ever seen a prism?
+C: TURNER SNR
+D: I have not. She produces one from her bag.
+C: MRS SOMERVILLE
+D: There it is.
+C: TURNER SNR
+D: That is a thing of beauty.
+C: MRS SOMERVILLE
+D: Shortly you shall witness a rainbow passing through it. She places it on the window frame.
+C: TURNER
+D: Sir Isaac Newton, Daddy.
+C: MRS SOMERVILLE
+D: Gentlemen, might I request that you close the shutters, please? The proceed to do so.
+C: TURNER
+D: Daddy. Tell us when to cease, Mrs Somerville.
+C: MRS SOMERVILLE
+D: We need to create an aperture to strengthen the colours. There.
+C: TURNER
+D: Daddy. They stop closing the shutters.
+C: MRS SOMERVILLE
+D: Let us put the paper in place.
+C: TURNER
+D: Daddy, some tacks for Mrs Somerville.
+C: MRS SOMERVILLE
+D: No, no tacks, Mr. Turner. The metal could contaminate the experiment. A wee nub of wax. Paper. Taking the wax from a small tin, she attaches a sheet of paper to an easel they have placed on the table. Then she tears off a tiny corner of paper.
+C: TURNER
+D: And what is the purpose of the small piece of paper?
+C: MRS SOMERVILLE
+D: I shall cover the bottom half of the needle so that it is not exposed. She now takes a hammer out of her bag. Then she conceals the needle in a piece of cloth.
+C: TURNER
+D: And what is it you are about now, Mrs Somerville?
+C: MRS SOMERVILLE
+D: You’ll have to wait and see, won’t you?
+C: TURNER
+D: Daddy, I wager that is the first time you’ve witnessed a hammer being produced from a lady’s reticule.
+C: TURNER SNR
+D: For certain, ‘tis. Mrs Somerville now hammers the folded cloth vigorously.
+C: TURNER
+D: You have the arm of a blacksmith, Mrs Somerville.
+C: MRS SOMERVILLE
+D: There, now. That has thrown all those wee particles into chaos.
+C: TURNER SNR
+D: Particles into chaos!
+C: TURNER
+D: Mrs Somerville, what is the element contained within the violet light such as magnetises the material?
+C: MRS SOMERVILLE
+D: That is what as yet, Mr. Turner, I do not know.
+C: TURNER
+D: The majesty of mystery.
+C: MRS SOMERVILLE
+D: Indeed. Now, let us allow nature to take its course. Although we will have to adjust the position of the easel from time to time.
+C: TURNER
+D: Indeed. As mighty Apollo moves across his heavenly tract.
+C: MRS SOMERVILLE
+D: Yes. Moments later. The Turners show Mrs Somerville into their gallery.
+C: TURNER SNR
+D: Three steps down, Mrs. Somerville.
+C: TURNER
+D: Take care.
+C: MRS SOMERVILLE
+D: Oh, my goodness me. Mr. Turner, I am quite overwhelmed.
+C: TURNER
+D: Do as you wish. View as you wish. Mrs Somerville looks at two paintings of ships.
+C: MRS SOMERVILLE
+D: Oh, my. These are breathtaking, are they not? My dear late father would have much appreciated them.
+C: TURNER
+D: A naval man, I believe.
+C: MRS SOMERVILLE
+D: Indeed, he was a vice admiral.
+C: TURNER SNR
+D: We have ‘The Battle of Trafalgar’ over here.
+C: TURNER
+D: Was he there, your father?
+C: MRS SOMERVILLE
+D: No, he was at Camperdown.
+C: TURNER SNR
+D: Lord Nelson’s flagship, ‘The Victory’. They look at the painting.
+C: MRS SOMERVILLE
+D: Indeed.
+C: TURNER
+D: It’s a sketch for the painting. Commissioned by the King.
+C: MRS SOMERVILLE
+D: Is that so?
+C: TURNER
+D: Two years in the making. He didn’t like it.
+C: MRS SOMERVILLE
+D: Did he not.
+C: TURNER
+D: No.
+C: TURNER SNR
+D: Too good for him. They laugh.
+C: MRS SOMERVILLE
+D: Two years. It takes me only half an hour to paint a picture.
+C: TURNER SNR
+D: So you are an artist, Mrs. Somerville?
+C: MRS SOMERVILLE
+D: I don’t think we can quite use that term in the presence of Mr. Turner.
+C: TURNER
+D: Nevertheless, Daddy, Mrs. Somerville is a fine watercolourist.
+C: MRS SOMERVILLE
+D: You flatter me. What an epic storm.
+C: TURNER
+D: Rock crushing a house in Switzerland. Calais sands, women digging for bait. I don’t care for that much.
+C: MRS SOMERVILLE
+D: My. What have we here?
+C: TURNER
+D: It’s Hannibal crossing the Alps.
+C: TURNER SNR
+D: Do you see the elephant?
+C: MRS SOMERVILLE
+D: An elephant?
+C: TURNER SNR
+D: He’s in there somewhere.
+C: MRS SOMERVILLE
+D: Are you teasing me, Mr. Turner?
+C: TURNER SNR
+D: By no means, madam. Can you find him? Mrs Somerville scrutinises the painting very closely.
+C: MRS SOMERVILLE
+D: Well, no, I cannot.
+C: TURNER SNR
+D: There he is. He points out the tiny elephant in the distance. She laughs.
+C: TURNER
+D: Daddy’s little jest.
+C: MRS SOMERVILLE
+D: ‘Tis a terrifying scene.
+C: TURNER SNR
+D: The elements dwarfing the elephants.
+C: TURNER
+D: Hubris. Back in the studio, Hannah watches from a distance as Mrs Somerville, with the aid of the needle floating in a bowl of water, demonstrates her experiment to the Turners.
+C: MRS SOMERVILLE
+D: There. Shall I make it do a wee dance? So, the end of the needle that was exposed to the violet light has produced a magnetic north pole.
+C: TURNER SNR
+D: Like a compass.
+C: MRS SOMERVILLE
+D: Exactly so. Whereas, Mr. Turner, had I done the same experiment using the red end of the spectrum, this needle would not have been magnetised. I have from time to time, attempted it with the green and the blue, and it has succeeded on occasion, but not consistently.
+C: TURNER
+D: Colour is contradictory.
+C: MRS SOMERVILLE
+D: Well, is it, Mr. Turner? Colour is absolute.
+C: TURNER
+D: Sublime but contradictory, yet harmonious.
+C: MRS SOMERVILLE
+D: You are a man of great vision, Mr. Turner. The universe is chaotic and you make us see it. In natural philosophy nothing can ever be proved, only disproved.
+C: TURNER
+D: The purity of your prism, the contamination of my palette. Natural light, blackness. White is the power of good, black is the devil. At the Royal Academy. The lecture theatre. Turner addresses a full house. Mostly men, a few women. Turner Snr sits on the front row, next to an ELDERLY MAN with an ear trumpet.
+C: TURNER
+D: Transparent bodies depend so much upon what is opposed to them, having no colour, that they take every on e offered. Water often possesses colour, but colour is not imparted to its reflections or refractions, like a coloured glass when everything seen is vitiated by that colour. Even the purest mirror gives a tone to the sky, and as the colour is increased, it destroys all the colour of nature by its ... by its own dullness, while water often seems to challenge the sky for ... brightness, and ... when possessing colour, Turner Snr coughs.
+C: TURNER
+D: ...its reflections of objects appear more possible. In short, their effects are like their qualities. One repels the immediate ray, Turner Snr continues his coughing, which gets worse. His neighbour pats him on the back.
+E: MORE
+C: TURNER
+D: ...the other absorbs it. The one transparent while the mirror is opaque. How can they appear the same? He looks concerned about his father. Turner is painting in his studio. Through the wind ow, he can see his father outside in the yard, chopping wood. Hannah takes a chamber pot to the outside lavatory. The old man stops his labours. He is obviously unwell. Turner looks concerned. Later, Turner Snr is mulling yellow paint. Turner is at work on the same canvas as in the previous scene.
+E: grinding
+C: TURNER
+D: Daddy, cease your labour. Go and sit in your chair.
+C: TURNER SNR
+D: I can’t leave this.
+C: TURNER
+D: It’ll keep for the half-hour. Go and peruse your newspaper. The old man takes no notice. Then he accidentally drops a palette knife on the floor. Turner goes over and picks it up.
+C: TURNER
+D: Do not stoop. Go and rest your bones. The old man looks at his son, defiant, but helpless.
+C: TURNER
+D: Turner walks briskly down another bustling London street. Turner’s house. In his workshop, Turner Snr is stretching a canvas. He is coughing badly. This gets worse; he stops working, and staggers out of the room. Turner enters his house, and, without having taken off his hat and coat, he rushes upstairs to his father’s bedroom. Comforted by Hannah, the old man is sitting on the side of the bed, inhaling steam from a bowl.
+E: CONT'D
+C: TURNER
+D: What’s occurring?
+C: HANNAH
+D: He’s struggling.
+C: TURNER
+D: Are you rattling? Come on, bring it up. Later. Turner Snr is lying in bed. He is rambling. Turner sits by him. Hannah hovers in the doorway.
+C: TURNER SNR
+D: No, indeed not, sir. I shall. I shall tell her. I will tell her. I ought to have told her afore. Years ago.
+C: TURNER
+D: Who do you speak of, Daddy?
+C: TURNER SNR
+D: Afore they took her away. Eastertide, the good Lord took her from us. We did not do right by her. Poor woman.
+C: TURNER
+D: She was a lunatic. We didn’t have no choice, Daddy. She made our life a living hell.
+C: TURNER SNR
+D: She was your mother, curse her! Show her due respect, boy. The bitch. Pause.
+C: TURNER SNR
+D: My little lad.
+C: TURNER
+D: Daddy. Turner Snr dies. Tears well up in Turner’s eyes. Fraught, Hannah comes and stands near Turner. In small boat by a river bank. Turner is fishing with a rod and line. He sits still, sad and reflective. Some rough outdoor corner of London. Turner strides past men and women of all ages and classes, mostly sitting. They look as though they are waiting for something. Turner ascends a rickety wooden staircase, passing a couple of men. He enters a brothel. The BROTHEL KEEPER, a middle-aged woman, is sitting on a sofa. A YOUNG WOMAN sits in the corner.
+C: BROTHEL KEEPER
+D: Good afternoon, sir.
+C: TURNER
+D: Good day to you, madam.
+C: BROTHEL KEEPER
+D: It’s been a long while, ain’t it?
+C: TURNER
+D: Yeah.
+C: BROTHEL KEEPER
+D: May I offer you a refreshment?
+C: TURNER
+D: No, thank you kindly.
+C: BROTHEL KEEPER
+D: Champagne? No mind, sir. I regret all my lovely girls are occupied. But we do have young Eliza here, who I do not believe you’ve had the pleasure of previous. She has a pleasing countenance, when she smiles.
+C: PROSTITUTE
+D: Good day, sir.
+C: TURNER
+D: Good day to you, miss.
+C: BROTHEL KEEPER
+D: Show the gentleman to your chamber, dear.
+C: PROSTITUTE
+D: It’s this way, sir. Turner follows her out. In a corridor they pass a fully-clad man and two half-dressed women. Then in her room the Prostitute stands with one foot on the bed. She is wearing a red stocking. Turner puts his bag down. The Prostitute shows him her bare bottom.
+C: TURNER
+D: Very fine.
+C: PROSTITUTE
+D: I do extras. She raises the front of her skirt.
+C: TURNER
+D: No, no, no, no. Remove the bodice. Expose your breasts. No, no. No. Lay upon the bed. She lies on her back, and complies with Turner’s instructions as he manoeuvres her into position.
+E: She does so She starts to take her breasts out
+C: TURNER
+D: Part your legs. Crook your knee. Right arm as thus. Hand upon the head. No. As in despair. He goes to the end of the bed and checks her pose. Then he gets a chair, and places it in the same position. Having checked the pose again, he takes a pencil and sketchbook from his bag, and starts to draw her. Pause.
+C: TURNER
+D: Eliza or Liza?
+C: PROSTITUTE
+D: Eliza. Or Liza.
+C: TURNER
+D: Your age?
+C: PROSTITUTE
+D: Twenty-two, sir.
+C: TURNER
+D: Twenty-two? Turner now breaks down. Uncontrollable tears grow into a painful howl of despair. Without breaking her pose, the prostitute watches him.
+C: PROSTITUTE
+D: Would you like something to drink, sir?
+C: TURNER
+D: No, thank you, miss. Now expose your breasts. She sits up, and starts to undo the laces of her corset. Turner continues to draw her. Hannah is in her bedroom, sitting by the window. She reads a book with a magnifying glass. Turner is painting ‘Death on a Pale Horse’. In the drawing room. Hannah returns her book to a glass- fronted bookcase, and chooses another book. Turner joins her. Then he takes her from behind, the two of them standing up, fully-clothed, pushing against the bookcase. It is over quickly. He leaves. Her face shows pain and joy. Silhouetted against the sky, Turner strides along a cliff top. In the distance a tiny ancient chapel perches on a hill- top. A pack of wild horses emerge from nowhere and follow Turner as he descends over the cliff top. Now, as the sun sets over the sea, Turner sits on a hillside, drawing the view. And on yet another cliff top, Turner watches the sky. A flock of birds fly by. Margate, the sea front. Turner makes his way past the bustling marketeers and townsfolk. He arrives at Mrs Booth’s house and knocks at the door. After a few moments, she answers. She is dressed in black.
+E: Still crying
+C: MRS BOOTH
+D: Good day, sir.
+C: TURNER
+D: Madam.
+C: MRS BOOTH
+D: You be seeking lodgings?
+C: TURNER
+D: Indeed.
+C: MRS BOOTH
+D: I do know’ee. Mr. Duckworth.
+C: TURNER
+D: Mallard.
+C: MRS BOOTH
+D: Oh, Mr. Mallard. Of course. Well, you be lucky. The room is free.
+C: TURNER
+D: Splendid.
+C: MRS BOOTH
+D: Well, do come in. There. It be most pleasant to see you again. They go in. A little later. In her parlour, Mrs Booth is putting out a pot of tea as Turner is coming down the stairs. He has taken off his jacket. He comes into the room.
+C: MRS BOOTH
+D: Mr. Mallard. Everything satisfactory in your chamber?
+C: TURNER
+D: Most agreeable.
+C: MRS BOOTH
+D: Good. Well, you sit there and make yourself comfy. I expect you’ll be tired after your journey. Now, I have not poured your tea for it is fresh in the pot.
+C: TURNER
+D: No matter. Suits me, brewed and stewed.
+E: Sitting down
+C: MRS BOOTH
+D: Now, that I do remember, Mr. Mallard. And will you take a biscuit?
+C: TURNER
+D: No, thank you, madam. I purchased a potato on the boat.
+C: MRS BOOTH
+D: I should think that were all you could manage on the steamer.
+C: TURNER
+D: It was somewhat turbulent.
+C: MRS BOOTH
+D: I shall leave you to take your refreshment.
+C: TURNER
+D: Madam, may I apprehend you with my condolences.
+C: MRS BOOTH
+D: I do thank you, sir.
+C: TURNER
+D: My sympathies, commiserations, for the loss of your dear departed man.
+C: MRS BOOTH
+D: Well, he were a dear man. ‘Tis twice in my life now I have found myself a widow. My first husband were taken from me when I was but a young woman.
+C: TURNER
+D: How was he taken?
+C: MRS BOOTH
+D: He were foying over there on Goodwin Sands.
+C: TURNER
+D: A life-saver.
+C: MRS BOOTH
+D: Aye. He did save many a life but in the end he could not save his own. We never did find him, poor soul. My boy were eight year old when he did lose his father.
+C: TURNER
+D: I was eight when I lost my little sister.
+C: MRS BOOTH
+D: I am sorry. Well, ‘tis the way of things. You still making your nice little pictures, Mr. Mallard?
+E: Pause.
+C: TURNER
+D: Mmmm.
+E: Amused
+C: MRS BOOTH
+D: There. Back in London, Turner enters busily through his front door, goes straight into his studio and proceeds to get on with things. Hannah comes in.
+C: HANNAH
+D: Mr. Billy. Welcome home. Turner gives her a bowl.
+C: TURNER
+D: Dirty water. She empties it into a bucket.
+C: HANNAH
+D: Pleasant trip? Your order came.
+C: TURNER
+D: Did he send the cobalt blue?
+C: HANNAH
+D: I put it in a jar. Chrome yellow, scarlet lake, lead white.
+C: TURNER
+D: Canvases?
+C: HANNAH
+D: He put ‘em downstairs for me. Two six by fours, three four by threes.
+C: TURNER
+D: Megilp?
+C: HANNAH
+D: Next week.
+C: TURNER
+E: growls
+C: HANNAH
+D: Was it a pleasant trip? He doesn’t reply. She shrugs and goes out, picking up his umbrella as she goes, and putting it in the hall stand. His bag on his shoulder, Turner ascends a grand staircase, and enters a large hall, the walls of which are covered with paintings. Men, mostly in hats and coats, are standing or sitting or up ladders, adding the finishing touches to their paintings. This is Varnishing Day at the Royal Academy. Turner enters, and joins THREE SENIOR MEN, who are standing in the middle of the room.
+C: SHEE
+D: Good morning, Mr. Turner.
+C: TURNER
+D: Martin, Sir Billy, Gussy.
+C: CALLCOTT
+D: Good day to you, Billy.
+C: SHEE
+D: Delighted you could join us.
+C: BEECHEY
+D: Damn fine spectacle this year, Billy.
+C: TURNER
+D: Aha! He spots his own painting and goes towards it, greeting Stothard, the very old man with the ear trumpet, on the way.
+C: TURNER
+D: A very fine day to you, Mr. Stothard!
+C: STOTHARD
+D: Mr. Turner, sir. He proceeds to his painting looks at it, the moves to the painting next to it. This is ‘The opening of Waterloo Bridge’ by JOHN CONSTABLE, who is working on it.
+E: ’Helvoetsluys; - the City of Utrecht, 64, Going to Sea’
+C: TURNER
+D: Constable.
+C: CONSTABLE
+D: Turner. Turner now joins two more artists, one of whom, EASTLAKE, is up a ladder.
+C: TURNER
+D: Jonesy. Carlo.
+C: JONES
+D: William.
+C: TURNER
+D: The Hanging Committee!
+C: JONES
+D: You approve?
+C: TURNER
+D: ‘Tis well hung.
+C: EASTLAKE
+D: Grazie.
+C: TURNER
+D: Prego. Turner returns to the President, Shee, and his companions.
+C: SHEE
+D: Would everything be to your satisfaction, Mr. Turner?
+C: TURNER
+D: It is indeed, Mr. President. ‘Tis a splendid cornucopia.
+C: SHEE
+D: Cornucopia! Shee walks away. Turner joins TWO ARTISTS on a ladder.
+C: LESLIE
+D: Good morning, Turner.
+C: TURNER
+D: Good morning to you, Mr. Leslie. Rabbie.
+C: ROBERTS
+D: Good morning, Mr. Turner.
+C: TURNER
+D: My other piece, where is it located?
+C: LESLIE
+D: We placed it in the ante-room.
+C: TURNER
+D: The ante-room. Turner moves away and greets Carew as he passes him. Mr. Carew!
+C: CAREW
+D: Turner. Turner joins AN ARTIST putting the finishing touches to his painting.
+C: TURNER
+D: Stanny.
+C: STANFIELD
+D: Hello, Mr. Turner, sir.
+C: TURNER
+D: Is it for His Majesty?
+C: STANFIELD
+D: Indeed. I hope it meets his expectations.
+C: TURNER
+D: It will. Turner goes through a doorway, greeting a UNIFORMED MAN.
+C: TURNER
+D: Grout.
+C: GROUT
+D: Mr. Turner. Turner proceeds down the corridor into the ante-room, in which a GENTLEMAN is standing by a painting.
+C: TURNER
+D: Sir John Soane.
+C: SOANE
+D: J.M.W. Turner Esquire.
+C: TURNER
+D: As I live and breathe.
+C: SOANE
+D: My dear friend!
+C: TURNER
+D: Find yourself well, John?
+C: SOANE
+D: Relishing the day.
+C: TURNER
+D: Capital.
+C: SOANE
+D: Only now I was admiring your seascape.
+E: Referring to Turner’s painting, ‘Staffa, Fingal’s Cave’, which hangs on the wall.
+C: TURNER
+D: There she is. Mr. Pickersgill. PICKERSGILL is a man sitting at the end of the room.
+C: PICKERSGILL
+D: Good morning, William.
+C: TURNER
+D: He has the air of despondency upon him.
+C: SOANE
+D: He is slighted.
+C: TURNER
+D: For why?
+C: PICKERSGILL
+D: Yet again in the ante-room.
+C: TURNER
+D: They hang us where they will, Pickers. Take a guzzle of brown sherry. Beechey enters and joins Turner and Soane.
+C: BEECHEY
+D: Damn fine storm you have there, Billy.
+C: TURNER
+D: Nimbus, Sir Billy. Nimbus. Turner leaves the, and again returns to the main gallery, where he again scrutinises his ‘Helvoetsluys’ painting alongside its neighbour, Constable's ‘Waterloo Bridge’, on which the latter continues to work. Then he joins Eastlake.
+C: TURNER
+D: Carlo the Salamander.
+C: EASTLAKE
+D: Amico mio. Harmony and unity, William.
+C: TURNER
+D: Chemise.
+E: Referring to Eastlake’s portrait of a young woman.
+C: EASTLAKE
+D: Chemise?
+C: TURNER
+D: Lower! Eastlake takes a moment to register what Turner is suggesting. Then -
+E: gesturing
+C: EASTLAKE
+D: Molto bene! They both laugh. Turner moves on.
+C: TURNER
+D: Jonesy! Another painter intercepts him.
+C: CALLCOTT
+D: I want you to see -
+C: TURNER
+D: What? CALLCOTT leads Turner to an Italian view.
+C: CALLCOTT
+D: Remember?
+C: TURNER
+D: Remind me.
+C: CALLCOTT
+D: Pisa.
+C: TURNER
+D: Oh, Pisa! Fine around there, Gussy. He points to part of the painting.
+C: CALLCOTT
+D: You think so?
+C: TURNER
+D: Oh, yeh. Turner goes to Jones, who is working on a historical painting.
+C: TURNER
+D: Nelson?
+C: JONES
+D: With two arms. They laugh. Turner moves on. Leslie is still up the ladder. His painting depicts a fashionable salon.
+C: TURNER
+D: Mr. Leslie.
+C: LESLIE
+D: Turner.
+C: TURNER
+D: Little maid, in a gamboge gown, left foot instep, touch of highlight.
+E: Referring to Leslie’s painting
+C: LESLIE
+D: Thank you, Turner.
+C: ROBERTS
+D: Paintings always benefit his remarks. Turner moves into the corridor, where Carew, Soane and Stothard are inspecting a marble portrait on a plinth.
+C: TURNER
+D: Carew! This your man?
+C: CAREW
+D: ‘Tis he.
+C: TURNER
+D: Sports an elegant nostril, does he not, Sir John?
+C: SOANE
+D: Splendid nostrils.
+C: CAREW
+D: Thank you kindly.
+C: STOTHARD
+D: What did you say?
+E: Brandishing his ear trumpet
+C: TURNER
+D: Elegant pair of nostrils, Mr. Stothard!
+C: STOTHARD
+D: Oh, yes. Yes, indeed. Carew laughs uproariously. Turner moves on. A few minutes later, in the main gallery. The Academicians stand about, chatting quietly. Constable, sitting on a stool, continues to apply red paint to his canvas. Armed with a paintbrush, Turner walks briskly up to his own grey picture, puts a bold, red, blob right in the middle, and leaves. The Academicians gather round the painting. Constable gets up, astonished.
+C: SHEE
+D: Why on earth would he go and do that?
+C: EASTLAKE
+D: I believe Mr. Turner knows well enough what he’s doing.
+C: SHEE
+D: You think so? He’s ruined a masterpiece.
+C: JONES
+D: I think not. General consternation and reaction. Carew laughs uproariously. Constable puts on his coat.
+C: CONSTABLE
+D: He’s been here and fired a gun. He storms out of the gallery. The following is mixed in with general murmur, whilst, just as Constable leaves, Haydon enters, and looks round the whole exhibition. Carew continues to laugh.
+C: SHEE
+D: No, no.
+C: BEECHEY
+D: John, you must not upset yourself like this.
+C: SHEE
+D: The man’s impossible. I mean why would he go and destroy a perfectly good painting?
+C: ROBERTS
+D: Sheer mockery.
+C: MAN
+D: My sympathy’s with Constable.
+C: BEECHEY
+D: He’s got a damn fine picture here and he’s made a damn mockery of it.
+C: EASTLAKE
+D: There’s method in the madness gentlemen.
+C: SHEE
+D: If that is method it is pure madness.
+C: MAN
+D: But, what is it?
+C: SHEE
+D: Do stop that prattling laughter, Mr. Carew! Carew doesn’t stop laughing.
+C: CALLCOTT
+D: I wager we’ve not seen the end of this.
+C: SHEE
+D: He may surprise us yet. In the corridor, Haydon bumps into Turner, who is just coming out of the ante-room.
+C: TURNER
+D: Haydon. Hey! Turner returns to the main gallery. Watched by all, and using his forefinger, his thumb and a cloth, he turns the red blob into a buoy.
+C: SHEE
+D: Ah, Mr. Turner.
+C: BEECHEY
+D: We were just wondering if ...
+C: CALLCOTT
+D: I said he wasn’t finished.
+C: MAN
+D: It’s a buoy.
+C: SHEE
+D: Bravo! Bravo! General celebration and applause. Turner gives them all a sardonic look, and leaves. In the ante-room we are looking at a painting of a donkey.
+C: PICKERSGILL
+D: Can you explain your rendition?
+C: HAYDON
+D: It needs no explanation, sir. ‘Tis our Redeemer’s conveyance into Jerusalem, plain as day.
+C: PICKERSGILL
+D: Blasphemy! Turner has returned.
+C: TURNER
+D: You faring well, Mr. Haydon?
+C: HAYDON
+D: This will be the finish of me! He storms out.
+C: TURNER
+D: Fifty pounds! Turner shakes his head, and shares the moment with Soane, who is adjacent. Haydon marches into the main gallery. He goes up to Leslie, who is standing with Eastlake and Callcott.
+C: HAYDON
+D: Thank you, sir. Thank you, sir, for your charity.
+C: LESLIE
+D: Haydon?
+C: HAYDON
+D: You have been most kind. Most kind in your placement. You have finished me. You might as well have taken my painting and put it in the outhouse. Better yet, taken it out of this building and thrown it in the Fleet. A crowd gathers. Much of the following dialogue overlaps.
+C: SHEE
+D: Please lower your voice, Mr. Haydon.
+C: LESLIE
+D: Haydon, I am hard... hard set to understand your indignation.
+C: SHEE
+D: Mr. Haydon.
+C: HAYDON
+D: And as... as for you, as for you, my pupil... my pupil.
+C: EASTLAKE
+D: Your painting, sir, is hanging next door to that of Mr. Turner.
+C: LESLIE
+D: It is in fine company.
+C: HAYDON
+D: This is treachery. This is treachery! And do not talk to me of Turner's work.
+C: JONES
+D: Stand down, man!
+C: SHEE
+D: Please, please, please, please lower your voice, Mr. Haydon. Just...
+C: HAYDON
+D: His... his pictures look as if they were painted by somebody born without hands! Pickersgill enters, followed by Soane and Turner, who watch from the doorway.
+E: OS
+C: SHEE
+D: Mr. Haydon. What, what is your quarrel?
+C: LESLIE
+D: Please.
+C: HAYDON
+D: What principles have you applied other than those that I gave...
+C: SHEE
+D: Mr. Haydon, please lower your voice.
+C: JONES
+D: Have a care man.
+C: SHEE
+D: Mr. Haydon, please... Mr. Haydon, please lower your voice.
+C: HAYDON
+D: I will not, sir!
+C: SHEE
+D: What... What is your quarrel here?
+C: HAYDON
+D: I have no respect for you. I certainly do not acknowledge your presidency. It should have been... It should have been Wilkie. General discussion and comments.
+C: SHEE
+D: Mr. Haydon, I will not have personal attacks like this on the Academy floor.
+C: HAYDON
+D: You will have what I choose to give you, sir.
+C: SHEE
+D: This would be one of the many reasons why you were never accepted here, Mr. Haydon. Soane and Pickersgill join the group around Haydon.
+C: HAYDON
+D: This man... This man has spent a quarter of a century doing everything in his power to malign me.
+C: SHEE
+D: I have done nothing of the sort.
+C: HAYDON
+D: And spoil my genius.
+C: SHEE
+D: Please, refrain from this shouting, Mr. Haydon.
+C: HAYDON
+D: I will not!
+C: SHEE
+D: I will have you forcibly removed.
+C: HAYDON
+D: Yes, do it! Do it! Remove me from your nest of portrait painters! Alone, Turner watches from the doorway.
+C: JONES
+D: Have a care!
+C: BEECHEY
+D: What, sir, is wrong with being a portrait painter?
+C: SHEE
+D: Please William. William, please don't...
+C: HAYDON
+D: What does it do to elevate the art..?
+C: BEECHEY
+D: I received the accolade from the hand of His Majesty the King,
+C: SHEE
+D: William, don't put him up...
+C: BEECHEY
+D: for painting portraits and damn good ones too, sir!
+C: HAYDON
+D: Oh, God, I bow to him!
+C: PICKERSGILL
+D: Haydon, can I point out that I too hang in the inferior chamber?
+C: HAYDON
+D: I care not for your work, sir. I care not a fig.
+C: PICKERSGILL
+D: At least my work does not represent self-portrait as ass.
+C: SHEE
+D: Mr. Pickersgill...!
+C: HAYDON
+D: Give me those... Haydon knocks Pickersgill’s hat off. A general struggle ensues
+C: HAYDON
+D: Unhand me!
+C: SHEE
+D: Remove this man!
+C: HAYDON
+D: You swines! You swines! Turner quietly leaves the gallery.
+E: shouting
+C: SOANE
+D: Mr. Haydon, sir: with deep regret I must inform you that I am on my way to the porters unless you feel free to leave of your own volition.
+C: HAYDON
+D: Shh... shh...
+C: SOANE
+D: Please, sir.
+C: HAYDON
+D: Stretch me no longer on this rough world. I am done with you. He makes his way through the crowd, and leaves. General discussion and hubbub. A little later, in the ante-room. Watched by a large group of amused and enthralled Academicians, Turner works further on his painting, ‘Staffa’, vigorously stabbing the canvas with his brush, wiping it with a cloth, spitting at the painting, and blowing brown powder at it. In a rocky, mountainous landscape, Turner walks and climbs, and stops to survey the scene. At Margate, Turner wends his way through the busy vendors and passers by on the seafront. He arrives at Mrs Booth’s house, where she is cleaning her windows. He makes her jump with surprise. They exchange greetings, and enter the house. In Mrs Booth’s parlour, Turner is seated on the sofa, Mrs Booth by the window. They are drinking sherry.
+C: MRS BOOTH
+D: Hmm. 'Tis nice to have a bit of company for a change. So you had a good walk, then? Weren't too chippy up there by Reculver?
+C: TURNER
+D: Somewhat blowy and the wind did kick up some white horses.
+C: MRS BOOTH
+D: Can do, this time of year. In summertime, though, 'tis a lovely calm spot for a picnic up there by the Two Sisters. But in wintertime, I have known the whole of Marine Terrace, down here, without a pane of glass left in the entire place. Oh, the glaziers do get rich.
+C: TURNER
+D: Hmm...
+E: laughs
+C: MRS BOOTH
+D: When Mr. Booth and I moved in here, we had the whole place polished up, spick and span, ready for our first visitors, and the wind did blow and the sea come up. We had broken glass everywhere. It were terrible.
+C: TURNER
+D: Mrs. Booth, would you be so kind as to look out of the window?
+C: MRS BOOTH
+D: Where? What am I looking at?
+C: TURNER
+D: From the tip of your nose to the bridge, to the curve of your brow, you put me in mind of a Greek sculpture I'm familiar with, of Aphrodite, goddess of love.
+C: MRS BOOTH
+D: No... No one's ever said that about my nose before. This old snout.
+C: TURNER
+D: Hmm.
+C: MRS BOOTH
+D: Truth to tell, my eyes aren't so good these days, so when I do look in the looking-glass I be glad I cannot see so well.
+C: TURNER
+D: When I peruse myself in the looking- glass, I see a gargoyle.
+C: MRS BOOTH:
+D: Now, you be fishing for compliments, and my old Ma used to say, them that fish for compliments don't get none. Besides, 'tis what's within a person that do matter. I do not know you, Mr. Mallard, and I'm sure there be things about you that are beyond my understanding. But I believe you to be a man of great spirit and fine feeling.
+C: TURNER
+D: Mrs. Booth... you are a woman of profound beauty.
+C: MRS BOOTH
+D: Mr. Mallard... I am lost for words.
+C: TURNER
+D: Hmm. A long pause. A charged moment. Later. Holding a lantern, Mrs Booth climbs the stairs. She carries Turner’s boots.
+C: MRS BOOTH
+D: Good night, Mr. Mallard, sir. I've cleaned your boots for'ee. They're by the door here. She puts them outside his door, which he opens.
+C: TURNER
+D: Mrs. Booth, I thank you for a most convivial evening.
+C: MRS BOOTH
+D: I do thank you too, sir. Turner pulls her towards him. They kiss. She takes him by his hand and leads him into her bedroom, and closes her door. Next morning. Turner leaves Mrs Booth’s house. As he walks along the seafront, the sun rises over the bay. Dusk. On a ship in the pouring rain. A MARINER is tying Turner to the mast with a long rope.
+C: MARINER
+D: If I may be so bold as to say, mate, as I see it, you're a loose cannon rolling round the deck! Turner laughs.
+E: shouting
+N: Now a snowstorm rages. It is night. Turner absorbs the full force of the experience. Mrs. Booth’s parlour. Turner is sprawled on the sofa. a DOCTOR is listening to Turner’s chest, as he inhales and wheezes.
+C: DR PRICE
+D: And out. Turner coughs.
+C: DR PRICE
+D: Cover yourself up. Good man. Well, Mr. Mallard is suffering from bronchitis.
+C: MRS BOOTH
+D: Oh, there.
+C: DR PRICE
+D: For which we prescribe the three Bs: bed, balsam and broth.
+C: MRS BOOTH
+D: Oh.
+C: DR PRICE
+D: To be administered in this case by the fourth B, the admirable Mrs. Booth. Mrs Booth laughs.
+C: DR PRICE
+D: Thank you. Now, Mrs. Booth, if you would be so good as to come up to the house after four, I shall have the balsam prepared.
+C: MRS BOOTH
+D: Indeed I shall, sir.
+C: DR PRICE
+D: Good day, Mr. Mallard. Rest the body, sir, and the soul shall find solace.
+C: MRS BOOTH
+D: I do thank ye, Doctor. Let me show ye out.
+C: DR PRICE
+D: Good day to you, Mrs. Booth. Mrs Booth sees Dr Price out.
+C: MRS BOOTH
+D: Good day to you, sir. Turner coughs heavily into his handkerchief. In his studio, Turner is painting “Snow Storm - Steam-Boat off a Harbour’s Mouth”. Now he enters his gallery. A middle-aged man and a young man are looking at a painting - “Slavers throwing overboard the Dead and Dying - Typhoon coming on”. They are JOHN RUSKIN and his FATHER.
+C: TURNER
+D: Gentlemen.
+C: RUSKIN
+D: Ah, Mr. Turner. My father and I are marvelling at this glorious work. Er, might I be correct in remembering that we had the good fortune of viewing it at the Academy last summer?
+C: TURNER
+D: Indeed.
+C: RUSKIN
+D: Well, I must say, it is no less impressive on its second viewing... Perhaps, even more so. Is it not, Father?
+C: RUSKIN'S FATHER
+D: Indeed so. I recall it provoked much heated and stimulating discussion long after our viewing.
+C: TURNER
+D: It did not sell.
+C: RUSKIN'S FATHER
+D: Indeed not?
+C: TURNER
+D: No, Mr. Ruskin.
+C: RUSKIN'S FATHER
+D: I'm astonished.
+C: RUSKIN
+D: But it is a masterpiece.
+C: TURNER
+D: Thackeray reviles it.
+C: RUSKIN
+D: How so?
+C: TURNER
+D: Sublime or ridiculous, he says.
+C: RUSKIN
+D: Well, perhaps he should make up his mind.
+C: TURNER
+D: He has a sharp and cynical tongue.
+C: RUSKIN
+D: There is no place for cynicism in the reviewing of art.
+C: TURNER
+D: Hmm... 'tis of no consequence.
+C: RUSKIN
+D: Quite.
+C: TURNER
+D: It is purchasable?
+C: RUSKIN
+D: Enticing.
+C: RUSKIN'S FATHER
+D: Perhaps.
+C: TURNER
+D: Typhus epidemic amongst the cargo - slaves. Die on board - no insurance. Sling 'em in the drink - drowned dead - cash.
+E: indicating
+C: RUSKIN
+D: I am struck by the column of bright white placed precisely off centre here, applied over the darkened background impasto contrasting with the scarlet and ochre hues in the upper left corner, which in turn contrasts with the presence of God, revealing to us that hope exists even in the most turbulent and illimitable of deaths. Hannah has sat down. During the above speech, she yawns and scratches herself.
+C: TURNER
+D: Bluebottles.
+C: HANNAH
+D: Eh?
+C: TURNER
+D: Up in the muslin. Knock 'em out.
+C: HANNAH
+D: Well, I didn't put 'em there. She gets up and goes out.
+C: RUSKIN
+D: Would it not sit splendidly above the fireplace in the library, Father?
+C: RUSKIN'S FATHER
+D: Er, it would, but I fear it may be beyond our purse, John.
+C: RUSKIN
+D: No.
+C: TURNER
+D: I'm sure some arrangement can be come to, sir. Hannah returns, holding a large stick, from which she draws a sword.
+C: HANNAH
+D: Mind your heads. She pokes the ceiling drape with the sword.
+C: TURNER
+D: You're just... You're just knocking 'em up and down. Scrape 'em out. No, look... Now you've just knocked it over there. Bemused, the Ruskins watch this operation. Margate. Turner sketches boats outside Mrs Booth’s house. She arrives with a shopping basket and joins him for a few moments. Mrs Booth is sweeping her front doorway. Turner comes down the stairs. They both look out at the view.
+C: MRS BOOTH
+D: There. 'Tis a nice day for'ee. He kisses her.
+C: TURNER
+D: Au revoir, madame. She giggles. Turner leaves, immediately reappearing, going the other way.
+C: TURNER
+D: T'other way. He disappears. A woman passes.
+C: MRS BOOTH
+D: Morning, Mrs. Stokes.
+C: MRS STOKES
+D: Morning. Turner and Mrs Booth walk down some seaside steps in Margate. Suddenly, Turner collapses. Mrs Booth rushes to his rescue. Turner is in bed in Mrs Booth’s house. Dr Price is unbuttoning Turner’s shirt, watched by Mrs Booth, who is standing at the end of the bed.
+C: TURNER
+D: Dr. Price, Mrs. Booth has summoned you here under false pretences.
+C: MRS BOOTH
+D: Shh! Let the doctor do his work.
+C: DR PRICE
+D: Breathe in. Turner does so, and coughs.
+C: DR PRICE
+D: Breathe out. Turner does so.
+C: DR PRICE
+D: Have you been exerting yourself unduly, Mr. Mallard?
+C: TURNER
+D: No more than is usual, sir.
+C: DR PRICE
+D: Remind me again, what is your profession?
+C: TURNER
+D: Master of Chancery.
+C: DR PRICE
+D: Breathe in. Turner does so.
+C: DR PRICE
+D: Forgive me, sir, but I beg to differ. Breathe out. Turner does so.
+C: DR PRICE
+D: I suggest that you are Mr. Turner, the illustrious painter, and I am greatly honoured to make your acquaintance.
+C: TURNER
+D: Hmm.
+C: DR PRICE
+D: My apologies to you both, but rest assured that my discretion can be relied upon. As the doctor turns his back on them to attend to his bag, Turner and Mrs Booth exchange startled looks, and mouth words of consternation.
+C: DR PRICE
+D: Now, allow me to examine your eyes. The eyes of a master. Open wide. Hmm-mm. Look up. Hmm. Mr. Turner, you are suffering from a disorder of the heart. There is no immediate cause for concern, Mrs. Booth, but he will have to be careful.
+E: He inspects Turner’s eye
+C: MRS BOOTH
+D: Oh, dear.
+C: DR PRICE
+D: Live moderately sir, and you shall enjoy a long and fruitful life. Exert yourself unduly and you will go to an early grave.
+C: MRS BOOTH
+D: Oh, dear. There, now.
+C: TURNER
+D: Hmm. In Turner’s house, Sarah Danby and Evelina stand in the drawing room. They are dressed in black. Hannah stands with them. Enter Turner. He joins them, hands clasped behind his back. They all remain standing. Pause.
+C: SARAH DANBY
+D: Good day, sir.
+C: TURNER
+D: Hmm.
+C: SARAH DANBY
+D: Have you nothing to say to me?
+C: TURNER
+D: I am most sorry for your loss.
+C: EVELINA
+D: Our loss, Father?
+C: SARAH DANBY
+D: Your own dear daughter's funeral.
+C: EVELINA
+D: Indeed.
+C: TURNER
+D: I did not find myself in the city.
+C: SARAH DANBY
+D: As ever, sir, painting your ridiculous shipwrecks.
+C: TURNER
+D: Hmm.
+C: SARAH DANBY
+D: Have you no feelings? Speak! Long pause.
+C: SARAH DANBY
+D: Come, Evelina, there is nothing here for us. Sarah sweeps out. She now has a walking stick, and is limping. Evelina accompanies her, followed by Hannah. Alone, Turner sobs. A steamer glides through the sea. Turner stands at the stern, surveying the view. Night. Mrs Booth and Turner are in her bed.
+C: MRS BOOTH
+D: You're tired, my dear.
+C: TURNER
+D: Hmm.
+C: MRS BOOTH
+D: 'Tis too much of a strain for you these days, trawling back and forth on that old steamer every time you wants to see me. And even when they finish building that new railway, we none of us do know what lies ahead. I have bethought me of a plan, and here's what we must do. If you will find a little house for us, somewhere by your beloved River Thames, but not too far from London Town, with good solid wooden floors, nice bright light for you to work by... then I will buy the lease. I can sell this house. I think we would be happy. The two of us. Sunset on the River Thames. The HMS Temeraire is being towed by a steam tug. Turner, Stanfield and Roberts are in a small boat, being rowed by two men. The artists are swigging beer from stone bottles.
+C: TURNER
+D: There she is!
+C: STANFIELD
+D: The saucy ‘Temeraire.’
+C: TURNER
+D: Going to her death, I fear.
+C: ROBERTS
+D: She's served her time.
+C: STANFIELD
+D: The auctioneer's hammer has struck that final blow.
+C: TURNER
+D: Indeed.
+C: STANFIELD
+D: If not for her, the ‘Victory’ might never again have seen our shores.
+C: ROBERTS
+D: Aye, nor the body of Lord Nelson.
+C: TURNER
+D: The little saviour of Trafalgar.
+C: STANFIELD
+D: They say five thousand oaks went into making that ship.
+C: ROBERTS
+D: Now she's destined to be reduced to five thousand tables and chairs.
+C: TURNER
+D: To be sat on by five thousand fat arses. Roberts, Stanfield and Turner laugh.
+C: STANFIELD
+D: Gentlemen, a toast. Raise your pot of grog. To the fine, fighting ‘Temeraire'! They all raise their drinks.
+C: TURNER
+D: The ‘Temeraire!’
+C: ROBERTS
+D: ‘Temeraire!’
+C: TURNER
+D: Here's to her. They drink.
+C: ROBERTS
+D: A ghost of the past.
+C: TURNER
+D: No, Rabbie. The past is the past. We're observing the future. Smoke. Iron. Steam.....
+C: STANFIELD
+D: She'd make a fine subject for you to paint, Turner.
+C: TURNER
+D: Oh, is that so, Stanny? I shall cogitate upon it... Thank you. Yeh, yeh... The others laugh. In his studio, Turner is working on ‘The Fighting Temeraire’. Hannah enters.
+C: HANNAH
+D: It's that Mr. Haydon. Turner growls.
+C: HANNAH
+D: He's brought a cold blast of air in with him. She goes out. Turner continues working. A few minutes later. Turner enters his drawing room, where Haydon is waiting.
+C: TURNER
+D: Mr. Haydon. To what do I owe the honour of your presence this morning?
+C: HAYDON
+D: I trust that this is not an inconvenience to you, Turner. Turner growls.
+C: HAYDON
+D: Now, will you accept ten pounds?
+C: TURNER
+D: Ten pounds, sir?
+C: HAYDON
+D: I wish to be free of the debt. It weighs heavily upon me.
+C: TURNER
+D: Sir, you owe me fifty pounds.
+C: HAYDON
+D: Manchester, Leeds, Newcastle. I have been giving my lecture. Edinburgh. Fair city. Only in London is my genius not appreciated. Consider this as a statement of intent.
+E: MORE
+C: TURNER
+D: Mr. Haydon: pray be seated.
+C: HAYDON
+D: I had rather not. I do not wish to prevail upon your time more than is necessary.
+C: TURNER
+D: And I prevail upon you, sir, to take a seat.
+C: HAYDON
+D: Well, where would you have me sit?
+C: TURNER
+D: Wherever you wish.
+C: HAYDON
+D: Will this suffice?
+C: TURNER
+D: Indeed. Mr. Haydon, do you still find yourself in a position of impecuniousness? Haydon has sat down.
+C: HAYDON
+D: Impecunity. Turner, that has been my constant state these thirty years. You are most well-appointed here. I do not recall the last time we had as much coal in our scuttle as that. I fear we shall be burning our furniture this winter.
+E: Looking round
+C: TURNER
+D: Does Mrs. Haydon find herself faring well?
+C: HAYDON
+D: She does not. She has not recovered. I fear that she may never do so.
+C: HAYDON TURNER
+D: What ails her, sir?
+E: CONT'D
+C: HAYDON
+D: We have buried five children.
+C: TURNER
+D: Indeed?
+C: HAYDON
+D: Paddington Old Churchyard. They remove the soil, extract the coffins, dig the hole deeper, then re-inter the coffins with another atop. Five times she has had to suffer that indignity.
+C: TURNER
+D: 'Tis pitiable.
+C: HAYDON
+D: It is pitiable, Turner. You have never had to endure the loss of a child. Pause.
+C: TURNER
+D: I have not, sir. Hannah registers this. She is standing by the door.
+C: HAYDON
+D: A dying child, 'tis a potent subject for a painting, is it not? And what is your present endeavour, Turner?
+C: TURNER
+D: Marine piece.
+C: HAYDON
+D: A marine piece? Do not you tire of boats and the fiery firmament?
+C: TURNER
+D: I do not, sir.
+C: HAYDON
+D: Sometimes I consider it might make a better course for me were I to set light to the house. with my wife, my surviving children and myself within it. Then they would no longer be saddled with me.
+E: Laughing drily MORE
+C: TURNER
+D: Your pain is your own, sir. Do not inflict it upon your loved ones.
+C: HAYDON
+D: Will you take my ten pounds?
+C: TURNER
+D: I will not, sir. You are free of your debt.
+C: HAYDON
+D: Free? How so?
+C: TURNER
+D: 'Tis expunged.
+C: HAYDON
+D: Er - no, sir. I do not come here a seeker after charity or pity.
+C: TURNER
+D: You have neither charity nor pity nor debt.
+C: HAYDON:
+D: I do not wish it in such a circumstance.
+C: TURNER
+D: Mr. Haydon, I am much preoccupied. Me damsel, be so kind as to escort the gentleman into the street. Good day to you, sir.
+C: HAYDON
+D: This does not sit well with me, Turner. Hannah shows Haydon out of the front door. He stumbles down the steps.
+C: HAYDON
+D: Damn his eyes. Hannah watches him go, then closes the door.
+C: HAYDON
+D: Turner and Jones arrive at a large, well-appointed house Turner raps on the door with his umbrella. In the hall of the house, which is the home of the Ruskins, a FOOTMAN opens the door.
+E: CONT'D
+C: TURNER
+D: Turner and Jones. Ruskin’s Father bustles into the hall to greet them.
+C: RUSKIN'S FATHER
+D: Mr. Turner. Captain Jones. It's a pleasure to see you.
+C: TURNER
+D: Mr. Ruskin.
+C: JONES
+D: Good evening to you.
+C: RUSKIN'S FATHER
+D: I trust you had a pleasant journey?
+C: TURNER
+D: Indeed. You find yourself well, sir? Now there are two footmen. They take the guests’ coats.
+C: RUSKIN'S FATHER
+D: I do indeed, thank you. Pride of place, Mr. Turner. He is referring to ‘Slavers’ which now hangs on the wall. They all turn to look at it.
+C: TURNER
+D: Oh...
+C: JONES
+D: Ah, splendid.
+C: RUSKIN'S FATHER
+D: As though the house was built around it. Turner mutters politely.
+C: RUSKIN'S FATHER
+D: Please, come through. Come through. They all proceed through a doorway. Turner gestures for Jones to go first.
+C: TURNER
+D: Jonesy.
+N: In the Ruskin’s drawing room. Turner, Jones, Roberts, Stanfield, John Ruskin and his father and MOTHER are all sitting in a formal circle.
+C: RUSKIN'S MOTHER
+D: My good husband is of the opinion that the gooseberry prefers the colder climate, whereas I consider that all fruits benefit from the warmth.
+C: JONES
+D: My dear late mother always insisted that both the gooseberry and the rhubarb favour the colder climes of our victorious isles.
+C: RUSKIN'S FATHER
+D: I do not doubt that the gooseberry for its preference may enjoy the warm. However, I am convinced that a cold start promotes the more vigorous specimen.
+C: RUSKIN
+D: Are we not to take as empirical evidence our many expeditions to the warmer climes of the Mediterranean, where we do not exactly encounter an abundance of gooseberries?
+C: RUSKIN'S FATHER
+D: Ha! Indeed.
+E: laughing
+C: ROBERTS
+D: Exactly so. I did not myself savour many gooseberries in Jerusalem.
+C: RUSKIN'S MOTHER
+D: Ah, the Holy City, Mister Turner.
+C: ROBERTS
+D: And yet we do enjoy fine gooseberries in Scotland, do we not, Mr. Ruskin?
+C: RUSKIN'S FATHER
+D: Aye, and no better a cold start than a good Scottish sun. Stanfield and Roberts laugh.
+C: ROBERTS
+D: Exactly that.
+C: STANFIELD
+D: Surely regardless of how cold the start of the life of the gooseberry might be, it is almost certainly destined for a warm ending.
+C: JONES
+D: To which we have all borne witness in Mrs. Ruskin's excellent gooseberry pie. A general murmur of agreement.
+C: RUSKIN'S MOTHER
+D: I thank you, Captain Jones.
+C: STANFIELD
+D: Hear, hear.
+C: RUSKIN
+D: May I propose as a topic for discussion the question as to the depiction of the seas and the oceans in pictorial art? Turner groans.
+C: RUSKIN
+D: Now, I, I appreciate that I am honoured to be in the presence of two of our most distinguished marine painters, Mr. Turner and Mr. Stanfield. Not to forget er, Captain Jones and Mr. Roberts of course, whose, er, realisations are confined to mere naked terra firma, exemplary though they are.
+C: TURNER
+D: Hmm.
+C: RUSKIN
+D: Erm... My point being that, alas, I find myself harbouring a perhaps rather controversial opinion regarding the long deceased Claude.
+C: JONES
+D: Indeed?
+C: RUSKIN
+D: I am afraid so, Captain Jones. I must confess that I find his rendering of the sea rather insipid, dull and uninspiring.
+C: STANFIELD
+D: That is an extremely bold statement, young Mr. Ruskin.
+C: RUSKIN
+D: Thank you very much.
+C: TURNER
+D: Claude was a man of his time.
+C: RUSKIN
+D: My point exactly, Mr. Turner, but that time is now long past. When I experience a modern masterpiece such as yours, I am struck by the clarity with which you have captured the moment. Take for example, your ‘Slave Ship: Slavers Throwing Overboard the Dead and Dying - Typhoon Coming On', by which I have the good fortune to be greeted every morning on my way in to my meagre breakfast. The impact of the foaming brine incarnadine consuming those unfortunate Negro slaves never ceases to quicken the beat of my heart. Yet, when I gaze upon a work of Claude I find myself enduring nothing more than a mere collection of precise brushstrokes, which instil in me no sense of awe whatsoever, let alone the sea.
+C: JONES
+D: Preposterous! I do beg your pardon, Mrs. Ruskin. Mrs Ruskin nods.
+C: TURNER
+D: Claude Lorrain was a genius.
+C: JONES
+D: Quite so.
+C: RUSKIN
+D: I sense an excess of modesty in Mr. Turner, and there is no need for such humility.
+C: STANFIELD
+D: Mr. Ruskin, sir: to conjecture upon the matter of seascape painting is one thing, but to stand amongst the elements and to experience and to interpret what one sees, that is something quite other.
+C: JONES
+D: Hear, hear.
+C: ROBERTS
+D: Quite.
+C: RUSKIN
+D: Well, that is as it may be.
+C: TURNER
+D: Claude painted from the land, looking at the sea becalmed by the harbour.
+C: RUSKIN
+D: Oh, indeed.
+C: RUSKIN'S MOTHER
+D: ‘Bless the Lord, oh my soul, who layeth the beams of his chambers in the waters and walketh upon the wings of the wind.'
+C: RUSKIN
+D: How apt, Mother.
+C: RUSKIN'S MOTHER
+D: Thank you, John. When my son was but a small boy, he was overheard to remark that 'waves of sea are indeed lovely to watch but they are always ‘coming or gone, never in any taken shape to be seen for a second.'
+C: RUSKIN
+D: For a second. I find myself marvelling at my own wealth of perception even at the early age of four.
+E: Joining in Laughs
+C: RUSKIN'S MOTHER
+D: Quite so.
+C: TURNER
+D: Mr Ruskin, can I pose you a somewhat conundrous question?
+C: RUSKIN
+D: Ah, please do, Mr. Turner. He gets up and proceeds to the window, where he stands expectantly.
+C: TURNER
+D: To which do you find yourself the more partial, a steak and kidney pie or a veal and ham pie? The other artists laugh uproariously.
+C: RUSKIN
+D: I must confess, Mr. Turner, that I find myself quite unable to answer your question with the precision that I would wish. Somewhere in the countryside, a railway train races past a fascinated Turner, the engine belching its steam high into the sky. In his studio, Turner is painting ‘Rain, Steam and Speed - The Great Western Railway’. Hannah enters and gives him a glass of sherry. Then she examines the painting for a few moments. A little baffled, she looks at Turner, then leaves. At the Royal Academy, at the foot of the grand staircase, Sir Martin Archer Shee, the President, bows to the young QUEEN
+C: VICTORIA. SHEE
+D: Your Majesty. The Queen and Shee ascend the stairs, followed by PRINCE ALBERT and a SMALL ENTOURAGE. A few minutes later, they are in the main gallery. The Queen and Prince Albert are inspecting paintings. She stops by one canvas.
+C: QUEEN VICTORIA:
+D: Terribly flat. Dull.
+C: PRINCE ALBERT
+D: It's rather dark, isn't it?
+C: QUEEN VICTORIA:
+D: Hmm-mm.
+C: PRINCE ALBERT
+D: Sir Martin.
+C: SHEE
+D: Sir.
+C: PRINCE ALBERT
+D: Who is the artist?
+C: SHEE
+D: I believe, sir, it's... er... erm... Shee turns to Callcott and Eastlake behind him.
+C: EASTLAKE
+D: Er, Mr. John Ferneley. Shee turns back to Albert.
+C: SHEE
+D: MR. John Ferneley, sir.
+C: PRINCE ALBERT
+D: Ah, Mr. Ferneley.
+C: QUEEN VICTORIA:
+D: Hmm. Ah. Queen Victoria turns, spots a painting and reacts. She walks towards it. She stops by it. It is one of Turner’s paintings .
+E: ’Whalers’
+N: She shakes her head. Albert joins her.
+C: QUEEN VICTORIA
+D: Turner.
+C: PRINCE ALBERT
+D: He is clearly losing his eyesight
+C: QUEEN VICTORIA
+D: And this one is vile. Victoria moves to the next Turner .
+E: ’Sunrise with Sea Monsters’
+C: PRINCE ALBERT
+D: Ah, unglaublich.
+C: QUEEN VICTORIA
+D: Was ist das?
+C: PRINCE ALBERT
+D: Ich weiß' es nicht.
+C: QUEEN VICTORIA
+D: A dirty, yellow mess. They move on, followed by their entourage. Turner is revealed in an adjacent doorway, having overheard the Queen and the Prince’s conversation. Horrified, he leaves. In another gallery somewhere, two middle-aged GENTLEMEN ART CRITICS are looking at Turner’s work.
+C: CRITIC
+D: It is a truly frightful piece. Another CRITIC joins them. CRITIC 2 It is indicative of mental disease.
+C: CRITIC
+D: It is wretched and abortive. The Third critic bursts out laughing. The others turn to him. CRITIC 3 Sad. Now two LADY CRITICS are looking at Turner's work.
+C: LADY CRITIC
+D: Mr. Turner seems to have taken leave of form altogether. LADY CRITIC 2 Hmm.
+C: LADY CRITIC
+D: He has on former occasion chosen to paint with cream or chocolate, yolk of egg or currant jelly. LADY CRITIC 2 But here he uses his whole array of kitchen stuff.
+E: Laughing
+C: LADY CRITIC
+D: Eggs and spinach. LADY CRITIC 2 No. Soap suds and whitewash. They both laugh. In a popular theatre, to the raucous delight of the audience, a music-hall sketch is being performed. A GROUP OF MEN AND WOMEN stand looking in the window of an art dealers. A BAKER’S BOY appears with a tray of jam tarts on his head.
+C: BOY ACTOR
+D: Jam tarts! Jam tarts! Fresh jam tarts. He goes over to the shop window. Much hubbub from the stage crowd. Then the Baker’s Boy accidentally spills the tarts over the painting on display, and runs off. The audience laughs. Turner is standing at the back of the circle. He laughs too. An actor playing the Art Dealer enters . ACTOR 1 Where is that wretched baker's boy? ACTOR 2 His fate, I fear, he won't enjoy. ACTRESS 1 He will indeed the lad destroy! ACTOR 1 Aha! I have an inspiration. ACTOR 3 What's that? ACTOR 4 We're filled with fascination. ACTRESS 2 What is he doing? ACTOR 2 And why is he doing it? Actor 1 is doing something to the ruined painting.
+E: ACTOR 1
+C: ACTRESS
+D: Whatever he's brewing, we'll soon be viewing it. ACTOR 1 A masterpiece I here present, which Mr. Turner has just sent. The painting is now covered with broken jam tarts. The audience laugh uproariously. Turner is horrified. The group of actors recite in chorus.
+C: ACTORS
+D: While mostly blessed with good intent, we have our doubts. But who's this gent? A fashionably dressed elderly actor enters.
+C: OLD ACTOR
+D: Ye common throng and hoi polloi, I am a rich and cultured boy. My wealth derives from tricking knaves, and selling coffee, tea and slaves. My house is full of things of beauty - paintings, sculpture and other booty. I like to drink and gourmandise. But what is this that greets my eyes? He has spotted the ruined painting, now covered with the jam tarts. ACTOR 1 It is the latest thing in Art. ACTRESS 1 It looks like bits of old jam tart! Turner watches, grim faced. ACTOR 1 'Tis Mr. Turner's latest piece, which, placed above your mantelpiece -
+C: OLD ACTOR
+D: Oh, cease your costermonger sounds! I'll buy it. Here's a thousand pounds. He produces a wad of bank-notes with an elaborate gesture. The audience boos. ACTOR 1 Oh, sir. I thank you, in my humble way.
+C: OLD ACTOR
+D: Don't grovel. Send it round today. He exits.
+C: ACTOR
+D: I'll do so, sir, without delay.
+C: ACTORS
+D: Rejoice! Hurrah! Hip, hip, hooray! The Old Actor returns.
+C: OLD ACTOR
+D: Though ignorant of art and taste, I'm filled with boundless glee, for what's good enough for Turner... is good enough for me! He exits, followed by all the other actors, except Actor 1, who goes into his shop. The audience cheers and whistles and claps. Turner leaves, much disturbed. In the empty corridor of the theatre, a lone young usher stands briefly as Turner passes him on his way out of the theatre. At a dinner party somewhere. Turner is sitting at a large table, amongst many FELLOW DINERS. He is very drunk. A BUTLER fills his glass, but Turner gestures to him to fill it more. Then he eats a desert very sloppily. Indistinct, overlapping snippets of conversation can be heard from unseen and half-seen ladies and gentlemen. Some characters we have met can be discerned - Captain Jones and John Ruskin in particular. Some snippets... ...design that my imagination could suggest and he promised to write a poem.... Very sage, Captain. Mr. Ruskin, I fail to see wherein lies the charity in misleading people as to the amount of talents they possess. Well, talent is something that lies dormant and needs to be drawn out in the right circumstances. Yes, if one has the opportunity to have it drawn out.. My wife, Effie; er... I am still waiting for her talents to arise and be drawn out.
+N: I’m sure that talents can be crushed as much as they may be drawn out. Ah, precisely. Perhaps it is the duty of the husband to draw out any such talent. ... Plutarch who said, 'Painting is silent poetry...' Are you interested in poetry at all? A young woman (RUSKIN’S WIFE) sitting next to Turner now smiles politely at him. He gestures to her.
+C: TURNER
+D: Sublime. Loneliness. Solitude. 'Ti... 'Tis not the same.
+C: RUSKIN'S WIFE
+D: Indeed not, Mr. Turner.
+C: TURNER
+D: It will come. Mrs. Ruskin, it will come. Love. They share a moment.
+N: Early morning. Turner is asleep, fully clothed on his old bed in his house. Hannah enters and puts down and cup of tea beside him. Then she leans over him and looks at him. He snores and turns onto his back. She opens the curtains. Turner wakes up.
+C: TURNER
+D: Oh... What is the hour?
+C: HANNAH
+D: Five-and-twenty to seven. Turner mutters, sits up, and moves to the foot of the bed with great effort. Hannah brings him his tea.
+C: TURNER
+D: Thank you.
+C: HANNAH
+D: The sun's up, in all its glory.
+C: TURNER
+D: I must get on. He takes a sip of tea, and gives her the cup and saucer. Then he puts on his shoes. Hannah lingers. He stands and starts putting on his coat. Hannah puts down the teacup and helps him on with his coat.
+C: HANNAH
+D: Don't you want your breakfast?
+C: TURNER
+D: No, thank you kindly. Are you faring well?
+C: HANNAH
+D: Yes. Thank you. And yourself? Turner puts on his hat.
+C: TURNER
+D: Hmm. Yes, yes. He picks up his bag.
+C: HANNAH
+D: Will I be seeing you tonight?
+C: TURNER
+D: Unlikely.
+C: HANNAH
+D: Tomorrow?
+C: TURNER
+D: No.
+C: HANNAH
+D: Oh. I might as well stop changing the bed sheets in here. Pause.
+C: TURNER
+D: Hmm. Turner leaves the room. Hannah sits on the bed, forlorn. Outside Turner and Mrs Booth’s new house in Chelsea. Lots of people pass to and fro. Some distance from the house, Turner sits sketching on a jetty. Mrs Booth comes out of the house with a broom. She calls to Turner.
+C: MRS BOOTH
+D: Mr. Booth! Turner turns. They wave at each other. She goes indoors. Turner picks up a piece of bark, stands stiffly and walks towards the house. Mrs Booth comes out again. She nods to a PASSING WOMAN.
+C: MRS BOOTH
+D: Good day to you. Then, as Turner nears, she goes back into the house. Turner follows her.
+C: MRS BOOTH
+D: 'Tis warmer now.
+C: TURNER
+D: Sultry day. They are now both inside. She closes the front door.
+C: MRS BOOTH
+D: Here. She takes Turner’s hat off his head, and hangs it up. He shows her the bark.
+C: MRS BOOTH
+D: Oh, what d'you have there?
+C: TURNER
+D: Bit of drift bark.
+C: MRS BOOTH
+D: Ooh. Hmm.
+C: TURNER
+D: Has the look of a fallen angel. Hmm.
+C: MRS BOOTH
+D: Pretty colours. She takes the bark and puts it down. Then she helps him off with his coat.
+C: TURNER
+D: Sticky. Horrid parched. They go through to the kitchen, where Turner sits at the table. Mrs Booth pours him a drink. A busy London street. A sign announces that the shop that Turner now enters is a Daguerreotype Institution. He examines the shop window, and enters. Inside, he is greeted by a young, fresh-faced man, CORNELIUS.
+C: CORNELIUS
+D: Good morning, sir.
+C: TURNER
+D: A very good day to you, sir.
+C: CORNELIUS
+D: Nice day, sir.
+C: TURNER
+D: Hmm-mm. Turner looks at small daguerreotype portraits on the wall. The photographer, MAYALL, enters.
+C: MAYALL
+D: Ah! Good morning, sir. Greetings and welcome.
+C: TURNER
+D: A hearty good morning to you, sir.
+C: MAYALL
+D: Now, you would be Mr...
+C: CORNELIUS
+D: Mr. Booth.
+C: MAYALL
+D: Ah, Booth, yes. Mr. Booth.
+E: laughs
+C: TURNER
+D: At the appointed hour, I believe?
+C: MAYALL
+D: Indeed, sir. Mayall. John Mayall.
+C: TURNER
+D: I had made that assumption, sir.
+C: MAYALL
+D: At your service, Mr. Booth. Now, if you would be so kind as to make yourself comfortable...
+E: laughing
+C: TURNER
+D: This is the contraption?
+C: MAYALL
+D: Indeed, sir. That is what we call the camera.
+C: TURNER
+D: The camera?
+C: MAYALL
+D: Yes, sir.
+C: TURNER
+D: Not the cam-er-a.
+C: MAYALL
+D: Er... No, sir. The camera.
+C: TURNER
+D: The camera?
+C: MAYALL
+D: Yes, sir.
+C: TURNER
+D: As in ‘camera obscura?’
+C: MAYALL
+D: Ah, precisely, sir. The camera. Now, if I may ask you to take a seat please, here...
+C: TURNER
+D: Name of manufacturer?
+C: MAYALL
+D: Er, it comes to us from the United States, sir.
+C: TURNER
+D: The name eludes you?
+C: MAYALL
+D: Er, no, sir...
+C: TURNER
+D: My name eludes me from time to time.
+C: MAYALL
+D: Indeed, sir? Now... Turner hesitates, then climbs a few steps to a raised platform.
+E: laughing
+C: TURNER:
+D: I denote from your brogue that you hail from the Americas.
+C: MAYALL
+D: From the fine city of Philadelphia, sir.
+C: TURNER
+D: Philadelphia. 'Tis on the eastern coast, is it not?
+C: MAYALL
+D: That is correct, sir.
+C: TURNER
+D: Ow! You shall have to forgive the whip crack of my knees. Hat on or hat off?
+E: sitting Mayall laughs
+C: MAYALL
+D: Er, may I ask your profession, sir?
+C: TURNER
+D: Er... Master of Chancery.
+C: MAYALL
+D: Oh. A man of the law.
+C: TURNER
+D: Indeed.
+C: MAYALL
+D: Then I should recommend the hat on, sir.
+C: TURNER
+D: Hmm.
+C: MAYALL
+D: Now, if I might deploy this device... He proceeds to place Turner’s neck into a steadying clamp.
+C: TURNER
+D: Hey! What is this heinous implement?
+C: MAYALL
+D: Merely a gentle holding brace, sir.
+C: TURNER
+D: Puts me in mind of a surgical instrument. Does it hurt?
+C: MAYALL
+D: Not in the slightest, I assure you. So if I may...
+C: TURNER
+D: Hmm. Mayall adjusts the brace.
+C: MAYALL
+D: Not too uncomfortable for you, Mr. Booth?
+C: TURNER
+D: Hmm.
+C: MAYALL
+D: Thank you, sir.
+C: TURNER
+D: What is the significance of the looking-glass? A mirror on a stand is beside Turner. Mayall adjusts it.
+C: MAYALL
+D: It is to illuminate your good self, sir. Light from the mirror falls on Turner’s face.
+C: TURNER
+D: As the sun upon a lake.
+C: MAYALL
+D: Most droll, Mr Booth. Most droll. He laughs and starts humming.
+C: TURNER
+D: What is concealed behind the small brass cap? An optic?
+C: MAYALL
+D: Oh, yes, sir, a glass lens. Mayall opens the cap, revealing the lens.
+C: TURNER
+D: As a telescope?
+C: MAYALL
+D: Not unlike a telescope, sir. Thank you, Cornelius. He takes a large drape from Cornelius.
+C: TURNER
+D: It is prismatic?
+C: MAYALL
+D: I fear not, sir. It is an achromatic lens.
+C: TURNER
+D: Achromatic.
+C: MAYALL
+D: Now, let me peruse you. Mayall puts the drape over his head.
+C: TURNER
+D: Why are you shrouded in the manner of a condemned monk?
+C: MAYALL
+D: I am simply shutting out the light, Mr. Booth. Ah, splendid, sir.
+C: TURNER
+D: The image you create is not of colour. For why?
+C: MAYALL
+D: I am afraid that is a question we have yet to answer, sir. It is a mystery. Thank you, Cornelius. He has taken off the drape, and has positioned himself behind the camera. Cornelius inserts the plate.
+C: TURNER
+D: And long may it remain so.
+C: MAYALL
+D: Now, if I may ask you to focus your gaze here on the flowers and we are almost ready. Thank you, Cornelius. Now, I will require your absolute stillness for the next ten seconds. Turner holds the pose.
+E: hums
+C: MAYALL
+D: And we begin. He takes off the lens cap, looks at his pocket watch, and for ten seconds hums the tune of the Chorus of Hebrew Slaves from Verdi’s ‘Nabucco’.
+C: MAYALL
+D: And there we have it.
+E: laughing
+C: TURNER
+D: 'Tis done?
+C: MAYALL
+D: It is finished, sir.
+C: TURNER
+D: I fear that I too am finished.
+C: MAYALL
+D: Oh, come, come, sir. He laughs.
+C: TURNER
+D: Hmm. In the Chelsea house, Mrs Booth examines the now mounted daguerreotype portrait of Turner.
+C: MRS BOOTH
+D: This be one of them there photographs.
+C: TURNER
+D: Hmm.
+C: MRS BOOTH
+D: The Queen had one of these taken with Prince Albert.
+C: TURNER
+D: Did she so?
+C: MRS BOOTH
+D: She did.
+C: TURNER
+D: Hmm.
+C: MRS BOOTH
+D: Oh, you do look most handsome.
+C: TURNER
+D: Hmm. 'Tis known as a daguerreotype.
+C: MRS BOOTH
+D: Oh. Whatever next? Where'd you have this done, then?
+C: TURNER
+D: Up in town, on the Strand. Fellow with a box. He adopts an exaggerated parody of his pose. They both laugh.
+C: TURNER
+D: We're going there.
+C: MRS BOOTH
+D: Where?
+C: TURNER
+D: Have our likeness taken.
+C: MRS BOOTH
+D: When?
+C: TURNER
+D: Thursday.
+C: MRS BOOTH
+D: Oh.
+C: TURNER
+D: I've arranged an appointment.
+C: MRS BOOTH
+D: Well, you'll have to cancel it.
+C: TURNER
+D: 'Tis painless.
+C: MRS BOOTH
+D: Well, I care not. You don't want my old face in one of these.
+C: TURNER
+D: I do. The two of us together. Forever.
+C: MRS BOOTH
+D: I... I do thank you for this. But I ain't going. In Mayall’s shop, Turner and Mrs Booth are sitting side by side, posing for the camera. Mrs Booth is petrified. Throughout the scene, we look only at Turner and Mrs Booth.
+C: TURNER
+D: 'Tis the camera. Mr. Mayall, may I beg your indulgence with a question?
+C: MAYALL
+D: Why, certainly, sir.
+C: TURNER
+D: Do you take landscapes with your contraption?
+C: MAYALL
+D: I do, sir, from time to time.
+C: TURNER
+D: Hmm. Such as what?
+C: MAYALL
+D: Why, I have recorded the great falls of Niagara, sir.
+C: TURNER
+D: The Niagara Falls?
+C: MAYALL
+D: Indeed, sir.
+C: TURNER
+D: The greatest wonder in nature.
+C: MAYALL
+D: It was there that I was once able to capture a rainbow. Hmm.
+C: TURNER
+D: I'm green-eyed with envy. The Niagara Falls is a natural phenomenon that I have long desired to witness.
+C: MAYALL
+D: Is that so, sir? Now, madam, sir, if I may ask you to fix your gaze here upon these beautiful flowers. Thank you, Cornelius.
+E: to both
+C: TURNER
+D: The Niagara Falls. Soon painters will go about the world, with a box, like a tinker, instead of a portfolio under their arms.
+C: MAYALL
+D: Well, I'm... I'm sure they will, sir. I'm sure they will.
+C: TURNER
+D: Hmm.
+E: growls exhales
+C: MAYALL
+D: Now, if you are comfortable, madam, sir, we may proceed. They hold their poses. Mrs Booth is terrified. In Turner’s gallery, which is now very untidy. Strewn about the floor are buckets and bowls to catch drips. A large, wealthy-looking, middle-aged, WELL-DRESSED GENTLEMAN is inspecting paintings. Hannah appears with a glass of sherry, which she gives him.
+C: GILLOTT
+D: Thank you, miss.
+C: HANNAH
+D: Thank you, sir. She gives a drink to Turner, who is standing nearby.
+C: TURNER
+D: Hmm.
+C: GILLOTT
+D: Your good health, sir.
+C: TURNER
+D: And yours, Mr. Gillott. They chink glasses and drink.
+C: GILLOTT
+D: Turner.
+C: TURNER
+D: Sir.
+C: GILLOTT
+D: I have a proposition to make.
+C: TURNER
+D: Ah.
+C: GILLOTT
+D: I like your pictures.
+C: TURNER
+D: Well, thank you, sir.
+C: GILLOTT
+D: My wife is especially partial to your companion pieces that grace our drawing room.
+C: TURNER
+D: Please convey my felicitations to your dear lady.
+C: GILLOTT
+D: I will, thank you. He puts down his glass.
+C: GILLOTT
+D: And now I wish to show you one of my pictures.
+C: TURNER
+D: Oh, indeed, sir? I am much intrigued. Gillott takes out a wad of money, and holds up a banknote.
+C: TURNER
+D: Five-pound note. Exceeding pretty.
+C: GILLOTT
+D: Quite so. For all of your paintings, I will give you twenty thousand of these. One hundred thousand pounds. All your oils, your watercolours, your drawings, your sketchbooks, everything you've ever produced. One hundred thousand pounds. What do you say?
+C: TURNER
+D: Hmm.
+C: GILLOTT
+D: Turner, I am a man of wealth, a self-made man. Throughout the world, three quarters of everything that is written is written with a Gillott pen nib, one of my nibs. I enjoy my wealth. Two things delight me in my life: fashioning a nib from steel, and making money, and I like to spend my money on things that give me pleasure. And your pictures give me much pleasure. I want them, all of them.
+C: TURNER
+D: Sir... with a modicum of regret and somewhat of a heavy heart, I'm sorry to say 'tis out of the question.
+C: GILLOTT
+D: How so?
+C: TURNER
+D: They are bequeathed.
+C: GILLOTT
+D: Bequeathed? To whom?
+C: TURNER
+D: To the British nation, sir.
+C: GILLOTT
+D: And what will the British nation pay you?
+C: TURNER
+D: Nothing.
+C: GILLOTT
+D: Nothing? Turner, I am offering you a price you will never see again.
+C: TURNER
+D: Indeed, sir, by which I am much humbled.
+C: GILLOTT
+D: Then accept my offer.
+C: TURNER
+D: I cannot, sir. I wish to see my work, displayed in one place, all together, viewed by the public - gratis.
+C: GILLOTT
+D: Turner, this is perverse.
+C: TURNER
+D: Hmm. So be it.
+C: GILLOTT
+D: You cannot give your pictures away. They're too valuable.
+C: TURNER
+D: Hmm.
+C: GILLOTT
+D: Oh, don't be a fool, man. See sense. Turner chuckles. Pause.
+C: GILLOTT
+D: I wish you good day, sir.
+C: TURNER
+D: I wish you good day, sir. Me damsel, would you kindly show the gentleman out? She does so. Turner drinks his sherry. In her Chelsea house, Mrs Booth is making the bed. She fluffs up the pillows.
+C: MRS BOOTH
+D: ... Rouse about, towse about... Downstairs in his new studio, Turner, with some difficulty, is trying to put a canvas on the easel. Upstairs, Mrs Booth continues to make the bed.
+E: sings
+C: MRS BOOTH
+D: ... rouse about... She hears Turner shouting downstairs; then she hears him fall. She hurries out, and rushes down the stairs to find Turner lying on the studio floor, struggling with the canvas.
+E: sings
+C: MRS BOOTH
+D: Oh, there! Oh... oh, there. She takes the canvas from Turner.
+C: MRS BOOTH
+D: Stay there. Stay there. Don't move. Don't... Don't move.
+C: TURNER
+D: I... slipped. Mrs Booth crouches by Turner.
+C: MRS BOOTH
+D: Oh, Lord. Oh, dear. All right.
+C: TURNER
+D: It's passing.
+E: breathing heavily and clearing his throat
+C: MRS BOOTH
+D: Here, stay there. Stay there. Oh, my dear. Oh, there.
+C: TURNER
+D: No... It's passed. It's passed. I've got to get on.
+C: MRS BOOTH
+D: Here. Here. Oh, no, no, no. Sit ye down. Sit ye down. She helps him up.
+C: TURNER
+D: Got to get... No, no, no, no. Got to get on... Got to get on.
+C: MRS BOOTH
+D: No... No, you must sit down and rest now. Mrs Booth adjusts the easel.
+C: TURNER
+D: The canvas. The canvas is damaged.
+C: MRS BOOTH
+D: Oh, that's all right. Sit down. Sit ye down. There. Turner picks up the canvas.
+C: TURNER
+D: Now, bustle about. Bustle about...
+C: MRS BOOTH
+D: Oh, there... There be no helping you! She storms out. In their Chelsea house, Turner and Mrs Booth are in Turner’s studio. He is painting ‘Norham Castle, Sunrise’, whilst she is washing out his paintbrushes. Suddenly, Turner recites one of his own poems. He turns and performs it to Mrs Booth, pointing his brush at her.
+C: TURNER
+D: Be still, my dear Molly, Dear Molly, be still. No more urge that soft sigh to thy will. It is anxious each wish to fulfil, But I prithee, dear Molly, be still. He points his brush at her. Amused, she continues cleaning brushes.
+C: TURNER
+D: By thy lips’ quivering motion I ween She laughs. Turner advances towards her.
+C: TURNER
+D: To the centre of... where love lies between. She laughs.
+C: TURNER
+D: A passport to bliss is thy will, Yet I prithee, dear Molly, be still
+C: MRS BOOTH
+D: Dear Molly, be still.
+E: laughing, joining in
+C: TURNER
+D: By thy eyes when half-closed with delight, Yet so languishing turn from the light. With my kisses I'll hide 'em, I will...... Yet prithee, dear Molly, be still.
+C: MRS BOOTH
+D: Yet prithee, dear Molly, be still.
+E: joining in
+C: TURNER
+D: By thy bosom so throbbing with truth Its short heavings to me speak reproof By the half-blushing mark on each hill Oh, my Molly, dear Molly, be still. Mrs Booth continues to giggle and laugh. Turner fondles her breasts, from behind her. They both laugh. He nestles his chin on her shoulder. Then his attention is caught by his painting, and he returns to it. Mrs Booth watches him, shakes her head and resumes cleaning his brushes. At the Royal Academy. Varnishing Day again, but many years later. Turner examines three Pre-Raphaelite paintings, which are hanging together. They are ‘The Woodman’s Daughter’ by John Everett Millais, ‘Mariana’, also by Millais, and ‘Chaucer at the Court of Edward III’, by Ford Maddox Brown. Turner is highly amused by these offerings, and chortles until he coughs. In Turner’s London house, which has now become extremely cluttered and untidy. Turner enters the hall, muttering to himself. He takes off his coat, and throws it on a table. Then he goes into his studio and picks up a canvas. He returns to the hall, puts down the canvas, then takes another coat from the coat-stand, puts it on, along with his hat, and picks up the canvas and his umbrella. A busy day - people, horses, hustle and bustle. Turner, carrying the canvas, approaches his house. A WOMAN NEXT DOOR is selling drinks to two boys from a stall. Turner arrives at his house. He hesitates for a moment. Mrs Booth is in the kitchen, polishing the silver at the table. Turner enters with the canvas.
+C: MRS BOOTH
+D: There. Alarmed, she gets up.
+C: MRS BOOTH
+D: What ails thee?
+C: TURNER
+D: Hmm!
+C: MRS BOOTH
+D: Let me take your hat.
+C: TURNER
+D: Hmm. She takes his hat.
+C: MRS BOOTH
+D: There.
+C: TURNER
+D: My sketchbook.
+C: MRS BOOTH
+D: Ooh. Turner searches his pocket.
+C: TURNER
+D: It's not there.
+C: MRS BOOTH
+D: 'Tis in your other pocket then? He searches in another pocket.
+C: TURNER
+D: Hmm... No, it's not.
+C: MRS BOOTH
+D: Don't ye worry about it now. 'Twill be somewhere. She helps him off with his coat.
+C: MRS BOOTH
+D: We can look for it later.
+C: TURNER
+D: Where is the canvas?
+C: MRS BOOTH
+D: 'Tis behind you, dear, on the chair.
+C: TURNER
+D: Hmm? Hmm... He picks up the canvas.
+E: laughs
+C: MRS BOOTH
+D: You want I should take it upstairs?
+C: TURNER
+D: What?
+C: MRS BOOTH
+D: Your canvas.
+C: TURNER
+D: No. No, no, no, no.... He wanders off.
+C: MRS BOOTH
+D: I'll get you a drink. Turner sits by the fire. He sighs.
+C: MRS BOOTH
+D: There. She brings him a drink. She takes the canvas from him and puts it down.
+C: MRS BOOTH
+D: So... where have you been today? She turns a chair towards him and sits down.
+C: TURNER
+D: Hmm... Hmm?
+C: MRS BOOTH
+D: Did you go back to Hyde Park?
+C: TURNER
+D: Hmm... Yeh, yeh...
+C: MRS BOOTH
+D: How be it all progressing?
+C: TURNER
+D: It's an engineering phenomenon. Crystal pane upon crystal pane, reaching up beyond the clouds.
+C: MRS BOOTH
+D: 'Twill be a marvel to behold.
+C: TURNER
+D: It's a glass cathedral. It's the one... He suddenly gasps, and appears to choke.
+E: GASPS CHOKES
+C: MRS BOOTH
+D: Oh, here. She takes his drink and loosens his necktie. He struggles to breathe.
+C: MRS BOOTH
+D: Oh, there. Shh, shh... Turner’s house. Hannah arrives at the table on which Turner has thrown his coat. One of her cats is sitting on it.
+C: HANNAH
+D: So bad. Look at your messings. Naughty pussy. She shakes the cat off the coat. The cat has soiled it.
+C: HANNAH
+D: I don't know. She feels something in the pocket. She takes it out. It’s an envelope, out of which she slides a letter. Then she looks at the envelope more closely. It is addressed to Turner at his Chelsea address. She ponders this for a while. Chelsea. Turner is in bed. He is very ill. Mrs Booth approaches with Dr Price.
+C: MRS BOOTH
+D: Now, dear, here be good Doctor Price for ye. He has come all the way from Margate.
+C: TURNER
+D: Dr. Price.
+C: DR PRICE
+D: Good morning, Turner.
+C: MRS BOOTH
+D: If there be anything you do need, Doctor...
+C: DR PRICE
+D: Thank you, Mrs. Booth.
+C: MRS BOOTH
+D: I shall be downstairs. She goes downstairs.
+C: DR PRICE
+D: Now, my dear Turner, how are you feeling?
+C: TURNER
+D: Somewhat weakened, sir. Dr Price takes his pulse.
+C: DR PRICE
+D: I'm so sorry. We all miss you in Margate.
+C: TURNER
+D: Ah, Margate.
+C: DR PRICE
+D: Are you in pain?
+C: TURNER
+D: Here.
+E: touching his chest
+C: DR PRICE
+D: Shortness of breath?
+C: TURNER
+D: Yes.
+C: DR PRICE
+D: Now, then... He examines Turner’s eyes.
+C: TURNER
+D: Did you come up on the railway?
+C: DR PRICE
+D: I did, and the truth is, I can never travel by train without recalling your miraculous painting. Turner sighs. Dr Price sits on the bed. Pause. The doctor sighs again.
+C: DR PRICE
+D: My dear Turner, I am obliged to inform you that your condition is grave. Your days are numbered, and if you have affairs to attend to in this world you should do so now and prepare yourself for the next.
+C: TURNER
+D: Dr Price, with the utmost respect, may I suggest you take yourself downstairs to Mrs. Booth, avail yourself of a large glass of sherry, come back up here and reassess your opinion.
+C: DR PRICE
+D: No, sir, I'm afraid I shan't be doing that.
+C: TURNER
+D: So I'm to become a nonentity.
+C: DR PRICE
+D: I do not understand exactly what you mean by a nonentity. Turner chuckles. Then his smile fades. At the front door, Dr Price is leaving.
+C: MRS BOOTH
+D: Good day to you, Doctor.
+C: DR PRICE
+D: Good day, Mrs. Booth. Thank you. She gives him his hat.
+C: MRS BOOTH
+D: I shall send out for the laudanum directly.
+C: DR PRICE
+D: Splendid. He couldn't be in better hands.
+C: MRS BOOTH
+D: I do my best. So, will you be taking the boat back from Chelsea Pier there?
+C: DR PRICE
+D: Indeed, I shall catch the midday train from Charing Cross.
+C: MRS BOOTH
+D: Well, I do wish'ee a safe journey, and I thank you, Doctor.
+C: DR PRICE
+D: I shall return shortly.
+N: Dr Price puts on his hat and walks off. Mrs Booth surveys the scene, then goes in. As Dr Price moves away, he passes two women, one of whom has her face largely covered by a cloth. We soon see that this is Hannah. She is with a YOUNGER WOMAN COMPANION. Outside the house next door to Turner’s, the neighbour (the seller of drinks) and ANOTHER WOMAN watch Hannah and her friend as they pass. Arriving at Turner’s and Mrs Booth’s house, they stop. Hannah has the envelope with her.
+C: HANNAH
+D: Number six. She looks up at the house for a moment. Then she turns away.
+C: HANNAH
+D: I need a rest.
+C: HANNAH'S FRIEND
+D: Pardon?
+C: HANNAH
+D: I need a rest. She moves away from the house, past the two Neighbours.
+C: NEIGHBOUR
+D: Can we help, my dear?
+C: HANNAH
+D: I'm looking for an old gentleman.
+C: NEIGHBOUR
+D: An old gentleman? Do you have a name? NEIGHBOUR 2 There's a lot of old gentlemen round here.
+C: HANNAH
+D: He lives next door.
+C: HANNAH'S FRIEND
+D: Number six.
+C: NEIGHBOUR
+D: There is an old gentleman lives next door with his good lady wife. They say he has the sickness. Are you a relative?
+C: HANNAH
+D: N... No matter. She starts to leave.
+C: HANNAH'S FRIEND
+D: Good day. She follows Hannah.
+C: NEIGHBOUR
+D: Good day. NEIGHBOUR 2 Good day. The two women exchange looks. Turner is in bed. He is staring, feverish, hallucinating. Mrs Booth comforts him.
+C: MRS BOOTH
+D: Shh... shh, shh, shh, shh. Turner pushes her off.
+C: TURNER
+D: Aaah!
+E: frightened
+C: MRS BOOTH
+D: No, no, no. 'Tis I. There. Shh, shh.’ She comforts him again. Another day. Mrs Booth is looking out of the bedroom window. Turner is in bed.
+C: MRS BOOTH
+D: Poor, wretched soul. Turner throws back the covers.
+C: MRS BOOTH
+D: She be drowned dead.
+C: TURNER
+D: Hmm.
+C: MRS BOOTH
+D: There. The suffering she must have seen. Hmm. Turner gets out of bed and joins her at the window.
+C: MRS BOOTH
+D: If there be a God, he be a cruel one. Turner picks up a sketch book which is beside her.
+C: MRS BOOTH
+D: What are you doing?
+C: TURNER
+D: I have to sketch her. He leaves the room.
+C: MRS BOOTH
+D: Get back into bed now, Joseph Mallord William Turner! He proceeds down the stairs.
+C: MRS BOOTH
+D: No, no, no, no, no, no. There be no shoes on your feet! She follows him. Outside, a young woman lies on the river bank. She is dead - drowned. A POLICEMAN scuttles about. ANOTHER POLICEMAN crouches by the corpse. Turner arrives on the jetty, whilst Mrs Booth tries to put his coat around his shoulders. He starts to sketch the body, but he is weak. He mutters to himself. Mrs Booth tries to pull him away. He tries to resist. He is in pain.
+C: MRS BOOTH
+D: Oh, there. Let me take you in. Turner mutters.
+C: MRS BOOTH
+D: There. No. Come in. You can finish that later. She helps him back towards the house. Neighbours have gathered round. They watch him go. Turner is in bed, asleep. Mrs Booth sits at his bedside, looking towards the window. Dr Price sits on the other side of the bed. Silence. Turner surfaces a little. He groans. Mrs Booth turns to him.
+C: TURNER
+D: Me damsel..... Mrs Booth smiles warmly at him.
+C: TURNER
+D: The Sun is God! He laughs... And then he dies. Dr Price gets up, and checks Turner’s pulse. Mrs Booth buries her head in Turner’s arm. The doctor gently closes Turner’s eyes. Silence. In the distance, the sound of a flock of geese. Long pause. Now, in silence, we see Turner sketching, silhouetted against an enormous setting sun. Some time later. Mrs Booth is cleaning the window of her front door. She polishes vigorously for a while. Then she stops and reflects. Warm, tender memories, tinged with humour and sadness. She resumes her task. And now, in Turner’s old house, Hannah is ill and frail. She emerges from the gallery, muttering. Slowly, she shuffles into Turner’s studio. She is weeping. A sad, lost soul. SLOW FADE TO BLACKOUT.
+E: clearly
+C: NOTE
+D: Hannah’s skin disease , which is marginally evident in the early part of the film, gradually deteriorates
+E: psoriasis
+N: over the years. By the end, it is palpably severe.

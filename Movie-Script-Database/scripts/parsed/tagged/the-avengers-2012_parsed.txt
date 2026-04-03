@@ -1,0 +1,2428 @@
+M: Marvel’s THE AVENGERS
+M: Written By
+M: Joss Whedon
+M: Story By
+M: Zak Penn and Joss Whedon
+M: Based on the characters appearing in the comic books
+M: Published by MARVEL Comics
+S: EXT. UNKNOWN AREA OF SPACE
+N: Space, a floating staircase among the rocks...THE OTHER speaks to a DISEMBODIED FIGURE in a chair.
+C: THE OTHER
+D: The Tesseract has awakened. It is on a little world, a human world. They would wield its power. THE OTHER hands LOKI a scepter with a glowing blue gem...
+E: V.O
+C: THE OTHER
+D: But our ally knows its workings as they never will. He is ready to lead. And our force... The CHITAURI put on their face mask and get ready.
+E: V.O
+C: THE OTHER
+D: ...our Chitauri, will follow. The world will be his...the universe, yours. And the humans, what can they do but burn? A 3d model of the Tesseract, we move inside it slowly EXT. MOUNTAIN RANGE - EARLY NIGHT A helicopter SPEEDS over this mountain at high-speed. The CAMERA pans up over the mountain and we see... EXT. SHIELD/NASA FACILITY - CONTINUOUS This base is grand beyond belief. There is a frantic evacuation in progress. AGENTS, SCIENTISTS, and PERSONNEL rush around the base frantically.
+E: V.O
+C: INTERCOM VOICE
+D: All personnel, evacuation order has been confirmed. Proceed to your designated vehicles... A man flushes people by. The sign on the building reads: JOINT DARK ENERGY MISSION; WESTERN DIVISION; PROJECT PEGASUS, NASA SPACE RADIATION FACILITY, S.H.I.E.L.D
+C: ACCELERATOR TEST FACILITY INTERCOM VOICE
+D: ...for all campus evacuation. Security Guards direct traffic. SHIELD agents assist people, some stuff the trunks of their cars and leave the campus. CONTINUED: 2.
+E: 2
+C: INTERCOM VOICE
+D: This is not a drill. Emergency personnel proceed to your designated vehicles for all campus evacuation. The helicopter slows above a- EXT. LANDING PAD, SHIELD/NASA FACILITY - CONTINUOUS There is a man in suit waiting. This is AGENT PHIL COULSON. ON THE CHOPPER: The door slides open. Out comes a female, this is AGENT MARIA HILL. Following behind her is NICK FURY. Fury and Hill walk over to Coulson.
+E: CONT’D
+C: FURY
+D: How bad is it?
+C: AGENT COULSON
+D: That’s the problem, sir. We don’t know. INT. ELEVATOR SHAFT - MOMENTS LATER An elevator rushes down. It’s going fast.
+E: EARLY NIGHT
+C: AGENT COULSON
+D: Doctor Selvig read an... INT. LOWER LEVEL - CONTINUOUS Coulson, Fury, and Hill make their way through the crowds of evacuating personnel.
+E: V.O
+C: AGENT COULSON
+D: ...energy surge from the Tesseract four hours ago.
+C: FURY
+D: NASA didn’t authorize Selvig could go to test B.
+C: AGENT COULSON
+D: He wasn’t testing it. He wasn’t even in the room. Spontaneous event.
+C: MARIA HILL
+D: It just turned itself on? CONTINUED: 3.
+E: 2
+C: FURY
+D: Where are the energy levels now?
+C: AGENT COULSON
+D: Climbing. When Selvig couldn’t shut it down we ordered evac.
+C: FURY
+D: How long to get everyone out?
+C: AGENT COULSON
+D: Campus should be clear in the next half hour.
+C: FURY
+D: Do better. Fury and Hill continue on as Coulson turns around and heads the other way. INT. STAIRCASE - MOMENTS LATER Fury and Hill make their way down to the lower levels.
+E: EARLY NIGHT
+C: MARIA HILL
+D: Sir, evacuation may be futile.
+C: FURY
+D: We should tell them to go back to sleep?
+C: MARIA HILL
+D: If we can’t control the Tesseract’s energy there may not be a minimum safe distance.
+C: FURY
+D: I need you to make sure the Phase Two prototypes are shipped out.
+C: MARIA HILL
+D: Sir, is that really a priority right now?
+C: FURY
+D: Until such time as the world ends we will act as though it intends to spin on. Clear out the tech below. Every piece of Phase Two on a truck and gone. CONTINUED: 4.
+E: 2
+C: MARIA HILL
+D: Yes, Sir. With me. Fury enters the Tesseract room. INT. TESSERACT CHAMBER ROOM - CONTINUOUS Fury makes his way over to ERIK SELVIG.
+E: to guards EARLY NIGHT
+C: FURY
+D: Talk to me, Doctor.
+C: SELVIG
+D: Director.
+C: FURY
+D: Is there anything we know for certain?
+C: SELVIG
+D: The Tesseract is misbehaving.
+C: FURY
+D: Is that supposed to be funny?
+C: SELVIG
+D: No, it’s not funny at all. The Tesseract is not only active, she’s misbehaving.
+C: FURY
+D: How soon can you pull the plug?
+C: SELVIG
+D: She’s an energy source. We turn off the power, she turns it back on. If she reaches peak level-
+C: FURY
+D: We prepared for this, Doctor. Harnessing energy from space.
+C: SELVIG
+D: We don’t have the harness. My calculations are far from complete. She’s throwing off interference, radiation. Nothing harmful, low levels of Gamma radiation. CONTINUED: 5.
+E: 2
+C: FURY
+D: That can be harmful. Where’s agent Barton?
+C: SELVIG
+D: The hawk? Up in his nest, as usual. CLINT BARTON, also known as HAWKEYE, is on a balcony, observing the lab.
+C: FURY
+D: Agent Barton. Report. Barton zip-lines down a rope.
+E: over Barton’s radio
+C: FURY
+D: I gave you this detail so you could keep a close eye on things. Fury and Barton walk together toward the Tesseract machine.
+E: V.O sturn
+C: BARTON
+D: I see better from a distance.
+C: FURY
+D: Have you seen anything that might set this thing off? A NASA SCIENTIST calls for Selvig.
+C: NASA SCIENTIST
+D: Doctor! It’s spiking again. Barton and Fury step onto the platform, in front of the Tesseract machine.
+C: BARTON
+D: No one’s come and gone. And Selvig’s clean. No contacts, no IM. If there’s any tampering, sir, it wasn’t this end. While Barton is talking Selvig walks over to the computer where the NASA SCIENTIST is. He looks concerned and worried.
+C: FURY
+D: At this end? CONTINUED: 6.
+E: a little confused 3
+C: BARTON
+D: Yeah. The Cube is a doorway to the other end of space, right? Doors open from both sides. The Cube sparks.
+C: SELVIG
+D: What’s that? It sparks again. EXT. BEHIND A TRUCK - SAME Coulson stands. The grounds of the campus shakes. He grabs the truck. INT. SECURITY LEVEL FOUR - SAME Hill turns and looks around her, hearing a creaking noise as the building shakes. INT. TESSERACT CHAMBER ROOM - CONTINUOUS The Cube sparks some more, bigger each time. A beam of energy which opens into a portal. There is an explosion. A could from the beam floats to the top of the chamber. On the platform is LOKI, God of Mischief and Lies, kneeling. Several GUARDS move in slowly. TIGHT ON LOKI: He looks up, grinning menacingly. She stands. DOLLY IN: Fury and Barton stare in shock. ON SELVIG: He is in awe and horror. Loki looks around. Fury is ready to act.
+E: EARLY NIGHT
+C: FURY
+D: Sir, please put down the spear! Loki looks at his scepter then fires a stream on blue light from it. Barton pushes Fury out the way. The guards open fire. Loki jumps at them, firing more energy and fighting. Shooting scientists and agents. Barton moves towards him but Loki grabs his arm.
+E: to Loki
+C: LOKI
+D: You have heart. CONTINUED: 7. Loki touches the tip of the spear to Barton’s chest and his eyes become ice blue. He puts his gun away. Loki moves to another agent and does the same as he’s done to Barton. Fury pulls the Cube from the machine it was in and shuts it in a briefcase, then moves to leave.
+E: 2
+C: LOKI
+D: Please don’t. I still need that.
+E: to Fury, turning around
+C: FURY
+D: This doesn’t have to get any messier.
+C: LOKI
+D: Of course it does. I’ve come too far for anything else. I am Loki, of Asgard. And I am burdened with glorious purpose. Selvig, checking the pulse of NASA SCIENTIST, hears and approaches.
+C: SELVIG
+D: Loki, brother of Thor?
+C: FURY
+D: We have no quarrel with your people.
+C: LOKI
+D: An ant has no quarrel with a boot.
+C: FURY
+D: You planning to step on us?
+C: LOKI
+D: I come with glad tidings, of a world made free.
+C: FURY
+D: Free from what?
+C: LOKI
+D: Freedom. Freedom is life’s great lie. Once you accept that, in your heart- Loki turns and places the spear tip on Selvig’s chest. -you will know peace. Barton sees the Tesseract portal cloud, brewing and moves to Loki. CONTINUED: 8.
+E: 3
+C: FURY
+D: Yeah, you say peace. I kinda think you mean the other thing.
+C: BARTON
+D: Sir, Director Fury is stalling. This place is about to blow and drop a hundred feet of rock on us. He means to bury us.
+E: to Loki
+C: FURY
+D: Like the pharaohs of old.
+C: SELVIG
+D: He’s right. The portal is collapsing in on itself. We’ve got maybe two minutes before this goes critical.
+C: LOKI
+D: Well then. Barton quickly draws his gun and shoots Fury, who drops the case. Barton picks up as he, Loki, Selvig and another agent leave the room. INT. SECURITY LEVEL FOUR - A FEW SHORT MOMENTS LATER Barton and the others walk under the closing gate. Hill comes out from the back room.
+C: BARTON
+D: We need this vehicles.
+C: MARIA HILL
+D: Who’s that?
+E: seeing Loki
+C: BARTON
+D: Didn’t tell me. The roof is slowly crumbling. Loki gets onto a SHIELD pickup truck. Selvig enters the passenger seat, holding the case.
+C: FURY
+D: Hill! INT. TESSERACT CHAMBER ROOM - CONTINUOUS
+E: over Hill’s radio
+C: FURY
+D: Do you copy? INT. SECURITY LEVEL FOUR - CONTINUOUS
+E: into his radio
+C: FURY
+D: Barton...has turned. Barton pulls his gun and fires at Hill, who rolls behind the back room wall and returns fire. Barton enters the driver’s seat of the pickup and drives off with Loki is in the bed. INT. TESSERACT CHAMBER ROOM - CONTINUOUS Fury stands up and rushes out as the Tesseract cloud gets bigger and bigger above him. The lab is getting destroyed.
+E: over Hill’s radio
+C: FURY
+D: Get the Tesseract. Shut them down. INT. SECURITY LEVEL FOUR - CONTINUOUS Hill throws her radio into the front seat of a SHIELD jeep. She jumps in after and speeds away, trying to catch up with Barton. INT. DIMLY LIT UNDERGROUND TUNNEL - CONTINUOUS SHIELD cars are chasing Barton’s pickup. Loki fires a beam from his spear, flipping the car over on its head -- blocking the pursuing vehicles and fleeing cars. INT. LOWER LEVEL - CONTINUOUS The portal begins to collapse as Fury tries to escape. Falling debris misses him by a few inches. INT. FRONT STEPS OF A BUILDING - CONTINUOUS Coulson is assisting evacuation, supervising guards as the wheel crates. An explosion rocks the building. They all fall as the roof dissolves faster. The four guards try to pick up the case-
+E: into radio EARLY DAWN
+C: AGENT COULSON
+D: Let’s just go. No-no-no! Leave it, leave it. GO! INT. DIMLY LIT UNDERGROUND TUNNEL - CONTINUOUS Barton speeds up because he’s coming up on an intersection. Hill comes speeding out of the right tunnel, she spins the jeep around -- coming face to face with Barton, who shoots through his window. Hill returns fire -- firing through the windshield. INT. MILITARY TRANSPORT TRUCK - CONTINUOUS Coulson and the guards climb into the canopy of the truck.
+E: to guards
+C: AGENT COULSON
+D: We’re clear upstairs, sir... EXT. LANDING PAD, SHIELD/NASA FACILITY - CONTINUOUS Fury runs through the front door of a building and into...
+E: into radio
+C: AGENT COULSON
+D: ...We need to go. The last waiting chopper, which takes off as the ground beneath begins to crack up. INT. DIMLY LIT UNDERGROUND TUNNEL - CONTINUOUS Barton fires at Hill one more time. She fires back, finally Barton gets the upper hand and swings in front of Hill -- cutting her off. She turns he jeep around and continues to speed behind them. EXT. LANDING PAD, SHIELD/NASA FACILITY - CONTINUOUS Fury’s chopper is in the air, the ground begins collapsing. INT. TESSERACT CHAMBER ROOM - CONTINUOUS The Tesseract portal cloud explodes. EXT. SHIELD/NASA FACILITY - CONTINUOUS The entire base explodes and crumbles in on itself -- sinking into the underground. Fury watches in horror from his chopper window. DIMLY LIT UNDERGROUND TUNNEL - CONTINUOUS The ceiling of the tunnel falls, trapping Hill and other agents underground. Loki looks at the exit to see if they will make it out. INT. MILITARY TRANSPORT TRUCK - CONTINUOUS Coulson and the others in the canopy stare at the ground behind their truck -- the ground is still collapsing, seconds behind there vehicle, they get away in time. EXT. DESERT - CONTINUOUS Loki and the others escape the tunnel seconds before the exit is covered up by the fallen ceiling. As they drive along, Fury’s chopper chases them. Barton drives frantically as Fury shoots at them from the sky. Loki blasts the helicopter and Fury jumps to the ground as it crashes, he continues to fire as the truck drives off in the distance. He stands.
+E: V.O over Fury’s radio NIGHT
+C: AGENT COULSON
+D: Director. BEGIN INTERCUT: FURY / TRUCK CANOPY / UNDERGROUND TUNNEL
+E: over Fury’s radio
+C: AGENT COULSON
+D: Director Fury, do you copy?
+E: CONT’D into radio
+C: FURY
+D: The Tesseract is with a hostile force. I have men down. Hill?
+E: into radio
+C: MARIA HILL
+D: A lot of men still under. Don’t know how many survivors.
+E: into radio; getting out of crushed jeep
+C: FURY
+D: Sound a general call. I want every living soul...
+E: over Hill’s radio
+C: FURY
+D: ...not working rescue looking for that briefcase. CONTINUED: 12.
+E: into radio 2
+C: MARIA HILL
+D: Roger that.
+E: into radio
+C: FURY
+D: Coulson, get back to base.
+E: into radio
+C: FURY
+D: This is a level seven.
+E: over Coulson’s radio
+C: FURY
+D: As of right now...
+E: over Hill’s radio
+C: FURY
+D: We are at war.
+E: into his radio
+C: AGENT COULSON
+D: What do we do? Fury thinks, as the CAMERA GOES TIGHT on him. TITLE CARD: Marvel’s THE AVENGERS EXT. OLD WAREHOUSE, RUSSIA - NIGHT A train speeds by. CAMERA PULLS through the warehouse window and MOVES UP to the third floor where NATASHA ROMANOFF aka BLACK WIDOW, is tied to a chair. A man slaps her. She screams.
+E: into his radio
+C: GEORGI LUCHKOV
+D: This isn’t how I wanted this evening to go.
+E: in Russian
+C: NATASHA
+D: I know how you wanted this evening. Believe me this is better.
+E: in Russian
+C: GEORGI LUCHKOV
+D: Who are you working for? Lermentov, yes? TALL THUG walks over to Natasha and leans the chair over a pit. She becomes scared. CONTINUED: 13.
+E: in Russian 2
+C: GEORGI LUCHKOV
+D: Does he think we have to go through him to move our cargo?
+E: CONT’D in Russian
+C: NATASHA
+D: I thought General Solohob is in charge of the export business.
+E: in Russian
+C: GEORGI LUCHKOV
+D: Solohob. A bagman, a front. Your outdated information betrays you. The famous Black Widow is just another pretty face.
+E: in Russian
+C: NATASHA
+D: You really think I’m pretty? TALL THUG grabs her jaw and forces it open as Luchkov walks to the table behind him.
+E: in Russian
+C: GEORGI LUCHKOV
+D: Tell Lermentov we don’t need him to move the tanks. Tell him he is out. Well... Luchkov picks up a tool of the table and plays with it. ...You may have to write it. Suddenly a phone rings. WEASELLY THUG answers his phone.
+E: in Russian
+C: WEASELLY THUG
+D: It’s for her. Luchkov takes the phone.
+C: GEORGI LUCHKOV
+D: You listen carefully-
+E: in Russian; into cell
+C: AGENT COULSON
+D: You’re at 1- 14 Silensky Plaza, 3rd floor. We have an F-22 exactly eight miles out. Put the woman on the phone or I will blow up the block before you can make the lobby. CONTINUED: 14. Luchkov hands the phone to Natasha, who balances it on her shoulder. We need you to come in.
+E: V.O over the cell 3 over the cell
+C: NATASHA
+D: Are you kidding? I’m working.
+E: into cell
+C: AGENT COULSON
+D: This takes precedence.
+E: over the cell
+C: NATASHA
+D: I’m in the middle of an interrogation, and this moron is giving me everything.
+E: into cell
+C: GEORGI LUCHKOV
+D: I not- give everything. Natasha gives Luchkov a look. BEGIN INTERCUT: COULSON / NATASHA
+E: to Tall Thug
+C: NATASHA
+D: Look, you can’t pull me out of this right now.
+E: into cell
+C: AGENT COULSON
+D: Natasha...Barton’s been compromised.
+E: into cell
+C: NATASHA
+D: Let me put you on hold. Luchkov moves in for the cell phone. Natasha kicks him between the legs and headbutts him. WEASELLY THUG swings his fist at her and she kicks him back. TALL THUG runs up and she spins around -- and the chair legs hit him. WEASELLY THUG jumps to his feet. Natasha rolls with the chair and drops the legs on his feet. She whips her head at him and hits him in the nose then trips him. As she fights the TALL THUG, Coulson listens to the fight over the phone. He stands quiet -- waiting as he hears the groaning, kicking, and punching. CONTINUED: 15. Natasha spring boards off TALL THUG’s back, somersaults, and breaks the chair on WEASELLY THUG. TALL THUG grabs her and Natasha bends his hand then hits him with the chair leg. She does a front dropkick against TALL THUG then pushes herself off the ground with both hands. She runs toward TALL THUG, who is out of breath, and flips him with her thighs. Luchkov stands and she swiftly walks over to the chain hanging from the ceiling. As he approaches she hits him with it, wraps one leg in it, and throws him into the pit. She leaves him upside down and picks up the cell and her high heels.
+E: into cell 4
+C: NATASHA
+D: Where’s Barton now?
+E: CONT’D into cell
+C: AGENT COULSON
+D: We don’t know.
+E: over cell
+C: NATASHA
+D: But he’s alive?
+C: AGENT COULSON
+D: We think so. Coulson is looking at a screen that’s playing a video of Hawkeye & Black Widow in Budapest. We’ll brief you on everything when you get back. Coulson is handed a folder. He walks down some stairs as he talks. But first, we need you to talk to the big guy.
+E: into phone
+C: NATASHA
+D: Coulson, you know that Stark trusts me about as far as he can throw me.
+E: into cell
+C: AGENT COULSON
+D: Oh I’ve got Stark! You get the big guy. END INTERCUT Natasha stops in her tracks, shocked at what Coulson has just said. CONTINUED: 16.
+E: 5
+C: NATASHA
+D: My God. EXT. SLUMS, CALCUTTA, INDIA - NIGHT A YOUNG GIRL sprints across a busy street. She runs through a crowd of people, rushing down an busy alleyway. She runs into a house and up the stairs. CALCUTTA WOMAN approaches her. BRUCE BANNER, the alter ego of the Incredible Hulk, is treating the ill in the b.g. CALCUTTA WOMAN Who are you? Get out! There is sickness here!
+E: in Russian; quietly in Hindi
+C: YOUNG GIRL
+D: Are you the doctor? I need a doctor. My father. My father’s not waking up! He has a fever and he’s moaning but his eyes won’t open. Banner hears and moves over to the YOUNG GIRL. He kneels before her.
+E: very fast in Hindi
+C: BANNER
+D: Slow down.
+E: in Hindi
+C: YOUNG GIRL
+D: My father-
+E: in Hindi
+C: BANNER
+D: Like them? Banner points to the people in the house that are sick. YOUNG GIRL nods and holds up a wad of cash.
+E: in Hindi
+C: YOUNG GIRL
+D: Please! EXT. OLD ABANDONED SHACK, CALCUTTA OUTSKIRTS - LATER YOUNG GIRL is rushing to reach the shack but Banner, a little suspicious, grabs her -- slowing her down. A truck drives by very slow, Banner glances at it as it passes. Banner and the girl rush across the dirt road. The YOUNG GIRL sprints into the shack and Banner follows slowly. INT. OLD ABANDONED SHACK - CONTINUOUS Banner enters in time to see her escape through the window. He’s been ditched and he realizes he’s been set up.
+E: in Hindi; emotion
+C: BANNER
+D: Should have got paid upfront Banner.
+E: quietly to himself
+C: NATASHA
+D: You know, for a man who’s supposed to be... Natasha reveals herself to Banner from behind a curtain.
+C: NATASHA
+D: ...avoiding stress, you picked a hell of a place to settle.
+E: CONT’D
+C: BANNER
+D: Avoiding stress isn’t the secret.
+E: putting his bag down
+C: NATASHA
+D: Then what is it? Yoga?
+C: BANNER
+D: And you brought me to the end of the city. Smart. I- uh- I assume the whole place is surrounded. Natasha removes her scarf.
+E: peeping through the window
+C: NATASHA
+D: Just you and me.
+C: BANNER
+D: And your actress buddy? She a spy too, they start that wrong? CONTINUED: 18.
+E: 2
+C: NATASHA
+D: I did.
+E: a little nervous
+C: BANNER
+D: Who are you?
+C: NATASHA
+D: Natasha Romanoff.
+C: BANNER
+D: Are you here to kill me, Ms Romanoff? ’Cause that’s not going to work out for everyone.
+C: NATASHA
+D: No, no. Of course not. I’m here on behalf of SHIELD.
+C: BANNER
+D: SHIELD. How’d they find me?
+E: a little mad
+C: NATASHA
+D: We never lost you, Doctor. We’ve kept our distance, even helped keep some other interested parties off your scent.
+C: BANNER
+D: Why?
+C: NATASHA
+D: Nick Fury seems to trust you. But now we need you to come in.
+C: BANNER
+D: What if I say no?
+C: NATASHA
+D: I’ll persuade you.
+E: seductive, sturn, smiling
+C: BANNER
+D: And what if the- Other Guy says no?
+E: a little sad and reluctant
+C: NATASHA
+D: You’ve been more than a year without an incident. I don’t think you want to break that streak. Banner pushes at an old wooden cradle, it creaks. CONTINUED: 19.
+E: 3
+C: BANNER
+D: Well, I don’t every time get what I want.
+C: NATASHA
+D: Doctor, we’re facing a potential global catastrophe.
+C: BANNER
+D: Oh those I actively try to avoid.
+E: chuckles
+C: NATASHA
+D: This is the Tesseract. Natasha slides a cell phone along the table. On it is an image of the Tesseract. It has the potential energy to wipe out the planet. Banner puts on his glasses, approaches and picks up the touch screen cell phone.
+E: takes a seat
+C: BANNER
+D: What does Fury want me to do? Swallow it?
+C: NATASHA
+D: He wants you to find it. It’s been taken. It emits a Gamma signature that’s too weak for us to trace. No one knows Gamma radiation like you do. If there was, that’s where I’d be.
+C: BANNER
+D: So Fury isn’t after the monster?
+C: NATASHA
+D: Not that he’s told me.
+C: BANNER
+D: And he tells you everything?
+C: NATASHA
+D: Talk to Fury, he needs you on this.
+C: BANNER
+D: He needs me in a cage? CONTINUED: 20.
+E: immediate response 4
+C: NATASHA
+D: No one’s going to put you in a-
+C: BANNER STOP LYING TO ME!
+D: Banner yells, crashing his hands down on the table. Natasha stands, pulling a gun and aims at him. He draws back, smiling. I’m sorry. That was mean. I just wanted to see what you’d do. Natasha stares at him, a little teary, scared out of her mind. Why don’t we do this the easy way where you don’t use that and the- Other Guy doesn’t make a mess? Okay?....Natasha. Natasha lowers her weapon and speaks into an earpiece.
+E: smiles
+C: NATASHA
+D: Stand down. We’re good here. The horde of armed guards surrounding the shack lower their weapons.
+E: quietly into her earpiece
+C: BANNER
+D: Just you and me? Natasha realizes he knows and stands silent. INT. DARK ROOM, CARRIER - NIGHT Fury is talking with the Council, four shadowy figures on screens.
+C: COUNCILMAN
+D: This is out of line, Director. You’re dealing with forces you can’t control.
+C: FURY
+D: You ever been in a war, councilman? In a fire fight? Did you feel an over abundance of control?
+C: COUNCILMAN
+D: You’re saying that this Asgard is declaring war on our planet? CONTINUED: 21.
+E: 2
+C: FURY
+D: Not Asgard, Loki.
+C: COUNCILWOMAN
+D: He can’t be working alone. What about the other one, his brother?
+C: FURY
+D: Our intelligence says Thor is not a hostile. But he’s worlds away and we can’t depend on him to help either. It’s up to us.
+C: COUNCILMAN
+D: Which is why you should be focusing on Phase Two, it was designed for exactly this purpose.
+C: FURY
+D: Phase Two isn’t ready; our enemy is. We need a response team.
+C: COUNCILMAN
+D: The Avengers Initiative was shut down.
+C: FURY
+D: This isn’t about the Avengers.
+C: COUNCILMAN
+D: We’re running the world’s greatest covert security network and you’re gonna leave the fate of the human race to a handful of freaks.
+C: FURY
+D: I’m not leaving anything to anyone. We need a response team. These people may be isolated, unbalanced even, but I believe, with the right push, they can be exactly what we need.
+C: COUNCILWOMAN
+D: You believe!
+C: COUNCILMAN
+D: War isn’t won by sentiment, Director.
+C: FURY
+D: No, It’s won by soldiers. INT. GYM - NIGHT STEVE ROGERS, alter ego of Captain America, is hitting a punching bag in a gym. He has several flashbacks of World War Two. During his flashbacks...
+C: CAPTAIN AMERICA
+D: There’s not enough time. I gotta put her in the water. ...he hits the bag harder, faster...
+E: V.O
+C: PEGGY CARTER
+D: You won’t be alone. ...he hits the bag even faster.
+E: V.O
+C: SCIENTIST
+D: Oh my God. This guy’s still alive. Steve throws the hardest punch he has left and it knocks the bag across the room. Breathing hard, Steve picks up another bag from a line on the floor and hangs it up. He begins to hit it. And-
+E: V.O
+C: FURY
+D: Trouble sleeping?
+E: across the room
+C: STEVE
+D: Slept for seventy years, Sir. I think I’ve had my fill. Fury slowly approaches Steve.
+E: hitting the bag
+C: FURY
+D: Then you should be out, celebrating, seeing the world.
+C: STEVE
+D: When I went under, the world was at war. I wake up- they say we won. They didn’t say what we lost.
+C: FURY
+D: We’ve made some mistakes along the way, some very recently.
+C: STEVE
+D: You here with a mission, Sir? CONTINUED: 23.
+E: removing hand wrap 2
+C: FURY
+D: I am.
+C: STEVE
+D: Trying to get me back in the world?
+E: removing other hand wrap
+C: FURY
+D: Trying to save it. Fury hands Steve a folder with information on the Tesseract in it.
+C: STEVE
+D: HYDRA’s secret weapon.
+C: FURY
+D: Howard Stark fished that out of the ocean when he was looking for you. He thought what we think. The Tesseract could be the key to unlimited sustainable energy. That’s something the world sorely needs.
+C: STEVE
+D: Who took it from you?
+C: FURY
+D: He’s called Loki. He’s- not from around here. There’s a lot we’ll have to bring you up to speed on if you’re in. The world has gotten even stranger than you already know.
+C: STEVE
+D: At this point I doubt anything would surprise me. Steve gets up, grabs his duffel bag, and another punching bag while Fury is talking.
+C: FURY
+D: Ten bucks says you’re wrong. There’s a debriefing packet waiting for you back at your apartment. Is there anything you can tell us about the Tesseract that we ought to know now? CONTINUED: 24.
+E: 3
+C: STEVE
+D: You should have left it in the ocean. Steve exits. EXT. OCEAN, NEW YORK CITY - NIGHT IRON MAN aka Tony Stark, is underwater. He attaches a device to a massive pipe. He flies up out of the water and towards the city and begins talking with PEPPER POTTS.
+C: IRON MAN
+D: Good to go on this end. The rest is up to you.
+C: PEPPER
+D: You disconnected the transmission lines? Are we off the grid?
+E: V.O over Iron Man headset
+C: INSIDE IRON MAN HEADSET: TONY
+D: Stark Tower’s about to become a beacon of self-sustaining clean energy.
+E: into headset
+C: PEPPER
+D: Well, assuming the arc reactor takes over and it actually works. EXT. STREETS OF MIDTOWN MANHATTAN - CONTINUOUS Iron Man peels around a corner, heading straight for STARK
+E: on Iron Man HUD display
+C: TOWER. TONY
+D: I assume. Light her up. Stark Tower lights up.
+E: V.O
+C: PEPPER
+D: How does it look? EXT. STARK TOWER - CONTINUOUS
+E: V.O over Iron Man headset NIGHT
+C: TONY
+D: Like Christmas...
+E: V.O over Iron Man headset
+C: INSIDE IRON MAN HEADSET: TONY
+D: ...but with more- me.
+E: into headset
+C: PEPPER
+D: We’ve got to go wider on the public awareness campaign. You need to do some press. Iron Man flies over a overpass & up the side of Stark Tower.
+E: on Iron Man HUD display
+C: PEPPER
+D: I’m in DC tomorrow. I’m working on the zoning for the next three buildings.
+E: V.O over Iron Man headset
+C: TONY
+D: Pepper, you’re killing me at the moment. Remember, enjoy the moment. EXT. STARK TOWER LANDING PAD - CONTINUOUS
+E: V.O over Iron Man headset
+C: PEPPER
+D: Then get in here and I will. Iron Man lands on the landing pad of the tower and walks along a walkway, robotic arms deconstructing his armor.
+E: V.O over Iron Man headset
+C: JARVIS
+D: Sir, Agent Coulson of SHIELD is on the line.
+C: TONY
+D: I’m not in. I’m actually out.
+C: JARVIS
+D: Sir, I’m afraid he’s insisting.
+C: TONY
+D: Grow a spine, JARVIS. I got a date. INT. PENTHOUSE, STARK TOWER - CONTINUOUS Pepper stands in front of a holographic display, a little confused.
+E: NIGHT
+C: PEPPER
+D: Levels are holding steady- I think. Tony approaches Pepper.
+C: TONY
+D: Of course they are, I was directly involved. Which leads me to my next question. How does it feel to be a genius? Tony turns off the display and Pepper and he face each other.
+C: PEPPER
+D: Well, ah, I really wouldn’t know now would I?
+C: TONY
+D: What do you mean? All this came from you.
+C: PEPPER
+D: No, all this came from that. Pepper taps Tony’s arc reactor.
+C: TONY
+D: Give yourself some credit, please. Stark Tower is your baby. Give yourself- twelve percent of the credit.
+C: PEPPER
+D: Twelve percent?
+C: TONY
+D: An argument can be made for fifteen. Pepper walks toward the living room.
+C: PEPPER
+D: Twelve percent of my baby?
+C: TONY
+D: Well, I did do all the heavy lifting. Literally, I lifted the heavy things and sorry but, the security snafu? That was on you. CONTINUED: 27.
+E: following Pepper 2
+C: PEPPER
+D: Oh!
+C: TONY
+D: My private elevator. Pepper pours champagne in two glasses.
+C: PEPPER
+D: You mean our elevator.
+C: TONY
+D: Yeah, it was teeming with sweaty workmen. I’m going to pay for that comment about percentages in some subtle way later aren’t I?
+C: PEPPER
+D: Not gonna be that subtle.
+C: TONY
+D: I’ll tell you what, next building is gonna say ’Potts’ on the tower.
+C: PEPPER
+D: On the lease!
+C: TONY
+D: Call your mum, can you bunk over?
+C: JARVIS
+D: Sir, the telephone. I’m afraid my protocols are being overridden.
+C: TONY
+D: Ah- Tony picks up his high-tech phone and holds up.
+C: AGENT COULSON
+D: Mr. Stark, we need to talk.
+E: on phone screen
+C: TONY
+D: You have reached the Life Model Decoy of Tony Stark. Please leave a message.
+C: AGENT COULSON
+D: This is urgent. CONTINUED: 28.
+E: on phone screen 3
+C: TONY
+D: Then leave it urgently. The elevator opens and Coulson comes out. Security breach. That’s on you!
+E: to Pepper
+C: PEPPER
+D: Phil! Come in! Pepper and Tony walk over to Coulson, who is entering
+C: TONY
+D: Phil?
+C: AGENT COULSON
+D: I can’t stay.
+C: TONY
+D: Uh, his first name is Agent.
+C: PEPPER
+D: Come on in, we’re celebrating.
+C: TONY
+D: Which is why he can’t stay.
+E: fake smiling
+C: AGENT COULSON
+D: We need you to look this over, as soon as possible. Tony stares at the laptop.
+E: handing Tony the laptop
+C: TONY
+D: I don’t like being handed things.
+C: PEPPER
+D: That’s fine because I love to be handed things. So, let’s trade. Pepper swaps with Coulson -- he has with her glass and she has the laptop. She then takes Tony’s glass and passes the laptop on to him. Thank you.
+C: TONY
+D: Official consulting hours are between eight and five every other Thursday. CONTINUED: 29.
+E: 4
+C: AGENT COULSON
+D: This isn’t a consultation.
+C: PEPPER
+D: Is this about the Avengers? Coulson looks at Pepper Which I know nothing about.
+C: TONY
+D: The Avengers Initiative was scrapped, I thought, and I didn’t even qualify.
+C: PEPPER
+D: I didn’t know that either.
+C: TONY
+D: Yeah, apparently I’m volatile, self-obsessed, don’t play well with others.
+C: PEPPER
+D: That I did know.
+C: AGENT COULSON
+D: This isn’t about personality profiles anymore.
+C: TONY
+D: Whatever! Ms. Potts, got a sec?
+C: PEPPER
+D: Half a moment. Pepper leaves Coulson at the door and goes over to Tony.
+C: TONY
+D: You know, I thought we were having a moment.
+C: PEPPER
+D: I was having twelve percent of a moment. Tony gives Pepper a look. This seems serious. Phil looks pretty shaken.
+C: TONY
+D: How would you notice- why is he Phil? CONTINUED: 30.
+E: 5
+C: PEPPER
+D: What is all this?
+C: TONY
+D: This is- ah... Tony grabs the holograms on the laptop and throws them up. Holograms fill the room, each is a article on one of the Avengers. ...this! They both look upon the screens, observing them.
+C: PEPPER
+D: I’m going to take the jet to DC tonight.
+C: TONY
+D: Tomorrow.
+C: PEPPER
+D: You have homework. You have a lot of homework.
+C: TONY
+D: Well, what if I didn’t?
+C: PEPPER
+D: If you didn’t? You mean when you finished? Well, um, then- She leans in and whispers in Tony’s ear.
+C: TONY
+D: Square deal. Fly safe. They kiss. Coulson looks away.
+C: PEPPER
+D: Work hard. So, any chance you’re driving by LaGuardia?
+E: approaching Coulson
+C: AGENT COULSON
+D: I can drop you off.
+C: PEPPER
+D: Fantastic. Ooh, I want to hear about the ah- cellist, is that still a thing? As they are talking, Tony sees the Tesseract -- It peaks his interest. CONTINUED: 31.
+E: O.S 6
+C: AGENT COULSON
+D: She moved back to Portland. Pepper and Coulson board the elevator.
+E: O.S
+C: PEPPER
+D: What?...Boo. EXT. OCEAN - DAY A jet flies over the sea at high-speed. INT. JET - CONTINUOUS Steve is watching a video of the Hulk.
+C: FACELESS PILOT
+D: We’re about forty minutes out from home base, Sir. Coulson stands from a chair and walks over to Steve.
+E: to Coulson
+C: STEVE
+D: So, this Doctor Banner was trying to replicate the serum they used on me?
+C: AGENT COULSON
+D: A lot of people were. You were the world’s first superhero. Banner thought Gamma radiation might hold the key to unlocking Erskine’s original formula.
+C: STEVE
+D: Didn’t really go his way, did it?
+C: AGENT COULSON
+D: Not so much. When he’s not that thing though, guy’s like a Stephen Hawking. Rogers looks confused. He’s like a- smart person. I gotta say- it’s an honor to meet you, officially. I sort of met you, I mean, I watched you while you were sleeping. I mean, I was, I was present, while you were unconscious from-the-ice. Steve moves over to the cockpit and Coulson follows CONTINUED: 32.
+E: MORE 2
+C: AGENT COULSON
+D: You know it’s really- it’s just a- just a huge honor to have you on board- it’s...
+E: CONT’D
+C: STEVE
+D: Well, I hope I’m the man for the job.
+C: AGENT COULSON
+D: Oh you are, absolutely. Ah- we made some modifications to the uniform. I had a little design input.
+C: STEVE
+D: The uniform? Aren’t the stars and stripes a little...old-fashioned?
+C: AGENT COULSON
+D: Everything that’s happening, the things that are about to come to light, people might just need a little old-fashioned. INT. LOKI’S LIAR, UNDERGROUND LAB - DAY Two soldiers run down a tunnel...we hear them coming. They run into the lab where dozens of men are working, including Selvig. Loki sits and watches, spear in hand. It glows and he is transported to another world. EXT. SPACE
+E: CONTINUOUS
+C: THE OTHER
+D: The Chitauri grow restless.
+C: LOKI
+D: Let them goad themselves. I will lead them in a glorious battle.
+C: THE OTHER
+D: Battle? Against the meager might of Earth.
+C: LOKI
+D: Glorious not lengthy- if your force is as formidable as you claim.
+C: THE OTHER
+D: You question us? You question him? He who out the scepter in your hand, who gave you ancient knowledge and new purpose? When you were cast out- defeated! CONTINUED: 33.
+E: 2
+C: LOKI
+D: I was a king! The rightful king of Asgard, betrayed.
+C: THE OTHER
+D: Your ambition is little, full of childish need. We look beyond the Earth to greater worlds the Tesseract will unveil.
+C: LOKI
+D: You don’t have the Tesseract yet. The Chitauri creature lunges at Loki, hissing. I don’t threaten. But until I open the doors, until your force is mine to command, you are but words.
+C: THE OTHER
+D: You will have your war, Asgardian. If you fail, if the Tesseract is kept from us, there will be no realm, no barren moon, no crevice, where he cannot find you. You think you know pain? He will make you long for something as sweet as pain. INT. LOKI’S LIAR, UNDERGROUND LAB - CONTINUOUS Loki comes back and he flinches. He stares, mad. EXT. OCEAN - DAY A jet flies to a giant carrier in the water, it’s the SHIELD HELICARRIER in all its glory. Personnel are walking all over, some are strapping down jets and containers. EXT. HELICARRIER - DAY A jet lands. Coulson and Steve step out of it. Natasha walks toward them.
+C: AGENT COULSON
+D: Agent Romanoff- Captain Rogers.
+C: STEVE
+D: Ma’am.
+C: NATASHA
+D: Hi. They need you on the bridge; they’re starting the face trace. CONTINUED: 34.
+E: to Coulson 2
+C: AGENT COULSON
+D: See you there. Coulson, leaves as Natasha and Steve get to know each other while walking.
+C: NATASHA
+D: It was quite the buzz around here, finding you in the ice. Thought Coulson was gonna swoon. Did he ask you to sign his Captain America trading cards yet?
+C: STEVE
+D: Trading cards?
+C: NATASHA
+D: They’re vintage. He’s very proud. They see Banner who is bumping into people while he observes the carrier.
+C: STEVE
+D: Doctor Banner.
+C: BANNER
+D: Oh, yeah, hi. They told me you’d be coming.
+C: STEVE
+D: Word is you can find the Cube.
+C: BANNER
+D: Is that the only word on me?
+C: STEVE
+D: Only word I care about.
+C: BANNER
+D: Must be strange for you, all of this.
+C: STEVE
+D: Well, this is actually kind of familiar.
+C: NATASHA
+D: Gentlemen, you might wanna step inside in a minute. It’s gonna get a little had to breathe. CONTINUED: 35.
+E: 3
+C: HELICARRIER INTERCOM
+D: Flight Mode. Secure the deck. There is a loud whirring and clunking sound and Banner and Rodgers make their way to the edge of the helicarrier.
+C: STEVE
+D: Is this a submarine?
+C: BANNER
+D: Really, they want me in a submerged pressurized metal container? Propellers begin to spin and the carrier begins to lift into the air. Oh no, this is much worse. The helicarrier begins ascending higher and higher. INT. BRIDGE, CARRIER - MINUTES LATER Rogers and Banner follow Natasha into the bridge. Natasha peels away from them as they stare and observe in awe. It’s very busy, with SHIELD personnel working at stations, and communicating over earpieces.
+C: CARRIER BRIDGE
+D: TECH 1 Maximum performance take off, increase output to capacity.
+C: FEMALE CARRIER BRIDGE TECH
+D: Power plant performing at capacity. We are clear.
+C: MARIA HILL
+D: All engines operating. SHIELD emergency protocol one nine three point six in effect. We’re at level, sir.
+E: to Fury
+C: FURY
+D: Good! Let’s vanish.
+C: MARIA HILL
+D: Engage retro reflection panels. EXT. HELICARRIER - CONTINUOUS The underside of the ship appears to become coated with mirrors so it blends in with the sky. INT. BRIDGE, CARRIER - CONTINUOUS
+C: MALE AGENT
+D: Reflection panels engaged.
+E: O.S
+C: FURY
+D: Gentlemen. Steve slips Fury the ten dollars he bet earlier, in regards to nothing being able to surprise him. Doctor, thank you for coming. Banner shakes Fury’s hand.
+E: to Steve and Banner to Banner
+C: BANNER
+D: Thanks for asking nicely. So, um, how long am I staying?
+C: FURY
+D: Once we get our hands on the Tesseract, you’re in the wind.
+C: BANNER
+D: Well where are you with that?
+C: AGENT COULSON
+D: We’re sweeping every wirelessly accessible camera on the planet. Cell phones... Steve stands in the b.g. confused of what’s being said. While Coulson is talking, Natasha moves over to a computer screen where we see Barton’s face trace in progress. She checks the stats. ...laptops, if it’s connected to a satellite, it’s eyes and ears for us.
+C: NATASHA
+D: It’s still not gonna find them in time.
+C: BANNER
+D: You have to narrow your field. How many Spectrometers do you have access to?
+C: FURY
+D: How many are there? CONTINUED: 37.
+E: 2
+C: BANNER
+D: Call every lab you know. Tell them to put the Spectrometers on the roof and calibrate them for Gamma rays. I’ll rough out a tracking algorithm, basic cluster recognition. At least we could rule out a few places. Do you have somewhere for me to work?
+C: FURY
+D: Agent Romanoff, would you show Doctor Banner to his laboratory, please? Natasha walks over to Banner and they begin walking out of the bridge area.
+C: NATASHA
+D: You’re gonna love it, Doc. We got all the toys.
+C: BANNER
+D: Really? Do you have the com-meter sixty-four?
+C: NATASHA
+D: I’m not sure-
+C: BANNER
+D: Oh you’re very young. Fury walks up to Hill.
+E: cutting her off
+C: FURY
+D: Hill, did you tell the council that Barton had been compromised?
+C: MARIA HILL
+D: Was that not procedure? Fury walks off the bridge and onto the air deck, where he looks out.
+C: MARIA HILL
+D: Did you tell them who exactly is on your response team? Fury looks over his shoulder. CONTINUED: 38.
+E: CONT’D 3
+C: FURY
+D: Doesn’t appear that I have to. INT. LOKI’S LIAR, UNDERGROUND LAB - DAY Selvig is working on a machine in Loki’s hidden base.
+C: SELVIG
+D: Put it over there. Where did you find all these people?
+E: to Barton
+C: BARTON
+D: SHIELD has no shortage of enemies, Doctor. This the stuff you need?
+C: SELVIG
+D: Yeah. Iridium. It’s found in meteorites, it forms anti-protons. It’s very hard to get hold of.
+C: BARTON
+D: Especially if SHIELD knows you need it.
+C: SELVIG
+D: Well, I didn’t know. Loki walks up. Hey! This is wonderful. The Tesseract has shown me so much. It’s- it’s more than knowledge, it’s truth.
+E: to Loki
+C: LOKI
+D: I know. It, ah- it touches everyone differently. What did it show you Agent Barton?
+E: to Barton
+C: BARTON
+D: My next target.
+C: SELVIG
+D: Stick in the mud. He’s got no soul. No wonder you chose this, this tomb to work in. CONTINUED: 39.
+E: laughing 2
+C: BARTON
+D: Well, the Radisson doesn’t have three levels of lead lined flooring between SHIELD and that Cube. Selvig walks back to the machine he was working on.
+E: snapping
+C: LOKI
+D: I see why Fury chose you to guard it.
+C: BARTON
+D: You’re going to have to contend with him sir. As long as he’s in the air, I can’t pin him down. And he’ll be putting together a team.
+C: LOKI
+D: Are they a threat?
+C: BARTON
+D: To each other more than likely. But if Fury can get ’em on track, and he might, they could throw some noise our way.
+C: LOKI
+D: You admire Fury.
+C: BARTON
+D: He’s got a clear line of sight.
+C: LOKI
+D: Is that why you failed to kill him?
+C: BARTON
+D: It might be. I was disoriented, and I’m not at my best with a gun.
+C: LOKI
+D: I want to know everything you can tell me about this team of his. I would- test their mettle. Barton nods. I am weary of scuttling in shadow. I mean to rule this world, not burrow in it.
+C: BARTON
+D: That’s a risk CONTINUED: 40.
+E: 3
+C: LOKI
+D: Oh yes.
+C: BARTON
+D: If you’re set on making yourself known. I could be useful.
+C: LOKI
+D: Tell me what you need. Barton walks over to a small case, opens it, then takes out his bow. He flicks it open.
+C: BARTON
+D: I need a distraction. And an eyeball. INT. BRIDGE, CARRIER - DAY Coulson and Steve are standing in the bridge, just waiting. AGENT JASPER SITWELL is in the b.g. running the face trace.
+C: AGENT COULSON
+D: I mean, if it’s not too much trouble.
+C: STEVE
+D: No-no, it’s fine.
+C: AGENT COULSON
+D: It’s a vintage set. Took me a couple of years to collect them all. Near mint, slight foxing around the edges but-
+C: AGENT JASPER SITWELL
+D: We got a hit. Sixty seven percent match. Wait- cross-match, seventy nine percent.
+C: AGENT COULSON
+D: Location?
+C: AGENT JASPER SITWELL
+D: Stuttgart, Germany. Twenty eight, Königstraße. He’s not exactly hiding.
+C: FURY
+D: Captain, you’re up. Steve nods and walks off. EXT. FANCY BUILDING, STUTTGART - NIGHT A busy street. Cars pull up and drop off fancy guests. INT. FANCY BUILDING - CONTINUOUS String quartet No. 13 is playing in a large ballroom filled with people talking, mingling. INT. ROOM, CARRIER - CONTINUOUS Steve walks through a door and in a case is the new and improved CAPTAIN AMERICA suit. He walks over to it and stares. EXT. GUARDED BUILDING - CONTINUOUS Two guards outside are shot down with arrows while securing the building. EXT. QUINJET, SKIES - CONTINUOUS The quinjet is speeding across the cloudy skies, making its way to Germany. EXT. DOOR, GUARDED BUILDING - CONTINUOUS Barton and some men rush over to a door with a scanner on the side. They prepare to break in. INT. FANCY BUILDING - CONTINUOUS Loki walks down some stairs from a balcony. GALA SCIENTIST is at a podium talking. Loki hits a man with his scepter, knocking him to the floor. The guests stop and stare in awe. Loki swiftly grabs the GALA SCIENTIST -- flips him onto a statue and then uses a device to bore into his eye. The guests scatter in horror, screaming, running away as Loki smiles menacingly. EXT. DOOR, GUARDED BUILDING - CONTINUOUS The image of the eye is transported to a similar device Barton is holding over a retina scanner. The door opens. INT. ROOM, GUARDED BUILDING - CONTINUOUS Barton runs in and steals takes a glass tube containing the Iridium. EXT. FANCY BUILDING, STUTTGART - CONTINUOUS People flee the gala, screaming, and Loki follows, taking on his Asgardian attire. He blasts a Polizei car speeding toward him, flipping it over. He creates duplicates of himself, surrounding a mob of gala people.
+E: NIGHT police
+C: LOKI
+D: Kneel before me. I said- KNEEL! The people hurry, dropping to their knees. Is not this simpler? Is this not your natural state? It’s the unspoken truth of humanity, that you crave subjugation. The bright lure of freedom diminishes your life’s joy in a mad scramble for power, for identity. You were made- to be ruled. In the end- you will always kneel. A German old man gets to his feet.
+E: walking through the mob
+C: GERMAN OLD MAN
+D: Not to men like you.
+C: LOKI
+D: There are no men like me.
+C: GERMAN OLD MAN
+D: There are always men like you.
+C: LOKI
+D: Look to your elder, people. Let him be an example. Loki fires his scepter but Captain America jumps in front of the man -- deflecting the beam off his shield causing it to hit Loki, who falls to the ground.
+C: CAPTAIN AMERICA
+D: You know, the last time I was in Germany and saw a man standing above everybody else, we ended up disagreeing.
+C: LOKI
+D: The soldier- Loki rises to his feet. -the man out of time. CONTINUED: 43.
+E: 2
+C: CAPTAIN AMERICA
+D: I’m not the one who’s out of time. The quinjet comes in behind Cap with Black Widow inside. A gun unfolds from the underside of the plane.
+C: NATASHA
+D: Loki, drop the weapon and stand down. Loki fires at the jet and it banks hard to avoid it. Cap attacks Loki and the two fight. Loki knocks Cap’s shield to the side and forces him down with his scepter.
+E: over speaker
+C: LOKI
+D: Kneel!
+C: CAPTAIN AMERICA
+D: Not today. Cap jumps up and does a spin-kick to Loki’s face. The two continue to fight. INT. COCKPIT, QUINJET - CONTINUOUS Natasha, in her Black Widow suit, is trying to figure out how to take a shot.
+E: NIGHT
+C: NATASHA
+D: Guy’s all over the place.
+E: to co-pilot
+C: TONY
+D: Agent Romanoff, you miss me? The computer screen shows the message ’PA SYSTEMS OVERRIDE’, and AC/DC’s, ’Shoot to Thrill’ begins to play. Natasha smiles heavily. Iron Man flies down and fires a repulsor blast, knocking Loki down.
+E: over earpiece
+C: IRON MAN
+D: Make a move reindeer games. Loki’s Asgardian garb fades away and he raises his hands. Good move. Cap walks over to Iron Man. The quinjet begins to land in the b.g. CONTINUED: 44.
+E: 2
+C: CAPTAIN AMERICA
+D: Mister Stark.
+C: IRON MAN
+D: Captain. EXT. DARKENED CLOUDY SKIES - NIGHT DOLLY IN on some mountains in the distance...the quinjet speeds by. INT. COCKPIT, QUINJET - CONTINUOUS Natasha is piloting the plane. Loki is strapped down in the back of the plane. Cap, in suit but no cowl, and Tony, in the suit but without the helmet, is standing behind the cockpit and they talking.
+C: FURY
+D: He saying anything?
+E: over quinjet radio
+C: NATASHA
+D: Not a word.
+E: into headset
+C: FURY
+D: Just get him here, we’re low on time. INT. QUINJET - CONTINUOUS
+E: over quinjet radio
+C: STEVE
+D: I don’t like it.
+C: TONY
+D: What? Rock of Ages giving up so easily?
+C: STEVE
+D: I don’t remember it being that easy. This guy packs a wallop.
+C: TONY
+D: Still, you were pretty spry, for an older fellow. What’s your thing? Pilates?
+C: STEVE
+D: What? CONTINUED: 45.
+E: 2
+C: TONY
+D: It’s like calisthenics. You might have missed a couple of things. Y’know, doing time as a Cap-sicle.
+C: STEVE
+D: Fury didn’t tell me he was calling you in.
+C: TONY
+D: Yeah, there’s a lot of things Fury doesn’t tell you. There’s a flash of lightening and a roar of thunder.
+C: NATASHA
+D: Where’s this come from? Loki leans forward, looking around.
+C: STEVE
+D: What’s the matter? Scared of a little lightening?
+E: to Loki
+C: LOKI
+D: I’m not overly fond of what follows. Loki looks to the sky. EXT. DARKENED STORMY SKIES - CONTINUOUS There’s a crash on top of the quinjet. Something as landed. INT. QUINJET - CONTINUOUS Tony, Steve, and Natasha look up. SHOCKED and JOLTED. EXT. DARKENED STORMY SKIES - CONTINUOUS There seems to be a shadowy figure holding onto the quinjet. We make it out -- this is THOR ODINSON, God of Thunder. He is serious. There’s another flash of light. INT. QUINJET - CONTINUOUS Natasha speeds up. Steve runs for something, he grabs his cowl while Tony grabs his helmet which attaches itself to the suit. Tony pushes a button and opens the ramp of the jet. CONTINUED: 46.
+E: NIGHT 2
+C: CAPTAIN AMERICA
+D: What are you doing? Thor enters, jumping down on the ramp. He hits Iron Man away, causing him to fall on Cap. He grabs Loki by the neck and jumps out of the plane.
+C: IRON MAN
+D: Now there’s that guy.
+C: NATASHA
+D: Another Asgardian?
+C: CAPTAIN AMERICA
+D: That guy’s a friendly.
+C: NATASHA
+D: Doesn’t matter. If he frees Loki, or kills him, the Tesseract’s lost. Iron Man begins walking to the edge of the ramp.
+C: CAPTAIN AMERICA
+D: Stark, we need a plan of attack.
+C: IRON MAN
+D: I have a plan. Attack! Iron Man flies out of the jet and Cap makes for a parachute.
+C: NATASHA
+D: I’d sit this one out, Cap.
+C: CAPTAIN AMERICA
+D: I don’t see how I can.
+C: NATASHA
+D: These guys come from legend, they’re basically Gods.
+C: CAPTAIN AMERICA
+D: There’s only one God ma’am, and I’m pretty sure he doesn’t dress like that. Cap straps on the chute, grabs his shield, and dives out the plane, head first. EXT. CLIFF TOP - NIGHT Thor and Loki crash down on a cliff. Thor throws Loki to the ground, he groans.
+C: THOR
+D: Where is the Tesseract?
+C: LOKI
+D: Oh-ho, I missed you too.
+C: THOR
+D: Do I look to be in a gaming mood?
+C: LOKI
+D: Oh, you should thank me. With the Bifrost gone, how many dark energy did the All-Father have to muster to conjure you here? Your precious Earth. Thor drops his hammer, Mjolnir, and pulls Loki to his feet.
+C: THOR
+D: I thought you dead.
+C: LOKI
+D: Did you mourn?
+C: THOR
+D: We all did. Our father-
+C: LOKI
+D: Your father. He did tell you my true parentage, did he not?
+C: THOR
+D: We were raised together, we played together, we fought together. Do you remember none of that?
+C: LOKI
+D: I remember a shadow, living in the shade of your greatness. I remember you tossing me into an abyss. I who was and should be king!
+C: THOR
+D: So you take the world I love as recompense for your imagined slights? No. The Earth is under my protection, Loki. CONTINUED: 48.
+E: 2
+C: LOKI
+D: Well yes.
+C: THOR
+D: Then you miss the truth of ruling, brother. Throne would suit you ill. Loki pushes past Thor and walks away, Thor follows.
+C: LOKI
+D: I’ve seen worlds you’ve never known about. I have grown, Odinson, in my exile. I have seen the true power of the Tesseract, and when I wield it-
+C: THOR
+D: Who showed you this power? Who controls the would-be-king?
+C: LOKI
+D: I am a king!
+C: THOR
+D: Not here. You give up the Tesseract; you give up this poisonous dream! You come home.
+C: LOKI
+D: I don’t have it. Thor summons Mjolnir and holds it ready. You need the Cube to bring me home but I’ve sent it off I know not where.
+C: THOR
+D: You listen well brother- Iron Man flies in, knocking him and Thor out of frame. Loki stands waiting.
+C: LOKI
+D: I’m listening? EXT. FOREST - SECONDS LATER Thor and Iron Man crash through the trees to the ground, Tony lifts his faceplate.
+C: THOR
+D: Do not touch me again. CONTINUED: 49.
+E: 2
+C: TONY
+D: Then don’t take my stuff.
+C: THOR
+D: You have no idea what you’re dealing with.
+C: TONY
+D: Uh- Shakespeare in the park? Doth mother know you wear-th her drapes?
+C: THOR
+D: This is beyond you, metal man. Loki will face Asgardian justice.
+C: TONY
+D: He gives up the Cube, he’s all yours. Until then- Faceplate drops.
+C: IRON MAN
+D: -stay out of the way. Iron Man takes a few steps. Tourist. Thor throws Mjolnir, hitting Iron Man square in the chest, sending him flying, landing on his back.
+C: INSIDE IRON MAN HELMET: TONY
+D: Okay!
+C: BACK TO SCENE:
+D: Loki smirks from the cliff top as Thor summons Mjolnir then swings it in circles. Iron Man gets to his feet and fires a repulse blast at Thor, then flies at him, kicking him through a tree. Thor stands, summoning a bolt of lightning as Loki watches in the distance. Thor sends the bolt at Iron Man.
+C: INSIDE IRON MAN HELMET: JARVIS
+D: Power at four hundred percent capacity. CONTINUED: 50.
+E: 3
+C: TONY
+D: How bout that?
+C: BACK TO SCENE:
+D: Iron Man fires at Thor. The two stand ready then fly at each other, smashing through the trees and scraping up a cliff side. Trees are toppled as they crash to the forest grounds. Thor and Iron Man stand quickly. Thor sends in a left hook so Iron Man is about to punch but Thor grabs his fist. Iron Man is about to send in his left hook and Thor grabs that too. Thor begins to crush Iron Man’s right gauntlet with ease.
+C: INSIDE IRON MAN HELMET:
+D: Tony looks at the HUD which is alerting him. He groans and thinks.
+C: BACK TO SCENE:
+D: Iron Man lifts his palm, that is being crushed, and he fires a blast at Thor’s face -- it does nothing to Thor so he head butts him. Thor headbutts him back. Iron Man flies back, coming to a stop before launching himself at Thor. Iron Man throws Thor into a broken tree. Thor then stands and the two go at it for a bit longer -- a fist fight. Thor summons his hammer about to slam down on the chest of Tony but Iron Man ditches, causing Thor to fall. Behind the rising Thor, Iron Man swoops in and punches him. They get ready to sends blows at each other until Cap’s shield ricochets off both their chest.
+C: CAPTAIN AMERICA
+D: Hey! Cap catches his shield.
+E: O.S
+C: CAPTAIN AMERICA
+D: That’s enough! He jumps down of the tree and approaches Thor and Iron Man. Now I don’t know what you plan on doing here-
+C: THOR
+D: I’ve come here to put an end to Loki’s schemes! CONTINUED: 51.
+E: 4
+C: CAPTAIN AMERICA
+D: Then prove it. Put that hammer down.
+C: IRON MAN
+D: Uh, yeah! No! Bad call, he loves his hammer- Thor swings his hammer back, sending Iron Man behind him.
+C: THOR
+D: You want me to put hammer down? Thor leaps, swinging Mjolnir, Cap raises the shield over his head. When the two connect there is a loud boom and a flash of light. The three are thrown backwards. They slowly get to their feet and come together.
+C: CAPTAIN AMERICA
+D: Are we done here? Thor looks around. EXT. HELICARRIER, SKIES - NIGHT The helicarrier flies through the clouds. INT. HALL, CARRIER - CONTINUOUS Loki is escorted down the halls by a troop of armed guards. He walks past a window -- the wishbone lab, where Banner is working. Loki smiles through the window at him. Banner removes his glasses and rubs his temples. INT. CYLINDRICAL GLASS CAGE, CARRIER - CONTINUOUS Loki is locked in a cylindrical glass cage. Fury walks in and over to a control panel.
+C: FURY
+D: In case it’s unclear, you try to escape- you so much as scratch that glass- Fury pushes a button and the floor beneath the cell drops away to nothing, the wind screams. Thirty thousand feet straight down in a steel trap. You get how that works? He pushes a button and closes the floor. He gestures first to Loki. Ant. Boot. CONTINUED: 52.
+E: gestures to panel 2
+C: LOKI
+D: It’s an impressive cage. Not built, I think, for me.
+C: FURY
+D: Built for something a lot stronger than you.
+C: LOKI
+D: Oh I’ve heard. ... INT. CONFERENCE TABLE, BRIDGE, CARRIER - CONTINUOUS On the glass table a monitor is up -- Loki on it, watching it is Natasha. As Loki talks she looks up at Banner. Banner looks at her, smirking about her cage comment earlier. ...A mindless beast- makes play he’s still a man... We see Thor listen intently. ...How desperate are you, that you call on such lost creatures to defend you?
+E: turns to a camera
+C: FURY
+D: How desperate am I? ... INT. CYLINDRICAL GLASS CAGE, CARRIER - CONTINUOUS Fury moves toward the cage slowly. ...You threaten my world with war, you steal a force you can’t hope to control, you talk about peace and you kill ’cause it’s fun. You have made me very desperate. You might not be glad that you did.
+E: V.O NIGHT
+C: LOKI
+D: Ooh. It burns you to have come so close, to have the Tesseract, to have power- unlimited power, and for what? A... INT. BRIDGE, CARRIER - CONTINUOUS Hill is watching Loki on a screen too. ...warm light for all mankind to share? INT. CYLINDRICAL GLASS CAGE, CARRIER - CONTINUOUS Loki faces Fury again. And then to be reminded what real power is. Fury smiles.
+E: smiles and faces the camera NIGHT
+C: FURY
+D: Well, let me know if ’real power’ wants a magazine or something. Fury exits. INT. CONFERENCE TABLE, BRIDGE, CARRIER - CONTINUOUS The monitor on Cap’s side of the table turns off. Steve, in suit with no cowl, looks up.
+C: BANNER
+D: He really grows on you doesn’t he?
+C: STEVE
+D: Loki’s gonna drag this out. So, Thor, what’s his play?
+C: THOR
+D: He has an army called the Chitauri. They’re not of Asgard nor any world known. He means to lead the against your people. They will win him the Earth, in return, I suspect, for the Tesseract.
+C: STEVE
+D: An army, from outer space?
+C: BANNER
+D: So, he’s building another portal. That’s what he needs Erik Selvig for.
+C: THOR
+D: Selvig?
+C: BANNER
+D: He’s an astrophysicist.
+C: THOR
+D: He’s a friend. CONTINUED: 54.
+E: 2
+C: NATASHA
+D: Loki has them under some kind of spell- along with one of ours.
+C: STEVE
+D: I wanna know why Loki let us take him. He’s not leading an army from here.
+C: BANNER
+D: I don’t think we should be focusing on Loki. That guy’s brain is a bag full of cats, you can small crazy on him.
+C: THOR
+D: Have care how you speak. Loki is beyond reason but he is of Asgard, and he is my brother.
+C: NATASHA
+D: He killed eighty people in two days.
+C: THOR
+D: He’s adopted?
+C: BANNER
+D: I think it’s about the mechanics. Iridium, what do they need the Iridium for? Tony and Coulson come walking in.
+C: TONY
+D: It’s a stabilizing agent. I’m saying, take a weekend; I’ll fly you to Portland. Keep love alive. Coulson peels off from Tony, who is heading over to Thor. Means the portal won’t collapse on itself like it did at SHIELD. No hard feelings point break, you got a mean swing. Thor gives Tony a look as he walks to the control panels.
+E: to Coulson, quietly to Thor
+C: TONY
+D: Also, means the portal can open as wide and stay open as long as Loki wants. CONTINUED: 55. Ah, raise the mizzen mast, ship the topsails. The personnel look at him strangely. That man is playing Galaga! Thought we wouldn’t notice, but we did. Standing now at the command area of the ship, Tony covers one eye. How does Fury even see these?
+E: 3 to SHIELD personnel to Hill
+C: MARIA HILL
+D: He turns!
+E: attitude
+C: TONY
+D: Sounds exhausting! He begins messing with the screens, sticking something to the underside of a desk. The rest of the raw materials, Agent Barton can get his hands on pretty easily. Only major component he still needs is a power source- of high energy density. Something to- kick start the Cube.
+C: MARIA HILL
+D: When did you become an expert in thermonuclear astrophysics?
+C: TONY
+D: Last night. The packet, Selvig’s notes, the extraction theory papers- am I the only one who did the reading?
+C: STEVE
+D: Does Loki need any particular kind of power source?
+C: BANNER
+D: He’s have to heat the Cube to a hundred and twenty million kelvin just to break through the Coulomb barrier.
+C: TONY
+D: Unless, Selvig has figured out how to stabilize the Quantum Tunneling effect. CONTINUED: 56.
+E: 4
+C: BANNER
+D: Well, if he could do that he could achieve heavy-ion fusion at any reactor on the planet.
+C: TONY
+D: Finally. Someone who speaks English.
+C: STEVE
+D: Is that what just happened? Stark and Banner shake hands.
+E: to the others
+C: TONY
+D: It’s good to meet you, Doctor Banner. Your work on anti-electronic collisions is unparalleled. And I’m a huge fan of the way you- lose control and turn into an enormous green rage monster.
+C: BANNER
+D: ...Thanks. Fury enters.
+C: FURY
+D: Doctor Banner is only here to track the Cube. I was hoping you might join him.
+C: STEVE
+D: I’d start with that stick of his. It may be magical but it works an awful lot like a HYDRA weapon.
+C: FURY
+D: I don’t know about that, but it is powered by the Cube. And I like to know how Loki used it to turn two of the sharpest men I know into his personal flying monkeys.
+C: THOR
+D: Monkeys? I do not understand-
+C: STEVE
+D: I do! The entire room goes instantly silent, staring at Steve. CONTINUED: 57.
+E: MORE 5
+C: STEVE
+D: I...I understood that reference.
+E: CONT’D
+C: TONY
+D: Shall we play, Doctor?
+C: BANNER
+D: This way, sir. The two men walk off. ON A SHIELD WORKER: He resumes play Galaga again. INT. WISHBONE LAB, CARRIER - NIGHT Banner and Stark are working on tracking the Cube. Banner is scanning the scepter with a device.
+C: BANNER
+D: The Gamma readings are definitely consistent with Selvig’s reports on the Tesseract. But it’s gonna take weeks to process. Stark works on a screen.
+C: TONY
+D: If we bypass their mainframe and direct route to the Homer cluster we can clock this at around six hundred teraflops.
+C: BANNER
+D: All I packed was a toothbrush.
+C: TONY
+D: You know, you should come by Stark Tower some time. Top ten floors- all R and D. You’d love it, it’s a candy land.
+E: giggles a bit
+C: BANNER
+D: Thanks but...last time I was in New York I kind of broke...Harlem.
+C: TONY
+D: Well, I promise a stress free environment. No tension, no surprises. He zaps Banner in the side. CONTINUED: 58.
+E: 2
+C: BANNER
+D: Ow!
+C: STEVE
+D: Hey!
+C: TONY
+D: Nothing? Steve approaches.
+C: STEVE
+D: Are you nuts?
+C: TONY
+D: Jury’s out! You really have got a lid on it, haven’t you? What’s your secret? Mellow jazz, bongo drums, huge bag of weed?
+E: to Banner
+C: STEVE
+D: Is everything a joke to you?
+C: TONY
+D: Funny things are.
+C: STEVE
+D: Threatening the safety of everyone on this ship isn’t funny. No offense, Doc.
+C: BANNER
+D: No it’s alright. I wouldn’t have come aboard if I couldn’t handle pointy things.
+C: TONY
+D: You’re tip-toeing, big man. You need to strut.
+C: STEVE
+D: And you need to focus on the problem, Mister Stark.
+C: TONY
+D: You think I’m not? Why did Fury call us in? Why now, why not before? What isn’t he telling us? I can’t do the equation unless I have all the variables. CONTINUED: 59.
+E: 3
+C: STEVE
+D: You think Fury’s hiding something?
+C: TONY
+D: He’s a spy. Captain, he’s the spy. His secrets have secrets. He gestures to Banner. It’s bugging him to, isn’t it?
+C: BANNER
+D: Uh, Aah, I just wanna finish my work here and-
+C: STEVE
+D: Doctor?
+C: BANNER
+D: A warm light for all mankind," Loki’s jab at Fury about the Cube.
+C: STEVE
+D: I heard it.
+C: BANNER
+D: Well, I think that was meant for you. He gestures to Stark, who offers him a blueberry. Even if Barton didn’t tell Loki about the tower, it was still all over the news.
+C: STEVE
+D: The Stark Tower? That big ugly- Stark gives him a look. -building in New York?
+C: BANNER
+D: It’s powered by an arc reactor, self-sustaining energy source. That building will run itself for, what, a year?
+C: TONY
+D: It’s just the prototype. I’m kind of the only name in clean energy right now, that’s what he’s getting at. CONTINUED: 60.
+E: to Rodgers 4
+C: BANNER
+D: So, why didn’t SHIELD bring him in on the Tesseract project? What are they even doing in the energy business in the first place?
+C: TONY
+D: I should probably look into that as soon as my decryption program finishes breaking into all of SHIELD’s secure files.
+C: STEVE
+D: I’m sorry did you say-
+C: TONY
+D: JARVIS has been running it since I hit the bridge. In a few hours I’ll know every dirty secret SHIELD has ever tried to hide. Blueberry?
+C: STEVE
+D: Yet you’re confused about why they didn’t want you around.
+C: TONY
+D: An intelligence organization that fears intelligence? Historically, not awesome.
+C: STEVE
+D: I think Loki’s trying to wind us up. This is a man who means to start a war and if we don’t stay focused he’ll succeed. We have orders, we should follow them.
+C: TONY
+D: Following’s not really my style.
+C: STEVE
+D: And you’re all about style, aren’t you?
+C: TONY
+D: Out of the people in this room, which one is "A" wearing a spangly outfit and "B" not of use?
+C: BANNER
+D: Steve, tell me none of this smells a little funky to you? CONTINUED: 61.
+E: 5
+C: STEVE
+D: Just find the Cube. Cap exits the lab, pauses and turns, walking off in another direction.
+C: TONY
+D: That’s the guy my dad never shut up about? Wondering if they shouldn’t have kept him on ice.
+C: BANNER
+D: Guy’s not wrong about Loki, he does have the jump on us.
+C: TONY
+D: What he’s got is an ACME dynamite kit. It’s gonna blow up in his face, and I’m gonna be there when it does.
+C: BANNER
+D: I’ll read all about it.
+C: TONY
+D: Mhm, or, you’ll be suiting up with the rest of us.
+C: BANNER
+D: Now, you see I don’t get a suit of armor. I’m exposed, like a nerve, it’s a nightmare.
+C: TONY
+D: You know, I’ve got a cluster shrapnel, trying every second to crawl its way into my heart. This stops it- He taps the arc reactor. -this little circle of light. It’s part of me now, not just armor. It’s a terrible privilege.
+C: BANNER
+D: But you can control it.
+C: TONY
+D: Because I learned how.
+C: BANNER
+D: It’s different. CONTINUED: 62. Tony wipes clean the screen between them that Banner was working on.
+E: 6
+C: TONY
+D: Hey, I read all about your accident. That much Gamma exposure- should’ve killed you.
+C: BANNER
+D: So you’re saying that the Hulk- the Other Guy- saved my life? That’s nice. That’s nice sentiment. Saved it for- what?
+C: TONY
+D: I guess we’ll find out.
+C: BANNER
+D: You may not enjoy that.
+C: TONY
+D: And you just might. INT. STORAGE ROOM, CARRIER - EARLY DAWN Cap forces open the entrance to a storage room. He walks in, looking around then silently jumps up to a catwalk above. EXT. TUNNEL - CONTINUOUS A truck drive along. It drives into a tunnel INT. TRAILER, TRUCK - CONTINUOUS Selvig places the Iridium into a device by the Tesseract. He smiles.
+C: AGENT COULSON
+D: As soon as Loki took the doctor we... INT. BRIDGE, CARRIER - CONTINUOUS Coulson is showing Thor an image of Jane Foster on a computer screen.
+E: V.O
+C: AGENT COULSON
+D: ...moved Jane Foster. We’ve got an excellent observatory in Tromsø. She was asked to consult there very suddenly yesterday. Handsome fee, private plane, very remote. She’ll be safe. CONTINUED: 63.
+E: 2
+C: THOR
+D: Thank you. It’s no accident Loki taking Erik Selvig. I dread what he plans for him once he’s done. Erik is a good man. Coulson and Thor begins walking, through the bridge.
+C: AGENT COULSON
+D: He talks about you a lot. You changed his life. You changed everything around here.
+C: THOR
+D: They were better as they were. We pretend on Asgard that we’re more advanced, but we- we come here battling like Bildschneip.
+C: AGENT COULSON
+D: Like what?
+C: THOR
+D: Bildschneip. You know, huge, scaly, big antlers. You don’t have those?
+C: AGENT COULSON
+D: No.
+C: THOR
+D: Huh! Well they are repulsive, and they trample everything in their path. Thor moves over to a large window. When I first came to earth, Loki’s rage followed me here and your people paid the price. And now again. In my youth I courted war.
+C: FURY
+D: War hasn’t started yet. You think you can make Loki tell us where the Tesseract is?
+C: THOR
+D: I do not know. Loki’s mind is far afield, it’s not just power he craves, it’s vengeance upon me. There’s no pain would prise his need from him. CONTINUED: 64.
+E: 3
+C: FURY
+D: A lot of guys think that, until the pain starts.
+C: THOR
+D: What are you asking me to do?
+C: FURY
+D: I’m asking, what are you prepared to do?
+C: THOR
+D: Loki is a prisoner.
+C: FURY
+D: Then why do I feel like he’s the only person on this boat that wants to be here? INT. CYLINDRICAL GLASS CAGE, CARRIER - DAWN Loki is pacing in the cell. Natasha walks up behind him.
+C: LOKI
+D: Hm. There’s not many people that can sneak up on me.
+C: NATASHA
+D: But you figured I’d come.
+C: LOKI
+D: After. After whatever tortures Fury can concoct, you would appear as a friend, as a balm. And I would cooperate.
+C: NATASHA
+D: I wanna know what you’ve done to Agent Barton.
+C: LOKI
+D: I’d say I’ve expanded his mind.
+C: NATASHA
+D: And once you’ve won. Once you’re king of the mountain. What happens to his mind?
+C: LOKI
+D: Is this love, Agent Romanoff? CONTINUED: 65.
+E: 2
+C: NATASHA
+D: Love is for children. I owe him a debt.
+C: LOKI
+D: Tell me.
+C: NATASHA
+D: Before I worked for SHIELD, I uh- well, I made a name for myself. I have a very specific skill set. I didn’t care who I used it for, or on. I got on SHIELD’s radar in a bad way. Agent Barton was sent to kill me, he made a different call.
+C: LOKI
+D: And what will you do if I vow to spare him?
+C: NATASHA
+D: Not let you out.
+C: LOKI
+D: Ah, no. But I like this. Your world in the balance, and you bargain for one man?
+C: NATASHA
+D: Regime’s fall everyday. I tend not to weep over that, I’m Russian, or I was.
+C: LOKI
+D: And what are you now?
+C: NATASHA
+D: It’s really not that complicated. I got red in my ledger. I’d like to wipe it out.
+C: LOKI
+D: Can you? Can you wipe out that much red? Drakov’s daughter? Sao Paulo? The hospital fire? Barton told me everything. Your ledger is dripping, it’s gushing red, and you think saving a man no more virtuous than yourself will change anything? This is the basest sentimentality. This is a child, a prayer. Pathetic INT. WISHBONE LAB, CARRIER - CONTINUOUS Banner and Tony stare at a screen that reads "ACCESS DENIED" Tony tries to hack in again.
+E: DAWN
+C: LOKI
+D: ...You lie and kill in the service of liars... INT. BRIDGE, CARRIER - CONTINUOUS Hill runs over to a SHIELD Agent’s computer. A message flashes up on the screen "VIRUS DETECTED" as a result of Stark hacking their files. Fury walks over and Hill, who looks up at him.
+E: V.O
+C: LOKI
+D: ...and killers. You pretend to be separate, to have your own code... INT. STORAGE ROOM, CARRIER - CONTINUOUS Cap opens a container and in it is HYDRA weapons and equipment.
+E: V.O
+C: LOKI
+D: ...something that makes up for the horrors. But they are a part of you, and they will never go away. INT. CYLINDRICAL GLASS CAGE, CARRIER - CONTINUOUS Loki slams his fist against the glass. Natasha jumps back.
+E: V.O
+C: LOKI
+D: I won’t touch Barton! Not until I make him kill you. Slowly, intimately, in every way he knows you fear. Natasha becomes scared out of her mind. And then he’ll wake just long enough to see his good work, Natasha turns away from Loki in horror. and when he screams I’ll split his skull! This is my bargain, you mewling quim! Sounds of Natasha sobbing. Her head hangs low. CONTINUED: 67.
+E: 2
+C: NATASHA
+D: You’re a monster!
+C: LOKI
+D: Oh, no. You brought the monster. Natasha lifts her head and turns to face Loki -- her face is dry.
+E: grinning menacingly
+C: NATASHA
+D: So, Banner? That’s your play.
+C: LOKI
+D: What? Natasha begins to exit the room.
+C: NATASHA
+D: Loki means to unleash the Hulk. Keep Banner in the lab, I’m on my way. Send Thor as well. She stops and faces Loki. Thank you, for your cooperation! Natasha skimmers off. INT. WISHBONE LAB, CARRIER - MORNING Fury enters.
+E: into earpiece
+C: FURY
+D: What are you doing, Mr. Stark?
+C: TONY
+D: Uh- kind of been wondering the same thing about you.
+C: FURY
+D: You’re supposed to be locating the Tesseract.
+C: BANNER
+D: We are, the model’s locked and we’re sweeping for the signature now. When we get a hit, we’ll have the location within half a mile.
+C: TONY
+D: And you’ll get your cube back, no muss, no fuss. What is Phase Two? CONTINUED: 68. Steve enters, and slams a large HYDRA gun on the table.
+E: 2
+C: STEVE
+D: Phase Two is SHIELD used the Cube to make weapons. Sorry, computer was moving a little slow for me.
+E: to Tony
+C: FURY
+D: Rogers, we gathered everything related to the Tesseract. This does not mean that we’re-
+C: TONY
+D: I’m sorry, Nick. Tony turns the screen towards Fury. It shows a plan for some a missile. What were you lying?
+C: STEVE
+D: I was wrong, Director. The world hasn’t changed a bit. Thor and Natasha enter. Banner looks to her.
+C: BANNER
+D: Did you know about this?
+C: NATASHA
+D: You wanna think about removing yourself from this environment, doctor?
+C: BANNER
+D: I was in Calcutta, I was pretty well removed.
+E: laughs
+C: NATASHA
+D: Loki’s manipulating you.
+C: BANNER
+D: And you’ve been doing what exactly?
+C: NATASHA
+D: You didn’t come here because I bat my eyelashes at you.
+C: BANNER
+D: Yes, and I’m not leaving because suddenly you get a little twitchy. CONTINUED: 69.
+E: MORE 3
+C: BANNER
+D: I’d like to know why SHIELD is using the Tesseract to build weapons of mass destruction.
+E: CONT’D
+C: FURY
+D: Because of him.
+E: pointing at Thor
+C: THOR
+D: Me?
+C: FURY
+D: Last year earth had a visitor from another planet who had a grudge match that leveled a small town. We learned that not only are we not alone, but we are hopelessly- hilariously, out-gunned.
+C: THOR
+D: My people want nothing but peace with your planet.
+C: FURY
+D: But you’re not the only people out there, are you? And, you’re not the only threat. The world’s filling up with people who can’t be matched, they can’t be controlled.
+C: STEVE
+D: Like you controlled the cube!
+C: THOR
+D: Your work with the Tesseract is what drew Loki to it, and his allies. It is the signal to all the realms that the earth is ready for A HIGHER FORM OF WAR.
+C: STEVE
+D: A higher form?!
+C: FURY
+D: You forced our hand! We had to come up with some-
+C: TONY
+D: Nuclear deterrent! ’Cause that always calms everything right down. Everyone becomes hostile and begin cutting each other off. CONTINUED: 70.
+E: 4
+C: FURY
+D: Remind me again how you made your fortune, Stark?
+C: STEVE
+D: I’m sure if he still made weapons, Stark would be neck deep-
+C: TONY
+D: Wait-Wait! Hold on! How is this now about me?
+C: STEVE
+D: I’m sorry, isn’t everything?
+C: THOR
+D: I thought humans were more evolved than this. Everyone begins arguing over each other.
+C: FURY
+D: Excuse me, did we come to your planet and blow stuff up?
+C: THOR
+D: Tis your champion.
+E: to Thor
+C: FURY YOU’RE NOT MY CHAMPION! NATASHA
+D: Are you boys really that naive? S.H.I.E.L.D monitors potential threats.
+C: TONY
+D: You furious? I’m furious.
+E: to Thor and Steve
+C: BANNER
+D: And Captain America is on the threat poll?
+E: to Natasha
+C: NATASHA
+D: We all are!
+E: to Banner
+C: FURY
+D: That’s not your concern doctor! As they argue over one another & the scepter glows strongly.
+C: TONY
+D: You’re on that list? Are you above or below angry bees?
+E: to Steve
+C: STEVE
+D: I swear to God, Stark, one more crack... CONTINUED: 71.
+E: 5
+C: TONY
+D: You’re a threat. VERBAL
+C: THREAT! I FEEL THREATENED! STEVE SHOW SOME RESPECT. TONY RESPECT WHAT! BANNER
+D: YEAH MAN HANDLE ME NOW,
+E: to Thor
+C: THAT’LL BE GOOD!
+D: INT. BARTON’S JET - CONTINUOUS On a screen in the jet is Loki’s scepter. Inside men working for Loki put on masks and load weapons. Barton readies his bow.
+C: INTERCOM VOICE
+D: Transport six-six-five-oh. Please relay your form code. Got you on the computer but not on the data log. What is your haul? Over.
+C: PILOT
+D: Arms to ammunition. Over. INT. WISHBONE LAB, CARRIER - CONTINUOUS
+E: MORNING
+C: THOR
+D: You speak of control, yet you court chaos!
+C: BANNER
+D: It’s his MO, isn’t it? I mean, what are we, a team? No, no, no. We’re a chemical mixture that makes chaos. We’re- we’re a time bomb.
+C: FURY
+D: You need to step away.
+C: TONY
+D: Why shouldn’t they guy let off a little steam?
+C: STEVE
+D: You know damn well why! Back off!
+C: TONY
+D: Oh, I’m starting to want you to make me. CONTINUED: 72.
+E: 2
+C: STEVE
+D: Yeah, big man in a suit of armor. Take that off, what are you?
+C: TONY
+D: Genius, billionaire, playboy, philanthropist.
+C: STEVE
+D: I know guys with none of that worth ten of you. I’ve seen the footage. The only thing you really fight for is yourself. You’re not the guy to make the sacrifice play, to lay down on a wire and let the other guy crawl over you.
+C: TONY
+D: I think I would just cut the wire.
+C: STEVE
+D: Always a way out. You know, you may not be a threat, but you better stop pretending to be a hero.
+C: TONY
+D: A hero, like you? You’re a laboratory experiment, Rogers. Everything special about you came out of a bottle. INT. BARTON’S JET - CONTINUOUS The ramp opens and Barton nocks an arrow, takes aim and lets it loose. The arrow swings in the air and attaches to the side of one of the carrier’s enormous engines, flashing. INT. WISHBONE LAB, CARRIER - CONTINUOUS Steve smirks.
+E: MORNING
+C: STEVE
+D: Put on the suit, let’s go a few rounds.
+C: THOR
+D: You people are so petty, and tiny.
+E: laughs
+C: BANNER
+D: Yeah, this is a team. CONTINUED: 73.
+E: 2
+C: FURY
+D: Agent Romanoff, would you escort Dr. Banner back to his-
+C: BANNER
+D: WHERE? YOU RENTED MY ROOM!
+C: FURY
+D: The cell was just-
+C: BANNER
+D: IN CASE YOU NEEDED TO KILL ME. BUT YOU CAN’T, I KNOW, I TRIED! He stops, everyone is staring at him. I got low. I didn’t see an end so I put a bullet in my mouth and the other guy spit it out. So I moved on, I focused on helping other people. I was good until you dragged me back into this freak show and put everyone here at risk. You wanna know my secret, Agent Romanoff? You wanna know how I stay calm? Everyone is watching Banner, Fury and Natasha reach for their guns.
+C: STEVE
+D: Doctor Banner, put down the scepter. Banner looks down, surprised, to see the spear in his hand. The monitor makes a noise, signaling the Tesseract has been located. Banner puts the scepter back on the table and walks over to the screen on the other side of the room.
+C: FURY
+D: Got it!
+C: BANNER
+D: Sorry, kids. You don’t get to see my party trick after all.
+C: THOR
+D: Located the Tesseract?
+C: TONY
+D: I can get there faster.
+C: STEVE
+D: Look, all of us-
+C: NOVAR
+D: The Tesseract belongs on Asgard, no human is a match for it. CONTINUED: 74. Stark turns to leave and Rogers holds him back.
+E: 3
+C: STEVE
+D: You’re not going alone! Tony smacks his hand.
+C: TONY
+D: You gonna stop me?
+C: STEVE
+D: Put on the suit, let’s find out!
+C: TONY
+D: I’m not afraid to hit an old man.
+C: STEVE
+D: Put on the suit. Banner sees something on the monitor.
+C: BANNER
+D: Oh-my-god. INT. BARTON’S JET - CONTINUOUS Barton kneels down and presses a button on his bow. The arrow head explodes. EXT. HELICARRIER - CONTINUOUS The blast destroys one of the engines. INT. WISHBONE LAB, CARRIER - CONTINUOUS Everyone in the lab flying in different directions. Fury and Thor fall to the ground behind a table. Tony and Steve are blown to the entry way. Banner and Natasha fly out the Wishbone lab and into the lower equipment room. EXT. ENGINE 3, HELICARRIER - CONTINUOUS Pieces of flaming debris fall to earth. INT. WISHBONE LAB, CARRIER - CONTINUOUS Steve and Tony scramble to their feet.
+E: MORNING
+C: STEVE
+D: Put on the suit.
+C: TONY
+D: Yep. Steve helps Tony up and the run out of the lab. INT. BRIDGE, CARRIER - MORNING People are running around, yelling and grabbing guns while the monitors are beeping wildly. SHIELD Techs are panicing. SHIELD Agents are gearing up and running to their stations.
+C: INTERCOM VOICE
+D: All hands engaged. The whole place is hectic. INT. CORNER HALLWAY, CARRIER - CONTINUOUS An agent frantically runs down the hall, smoke is dispensing from some pipes. INT. WISHBONE LAB, CARRIER - CONTINUOUS Fury sits up, groaning.
+C: FURY
+D: Hill! INT. BRIDGE, CARRIER - CONTINUOUS Hill is standing her command area. She is looking at a screen.
+E: into earpiece
+C: MARIA HILL
+D: Number Three engine is down.
+C: FEMALE CARRIER BRIDGE TECH
+D: We’ve been hit. Hill runs over to a bridge tech’s station.
+C: MARIA HILL
+D: Did we get a run in? Talk to me. CONTINUED: 76.
+E: 2
+C: OFF SCREEN WORKER
+D: We got a fire in Engine Three. CARRIER BRIDGE TECH 1 The line looks mostly in tact but it’s impossible to get out there to make repairs while we’re in the air.
+C: MARIA HILL
+D: We lose one more engine we won’t be. Somebody’s gotta get outside and patch that engine. INT. WISHBONE LAB, CARRIER - CONTINUOUS
+E: into earpiece MORNING
+C: FURY
+D: Stark, you copy that?
+E: into earpiece
+C: TONY
+D: I’m on it. INT. BRIDGE, CARRIER - CONTINUOUS Coulson runs down some steps.
+E: over Fury’s earpiece
+C: FURY
+D: Coulson, initiate defensive lock down in the contingent center. Then get to the armory. INT. WISHBONE HALL, CARRIER - CONTINUOUS
+E: over Coulson’s earpiece
+C: FURY
+D: Romanoff! INT. LOWER EQUIPMENT ROOM, CARRIER - CONTINUOUS Natasha’s leg is trapped under a very large pipe. She tries pulling herself painfully free. He groans in pain. He gives up. Banner is in the corner spazing out, he is fine but he is making very wired moments.
+E: into earpiece
+C: NATASHA
+D: Okay! CONTINUED: 77. She looks over to Banner, who is breathing heavy, having landed hard. He is gripping the grated flooring to maintain control, but his eyes are green, his face intense.
+E: into earpiece 2
+C: NATASHA
+D: We’re okay, right? EXT. DECK, CARRIER - CONTINUOUS Barton and his men have landed and are making their way across the deck and over to an air vent. Barton signals his men to kick in the vent and they do. INT. ENGINE ROOM, CARRIER - CONTINUOUS The grating is kicked in and the men jump down. Barton gives them orders.
+E: CONT’D quietly, to herself
+C: BARTON
+D: Keep that engine down. Detention, wait for camera to go dark. Stay close. EXT. ND HALLWAY, CARRIER - MORNING Tony and Cap run through a dim, debris-filled hall.
+E: to three of his men to two others to last two
+C: TONY
+D: Find engine three. I’ll meet you there. Cap peels off as Tony approaches a tech room. Inside, Tony’s IRON MAN suit stands waiting, lit from above in all its glory. INT. LOWER EQUIPMENT ROOM, CARRIER - CONTINUOUS ON BANNER’S FACE in the dim light as he struggles to suppress the rage, but his face is growing, changing slowly. Natasha is pulling herself painfully free again, talking to Banner...
+C: NATASHA
+D: Doctor? Bruce, you gotta fight it. This is just what Loki wants. We’re gonna be okay. Listen to me. Two MAINTENANCE GUYS run in. CONTINUED: 78.
+E: 2
+C: MAINTENANCE GUY
+D: You hurt? Natasha waves them away.
+C: NATASHA
+D: We’re gonna be okay. Right? I swear on my life I will get you out of this, you will walk away, and never ever --
+C: BANNER
+D: Your life? His voice has the change in it -- the bitter amusement is morphing to a growled threat. Banner begins to transform into the Hulk, shirt tearing, he throws himself away from Romanoff, who looks terrified, then he turns to look at her, transforming -- just as the lights go out.
+E: growling
+C: NATASHA
+D: Bruce. The transformation completes and Banner’s alter ego, the Hulk, gets unsteadily to his feet, and roars. Romanoff wrenches her foot free and stands looking -- and the Hulk turns to look at her. She turns and runs up the catwalk stairs as the Hulk chases her. She swings over a catwalk, and rolls under a turbine, as the Hulk tears down the stairs. Natasha jumps through small places as the Hulk grabs after her, roaring loudly. She crawls away under pipes. INT. CYLINDRICAL GLASS CAGE, CARRIER - CONTINUOUS In the cell, Loki hears the Hulk roaring and smiles. INT. BRIDGE, CARRIER - CONTINUOUS Fury enters, running, yelling.
+E: MORNING
+C: FURY
+D: Bring the carrier to a one-eight-zero south. Take us to the water.
+C: SHIELD AGENT
+D: We’re blind. Navigation re calibrated after the engine failure. CONTINUED: 79.
+E: 2
+C: FURY
+D: Is the sun coming up?
+C: SHIELD AGENT
+D: Yes, sir.
+C: FURY
+D: Then put us on the left. Get us over water. One more turbine goes down then we drop. EXT. ENGINE 3, HELICARRIER - CONTINUOUS Steve has just arrived at the damaged engine.
+C: STEVE
+D: Stark! Stark, I’m here. Tony, in full Iron Man armor flies close to the engine.
+C: IRON MAN
+D: Good. Let’s see what we got. He begins to examine the engine, his suit scanning through the different levels of machinery.
+C: INSIDE IRON MAN HELMET: TONY
+D: I gotta get this super conducting cooling system back online before I can access the rotors, work on dislodging the debris.
+E: to himself
+C: BACK TO SCENE: IRON MAN
+D: I need you to get to that engine control panel and tell me which relays are in overload position. Rogers jumps and swings himself over to the control panel and opens it up while Iron Man works on the engine.
+E: to Steve
+C: TONY
+D: What’s it look like in there?
+E: over Steve’s earpiece
+C: STEVE
+D: It seems to run on some form of electricity. CONTINUED: 80.
+E: 2
+C: TONY
+D: Well, you’re not wrong. INT. LOWER ENGINE ROOM, CARRIER - CONTINUOUS The place is dark. Natasha sneaks under an engine. She is hiding from the Hulk. She hears the footsteps. She pulls her gun, holding it ready and she moves out from the pips and walks. Suddenly, the Hulk jumps at her, roaring. Romanoff fires her gun at a pipe over his head and gas shoots out. She runs along a narrow passage, the Hulk crashing through behind her. He comes up on her fast. In slo-mo he catches up to her as she is about to run off the passage -- he back hands her against a wall. He steps towards her. Natasha is groaning, unable to move, scared. He raises a fist, about to strike, when he is tackled through a wall by Thor. They are in the... INT. LOWER DOCKING AREA, CARRIER - CONTINUOUS The two roll into a docking area with planes and personnel run from the room. The two circle one another, as Natasha takes the attack in -- then the Hulk strikes, throwing wild punches as Thor ducks and weaves. Hulk brings down a fist and Thor holds it above him, on his knees.
+C: THOR
+D: We’re not your enemies, Banner! Try to think! Hulk punches Thor across the room and through a container. EXT. ENGINE 3, HELICARRIER - MORNING Iron Man blasts away debris from the engine with his uni beam.
+C: STEVE
+D: ’Kay, the relays are intact. Cap pushes the engine control panel back in.
+E: over Iron Man’s helmet
+C: STEVE
+D: What’s our next move? The CAMERA PULLS OUT a bit CONTINUED: 81.
+E: 2
+C: IRON MAN
+D: Even if I clear the rotors, this thing won’t re-engage without a jump....
+C: INSIDE IRON MAN HELMET: TONY
+D: ...I’m gonna have to get in there and push.
+C: BACK TO SCENE: STEVE
+D: Well, if that thing gets up to speed, you’ll get shredded! BEGIN INTERCUT: IRON MAN HELMET / STEVE
+C: TONY
+D: Then stay in the control unit and reverse polarity long enough to disengage maglev and that should-
+C: STEVE
+D: Speak English!
+C: TONY
+D: See that red lever? Cap looks to his side. It’ll slow the rotors down long enough for me to get out.
+E: over Steve’s earpiece
+C: TONY
+D: Stand by it, wait for my word . END INTERCUT Rogers makes his way over to the lever. INT. LOWER DOCKING AREA, CARRIER - CONTINUOUS Thor flies in some stacked containers. He slides across the floor on one knee and one leg out. He wipes a little blood from his nose. The Hulk roars and Thor looks up, grinning, and raises his hand. Mjolnir comes flying through the docking area and Thor catches it just as the Hulk charges through and hits him on the jaw -- sending him into a plane. CONTINUED: 82. Hulk get up and rips the wing off the plane, flinging it at Thor, who ducks, causing the wing to hit a jeep. Thor throws Mjolnir. The Hulk catches the hammer but is pulled backwards. He tries to lift the hammer but cannot. Thor picks it up and wraps his arms around the Hulk’s neck. Hulks tries swinging Thor off. INT. BRIDGE, CARRIER - CONTINUOUS Fury is at the controls and Hill is walking across the room.
+E: 2
+C: FURY
+D: We need full evac on the lower hangar bed. Hill nods and walks up and signals some agents. A small device rolls over to their feet.
+C: MARIA HILL GRENADE!
+D: The device explodes sending agents flying. In the smoke, Loki’s men enter, guns at the ready. Fury knocks one out, using his gun to shoot at another. While he is taking care of a third, a forth man enters and is about to fire when Hill shoots him in the head. She is pissed and bleeding. INT. ARMORY, CARRIER - MORNING Coulson makes his way over to the armory door. Over the intercom...
+C: INTERCOM VOICE
+D: We’ve got perimeter breach. Hostiles are in SHIELD gear. Call out to every junction. Coulson pushes down on a switch and scans his eyeball. INT. WISHBONE LAB, CARRIER - MOMENTS LATER Hulk and Thor crash through the floor of the Wishbone lab. Thor lays on the ground, he looks up, and Hulk grabs him by the throat. INT. BRIDGE, CARRIER - CONTINUOUS Fury, Hill, and other agents are shooting toward Loki’s men. The place is chaotic. BrigeTechs are taking cover and hiding from gunfire. Over the intercom... CONTINUED: 83.
+E: 2
+C: INTERCOM VOICE
+D: We’ve got the Hulk and Thor on Research Level Four. Levels Two and Three are gone.
+C: MARIA HILL
+D: Sir, the Hulk will tear this place apart!
+C: FURY
+D: Get his attention.
+C: MARIA HILL
+D: Escort 6-Oh, proceed to Wishbone and... EXT. FIGHT JET, HELICARRIER - CONTINUOUS A fighter jet is slowly pulling up to the helicarrier.
+E: into earpiece MORNING
+C: MARIA HILL
+D: ...engage hostile. Don’t get too close.
+E: over jet radio
+C: YOUNG SHIELD PILOT
+D: Copy. The jet flies to where Hulk and Thor are fighting, seemingly evenly matched.
+C: YOUNG SHIELD PILOT
+D: Target acquired. Target engaged. He fires his guns toward Hulk. The barrage of bullets bounce off of Hulk. He roars, running at the window. Hulk crashes through it, leaping at the jet. Target angry. Target angry. Hulk lands on the nose of the jet and tears at the metal as it swerves in the air. The pilot tries to eject himself but the Hulk grabs him and throws him off to the side. The pilot’s parachute opens and the plane explodes, sending Hulk plummeting to the earth. EXT. ENGINE 3, HELICARRIER - MOMENTS LATER Iron Man saws off pieces of debris with a laser. He jumps on them, knocking them off the rotors. CONTINUED: 84. A pair of Loki’s men engage, one throws a grenade. Cap jumps into the air and slaps it away. He land back on the carrier and fights them off, standing close to the lever. He ends up throwing one of the men off the carrier. Cap jumps onto a catwalk, picks up a machine gun, and begins firing at the last man. INT. BRIDGE, CARRIER - CONTINUOUS Fury is still shooting at the enemies.
+E: DAY 2
+C: FURY
+D: They are not getting through here so what the- Barton fires arrows from above and they explode. He fires another which hits the control panel. Fury sees him and begins to shoot, while the arrow, having hit a plug, hacks the helicarrier systems, causing a second engine to malfunction, it’s dead.
+E: to himself
+C: INTERCOM VOICE
+D: Engine One is now in shutdown. The helicarrier tilts dangerously. Everyone in the bridge begins rolling.
+C: SHIELD WORKER
+D: Sir, we’ve lost all power in Engine One. INT. LOWER ENGINE ROOM, CARRIER - CONTINUOUS Natasha sits in the carnage of the Hulk’s rampage, shaking. She slowly lifts a hand to her earpiece.
+C: FURY
+D: It’s Barton, he took out our systems. He’s headed for the detention lab. Does anybody copy?
+E: over Natasha’s earpiece
+C: NATASHA
+D: This is Agent Romanoff. I copy. Natasha staggers to her feet. Ready. EXT. ENGINE 3, HELICARRIER - DAY Iron Man is trying to push the rotor.
+E: into earpiece
+C: FURY
+D: Stark, we’re losing altitude.
+E: over earpiece
+C: INSIDE IRON MAN HELMET: TONY
+D: Yep, noticed.
+C: BACK TO SCENE:
+D: Iron Man flies in between the rotors and begins to push, slowly picking up speed as sparks fly. Cap is forced over the edge by a gunman and falls -- almost dropping off the carrier, hanging on by a wire. INT. CYLINDRICAL GLASS CAGE, CARRIER - CONTINUOUS Thor runs into the room where Loki’s contained. He sees the door slide up and runs over to Loki, only to go straight through him. Loki reappears behind him and closes the door, locking Thor inside.
+C: LOKI
+D: Are you ever not going to fall for that? INT. ENGINE ROOM, CARRIER - CONTINUOUS Barton is walking along a passage catwalk. Natasha appears behind him and he quickly turns and shoots a bow, which flies by her. She pushes his hand. He charges her and she kicks him, then rolls underneath some pipes -- popping up on the other side of the catwalk, kicking him in the knee. He shoots another arrow, which she dodges by dropping across to the next passage. Barton follows her. They fight along that catwalk. The fight is very even. Barton tries hitting her with the bow and she pulls on the string. They fight some more, headbutting and punching. They both pull daggers. INT. CYLINDRICAL GLASS CAGE, CARRIER - CONTINUOUS Thor his the cage with his hammer, the cage cracks but it begins to shake off the bolts and shudders.
+E: DAY
+C: LOKI
+D: The humans think us immortal. Shall we test that? Loki moves to open the chute beneath the cell, dropping Thor to, what for any regular person, would be certain death. Coulson suddenly appears, wielding a large prototype Phase Two weapon.
+E: laughs
+C: AGENT COULSON
+D: Move away please. Loki steps back from the panel. Coulson gestures to the gun. Do you like this? We started working on the prototype after you sent the Destroyer. Even I don’t know what it does. Do you wanna find out? Coulson prepares to fire the weapon when Loki disappears, reappearing behind him and thrusting the point of his spear through Coulson’s chest. He yells and drops to the floor.
+C: THOR NO!
+D: Loki returns to the panel, opening the chute and pressing the button which sends the cell, and Thor, falling from the ship. INT. ENGINE ROOM, CARRIER - CONTINUOUS Natasha and Barton are still fighting. Natasha grabs Barton arm and thrusts it back. He groans as he throws the dagger to his free hand. Natasha grabs that hand too but he hoists her against a wall. Barton grabs Natasha’s hair and pulls, exposing her neck to his dagger. Romanoff sinks her teeth into his arm and he lets go, trying to force her down when she spins, throwing Barton into the railing. He falls to the ground, groaning, then looks up.
+C: BARTON
+D: Natasha! She sends him a left hook. EXT. SKIES - MOMENTS LATER The cell is still dropping, flipping all over the place. INT. CYLINDRICAL GLASS CAGE, SKIES - CONTINUOUS Thor trying desperately to break free from the cell, swinging Mjolnir at the glass sides as he plummets, twisting and turning, through the air. He braces himself against a wall and launches across the space, crashing through the glass and just before the cell slams into the ground. EXT. REMOTE FIELD - CONTINUOUS Thor crashes into a field like a meteorite. INT. EMPTY DETENTION ROOM, CARRIER - CONTINUOUS Coulson is slumped on the floor and Loki turns to leave.
+E: DAY
+C: AGENT COULSON
+D: You’re going to lose.
+C: LOKI
+D: Am I?
+C: AGENT COULSON
+D: It’s in your nature,
+C: LOKI
+D: your heroes are scattered, your floating fortress falls from the sky. Where is my disadvantage?
+C: AGENT COULSON
+D: You lack conviction.
+C: LOKI
+D: I don’t think I- Coulson fires the weapon, which shoots a blast of fire similar to that of the Destroyer, sending Loki flying through a wall.
+C: AGENT COULSON
+D: So that’s what it does. INT. BRIDGE, CARRIER - DAY Fury is working the controls.
+C: INTERCOM VOICE
+D: All hands to your stations immediately. EXT. ENGINE 3, HELICARRIER - CONTINUOUS The helicarrier is still falling. Iron Man is attempting to kick start the engine by manually moving the huge rotors. He is pushing the blades, flying faster and faster until they start spinning on their own and the ship levels off.
+C: INSIDE THE HELMET: TONY
+D: Cap hit the lever! INTERCUT: CAP / IRON MAN HELMET Cap still hangs from the side of the ship by a power cord.
+C: STEVE
+D: i need a minute here!
+C: TONY
+D: Lever! Now! Cap hauls himself up. END INTERCUT Iron Man is pushed back up against one of the rotors, now spinning too fast for him to escape.
+C: INSIDE IRON MAN HELMET: TONY
+D: Uh-oh.
+E: CONT’D
+C: BACK TO SCENE:
+D: Iron Man is sucked into the blades and is spun wildly around before Cap manages to pull the lever and he is able to fly out. He manages to right himself and flies back to the ship, taking out the gunman shooting at Cap. EXT. DECK, CARRIER - MOMENTS LATER A jet takes off. Inside it is Loki, who is smiling and watching the carrier. INT. EMPTY DETENTION ROOM, CARRIER - DAY Coulson, slumped on the floor with the gun in his lap. Fury enters and kneels down by him.
+C: AGENT COULSON
+D: I’m sorry boss. They got rabbited.
+C: FURY
+D: Just stay awake. Eyes on me.
+C: AGENT COULSON
+D: Oh I’m clockin’ out here.
+C: FURY
+D: Not an option.
+C: AGENT COULSON
+D: It’s okay, boss. This was never gonna work- if they didn’t have something- to His breathing halts and Fury stands to let the medical team through. He leans against the railing. INT. BRIDGE, CARRIER - CONTINUOUS Hill is having a head wound tended to.
+C: FURY
+D: Agent Coulson is down. Hill pushes the doctor away. INT. ENGINE ROOM, CARRIER - CONTINUOUS Natasha stands on the catwalk as Barton is dragged away by some agents. She listens intently.
+E: over Hill’s earpiece
+C: SHIELD WORKER
+D: A medical team is on its way to your location.
+E: over Natasha’s earpiece
+C: FURY
+D: They’re here. EXT. ENGINE 3, HELICARRIER - CONTINUOUS Tony and Cap stand together by the engine, quietly listening.
+E: over Natasha’s earpiece
+C: FURY
+D: They called it. INT. CONFERENCE TABLE, BRIDGE, CARRIER - DAY Steve, Tony, and Fury are gathered at a table. Hill stands to the side. Fury pulls a handful of cards out.
+E: over their earpiece
+C: FURY
+D: These were in Phil Coulson’s jacket. Guess he never did get you to sign them. Fury scatters them on the table. Some are wet with blood. We’re dead in the air up here. Our communications, location of the cube, Banner, Thor. I got nothing for you. Lost my one good eye. Think I had that coming. Fury begins to make his way around the table to Steve and Tony. Yes, we were going to build an arsenal with the Tesseract. I never put all my chips on that number, though, because I was playing something even riskier. There was an idea, Stark knows this, called the Avengers Initiative. Fury reaches a chair between Tony and Steve The idea was to bring together a group of remarkable people, see if they could become something more. See if they could work together when we needed them to, to fight the battles that we never could. Phil Coulson died still believing in that idea, in heroes. Tony stands and walks out. Well, it’s an old fashioned notion. EXT. REMOTE FIELD - DAY Thor is making his way over to Mjolnir. He hesitates to pick it up, fearing he is not worthy. He clenches his fist. INT. ABANDONED WAREHOUSE - SAME Banner wakes, naked, in a pile of rubble. There is a SECURITY GUARD standing over him.
+C: SECURITY GUARD
+D: You fell out of the sky.
+C: BANNER
+D: Did I hurt anyone?
+C: SECURITY GUARD
+D: There’s nobody around here to get hurt. You did scare the hell out of some pigeons though.
+C: BANNER
+D: Lucky.
+C: SECURITY GUARD
+D: Or just good aim. You were awake when you fell.
+C: BANNER
+D: You saw?
+C: SECURITY GUARD
+D: The whole thing, right through the ceiling. Big and green and buck ass nude. Here- SECURITY GUARD throws Banner a some clothes, which he begins to pull on. didn’t think those would fit you until you shrunk down to a regular size fella.
+C: BANNER
+D: Thank you.
+C: SECURITY GUARD
+D: Are you an alien?
+C: BANNER
+D: What? CONTINUED: 92.
+E: 2
+C: SECURITY GUARD
+D: From outer space, an alien?
+C: BANNER
+D: No.
+C: SECURITY GUARD
+D: Well then, son, you’ve got a condition. Banner steps down from the pile of rubble in the warehouse, pulling on the shirt.
+C: SECURITY GUARD
+D: So, which one is it?
+E: CONT’D
+C: BANNER
+D: Sorry?
+C: SECURITY GUARD
+D: Are you a big guy that gets all little, or a little guy that, ah- sometimes blows up large?
+C: BANNER
+D: You know- I’m not even sure.
+C: SECURITY GUARD
+D: You got somewhere to go?
+C: BANNER
+D: Stark Tower. I- no. The Security Guard looks at him. Yes.
+C: SECURITY GUARD
+D: I’d expect some confusion of the mind, since your body’s kind of all over the place, but it has to be one or the other. The Security Guard gestures Banner to follow him.
+C: BANNER
+D: I know where I could do the most good, but it’s where I can do the most harm.
+C: SECURITY GUARD
+D: Well, that’s no different than anybody else. They walk out the doors. CONTINUED: 93. Me? I’m here is Jersey where I can’t do much of either. And since I’m not likely to move on from this placement, you may as well- pilfer my ride. The Security Guard gestures to an old motorcycle.
+E: 3
+C: BANNER
+D: I don’t know which way to go.
+C: SECURITY GUARD
+D: Your mind’s already made up, son. The rest of you will follow. INT. SICK BAY, CARRIER - DAY Barton is strapped to a hospital bed. Natasha sits by him as he strains against the bonds, breathing hard and shaking his head.
+C: NATASHA
+D: Clint, you’re gonna be alright.
+C: BARTON
+D: You know that? Is that what you know? I gotta go in though. I have to flush him out.
+C: NATASHA
+D: You gotta level out, it’s gonna take time.
+C: BARTON
+D: You don’t understand. Have you ever had someone take your brain and play? Pull you out and stuff something else in? You know what it’s like to be unmade?
+C: NATASHA
+D: You know that I do.
+C: BARTON
+D: Why am I back? How did you get him out?
+C: NATASHA
+D: Cognitive recalibration. I hit you really hard in the head. CONTINUED: 94.
+E: 2
+C: BARTON
+D: Thanks. Natasha begins to remove the strap restraints. Natasha, how many agents?
+C: NATASHA
+D: Don’t. Don’t do that to yourself, Clint. This is Loki. This is monsters and magic and nothing we were ever trained for.
+C: BARTON
+D: Loki. He get away?
+C: NATASHA
+D: Yeah. I don’t suppose you know where?
+C: BARTON
+D: Didn’t need to know. Didn’t ask. He’s gonna make his play soon though. Today. Natasha walks to the door.
+C: NATASHA
+D: We gotta stop him.
+C: BARTON
+D: Yeah? Who’s we?
+C: NATASHA
+D: I don’t know. Whoever is left.
+C: BARTON
+D: Well, if I put an arrow through Loki’s eye socket I’d sleep better I suppose.
+C: NATASHA
+D: Now you sound like you.
+C: BARTON
+D: But you don’t. You’re a spy, not a soldier. Now you want to wade into a war. Why? What did Loki do to you?
+C: NATASHA
+D: He didn’t, I just- CONTINUED: 95.
+E: 3
+C: BARTON
+D: Natasha.
+C: NATASHA
+D: I’ve been compromised. I got red in my ledger. I’d like to wipe it out. INT. EMPTY DETENTION ROOM, CARRIER - DAY Tony stand over looking where the cylindrical glass cage used to be. Steve enters the room.
+C: STEVE
+D: Was he married?
+C: TONY
+D: No. There was a uh- cellist, I think.
+C: STEVE
+D: I’m sorry. He seemed like a good man.
+C: TONY
+D: He was an idiot. Tony and Steve slowly move toward each other.
+C: STEVE
+D: Why? For believing?
+C: TONY
+D: For taking on Loki alone.
+C: STEVE
+D: He was doing his job.
+C: TONY
+D: He was out of his league. He should have waited. He should have-
+C: STEVE
+D: Sometimes there isn’t a way out, Tony.
+C: TONY
+D: Right. How did that work for him?
+C: STEVE
+D: Is this the first time you’ve lost a soldier? CONTINUED: 96.
+E: 2
+C: TONY
+D: We are not soldiers! I’m not marching to Fury’s fife.
+C: STEVE
+D: Neither am I. He’s got the same blood on his hands that Loki does, but right now we gotta put that behind us and get this done. Now Loki needs a power source, if we can put together a list- Tony looks down at the place Coulson fell, there is a dent in the wall.
+C: TONY
+D: He made it personal.
+C: STEVE
+D: That’s not the point.
+C: TONY
+D: That is the point. That’s Loki’s point. He hit us all right where we live. Why?
+C: STEVE
+D: To tear us apart.
+C: TONY
+D: Yeah, divide and conquer is great but- he knows he has to take us out to win, right? That’s what he wants. He wants to beat us, he wants to be seen doing it. He wants an audience.
+C: STEVE
+D: Right. I caught his act in Stuttgart.
+C: TONY
+D: Yeah. That’s just previews, this is- this is opening night. And Loki, he’s a full-tail diva. He wants flowers, he wants parades, he wants a monument built to the skies with his name plastered....Son of-a-bitch. EXT. STARK TOWER ROOFTOP - DAY Selvig is setting up the device to open the portal. INT. SICK BAY, CARRIER - CONTINUOUS Barton is in the restroom and Natasha it sitting on the bed. Steve is suited up, he enters. Natasha stands.
+C: CAPTAIN AMERICA
+D: Time to go.
+C: NATASHA
+D: Go where?
+C: CAPTAIN AMERICA
+D: I’ll tell you on the way. Can you fly one of those jets? Barton enters from the restroom, drying his hands.
+C: BARTON
+D: I can. Cap looks at Natasha, who nods.
+C: CAPTAIN AMERICA
+D: Got a suit?
+C: BARTON
+D: Yeah.
+C: CAPTAIN AMERICA
+D: Then suit up.
+C: SERIES OF SHOTS:
+D: A) In the field, Thor lifts Mjolnir to the skies. B) Cap straps his shield onto his back. C) Barton puts on his quiver. D) Natasha powers up her Widow’s Bite. Her bracelets light up. E) Tony is in a workshop making repairs to his helmet. Agents walk by in the background. The helmet lights up. F) Thor summons a bolt of lightening. The field grows dark, with clouds. His armor slowly begins to fly on. CONTINUED: In the field, Thor lifts Mjolnir to the skies. B) Cap straps his shield onto his back. C) Barton puts on his quiver. D) Natasha powers up her Widow’s Bite. Her bracelets light up. E) Tony is in a workshop making repairs to his helmet. Agents walk by in the background. The helmet lights up. F) Thor summons a bolt of lightening. The field grows dark, with clouds. His armor slowly begins to fly on. CONTINUED: Cap straps his shield onto his back. C) Barton puts on his quiver. D) Natasha powers up her Widow’s Bite. Her bracelets light up. E) Tony is in a workshop making repairs to his helmet. Agents walk by in the background. The helmet lights up. F) Thor summons a bolt of lightening. The field grows dark, with clouds. His armor slowly begins to fly on. CONTINUED: Barton puts on his quiver. D) Natasha powers up her Widow’s Bite. Her bracelets light up. E) Tony is in a workshop making repairs to his helmet. Agents walk by in the background. The helmet lights up. F) Thor summons a bolt of lightening. The field grows dark, with clouds. His armor slowly begins to fly on. CONTINUED: Natasha powers up her Widow’s Bite. Her bracelets light up. E) Tony is in a workshop making repairs to his helmet. Agents walk by in the background. The helmet lights up. F) Thor summons a bolt of lightening. The field grows dark, with clouds. His armor slowly begins to fly on. CONTINUED: Tony is in a workshop making repairs to his helmet. Agents walk by in the background. The helmet lights up. F) Thor summons a bolt of lightening. The field grows dark, with clouds. His armor slowly begins to fly on. CONTINUED: Thor summons a bolt of lightening. The field grows dark, with clouds. His armor slowly begins to fly on. CONTINUED: 98. G) Barton and Natasha walk side-by-side behind Captain America, who is leading them through the lower hangar bay. They’re all ready to kick butt. H) Thor’s armor finally gathers. END OF SERIES OF SHOTS INT. QUINJET - CONTINUOUS Cap, Barton, and Natasha walk onto the jet.
+E: 2 2 2 2 2 2 2
+C: SHIELD ENGINEER
+D: Hey, you guys aren’t authorized to be in here.
+C: CAPTAIN AMERICA
+D: Son, just don’t! INT. AIR DECK, BRIDGE, CARRIER - DAY Fury is holding Coulson’s cards, over looking the air deck. Hill walks up behind him.
+C: MARIA HILL
+D: Sir.
+C: FURY
+D: Agent Hill.
+C: MARIA HILL
+D: Those cards, they were in Coulson’s locker, not in his jacket.
+C: FURY
+D: They needed the push. He sees the quinjet and Iron Man take off towards the city.
+E: staring at the cards
+C: INTERCOM VOICE
+D: We’ve got unauthorized departure from Bay Six.
+C: FURY
+D: They found it. Get our communications back up, whatever you have to do. I want eyes on everything.
+C: MARIA HILL
+D: Yes, sir. EXT. NEW YORK CITY SKYLINE - DAY Iron Man is flying toward the city, his suit is losing power. He continues to make his way to Stark Tower. EXT. STARK TOWER ROOFTOP - CONTINUOUS Selvig, still under the control of Loki, is ready to activate the device he created with the Tesseract. Iron Man slowly reaches.
+C: JARVIS
+D: Sir, I turned off the arc reactor. The device is already self-sustaining
+C: IRON MAN
+D: Shut it down, Dr. Selvig.
+C: JARVIS
+D: It’s too late! She can’t stop now. She wants to show us something! A new universe.
+C: IRON MAN
+D: Okay. He fires at the barrier around the device, but the Tesseract deflects it, sending the energy outwards, knocking Selvig out and Iron Man back.
+E: annoyed
+C: JARVIS
+D: The barrier is pure energy. It’s unbreachable.
+C: IRON MAN
+D: Yeah, I got that. Iron Man looks down to see Loki on the platform outside the penthouse. I’m beat.
+C: JARVIS
+D: Sir, the Mark Seven is not ready for deployment.
+C: INSIDE IRON MAN HELMET: TONY
+D: Then skip the spinning rims, we’re on the clock. BACK TO SCENE: Tony lands and as his suit is deconstructed, he walks through into the tower penthouse, watching Loki carefully. Loki walks in as well. INT. PENTHOUSE, STARK TOWER - CONTINUOUS Inside the tower, Loki walks forward as Tony goes behind his bar.
+C: LOKI
+D: Please tell me you’re going to appeal to my humanity.
+C: TONY
+D: Uh- actually, I’m planning to threaten you.
+C: LOKI
+D: You should have left your armor on for that.
+C: TONY
+D: Yeah, it’s seen a bit of mileage. You’ve got the uh- blue stick of destiny. Would you like a drink?
+C: LOKI
+D: Stalling me won’t change anything.
+C: TONY
+D: No, no, no- threatening. No drink? You sure? I’m having one.
+C: LOKI
+D: The Chitauri are coming, nothing will change that. What have I to fear?
+C: TONY
+D: The Avengers. It’s what we call ourselves, sort of like a team. ’Earth’s Mightiest Heroes’ type of thing.
+C: LOKI
+D: Yes, I’m met them.
+C: TONY
+D: Yeah, takes us a while to get any traction, I’ll give you that one. But, let’s do a head count here. Your brother, the Demi-God; CONTINUED: 101. Loki turns away and Tony slips a pair of bracelets onto his wrists. A super soldier, a living legend who kind of lives up to the legend; a man with breath-taking anger management issues; a couple of master assassins, and you, big fella, you’ve managed to piss off every single one of them.
+E: 2
+C: LOKI
+D: That was the plan. Tony begins to walk to the center of the penthouse where Loki is.
+C: TONY
+D: Not a great plan. When they come, and they will, they’ll come for you.
+C: LOKI
+D: I have an army.
+C: TONY
+D: We have a Hulk.
+C: LOKI
+D: Oh, I thought the beast had wandered off.
+C: TONY
+D: Yeah- you’re missing the point. There’s no throne, there is no version of this, where you come out on top. Maybe your army comes and maybe it’s too much for us, but it’s all on you. ’Cause if we can’t protect the earth, you can be damned well sure we’ll avenge it. Loki walks over to Tony, pointing his scepter.
+C: LOKI
+D: How will your friends have time for me, when they’re so busy fighting you? Loki walks up to Tony, and places the tip of the scepter over his heart. It clinks against the arc reactor. This usually works. CONTINUED: 102.
+E: 3
+C: TONY
+D: Well, performance issues. You know? Loki grabs Tony by the throat and throws him across the room. JARVIS, anytime now. Loki grabs Tony again.
+C: LOKI
+D: You will all fall before me.
+C: TONY
+D: JARVIS. Deploy. Loki sends Stark crashing through the window, and plummeting toward the ground.
+C: TONY
+D: Deploy! Behind Loki, the Mark Seven suit goes rocketing past and out after Stark.... EXT. STARK TOWER - CONTINUOUS It catches up to him and, locking on to the bracelets, attaches to him and unfolds to a full suit. Tony manages to stop his fall moments before he hits the ground and flies back up to Loki at the window.
+E: O.S DAY
+C: IRON MAN
+D: And there’s one other person you pissed off! His name is Phil. Iron Man fires a repulsor blast at Loki and he is knocked down. Meanwhile the device has powered up and shoots a stream of blue energy at the sky, which opens into a portal where the Chitauri army waits. The hoards of aliens begin to fly through.
+C: INSIDE IRON MAN HELMET: TONY
+D: Right! Army. EXT. SKIES - CONTINUOUS Iron Man speeds towards the incoming army, shooting at them. The Chitauri fire back at him. He fires more blasts, spinning out the way, dodging the exploding debris. Iron Man continues flying higher. BAM! He is hit by a Chitauri hovercraft. He rights himself and releases mini-missiles at the Chitauri, blowing them up. EXT. STREETS OF MIDTOWN MANHATTAN - CONTINUOUS The citizens get out of their taxis and vehicles, looking to the sky. They run for their lives as the Chitauri come toward them -- blowing up cars, buildings, and the streets. EXT. OUTDOOR AREA, CAFE - CONTINUOUS The Chitauri fire at the restaurant. WAITRESS and her co-workers are left outside, they duck and take cover from the shots. When they get the chance, they take off inside the cafe. INT. CAFE - CONTINUOUS WAITRESS, her co-workers, and customers look out the window at the destruction that the aliens cause. EXT. STARK TOWER LANDING PAD - CONTINUOUS Loki walks out on the pad, his Asgardian armor materializing as he looks out over the chaos below. Suddenly, Thor lands lower on the platform.
+C: THOR
+D: Loki, turn off the Tesseract or I’ll destroy it!
+C: LOKI
+D: You can’t. There is no stopping it. There is only the war!
+C: THOR
+D: So be it. Loki leaps at Thor and the two begin to fight, a blast from Loki’s scepter sending one of the letters of STARK falling to the ground. EXT. STREETS OF MIDTOWN MANHATTAN - CONTINUOUS Civilians are running for their lives, screaming. Several police cars show up. POLICE SERGEANT and YOUNG COP step out of their car where they look up at the Chitauri. EXT. NEW YORK CITY SKYLINE - DAY The quinjet flies toward Stark Tower, which is beaming the blue stream to the sky.
+C: NATASHA
+D: Stark, we’re on a ...
+E: V.O over Tony’s helmet
+C: INSIDE IRON MAN HELMET: NATASHA
+D: ...three heading north east.
+E: over HUD display
+C: TONY
+D: What, did you stop for drive-thru? Swing that park, I’m gonna lay ’em out for you. EXT. STARK TOWER - CONTINUOUS Iron Man flies fast, leading a troop of Chitauri, past Stark Tower -- where Thor and Loki are still fight each other. He flies around the building, takes a sharp turn -- causing some of the troop to crash. INT. COCKPIT, QUINJET - CONTINUOUS Barton and Natasha are piloting the plane. They release the canon gun. Iron Man flies past them at high-speed and they release continuous fire at the troop of Chitauri in front of them. They fly through the smoke and up to Stark Tower.
+C: INSIDE IRON MAN HELMET: JARVIS
+D: Sir, we have more incoming.
+C: TONY
+D: Fine. Let’s keep them occupied. EXT. QUINJET, SKIES OF MIDTOWN - CONTINUOUS The quinjet comes around a building, blasting the army who are firing at them. One of the wings are grazed by Chitauri gunfire. They slow as the come to.... EXT. STARK TOWER - CONTINUOUS Thor smashes Loki’s head into a glass on the catwalk of Stark Tower. They still fight.
+C: INSIDE QUINJET COCKPIT: BARTON
+D: Nat!
+C: NATASHA
+D: I see ’em.
+C: BACK TO SCENE:
+D: Loki spots the jet. He throws Thor to the floor, then blasts one of the jet’s rotor blades with his scepter -- it catches fire. Thor sees, angry, charges Loki and tackles him as the quinjet falls to the ground. Loki and Thor throw punches.
+C: INSIDE THE QUINJET:
+D: Natasha and Barton hold on for their dear lives. Cap grabs a hold of the roof as the plane grazes buildings and crashes to the street. Natasha and Barton remove their headsets, open the ramp, and Cap and them exit the jet. EXT. OVERPASS BELOW STARK TOWER - CONTINUOUS
+E: DAY
+C: CAPTAIN AMERICA
+D: We gotta get back up there. They run onto the overpass, looking up at Stark Tower. They freeze as they see a giant armored Leviathan -- a warship of the Chitauri, flies through the portal with more warriors. They warriors jump onto the side of buildings and into the buildings where they shoot civilians.
+C: CAPTAIN AMERICA
+D: Stark, are you seeing this?
+E: CONT’D
+C: TONY
+D: Seeing. still working on believing...
+E: V.O
+C: INSIDE IRON MAN HELMET: TONY
+D: ...Where’s Banner? Has he shown up yet? CONTINUED: 106.
+E: 2
+C: CAPTAIN AMERICA
+D: Banner?
+E: over radio
+C: TONY
+D: Just keep me posted.
+C: BACK TO SCENE:
+D: Iron Man flies after the Leviathan. JARVIS, find me a soft spot. The Leviathan tears through buildings, roaring. EXT. STARK TOWER LANDING PAD - CONTINUOUS Thor holds Loki down and gestures to the chaos in Manhattan below them.
+C: THOR
+D: Look at this! Look around you! You think this madness will end with your rule?
+C: LOKI
+D: It’s too late. It’s too late to stop it.
+C: THOR
+D: No. We can, together. Loki pauses, then slips a knife into his hand and stabs Thor.
+C: LOKI
+D: Sentiment! Thor gets back up and lifts Loki, then drops him. Loki rolls himself off the edge of the building, only to land on one of the flying Chitauri crafts. He flies off with a troop of Chitauri. EXT. OVERPASS BELOW STARK TOWER - DAY Barton and Natasha are crouched behind a taxi cab. Cap runs over.
+C: BARTON
+D: We’ve got civilians trapped. Loki flies over them on the flying crafts. CONTINUED: 107.
+E: 2
+C: CAPTAIN AMERICA
+D: Loki. CUTAWAY TO STREETS: Loki and his following troop blowing up the streets. A JAPANESE FAMILY runs away as they are almost shot. A flying craft flies through a Dr. Pepper truck. Loki and the troop come to a busy street -- the one where the YOUNG COP and POLICE SERGEANT are at -- and blow up cars. The police and civilians run for their lives.
+C: BACK TO OVERPASS:
+D: They’re fish in a barrel down there. Natasha stands and fires both her guns at an incoming group of Chitauri.
+C: NATASHA
+D: We got this. It’s good. Go!
+C: CAPTAIN AMERICA
+D: You think you can hold them off?
+C: BARTON
+D: Captain, it would be my genuine pleasure. Barton grabs a arrow and shoots it, hitting one alien in the head, the arrow quickly separates into more arrows, killing three Chitauri aliens. Cap leaves the other two fighting and jumps off an overpass, rolling onto a bus and into the street. Barton helps people off a bus as Natasha shoots her pistols at Chitauri. He runs over to Natasha and begins releasing arrows as she shoots.
+C: NATASHA
+D: Just like Budapest all over again!
+C: BARTON
+D: You and I remember Budapest very differently. EXT. STREETS OF MIDTOWN MANHATTAN - CONTINUOUS Cap runs through the street towards a group of police shooting at Chitauri. He is running and jumping off cars.
+C: YOUNG COP
+D: It’s gonna be an hour before they scramble the National Guard.
+C: POLICE SERGEANT
+D: National Guard! The two duck to avoid a Chitauri blast.
+C: POLICE SERGEANT
+D: Does the army know what’s happening here?
+E: CONT’D
+C: YOUNG COP
+D: Do we? Cap jumps down on the car in front of them.
+C: CAPTAIN AMERICA
+D: You need men in these buildings. There are people inside and they can be running right into the line of fire. You take them to the basement or through the subway, you keep them off the streets. I need a perimeter as far back as 39th.
+E: gesturing
+C: POLICE SERGEANT
+D: Why the hell should I take orders from you? Two Chitauri warriors attack Cap, he fights them off easily then turns back to the two men. The two cops stand shock. The POLICE SERGEANT reacts and walks back to his men.
+C: POLICE SERGEANT
+D: I need men in those buildings, lead the people down and away from the streets. We gonna set up a perimeter all the way down to 39th street. CUTAWAY TO IRON MAN: Iron Man fires a stream of ammunition at the Leviathan, which turns to follow him. CONTINUED: 109.
+E: into radio 2
+C: INSIDE IRON MAN HELMET: TONY
+D: It noticed me...
+C: BACK TO IRON MAN: IRON MAN
+D: ...yay! Stark flies off and the Leviathan follows him. EXT. OVERPASS BELOW STARK TOWER - CONTINUOUS Barton and Natasha are fighting warrior up close. Barton trips one with his bow. He pulls an arrow and stabs it. Natasha is using her Widow’s Bite on a warrior as she sits on his neck. Natasha picks up a Chitauri weapon and is using it to fight off the warriors. One warrior tries to slice her head off and she slides, dodging it. She jumps to her feet and hits it in the head with the sharp part of the weapon. Barton knocks over another warrior. He grabs an arrow and shoots behind himself, killing another warrior. He marches over to another Chitauri and battles him. Meanwhile Natasha is taking on three warriors by herself. She shoots one, then spins around and stabs one in the neck. Barton is tackled to the cement by a warrior. He groans and stabs one with a arrow, then throws the warrior to the ground. Out of nowhere, another Chitauri attacks him and kicks him onto the trunk of a cab. Natasha stabs a warrior with the Chitauri weapon. She hits the other over the head. She spins to her knees, aims in one direction, and fires. Another Chitauri charges, she spins the weapon in that direction and fires. She continuously fires as Barton fights more aliens in the background. Barton’s head is slammed into the roof of a car. He is then thrown to the ground by a warrior. He’s tired, but he continues to fight. Natasha takes on two more Chitauri. They back her onto a taxi cab. They hit after her but she moves her head out of the way. She gets her footing, and tries to hit them with the weapon but a warrior grabs it and throws her feet into the air. She lands on the car and screams in pain, breathing heavily. CONTINUED: 110. Barton shoots more warriors around them, they are becoming overwhelmed but they keep on. Natasha regains her strength, runs to the aid of Barton by firing at Chitauri as he slides and shoots at Chitauri. Natasha and Barton are becoming surrounded by Chitauri and Cap rejoins them -- hitting Chitauri out the way. Thor drops down from the tower and kills Chitauri with a bolt of lightening.
+E: DAY 2
+C: CAPTAIN AMERICA
+D: What’s the story upstairs?
+C: THOR
+D: The power surrounding the cube is impenetrable.
+C: TONY
+D: Thor is right, we gotta deal with these guys.
+E: over their earpieces
+C: NATASHA
+D: How do we do this?
+C: CAPTAIN AMERICA
+D: As a team.
+C: THOR
+D: I have unfinished business with Loki.
+C: BARTON
+D: Oh yeah! Get in line.
+E: readying some arrows
+C: CAPTAIN AMERICA
+D: Save it. Loki’s gonna keep this fight focused on us and that’s what we need. Without him these things could run wild. We got Stark up top, he’s gonna need us to- He stops, seeing Banner arrive on a motorbike. Cap and the others walk over and Banner dismounts, surveying the damage.
+C: BANNER
+D: So, this all seems horrible.
+C: NATASHA
+D: I’ve seen worse.
+C: BANNER
+D: Sorry. CONTINUED: 111.
+E: 3
+C: NATASHA
+D: No, we could- use a little worse.
+C: CAPTAIN AMERICA
+D: Stark, we got him.
+E: into earpiece
+C: TONY
+D: Banner?
+E: over Cap’s earpiece
+C: CAPTAIN AMERICA
+D: Just like you said.
+C: INSIDE IRON MAN HELMET: TONY
+D: Then tell him to suit up. I’m bringing the party to you.
+C: BACK TO SCENE:
+D: Iron Man flies around a corner and towards the group, followed closely by the Leviathan.
+C: NATASHA
+D: I don’t see how that’s a party. Iron Man draws the creature low and it skims the road. Banner turns an begins to walk away, towards the Leviathan.
+E: stuttering
+C: CAPTAIN AMERICA
+D: Doctor Banner, now might be a really good time for you to get angry.
+C: BANNER
+D: That’s my secret, Cap. I’m always angry. Banner transforms into the Hulk and punches the Leviathan, smashing it into the ground.
+C: IRON MAN
+D: Hold On! Iron Man blasts a missile at the creature and it explodes. Barton ditches. Thor stands taking the blast. Cap shields Natasha. The Chitauri cry out. CONTINUED: 112. 360 spin: The Avengers stand in a circle, Hulk roars, Hawkeye nocks an arrow, Thor readies Mjolnir, Black Widow loads her gun, Captain America stands ready and Iron Man hovers above them, landing next to the Hulk. Loki looks down from above.
+E: 4
+C: LOKI
+D: Send the rest. The Avengers look up, watching as more Leviathans and hundreds of warriors fly through the portal.
+C: NATASHA
+D: Guys?
+C: IRON MAN
+D: Call it, Captain.
+C: CAPTAIN AMERICA
+D: Alright, listen up. Until we can close that portal up there, we’re gonna use containment. Barton, I want you on that roof, eyes on everything. Call out patterns and strays. Stark, you got the perimeter. Anything gets more than three blocks out, you turn it back or you turn it to ash.
+C: BARTON
+D: Wanna give me a lift?
+E: to Iron Man
+C: IRON MAN
+D: Right. Better clench up, Legolas. Iron Man grabs Barton and flies him up to the top of a building, then flies off.
+C: CAPTAIN AMERICA
+D: Thor! You gotta try and bottleneck that portal, slow ’em down. You got the lightning, light the bastards up. Thor swings Mjolnir, flying off.
+C: CAPTAIN AMERICA
+D: You and me, we stay here on the ground, keep the fighting here. And Hulk! CONTINUED: 113. Hulk turns around facing Cap, who points at him. Smash! Hulk grins, then leaps off, taking out dozens of warriors that are on the sides of the buildings -- grabbing them, smashing them, throwing them. Hulk leaps across the air and slaps a flying craft out of the air. EXT. TOP OF THE CHRYSLER BUILDING - CONTINUOUS Thor lands at to the top of the Chrysler building and summons a bolt of lightning. He sends it shooting out towards the portal, taking out warriors and Leviathan. INT. BRIDGE, CARRIER - CONTINUOUS Fury is at his command center watching the news footage. Hill approaches Fury.
+E: CONT’D to Natasha 5 DAY
+C: MARIA HILL
+D: Sir. The council is on. EXT. TOP OF A BUILDING - CONTINUOUS Barton atop a building, fires relentlessly at Chitauri.
+C: BARTON
+D: Stark. You gotta lot of strays on your tail. EXT. STREETS OF MIDTOWN MANHATTAN - CONTINUOUS A troop of Chitauri warriors are following Iron Man as he flies above the streets.
+C: INSIDE IRON MAN HELMET: TONY
+D: Just tryin’ to keep them off the streets. BEGIN INTERCUT: BARTON / INSIDE IRON MAN HELMET
+C: BARTON
+D: Well they can’t bank worth a damn. Barton shoots at crafts. He misses, shooting behind his back without looking -- but the arrow hits another craft, causing it to explode. CONTINUED: 114.
+E: 2
+C: TONY
+D: I will roger that. END INTERCUT Iron Man flies by Hawkeye who fires at the crafts, blowing them up. Iron Man swerves behind two crafts and fires at them. He continues taking a series of quick turns as the Chitauri quickly drop, crash, or follow.
+C: INSIDE IRON MAN HELMET: TONY
+D: Oh- boy. BACK TO SCENE: Iron Man goes flying through a tunnel and turns tightly at the end, sending the last few crafts crashing into a building.
+E: CONT’D
+C: INSIDE IRON MAN HELMET: TONY
+D: Nice call. What else you got?
+C: BARTON
+D: Well, Thor’s taking out a squadron down on 6th.
+E: over radio
+C: TONY
+D: And he didn’t invite me! INT. OFFICE BUILDING - CONTINUOUS Elsewhere, a Leviathan approaches an office building and the inhabitants look on, scared. We hear fast & heavy footsteps. It’s Hulk charging through the building, jumping through the window and pulling the creature away. from the building. EXT. OVERPASS BELOW STARK TOWER - CONTINUOUS Natasha is going to town as she fights a warrior. She is thrown upon of a car. As the warrior is about to attack, Natasha uses her Widow’s Bite on it, shocking him out. She grabs the Chitauri gun and shoots him back. Someone lands behind her so she quickly turns and aims BUT it’s Cap. She stands down and leans against a car.
+E: DAY
+C: NATASHA
+D: Captain, none of this is gonna mean a damn thing if we don’t close that portal. CONTINUED: 115.
+E: 2
+C: CAPTAIN AMERICA
+D: Our biggest guns couldn’t touch it.
+C: NATASHA
+D: Well, maybe it’s not about guns.
+C: CAPTAIN AMERICA
+D: You wanna get up there, you’re gonna need a ride. Natasha glances up, seeing the Chitauri crafts fly past. She makes her way over to the other side of the overpass.
+C: NATASHA
+D: I got a ride. I could use a boost though.
+C: CAPTAIN AMERICA
+D: You sure about this? Cap readies his shield in front of him.
+C: NATASHA
+D: Yeah, it’s gonna be fun! Natasha runs at Rogers, who uses his shield to boost her up. She grabs on to a passing Chitauri vehicle. Cap looks up as she flies off in the distance. He looks to his right and there are more warriors coming. CUTAWAY: NATASHA ON A FLYING CRAFT Natasha climbs aboard the craft, pulls a dagger and stabs a warrior. She spin kicks him off the craft. She makes her way to the other one and uses him to control the vehicle.
+C: NATASHA
+D: Turn, turn, Ah!
+E: CONT’D
+C: FOLLOWING SHOT:
+D: Two crafts come up on Natasha, firing at her. She swerves to avoid them. The crafts are blasted away by Iron Man, who fires away at a fleet behind him. Iron Man takes a turn, coming up on the overpass, where he knocks Chitauri aliens over and lands by Cap, who is fighting and kicking Chitauri. Cap lifts his shield. Iron Man reflects a repulsor blast off the shield, taking out the surrounding warriors. He then flies up the side of a building, hitting more warriors. At the top of which Barton fires into the head of a Chitauri. Two blast are fired at him. He ducks and returns a shot by firing an arrow. The arrow hits the pilot of a craft which falls and gets hit by a Leviathan. CONTINUED: 116. On the creature is the Hulk who is fighting off warriors. Thor then lands on the same creature and takes on warriors with Hulk. When Hulk breaks a piece of the creature’s armor off, Thor uses Mjolnir to summon lightening and drive the metal into its head. The creature crashes to the ground, landing in... INT. GRAND CENTRAL STATION - CONTINUOUS Thor and Hulk dismount the creature and stand together, breathing heavily. Suddenly, Hulk punches Thor out of shot. EXT. STARK TOWER ROOFTOP - DAY Selvig, having been knocked out when Tony tried to stop the Tesseract -- awakens. He looks around, he’s free from Loki’s control. EXT. GRAND CENTRAL 42ND STREET STATION - CONTINUOUS Army Tanks, and soldiers begin to arrive on scene. They shoot at the Chitauri, a little amazed of what is going on. EXT. OVERPASS BELOW STARK TOWER - CONTINUOUS Cap is on the ground, holding off a Chitauri’s weapon. He pushes the warrior off and onto sharp debris. As he stand-
+E: 3
+C: BARTON
+D: Captain, the bank on 42nd, past Madison. They cornered a lot of civilians in there.
+E: over earpiece
+C: CAPTAIN AMERICA
+D: I’m on it. Cap walks off. INT. 42ND STREET BANK - CONTINUOUS In the bank, a crown of civilians are surrounded by three armed warriors. Cap jumps through a window and begins to fight. He snaps the neck of one and throws him into the pit.
+C: CAPTAIN AMERICA
+D: Everyone clear out! He is then grabbed by a warrior, who he fights and breaks free. A grenade-like device goes off and it blasts Cap out a window and onto a car after his mask is pulled back from his face. He stands silently while police lead the civilians from the building. CONTINUED: 117.
+E: 2
+C: COUNCILWOMAN
+D: Director Fury. The council has made a decision. .. INT. BRIDGE, CARRIER - CONTINUOUS Fury is talking with the World Security Council over his command center.
+E: V.O
+C: FURY
+D: I recognize the council has made a decision, but given that it’s a stupid ass decision, I’ve elected to ignore it.
+E: angry
+C: COUNCILMAN
+D: Director, you’re closer than any of our subs, you scramble that jet- Hill is breathing nervously, panicking, as she listens and watches.
+C: FURY
+D: That is the island of Manhattan, Councilman.
+E: O.S angry
+C: FURY
+D: Until I’m certain my team can’t hold it, I will not order a nuclear strike against a civilian population.
+E: angry
+C: COUNCILMAN
+D: If we don’t hold them in the air, we lose everything.
+C: FURY
+D: I’d send that bird out, we already have. Fury hangs up on them. EXT. FLYING CHITAURI CRAFT - DAY Natasha on board a Chitauri craft. She is shot at from behind and turns to see Loki, on another craft, following behind. She continues on toward the building Barton is at. CONTINUED: 118.
+E: 2
+C: NATASHA
+D: Oh you! Hawkeye! EXT. TOP OF A BUILDING - CONTINUOUS Barton sees her coming in the distance.
+E: into radio
+C: BARTON
+D: Nat, what are you doing? BEGIN INTERCUT: NATASHA / BARTON
+C: NATASHA
+D: Uh, a little help! Barton nocks an arrow, waiting for Natasha and Loki to come past.
+C: BARTON
+D: I got it. Barton aims and fires. Loki catches the arrow inches from his face and looks first at it, then at Barton, smirking. The arrow explodes, sending Loki crashing onto the platform at the top of Stark Tower. END INTERCUT Natasha jumps off the craft. She flips in the air, landing onto... EXT. STARK TOWER ROOFTOP - CONTINUOUS ...the roof. She rolls, sticking the landing. She flips her hair back. EXT. STARK TOWER CATWALK - CONTINUOUS Loki looks up at Romanoff when Hulk leaps up, grabbing him and throwing him through the window of the penthouse. INT. PENTHOUSE, STARK TOWER - CONTINUOUS He roars and moves towards Loki, who gets to his feet.
+C: LOKI
+D: ENOUGH! You are, all of you, beneath me! I AM GOD, YOU DULL CREATURE, AND I WILL NOT BE BULLIED
+C: BY-
+D: CONTINUED: 119. Hulk grabs Loki by the feet and smashes him into the floor repeatedly, then throws him aside and walks away.
+E: 2
+C: HULK
+D: Puny God. Loki whimpers in pain. He has been beaten into submission. EXT. STARK TOWER ROOFTOP - CONTINUOUS Natasha walks toward the Tesseract.
+C: SELVIG
+D: The scepter. Natasha turns and walks over to Selvig.
+E: O.S
+C: NATASHA
+D: Doctor. She kneels.
+C: SELVIG
+D: Loki’s scepter, the energy- the Tesseract can’t fight. You can’t protect against yourself.
+C: NATASHA
+D: It’s not your fault. You didn’t know what you were doing.
+C: SELVIG
+D: Well, actually I think I did. I built in a safety to cut the power source.
+C: NATASHA
+D: Loki’s scepter.
+C: SELVIG
+D: It may be able to close the portal. And I’m looking right at it. Selvig looks down to the platform below, where Loki’s scepter lies dropped from when Hulk took him out. EXT. ABOVE STREETS OF MANHATTAN - CONTINUOUS Thor is aboard a craft, fighting Chitauri. The craft swerves when a Leviathan crashes through a building, followed closely by Stark, who is shooting at it with lasers
+C: ON IRON MAN:
+D: CONTINUED: 120.
+E: 2
+C: JARVIS
+D: Sir, we will lose power before we penetrate that shell. Iron Man pulls away from the Leviathan. He flies fast.
+C: INSIDE IRON MAN HELMET: TONY
+D: JARVIS, you ever hear the tale of Jonah?
+C: JARVIS
+D: I wouldn’t consider him a role model. BACK TO SCENE: Iron Man’s knee plates open, pushing out blades. He is heading directly toward the creature’s mouth. He flies through it. Blowing up the creature’s insides and out the tail end. He crashes to the ground but gets to his feet, only to be shot down again by warriors. EXT. TOP OF A BUILDING - CONTINUOUS Barton is attacked by warriors on the rook. He reaches for an arrow, but his quiver is empty. He instead uses the bow to fight them off. Looking up at the sky and seeing hundreds of approaching flying crafts, he pulls a single arrow from the body of a Chitauri and changes its head with the push of a button on his bow. In slo-mo, The Chitauri fire and Barton leaps off the building as it explodes, twisting in mid-air, then firing the arrow. Its head opens up into a grappling hook which attaches to the side of the building. Barton swings from the wire still attached to his bow and crashes through a window into a lower floor of the building. EXT. BUILDING ROOF - CONTINUOUS Hulk being attacked by Chitauri warriors. He throws them off and turns his attention to the sky, where dozens of crafts are flying over him, and roars. They all fire at once and Hulk is encompassed in smoke and flame. He roars. INT. FIGHTER JET - CONTINUOUS A jet is being lifted from the hangar and to the deck.
+C: COUNCILWOMAN
+D: Director Fury is no longer in command. Override seven-alpha-one-one. CONTINUED: 121.
+E: over radio 2
+C: JET PILOT
+D: Seven-alpha-one-one confirmed. We’re go for takeoff. INT. BRIDGE, CARRIER - CONTINUOUS Hill notices something on her command center.
+C: MARIA HILL
+D: SIR, WE HAVE A BIRD IN MOTION! Fury runs out of the bridge. Anyone on the deck we have a rogue bird. We need to shut it down! Repeat, takeoff is not authorized! EXT. DECK, CARRIER - CONTINUOUS Fury runs onto the deck with a missile launcher and fires, taking the plane out. A second jet takes off and Fury lifts his gun but it is too far. INT. PASSAGE TO DECK, CARRIER - CONTINUOUS Fury closes the door to the deck.
+E: to Fury into earpiece
+C: FURY
+D: Stark, you hear me? You have a missile headed straight for the city. EXT. STREET, MIDTOWN - CONTINUOUS Iron Man is down on the ground.
+C: IRON MAN
+D: How long?
+C: INSIDE IRON MAN HELMET: FURY
+D: Three minutes. Max. Stay load can wipe out mid-town.
+E: over radio
+C: TONY
+D: JARVIS, put everything we got into the thrusters.
+C: BACK TO SCENE:
+D: CONTINUED: 122.
+E: 2
+C: JARVIS
+D: I just did. Iron Man blasts away warriors and flies off elsewhere. EXT. FIGHTER JET - CONTINUOUS The jet fires the nuke towards the city and turns around.
+C: JET PILOT
+D: Package is sent. Detonation in two minutes, thirty seconds. Mark. EXT. NEW YORK CITY SKYLINE - DAY We DOLLY IN on the chaotic and destructive city. EXT. STREET - CONTINUOUS In slo-mo, Cap and Thor catch their respective hammer and shield. Cap and Thor turn and fight off Chitauri warriors. Cap is shot in the ribs and drops to the ground, Thor sends a car rolling towards some of them and them throws Mjolnir in the other way. He helps Captain to his feet.
+C: THOR
+D: You ready for another bout?
+C: STEVE
+D: What, you gettin’ sleepy? EXT. STARK TOWER ROOFTOP - CONTINUOUS Natasha has retrieved Loki’s scepter and Selvig is setting up his equipment. He points to the device.
+C: SELVIG
+D: Right at the crown! Natasha begins to push the spear through the barrier surrounding the cube, it’s hard to break.
+C: NATASHA
+D: I can close it. Can anybody copy? I can shut the portal down! EXT. STREET - CONTINUOUS Steve hears and reacts.
+E: into earpiece
+C: STEVE
+D: Do it!
+C: TONY
+D: No, wait.
+E: over Cap’s earpiece
+C: STEVE
+D: Stark, these things are still coming!
+C: INSIDE IRON MAN HELMET: TONY
+D: I got a nuke coming in, it’s gonna blow in less than a minute. EXT. VERRAZANO BRIDGE - CONTINUOUS Stark flies towards the missile, following closely behind it.
+E: DAY
+C: INSIDE IRON MAN HELMET: TONY
+D: And I know just where to put it.
+C: BACK TO SCENE:
+D: Iron Man grabs hold of it he begins to redirect it toward the city.
+C: INSIDE IRON MAN HELMET: STEVE
+D: Stark, you know that’s a one way trip.
+E: over radio
+C: TONY
+D: Save the rest for the turn J.
+C: JARVIS
+D: Sir, shall I try Miss Potts?
+C: TONY
+D: Might as well. EXT. STARK INDUSTRIES PRIVATE JET - CONTINUOUS A plane is slowly flying through the sky. INT. STARK INDUSTRIES PRIVATE JET - CONTINUOUS Pepper is watching the news with three others.
+C: REPORTER
+D: Streets in New York City have become a battle ground. The army is here trying to contain the violence but clearly it is outmatch- Her phone starts to vibrate but she ignores it. INT. BRIDGE, CARRIER - CONTINUOUS Fury and most of the other workers are watching the same report.
+E: V.O
+C: REPORTER
+D: ...Billionaire Tony Stark’s Iron Man- EXT. STREET BELOW STARK TOWER - CONTINUOUS
+E: V.O
+C: SERIES OF SHOTS:
+D: A) Iron Man is flying with the missile. B) INSIDE IRON MAN HELMET: Tony is thinking hard and hold. C)As Iron Man flies by, Thor and Cap look to the sky. D) Iron Man redirects the missile, barely missing Stark Tower, and pushes it up towards the portal. The rest of the Avengers look on. INT. BRIDGE, CARRIER - CONTINUOUS Everyone on the helicarrier cheers in excitement. Fury smiles. EXT. SPACE Iron Man is flying with the missile. B) INSIDE IRON MAN HELMET: Tony is thinking hard and hold. C)As Iron Man flies by, Thor and Cap look to the sky. D) Iron Man redirects the missile, barely missing Stark Tower, and pushes it up towards the portal. The rest of the Avengers look on. INT. BRIDGE, CARRIER - CONTINUOUS Everyone on the helicarrier cheers in excitement. Fury smiles. EXT. SPACE INSIDE IRON MAN HELMET: Tony is thinking hard and hold. C)As Iron Man flies by, Thor and Cap look to the sky. D) Iron Man redirects the missile, barely missing Stark Tower, and pushes it up towards the portal. The rest of the Avengers look on. INT. BRIDGE, CARRIER - CONTINUOUS Everyone on the helicarrier cheers in excitement. Fury smiles. EXT. SPACE As Iron Man flies by, Thor and Cap look to the sky. D) Iron Man redirects the missile, barely missing Stark Tower, and pushes it up towards the portal. The rest of the Avengers look on. INT. BRIDGE, CARRIER - CONTINUOUS Everyone on the helicarrier cheers in excitement. Fury smiles. EXT. SPACE Iron Man redirects the missile, barely missing Stark Tower, and pushes it up towards the portal. The rest of the Avengers look on. INT. BRIDGE, CARRIER - CONTINUOUS Everyone on the helicarrier cheers in excitement. Fury smiles. EXT. SPACE Iron Man lets the nuke go as all the lights in his suit go out.
+E: CONTINUOUS CONTINUOUS CONTINUOUS CONTINUOUS CONTINUOUS
+C: JARVIS
+D: Sorry, Miss- CONTINUED: 125. He watches as the missile hits the Chitauri mother ship and it explodes. CUTAWAY TO EARTH: The Chitauri warriors collapse, and the Leviathans fall from the sky. Thor and Cap look around as they do.
+E: cutting off 2
+C: BACK IN SPACE:
+D: Tony’s eyes close as he falls slowly toward the portal. EXT. STARK TOWER ROOFTOP - CONTINUOUS Natasha stands waiting.
+E: DAY
+C: NATASHA
+D: Come on, Stark. CUTAWAY TO CAP:
+C: STEVE
+D: Close it.
+C: BACK TO SCENE:
+D: Natasha plunges the scepter into the heart of the device. Just as the portal closes, Tony falls through back to earth. The Avengers look up and see Tony reappear.
+C: ON CAP AND THOR: STEVE
+D: Son of a gun! Iron Man plummets to the ground.
+C: THOR
+D: He’s not slowing down. Thor prepares to fly at Stark and catch him when the Hulk grabs him out of the air, slides down the side of a building and crashes to the ground in front of Thor and Cap. Hulk throws Iron Man off him and Thor and Cap run over. Thor pulls off Iron Man’s face plate and Cap listens for a heartbeat, then sees the arc reactor is not glowing. Suddenly the Hulk roars and beats his chest. Tony, shocked, gasps and opens his eyes, looking around. CONTINUED: 126.
+E: 2
+C: TONY
+D: What the hell? What just happened? Please tell me nobody kissed me.
+C: STEVE
+D: We won.
+C: TONY
+D: Alright, Hey. Alright. Good job, guys. Let’s just not come in tomorrow. Let’s just take a day. You ever tried shawarma? There’s a shawarma joint about two blocks from here. I don’t know what it is, but I wanna try it.
+C: THOR
+D: We’re not finished yet.
+C: TONY
+D: And then shawarma after? INT. PENTHOUSE, STARK TOWER - CONTINUOUS Loki crawls over to a stair and turns to see the Avengers surrounding him. Hawkeye has an arrow aimed at his face. Natasha is holding his scepter. Hulk growls.
+C: LOKI
+D: If it’s all the same to you, I’ll have that drink now. EXT. CENTRAL PARK, NEW YORK SKYLINE - EARLY EVENING We slowly DOLLY OVER Central Park, PULLING TOWARD the city of New York.
+C: MALE REPORTER
+D: Despite the dev... INT. DARK ROOM, CARRIER - CONTINUOUS There is a montage of shots from television news. The dialogue speaking....
+E: V.O
+C: MALE REPORTER
+D: ...devastation of what has been confirmed as an extraterrestrial attack, the extraordinary heroics of the group known as the Avengers- CONTINUED: 127.
+E: 2
+C: MALE CITIZEN
+D: It’s really great knowing they’re out there, you know. That someone’s watching over us.
+C: FEMALE CITIZEN
+D: I love you, Thor!
+C: HUSBAND
+D: I just don’t feel safe with those thing out there.
+C: WIFE
+D: It seems like there’s a lot they’re not telling us.
+C: STAN LEE
+D: Superheroes? In New York? Give me a break!
+C: THE SENATOR
+D: These so called heroes have to be held responsible for the destruction done to the city. This was their fight. Where are they now? EXT. CENTRAL PARK - CONTINUOUS The Avengers and Selvig all walk to the center of a footbridge. Tony is carrying a briefcase, Thor has Loki in a muzzle and handcuffs, Barton, Natasha, Banner, and Steve walk from cars.
+C: REPORTER
+D: Tough questions are being asked about the Avengers themselves, their sudden appearance and equally sudden disappearance.
+E: V.O
+C: WAITRESS
+D: What, that this is all somehow their fault? INT. DARK ROOM, CARRIER - CONTINUOUS On Fury’s screen is the WAITRESS talking on CNN.
+E: V.O
+C: WAITRESS
+D: Captain America saved my life. Wherever he is, and wherever any of them are, I would just- I would wanna say thank you. CONTINUED: 128. On the four screens above are the coucil members. COUNCILMAN 2 Where are the Avengers?
+E: 2
+C: FURY
+D: I’m not currently tracking their whereabouts. I’d say they’ve earned a leave of absence.
+C: COUNCILWOMAN
+D: And the Tesseract? CUTAWAY TO CENTRAL PARK: Selvig take a glass cylinder out of a truck. Tony opens his case, which is on the ground. Banner holds the Cube with some tongs and puts it into the glass cylinder Selvig has. Over this footage...
+E: O.S
+C: FURY
+D: The Tesseract is where belongs...out of our reach.
+E: V.O
+C: BACK TO SCENE: COUNCILMAN
+D: That’s not your call.
+C: FURY
+D: I didn’t make it. I just didn’t argue with the god that did. CUT BACK TO CENTRAL PARK: Thor is smiling as he shakes hands and says goodbye to Selvig.
+C: COUNCILMAN
+D: So you let him take it... Loki is bound and gagged in the muzzle, he is mad. As he looks upon Natasha, she whispers something into Barton’s ear that makes him smile.
+E: V.O
+C: COUNCILMAN
+D: and the war criminal Loki, who should be answering for his crime.
+E: V.O
+C: FURY
+D: Oh I think he will be. CONTINUED: 129. Thor holds the cylinder that has the Tesseract in it. He gestures it to Loki, who grabs one end of the cylinder and Thor has the other, he nods to the others and twists the device, which lights up and the two vanish into the sky as the group looks on. In front of Tony’s new car, Steve and him shake hands.
+E: V.O 3
+C: COUNCILWOMAN
+D: I don’t think you understand what you’ve started... Natasha takes a duffel bag out of the backseat of a SHIELD car. She hands it to Banner as Barton heads to the driver’s seat.
+E: V.O
+C: COUNCILWOMAN
+D: ...letting The Avengers loose on this world. They’re dangerous. Banner and Tony get into his new car and drive off
+E: V.O CONT’D
+C: FURY
+D: They surely are, and the whole world knows it. BACK TO DARK ROOM WITH FURY:
+E: V.O
+C: FURY
+D: Every world knows it!
+C: COUNCILMAN
+D: Was that the point in all this? A statement. CUTAWAY TO STEVE: Steve is riding a motorcycle. He smiles.
+C: FURY
+D: A promise .
+E: V.O
+C: BACK TO FURY:
+D: The council signs off and Fury exits the room.
+C: MARIA HILL
+D: Sir, how does it work now...? INT. BRIDGE, CARRIER - CONTINUOUS Hill and Fury make their way across the bridge while talking.
+E: V.O EARLY EVENING
+C: MARIA HILL
+D: ...They’ve gone their separate ways, some pretty extremely far. We get into a situation like this again, what happens then?
+C: FURY
+D: They’ll come back! The reach the air deck.
+C: MARIA HILL
+D: Really sure about that?
+C: FURY
+D: I am. Fury looks out over the helicarrier.
+C: MARIA HILL
+D: Why?
+C: FURY
+D: Because we’ll need them to. Hill nods, in respect. She turns and walks back over the bridge and takes a folder from a SHIELD agent. Fury stands proud on the air deck. INT. PENTHOUSE, STARK TOWER - CONTINUOUS Pepper and Stark are looking at plans for a new tower. THE CAMERA slowly PULLS OUT... EXT. STARK TOWER - CONTINUOUS The huge STARK on the side of the tower has been destroyed, save for the letter "A". CUT TO BLACK.
+C: CREDITS.
+D: EXT. UNKNOWN AREA OF SPACE The Other kneels at the feet of another alien.
+C: THE OTHER
+D: The humans, they are not the cowering wretches we were promised. They stand. They are unruly and therefore cannot be ruled. DISEMBODIED FIGURE in a chair stands. The Other bows, like he is in pain.
+C: THE OTHER
+D: To challenge them, is to court Death. DISEMBODIED FIGURE turns and smiles, revealing himself to be the mad titan himself-
+E: CONT’D
+C: THANOS. CREDITS ROLL.
+D: INT. SHAWARMA JOINT - DAY The Avengers are sitting around a table, eating, stuffing their faces. They are silent, no one makes a peep. The workers are cleaning up this destroyed place. The place is silent. FADE BLACK.
+N: THE END.

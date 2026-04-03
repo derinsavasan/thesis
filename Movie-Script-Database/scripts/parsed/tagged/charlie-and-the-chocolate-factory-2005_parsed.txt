@@ -1,0 +1,1778 @@
+M: Charlie and the Chocolate Factory
+M: screenplay by
+M: John August
+M: based on the book by
+M: Roald Dahl
+M: WHITE DRAFT
+M: March 11, 2004
+M: NOTE: This script is formatted for U.S. 8 1/2 by 11 inch paper.
+M: On A4 paper, there are wider margins on the top and bottom.
+T: FADE IN
+N: As OPENING TITLES begin, we find ourselves in a swirl of 1 1 liquid chocolate, spinning clockwise down a funnel. The accompanying MUSIC is jaunty but mysterious -- we're clearly in for a ride. We emerge as the chocolate pours into a mold, one of hundreds inching along a conveyor belt. This isn't any ordinary factory. Bathed in amber light, the machinery is ornate and polished, with shiny brass joints and spindly levers. Complicated gears tug on oiled canvas ropes, slipping through swinging pulleys. As the chocolate bars continue along the belt, great bellows swell and gently PUFF on them. A moment later, a press SLAMS down, lifting to reveal the word it has imprinted: W O N K A Still moving, we look back along the belt as hundreds of bars line up to be stamped. The molds suddenly flip over, dumping each bar onto its own set of wire fingers. These “hands” zip straight up along an elevator track. We RISE with them, a good hundred feet up, getting a bird's eye view of the factory floor. It's quite dark except for the golden lights right along the machinery itself. Strangely, we don't see a single person working. As the chocolate reaches the tip-top of the track, a mechanical arm THWACKS a small package to the underside of each bar. Just as suddenly, the track flings each bar over the top. The candy bars plummet in free-fall, until the tiny packages pop open, revealing parachutes. Their descent slows until a pair of giant scissors deftly SNIPS the strings on each chute, leaving the candy to drop onto another conveyor belt. Each piece of chocolate lands perfectly square on its own sheet of foil paper. Looking ahead, we can see the machine that bends the foil around the chocolate. But before we get there,
+C: A HUMAN HAND
+D: reaches in and lifts five bars off the belt. We only see this man's hands and the cuffs of his velvet jacket as he sets a thin
+C: GOLDEN TICKET
+D: on the back of each of the bars. One by one, he places these five special bars back in the queue, where the foil-folding machine does its job, perfectly encasing each piece. Another device attaches the paper wrapper, printed to read:
+C: WONKA BAR.
+D: Further down the belt, we find stacking and sorting machines loading up boxes and cases of bars. A mechanical stamp THUMPS down on each cardboard box, marking its final destination: TOKYO, SPRINGFIELD, BRIGHTON, ADDIS ABABA. CUT TO: EXT. LOADING DOCK - DAY2 2 Huge snowflakes drift down out of an icy sky that is the color of steel. WORKMEN load pallets of Wonka candy onto waiting trucks. It's hard to say what time it is, exactly: there’s no sun to be found, and the streetlights are always on. For that matter, it's hard to say what year it is. From the trucks, to the clothes, to the typeface on the clipboard, the world seems to exist outside of ordinary calendars. All we can be certain of is that it's winter. The last container loaded, the FOREMAN bangs on the side of the lead truck. The convoy moves out. WIDER3 3 We see the trucks are parked along the wall of the Wonka factory. The loading area is outside of the factory itself. As the trucks RUMBLE down the snowy street, they attract the attention of a WOMAN WITH A PRAM, A SALESMAN WITH A SCARF, and a ten-year old boy named CHARLIE BUCKET, who is on his way home from school. We FOCUS IN on Charlie as he watches the procession.
+C: NARRATOR
+D: This is the story of an ordinary little boy named Charlie Bucket. He was not faster, or stronger, or more clever than other children. Indeed, Charlie is barely strong enough to stand in the wind. He'd be the runt of the litter if he had any brothers or sisters. As the Wonka trucks go by, Charlie wipes his runny nose with his mitten.
+E: V.O. MORE
+C: NARRATOR
+D: His family was not rich, or powerful, or well-connected. In fact, they barely had enough to eat. After the last truck passes, Charlie continues walking home to a tiny DILAPIDATED HOUSE 4 4 built just feet from the road.
+E: V.O. CONT'D
+C: NARRATOR
+D: Yet Charlie Bucket was the luckiest boy in the entire world. He just didn't know it yet. Charlie stomps the snow off his feet and goes inside. We pull back VERY WIDE to find the shack house is just a stone's throw from the massive Wonka factory -- its shadow literally falls across the tiny house.
+E: V.O.
+C: TITLE OVER:
+D: Charlie and the Chocolate Factory INT. THE LITTLE HOUSE - NIGHT5 5 Flakes of snow drift in through cracks in the roof, falling down on Charlie, who is doing his homework at the kitchen table. Ever-practical, he opens an umbrella for protection and keeps right on working. Meanwhile, his MOTHER chops cabbage for the soup pot. Mother Bucket is an ever-exhausted woman in her late 30's, run ragged from taking care of Charlie and the four invalid grandparents. Many nights, she's too tired to worry, and too worried to sleep. CONTINUED:3 3
+C: NARRATOR
+D: There are only two rooms in this place altogether. This main room is the kitchen, the family room, the foyer, the closet and the bedroom for Charlie and his parents. The front door swings open, revealing Charlie's FATHER, a lanky, hard-working man in his late 30's who manages to be grateful for his blessings, however slight they are.
+E: V.O. CONT'D
+C: FATHER
+D: Evening, Buckets!
+C: CHARLIE
+D: Hi, Dad!
+C: MOTHER
+D: The soup’s almost ready. I don’t suppose there’s anything extra to put... Off her husband’s look, there’s clearly no more food coming. Ever chipper...
+C: MOTHER
+D: Well. Nothing goes better with cabbage than cabbage. She begins to chop up another head.
+E: CONT’D
+C: FATHER
+D: Charlie, I found something I think you'll like! He empties out his coat pockets on the table, revealing a handful of small white plastic caps. With a gasp, Charlie's eyes go wide as he picks one out of the pile. CUT TO: INT. TOOTHPASTE FACTORY - DAY [PAST]6 6 Plump tubes of uncapped toothpaste slide along a conveyor belt.
+C: NARRATOR
+D: Charlie's father worked in the local toothpaste factory. As each tube moves past, Father frantically screws on a cap. It's a needlessly rushed and tedious job. CONTINUED:5 5
+E: V.O.
+C: NARRATOR
+D: The hours were long, and the pay was terrible. Yet occasionally, there were unexpected surprises. One of Father's plastic caps won't screw on right. He holds it up for a closer look, and finds that it's misshapen. In fact, it looks something like a human head.
+E: V.O. CONT'D
+C: FATHER
+D: Huh. MATCH CUT TO: INT. THE LITTLE HOUSE - NIGHT7 7 Charlie holds the same little plastic cap.
+C: CHARLIE
+D: It's exactly what I need! Excited, he runs into the other room. INT. GRANDPARENTS’ BEDROOM - NIGHT8 8 The room’s one bed is dedicated to the four grandparents, because they are so old and tired -- they never get out of it. Two face one direction; two face the other. They are as shriveled as prunes and as bony as skeletons. Charlie dives under the bed, digging for something. The old people look over the edge of the bed, but all they see are Charlie’s feet sticking out. GRANDPA JOE is 96-years old, yet still approaches life with childlike zeal and optimism. He’s always quick to excite:
+C: GRANDPA JOE
+D: What is it, Charlie?
+C: GRANDPA GEORGE
+D: House on fire?
+C: GRANDMA GEORGINA
+D: Fire, where?
+E: panicked
+C: GRANDMA JOSEPHINE
+D: Nowhere, dear. CONTINUED:6 6 GRANDMA JOSEPHINE is Joe's compassionate wife, with a knack for spotting what's truly important. GRANDPA GEORGE is a loving curmudgeon, able to spot storm clouds on the sunniest day. GRANDMA GEORGINA is a bit deaf and daft. She'd lose her dentures if they weren't glued to her gums. Charlie scoots back out from under the bed.
+C: CHARLIE
+D: Dad found it! Just the piece I needed! Charlie pulls out an ugly-beautiful scale model of the Wonka factory, constructed entirely from deformed toothpaste caps. Holding it carefully, he climbs to the middle of the grandparents’ bed. Through the bedroom window, we can see the real Wonka factory in the background. Charlie’s model is a remarkable facsimile.
+C: GRANDPA JOE
+D: What piece was it?
+C: CHARLIE
+D: A head for Willy Wonka! Charlie shows them the figure he’s just assembled: a twisted pipe-cleaner topped with the melted plastic head.
+C: GRANDMA JOSEPHINE
+D: How wonderful!
+C: GRANDPA JOE
+D: It's quite a likeness.
+C: CHARLIE
+D: You think so?
+C: GRANDPA JOE
+D: Think so? I know so. I saw Willy Wonka with my own two eyes. I used to work for him, you know.
+C: CHARLIE
+D: You did?
+C: GRANDPA JOE
+D: I did! CONTINUED:8 8
+C: GRANDMA JOSEPHINE
+D: He did!
+C: GRANDPA GEORGE
+D: He did.
+C: GRANDMA GEORGINA
+D: I love grapes!
+C: GRANDPA JOE
+D: Of course, I was a much younger man in those days. CUT TO: INT. WONKA CANDY STORE - DAY [TWENTY YEARS AGO]9 9 CLOSE ON Grandpa Joe. He’s 76, but still looks just as old. As we PULL OUT, we reveal that he’s working the main counter. The tiny store is overflowing with candy, filling the glass cases and every shelf around. It’s also crowded with DOZEN OF CUSTOMERS, all pushing and shoving to buy some of Wonka’s fabulous candy. We can see a line stretching out the door.
+E: ignoring
+C: GRANDPA JOE
+D: Willy Wonka began with a single store on Cherry Street. But the whole world wanted his candy. Grandpa Joe finds he’s out of the bars he needs to finish an order. He ducks through a low door, heading into... INT. CANDY STORE BACK ROOM - DAY [TWENTY YEARS AGO]10 10 The back room is a beehive of activity, with apron-wearing WORKERS carrying trays of freshly-made candy from the ovens to the racks, from racks to the wrapping tables. SUGAR- PULLERS whack heavy ropes of peppermint candy again marble slabs, while a clothesline full of giant lollipops WHIZZES past. Grandpa Joe walks up behind a MAN wearing a velvet jacket.
+E: V.O.
+C: GRANDPA JOE
+D: Mr. Wonka! CONTINUED: 8 8 The man, Willy Wonka himself, turns to him. Wonka is holding various panes of translucent colored candy in front of his face, so we can’t quite make out what he looks like.
+E: 2 In fact, it will be a while before we see Willy Wonka straight-on.
+C: WONKA
+D: Lickable glass! Do you like it? Who wouldn’t?! Picture this: You’re in church, another boring Sunday sermon. Temperance, humility, the usual. Then suddenly... He licks the candy-glass from the far side.
+C: WONKA
+D: Mmmm, inspiration! I tell you, we’ll fill the pews week after week.
+E: CONT’D
+C: GRANDPA JOE
+D: Mr. Wonka, we’re out of chocolate birds.
+C: WONKA
+D: Birds, birds. We’ll need to make more. I know! He holds up a light-blue bird’s egg with tiny black spots. Candy, evidently. He pops it into Grandpa Joe’s mouth. CLOSE ON Grandpa Joe as he experiences a strange but tasty sensation.
+C: WONKA
+D: Now, open! Grandpa Joe opens his mouth to reveal the egg has melted away completely, leaving just a sugary pink baby bird sitting on the tip of his tongue.
+E: CONT’D
+C: BACK TO:
+D: INT. GRANDPARENTS’ BEDROOM - NIGHT11 11 Grandpa Joe continues telling his story to Charlie. CONTINUED:10 10
+C: GRANDPA JOE
+D: The man was a genius! Did you know, he invented a new way of making chocolate ice cream so that it stays cold for hours without a freezer. You can even leave it lying in the sun on a hot day and it won't go runny!
+C: CHARLIE
+D: But that's impossible.
+C: GRANDPA GEORGE
+D: Of course it's impossible! It's completely absurd!
+C: GRANDPA JOE
+D: But Willy Wonka did it! CUT TO: EXT. WONKA FACTORY GATES - DAY [FIFTEEN YEARS AGO]12 12 A CHEERING CROWD is gathered on a beautiful spring day for the grand opening ceremony.
+C: GRANDPA JOE
+D: Before long, he decided to build a proper chocolate factory -- the largest chocolate factory in history, fifty times as big as any other! With giant scissors, Wonka slices a fat red ribbon. One of the ribbon ends flutters up, obscuring Wonka’s face yet again. We come upon Grandpa Joe and Grandma Josephine, CHEERING in the crowd. Caught up in the moment, the old people kiss.
+E: V.O.
+C: CHARLIE
+D: Eww!
+E: PRE-LAP
+C: BACK TO:
+D: INT. THE GRANDPARENTS’ BEDROOM - NIGHT13 13 Charlie finds this disgusting. CONTINUED:11 11
+C: CHARLIE
+D: Grandpa! Don’t make it gross.
+C: GRANDMA JOSEPHINE
+D: Tell him about the Indian prince. He'd like to hear that.
+C: GRANDPA JOE
+D: You mean Prince Pondicherry?
+C: GRANDPA GEORGE
+D: Completely dotty!
+C: GRANDMA GEORGINA
+D: I am not!
+C: GRANDMA JOSEPHINE
+D: Of course you aren’t, dear. Mother and Father enter with bowls of soup for the old people.
+C: GRANDPA JOE
+D: Well, Prince Pondicherry wrote a letter to Mr. Wonka and asked him to come all the way out to India and build him a colossal palace entirely out of chocolate. CUT TO: EXT. DELHI, INDIA - DAY [FIFTEEN YEARS AGO]14 14 Wonka’s hand smooths out the blueprints for a massive structure, complete with curvy onion domes and twisted columns. He’s talking to PRINCE PONDICHERRY.
+C: WONKA’S VOICE
+D: It will have one hundred rooms, and everything will be made of either dark or light chocolate! Going WIDER, we reveal that we’re on a sandy knoll overlooking the construction site, where hundreds of WORKERS are toiling. CONTINUED:13 13 EXT. A HALF-BUILT WALL - DAY [FIFTEEN YEARS AGO]15 15 A MASON unwraps a giant chocolate bar, spreading ganache on the back with a trowel. He carefully sets this “brick” in place.
+C: GRANDPA JOE
+D: True to his word, the bricks were chocolate, and the cement holding them together was chocolate. All the walls and ceilings were made of chocolate as well. INT. PALACE BEDROOM - DAY [FIFTEEN YEARS AGO]16 16 We MOVE THROUGH the room, which is decorated entirely in shades of brown and cream, headed towards the master bath.
+E: V.O.
+C: GRANDPA JOE
+D: So were the carpets and the pictures and the furniture. And when you turned on the taps in the bathroom...
+C: WONKA’S HAND
+D: turns the faucet. Steaming cocoa comes out.
+C: WONKA’S VOICE
+D: Hot chocolate. Precisely the most delicious temperature. He’s talking to Prince Pondicherry, who looks on in wonder.
+C: PRINCE PONDICHERRY
+D: It is perfect in every way.
+C: WONKA'S VOICE
+D: I warn you though, it won't last long. You'd better start eating right away.
+C: PRINCE PONDICHERRY
+D: Nonsense! I will not eat my palace! I intend to live in it!
+E: grandly
+C: GRANDPA JOE
+D: But Mr. Wonka was right, of course. Soon after this, there came a very hot day with a boiling sun. INT. PALACE BEDROOM - DAY [FIFTEEN YEARS AGO]17 17 The Prince and his lovely PRINCESS are reclining on chocolate divans, eating packaged Wonka candies when a brown
+E: V.O.
+C: DRIP
+D: lands on the Prince’s forehead. He wipes it off, and smiles at his beautiful bride. A beat later, a sizable CLUMP of chocolate whacks the prince on the side of the head. Both royals hightail it as the entire room begins to collapse around them. Like a delicious, fudgy disaster movie, the two royals barely escape as walls and pillars come CRASHING down. EXT. THE KNOLL - DAY [FIFTEEN YEARS AGO]18 18 Covered with chocolate goo, Prince Pondicherry watches as his dream disintegrates into a brown puddle.
+C: GRANDPA JOE
+D: The prince sent an urgent telegram requesting a new palace, but Mr. Wonka was facing problems of his own. EXT. FACTORY GATES - DAY [FIFTEEN YEARS AGO]19 19 Done for the day, one shift of FACTORY WORKERS heads home. We see Grandpa Joe walking with two FRIENDS, laughing at a joke. Behind them, a SHIFTY-EYED WORKER surreptitiously hands off
+E: V.O.
+C: A SLIP OF PAPER
+D: to a nearby bush, where a man’s hand reaches out to grab it.
+C: GRANDPA JOE
+D: All the other chocolate makers, you see, had grown jealous of Mr. Wonka. They began sending in spies to steal his secret recipes. CONTINUED:16 16 EXT. CHERRY STREET - DAY [FIFTEEN YEARS AGO]20 20 Near the original Wonka store, we find SIDEWALK VENDORS selling their cheap knock-offs.
+E: V.O.
+C: GRANDPA JOE
+D: Fickelgruber's factory started making an ice cream that would never melt. Indeed, the FICKELGRUBER MAN holds a magnifying glass above a cone of chocolate swirl, with nary an effect. Further on...
+E: V.O.
+C: GRANDPA JOE
+D: Prodnose's factory came out with a chewing gum that never lost its flavor. The PRODNOSE VENDOR hands out sticks of “Evergreen Wintergreen Gum” to PASSERSBY. We continue moving down the street.
+E: V.O. CONT’D
+C: GRANDPA JOE
+D: Then Slugworth's factory began making candy balloons that you could blow up to incredible sizes. The SLUGWORTH SALESMAN is surrounded by CHILDREN who blow impossibly large balloons -- bigger than their entire bodies. He POPS each balloon, leaving a mess of goo and happy, sticky kids. EXT. FACTORY GATES - DAY [FIFTEEN YEARS AGO]21 21 Grandpa Joe and a CROWD of stunned workers watch as the giant gates swing shut.
+E: V.O. CONT’D
+C: GRANDPA JOE
+D: The thievery got so bad that one day, without warning, Mr. Wonka told every single one of his workers to leave, to go home, never to come back. A thick chain slides around the bars of the gates, locked from the inside.
+E: V.O.
+C: GRANDPA JOE
+D: He announced that he was closing his chocolate factory forever.
+E: V.O. CONT’D
+C: BACK TO:
+D: INT. THE GRANDPARENTS’ BEDROOM - NIGHT22 22 The Grandparents are slurping their soup, as is Charlie. His Mother and Father have pulled up chairs to the edge of the bed, so the whole family can eat together.
+C: CHARLIE
+D: But it didn’t close forever. It’s open right now.
+E: confused
+C: MOTHER
+D: Sometimes, when grownups say “forever,” they mean “a very long time.”
+C: GRANDPA GEORGE
+D: Such as, “I feel like I’ve eaten nothing but cabbage soup forever.”
+C: FATHER
+D: Now, Pop...
+C: GRANDMA JOSEPHINE
+D: The factory did close, Charlie.
+C: GRANDPA JOE
+D: And it seemed like it was going to be closed forever. Then, one day, we saw smoke rising from the chimneys. The factory was back in business.
+C: CHARLIE
+D: Did you get your job back?
+C: GRANDPA JOE
+D: No. No one did.
+C: CHARLIE
+D: But there must be people working there... CONTINUED:21 21
+C: GRANDMA JOSEPHINE
+D: Think about it, Charlie. Have you ever seen a single person going into that factory -- or coming out?
+C: CHARLIE
+D: No. The gates are always closed.
+C: GRANDPA JOE
+D: Exactly!
+C: CHARLIE
+D: But then, who’s running the machines?
+C: MOTHER
+D: Nobody knows, Charlie.
+C: FATHER
+D: It sure is a mystery.
+C: CHARLIE
+D: Hasn't someone asked Mr. Wonka?
+C: GRANDPA JOE
+D: Nobody sees him anymore. He never comes out. The only thing that comes out of that place is the candy, already packed and addressed. I’d give anything in the world just to go in one more time, and see what’s become of that amazing factory. A beat. Everyone nods sympathetically. All except --
+E: wistful
+C: GRANDPA GEORGE
+D: Well you won’t, because you can’t! No one can! It’s a mystery and it will always be a mystery! That little factory of yours, Charlie, is as close as any of us is ever going to get. He hands off his soup bowl to Father. Reluctantly, Mother and Father gather the rest of the empty bowls.
+C: MOTHER
+D: Come on, Charlie. We should let your grandparents get some sleep. CONTINUED:22 22 Charlie says his goodnights, giving each old person a hug. He saves his last for loopy Grandma Georgina. With sudden clarity, she WHISPERS to him...
+C: GRANDMA GEORGINA
+D: Nothing’s impossible, Charlie. Nothing. Charlie gives her a strange look as he follows his parents out of the room. With one last look back, he switches off the light. INT. CHARLIE’S LOFT - DAY A23 A23 Charlie climbs up into his little bed, which is set up in the rafters of the tiny, sway-backed house. The sloped ceiling is covered with fanciful sketches of Wonka’s factory, and flattened wrappers from the few Wonka bars Charlie’s eaten. He looks out through a small round window. The Wonka factory dominates the view.
+C: NARRATOR
+D: Indeed, that very night, the impossible had already been set in motion. We PUSH THROUGH the window... EXT. THE LITTLE HOUSE - NIGHT23 23 ...flying up like a bat. We drift along the stone walls of the Wonka factory, coming to the far corner. There, on an empty snow-lined street, we find A YOUNG MAN ON A BICYCLE. He’s dressed in wool, with a messenger bag over his shoulder. And he’s not alone. There are DOZENS of bicyclists, all identically dressed, riding in a phalanx through the night. As they reach an intersection, they branch off in different directions, headed for each part of the city. EXT. CHERRY STREET - NIGHT24 24 The shops are all closed for the night. The street is quiet, until we hear the gentle TAPPING of hammers. CONTINUED: 22 22 All the way down the wet cobblestone street, the BICYCLE MEN are attaching signs to posts and clapboard walls. It’s too shadowy to read what the signs say. Finished, the men ride off like ghosts. As we watch... NIGHT BECOMES DAY.25 25 We CREEP IN as one, two, then fifteen TOWNSPEOPLE crowd around to read one of the mysterious -- and wordy -- signs. Short little Charlie Bucket squeezes his way to the front and begins reading. VARIOUS SHOTS of the sign and the many readers:
+E: V.O. 2
+C: WONKA’S VOICE
+D: Dear People of the World: I, Willy Wonka, have decided to allow five children to visit my factory this year. These lucky five will be shown around personally by me, and will learn all the secrets and the magic of my factory. CUT TO: EXT. WONKA FACTORY GATES - DAY26 26 A TELEVISION REPORTER does a live feed, reading from the proclamation.
+E: Like all the technology we encounter, the camera and microphone feel somewhat vintage.
+C: TELEVISION REPORTER
+D: Five Golden Tickets have been hidden underneath the ordinary wrapping paper of five ordinary Wonka bars. These five candy bars may be anywhere -- in any shop in any street in any town in any country in the world. INT. A CANDY STORE IN TOKYO - DAY 27 27 A mob scene as JAPANESE SCHOOLGIRLS buy every Wonka bar in sight. It looks like a piranha feeding frenzy. CONTINUED:24 24
+E: reading
+C: WONKA’S VOICE
+D: In addition, one of these children shall receive a special prize beyond anything you could ever imagine. Good luck to you all, and happy hunting! The schoolgirls depart, leaving a dazed CANDY STORE OWNER and empty shelves. INT. GRANDPARENTS’ BEDROOM - DAY28 28 Grandpa Joe has just heard the news from Charlie.
+C: GRANDPA JOE
+D: Wouldn't it be something, Charlie, to open a bar of candy and see a Golden Ticket inside!
+C: CHARLIE
+D: I know! But I only get one bar a year, for my birthday. His mother is listening from the doorway.
+C: MOTHER
+D: It's your birthday next week.
+C: GRANDMA JOSEPHINE
+D: You have as much chance as anybody does.
+C: GRANDPA GEORGE
+D: Baldersnap! The kids who are going to find the Golden Tickets are the ones who can afford to buy candy bars every day. Our Charlie gets only one a year! He doesn't have a chance!
+C: GRANDMA JOSEPHINE
+D: Everyone has a chance, Charlie.
+C: GRANDPA GEORGE
+D: Mark my words: The kid who finds the first ticket will be fat, fat, fat. CUT TO: CONTINUED:27 27 A STYLIZED, VINTAGE GLOBE29 29 spins beneath us. As it slows, we SWOOP IN on Europe, where a pin-marker reads: “DÜSSELDORF.” CUT TO: INT. GERMAN SAUSAGE SHOP - DAY30 30 AUGUSTUS GLOOP is so enormously fat he looks as though he has been blown up with a powerful pump. Great flabby folds of fat bulge out from every part of his body. His face resembles a monstrous ball of dough with two small greedy raisin eyes peering out upon the world. Augustus is telling his story to a pack of REPORTERS.
+E: 9
+C: AUGUSTUS
+D: I am eating ze Vonka bar, und I taste something that is not chocolate or coconut or valnut or peanut butter or nougat... As he talks, we INTERCUT with... FLASHBACK FOOTAGE31 31 of Augustus trying to figure out what the taste in his mouth is. BACK TO SCENE32 32
+C: AUGUSTUS
+D: ...or butterbrittle or caramel or schprinkels, zo I look und I find ze Golden Ticket. He holds it up. Indeed, there are teeth marks on it.
+C: REPORTER
+D: Augustus, how did you celebrate?
+C: AUGUSTUS
+D: I eat more candy! CUT TO: THE GLOOP PARENTS.33 33 They’re standing behind the sausage counter. MR. GLOOP, a barrel-chested man with a handlebar mustache, is twisting bratwurst links as they come out of the casing machine. MRS. GLOOP, a bubbly woman who knits all her own sweaters, talks to the reporters. In the background, Augustus is eating another candy bar.
+C: MRS. GLOOP
+D: Vee knew Augustus vould find a Golden Ticket. He eats so many candy bars a day, that it was not possible for him not to find one.
+C: CLOSE ON AUGUSTUS
+D: He smiles, his mouth ringed with chocolate. Off a photographer’s FLASH, we... CUT TO: INT. GRANDPARENTS’ BEDROOM - DAY34 34
+C: GRANDPA GEORGE
+D: Told you it would be a porker! Grandpa George hands a tattered newspaper back to Charlie. The front page has the photo of porcine Augustus Gloop.
+C: GRANDMA JOSEPHINE
+D: What a repulsive boy.
+C: CHARLIE
+D: Only four Golden Tickets left.
+C: GRANDPA JOE
+D: Now that they’ve found one, it’ll really get crazy. CUT TO: INT. BOUTIQUE DEPARTMENT STORE - DAY35 35 The kind of place that would never sell candy -- normally. Now fully grown WOMEN buy ten Wonka candy bars at a time, then tear off the wrappers on the spot to search for a glint of golden paper. INT. SOME KID’S BEDROOM - DAY36 36 A BOY and GIRL smash their piggy banks with hammers. EXT. BACK ROOM - DAY37 37 A BOXCUTTER slices through a cardboard Wonka shipping box. Twenty hands reach in to grab the bars. INT. PALO ALTO SUPERMARKET - DAY 38 38 A famous scientist, PROFESSOR FOULBODY, demonstrates his brilliant machine to excited SHOPPERS and members of the
+C: PRESS. PROFESSOR FOULBODY
+D: My device will find a Golden Ticket without even opening the wrapper. He switches it on. The machine’s mechanical arm shoots out with tremendous force, grabbing at Wonka bars on the shelf. It picks up each one, then tosses it aside. Repeating the process at remarkable speed.
+C: PROFESSOR FOULBODY
+D: The sophisticated sensors can detect even tiny amounts of gold. Indeed, the arm picks up a small gold coin hidden among the bars, depositing it into a little bin. The crowd APPLAUDS. Finished with the shelf, the arm whips around. It isn’t finished yet. We FOCUS IN on a WOMAN’S GOLD NECKLACE. She SCREAMS as the arm yanks her necklace off, placing it in the bin.
+E: CONT’D
+C: PROFESSOR FOULBODY
+D: Oh, dear! The crowd panics, trying to scoot back. We look into ONE MAN’S screaming mouth, spotting the glint of a GOLD FILLING. The machine sees it, too. It grabs the poor man by the jaw, pulling him into the bin. CUT TO: THE VINTAGE GLOBE39 39 spinning once again. This time, we land on England, and a marker labelled: “BUCKINGHAMSHIRE.” CUT TO: INT. COUNTRY MANSION - DAY40 40 VERUCA SALT stands atop a grand piano, waving the Golden Ticket above her head as she grins from ear to ear. She’s delighted to have so many PHOTOGRAPHERS snapping her picture.
+E: CONT’D 9
+C: VERUCA
+D: V-E-R-U-C-A. Veruca Salt. With the face of an angel, Veruca can be charming and friendly as long as everyone agrees that the universe revolves around her. Question that cosmology, and she reveals herself to be a spoiled hellion, who will stop at nothing until she gets exactly what she wants. MR. SALT is an old-monied nut baron, first cousin to the monocled Monopoly tycoon, with a fuddy-duddy accent and a fondness for idiotic platitudes. Lovely Veruca is the apple of his eye. He overlooks her tantrums and cruelty. With his teetering, martini-swilling WIFE on his arm, he talks to the reporters:
+E: 55
+C: MR. SALT
+D: As soon as my little Veruca told me that she had to have one of these Golden Tickets, I started buying up all the Wonka candy bars I could lay my hands on! Thousands of them. Hundreds of thousands! I had them loaded onto trucks and sent directly to my own factory. INT. SALT NUT FACTORY - DAY [PAST]41 41 Trucks unload cases and cases of Wonka bars. We follow the boxes as they are unloaded onto a conveyor belt, where dozens of HAIRNET-WEARING WOMEN are lined up to begin work.
+C: MR. SALT
+D: I'm in the nut business, you see, So I say to my workers... REVEAL Mr. Salt, giving the marching orders:
+E: V.O.
+C: MR. SALT
+D: Good morning, ladies. From now on you can stop shelling peanuts and start shelling the wrappers off these candy bars instead! As ordered, they begin ripping the wrappers off the chocolate bars. They toss the chocolate into trash bins.
+C: MR. SALT
+D: Three days went by, and we had no luck. Oh, it was terrible! My little Veruca got more and more upset each day and every time I went home she would scream at me... CUT TO: INT. COUNTRY MANSION - DAY [PAST]42 42 Veruca is throwing an epic tantrum.
+E: V.O.
+C: VERUCA
+D: Where's my Golden Ticket! I want my Golden Ticket!
+C: BACK TO:
+D: INT. COUNTRY MANSION - DAY [PRESENT]43 43
+C: MR. SALT
+D: Well, gentlemen, I just hated to see my little girl feeling unhappy like that. I vowed I would keep up the search until I could give her what she wanted. And finally, we found her a ticket. INT. COUNTRY MANSION - DAY [PAST]44 44 Mr. Salt hands Veruca the shiny gold ticket. For just a moment, she is lovely again. Radiant. She looks into her father’s eyes and says: CONTINUED:41 41
+C: VERUCA
+D: Daddy...I want another pony! CUT TO: INT. GRANDPARENTS’ BEDROOM - NIGHT45 45 Disgusted, Grandpa Joe tosses the paper aside.
+C: GRANDPA GEORGE
+D: She’s even worse than the fat boy.
+C: CHARLIE
+D: I don't think that was really fair. She didn't find the ticket herself.
+C: GRANDPA JOE
+D: Don't worry about it, Charlie. That man spoils his daughter. And no good can ever come from spoiling a child like that, Charlie, you mark my words. Charlie’s Mother and Father are at the door.
+C: FATHER
+D: Charlie, your Mom and I thought maybe you’d like to open your birthday present tonight. She hands Charlie a package wrapped in old Sunday comics. Although it’s obviously the right shape, he tears back the paper just to be sure -- it’s really a Wonka bar.
+C: CHARLIE
+D: Maybe I should wait ‘til morning.
+C: GRANDPA GEORGE
+D: Like Hell!
+C: FATHER
+D: Pop!
+C: GRANDPA JOE
+D: All together, we’re 381 years old. We don’t wait. Charlie smiles nervously and sits down on the edge of the bed. He holds his present, his only present, very carefully in two hands: WONKA'S WHIPPLE-SCRUMPTIOUS FUDGEMALLOW
+C: DELIGHT.
+D: CONTINUED:44 44 The four old people, two at either end of the bed, prop themselves up on their pillows and stare with anxious eyes at the candy bar in Charlie's hands. The room is silent. Everybody waits for Charlie to start opening his present. Charlie looks down at the candy bar. He runs his fingers slowly back and forth along the length of it, stroking it lovingly. The shiny paper wrapper makes little sharp CRACKLY NOISES in the quiet room.
+C: MOTHER
+D: You mustn't be too disappointed, Charlie, if you don't find, well...
+C: FATHER
+D: Whatever happens, you'll still have the candy. Suddenly, Grandpa Joe starts making strange GURGLING, CHOKING NOISES. Everyone looks over, worried.
+C: CHARLIE
+D: Grandpa George, are you alright?
+C: GRANDPA JOE
+D: No, you’re killing me! Open it! Very slowly, Charlie's fingers tear open one small corner of the wrapping paper. The old people in the bed all lean forward and crane their scraggy necks. Then suddenly, Charlie tears the wrapper right down the middle. Onto his lap falls a light-brown creamy-colored chocolate candy bar. And nothing else.
+C: GRANDPA JOE
+D: Well, that’s that. It's just what we expected. Charlie looks up. Four kind old faces watch him intently from the bed. He smiles at them, a small sad smile, and then he shrugs his shoulders.
+E: CONT’D
+C: CHARLIE
+D: We'll share it.
+C: GRANDPA JOE
+D: No, Charlie. Not your birthday present. CONTINUED:45 45
+C: CHARLIE
+D: It’s my candy bar and I’ll do what I want with it. He SNAPS the bar into seven pieces. The grown-ups share a look -- Charlie really is one of a kind. CUT TO: EXT. STREET CORNER NEWSTAND - DAY46 46 A BUSINESSMAN holds the morning paper up to read the inside. On the front page, the headlines scream:
+C: TWO GOLDEN TICKETS FOUND
+D: Only one ticket left Finished reading, the businessman half-folds his paper and drops it in a nearby bin. Before it hits bottom, Charlie catches it and reads the headline. CUT TO: INT. GRANDPARENTS’ BEDROOM - DAY47 47
+C: GRANDPA JOE
+D: All right, let's hear who found them. Mr. Bucket holds the newspaper up close to his face because his eyes are bad and he can't afford glasses.
+C: MR. BUCKET
+D: The third ticket was found by Miss Violet Beauregarde. CUT TO: THE VINTAGE GLOBE48 48 back in motion. This time, we slow on the East Coast of America, finding a marker for: “ATLANTA.” CUT TO: CONTINUED: 45 45 INT. GYM - DAY 49 49 A ten-year old girl in a karate outfit SMASHES boards with her hands and feet before flipping two INSTRUCTORS. She bows, then rises into a CLOSE-UP. VIOLET BEAUREGARDE is a class-5 hurricane compressed in the body of an eleven-year old girl. Brash, rude and insanely competitive, she chews ferociously upon a piece of gum. CUT TO: INT. BEAUREGARDE LIVINGROOM - DAY 50 50 MS. BEAUREGARDE is Violet's cheerleader, manager, publicist and chauffeur. Rarely, however, is she a mother. Her parenting is mostly confined to stoking her daughter's self- esteem bonfire. She and Violet stand in front of a massive wall of glittering trophies. We INTERCUT between their interviews. [Ms. Beauregarde speaks like a glamorous Southern belle, while Violet adds an annoying “up-talk” that makes every sentence sound like a question.]
+E: 2
+C: MS. BEAUREGARDE
+D: These are just some of the 263 trophies and medals my Violet has won. INTERCUT VIOLET51 51
+C: VIOLET
+D: I'm a gumchewer, mostly, but when I heard about these ticket things, I laid off the gum and switched to candy bars. CUT TO:
+C: MS. BEAUREGARDE
+D: She is just a driven young woman. I don’t know what it is about her. CUT TO: Violet is holding a jaw-shaped trophy.
+C: VIOLET
+D: I’m the junior world-champion gum chewer. This piece of gum I'm chewing I've been working on for over three months solid. That's a record. CUT TO:
+C: MS. BEAUREGARDE
+D: Of course, I did have my share of trophies. Mostly baton. CUT TO:
+C: VIOLET
+D: So it says that one kid is going to get a special prize better than all the rest. I don’t care who the other four are. That kid is going to be me.
+C: MS. BEAUREGARDE
+D: Tell ‘em why, Violet.
+C: VIOLET
+D: Because I’m a winner. CUT TO: INT. THE GRANDPARENTS’ BEDROOM - DAY 52 52
+C: GRANDMA JOSEPHINE
+D: What a beastly girl.
+C: GRANDMA GEORGINA
+D: Despicable!
+C: GRANDPA GEORGE
+D: You don’t know what we’re talking about!
+C: GRANDMA GEORGINA
+D: Dragonflies?
+E: venturing a guess
+C: GRANDPA JOE
+D: And who got the fourth Golden Ticket? CONTINUED:51 51
+C: MR. BUCKET
+D: The fourth Golden Ticket was found by a boy named Mike Teavee. CUT TO: THE VINTAGE GLOBE53 53 swirling below us. This time, we sweep across the U.S. to find a marker in the Midwest for: “DENVER.” CUT TO: INT. MIKE TEAVEE’S BEDROOM - DAY 54 54 MIKE TEAVEE, 13, looks right past camera, leaning left and right to get a better view of the absurdly violent videogame he’s playing on his own television. The intellectual equivalent of a grade-school bully, Mike lords his cleverness over those around him and is always the first to point out gaps in logic.
+E: reads newspaper
+C: MIKE
+D: All you had to do is track the manufacturing dates, hack into the distribution flow rate data and take the derivative of the costing formula offset by weather and the Nikkei index. A retard could figure it out. In the bedroom doorway, Mike’s dad MR. TEAVEE talks to reporters. He’s a pale, simple sort of man, happy enough to spend Sunday in the la-z-boy watching the game.
+C: MR. TEAVEE
+D: Most of the time, I don’t know what he’s talking about. Kids these days, what with all the technology... Mike jams the buttons on his videogame controller.
+C: MIKE
+D: Die! Die! Die! CONTINUED:52 52
+C: MR. TEAVEE
+D: ...doesn’t seem like they stay kids very long. Finished killing the level boss, Mike continues his story:
+C: MIKE
+D: In the end, I only had to buy one candy bar.
+C: REPORTER
+D: And how did it taste?
+C: MIKE
+D: I don’t know. I hate chocolate. CUT TO: INT. GRANDPARENTS’ BEDROOM - DAY 55 55
+C: GRANDPA GEORGE
+D: Well, it’s a good thing you’re going to a CHOCOLATE FACTORY, you ungrateful little... Father quickly puts his hands over Charlie’s ears. Everything goes SILENT while Grandpa George continues his obscenity-filled tirade. The old man finally stops. Father takes his hands off Charlie’s ears.
+C: CHARLIE
+D: Dad?
+C: FATHER
+D: Yup?
+C: CHARLIE
+D: Why aren’t you at work?
+C: FATHER
+D: Oh. The toothpaste factory gave me some time off.
+C: CHARLIE
+D: Like summer vacation?
+C: FATHER
+D: Sure. Like that. Charlie doesn’t catch it, but the small wince in Father’s expression betrays this as untrue. CONTINUED:54 54
+C: NARRATOR
+D: In fact, it wasn’t like vacation at all. INT. TOOTHPASTE FACTORY - DAY [PAST]56 56 Father watches as TECHNICIANS install a toothpaste-cap- twisting machine.
+E: V.O.
+C: NARRATOR
+D: The upswing in candy sales had led to a rise in cavities, which led to a rise in toothpaste sales. Genuinely sorry, the FACTORY SUPERVISOR hands father a literal pink slip.
+E: V.O.
+C: NARRATOR
+D: With the extra money, the factory had decided to modernize, eliminating Mr. Bucket’s job. EXT. THE LITTLE HOUSE - DAY 57 57 Mother and Father have a private conversation, keeping their voices low. Father in particular is discouraged.
+E: V.O. CONT’D
+C: FATHER
+D: We were barely making ends meet as it was.
+C: MOTHER
+D: You’ll find another job. Until then, I’ll just thin down the soup a little more. Father is not convinced, but is helpless to offer any other alternative.
+C: MOTHER
+D: Don’t worry, our luck will change, I know it. Looking back to the front door, we find Charlie has been listening to the conversation. On his face, we see a look of worry no child should carry. CONTINUED:55 55 INT. THE GRANDPARENTS’ BEDROOM - DAY 58 58 Grandpa Joe is awake. The other three SNORE loudly. Seeing that the coast is clear, Grandpa Joe beckons Charlie to come here. Charlie tiptoes over and stands beside the bed. The old man gives Charlie a sly grin, and then rummages under his pillow. He reveals an ancient leather coin purse clutched in his fingers. Out falls a single silver dollar.
+E: CONT’D
+C: GRANDPA JOE
+D: It's my secret hoard. You and I are going to have one more fling at finding that last ticket.
+E: whispering
+C: CHARLIE
+D: Are you sure you want to spend your money on that, Grandpa?
+C: GRANDPA JOE
+D: Of course I'm sure! Here -- run down to the nearest store and buy the first Wonka candy bar you see. Bring it straight back, and we'll open it together. Charlie dutifully takes the coin and runs off. Grandpa Joe looks proudly after his little grandson.
+C: GRANDPA JOE
+D: Such a good boy, really. Such a... His eyelids get heavy. Still propped up on an elbow, he closes his eyes for just a second. SUDDENLY...59 59
+E: CONT’D to himself
+C: CHARLIE
+D: Grandpa! Grandpa Joe is startled awake, completely disoriented.
+E: whispering
+C: CHARLIE
+D: You fell asleep.
+E: CONT’D
+C: GRANDPA JOE
+D: Have you got it? Charlie nods and holds out the bar of candy -- WONKA'S NUTTY
+C: CRUNCH SURPRISE.
+D: The old man's fingers tremble as they fumble with the candy bar.
+C: GRANDPA JOE
+D: Which end do you think I ought to open first?
+E: CONT’D
+C: CHARLIE
+D: Just do it quick. Like a Band-Aid. Steeling himself up, Grandpa Joe suddenly rips the entire wrapper off. Both he and Charlie have their eyes closed. Each opens a single eye, then the other one. They both stare at what lies underneath. It is a bar of candy -- nothing more. Their disappointment is palpable. TRANSITION TO: EXT. FACTORY GATES - DUSK 60 60 Charlie stands motionless outside the Wonka gates. He takes deep, swallowing breaths as though he's trying to eat the smell itself. He gets a few odd looks from PASSERSBY, but doesn’t care. TWO MEN with VISZLA DOGS walk past. Charlie overhears their conversation.
+C: FIRST MAN
+D: Did you hear that some kid in Russia found the last golden ticket?
+C: SECOND MAN
+D: Yeah, it was in the paper this morning. Oh! Good boy, good boy! The Second Man stops to pick up his dog’s poop in a plastic baggie. CONTINUED:59 59 Charlie’s heard enough. He walks away, defeated. He misses the rest of the conversation:
+E: re: his dog
+C: SECOND MAN
+D: But then, I was watching the news this afternoon, and it turns out the ticket was a forgery.
+E: CONT’D
+C: FIRST MAN
+D: You’re kidding!
+C: SECOND MAN
+D: People these days, y’know? CUT TO: EXT. CITY STREET - DUSK61 61 Charlie walks with the icy wind blowing in his face. His eye suddenly catches a piece of paper lying in the gutter, half- buried in the snow. Charlie steps off the curb and bends down to examine it. He sees at once what it is:
+C: A TEN DOLLAR BILL.
+D: Charlie quickly looks around. Has somebody dropped it? No, that's impossible because of the way it is buried. Several PEOPLE hurry past him on the sidewalk, their chins sunk deep in the collars of their coats. None of them take the slightest notice of the small boy crouching in the gutter. Carefully, Charlie pulls the bill out from under the snow. It is damp and dirty, but otherwise perfect.
+C: NARRATOR
+D: Ten dollars was more money than Charlie Bucket had ever held. In that moment, he felt rich.
+C: WIDER,
+D: we find that we’re in front of a newspaper and stationery store. The kind that sells almost everything, including candy and cigars. In fact, there’s a big sign in the window proclaiming: WONKA BARS! CONTINUED:60 60
+C: NARRATOR
+D: But more than that, he felt terribly hungry. INT. SHOP - DUSK62 62 Charlie lays the damp ten-dollar bill on the counter.
+E: CONT’D
+C: CHARLIE
+D: One Wonka Whipple-Scrumptious Fudgemallow Delight, please. The SHOPKEEPER hands it to Charlie. Charlie grabs it and quickly tears off the wrapper and takes an enormous bite. Then he takes another...and another...and oh, the sheer blissful joy of being able to fill one's mouth with rich solid food!
+C: SHOPKEEPER
+D: You look like you needed that one, sonny. Charlie nods, finishing the candy bar. The shopkeeper puts Charlie's change on the counter.
+C: SHOPKEEPER
+D: Take it easy. It'll give you a gut- ache if you swallow it like that without chewing. Charlie reaches out a hand to take the change. Pauses. His eyes are just above the level of the counter. They stare at the nine one-dollar bills lying there. Surely it wouldn't matter if he spent just one more...
+E: CONT'D
+C: CHARLIE
+D: I think...I'll have just one more. The same kind as before, please.
+C: SHOPKEEPER
+D: Why not? He takes another Whipple-Scrumptious Fudgemallow Delight from the shelf and lays it on the counter. Charlie picks it up and tears off the wrapper. And suddenly, from underneath the wrapper, there comes a brilliant flash of
+C: GOLD.
+D: CONTINUED:61 61 Charlie's heart stands still. For a long beat, he simply stares in silent disbelief.
+C: SHOPKEEPER
+D: It's a Golden Ticket! You found Wonka's last Golden Ticket! In my shop too! Somebody call the newspaper quick and let ‘em know! Watch out now, sonny! Don't tear it when you unwrap it! That thing's precious! In a few seconds, there is a crowd of about TWENTY PEOPLE clustering around Charlie, and many more push their way in from the street. Everybody wants to get a look at the Golden Ticket and the lucky finder. Charlie hasn't moved. He hasn't even unwrapped the Golden Ticket from around the candy bar. He stands very still and holds it tightly with both hands while the crowd pushes and shouts around him. At this point, he is aware of a hand resting lightly on his shoulder. He looks up and sees a TALL MAN standing over him.
+E: CONT'D to others
+C: TALL MAN
+D: Listen. I'll buy it from you. I'll give you fifty dollars. How about it, eh? And I'll give you a new bicycle as well. Okay?
+C: WOMAN
+D: Are you crazy? Why, I'd give you five hundred dollars for that ticket! You want to sell that ticket to me for five hundred dollars, young man?
+C: SHOPKEEPER
+D: That's enough of that! Leave the kid alone, will ya! Make way there! Let him out! EXT. THE SHOP - DUSK63 63 The shopkeeper kneels down and looks Charlie in the eye.
+C: SHOPKEEPER
+D: Don't let anybody have it! Take it straight home, before you lose it! CONTINUED:62 62 Run all the way and don't stop till you get there, you understand? Charlie nods. There are tears in the corners of his eyes.
+E: MORE
+C: CHARLIE
+D: Thank you. And he runs through the snow as fast as his legs will go. EXT. WONKA FACTORY - DUSK64 64 Headed home, Charlie runs along the sidewalk in front of the factory. INT. THE LITTLE HOUSE - NIGHT65 65 Charlie bursts in with the energy of a cyclone.
+C: CHARLIE
+D: Mom! Dad! I’ve got it! I found it! He runs past his stunned parents, into -- INT. THE GRANDPARENTS’ BEDROOM - NIGHT66 66 He jumps up onto the center of the bed.
+C: CHARLIE
+D: The last Golden Ticket! I found it. For a long beat there is absolute silence in the room. Nobody dares to speak or move.
+C: GRANDPA JOE
+D: You're pulling our legs, Charlie, aren't you? You're having a little joke?
+C: CHARLIE
+D: I am not! Charlie hands him the ticket. Grandpa Joe leans forward and takes a close look. His nose almost touches the ticket. The others watch, waiting for a verdict. CONTINUED:63 63
+C: SHOPKEEPER
+D: Then very slowly, a slow and marvelous grin spreads over his face. Grandpa Joe looks at Charlie. The color rushes to his cheeks, and his eyes are wide open and shine with joy. The old man takes a deep breath, and suddenly, with no warning whatsoever, an explosion seems to take place inside. He throws up his arms and yells...
+E: CONT'D
+C: GRANDPA JOE
+D: Yippee! And at the same time, his bony body rises up out of the bed. He jumps on to the floor and starts a victory dance in his pajamas. Charlie’s parents watch from the doorway, amazed.
+C: MOTHER
+D: Dad, how can you... Ignoring her, Grandpa Joe hands the ticket to father.
+C: GRANDPA JOE
+D: Read it aloud. Let's all hear exactly what it says.
+C: FATHER
+D: Greetings to you, the lucky finder of this golden ticket, from Mr. Willy Wonka! I shake you warmly by the hand! For now, I do invite you to come to my factory and be my guest for one whole day. CUT TO: INT. BEAUREGARDE LIVINGROOM - DAY [PAST]67 67 Violet reads the ticket aloud to the REPORTERS.
+E: reads ticket
+C: VIOLET
+D: I, Willy Wonka, will conduct you around the factory myself, showing you everything there is to see. CUT TO: CONTINUED:66 66 INT. GERMAN SAUSAGE SHOP - DAY [PAST]68 68 Augustus continues reading.
+C: AUGUSTUS
+D: Und aftervards, ven it is time to leave, you vill be escorted home by a procession of large trucks, each von filled vit all de chocolate you could ever eat! CUT TO: INT. SALT LIVING ROOM - DAY [PAST]69 69 Veruca continues:
+C: VERUCA
+D: And remember, one of you lucky five children will receive an extra prize beyond your wildest imagination. Now, here are your instructions: CUT TO: INT. MIKE TEAVEE’S BEDROOM - DAY [PAST]70 70
+C: MIKE
+D: On the first of February, you must come to the factory gates at ten a.m. sharp. You are allowed to bring one member of your family to look after you. Until then, Willy Wonka.
+C: BACK TO:
+D: INT. THE GRANDPARENTS’ BEDROOM - NIGHT71 71
+C: MOTHER
+D: The first day of February! But that's tomorrow!
+C: GRANDPA JOE
+D: Then there’s not a moment to lose. Charlie! Wash your face, comb your hair, scrub your hands, brush your teeth, blow your nose, cut your nails, polish your shoes, iron your shirt...
+E: MORE
+C: GRANDPA GEORGE
+D: And for heaven's sake, get that mud off your pants!
+C: MOTHER
+D: We must all try to keep very calm. Now the first thing to decide is this -- who is going to the factory with Charlie?
+C: GRANDPA JOE
+D: I will! I'll take him! You leave it to me!
+C: MOTHER
+D: How about you, dear? Don't you think you ought to go?
+E: to Father
+C: FATHER
+D: Grandpa Joe seems to know more about it than we do. Provided, of course, that he feels well enough...
+C: GRANDPA JOE
+D: Yippee! He seizes Charlie and dances around the room. As Charlie is spinning, we see his expression change. He stops dancing.
+C: CHARLIE
+D: No. We’re not going. All eyes turn to him as he takes the ticket back from his father.
+C: CHARLIE
+D: A woman offered me five hundred dollars for the ticket. I bet someone else will pay more. We need the money more than we need the chocolate. The mood in the room deflates as reality sets in. CONTINUED:71 71
+E: CONT’D
+C: GRANDPA JOE GRANDPA GEORGE
+D: Young man, come here! There’s plenty of money out there. They print more every day. But this ticket? There’s only five of them in the whole world, and that’s all there’s ever going to be. Only a dummy would give this up for something as common as money. Are you a dummy?
+E: CONT'D Charlie moves closer
+C: CHARLIE
+D: No, sir.
+C: GRANDPA GEORGE
+D: Then get that mud off your pants. You got a factory to go to. TRANSITION TO: EXT. FACTORY GATES - DAY 72 72 The sun shines brightly on the morning of the big day, but the ground is still white with snow and the air is very cold. POLICEMEN with arms linked try to hold back the enormous CROWDS of people who have gathered to watch the five lucky ticket holders go in. Right beside the gates, in a small group carefully shielded from the crowds, stand the five famous children together with the grownups who have come with them. Veruca Salt wears a mink-trimmed coat.
+C: VERUCA
+D: Daddy, I want to go in!
+C: MR. SALT
+D: It’s 9:59, sweetheart.
+C: VERUCA
+D: Make time go faster! Next to them stand Charlie and Grandpa Joe.
+C: CHARLIE
+D: Do you think Mr. Wonka will recognize you? CONTINUED: 71 71
+E: 2
+C: GRANDPA JOE
+D: Hard to say. It’s been years! We continue to Augustus Gloop, who takes another candy bar from his mother. Next to them, we find the Beauregardes. Violet and her mother wear matching blue tracksuits.
+C: MS. BEAUREGARDE
+D: Eyes on the prize, Violet. Eyes on the prize. Finally, we come to Mike Teavee and his father, who looks much more excited to be here than his son. Suddenly, with a CLANG of great gears, the gates begin to swing open. Violet and her mother push past the others to be the first to step onto the Wonka factory grounds. Charlie and Grandpa Joe are the last ones in. EXT. WONKA FACTORY YARD - DAY 73 73 The ten visitors walk along a snowy path, headed for the giant building ahead. The place seems deserted, yet perfectly maintained.
+C: GRANDPA JOE
+D: Nothing’s changed at all! That’s the bench we used to sit on when we would talk about Lindberg!
+E: he points
+C: MR. SALT
+D: It must have been very interesting. Back then. Charlie glances back over his shoulder and sees the great iron entrance gates slowly close behind him. The crowds on the street still push and SHOUT. Then, as the gates close with a CLANG, all sight of the outside world has disappeared. UP AHEAD74 74 The giant doors to the main factory building begin to open. Smoke and steam curl into the cold air. WONKA’S VOICE is carried over loudspeakers:
+C: WONKA’S VOICE
+D: Dear visitors, it is my great pleasure to welcome you to my humble factory. CONTINUED:72 72 Charlie takes his Grampa’s hand, excited and overwhelmed. Beyond the doors, we see cartoonishly-exaggerated machinery: conveyor belts and sugar funnels, dipping vats and bubble- blowers. It seems too goofy to be real. But one never knows.
+C: WONKA’S VOICE
+D: And who am I? Well... Suddenly, CARNIVAL MUSIC begins. Row after row of animatronic marionettes, a la Disney’s “Small World” ride, pop up behind the faux machinery. They move in clockwork precision as they SING...
+E: CONT’D
+C: MARIONETTES
+D: Wil-ly Wonka! Chocolateer extraordinaire. Wil-ly Wonka! Handsome, yes, and debonair. Wil-ly Wonka! Modest to a fault. Wil-ly Wonka! The man who we exalt! Hey! As the robotic dolls dance for a verse, we PUSH IN on a few confused visitors, both adults and children.
+C: MARIONETTES
+D: Wil-ly Wonka! You’re just about to meet, Wil-ly Wonka! A man who can’t be beat. Wil-ly Wonka! Magician and a wiz... Oh what joy! Here he izzzzzzzz! The stage ERUPTS in fireworks, sparklers SHOOTING everywhere. A giant burning sign reads, “WONKA.” Dizzying searchlights sweep across the proscenium. As the smoke finally clears, we find the spotlights focused on an empty stage. Wonka is nowhere to be found. What’s more, several of the marionette dolls are on fire.
+E: CONT’D
+C: ON THE VISITORS
+D: We go down the row of amazed and bewildered faces, until we end up on
+C: WILLY WONKA.
+D: He’s a pale man, eccentrically dressed, wearing sunglasses suitable for climbing Everest. At the moment, he’s overjoyed, applauding. CONTINUED:74 74
+C: WONKA
+D: Oh yes! That was fantastic! I was worried it was getting a little dodgy in the middle part, but then! The finale, well...
+E: to Mr. Teavee
+C: VIOLET
+D: Who are you?
+C: GRANDPA JOE
+D: He’s Willy Wonka!
+E: excited
+C: CHARLIE
+D: Really? Wonka checks the label on the inside of his jacket, which reads “Willy Wonka.”
+C: WONKA
+D: I am!
+C: VERUCA
+D: Then shouldn’t you be up there?
+C: WONKA
+D: I couldn’t very well watch the show from up there, now could I, little girl? Wonka starts to take off his sunglasses, but finds the glare too bright -- he hasn’t been out in years.
+C: GRANDPA JOE
+D: Mr. Wonka, I don’t know if you remember me, but I used to work here in the factory. Suddenly very serious...
+C: WONKA
+D: Were you one of those despicable spies?
+C: GRANDPA JOE
+D: No, sir!
+C: WONKA
+D: Then wonderful! Welcome back. Hurry along, now. All of you. CONTINUED: 74 74 Wonka leads them through the factory doors.
+E: 2
+C: AUGUSTUS
+D: Don’t you vant to know our names?
+C: WONKA
+D: I can’t imagine how it would matter. Now, quickly. There’s far too much to see. Still baffled, the ten visitors follow Wonka. As they pass behind the stage, we notice that several of the marionettes are melting from the fire. Wonka doesn’t seem to notice, or care. INT. FACTORY LOBBY - DAY 75 75 The lobby is completely empty, just as it’s been for decades.
+C: WONKA
+D: Yes, now. Throw your coats anywhere. Indeed, Wonka tosses his overcoat and sunglasses on the floor, revealing a dashingly eccentric suit with touches of all the exotic lands he’s traveled. The parents fold their coats nicely over chairs, while the kids are happy enough to follow Wonka’s lead and toss their jackets in a pile. Only Veruca keeps her coat, explaining to anyone who cares to listen:
+C: VERUCA
+D: It’s rare Brazilian mink.
+C: WONKA
+D: Well I'm sure they're much happier on you, than playfully romping through the forest with their families and loved ones.
+C: MR. TEAVEE
+D: Mr. Wonka, it sure is toasty in here. CONTINUED: 74 74
+E: 3
+C: WONKA
+D: I have to keep it warm inside. My workers are used to an extremely hot climate. They can't stand the cold!
+C: CHARLIE
+D: Who are the workers?
+C: WONKA
+D: All in good time. Now... Violet does an end-run around Wonka.
+C: VIOLET
+D: Mr. Wonka, I’m Violet Beauregarde.
+C: WONKA
+D: Oh, I don’t care. Without warning, she hugs him around the waist. Wonka emits a terrified SHRIEK.
+E: He doesn’t like to be touched.
+C: VIOLET
+D: Well, you should care, because I’m the girl who’s going to win the special prize at the end. Peeling her off...
+C: WONKA
+D: You do seem confident. And confidence is key. Ms. Beauregarde is beaming. Veruca pushes her way past Violet. Wonka takes a nervous step back.
+C: VERUCA
+D: I’m Veruca Salt. It’s very nice to meet you, sir. She curtseys.
+C: WONKA
+D: I say. You seem sweeter than any candy I make. Now Augustus wedges his way in...
+C: AUGUSTUS
+D: I am Augustus Gloop! I love de chocolate! CONTINUED:75 75
+C: WONKA
+D: So do I! I never expected to have so much in common. Though he was reluctant to learn their names, Wonka now seems quite interested in the children. Pointing...
+C: WONKA
+D: You, you’re Mike Teavee. The genius who cracked the system. Quite impressive. Mike just shrugs. Wonka finally comes to Charlie.
+E: CONT’D
+C: WONKA
+D: And you. Well. You’re just lucky to be here, aren’t you? And the rest of you must be their p-p-p-... Afraid to interrupt Wonka, no one jumps in to finish his word.
+E: CONT’D
+C: WONKA
+D: P-p-p-p-p-p-p-p-p-p-p-... Finally...
+E: CONT’D
+C: MR. SALT
+D: Parents?
+C: WONKA
+D: Yes, p-p-parents. Mothers and fathers. For just a moment, Wonka seems completely transported, lost in a distant memory...
+C: WONKA
+D: Father. Father? Father, but I... Just as suddenly, he snaps out of it.
+E: CONT’D
+C: WONKA
+D: Okay, then. Let’s move along. Charlie feels a little slighted, but Grandpa Joe takes him by the shoulder. They follow Wonka as he leads them down a long hall. CONTINUED: 75 75 INT. THE LONG HALL - DAY 76 76 Far away in the distance, from the heart of the great factory, comes a muffled ROAR of energy as though some monstrous gigantic machine were spinning its wheels at breakneck speed.
+E: CONT’D 2
+C: WONKA
+D: Get a move on, please! We'll never get round today if you dawdle like this! Wonka trots off rapidly down the corridor with the tails of his coat flapping behind him. The visitors hurry after him. We don’t realize it at first, but the hallway is forced- perspective. It starts out very big, then gets tiny by the end. Charlie walks with Augustus, who is unwrapping yet another candy bar.
+C: AUGUSTUS
+D: Vould you like some candy?
+C: CHARLIE
+D: Sure.
+C: AUGUSTUS
+D: Then you should have brought some! Hah-hah! Augustus eats the whole bar himself, dropping the wrapper. Wonka turns on his heel, catching the wrapper before it hits the ground.
+C: WONKA
+D: Now, Augustus. No one likes a litterbug. He hands the boy the wrapper with a smile. A ways back, Mr. Teavee confers with Mr. Salt.
+C: MR. TEAVEE
+D: Is it just me, or does Wonka seem a few quarters short of a buck?
+C: MR. SALT
+D: I’m sorry. I don’t speak American. Veruca walks with Violet.
+C: VERUCA
+D: Let’s be friends.
+C: VIOLET
+D: Best friends. The little girls link arms, but in their faces, we can see mutual disgust. Wonka stops. The hallway has gotten so narrow that everyone is bunched up on top of each other. In front of him there is a tiny metal door, labelled...
+C: THE CHOCOLATE ROOM. WONKA
+D: An important room, this! It is a chocolate factory, after all. Wonka takes an absurdly large bunch of keys from his pocket and slips one into the keyhole.
+C: MIKE
+D: Then why is the door so small?
+C: WONKA
+D: To keep all the big chocolate flavor inside. He leads them through the little door. INT. THE CHOCOLATE ROOM - DAY 77 77 We PULL BACK from stunned faces, young and old, as they overlook a quite amazing sight. Even jaded Mike Teavee has to admit this is incredible. In front of them stretches
+C: A LOVELY VALLEY.
+D: There are green meadows on either side, and along the bottom of it flows a great brown river. What is more, there is a tremendous waterfall halfway along the river -- a steep cliff over which the water curls and rolls in a solid sheet, and then crashes down into a boiling churning whirlpool of froth and spray. CONTINUED:76 76 Below the waterfall, a whole mass of enormous glass pipes dangle down into the river from somewhere high up in the ceiling. They suck up the brownish muddy water from the river and carry it away to goodness knows where. One can hear the never-ending SUCK-SUCK-SUCKING sound of the pipes as they do their work. Graceful trees and bushes grow along the riverbanks -- weeping willows and alders and tall clumps of rhododendrons with their pink and red and mauve blossoms. In the meadows are thousands of buttercups.
+C: VERUCA
+D: It’s beautiful.
+C: WONKA
+D: Of course! I can't abide ugliness in factories! What’s more, it's all eatable! Edible? Well, it’s delicious! Wonka leads them down a path towards the river. As he walks, he takes a jacket hanging from a tree and changes his outfit.
+E: is that a word? He’ll do this a lot over the course of the story.
+C: WONKA
+D: Every drop of that river is hot melted chocolate of the finest quality. There's enough chocolate in there to fill every bathtub in the entire country! Those pipes suck up the chocolate and carry it away to all the other rooms in the factory where it is needed! Thousands of gallons an hour. The children and their parents are completely bowled over by the hugeness of the whole thing. They simply walk and stare.
+E: CONT'D pointing
+C: WONKA
+D: The waterfall is most important! It mixes the chocolate! Makes it light and frothy! No other factory in the world mixes its chocolate by waterfall! But it's the only way to do it properly! The only way! And do you like my trees? Don't you think they look pretty? CONTINUED:77 77 And of course they are all eatable! All made of something different and delicious! And do you like my meadows? The grass you are standing on is made of a new kind of soft, minty sugar that I've just invented! I call it swudge! Try a blade! Please do! It's delectable! Automatically, everyone bends down and picks a blade of grass -- everyone, that is, except Augustus Gloop, gets down on all fours and eats like a cow. Violet Beauregarde, before tasting her blade, takes the piece of world-record breaking chewing gum out of her mouth and sticks it carefully behind her ear.
+E: CONT'D MORE
+C: VARIOUS
+D: Oooh!/It’s good!/Quite delicious!/Now that’s tasty! Soon, everyone is sampling the local flora.
+C: CHARLIE
+D: Was this room always here?
+E: to Grandpa Joe
+C: GRANDPA JOE
+D: It’s brand new to me. I can’t believe how much has changed. SUDDENLY, 78 78 the air is filled with SCREAMS of excitement. Veruca Salt points frantically to the other side of the river.
+C: VERUCA
+D: Daddy, look over there! What is it? It's a little person! Down there below the waterfall! Everybody stops picking buttercups and stares across the river.
+C: MS. BEAUREGARDE
+D: There's two of them!
+C: MR. TEAVEE
+D: There's more than two. CONTINUED: 77 77
+E: 2
+C: WONKA AUGUSTUS
+D: Ver do they come from?
+E: CONT'D
+C: CHARLIE
+D: Who are they? Children and parents alike rush down to the edge of the river to get a closer look. A team of TINY MEN are busy at work. Some mow the sugar grass, while others pick the candy that grows on the trees. The strangest thing is, the little men all look exactly the same -- miniature clones of each other. One of them points towards the children, and then he whispers something to the other four, and all five of them burst into peals of LAUGHTER.
+C: MIKE
+D: Are they real people?
+E: to Wonka
+C: WONKA
+D: Of course they're real people. They're Oompa-Loompas.
+C: MR. SALT
+D: Oompa-Loompas!
+C: WONKA
+D: Imported direct from Loompaland.
+C: MR. TEAVEE
+D: There's no such place.
+C: WONKA
+D: What’s that you say?
+C: MR. TEAVEE
+D: Well, Mr. Wonka, I teach high school geography and...
+C: WONKA
+D: Then you know all about it. And oh, what a terrible country it is! CUT TO: CONTINUED:78 78 EXT. THE JUNGLES OF LOOMPALAND - DAY [PAST]79 79 We PUSH THROUGH the absurdly dense forests of this sub- tropical wilderness. By the FEROCIOUS ANIMAL CALLS we hear, we know this is quite a dangerous place. Yet Willy Wonka himself is bravely hacking his way through the undergrowth with a silver machete. Even in the sweltering heat, he manages to look dashing.
+C: WONKA’S VOICE
+D: The whole place is nothing but thick jungles infested by the most dangerous beasts in the entire world -- hornswogglers and snozzwangers and those terrible wicked whangdoodles. A massive flying beetle SWOOPS DOWN upon Wonka. He deftly slices through it in mid-air, then examines the goo on the blade. Curious, he taps it with his tongue, getting a quick taste. Considers the bouquet...
+C: WONKA’S VOICE
+D: I went to Loompaland looking for exotic new flavors for candy. He decides against whangdoodle goo.
+E: CONT’D
+C: WONKA’S VOICE
+D: Instead, I found the Oompa-Loompas. TRANSITION TO: EXT. DEEPER IN THE JUNGLE - DAY [PAST]80 80 Pushing his way through to a clearing, Wonka looks up into a sunlit tree.
+E: CONT’D
+C: WONKA’S VOICE
+D: They lived in tree-houses to escape from whangdoodles and the hornswogglers and the snozzwangers. Seen first in silhouette, the Oompa-Loompas scurry along the branches. They have constructed a rickety tree-city, high above the jungle floor.
+C: WONKA’S VOICE
+D: They were living on green caterpillars, which tasted revolting. INT. OOMPA-LOOMPA CHIEF’S HOUSE - DAY [PAST]81 81 His knees at his Adam’s apple, Wonka scrunches in to share a meal with the OOMPA-LOOMPA CHIEF, who looks exactly like all the other Oompa-Loompas, except for his ornate headdress. The Chief is mashing caterpillars with a mortar and pestle.
+E: CONT’D
+C: WONKA’S VOICE
+D: The Oompa-Loompas spent every moment of their days looking for other things to mash up with the caterpillars to make them taste better -- red beetles, eucalyptus leaves, the bark of the bong-bong tree -- all of them beastly, but not quite so beastly as the caterpillars. The Chief offers Wonka a taste of the revolting caterpillar goo.
+C: WONKA’S VOICE
+D: The food they longed for the most was the cocoa bean. An Oompa- Loompa was lucky if he found three or four cocoa beans a year. But oh, how they craved them. They used to dream about cocoa beans all night and talk about them all day.
+E: CONT’D
+C: BACK TO:
+D: INT. THE CHOCOLATE ROOM - DAY 82 82 In a meadow by the river, nine of the visitors listen to Wonka’s story.
+C: WONKA
+D: The cocoa bean happens to be the thing from which chocolate is made. CONTINUED:80 80 I myself use billions of cocoa beans every week in this factory. So I said...
+E: MORE
+C: BACK TO:
+D: INT. CHIEF’S HOUSE - DAY 83 83 Wonka talks to the Chief.
+C: WONKA
+D: Look here, if you and all your people will come back to my country and live in my factory, you can have all the cocoa beans you want! You can gorge yourselves silly on them! I'll even pay your wages in cocoa beans if you wish! The Chief considers for a moment, then eagerly shakes Wonka’s hand.
+C: BACK TO:
+D: OMIT 84 84 INT. THE CHOCOLATE ROOM - DAY 85 85
+C: WONKA
+D: They are wonderful workers. I must warn you though, they are rather mischievous. Always making jokes. Veruca tugs on her daddy’s sleeve.
+C: VERUCA
+D: Daddy! Daddy! I want an Oompa- Loompa. I want you to get me an Oompa-Loompa!
+C: MR. SALT
+D: Now, now pet. We mustn't interrupt Mr. Wonka.
+C: VERUCA
+D: But I want an Oompa-Loompa!
+C: MR. SALT
+D: All right, Veruca. But I can't get it for you this second. CONTINUED:82 82
+C: WONKA
+D: Mrs. Gloop is calling down to the riverbank --
+E: CONT'D
+C: MRS. GLOOP
+D: Augustus! Augustus, meinen schatz. Dat is not a good thing you do! August Gloop is kneeling on the riverbank, scooping hot melted chocolate into his mouth as fast as he can.
+C: WONKA
+D: Please, boy, please! I beg of you not to do that. My chocolate must be untouched by human hands!
+C: MRS. GLOOP
+D: Come avay from dat river at vonce! But Augustus is deaf to everything except the call of his enormous stomach. He lies full-length on the ground with his head far out over the river and laps up the chocolate like a dog.
+C: MR. TEAVEE
+D: Careful, son. You're leaning too far out! Mr. Teavee is absolutely right. For suddenly there is a SHRIEK, and then a SPLASH. Augustus Gloop disappears under the brown surface. Everyone runs to the riverbank...
+C: MRS. GLOOP
+D: He'll drown! He can't svim! Save him! Save him! The wretched boy is sucked closer and closer toward the mouth of one of the great pipes that dangles down into the river. Grandpa Joe pulls off his shoes, ready to make a desperate rescue. Mr. Teavee does the same. For his part, Mr. Salt fusses with his tie just a bit.
+C: CHARLIE
+D: Look! The Oompa-Loompas! The Oompa-Loompas are pulling on swimming caps. One by one, they dive gracefully into the chocolate river, swimming toward Augustus. CONTINUED:85 85 As he floats in the chocolate river, Augustus is divided between his instinct to breathe and his instinct to eat. He alternately gasps and gobbles. THEN ALL AT ONCE, 86 86 the powerful suction takes hold of him completely. He is pulled under the surface and then into the mouth of the pipe. The crowd on the riverbank waits breathlessly to see where he comes out.
+C: VIOLET
+D: There he goes! And sure enough, because the pipe is made of glass, Augustus Gloop is seen clearly shooting up inside it, head first like a torpedo.
+C: MRS. GLOOP
+D: Help! Police!
+C: MS. BEAUREGARDE
+D: It's a wonder to me how that pipe is big enough for him to go through it.
+C: CHARLIE
+D: It isn't big enough! He's slowing down!
+C: MIKE
+D: He's gonna stick.
+C: MR. TEAVEE
+D: I think he has.
+C: MR. SALT
+D: He's blocked the whole pipe! Indeed, chocolate is SWISHING around the boy in the pipe. The pressure is terrific. Something has to give. From a HIGH ANGLE, we look down on Augustus. In the river below, we see the Oompa-Loompas have circled the pipe. Like swimmers in an Esther Williams movie, they begin to perform a series of elaborate and beautiful synchronized formations: flowers, spirals, starbursts. It’s oddly glorious. CONTINUED: 85 85 WHOOF! Augustus suddenly shoots up like a bullet in the barrel of a gun. He disappears as the pipe passes through the ceiling. BACK ON THE SHORE87 87
+E: 2
+C: MRS. GLOOP
+D: Ach! Ver does that pipe go to? Kvick! Call the fire brigade!
+C: WONKA
+D: Keep calm, my dear lady, keep calm. There is no danger whatsoever. Augustus has gone on a little journey, that's all. He'll come out of it just fine, you wait and see.
+C: MRS. GLOOP
+D: He vill be made into marshmallows!
+C: WONKA
+D: Impossible! Unthinkable! He could never be made into marshmallows. That pipe doesn't go to the Marshmallow Room. It doesn't go anywhere near it. She seems a little relieved.
+C: WONKA
+D: That pipe happens to lead directly to the room where I make the most delicious kind of strawberry- flavored chocolate-coated fudge.
+E: CONT’D
+C: MRS. GLOOP
+D: Then he'll be made into strawberry- flavored chocolate-coated fudge! They’ll be selling him by the pound all over the vorld...
+C: WONKA
+D: I wouldn't allow it. The taste would be terrible. Just imagine it! Augustus-flavored chocolate- coated Gloop! No one would buy it. Ms. Beauregarde puts a sympathetic hand on Mrs. Gloop’s shoulder. CONTINUED:86 86
+C: MS. BEAUREGARDE
+D: He’s right. They wouldn’t. Wonka CLICKS his fingers three times. Immediately, a new Oompa-Loompa appears, as if from nowhere, and stands beside him. The Oompa-Loompa bows and smiles, showing his beautiful teeth. The top of his head comes just above Wonka's knee.
+C: WONKA
+D: I want you to take Mrs. Gloop up to the Fudge Room and help her find her son. Take a long stick and start poking around inside the big chocolate-mixing barrel. I'm almost certain you'll find him there. The Oompa-Loompa gives a strange kind of salute, then scurries off. Wonka gestures for Mrs. Gloop to follow him. She runs, disappearing around the bend in the path. BACK TO SCENE88 88 The earlier MUSIC continues as more Oompa-Loompas gather. Mike seems particularly perturbed by their proximity.
+C: MIKE
+D: Back off, you little freaks!
+C: VERUCA
+D: What are they doing?
+C: WONKA
+D: Why, I believe they’re going to treat us to a song! It’s quite a special occasion, of course. They haven’t had a fresh audience in years! One Oompa-Loompa, evidently the SONG LEADER, plays a single note on a PITCH PIPE. A beat, then all of the Oompa-Loompas try to match the tone. A CACOPHONY. They’re not even close. They’re all over the scale, hitting quite a few notes unknown to mankind. Everyone grimaces, even Wonka. But SONG LEADER is undeterred. CONTINUED:87 87 Like a sorcerer summoning spirits, he coaxes his chorus into perfect tune. Once they’ve finally settled on the same “ahhhhh....”, the song can begin:
+C: OOMPA-LOOMPAS
+D: Aaaaaaaaaugust Gloop! Augustus Gloop! The great big greedy nincompoop! He was fat! And he was vile! Greedy, foul, and infantile! He left a most disgusting taste, Inside our mouths, and so in haste 'Come on!' we cried, 'The time is ripe To send him shooting up the pipe! The Oompa-Loompas sing and dance with the precise synchronicity of a Busby-Berkley musical. And as they move into the next verse, one of the Oompa-Loompas comes to the foreground, dressed as the gluttonous Augustus. Oompa-Augustus pantomimes getting sucked up the pipe. A SOLOIST slows the tempo to make a serious point:
+E: singing and acting like
+C: SOLOIST
+D: But don't, dear children, be alarmed; Augustus Gloop will not be harmed...
+C: OOMPA-LOOMPAS
+D: Although, of course, we must admit He will be altered quite a bit. Slowly, the wheels go round and round, The cogs begin to grind and pound; A hundred knives go slice, slice, slice; We add some sugar, cream, and spice. The synchronized singers act as the “machinery” doing dastardly things to Ooompa-Augustus.
+E: back to tempo
+C: OOMPA-LOOMPAS
+D: We boil him for a minute more, Until we're absolutely sure That all the greed and all the gall Is boiled away for once and all. Then out he comes! And now! By grace! A miracle has taken place! Oompa-Augustus disappears behind the singers.
+E: CONT’D
+C: OOMPA-LOOMPAS
+D: This boy, who only just before Was loathed, by men from shore to shore, CONTINUED:88 88 This greedy brute, this louse's ear, Is loved by people everywhere! For who could hate or bear a grudge Against a luscious bit of... The Oompa-Loompas part to reveal that Oompa-Augustus is now an oversized box of Wonka candy. The song ends with a big Broadway flourish, changing keys three times over a single syllable:
+E: CONT’D
+C: OOMPA-LOOMPAS
+D: ...Fu-uuh-uhh-uhh-dge! With a quick bow, the Oompa-Loompas disperse, leaving the visitors bewildered. Wonka, however, is APPLAUDING heartily.
+E: CONT’D
+C: WONKA
+D: Bravo! Well done! Aren't they delightful? Aren't they charming?
+C: MR. TEAVEE
+D: They sure are a musical people.
+C: MR. SALT
+D: I do say, that all seemed rather rehearsed.
+C: MIKE
+D: Like they knew what was going to happen to him.
+C: WONKA
+D: Nonsense! Improvisation is a parlor trick. Anyone can do it. You, little girl. Say something. Anything at all. She takes the gum from behind her ear and pops it in her mouth.
+E: points to Violet
+C: VIOLET
+D: Chewing gum.
+C: WONKA
+D: Chewing gum is really gross, Chewing gum, I hate the most! See? Exactly the same.
+E: singing finished
+C: MIKE
+D: No it isn’t. CONTINUED: 88 88
+E: 2
+C: WONKA
+D: You really shouldn’t mumble. I can’t understand a word you’re saying. Now, on with the tour! Before anyone can protest further, Wonka heads down to a dock built on the chocolate river.
+C: CHARLIE
+D: Are the Oompa-Loompas really joking, Grandpa?
+E: to Grandpa Joe
+C: GRANDPA JOE
+D: Of course they're joking. That boy will be fine. Grandpa Joe takes Charlie’s hand, just in case. INT. THE RIVER DOCK - DAY 89 89 In the distance, a steamy fog rises up from the great warm chocolate river. Out of the mist appears a most fantastic pink boat. Built like a Viking ship of old, it looks to be made of bright, pink glass. There are many oars on either side of it, and as the boat comes closer, we can see the oars are pulled by masses of identical OOMPA- LOOMPAS -- at least six of them to each oar. The boat glides up to the dock, where Wonka is changing into an outfit better suited for sailing. The Oompa-Loompas rest on their oars and stare up at the visitors. Then suddenly, for some reason best known to themselves, they all burst into shrieks of LAUGHTER.
+E: In fact, it’s sugar.
+C: VIOLET
+D: What's so funny?
+C: WONKA
+D: Oh, don't worry about them! They're always laughing! I think it’s from all the chocolate. Did you know, there’s a substance in chocolate that releases endorphins exactly like being in love?
+C: MS. BEAUREGARDE
+D: You don’t say. CONTINUED: 88 88 She gives him flirtatious eyes. Wonka is bewildered, and a little annoyed. Meanwhile, the kids eagerly leap on board.
+E: 3
+C: WONKA
+D: You there! Please do not lick the boat! It'll only make it sticky! The boy -- Mike Teavee -- gives a “whatever” shrug and slumps back, hogging a few seats to himself.
+C: MR. TEAVEE
+D: Y’know, you oughta be more respectful.
+E: low, to Mike
+C: MIKE
+D: And you oughta butt out. I didn’t see you winning a Golden Ticket. Veruca and her father take the seats behind the Teavees.
+C: VERUCA
+D: Daddy, I want a boat like this! I want you to buy me a big pink boat exactly like Mr. Wonka's! And I want lots of Oompa-Loompas to row me about, and I want a chocolate river and I want... In the back of the boat, Grandpa Joe WHISPERS to Charlie...
+C: GRANDPA JOE
+D: She wants a good kick in the pants. Charlie smiles. Now that everyone’s aboard --
+C: WONKA
+D: Onward! The Oompa-Loompas push off from the docks, rowing down the chocolate river. Wonka looks for a seat. Ms. Beauregarde gestures that she has one available, but Wonka quickly chooses to sit next to Charlie. With a sudden idea, Wonka picks up a large mug and dips it into the river, filling it with chocolate. He hands it to Charlie. CONTINUED:89 89
+C: WONKA
+D: Drink this. It'll do you good. You look starved to death! Charlie tries it, and as we might expect...
+E: CONT’D
+C: CHARLIE
+D: It’s great!
+C: WONKA
+D: That's because it's mixed by waterfall. Charlie hands the mug over to Grandpa Joe for a taste. Meanwhile, Wonka notices all the children are looking at him.
+C: WONKA
+D: You’re all quite short, aren’t you?
+E: CONT’D
+C: VIOLET
+D: Well, yeah. We’re children?
+C: WONKA
+D: That’s not much of an excuse. I was never as short as you.
+C: MIKE
+D: You were once.
+C: WONKA
+D: Never! For instance, I distinctly remember putting a hat on top of my head. Look at your short arms. You could never reach!
+C: VERUCA
+D: That doesn’t make sense.
+C: WONKA
+D: I didn’t talk back to my elders, either.
+E: to Grandpa Joe
+C: CHARLIE
+D: Do you even remember what it was like being a kid?
+C: WONKA
+D: Do I! Do I? CONTINUED: 89 89
+E: beat; realizing 2
+C: NARRATOR
+D: In fact, Willy Wonka hadn’t thought about his childhood for years. NOSTALGIC TRANSITION TO: EXT. PICKWICKET AVENUE - NIGHT [THIRTY YEARS AGO]90 90 All along this street of narrow row houses, packs of CHILDREN in Halloween costumes go door-to-door. We focus on one group of GHOSTS, WITCHES and MONSTERS as they climb the steps up to a doorway. The littlest witch stands on tip-toes to reach the DOORBELL. CUT TO: INT./EXT. FOYER - NIGHT [THIRTY YEARS AGO]91 91 A PLUMP, JOLLY WOMAN swings open the door, holding a bowl full of candy.
+E: V.O.
+C: THE KIDS
+D: Trick or treat!
+C: JOLLY WOMAN
+D: Oh! Who do we have here? Ruthie, Veronica, Terrance...and who’s that under the sheet? A ghost pulls up his sheet to reveal...
+E: going down the row
+C: JOLLY WOMAN
+D: Little Willy Wonka! Little Willy smiles, though his draconian orthodontic headgear makes it tough. As the Jolly Woman doles out the candy...
+E: CONT’D
+C: NARRATOR
+D: Willy Wonka was the son of the city’s most famous dentist, Wilbur Wadsworth Wonka. TRANSITION TO: CONTINUED: 89 89 EXT. HOUSE ON PICKWICKET AVENUE - NIGHT [THIRTY YEARS AGO]92 92 A sign for “Wonka Dentistry” points down to the basement- level entrance. Still wearing his ghost costume, Willy climbs the stairs to the family home. INT. WONKA FAMILY LIVING ROOM - NIGHT [THIRTY YEARS AGO]93 93 Bizarre, frightening shadows fall upon the panelled walls. As we go WIDER, we find it’s just Little Willy and his Brobdingnagian orthodontics. He’s sitting at the parlor table with his father, DR. WILBUR WONKA, D.D.S., who carries himself with the smug superiority of a man who knows big words for simple things.
+E: V.O. 3
+C: DR. WONKA
+D: Let’s see what the damage is this year, shall we? He upends Willy’s candy bucket, pouring the contents onto the table. As he sorts through it --
+C: DR. WONKA
+D: Caramels. They’d get stuck in your braces, wouldn’t they? He sets the caramels aside.
+E: CONT’D
+C: DR. WONKA
+D: Lollipops. Ought to call them “cavities on a stick.” He puts them aside as well.
+E: CONT’D
+C: DR. WONKA
+D: Which leaves all this chocolate. Now, just last week I was reading in an Important Medical Journal that some children -- I can’t remember the exact percentage -- are allergic to chocolate. It makes their noses itch.
+E: CONT’D
+C: LITTLE WILLY
+D: Maybe I’m not allergic. I could try a piece...
+C: DR. WONKA
+D: But really, why take the chance? With his arm, Dr. Wonka carefully sweeps all the candy off the table, and into a large ashtray. As Little Willy watches in horror, Dr. Wonka dumps the candy into the roaring fireplace. CLOSE ON the sugary treasures as they burn, blue flames POPPING and chocolate melting into the cinders. Dr. Wonka scruffs the top of Little Willy’s head as he walks out of the room. Off Little Willy’s sad eyes, we... MATCH CUT TO: WILLY WONKA.94 94 We’re back in the pink boat as it floats down the chocolate river. Wonka is still lost in the memory.
+C: CHARLIE
+D: Mr. Wonka? Mr. Wonka! We’re headed for a tunnel! Wonka suddenly snaps out of it.
+C: WONKA
+D: Oh! Yes! Full speed ahead! The Oompa-Loompas row faster than ever. As the boat shoots into the pitch-dark tunnel, all the passengers SCREAM with excitement.
+C: VIOLET
+D: How can they see where they're going?
+C: WONKA
+D: There's no knowing where they're going! Switch on the lights! THE WHOLE TUNNEL95 95 suddenly lights up. The upward-curving walls are pure white and spotlessly clean. The river of chocolate flows very fast. The Oompa-Loompas row like crazy to keep up with it.
+C: WONKA
+D: Keep an eye out! We’re passing some important rooms here! CONTINUED:93 93 Several doorways are set into the walls of the tunnel, just above the level of the river. As the boat floats past, there is just enough time to read the writing on the doors:
+C: CLOTTED CREAM COFFEE CREAM PASTRY CREAM
+D: and HAIR CREAM
+C: VIOLET
+D: What do you use hair cream for?
+C: WONKA
+D: To lock in moisture. We pass an OPEN DOOR, inside of which we see a cow hanging from a hammock. An Oompa-Loompa CRACKS a whip in the air. The cow MOOS.
+E: touching his curly locks
+C: CHARLIE
+D: Whipped cream?
+E: to Wonka
+C: WONKA
+D: Precisely! Up next:
+E: impressed
+C: COCOA BEANS COFFEE BEANS JELLY BEANS
+D: and HAS BEANS
+C: VERUCA
+D: What are “Has Beans?”
+C: WONKA
+D: Child stars, former celebrities, the usual lot. Five seconds later, a bright red door comes into sight straight ahead. The sign reads:
+C: INVENTING ROOM
+D: PRIVATE -- KEEP OUT! Wonka waves his gold-topped cane in the air and SHOUTS -- CONTINUED:95 95
+C: WONKA
+D: Stop the boat! This you have to see! INT. THE INVENTING ROOM - DAY 96 96 The place is like a witch's kitchen: black metal pots BOIL and BUBBLE on huge stoves, kettles HISS, pan SIZZLE, strange iron machines CLANK and SPUTTER. Wearing his inventing smock, Wonka hops through the saucepans and the machines like a child among Christmas presents, not knowing which thing to look at first. He lifts the lid from a huge pot and takes a good sniff, then rushes over and dips a finger into a barrel of sticky yellow stuff and has a taste.
+E: CONT'D
+C: WONKA
+D: This is the most important room in the entire factory, where I develop all my secret new inventions! Prodnose and Fickelgruber would give their front teeth to be allowed inside for just three minutes! The group breaks into smaller clusters as the visitors investigate different strange contraptions. The parents hang back while the children keep with Wonka. A small shiny machine goes PHUT-PHUT-PHUT. Every time it goes PHUT, a large green marble-like candy drops out of it into a basket on the floor. Wonka picks one up.
+C: WONKA
+D: Everlasting Gobstoppers! They’re for children who are given very little allowance money. You can suck on it all year and it will never get any smaller!
+E: CONT’D
+C: VIOLET
+D: It's like gum! Wonka can’t believe the idiotic comparison. Almost furious:
+C: WONKA
+D: It is not like gum! Gum is for chewing and if you tried chewing one of these Gobstoppers you'd break your teeth off! CONTINUED: 95 95 But they taste terrific! While Wonka pushes on, Violet look back at her mother, who shoots a chastening glare. Veruca takes Violet by the hand, offering reassurance.
+E: 2 MORE suddenly chipper
+C: VERUCA
+D: I think Mr. Wonka likes you.
+C: VIOLET
+D: Really?
+C: VERUCA
+D: No. Veruca dunks Violet’s hand in a pot of goo, then skips off. Ms. Beauregarde leans down and WHISPERS to Violet:
+C: MS. BEAUREGARDE
+D: Eyes on the prize, Violet. Eyes on the prize. Violet nods. Slapping herself, she puts her game face back on. CHARLIE, MIKE AND WONKAA97 A97 stop beside a large saucepan that boils and bubbles. Standing on his toes, Charlie can see just inside the pot.
+C: WONKA
+D: That's Hair Toffee! You eat one tiny bit, and in exactly half an hour a brand-new crop of hair will start growing out all over the top of your head! And a moustache and a beard!
+C: MIKE
+D: Who wants a beard?
+C: WONKA
+D: Beatniks, for one! Folk singers and motor-bike riders! You know, all those hip, zazzy cats! Charlie and Mike just blink. Wonka’s references are completely lost on them. Moving on... CONTINUED:96 96
+C: WONKA WONKA
+D: Unfortunately the mixture is not quite right. I tried it on an Oompa-Loompa yesterday, and, well... He turns to a massive pile of hair...
+E: CONT'D CONT'D
+C: WONKA
+D: How are you doing today? A tiny Oompa-Loompa hand sticks out from the hairy pile, giving the thumbs up. The shambling mound then begins to walk away. THE CENTER OF THE ROOM97 97 Wonka presses three different buttons on the side of a giant machine. A mighty RUMBLING SOUND comes from inside it, and steam HISSES out of it all over. Instinctively, everyone takes a few steps back. Runny goo pours down glass tubes, squirting into a great tub below. In every single tube the goo is a different color, so that all the colors of the rainbow SLOSH and SPLASH into the tub. A giant whizzer starts whizzing round inside the enormous tub, mixing up all the different colored liquids like an ice cream soda. It becomes frothier and frothier.
+E: CONT’D to the hair and many others as well
+C: WONKA
+D: Watch! This is the crucial part. With a SUCKING noise, all the blue frothy mixture in the huge basin disappears into the stomach of the machine. There is a moment of silence. Then a few odd RUMBLINGS. Silence again. Then suddenly, the machine lets out a monstrous mighty GROAN, and at the same moment
+C: A TINY DRAWER
+D: pops out of the side of the machine. In the drawer lies something so small and thin and grey that everyone thinks it must be a mistake. It looks like a little strip of grey cardboard.
+C: MIKE
+D: You mean that's it?
+C: CONTINUED:A97 A97 WONKA
+D: That's it? Don't you know what “it” is?
+C: VIOLET
+D: It's gum!
+C: WONKA
+D: Yes! It's a stick of gum! Violet and her mother are psyched -- they’re back in the zone.
+C: WONKA
+D: It's a stick of the most amazing and sensational gum in the world! For you see, this gum is a whole three-course dinner all by itself!
+E: CONT’D
+C: MR. SALT
+D: Why would anyone want that?
+C: WONKA
+D: When I start selling this gum in the shops it will change everything! It will be the end of all kitchens and all cooking! Just a little strip of Wonka's magic chewing gum -- and that's all you'll ever need at breakfast, lunch, and dinner! This piece of gum I've just made happens to be tomato soup, roast beef, and blueberry pie! No one notices as Violet takes her own world-record piece of chewing gum out of her mouth and sticks it behind her left year.
+C: MR. TEAVEE
+D: What do you mean, it's tomato soup, roast beef, and blueberry pie?
+C: WONKA
+D: If you were to start chewing it, then that is exactly what you would get. You can taste it perfectly! And it fills you up! It's terrific.
+C: GRANDPA JOE
+D: It sounds great. CONTINUED:97 97
+C: VERUCA
+D: It sounds weird.
+C: VIOLET
+D: It sounds like my kind of gum. Violet takes the stick out of the drawer.
+C: WONKA
+D: I would rather you didn't. There are still one or two things...
+C: VIOLET
+D: I’m the world-record holder in chewing gum. I’m not afraid of anything! Before Wonka can stop her, VIOLET POPS IT INTO HER MOUTH. 98 98 At once, her well-trained jaws start chewing away on it like a pair of tongs.
+C: MS. BEAUREGARDE
+D: How is it, honey?
+C: VIOLET
+D: It’s amazing. Tomato soup! I can feel it running down my throat!
+C: WONKA
+D: You really should spit it out.
+C: GRANDPA JOE
+D: Young lady, I think you better...
+C: VIOLET
+D: It's changing. It's roast beef! Baked potato. With crispy skin and butter.
+E: still chewing
+C: MS. BEAUREGARDE
+D: Keep chewing, kiddo. My little girl is the first person in the world to have a chewing-gum meal! Charlie stares at Violet absolutely spellbound, watching her huge rubbery lips as they press and unpress with chewing. Wonka wrings his hands... CONTINUED: 97 97
+E: 2
+C: WONKA
+D: I’m just concerned about the...
+C: VIOLET
+D: Blueberry pie and ice cream!
+C: VERUCA
+D: What's happening to her nose?
+C: MR. SALT
+D: It's turning blue! Indeed, the tip of Violet’s nose has become a very noticeable shade of blue. What’s more, the color is spreading.
+C: MS. BEAUREGARDE
+D: Your whole nose has gone purple!
+C: VIOLET
+D: What do you mean?
+C: MS. BEAUREGARDE
+D: Violet, you're turning...violet! What’s happening?
+C: WONKA
+D: I told you I hadn't got it quite right. Violet's face and hands and legs and neck, in fact the skin all over her body, as well as her hair, has turned a brilliant, purplish-blue, the color of blueberry juice.
+C: WONKA
+D: It always goes wrong when we come to the dessert. It's the blueberry pie that does it.
+E: CONT'D to Mr. Teavee
+C: VIOLET
+D: I don’t feel so good.
+C: GRANDPA JOE
+D: She’s swelling up!
+C: CHARLIE
+D: Like a blueberry. Indeed, her track suit is starting to bulge in the center, as her stomach inflates to giant proportions. CONTINUED:98 98 FROM A VERY SHORT DOORWAY, 99 99 a new group of Oompa-Loompas rush in. They quickly climb on top of all the tables, shelves and other furniture. Their new song is a Queen-worthy ROCK OPERA, accented by miniature pyrotechnics coming off the various machines. They sing:
+C: OOMPA-LOOMPAS
+D: Listen close, and listen hard, To the tale of Violet Beauregarde! This dreadful girl, she sees no wrong In chewing, chewing all day long. As they sing, they toss bits of laboratory equipment back and forth. Pot lids slice through the air like frisbees. One nearly decapitates Mr. Teavee. Meanwhile, Violet continues to swell.
+C: WONKA
+D: I've tried it on twenty Oompa- Loompas, and every one of them finished up as a blueberry. I just can't understand it.
+E: sighing
+C: MS. BEAUREGARDE
+D: But I don't want a blueberry for a daughter! How is she supposed to compete?
+C: VERUCA
+D: You could put her in a State Fair.
+C: VIOLET
+D: Ahhhh... Violet falls over backwards, but her butt is now so big she barely drops at all. In mere moments, all that remains of Violet is a tiny pair of legs and a tiny pair of arms sticking out of the great round fruit, and a little head on top. As the Oompa-Loompas continue their song, they roll her around.
+C: OOMPA-LOOMPAS
+D: She goes on chewing till, at last, Her chewing muscles grow so vast That from her face her giant chin Sticks out like a violin. For years and years she chews away, Consuming fifty packs a day. She chews and chews throughout the night, With nothing handy there to bite. Until at last her jaws decide To pause and open extra wide, And with the most tremendous chew They bite the poor girl’s tongue in two. The MUSIC stops. The Oompa-Loompas continue a cappella.
+C: OOMPA-LOOMPAS
+D: Thereafter, just from chewing gum, Miss Beauregarde is always dumb. And that is why we'll try so hard To save Miss Violet Beauregarde From suffering her chosen fate. She's still quite young. It's not too late, Provided that she takes the cure. MUSIC kicks back in for a massive power-chord finale:
+E: CONT’D
+C: OOMPA-LOOMPAS
+D: We hope she does! We can't be sure! Wonka APPLAUDS, gesturing for the others to join him.
+E: CONT’D
+C: WONKA
+D: Roll Miss Beauregarde into the boat and take her along to the Juicing Room at once.
+C: MS. BEAUREGARDE
+D: The Juicing Room? What are they going to do to her there?
+C: WONKA
+D: Squeeze her. We've got to squeeze the juice out of her immediately. But don't worry, ma’am. We've had lots of practice with this. Already, ten Oompa-Loompas roll the enormous blueberry across the floor and out the door. CONTINUED:99 99
+C: VIOLET
+D: Mother! Ms. Beauregarde hurries after them. TRANSITION TO: INT. ANOTHER HALLWAY - DAY 100 100 Walking just as briskly as ever, Wonka leads the remaining party to a new section of the factory. He’s wearing another new outfit. There are doors every twenty feet or so along the corridor now, and they each have something written on them, and strange CLANKING noises come from behind several of them. Sometimes little jets of colored steam shoot out from the cracks underneath.
+C: WONKA
+D: Without the boat, we’ll have move double-time to just keep on schedule. There’s really far too much to see. Charlie almost has to run to keep up with him.
+C: CHARLIE
+D: Mr. Wonka?
+C: WONKA
+D: Yes!
+C: CHARLIE
+D: Why did you decide to let people in?
+C: WONKA
+D: So they could see the factory, of course!
+C: CHARLIE
+D: But why now? And why only five? Wonka stops.
+C: WONKA
+D: Do you always ask so many questions? CONTINUED: 99 99
+E: 2
+C: CHARLIE
+D: Yes.
+C: MIKE
+D: What’s the special prize one of us gets at the end? And who gets it?
+C: WONKA
+D: The best kind of prize is a surprise. Feeling left out...
+C: VERUCA
+D: Will Violet always be a blueberry?
+C: WONKA
+D: She’ll be a rich shade of purple. But that’s what you get from chewing gum all day?
+C: MIKE
+D: If you hate gum so much, why do you make it? Stumped...
+C: WONKA
+D: Once again, you really shouldn’t mumble! Wonka notices another door he hadn’t planned to show. But now that they’ve stopped...
+C: WONKA
+D: Oooh! I am very proud of my Square Candies That Look Round. Let's take a peek. INT. SQUARE CANDY ROOM - DAY 101 101 Wonka leads the group up to a long table with rows and rows of small white square-shaped candies. The candies look very much like sugar cubes -- except that each of them has a funny little pink face painted on one side. At the end of the table, a number of Oompa-Loompas busily paint more faces on more candies. CONTINUED:100 100
+E: CONT’D
+C: WONKA
+D: There you are! Square candies that look round.
+C: MIKE
+D: No they don’t.
+C: MR. TEAVEE
+D: They don't look round to me.
+C: VERUCA
+D: They look square. They look completely square.
+C: WONKA
+D: But they are square. I never said they weren't.
+C: VERUCA
+D: You said they were round.
+C: WONKA
+D: I never said anything of the sort. I said they looked round.
+C: VERUCA
+D: But they don't look round! They look square!
+C: WONKA
+D: They look round.
+C: VERUCA
+D: They most certainly do not look round.
+C: MR. SALT
+D: Veruca, honey. Pay no attention to Mr. Wonka. As Mr. Salt moves to comfort Veruca, all the rows and rows of little square candies quickly turn to look at him.
+C: MR. TEAVEE
+D: Holy...
+C: WONKA
+D: There you are! They're looking ’round! There's no argument about it! They are square candies that look ’round! CONTINUED:101 101
+C: GRANDPA JOE
+D: By golly, he's right!
+C: VERUCA
+D: Well, I wouldn’t want to eat one.
+C: WONKA
+D: They wouldn’t want to eat you either!
+C: MR. TEAVEE
+D: Mr. Wonka, no offense, but you make some really strange candy.
+C: WONKA
+D: I suppose I make whatever I feel like. Always have.
+C: CHARLIE
+D: What was the first candy you ever ate?
+C: WONKA
+D: I’m sure I don’t remember. All the square candy looks at each other -- yeah, right.
+C: NARRATOR
+D: In fact, Willy Wonka remembered precisely the first candy he ever ate. TRANSITION TO: INT. WONKA FAMILY LIVING ROOM - DAY [THIRTY YEARS AGO]102 102 Still wearing his draconian headgear, Little Willy sweeps the ashes out of the fireplace, dumping them into a bucket. As he finishes, he notices a piece of silvery foil caught in the grate. One piece of Halloween candy has escaped the flames. The wrapping CRINKLES in his hand as he picks it up. Looking around, he carefully peels back the foil, revealing the still- intact chocolate bar. After one more beat of consideration, he bites into it. To the OPENING CHORDS of “All Along the Watchtower” we begin a SPINNING PERSPECTIVE SHIFT that would leave Hitchcock jealous. In Little Willy’s eyes, we see a revelation. CONTINUED: 101 101 He’s like Isaac Newton getting beaned by the apple, or Helen Keller learning the word for water. The same delirious energy carries us to... EXT. CHERRY STREET - DAY [THIRTY YEARS AGO]103 103 Little Willy sits on the curb with a sampler box of Russell Stover-type candies. As he bites into each one, we see a boy discovering his destiny. He jots down his impressions in a tiny notebook. EXT. CHERRY STREET - DAY [THIRTY YEARS AGO]104 104 With a rhythmic synchronicity, Wonka slips coins into a gumball machine and twists the knob. INT. SWISS RESTAURANT - DAY [THIRTY YEARS AGO]105 105 The HEAD CHEF offers Willy a long fork with a bread cube on the end. He shows Willy how to dip it into the chocolate fondue. EXT. CHERRY STREET - DAY [THIRTY YEARS AGO]106 106 Little Willy tosses one lollipop and tries another. INT. CANDY SHOP - DAY [THIRTY YEARS AGO]107 107 Young Willy watches, mesmerized, as a CANDY MAKER scrapes up ropes of molten sugar on a marble table. EXT. CHERRY STREET - DAY [THIRTY YEARS AGO]108 108 Little Willy checks his reflection in the candy shop’s window. He takes the lollipop out of his mouth and sticks out his tongue, which is now six different colors. He LAUGHS to himself as we transition...
+E: V.O. 2
+C: BACK TO:
+D: INT. SQUARE CANDY ROOM - DAY 109 109 Wonka looks around, disoriented. By the puzzled looks on people’s faces, he’s been “gone” for a minute or two. CONTINUED:102 102
+C: WONKA
+D: I apologize. I was having a... flashback.
+C: MR. SALT
+D: I see. Mr. Salt carefully moves his daughter away from the crazy man.
+C: MR. TEAVEE
+D: Those flashbacks happen often?
+C: WONKA
+D: Increasingly. Today. INT. FACTORY HALLWAY - DAY 110 110 Wonka is back to his senses, leading the visitors around a new corner.
+C: WONKA
+D: These are all the additions and inserts: the nougats, the sprinkles, the whistle-y centers... Mr. Salt sees a sign that interests him.
+C: MR. SALT
+D: Ah, now here’s a room I know all about. For you see, Mr. Wonka, I myself am in the nut business. Tell me, are you using the Havermax 4000 to do your sorting?
+C: WONKA
+D: No. Nothing of the kind. Wonka opens the door for him. INT. NUT-SORTING ROOM - DAY 111 111 The visitors enter on a raised platform, which is surrounded by a railing and spindly bars for safety. This dais overlooks the work floor, where the day’s nut-sorting is underway. But the workers aren’t human, or even Oompa- Loompa. They’re...
+C: VERUCA
+D: Squirrels! CONTINUED:109 109 ONE HUNDRED SQUIRRELS sit upon high stools around a large table, which holds mounds of walnuts. The squirrels work like mad, shelling the walnuts at tremendous speed.
+C: WONKA
+D: Yes. These squirrels are specially trained for getting the nuts out of shells. Mr. Salt is perplexed, to say the least.
+C: MR. SALT
+D: Why use squirrels? Why not use Oompa-Loompas?
+C: WONKA
+D: Oompa-Loompas can't get walnuts out of their shells in one piece. Nobody except squirrels can get whole walnuts out every time. See how they first tap each walnut with their knuckles to be sure it's not a bad one! There! Look! I think he's got a bad one now! They watch a little squirrel as he TAPS the walnut shell with his knuckles. He cocks his head to one side and listens intently, then suddenly throws the nut over his shoulder into a large hole in the floor.
+E: motioning them closer
+C: VERUCA
+D: Daddy, I want a squirrel! Get me one of those squirrels! I want one.
+C: MR. SALT
+D: Veruca, dear. You have many wonderful pets. Veruca begins to cry fiery tears.
+C: VERUCA
+D: All I've got at home is two dogs and four cats and six rabbits and two parakeets and three canaries and a green parrot and a turtle and a bowl of goldfish and a cage of white mice and a silly old hamster! I want a squirrel! CONTINUED:111 111
+C: MR. SALT
+D: All right, pet. Daddy'll get you a squirrel just as soon as he possibly can.
+C: VERUCA
+D: But I don't want any old squirrel, I want a trained squirrel!
+C: MR. SALT
+D: Very well. Mr. Wonka, how much do you want for one of these squirrels? Name your price.
+C: WONKA
+D: They're not for sale. She can't have one.
+C: VERUCA
+D: Daddy!
+C: WONKA
+D: I’m sorry, darling. Mr. Wonka is being unreasonable.
+C: VERUCA
+D: If you won’t get me one, I’ll get one myself. Squeezing between the bars, VERUCA LEAPS DOWN. 112 112 The bars are too close together for an adult to follow.
+C: MR. SALT
+D: Veruca!
+C: WONKA
+D: Little girl, I wouldn’t! The moment Veruca sets foot on the work floor, one hundred squirrels stop what they are doing. They turn their heads and stare at Veruca with small black beady eyes. Veruca stops also, and stares back at them. She nervously adjusts her chinchilla-lined coat. Then her gaze falls upon a pretty little squirrel sitting nearest her at the end of the table. It holds a walnut in its paws. CONTINUED: 111 111
+E: 2
+C: VERUCA
+D: All right. I'll have you! She reaches out her hands to grab the squirrel. But as she does so, there is a sudden flash of movement in the room. Every single squirrel around the table takes a flying leap towards her and lands on her body. Twenty-five of them catch hold of her right arm and pin it down. Twenty-five more catch hold of her left arm and pin it down. Twenty-five more catch hold of her right leg and anchor it to the ground. Twenty-four catch hold of her left leg. And the one remaining squirrel climbs up on her shoulder and starts TAP-TAP-TAPPING the wretched girl's head with its knuckles.
+E: the leader of them all
+C: MR. SALT
+D: Veruca!
+C: CHARLIE
+D: What are they doing?
+C: WONKA
+D: They're testing to see if she's a bad nut. I wonder... Veruca struggles furiously, but the squirrels hold her tight. The squirrel keeps TAP-TAP-TAPPING the side of her head. Then all at once, the squirrels start carrying her across the floor.
+C: WONKA
+D: My goodness, she is a bad nut after all! Her head must have sounded quite hollow. Veruca kicks and SCREAMS, but it's no use. The tiny strong paws hold her tightly and she can't escape.
+E: CONT’D
+C: VERUCA
+D: Daddy! I want them to stop!
+C: MR. SALT
+D: Where are they taking her?
+C: WONKA
+D: Where all the other bad nuts go. Down the garbage chute. CONTINUED:112 112 As he talks, Wonka sorts through his keys, trying to find one that unlocks the railing gate.
+C: MR. SALT
+D: What happens to the bad nuts? Where does the chute go?
+C: WONKA
+D: Why to the furnace, of course. The incinerator. Don't worry. They only light it on Tuesdays. Wonka tries a key, but it doesn’t fit.
+C: MIKE
+D: Today is Tuesday.
+C: WONKA
+D: There's always a chance they decided not to light it today.
+C: MR. SALT
+D: My darling Veruca! She'll be sizzled like a sausage! The squirrels toss Veruca into the hole.
+C: MR. SALT
+D: Aah!
+E: CONT’D
+C: WONKA
+D: Now, she may be stuck in the chute just below the entrance hole. If that's the case, all you'll have to do is go in and pull her up again. Wonka turns a key, and the gate opens. Encouraged, Mr. Salt rushes up to the edge of the hole.
+C: MR. SALT
+D: Veruca! Are you down there! Veruca! As MUSIC begins, Mr. Salt bends further forward to get a closer look. His enormous butt sticks up in the air like a giant mushroom. It is a dangerous position to be in. He needs only one little push, one gentle nudge in the right place. With a flying kick, one squirrel hits him dead center. CONTINUED: 112 112 Mr. Salt topples into the hole head-first, SCREECHING like a parrot. On the platform, everyone is horrified. An Oompa-Loompa tugs at Wonka’s leg. Wonka leans down as the Oompa-Loompa WHISPERS to him.
+E: 2
+C: WONKA
+D: I’ve just been informed the incinerator is broken. There should be three weeks of rotten garbage to break their fall!
+E: to everyone
+C: MR. TEAVEE
+D: Well, that’s good news. Sorta. The lights on the work floor dim. Then, wearing colorful kaftans and silks, the... OOMPA-LOOMPAS MARCH IN.113 113 This time, their SONG AND DANCE NUMBER has a Bollywood flair, complete with fans, masks and faux-saber battles.
+C: OOMPA-LOOMPAS
+D: Veruca Salt. The little brute. Has just gone down the garbage chute. Two of the Oompa-monks throw off their robes, revealing themselves to be OOMPA-VERUCA and OOMPA-MR-SALT. The tempo picks up as the monks carry oversized pieces of garbage past Oompa-Veruca, depicting her journey down the chute.
+E: singing
+C: OOMPA-LOOMPAS
+D: She will meet, as she descends, A rather different set of friends. A fish head, for example, cut This morning from a halibut. A bacon rind, some rancid lard, A loaf of bread gone stale and hard, A steak that nobody would chew, An oyster from an oyster stew, Some liverwurst so old and gray, One smelled it from a mile away! A rotten nut, a reeky pear, A thing the cat left on the stair; And lots of other things as well, Each with a rather horrid smell. These are Veruca's newfound friends That she will meet as she descends! CONTINUED: 112 112 Oompa-Veruca SCREAMS, both out of faux-revulsion and to bring the song back to herself. Once she’s safely scored the spotlight, she tries a little belly-dancing. The squirrels try to nip at her toes.
+E: CONT’D 3
+C: OOMPA-VERUCA
+D: Now, is it really right, That every bit of blame, Finger-pointing giggles, Not to mention shame, Should fall upon Veruca Salt? Am I the only one at fault? A girl can't spoil herself, you know.
+C: OOMPA-MR-SALT
+D: Who spoiled her, then? The Oompa-Loompas turn on “Mr. Salt,” swirling around him.
+C: OOMPA-LOOMPAS
+D: Who turned her into such a brat? Who is the culprit? Who did that? Alas you shouldn't look so far To find out who the sinners are. They are Her parents, yes -- like dear old Dad. The song nearly finished...
+E: and this is very sad
+C: OOMPA-LOOMPAS
+D: And that is why we're glad he fell Into the garbage chute as wel-l-l-l-l-l-l. With a DING!, we... CUT TO: INT. THE GREAT GLASS ELEVATOR - DAY 114 114 The doors slide open, revealing what’s left of the visitors: Charlie and Grandpa Joe, Mike Teavee and his father, and Wonka himself. He’s fixing the cuffs on another new outfit.
+E: CONT’D
+C: WONKA
+D: I don’t know why I didn’t think of this earlier. The elevator is the most efficient way to get around the factory. CONTINUED:113 113 As they get inside, the visitors notice that the walls, floor and ceiling are made of glass -- you can see though to the studs of the building. Also, there are hundreds of buttons.
+C: MIKE
+D: There can’t be this many floors.
+C: WONKA
+D: Oh, this isn't just an ordinary up- and-down elevator! This elevator can go sideways and longways and slantways and any other way you can think of! It can visit any single room in the whole factory, no matter where it is! You simply press a button and you’re off! For instance... He presses a button labelled “Candy Canes.” THE DOORS CLANG SHUT 115 115 and the elevator leaps sideways as though it has been stung by a wasp. All the passengers are flung off their feet against the wall. The elevator rushes on at the speed of a rocket. Now it begins to climb. It shoots up and up and up on a steep slanty course as if it were climbing a very steep hill. Then suddenly, it drops like a stone. And through the glass walls of the elevator, as it rushes along, the passengers catch sudden glimpses of strange and wonderful things going on in some of the other rooms. In one, a great, craggy mountain is made entirely of fudge. Oompa-Loompas hack huge chunks of fudge out of its sides.
+E: except Wonka, who holds onto a strap from the ceiling all roped together for safety
+C: MIKE
+D: Make it stop!
+C: WONKA
+D: Can't do that. It won't stop until we get there. I only hope no one's using the other elevator at this moment.
+C: CHARLIE
+D: What other elevator? CONTINUED:114 114
+C: WONKA
+D: The one that goes the opposite way on the same track as this one.
+C: GRANDPA JOE
+D: You mean we might have a collision?
+C: WONKA
+D: I've been lucky so far. A SCREAM of brakes and the elevator begins to slow down. Then it stops altogether. With a DING!, the doors slide open. INT. CANDY CANE ROOM - DAY 116 116 This room is one of the busiest and NOISIEST we’ve entered, with dozens of Oompa-Loompa carrying racks of candy along various levels of platforms. Wonka leads the group out of the elevator. He walks backwards to talk with them, at every step barely avoiding impalement or decapitation from all the equipment moving around him.
+C: WONKA
+D: I’m a very observant person, and I’ve often observed that old people... ...such as yourself...don’t eat enough candy. What’s more, I’ve often seen them carrying walking sticks. Which led me to think, what if I were to invent...
+E: to Grandpa Joe
+C: CHARLIE
+D: A candy cane?
+C: WONKA
+D: No, a candy cane! Wonka takes a passing cane -- three-and-a-half-feet long -- off a nearby rack. He hands it to Grandpa Joe.
+C: WONKA
+D: Why don’t you try it? Grandpa Joe takes a few steps, putting his weight on it. The cane suddenly SHATTERS into a mess of sugary shards. CONTINUED:115 115
+E: CONT’D
+C: WONKA
+D: Oh, they’re extremely fragile! They really don’t work at all.
+E: CONT’D
+C: MIKE
+D: Then why would anyone want one?
+C: WONKA
+D: Exactly! That’s called marketing! Now, who else uses canes? Everyone thinks.
+C: CHARLIE
+D: Shepherds? To tend sheep?
+C: WONKA
+D: Tried it. The sheep ate them, and it made them mean. Anyone else? No? Well, we discovered they’re perfect for crocheting giant novelty sweaters!
+C: MIKE
+D: Why don’t you just admit they’re completely pointless? Wonka is taken aback.
+C: CHARLIE
+D: Candy doesn’t have to have a point. That’s why it’s candy.
+C: MIKE
+D: Well, it’s stupid. We SWOOP IN into a giant close-up of Mike’s lips.
+C: MIKE
+D: Candy is a waste of time. When we PULL BACK OUT, we’ve actually... TRANSITIONED TO: INT. WONKA FAMILY LIVING ROOM - DAY [THIRTY YEARS AGO]117 117 It was actually Dr. Wonka who said the line. We’ve entered in the middle of an argument between Little Willy and his father. CONTINUED:116 116
+E: CONT’D
+C: DR. WONKA
+D: No son of mine is going to be a chocolateer!
+C: LITTLE WILLY
+D: Then I’ll run away! To Switzerland! Bavaria! The candy capitals of the world!
+C: DR. WONKA
+D: Go ahead. We won’t be here when you come back. Little Willy grabs his knapsack and runs out the front door. CUT TO: MONTAGE118 118 Knapsack over his shoulder, Little Willy walks toward camera as a procession of international flags move behind him, illustrating his great journey. Through it all, Little Willy maintains a stoic, inspired attitude. A man’s hand lands on his shoulder. Little Willy looks up to find a SECURITY GUARD.
+C: SECURITY GUARD
+D: Sorry, son. We’re closing for the night.
+C: WIDER
+D: we reveal that this “montage” has actually just been Little Willy walking through the local museum. The sign on the wall reads: “FLAGS OF THE WORLD.” CUT TO: EXT. PICKWICKET AVENUE - NIGHT [THIRTY YEARS AGO]119 119 Dejected, Little Willy walks home. He’s given up on his dream. As he reaches the front steps of his family’s house, he notices something odd.
+C: THE HOUSE IS GONE.
+D: It’s been ripped from its foundation and carried away, leaving the two narrow row houses on either side of it. CONTINUED:117 117 Little Willy drops his knapsack in disbelief. TRANSITION TO: INT. THE GREAT GLASS ELEVATOR - DAY 120 120 Dispirited, Wonka gets back on board, along with the remaining visitors.
+C: MIKE
+D: I wanna pick a room.
+C: WONKA
+D: Certainly. Any room you’d like. Mike scans the choices, then settles on a button marked “Television Room.” He pushes the button. For a long beat, nothing happens. Then, suddenly, the whole elevator LURCHES to the right, throwing everybody but Wonka against the left wall. After another dizzying trip, the elevator finally stops. With a DING!, the doors open. INT. THE TELEVISION ROOM - DAY 121 121 Mike and his father, Charlie and Grandpa Joe step out of the elevator into a room so dazzlingly white and bright that they screw up their eyes in pain. Wonka hands them each a pair of dark glasses.
+C: WONKA
+D: Put these on quick! And don't take them off in here whatever you do! This light could blind you! The giant room is painted white all over, even the floor. From the ceiling, huge lamps hang down and bathe the room in a brilliant blue-white light. At one end of the room is an enormous camera on wheels, with a whole army of OOMPA-LOOMPAS clustered around it. They oil its joints, adjusts its knobs, and polish its great glass lens. The Oompa-Loompas wear bright-red space suits, complete with helmets and goggles. They work in silence. There is no chattering or singing among them here, and they move about over the huge black camera slowly and carefully in their scarlet space suits. CONTINUED:119 119
+C: WONKA
+D: This is the testing room for my very latest and greatest invention: Television Chocolate! At the other end of the room, about fifty feet away from the camera, a single OOMPA-LOOMPA sits at a black table. He gazes at the screen of a very large television set.
+E: CONT'D also in a space suit
+C: WONKA
+D: One day, it occurred to me: If television can break up a photograph into millions of pieces and send it whizzing through the air, then reassemble it on the other end, why can't I do the same thing with chocolate? Why can't I send a real bar of chocolate through the television, all ready to be eaten?
+E: CONT’D
+C: MR. TEAVEE
+D: Sounds impossible.
+C: MIKE
+D: It is impossible. You don’t understand anything about science at all! First off, there’s a difference between waves and particles. Duh! Second, the amount of power it would take to convert energy into matter would be like, nine atomic bombs. You’re the dumbest rich guy in the whole world.
+E: to Wonka
+C: WONKA
+D: Again, with the mumbling. I can’t understand a word you’re saying! I shall now send a bar of chocolate from one end of this room to the other -- by television! Get ready, there! Bring the chocolate! Immediately, ten Oompa-Loompas march forward carrying on their shoulders an enormous bar of chocolate -- the size of a mattress. CONTINUED:121 121
+E: to everyone else
+C: WONKA
+D: It has to be big. You know how on t.v., you can film a normal-sized man, but he comes out this tall? Now then! Switch on! One of the Oompa-Loompas grabs a very large switch and pulls it down. There is a blinding FLASH. Charlie is the first to notice--
+E: CONT'D shows with fingers
+C: CHARLIE
+D: It’s gone! Indeed, the enormous bar of chocolate has disappeared completely into thin air.
+C: WONKA
+D: It is now rushing through the air above our heads in a million tiny pieces. Quick! Come over here! He dashes over to the other end of the room to the large television set. The others follow.
+C: WONKA
+D: Watch the screen. Here it comes. Look! The t.v. flickers and lights up. Then suddenly, a small bar of chocolate appears in the middle of the screen.
+E: CONT'D
+C: WONKA
+D: Take it!
+E: CONT'D to Mike
+C: MIKE
+D: It's just a picture on a screen.
+C: WONKA
+D: You take it! Reach out and grab it. Charlie puts out his hand and touches the screen, and suddenly, miraculously, the bar of chocolate comes away in his fingers. He is so surprised he nearly drops it.
+E: points to Charlie
+C: GRANDPA JOE
+D: Holy buckets. CONTINUED: 121 121
+E: 2
+C: WONKA
+D: Eat it! Go on, eat it! It'll be delicious. It's the same bar! It's gotten smaller on the journey, that's all! Charlie unwraps it and takes a bite.
+C: CHARLIE
+D: It’s great!
+C: MR. TEAVEE
+D: It's a miracle! For his part, Mike is speechless. He keeps trying to figure out how Wonka did it.
+C: WONKA
+D: Imagine -- you're sitting at home watching television and suddenly a commercial will flash onto the screen and a voice will say, WONKA'S CHOCOLATES ARE THE BEST IN THE WORLD! IF YOU DON'T BELIEVE US, TRY ONE FOR YOURSELF! And you simply reach out and take one. How about that?
+C: MR. TEAVEE
+D: Can you send other things? Breakfast cereal?
+C: WONKA
+D: Uggh! Do you know what breakfast cereal is made of? It's just those little curly wooden shavings you find in pencil sharpeners!
+C: CHARLIE
+D: But could you send it by television if you wanted to?
+C: WONKA
+D: Of course I could!
+C: MIKE
+D: What about people?
+C: WONKA
+D: Why would I want to send a person? CONTINUED: 121 121
+E: 3
+C: MIKE
+D: Don’t you realize what you invented? It’s a teleporter. It’s the most important invention in the history of the world! But all you think about is chocolate!
+C: MR. TEAVEE
+D: Calm down, Mike. I think Mr. Wonka knows what he’s doing.
+C: MIKE
+D: No he doesn’t! He has no idea! You think he’s a genius, but he’s an idiot! But I’m not. Mike takes off running towards the camera.
+E: beat
+C: WONKA
+D: No, no, no, no! There is no stopping Mike now. The crazy boy rushes to the enormous camera, scattering Oompa-Loompas left and right. He jumps straight for the switch. A BLINDING FLASH. 122 122 Then silence.
+C: MR. TEAVEE
+D: He's gone! Mike! He's gone! As zany COMMERCIAL-JINGLE MUSIC kicks in, the Oompa-Loompas throw off their helmets and start one last song-and-dance:
+C: OOMPA-LOOMPAS
+D: Not to worry! Not to panic! So this kid of yours has got you manic. There’s a problem -- we can fix it. Our solution truly licks it. And it’s yours for merely 19.95! On a small cart, they wheel out a box covered with question marks, a la “Let’s Make a Deal!” Two Oompa-Loompas hold up plexiglass in front of it, labelled “CREDIT CARDS ACCEPTED.”
+N: CONTINUED: (4)121 121
+C: WONKA
+D: We must watch the television set! He may come through any moment. I just hope that no part of him gets left behind.
+E: ignoring the song
+C: MR. TEAVEE
+D: What do you mean?
+C: WONKA
+D: Sometimes only half of the little pieces find their way to the television set. They all stare tensely at the screen, which is blank.
+C: OOMPA-LOOMPAS
+D: We say with no derision, Mike was raised by television, He fell into its sweet-as-honey trap!
+C: CHARLIE
+D: Something's happening! The screen suddenly flickers. Then some wavy lines appear. Wonka adjusts one of the knobs.
+C: WONKA
+D: If you had to choose only one-half of your son...
+C: MR. TEAVEE
+D: I’d probably pick the top half. Yeah, definitely. The top half. The screen gets brighter and brighter.
+E: beat; considering
+C: OOMPA-LOOMPAS
+D: You may well applaud us At Confederated Products, But our technology is truly nothing new!
+C: WONKA
+D: Here he comes! Yes, that's him all right.
+C: MR. TEAVEE
+D: Is he all in one piece? CONTINUED:122 122
+C: WONKA
+D: It's too early to tell. Faintly at first, but becoming clearer and clearer, the picture of Mike appears on screen. He stands up and waves to his audience, grinning from ear to ear.
+C: GRANDPA JOE
+D: He's so small!
+C: WONKA
+D: Grab him! Quick! Mr. Teavee shoots out his hand and picks the tiny figure of Mike out of the screen. He’s smaller than an Oompa-Loompa, even. His voice is high and squeaky.
+C: MIKE
+D: I told you I was right!
+C: OOMPA-LOOMPAS
+D: Now Mr. Know-It-All is just seven inches tall. Yet somehow he is still as big a pest.
+C: WONKA
+D: Thank heavens! He's completely unharmed!
+C: MR. TEAVEE
+D: We can't send him back to school like this. He'll get trod upon. Squashed.
+C: MIKE
+D: Just put me back through the other way!
+C: WONKA
+D: There is no “other way.” It’s television, not telephone. There’s quite a difference. Scientifically.
+C: MR. TEAVEE
+D: Well, how can we make him grow?
+C: WONKA
+D: Young men are extremely springy and elastic. They stretch like mad. So what we'll do, we'll put him in the ribbon candy puller. CONTINUED: 122 122
+E: 2
+C: MR. TEAVEE
+D: How far d'you think he'll stretch?
+C: WONKA
+D: Who knows? But he's going to be awfully thin. Everything gets thinner when you stretch it. As one Oompa-Loompa leads Mr. Teavee away, the others finish the song.
+C: OOMPA-LOOMPAS
+D: To avoid this situation, And the constant aggravation, May we offer you a sample of our wares? The Oompa-Loompas lift the mystery box, revealing a remote control. They hand it to Mr. Teavee.
+C: OOMPA-LOOMPAS
+D: For the unfortunate collision Of a boy and television, A pig who won’t stop feeding at the trough. Simply... Turn it off! Mr. Teavee aims the remote at the television screen and CLICKS. The picture shrinks down to a tiny dot. As it does, all the lights go out. CUT TO: MOMENTS LATER123 123 The television room quite a bit darker -- just a few pools of light. Back at the table with the television set, Wonka takes Charlie and Grandpa Joe’s sunglasses and begins walking back to the great glass elevator.
+E: CONT’D
+C: WONKA
+D: There’s still a lot to see. Now, how many children are left? Charlie looks up at Grandpa Joe. Grandpa Joe looks back at Charlie.
+C: GRANDPA JOE
+D: Mr. Wonka, there's...there's only Charlie left now. CONTINUED: 122 122 Wonka swings around and stares at Charlie. There is silence. Charlie stands there holding tightly onto Grandpa Joe's hand.
+E: 3
+C: WONKA
+D: You mean you're the only one?
+C: CHARLIE
+D: Yes.
+C: WONKA
+D: But my dear boy, that means you've won! Oh, I do congratulate you! I really do! I'm absolutely delighted! I had a hunch, you know, right from the beginning! Well done! Of course, Charlie has no idea what he’s won. He and Grandpa Joe simply follow along.
+E: shakes Charlie’s hand
+C: WONKA
+D: Now we mustn't dilly! Or dally! We have an enormous number of things to do before the day is out! Just think of the arrangements that have to be made! But luckily for us, we have the great glass elevator to speed things up! WHACK! He walks right into the side of it -- it’s nearly invisible. Trying to cover his blunder...
+E: CONT’D
+C: WONKA
+D: Door’s on this side. INT. THE GREAT GLASS ELEVATOR - DAY 124 124 As the doors shut, Wonka reaches for a button high up on the glass ceiling of the elevator. Charlie and Grandpa Joe both crane their necks to read what is says on the little label beside the button. It says: UP AND OUT.
+E: CONT’D
+C: CHARLIE
+D: Up and out? What kind of room is that? Wonka presses the button. The glass doors close. CONTINUED:123 123
+C: WONKA
+D: Hold on. WHAM! 125 125 The elevator shoots straight up like a rocket.
+C: WONKA
+D: Faster! Faster! Faster! If we don't go any faster than this, we’ll never get through!
+E: bangs wall of elevator
+C: CHARLIE
+D: Get through what?
+C: WONKA
+D: See, I've been longing to press this button for years! But I couldn't bear the thought of making a great big hole in the roof of the factory! Here we go, now. Up and out!
+C: GRANDPA JOE
+D: But do you really mean...you don't really mean this elevator...
+C: WONKA
+D: Oh yes, I do! You wait and see. Up and out!
+C: GRANDPA JOE
+D: But it's made of glass! It'll break into a million pieces! Looking up, Charlie and Grandpa Joe see the rafters and beams of the roof quickly approaching. Grandpa Joe holds Charlie tight, sheltering him as the elevator SMASHES THROUGH126 126 layer after layer of wood, straw, dust, insulation, tile and steel, finally emerging... CONTINUED:124 124 EXT. ABOVE THE FACTORY / THE TOWN - DAY 127 127 Sunshine pours through the glass roof. In five seconds, they are flying a thousand feet up in the sky, hovering over the factory and over the very town itself which lay spread out below them like a picture postcard. Charlie and Grandpa Joe each open an eye, not certain they’re still alive. Looking down through the glass floor, Charlie sees the small far-away houses and streets. Snow lays thick over everything, while smoke curls up from chimneys. Wonka pushes another button, and a small steering wheel emerges from the glass wall. He uses it to maneuver the elevator.
+C: WONKA
+D: First thing, let’s check on our other guests. Tipping the wheel, he drops the craft down closer to the factory, hovering just 50 feet above the ground. EXT. FACTORY YARD - DAY 128 128 Three of the children and their parents are walking across the snow. The Gloops are in the lead. Augustus is covered in sticky chocolate, except for his face, which is clean. He’s chewing on his fudgy fingers.
+C: MRS. GLOOP
+D: Augustus, do not eat your fingers!
+C: AUGUSTUS
+D: But I taste so goot! Behind them, violet Violet is doing gymnastics. After going through the wringer, she can twist all the way back on herself.
+C: VIOLET
+D: Look, mother! I’m much more flexible now!
+C: MS. BEAUREGARDE
+D: Yes, but you’re blue! Veruca Salt and her father are covered in slimy garbage and fish bones. Veruca spots the elevator and points.
+C: VERUCA
+D: Daddy, I want a flying glass elevator!
+C: MR. SALT
+D: Veruca, all you’re getting today is a bath, and that’s final.
+C: VERUCA BUT I WANT IT!
+D: Mr. Salt just puts his fingers in his ears and keeps walking. INT. THE ELEVATOR - DAY 129 129 Wonka turns to Charlie.
+C: WONKA
+D: Now, where did you live?
+C: CHARLIE
+D: Right over there. That little house. Wonka follows Charlie’s pointing finger. INT. THE LITTLE HOUSE - DAY 130 130 Mother checks her watch.
+C: MOTHER
+D: What time do you think they’ll be back?
+C: FATHER
+D: No way to know. Suddenly, a CRASH! Mother and Father dive out of the way as the great glass elevator SMASHES 131 131 through the ceiling and flattens the kitchen table. Showers of dust and tiles and wood and spiders and bricks and cement rain down. CONTINUED:128 128 Grandma Josephine faints. Grandpa George drops his false teeth. Grandma Georgina leans over to her husband.
+C: GRANDMA GEORGINA
+D: I think someone’s at the door. Charlie waves and says, “Hi Mom!” But they can’t hear him, because the elevator is still shut. Once the doors slide open.
+C: CHARLIE
+D: Mom! Dad!
+C: FATHER
+D: Charlie?
+C: CHARLIE
+D: This is Willy Wonka! He gave us a ride home.
+C: MOTHER
+D: I see that. Father and Mother help each other up.
+E: re: the hole in the roof
+C: WONKA
+D: You must be the boy’s p-p-p-p-p...
+C: FATHER
+D: Parents?
+C: WONKA
+D: Yes, that.
+C: GRANDPA JOE
+D: He says Charlie’s won something!
+C: WONKA
+D: Not just some something! The most something something of any something that’s ever been. I am giving this boy my entire factory. A long beat.
+C: GRANDPA JOE
+D: You must be joking. CONTINUED:131 131
+C: WONKA
+D: It's quite true. You see, a few months ago, I was having my semi- annual haircut, and I had the strangest revelation! CUT TO: INT. FACTORY BARBER SHOP - DAY [PAST]A132 A132 Wonka sits in a barber chair, doodling on a sketchpad while OOMPA-BARBER SNIPS away. Brushing the hair away as it falls on his paper, Wonka notices something strange.
+E: The barber is on a ladder.
+C: SPLIT FOCUS
+D: Wonka stares a single SILVER HAIR -- his very first.
+C: WONKA
+D: In that one silver hair, I saw reflected my life’s work: my factory, my candy, my beloved Oompa- Loompas. Who would watch over them after I was gone? I realized in that moment... Wonka turns to the Oompa-Barber.
+E: V.O.
+C: WONKA
+D: I must find an heir!
+E: CONT’D
+C: BACK TO:
+D: INT. THE LITTLE HOUSE - DAYB132 B132
+C: WONKA
+D: And I did, Charlie. You! As he talks, Wonka wanders about the little house, looking into cupboards and lifting the lids off pots. He’s a terribly nosy houseguest.
+C: CHARLIE
+D: That’s why you sent out the Golden Tickets! CONTINUED: 131 131
+E: 2
+C: WONKA
+D: I invited five children to the factory, and the one who was least rotten would be the winner!
+C: GRANDPA JOE
+D: That’s you, Charlie!
+C: MOTHER
+D: What are Oompa-Loompas? After handing Grandpa George his dentures, Wonka uncovers Charlie’s toothpaste-cap scale replica of the factory. He picks it up, startled by the resemblance.
+C: WONKA
+D: So what do you say? Are you ready to leave all this behind and come live at the real factory?
+C: CHARLIE
+D: Sure! Of course! I mean... It’s all right if my family comes, too? Smiling broadly, Wonka kneels down beside Charlie.
+E: looks to his parents
+C: WONKA
+D: My dear boy, of course they can’t. Charlie blinks. Did he really hear him right?
+C: WONKA
+D: You can’t run a chocolate factory with a family hanging over you like so much dead weight. No offense.
+E: CONT’D to the grandparents
+C: GRANDPA GEORGE
+D: None taken, jerk.
+C: WONKA
+D: A chocolateer has to run free and solo! He has to follows his dreams, damn the consequences. Look at me! I had no family, and I’m a giant success. Finally realizing the implication...
+C: CONTINUED:B132 B132 CHARLIE
+D: So if I go with you to the factory, I won’t ever see my family again?
+C: WONKA
+D: Consider that a bonus!
+C: CHARLIE
+D: Then I’m not going. I wouldn’t give up my family for anything. Not for all the chocolate in the world.
+C: WONKA
+D: Oh! Oh. I see. There’s other candy, too. Besides chocolate.
+E: a little hopeful
+C: CHARLIE
+D: I’m sorry, Mr. Wonka. I’m staying here.
+C: WONKA
+D: Well, that’s just...unexpected. But I suppose I...In that case I’ll... Handing Charlie his model, Wonka gets back in the elevator.
+C: WONKA
+D: Goodbye, then. The doors shut. Then open again.
+E: CONT’D
+C: WONKA
+D: You’re sure you won’t change your mind.
+E: CONT’D
+C: CHARLIE
+D: I’m sure. Wonka closes the doors again. He presses the “Up and Away” button. Suddenly, the elevator launches straight up through the same hole in the roof. The Bucket family is left were they stand -- or lie -- with a flattened kitchen table and swirls of snow coming in from the darkening sky. No one knows what to say until finally...
+C: CONTINUED: B132 B132 GRANDMA GEORGINA
+D: Things are going to get much better! Everyone turns to look at her.
+E: 2
+C: NARRATOR
+D: And for once, Grandma Georgina knew exactly what she was talking about. TRANSITION TO: EXT. THE LITTLE HOUSE - [THE NEXT] DAY 132 132 Father and Mother are up on the roof, hammering new shingles in place. Charlie is on the ground, pulling nails from old boards to re-use. Most of the snow has melted.
+E: V.O.
+C: NARRATOR
+D: The next morning, Charlie helped his parents fix the hole in the roof. INT. THE LITTLE HOUSE - DAY 133 133 Dust falls from the ceiling, where the parents are HAMMERING. Grandpa Joe sweeps up with a broom.
+E: V.O.
+C: NARRATOR
+D: Grandpa Joe spent the whole day out of bed. He didn’t feel tired at all. INT. TOOTHPASTE FACTORY - DAY 134 134 Father shakes hands with the Foreman.
+E: V.O.
+C: NARRATOR
+D: Charlie’s father got a better job at the toothpaste factory, repairing the machine that had replaced him... OMIT 135 135
+E: V.O.
+C: CONTINUED: B132 B132
+D: EXT. TRAIN STATION / SHOE SHINE STAND - DAY 136 136 Smiling, Charlie finishes buffing the wingtips of a HAPPY
+E: 3
+C: BUSINESSMAN. NARRATOR
+D: ...while Charlie made extra money after school. INT. THE LITTLE HOUSE - NIGHT137 137 Mother and Father get dinner ready while Charlie sets the repaired kitchen table.
+E: V.O.
+C: NARRATOR
+D: Things had never been better for the Bucket family. For the first time, there’s plenty of food, and no cabbage soup.
+E: V.O.
+C: NARRATOR
+D: The same could not be said for Willy Wonka. OMIT 138-139 138-139 CLOSE ON WONKA140 140 We gradually PULL OUT as he talks. He’s agitated, irritable. He hasn’t been sleeping well.
+E: V.O. CONT’D
+C: WONKA
+D: I can’t put my finger on it. Candy has always been the only thing I was certain of, and now I’m not certain at all. Wonka is lying on a couch. An OOMPA-LOOMPA with glasses -- his psychiatrist -- takes notes in a pad.
+C: WONKA
+D: I don’t know which flavors to make, which ideas to try. I’m second- guessing myself, which is mad. I’ve always made whatever candy I feel like. A beat, then Wonka has a sudden insight. He sits up.
+E: CONT’D
+C: WONKA
+D: That’s just it, isn’t it!? I make the candy I feel like, but now I feel terrible, so the candy is terrible. Ooh. You’re very good. The Oompa-Loompa takes off his glasses and nods. EXT. TRAIN STATION / SHOE SHINE BOOTH - DAY 141 141 Charlie finishes up ONE MAN’S shoes, taking his tip.
+E: CONT’D to the psychiatrist
+C: CHARLIE
+D: Thank you. Charlie moves down to the next man waiting, who is already up in the chair. The CUSTOMER has his face buried in the business section of the local paper.
+C: CUSTOMER
+D: Pity about that chocolate fellow...Wendell...Walter... As he start to polish, Charlie notices that the man’s boots have distinctive W’s on them. He quickly suspects his customer is actually...
+C: CHARLIE
+D: Willy Wonka?
+C: FROM THE SIDE
+D: we see it is in fact Wonka in the chair.
+C: WONKA
+D: That’s the one. Says here his new candies aren’t selling well. I suppose maybe he’s a rotten sort of person who deserves it.
+C: CHARLIE
+D: Yup. Wonka was hoping Charlie would come to his defense.
+C: WONKA
+D: I don’t suppose you ever met him? CONTINUED:140 140
+C: CHARLIE
+D: I did. I thought he was nice at first, but then he turned out to be a jerk. He also smelled like a litter box. Wonka drops the paper.
+E: beat
+C: WONKA
+D: I do not!
+C: CHARLIE
+D: Why are you here?
+C: WONKA
+D: I need you to make me feel better about myself.
+C: CHARLIE
+D: I can’t do that.
+C: WONKA
+D: Well who can?
+C: CHARLIE
+D: I don’t know.
+C: WONKA
+D: Think! Who makes you feel better when you feel terrible?
+C: CHARLIE
+D: My family. Wonka GROANS, slinking back in his chair. Charlie climbs up into the seat beside him. For the first time, they really seem like equals.
+C: CHARLIE
+D: What do you have against my family?
+E: CONT’D
+C: WONKA
+D: It’s not your family. It’s the very idea of p-p-p-p...You know. Always telling you what to do, what not to do. It’s the very antithesis of inspiration! CONTINUED:141 141
+C: CHARLIE
+D: Usually they’re just trying to protect you. Because they love you. Wonka is bewildered by this idea.
+C: CHARLIE
+D: If you don’t believe me, you should ask.
+E: CONT’D
+C: WONKA
+D: Ask my father? I couldn’t. Certainly not by myself.
+E: beat
+C: CHARLIE
+D: You want me to go with you?
+C: WONKA
+D: Yes. I’ve got transportation!
+N: Wonka points to the right, where a HURRIED TRAVELLER suddenly SMACKS into the unseen glass elevator. Oww.
+C: WONKA
+D: I should be more careful where I park it. CUT TO: EXT. A GIANT FIELD - DAY 142 142 Charlie and Wonka walk away from the glass elevator, which is parked in the middle of a vast meadow. They walk up to the only building in sight, a
+C: NARROW ROW HOUSE
+D: that looks absurd by itself, three stacked stories attached to nothing. It’s the house little Willy grew up in, moved out to the middle of nowhere. EXT. THE ROW HOUSE - DAY 143 143 Charlie RINGS the bell. Wonka is suddenly very nervous. CONTINUED: 141 141
+E: 2
+C: WONKA
+D: Maybe we’ve got the wrong house. But the sign reads: DR. WILBUR WONKA, D.D.S. The door opens, revealing a very old man -- almost the age of Grandpa Joe. It’s Dr. Wonka, thirty years older. He’s carrying a crossword puzzle, and wearing his reading glasses. He squints.
+C: DR. WONKA
+D: Do you have an appointment?
+C: CHARLIE
+D: No. But he’s overdue. INT. DENTIST’S OFFICE - DAY 144 144 With a THUMP, the dentist’s chair reclines. Wonka stares up into the bright work lamp as his father leans over him. Charlie stands nearby.
+C: DR. WONKA
+D: Open! Wonka reluctantly opens his mouth. With his very shaky hands, Dr. Wonka pokes around inside with picks and mirrors.
+C: DR. WONKA
+D: Heavens, I haven’t seen bicuspids like this since... Suddenly, it dawns on him:
+E: CONT’D
+C: DR. WONKA
+D: Willy? Wonka can barely talk with the instruments in his mouth. Garbles:
+E: CONT’D
+C: WONKA
+D: Hi, Dad.
+C: DR. WONKA
+D: All these years. You haven’t flossed.
+C: WONKA
+D: Not once. The men embrace. Charlie smiles. CONTINUED:143 143
+C: NARRATOR
+D: It was on this day that Willy Wonka repeated his offer to Charlie, who accepted on one condition. CUT TO: INT. THE LITTLE HOUSE - DUSK 145 145 Charlie and Wonka come in through the front door, shaking the snow off their jackets. The whole family is there, getting ready for dinner.
+E: V.O.
+C: CHARLIE
+D: Sorry we’re late. We were brainstorming.
+C: GRANDPA GEORGE
+D: Thought I heard thunder.
+C: MOTHER
+D: Willy, are you staying for dinner?
+C: WONKA
+D: Yes, please!
+C: GRANDPA JOE
+D: I’ll shuffle the plates. Grandpa Joe squeezes in an extra setting at the table. It’s very crowded, but everyone manages to fit. Wonka takes a seat next to Grandma Georgina.
+C: GRANDMA GEORGINA
+D: You smell like peanuts! I love peanuts! She hugs him. For the first time, he doesn’t flinch at being touched.
+C: WONKA
+D: You smell like old people. And soap!
+C: GRANDMA JOSEPHINE
+D: Charlie, elbows off the table. He does as he’s told. CONTINUED:144 144 EXT. THE LITTLE HOUSE - DUSK [CONTINUOUS]A146 A146 As a gentle snow falls, we look in through the window to find the whole Bucket family -- including the grandparents -- crowded around the kitchen table for a feast. Willy Wonka fits perfectly.
+C: WONKA
+D: How do you feel about raspberry kites?
+E: to Charlie
+C: CHARLIE
+D: With licorice instead of string!
+C: FATHER
+D: Boys, no business at the dinner table.
+C: CHARLIE
+D: Sorry, Dad.
+C: WONKA
+D: You’re on to something, though. As we PULL OUT through the window, we start to get a better view of the entire house.
+E: low; to Charlie
+C: NARRATOR
+D: In the end, Charlie Bucket won a chocolate factory. But Willy Wonka got something even better: a family. It’s not until we get quite wide that we see the house is no longer sitting in front of the factory -- it’s now inside it. It sits on the banks of the chocolate river. The snow is simply powdered sugar falling from a massive shaker overhead. CHOCOLATE EASTER BUNNIES hop through the drifts, leaving tracks. Still in the same PULL BACK, we reveal our NARRATOR, who is in fact an Oompa-Loompa.
+E: V.O. It’s the first time we’ve heard one talk.
+C: OOMPA-NARRATOR
+D: One thing was absolutely certain: life had never been sweeter. The Oompa-Narrator bows and takes his exit. FADE OUT.
+C: THE END
+N: CONTINUED:A146 A146

@@ -1,0 +1,2135 @@
+M: THE IMITATION GAME
+M: Written by
+M: Graham Moore
+M: Based on
+M: "Alan Turing: The Enigma"
+M: By Andrew Hodges
+M: BLACK.
+M: ALAN TURING (V.O.)
+M: Are you paying attention?
+S: INT. ALAN TURING’S HOUSE - DAY - 1951
+N: A HALF-DOZEN POLICE OFFICERS swarm the Manchester home of mathematics professor Alan Turing.
+C: ALAN TURING
+D: Good. This is going to go very quickly now. If you are not listening carefully, you will miss things. Important things. You’re writing some of this down? That’s good. INSIDE ALAN’S HOUSE: There's been a break-in, and the house is a mess - someone has given it a pretty thorough once-over.
+E: V.O.
+C: ALAN TURING
+D: I will not pause, I will not repeat myself, and you will not interrupt me. If you ask me a question, I will ignore it. You think that because you’re sitting where you are, and I am sitting where I am, that you are in control of what is about to happen. You’re mistaken. I am in control, because I know things that you do not know. PAPERS inked black with mathematical symbols litter the floor. The test tubes and beakers of Turing's chemical work are shattered in the study, CYANIDE and POTASSIUM NITRATE DRIPPING ACROSS THE UGLY CARPET.
+E: V.O.
+C: ALAN TURING
+D: What I will need from you now is a commitment. You will listen closely, and you will not judge me. And, in the corner: A MACHINE. It’s the size of a dresser, tall, sprouting VACUUM TUBES and WIRES. It looks anachronistic here, too futuristic for its time. The CONSTABLES LOOK AT THE MACHINE, CONFUSED: What is that thing?
+E: V.O.
+C: ALAN TURING
+D: When I am finished — when I have told you that I am finished — you are free to think whatever you like. But until then, you will trust that while this story will be hard for you to understand, everything I am saying I am saying for a reason. A CONSTABLE PHONES IN the robbery to police headquarters — INT. POLICE HEADQUATERS - DAY — At headquarters, a RADIO GIRL RECEIVES the information and passes it to an assistant for delivery to the detectives on duty — INT. MI-6 - RADIO OPERATORS’ ROOM/HALLWAYS - DAY — While in London, a RADIO OPERATOR in a dark room far below Victoria Street INTERCEPTS THE MESSAGE —
+E: V.O.
+C: ALAN TURING
+D: If you cannot commit to this, then please leave the room. That’s right, you’re the one who’s free to go. But if you choose to stay, if you choose to listen, remember this: If things happen that you do not like, you chose to be here. — The MESSAGE is HANDED OFF and WHISKED through the dim hallways — INT. MI-6 - MENZIES OFFICE - DAY — Until it’s finally deposited on the desk of STEWART MENZIES, the Director of MI-6. British Secret Intelligence Services.
+E: V.O.
+C: ALAN TURING
+D: What happens from this moment forward is not my responsibility: It’s yours. Menzies picks up the message: “Alan Turing has been robbed.”
+E: V.O.
+C: ALAN TURING
+D: This will go quite fast now. And that is the last time I will repeat myself. Pay attention. EXT. ALAN TURNING’S HOUSE - MORNING DETECTIVE ROBERT NOCK, 40s, athletic, more interested in football than being a detective, hustles past a few double- parked police cars and up the steps and into: INT. ALAN TURNING’S HOUSE - CONTINUOUS Detective Nock enters to find the same messy crime scene we just saw. He’s addressed by SERGEANT STAEHL.
+E: V.O. laughs
+C: SGT. STAEHL
+D: Bit late, don’t you think?
+C: DETECTIVE NOCK
+D: The baby. Up all night, hollering and crying. June says it’s collick. What’s all this, then?
+E: re: the mess
+C: SGT. STAEHL
+D: Turing, Alan. Professor at King’s. Seems there’s been a robbery.
+C: DETECTIVE NOCK
+D: What of?
+C: SGT. STAEHL
+D: That’s just it. Nothing’s missing, really.
+C: DETECTIVE NOCK
+D: No, what’s he a professor of?
+C: SGT. STAEHL
+D: Maths. Or, as he put it, “ordinal logic, with a dose of number theory.” ON NOCK: What on earth does that mean? Staehl shrugs.
+E: consulting notes
+C: DETECTIVE NOCK
+D: What’s he doing in Manchester? Sergeant Staehl shows Nock the MACHINE in the corner. ON NOCK: What the hell is that?
+C: SGT. STAEHL
+D: Something with machines. Project at the NPL, I checked, but he won’t say what it’s on.
+C: DETECTIVE NOCK
+D: He’s a bit squirrely then, our Professor Turing?
+C: SGT. STAEHL
+D: That’s putting it mildly. Sergeant Staehl motions to the next room, and he follows Nock in... ... Where they find ALAN TURING, 38. He’s the smartest man in the room, and he knows it. But he doesn’t really care if you do. Turing is VERY CAREFULLY sweeping up a pile of WHITE POWDER. He’s doing it with a PAINTBRUSH, his mouth covered in a scarf. He’s totally oblivious to the detectives as they enter.
+C: DETECTIVE NOCK
+D: Professor Turing? Professor Turing? My name is Detective Nock. Manchester Police. Sergeant Staehl here tells me you’ve had a robbery last night. Professor Turing? Detective Nock steps closer, peering over Turing’s shoulder at the white powder.
+E: beat still nothing
+C: DETECTIVE NOCK
+D: Professor —
+E: CONT’D
+C: ALAN TURING
+D: — I would step back, if I were you.
+C: DETECTIVE NOCK
+D: Pardon me?
+C: ALAN TURING
+D: Step back, and don’t breathe so much.
+C: DETECTIVE NOCK
+D: Breathe?
+C: ALAN TURING
+D: You’re breathing heavily and you’re going to inhale this junk and you’re going to leave your collicky son without a father. Detective Nock stops, and steps back. What in the world?
+C: ALAN TURING
+D: Sound carries in this house.
+E: CONT’D
+C: DETECTIVE NOCK
+D: What is all that?
+C: ALAN TURING
+D: Cyanide. Undiluted. Wouldn’t take more than a thimbleful to kill you. Turing finishes sweeping the cyanide into a jar, before safely CAPPING IT. Turing stands, removes his scarf, and for the first time takes a look at Detective Nock. Sizes him up.
+C: ALAN TURING
+D: Oh. Disappointing. Detective Knock and Sergeant Staehl exchange a look.
+E: CONT’D
+C: DETECTIVE NOCK
+D: Pardon?
+C: ALAN TURING
+D: I’d hoped for a bit more.
+C: DETECTIVE NOCK
+D: Sergeant Staehl, is it just me, or do you get the sense that we’re being insulted?
+C: ALAN TURING
+D: You lied to your friend here about your son, which is just unseemly. Collick didn’t keep you up all night. Drink did. You’ve bags under your eyes the size of strawberries. Your topcoat reeks of whiskey. You’re short of breath after walking 30 paces. And I believe Manchester United had a match yesterday, yes? I could hear the shouting from Simpson’s on my way home.
+E: to Nock
+C: DETECTIVE NOCK
+D: ... We won by four. Would’ve been unseemly not to celebrate. Sergeant Staehl SIGHS, embarrassed.
+E: caught
+C: SGT. STAEHL
+D: You had a break in last night. Your neighbor, a Mr. Springborn, called to report the noise. Only you say there’s nothing missing. Odd. So how about it — You tell us what happened, and we find the chap who did this.
+C: ALAN TURING
+D: Gentlemen, I don’t think you could figure out who broke into my house if he walked up and spat in your face. What I could really use at the moment is not a bobby but a good cleaning lady. So unless one of you has an apron in your car, I’d suggest that you file your reports and leave me alone. Staehl is about to say something — and probably something aggressive, by the look of his face — but Nock stops him.
+C: DETECTIVE NOCK
+D: ... As you say, Professor Turing. Best of luck with your cyanide. EXT. ALAN TURNING’S HOUSE - MOMENTS LATER Detective Nock and Sergeant Staehl walk away from Turing’s house.
+C: SGT. STAEHL
+D: I’ll give you a bob if you can name me a more insufferable sod.
+C: DETECTIVE NOCK
+D: Curious, isn’t he?
+C: SGT. STAEHL
+D: Oh, you’ve a soft spot for the bastard ‘cause he called you on your drink? Which, while we’re on the subject —
+C: DETECTIVE NOCK
+D: — Seemed a bit forced though, didn’t it?
+C: SGT. STAEHL
+D: Don’t know what you mean.
+C: DETECTIVE NOCK
+D: If you didn’t want a pair of bobbies digging around in your personal affairs, well, that would have been a stellar way to see that they don’t. Tell me you don’t think this is suspicious.
+C: SGT. STAEHL
+D: I don’t think this is suspicious.
+C: DETECTIVE NOCK
+D: A mysterious professor who won’t admit he’s had something stolen from his flat?
+C: SGT. STAEHL
+D: What’re you suggesting?
+C: DETECTIVE NOCK
+D: I’m suggesting that Alan Turing is hiding something. CUT TO: INT. EUSTON STATION - LONDON - DAY - 1939 Alan Turing — 11 years younger — HURRIES through Euston Station on the day that Britain declares war on Germany. The station is preparing for war: PAPERBOYS SCREAM the headlines: “800,000 CHILDREN EVACUATED!” “GERMAN BOMBS COMING!” “FOOD SUPPLIES RATIONED!” MILITARY PERSONNEL herd PACKS OF CHILDREN like cattle onto rumbling trains. The children, born with stiff upper lips, hold back their tears. A FATHER shakes the hand of his 8-YEAR-OLD SON goodbye, almost business-like. Neither knows if they’ll ever see one another again. Alan moves through this determinedly, methodically, and unemotionally — it’s like he doesn’t even notice anyone is there. INT/EXT. TRAIN - DAY - LATER Alan Turing walks down the aisle of a train bound for Bletchley Park — his is the only adult face amidst the sea of children. He watches a SMALL BOY pour over a PUZZLE BOOK. OLDER KIDS, loud and rowdy, TAUNT the Small Boy, who doesn’t look up, he’s so focused on his puzzles. Alan watches. Maybe he smiles. Maybe he understands. EXT. BLETCHLEY VILLAGE - STREET - A FEW HOURS LATER Alan walks through the small village of Bletchley. He passes a sign that reads “BLETCHLEY RADIO MANUFACTURING” as he heads to EXT. BLETCHLEY PARK - AN HOUR LATER Alan arrives at the imposing front gates of Bletchley Park. An enormous Victorian mansion lies in the center of the grounds, surrounded by empty gardens and tall iron fences. As Alan approaches, two NAVAL OFFICERS with MACHINE GUNS step out from behind the BARRICADES. Whatever this place is, it’s housing something very secret inside. INT. BLETCHLEY PARK - COMMANDER DENNISTON’S OFFICE - LATER A few minutes later, Alan sits alone in a cluttered office. He stares ahead blankly at the empty chair behind the desk. Waits.
+C: COMMANDER DENNISTON
+D: — What are you doing here? Alan turns with a start.
+E: O.S.
+C: ALAN TURING
+D: The girl told me to wait —
+C: COMMANDER DENNISTON
+D: In my office? She tell you to help yourself to a cup of tea while you were here?
+C: ALAN TURING
+D: No. She didn’t.
+C: COMMANDER DENNISTON
+D: She didn’t tell you what a joke is then either, I gather.
+C: ALAN TURING
+D: Was she supposed to?
+C: COMMANDER DENNISTON
+D: For Christ’s sake — who are you?
+C: ALAN TURING
+D: Alan Turing.
+C: COMMANDER DENNISTON
+D: Turing... Let me see... Oh, Turing. The mathematician.
+E: looking at papers on his desk
+C: ALAN TURING
+D: Correct.
+C: COMMANDER DENNISTON
+D: How ever could I have guessed?
+C: ALAN TURING
+D: You didn’t. It was written on your paper.
+C: COMMANDER DENNISTON
+D: ... King’s College, Cambridge. Says here you were a bit of a prodigy in the maths department.
+C: ALAN TURING
+D: I’m not sure I can evaluate that, Mr... ?
+C: COMMANDER DENNISTON
+D: How old are you, Mr. Turing?
+C: ALAN TURING COMMANDER DENNISTON
+D: How old were you when you became a fellow at Cambridge?
+C: ALAN TURING COMMANDER DENNISTON
+D: And how old were you when you published this paper here, that has a title I can barely understand, which apparently got you this fellowship?
+C: ALAN TURING COMMANDER DENNISTON
+D: And you don’t think that qualifies you as a certified prodigy?
+C: ALAN TURING
+D: Rather depends on how old my peers were when they did comparable work, doesn’t it?
+C: COMMANDER DENNISTON
+D: And how old were they?
+C: ALAN TURING
+D: Newton discovered the binomial theorem at 22. Einstein published four papers that changed the world at 26. As far as I can tell I’ve barely made par.
+C: COMMANDER DENNISTON
+D: You’re serious, aren’t you?
+C: ALAN TURING
+D: Would you prefer I make a joke?
+C: COMMANDER DENNISTON
+D: Not sure you know what those are.
+C: ALAN TURING
+D: It hardly seems fair that that would be a requirement for employment here, Mr...?
+C: COMMANDER DENNISTON
+D: Commander Denniston, of the Royal Navy. All right, Mr. Turing, I’ll bite. Why do you want to work for His Majesty’s government?
+C: ALAN TURING
+D: Oh, I don’t, really.
+C: COMMANDER DENNISTON
+D: Are you a bleeding pacifist, Turing?
+E: suspicious
+C: ALAN TURING
+D: I’m agnostic about violence.
+C: COMMANDER DENNISTON
+D: But you realize that 600 miles from London there’s this nasty chap named Hitler who’s looking to engulf Europe in tyranny?
+C: ALAN TURING
+D: Politics is not my area of expertise.
+C: COMMANDER DENNISTON
+D: I believe you’ve just set a record for the shortest job interview in British military history.
+C: ALAN TURING
+D: Mother says that I can be off- putting sometimes. On account of being the best mathematician in the world.
+C: COMMANDER DENNISTON
+D: You’re the best mathematician in the world?
+C: ALAN TURING
+D: Oh. Yes.
+C: COMMANDER DENNISTON
+D: ... Do you know how many people I’ve rejected for this program?
+C: ALAN TURING
+D: No.
+C: COMMANDER DENNISTON
+D: That’s right. Because we’re a top secret program. But I’ll tell you, just because we’re friends, that last week I rejected one of our great nation’s top linguists, knows German better than Bertolt Brecht.
+C: ALAN TURING
+D: I don’t speak German.
+C: COMMANDER DENNISTON
+D: What?
+C: ALAN TURING
+D: I don’t. Speak German.
+C: COMMANDER DENNISTON
+D: How the bloody hell are you supposed to decrypt German communications if you don’t, oh, I don’t know, speak German?
+C: ALAN TURING
+D: I’m quite excellent at crossword puzzles.
+C: COMMANDER DENNISTON
+E: calling off
+C: MARGARET! ALAN TURING
+D: The German codes are a puzzle. A game. Just like any other game.
+C: COMMANDER DENNISTON
+D: MARGARET! Where are you?!
+C: ALAN TURING
+D: I’m very good at games. Puzzles. And I think this is the hardest puzzle in the world.
+C: COMMANDER DENNISTON MARGARET!?!
+D: For the love of... This is a joke, obviously.
+E: beat
+C: ALAN TURING
+D: I’m afraid I can’t make jokes, Commander Denniston. And for a split second, Denniston actually smiles.
+C: COMMANDER DENNISTON
+D: Have a pleasant trip back to Cambridge, Professor.
+C: ALAN TURING
+D: Enigma. At the mention of this word Denniston looks suddenly serious.
+C: SECRETARY
+D: You called for me? He WAVES HER AWAY, entirely focused on what Alan just said.
+E: ”MARGARET” popping head in
+C: ALAN TURING
+D: ... That’s what you’re doing here. The top secret program at Bletchley. You’re trying to break the German Enigma machine.
+E: after she leaves
+C: COMMANDER DENNISTON
+D: What makes you think that?
+C: ALAN TURING
+D: It’s the greatest encryption device in history, and the Germans use it for all major communications. If the Allies broke Enigma — well, this would turn into a very short war indeed. Of course you’re working on it. But you also haven’t got anywhere. If you had, you wouldn’t be hiring cryptographers out of University. You need me a lot more than I need you. I’d just as easily go work for the Germans, frankly, but they simply don’t have anything this good to work on. Our mathematicians aren’t as impressive as theirs. With one significant exception. I like solving problems, Commander. And Enigma is the most difficult problem in the world.
+E: MORE
+C: COMMANDER DENNISTON
+D: Enigma isn’t difficult. It’s impossible. The Americans. The French. The Russians. The Germans. Everyone thinks Enigma is unbreakable.
+C: ALAN TURING
+D: Goody! Let me try and we’ll know for sure. The men stare at each other. Neither blinks. INT. BLETCHLEY PARK - DAY - LATER ANGLE ON: A machine. It looks like a typewriter that got left on the set of Blade Runner. Wires running all over it. Extra gears sticking out of the sides. Blinking lights that reveal German characters. Half electrical, half mechanical.
+C: COMMANDER DENNISTON
+D: Welcome to Enigma. SLOWLY REVEAL: COMMANDER DENNISTON, 50s, is showing the ENIGMA MACHINE to the NEW RECRUITS. They are: HUGH ALEXANDER, 30s, loves women and chess in equal measure. JOHN CAIRNCROSS, 30s, Scottish, not the prodigy his compatriots are and knows it. PETER HILTON, 20s, a precocious undergrad from Oxford. KEITH FURMAN and CHARLES RICHARDS, 40s, both stodgy linguists.
+E: O.S.
+C: ALAN TURING
+D: Stewart Menzies — head of MI-6, who we briefly glimpsed in the opening — stands in the corner, silent and observing. Charming and inscrutable, he didn’t become the head of British Secret Intelligence Services by accident.
+E: CONT'D
+C: COMMANDER DENNISTON
+D: The German navy encodes every message they send using the Enigma machine. The details of every surprise attack, of every secret convoy, of every U-Boat in the bloody Atlantic go into that thing, and out comes... Gibberish. FINALLY REVEAL: ... Alan stands with them, staring at the machine like it’s the Sistine Chapel. He reaches out and touches it lovingly.
+E: CONT’D
+C: ALAN TURING
+D: It’s beautiful.
+C: COMMANDER DENNISTON
+D: It’s the crooked hand of death itself. Denniston shows Alan sheets of Enigma messages: PAGE AFTER
+C: PAGE OF RANDOM LETTERS. COMMANDER DENNISTON
+D: Our WRENs intercept thousands of radio messages a day. But to the lovely young ladies of the Women’s Royal Navy, they’re nonsense. It’s only when you feed them back into Enigma that they make sense.
+E: CONT’D
+C: JOHN CAIRNCROSS
+D: But we have an Enigma machine.
+C: COMMANDER DENNISTON
+D: Yes. Polish intelligence smuggled this out of Berlin.
+C: JOHN CAIRNCROSS
+D: So what’s the problem? Just put the intercepted messages back in to Enigma and —
+C: ALAN TURING
+D: — It’s not that simple, is it? Just having an Enigma machine doesn’t help you decode the messages.
+C: COMMANDER DENNISTON
+D: Very good, Mr. Turing. To decode a message, you need to know the machine’s settings. The Germans switch settings every day, promptly at midnight. We usually intercept our first message around 6am. Which gives you exactly 18 hours every day to crack the code before it changes, and you start again. Alan looks at the machine carefully.
+C: ALAN TURING
+D: Five rotors. Six plugboard cables. That’s...
+C: CHARLES RICHARDS
+D: Five —
+C: JOHN CAIRNCROSS
+D: — thousand million —
+C: PETER HILTON
+D: — No no it’s — I’ve got it —
+C: CHARLES RICHARDS
+D: — Million, million —
+C: KEITH FURMAN
+D: — In the millions, obviously —
+C: CHARLES RICHARDS
+D: — Obviously —
+C: ALAN TURING
+D: — Over one hundred and fifty million million million possible settings. All eyes turn to Turing: Wow.
+C: COMMANDER DENNISTON
+D: ... Very good.
+C: HUGH ALEXANDER
+D: One hundred fifty nine, if you’d rather be exact about it. Everyone looks at Hugh now.
+C: HUGH ALEXANDER
+D: One five nine with eighteen zeroes behind it. Possibilities. Every single day. Jesus Christ. Who is this guy?
+E: CONT’D
+C: COMMANDER DENNISTON
+D: Gentlemen, meet Hugh Alexander. I’ve personally selected him to run this unit.
+C: JOHN CAIRNCROSS
+D: Didn’t you...?
+C: COMMANDER DENNISTON
+D: Mr. Alexander won Britain’s national chess championship.
+C: HUGH ALEXANDER
+D: Twice.
+C: JOHN CAIRNCROSS
+D: John Cairncross.
+E: extending a hand to Hugh
+C: COMMANDER DENNISTON
+D: You’re not the only one who’s good at games around here.
+E: to Alan
+C: ALAN TURING
+D: Are we all to work together then? I prefer to have my own office.
+C: COMMANDER DENNISTON
+D: You’re a team, and you’ll work as one.
+C: ALAN TURING
+D: I don’t have time to explain myself as I go along, and I’m afraid these men will only slow me down.
+C: STEWART MENZIES
+D: — If you can’t play together, then I’m afraid we can’t let you play at all. They all stare at him.
+E: piping up from the corner
+C: COMMANDER DENNISTON
+D: This is Stuart Menzies. MI-6. The team ACKNOWLEDGES Menzies.
+C: CHARLES RICHARDS
+D: There are only five divisions of military intelligence. There is no
+C: “MI-6.” STEWART MENZIES
+D: Exactly. That’s the spirit. Mr. Turing. Do you know how many British servicemen have died because of Enigma?
+E: to Alan
+C: ALAN TURING
+D: I don’t.
+C: STEWART MENZIES
+D: Three. They all stare at Menzies: That doesn’t sound like very many.
+C: STEWART MENZIES
+D: ... While we’ve been having this conversation. Oh look. There’s another. Rather hope he didn’t have a family. This war that Commander Denniston’s been going on about? We’re not winning it. Break the code and at least we might have a chance. Shall we leave the children alone with their new toy? Menzies and Commander Denniston LEAVE. The team stands there. With Enigma.
+E: CONT’D checks his watch to Denniston
+C: HUGH ALEXANDER
+D: Alright boys. Let’s play. CUT TO: EXT. SHERBORNE SCHOOL FOR BOYS - DAY - 1927 TEENAGE BOYS play cricket in the green front gardens of a boys boarding school. Behind them looms the school’s stately central manor house.
+C: ALAN TURING
+D: The problem began, of course, with the carrots. INT. SHERBORNE SCHOOL FOR BOYS - DAY YOUNG ALAN TURING, 15, sits alone in the dining hall. Other BOYS joke and laugh and tell animated stories at nearby tables, but Alan sits alone, staring intently at his food. ON ALAN’S PLATE: Boiled steak. Potatoes. Peas. And carrots.
+E: V.O.
+C: ALAN TURING
+D: Carrots are orange. Peas are green. They mustn’t touch. Alan carefully tries to separate the carrots from the peas. It’s like he’s performing brain surgery. BEHIND ALAN, a group of BIGGER BOYS approach quietly. One of them holds a TRAY OF BOILED VEGETABLES — — The Boys try to MUFFLE THEIR GIGGLES so Alan can’t hear them approach — — The Boys DUMP THE TRAY OF VEGETABLES ALL OVER ALAN. Alan SCREAMS. The Boys LAUGH as Alan SCREAMS and SHAKES and tries to get the peas and carrots and everything else off of him. He’s in hell. Alan FALLS DOWN. Still shaking, still screaming.
+E: V.O.
+C: YOUNG ALAN
+D: Carrots are orange! Carrots are orange! Carrots are orange! BOY #1 What a bloody weirdo! Alan CURLS UP INTO A BALL as he shivers. CUT TO: INT. COFFIN - A FEW MINUTES LATER ... Alan is now inside a coffin. He’s KICKING AT THE WOODEN BOARDS ABOVE and SCREAMING TO BE
+C: RELEASED.
+D: It’s not helping. From above, we hear the familiar LAUGHTER OF THE SCHOOLBOYS. REVEAL: The “coffin” is make-shift; the Boys have constructed it out of the broken floorboards of a half-finished class room. Alan is buried underground, and they’re nailing him in.
+C: ALAN TURING
+D: Do you know why people like violence? Because it feels good. The THUMP THUMP of nails entering the boards.
+E: V.O.
+C: ALAN TURING
+D: Humans find violence deeply satisfying. But remove the satisfaction, and the act becomes... Hollow. FROM INSIDE THE COFFIN: Alan goes silent. The Boys pound away, but the silence unnerves them. BOY #1 Alan? Alan? BOY #2 C’mon don’t be such a kike about it... BOY #3 Leave him to bloody rot. The Boys LEAVE. There’s still only SILENCE from inside Alan’s coffin. Alan breathes slowly. Quietly. Controls his shivering to barely a tremor. He waits.
+E: V.O.
+C: ALAN TURING
+D: I didn’t learn this on my own though. I had help. Suddenly, the boards above him CREAK. Then BEND. Then SNAP. Then an ARM REACHES DOWN and PULLS Alan out of the coffin. REVEAL: CHRISTOPHER MORCOM, 16, tall, pretty, and charming in ways that Alan will never, ever be.
+E: V.O.
+C: CHRISTOPHER
+D: Christ, I thought they were going to kill you. Christopher PULLS Alan from the floorboard coffin and they — EXT. SHERBORNE SCHOOL FOR BOYS - SECONDS LATER Walking away from the half-finished school room, Christopher helps Alan as he hobbles.
+C: YOUNG ALAN
+D: ... It’s not my fault. The carrots got in with the peas. I’m sorry. I won’t let them do it again.
+E: off Christopher’s look
+C: CHRISTOPHER
+D: They’re getting worse.
+C: YOUNG ALAN
+D: They only beat me up because I’m smarter than they are.
+C: CHRISTOPHER
+D: No. They beat you up because you’re different. So you’ll have to try a little harder to blend in.
+C: YOUNG ALAN
+D: Mother says I’m just an odd duck.
+C: CHRISTOPHER
+D: And she’s right. Alan STUMBLES and Christopher grabs his hand, steadying him.
+C: CHRISTOPHER
+D: But you know, sometimes it is the very people who no one imagines anything of who do the things that no one can imagine.
+E: CONT’D
+C: ALAN TURING
+D: Christopher helped. CUT TO: INT. POLICE STATION - MANCHESTER - DAY - 1951 Detective Nock sits at his desk, yelling incredulously into his telephone.
+E: V.O.
+C: DETECTIVE NOCK
+D: ... What do you mean, “classified”? ... Yes, I am aware of the literal meaning of the word “classified,” what I’m asking is why would a maths professor have his military records classified? ... Well then I will come down there and... Nock HANGS UP, frustrated. He notices Sergeant Staehl walking past.
+E: beat beat
+C: DETECTIVE NOCK
+D: Come with me. EXT. MANCHESTER STREETS - LATER Detective Nock and Sergeant Staehl walk through Manchester, away from the police station.
+E: CONT’D
+C: SGT. STAEHL
+D: ... So are you going to catch this mysterious thief who hasn’t actually stolen anything?
+C: DETECTIVE NOCK
+D: Alan Turing is a suspect in a robbery but they won’t share a thing with the police?
+C: SGT. STAEHL
+D: “Suspect”? I distinctly recall writing his name next to the word “victim.” Nock looks around, paying no attention to Staehl. He sees something in the reflection of a shop window.
+E: which we don’t
+C: DETECTIVE NOCK
+D: Will?
+C: SGT. STAEHL
+D: Yes?
+C: DETECTIVE NOCK
+D: I’m terribly sorry about this. Suddenly, Nock PUSHES Staehl, hard. Staehl, reeling, is very, very confused.
+C: SGT. STAEHL
+D: What? Nock responds by PUNCHING Staehl across the jaw, sending him to the ground. People on the street TURN and STARE. Nock RUNS away down the street — Staehl starts CHASING AFTER HIM — — They each DODGE PASSERSBY, who are all staring — — Until Nock suddenly CHANGES DIRECTIONS and SLAMS INTO A PEDESTRIAN — — The Pedestrian and Nock TUMBLE TO THE GROUND. The two SCRAMBLE, and then exchange a look: The Pedestrian is... Concerned. The Pedestrian STRUGGLES TO HIS FEET and RUNS OFF. Nock stands dusting himself off as Staehl catches up to him — — And PUNCHES NOCK IN THE JAW.
+C: DETECTIVE NOCK
+D: Oww! Would you stop it?
+C: SGT. STAEHL
+D: What is wrong with you?
+C: DETECTIVE NOCK
+D: Here. Nock hands a BILLFOLD back to Staehl.
+C: SGT. STAEHL
+D: ... Whose is this? Very confused, Staehl LOOKS THROUGH the billfold.
+C: SGT. STAEHL
+D: ... That man you knocked over! You stole his billfold. Nock shrugs.
+E: CONT’D
+C: SGT. STAEHL
+D: ... Oh. Bob?
+E: CONT’D
+C: DETECTIVE NOCK
+D: Yes?
+C: SGT. STAEHL
+D: There’s a photograph of you. Staehl shows Nock the billfold’s contents: A PHOTO OF NOCK, PAPERS WITH NOCK’S ADDRESS, PERSONAL DATA.
+C: SGT. STAEHL
+D: That man was following you.
+E: CONT’D
+C: DETECTIVE NOCK
+D: Has been for awhile now.
+C: SGT. STAEHL
+D: Good God... Your home address, your district, your... Bob, there is a letter here from the Foreign Office. Staehl shows him: The letter, stamped with the Foreign Office seal, instructs that the bearer be granted access to all records concerning one “ROBERT NOCK”.
+C: FEMALE PEDESTRIAN
+D: — Are you two all right?
+E: approaching them
+C: SGT. STAEHL
+D: Bugger off. She LEAVES, offended.
+E: to Pedestrian
+C: SGT. STAEHL
+D: Why are you being followed? We have to call this in.
+E: CONT’D
+C: DETECTIVE NOCK
+D: I think I might have a better idea. CUT TO: INT. POLICE STATION - MANCHESTER - LATER QUICK SHOTS: Nock PAINTS TIPP-EX over his own name on the letter he just stole, and TYPES IN A NEW ONE — “ALAN TURING” INT. ADMIRALTY RECORDS OFFICE - DAY - LATER Detective Nock walks up to a SECRETARY.
+E: looking at the letter
+C: DETECTIVE NOCK
+D: Pardon me. I’d like to see some documents, if I may. Service records of a Mr. Turing. Alan. He FLASHES THE FORGED LETTER.
+E: to Secretary
+C: DETECTIVE NOCK
+D: Foreign Office sent me. Off of Nock’s SMILE we CUT TO: EXT. ATLANTIC OCEAN - GERMAN PLANE - DAY — 1940
+E: CONT’D
+C: ALAN TURING
+D: The game was quite a simple one.
+E: V.O.
+C: ON THE ATLANTIC:
+D: — A GERMAN SPYPLANE spots a BRITISH CONVOY travelling across the ocean, far away. We hear the BEEP BEEP of Morse Code as the SPYPLANE SENDS OUT AN ENCRYPTED MESSAGE and we cut to — EXT. BRITISH SHIP - ON DECK - DAY — The DECK of one of the British ships. A SEAMAN smokes a cigarette as waves crash against the side. He’s approached by two FRIENDS. He looks: He’s only got one smoke left. In a kind gesture, he SNAPS his cigarette in half, sharing it — INT/EXT. GERMAN SUBMARINE - DAY — As underwater, a GERMAN SUBMARINE receives the BEEP BEEP of the Morse message about the convoy’s location. The sub CHANGES COURSE —
+C: ALAN TURING
+D: Every single German message. Every surprise attack. Every bombing run. Every imminent U-boat assault. They were all floating through the air, radio signals that any schoolboy with an AM kit could intercept. INT. BLETCHLEY PARK - HUT 14 - DAY
+E: V.O.
+C: AT BLETCHLEY PARK:
+D: — Inside HUT 14: ROW after ROW of RADIO STATIONS, all staffed by the smartly dressed young ladies of the Women’s Royal Navy. One WREN, listening to Morse code on her headphones, intercepts the very same BEEP BEEP of the MESSAGE —
+C: ALAN TURING
+D: The trick was that they were encrypted. — She takes it down by hand: It’s GIBBERISH. Encrypted. She places the messages in a PILE — — A FEMALE ASSISTANT picks up the pile of encrypted messages- EXT. BLETCHLEY PARK - HUT 14 - DAY — And carries it through Bletchley — — The grounds surrounding the mansion at Bletchley Park are now littered with 18 WOODEN “HUTS” — hastily constructed structures that contain all of Britain’s top secret cryptography operations —
+E: V.O.
+C: ALAN TURING
+D: One hundred and fifty nine million million million possible Enigma settings. All we had to do was try each one. EXT. BLETCHLEY PARK - HUT 8 - DAY — The Female Assistant hurries past ARMED GUARDS and SECURITY CHECKPOINTS into — INT. BLETCHLEY PARK - HUT 8 - DAY — HUT 8: Where the Enigma cryptanalysis team does their work.
+E: V.O.
+C: ALAN TURING
+D: But if we had 10 men checking one setting a minute, for 24 hours every day and seven days every week, it would take... Well, you tell me. How many days would it take to check each of the settings? — John Cairncross, Peter Hilton, Keith Furman, and Charles Richards use PERFORATED SHEETS to analyze Enigma messages as the Female Assistant deposits the pile onto Hugh Alexander’s desk. All around Hut 8, we see STACK after STACK of encrypted messages, just like the one that was just delivered.
+E: V.O.
+C: ALAN TURING
+D: ... Would you like a hint? It’s not days. It’s years. The team does their best to decrypt these stacks of messages, but they’re getting nowhere. There are thousands of messages, and only four cryptographers.
+E: V.O.
+C: ALAN TURING
+D: Oh dear, you still haven’t worked it out, have you? Pity you didn’t pay more attention in school. It’s 20 million years. MOVE IN on the urgent message about the attack, which is untouched as — EXT. ATLANTIC OCEAN - BRITISH SHIP - DECK - DAY
+E: V.O. sighs beat
+C: BACK IN THE ATLANTIC:
+D: — The deck of the British ship. The sailors SMOKE as we —
+C: ALAN TURING
+D: To stop a coming attack, we would have to check 20 million years worth of settings... In 20 minutes. — Move DOWN INTO THE WATER to see that the German submarine has arrived. It FIRES A TORPEDO at the helpless convoy and we cut— INT. BLETCHLEY PARK - HUT 8 - DAY BACK TO HUT 8: The team is still buried in pile after pile of undecrypted messages. Another convoy has been lost because they couldn’t move fast enough, and they’re so far behind they don’t even know it yet.
+E: V.O.
+C: PETER HILTON
+D: ... I’m famished. Hugh stretches, staring out the window, where he sees a WREN passing by.
+C: HUGH ALEXANDER
+D: Good God, what is it with women in little hats? John, Peter, Keith and Charles all look as well — there is in fact something strangely sexy about women in little hats. John Cairncross gets up and walks into the next room, where he finds Alan, working alone.
+E: re: the WREN
+C: JOHN CAIRNCROSS
+D: The boys... We were going to get some lunch? Alan?
+E: Alan ignores him
+C: ALAN TURING
+D: Yes.
+C: JOHN CAIRNCROSS
+D: I said we were going to get some lunch? Alan?
+E: Alan keeps ignoring him
+C: ALAN TURING
+D: Yes.
+C: JOHN CAIRNCROSS
+D: Can you hear me?
+C: ALAN TURING
+D: Yes.
+C: JOHN CAIRNCROSS
+D: I said we’re off to get some lunch. This is starting to get a bit repetitive.
+E: silence
+C: ALAN TURING
+D: What is?
+C: JOHN CAIRNCROSS
+D: I had asked if you wanted to have lunch with us.
+C: ALAN TURING
+D: No you didn’t. You told me you were getting lunch.
+C: JOHN CAIRNCROSS
+D: Have I offended you in some way?
+C: ALAN TURING
+D: Why would you think that?
+C: JOHN CAIRNCROSS
+D: Would you like to come to lunch with us?
+C: ALAN TURING
+D: When is lunchtime?
+C: HUGH ALEXANDER
+D: Christ, Alan, it’s a bleeding sandwich.
+E: calling out
+C: ALAN TURING
+D: What is?
+C: HUGH ALEXANDER
+D: Lunch.
+C: ALAN TURING
+D: I don’t like sandwiches.
+C: JOHN CAIRNCROSS
+D: Nevermind.
+C: HUGH ALEXANDER
+D: John was trying to be nice.
+C: ALAN TURING
+D: How?
+C: JOHN CAIRNCROSS
+D: Let it go.
+C: HUGH ALEXANDER
+D: You know to pull off this irascible genius routine, one has to actually be a genius. Yet we’re the ones making progress here, aren’t we?
+C: ALAN TURING
+D: You have?
+C: HUGH ALEXANDER
+D: We’ve decrypted a number of German messages by analyzing the frequency of letter distribution.
+C: ALAN TURING
+D: Oh. Even a broken clock is right twice a day. That’s not progress at all, that’s just blind luck. I’m designing a machine that will allow us to break every message, every day, instantly. We see his work: ELECTRICAL SCHEMATICS. He’s designing a
+C: STRANGE NEW MACHINE.
+D: ON THE TEAM: A machine? That’s ridiculous.
+C: PETER HILTON
+D: Who’s hungry? Let’s go.
+C: HUGH ALEXANDER
+D: Bye, Alan. The guys gather their things and walk out...
+C: ALAN TURING
+D: I’m hungry. ... They turn.
+C: JOHN CAIRNCROSS
+D: What?
+C: ALAN TURING
+D: Peter asked if anyone was hungry. I am. May I have some soup, please? EXT. BLETCHLEY PARK - HUT 8 - MOMENTS LATER Hugh, John, Peter, Keith and Charles all exit Hut 8, shaking their heads and laughing at what an impossible weirdo Alan is. In the window, we see Alan’s face, alone with his work. ON ALAN: He looks out at the team, a slight longing to be among them, and yet the resolution that he never can be. EXT. OUTSKIRTS OF BLETCHLEY - DAY - SEQUENCE Alan runs for miles and miles along the outskirts of Bletchley. He thinks when he runs. It focuses him. He looks intent, deeply concentrating as he presses his legs as hard as they’ll go. INTERCUT WITH: INT. BLETCHLEY PARK - HUT 8 - DAY - SEQUENCE Alan obsessively works on something in Hut 8, filling sheet after sheet of paper with his designs. He’s drawing SCHEMATICS... As it fills out, we see what it is: It’s a HUGE MACHINE. EXT. BLETCHLEY PARK - DAY Alan walks through the camp brandishing a PIECE OF PAPER. He’s a fish out of water amidst all of the MILITARY MEN moving supplies around him. He finds what he’s looking for: Commander Denniston stands before a SUPPLY TRUCK, checking the manifest as supplies are UNLOADED.
+E: they stare at him
+C: ALAN TURING
+D: This is unacceptable.
+C: COMMANDER DENNISTON
+D: Turing. If you’d like to discuss the complaint, I’d suggest making a proper appointment with my office.
+C: ALAN TURING
+D: Complaint? Hugh Alexander has denied my requisition. Parts and equipment, to build the machine I’ve designed.
+C: COMMANDER DENNISTON
+D: Your fellow codebreakers are refusing to work with you. They’ve filed a formal complaint.
+C: ALAN TURING
+D: It’s inspired by an old Polish code machine, only infinitely more advanced.
+C: COMMANDER DENNISTON
+D: If you don’t respond to the complaint, I’ll have to take it up with the Home Office.
+C: ALAN TURING
+D: Fine. My response is, they are all idiots. Fire them and use the savings to fund my machine. I’ll only need about a hundred thousand pounds.
+C: COMMANDER DENNISTON
+D: A hundred thousand — Why are you building a machine?
+C: ALAN TURING
+D: It’s highly technical. You wouldn’t understand.
+C: COMMANDER DENNISTON
+D: I suggest you make an effort to try.
+C: ALAN TURING
+D: ... Enigma is a machine. A very well-designed machine. Our problem is that we’re trying to beat it with men. What if only a machine can defeat another machine? Denniston stares at him.
+C: COMMANDER DENNISTON
+D: ... Hugh Alexander is in charge of your unit and if he’s said no, that’s that.
+C: ALAN TURING
+D: I do not have time for this —
+C: COMMANDER DENNISTON
+D: — Have you ever won a war before, Turing? I have. Do you know how it’s done? Order. Discipline. Chain of command. You’re not at University any longer. You are a very small cog in a very large system and you’ll do as your commanding officer instructs.
+C: ALAN TURING
+D: Who is your commanding officer?
+C: COMMANDER DENNISTON
+D: Winston Churchill. 10 Downing Street, London. You have a problem with my decision you can take it up with him. And with that, Denniston walks away, furious. ON ALAN: Well alright, if you say so... EXT. BLETCHLEY PARK - MAIN GATE - LATER Stewart Menzies walks out of the Bletchley’s MAIN GATE, through security, when’s he’s approached by:
+C: ALAN TURING
+D: Mr. Menzies! You’re headed back to London, yes?
+C: STEWART MENZIES
+D: Possibly.
+C: ALAN TURING
+D: Will you deliver a letter for me? Alan hands Menzies a letter: It’s addressed to “WINSTON CHURCHILL. 10 DOWNING ST. LONDON.” ON MENZIES: Well, this should be interesting... INT. BLETCHLEY PARK - DENNISTON’S OFFICE - DAY The team — Alan, Hugh, John, Peter, Keith, and Charles — are assembled in Commander Denniston’s office for a meeting. Stewart Menzies watches quietly from the corner, as is his way.
+C: HUGH ALEXANDER
+D: You must be joking. Churchill put Alan in charge?!?!?!
+C: KEITH FURMAN
+D: — This is a terrible plan —
+C: PETER HILTON
+D: — No no no no no no —
+C: ALAN TURING
+D: — Really? I can give these men orders now?
+C: COMMANDER DENNISTON
+D: Though I hate to say it... Yes.
+C: ALAN TURING
+D: Fantastic. Keith and Charles. You’re both fired.
+E: to Keith and Charles
+C: KEITH FURMAN
+D: Excuse me?
+C: CHARLES RICHARDS
+D: What?
+C: ALAN TURING
+D: You’re mediocre linguists and positively poor codebreakers.
+C: HUGH ALEXANDER
+D: Alan, you can’t just fire Keith and Charles.
+C: ALAN TURING
+D: He just said I could.
+C: COMMANDER DENNISTON
+D: I did no such thing.
+E: furious
+C: STEWART MENZIES
+D: But Churchill did. Denniston looks at Menzies, stewing, but Menzies just shrugs back: “What would you have me do?”
+C: CHARLES RICHARDS
+D: Go to hell. Charles and Keith leave, pissed.
+E: to Alan
+C: JOHN CAIRNCROSS
+D: This is inhuman. Even for you. ON DENNISTON: He looks at Alan with a withering, simmering glare. ON ALAN: He doesn’t budge an inch, or feel the slightest need to explain himself. As everyone stares at him, angry, the tension is brutal.
+C: STEWART MENZIES
+D: ... Popular at school, were you? CUT TO: INT. BLETCHLEY PARK - HUT 8 - MINUTES LATER Alan, Hugh, John and Peter walk back into Hut 8 after the meeting — resigned, unhappily, to their fate.
+E: to Alan
+C: JOHN CAIRNCROSS
+D: ... So what do we do now?
+C: PETER HILTON
+D: We’re short on staff.
+C: ALAN TURING
+D: We get more staff.
+C: HUGH ALEXANDER
+D: And how are you going to do that? Alan takes a paper from his desk and TACKS IT UP ON THE WALL. ON THE PAPER: It’s a CROSSWORD PUZZLE. INT. FAMILY HOME - MORNING - 1940 A MAN opens up that morning’s Daily Telegraph, and flipping through the paper, he sees an advertisement. ON THE AD: It’s a crossword puzzle. Below it, the ad copy says — “If you can solve this puzzle in under ten minutes please call STO-6264 for an exciting career opportunity.” INT. OTHER LOCATIONS - SAME TIME SERIES OF SHOTS: Other people — MEN, WOMEN, STUDENTS, RETIREES — open up their papers and see Alan’s ad. They all try solving the puzzle. It’s really, really hard. INT. FAMILY HOME - SAME TIME Back in the first house, the Man is trying to complete the puzzle when — — The AIR RAID SIREN goes off. Quickly, the Man gathers his FAMILY and they rush down into INT. BOMB SHELTER - CONTINUOUS The Man and his WIFE light candles in the safety of their underground BOMB SHELTER. As BOMBS EXPLODE on the street above them, the Man passes TOYS and GAMES to his children, to keep them distracted during the assault. He returns to Alan’s crossword puzzle, trying to solve it as just a few yards above him a city burnt to rubble. INT. TUBE STATION - LONDON - SAME TIME CIVILIANS run down into an old TUBE TUNNEL to get away from the bombing. Inside the tightly crowded station, some people read books, some play games, some lay on the train tracks to sleep as dust POOFS UP from the shaking ground. Normal life goes on as the LIGHTS FLICKER from the shelling above. By the dim flickering, we see OTHER PEOPLE trying their hand at Alan’s puzzle. EXT. MI-6 HEADQUARTERS - LONDON - DAY Alan bicycles through London, passing a group of GASMASKED SCHOOLCHILDREN being led calmly on a DRILL by their TEACHER. As a MILKMAN crosses a BOMBED OUT BUILDING to delivers his wares, Alan comes to a stop beside a MARRIED COUPLE who are digging through the RUBBLE. The husband digs while the wife rests, sipping tea as if her house was other than a war zone. While FIREMEN tend to a nearby smoldering mess, Alan locks up his bike and enters MI-6 HEADQUARTERS.
+C: END SEQUENCE
+D: INT. MI-6 HEADQUARTERS - LONDON - MOMENTS LATER Alan and Stewart Menzies talk in the hallway, outside a closed door.
+C: STEWART MENZIES
+D: Who are they?
+C: ALAN TURING
+D: All sorts, really. A school teacher. An engineer. A handful of students.
+C: STEWART MENZIES
+D: And you think they’re qualified for Bletchley because they’re good at crossword puzzles?
+C: ALAN TURING
+D: Well, they say they’re good. Now we should probably find out. Alan leads Menzies into: INT. CLASS ROOM - CONTINUOUS Alan and Stewart Menzies are in an MI-6 conference room. It’s been set up like a class room: Rows of identical desks, at which sit a COLLECTION OF CROSSWORD ENTHUSIASTS. There are around 20, all men.
+C: ALAN TURING
+D: ... You’ll have six minutes to complete the puzzle, at which point— Just then, a WOMAN enters. Everyone turns to look... Her name is JOAN CLARKE, 20s, a graduate student at Cambridge who’s trying to get as far away from her preacher father as possible, and she’s about to become very important to this story.
+C: MI-6 AGENT
+D: Pardon, Ma’am, this room is restricted.
+C: JOAN CLARKE
+D: Apologies for my tardiness — bus caught a flat tire.
+C: ALAN TURING
+D: May I continue, please?
+E: irritated
+C: MI-6 AGENT
+D: You’re not allowed in here, Ma’am.
+E: to Joan
+C: JOAN CLARKE
+D: I’m only a few minutes late. With the bombing there’s ten potholes to each road.
+C: MI-6 AGENT
+D: No, ma’am, the secretaries are to head upstairs. This room is for the candidates.
+C: ALAN TURING
+D: May I please get on with this?
+C: JOAN CLARKE
+D: I am a candidate.
+C: MI-6 AGENT
+D: For what position?
+C: JOAN CLARKE
+D: The letter did not say, precisely.
+C: MI-6 AGENT
+D: Yes, so, secretaries are to head upstairs.
+C: JOAN CLARKE
+D: It said it was top secret.
+C: ALAN TURING
+D: What is going on here?
+E: comes over to them
+C: JOAN CLARKE
+D: There was a crossword in the paper. I solved it. I got a letter saying I was a candidate for some mysterious job. So here I am. My name is Joan Clarke. She hands the Agent the LETTER.
+C: MI-6 AGENT
+D: Miss, did you really solve this puzzle yourself?
+C: JOAN CLARKE
+D: What makes you think I couldn’t have solved the puzzle myself? I am quite —
+C: MI-6 AGENT
+D: — Ma’am I’ll have to ask you —
+C: ALAN TURING
+D: — Miss Clarke. I find tardiness unacceptable under any circumstance. Now take a seat, so we may continue. Joan stares at Alan: Thank you.
+C: JOAN CLARKE
+D: Apologies again for being late. As Joan SITS, the Agent turns to Menzies — who’s been silently observing Alan thus far — for support. Menzies SHRUGS. The Agent backs down. Alan passes out NEW CROSSWORD PUZZLES.
+C: JOAN CLARKE
+D: — Pardon, but before we start, can you tell me a bit about this position I’m qualifying for?
+E: CONT’D
+C: ALAN TURING
+D: Oh for God’s sake — No.
+C: JOAN CLARKE
+D: It’s just that I’ve a pretty decent job at the University, and I’d rather not give it up for something less interesting.
+C: ALAN TURING
+D: Miss Clarke. You now have the distinct honor of having wasted more of my time than any other person in this room. Quiet. Gentlemen. And lady. You have six minutes. Begin. SHOTS: EVERYONE FRANTICALLY TRIES TO FINISH THE NEW PUZZLE. As they work:
+C: STEWART MENZIES
+D: Six minutes? Is that even possible?
+E: whispering to Alan
+C: ALAN TURING
+D: No. It takes me eight. But this test isn’t about crosswords — it’s about how you approach solving an impossible problem. Do you take the whole thing at once? Do you divide it into smaller — — Suddenly, Joan sits up. She’s finished. Early.
+C: ALAN TURING
+D: You’ve finished?
+E: CONT’D
+C: JOAN CLARKE
+D: Yes.
+C: ALAN TURING
+D: ... 5 minutes, 34 seconds.
+E: checking watch
+C: JOAN CLARKE
+D: You said to do it in under 6. ON ALAN: The smartest man in the room is surprised for the first time in a very long time by someone who might be even smarter.
+C: STEWART MENZIES
+D: Seems like some people approach it by simply doing the impossible. CUT TO: INT. CLASS ROOM - MINUTES LATER Minutes later, TWO PEOPLE have survived the crossword test. Joan is one of them.
+E: to Alan
+C: STEWART MENZIES
+D: Congratulations, and my warmest welcome to His Majesty’s service. If you speak a word of anything I’m about to show you, you’ll be executed for High Treason. You will lie to your friends, your family, everyone you meet about what it is you really do.
+C: JOAN CLARKE
+D: And what is it that we’re really doing?
+C: ALAN TURING
+D: We’re going to break an unbreakable Nazi code and win the war.
+C: JOAN CLARKE
+D: ... Well that does sound more interesting than my university job. CUT TO: EXT. SHERBORNE SCHOOL FOR BOYS - DAY - 1927 Young Alan and Christopher sit under a tree, the school in the distance. Alan is going through a crossword puzzle, Christopher is reading a book. Their legs are touching affectionately without either even knowing, like two people who are effortlessly comfortable with one another.
+C: YOUNG ALAN
+D: What’s that you’re reading? Christopher shows him: “A Guide to Codes and Cyphers.”
+C: CHRISTOPHER
+D: It’s about cryptography.
+C: YOUNG ALAN
+D: What’s cryptography?
+C: CHRISTOPHER
+D: It’s complicated. You wouldn’t understand.
+C: YOUNG ALAN
+D: I’m only fourteen months younger than you. Don’t treat me like a child.
+C: CHRISTOPHER
+D: Cryptography is the science of codes.
+C: YOUNG ALAN
+D: Like secret messages?
+C: CHRISTOPHER
+D: Not secret. That’s the brilliant part. Messages that anyone can see, but no one knows what they mean, unless you have the key.
+C: YOUNG ALAN
+D: How is that different from talking?
+E: confused
+C: CHRISTOPHER
+D: Talking?
+C: YOUNG ALAN
+D: When people talk to each other they never say what they mean. They say something else. And you’re supposed to just know what they mean. Only, I never do. So how is that different?
+C: CHRISTOPHER
+D: Alan, I have a funny feeling that you’re going to be very good at this. EXT. SHERBORNE SCHOOL FOR BOYS - DORMITORY - EVENING Christopher walks Young Alan back to his dormitory. They’re happy after a long day together.
+E: handing him the book
+C: CHRISTOPHER
+D: Goodnight, Alan. Christopher touches Alan’s shoulder, and the two share a sweet moment.
+C: ALAN TURING
+D: Goodnight. Alan watches Christopher go; his heart is blooming, in love. CUT TO: INT. MANCHESTER POLICE STATION - DAY - 1951 A crowded POLICE STATION. Detective Nock approaches his boss, SUPERINTENDANT SMITH, as the latter walks through the station dropping PAPERS onto various DESKS and checking the work of other POLICE OFFICERS. Nock hands Superintendant Smith a MANILA ENVELOPE.
+C: SUPERINTENDANT SMITH
+D: What is this?
+C: DETECTIVE NOCK
+D: Alan Turing’s classified military file.
+C: SUPERINTENDANT SMITH
+D: It’s bloody empty.
+E: displays the file
+C: DETECTIVE NOCK
+D: Exactly.
+C: SUPERINTENDANT SMITH
+D: It’s an empty manila envelope.
+C: DETECTIVE NOCK
+D: Yes.
+C: SUPERINTENDANT SMITH
+D: Well you’ve cracked the case wide open then, haven’t you?
+C: DETECTIVE NOCK
+D: Alan Turing’s war records aren’t just classified. They’re non- existent. That means someone got rid of them. Erased them, burned them.
+C: SUPERINTENDANT SMITH
+D: And that person broke into his house and stole... Nothing?
+C: DETECTIVE NOCK
+D: What if Turing wasn’t just a math professor?
+C: SUPERINTENDANT SMITH
+D: You think maybe he also teaches English lit?
+C: DETECTIVE NOCK
+D: Guy Burgess and Donald Maclean.
+C: SUPERINTENDANT SMITH
+D: The spies? From the papers?
+C: DETECTIVE NOCK
+D: The Soviet spies. But first, they were professors, weren’t they? Newspapers say they became radicalized at Cambridge. Then they joined the Communist Party, took positions in the Foreign Office and leaked information to Stalin during the war. Now, can you think of anyone else we know who was at Cambridge, then took up something murky and top secret when the war broke out? Smith gives him a look.
+C: SUPERINTENDANT SMITH
+D: You think Alan Turing might be a Soviet agent? ON NOCK’S FACE: It would explain a lot, wouldn’t it? ON SUPERINTENDANT SMITH: He’s considering...
+C: DETECTIVE NOCK
+D: Something very serious is happening, right here under our noses. Wouldn’t you like to find out what it is? Smith thinks, and then hands the folder back to Nock.
+C: SUPERINTENDANT SMITH
+D: No. I wouldn’t. I like my job. Now as to yours: Those lads have been causing a ruckus down by Whitworth Park again. Will you give them a talking to? Thank you. And with that, Smith leaves. ON NOCK: Damn it. He walks back across the station to find Sergeant Staehl waiting beside his desk.
+C: SERGEANT STAEHL
+D: Well? What’d he say?
+C: DETECTIVE NOCK
+D: He said alright. Let’s do it. Let’s follow Turing. You’ll take the first shift. Turing won’t have a secret left by the time we’re through with him. CUT TO: INT. BLETCHLEY PARK - HUT 11 - DAY - 1941 CLOSE ON: A GIANT, HALF-BUILT MACHINE. The size of a dining room table, but taller than it is wide, its guts are composed of SPINNING GEARS and a seemingly endless stream of LONG RED
+C: WIRES.
+D: REVEAL: TECHNICIANS work on putting the machine together, SOLDERING THE WIRES, while Alan FUSSES.
+C: ALAN TURING
+D: Careful! Damn it, will you — It’s not a toy. Alan tries to protect his precious creation when he’s interrupted by:
+C: HUGH ALEXANDER
+D: Alan! Your new minion has arrived. Alan turns to see: His new recruit, JACK GOOD. ... But no Joan.
+C: ALAN TURING
+D: ... Where’s Miss Clarke? CUT TO: INT. CLARKE HOUSE - LONDON - DAY Joan returns home from the market when she hears a familiar VOICE from the sitting room.
+E: displeased
+C: ALAN TURING
+D: — Well it’s a very important radio factory you see. It’s not really — I mean along the spectrum of radio factories this one is particularly— Joan follows the voices to find: Alan sitting across from her MOTHER and FATHER, arguing.
+E: O.S.
+C: ALAN TURING
+D: Hello. Joan makes the sort of face any young woman would make if she found Alan Turing sitting to tea with her parents. CUT TO: INT. CLARKE HOUSE - LONDON - MINUTES LATER In the KITCHEN: Joan’s MOTHER hands her a TEA TRAY. The two share a look. As Joan’s Mother and Father pretend to putter in the kitchen, listening in on the conversation in the next room, Joan takes the tray to the LIVING ROOM, where she begins to serve tea.
+E: CONT’D seeing Joan
+C: ALAN TURING
+D: ... Why aren’t you at Bletchley?
+C: JOAN CLARKE
+D: So kind of you to visit, Mr. Turing. Was your trip pleasant?
+E: ”My parents can hear us”
+C: ALAN TURING
+D: Gather your things and let’s go.
+C: JOAN CLARKE
+D: I’m sorry. I am unable to accept your offer.
+C: ALAN TURING
+D: And why not?
+C: JOAN CLARKE
+D: As my father told you, it is felt — well we feel — that such a position would hardly be appropriate.
+C: ALAN TURING
+D: You earned a double-first in mathematics.
+C: JOAN CLARKE
+D: But sadly was not granted the opportunity to become a Fellow.
+C: ALAN TURING
+D: You belong at Bletchley.
+C: JOAN CLARKE
+D: I’m sorry, but for someone in my position to work - to live - amongst all of your men, so far from home... It would be indecorous.
+C: ALAN TURING
+D: What in the world does that even —
+C: JOAN CLARKE
+D: — One lump or two? ON ALAN: Are you fucking serious? ON JOAN: Yes. I’m fucking serious. ON ALAN: He tries to think of a solution...
+E: ”I told you they’re listening!”
+C: ALAN TURING
+D: ... We have a group of young women who tend to our clerical tasks. Assistants, translators. They live together in town. Would that be a more suitable environment? ON JOAN’S PARENTS: This sounds more promising.
+C: JOAN CLARKE
+D: So I would be working amongst these women?
+C: ALAN TURING
+D: Yes. ON JOAN: “Go on.”
+E: ”Not actually”
+C: ALAN TURING
+D: ... Wonderful ladies, they even organize social events at St Martin’s church, down the road. The whole thing is really quite... Decorous. ON JOAN’S PARENTS: That’s much better.
+E: CONT’D
+C: JOAN CLARKE
+D: Well. I will have to talk this over with my family. As Joan’s parents enter, we CUT TO: EXT. CLARKE HOUSE - MOMENTS LATER Joan walks Alan out of the front door, finally out of earshot from her parents for a few quick seconds.
+E: ”Good job.”
+C: ALAN TURING
+D: You won’t have the proper clearance, so we’ll have to improvise a bit.
+C: JOAN CLARKE
+D: Why are you helping me?
+C: ALAN TURING
+D: There is only one thing that matters in this entire world, do you understand? Breaking Enigma.
+C: JOAN CLARKE
+D: Mr. Turing. Why are you helping me?
+C: ALAN TURING
+D: ... Sometimes it is the very people who no one imagines anything of who do the things that no one can imagine. EXT. BLETCHLEY PARK - DAY Joan and a few OTHER WRENS exit a BUS that’s deposited them in front of the Park’s central mansion. Looking up at it, she sees Alan walking across the way. He gives her a small wave, which she returns with a small wave back. INT. BLETCHLEY PARK - HUT 8 - NIGHT Later in Hut 8, the team — Hugh, John, Peter, and the new guy, Jack — work frantically into the night. The team uses their PERFORATED SHEETS to find linguistic patterns in the Enigma messages, everyone working as hard and as fast as they possibly can until — — Suddenly a BELL GOES OFF. Everyone stops their work, frustrated. Angry, Hugh KICKS his desk.
+E: w/o Alan
+C: JACK GOOD
+D: ... What just happened?
+C: JOHN CAIRNCROSS
+D: Midnight. All the work we did today is useless. But don’t worry: We’ve a few hours before tomorrow’s messages start pouring in. And we start all over again.
+C: PETER HILTON
+D: From scratch.
+C: HUGH ALEXANDER
+D: I am sick of this. Sick. He made me waste four hours this morning re- wiring his plugboard matrix. Three hours yesterday on rotor positions.
+C: JOHN CAIRNCROSS
+D: Don’t go over there.
+C: HUGH ALEXANDER
+D: No. If our job was not impossible before it bloody well is now. Hugh stands and heads to the door —
+C: JOHN CAIRNCROSS
+D: — Hugh, don’t — — But Hugh is already gone to CUT TO: INT. BLETCHLEY PARK - HUT 11 - MOMENTS LATER Alan stands alone with his machine, tinkering, comparing the assembly to his SCHEMATICS. Hugh BURSTS in —
+C: HUGH ALEXANDER
+D: — Damn you and damn your useless machine.
+C: ALAN TURING
+D: My machine is how we’re going to win.
+E: not even looking
+C: HUGH ALEXANDER
+D: This machine? Hugh grabs a GLASS from the table and SMASHES IT AGAINST
+C: ALAN’S MACHINE. ALAN TURING
+D: Stop.
+E: turning around, shocked
+C: HUGH ALEXANDER
+D: This is the bloody machine you’re talking about? He grabs a WRENCH — — Alan moves to protect Christopher, standing between Hugh and the machine —
+C: ALAN TURING
+D: No no don’t — — When the team enters behind Hugh — — GRABBING HIM and HOLDING HIM BACK. Alan stands between the team and his machine as Hugh STEAMS.
+C: HUGH ALEXANDER
+D: ... You could help us. You could make this go faster. But you won’t.
+C: PETER HILTON
+D: Hugh is right, Alan. There are actual soldiers out there trying to win an actual war — my brother, my cousins, all my friends, they are all making a difference, while we wile away our days producing nothing. Because of you.
+C: HUGH ALEXANDER
+D: Because of you... Hugh PUSHES towards Alan again — — but John HOLDS HIM BACK.
+C: JOHN CAIRNCROSS
+D: ... What’s the use?
+E: to Hugh, calming
+C: ALAN TURING
+D: My machine will work. Hugh stares Alan, then at John.
+C: HUGH ALEXANDER
+D: .... I’m going to the pub. Hugh leaves, and the team FOLLOWS.
+C: ALAN TURING
+D: ... It’ll work. ON ALAN: Alone. Rattled from the violence. Scared. And yet... Resolved. He makes a fateful decision and runs off to INT. BLETCHLEY PARK - HUT 8 - MINUTES LATER Alan goes back into Hut 8, which is now empty. He goes to a far STORAGE CABINET, from which he removes a
+C: STACK OF ENIGMA MESSAGES.
+D: Alan FOLDS THE SHEETS, STUFFING THEM INTO HIS COAT POCKETS — — INTO HIS PANTS — — INTO HIS SHOES — — ETC. He runs out, concealing enough top secret information on his body to have him hanged for treason ten times over. EXT. BLETCHLEY PARK - DIRT PATH - MINUTES LATER Alan walks his bicycle through the CHECK POINT, showing his ID to the GUARDS. EXT. BLETCHLEY PARK - MAIN GATE - CONTINUOUS At the Gate, ARMED GUARDS stop him as he passes, and as is protocol, Alan opens up his BRIEFCASE for the men to see: Nothing is inside. Concealing the documents in his coat/pants/shoes/etc., Alan hops on his bike and heads off to: EXT. JOAN’S FLAT - LATER Alan bicycles to the outside of Joan’s new flat. The windows are BOARDED UP at night — city regulations, so that the Germans flying overhead can’t see any lights from the town. Alan CHUCKS A SMALL rock at Joan’s boarded window — — Then carefully sneaks around in back of the house— — Finding an OPEN BACK WINDOW — — On the second floor. He CLIMBS A NEARBY FENCE, and JUMPS FROM THE FENCE TO THE WINDOW — — Where Joan GRABS HIM and HELPS HIM INSIDE: INT. JOAN’S FLAT - CONTINUOUS It’s dark inside...
+C: JOAN CLARKE
+D: Could you have made a bit more noise, Alan? Not sure you woke up my landlady.
+E: whispering
+C: ALAN TURING
+D: Sorry. Joan turns on a SMALL LAMP and then lights some CANDLES.
+C: JOAN CLARKE
+D: The best I can do. No male visitors after dark. She watches Alan remove papers from his pockets.
+C: JOAN CLARKE
+D: What’d you bring me? Alan produces the Enigma messages from every available hiding place on his person.
+E: CONT’D
+C: JOAN CLARKE
+D: ... Some men try flowers, you know.
+E: CONT’D
+C: ALAN TURING
+D: These are actual decrypted Enigma messages, direct from Nazi high command.
+E: pulling papers from inside his shirt
+C: JOAN CLARKE
+D: Or chocolates. Girls like chocolate. Alan starts PLACING THE MESSAGES down on a table, but there isn’t room, so he starts LAYING THEM OUT ON THE FLOOR.
+C: JOAN CLARKE
+D: “0600 hours. Weather today is clear. Rain in the evening. Heil Hitler.” Well, clearly that vital information is going to win us the war.
+E: CONT’D reading a message
+C: ALAN TURING
+D: It’s the relationship between the encrypted and decrypted messages that interests me. Is there a clue there that we can build into Christopher?
+C: JOAN CLARKE
+D: Who’s “Christopher”?
+C: ALAN TURING
+D: Oh. He’s my machine.
+C: JOAN CLARKE
+D: You named him?
+C: ALAN TURING
+D: Is that a bad name?
+C: JOAN CLARKE
+D: Nevermind... Are you trying to build your Universal Machine? Alan looks at her: How do you know what that is? Joan smiles.
+E: looks over the messages
+C: JOAN CLARKE
+D: I read your paper at university.
+E: CONT’D
+C: ALAN TURING
+D: They’re teaching it already?
+C: JOAN CLARKE
+D: Oh God no, but I was precocious. You theorized a machine that can solve any problem. It doesn’t just do one thing: It does everything. The machine isn’t only programmable, it’s re-programmable. ON ALAN: She understands what he’s been writing about.
+C: JOAN CLARKE
+D: Is that part of the idea behind your Christopher?
+E: CONT’D
+C: ALAN TURING
+D: Human beings can compute large sums very quickly. Even Hugh can do that. I want Christopher to be... Smarter. To make a calculation, and then to determine what to do next. Like a person does. Think of it: An electrical brain. A digital computer.
+C: JOAN CLARKE
+D: A “digital computer?” Hmm.
+E: trying out the words on her tongue
+C: ALAN TURING
+D: I’ll show you — — Alan TURNS, and KNOCKS OVER THE CANDLE... ... Which LIGHTS THE ENIGMA MESSAGES ON FIRE. Alan and Joan SCRAMBLE TO PUT OUT THE FIRE. They make a lot of NOISE in the process, though they do manage not to burn down Joan’s flat.
+C: ALAN TURING
+D: I’m so sorry. They hear more noise from downstairs: “Joan?!? HELLO?!?”
+E: CONT’D
+C: JOAN CLARKE
+D: My landlady. You need to leave.
+C: ALAN TURING
+D: Right. Alan moves to the front door —
+C: JOAN CLARKE
+D: — No. The window. She’s coming.
+C: ALAN TURING
+D: Really?
+E: staring at window
+C: JOAN CLARKE
+D: Go. Alan AWKWARDLY CLIMBS OUT THE WINDOW, TRYING NOT TO FALL... SMASH CUT TO: EXT. BLETCHLEY PARK - THE NEXT DAY REVEAL: Alan has been injured in his fall. Alan walks through the grounds into: INT. BLETCHLEY PARK - HUT 8 - CONTINUOUS Alan enters Hut 8 to find his team watching silently as a bunch of MILITARY POLICE RIFLE THROUGH HIS DESK — — MANHANDLING his papers, his machine parts, making a mess.
+E: Climbing is not his strong suit.
+C: ALAN TURING
+D: Hey! Don’t touch that! The RMP’S TRAIN GUNS ON HIM.
+E: re: parts of Christopher
+C: MILITARY POLICEMAN
+D: Don’t move!
+C: ALAN TURING
+D: That’s my desk.
+C: COMMANDER DENNISTON
+D: Thank goodness. Be a pity if we were searching the wrong one. Alan turns to find Denniston directing the search.
+E: O.S.
+C: ALAN TURING
+D: What are you doing?
+C: COMMANDER DENNISTON
+D: There’s a spy at Bletchley Park.
+C: JOHN CAIRNCROSS
+D: The Navy thinks one of us is a Soviet double-agent, Alan.
+C: ALAN TURING
+D: Why?
+C: COMMANDER DENNISTON
+D: Our boys intercepted this on its way to Moscow. Look familiar? Denniston hands Alan a TELEGRAM — it’s a LONG STRING OF LETTERS, running down the entire page.
+C: ALAN TURING
+D: ... This is a Beale Cypher. It’s encrypted with a key phrase, from a book or a poem or... Which one of them did this? As Alan stares at the team, they stare back at him. He glances at the RMP’s rifling through his desk. Oh fuck.
+E: looking at the telegram re: the team
+C: ALAN TURING
+D: I’m not a double agent.
+E: CONT’D
+C: COMMANDER DENNISTON
+D: Double agents are such bastards. Isolated loners. No attachments to friends or family. Arrogant. Think they’re smart enough to get away with anything. Do you know anyone like that?
+C: ALAN TURING
+D: I know you don’t like me... But you don’t think I could actually be a spy, do you? ON THE TEAM: They won’t look him in the eye.
+C: MILITARY POLICEMAN
+D: Nothing out of the ordinary, Sir.
+E: to Denniston
+C: COMMANDER DENNISTON
+D: Well then. Next time, you will make a mistake. And then, I don’t even need to bother firing you — I can simply hang you for treason. Denniston and his men LEAVE.
+C: HUGH ALEXANDER
+D: ... Aren’t you glad you joined up just in time? INT. BLETCHLEY PARK - HUT 11 - MINUTES LATER In the machine Hut next door, Alan touches his precious machine for comfort. Whenever he feels lonely, misunderstood, isolated — he has his machine. There’s a KNOCK on the door and... ... Joan enters.
+E: to Jack
+C: JOAN CLARKE
+D: I heard about what happened... I have an idea of what might cheer you up. CUT TO: INT. BLETCHLEY PARK - BEER HUT - LATER Alan and Joan sip from beer bottles in the “beer hut” — Among the military commissaries, it’s so named because, well, it’s the one that serves beer. They can be a bit more relaxed here than at Joan’s flat. They’re surrounded by NAPKINS full of MATHEMATICAL EQUATIONS, which they’re studying, debating, etc.
+C: JOAN CLARKE
+D: ... So because no letter can be encoded as itself, you’ve already a handful of settings that can be rejected at the outset. If you — Just then, Hugh, John, and Peter enter the Beer Hut... ... Alan looks up, seeing them. Joan notices.
+C: JOAN CLARKE
+D: Is that your team? Let’s say hello.
+E: CONT’D
+C: ALAN TURING
+D: No.
+C: JOAN CLARKE
+D: Over here! They see Joan...
+E: to the boys
+C: ALAN TURING
+D: I told you not to do that.
+C: JOAN CLARKE
+D: Correct. ... Hugh, John and Peter approach.
+C: HUGH ALEXANDER
+D: Alan. Didn’t even know you drank.
+C: ALAN TURING
+D: Hello.
+C: JOAN CLARKE
+D: He doesn’t, really, he just sort of sips at the foam.
+C: HUGH ALEXANDER
+D: Tell you a secret, Miss...
+C: JOAN CLARKE
+D: ... Clarke.
+C: HUGH ALEXANDER
+D: Miss Clarke.
+C: JOAN CLARKE
+D: Please.
+C: HUGH ALEXANDER
+D: The foam’s my favorite part too.
+C: JOAN CLARKE
+D: Well then, I’ll show you a trick. Alex! We’re in need of supplies. Joan hops behind the bar and the BARTENDER helps her to
+E: to Bartender
+C: BOTTLES OF GUINNESS.
+D: Hugh, Alan, John and Peter watch.
+C: HUGH ALEXANDER
+D: Alan, are you... On a date?
+C: ALAN TURING
+D: What? No. Of course not.
+C: HUGH ALEXANDER
+D: Mind if I have a crack?
+C: ALAN TURING
+D: I’m not a Soviet spy.
+C: HUGH ALEXANDER
+D: Do love a proper blonde.
+C: ALAN TURING
+D: Hugh. I swear. I’m not a spy.
+C: HUGH ALEXANDER
+D: Oh for God’s sake, Alan, of course you’re not a spy.
+C: ALAN TURING
+D: What?
+C: HUGH ALEXANDER
+D: Denniston gave me the Beale Cypher. And guess what? I broke it. “Ask and it shall be given you; seek and ye shall find.” Matthew 7:7. That was the key. Far too simple for you. Pity Denniston disagrees. Returning, Joan POURS PINTS OF GUINNESS FOR THE TEAM.
+C: JOAN CLARKE
+D: Did you ever notice that the bubbles in a pint of Guinness travel downwards, as opposed to upwards in any other beer? Ever wonder why? It’s because the pint glass creates drag on the bubbles along the side; but the center bubbles are free to sprint upwards. Then the rising current in the middle pushes down on the side bubbles and... And voila: Guinness. The official beer of mathematicians. ON THE PINTS: Joan has etched pi symbols into the foam.
+C: HUGH ALEXANDER
+D: Be still my beating heart. Come join us for a drink.
+C: ALAN TURING
+D: She’s assisting me with some calculations.
+C: HUGH ALEXANDER
+D: Fine, Alan can come too.
+C: ALAN TURING
+D: Thank you.
+C: JOAN CLARKE
+D: Hugh was being sarcastic.
+C: HUGH ALEXANDER
+D: He’s a lost cause, I promise.
+C: JOAN CLARKE
+D: We’ll be there in a moment. Joan smiles at Hugh as he joins John and Peter at a separate table.
+C: ALAN TURING
+D: ... He likes you.
+C: JOAN CLARKE
+D: Yes.
+C: ALAN TURING
+D: You got him to like you.
+C: JOAN CLARKE
+D: Yes.
+C: ALAN TURING
+D: Why?
+C: JOAN CLARKE
+D: Because I’m a woman in a man’s job and I don’t have the luxury of being an ass. Alan, it doesn’t matter how smart you are. Enigma is smarter. If you really want to beat it — if you really want to solve your puzzle — you’re going to need all the help you can get. And they are not going to help you if they do not like you. Alan thinks. The next sentence is incredibly hard for him to say out loud.
+E: beat
+C: ALAN TURING
+D: ... How should I get them to like me? CUT TO: INT. BLETCHLEY PARK - HUT 8 - DAY Alan enters Hut 8 to find his team hard at work. He’s carrying a BAG OF APPLES.
+C: HUGH ALEXANDER
+D: What’re those?
+E: sees apples
+C: ALAN TURING
+D: Apples.
+C: HUGH ALEXANDER
+D: No.
+C: ALAN TURING
+D: No, they really are... I... Joan told me it’d be nice to bring you all something. Alan takes the apple bag around the room, handing each man an apple. They take them. It’s really awkward.
+C: JOHN CAIRNCROSS
+D: Thanks?
+C: PETER HILTON
+D: I like apples.
+C: HUGH ALEXANDER
+D: My best to Miss Clarke.
+C: ALAN TURING
+D: ... There are two fellows in the woods. And they run into a bear. The first fellow, he kneels down and starts to pray. But the second one, he begins lacing up his boots. The first one says, “my friend, what’re you doing? You can’t outrun a bear.” And the second one responds, “I don’t have to. I only have to outrun you.” Ba dum bum. Awkward silence.
+C: ALAN TURING
+D: I’ll be with Christopher if anyone needs me. Alan walks off to the adjacent Hut. CUT TO: INT. SHERBORNE SCHOOL FOR BOYS - DAY - 1927 Young Alan and Christopher are in math class. The TEACHER drones on as the students pretend to pay attention. Young Alan and Christopher PASS NOTES — — Dropping them by each other’s desks — — And snapping them up quickly.
+E: CONT’D
+C: TEACHER
+D: Mr. Turing! Passing notes, are we?
+C: ALAN TURING
+D: No, Sir. The Teacher comes over, and grabs the note from his hand. ON THE NOTE: “FDFH RG TU HSD PDXT PEJND QERDZX.” It’s encrypted.
+C: TEACHER
+D: Only Mr. Turing would pass notes written in gibberish. The other students LAUGH as the Teacher drops the note in the trash. Alan isn’t bothered by the laughter — he’s safe in his private world with Christopher. The BELL RINGS. Class is over. AS EVERYONE SHUFFLES OUT:
+E: holding it up for everyone
+C: TEACHER
+D: Alright you lot, do not forget your calculus over break. Have a pleasant holiday and we’ll resume your integrals when you return. Alan waits... And grabs the note from the trash. EXT. SHERBORNE SCHOOL FOR BOYS - CLOISTERS - MINUTES LATER Now alone, Alan DECRYPTS THE MESSAGE. One at a time, the letters become intelligible. ON THE NOTE: “SEE YOU IN TWO LONG WEEKS, DEAREST FRIEND.” ON ALAN: Christopher called him his dearest friend. CUT TO: EXT. BLETCHLEY PARK - OUTSIDE HUT 8 - DAY - 1941 Alan and Joan eat a PICNIC LUNCH in a wooded area behind Hut Alan finishes writing an EQUATION, then hands his NOTEBOOK to Joan. She looks at the equation, then instantly starts CROSSING THINGS OUT and REWRITING. Alan laughs. There aren’t many people who would cross out his work so brazenly. Joan sees his laughter, looks up: “What’d I do?” But before Alan can respond they both see: Hugh approaching. Alan is nervous. But Hugh simply HANDS ALAN A SHEET OF PAPER.
+E: CONT’D
+C: HUGH ALEXANDER
+D: Look at this. As Alan and Joan stare at SCHEMATICS on the paper, Hugh SWIPES A SANDWICH from their picnic and begins to chew.
+C: HUGH ALEXANDER
+D: If you run the wires across the plugboard matrix diagonally, you’ll eliminate rotor positions 500 times faster.
+E: CONT’D
+C: ALAN TURING
+D: ... This is actually not an entirely terrible idea.
+C: JOAN CLARKE
+D: That’s Alan for “thank you.”
+C: ALAN TURING
+D: That’s my sandwich.
+E: looking up
+C: HUGH ALEXANDER
+D: You don’t like sandwiches. And with that, Hugh takes another bite, gives Joan a wink, and walks off. INT. BLETCHLEY PARK - HUT 11 - DAY Alan and the team stand in a half-circle around the now-completed Christopher. An ELECTRICAL ASSISTANT feeds fresh Enigma messages into one end of the machine. The men look at each other, feeling the importance of the moment.
+E: Hugh, John, Peter
+C: JOHN CAIRNCROSS
+D: You nervous? Alan takes a gulp and CONNECTS the final bit of electrical wiring... ... AND THE VERY FIRST “DIGITAL COMPUTER” IN HISTORY COMES TO
+E: to Alan
+C: LIFE.
+D: ON THE MACHINE: GEARS ARE SPINNING, CURRENT IS RACING THROUGH
+C: THE WIRES.
+D: The CLACKING SOUND it makes is UNBELIEVABLY LOUD.
+C: PETER HILTON
+D: Christ!! What happens now?!
+E: yelling over the machine
+C: ALAN TURING
+D: It should tell us the day’s Enigma settings!!
+C: HUGH ALEXANDER
+D: How long?!? ON ALAN: He’s not sure... The team shares a look: Is this really going to work? EXT. BLETCHLEY PARK - DAWN Dawn rises over Bletchley Park. INT. BLETCHLEY PARK - DENNISTON’S OFFICE - MORNING Commander Denniston receives a visit from the Electrical Assistant who’d been helping Alan in the previous scene.
+C: ELECTRICAL ASSISTANT
+D: The gears just keep spinning and spinning. It’s endless.
+C: COMMANDER DENNISTON
+D: And there’s no result in sight? The Assistant NODS. Denniston SMILES: Got him. INT. BLETCHLEY PARK - HUT 11 - EARLY MORNING As the machine CLACKS away, Alan is frantically going over his papers. He’s unshaven, wearing yesterday’s clothes. He hasn’t gotten a wink of sleep. ON ALAN’S FRANTIC PACING: Why isn’t it working? Why?! Alan rubs his eyes, exhausted, and as he does so he looks out the window to see... ... Commander Denniston walking towards the Machine Hut, accompanied by a HOME OFFICE MAN and TWO RMPs. Alan quickly runs to the door and BOLTS it — — Just as Denniston and the men get to it from the outside.
+C: OUTSIDE:
+D: Denniston tries the door. It won’t open.
+C: COMMANDER DENNISTON
+D: Turing! Open the bloody door!
+C: INSIDE: ALAN TURING
+D: No!!!
+C: OUTSIDE: COMMANDER DENNISTON
+D: Open the door or we will break it down!!
+C: INSIDE: ALAN TURING
+D: I cannot let you in!! I cannot let you interfere!!!
+C: OUTSIDE:
+D: Denniston turns to the RMPs: Break it down. The RMPs KICK DOWN THE DOOR — — And the men BURST INTO THE ROOM as Alan FALLS BACK.
+C: COMMANDER DENNISTON
+D: Turn that thing off. An RMP walks over to Christopher — — Alan tries to stop him but they POINT GUNS AT HIM — — And so Alan watches in absolute horror as they TURN OFF THE
+E: re: the horrible noise
+C: MACHINE. COMMANDER DENNISTON
+D: Well then. It seems your great big expensive machine doesn’t work.
+E: CONT’D
+C: ALAN TURING
+D: It does.
+C: COMMANDER DENNISTON
+D: Wonderful. So you’ve broken Enigma then?
+C: ALAN TURING
+D: It works... It was just... Still working.
+C: COMMANDER DENNISTON
+D: This is my associate from the Home Office. A hundred thousand pounds is quite a lot of money. He’s here to see what you have to show for it.
+C: ALAN TURING
+D: You will never understand the importance of what I’ve created here. Commander Denniston exchanges a look with the men: See what I mean?
+C: COMMANDER DENNISTON
+D: Have you decrypted any German messages? A single one? Can you point to anything at all that you’ve achieved? ON ALAN: He can’t.
+C: COMMANDER DENNISTON
+D: Your funding is up, and our patience has expired. It is with such great pleasure that I finally get to say this: Alan Turing, you’re fired. ON ALAN: What can he do? This is it...
+E: CONT’D
+C: COMMANDER DENNISTON
+D: Please escort Mr. Turing from the premises.
+E: CONT’D
+C: HUGH ALEXANDER
+D: No. Everyone turns to see Hugh, John, and Peter at the door, wearing fresh clothes.
+E: O.S.
+C: COMMANDER DENNISTON
+D: Pardon?
+C: HUGH ALEXANDER
+D: God help me... If you fire Alan, you’ll have to fire me too.
+C: COMMANDER DENNISTON
+D: What on earth are you saying?
+C: HUGH ALEXANDER
+D: Trust me, no one wants to say this less than I do, but Alan’s right. His machine can work. At least it’s the best chance we’ve got.
+C: COMMANDER DENNISTON
+D: You must be joking.
+C: JOHN CAIRNCROSS
+D: If you fire them, you’ll have to fire me too.
+C: PETER HILTON
+D: And me.
+C: HUGH ALEXANDER
+D: We’re the best cryptographic minds in Britain. Are you going to fire us all? Denniston looks to the Home Office Man, who NODS: Hugh is right.
+C: HUGH ALEXANDER
+D: At least give us more time. Six more months, and if the machine doesn’t produce results we’ll go back to doing things the old way.
+E: CONT’D
+C: COMMANDER DENNISTON
+D: ... One month. And then so help me God you are all gone. Denniston and his men LEAVE. The team breathes a sigh of relief: They’ve been given a temporary reprieve.
+C: ALAN TURING
+D: ... Thank you.
+C: HUGH ALEXANDER
+D: This machine better bloody work. CUT TO: INT. MANCHESTER POLICE STATION - DAY - 1951 Sergeant Staehl walks eagerly through the police station. He comes to an office marked “SUPERINTENDANT SMITH”, where he OPENS the door to find INT. MANCHESTER POLICE STATION - SMITH’S OFFICE - CONTINUOUS Superintendant Smith and Detective Nock are in the middle of a genial conversation. The Superintendant turns to Staehl.
+C: SUPERINTENDANT SMITH
+D: Can I help you?
+C: SERGEANT STAEHL
+D: Sirs, I think I’ve got him.
+C: SUPERINTENDANT SMITH
+D: Got who?
+C: SERGEANT STAEHL
+D: Turing. Detective Nock looks at Staehl — “Shhhh!” The Superintendant looks at Nock — “You didn’t...”
+C: SERGEANT STAEHL
+D: I trailed Turing to a pub last night, where he met a bloke. They exchanged an envelope. So I followed the guy, picked him up, gave him a good shake... Here, I’ll show you.
+E: CONT’D
+C: SUPERINTENDANT SMITH
+D: You and I will discuss this later. Sergeant. They follow Staehl out to... INT. POLICE STATION - INTERROGATION ROOM - MOMENTS LATER As Nock and Smith stands outside the INTERROGATION ROOM, Sergeant Staehl points through the window in the door: Inside is ARNOLD MURRAY, 20s, nervous.
+E: to Nock, angry to Staehl
+C: SERGEANT STAEHL
+D: He’s a bloody poofter. He confessed. Staehl shows Nock and Smith a SIGNED STATEMENT.
+C: DETECTIVE NOCK
+D: What?
+C: SERGEANT STAEHL
+D: The man admitted it. Arnold Murray. Bit of a hustler. Hangs around that pub, men pay him for a go. Turing is one of the men who paid. Only, Mr. Murray got the bright idea to rob Turing’s house after, with a friend. That’s what Turing was hiding: He’s a poof, not a spy.
+C: DETECTIVE NOCK
+D: No.
+C: SUPERINTENDANT SMITH
+D: This is good work, Sergeant. Quite good.
+C: DETECTIVE NOCK
+D: No, it’s not.
+C: SERGEANT STAEHL
+D: What’s the matter? We can charge a university professor with indecency.
+C: DETECTIVE NOCK
+D: No. No. This is bloody rubbish. Turing is up to something important, not getting his jollies in some pub.
+C: SUPERINTENDANT SMITH
+D: He committed a crime. He broke the law. And with a bloke, Christ, it’s bloody disgusting.
+C: DETECTIVE NOCK
+D: I don’t care if it’s disgusting. This is not the investigation I was conducting.
+C: SUPERINTENDANT SMITH
+D: Clearly. Bring him in.
+E: to Staehl
+C: DETECTIVE NOCK
+D: Wait. Let me interrogate him.
+C: SUPERINTENDANT SMITH
+D: You’re asking me for a favour right now?
+C: DETECTIVE NOCK
+D: Please. I know him. I know he’s hiding something and I know I can get him to talk... Give me half an hour alone and then I swear to you I will spend the next month running errands on as many rubbish cases as you like.
+C: SUPERINTENDANT SMITH
+D: ... Fine. Now will someone get a warrant for the arrest of Alan Turing? CUT TO: INT. JOAN’S FLAT - DAY - 1941 Joan comes home to her flat. She looks sad as she puts her key in the lock and opens the door. She enters to find: HUNDREDS OF MATHEMATICAL PAPERS ARE SCATTERED ALL OVER HER
+C: LIVING ROOM.
+D: She sighs.
+C: JOAN CLARKE
+D: Alan? At the sound of her voice, Alan comes out of the wash room, wiping the shaving cream from his face. He’s moving and talking a mile a minute.
+C: ALAN TURING
+D: Christopher is simply not moving fast enough.
+C: JOAN CLARKE
+D: We should talk. Joan sits down, sadly.
+C: ALAN TURING
+D: Even with the diagonal board he’s not eliminating settings as quickly as —
+E: totally oblivious
+C: JOAN CLARKE
+D: Alan, I’m leaving.
+C: ALAN TURING
+D: You just walked in.
+C: JOAN CLARKE
+D: No. Bletchley.
+C: ALAN TURING
+D: What?
+C: JOAN CLARKE
+D: It’s my parents... I am twenty-five and I am unmarried and I am living alone... And they want me home.
+C: ALAN TURING
+D: That’s ridiculous.
+C: JOAN CLARKE
+D: That’s my parents.
+C: ALAN TURING
+D: You cannot leave. I won’t let you.
+C: JOAN CLARKE
+D: “I’ll miss you.” That’s what a normal person might say in this situation.
+C: ALAN TURING
+D: I don’t care what’s normal.
+C: JOAN CLARKE
+D: “I’ll write.” That’d work too.
+C: ALAN TURING
+D: No. This is unacceptable. You are not leaving and that is that.
+C: JOAN CLARKE
+D: What am I supposed to do, Alan? I will not give up my parents. The world is burning to ash and they are my family and they want me home.
+C: ALAN TURING
+D: You have the opportunity here to make some actual use of your life —
+C: JOAN CLARKE
+D: — And end up like you? No thanks. I’m sorry you’re lonely. I’m sorry no one likes you. But Enigma will not save you. Can you decypher that, you fragile narcissist? Or do you need me to fetch your precious Christopher for help? Silence. Alan looks like she just slapped him across the face. Which she basically did.
+C: JOAN CLARKE
+D: ... I’m sorry.
+E: CONT’D
+C: ALAN TURING
+D: I want you to stay because I like you.
+C: JOAN CLARKE
+D: I know.
+C: ALAN TURING
+D: I like talking to you.
+C: JOAN CLARKE
+D: I like talking to you, too, Alan.
+C: ALAN TURING
+D: What if you weren’t living alone... If you had a husband?
+C: JOAN CLARKE
+D: You have one in mind?
+C: ALAN TURING
+D: I do.
+C: JOAN CLARKE
+D: Hugh is terribly attractive, I’ll give you that, but he’s really not the marrying type.
+C: ALAN TURING
+D: I wasn’t referring to Hugh.
+C: JOAN CLARKE
+D: Peter? He’s so quiet... Alan stares at Joan. She stares back.
+C: JOAN CLARKE
+D: Oh dear Lord.
+E: CONT’D getting it
+C: ALAN TURING
+D: This makes sense.
+C: JOAN CLARKE
+D: Did you just propose to me?
+C: ALAN TURING
+D: It’s the logical thing to do.
+C: JOAN CLARKE
+D: This is ridiculous.
+C: ALAN TURING
+D: This is your parents.
+C: JOAN CLARKE
+D: I cannot believe this is happening. Alan fishes a piece of ELECTRICAL WIRE from his pocket...
+E: trying to process
+C: ALAN TURING
+D: Joan Ca... Wait, is your middle name Caroline or Catherine?
+C: JOAN CLARKE
+D: Elizabeth.
+C: ALAN TURING
+D: Joan Elizabeth Clarke, will you marry me? ... And then FASHIONS IT INTO A RING. ON JOAN’S FACE: What’s she going to do? SMASH CUT TO: INT. BLETCHLEY PARK - BEER HUT - NIGHT An impromptu ENGAGEMENT PARTY in the Beer Hut that night: — A BANNER made from PUNCH CARDS reads: “CONGRATULATIONS!” — Music plays as DANCERS TWIRL in the center of the Hut. — Joan LAUGHS with her WREN FRIENDS in one corner, while in another Alan drinks beer with his team. ON JOAN AND THE GIRLS: She shows off her makeshift wire engagement ring:
+C: JOAN’S FRIEND
+D: ... It’s... beautiful? Joan LAUGHS. She understands.
+E: trying her best
+C: JOAN CLARKE
+D: I know it’s not an ordinary ring... She looks over at Alan warmly.
+C: JOAN CLARKE
+D: ... But who ever loved ordinary? ON ALAN AND THE BOYS: They’re are all a bit drunk, TELLING
+E: CONT’D
+C: DIRTY STORIES: HUGH ALEXANDER
+D: ... So she’s got it in her hands, right, and she looks up at me and says, “I’m to put it in my mouth?” And I say, “yes, you know. The French way.” So she pops it in, closes her lips around the thing... And then she starts humming the bloody Marseillaise! The men BURST INTO LAUGHTER. Except for Alan, who looks a bit confused.
+C: PETER HILTON
+D: What about you and Joan? Does she do it the French way? Alan looks away, uncomfortable.
+E: to Alan
+C: HUGH ALEXANDER
+D: Soon enough, you lucky bastard. Just then, Joan comes over and throws an affectionate arm around Alan.
+C: JOAN CLARKE
+D: Care for a dance?
+C: HUGH ALEXANDER
+D: No no, your fiancé can dance with you anytime he likes. Now it’s my turn. Hugh takes Joan’s hand, and leads her across the room. They begin to DANCE, while Peter follows, dancing with one of Joan’s friends. Alan and John are left alone at the table. Alan looks worried.
+C: JOHN CAIRNCROSS
+D: What’s the matter?
+C: ALAN TURING
+D: ... What if I don’t fancy... being with Joan in that way?
+C: JOHN CAIRNCROSS
+D: Because you’re a homosexual? Alan looks at him, surprised.
+C: JOHN CAIRNCROSS
+D: I suspected. You’re not quite as much of an enigma as you think you are. Or as much as Enigma is.
+E: CONT’D
+C: ALAN TURING
+D: Should I tell Joan? I’ve had affairs. With other men.
+C: JOHN CAIRNCROSS
+D: You know, in my admittedly limited experience, women tend to be a bit touchy about accidentally marrying homosexuals. I think perhaps not spreading this information around might be in your best interest.
+C: ALAN TURING
+D: Having children, a family... I want that with her. I do. I just don’t know if I can... Pretend...
+C: JOHN CAIRNCROSS
+D: You can’t tell anyone, Alan. It’s illegal. And Denniston is looking for any excuse he can get to put you away.
+C: ALAN TURING
+D: ... I know.
+C: JOHN CAIRNCROSS
+D: This has to stay a secret, or trust me, they’ll kill you for it. ON ALAN: He knows John is right. As Alan thinks, Joan comes back over and offers him her hand.
+C: JOAN CLARKE
+D: Come on, now it’s your turn. She leads him to the dance floor. As they START TO DANCE, chastely, sweetly, WE CUT TO: INT. SHERBORNE SCHOOL FOR BOYS - ALAN’S ROOM - DAY - 1927 CLOSE ON A LETTER: “I LOVE YOU” is written on the paper. REVEAL: Young Alan sits in his dormitory room, ENCRYPTING his love letter to Christopher. Slowly, letter by letter, Alan transforms “I LOVE YOU” into code... Hearing a commotion, Alan LOOKS OUT THE WINDOW: BOYS are being unloaded from a BUS at the gates, dropped off to begin the new spring term. Alan sees them all, excited: Christopher is coming back! He STUFFS HIS ENCRYPTED LETTER IN AN ENVELOPE and RUNS OFF to EXT. SHERBORNE SCHOOL FOR BOYS - FRONT GATES - MINUTES LATER Alan waits eagerly by the main gate as BOYS STREAM PAST — — Joking, horsing around — — Alan waits patiently, looking for Christopher’s face among the rowdy schoolboys — — Until: They’re all gone. Christopher never shows. Alan looks at his undelivered note, then at the empty yard before him. Where is Christopher? Confused, Young Alan finally gives up... ... When he runs into the PACK OF BOYS who beat him up earlier. BOY #1 Well look. Mr. Turing is all alone. Young Alan stands frozen as they come at him, and we CUT TO: INT. MANCHESTER POLICE STATION - INTERROGATION ROOM - 1951 Alan Turing sits alone in the interrogation room with his eyes closed. Detective Nock enters.
+C: DETECTIVE NOCK
+D: Cup of tea?
+C: ALAN TURING
+D: Thanks, no.
+E: eyes closed
+C: DETECTIVE NOCK
+D: ... Mr. Turing, may I tell you a secret?
+C: ALAN TURING
+D: I’m quite good with those.
+C: DETECTIVE NOCK
+D: I’m here to help you. Suddenly, Alan opens his eyes.
+C: ALAN TURING
+D: Clearly.
+E: re: being in jail
+C: DETECTIVE NOCK
+D: ... Can machines think?
+E: changing tacks
+C: ALAN TURING
+D: You’ve read my published work.
+C: DETECTIVE NOCK
+D: What makes you say that?
+C: ALAN TURING
+D: Because I’m sitting in a police station, accused of entreating a young man to touch my penis, and you’re asking me whether machines can think.
+C: DETECTIVE NOCK
+D: Can they? Could machines ever think as human beings do?
+C: ALAN TURING
+D: Most people say no.
+C: DETECTIVE NOCK
+D: You’re not most people.
+C: ALAN TURING
+D: The problem is that you’re asking a stupid question.
+C: DETECTIVE NOCK
+D: I am?
+C: ALAN TURING
+D: Of course machines can’t think “as human beings do.” A machine is different from a human being; hence, it would think differently. The interesting question is, just because something thinks differently from you, does that mean it’s not thinking? We allow that humans have such divergences from one another. You like strawberries. I hate ice-skating. You cry at sad films. I’m allergic to pollen. What does it mean to have different tastes — different preferences — other than to say that our brains work differently? That we think differently from one another? And if we can say that about each another, why can’t we say the same for brains made of copper and steel?
+C: DETECTIVE NOCK
+D: That’s... This big paper you wrote... What’s it called?
+C: ALAN TURING
+D: “The Imitation Game.”
+C: DETECTIVE NOCK
+D: Right. That’s what it’s about?
+C: ALAN TURING
+D: ... Would you like to play?
+E: thinking
+C: DETECTIVE NOCK
+D: Play?
+C: ALAN TURING
+D: The game. It’s a test, of sorts. For determining whether something is a machine, or a human being.
+C: DETECTIVE NOCK
+D: How do we play?
+C: ALAN TURING
+D: There’s a judge, and a subject. The judge asks questions, and based on the subject’s answers, he determines: Who is he speaking with? What is he speaking with? All you have to do is ask me a question.
+C: DETECTIVE NOCK
+D: ... What did you do during the war?
+C: ALAN TURING
+D: I worked in a radio factory.
+C: DETECTIVE NOCK
+D: What did you really do during the war? Alan smiles — Detective Nock is smarter than he looks.
+C: ALAN TURING
+D: ... Are you paying attention? INT. BLETCHLEY PARK - HUT 11 - NIGHT - 1942 Alan and his team — Hugh, John, Peter — anxiously stand before Alan’s huge machine as it CLACK CLACK CLACKS, ferociously loud. The gears are spinning, current is flowing through the wires, and the team stares at it, taking turns compulsively checking their watches. ON ALAN: This is going to work. This has to work. Suddenly... ... DING. The chime announces the stroke of midnight.
+C: HUGH ALEXANDER
+D: Damn it! Everyone is pissed, frustrated. Alan looks as if he’s about to rip his own hair out: Why won’t this damned thing work? As the machine CLACKS on, oblivious, they all walk outside: EXT. BLETCHLEY PARK - NEAR HUT 11 - CONTINUOUS The team walks across Bletchley together, moving as one through the most highly secret war zone in the world. MORE SECURITY has been added throughout the park, including along the path from Hut 11 — ARMED GUARDS check IDs, which the team hands over absentmindedly.
+C: JOHN CAIRNCROSS
+D: We’re soon out of time. Our month...
+C: PETER HILTON
+D: So that’s it then. We lost.
+C: HUGH ALEXANDER
+D: It does not matter how much we improve on it, that machine will never be able to check 159 million million million possibilities in time.
+C: ALAN TURING
+D: It’s searching... It’s just... It doesn’t know what it’s searching for... If only we knew what the messages were going to say...
+C: JOHN CAIRNCROSS
+D: If we knew what the messages were going to say, we wouldn’t have to decrypt them at all. ON ALAN: Maybe it was always impossible after all. INT. BLETCHLEY PARK - BEER HUT - LATER It’s crowded in the beer hut, even this late at night. On one side of the room, Alan, Hugh, John, and Peter are drinking. Commiserating about their fate. On the other side, Joan is drinking with her friend HELEN — a fellow WREN.
+C: ON JOAN AND HELEN: HELEN
+D: Who’s Alan’s friend?
+C: JOAN CLARKE
+D: Hugh? Bit of a cad, actually.
+C: HELEN
+D: So my type then?
+C: JOAN CLARKE
+D: Here, I’ll introduce you.
+C: HELEN
+D: No! Lord, engaged for a fortnight and you’ve already forgotten how to do this? He’ll come over.
+C: JOAN CLARKE
+D: Are you sure?
+C: HELEN
+D: Yes. I smiled at him fifteen minutes ago and haven’t looked at him since. ON HUGH, ALAN, JOHN, AND PETER: Hugh is looking at the girls.
+C: HUGH ALEXANDER
+D: Who’s that, then?
+E: re: Helen
+C: ALAN TURING
+D: Helen? Works with Joan in the WREN’s hut.
+C: PETER HILTON
+D: You do have a point about the little hats.
+C: HUGH ALEXANDER
+D: She wants me to come over.
+C: ALAN TURING
+D: How can you possibly know that?
+C: HUGH ALEXANDER
+D: She smiled at me awhile back and hasn’t looked again since.
+C: ON JOAN AND HELEN: HELEN
+D: And... Got him.
+E: re: Hugh’s glances
+C: JOAN CLARKE
+D: Is it odd that when I was single this game felt tedious, but now it seems just dreadfully fun?
+C: ON THE BOYS: HUGH ALEXANDER
+D: And... Brilliant. She’s in. Alan, introduce me.
+E: re: Helen’s glances
+C: ALAN TURING
+D: Why me?
+C: HUGH ALEXANDER
+D: Because there is nothing like a friend’s engagement to make a woman want to do something she will later regret with the fiancé’s better- looking chum. Hugh drags Alan across the pub to Helen and Joan.
+C: ON JOHN AND PETER: JOHN CAIRNCROSS
+D: Half crown says Alan bollockses this up entirely.
+C: PETER HILTON
+D: No bet. ON HUGH, ALAN, JOAN, AND HELEN:
+C: HUGH ALEXANDER
+D: Alan Turing has a theory.
+E: to the ladies
+C: JOAN CLARKE
+D: He has many.
+C: HUGH ALEXANDER
+D: He believes that the regulations against men and women working side- by-side are sound, because such proximity will necessarily lead to romance.
+C: ALAN TURING
+D: No I don’t — Hugh KICKS Alan, who shuts up.
+C: HUGH ALEXANDER
+D: — However, I disagree.
+C: HELEN
+D: You do?
+C: HUGH ALEXANDER
+D: I think that if I were working beside a woman all day long, I could manage to appreciate her abilities and intellect without needing to take her to bed. Pardon, have we met?
+E: to Helen
+C: HELEN
+D: I don’t recall. But let’s assume we haven’t. Hugh looks at Alan for an introduction: Alan is silent. Joan picks up the slack:
+C: JOAN CLARKE
+D: Helen Stewart, Hugh Alexander.
+C: HUGH ALEXANDER
+D: So who do you agree with? Alan or myself?
+C: HELEN
+D: Well, Alan, of course.
+C: ALAN TURING
+D: I’m flattered, but this is not actually — Now Joan KICKS Alan, who is still very confused.
+C: HUGH ALEXANDER
+D: — Rubbish.
+C: HELEN
+D: I work beside a man every day, and I can’t help but have developed a bit of a crush on him.
+C: HUGH ALEXANDER
+D: Well who is this man, so I can kick his arse?
+C: HELEN
+D: Oh, it’s been chaste, you’ve no need to worry. We’ve never even met. He’s a German.
+C: HUGH ALEXANDER
+D: Now I really want to kill him.
+C: ALAN TURING
+D: How do you mean you work alongside a German?
+C: HELEN
+D: Each of us intercepts messages from a specific German radio tower. So we’ve a counterpart on the other side, who’s tip-tapping out the messages. Everybody types a touch differently; you get to know the rhythm of your counterpart. It’s strangely intimate. I feel as if we know each other. Pity he has a girlfriend... But that’s why I disagree with you. I’m in love with a co-worker, of sorts, even if we’ve never met.
+C: HUGH ALEXANDER
+D: I’ll require another pint to tell you why you’re wrong.
+C: HELEN
+D: Let’s. Helen and Hugh walk away to the bar...
+C: JOAN CLARKE
+D: That’s what flirting looks like. In case you were curious. But Alan is lost in thought... Something is wrong...
+E: to Alan
+C: ALAN TURING
+E: screaming
+C: HELEN!!!
+D: Everyone in the room turns and stares at him. Joan winces. Helen and Hugh come back over.
+C: HELEN
+D: Yes, Alan?
+C: ALAN TURING
+D: Why do you think your German counterpart has a girlfriend?
+C: HELEN
+D: Oh, it’s a stupid joke, don’t worry about it.
+C: ALAN TURING
+D: Tell me.
+C: HELEN
+D: Each one of his messages begins with the same five letters. C-I-L-L- Y. So I suspect Cilly must be the name of his amore.
+C: ALAN TURING
+D: That’s impossible. The Germans are instructed to choose five letters at random to start every message.
+C: HELEN
+D: Well, this bloke doesn’t.
+C: HUGH ALEXANDER
+D: Love’ll make a man do strange things, I suppose. Anyhow —
+C: ALAN TURING
+D: — In this case, love just lost the Germans the whole bloody war. Alan BOLTS out of the bar — — SPILLING BEER ALL OVER HELEN — — Who CRIES OUT, and ANGRILY RUNS OFF — — Leaving Hugh and Joan standing there, confused. They share a look: What’s gotten into Alan? Joan quickly RUNS OFF after Alan — — Hugh follows suit — — And John and Peter, seeing this across the room, take off after Hugh — EXT. BLETCHLEY PARK - CONTINUOUS - SEQUENCE Everyone chases Alan across Bletchley Park — — GUARDS YELL at Alan as he bypasses security checkpoints — — Guards are screaming at them, drawing guns as he and Joan barrel into Hut 8 — — Hugh and John show their IDs to the Guards, yelling back at them — — Hugh and John finally get rid of the guards and enter: INT. BLETCHLEY PARK - HUT 8 - CONTINUOUS — Joan runs into the Hut to find that Alan has grabbed a BOX OF PREVIOUSLY DECRYPTED MESSAGES — — Alan POURS those messages out all over the floor —
+C: JOAN CLARKE
+D: Alan? — Hugh, John, and Peter enter as Alan spreads the messages out on the floor.
+E: Just like he did in Joan’s flat!
+C: ALAN TURING
+D: What if Christopher doesn’t have to search through all the settings? What if he only had to search the ones that produce the words we already know will be in the message?
+C: HUGH ALEXANDER
+D: Repeated words! Predictable words... — They all search the messages with Alan — — Joan holds up a DECRYPT: It’s the same one she read earlier.
+C: JOAN CLARKE
+D: Like this? “0600 hours. Weather today is clear. Rain in the evening. Heil Hitler.”
+E: reading aloud
+C: ALAN TURING
+D: Yes! That’s it! They send a weather report at 6AM. Every day. That means there are three words we already know will be in the 6am message. “Weather,” obviously, and —
+E: looking at message
+C: HUGH ALEXANDER
+D: — “Heil bloody Hitler.”
+C: ALAN TURING
+D: Heil bloody Hitler. Joan searches through a PILE, finding:
+C: JOAN CLARKE
+D: Here’s the 6 o’clock message from this morning. Joan holds the message as they all run out to: EXT. BLETCHLEY PARK - HUT 8 - CONTINUOUS Alan runs from Hut 8 to Hut 11, the team chasing behind him. INT. BLETCHLEY PARK - HUT 11 - CONTINUOUS Alan, Joan, John, Peter and Hugh burst in —
+C: ALAN TURING
+D: Hugh — the right hand letter-rings. Set them to —
+C: HUGH ALEXANDER
+D: — I know, I know. “Veter.” “Hitler.” — Hugh turns the rings while —
+C: ALAN TURING
+D: — Peter, John — Run voltage from those rings through the back scramblers — — John and Peter go around back —
+C: JOHN CAIRNCROSS
+D: — So we’ll use the loops?
+C: ALAN TURING
+D: — Yes. Joan, what’s the last 6am message? Joan reads aloud to Alan as he enters it in:
+C: JOAN CLARKE
+D: L - H - W - A - U - Q - X - K... They all stand back as Alan TURNS ON the machine. They watch the CLACK CLACK CLACK of Christopher as he processes the message... — They’re nervous, fretting, anxiously awaiting his calculations... ... Finally, Christopher STOPS. Silence, as a SERIES OF ROTORS on the side of Christopher snap into place, displaying a SET OF LETTERS.
+C: PETER HILTON
+D: What happened? Did it work? Alan SCRIBBLES down the letters and they all run back to — INT. BLETCHLEY PARK - HUT 8 - CONTINUOUS Where Alan takes a DUMMY ENIGMA MACHINE, turns the machine’s rotors to the setting he wrote down —
+E: ”EXBAO...” ”EXBAO...”
+C: ALAN TURING
+D: Give me a fresh message. The last one we intercepted. Peter hands Alan one from a nearby folder — — Alan starts typing one of today’s gibberish encrypted messages into Enigma — — As John TAKES DOWN the decoded German letters — — Hugh looks at what John is writing and TRANSLATES the German into English —
+C: HUGH ALEXANDER
+D: “KMS Jaguar... Is auf punkt — is directed - 53 degrees, 24 minutes north... And auf punkt 1 degree west...”
+C: HUGH ALEXANDER
+D: “... Heil Hitler.”
+E: CONT’D
+C: ALAN TURING
+D: “... Heil Hitler.” Alan and Hugh look at each other: Oh my god.
+C: ALAN TURING
+D: Turns out that’s the only German you need to know to break Enigma. The team EXPLODES WITH JOY. LAUGHING, HOOTING, SCREAMING, JUMPING, HUGGING. This is the happiest moment of their lives. John even starts to TEAR UP, and TRIES TO HUG ALAN — — Who just STANDS THERE, limp.
+C: JOHN CAIRNCROSS
+D: Not a hugger. Probably could have guessed that. EXT. BLETCHLEY PARK - DAWN Dawn rises over Bletchley Park. INT. BLETCHLEY PARK - HUT 8 - DAWN The team has been there working all through the night. There’s a flurry of activity: Decoding messages, translating the decrypts, reading the information contained within. Hugh steps back for a moment to look at the product of their work: A BIG MAP ON THE WALL. ON THE MAP: It’s the Atlantic Ocean. Blue pins represent the Allied ships, red ones represent the Axis ships.
+E: re: Alan
+C: HUGH ALEXANDER
+D: You did it. Bloody hell, you did it. You just defeated Nazism with a crossword puzzle. What does it feel like to do the impossible? ON ALAN’S FACE: He’s not sure. Something is bothering him, but he can’t figure out what. John steps back from his work to join Hugh.
+E: turns to Alan
+C: JOHN CAIRNCROSS
+D: There are five people in the world who know the position of every ship in the Atlantic. They are all in this room. Now Joan joins Hugh and John in seeing the full map for the first time.
+C: JOAN CLARKE
+D: Oh my good God.
+C: HUGH ALEXANDER
+D: I don’t think even He has the power that we do right now.
+C: JOAN CLARKE
+D: There’s going to be an attack on a British passenger convoy. There.
+E: getting closer to map
+C: JOHN CAIRNCROSS
+D: You’re right. Those U-Boats are only twenty or thirty minutes away.
+C: JOAN CLARKE
+D: Civilians. Hundreds of them. We can save their lives.
+C: JOHN CAIRNCROSS
+D: And knock out a whole German fleet in the process.
+C: HUGH ALEXANDER
+D: I’ll call Denniston. Have him radio his Admirals immediately. Hugh picks up the phone —
+C: ALAN TURING
+D: No.
+E: figuring something out
+C: JOAN CLARKE
+D: Is there enough time to save them?
+C: JOHN CAIRNCROSS
+D: Should be. If we can get a message to the passenger convoy, she can turn — Hugh DIALS —
+C: ALAN TURING
+D: No. No.
+E: louder
+C: HUGH ALEXANDER
+D: — Commander Denniston’s office —
+E: into phone
+C: ALAN TURING NO. HUGH ALEXANDER
+D: — This is urgent, top priority —
+E: into phone
+C: ALAN TURING NO!!!
+D: Alan LEAPS ACROSS THE ROOM and GRABS THE PHONE FROM HUGH.
+C: HUGH ALEXANDER
+D: What the bloody hell? Hugh tries to grab the phone back — — But Alan pulls away sharply. Everyone STOPS. Turns. Looks at Alan.
+C: HUGH ALEXANDER
+D: Are you mad?
+E: CONT’D
+C: ALAN TURING
+D: No. No. You can’t call Denniston. You can’t tell him about the attack.
+C: JOAN CLARKE
+D: Alan, are you all right? What’s going on?
+C: JOHN CAIRNCROSS
+D: We can have air support over the passenger convoy in ten minutes.
+C: ALAN TURING
+D: No. Let the U-Boats sink the convoy.
+C: JOHN CAIRNCROSS
+D: Look, this has been a big day, maybe you’re going through a bit of shock —
+C: HUGH ALEXANDER
+D: — There’s no time for this. Hugh tries to GRAB THE PHONE from Alan — — but Alan PULLS it away and SMASHES THE PHONE AGAINST THE
+C: GROUND. JOAN CLARKE
+D: Alan! Hugh can’t take it anymore — — He TAKES A SWING AT ALAN — — Who CRUMPLES AT THE BLOW ON HIS JAW — — Hugh stares down at Alan, who’s bleeding on the floor — — Hugh WINDS UP FOR ANOTHER PUNCH — — When Joan CATCHES HIS ARM mid-swing — — Surprised, Hugh instinctively SWINGS AT HER — — Smacking Joan hard across the face. — He’s stunned by what he’s done as she responds by PUSHING HIM INTO A TABLE — — And Hugh falls to the floor, next to Alan. Joan stands above them.
+C: JOAN CLARKE
+D: If you hurt him, you will just barely live to regret it. Silence. Just the sounds of panting.
+E: CONT’D to Hugh
+C: JOHN CAIRNCROSS
+D: Everyone stop. Please. Calm down.
+C: PETER HILTON
+D: The attack is in minutes. We don’t have time to calm down.
+C: ALAN TURING
+D: Do you know why people like violence, Hugh? Because it feels good. It would feel good to blow those U- Boats out of the Atlantic. But sometimes we can’t do what feels good. We have to do what’s logical.
+E: wipes blood from his nose
+C: JOHN CAIRNCROSS
+D: What’s logical?
+C: ALAN TURING
+D: The hardest time to lie is when the other person is expecting to be lied to.
+C: JOAN CLARKE
+D: Oh my God.
+E: getting it
+C: JOHN CAIRNCROSS
+D: What?
+C: ALAN TURING
+D: If they’re waiting for a lie, you can’t just give them one.
+C: JOAN CLARKE
+D: Oh my God. Damn it. Alan’s right.
+C: PETER HILTON
+D: What?!?
+C: ALAN TURING
+D: What will the Germans think if we destroy those U-Boats?
+C: PETER HILTON
+D: Nothing. They’ll be dead.
+C: JOHN CAIRNCROSS
+D: No. No. You can’t be right.
+E: getting it
+C: PETER HILTON
+D: Am I the only one who’s still not getting this?
+C: ALAN TURING
+D: Suddenly our convoy veers off course and a fleet of RAF bombers magically descends on the location of a pack of U-Boats? What will the Germans think?
+C: PETER HILTON
+D: Hugh?
+C: HUGH ALEXANDER
+D: ... The Germans will know we broke Enigma.
+C: JOAN CLARKE
+D: They’ll put a halt on radio communication by noon. And they’ll have the design of Enigma changed by the weekend.
+E: MORE
+C: ALAN TURING
+D: Two years of work. Everything we’ve done here. It’ll all be for nothing.
+C: JOHN CAIRNCROSS
+D: There are 500 people in that convoy. Civilians. Women. Children. We’re about to let them die.
+C: ALAN TURING
+D: Our job wasn’t to save one passenger convoy. It was to win the war.
+C: HUGH ALEXANDER
+D: Our job was to break Enigma.
+C: ALAN TURING
+D: Done. Now for the hard part: keeping it a secret. Forever. Peter looks at the map...
+C: PETER HILTON
+D: It’s the Carlisle. They all look at him.
+C: JOAN CLARKE
+D: What?
+C: PETER HILTON
+D: The convoy you’re about to... It’s... The HMS Carlisle is one of the ships.
+C: ALAN TURING
+D: So?
+C: PETER HILTON
+D: We can’t act on every piece of intelligence? Fine. We won’t. Just this one. The Germans won’t find us out if we stop one attack.
+C: JOAN CLARKE
+D: What’s gotten into you, Peter?
+C: PETER HILTON
+D: ... My brother. Phillip. He’s on the Carlisle. Gunnery ensign.
+C: JOAN CLARKE
+D: Silence. Fuck.
+E: CONT'D
+C: ALAN TURING
+D: I’m sorry.
+C: PETER HILTON
+D: Who the hell do you think you are? This is my brother. My big brother. He was the only one — Look, he was there after my mum — He’s my big brother, alright, and you have a few minutes to call off his murder.
+C: ALAN TURING
+D: It’s not my fault. Peter DIVES for Alan — — But John stops him.
+C: JOHN CAIRNCROSS
+D: Alan is right. We can’t.
+C: PETER HILTON
+D: AND WHY THE BLOODY HELL NOT? I am begging you. Alan. Joan. Hugh. John. Please. I am begging you. Just this once. Just one time. The Germans won’t get suspicious just because we stopped one attack. It’s one time. No one will know. I’m asking you. As your friend. If I mean anything to you. Please. Silence. This is the hardest thing anyone in this room has ever had to do.
+C: ALAN TURING
+D: I’m so sorry.
+C: PETER HILTON
+D: You’re not God, Alan. You don’t get to decide who lives and who dies.
+C: ALAN TURING
+D: Yes, we do.
+C: PETER HILTON
+D: Why? Why?
+C: ALAN TURING
+D: Because no one else can. INT. TRAIN - DAY Alan and Joan ride the train from Bletchley into London. They know what they have to do. EXT. TRAIN STATION - DAY Alan and Joan exit the train and walk down the platform. INT. TEA SHOP - LONDON - DAY In a quiet TEA SHOP, Alan, Joan, and Stewart Menzies sip their Twinings. Outside the GLASS WINDOWS, NURSES help WOUNDED SOLDIERS out of an AMBULANCE and into a local
+C: HOSPITAL. STEWART MENZIES
+D: ... Why are you telling me this?
+C: ALAN TURING
+D: We need your help to keep this from the Admiralty. Army. RAF. No one can know we broke Enigma, not even Denniston.
+C: STEWART MENZIES
+D: Who is in the process of having you fired.
+C: JOAN CLARKE
+D: You’ll take care of that.
+C: ALAN TURING
+D: While we develop a system for determining how much intelligence to act on. Which attacks to stop, which to let through. Statistical analysis. The minimum number of actions it’ll take to win the war, but the maximum number we’re able to take before the Germans get suspicious.
+C: STEWART MENZIES
+D: You’re going to trust this all to statistics? To maths?
+C: ALAN TURING
+D: Correct.
+C: JOAN CLARKE
+D: And then MI-6 can come up with the lies we’ll tell everyone else.
+C: ALAN TURING
+D: We’ll require a believable alternate source for each piece of information we use.
+C: JOAN CLARKE
+D: A false story that exlains how we got that information, that has nothing to do with Enigma. And then you’ll need to leak those stories to the Germans.
+C: ALAN TURING
+D: And the rest of our military.
+C: JOAN CLARKE
+D: Can you do that?
+C: STEWART MENZIES
+D: Maintain a conspiracy of lies through the highest levels of our government? Yes, that sounds right up my alley. ON ALAN AND JOAN: Okay. Let’s do it.
+C: STEWART MENZIES
+D: Alan, I so rarely have cause to say this. But you are exactly the man I always hoped you would be. INT. TRAIN - DAY Alan and Joan ride the train back to Bletchley. She reaches out and puts her hand in his. They’re in this so deep now... But at least they’re in it together. EXT. BLETCHLEY PARK - LAWNS - SEQUENCE At 6am, dawn is threatening to break across the Park.
+E: CONT’D smiling
+C: ALAN TURING
+D: They codenamed it “Ultra.” INT. BLETCHLEY PARK - WREN’S HUT - SEQUENCE But in the WREN’S HUT, the women eagerly await the coming of the day’s first messages — — And a sudden BEEP BEEP BEEP announces that they have. The WRENs quickly take down the first messages —
+E: V.O.
+C: ALAN TURING
+D: And it quickly became the largest store of military intelligence in the history of the world. A WREN removes the first few dozen from a pile — — And hands it over to another WREN — INT. BLETCHLEY PARK - HUT 11 - SEQUENCE — In Hut 11, the WREN gives the day’s first messages to Hugh, who enters them into Christopher —
+E: V.O.
+C: ALAN TURING
+D: It was like having a tap on Himmler’s intercom. — Christopher HUMS — — And Hugh, after a few minutes, reads the day’s Enigma settings on the machine’s read-out: “FSOQR” INT. BLETCHLEY PARK - HUT 8 - DAY Jack turns his Enigma machine to the day’s setting — “FSOQR” — and one by one types in the newly intercepted messages, recording the now decrypted results in a BOOKLET. On the cover, the booklet is marked: “ULTRA.”
+E: V.O.
+C: ALAN TURING
+D: Secrecy became the primary concern. And for some reason they trusted me. Alan organizes stacks of similar ULTRA booklets when he has trouble finding one of them — He looks up to see Peter walking nearby.
+E: V.O.
+C: ALAN TURING
+D: Peter, do you have the 9:30 decrypts — But instead of answering, Peter BUMPS HARD against Alan’s shoulder, scattering Alan’s papers to the floor. Jack looks over. Peter keeps on walking. No one helps Alan as he bends down to clean up his papers. Peter LEAVES Hut 8 without speaking a single word. ON ALAN: He’s kneeling down in front of John’s MESSY DESK, picking up papers from the floor, when his eyes come level with something on the desk... ... It’s a BOOK. Buried underneath CRYPTOGRAPHIC PAPERS. Alan stares at it strangely. Something about its shape and colour look familiar... He UNCOVERS it...
+C: IT’S A BIBLE.
+D: Holy shit. There’s a page dog-eared. Alan opens to the page — it’s Matthew 7:7. “Seek and ye shall find...” ON ALAN: JOHN CAIRNCROSS IS THE SOVIET SPY. Suddenly:
+C: JOHN CAIRNCROSS
+D: Peter will come around eventually. Alan turns and stands — there’s John, right behind him. ON JOHN: He sees something on Alan’s face. Something is wrong. He looks down at the desk... AND SEES THE UNCOVERED
+E: O.S.
+C: BIBLE.
+D: What’s John going to do? Alan is terrified...
+C: JOHN CAIRNCROSS
+D: ... Jack, could you give Alan and I a moment? Across the room, Jack looks over. Whatever is going on between Alan and John, he wants no part of it. Jack leaves. Alan is now alone with John, the Soviet spy.
+E: CONT’D
+C: JOHN CAIRNCROSS
+D: ... The Soviets and us, we’re all on the same side. What I’m doing will help Britain.
+E: CONT’D
+C: ALAN TURING
+D: I’ll tell Denniston.
+C: JOHN CAIRNCROSS
+D: No you won’t. Because if you tell him my secret, I’ll tell him yours. ON ALAN: Oh God, John was the one person he trusted.
+C: JOHN CAIRNCROSS
+D: Do you know what they do to homosexuals? You’ll never be able to work again. Never be able to teach. Your precious machine — doubt you’ll ever see him again. ON ALAN: Looks down. He’s beaten. He puts an understanding hand on Alan’s shoulder.
+E: CONT’D
+C: JOHN CAIRNCROSS
+D: Until the history books are ready to call you a hero, sometimes you have to play the villain. And with that, John takes his bible and leaves. ON ALAN: What’s he going to do? INT. BLETCHLEY PARK - CENTRAL MANSION - DAY Alan borrows a phone in the central mansion.
+E: CONT’D
+C: ALAN TURING
+D: I need to speak to Menzies... ... But frustrated by the response he hears, Alan HANGS UP. INT. BLETCHLEY PARK - JOAN’S FLAT - DAY Alan bursts into Joan’s flat to tell her what he’s found.
+E: into phone
+C: ALAN TURING
+D: Joan! Joan! Are you there? It’s dark. He FLICKS ON THE LIGHT... REVEAL: The room has been ransacked. Clothes, books, papers scattered everywhere.
+C: ALAN TURING
+D: — Joan?!? He quickly moves through the flat: What happened here?
+E: CONT’D
+C: ALAN TURING
+D: Joan, are you okay? Where are you? Runs to the back bedroom, where he finds... ... Stewart Menzies. Calmly looking over some papers.
+E: CONT’D
+C: ALAN TURING
+D: Where’s Joan?
+E: CONT’D
+C: STEWART MENZIES
+D: Military prison.
+C: ALAN TURING
+D: What have you done?
+C: STEWART MENZIES
+D: Decoded Enigma intercepts. A stack of them under her nightstand. ON ALAN: Fuck.
+E: holding up papers
+C: ALAN TURING
+D: I gave those to her. A year ago. When she was with the clerks I was—
+C: STEWART MENZIES
+D: — Yes yes yes, I’m sure. But Denniston has been looking for a Soviet spy, and he’s been looking for one inside Hut 8.
+C: ALAN TURING
+D: I know who the Soviet agent is. It’s not Joan. Menzies looks at Alan: Who is it if not her?
+C: ALAN TURING
+D: ... I found the bible... The spy is John Cairncross. Menzies SMILES. As if he’s impressed.
+E: CONT’D
+C: STEWART MENZIES
+D: ... God, how I wish you’d been the spy. You’re so much better at this than he is.
+C: ALAN TURING
+D: You knew Cairncross was the spy?
+C: STEWART MENZIES
+D: Well of course Cairncross was the bloody spy. I’ve known that since before he got to Bletchley. Why do you think I had him placed here? QUICK CUT TO: INT. BLETCHLEY PARK - HUT 8 - DAY - FLASHBACK Flash to the first scene where Alan met his new team after arriving at Bletchley. Commander Denniston explains how Enigma works, while Menzies stands in the corner, observing. Menzies keeps a special eye on Cairncross as Alan and Hugh compete over who knows more about cryptography.
+E: MORE
+C: STEWART MENZIES
+D: You said yourself he was a piss- poor mathematician. CUT BACK TO: INT. BLETCHLEY PARK - JOAN’S FLAT - CONTINUED
+E: V.O.
+C: ALAN TURING
+D: You placed a Soviet agent at Bletchley?
+C: STEWART MENZIES
+D: It’s quite useful to be able to leak whatever we like to Stalin. QUICK CUT TO: EXT. BLETCHLEY PARK - MAIN GATE - DUSK - FLASHBACK A year earlier, John Cairncross exits the Main Gate of Bletchley carrying a SUITCASE —
+C: STEWART MENZIES
+D: Churchill is too damned paranoid. He won’t share a shred of intelligence with the Soviets. CUT TO: EXT. BLETCHLEY VILLAGE - STREET - NIGHT - FLASHBACK Cairncross walks through the village with the suitcase —
+E: V.O.
+C: STEWART MENZIES STEWART MENZIES
+D: Even information that will help them against the Germans. So much secrecy... CUT TO: EXT. BLETCHLEY VILLAGE - STREET - NIGHT - FLASHBACK Cairncross comes to a MAILBOX, where under cover of night he OPENS HIS CASE — — Removing A FOLDER OF COPIED ENIGMA INTERCEPTS — — Which he then places in the mailbox.
+E: CONT'D V.O.
+C: STEWART MENZIES
+D: Cairncross has no idea we know, of course. Really not the brightest bulb. Cairncross WALKS AWAY into the night. After he leaves, two MI-6 AGENTS come and UNLOCK THE MAILBOX— — Removing his FOLDER — — The Agents take SOME MESSAGES OUT, and put other NEW ONES BACK IN — — Before re-sealing the folder and putting it back in the mailbox — — And RE-LOCKING the mailbox lid. CUT BACK TO: INT. BLETCHLEY PARK - JOAN’S FLAT - CONTINUED
+E: V.O.
+C: STEWART MENZIES
+D: That’s why I’ll need your help now to work out what to leak to John. What to feed the Soviets, as well as the British. ON ALAN: Flustered. Terrified.
+C: ALAN TURING
+D: I’m not a spy. I’m just a mathematician.
+C: STEWART MENZIES
+D: I know a lot of spies, Alan. You’re holding on to more secrets than the best of them. Menzies holds up the stolen decrypts. The threat is palpable.
+C: ALAN TURING
+D: You must promise to get Joan out of prison.
+C: STEWART MENZIES
+D: She’s at the market. She’ll be back in an hour. I lied. I’d better hold on to these. If anyone finds out about them, prison will be the least of her worries. ON ALAN: What choice does he have? He looks down.
+E: puts the decrypts into his pocket
+C: STEWART MENZIES
+D: Oh Alan. We’re going to have such a wonderful war together. EXT. BLETCHLEY PARK - PATHWAY NEAR HUT 8 - DAY Joan walks towards Hut 8, showing her ID to the new GUARDS who are closely monitoring entry to the Huts. In front of Hut 8, Alan watches her. Steeling himself up for what he has to do. As she approaches, she sees Alan waiting for her. She smiles at him, but he doesn’t return it. Something is wrong. EXT. BLETCHLEY PARK - BEHIND HUT 8 - MOMENTS LATER Alan and Joan talk behind Hut 8.
+E: CONT’D
+C: ALAN TURING
+D: ... I need you to leave Bletchley.
+C: JOAN CLARKE
+D: What?
+E: annoyed
+C: ALAN TURING
+D: Menzies. I don’t trust... ON ALAN: He wants to tell her, but he can’t. It’s too dangerous.
+C: ALAN TURING
+D: ... I don’t think it’s safe here.
+E: CONT’D
+C: JOAN CLARKE
+D: You think it’s safe somewhere else?
+C: ALAN TURING
+D: You need to leave, and you need to get very far away from me.
+C: JOAN CLARKE
+D: Alan. What’s happened? ON ALAN: This isn’t working. He’s going to have to try a different approach.
+C: ALAN TURING
+D: ... We can’t be engaged anymore. Your parents will have to take you back and find you a husband elsewhere.
+C: JOAN CLARKE
+D: What is wrong with you?
+C: ALAN TURING
+D: ... There’s something I have to tell you. I’m... I’m a homosexual.
+C: JOAN CLARKE
+D: Alright. ON ALAN: What?
+C: ALAN TURING
+D: Men, Joan. Not women.
+C: JOAN CLARKE
+D: So what?
+C: ALAN TURING
+D: I just said —
+C: JOAN CLARKE
+D: — So what? I had my suspicions. I always did. But we’re not like other people. We love each other in our own way, and we can still live the life together that we want. You won’t be the perfect husband? I can promise you I harboured no intention of being the perfect wife. I’ll not be fixing your lamb all day awaiting your return from the office, will I? I’ll work. You’ll work. We’ll have each other’s company. We’ll have each other’s minds. Sounds like a better marriage than most. Because I care for you. And you care for me. And we understand one another more than anyone else ever has. ON ALAN: He needs to get rid of her, to save her, and she is making this impossible.
+E: MORE
+C: ALAN TURING
+D: I don’t.
+C: JOAN CLARKE
+D: What?
+C: ALAN TURING
+D: Care for you. I never did. I only needed you to break Enigma. And now I’ve done it, so you can leave. She SLAPS HIM.
+C: JOAN CLARKE
+D: I am not going anywhere. I have spent entirely too much of my life worried about what you think of me, or what my parents think of me, or what the boys in Hut 8 or the girls in Hut 3 think, and you know I am done with it. This work is the most important thing I will ever do in my life. And no one will stop me. Least of all you. Joan turns to walk away, and then, angry, she turns back. She TOSSES HER WIRE ENGAGEMENT RING AT ALAN.
+C: JOAN CLARKE
+D: ... They were right. John. Hugh. Peter. You really are a monster. Alan watches her walk away, struggling to maintain his facade of icy indifference. CUT TO: INT. SHERBORNE SCHOOL FOR BOYS - HEADMASTER’S OFFICE - 1927 Young Alan enters the HEADMASTER’S OFFICE.
+E: CONT’D
+C: JOAN CLARKE YOUNG ALAN
+D: You wanted to see me, Sir?
+E: CONT'D
+C: HEADMASTER
+D: Turing. Sit down.
+C: YOUNG ALAN
+D: Is something the matter?
+C: HEADMASTER
+D: You and Christopher Morcom are quite close.
+C: YOUNG ALAN
+D: I wouldn’t say that.
+C: HEADMASTER
+D: Your mathematics teacher says you two are positively inseparable.
+C: YOUNG ALAN
+D: We’re the best students in the class.
+C: HEADMASTER
+D: He caught you passing notes the other day.
+C: YOUNG ALAN
+D: Cryptography. To pass the time. The class is too simple.
+C: HEADMASTER
+D: You and your friend solve maths problems during maths class because maths class is too dull?
+C: YOUNG ALAN
+D: He’s not my friend.
+C: HEADMASTER
+D: I’ve been told he’s your only friend.
+C: YOUNG ALAN
+D: Who said that?
+C: HEADMASTER
+D: Something has come up. About Morcom.
+C: YOUNG ALAN
+D: Why am I here?
+C: HEADMASTER
+D: Christopher is dead.
+C: YOUNG ALAN
+D: ... I don’t understand.
+C: HEADMASTER
+D: His mother sent word this morning. The family was on holiday, you see.
+C: YOUNG ALAN
+D: I don’t understand.
+C: HEADMASTER
+D: He had bovine tuberculosis, as I’m sure he told you. This mustn’t be a shock, but all the same, I’m sorry.
+C: YOUNG ALAN
+D: You’re mistaken.
+C: HEADMASTER
+D: Did he not tell you? He’s been sick for a long time. Knew this was coming soon, but he had a stiff upper lip about it. Good lad. ON ALAN’S FACE: Christopher never told him.
+C: HEADMASTER
+D: Are you all right, Turing?
+E: CONT’D
+C: YOUNG ALAN
+D: Yes. Of course. As I said, I didn’t know him well.
+C: HEADMASTER
+D: Ah. Very well then.
+C: YOUNG ALAN
+D: May I leave, Headmaster?
+C: HEADMASTER
+D: Of course. Oh, but Turing?
+C: YOUNG ALAN
+D: Yes, Sir?
+C: HEADMASTER
+D: Do pay more attention in maths class, will you? CUT TO: INT. BLETCHLEY PARK - HUT 8 - 1943-5 - SEQUENCE Alan, Joan, John, Hugh, and Peter decrypt messages together for another two exhausting years.
+C: ALAN TURING
+D: The war dragged on for another two solitary years. Alan spends two years pressed shoulder-to-shoulder with the woman whose heart he broke. With the man whose dark secret he uncovered. With the man whose brother he allowed to die.
+E: V.O.
+C: ALAN TURING
+D: Every day we performed our blood- soaked calculus. Every day we decided who lived and who died. And every day we guided the Allied armies to victory without anyone knowing. EXT. MEDITERRANEAN SEA - SICILY - DAY INTERCUT WITH ARCHIVAL FOOTAGE: The FRONTLINE BATTLES whose outcomes, good and bad, are determined by the work of Hut 8. The MEDITERRANEAN FLEET is RAVAGED outside Sicily... 6,000 SHIPS launch for the surprise attack on Normandy...
+E: V.O. ARCHIVE FOOTAGE
+C: ALAN TURING
+D: Stalingrad? The Ardennes? Normandy? None of those victories would have been possible without the intelligence we produced. INT. BLETCHLEY PARK - HUT 8 - DAY IN HUT 8: Peter and Hugh each decrypt a message, placing TWO BLUE PINS on the board, and then one RED. They look to Alan: Two British ships, and they can only save one of them. Alan runs a statistical analysis of their options. We see KEY WORDS: “LIKELIHOOD OF DETECTION,” “CASUALTIES,” “MATERIAL LOSSES” interspersed with mathematical equations. Alan places his results into a GREEN FOLDER. A MESSENGER comes in and takes the folder to — INT. MI-6 - WAR ROOM - DAY AN MI-6 WAR ROOM: The Messenger delivers the Green Folder to Menzies and a TEAM OF MI-6 AGENTS. They look over Alan’s analysis and decide what military actions to take. The Agents TELEPHONE Churchill’s office in London. EXT. NORTH OF ALGIERS - DAY ARCHIVAL FOOTAGE: We see the impact of Hut 8’s work as a dozen British ships are BLOWN OUT OF THE OCEAN just north of Algiers, sacrificed for the greater good in Operation Torch. EXT. BLETCHLEY PARK - HUT 8 - DAY BACK IN HUT 8: The team learns of the outcome as they decode more German messages. Peter takes the BLUE PIN down from the map, tossing it angrily in the trash. He looks at Alan, who looks away — another ship they could not save. EXT. BLETCHLEY VILLAGE/ ENVIRONS - NIGHT OUTSIDE BLETCHLEY VILLAGE: Alan RUNS at night on a dirt path along the outskirts of Bletchley. He runs for miles, sweating, panting, until his legs almost give way.
+E: V.O. ARCHIVE FOOTAGE
+C: ALAN TURING
+D: People talk about the war as this epic battle between civilizations. Good versus evil, liberty versus tyranny. Armies of millions bleeding into the mud, fleets of ships that weighed down the oceans, packs of airplanes that dropped bombs until they blotted out the sun itself. But it wasn’t. INT. BLETCHLEY PARK - HUT 8 - NIGHT QUIET MOMENTS IN HUT 8: Hugh lays a folded-up coat under a sleeping Peter’s head as a pillow. John makes tea for Joan.
+E: V.O.
+C: ALAN TURING
+D: The war was really just a half- dozen crossword enthusiasts in a tiny village in the south of England. EXT. WHITEHALL - DAY ARCHIVAL FOOTAGE: On V-E Day, Churchill speaks to millions from a balcony in Whitehall. Truman dedicates the victory to Roosevelt as Times Square erupts into drunken cheers. The whole world kisses. The whole world cries.
+E: V.O. ARCHIVE FOOTAGE
+C: ALAN TURING
+D: Was I God? No. Because God didn’t win the war. I did. EXT. BLETCHLEY PARK - DAY - 1945 All of Bletchley Park is celebrating the end of the war. Flags are being waved, people are dancing, cheering. But inside the central mansion: INT. BLETCHLEY PARK - CENTRAL MANSION - CONTINUOUS Alan and his team are assembled before Stewart Menzies.
+E: V.O.
+C: HUGH ALEXANDER
+D: ... What happens now? Back to the university for us?
+C: STEWART MENZIES
+D: Yes. You’ve only one thing left to do before your service to your government is concluded.
+C: JOHN CAIRNCROSS
+D: What’s that?
+C: STEWART MENZIES
+D: Burn everything.
+C: HUGH ALEXANDER
+D: What?
+C: STEWART MENZIES
+D: We told you when you started that this was a top secret program. Did you think we were joking?
+C: HUGH ALEXANDER
+D: But the war is over.
+C: ALAN TURING
+D: This war is over. But there will be more. And we know how to break a code that everyone else thinks is unbreakable.
+C: STEWART MENZIES
+D: Alright. Tear it down, light it up, sweep away the ashes. None of you have ever met before. None of you have ever even heard the word Enigma. Have a safe trip home. Behave, and with a bit of luck none of you will ever see me — or one another — again in your lives. CUT TO: INT. MANCHESTER POLICE STATION - INTERROGATION ROOM - 1951 Alan Turing finishes telling his story to Detective Nock.
+E: with a smile at Alan MORE
+C: DETECTIVE NOCK
+D: That’s... Unbelievable.
+C: ALAN TURING
+D: That’s the Imitation Game.
+C: DETECTIVE NOCK
+D: I don’t know what to do now.
+C: ALAN TURING
+D: Now, Detective, you get to judge. That’s how the game works. I answered your questions. You know my story. That’s the point of the game. We are all pretending to be something. Imitating something. Someone. And we are no more, and no less, than what we can convince other people that we are. So tell me: What am I? Am I a person? Am I a machine? Am I a war hero? Am I a criminal?
+C: DETECTIVE NOCK
+D: I can’t judge you.
+C: ALAN TURING
+D: Well then you’re no help to me at all. ON ALAN: Turning away. He’s done with Nock. CUT TO: INT. POLICE STATION - MANCHESTER - DAY - 6 MONTHS LATER A PLAINCLOTHES OFFICER walks through the police station, carrying a NEWSPAPER under his arm. He makes his way to — — Detective Nock’s desk.
+C: STEWART MENZIES PLAINCLOTHES OFFICER
+D: Congratulations, Sir. The Officer drops the newspaper in front of Nock. The headline reads: “CAMBRIDGE PROFESSOR SENTENCED FOR INDECENCY”, above a photo of Alan. ON NOCK: This should make him happy. But instead he feels only empty and sick. INT. ALAN TURING’S HOUSE - DAY We find Alan in his study. He’s gained weight since last we saw him — he’s grown paler as well. Haggard. And the place is a horrible mess. He compares his half-built NEW MACHINE to the plans on his desk — his work progresses. Slowly. The doorbell RINGS. Alan ignores it, focused on his work. It RINGS again. Irritated, he gets up and shuffles through his house — — He’s walking with an odd limp, like it’s hard for him to move his legs normally — — And as the bell keeps RINGING insistently he reaches the front door, opening it to find:
+E: CONT'D This is the machine we saw in the opening scene, which appears different but related to the Bletchley machine — like a newer model of the same basic concept.
+C: JOAN CLARKE
+D: I had to find out from the bloody newspapers. CUT TO: INT. ALAN TURING’S HOUSE - SITTING ROOM - MOMENTS LATER Joan takes a seat while Alan fusses, embarrassed at the state of the place and trying to clean up for her.
+C: JOAN CLARKE
+D: ... You never responded to my letters. I would have come. I would have testified.
+E: silence from Alan
+C: ALAN TURING
+D: And what would you have said? That I wasn’t a homosexual?
+C: JOAN CLARKE
+D: I would have said something. This is serious. They could send you to jail — Alan tries to move a glass of water... ... Which he DROPS, shattering it.
+C: ALAN TURING
+D: Damn it...
+C: JOAN CLARKE
+D: Your hands... You’re twitching.
+C: ALAN TURING
+D: No I’m not. He is.
+C: JOAN CLARKE
+D: Alan.
+C: ALAN TURING
+D: ... It’s the medication.
+C: JOAN CLARKE
+D: The medication?
+C: ALAN TURING
+D: I have to go in for weekly oestrogen treatments. At the hospital.
+C: JOAN CLARKE
+D: What are you talking about?
+C: ALAN TURING
+D: The judge gave me a choice. Prison. Or “hormonal therapy.”
+C: JOAN CLARKE
+D: Oh my god. Oh my god. That’s —
+C: ALAN TURING
+D: — Chemical castration. Yes. To cure my homosexual predilections. Of course I chose that. I wouldn’t be able to work from prison. Joan is HORRIFIED.
+C: ALAN TURING
+D: Well how would I even have got parts in jail? It just makes no sense.
+E: CONT’D
+C: JOAN CLARKE
+D: All right. This is what we’re going to do. I’m going to speak to your doctors. I’m going to speak to your lawyer. We’re going to find a way out of this.
+C: ALAN TURING
+D: No.
+C: JOAN CLARKE
+D: You are not thinking clearly. There are a million chemicals flowing through your brain. This treatment—
+C: ALAN TURING
+D: — I’m fine.
+C: JOAN CLARKE
+D: Please let me help you.
+C: ALAN TURING
+D: I don’t need your help.
+C: JOAN CLARKE
+D: You do not have to do this all alone.
+C: ALAN TURING
+D: Alone? I’m not alone. I never have been. He looks lovingly at his machine — at Christopher.
+C: ALAN TURING
+D: ... Christopher has got so smart. If I stop the treatment, they’ll take him away from me. You can’t let them do that. You can’t. Don’t let them leave me alone. Joan looks at Alan. And at Christopher. His true love. Looking at his machine, Alan starts to have a small PANIC ATTACK — he’s getting more emotional, twitching more, getting teary — the hormones are flowing through him.
+E: CONT’D
+C: JOAN CLARKE
+D: Here, it’s alright. It’s alright. Sit down. She sits him in a chair, trying to contain his hyperventilating. Alan, embarrassed at this uncontrollable display, tries to play it off, but of course he can’t stop it. With her hand on his shoulder, he notices her WEDDING RING.
+E: re: Alan’s freak out
+C: ALAN TURING
+D: ... It’s a much nicer ring than the one I got you.
+E: trying to seem normal
+C: JOAN CLARKE
+D: His name is Jock. We work together in Eastcote. He’s gotten me into coin collecting. Can you believe it? Joan looks around the room for a tea cup, a glass of water, anything that isn’t mouldy she can have him sip from. She sees the newspaper she brought in, grabs it.
+C: JOAN CLARKE
+D: Do you want to do a crossword? For old times’ sake. It’ll only take five minutes. Or in your case, six. She tries to get him to smile at her joke. Joan opens the paper to a PUZZLE. Alan looks down at it. His fingers twitch. He stares at the puzzle, confused. He doesn’t know how to do it. Alan moves his hand away from the puzzle.
+E: CONT’D
+C: ALAN TURING
+D: ... Perhaps later. The treatment has wrecked his brain so badly that he can’t do crossword puzzles anymore. Joan watches and her heart utterly breaks. ON JOAN: He’s gone forever. And she knows it. Alan sees her sadness. He’s embarrassed, angry, bitter.
+C: ALAN TURING
+D: ... At least it worked out for one of us. You got what you wanted, didn’t you? Work. A husband. A normal life. She looks at him quietly for a moment.
+E: CONT’D MORE
+C: JOAN CLARKE
+D: But no one normal could have done this. This morning I took a train through a city that would not exist if it wasn’t for you. I bought a ticket from a man who would likely be dead if it wasn’t for you. I read up on my work, a whole field of scientific inquiry that only exists because of you. If you wish you could have been ‘normal’, I can promise you, I do not. The world is an infinitely better place precisely because you weren’t.
+E: gestures to Christopher
+C: ALAN TURING
+D: Is that what you think?
+C: JOAN CLARKE
+D: ... I think that sometimes it is the very people who no one imagines anything of who do the things that no one can imagine. CUT TO: EXT. SHERBORNE SCHOOL FOR BOYS - DAY - 1927 Young Alan sits under the tree where Christopher first taught him about cryptography. He’s holding the book that Christopher gave him. He starts to cry. He’s alone now, and he will be for a very long time. CUT TO: INT. ALAN TURING’S HOUSE - DAY - 1954 Alan sits at his desk, going over papers. He closes a book. Gets up. Walks past Christopher, giving him a look. He turns off the light, walking away down the dim hallway.
+C: ALAN TURING
+D: EXT. ALAN TURING’S HOUSE - DAY - 1954 A familiar scene: A HALF-DOZEN POLICE OFFICERS swarm the Manchester home of mathematics professor Alan Turing. Detective Nock passes the double-parked police cars and ascends the front steps of Alan’s house. Remembers the first time he was here. INT. ALAN TURING’S HOUSE - CONTINUOUS A CONSTABLE leads Detective Nock upstairs, gesturing into the open BEDROOM door. In the doorway, we see a team of COPS tending to something on the bed. There’s an APPLE on the nightstand.
+E: CONT’D former
+C: CONSTABLE
+D: Suicide, looks like. Half-eaten apple next to the bed. Some sort of white powder all over it.
+C: DETECTIVE NOCK
+D: Cyanide. You’ll find a tub of it downstairs. The Constable makes a curious face: How can you know that? Nock approaches the bed, and stares into the lifeless face of Alan Turing. ON NOCK: Alan Turing made the world a better place... And Nock killed him for it. CUT TO: EXT. BLETCHLEY PARK - NIGHT - 1945 Alan, Joan, Hugh, John, and Peter stand before the MASSIVE BONFIRE that’s been built in the center of the Park. TITLE: Alan Turing committed suicide in 1954. TITLE: His machine was never perfected, though it generated a whole field of research into what became nicknamed “Turing Machines.” Today, we call them “computers.” Hugh comes over and puts one arm around Alan, another around Joan. They have a moment: They did it. They won the war. John throws a stack of Enigma messages high into the air — — They watch as the papers flutter down into the fire. They laugh, and one by one they all join in: They FROLIC and PLAY as they throw every document, every slip of scratch paper, every bit of evidence they were there into the fire. TITLE: In 1990, John Cairncross publicly confessed to having been a Soviet agent. He was never prosecuted. TITLE: In 2013, Turing was granted an official pardon by the government. Approximately 49,000 other gay men were convicted and punished under the same code between 1885 and 1967. TITLE: The logo of Apple Computer - an apple with a bite taken out of it - has long been rumored to be a silent tribute to Turing. These rumors have never been confirmed.
+E: off the Constable’s look
+C: ALAN TURING
+D: Well then. ON ALAN AND THE TEAM: Hugging and playing as everything they did is burnt to a crisp.
+E: V.O.
+C: ALAN TURING
+D: Any questions?
+E: V.O.
+N: BLACK.

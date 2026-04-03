@@ -1,0 +1,74 @@
+[
+    {
+        "slug": "get-low-2009",
+        "title": "Get Low (2009)",
+        "had_metadata": true,
+        "old_size": 101,
+        "status": "kept_existing",
+        "new_size": 101
+    },
+    {
+        "slug": "reign-of-fire-2002",
+        "title": "Reign of Fire (2002)",
+        "had_metadata": true,
+        "old_size": 1871,
+        "status": "kept_existing",
+        "new_size": 1871
+    },
+    {
+        "slug": "the-hours-2002",
+        "title": "The Hours (2002)",
+        "had_metadata": true,
+        "old_size": 109410,
+        "status": "kept_existing",
+        "new_size": 109410
+    },
+    {
+        "slug": "the-hateful-eight-2015",
+        "title": "The Hateful Eight (2015)",
+        "had_metadata": true,
+        "old_size": 186667,
+        "status": "kept_existing",
+        "new_size": 186667
+    },
+    {
+        "slug": "rocky-v-1990",
+        "title": "Rocky V (1990)",
+        "had_metadata": true,
+        "old_size": 140044,
+        "status": "kept_existing",
+        "new_size": 140044
+    },
+    {
+        "slug": "the-master-2012",
+        "title": "The Master (2012)",
+        "had_metadata": true,
+        "old_size": 124749,
+        "status": "kept_existing",
+        "new_size": 124749
+    },
+    {
+        "slug": "the-secret-life-of-pets-2016",
+        "title": "The Secret Life of Pets (2016)",
+        "had_metadata": true,
+        "old_size": 93650,
+        "status": "kept_existing",
+        "new_size": 93650
+    },
+    {
+        "slug": "the-lorax-2012",
+        "title": "The Lorax (2012)",
+        "had_metadata": true,
+        "old_size": 123549,
+        "status": "kept_existing",
+        "new_size": 123549
+    },
+    {
+        "slug": "la-story-1991",
+        "title": "L.A Story (1991)",
+        "had_metadata": true,
+        "old_size": 131889,
+        "status": "kept_existing",
+        "new_size": 131889
+    }
+]

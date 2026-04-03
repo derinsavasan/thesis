@@ -1,0 +1,1934 @@
+S: THE ROOM NEXT DOOR
+N: Pedro Almodóvar based on the novel What Are You Going Through by Sigrid Nunez
+S: THE ROOM NEXT DOOR
+N: 1. A BOOKSTORE IN N.Y. DAY There is a long line that leads to a little crowd around the table where Ingrid Parker is signing copies of her latest book. The bookstore owners had set aside an hour for the signing, an hour that has now passed, but there are still quite a few people in the line, the end of which stretches out into the street. It’s cold, but the fans defy the bad weather without complaining. The book of autofiction is called On Sudden Deaths . A non - binary fan is waiting for Ingrid to sign her book.
+C: INGRID
+D: Thank you so much. Hi. How are you?
+E: Handing the book to a fan To Bobbi
+C: FAN
+D: Good. Thanks.
+C: INGRID
+D: Who should I make it out to?
+C: FAN
+D: Bobbi, with an “I”… In the prologue you say you wrote this book in order to better understand and accept death?
+C: INGRID
+D: Yes. It just seems unnatural. I have a hard time understanding that something that’s alive has to die.
+N: The bookstore owner comes over and interrupts the conversation:
+C: OWNER
+D: Ingrid…
+N: The fan realizes that her time is up.
+C: OWNER
+D: We’ve fulfilled the hour . I mean, in fact, we’ve gone over…
+E: she looks at her watch
+N: Ingrid looks at the line.
+C: INGRID
+D: There are still a lot of people waiting…
+C: OWNER
+D: Yes… We’ll do what you want… 2. BOOKSTORE. INT. DAY. The first person in the line interrupts:
+C: STELLA
+D: Could you sign mine?
+N: Ingrid looks at her and recognizes a distant friend, more or less her age.
+C: INGRID
+D: Stella! I didn’t even see you…
+N: She gets up and they exchange a kiss. She introduces her to the owner.
+C: INGRID
+D: Why didn’t you come straight up?
+C: STELLA
+D: I was embarrassed. You draw a crowd! A lot of young people and not just women… INGRID
+N: Stella, this is An h… Anh, this is Stella… (To the owner, Anh) I’m staying until I’ve signed for everyone.
+C: OWNER
+D: Yes, I’ll make sure no one else joins the line.
+N: Ingrid tells Stella to sit across from her, at the table where she signs the copies, for a few moments. (Or they continue to talk while standing.)
+C: INGRID
+D: I haven’t seen you in forever…!
+C: STELLA
+D: I’m living in Boston now. I’ve come to see my son, and visit Martha in the hospital. You know that she has cancer, right? It’s a bad one.
+C: INGRID
+D: Our Martha? Martha Hunt?
+C: STELLA
+D: Yes. She’s at Manhattan Memorial Cancer Center. I thought you’d have heard…
+C: INGRID
+D: No… To be honest, I haven’t seen her in years. Martha, sick? I can’t imagine it…
+C: STELLA
+D: If you go see her, it’ll make her very happy. INGRID
+N: Yes, yes, of course. Of course I will. She gives her back the signed book.
+C: STELLA
+D: Congratulations…
+N: Stella leaves and Ingrid carries on signing, now less focused. The news about her sick friend has disconcerted her. A friend to whom she’d been very close but hasn’t seen much recently. She has a new reader in front of her, a girl of about 20/25, who looks at her nervously. She hands her the book.
+C: INGRID
+D: Hi… So, who do I make it out to?
+C: GIRL
+D: Frances.
+C: INGRID
+D: Is that you?
+E: Amiable
+C: GIRL
+D: No, it’s my girlfriend. She really admires you. Well, so do I.
+C: INGRID
+D: Thank you.
+N: Ingrid starts to sign the book and gives her a very warm smile.
+C: GIRL
+D: Could you write, “it won’t happen again”?
+C: INGRID
+D: Of course I can. GIRL
+N: Yes. Thank you… It won’t happen again.
+C: INGRID
+D: Of course. I hope not.
+T: CUT TO:
+N: 3. BY THE RIVER. DAY. Ingrid walks along the river on the way to the hospital.
+S: 4. FAÇADE OF A HOSPITAL/HOSPITAL LOBBY INT./EXT. DAY.
+N: Ingrid walks through the main entrance. In the reception, she says who she is going to see and confirms the room number.
+C: INGRID
+D: Hi. I’m here to see Martha Hunt. I think she’s on the sixteenth floor…
+C: RECEPTIONIST
+D: One sec. Yes. Room 1614. The elevators are at the end of the hall on the left.
+E: searching for Martha Hunt on the computer
+N: Ingrid walks down a long corridor that leads to a hallway. 5. HOSPITAL CORRIDOR. We see her walk along a corridor. She passes a few nurses, typical hospital atmosphere. She stops at a door that shows the number she’s looking for. She knocks at the door and goes in. 6. MARTHA’S ROOM. HOSPITAL. N.Y. CONT. A conventional room, with some personal details of Martha’s, and windows through which we see the architectural splendor of Manhattan. Seen from outside, it gives the impression that the room is floating. On one of the side tables, there are flowers, next to some books. And the typical paraphernalia in a cancer hospital. The meeting is a great surprise for both of them, a very pleasant surprise, although at first they feel a bit awkward, a hospital isn’t the place where you want to meet your friends. Neither of them was expecting it. (Both women are at that undefined age between 50 and 60, which in 2024 means that they’re probably closer to 60.) And they are absolutely delighted about the meeting. (Martha is in bed, her eyes closed. She hears Ingrid’s voice, it’s as if she were dreaming about her.)
+C: INGRID’S VOICE
+D: Martha...
+N: Martha opens her eyes.
+C: MARTHA
+D: Ingrid! What a surprise! How did you hear?
+C: INGRID
+D: I ran into Stella, she told me.
+N: Despite the joy produced by this reunion, Martha looks very weak, pale and thin as a rake. Ingrid tries to hide how shocked she is at seeing at Martha like this.
+C: INGRID
+D: I’m so sorry, I didn’t even know you were sick.
+C: MARTHA
+D: You with your work and me with mine…
+N: Time’s gotten away from us. As if she had just discovered this.
+C: INGRID
+D: It’s true. And I was living in Paris.
+C: MARTHA
+D: I’d heard that. I’ve been reading about you. I know you’ve published another book, and that it’s doing very well.
+N: Ingrid makes a gesture to say no, as if her success were of no importance.
+C: INGRID
+D: How are you? I’m sure you’re tired of explaining it to everyone.
+C: MARTHA
+D: It’s cervical cancer. Stage 3. It isn’t operable, but they’re treating me and it looks like I’m not going to die quite yet. I’ve become a guinea pig for an experimental treatment. The results are much better than what the doctors were expecting.
+C: INGRID
+D: That’s great! You seem in good spirits.
+C: MARTHA
+D: Well, I swing between euphoria and depression.
+E: Smiling
+C: INGRID
+D: I’m so sorry.
+C: MARTHA
+D: It’s normal. The doctors warned me… to
+N: have highs and lows… Martha grows more cheerful and Ingrid relaxes. Perhaps she helps her sit in an armchair.
+C: MARTHA
+D: It might sound absurd, but after all the accepting and preparing to face the end, survival feels almost disappointing.
+E: CONT’D Ironic
+C: INGRID
+D: Don’t say that!
+C: MARTHA
+D: I was prepared to leave. In fact, when I got the initial diagnosis, I didn’t want any treatment.
+N: Martha has already made her decision. Ingrid cannot suspect it and will only find out a few weeks later.
+C: INGRID
+D: I’m glad you changed your mind. Just the thought… you would… and me not knowing…
+E: Sincere
+C: MARTHA
+D: I realized I really didn’t want to abandon the party just yet, but I truly had gotten used to the idea…
+C: INGRID
+D: I suppose it’s good to get used to the idea… but without giving up… You’ve been through quite a few wars, remember?
+C: MARTHA
+D: I live with them every day! (Changing her
+N: tone. Smiling, grateful) I’m so happy you’re here, Ingrid! I’ve almost called you a thousand times.
+C: INGRID
+D: Me too. It’s ridiculous that we haven’t seen each other for so long. I promise to visit you until you get bored with me.
+T: CUT TO:
+S: 7. ON ANOTHER VISIT. HOSPITAL. N.Y. INT. DAY.
+N: The room hasn’t changed much, perhaps Ingrid is dressed differently and the flowers are different too. Also it is morning, the light is different. They are still talking as if it were the continuation of the previous conversation. They’re also sitting in a different way. We follow the conversation by
+T: a direct cut.
+C: INGRID
+D: Your daughter knows, I guess.
+C: MARTHA
+D: Yes. When I’d first made up my mind to forgo any treatment, I told her and she just said: It’s your choice. Period. As if it were something trivial, something that had nothing to do with her.
+N: Her joking tone at the start becomes harder and gives way to maternal bitterness. Ingrid listens to her, upset.
+C: INGRID
+D: How are you two getting along? MARTHA
+N: Same as ever. We’re barely in touch.
+C: INGRID
+D: What does she do?
+C: MARTHA
+D: She’s doing well. She is an agent for classical musicians.
+N: Ingrid can’t think of what to say, but she’s a woman who knows how to listen and accompany someone with her silence.
+C: MARTHA
+D: It might sound horrible, but I don’t feel like she’s my daughter. I’ve fantasized frequently about her being swapped at birth.
+C: INGRID
+D: What! What are you talking about? She looks just like you. She has your face.
+N: Martha’s expression has totally changed. At the start, she was euphoric and now she seems depressed. Highs and lows. Euphoria and depression.
+C: MARTHA
+D: I never interested her as a mother.
+E: Not understanding her daughter
+C: INGRID
+D: Why not?
+N: Martha shakes her head. It’s hard to answer that question in a few words.
+C: MARTHA
+D: I was a teenager when I had her. I didn’t
+N: know what to do with a baby. And when we started working on Paper Magazine, remember?… we practically lived at night. You remember? In New York, in the 80s, anything important happened at night. And then I went to work as a war reporter, traveling constantly… that didn’t help. My work totally took over. I was never what a mother is supposed to be. But Michelle hated me long before I was away so much. I remember feeling her resentment, even when she was still a little girl… she made herself very clear. She couldn’t bear not having a father. She saw other girls had fathers and she wanted to know about hers. At first, I told her that I didn’t know who he was, but that kind of made things worse…
+S: 8. FLASHBACK. INT. BOWLING ALLEY. EARLY 70S.
+N: Martha is an adolescent of about fifteen or sixteen. She is bowling with a group of friends whose ages range from 16 to 20. She has a special affinity with Fred, a boy of 20, spectacularly handsome. Fred bowls a strike, causing a tremendous uproar. Martha gives him a kiss on the mouth as a reward and they carry on embracing. As a background to these images, we hear Martha’s voice off screen.
+C: MARTHA
+D: I was lying to her. Of course I knew who he was…
+E: OFF
+C: MARTHA
+D: His name was Fred. We dated for a few months before he was drafted and he went to fight, towards the end of Vietnam. 9. FLASHBACK. ADOLESCENT MARTHA’S HOUSE. EXT. AND INT. DAY. Adolescent Martha heads for the door and opens it while we hear the voice over of Martha Adult:
+E: OFF
+C: MARTHA
+D: When he came back a year later, he was… somebody different… he was a broken toy…
+E: OFF
+N: Young Martha sees Fred, with very short hair, some scars on his face, which is also burnt by the sun. There’s a glitter of panic in his eyes and a traumatized expression on his face.
+C: YOUNG MARTHA
+D: Fred! What happened!
+N: He says nothing. We see Fred standing in the doorway, very different than when we last saw him at the bowling alley.
+T: CUT TO:
+S: 10. MARTHA'S LIVING ROOM. INT. DAY.
+N: They are sitting on the sofa in the living room and Young Martha tries to cheer Fred up.
+C: YOUNG MARTHA
+D: Hey… Easy, I’m here… it’s all over now, Fred. You’re back home.
+E: CONT’D
+N: Fred shakes his head. Panic has left its mark on his face.
+C: FRED
+D: But it’s not over for me, the war is still inside my head… I can’t get free of it… I hallucinate all the time…
+N: Martha doesn’t know what to say. She strokes his cheek. Fred wants to be honest, he’s obsessed with it. He’s in the midst of the initial stages of an existential crisis.
+C: FRED
+D: I was high practically every day… and… I don’t know what I’m going to do with my life, Martha… I’m not staying here.
+C: ADULT MARTHA
+D: So I freed him from any commitments.
+E: V.O.
+C: YOUNG MARTHA
+D: It’s alright… Feel free to do what you like… Think about what’s best for you.
+N: As a gesture of gratitude Fred asks if he can kiss her.
+C: FRED
+D: Can I kiss you?
+N: Martha looks at him, and he looks at her and seems to find an instant of solace in her eyes. They kiss. Fred’s face instantly relaxes with Martha’s tenderness. The initial kiss leads them to continued kissing and touching each other and loosening their clothes. The young couple makes love.
+T: CUT TO:
+S: 11. HOSPITAL. MARTHA’S ROOM. INT. AFTERNOON
+C: MARTHA
+D: He told me that they’d spent the war high as a kite, on acid and weed. I think he just got lost in a bad trip.
+C: INGRID
+D: Does Michelle know this?
+C: MARTHA
+D: She started asking about her father as soon as she could talk, but it’s not something I could explain to a child, right? By puberty, she had already carved out quite an abyss between us. It came to define her adolescence. But, by then, I was no longer there, I was in New York with you, living my life.
+N: Ingrid is the perfect woman to listen to her friend’s drama.
+S: 12. FLASHBACK. DINER. INT. DAY (SIX WEEKS LATER)
+N: We hear the start of Martha’s voiceover while a waitress serves Martha’s teenage version and Fred. The shot would begin with the waitress at the bar, placing the order on the tray. The camera follows her until she arrives at the place where the young couple are sitting.
+C: MARTHA
+D: I arranged to meet Fred one evening to
+E: OFF
+N: tell him about the situation. In a half -full diner, Martha talks to Fred, he is still clearly disturbed. Maybe Fred is smoking a cigarette. The waitress arrives and leaves the order on the table, a milk shake for her and cheesecake for him. During the action, Fred says:
+C: YOUNG MARTHA
+D: Thank you.
+C: FRED
+D: Thanks… So, I took a first aid course, and because I’m a war veteran, they hired me at a hospital down in San Diego. That’s good news… right? Martha takes a sip of her milkshake, as if to gather her strength.
+C: YOUNG MARTHA
+D: I have some news for you too. I’m pregnant.
+C: FRED
+D: What?
+C: YOUNG MARTHA
+D: I’m pregnant.
+C: FRED
+D: Pregnant?!
+E: Taken aback, he wasn’t expecting this at all
+C: YOUNG MARTHA
+D: Yes.
+C: FRED
+D: But I… I was planning to move to San Diego next week…
+C: YOUNG MARTHA
+D: I know…
+C: FRED
+D: What do we do?
+E: Confused
+N: After thinking about it for a moment:
+C: YOUNG MARTHA
+D: I don’t know, but don’t worry, do what you have to do. I just thought you should know.
+C: FRED
+D: I don’t know… I feel kind of responsible now…
+N: Martha thinks, even if she doesn’t say it… “no shit”. Even though she’s three years younger, Martha quickly realizes that she can’t count on Fred for anything and makes the decision to proceed without his help.
+C: YOUNG MARTHA
+D: Yeah… but you’ve got enough things to worry about, I don’t want to add anything… so…
+C: FRED
+D: You’re very generous. And what are you going to do?
+C: YOUNG MARTHA
+D: I don’t know yet. But whatever I do, my parents will support me, I’m not alone.
+N: (They should use the kind of expressions that young people from that time would use.) 13. IN THE HOSPITAL. MARTHA AND INGRID.
+C: INGRID
+D: I don’t think working in a hospital was the best thing for such a damaged person. It’s the closest thing to war. What he needed was therapy and rehab.
+C: MARTHA
+D: That would have been more sensible, but he wanted to be useful. To ease his conscience… He believed that helping people who were between life and death was the best chance to get back any peace. I could only free him of any responsibility. He left before Michelle was born, he never knew her. He didn’t even call once to ask about her.
+C: INGRID
+D: When did you tell her?
+C: MARTHA
+D: She was about twelve. She wanted to know where he was living, but I didn’t know anymore. She was so insistent that I tracked down an old friend of his from high school, who told me that Fred had gotten married and had recently died. I asked him for his wife’s number and I called her. I wanted to know what had happened.
+N: The previous monologue is seen in the hospital, what comes now is seen as a flashback. 14. FLASHBACK A ROAD THAT RUNS THROUGH A CROP FIELD. 1985.
+S: INT. DAY.
+N: (Fred is played by the same actor at twenty, when he goes off to Vietnam, as at thirty-two.)
+C: MARTHA
+D: She said that they were coming home… after a trip.
+E: OFF
+N: We are directly on the road and then in the car. A road in the middle of nowhere. A car drives down a country road. Inside the vehicle, Fred and his wife talk about domestic issues. Fred looks out to the right and discovers a rising column of smoke. (They are about a quarter mile from the burning house).
+C: FRED
+D: Isn’t that smoke?
+N: The wife looks in the direction of Fred’s gaze.
+C: WIFE
+D: Yes. Something’s on fire…
+T: CUT TO:
+N: 15. FLASHBACK A DIRT ROAD THAT RUNS FROM THE MAIN ROAD TO THE
+S: HOUSE. 1985. INT./EXT. DAY.
+N: A road in the middle of the countryside. Another car is traveling in the opposite direction towards them, but it doesn’t stop. When Fred’s car is closer they can see that it’s a wood house with the roof in flames. There’s a dirt road that joins the house with the road. They pull up into the dirt road. They see the house on fire.
+C: FRED
+D: There’s a house on fire!
+E: Remembering the fires during the war
+C: WIFE
+D: We should call the fire department.
+C: FRED
+D: Stop the car!
+N: The wife stops the car and Fred starts to quickly get out. His facial expression has changed, especially the eyes, that reveal a profound trauma. Through the car window we see the house in flames.
+C: WIFE
+D: What are you doing?
+C: FRED
+D: I’m going to take a look.
+C: WIFE
+D: No, that’s crazy. Let’s call somebody.
+N: The Wife gets out of the car.
+C: FRED
+D: There might be someone inside.
+C: WIFE
+D: Fred! Stop. Stop! This is crazy!
+N: She grabs him by the arm, and manages to stop her husband.
+C: WIFE
+D: Fred, don’t go in! It’s dangerous. Look at me! Look at me! Let’s go find a gas station and call the fire department.
+E: Distraught She grabs him
+N: Fred stops and points his right finger at his ear.
+C: FRED
+D: Don’t you hear the screams?!
+E: Eyes bulging, traumatized by the fires in Vietnam.
+N: The wife understands exactly what’s happening to her husband. Her rejection is like a command, forbidding him to hear anything.
+C: WIFE
+D: No! I don’t hear anything!
+N: Fred pulls away from his wife. She tries to follow him, but stumbles on something and loses her balance and falls on the grass ( like in the famous painting by Andrew Wyeth, Christina’s World). She watches as her husband goes over to the house, and starts to disappear into the smoke.
+C: WIFE
+D: Fred, please! Don’t go in there!
+E: CONT’D Shouting to him
+N: Fred looks back at her.
+C: FRED
+D: Don’t you hear
+E: His eyes still bulging
+N: the screams! There’s someone inside crying for help! She looks in horror at the burning house and at her husband, like someone possessed, going in there. She shouts:
+C: WIFE
+D: Fred!
+N: She gets up and tries to follow him while he continues running towards the house and disappears into the smoke.
+T: CUT TO:
+S: 16. THE SAME MEADOW NEXT TO THE ROAD
+N: The woman sees a fire truck arrive, she runs over to them. While the firemen go up to the house and rapidly start extinguishing the flames, Fred’s wife goes over to the man who seems to be the fire chief and who is giving orders to the others.
+C: WIFE
+D: Sir, sir please, help me! Sir, sir!
+C: FIRE CHIEF
+D: Let’s go! Two lines. On the back. Ladder up!
+C: WIFE
+D: Sir, please! My husband’s inside!
+N: The fire chief looks at her, not fully understanding her. He continues giving orders to his men. FIRE CHIEF Give me a two and a half on the back, Johnny! (To her) Yes, ma’am… (To Johnny) Johnny!
+C: WIFE
+D: Sir, my husband’s inside! Inside.
+C: FIRE CHIEF
+D: What’s that?
+C: WIFE
+D: My husband’s inside… He thought he heard voices crying for help.
+E: Distressed, tearful
+C: FIRE CHIEF
+D: Give me two lines on the back side, guys. Okay.
+C: WIFE
+D: And he went into the house trying to save whomever was trapped by the fire.
+N: The fire chief thinks the explanation is strange and he goes over to the house.
+C: FIRE CHIEF
+D: Okay… okay. Get back in your car , do not go over there… Please, ma’am. I s there someone else?
+C: WIFE
+D: Okay… No, I don’t know…
+C: FIRE CHIEF
+D: Ladder up , guys! Ladder up ! T here’s a civilian inside! Get back in your car…
+T: CUT TO:
+S: 17. THE SAME MEADOW NEXT TO THE ROAD. TIME HAS PASSED.
+N: The fire is almost out. The firemen bring out Fred’s body, which is lying covered on a gurney. The wife is among them, she can’t stop looking at the charred remains of her husband, although she can’t see them.
+C: FIRE CHIEF
+D: I’m sorry. There was nothing we could do.
+N: The wife looks at him, distressed, perhaps sobbing.
+C: FIRE CHIEF
+D: He didn’t get to the second floor, he must have passed out from the smoke and the flames.
+E: CONT’D
+N: There is an ambulance parked there. There’s also some police cordoning off the site. The wife, the fire chief and some of the firemen who push a gurney with Fred’s body, all make their way over to it.
+C: WIFE
+D: And the other bodies?
+E: To the fire chief
+C: FIRE CHIEF
+D: There was no one else. The house has been abandoned for a long time. There was only your husband.
+C: WIFE
+D: But he… he told me that he heard screams for help…
+C: FIRE CHIEF
+D: Impossible. There was no one else…
+C: WIFE
+D: It’s true. I didn’t hear the screams either. I tried to stop
+E: Upset, she admits it
+N: him from going in, but he insisted. He insisted! But it was impossible.
+C: FIRE CHIEF
+D: There was nobody. I’m sorry. He was very brave. Tim, can we get someone to accompany her home?
+E: To another fireman
+C: WIFE
+D: I want to go with him. I’ll follow you.
+C: FIRE CHIEF
+D: Tim, you drive the lady’s car, and follow us back to the station. 18. HOSPITAL ROOM. MARTHA AND INGRID. CONT.
+C: INGRID
+D: Did you tell Michelle all of this?
+C: MARTHA
+D: Yes. I had to give her all the details. I even gave her her father’s wife’s phone number. 19. HOSPITAL ROOM. CONT. The two women have changed their positions, perhaps now sitting facing each other across a table.
+C: INGRID
+D: You know what… Let’s get you back to bed. You’re tired… we can talk later. You don’t have to tell me now.
+N: She helps her to lie down. Meanwhile Martha continues talking, exhausted. She needs to tell Ingrid.
+C: MARTHA
+D: No, I have to tell you this. One day, I got a call from Fred’s wife. She asked me for my address, she wanted to send me something…
+N: She breaks off to get her breath back. Ingrid looks at her inquisitively.
+C: MARTHA
+D: Shortly after, I received a note and a letter that the wife received from Michelle. Michelle introduced herself and told her that it was her, Fred’s daughter, who was in the burning house. “It was me he tried to save. It was for me for whom he died”, Michelle wrote to her.
+E: CONT’D
+N: Ingrid looks at her, disconcerted, after a silence in which Martha dries her damp nose.
+C: INGRID
+D: That’s insane!
+C: MARTHA
+D: Yes. 20. INGRID’S HOUSE. LOWER EAST SIDE. INT. DAY Ingrid has just moved in. There are cardboard boxes everywhere. What we see of the house looks a little old, rather than lived in, but with charm. There is an occasional new piece of wooden furniture that isn’t out of place beside the rest. It’s a very particular apartment with a very pleasant atmosphere. Ingrid has a few framed pictures leaning
+N: against a wall. Standing out among them is one of the iconic covers of the magazine Paper. Ingrid is opening one of the boxes when her cell phone rings. It’s Martha.
+C: INGRID
+D: Hi!
+C: MARTHA
+D: It’s Martha, the nuisance…
+C: INGRID
+D: You’re not a nuisance. How are you feeling?
+C: MARTHA
+D: Fine, I’m at home. 21. BEDROOM. MARTHA’S HOUSE. WASHINGTON SQUARE. INT. DAY Martha is spending a few days in her home, very different from Ingrid’s, but with some elements in common. They both worked on the same magazine in the mid -80s and each one has a framed iconic front cover of the magazine. Martha keeps items of popular craftwork from her many journeys around the world. The decorating style is a mixture of sophistication and bohemia, but more baroque than Ingrid’s.
+C: MARTHA
+D: The hospital has given me a few days off between treatments, so I’m at home.
+N: Martha lives in one of the buildings that surround Washington Square, high up, around the 20 th floor. All of Manhattan comes through the windows.
+C: MARTHA
+D: I’d love for you to come over.
+E: CONT’D
+C: INGRID
+D: Well, you’ve got me in the middle of moving.
+C: MARTHA
+D: Oh, then you’re really busy, right?
+C: INGRID
+D: Well, you know what moving is like, but if you’re feeling lonely I could stop by… We can take a walk through the park.
+C: MARTHA
+D: I might not be quite up for a walk…
+C: INGRID
+D: Okay… you know what… let me finish what I’m doing and come over.
+E: Determined
+C: MARTHA
+D: Thank you, sweetheart, but don’t feel obliged. 22. FAÇADE BUILDING WASHINGTON SQUARE. MARTHA’S APARTMENT. N.Y. EXT. DAY Ingrid arrives in a taxi. She rings the bell. The door opens and she goes inside. It’s a building with personality, sober and with good taste. 23. BUILDING WASHINGTON SQUARE. MARTHA’S APARTMENT. INT. DAY Ingrid goes along the corridor, or up some stairs, looking at the different doors. She’s carrying a bunch of flowers and a paper bag containing some books. Before she can ring the bell, Martha appears at one of them. They kiss.
+N: 24. MARTHA’S APARTMENT. WASHINGTON SQUARE. KITCHEN/LIVING
+S: ROOM. INT. DAY
+N: Ingrid looks with curiosity at the interior of the apartment and makes some comments. She recognizes some of the objects that hark back to a time when they saw each other daily. Ingrid gives Martha some flowers. Martha gratefully takes them.
+C: INGRID
+D: These are for you…
+E: Referring to the flowers
+C: MARTHA
+D: You’re a darling. Thank you.
+C: INGRID
+D: And I brought you a couple of books.
+N: Ingrid follows Martha into the kitchen, where Martha arranges the flowers in a vase.
+C: MARTHA
+D: Thank you… You want something to drink?
+C: INGRID
+D: I’d love some tea. Herbal tea if you have it.
+N: On the kitchen worktop there are two large fruit bowls with a selection of fruits. The color of the kitchen is very pop, but it isn’t jarring.
+C: MARTHA
+D: Sure. I’ll put these in a vase. All this is for you. You
+E: Referring to the flowers
+N: have to eat it all.
+C: INGRID
+D: Wow, I’ll do my best. I love fruit.
+E: Laughing
+N: Martha pours some water for the flowers. The apartment is on the corner of the building, the light comes through all the windows and they can see the different Manhattan skylines. Splendor.
+T: CUT TO:
+S: 25. MARTHA’S APARTMENT. WASHINGTON SQUARE. N.Y. INT. DAY
+N: The women are sitting in the living room of the apartment, having tea, coffee or beer. Above them, in the center of the wall, hangs a photo of widows in Georgia, in black and white.
+C: MARTHA
+D: Are you working on something new?
+N: The books she has brought as a gift are on the table next to the drink. One is about the painter Dora Carrington.
+C: INGRID
+D: Actually, I am! I’m doing research on the painter Dora Carrington and her intense devotion to the writer Lytton Strachey. Here he is. Strachey was gay, so she married the straight man that he was infatuated with. It’ll be the story of the trio. It isn’t groundbreaking, but I want to see where it takes me. Here you go…
+E: Ingrid takes the books from the table
+N: look at this… Ingrid takes the book about Dora Carrington’s work and the two of them glance through it, pausing at some of the paintings, the most representative ones.
+C: INGRID
+D: Her work isn’t very well known. Unfortunately for her, there was a more famous painter, the surrealist Leonora Carrington, whose name was obviously very similar to hers. Dora was better known for this deranged love story with Strachey. She devoted seventeen years of her life to him. It’ll be a fictionalized biography, so I’ll make some stuff up too.
+C: MARTHA
+D: I’ve never been able to allow myself that…
+C: INGRID
+D: Well, I can imagine, you’re a war reporter.
+C: MARTHA
+D: You can’t show your emotions. You have to block them out so you could do your job and stay present, in the middle of whatever hell.
+C: INGRID
+D: The mere idea of it gives me chills.
+C: MARTHA
+D: You have to separate the emotional from the professional.
+C: INGRID
+D: Maybe I should write about you and not Carrington.
+C: MARTHA
+D: I don’t think you’d enjoy writing about illnesses and treatments.
+C: INGRID
+D: You’re wrong.
+E: Joking
+C: MARTHA
+D: I’m just a journalist, addicted to wars and adrenaline.
+C: INGRID
+D: And you think that’s nothing?
+T: CUT TO:
+S: 26. MARTHA’S APARTMENT. WASHINGTON SQUARE. INT. DAY. LATER,
+C: ALMOST DUSK.
+D: The same situation, but another, lighter mood.
+C: MARTHA
+D: It wasn’t all tragedy, life went on. There was one report where I added a bit of fiction…
+C: INGRID
+D: Oh, really?!
+C: MARTHA
+D: Naturally, I never published it.
+N: Ingrid looks at her intently. She supposes that Martha’s going to tell her about it. (This is another set piece.)
+S: 27. MARTHA’S APARTMENT. N.Y. INT. DAY. ALMOST DUSK.
+C: MARTHA
+D: It was during the war in Iraq. The last
+N: day, before leaving Baghdad. Ingrid listens to her, very interested. 28. FLASHBACK. BAGHDAD. CAR / CARMELITES´ MISSION Flashback that accompanies and mingles with Martha’s voiceover. Baghdad, Carmelite mission, interior of a plane, etc. If I could, I’d shoot a point of view from inside a car in which Martha, twenty years younger, is traveling with a photographer who works with her. The images show us a devastated city. Martha is driving. They arrive in an alley. What used to be Al Thawra St. and is now Al Masref St. A man quickly crosses the frame with a mattress on his shoulders. A couple of men drag a heavy object wrapped in a blanket.
+C: MARTHA
+D: Are you sure this is the right way?
+C: PHOTOGRAPHER
+D: Yes. Make a left here, in this alley.
+N: There is an explosion in the distance.
+C: MARTHA
+D: Let's make this brief.
+C: PHOTOGRAPHER
+D: Sure.
+N: They arrive at a place.
+C: PHOTOGRAPHER
+D: Here, stop here.
+N: Martha stops the vehicle. The Mission wall is full of impacts of bullets and shells. The few windows facing the outside are covered with large sand bags. There are two Carmelite priests placing sandbags to protect the entrance to the mission. From her point of view, she sees how the photographer walks quickly and interrupts the two priests who have their backs turned. A few meters from them and carrying a camera, Martin, the photographer, calls out to one of them.
+C: PHOTOGRAPHER
+D: Bernardo!
+N: The priest turns and sees his friend.
+C: BERNARDO
+D: Mira quien está aquí. Martin, what are you doing here, in Baghdad!?
+E: In Spanish
+N: The other priest turns to look at them and sees how the two men embrace. When they separate Bernardo presents Paco.
+C: PHOTOGRAPHER
+D: You really look great, Bernardo!
+C: BERNARDO
+D: Sorry… Martin, Paco. He’s a Carmelite, like me.
+E: They shake hands To Martin
+N: Both men are excited to see each other as Paco looks on. From inside the car, Martha takes out of her purse a block of notes and a pen and begins writing what she sees. Martha immediately joins the group. She carries the block of notes, in which she jots down notes by hand. The Spanish Carmelites’ mission is half destroyed. The walls; full of holes from the impact of bullets, a violent image that contrasts with the calm of the photographer, the Carmelites and Martha herself. When she joins the group, the photographer introduces her to the Carmelites. One of them, Bernardo, does all the talking, Paco seems timid and says he doesn’t speak English.
+C: PHOTOGRAPHER
+D: Martha, let me present Bernardo and Paco. Martha is a brilliant journalist for the New York Times. They are the Carmelites I was telling you about.
+C: MARTHA
+D: It’s a pleasure to meet you both. Are you intending to stay in Baghdad?
+C: BERNARDO
+D: Yes. Here we are.
+C: MARTHA
+D: But you’re alone. All the NGOs and the Red Cross have left already.
+C: BERNARDO
+D: Yes. I know.
+C: MARTHA
+D: But the situation is out of control and very dangerous.
+C: BERNARDO
+D: You’re here as well…
+C: MARTHA
+D: We’re just passing through. We’re leaving as soon as we’re finished talking to you.
+N: Paco, the Carmelite who doesn’t speak, as well as being uncomfortable about the interview, is scared.
+C: BERNARDO
+D: We can’t let them down now, this is when the people need us most.
+N: Martha nods in acquiescence.
+C: MARTHA
+D: That’s true, but still extremely dangerous. But then you know that.
+N: An explosion sounds in the distance.
+C: BERNARDO
+D: We can’t let them down now, señora.
+C: PHOTOGRAPHER
+D: Do you mind if we take a photo of you and of how the mission has been left?
+N: The Carmelite Paco says in Spanish that he’d rather not appear.
+C: PACO
+D: Yo prefiero no salir.
+C: BERNARDO
+D: You can photograph the mission, and me, but he doesn’t want to risk his family in Spain seeing him.
+E: To the photographer
+N: They’d worry. Martha nods her head that she understands.
+C: MARTHA
+D: Yes, of course. I totally understand. If we could just get one of you that would be great.
+N: Bernardo poses with the mission and the photographer goes to take his photo.
+C: PHOTOGRAPHER
+D: Could you come just a tiny bit closer so I can get the impacts?
+E: Gesturing for him to come closer
+N: When he finishes taking photos , he walks over to show his friend the pictures he’s just taken. Martha heads for the car.
+C: PHOTOGRAPHER
+D: How long has it been since we last saw each other?
+E: To Bernardo
+C: BERNARDO
+D: Five years?
+C: PHOTOGRAPHER
+D: Five years… Do you remember Liberia?
+C: BERNARDO
+D: How could I forget!
+E: Smiling
+C: PHOTOGRAPHER
+D: I have some photos of you that we didn’t publish. If you give me an address, I can send them to you. Maybe to the embassy. BERNARDO
+N: (Smiling) No, you keep them. That way I’ll keep you company. The photographer and the Carmelite hug and say goodbye.
+C: BERNARDO
+D: Goodbye, Martin.
+C: PHOTOGRAPHER
+D: It is great to see you. Take care. Stay safe.
+N: We hear the distant sound of explosions, the war continues.
+T: CUT TO:
+N: 29. FLASHBACK. INSIDE THE PLANE Martha and the photographer, a charming and carefree man, looking like a middle aged old sea dog, are sitting together and having a relaxed drink, after all the emotions and out of pure weariness. Martha takes some notes in her notebook.
+C: MARTHA
+D: How do you know the Carmelite?
+C: PHOTOGRAPHER
+D: We met in Sierra Leone. We became lovers there.
+N: Without looking directly at him she writes in her notebook. MARTHA Oh, really?
+C: PHOTOGRAPHER
+D: After that, we met more times. Always in places that were at war.
+C: MARTHA
+D: And you had sex?
+C: PHOTOGRAPHER
+D: Of course. Bernardo never renounced physical pleasure. He was always in the most conflictive places and… I think that sex was his best shield… I’m sure the Carmelite is his partner.
+C: MARTHA
+D: You think so?
+C: PHOTOGRAPHER
+D: Definitely. That’s the only way you can stay in Baghdad and not be afraid of the war.
+C: MARTHA
+D: What a wonderful story.
+N: She tries to write this last part , but the photographer warns her.
+C: PHOTOGRAPHER
+D: Don’t you dare write it.
+N: Martha immediately stops writing, but there’s something childish in her gesture.
+C: MARTHA
+D: No, of course not. But what about sin for him? Don’t they feel guilty? After all, they’re Catholic.
+C: PHOTOGRAPHER
+D: He never talked about it. With all the
+N: horrors you see in war, feeling guilty about having sex doesn’t really carry much weight, you simply get used to it.
+C: MARTHA
+D: I know that. 30. MARTHA APARTMENT WASHINGTON SQUARE. EXT. DAY. We take our time as the two friends come out of Martha’s building and down the steps, accompanied by a delicate musical score that takes us away from Iraq and brings us back to the two friends.
+N: Ingrid listens, fascinated, to the story of the Carmelites.
+C: MARTHA
+D: I wrote their story… their love story, as I imagined it, but it stayed on my computer. 31. JEFFERSON MARKET GARDEN. EXT. DAY. There’s the usual atmosphere in the gardens. The two friends sit on a bench, looking around and taking in their surroundings.
+C: MARTHA
+D: So you’re going to write about Dora Carrington’s insane love.
+C: INGRID
+D: Mhmm… and her connection to Virginia Woolf, whom Strachey also pursued romantically.
+C: MARTHA
+D: What a group! I so admire their freedom.
+C: INGRID
+D: Strachey died of stomach cancer eighteen years after meeting Dora. And Dora survived him by barely two months before she shot herself in the stomach.
+N: Martha is shocked by Carrington shooting herself in the stomach.
+C: INGRID
+D: She was only thirty-eight…
+C: MARTHA
+D: I’m struck by the symmetry of that kind of gesture… His stomach cancer and her shooting herself in the stomach.
+E: Pensive
+C: INGRID
+D: I know… it struck me too.
+C: MARTHA
+D: Maybe Virginia saw a kind of warning in Carrington’s death, a mirror that reflected her.
+C: INGRID
+D: Yes. It's as if the two of them, no matter what happened, were fated.
+N: Martha feels a part of that condemnation. Ingrid didn’t consider the effect of her words, she realizes now. (Martha thinks about her own decision to choose Euthanasia and her semblance darkens).
+C: MARTHA
+D: Do you think I’m fated too?
+C: INGRID
+D: No! Of course not! I’ve never known anyone more alive than you.
+N: Martha is indeed remembering her old vitality.
+C: MARTHA
+D: Next week I’m starting a new experimental immunotherapy treatment. They’ve already tried it and it seems to work well with cases of cervical cancer.
+C: INGRID
+D: Well that’s great news! Let me know when I can come and visit you, okay?
+C: MARTHA
+D: I will… Talking of symmetry… do you remember Damian Cunningham?
+E: Lightening the mood
+C: INGRID
+D: How could I forget?! I inherited him from you.
+C: MARTHA
+D: The shared lover. I have to say, I felt terrible when you got together after I’d been with him.
+C: INGRID
+D: Okay, we didn’t share him exactly, because you had already broken up and you were out of the country.
+E: Surprised
+C: MARTHA
+D: I would never go back with him! And to tell the truth I was never faithful to him. But he was a passionate, and enthusiastic lover… And I hope he was for
+N: you too.
+C: INGRID
+D: I had no complaints.
+N: Ingrid smiles. She’s amused that in these circumstances her friend is talking about sex and Damian.
+C: SEVERAL WEEKS LATER.
+D: 32. FAÇADE OF CANCER HOSPITAL. EXT. DAY Ingrid comes into the building. She passes visitors and hospital staff. 33. HOSPITAL. INT. DAY. CORRIDOR She walks down a long corridor. She knocks on a door and goes in. She has a bag full of things. 34. HOSPITAL. INT. DAY. MARTHA’S ROOM Martha doesn’t have to say anything. Her eyes glitter with despair and impotence. She is sitting at the top of the bed.
+N: They kiss.
+C: INGRID
+D: Hi. What is it?
+N: Furious with herself, as if it were her fault.
+C: MARTHA
+D: It hasn’t worked, I’ve got metastases in my liver and in my bones. INGRID
+N: Oh, Martha!
+C: MARTHA
+D: I should have followed my first instinct and not put myself through this torture . The vomiting, the diarrhea, the fatigue… just to end up like this… I should never have given in to false hopes.
+C: INGRID
+D: What does the doctor say? Tell me.
+E: Scared
+C: MARTHA
+D: That I could live for months, maybe a year… He wants me to continue the treatment even though it looks hopeless!
+C: INGRID
+D: Maybe it will work this time!
+N: Ingrid tries to cheer her up: doctors can be wrong too. She just thinks it, she knows it would be to state the obvious. Martha realizes that her friend is trying to console her, but she can’t find the words, and she lowers her tone.
+C: MARTHA
+D: I don’t want to wallow in self -pity. I’m also no stoic, I’m sorry. I don’t want to go through excruciating pain. You can’t be self-possessed if you’re in agony, you can’t think straight, you can think of only one thing… the fucking cancer.
+N: In these indignant monologues, Martha goes through different moods. At times, it’s fury that gives her strength; at times, she goes to pieces and only murmurs. Ingrid is terrified, she gives her a glass of water. Martha drinks. Ingrid takes her hands to console her. She manages to calm her a little, Martha’s tone sounds less hysterical, sadder, on the verge of tears, for lack of strength.
+C: MARTHA
+D: I’ve always taken care of my health, and now I regret it. The doctor says I have a strong heart. What does that mean? That my body will keep fighting, that I’ll have to suffer and suffer up to my last breath?
+E: Serious Impotent, self-aggressive Asking her as if to find a response
+N: Ingrid hugs her tightly.
+C: INGRID
+D: I don’t know… I don’t know how to help you… I’m so sorry.
+E: Terrified
+C: MARTHA
+D: I think I deserve a good death… or at least one without convulsions in my last moments. Going out with a little bit of dignity, clean and dry. But I know I’m asking too much…
+E: Exhausted
+T: CUT TO:
+S: 35. HOSPITAL. INT. DAY.
+N: In the previous scene I’m going to try to get Martha up and get her over to the window and Ingrid will follow her, all of this driven by the impotence and desperation Martha feels. So that maybe when the nurse comes in , Martha is still standing and Ingrid sitting in the chair, incapable of consoling her friend.
+C: NURSE
+D: What are you doing up, Martha?
+C: MARTHA
+D: I’m fucking over this…
+E: Slightly defiant, or simply informing the nurse how she feels, even if she exaggerates it a little bit
+C: INGRID
+D: Can you help her?
+E: To the nurse
+C: NURSE
+D: Of course. Let’s get you back in bed.
+E: She says it gently to both of them
+N: Martha gets back in bed. The nurse connects her to the IV drip.
+C: NURSE
+D: Here, this will help you.
+C: MARTHA
+D: Bring it on.
+E: Extending her arm
+N: The nurse injects morphine in the drip.
+C: MARTHA
+D: I’ll end up turning into a junkie. I am one already, I guess.
+E: To Ingrid, as if the nurse didn’t exist
+C: INGRID
+D: It’s okay, really.
+N: The nurse is used to this, she doesn’t react to Martha’s words, and she injects her with an opiate. It has an immediate effect on the patient, she grows drowsy, watched by Ingrid.
+T: CUT TO:
+N: 36. THE WEATHER. Martha opens her eyes, she speaks a little drowsily. The light in the room has changed.
+C: MARTHA
+D: Are you still here?
+C: INGRID
+D: Yes.
+N: Ingrid is looking at her phone. She stops doing this when Martha speaks to her. Perhaps Ingrid gives her a glass of water. Or she asks her about supper, but Martha doesn’t want to hear about eating.
+C: INGRID
+D: Should I tell ask them to bring your dinner? Are you hungry?
+C: MARTHA
+D: No. Ingrid, do you think I need to say goodbye to my closest friends?
+C: INGRID
+D: I think you should do whatever you want to do.
+C: MARTHA
+D: I just want some peace and quiet.
+C: INGRID
+D: Have
+E: Finding the courage to ask Martha:
+N: you thought about how you want to spend the time? And where? Is there some place you’d like to go? Martha points to the window behind Ingrid. She says it as if it were a hallucination caused by the morphine.
+C: MARTHA
+D: Look.
+E: CONT’D
+N: Outside, it has started to snow. Ingrid turns to the window. The sun is going down and the snow has been tinted a sunset pink. (Is it winter or is it due to the climate change? It would have to be mentioned.) Martha seems to levitate at the beauty of this image.
+C: MARTHA
+D: Pink snowflakes. There had to be something good about climate change. Well, I’ve lived to see that. Do you remember the end of Joyce’s The Dead?
+E: CONT’D
+C: INGRID
+D: Vaguely.
+E: Emotional
+N: Slowly, to the rhythm of the falling snowflakes.
+C: MARTHA
+D: “The snow is falling, falling on the lonely churchyard, falling faintly through the universe and faintly falling, like the descent of their last end, upon all the living and the dead…”
+N: Ingrid, with her back to her, can’t hold back her tears. She takes out a Kleenex and dries them. Martha looks at her while she does it and feels an immense gratitude towards her friend. Ingrid turns back to her, more or less composed again, her eyes still glittering.
+C: INGRID
+D: It’s late… I should be going…
+C: MARTHA
+D: Thank you.
+C: INGRID
+D: I’ll see you tomorrow.
+N: The sun hides and the light disappears from the room. They give each other a kiss.
+T: FADE TO BLACK
+S: 37. LINCOLN CENTER FOYER. INT. DAY
+N: Martha looks better than in the hospital, but at times when she speaks, she is left breathless. There are people walking in the wide foyer going to one of its rooms, to see a film or listen to a talk. People of all ages, very New Yorker style. The foyer is all glassed in. From inside we can see Columbus Circle and the nearby skyscrapers. In the street that leads to one side of the Lincoln Center there is a multitude of paintings that fill the whole space. Martha and Ingrid are sitting together at a little table drinking something. Behind them there is a bar, all of wood, reddish like the rest of the wall. Ingrid looks at her watch. (Perhaps they have a program sheet, something that gives the programming.)
+C: INGRID
+D: There’s still a half an hour before the movie starts. Shall we go in and get our seats before the rush?
+C: MARTHA
+D: No… I want to talk to you about something.
+C: INGRID
+D: Okay.
+N: Martha speaks in a serious, calm tone, not melodramatic, or solemn, rather with a pragmatic, determined expression, stating a fact.
+C: MARTHA
+D: I will not go out in mortifying anguish.
+N: Ingrid looks at her, she’d supposed it already, but she is surprised that she says it at that moment.
+C: MARTHA
+D: I’ve gotten hold of a euthanasia pill. Don’t ask me how, on the Dark Web you can get hold of/find almost anything. I also have an abundance of opioids for the moments of pain… and don’t look at me like that… I’m not asking you to convince me otherwise.
+E: CONT’D
+N: She says it firmly, despite her weakness. Ingrid looks at her and she knows it would be useless to try to convince Martha to give up the idea. There is a moment when they have been left on their own in the spacious foyer.
+C: INGRID
+D: I don’t know what to say.
+E: Slowly, fearful
+C: MARTHA
+D: I’m hoping/I hope you’ll say yes.
+C: INGRID
+D: Yes to what?
+C: MARTHA
+D: To my asking you to help me.
+C: INGRID
+D: To help you what?
+E: Terrified
+C: MARTHA
+D: I’ve faced death several times, but I’ve was always been accompanied, us reporters formed a kind of mobile family. This is another war, I’m not afraid of it, but like the other times I faced death, I don’t want to be alone, Ingrid. I’m just asking you… to be in the next room.
+N: Ingrid: consternation and silence. Martha is asking her, she isn’t imposing it. Despite the lack of alternatives, she isn’t using emotional blackmail on her. And she looks relaxed. Ingrid doesn’t answer her. She refuses to talk about the matter.
+C: INGRID
+D: I think we should go get our seats…
+N: But Martha insists. She is determined to finish this conversation.
+C: MARTHA
+D: Yeah, sure, but I prefer to go on talking to you, if you don’t mind.
+N: Ingrid takes a deep breath. It isn’t an easy moment, and she can’t interrupt her friend in a conversation like this.
+C: INGRID
+D: Okay… Do you know when you want to do this?
+C: MARTHA
+D: Not exactly… within a month…? Before I start to deteriorate and you don’t recognize me… During these first weeks, I'll still be reasonably well, that's why I want to do it soon. The doctors think I’m going to return to continue with the treatment. So it’s best if they don’t suspect anything.
+C: INGRID
+D: Do you know where you want to do it?
+C: MARTHA
+D: I don’t want to be at home, or go back to someplace where I was happy in the past. We must never return to the places where we were truly happy because we ruin the good memories of the first time...
+E: She reflects
+C: INGRID
+D: I know what that is…
+C: MARTHA
+D: I think it will be easier for me to let myself go if I’m not surrounded by
+N: familiar things, intimate things. I think that would hold me back. I prefer an/some unknown place… somewhere comfortable and safe, and not too far away.
+C: INGRID
+D: Do you need my help finding a place, or getting you settled in?
+E: She doubts
+N: She looks at her as if Ingrid hasn’t understood her.
+C: MARTHA
+D: No, no… I can do that myself. What I need is someone to be there with me, in the room next door.
+N: There are pauses in the conversation while Ingrid, stunned, tries to assimilate what her friend is asking of her.
+C: INGRID
+D: Wouldn’t you prefer someone that you’re closer to?
+C: MARTHA
+D: We’re very close.
+C: INGRID
+D: Yes, we are. Of course we are … Oh my God! Yes! We’re very close! But we didn’t see each other for years… What about Stella, Vanessa, Maggie… You’ve all been friends since you were kids.
+N: By direct cut, the conversation continues. 38. IN MARTHA’S APARTMENT, NIGHT FALLING, WITH THE SKYLINE IN THE BACKGROUND. The two women are sitting facing each other, with the Manhattan skyline fading slowly. There isn’t much light in Martha’s apartment. They’re drinking something. And perhaps one of them is smoking. Martha, for example. Or in the kitchen, preparing something.
+C: MARTHA
+D: I admit it. I thought of them first. I asked all three of them, and they were all horrified. They all said no. They understood it, but they said they could never be a part of helping me take my own life. Absolutely not.
+C: INGRID
+D: What about your daughter?
+C: MARTHA
+D: It wouldn’t be fair to her, I’ve been an absent mother. I don’t want to impose my dying on her.
+C: INGRID
+D: But… you could consult her, let her be part of it…
+N: Martha shakes her head and gets up and heads over to the balcony in silence. She opens the door.
+C: MARTHA
+D: We’re two strangers, Ingrid. She made that clear when I told her my doubts about the treatment. It’s your choice, she said. And she’s right.
+C: INGRID
+D: Right.
+N: Martha shakes her head, she gets up in silence and opens the balcony door. Noises comes in, some grating. City life becomes present. Marth inhales deeply and sits on a bench, near the open window.
+C: MARTHA
+D: No matter what, people want you to keep on fighting. This is how we’ve been taught to see cancer: as a fight between patient and disease, which is to say between good and evil . If you survive, well you’re a hero. And If you lose… well, perhaps you didn’t fight hard enough. People don’t want to hear the words “terminal” or “incurable”. They call that defeatist talk.
+E: Breathlessness, with some resentment breathless
+N: For Ingrid, it is very hard to listen to this last monologue. She gets up, goes over to the window and closes it. She stands listening to Martha.
+C: MARTHA
+D: Some of the worst things come from the cancer support community. Some of them think of your cancer as a gift, an opportunity for spiritual growth. Bullshit!
+E: CONT’D
+N: She moves her head in a gesture of repulsion. Martha gets up and tries to take a few steps away from Ingrid. She is too tired and has to sit down again.
+C: MARTHA
+D: People should understand that this is my
+N: way of fighting. Cancer can’t get me if I get me first. What’s the sense in waiting when I’m so ready to go? Ingrid gets up and sits opposite her friend.
+C: INGRID
+D: Are you completely sure you’re ready?
+C: MARTHA
+D: Totally… since the first diagnosis.
+C: INGRID
+D: You know that I have a terrible fear of death…
+E: As if apologizing
+C: MARTHA
+D: I know. I read your book. That’s why I didn’t ask you first. But you understand me, don’t you?
+E: she begs her
+C: INGRID
+D: Of course. I do. And I envy you. You’re in control of your life.
+C: MARTHA
+D: I only need you to accompany me on the days leading up to it, as if we were on vacation. I just need to know that, when it happens, there’ll be someone in the next room.
+C: INGRID
+D: It terrifies me, Martha.
+C: MARTHA
+D: I understand that.
+N: Martha goes back to the table. INGRID You have every right to do this, and I admire you for it, but it terrifies me to be the one to find you dead. I’m not that strong.
+C: MARTHA
+D: You’re much stronger than you think… Anyway, I had to try.
+N: She tries to smile, weakly. Ingrid returns to the table as well.
+C: INGRID
+D: I can’t answer you right now, Martha, but I promise I’ll think about it. Right now I’m too confused and too terrified.
+C: MARTHA
+D: I understand… it’s so sudden… it’s disconcerting. I’ll think of someone.
+N: Ingrid knows that that someone doesn’t exist. And it makes her sad. Ingrid gets up to leave. She gathers her purse. They walk to the door in silence, and they kiss goodbye. While still embraced, cheek to cheek, Martha whispers:
+C: MARTHA
+D: I wasn’t too much?
+C: INGRID
+D: No, no!
+N: Ingrid exits the apartment. Martha closes the door and stands there, thinking that in effect, she has no one else to ask for help. 39. OUTSIDE MARTHA’S BUILDING. NIGHT Ingrid emerges slowly, pensive, from the building where Martha lives. She can’t stop thinking about her friend’s proposal, and about her loneliness. Once on the sidewalk, she raises her hand to stop a cab.
+T: By a cut.
+S: 40. TAXI. INT. THROUGH THE CITY STREETS.
+N: Ingrid returns to her new home, in the Lower East Side. She can’t stop thinking about Martha’s proposal. She takes her phone from her purse. She looks for Martha’s number.
+C: MARTHA
+D: Hello, Ingrid.
+E: OFF
+C: INGRID
+D: Hi, I’ve made up my mind. 41. INGRID’S RENTAL HOME. LOWER EAST SIDE. INT. DAY There are still some removal boxes, or books piled up on one.
+N: Ingrid and Damian go straight into the kitchen. Damian is a man of about sixty, still attractive (he is the lover shared with her friend). With Ingrid, he overflows with pleasantness and concern, but it is clear that it’s an exception, he is a forceful character. Ingrid is nervous and probably Damian still likes her. The décor in the apartment is very special and relaxing. The furniture is mostly second -hand, but the pieces have been chosen with intention and good taste. The person who lived here before must have been very bohemian and exquisite. Ingrid fixes something to drink in the kitchen. Seeing Damian’s skeptical look, Ingrid thinks she should give him an explanation about the place.
+C: INGRID
+D: Come on in… The owner’s a jewelry designer… she’s a friend of mine, so I don’t pay much rent.
+C: DAMIAN
+D: You get the impression it’s been furnished with stuff from the garbage.
+C: INGRID
+D: Not everything… And it takes talent to pick furniture out of the garbage.
+E: Smiling
+C: DAMIAN
+D: You still haven’t finished moving in. Do you want a hand?
+C: INGRID
+D: No… I’ll do it… after.
+E: She was going to say after Martha dies
+C: DAMIAN
+D: And, even so, you’re going with Martha?
+C: INGRID
+D: She is totally alone in this, Damian, none of her friends are supporting her with
+N: this. She even told me I wasn’t her first choice. And it’s like her daughter doesn’t even exist.
+C: DAMIAN
+D: In the years I was with her, she never told me she had a daughter.
+C: INGRID
+D: It’s a very sad story, a terrible misunderstanding.
+C: DAMIAN
+D: Have you told her we’re in touch?
+C: INGRID
+D: No. We’ve talked about you… in a general sort of way. She has fond memories of you.
+N: She smiles thinking about sex between the two of them.
+C: DAMIAN
+D: Really? I’m glad. Our relationship was mostly physical. She was always about to go off somewhere else, that’s why our lovemaking had that sense of urgency. It was like having sex with a terrorist, it always felt like the last time.
+C: INGRID
+D: She rates you pretty highly as a lover.
+C: DAMIAN
+D: I’d like to know what rating you give me…
+E: Flattered
+N: They take their drinks and sit in the dining room, on a large couch that had a previous life, but it is still pretty and special.
+C: INGRID
+D: Damian, I can’t believe you’re still flirting with me.
+C: DAMIAN
+D: I’m serious.
+C: INGRID
+D: No, you’re not serious. What’s really serious here is Martha’s situation.
+C: DAMIAN
+D: And your being terrified of death? You’ve just published a book about that. Have you overcome that thanks to the book?
+C: INGRID
+D: No. 42. MARTHA’S APARTMENT. WASHINGTON SQUARE. INT. DAY 43. INGRID’S APARTMENT. LOWER EAST SIDE. INT. DAY. Martha is watering her plants in the terrace.
+C: INGRID
+D: Hi, how are you?
+C: MARTHA
+D: Better, much better since you said yes.
+N: Ingrid hears the sound of the street as Martha is out on her terrace, watering her plants.
+C: INGRID
+D: Where are you? Are you at home?
+C: MARTHA
+D: Yeah, I’m watering the plants. INGRID
+N: I thought you had someone who took care of that?
+C: MARTHA
+D: I do… but today I felt like doing it. And I’m enjoying it!
+C: INGRID
+D: Good… Have you decided where we’re going?
+C: MARTHA
+D: That’s why I called… It’s near Woodstock, about two hours from the city. The owners travel constantly and rent out the house to pay for their trips. It looks fantastic, it’s a bit expensive, but, hey, the occasion calls for it.
+N: Martha sounds very animated and in good humor, even excited at the approaching journey.
+C: INGRID
+D: How long do you… think… ?
+E: She doesn’t dare say that she still hasn’t finished unpacking and organizing her Lower East Side apartment.
+C: MARTHA
+D: I rented it for a month. That should give me more than enough time.
+C: INGRID
+D: A month?!
+E: She thinks it’s a lot
+N: She feels conflicted and doesn’t like that Damian is there to see it.
+C: MARTHA
+D: Yeah, my blood count’s low and I have to
+N: take a break before I start the new treatment. You are the only one who knows I’m not going back to the hospital. Ingrid looks at Damian, again she doesn’t know what to say. Will she ever get used to this kind of remark?
+C: MARTHA
+D: It’s not like I’ve picked a date, I mean… You’ll never know it anyway, but I’m ready to go. I would even say I’m impatient.
+E: CONT’D
+T: CUT TO:
+S: 44. INGRID’S APARTMENT. INT. DAY
+N: Ingrid tells Damian the name of the place where they’re going, near to (she says the name of a large city).
+C: DAMIAN
+D: Oh, I’m going to be giving a lecture near Woodstock, at Bard, in two weeks. Maybe we can see each other…
+C: INGRID
+D: I don’t think that’s a good idea. I’ll be with Martha the whole time… I’ll call you if I can.
+C: DAMIAN
+D: You’re going to need a lawyer.
+C: INGRID
+D: Yes… I should look for one.
+E: Dubious
+C: DAMIAN
+D: Let me take care of that. But I’ll have to fill them in.
+C: INGRID
+D: No. In that case, no. This is an absolute secret. She doesn’t even know I’ve told you.
+C: DAMIAN
+D: Okay, but if there’s anything you need , just let me know. I worry about you.
+C: INGRID
+D: Thank you.
+N: Ingrid is shocked, or maybe she responds to his gesture. She likes to count on Damian’s unexpected help.
+S: 45. THE CAR DRIVES ALONG SOME ROADS. EXT. DAY
+N: The two women are in a rental car. One of them has a purse.
+S: 46. CAR. INT. DAY
+N: The two women inside the car. Martha looks out the side window, as if saying goodbye to all that. Ingrid drives, serious. They listen to music.
+S: 47. HOUSE IN WOODS. EXT. DAY. NEW ENGLAND
+N: The car, driven by Ingrid, pulls up on the lawn in front of the house in the woods, from where we can see part of the structure. When Martha exits the car , she’s holding the keys in one hand and a map of the different rooms inside the house in the other. Ingrid has a couple of bags, one in each hand. She also carries a purse on her shoulder. The map allows her to situate the different rooms from the exterior. Preceding the two women are a set of granite steps.
+C: MARTHA
+D: According to the map, we go up these steps to enter the house.
+N: They climb the steps and maybe, fascinated by the grandioseness of the trees and the rest of the surroundings , they make some comment. Martha climbs, more by her sheer force of will to discover the house than her physical strength. She struggles to climb the stairs, but she’s happy.
+S: 48. HOUSE IN WOODS. INT. DAY
+N: From inside, we see them open the door and enter the house like two girls enchanted by a magical spell. Just off to the right of the entrance is the kitchen, where on the countertop of the island that separates the dining room an information sheet and a three ring binder or booklet welcome them. The kitchen window is huge and trapezoidal and faces the woods. Instead of walls, the house is built with massive glass windows, thick and all of them different, trapezoidal shapes of varying sizes. All the windows are covered by off white blinds. Across from the kitchen is a round dining room table and a pristine gray wall to wall cabinet off to the left. The cabinet has built in drawers and doors from top to bottom. On the table is a remote control (or perhaps by the three ring binder). Ingrid grabs the remote and her intuition tells her it’s for opening the blinds. Seen from the outside, through the kitchen window, both women seem to float among the different reflections. INGRID Look at that! The large blind before them begins its slow ascent, accompanied by a constant whirring. With the camera inside the house now, we move with them to discover the exterior views from each window as the blinds reveal the scene, each of them offset in time , and the trees around the house are revealed in a type of choreography that permits us to take in the spectacular view in a dynamic and fragmented way. (The house is truly in the middle of the woods). Off in the distance, a dark mountain and a blue springtime sky.
+C: INGRID
+D: Wow! It’s so beautiful!
+C: MARTHA
+D: It’s so much more beautiful than the photographs!
+E: Overwhelmed, remembering the reason why they’re there.
+N: The two women look around them, fascinated. On their way to the door that leads to the back yard , they come across a painting on the only visible wall. It’s a reproduction of the Edward Hopper painting, People in the Sun. Several individuals sunbathe, motionless, near to a house, of which we only see a small section of the facade. The individuals seem to have no relationship to one another. They are all sitting in wooden recliners with armrests. In front of them are yellow fields of wheat, and off in the distance we can see a low mountain range. The two women stop for a moment to look at the painting. MARTHA Is that a real Hopper?
+C: INGRID
+D: I don’t think they would have left it here. But it’s a very good copy, it looks real. 49. HOUSE IN WOODS. INT. DAY. From outside the house we see them step out onto the lawn and admire the trees, the sky and the infinite beyond as if it were the first time they were in contact with nature. Not far from the door that leads to the back lawn are two lounge chairs, separated by a small wooden table. The lounge chairs seem to be beckoning them. They he ar the different bird songs and the buzzing of bees.
+C: MARTHA
+D: Do you hear them?! How wonderful!
+N: Ingrid nods her head in affirmation, unable to speak. They look at the lounge chairs and each of them chooses one and lies down to check how comfortable they are.
+C: MARTHA
+D: We can also lie out here in the sun like in the Hopper painting. And catch the evening breeze.
+E: CONT’D
+N: The house is composed of various cubicles set in the side of a small slope in the middle of a forest. The different volumes are connected by short staircases that run between them throughout the house, and in this way the house is perfectly adapted to the terrain. Down below, from one side of the garden to the other, stretches a flat rectangular blue pool that sits so still that it reflects the distant mountain like a mirror embedded into the earth.
+T: CUT TO.
+S: 50. HALLWAY/MARTHA’S ROOM. INT. DAY.
+N: Martha and Ingrid walk down a hallway to the bedrooms. Martha opens a door when she gets to the end of the hall. It’s the master bedroom. Just like the house, just like the lounge chairs, it seems that the bedroom beckons her inside. She opens the door completely and steps inside to look around. Through the window, apart from the garden, she can see the pool, serene. Without a doubt, it’s her bedroom.
+C: MARTHA
+D: Do you mind if I take this one?
+C: INGRID
+D: No! Of course not. It’s your house.
+N: Ingrid looks inside a bedroom in the hallway, but it’s too small.
+C: INGRID
+D: Oh, this one’s a little small… I’m going to look downstairs.
+C: MARTHA
+D: Okay. 51. STAIRS / INGRID’S ROOM
+N: Ingrid walks down a spiral staircase with about twelve stairs that leads her to the bottom floor of the house. She opens a door. She likes the room. A few seconds later her head appears in a space at the bottom of the staircase, almost screaming:
+C: INGRID
+D: I’m going to take this one, okay?!
+E: From downstairs, yelling
+N: From where Ingrid’s standing , she can see Martha’s bedroom door is open. They holler back and forth at each other.
+C: MARTHA
+D: Very good!
+C: INGRID
+D: You don’t mind that I’m not in the room next door?
+C: MARTHA
+D: I can hear you breathe… And yell.
+T: CUT TO.
+S: 52. HOUSE IN WOODS. HALL / MARTHAS´S ROOM. INT. DAY
+N: Ingrid enters the house once again, carrying the two suitcases from the car. The rest of the luggage, maybe a bag or two, she’ll have brought up before. Both suitcases have wheels and she leaves one of them in Martha’s room. Martha’s still thrilled, but she’s lied down on the bed, exhausted from her earlier efforts. Ingrid walks down the three steps so that she’s level with the bed. She leaves the other suitcase in the hallway to take it down to her room afterwards.
+C: INGRID
+D: Let me help you unpack.
+C: MARTHA
+D: Thank you, I’ll unpack it later. You’re not my caretaker, Ingrid. You’re my guest.
+C: INGRID
+D: Okay, then I’ll unpack my things. 53. INGRID’S BEDROOM. HOUSE IN WOODS. INT. DAY Ingrid enters her bedroom. She opens her suitcase. She takes out a few of her things. She places her computer on a desk and some transparent folders with pages inside. Books. Various note blocks and writing materials.
+N: From the moment she stepped into the house , she's felt much better than during the trip up, and her fears and uncertainty from the previous days has all but disappeared. She has her half-unpacked suitcase on the bed when she hears noises coming from Martha’s room. Indistinct grumbling that turns into groans and full blown complaints coming from above.
+S: 54. HOUSE IN WOODS. MARTHA’S ROOM. INT. DAY
+N: She goes to Martha’s room and finds it in a mess, the contents of her suitcase and her bags scattered violently all around the room.
+C: INGRID
+D: What's wrong, honey?
+E: Scared
+C: MARTHA
+D: You won’t believe it…! INGRID
+E: Furious
+N: What? Martha gathers the little strength she has left to shout:
+C: MARTHA
+D: I forgot it!
+C: INGRID
+D: Forgot what?
+C: MARTHA
+D: The pill, the euthanasia pill! I brought all the others! We have to go back now.
+N: Ingrid tries to calm her down.
+C: INGRID
+D: Of course. We can go first thing in the morning.
+C: MARTHA
+D: No, not tomorrow. We have to go now!
+N: Ingrid looks at her, she can’t believe she’s serious.
+C: MARTHA
+D: I have to be sure that I didn’t lose it or misplace it, that I didn’t just dream it up!
+E: CONT’D A little beside herself
+C: INGRID
+D: Okay. Let’s go…
+N: Ingrid doesn’t dare object in such a state of tension, and in general Martha is much stronger than her.
+S: 55. HIGHWAYS. EXT. LATER THAN THE FIRST TIME.
+N: The car heads for New York, with the two friends inside, in silence. Martha starts to speak, more slowly, exhausted.
+C: MARTHA
+D: Buying another pill would be extremely complicated. I have a friend who knows a mathematician who found it on the Dark Web. It’s all very sordid, not to mention totally illegal. It’s scary knowing that all that exists, right behind our computer screens… I felt like a real criminal. 56. MARTHA’S APARTMENT. WASHINGTON SQUARE. NIGHTFALL. INT. They arrive at Martha’s apartment. They’re on the landing. They open the door and go inside. Martha looks around.
+C: MARTHA
+D: I never thought I’d be back here, that I’d see this wonderful skyline again. Life always surprises you.
+N: She turns to Ingrid.
+C: MARTHA
+D: Well, let’s get to work. I’ll start in the kitchen.
+C: INGRID
+D: Don’t worry. I’ll help you find it.
+N: She knows that it sounds like looking for a needle in a haystack. But she also knows that she can’t back out. Her friend needs her much more than she’d thought.
+C: INGRID
+D: Just think of the places where you usually hide things.
+C: MARTHA
+D: This is the first thing I’ve ever hidden. The only thing I remember is that I put it in an envelope.
+C: INGRID
+D: I’ll start in your office.
+N: Ingrid says this to fill the void… she could actually start anywhere.
+C: MARTHA
+D: Yes. Where did I put it?
+E: Distraught, to Ingrid Talking to herself, blaming her lack of memory
+N: Martha starts opening and rummaging through her kitchen drawers.
+S: 57. MARTHA’S OFFICE AND MARTHA’S BEDROOM. INT. DAY.
+N: Ingrid starts looking in all the places where she would have kept something like that. At the back of the closet drawers. In a toilet bag. In the office, she opens the closet. She finds several drawers, she opens one that has a key in the lock. Inside there are postcards, letters, mementoes, photos and two note books full of notes. Ingrid opens them and glances at them. Notes about different wars. An entire one about the war in the Balkans. She looks through them. The two volumes are written right to the last page. She’d like to sit down and read them, but she remembers that what she should be looking for is a pill. She looks in various places until she finds another drawer, also with a key in the lock. Among different objects and papers, there is an envelope that would seem to be deliberately sticking out from among the pile, so as to be found easily. There is just one word written on the envelope: Goodbye. From touch, the envelope seems only to contain a sheet of paper. By feeling , the surface of the envelope from one side to the other, Ingrid discovers that there is something tiny inside it, it could be a pill. She doesn’t dare open it to check the contents. She thinks for a moment that death weighs nothing, a few grams, what the envelope weighs. She’ll have to reflect in the future on this matter, the lightness of death. Ingrid finds Martha in her bedroom, with the bed covered by clothes, she’s been searching in the pockets. An image of great confusion. Ingrid looks at her in silence and wonders if that is going to be the tone of the trip. She thinks she may have been too hasty in saying yes to her friend. She is holding the envelope with something inside and hands it to Martha.
+C: INGRID
+D: I found an envelope.
+C: MARTHA
+D: That’s it!
+E: Excited
+N: She opens it anyway to make sure. Inside it, there is a folded sheet of paper, there’s nothing written on it. The pill is between the two halves.
+C: MARTHA
+D: Where did you find it?
+E: CONT’D Much calmer
+C: INGRID
+D: A drawer in your desk. The key was in the lock and I opened it.
+C: MARTHA
+D: How could I have forgotten it? I even left the key in it!?
+C: INGRID
+D: You were going to take it and, at the last minute, you forgot. It isn’t so unusual.
+C: MARTHA
+D: Thank you. 58. LIVING ROOM. INT. MARTHA’S APARTMENT. WASHINGTON SQUARE. The two women are standing in front of the terrace, looking out over the city.
+C: MARTHA
+D: What a strange sensation! It’s like being back at home after I’m dead.
+C: INGRID
+D: Don’t say that. It’s too soon for you to be referring to yourself as a ghost.
+N: Martha is amused by this remark.
+C: INGRID
+D: I’m going to straighten up… before we leave.
+E: CONT’D
+C: MARTHA
+D: Thank you.
+E: Looking at Ingrid, grateful
+N: All the fuss of the journey has left Martha exhausted. She sits in an armchair looking out at the terrace. In front of her, the day is fading behind New York’s sky scrapers.
+S: 59. HIGHWAY. EXT. NIGHT
+N: We see the car going in the opposite direction through the same place where we saw it when they were heading for New England, hours before.
+S: 60. HOUSE IN WOODS. NIGHT. EXT.
+N: Ingrid parks the car on the ground around the house again. 61. HOUSE IN WOODS. NIGHT. They come into the house. They are exhausted and carry some groceries with them. Enough for some dinner and breakfast the next morning.
+C: MARTHA
+D: Thank you, and forgive me for all this hassle. I’m so sorry, really.
+N: Ingrid gestures that it’s all right, even though she’s physically exhausted. They go into the kitchen.
+C: MARTHA
+D: What a great place to return to.
+T: CUT TO:
+S: 62. DINNER IN THE KITCHEN. HOUSE IN WOODS. INT. NIGHT
+N: It’s obvious that Martha isn’t hungry, she pretends to be eating, very slowly. At some point in the following conversation Ingrid gets up and goes over to the refrigerator, grabs a bottle of wine and serves herself a glass. Or she brings the bottle back to the table with her, and serves herself a glass there. This simple action will make the scene, which is too long for them to simply sit at the table, more dynamic and will allow me to play with different angles.
+C: INGRID
+D: Maybe leaving the pill behind… was a kind of sign? Maybe you’re not as ready as you think…
+C: MARTHA
+D: I told you to never say that to me.
+C: INGRID
+D: I don’t remember you telling me that.
+C: MARTHA
+D: I think I’ve told you so many things… That’s the problem with chemo brain.
+E: Exhausted
+N: Ingrid knows what she’s talking about, but she says nothing. She looks at her inquisitively.
+C: MARTHA
+D: My memory fails me and I get distracted so easily. It can continue even after the treatment stops and it can last for years. I’ll be spared that, at least. When I write … when I wrote… I had to proofread everything a
+E: CONT’D As if she were guilty
+N: thousand times. I can’t trust my judgement about anything anymore. Ingrid lets her breathe. She hesitates. She speaks with great tact.
+C: INGRID
+D: Then how can you trust this decision that has brought us here ? How do you know that isn’t also chemo brain too?
+N: With the following explanation, Martha makes it clear that she never wants to talk about it again and hopes that Ingrid understands and respects this.
+C: MARTHA
+D: I’ve left the pill in the top drawer of the bedside table. If I forget, which I don’t think I will, you will remind me. And I prefer to not talk about this anymore.
+E: Firm
+C: INGRID
+D: It concerns me too, don’t you think?
+N: Ingrid gets up and goes over to the refrigerator for another glass of wine.
+C: MARTHA
+D: Sure. Of course. I’ll leave a signed letter for the police telling them everything. Including the name of the pill and how I got it. Your name won’t appear anywhere. All you have to do is to say that you knew nothing, and
+E: She explains
+N: just don’t budge from that. I don’t want to give you any more information. The less you know, the better. And this is important. I’ll sleep with the door open. The day that you find it closed means that it’s already happened. That’s the sign : door closed. Ingrid looks at her, sad and frightened. Martha takes note.
+C: MARTHA
+D: I know it’s difficult. Just think we’re on vacation. You can write, we can come and go…
+E: CONT’D
+C: INGRID
+D: I don’t think I’ll be able to concentrate. And if I write about myself, you might show up somewhere… and I don’t want to do that.
+E: Somber
+C: MARTHA
+D: I don’t want that either. It would complicate your life if the police investigate…
+C: INGRID
+D: But I’m not going to do it.
+C: MARTHA
+D: Wait until I’m dead.
+N: Ingrid looks at her. She doesn’t like this part of the conversation and thinks it’s in bad taste to talk with a dying person about her own death, and writing about her once she’s dead. INGRID (Serious, upset) Can you not say “wait until I’m dead”? Please! Martha agrees with her friend.
+C: MARTHA
+D: I promise.
+E: Serious
+N: The two women relax. Ingrid eats a little.
+C: INGRID
+D: I’d like to find a gym to go to a couple times a week. I’m the only one of the two who eats and I don’t want to gain ten pounds while you waste away.
+C: MARTHA
+D: Give me a chance! I’ll catch up with you! Look at me! I'm eating.
+N: And she raises a carrot stick to her mouth, with a bit of hummus. Ingrid looks at her like someone seeing a spectacle. Again, she isn’t sure that she did the right thing in accompanying Martha on her journey towards death.
+S: 63. INGRID’S BEDROOM. HOUSE IN WOODS. INT. NIGHT.
+N: Ingrid comes into her bedroom. She finishes putting her things in the closet. She writes in a notebook.
+C: INGRID
+D: I’ve practically held death in my hands and I never imagined it would be something
+E: OFF
+N: so light.
+S: 64. HOUSE IN WOODS. MARTHA’S BEDROOM INT. NIGHT.
+N: The following alternates with the previous scene. Martha is lying on her bed, just before falling asleep. Her silhouette is cut out with the background woods that inundates the bedroom through the huge window. The blind is open: in the distance, dark trees silhouetted, and a corner of the illuminated swimming pool, bright and blue in the night. The mountain is almost black in the distance, and the sky, a little lighter than the mountain.
+T: FADE TO BLACK:
+S: 65. HOUSE IN WOODS. INGRID´S ROOM / STAIRS / KITCHEN. INT.
+C: DAY.
+D: The next morning, Ingrid comes out of her room. She starts to climb the stairs and looks at the door of Martha’s room with an uneasy expression. The door is open. She climbs the rest of the stairs that separate her from the bedroom.
+N: She knocks on the open door. She doesn’t get an answer. She looks inside, there’s no one there. She goes to the kitchen. She finds Martha there, making breakfast. She has chosen two mugs. She will always choose the same ones.
+C: MARTHA
+D: I’m making breakfast. Would you like some toast?
+C: INGRID
+D: Coffee first.
+C: MARTHA
+D: Help yourself. It’s already made. There’s cereal and juice as well. Whatever you want.
+N: The coffee pot is full. Ingrid pours a cup for herself.
+C: MARTHA
+D: If I get on your nerves, I could give you an oxycontin, but I don’t want you to get hooked.
+E: CONT’D
+C: INGRID
+D: What makes you think that I need one! The last thing I need is to be a drug addict!
+C: MARTHA
+D: My behavior yesterday was unacceptable. I completely understand that it drove you crazy. I’ll try not to let it happen again, but in my current state I can’t make any promises. So, just in case, I’ve left a medium range sedative, in this drawer. If you find me unbearable, you can take one and you can relax.
+C: INGRID
+D: I might take you up on that/I could have used one last night. You’re one of a kind, Martha. You really are.
+E: Smiling
+T: CUT TO:
+N: 66. HOUSE IN THE WOODS. GARDEN. ON THE LOUNGE CHAIRS. DAY. Martha is lying on one of the lounge chairs and Ingrid is sitting on the other lounge chair with a list of groceries in her hand.
+C: INGRID
+D: I’ve made a list of stuff to buy. We need a few things.
+N: She shows it to her.
+C: INGRID
+D: Is there anything you want me to get?
+E: CONT’D
+C: MARTHA
+D: I don’t think so.
+C: INGRID
+D: Do you want to come to the store with me?
+C: MARTHA
+D: Maybe another day. It feels so nice here, I think I’d like to stay. If you don’t mind…
+C: INGRID
+D: No, of course not. I also found a gym that isn’t too far away.
+C: MARTHA
+D: That’s great. I think it’s a very good idea.
+N: Ingrid gets up and gives Martha a kiss on the cheek.
+C: INGRID
+D: Okay… I’ll have my phone with me if you need anything…
+C: MARTHA
+D: Thanks, love.
+N: Ingrid exits.
+S: 67. GYM. INT. DAY.
+N: In the gym’s reception. Ingrid and the receptionist.
+C: INGRID
+D: Hello. I was hoping I could use the gym today.
+C: RECEPTIONIST
+D: Are you a member?
+C: INGRID
+D: No. I’m just in town for a little bit.
+C: RECEPTIONIST
+D: Well, if you use one of our personal trainers, you don’t need to be a member.
+C: INGRID
+D: Okay… I’ll use one of your trainers then.
+C: RECEPTIONIST
+D: You’ll like Jonah, you’ll see.
+C: INGRID
+D: Ok, thank you. 68. GYM ROOM. INT. DAY At least, they’re alone. Jonah, the trainer, is muscular and tattooed, as muscular as he is tattooed. Despite this, he has the sweetness of a choirboy. Not the slightest trace of toughness to accompany that amount of muscles and tattoos. He speaks to Ingrid frankly, but calling her “young lady”. Ingrid answers evasively to make it clear that she doesn’t like being called that.
+C: TRAINER
+D: So, would you like to start a warm up doing steps?
+C: INGRID
+D: Okay.
+C: TRAINER
+D: Okay, do you think you can do this for thirty seconds?
+E: Demonstrating the technique
+C: INGRID
+D: Sure.
+N: And she does them, ending up exhausted.
+C: TRAINER
+D: Nice! You’re pretty good, you young lady.
+E: Impressed
+C: INGRID
+D: What I am is winded.
+C: TRAINER
+D: There are other variations we can do, like this.
+E: He demonstrates the different versions.
+N: She inhales deeply to get her breath back. Suddenly, she remembers Martha and her expression changes. It’s as if a spear had been thrust into her chest.
+C: TRAINER
+D: Is everything okay?
+E: CONT’D
+C: INGRID
+D: When your body’s in great shape, it takes longer to die…
+E: Thinking aloud
+N: She has said it without looking at the trainer. To the young man’s amazement, she continues.
+C: INGRID
+D: When death comes, the mind wants to go while the body keeps fighting. The heart keeps saying “no” with every beat…
+E: CONT’D
+C: TRAINER
+D: All the more reason to look after yourself.
+C: INGRID
+D: I live with a friend who’s dying…
+C: TRAINER
+D: Oh, I’m sorry. Is there anything that I can do?
+E: Very affected
+N: Ingrid looks at him as if to say that, in those cases, words aren’t of much use.
+C: TRAINER
+D: Come, let’s sit down.
+E: CONT’D Suggesting
+N: They sit together on a mat.
+C: TRAINER
+D: I wish I could give you a hug. But we’re not allowed to touch clients anymore, because of lawsuits and whatever. And it’s a problem, because it can be hard to correct people’s posture with just words. And touching is so important.
+E: CONT’D With genuine empathy
+C: INGRID
+D: This world is absurd and inhumane. I
+E: Sad
+N: don’t see it improving any time soon. But thank you, I feel hugged. She smiles at him with moist eyes. 69. A BOOKSTORE. TOWN. NEW ENGLAND Ingrid and Martha in a very alternative bookstore. A big one. They move down an elevated corridor surrounded by books. Martha stops in front of one and takes out a voluminous book called Erotic Vagrancy about Elizabeth Taylor and Richard Burton.
+C: MARTHA
+D: Oh, look at that. Oh, I´ve been meaning to read this book… What a wonderful title! Erotic Vagrancy…
+C: INGRID
+D: Do you want to buy it?
+N: The book looks like it has more than a thousand pages. She smiles, nonchalantly…
+C: MARTHA
+D: I won’t have time to finish it.
+E: Putting back the book
+N: Ingrid still hasn’t gotten used to those kinds of comments. She looks at her friend, affected, but by now Martha’s spontaneity is becoming somewhat contagious. Ingrid takes the book for herself.
+T: CUT TO.
+N: In another corner of the bookstore, a section dedicated to war journals and books about war.
+C: MARTHA
+D: Oh, look. Martha Gellhorn. The View from the Ground.
+E: She reads
+N: Martha takes the book, almost tenderly.
+C: MARTHA
+D: She wrote you can only love one war, afterwards you simply do your duty.
+N: Ingrid takes the book out of Martha’s hands. She’s intending to buy it.
+C: INGRID
+D: Which one was yours?
+N: Next to them are two or three plastic boxes piled up, and a ladder. Martha sits down on the boxes or the ladder.
+S: 70. BOOKSTORE. INT. DAY
+C: MARTHA
+D: Bosnia, without a doubt. The fight to survive by the Bosnian people against a perfectly equipped army stole the hearts of all of us who witnessed the extermination.
+N: Ingrid watches and listens to her closely.
+S: 71. BOOKSTORE. INT. DAY
+N: They walk towards the cash register. Martha continues talking.
+C: MARTHA
+D: There are very few women war correspondents. War is a man’s thing. You have to sort of become one of the guys . It was never problem for me , I’ve always lived like a man… Actually, I think… what Michelle really missed… was having a maternal figure in her life… And have to admit… that she was right.
+N: She says these last words in a sad tone.
+C: INGRID
+D: Don’t be so hard on yourself. CUT TO: 72. BOOKSTORE. AT THE TILL. INT. DAY Suddenly, Martha discovers a little poster, less than 50cm, announcing a lecture by Damian Cunningham. She changes her tone, she finally finds someone about whom to be ironic.
+C: MARTHA
+D: Hey! Look who’s coming to town! The life of the party! How bad can it get ? Navigating urban life with integrity…
+E: CONT’D Reading the poster
+N: Cunningham is actually coming to a neighboring town, to one of the public university campuses.
+C: MARTHA
+D: …You feel like going?
+E: CONT’D
+C: INGRID
+D: No… You know what? I´ve heard it already… and it isn’t an evening I’d like to repeat… We all have our own personal apocalypses.
+C: MARTHA
+D: Are you having an awful time with me?
+E: Worried
+C: INGRID
+D: No! I mean him, his lecture. Global crises, the climate change … Hi…
+E: To the cashier
+N: Each one lays down her books on the counter, at the register. Martha has chosen a novel by the Nobel Laureate Annie Ernaux. Ingrid places the Martha Gellhorn and Erotic Vagrancy books on the counter. Martha looks up and says to the young man at the cash register who smiles at them charmingly…
+C: MARTHA
+D: I love your hair.
+C: CASHIER
+D: Nice…
+T: CUT TO.
+S: 73. IN THE STREET. EXT. DAY. NEW ENGLAND
+N: Inside the car, Martha opens her bag and takes out a patch and places it on her chest, just below her shoulder. Ingrid is driving. MARTHA When the nightmares come rushing in… I think about the men I’ve loved…
+C: INGRID
+D: Sounds like a song.
+C: MARTHA
+D: A good one… even if it was just for one night… Sometimes I think about Damian.
+N: Ingrid is surprised by this mention.
+C: MARTHA
+D: I still think sex is the best way to fend off looming thoughts of death. Like those Spanish Carmelites. Wars turned me into a promiscuous woman, Ingrid.
+C: INGRID
+D: Good.
+N: They smile.
+C: MARTHA
+D: Are you still in touch with him?
+C: INGRID
+D: With who?
+C: MARTHA
+D: With Damian.
+C: INGRID
+D: I mean… from time to time.
+E: Lying
+C: MARTHA
+D: How bad can it get? Well, much worse than you imagine, Damian honey.
+E: She wonders
+N: Ingrid takes refuge in silence. She doesn’t know what to add.
+T: CUT TO.
+S: 74. HOUSE IN THE WOODS. STUDY. INT. NIGHT.
+N: Martha is sitting at her desk. Her computer is turned on. At one side is the book by Annie Ernaux that she bought, but she isn’t doing anything, she isn’t reading the book or the computer screen, she’s motionless, the prisoner perhaps of a paralyzing thought. Ingrid appears at the door. She is surprised by her friend’s stillness, her head erect.
+C: INGRID
+D: Are you all right?
+C: MARTHA
+D: I was trying to write… but I can’t… In this war I’m incapable of writing anything.
+N: Martha is melancholic. Ingrid comes into the room. She has a mug of tea in her hands. She sits or lies down next to the window.
+C: INGRID
+D: And reading? You love to read. You've always been a voracious reader.
+N: There are several books in the bedroom, as well as Ernaux’s. The owners’ books.
+C: MARTHA
+D: I’ve tried it, tried it with some of my favorite writers… but the spell just isn’t there anymore. I’m talking about Faulkner, Hemingway… But I can’t concentrate… my
+N: mind just flies off into the void.
+C: INGRID
+D: If you’re too tired, I can read to you.
+N: As if she hasn’t heard her.
+C: MARTHA
+D: It’s not just reading, all pleasure’s been reduced. It’s hard to know what I should pay attention to anymore… because I have very little time and I don’t want to waste it.
+C: INGRID
+D: What about music?
+C: MARTHA
+D: I can only listen to the birds singing.
+C: INGRID
+D: Well, luckily they give us a serenade every day.
+C: MARTHA
+D: Music decenters me, it comes between me and what I’m doing at that moment, even if it’s just thinking. Maybe the chemo is affecting my hearing.
+C: INGRID
+D: Oh, honey.
+N: Ingrid goes over and puts her arms around her. Martha finds consolation in Ingrid’s embrace, but she continues in the same line.
+C: MARTHA
+D: I’ve been reduced to very little of myself. I just long to have some peace of
+N: body and mind… and to talk when I’m invaded by memories. Am I talking too much?
+C: INGRID
+D: Talk all you want, I love listening to you.
+T: CUT TO.
+N: 75. INGRID’S BEDROOM. DAWN. Ingrid wakes. The day still hasn’t dawned or it is starting to dawn. Even so, she gets up. She goes to the stairs that separate her from the first floor. By only climbing three steps, she can see the door of Martha’s room above. It is closed. (She thinks to herself that it had to happen that night. She should have understood that the conversation with Martha the night before was indicative. She’s reproaches herself for not having said anything to her friend.) That was the sign. She goes up the two flights of stairs (about nine steps) and stands motionless at the door of Martha’s room, breathing unsteadily. She doesn’t know what to do. Queasy, she goes to the kitchen and vomits into the sink. She pours herself a glass of water. But the panic is so bad she can’t drink it. She sits at the table and goes to pieces. She tries time and again to order her thoughts, but it’s useless. She searches in a drawer where there are vitamins and also tranquilizers. She remembers that Martha put them there. She takes a tranquilizer with water and sits down again to order her thoughts. We hear the blackbirds announcing the dawn. 76. HOUSE IN THE WOODS. DAWN. She goes out to the garden to listen to the birds. And she contemplates a magnificent dawn, telling herself that Martha won’t be able to contemplate the new sun, and she starts to cry.
+S: 77. HOUSE IN THE WOODS. INT./EXT. DAWN.
+N: Martha walks through the three modules inside the house, like a ghost, and stops just behind Ingrid. She sees her crying on a lounger in the garden. They are separated by the glass. She taps on the glass to get her attention. Ingrid turns to look into the house, her eyes filled with tears. In the next sentences they understand even though they don’t fully hear each other. One is inside and the other outside. (Pending rehearsal with the actresses.)
+C: MARTHA
+D: What are you doing up? What’s wrong?
+C: INGRID
+D: Your door was closed. I thought you…
+C: MARTHA
+D: Oh, I’m so sorry… I opened the window and the breeze must have closed the door.
+N: Martha, going over to her, before she hugs her. Furious, Ingrid, breaks free of Martha, who’s trying to give her a hug.
+C: INGRID
+D: I threw up. Oh my God.
+N: Ingrid enters the house. 78. INSIDE THE HOUSE IN THE WOODS. DAWN. The space is invaded by dawn light. From inside, we see Ingrid arrive at the kitchen and exit frame to go clean the kitchen sink. Martha follows her, almost enjoying the fury of her friend.
+C: MARTHA
+D: Do you think it's fair to be angry with me because I’m still alive?
+N: While Ingrid cleans up the vomit, Martha goes down the stairs into the kitchen, opposite Ingrid, on the other side of the counter. She insists in taking the edge off the situation.
+C: MARTHA
+D: Take it as a rehearsal. Now you know how it's going to be. This is how you're going to feel. You'll have to make some calls and act out everything we talked about. You don't know anything. We were on vacation.
+E: CONT’D
+C: INGRID
+D: Please… don't. Stop!
+E: Scolding her
+C: MARTHA
+D: Okay.
+N: Martha nods. 79. LIVING ROOM. IN FRONT OF THE TELEVISION. NIGHT. The two are sitting, very close to each other. They are watching something on the big screen. Martha has taken an opiate, OxyContin. She’s a bit groggy. On the television screen, Buster Keaton running down a hill, dodging an avalanche of stones, trying to get his wife, drunk and unconscious, into bed. Fleeing from a police patrol, getting tangled up in the ropes of a boxing ring, trying get his wife, drunk and unconscious, into bed (laughter), being threatened by men much stronger than him, adoring a very large brown cow and being adored by it, trying get his wife, drunk and unconscious, into bed. Buster Keaton falls, time and again, the bed collapses under the weight of his drunk, unconscious wife. The film is called The Great Buster and is signed by Peter Bogdanovich. Martha smiles sweetly, Ingrid laughs honestly and at the same time feels infinite tenderness towards her friend. She hugs her, their two faces close together, while Buster Keaton continues doing extraordinary things on the television screen.
+T: CUT TO:
+S: 80. IT IS EARLY MORNING. HOUSE IN THE WOODS. INT.
+N: There are the remains of food on the table, something that Ingrid has eaten. There are other DVD cases on the table as well. They have done a movie marathon. Time has passed. Ingrid is putting away another movie they’ve seen. Letter from an Unknown Woman, crouching by the DVD player…
+C: INGRID
+D: So, should we call it a night, or does the ‘young lady’ want to keep watching movies?
+C: MARTHA
+D: Did you tell me they had The Dead... or did I dream that? INGRID
+E: Still a little out of it
+N: (Getting up) Yeah. They have it. Do you want to watch it?
+C: MARTHA
+D: Yes… please…
+N: Ingrid gets up and takes the DVD from the bookcase. We see the case of the DVD and Ingrid’s hand selecting among the other DVD’s.
+T: By cut. DISSOLVE TO:
+N: 81. FRAGMENT OF JOHN H0USTON’S FILM. THE END OF THE DEAD. Angelica Huston has just told her husband, at the foot of the bed, looking through the window at the falling snow, the story of an adolescent love who died from having waited uselessly in the garden of her house while it was snowing. An off screen voice, her husband’s, reflects on this and on the place where they live in Ireland. With the off screen voice the places the character mentions appear.
+C: HUSBAND
+D: Yes, the newspapers were right. Snow was falling on every part of the dark central plain, on the treeless hills, falling softly on the Bog of Allen and, farther westward, softly falling into the dark mutinous Shannon waves. One by one, we’re all becoming shades.
+E: OFF
+N: Ingrid, emotional, contemplates the screen, with Martha asleep on her shoulder. She looks at her, perhaps Martha can hear through dreams what the melancholic husband says in Huston’s film.
+C: HUSBAND
+D: The snow is falling, falling on the lonely churchyard where Michael Furey lies buried, falling faintly through the universe and faintly falling, like the descent of their last end, upon all the living and the dead.
+E: OFF
+N: With her eyes half closed, Martha murmurs: upon all the living and the dead. She is sleepy, the final words of The Dead meld with the chirping of the birds at dawn. On the television screen, the snow is still falling over the background of an intense nocturnal blue.
+S: 82. HOUSE IN THE WOODS. INT. DAWN.
+N: Day is breaking over the house in the woods, light starts to define the contours of the window and the door that looks out on the garden. It gives the impression that the snow from The Dead is also falling faintly on them, on the face of Martha, sleeping on Ingrid’s breast, and that the snow, as happened in the hospital, receives the light of dawn (then it was nightfall). Martha wakes up slowly. From where they are sitting, they hear the trills of the birds announcing a new day. Martha listens to them in wonder.
+C: MARTHA
+D: Do you hear them?
+N: Ingrid’s eyes are tear -filled, at both the ending of the film and the situation they’re going through.
+C: INGRID
+D: Yes. It’s daytime. And you’re alive. 83. INGRID’S ROOM. INT. NIGHT It is still night, it will soon be dawn. Ingrid wakes. On the night stand is a book she’s reading. And another one. There’s a glass of water, or a bottle. There’s also the cultural supplement of The New York Times, or a copy of The New Yorker on the ground, on the rug. She turns on the light. She looks at the time on her phone, which sits on the nightstand. 84. CONTINUOUS She climbs the stairs to Martha’s room. The door is open. 85. MARTHA’S ROOM Ingrid moves closer and looks at her friend in bed. She’s motionless. She gets into bed and lies down with her. Without waking, Martha smiles when she senses the warmth of Ingrid’s body next to hers. 86. HOUSE IN THE WOODS. WOODS. EXT. DAY. Martha and Ingrid walk through the woods that surround the house. Martha gets tired and has to stop. She lies down letting herself sink into the ground. Ingrid sits next to her. Maybe she asks her if she’s okay.
+C: MARTHA
+D: This is too much… harder than I thought it would be. I need to sit.
+E: catching her breath
+C: INGRID
+D: Here, let me help you.
+N: Martha half collapses and sits on the ground, lying back. Ingrid helps her down.
+C: MARTHA
+D: Ahhh. Much better.
+E: CONT’D Exhales
+N: When Martha manages to control her breathing, she says:
+C: MARTHA
+D: Before coming out here I made a new will.
+E: CONT’D
+C: INGRID
+D: Let’s not talk about this now.
+C: MARTHA
+D: I’m leaving the apartment and everything in it to Michelle and you.
+C: INGRID
+D: I found your war journals at the house. What do you want us to do with them? Is it okay if I read them?
+E: Pause
+C: MARTHA
+D: Of course you can read them.
+C: INGRID
+D: Can I tell your story?
+C: MARTHA
+D: You can do what you want. I won’t be here. Can I say that?
+C: INGRID
+D: No.
+C: MARTHA
+D: Okay.
+S: 87. IN THE MORNING. INGRID’S STUDY. INT. DAY
+N: Ingrid is in her study. Her computer is open and she’s on the phone, whispering. She’s talking to Damian.
+C: INGRID
+D: Let’s not talk about this now, okay? I’ll meet you there.
+T: CUT TO:
+S: 88. HOUSE IN THE WOODS. MARTHA’S ROOM. INT. DAY.
+N: Martha has the door to her study open; her computer is on. Ingrid is dressed and carries a sports bag. Martha, writes in one of her notebooks… “Dear Ingrid , Today is such a beautiful day that it seemed…” She hears Ingrid’s steps on the stairs approaching her door. She stops writing and places the book she was reading over the block of notes, covering her goodbye letter. Outside it’s a beautiful day. Martha looks in good spirits.
+C: MARTHA
+D: Hey.
+C: INGRID
+D: Hi. Everything okay?
+C: MARTHA
+D: Yeah. This breeze is delicious…
+E: Smiling
+N: Between the open window/door that looks out on the garden and the open door of the bedroom there is a slight breeze.
+C: INGRID
+D: Be careful, it’s a little chilly…
+N: Martha looks round at her and smiles, as if telling her that the cold can’t do anything to her now.
+C: INGRID
+D: So, if you don’t need me, I’m going to go to the gym… But I can stay if you want.
+N: Martha is relaxed.
+C: MARTHA
+D: No. Please, go out. I don’t wanna be a downer.
+C: INGRID
+D: You’re not a downer. You’ve been pretty well behaved.
+E: Fondly
+C: MARTHA
+D: Have you talked to your trainer about me?
+C: INGRID
+D: It came up. I told him about being in good shape, when the body keeps fighting to survive… what you told me in the hospital. He looked at me like I was a lunatic, so I told him I had a friend who was sick. That’s all.
+C: MARTHA
+D: Remember you know nothing about anything.
+N: Ingrid nods sadly.
+C: MARTHA
+D: Come here, give me a kiss.
+N: Ingrid comes over. And she gives her a kiss on the cheek. Martha holds her head with one hand so that the kiss lasts an instant longer.
+C: INGRID
+D: Are you okay?
+C: MARTHA
+D: Yes.
+N: Ingrid and Martha say goodbye to each other, and Ingrid exits. 89. AREA AROUND A RESTAURANT. Ingrid comes into a restaurant, by a lake. A distinctive, open place. She finds her ex, Damian Cunningham, waiting for her at a table. They greet each other with a kiss and they sit down.
+T: CUT TO:
+S: 90. RESTAURANT. INT. DAY.
+N: There is food and drink on the table. Ingrid is worried.
+C: INGRID
+D: I lied to her. And I don’t like it.
+C: DAMIAN
+D: Well, you’ll have to practice.
+C: INGRID
+D: Lying?
+C: DAMIAN
+D: Yes. Officially you aren’t aware of Martha’s intentions.
+C: INGRID
+D: Yeah.
+C: DAMIAN
+D: You should write a kind of script for yourself and stick to it. I could help you. And I’ve found a lawyer, in case you need one.
+C: INGRID
+D: Thank you. Let’s not talk about it now. How did your lecture go?
+C: DAMIAN
+D: Well, they weren’t too happy about my not taking questions. In the end, people started muttering, and someone called me a coward. But it doesn’t bother me, I’ve spent way too much time caring about my reputation, and for what?
+C: INGRID
+D: So what are you doing with all that time you’ve gotten back? Are you doing more of what you like?
+N: In the first part of the conversation Ingrid is still upset by the image of her friend when she said goodbye to her in the bedroom. 91. RESTAURANT. DAY.
+C: DAMIAN
+D: I must admit that my interest in things has been shrinking as I get older.
+C: INGRID
+D: Martha said the same thing a couple days ago… there are so few things left that she can really enjoy.
+N: She says it with real sadness, because she does still enjoy reading, music, art, cinema.
+C: DAMIAN
+D: I understand her.
+C: INGRID
+D: Yeah, but you’re not sick.
+C: DAMIAN
+D: No, but I feel the same way, especially after the pandemic. I don’t go to the cinema, or listen to music… I read a lot, but only subjects to do with my lectures…
+C: INGRID
+D: Don't you go to galleries? You used to love that. When we were together we'd talk about the power of art. Are you interested in that at least?
+C: DAMIAN
+D: Even if every poet in the world sat down to write a poem about the climate crisis, it wouldn’t save one tree.
+C: INGRID
+D: Well, at least you’re interested in the trees…
+C: DAMIAN
+D: I’m interested in sex too.
+C: INGRID
+D: Then you’re not so bad.
+C: DAMIAN
+D: Yes, I am. I think a lot about sex, but I don’t have it as much as I’d like. When I was young, if a day went by without sex, I thought it was incomplete…
+E: With a gesture of grief
+C: INGRID
+D: Yes, I remember that…
+E: With a smile
+C: DAMIAN
+D: I’m not nostalgic, but I miss the nights when we’d drink, take drugs and have sex, and all that didn’t distract us from what we really wanted to do…
+C: INGRID
+D: You drank and you took drugs. Well, more than I did anyway.
+C: DAMIAN
+D: I don’t know how much you drank but you always acted like you were as blitzed as the rest of us, but you were always an essential part of the party. That is, until you got bored and went off to discover Europe. Do you want us to talk about that?
+C: INGRID
+D: No…. Tell me about your lecture.
+C: DAMIAN
+D: I admit that I’ve become something of a monomaniac… My own son is barely speaking to me because I didn’t hide how appalled I was that his wife was expecting another child. He doesn’t want me anywhere near her for fear she’ll have a miscarriage.
+C: INGRID
+D: How could you tell him that they shouldn’t have another child!
+E: Reproachfully
+C: DAMIAN
+D: It’s their third!
+C: INGRID
+D: Well, so what would the next logical step
+N: be? For people to start killing themselves?
+C: DAMIAN
+D: People should be aware, once and for all, of the state of the fucking planet they’re living on! … Perhaps this isn’t the best subject for you. You’re living with a dying woman, in a world that also agonizes.
+E: Changing his tone
+C: INGRID
+D: You really think the situation’s that desperate?
+N: She says it like a scared child.
+C: DAMIAN
+D: Yes. Yes, I do. Read the science and then see what the world is doing with it… They’re releasing more CO2 into the air than ever before. Sooner or later, and I fear it will be sooner , one day all this will be shot to hell. And nothing’s going to hasten the end of the planet more than the survival of neo -liberalism and the rise of the far right. And we have both of them here, marching side by side… I’m sorry, I didn’t want to bring you down, but I get riled up with all this.
+E: He looks at Ingrid, worried
+C: INGRID
+D: You cannot go around saying there’s no hope.
+E: Upset
+C: DAMIAN
+D: It’s tragic and I guess it’s very
+N: unpleasant of me to say so, but I have completely lost faith in people doing the right thing.
+C: INGRID
+D: I’m living expecting to find Martha’s body in her bed any day. But that doesn’t stop me from enjoying every minute with her, just the opposite. I’m learning that from her and you should too… There are lots of ways to live inside of tragedy. Of course it’s painful, it’s very painful but I've accepted it. I’m living each moment with the same joy she does, and with the same appreciation. The last thing I need is to hear a speech like yours.
+N: Pause. Damian is struck by Ingrid’s natural goodness. By what he has just heard.
+C: DAMIAN
+D: I’ve always admired you for that…
+N: Ingrid looks at him, disconcerted.
+C: INGRID
+D: What?
+C: DAMIAN
+D: You’re one of the only people who knows how to suffer without making others feel guilty about it. 92. HOUSE IN THE WOODS. BATHROOM. INT. DAY
+N: Martha is in the bathroom applying some subtle make -up. With a little make -up, she manages to improve her appearance considerably. She is still a beautiful woman.
+T: CUT TO:
+N: 93. CONTINUOUS. KITCHEN. Martha’s wearing a men’s yellow suit that fits her perfectly without losing an iota of femininity. She looks like she’s ready for a party. She enters the kitchen, opens the faucet and serves herself a glass of water.
+S: 94. THEY WALK NEXT TO A LAKE. EXT. DAY
+N: A splendid sunny day.
+C: DAMIAN
+D: Do you think it will be much longer?
+C: INGRID
+D: No, it’ll be soon. Any day now…
+N: Suddenly, the idea that it could be happening at that moment disturbs her.
+C: DAMIAN
+D: You have to be prepared. I know the police. They’ll ask you all sorts of questions, they’ll dig in your relationship like scavengers. You need a kind of mental script.
+C: INGRID
+D: I do have one. I’ve thought about it.
+C: DAMIAN
+D: Stick to it, and keep repeating the same
+N: thing. Ingrid nods.
+C: DAMIAN
+D: And when it happens, you should call the police before you call me.
+C: INGRID
+D: I need to call her daughter. I should call her before I call you.
+C: DAMIAN
+D: All right, but be careful what you say to her. I had to tell the lawyer about the situation.
+N: Ingrid isn’t sure that so much anticipation is necessary.
+C: INGRID
+D: Why do we have to go through all this, like we were criminals? Shouldn’t dying people have the right to end their lives with dignity?!
+C: DAMIAN
+D: They will, once our teetering health system completely collapses. 95. INGRID’S CAR ARRIVES AT THE FRONT DOOR OF THE HOUSE IN THE
+C: WOODS.
+D: Ingrid parks where she usually does and goes up to the house. She opens the door. Since half way through the meal, she has had an odd premonition. 96. HOUSE IN THE WOODS. INT. DAY
+N: Once inside, she goes to Martha’s room. The door is closed. Ingrid senses that what had to happen has now happened. She doesn’t even call out to her. Or perhaps she does, she whispers Martha’s name, which sounds like a prayer.
+C: INGRID
+D: Martha…?
+N: She doesn’t know what to do. Again, stupefaction, but she remembers that it’s very important to do things properly. Martha expects it of her. 97. CONTINUOUS. She slowly opens the door of Martha’s room. And she goes in. To her surprise, Martha isn’t inside. Martha’s body isn’t in the bedroom. Ingrid, puzzled, walks around the room, the bathroom. She is tempted to look under the bed. She doesn’t understand what’s happening. She looks at the narrow table, where she finds two envelopes. On one of the envelopes it says “Ingrid”. On the other one it says “Police”. Ingrid exits the room holding the envelope. We start to hear the contents of the letter in a voice over. 98. CONTINUOUS
+C: MARTHA
+D: Dear Ingrid, today is such a beautiful day that it seemed to me it was the moment to leave. It consoled me that you weren’t in the room downstairs, even though that was the idea. But you know I always improvise and I’m almost happy that, while I fade away on the lounger, you’re out in the
+E: V.O.
+N: world, experiencing something different to my death. No one will be able to accuse you of complicity. You have accompanied me as much as any human being can accompany another. The days we’ve spent together have been like a love story. Remember me like this. Call my daughter and tell her I’m sorry. And thank you, love. Now it is Ingrid who seems like a ghost, moving across the interior of the house, looking left and right. Before arriving to the door that leads to the garden she looks up at the trees that extend out to the horizon. Did Martha choose to die in contact with nature? Surrounded by trees? She looks down at the lounge chairs which they lay in, taking in the evening breeze. She looks at one of the tables with a half empty glass of water on it. Martha, dressed in a yellow suit and wearing make-up, is lying on the lounge chair next to the table. The thick glass of the large trapezoidal window separates them. Martha’s expression is serene. She looks like she’s asleep. Ingrid exits the house and approaches and contemplates Martha. She doesn’t venture to touch her. She’s still carrying her purse. THE FOLLOWING IS AN ALTERNATIVE I WOULD LIKE TO TRY: Ingrid looks at Martha and begins to speak with her, emotional but serene. Ingrid has just received the most important lesson of her entire life, recognizing and accepting death as it presents itself. She’s standing before a beautifully dead Martha, whom she finds the strength and courage to address.
+C: INGRID
+D: Oh, Martha… I’ll do everything as you said.
+N: She takes out her phone. She has to make a few phone calls. Everything just as Martha had planned.
+T: Fade to black.
+S: 99. POLICE STATION. QUESTIONING ROOM. INT. DAY.
+N: The place is very simple, it looks like a storage room with a metal table that feels like it was just placed there happenstance with two chairs, facing each other. What little furniture there is follows no logic. An inhospitable place. Bare walls. The room has a metal storage shelf three feet high. Sitting, without saying a word, there is another officer. The room is like a box, there isn’t a single window. A very intimidating place. Ingrid is being questioned by a hostile policeman, maybe of Irish descent. There’s a camera in a corner of the ceiling. The policeman is keeping up appearances but, under his professional coldness, Ingrid senses that he’s judging and condemning her. Ingrid is tormented by grief, but she takes a deep breath and gathers her strength. She thinks of Martha and that fortifies her. It’s the second time he’s asked her the same questions.
+C: POLICEMAN
+D: What did you do the night before?
+C: INGRID
+D: We had dinner, and then we watched a Buster Keaton movie. I told you all of this already.
+C: POLICEMAN
+D: You didn’t notice anything strange, anything that made you suspect? Try to remember.
+C: INGRID
+D: I remember it perfectly, it was a fun night…
+N: She says it in a sad tone and remembers the real night, when they saw the Buster Keaton film.
+C: POLICEMAN
+D: No gestures…? Nothing she said?
+C: INGRID
+D: We said goodnight. And then I went upstairs and I stayed up late reading a book that Martha had recommended… it’s called Erotic Vagrancy … It’s about Elizabeth Taylor and Richard Burton. Do you know it?
+C: POLICEMAN
+D: No.
+C: INGRID
+D: Martha and I both thought it was a lot of fun.
+C: POLICEMAN
+D: Try to answer only the questions I ask you…
+E: Annoyed
+N: They exchange hostile looks.
+C: POLICEMAN
+D: What did you do the following morning?
+E: CONT’D
+C: INGRID
+D: I had lunch with a friend… And then , when I came back, I called out to her, and when she didn’t answer , I went straight to her bedroom, but she wasn’t there. So I went out to the back yard, and that’s when I saw her. At first, I thought she’d fallen asleep on the lounge chair… I got very nervous. I called the ambulance… They came pretty quickly and, when the EMTs saw her , they said there was nothing they could do.
+N: Ingrid runs out of strength with the story.
+C: INGRID
+D: About what?
+C: POLICEMAN
+D: About her being in possession of this illegal compound.
+C: INGRID
+D: No… I mean… I know she was taking medication for the pain, but she never shared specifics with me…
+C: POLICEMAN
+D: Nobody buys this pill by accident unless they’re thinking of suicide or killing someone.
+N: Ingrid doesn’t say anything.
+C: POLICEMAN
+D: So… it is strange, if the two of you were
+E: CONT’D
+N: such good friends, that she didn’t say anything to you. Nobody can just walk into a drugstore and buy this pill. It’s very difficult to come by. Ingrid makes a gesture of not knowing.
+C: POLICEMAN
+D: I think that when she rented the house, she already knew what she was going to do… right?
+E: CONT’D
+C: INGRID
+D: It’s very possible, but she didn’t tell me about it. She was exhausted from the last treatment, and she wanted to take a month off before going back for the next round of chemo… Martha wasn’t the type to throw in the towel.
+C: POLICEMAN
+D: She didn’t complain? She didn’t say anything that made you sense… the end? It’s a great responsibility for you.
+C: INGRID
+D: She complained, sometimes…
+C: POLICEMAN
+D: What did she complain about? What did she say?
+C: INGRID
+D: She’d lost the capacity for attention, she couldn’t read or write… for example. Her life had been reduced to surviving…
+E: With a great effort
+N: This information, so important at a human level, doesn’t interest the policeman. He thinks that, somehow, Ingrid is getting out of answering his questions by telling him the opposite of what he expects.
+C: POLICEMAN
+D: I find it very hard to believe she didn’t say anything… that made you suspect the end.
+E: Fed up
+C: INGRID
+D: It was more than evident that she was very sick, but Martha wanted to go on vacation before going back to the hospital… I told you this already.
+N: Ingrid is tired. He speaks harshly to her.
+C: POLICEMAN
+D: We’ve also spoken to some of Martha’s close friends. In general, they all coincide with your testimony, but one of them, Stella Byrne, told us that after Martha finished her chemotherapy, she proposed accompanying her to a house in the country where she intended to commit suicide. Asked her to, and I quote, “be in the room next door”. And her friend refused.
+N: Ingrid is taken by surprise when he mentions Stella.
+C: INGRID
+D: I wasn’t in the room next door, I was in the
+E: Steadfast, no longer hiding her anger
+N: room downstairs. As if he hadn’t even heard her:
+C: POLICEMAN
+D: When I spoke to Mrs. Byrne and informed her of the suicide, she told me she wasn’t surprised.
+N: Ingrid looks at him, furious. And murmurs:
+C: INGRID
+D: There’s another word for Martha's death. It’s called euthanasia.
+C: POLICEMAN
+D: Call it what you want, but for me what your friend did is a crime, and as a policeman, and as a human being, and as a man of faith , I’m radically opposed to anyone committing a crime, and of course, anyone aiding and abetting in one. 100. CONTINUOUS. With a stony expression, Ingrid takes her phone out of her purse. Without consulting the policeman, she calls Damian. The policeman doesn’t dare interrupt, as he’s stunned by her attitude.
+C: INGRID
+D: Damian… could you come down to the police station, please? This is endless.
+C: POLICEMAN
+D: How do you explain that your friend Martha
+N: was so explicit with Mrs. Byrne and yet she didn’t tell you anything about her intentions?
+C: INGRID
+D: I’m not going to say another word. If I’m under arrest, tell me what the charges are… If not, I prefer to wait outside for my lawyer.
+C: POLICEMAN
+D: Very foresighted of you! What made you think you’d need a lawyer?
+N: Ingrid stands up, hardened, unworried. She feels Martha inspiring her and giving her newfound strength.
+C: INGRID
+D: Ask your colleague, he witnessed the interrogation.
+N: Ingrid looked at the assistant policeman reminding him that, indeed, he has witnessed the other policeman’s excesses. The assistant looks at her, surprised, he wasn’t expecting to be included.
+C: POLICEMAN
+D: I think you’re lying. And that you’re the kind of person who wouldn’t say no if a friend asked you for help committing suicide.
+N: Ingrid heads for the door. The police second police officer gestures to the first “what do I do?”. POLICEMAN Let her go. The second policeman opens the door and Ingrid leaves the interrogation room.
+S: 101. POLICE STATION. MAIN CORRIDOR. INT. – DAY
+N: Ingrid appears in a large central corridor, with the walls covered in corporative photos and insignias. She recovers her breath. She sits on a wooden bench. Next to the photos and various shields hung on the wall, standing out in a large frame is the motto “Honor, Integrity, Pride”. This motto is repeated in various parts of the corridor. Next to the bench there is a display window with memorabilia from the police corps. All kinds of objects, from a folded jacket, guns, various laminated press articles, and red plastic sirens.
+T: CUT TO:
+S: 102. CORRIDOR, POLICE STATION. INT. DAY
+N: Damian arrives, accompanied by a lawyer. They find Ingrid in the corridor, sitting on the wooden bench. As soon as she sees them, she gets up and goes over to them. Damian hugs her and introduces the lawyer. Ingrid is upset, after the difficult encounter with the policeman, but she doesn’t seem fragile. Martha’s transmitted her strength.
+C: DAMIAN
+D: Hi, are you ok? This is my lawyer, Sarah.
+E: Presenting the lawyer
+N: Sarah tries to set Ingrid at ease.
+C: LAWYER
+D: Damian’s filled me in. Is there anything I should know about the interrogation?
+C: INGRID
+D: He treated me like I was the killer.
+E: Indignant
+C: DAMIAN
+D: But you were with me!
+C: INGRID
+D: He doesn’t care… He insists that I’m implicated. He spoke to a friend of Martha’s, Stella Byrne, who had refused to help her…
+E: to the lawyer
+C: LAWYER
+D: Okay… well , I’m sure everything was recorded…
+E: Caught off guard
+C: INGRID
+D: Yes… And this police officer witnessed everything.
+E: she points to the assistant who is coming towards them
+C: ASSISTANT
+D: You can come in now.
+E: Approaching them, to Ingrid
+C: LAWYER
+D: I’ll go in alone. I’m her attorney. Don’t worry, this is all very clear. 103. STREET POLICE STATION. EXT. DAY Ingrid, Damian and the lawyer walk out of the police station. LAWYER
+E: To Ingrid
+N: (To Ingrid) Jesus! What an asshole! I’ve never been treated like that before! You were unlucky to come up against a religious fanatic… Anyway, he’s not going to bother you again. I’m going to file a complaint.
+C: INGRID
+D: Thank you so much.
+C: LAWYER
+D: You still have to be available for the next forty-eight hours, until the forensic formalities are done. I told them to call me if necessary.
+C: INGRID
+D: I’ll be at the house. Do you have all the information you need?
+C: LAWYER
+D: Yes, Damian gave it to me. I’m going to head back to the office… just… call me if you need anything… I’m really sorry for your loss.
+E: she shakes Ingrid's hand
+C: INGRID
+D: Thank you.
+E: Shaking her hand
+C: DAMIAN
+D: Thank you, Sarah.
+E: Shaking her hand
+N: Sarah exits.
+T: CUT TO:
+S: 104. POLICE PARKING LOT. EXT.
+C: INGRID
+D: I can’t believe that Stella
+E: To Damian
+N: told him that!
+C: DAMIAN
+D: He probably cornered her. And they have Martha’s computer, and her cell phone. Do you know if they talked?
+C: INGRID
+D: Not that I know, she didn’t tell me anything.
+N: Ingrid takes a deep breath, as if she has just awakened from a nightmare.
+C: DAMIAN
+D: What do you want to do?
+C: INGRID
+D: I need to go back to the house. I still have to pack up Martha’s things.
+N: Her phone rings. It’s Michelle, Martha’s daughter. Ingrid looks first at the caller ID. She looks at Damian. We don’t hear the voice of the person calling, but it really shocks Ingrid when she answers.
+C: INGRID
+D: Yes, speaking. It’s Michelle…
+E: To Damian
+C: DAMIAN
+D: Martha’s daughter.
+C: INGRID
+D: Yes… Of course you can come… I’m headed there now… I’ll text you the address… See you soon.
+N: Ingrid is nervous and thrilled at the idea of meeting Michelle. Damian and Ingrid say their goodbyes with a hug and a kiss. Ingrid looks at him, grateful.
+C: DAMIAN
+D: Well, I’m headed back to the city… Let me know when you’re back and I’ll help you with your move.
+C: INGRID
+D: Thank you for everything. I’ll call you.
+E: Sincere
+N: Damian stands next to Ingrid’s car while she opens the door and gets in. She starts the engine.
+S: 105. HOUSE IN THE WOODS. NEW ENGLAND. EXT. DAY.
+N: Ingrid parks the rental car where she usually does. She’s left the door open to a walkway we never see. Outside the gate , she hears a car stop for a few seconds and then drive away. Ingrid gets out of her car and walks halfway down the driveway where she meets Michelle, who is coming towards her. Michelle is the spitting image of Martha twenty years younger, and with a different hairdo. She’s tall and thin like Martha. Both women greet each other. Ingrid doesn’t try to hide her emotion.
+C: MICHELLE
+D: Hello, I’m Michelle.
+C: INGRID
+D: I’m Ingrid.
+N: Ingrid gets teary-eyed. Michelle smiles. She likes Ingrid.
+C: INGRID
+D: Let’s go inside. 106. HOUSE IN THE WOODS. INTERIOR AND EXTERIOR. DAY The two women go into the house, they look around as if the house were a living person. Michelle admires the architecture and the woods that surround the house.
+N: Ingrid points to Martha’s room, the door is open. She is still emotional, but she covers it well. To Michelle:
+C: INGRID
+D: Do you want to see your mother’s room?
+C: MICHELLE
+D: Yes, please.
+N: Michelle goes into her mother’s room. She stops to see the bed and goes down the three steps. Ingrid looks at Michelle and her shadow on the red door of Martha’s room and, emotional, continues looking at the shadow which disappears into the bedroom.
+T: CUT TO:
+S: 107. KITCHEN. HOUSE IN THE WOODS. INT. DAY.
+N: Ingrid starts to boil water to make coffee. She takes out two mugs and some cookies, as she did with Martha, and fills them with coffee. One of the mugs is the one Martha used. Michelle comes into the kitchen.
+C: INGRID
+D: I made some coffee.
+C: MICHELLE
+D: Thank you.
+N: Of the two mugs, Michelle chooses the one that her mother used before. Maybe they feel her, while they drink.
+C: MICHELLE
+D: Did she tell you about me?
+C: INGRID
+D: Of course she did. And she told me that you were very upset about not having met your father.
+C: INGRID
+D: So, she told you about my father?
+C: INGRID
+D: She did.
+C: MICHELLE
+D: Don’t you think she should have helped him when he came back from the war?
+N: It’s a question she would have liked to ask her mother, or perhaps she did so.
+C: INGRID
+D: She helped him as best she could. Your father came back badly damaged. He wanted to live in another city and start a new life. His plans didn’t include Martha or you.
+N: Michelle listens carefully, receptive.
+C: INGRID
+D: And your mother accepted the end of their relationship. She just saw him in such a bad way that she kissed him to give him some peace. And that kiss turned into something more. You are the fruit of that moment.
+E: CONT’D
+N: Michelle listens very closely to her and remains silent. Obviously she’d never looked at the situation from that angle. And her early hostility prevented her mother telling her about it in any detail.
+C: MICHELLE
+D: My mother never told me anything about that.
+E: Puzzled
+C: INGRID
+D: It is a difficult thing to explain to a child.
+C: MICHELLE
+D: She could have done it later.
+E: Without bitterness
+C: INGRID
+D: By then you were so estranged that it wasn't possible anymore. Your mother was a teenager and she had a life to live… And your father went to San Diego and he made no effort to know you.
+T: CUT TO:
+N: Michelle and Ingrid are sitting at the table. Michelle is eating some cookies.
+C: MICHELLE
+D: So, Ingrid, do you think I was totally mistaken about Martha?
+C: INGRID
+D: You were very unfair, but no one can blame you for wanting to know who your father was… It’s a very sad story… very painful for both of you.
+N: Michelle nods her head. Her attitude has changed. She is an adult who admits that she was mistaken all her childhood. She looks at Ingrid, grateful.
+C: INGRID
+D: Don’t be too hard on yourself… Martha wasn’t a perfect mother.
+C: MICHELLE
+D: No, she wasn’t… Can I stay here tonight?
+E: Without resentment
+C: INGRID
+D: Of course! This is your mother’s house.
+T: CUT TO:
+S: 108. INGRID’S OFFICE. INT. NIGHT
+N: Ingrid turns on her computer and starts writing. “Dear Martha, I thought you’d like to know I have come back to the house in the woods to gather up your things. Your daughter came to see me, I’m still shaking, she looks so like you. She asked me if she could stay and sleep in your bed, and of course I said yes. I think your death has brought her closer to you. I never thought I’d inherit her, even if it’s just for a day. The house is filled with you. When I came in after talking to the police, the first thing I saw was the door of your room… and it was open. And I said to myself, “she’s alive”. 109. HOUSE IN THE WOODS. IN ONE OF THE OFFICES. DAWN. The dawn surprises Ingrid still writing on her computer. She hears in the distance the first trills of the birds. She has been awake all night. She has a mug of coffee beside her, on the desk. Suddenly, she hears noises. She looks up from the text she’s writing and her eyes shine. The noises are coming from Martha’s room. Michelle walks around the living room like a ghost. She’s wearing one of the gowns Martha used to wear. She has the same hairstyle. Ingrid sees her in the reflection of her office window. For Ingrid, it’s a vision, a mirage. She stands motionless, expectant. The woman in the nightdress walks to the door leading to the garden and opens it. The birds can now be heard singing more loudly when the door opens. Ingrid walks over in her direction.
+S: 110. GARDEN. FACING THE WOODS. EXT. DAWN.
+N: When Ingrid exits the house into the garden , she’s hypersensitive and finding Michelle wearing Martha’s clothes and sitting on the lounger listening to the birds sing like Martha used to do heightens that emotion. She lays on the other lounger like she used to do with her friend. Ingrid’s emotion will grow subtly from here. It’s a genuine emotion, simple, without any added agitation or melodrama, that will culminate with the falling snow.
+C: MICHELLE
+D: I came out to listen to the birds…
+C: INGRID
+D: Your mother would come out like this, at dawn, and lie right there, to listen to them too.
+N: Michelle looks at her, slightly affected by Ingrid’s emotional state. She has the sensation that she’ll be able to ask Ingrid everything she never asked her mother. Ingrid is going to become, in a very non obvious way, the mother she never had. Michelle is a living replica of Martha, but it is Ingrid who will end up transforming into Martha… she has inherited her strength, as she’s demonstrated in her tough encounter with the police officer. It suddenly starts to snow. Ingrid looks on, marveled by the miraculous sight.
+C: MICHELLE
+D: Look, it’s snowing.
+N: (This sounds the same as when Martha said it in the hospital. Before the two women we see the miraculous snow falling on the trees in the forest, over the house and on them. In this moment is when Ingrid is most clearly Martha, or a mixture of herself and Martha. With tears burning her eyes , she murmurs with the same rhythm Martha did it in the hospital, and then again while lying in Ingrid’s lap in the living room of the house while they watched The Dead, like a prayer, what the falling snow provoked in her. They are not James Joyce’s words, but they should sound the same and invoke the same sentiment, even more intense perhaps, as Ingrid is talking about her magical time with Martha in the house in the woods, and is sitting next to a daughter identical to Martha, who is also fascinated and moved by the emotion.)
+C: INGRID
+D: The snow is falling… It’s falling on the lonely pool we never used… It’s falling on the woods where we walked and you lay exhausted on the ground. Falling on your daughter and on me, falling upon the living and the dead.
+E: Her eyes filled with tears
+N: Ingrid is crying, softly, releasing. Michelle looks at her, curious, also emotional. She doesn’t understand why Ingrid is crying, but she senses it… or at least she doesn’t find it strange. And without even realizing, she begins to love Ingrid. The end.

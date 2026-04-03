@@ -1,0 +1,1824 @@
+M: SEARCH
+M: Written by
+M: Aneesh Chaganty & Sev Ohanian
+M: Current:
+M: PINK Rev. - NOVEMBER 4, 2016
+M: Previous:
+M: Production WHITE - OCTOBER 25, 2016
+M: BLUE Rev. - NOVEMBER 1, 2016
+M: The following takes place entirely on computer screens.
+M: We hear OLD MACHINERY WAKING UP. BEEPING. A FAN HUMMING. Then-
+M: DESKTOP - OLD FAMILY COMPUTER
+M: The iconic “rolling hills” wallpaper of a WINDOWS XP
+M: operating system loads first. Then come the icons. Then-
+M: The CURSOR moves haphazardly, CLICKING buttons and SELECTING
+M: empty spaces like it’s never operated a computer before.
+M: But as we watch the cursor slowly CREATE a “New Account” for
+M: “MARGOT” and ACTIVATE the webcam to upload a profile picture,
+M: we realize why its user is behaving so clumsily.
+S: INT. DAVID’S LIVING ROOM - DAY (WEBCAM FOOTAGE)
+N: 0.01 0.01 Because staring back at us with a toothless grin, and sitting between her parents DAVID and PAM... is YOUNG MARGOT KIM (5).
+C: YOUNG MARGOT
+D: Cheese! The webcam SNAPS a picture, and we’re off to the races. LOGIN SCREEN - OLD FAMILY COMPUTER
+C: CUE OPENING MONTAGE.
+D: Gliding over the icons for “David” and “Margot,” the cursor CLICKS on the icon for “Pam.” Suddenly we’re looking at- INT. DAVID’S LIVING ROOM - DAY
+E: DESKTOP PHOTO
+C: A.01 A.01
+D: Pam and Margot sit on the floor. Margot plays on a keyboard.
+C: DESKTOP
+D: A calendar notification pops up: “Kindergarten Day 1.” Then-
+C: FILE UPLOAD PROGRAM
+D: A family selfie is uploaded to the computer. In it: EXT. KINDERGARTEN - DAY 0.02 0.02 Margot, David and Pam stand by a school awning. Margot grips her backpack and WAILS while David and Pam hold back laughter.
+E: KINDERGARTEN SELFIE
+C: DESKTOP
+D: Pam CREATES a folder called “FIRST DAYS OF SCHOOL” and DROPS the selfie into it. Then she OPENS-
+C: INTERNET EXPLORER
+D: -where an old DIAL-UP bar slows everything down. But then- YOUTUBE - INTERNET EXPLORER Pam glides across YouTube’s front page and CLICKS “Upload.” CLOSE ON AN UPLOAD BAR FILLING. Suddenly, we’re looking at- 0.03 0.03 INT. DAVID’S LIVING ROOM - DAY 0.04 0.04 Pam teaches Margot on the keyboard. YOUTUBE - INTERNET EXPLORER The video is titled: “Margot’s First Lesson.”
+E: HOME VIDEO
+C: DESKTOP
+D: A calendar notification pops up: “1st Grade Day 1.” Then-
+C: FILE UPLOAD PROGRAM
+D: The second family selfie is uploaded to the computer. In it: EXT. ELEMENTARY SCHOOL - DAY 0.05 0.05 Margot is upset. David and Pam make funny faces to the camera.
+E: 1ST GRADE SELFIE
+C: DESKTOP
+D: The photo is DROPPED into the “FIRST DAYS OF SCHOOL” folder.
+C: LOGIN SCREEN
+D: The cursor CLICKS on the profile icon for “David” and- HOTMAIL - INTERNET EXPLORER David emails Pam: “I know it's gonna be a long work trip, but
+C: I
+D: promise I'll finally take you on a date when I get back-” Suddenly, David stops. DELETE. Then: “Wanna go out tonight?"
+C: FILE UPLOAD PROGRAM
+D: A blurry photo is uploaded to the home computer. In it- INT. FANCY RESTAURANT - NIGHT 0.06 0.06 David and Pam smile for the camera, their lips wine-stained.
+E: PHOTO
+C: GOOGLE SHOPPING
+D: Pam types in: “spinet piano” into the prompt and is met with expensive results. So she filters by: “Price, Low to High.” INT. DAVID’S LIVING ROOM - DAY
+E: HOME VIDEO
+C: B.06 B.06
+D: Recorded by David, Pam teaches Margot on their spinet piano. Suddenly, RING. A Skype notification appears on screen and- INT. DAVID’S LIVING ROOM - DAY 0.07 0.07 Margot, covering her eyes on Pam’s lap, skypes with David as- INT. NARITA INTERNATIONAL AIRPORT - DAY 0.08 0.08 David pulls out a Pikachu stuffed doll from OFFSCREEN and-
+E: SKYPE FOOTAGE SKYPE FOOTAGE
+C: DAVID
+D: --And open. INTERCUT DAVID/PAM’S SKYPE CALL
+C: DAVID
+D: Tada!
+C: YOUNG MARGOT
+D: What’s that?
+C: DAVID
+D: ‘What’s that?’ Pikachu? You don’t know Pikachu?! Unacceptable.
+C: DESKTOP
+D: A calendar notification pops up: “Dr. Lanza Check In.” Then- YAHOO MAIL - INTERNET EXPLORER Pam's cursor hovers nervously over an empty inbox until suddenly, one arrives from Dr. Lanza: "Follow-Up Results.” CLICK. And then Pam HIGHLIGHTS phrases: "we'd like to see you again..." "...at your earliest" "...bone marrow examination."
+C: DESKTOP
+D: A calendar notification pops up: “2nd Grade Day 1.” Then-
+C: FILE UPLOAD PROGRAM
+D: The second family selfie is uploaded to the computer. In it: EXT. ELEMENTARY SCHOOL - DAY 0.09 0.09 In a Pikachu shirt, YOUNG MARGOT acts upset. David and Pam make goofy faces.
+E: 2ND GRADE SELFIE 7
+C: LOGIN SCREEN
+D: The cursor CLICKS on the profile icon for “Margot” and-
+C: INTERNET EXPLORER
+D: Margot NAVIGATES to “addictinggames.com” and- ADDICTINGGAMES.COM - INTERNET EXPLORER Exploring the page, Margot finally CLICKS on a shady thumbnail for a game when suddenly, POP-UPS EVERYWHERE.
+C: LOGIN SCREEN
+D: The cursor CLICKS on the profile icon for “David” and-
+C: DESKTOP
+D: David INSTALLS Norton Anti-Virus.
+C: LOGIN SCREEN
+D: The cursor CLICKS on the profile icon for “Mom” and- GOOGLE - INTERNET EXPLORER Pam searches: “myeloid lymphoma treatment” INT. DAVID’S LIVING ROOM - DAY 0.10 0.10 Margot plays piano by herself, while Pam watches next to her. SILICON VALLEY HERALD - INTERNET EXPLORER The article date: “October 2008.” Headline: “MARKET CRASH.” CA.GOV - INTERNET EXPLORER David FILES for unemployment- MONSTER.COM - INTERNET EXPLORER -Then scours job postings, before landing on one for: “Systems Admin, Appensure Inc.” Beat. David CLICKS “Share Posting” and- HOTMAIL - INTERNET EXPLORER He drafts an email to Pam: “...It would be a step down in terms of ‘status’ but... I don’t know...” CUT TO: One unread email from Pam. David OPENS it. Next to a photo of Margot, he reads: “As long as you can take care of this human, who cares what your business card says?”
+E: HOME VIDEO
+C: LOGIN SCREEN
+D: The cursor CLICKS on the profile icon for “Pam” and-
+C: DESKTOP
+D: A calendar notification pops up: “Dr. Lanza Check In.” Then- INT. PAM’S BATHROOM - DAY 0.11 0.11 A photo loads. With a big smile, Pam flexes. Then we WIDEN to- YAHOO MAIL - INTERNET EXPLORER The photo is in an email. Subject: “REMISSION BABYYYYYYYYYYY” EXT. JOGGING PATH - DAY 0.12 0.12 David records a selfie video, running alongside Pam.
+E: PHOTO HOME VIDEO
+C: DAVID
+D: Vlog 3.7. Have reason to believe my wife is a robot. Can run for miles, seemingly without needing oxygen-- Pam makes a face to the CAMERA, full of energy. Blue Rev. 5. EXT. ELEMENTARY SCHOOL - DAY 0.13 0.13 Pam, YOUNG MARGOT , and David all make silly faces.
+E: out-of-breath 11/01/16 4TH GRADE SELFIE 9
+C: LOGIN SCREEN
+D: The cursor CLICKS on the profile icon for “Margot” and- FACEBOOK - INTERNET EXPLORER Margot LOGS ONTO her Facebook and POSTS a picture. The photo’s caption: “is gonna get straight teeth .” INT. MARGOT’S BEDROOM - DAY 0.14 0.14 Margot flashes her new braces to the CAMERA.
+E: eventually PHOTO
+C: SCARY MAZE GAME
+D: The cursor carefully NAVIGATES the game, when suddenly-
+C: DAVID
+D: I don’t get what I should be-- The EXORCIST GIRL pops-up and-- INT. DAVID’S LIVING ROOM - NIGHT 0.15 0.15 --David SCREAMS. Pam and Margot crack up from behind him.
+E: O.S. WEBCAM FOOTAGE
+C: DAVID
+D: That’s it, everybody’s grounded! But then we WIDEN to reveal, the video is being PLAYED on- YOUTUBE - INTERNET EXPLORER The video’s title: “SCARY MAZE REACTION - DAD.”
+C: LOGIN SCREEN
+D: Back on XP, The cursor CLICKS on the icon for “Pam” and-
+C: CALENDAR
+D: Pam ADDS: “Elementary School Talent Show” to her calendar and- INT. DAVID’S LIVING ROOM - DAY 0.16 0.16 Pam teaches Margot more aggressively.
+E: HOME VIDEO
+C: PAM
+D: Slow down. Easy. Last bars and- INT. AUDITORIUM - ELEMENTARY SCHOOL - DAY 0.17 0.17 Margot finishes playing her song. She bows. The audience claps, but Pam and David GO NUTS.
+E: HOME VIDEO
+C: YAHOO MAIL
+D: An email appears in Pam’s inbox. It’s from Dr. Lanza, titled: “Follow-Up Results.” CLICK. Inside the lengthy email, Pam HIGHLIGHTS one word: “relapse.”
+C: LOGIN SCREEN
+D: The cursor CLICKS on the profile icon for “Margot” and-
+C: AIM GROUP CHAT BOX
+D: Margot chats with her friends, all gossiping about boys. Then- Margot’s Friend: what about u mar? Margot’s Friend: becky told me Margot’s Friend: that Marvin has a crush on u :)
+C: LOGIN SCREEN
+D: The cursor CLICKS on the profile icon for “David” and- GOOGLE - INTERNET EXPLORER David types in: “how to talk to your kid about-” before backspacing and typing: “birds and the bees.”
+C: LOGIN SCREEN
+D: The cursor CLICKS on the profile icon for “Pam” and- GOOGLE - INTERNET EXPLORER The cursor types in: “what is c-” when a drop-down list of options appear and Pam clicks: “what is chemotherapy like?” EXT. SUNWOOD MIDDLE SCHOOL - DAY 0.18 0.18 Pam, Margot, and David make goofy faces. Pam looks tired.
+E: 7TH GRADE SELFIE
+C: DESKTOP
+D: The photo is DROPPED into the “FIRST DAYS OF SCHOOL” folder. EXT. JOGGING PATH - DAY 0.19 0.19 David records a selfie video, running alongside Pam.
+E: HOME VIDEO
+C: DAVID
+D: Vlog 6.7. Don’t think I can keep running, but I’m gonna. I’m gonna- Behind him, we see Pam stop and lean over. Breathing heavily.
+C: DAVID
+D: --Pam?
+E: CONT’D
+C: LOGIN SCREEN
+D: The cursor CLICKS on the profile icon for “Margot” and- FACEBOOK - INTERNET EXPLORER On Margot’s account, the cursor blinks before finally typing: “Today was scary. But Mom’s still smiling :) -- Feeling Relieved at Emergency Room, Kaiser Permanente.”
+C: LOGIN SCREEN
+D: The cursor CLICKS on the profile icon for “David” and-
+C: CALENDAR
+D: David sets an event one week from the present day: “Pam’s Estimated Hospital Leave.”
+C: DESKTOP
+D: A calendar notification pops up: “8th Grade Day 1.” Then-
+C: FILE UPLOAD PROGRAM
+D: The family selfie is uploaded to the computer. In it: INT. HOSPITAL - DAY 0.20 0.20 David and YOUNG MARGOT , with a backpack, surround Pam in her hospital bed. They’re all still making goofy faces.
+E: 8TH GRADE SELFIE 13
+C: DESKTOP
+D: The photo is DROPPED into the “FIRST DAYS OF SCHOOL” folder. Blue Rev. 8.
+E: 11/01/16
+C: HOTMAIL
+D: Blue Rev. 8A. A new email appears. It’s from “Peter Kim.” CLICK. In it: “If you need any help...” “groceries, anything...” “ “I haven’t been a great brother” “I can take Margot off your hands for a night?” “Maybe a Fins game?” EXT. HOCKEY ARENA 0.21 0.21 A photo loads: PETER, in a Fins jersey, and Margot smile. Margot less than Peter. Snapchat caption: “Go Fins!!!”
+E: 11/01/16 PHOTO
+C: CALENDAR
+D: “Pam’s Estimated Hospital Leave” is moved to a month later. INT. HOSPITAL - DAY 0.22 0.22 Pam and David fall asleep on the hospital bed, holding hands.
+E: HOME VIDEO
+C: CALENDAR
+D: The cursor RIGHT-CLICKS on “Pam’s Estimated Hospital Leave.” And then DELETES the entire calendar event. INT. HOSPITAL - DAY 0.23 0.23 Sitting on Pam’s hospital bed, Margot plays from the first toy keyboard Pam got her. Pam is happy. Really, really happy. I/E. SERIES OF PAM’S PHOTOS 0.24 0.24 Pam smiles. Pam laughs. Pam is strong. Pam is healthy. We STICK on the final image. Suddenly, a CURSOR grabs it and-
+E: HOME VIDEO PHOTOS
+C: MICROSOFT WORD
+D: -places it in a document full of text. Below the photo: “NAM ‘PAMELA’ KIM ” David’s cursor hovers for a long time over the photo of his wife. But then, finally, he selects “PRINT.” And then-
+E: 1971 - 2015
+C: DESKTOP
+D: A calendar notification pops up: “High School Day 1.” Then- INT. EVERCREEK HIGH SCHOOL - DAY 0.25 0.25 The 9th grade selfie loads. But it’s just Margot and David.
+E: 9TH GRADE SELFIE
+C: END OPENING MONTAGE.
+D: OMITTED1 1 TEXT MESSAGE APP - 2 YEARS LATER CLOSE ON a BLINKING CURSOR. Until suddenly, words are typed. What did you forget? No response. We then reveal the recipient of the texts: “MARGOT KIM,” now a 16-year-old high school student. Then- Ummm... you tell me? It’s Thursday night... What happens every Thursday morning? David backspaces his text as we CUT TO AN ECU of David’s CURSOR. It clicks on the FaceTime Video icon and through the display that suddenly appears, we see- INT. DAVID’S KITCHEN - EVENING A1 A1 David, in a work polo, waits for his daughter to pick up when- INT. ABBY’S STAIRCASE - EVENING B1 B1 Margot does. She scurries to a hallway and-
+E: FACETIME VIDEO FACETIME VIDEO
+C: MARGOT
+D: Why are you Facetiming me? INTERCUT DAVID/MARGOT’S FACETIME VIDEO CALLC1 C1
+C: DAVID
+D: I’m gonna show you what you forgot... so you’ll remember. Pink Rev. 10.
+E: 11/04/16
+C: MARGOT
+D: You know you can just send me a picture, right? David steps out of the frame to reveal an overflowing trash can behind him. Margot now knows exactly what she forgot.
+C: MARGOT
+D: Oh. Shit.
+E: CONT’D
+C: DAVID
+D: Next time, I’m taking the bag into your room and leaving it there.
+C: MARGOT
+D: I’m sorry, Dad. *
+C: DAVID
+D: And watch the language. Suddenly, we hear GIRLS’ LAUGHTER from the room adjacent to the hallway. Margot looks over, thinks and then-
+C: MARGOT
+D: I have to go. We still have like 500 more chapters in bio to study.
+E: to David
+C: DAVID
+D: When do you think you’ll be done?
+C: MARGOT
+D: Um... We’re gonna be here all night.
+C: DAVID
+D: You know you can have these study groups at our place if you want. I’m a good host. I can make muddy buddies for everyone.
+C: MARGOT
+D: Abby’s allergic to peanuts.
+C: DAVID
+D: We can leave out the peanuts.
+C: MARGOT
+D: Well, this house is central to everyone’s.
+C: DAVID
+D: You’re in public school. Every house is central to everyone’s. Pink Rev. 11. Margot puts on a smile. *
+E: 11/04/16
+C: MARGOT
+D: You’re right. I’ll bring it up for * next time. *
+C: DAVID
+D: Great! Great. Also, I was meaning * to ask you about the final you-- * AANK. Margot disappears from the feed, replaced by the words: “POOR CONNECTION.” David looks at himself and-
+C: DAVID
+D: ...Took today. DING. A text from “Margot Kim.” Sorry wifi is terrible here David’s cursor opens iMessage and we- INTERCUT DAVID’S FACETIME WINDOW AND IMESSAGED1 D1 No problem. Was about to ask how did the final go today? Fine. Even if I bombed it, Mr. Lee wouldn’t let me fail. He said I was his favorite student. By a lot. I doubt you bombed it. You work hard. And I’m proud of you for that. David pauses, then slowly starts to type: Mom would be too. He backspaces. Then tries again. I know Mom would be too. He highlights the text. Deletes it. Quits the app and- Pink Rev. 12. DESKTOP - DAVID’S PERSONAL LAPTOP - NIGHT An hour later, David OPENS his web browser, TRAVELS to- YOUTUBE - GOOGLE CHROME -and starts to stream relaxing music. While it plays in the BG, David VISITS- TECHCRUNCH - GOOGLE CHROME -where he scans industry updates, OPENING each interesting link in its own tab. Then he OPENS- GMAIL - GOOGLE CHROME -where he CLICKS on an email from a “Dr. Vadlamani, MD” titled: “Follow-Up Recommendation.” In it- The doctor suggests that David reconsider switching to therapy from psychiatry. But David isn’t interested. Instead- He scrolls past the lengthy recommendation before landing on the part he is looking for: “...But should you decide to continue down the current path, I recommend Trazodone.” GOOGLE - GOOGLE CHROME David googles “trazadone” and learns that one of the anti depressant’s main functions is alleviating sleeplessness when- GMAIL - GOOGLE CHROME David types a response to the psychiatrist's email: “Thanks for all this advice. Trazodone sounds perfect” when- RING. An “incoming FaceTime Video call” notification slides * onto the screen. On it, a contact photo of a man we recognize from the opening montage. Wearing a San Jose Fins hockey jersey, “PETER KIM” is calling. David CLICKS ANSWER and- INT. PETER’S KITCHEN - EVENING We’re looking at a BUBBLING POT. Food’s cooking. But...
+E: CONT’D to himself 11/04/16 FACETIME VIDEO
+C: DAVID
+D: ...Uh. What am I looking at?
+C: PETER
+D: Exactly. Pink Rev. 13. The CAMERA FLIPS over to reveal Peter, in his trademark San Jose Fins tee, flashing his mug. This guy’s cool.
+E: O.S 11/04/16
+C: PETER
+D: I can’t remember the name of this * thing. It’s like a Kimchee, okra, * mussels stew. Pam used to make it? * INT. DAVID’S BEDROOM - EVENING 3 3 David, now in his night attire, realizes and-
+E: CONT’D FACETIME VIDEO
+C: DAVID
+D: --Oh, the kimchee gumbo. INTERCUT PETER/DAVID’S FACETIME VIDEO CALL4 4
+C: PETER
+D: Gumbo. That’s it. Peter SETS THE CAMERA DOWN and-
+C: PETER
+D: Do you have her recipe? I’m * definitely forgetting something.
+E: CONT’D
+C: DAVID
+D: I might. But I can definitely tell you there’s no pot in it. * Peter stops stirring. He tracks David’s eyes right back to * the glass jar of weed... that’s sitting right next to him. *
+C: PETER
+D: Oh, this is oregano. Totally herbal * and organic. * Beat. Peter puts the jar away. David watches until- *
+C: DAVID
+D: --How much are you doing this * stuff, man? Is this an every day * thing? It’s really not healthy to-- * PETER * --Dude? I had a long day. * Beat. David backs off and-- * DAVID * Edamame. You’re forgetting edamame. * Pink Rev. 14. David OPENS his Finder and we- * INTERCUT PETER/DAVID’S FACETIME VIDEO CALL AND FINDERA4 A4 DAVID * Let me find the actual thing. *
+E: 11/04/16
+C: PETER
+D: Thanks. * * What’s uh... What’s Margot upto tonight?
+E: beat
+C: DAVID
+D: She’s at a study group all night. * In the search prompt, he types in “recipe,” only to be met with far too many results. Then he types in: “gumbo.”
+C: PETER
+D: Wait, all night tonight? Five results.
+C: DAVID
+D: Yeah, I was just talking to her. She has a bio final next week. The second result is a .jpeg titled: “Gumbo Recipe.” He CLICKS on a preview. It’s a photo of- INT. DAVID’S KITCHEN - DAY B4 B4 “Pam’s Famous Kimchee Gumbo” is scribbled on a series of beautiful flashcards laid out on the kitchen top when-
+E: PHOTO
+C: DAVID
+D: Why, what’s up? INTERCUT PETER/DAVID’S FACETIME VIDEO CALL AND FINDER5 5
+E: V.O.
+C: PETER
+D: Oh, nothing. She’s good though, * right? She doing okay? *
+C: DAVID
+D: What do you mean?
+C: PETER
+D: You know... just... making sure you guys are both talking to each other, both happy, etc. etc. Pink Rev. 15.
+E: 11/04/16
+C: DAVID
+D: We’re great, Peter. Thanks.
+C: IMESSAGE
+D: David texts Margot. And dont forget the trash!
+C: PETER
+D: But don’t you think--
+C: DAVID
+D: Dude. Everything’s-- * Suddenly, Peter’s DOORBELL RINGS and we- * INTERCUT PETER/DAVID’S FACETIME VIDEO CALL6 6 Peter looks to the window where- * PETER * Will you look at that? * * Gotta go. But send me that recipe. * Please. Thank you. Love you. * DAVID * Byeeeeeee. * PETER * Byeeeeeee. ** BEEP, BEEP, BEEP. The call ends and the FaceTime video display remains as- INTERCUT DESKTOP AND FACETIME VIDEO DISPLAY 7 7 David DRAGS the recipe onto Peter’s iMessage window and hits SEND. Then he returns to Finder and is about to close it when- His cursor stops. Then moves to one of the 5 search results he didn’t see earlier: “gumbo2010.mov.” He HITS PLAY and- FLASHBACK - INT. DAVID’S KITCHEN - DAY 8 8 David RECORDS Pam cooking. Next to Pam, YOUNG MARGOT watches as David joins Pam’s other side.
+E: back to David CONT'D HOME VIDEO 7
+C: DAVID
+D: Ooh, whatcha cooking? Pink Rev. 16.
+E: O.S. 11/04/16
+C: PAM
+D: It’s not for you. David starts ZOOMING IN AND OUT of Pam’s face.
+C: DAVID
+D: It’s not for me?! Why?!! Finally, Pam cracks a smile and- INTERCUT DESKTOP AND FACETIME VIDEO DISPLAY 9 9 David stops the video. Through the still open FaceTime display, he struggles to keep his emotions at bay. He RIGHT-CLICKS the file, scrolls by a series of options and stops on “Hide video from search results.” CLICK. The file disappears. David exhales. FADE TO: SCREENSAVER - 10:52 PM A screen-saver cycles on numbing repeat. Over and over until- A PHONE RING PIERCES THE SILENCE as a notification slides onto the screen, waking the computer. “Margot Kim” is calling. But David doesn’t pick up. The computer goes quiet. But then Margot CALLS another time. Again, David doesn’t answer. Then Margot CALLS via FaceTime Video. A preview window automatically opens and- INT. DAVID’S BEDROOM - NIGHT -David is fast asleep, a pill bottle on the night-stand. As the high-pitched, eerie ringing continues, David remains frozen in his bed, deep in a medicated slumber. INTERCUT DESKTOP AND FACETIME VIDEO DISPLAY 11 11 Margot doesn’t call again. This doesn’t feel right.
+E: O.S. FACETIME VIDEO
+C: SMASH TO BLACK. OVER BLACK
+D: The WHIR OF A COFFEE MACHINE. Then-
+C: DESKTOP
+D: David wakes his LAPTOP and NAVIGATES to the website for the- SILICON VALLEY HERALD - GOOGLE CHROME On the home-page, a video AUTO-PLAYS. On it- INT. SILICON VALLEY HERALD WEATHER REPORT A kooky weatherman stands in front of a standard weather set. *
+E: NEWS
+C: NATHAN WATTSER
+D: Good morning, San Jose. I’m Nathan Wattser and this is your Eyewitness Weather Briefing. It’s time to whip out your sunscreen, folks. We’ve got lows in the highs 90s and highs in the low 100s for the next week. It’s going to be sunny, sunny, sun- PAUSE. David sees Margot’s “missed call” notifications.
+C: DESKTOP
+D: He CLICKS on the most recent one , which automatically opens the FaceTime video display and- INT. DAVID’S KITCHEN - MORNING13 13 We see David finish making his coffee as the call RINGS, but alas: “Margot Kim is not available.” David reads the message, then dials Margot on his cell phone. But even that goes straight to voicemail.
+E: the FaceTime Video call FACETIME VIDEO
+C: DAVID
+D: Hey Mar. Sorry I was asleep when * you rang. Just checking in cause it * looks like you already left for * school this morning. Also, what * time did you get in last night? * Anyway, text me back when you see * this. No need to call. We both know * usually you-- * Suddenly, David stops. He spots something OFFSCREEN and- Pink Rev. 18.
+E: 11/04/16
+C: DAVID
+D: --Forget. David hangs up the voicemail, opens the camera on his phone, and SNAPS a photo. As he does- TEXT MESSAGE APP We watch the photo load onto a text chain. The photo is a WIDE SHOT of- INT. DAVID’S KITCHEN - MORNING At the center of the frame... is an overflowing trash can. TEXT MESSAGE APP - FRIDAY, 8:54 AM David presses SEND on an accompanying text- How many times did i tell you The “Read Receipt” registers the text sent at “8:54 AM.” Then- TEXT MESSAGE APP - FRIDAY, 3:20 PM Still no response. since when do you not text in class David returns to the photo of the overflowing trash in the * kitchen and OPENS it in full-screen. Then he sees it. Right in the corner of the frame. Is that the corner of her...? Yeah, Margot left her laptop on the kitchen counter. David texts: and why did you leave laptop at home?
+E: CONT’D a la Polaroid printing PHOTO
+C: PORTER
+D: -David, you with us? INT. DAVID’S CUBICLE - DAY 16 16 David reverts his attention back to a conference call where-
+E: O.S. VIDEO CONFERENCE
+C: DAVID
+D: Yeah. Sorry. I’m here. Pink Rev. 19. INT. MIKE PORTER’S OFFICE - DAY 17 17 MIKE PORTER, David’s boss, addresses David on the call.
+E: 11/04/16 VIDEO CONFERENCE
+C: PORTER
+D: Do you have an integrations report on the Bellington System? INTERCUT DAVID/MIKES’S VIDEO CONFERENCE 18 18
+C: DAVID
+D: The Bellington Sys-- Engineering is * still running tests, but I should be able to integrate by Monday. *
+C: PORTER
+D: Okay. Put some pressure on them, all right? We’re on a time crunch. Okay team, anything we forgot? All right. Have a good weekend. *
+E: waits
+C: MEETING PARTICIPANTS
+D: See you / See ya on Monday / Bye. * As every other video feed CUTS OUT, David’s remains open. He * immediately grabs his phone and starts dialing. Voicemail. *
+C: DAVID
+D: Hey Mar, it’s Dad again. Not sure if * you’ve been checking your phone but * I’m starting to get a little um... * Why did you leave your laptop at * home? Anyway, it’s 3:30 PM, an hour * after school on Friday May 12th and * I’m just wondering where you could-- * * Never mind. It’s Friday. I do know * where you are. Ignore this message. * OMITTED19 19 * OMITTED20 20 * Pink Rev. 20. GMAIL - LINUX WEB BROWSER David logs into his personal email and searches for: “piano teacher contact.” No results. He pauses. Then types: “pamkim1026@yahoo.com.” 2,344 results. Pink Rev. 21. David scrolls through them and locates an email from 5 years ago: “she’s getting too good for me.” In it, Pam writes: “A TAD on the expensive side, but I think M can really benefit from this. Fridays at 4:30 just for 1 hour. I’ll * drive both ways... Lets talk? <3.” David then OPENS the email’s attachment: A flyer for VARTOHI SHAHINIAN, an uptight-looking pianist. David HIGHLIGHTS Mrs. Shahinian’s number and we- CUT TO: PHONE APP - MOMENTS LATER The CALL RINGS. After awhile-
+E: idea 11/04/16 11/04/16
+C: MRS. SHAHINIAN
+D: Hello, yes? In the BG of the call, we hear a PIANO BEING PLAYED. Margot.
+E: V.O.
+C: DAVID
+D: Hi, Mrs. Shahinian? I’m David Kim, Margot’s father.
+E: V.O.
+C: MRS. SHAHINIAN
+D: Yes, hello Mr. Kim. May I call you * back after my lesson? *
+E: V.O.
+C: DAVID
+D: You know what, this will be really * quick. Do you mind just putting her on the phone? Just for a second. *
+E: V.O.
+C: MRS. SHAHINIAN
+D: Put who on the phone?
+E: V.O.
+C: DAVID
+D: Margot.
+E: V.O.
+C: MRS. SHAHINIAN
+D: --Christopher, tempo, tempo! What did we practice last 3 weeks? Go back to scales. Pink Rev. 22. I’m sorry, Mr. Kim. I’m confused what you’re calling about--
+E: V.O. yelling away from phone 11/04/16 MORE back to David
+C: DAVID
+D: --My daughter has lessons with you every Friday at--
+E: V.O.
+C: MRS. SHAHINIAN
+D: --Margot Kim cancelled her classes six months ago. Beat.
+E: V.O.
+C: DAVID
+D: What? TEXT MESSAGE APP As he speaks, David scrolls up through his texts with Margot, only to confirm that: She’s been asking for cash every week to pay for the classes.
+E: V.O.
+C: MRS. SHAHINIAN
+D: Maybe five months ago. I can’t remember. I don’t have my planner. Is she looking to restart lessons? And judging by the picture of the hundred-dollar bill on the kitchen counter David sent two weeks ago...
+E: V.O.
+C: DAVID
+D: No. Hold on. That doesn’t make sense, though. She loves piano. David has been consistently paying.
+E: V.O.
+C: MRS. SHAHINIAN
+D: Mr. Kim, is everything okay?
+E: V.O.
+C: DAVID
+D: No, yeah. Of course. Thank you. David ends the call and REOPENS the- EVERCREEK HIGH WEBSITE - LINUX WEB BROWSER He skips past the school schedule and HIGHLIGHTS the school’s phone number as we SMASH CUT TO an ECU of his- TEXT MESSAGE APP - MOMENTS LATER
+E: V.O. shaken from his daze
+C: MRS. SHAHINIAN
+D: David is texting Peter. Just talked to school. She didn’t come to class today. Okay. That is weird. Would it be rash to call the cops? Should I call the cops? But hold on. Hasn’t she skipped school before? Yeah. Without telling you. Once. Do you think somethig bad Here’s what I think Remember that time In 10th grade I road-tripped to LA with Scott Veltri and his cousin How does this have anything I didn’t tell Eomma or Appa. I was an idiot. They were SO MAD. I was off the grid for like 24 hours. But you didn’t have a cell phone. I wouldn’t have called if I did. And it was summer break. Isn’t school over next week? Yeah. You’re right. Exactly. She’s probably just screwing around with her friends. Have you reached out to them? The cursor blinks. Thinking. Then David TRAVELS to- GOOGLE - LINUX WEB BROWSER David searches: “Margot Kim social media san jose” and OPENS the three most recognizable links in different tabs, but- INSTAGRAM WEBSITE - LINUX WEB BROWSER Her Instagram profile is locked. TWITTER WEBSITE - LINUX WEB BROWSER Her Twitter only has one tweet FACEBOOK - LINUX WEB BROWSER And her Facebook... is totally private. Back on his- TEXT MESSAGE APP David types: I don’t know any of her Ever since I dont have * Margot never gave me their numbers. Ok well... If you don’t know any of her friends Who would? Beat. David HIGHLIGHTS “who would” as we hear the STARTING SOUNDS of a Windows XP OS and- LOGIN SCREEN - OLD FAMILY COMPUTER The old Windows XP Family Home Computer BOOTS UP. On the profile selection page, David’s cursor glides over the icons for “Dad” and “Margot” before settling on “Mom,” the answer to Peter’s earlier question. David CLICKS on her profile. Loading, loading. And then- Pink Rev. 25. DESKTOP - OLD FAMILY COMPUTER The original first-day-of-school family selfie appears as Pam’s wallpaper before the remaining icons load. Suddenly, a notification pops up at the bottom of the screen: “You have not run Norton Anti-Virus software in 694 days.” * Clearly, it’s been awhile since anyone used this computer. * From the Start Menu, David OPENS the-
+E: V.O. CONT'D ”fiNCIrst tweet ever!!!” 11/04/16 kindergarten
+C: ADDRESS BOOK
+D: He searches through Pam’s groups of contacts, scrolling by “My Friends,” “David Friends,” and “Family” before finally landing on one called “Sunwood Middle School.” He OPENS it, only to be met with 52 daunting contacts files. He CLICKS through. Each file is named after kids Margot knew and lists home phone numbers, notes about the kid, his/her parents as well as their jobs . David starts at the top of the alphabetized list with “Abolt, Marvin.” Pam’s notes on the card read: “had a crush on margot in 3rd grade, parent in law enforcement, divorced family.” David HIGHLIGHTS the first part while we hear PRE-LAPPED RINGING and AUDIO from the call.
+E: i.e.. mom works at incubator, on the same little league team, etc ”had a crush on margot”
+C: SHARP FEMALE VOICE
+D: Hello?
+E: V.O.
+C: DAVID
+D: Hi. I was wondering if I could speak to... Marvin? Is he home?
+E: V.O.
+C: SHARP FEMALE VOICE
+D: Who’s this?
+E: V.O.
+C: DAVID
+D: My name is David. I’m calling in regards to my daughter, Margot Kim. She and your son went to Sunwood Middle School together, I believe. I just haven’t been able to reach Margot for close to a day now. So I’m just kinda... cold-calling... to see if someone can point me in the right direction. Beat. Pink Rev. 26.
+E: V.O. 11/04/16
+C: SHARP FEMALE VOICE
+D: Can I put you on hold?
+E: V.O.
+C: DAVID
+D: Of course. Thank you. Meanwhile, we watch David export the entire “Sunwood Middle School” group from the Address Book to the-
+E: V.O.
+C: DESKTOP
+D: David plugs in a USB, reformats it to FAT32 after it’s incompatible with the Windows OS, and-
+C: SHARP FEMALE VOICE
+D: Mr. Kim?
+E: V.O.
+C: DAVID
+D: Uh huh.
+E: V.O.
+C: SHARP FEMALE VOICE
+D: My son hasn’t spoken to Margot since middle school.
+E: V.O.
+C: DAVID
+D: Okay.
+E: V.O.
+C: SHARP FEMALE VOICE
+D: Do you not know any of her friends now?
+E: V.O.
+C: DAVID
+D: That was really my wife’s domain. But I’m working on it. The call ends. David drags the zip file from the desktop onto the USB and the Windows upload bar MATCH CUTS to a- MAC DOWNLOAD BAR - DAVID’S PERSONAL LAPTOP The file downloads onto David’s personal laptop and- FACETIME - AN HOUR LATER We see AUDIO WAVEFORMS as we hear the end of another call.
+E: V.O.
+C: WARM FATHERLY VOICE
+D: No, sorry I can’t be more helpful. Based on Pam’s notes on the-
+E: V.O.
+C: CONTACTS APP
+D: We’re hearing the father of “Soo, Congyu” .
+E: ”4th grade mission project partner, allergic to shellfish, dad in pediatrics”
+C: WARM FATHERLY VOICE
+D: If I hear anything, though, I’ll definitely reach out.
+E: V.O.
+C: DAVID
+D: Thank you. I appreciate that. The line CUTS OUT and through the open FaceTime Video display-* INT. DAVID’S BEDROOM - NIGHT 21 21 We see David move his cursor from the second-to-last name in the “Sunwood Middle School” contacts list to the last name. He massages his temples, fear growing in every crease. Then from his phone, he dials the final contact: “Williams, Isaac .
+E: V.O. FACETIME VIDEO ”met in little league, sweet kid, mom runs PTA”
+C: ISAAC’S MOM
+D: Hello?
+E: V.O.
+C: DAVID
+D: Hi. My name is David Kim, I’m--
+C: ISAAC’S MOM
+D: --Pam’s husband, of course I remember. How are you doing? *
+E: V.O.
+C: DAVID
+D: I’m good. I’m good. Listen-- *
+C: ISAAC’S MOM
+D: --You know I have been meaning to * call you. Just to make sure you and * Margot were-- *
+E: V.O.
+C: DAVID
+D: --That’s very nice of you, but... * Listen, reason I’m calling is I * actually haven’t been able reach * Margot for a little bit. I’m pretty sure her phone is dead. But just * wanted to talk to Isaac and see if-- *
+C: ISAAC’S MOM
+D: --Well, it’s gotta be more of a reception problem, right?
+E: V.O.
+C: DAVID
+D: Why do you say that? Pink Rev. 28.
+E: 11/04/16
+C: ISAAC’S MOM
+D: If they’re all in the mountains.
+E: V.O.
+C: DAVID
+D: Right. Sorry, what mountains?
+C: ISAAC’S MOM
+D: The overnight trip. Camping? Isaac is camping with his friends? Margot was definitely invited.
+E: V.O. off David’s silence
+C: DAVID
+D: She was.
+C: ISAAC’S MOM
+D: I’m pretty positive she’s there, too. Did she not tell you?
+E: V.O.
+C: DAVID
+D: Uh... You know what? She did. Looking at her texts now. Ah. She just didn’t mention “mountains.” That’s why.
+E: lying
+C: ISAAC’S MOM
+D: Yeah. They’ve been planning this for awhile, I can’t imagine she--
+E: V.O.
+C: DAVID
+D: --Do you know when they all left? Reason I’m calling is school has her marked as absent today and--
+C: ISAAC’S MOM
+D: --Did they all ditch school? I’ll tell you something, if that’s what they did, Isaac is in big trouble.
+E: V.O.
+C: DAVID
+D: Yeah. That’s... definitely what it looks like, huh? Kids.
+C: ISAAC’S MOM
+D: Tell you what. They’re planning on heading back tomorrow morning anyway. Once they get reception, I’ll let Isaac know to have Margot give you a call.
+E: V.O.
+C: DAVID
+D: Perfect. That sounds perfect.
+C: ISAAC’S MOM
+D: Is everything okay with you two?
+E: V.O.
+C: DAVID
+D: What do you mean?
+C: ISAAC’S MOM
+D: Well, I haven’t talked to you since Pam’s... A visibly relieved David laughs off the question and-
+E: V.O.
+C: DAVID
+D: Oh yeah! No. Everything is great! Margot and I are great!
+C: SMASH TO:
+D: ARE YOU F******KING KIDDING ME Then we WIDEN to reveal, David’s typing on his-
+C: IMESSAGE
+D: He’s in the middle of a composing a long, angry text to Margot. He airs all of his grievances - skipping school, cancelling piano, stealing money , not communicating about the overnight trip, avoiding trash errands - before sarcastically telling Margot to enjoy the rest of her trip because he’s going to kill her when she gets home in the AM. But rather than hastily sending the message- David doesn’t hit send. Instead, he slowly HIGHLIGHTS the entire rant and deletes it. In its place, he types: Spoke to Isaac’s mom. Call when you get reception.
+E: “?!?”
+C: SEND.
+D: We can feel David’s relief as he CLOSES the iMessage window and- FADE TO BLACK. SCREENSAVER - THE NEXT MORNING A screen-saver cycles on numbing repeat. Over and over until- A PHONE RING PIERCES THE SILENCE as a notification slides onto the screen, waking the computer. An unknown number calls. But this time, David answers it.
+E: where we also glimpse David’s most recent text to Peter: “she’s grounded all summer”
+C: DAVID
+D: Hello?
+E: V.O.
+C: ISAAC
+D: Hey Mr. Kim? This is Isaac. My mom told me to--
+E: V.O.
+C: DAVID
+D: --Yes. Hi Isaac. Sorry to have you call me so early. I was trying to--
+E: V.O.
+C: ISAAC
+D: --It’s okay. Just wanted to say I’m sorry I couldn’t be of more help.
+E: V.O.
+C: DAVID
+D: What do you mean?
+E: V.O.
+C: ISAAC
+D: Wait. Did my mom not tell you? *
+E: V.O.
+C: DAVID
+D: Your mom said Margot was with you. She said you invited her to the mountains.
+E: V.O.
+C: ISAAC
+D: --Oh. Yeah. Well, I did.
+E: V.O.
+C: DAVID
+D: Then can you please put my daughter on the phone? Pink Rev. 31. ISAAC * ...She never came. *
+E: V.O. 11/04/16 V.O.
+C: DAVID
+D: What? What does that mean? *
+E: V.O.
+C: ISAAC
+D: I mean, she never came. I even reached out to her after school Friday when we were all heading out and my car still had an extra seat.
+E: V.O.
+C: DAVID
+D: And what did she say? STATIC. Beat.
+E: V.O.
+C: ISAAC
+D: She didn’t respond. Isaac’s last words reverberate until-- 911 OPERATOR --SVPD, Missing Persons Unit. How can I help you? GOOGLE - GOOGLE CHROME - 1 HOUR LATER David googles “san jose missing person,” scrolls down a list of results, and clicks on “National Missing Persons Database.” NMPD WEBSITE - GOOGLE CHROME On the site, David notices a “State Case Breakdown.”
+E: V.O. V.O.
+C: DAVID
+D: I’m calling about a possible-- I’d like to report a missing person. 911 OPERATOR Okay. And who is this regarding?
+E: V.O. V.O.
+C: DAVID
+D: My daughter. 911 OPERATOR When was the last time you heard from her? Pink Rev. 32.
+E: V.O. V.O. 11/04/16
+C: DAVID
+D: She called me. 30, 31... uh... 36 hours ago. He SELECTS “California” from the drop-down listing and scrolls to the statistic: 911 OPERATOR All right. The first thing we’ll need to do is file a report. After that, I’ll put out a call to a detective in the area, who’ll be in touch with you. Of the 2,095 missing persons cases in California, more than half are still open.
+E: V.O. V.O.
+C: DAVID
+D: Okay. 911 OPERATOR * Let’s start with her name. DAVID * Margot Kim. M-A-R-G-O-T... Suddenly, RING. Unknown number. Below the notification, we reveal the open FaceTime video display where- * INT. DAVID’S BEDROOM - MORNING22 22 David answers the call on his cell phone and- DAVID * Hello?
+E: V.O. V.O. V.O. FACETIME VIDEO
+C: VICK
+D: Am I speaking to David Kim? DAVID * Yeah. And who are you? I’m assuming--
+E: V.O.
+C: VICK
+D: --My name is Detective Sergeant Rosemary Vick. I’m the lead investigator assigned to locating your daughter. Good morning.
+E: V.O.
+C: DAVID
+D: Okay. Yeah, good morning. I’ve been waiting for your call. Pink Rev. 33.
+E: 11/04/16
+C: VICK
+D: I understand this is a sensitive issue, Mr. Kim. I’m currently 35 minutes away from your house. But while I’m en route, I’d like for you start telling me what you know.
+E: V.O.
+C: DAVID
+D: What I know? I just listed every detail about my daughter to whoever I got off the phone with an hour ago. What are you guys even--
+C: VICK
+D: --Margot Pamela Kim. 16. 5, 5. 98 pounds. Registered to a 1998 green Toyota Camry. Minor scar on her * left arm from a fracture 7 years ago. Yeah, I got it. DAVID * Right. I’m sorry. I just—-
+E: V.O. beat
+C: VICK
+D: I’m not looking for her breakdown, Mr. Kim. What I want to know is how everything unfolded. From your eyes.
+E: V.O.
+C: DAVID
+D: Understood. Detective.
+C: VICK
+D: And in the interest of time, I’d like it if you started right now. DESKTOP - LATER 15 minutes later , David’s desktop is littered with open windows: facts on missing children, testimonials on runaways, and posts on Yahoo Answers. David, however, focuses his attention on- SILICON VALLEY HERALD NEWS TABS - GOOGLE CHROME A series of Silicon Valley Herald articles/videos introduce David to the very capable detective. In one tab- INT. POLICE OFFICE - DAY
+E: V.O. indicated by the length of the call NEWS FOOTAGE
+C: A22 A22
+D: Vick, in police uniform, is awarded a medal at a ceremony by the Chief of Police. Audience members applaud. Pink Rev. 34.
+E: 11/04/16
+C: VICK
+D: Okay. Let’s see if I got this right. One. After a group study session, Margot, with her car, didn’t return home Thursday evening. In another tab- INT. POLICE OFFICE - DAY
+E: V.O. PHOTO
+C: B22 B22
+D: Vick, in police uniform, is sworn in as a Detective. In fact-
+C: VICK
+D: Two. She called three times at 11 PM. Three. She didn’t attend school on Friday. Not only does Vick have an incredible police record, she’s also an exemplary public servant. In one photo, taken at- EXT. CONSTRUCTION SITE - DAY Vick smiles widely, standing with a group of ex-convicts.
+E: V.O. PHOTO
+C: VICK
+D: And four. She’s been skipping piano classes for the last 6 months. INTERCUT DAVID’S FACETIME VIDEO DISPLAY AND NEWS TABSA23 A23 * The photo’s caption: “Off the clock, Officer Rosemary Vick helping build a new drug-rehabilitation clinic.” DAVID * I don’t see how that last part is relevant.
+E: V.O.
+C: VICK
+D: --Was all of that correct? DAVID * Yes. Article after article after article, it becomes clear to David that Vick knows what she’s doing.
+E: V.O.
+C: VICK
+D: Okay. Mr. Kim, I’m going to find out what happened to your daughter. Pink Rev. 35. But in order to do that, I will need to know a lot more about her.
+E: V.O. beat 11/04/16 MORE
+C: SMASH TO:
+D: BOOTUP SCREEN - A NEW MACBOOK BOOTING UP. Who it belongs to is a mystery, at least for now.
+C: VICK
+D: Every lead uncovered in the first 72 hours is critical to any missing persons case. It’s already been 36. So I will need your help. Okay? DESKTOP - DAVID’S PERSONAL LAPTOP David begins to CLOSE his research tabs on the Detective as- DAVID * Of course. What do you need me to do? I can talk to neighbors, I can--
+E: V.O.
+C: VICK
+D: --We live our lives on screens, Mr. Kim. If you want to know who someone is talking to, what they’re doing, where they’re going... BOOTUP SCREEN - A NEW MACBOOK A progress bar loads.
+E: V.O.
+C: VICK
+D: ...All you need to do is look behind those screens. DESKTOP - DAVID’S PERSONAL LAPTOP Still on the phone call, David OPENS his-
+E: V.O.
+C: IMESSAGE
+D: He SELECTS the chain with Margot and starts to scroll up as-
+C: VICK
+D: Does Margot keep any smart devices in the house? Old iPads, iPhones, tablets? Suddenly, David stops scrolling. He finds it: the kitchen photo from yesterday. Pink Rev. 36.
+E: V.O. 11/04/16
+C: VICK
+D: DAVID * Yeah. She does. David OPENS the photo in full screen as-
+E: V.O. CONT'D
+C: VICK
+D: What does she have? David PINCHES INTO the image until we finally see it, too. Right at the corner of the frame... DAVID * ...Her laptop. She left her laptop at home yesterday. Beat.
+E: V.O.
+C: VICK
+D: Okay. Let’s start with that. DESKTOP - MARGOT’S LAPTOP A wallpaper of Pam and Margot at the piano loads first. Then comes the dock. All quiet on the digital front. Until-
+E: V.O.
+C: DING. DING. DING.
+D: Old text notifications bombard MARGOT’S LAPTOP as they catch up to the present . DING after DING until finally- David SLIDES OPEN the Notifications Panel and activates “Do Not Disturb,” MUTING the notifications. The cursor moves down to the dock: 37 missed calls. 68 texts. David ignores them, OPENS Google Chrome and TRAVELS to- FACEBOOK - GOOGLE CHROME -only to learn that Margot’s account isn’t logged in. David places his cursor on the password prompt, and starts to guess. AANK. Incorrect. Then he types another. AANK. And another. AANK. Another. AANK. AANK. AANK. Then David notices Margot’s-
+E: “where are you?” “still have an open seat” “called 15 times”
+C: DESKTOP
+D: His cursor glides over the wallpaper of Margot and Pam and- FACEBOOK - GOOGLE CHROME David slowly types a three-letter word into the prompt... Pink Rev. 37.
+E: 11/04/16
+C: AANK.
+D: Shit. David’s cursor meanders as he thinks. Thinks. Thinks. And then suddenly- Idea. David SELECTS “Forgot Account,” sends a password reset option to Margot’s email address, and quickly NAVIGATES to Margot’s- GMAIL - GOOGLE CHROME -where lo and behold: Margot’s Gmail isn’t logged in either. David SELECTS “Forgot Password” and is asked to type in the most recent password he does remember. He carefully enters a new word and... AANK. David SLAMS on “Try a different recovery method.” On the next screen, David is prompted to send a reset code via text. David thinks, HITS “yes” and OPENS Margot’s-
+C: IMESSAGE
+D: Apart from himself and Peter , the rest of the names aren’t recognizable. But then, DING. A new text pops up. It’s a reset code. David COPIES it- GMAIL - GOOGLE CHROME -and PASTES it back onto the Gmail prompt. He changes Margot’s Google password and enters her inbox: 3 unread emails, including one from Facebook. He OPENS it, CLICKS on a link and- FACEBOOK - GOOGLE CHROME David resets Margot’s Facebook password. But just before he finishes, a pop-up appears: “Are you sure you want to proceed?” Hesitating, David hovers his cursor over both the “Yes” and “No” options before finally- “Yes.” FACEBOOK - GOOGLE CHROME
+E: “Dad” “Uncle Peter”
+C: CUE SEARCH MONTAGE.
+D: David TRAVELS through Margot’s profile, CLICKS on her FRIENDS and is met with an overwhelming amount of pictures and names.
+C: VICK
+D: Someone knows what happened to Margot. Whether she’s playing a mean game of hide-and-seek... or something different entirely. Someone is going to know something. GOOGLE DRIVE - GOOGLE CHROME David CREATES a new- GOOGLE SPREADSHEET - GOOGLE CHROME -and starts a new file. He titles it: “LEADS.” FACEBOOK - GOOGLE CHROME David filters Margot's friends by "Evercreek High School” and suddenly: a much more reasonable amount of profiles remain. David HIGHLIGHTS the first name listed and-
+E: V.O. ”Jonah Emmi”
+C: VICK
+D: Almost every individual a 16-year- old girl interacts with face-to- face, she’ll interact with online. GOOGLE SPREADSHEET - GOOGLE CHROME -copies the name and its photo to a column on the LEADS LIST.
+E: V.O.
+C: VICK
+D: When I’m out in the field, these are the people I need your help with.
+E: V.O.
+C: CONTACTS APP
+D: David searches for Jonah’s name, finds his cell number and- FACETIME - MOMENTS LATER AUDIO WAVEFORMS UNDULATE as-
+C: JONAH
+D: --Wait, you can’t find Margot?
+E: V.O.
+C: DAVID
+D: No I can’t. Do you mind answering some questions for me? To help.
+E: V.O.
+C: JONAH
+D: Sure. GOOGLE SPREADSHEET - GOOGLE CHROME The cursor NAVIGATES to Ty’s row on the LEADS LIST and FILLS IN the following information under the “LAST SEEN” column:
+E: V.O.
+C: DAVID
+D: When was the last time you saw her?
+E: V.O.
+C: JONAH
+D: Uh... Tuesday. Her locker is near me. David MOVES to the “STUDY GROUP” column, TYPING answers as-
+E: V.O
+C: DAVID
+D: On Thursday evening, she attended a study group for her Biology class. Do you know anything about that?
+E: V.O.
+C: JONAH
+D: She’s probably in AP Bio, right?
+E: V.O.
+C: DAVID
+D: Yeah. She is.
+E: V.O.
+C: JONAH
+D: Yeah, no. I’m in regular. The next column: “ALIBI.” David ENTERS the information as-
+E: V.O.
+C: DAVID
+D: What were you doing Thursday night?
+E: V.O.
+C: JONAH
+D: Thursday night... Thursday night, I was at my Dad’s house. Yeah, he picked me up after finals that day. David’s cursor stops at the final column: “SUSPICION.” He TYPES: “NO.” But then he backspaces it and enters: “???”
+E: V.O.
+C: DAVID
+D: All, right. Thanks, Jonah.
+E: V.O.
+C: FACETIME
+D: The cursor ENDS the call, and a FaceTime display pops up: Pink Rev. 40. INT. DAVID’S HALLWAY - DAY 25 25 David makes his way down a hallway and- INT. MARGOT’S BEDROOM - CONTINUOUS 26 26 He enters Margot’s bedroom and sets the laptop on her desk.
+E: 11/04/16 FACETIME VIDEO FACETIME VIDEO
+C: DAVID
+D: How does this look? Behind David, we reveal Vick and two forensics officers searching the room. Grabbing her jacket, Vick leans over and-
+C: VICK
+D: Perfect. Update me whenever you learn * something. Big or small. *
+E: zipping up
+C: DAVID
+D: Where are you going?
+C: VICK
+D: To find out what the rest of her Thursday looked like. Vick moves to leave. But before she exits frame-
+C: VICK
+D: --Oh, and share that with me, too. GOOGLE SPREADSHEET - GOOGLE DRIVE The cursor CLICKS “SHARE” and- IMESSAGE - LATER David hunts for clues on Margot’s texts, parsing through banal texts , homework requests , and cancelled hangout plans , only skipping the ones with himself, Uncle Peter, and obscure relatives overseas . Meanwhile-
+E: CONT’D “you watch grey’s last night?” “just this one time” “raincheck?” ” “
+C: DAVID
+D: And what about Thursday night? TEEN 1 Thursday night I was finishing up my final paper for English, and then I watched like 8 episodes of ‘Sex and The City.’ Pink Rev. 41. TEEN 2 Thursday night... I dunno. Internet, dinner, YouTube. Sent a few snaps. TEEN 3 I just finished my last final, which means I was at Carmen’s house, playing pong. Ping pong. He HIGHLIGHTS the name of various contacts and MOVES them to- GOOGLE SPREADSHEET - GOOGLE CHROME The LEADS LIST is more populated now. David FILLS OUT information for a group of teens in the “STUDY GROUP” column.
+E: V.O. V.O. 11/04/16 V.O. V.O. nervous
+C: DAVID
+D: And what about the study group? For biology. Any idea who hosted that? TEENS 1/2/3 I took bio last year, so no. / I’m on the chem path, sorry. / No idea. Then, on the “SUSPICION” column: “???,” “NO,” “???” and “NO.” INT. MARGOT’S BEDROOM - LATER David video chats with “Isaac Williams.”
+E: V.O. V.O. FACETIME VIDEO
+C: DAVID
+D: And when did you see her last? EXT. COFFEE SHOP - DAY 28 28 Isaac sits outside, history books strewn around him.
+E: FACETIME VIDEO
+C: ISAAC
+D: Honestly, now that I think about it, I can’t remember. She and I were on different AP routes, so it’s hard for me to keep tabs-- INTERCUT DAVID/ISAAC’S FACETIME VIDEO CALL
+E: on earbuds
+C: DAVID
+D: --But you were her friend.
+C: ISAAC
+D: Kind of.
+E: struggling
+C: DAVID
+D: What do you mean, you invited her on a camping trip!
+C: ISAAC
+D: Yeah, well... You know my Mom.
+C: DAVID
+D: So?
+C: ISAAC
+D: She knew Margot’s mom really well.
+C: DAVID
+D: So?
+C: ISAAC
+D: She feels bad. About everything * that happened to you guys. *
+C: DAVID
+D: * So she made you invite Margot? * Isaac struggles with an answer. Beat. *
+E: confused
+C: DAVID
+D: She did have friends though, right?
+E: CONT’D
+C: CACOPHONY OF IMAGES
+D: Facebook profiles. iMessage contact photos. The LEADS LIST. It all flies by. Meanwhile, we hear AUDIO FROM EVERYONE. TEEN 4 Define “friends.”
+E: V.O.
+C: DAVID
+D: Did people invite her to things? On the LEADS LIST, under the “SUSPICION COLUMN: “NO.” TEENS 4/5/6 Uh. I think people would occasionally invite her to things. Pink Rev. 43. / She just never came. / Kept to herself a lot. / She was... quiet.
+E: V.O. V.O. 11/04/16 MORE
+C: DAVID
+D: Did anyone have any reason to not like her? Was she bullied? On the LEADS LIST, under the “SUSPICION COLUMN: “???” TEENS 4/5/6 Doubt it. / There’s no way. / Nah. TEEN 5 I saw her eat lunch alone.
+E: V.O. V.O. V.O.
+C: DAVID
+D: On Thursday? On Facebook, David stumbles on a photo. In it- EXT. OUTDOOR SCHOOL ROTUNDA - DAY
+E: V.O. PHOTO
+C: A29 A29
+D: Three girls take a photo. Margot eats lunch alone in the back. TEEN 5 Every day. GOOGLE SPREADSHEET - GOOGLE DRIVE “???” is added under a “SUSPICION” column. But the rest of the spreadsheet is filled with more names. And more “NO”s. ICLOUD - GOOGLE CHROME David CLICKS the icon for “FIND MY iPHONE.” Locating, locating. But then: “Margot’s iPhone is not found.” Then-
+E: V.O.
+C: EPSON SCAN CENTER
+D: Margot’s yearbook photo is scanned, and then DRAGGED to a- GOOGLE DOC - GOOGLE DRIVE -where it’s added to a MISSING POSTER. David SELECTS PRINT, and when prompted about the number of copies, TYPES “400.” INT. PETER’S LIVING ROOM - DAY Peter sits at the dining table, video-chatting with David as- Blue Rev. 44. TEENS 4/5/6
+E: FACETIME VIDEO 11/01/16 V.O. CONT'D
+C: PETER
+D: You’re looking through her Facebook, right? Are there any people you haven’t talked to yet? INT. MARGOT’S BEDROOM - DAY
+E: FACETIME VIDEO
+C: DAVID
+D: Yeah, 94. PETER * I can help with some of them if you-- * DAVID * --And since apparently nobody was * actually her friend, I won’t know which of those 94 names I should be talking to without calling every name I read online. INTERCUT DAVID/PETER’S FACETIME VIDEO CALL
+C: PETER
+D: ...What about offline? Beat. David stops. Suddenly- INTERCUT DAVID/PETER’S FACETIME VIDEO CALL AND DESKTOP33 33 David searches Margot's local files, scours through folders labeled after school years, and OPENS one for “10th grade.” He cycles through more folders - labeled by class - and stops on one for “Bio.” He OPENS it. Inside, documents, including- A group homework assignment with a girl named “Abigail Nielsen.” David HIGHLIGHTS her name and- FACEBOOK - GOOGLE CHROME David searches “Abigail Nielson” on Margot’s friend list. Meanwhile, we hear a PHONE RINGING and-
+C: ABIGAIL
+D: Yeah that was at my place. CUT TO: David scours Abby’s photos. Sorority girl in-the-making. Pink Rev. 45.
+E: V.O. 11/04/16
+C: DAVID
+D: That was your place? You hosted the study group on Thursday? For bio?
+E: V.O.
+C: ABIGAIL
+D: Yeah. * Pink Rev. 45A. Suddenly, David stops on a photo: INT. BIOLOGY CLASSROOM - DAY 34 34 Standing next to a shy Margot, Abby flashes her trademark smile. Caption: “Living that bio life #cantwaitforcollege.” *
+E: V.O. 11/04/16 PHOTO
+C: DAVID
+D: So Margot was with you for the * majority of the night then. Do you--
+E: V.O.
+C: ABIGAIL
+D: --Well the study group only went till 9. She left right after that. GOOGLE SPREADSHEET - GOOGLE DRIVE Under the “SUSPICION” column, David FILLS IN another “NO.” INT. MARGOT’S BEDROOM - DAY 35 35 David is now video-chatting with Abigail. INT. TEENAGE GIRL’S BEDROOM - DAY 36 36 Abigail and her TEEN GROUPIES huddle around a laptop.
+E: V.O. FACETIME VIDEO FACETIME VIDEO
+C: DAVID
+D: 9? She told me it was an all night thing.
+E: V.O.
+C: ABIGAIL
+D: No, she definitely left at 9. Maybe even earlier.
+E: V.O.
+C: DAVID
+D: Do you know where she went after?
+C: ABIGAIL
+D: Not really.
+C: DAVID
+D: How did she look? Was she scared? Was she worried about something? The girls shake their heads in silent unison. Pink Rev. 46.
+E: 11/04/16
+C: ABIGAIL
+D: Honestly, idk. We’re not really that close--
+C: DAVID
+D: --Then why did you invite her to study with you?! Were you just using her?
+C: ABIGAIL
+D: Of course not! I feel like we all help each other intellectually.
+C: DAVID
+D: You were in her class, though. Did she ever mention anything weird? Do something that didn’t make sense. She looks up. Thinks. And-
+C: ABIGAIL
+D: Y’know, she did go on Tumblr a lot.
+C: DAVID
+D: ...What’s Tumblr?
+C: GOOGLE CHROME
+D: “tumblr.com” is typed into the address bar and- TUMBLR - GOOGLE CHROME David peruses Margot's blog, which features- EXT. FOREST - DAY/NIGHT A collection of nature/lake photography from seemingly identical forests. TUMBLR - GOOGLE CHROME But after scanning for a bit, David CLOSES the window, and-
+E: PHOTOS
+C: DESKTOP
+D: He’s without a lead. On the desktop, tons of new folders. The cursor meanders aimlessly. But then suddenly, on David’s- GMAIL - GOOGLE CHROME “INBOX” becomes “INBOX ” and- Pink Rev. 47. EXT. STREET INTERSECTIONS - EVENING 38 38 Old TRAFFIC CAM FOOTAGE shows Margot, alone in a green Toyota * Camry, driving through various intersections in the city. *
+E: 1 11/04/16 TRAFFIC CAM FOOTAGE
+C: VICK
+D: First she fills up her gas. But then we WIDEN to reveal- GMAIL - GOOGLE CHROME David is watching the videos from an attachment sent by Vick.
+E: V.O.
+C: VICK
+D: Then exits off the 101. And then turns onto the 152-East. 10:02 PM. GOOGLE MAPS - GOOGLE CHROME David maps the 152-East intersection and learns that it’s “45 minutes away” from his house. Then he WIDENS the map to see-
+E: V.O.
+C: DAVID
+D: That exit leads out of town. He WIDENS the map to reveal-
+E: V.O.
+C: VICK
+D: ...She took it alone. INT. MARGOT’S BEDROOM - AFTERNOON Trying to stay composed, David video-chats with Vick.
+E: V.O. FACETIME VIDEO
+C: DAVID
+D: Okay. Let’s move backwards. * INTERCUT DAVID/VICK’S FACETIME VIDEO CALL AND STREET VIEW40 40 * The CAMERA TRAVELS BACKWARDS on Google StreetView as-
+C: DAVID
+D: Factoring in the time she was photographed at the 152, the time * it would’ve taken to drive there * from the gas station and the time * it takes to get to the gas station * from Abby’s... There’s still an * hour unaccounted for. After the * study group, she went somewhere... * Pink Rev. 48. or she met someone? But none of * this sounds like her. None of this-- * Pink Rev. 48A.
+E: 11/04/16 MORE 11/04/16
+C: DAVID
+D: OMITTED41 41 * INT. DETECTIVE VEHICLE - AFTERNOON 42 42 Vick’s deep in thought, her phone MOUNTED to the dashboard. VICK * --Hold on. You just gave me an * idea. * INTERCUT DAVID/VICK’S FACETIME VIDEO CALL43 43 * Vick starts her car. * VICK * In the meantime, start expanding from only people she communicated with. Look into her behavior, too. She ends the call abruptly, leaving David alone. Frustration with the situation is clearly reaching a boiling point and-
+E: CONT'D FACETIME VIDEO
+C: IMESSAGE
+D: David scrolls through texts on Margot’s message chain with “Dad,” all asking for piano money. There are a ton of them. Then he STOPS on a photo of- INT. DAVID’S KITCHEN - DAY A hundred-dollar bill on the dining room table. Suddenly-
+E: PHOTO
+C: GOOGLE CHROME
+D: David types in “chase.com” and TRAVELS to- CHASE BANK - GOOGLE CHROME David scans Margot’s account history, but it’s impossible to find anything. So then- David types: “$100.00” into the search bar. Results load and-
+C: DAVID
+D: Woah. Pink Rev. 49.
+E: V.O. 11/04/16
+C: PETER
+D: What? 19 identical $100-transactions are listed on the account.
+E: V.O.
+C: DAVID
+D: She’s been depositing the cash into her checking account every week.
+E: V.O.
+C: PETER
+D: The hell was she doing with all that money? Except last week. David HIGHLIGHTS the most recent charge and-
+E: V.O.
+C: DAVID
+D: Six days ago, Margot made an outgoing transaction of twenty-five hundred dollars... to Venmo.
+E: V.O.
+C: PETER
+D: The online payment service? VENMO - GOOGLE CHROME The front page of Venmo tells David that Venmo allows users to “send money and make purchases online.” He logs in and-
+E: V.O.
+C: DAVID
+D: Where are you, where are you? David scrolls through Margot's transaction history until he locates the $2,500 transaction he was looking for.
+E: V.O.
+C: DAVID
+D: There is it is. Twenty-five hundred dollars. Six days ago.
+E: V.O.
+C: PETER
+D: Does it say what it was for? The description of the transaction: A emoji.
+E: V.O.
+C: DAVID
+D: Nothing but a peace-sign.
+E: V.O.
+C: PETER
+D: Who did she send it to? David CLICKS on the recipient. Suddenly, he’s met with a grayed-out avatar and a message: "DEACTIVATED ACCOUNT."
+E: V.O.
+C: DAVID
+D: Doesn’t say. INT. PETER’S LIVING ROOM - EVENING 45 45 Peter video chats with David.
+E: V.O. FACETIME VIDEO
+C: PETER
+D: Okay. That’s weird. That’s really weird. You don’t think she was involved in anything... serious? INT. MARGOT’S BEDROOM - EVENING David doesn’t look good. At all. Peter notices, but then-
+E: FACETIME VIDEO
+C: PETER
+D: --Davey?
+C: DAVID
+D: I don’t know. I have to go. MARGOT’S INSTAGRAM - GOOGLE CHROME David scans Margot’s profile to see a variety of nature photos and selfies, including- INT. MARGOT’S BEDROOM - DAY 47 47 Margot takes a solemn photo, looking into her mirror. MARGOT’S INSTAGRAM - GOOGLE CHROME The caption underneath reads: “mood.” Meanwhile, we hear RINGING as David scrolls to the comments, where one in particular catches his eye: “HELLA fine girl.
+E: 48 followers, 301 following PHOTO
+C: ABIGAIL
+D: Hello? David hovers over the profile behind it: “@derekellis6969.”
+E: V.O.
+C: ISAAC
+D: Hey, Mr. Kim. MARGOT’S INSTAGRAM - GOOGLE CHROME David scans the rest of Margot’s photos. “@derekellis6969” has a comment on all of them: “you know you like me” “dayumm” “looking GOOD” “ .“ Then David CLICKS on his profile and-
+E: V.O.
+C: DAVID
+D: Abby. Does the name Derek Ellis mean something to you? Who is he? DEREK’S INSTAGRAM - GOOGLE CHROME David scans through the high school senior’s profile and-
+E: V.O.
+C: ISAAC
+D: You think Derek Ellis was involved? I/E. DEREK’S INSTAGRAM PICS 48 48 Derek is a grade-A sleaze-bag. Smoking, drinking, zero class.
+E: V.O. PHOTOS
+C: ABIGAIL
+D: Yeah, so here’s the thing about Derek. And no offense to Margot, like none.
+E: V.O.
+C: ISAAC
+D: Mr. Kim... Derek does that with everyone. FACEBOOK - GOOGLE CHROME David types “Derek Ellis” into the Facebook search bar and... It’s true. On Derek’s profile page, Derek hits on everyone.
+E: V.O.
+C: ABIGAIL
+D: And honestly, he’s too obvious. I’ve been watching a lot of Netflix and HBO recently and usually it’s like, an authority figures who had something to do with it. INT. MARGOT’S BEDROOM - NIGHTA49 A49 We see David’s face as he TRAVELS to-
+E: V.O. FACETIME VIDEO
+C: IMESSAGE
+D: Constantly scrolling and scouring through Margot’s old texts with “Dad,” David stumbles on a few that catch his eye: Even if I bombed it, Mr. Lee wouldn’t let me fail. He said I was his favorite student. By a lot. David HIGHLIGHTS “Mr. Lee” while-
+C: AUTOMATIC VOICEMAIL
+D: Thank you for calling Evercreek High School in San Jose. Our normal business hours are Monday to Fri-- GOOGLE - GOOGLE CHROME David googles "How to find people's phone numbers online." The second result: PeopleSmart.com. David CLICKS on it while- PEOPLESMART - GOOGLE CHROME On PeopleSmart, an online person locating tool, David types in: “Kevin Lee,” sets the parameters to a local search and-
+E: V.O.
+C: MR. LEE
+D: Wait. How did you get my number? INT. MARGOT’S BEDROOM - CONTINUOUS Through the FaceTime video display, we see as David is * prompted to pay for the PeopleSmart search results. He debates it, but then pulls out his credit card and- CUT TO: David waits in anticipation as the search results load and- CUT TO: David paces in his room, on the phone, starting to lose it.
+E: V.O. irate FACETIME VIDEO
+C: DAVID
+D: I just need to know where you were the night my daughter went missing. It searches the database. Suddenly, results load and-
+E: V.O.
+C: MR. LEE
+D: You cannot just call a teacher at your kid’s school like this. It’s 11 o’clock at night--
+E: V.O.
+C: DAVID
+D: --What are you hiding?
+C: MR. LEE
+D: Nothing. I’m not hiding anything-- Pink Rev. 53.
+E: V.O. 11/04/16
+C: DAVID
+D: --Then answer the damn question, before it’s me and a cop knocking on your door! Where were you the night my daughter disappeared? Beat. Mr. Lee sighs on the other end and- GOOGLE SPREADSHEET - GOOGLE DRIVE “Pink Poodle Strip Club” is typed under the “ALIBI” column for Mr. Lee. Suddenly, we WIDEN to see the entire LEADS LIST. Every single name is marked with a “NO” or a “???.” Failure. Then suddenly- RING. An “incoming iPhone call” notification slides onto the screen. It’s Detective Vick.
+C: END SEARCH MONTAGE.
+D: GMAIL - GOOGLE CHROME David logs into his own Gmail account to see one unread email. From Rosemary Vick. He OPENS it and-
+C: VICK
+D: Does the name “Rachel Jeun” ring a bell?
+E: V.O.
+C: DAVID
+D: No. Why? In the email, a .jpg attachment. David CLICKS it and- A California Driver’s License loads slowly. The name it’s registered to: “Rachel Jeun.” But the picture on it...
+E: V.O.
+C: DAVID
+D: ...Margot.
+E: V.O.
+C: VICK
+D: You mentioned earlier she was acting like a different person. So on a hunch, I paid a visit to a forger contact. In return for an oversight, he said Margot came in a month earlier for an ID. She picked it up 2 weeks ago... The same time she withdrew all that money.
+E: V.O.
+C: DAVID
+D: ...Withdrew what money? INT. MARGOT’S BEDROOM - NIGHT 51 51 Through the FaceTime video display, David takes the call on * his own phone. Nervous as hell as to what he’s about to hear.
+E: V.O. FACETIME VIDEO
+C: VICK
+D: David, I also spoke to Security at Venmo. To find out more about the account Margot sent the $2500 to.
+E: V.O.
+C: DAVID
+D: Did they know who it belonged to?
+C: VICK
+D: Yes. They did.
+E: V.O.
+C: DAVID
+D: Who?
+C: VICK
+D: It belonged to Margot. Beat. David reels. Then rushes back to the computer and- VENMO - GOOGLE CHROME The cursor NAVIGATES through Margot’s transaction history as-
+E: V.O.
+C: DAVID
+D: She sent money to herself? What was she doing, managing a laundering account?
+C: VICK
+D: That’s what it looks like. I'd see this a lot in narcotics, but people who know their money is being watched just transfer their funds to somewhere much less monitored.
+E: V.O.
+C: DAVID
+D: Like where? David finds the $2500 transaction and CLICKS on the recipient: the grayed-out avatar taunts us.
+C: VICK
+D: The internet. INT. MARGOT’S BEDROOM - NIGHT Through the FaceTime video display, David breathes heavily. * Pink Rev. 55.
+E: V.O. FACETIME VIDEO 11/04/16
+C: DAVID
+D: She gets a fake ID, she sends money to herself... What does this mean?
+C: VICK
+D: This means... that it’s time to start considering the possibility that Ms. Kim ran away. GOOGLE CHROME - LATER The cursor OPENS the browser and SELECTS “See Full History.”
+E: V.O.
+C: DAVID
+D: Why would she do that? The cursor scans Margot’s vast internet history as-
+C: VICK
+D: That’s what we don’t have: motive--
+E: V.O.
+C: DAVID
+D: --Why would she do that? Three times. She called me in the middle of the night three times. Why?
+C: VICK
+D: We are going to figure out why, Mr. Kim. So what I want to look for now--
+E: V.O.
+C: DAVID
+D: No. No. No. No. The cursor stops, landing on a link to a website that David hasn’t checked yet and a link to a website that’s all over Margot's internet history: YouCastNow.com
+C: DAVID
+D: I know my daughter, Detective. Margot did not run away.
+E: CONT’D
+C: CLICK.
+D: YOUCAST - GOOGLE CHROME A pop-up banner appears first: “Welcome back, @mkmania!” From the splash page, David learns that YouCast is a live- broadcasting platform dominated by the teenage market. As David explores the site, he confusedly cycles through a- Blue Rev. 56. I/E. SERIES OF LIVE-CASTS 53 53 Musicians strum their guitars, wannabe pop-stars sing covers, and social “influencers” give sagely advice to the internet. And as David SKIPS from one video to the next, he starts to learn how the site operates: Blue Rev. 56A. A user live-casts him or herself and then verbally responds to the live stream of typed comments and questions from viewers watching the feed. But then- David inadvertently CLICKS a button labeled “Cast,” activates his webcam and suddenly- INT. MARGOT’S BEDROOM - NIGHT We’re looking at David as he discovers he’s broadcasting. A user named “fish_n_chips” joins the session... but then immediately leaves. After a few moments of zero viewers- David is prompted to stop recording. He does. But only then- YOUCAST - GOOGLE CHROME -does he notice the “SAVED VIDEOS” button on the YouCast toolbar. David DRAGS his cursor to the folder... and CLICK. Inside... ...are 76 previously-recorded YouCast broadcasts. Beginning 6 months ago, and all made by Margot. Jackpot. David’s cursor hovers over the first one, CLICKS it, and Margot’s first YouCast broadcast begins to PLAY: INT. MARGOT’S BEDROOM - EVENING A hand FIDDLES with the WEBCAM and then pulls away. We’re looking at Margot, who’s not really sure what she’s doing. There’s something very different about her. Something sad. Stumbling through her first live-cast, Margot waits nervously for a visitor. Any visitor. No one comes. Then- David skips a minute ahead in the video and suddenly- A new visitor appears in the chat-box and- XxX5753: Boobies plz Gross. Margot immediately grabs her cursor, presses a button and- “XxX5753 has been blocked from this livecast.” Beat. Margot waits again. A little more reluctantly now. But then- fish_n_chips: favorite pokemon and why Margot leans in, reads the message from the new visitor, tries to hold back a smile, and grabs something OFFSCREEN.
+E: 11/01/16 YOUCAST BROADCAST 11/01/16 YOUCAST BROADCAST YOUCAST BROADCAST
+C: MARGOT
+D: Hold on. Her house keys. On it, a homemade Pokeball keychain. How did * you know? fish_n_chips: love it. fish_n_chips: But you didn’t answer my question
+C: MARGOT
+D: Uxie. It can wipe out memories. Plus it’s kinda cute... How did you know I liked Pokemon? fish_n_chips: who doesnt?
+E: CONT’D
+C: MARGOT
+D: A lot of people actually. Ever * since they started changing the-- fish_n_chips: Kecleon by the way. fish_n_chips: my favorite pokemon... fish_n_chips: thanks for asking ;) Margot finally cracks a smile and- YOUCAST - GOOGLE CHROME CLICK. David moves onto another video. INT. MARGOT’S BEDROOM - EVENING Margot finally cracks a smile and- YOUCAST - GOOGLE CHROME CLICK. David moves onto another video. INT. MARGOT’S BEDROOM - EVENING Margot types up a paper when a new user joins. NattyQ: what are you working on? Margot, surprised.
+E: CONT’D YOUCAST BROADCAST YOUCAST BROADCAST
+C: MARGOT
+D: Hi. She’s starting to like this thing. CLICK. Pink Rev. 58. INT. MARGOT’S BEDROOM - EVENING 57 57 Margot scrolls through her Tumblr on her phone as-
+E: 11/04/16 YOUCAST BROADCAST
+C: MARGOT
+D: And this one I took at a lake. And this one I took... fish_n_chips: your photos are incredible fish_n_chips: you need to take more <3
+C: CLICK.
+D: INT. MARGOT’S BEDROOM - EVENING 58 58 Margot talks to the CAMERA at her desk.
+E: YOUCAST BROADCAST
+C: MARGOT
+D: How is it that we don’t know each other’s names yet? fish_n_chips: i’ve been thinking the same thing.
+C: MARGOT
+D: Okay. If I tell you mine, you have to tell me yours. fish_n_chips: deal
+E: CONT’D
+C: MARGOT
+D: I’m Margot. fish_n_chips: Hannah :)
+E: CONT’D
+C: MARGOT
+D: I’m 15. Almost 16. fish_n_chips: 18.
+E: CONT’D
+C: MARGOT
+D: Student. fish_n_chips: Waitress.
+E: CONT’D
+C: MARGOT
+D: San Jose. fish_n_chips: Pittsburgh.
+E: CONT’D
+C: 59A. MARGOT
+D: What’s that like? fish_n_chips: Boring.
+E: CONT’D
+C: MARGOT
+D: Trust me. It’s probably better than this... Meanwhile, David CLICKS on the account for “fish_n_chips” and- YOUCAST - GOOGLE CHROME He explores fish_n_chips’ profile. Name: Hannah. Age: 18. Job: Server at Kirchick’s Diner. Location: Pittsburgh, PA. Then David CLICKS on Hannah’s profile picture and- INT. DINER - DAY Hannah, a freckled red-head, smiles in a waitress outfit. YOUCAST - GOOGLE CHROME Back on her “Saved Videos,” David CLICKS on another video and- INT. MARGOT’S BEDROOM - EVENING Margot opens an envelope and pulls out... a license.
+E: CONT’D PHOTO YOUCAST BROADCAST
+C: MARGOT
+D: Freedom.
+C: CLICK.
+D: EXT. LAKE - EVENING 61 61 Margot shows off a beautiful lake ahead of her.
+E: YOUCAST BROADCAST
+C: MARGOT
+D: This is it. Margot FLIPS the CAMERA back to reveal she’s sitting on a rock, her car in the BG.
+E: O.S.
+C: MARGOT
+D: Best place in the world to do nothing.
+E: CONT’D
+C: CLICK.
+D: EXT. LAKE - EVENING 62 62 Margot’s upset.
+E: YOUCAST BROADCAST
+C: MARGOT
+D: You work 25 hours on top of school? fish_n_chips: :/ fish_n_chips: ionly until Mom gets out of the hopsital tho fish_n_chips: whch she will fish_n_chips: but dad needs help w/ $$ in the meantime fish_n_chips: fk cancer
+C: MARGOT
+D: My thoughts exactly. David HIGHLIGHTS fish_n_chips’ last words and... CLICK. OMITTED63 63 EXT. LAKE - EVENING 64 64 Margot points to her eyes, laughing.
+E: CONT’D YOUCAST BROADCAST
+C: MARGOT
+D: Woah! They’re so red.
+C: CLICK.
+D: INT. MARGOT’S BEDROOM - NIGHT A64 A64 Margot works on an assignment with pen and paper while- fish_n_chips: so abby’s just gonna take credit? fish_n_chips: while you do ALL the work on this? fish_n_chips: she sounds like a terrible friend.
+E: YOUCAST BROADCAST
+C: MARGOT
+D: Yeah, but... I don’t really care. INT. MARGOT’S CAR - LAKE - EVENING 65 65 Margot solemnly watches as- fish_n_chips: so my dad made me drop out of school today
+E: YOUCAST BROADCAST
+C: MARGOT
+D: What? Why? fish_n_chips: hospital bills. fish_n_chips: i understand that he needs the money. fish_n_chips: but still... fish_n_chips: he didn’t even ask. fish_n_chips: i wish i was close to my dad. fish_n_chips: like you. Beat. You can see it in Margot’s face. She doesn’t agree. fish_n_chips: margot?
+C: MARGOT
+D: My dad doesn’t know I stopped going to piano... Or that sometimes, I come here instead. fish_n_chips: why havent you tolf him fish_n_chips: told**
+E: CONT’D
+C: MARGOT
+D: He wouldn’t get it. Everything that hurts me, he’s already gotten over. Anyways... don’t you guys have health insurance or something?
+E: CONT’D beat
+C: CLICK.
+D: INT. MARGOT’S CAR - LAKE - EVENING Margot shows the inside of her mouth to the CAMERA as-
+E: YOUCAST BROADCAST
+C: MARGOT
+D: I checked WebMD, I’m pretty sure I have strep. Browbruh99: im surprised webmd didnt diagnose you w/ zika YOUCAST - GOOGLE CHROME CLICK. David skips past a bunch of videos and CLICKS on the most recent one: INT. LAKE - EVENING 67 67 Margot speaks excitedly to her CAMERA as-
+E: YOUCAST BROADCAST
+C: MARGOT
+D: By the way, I’m sending you a little surprise I’ve been saving for tomorrow. I think you’re gonna really like it. But regardless, I want to talk about your day and-- David SKIPS AHEAD on the video: Margot looks out at the distance, comments on some food she’s eating. Nothing here. YOUCAST - GOOGLE CHROME CLICK. David moves onto an older video and- INT. MARGOT’S BEDROOM - EVENING A nostalgic Margot shows a cell phone photo to the CAMERA: a picture of Pam. David’s cursor stops moving.
+E: YOUCAST BROADCAST
+C: MARGOT
+D: So today is this megababe’s birthday. Happy Birthday. And if she were here right now, 100% she’d be making us all-- A DOOR KNOCK distracts Margot and-
+E: to the picture back to the webcam
+C: DAVID
+D: Hey, sweetheart? Margot forces a smile as David opens the door and peeks in.
+E: O.S.
+C: DAVID
+D: Hey. I just realized I totally forgot about today.
+E: CONT’D
+C: MARGOT
+D: Yeah I know! It’s--
+C: DAVID
+D: --Tuesday. The Voice. Elimination Round.
+E: off Margot’s look
+C: MARGOT
+D: ...Oh yeah! Of course. Megan might get cut.
+C: DAVID
+D: Megan is definitely getting cut. All right. I’ll let you go, honey. See you downstairs in thirty. David closes the door. Margot’s smile fades. She’s crushed.
+E: silence, smiling
+C: MARGOT
+D: ...Bye dad. YOUCAST - GOOGLE CHROME PAUSE. David SCRUBS BACK the video. In it, as David enters the room, Margot forces a smile. When he leaves, her smiles fades away. PAUSE. REWIND. He leaves the room. And Margot’s smile fades. REWIND. He leaves. Smile fades. He leaves. Smile fades. He leaves. ...Smile fades.
+C: VICK
+D: I’m sorry, David. It’s another dead- end. INT. MARGOT’S BEDROOM - NIGHT David is on a FaceTime video call with Vick. He’s tired. *
+E: V.O. FACETIME VIDEO
+C: DAVID
+D: And you’re sure you looked into every one of them right? INT. VICK’S HOME OFFICE - NIGHT 70 70 On the other end, Vick is still in uniform. She’s exhausted. Pink Rev. 64.
+E: FACETIME VIDEO 11/04/16
+C: VICK
+D: Everyone. None of the YouCast users Margot interacted with have a connection to her disappearance. INTERCUT DAVID/VICK’S FACETIME VIDEO CALL
+C: DAVID
+D: Even--
+C: VICK
+D: --Even ‘Fish_n_chips.’ The waitress. Facial scan traced her to * a ‘Kirchick’s Diner’ 10 miles outside Pittsburgh. Just spoke to her getting off a shift. Checks out. INTERCUT DAVID/VICK’S FACETIME VIDEO CALL AND DESKTOP Beat. David’s quiet for a long time. But then he DRAGS his cursor across his screen and CLOSES the LEADS LIST.
+C: DAVID
+D: I didn’t know her. And now she’s gone. I didn’t know my own-- *
+C: VICK
+D: --This is not your fault. * Vick debates whether or to say more. But then finally-
+C: VICK
+D: A few years ago, an angry neighbor * starts banging on my door. When I * asked her what the problem was, she * told me she wanted the 25 dollars * my son had stolen from her. Now I * have no idea what she’s talking * about. I know my son, and that did * not sound like the Marvin I raised. * Pink Rev. 65. David’s about to interject, but Vick puts her finger up and- * VICK * But as it turns out, it was true. * My son had been going from house to * house in the neighborhood for two * weeks telling people he was my son * and that he was raising money for a * fictional police charity called * ‘Moms and Dads in Blue.’ * David and Vick chuckle, almost wistfully. Until-
+E: CONT’D 11/04/16 CONT’D
+C: VICK
+D: Point is, you don’t always know * your kid. And that is never your * fault. * * We have NCIC scanning for her * vehicle in 16 states. Let’s both * catch up on some sleep tonight, * okay? I’ll talk to you in the AM. * Vick smiles and reaches out to close her laptop when suddenly-
+E: CONT’D beat
+C: DAVID
+D: What did you do after? Once you found out. Vick thinks about it. Then-
+C: VICK
+D: I told the neighbor that I founded the charity and thanked her for the money. It’s ‘momsanddadsinblue.org,’ by the way. MOMSANDDADSINBLUE.ORG - GOOGLE CHROME David visits the URL, a late-2000s Geocities site. On it- EXT. SUNWOOD MIDDLE SCHOOL - DAY A younger Rosemary Vick stands next to her son, who makes only the slightest eye contact with the camera. Pink Rev. 66. MOMSANDDADSINBLUE.ORG - GOOGLE CHROME The photo’s caption: “From left to right, Officer Rosemary Vick and her son Marvin, a student at Sunwood Middle School.”
+E: PHOTO 11/04/16
+C: VICK
+D: But I’ll officially deny it if you ever take that to the press. INTERCUT DAVID/VICK’S FACETIME VIDEO CALL AND GOOGLE CHROME David chuckles and-
+C: DAVID
+D: Look, I hope you know how thankful I am you were assigned to us.
+C: VICK
+D: I just wish there wasn’t a case to be assigned to at all. All right, shutting down. Talk soon. BEEP, BEEP, BEEP. The call ends and- INTERCUT DAVID’S FACETIME WINDOW AND DESKTOP Still visible through the open FaceTime window, David CLICKS on the Apple logo at the top-left of the screen, PRESSES “Shut Down” and is about to confirm the selection on the “Are you sure you want to shut down?” follow-up prompt when- He notices a still-open Chrome window at the edge of the frame: one of Margot’s old YouCast videos PLAYS ON MUTE. Something about it catches David’s eye. David CANCELS the shut-down and then- He UNMUTES the video. In it Margot shows off a beautiful-
+E: beat
+C: LAKE MARGOT
+D: This is it! Margot FLIPS the CAMERA back to reveal she’s sitting on a rock, her car in the BG.
+C: MARGOT
+D: Best place in the world to do nothing.
+E: CONT’D
+C: PAUSE. REWIND. PLAY.
+D: Margot shows off a beautiful lake.
+C: MARGOT
+D: This is-- PAUSE. What are we supposed to be looking at? Suddenly, David OPENS a new window and TRAVELS to Margot’s- TUMBLR - GOOGLE CHROME David frantically scrolls through Margot’s nature photography before finally halting at an innocuous photo of- EXT. LAKE - EVENING A very familiar lake. INTERCUT GOOGLE CHROME AND DAVID’S FACETIME WINDOW76 76 David compares the Tumblr photo to the YouCast video side-by- side, and it’s only then do we realize... Both photos were taken at the same spot. Underneath the Tumblr photo, a caption: “Barbosa Chilling.” David copies the caption and pastes it into a Google search. The second result on the page is a TripAdvisor link to “Barbosa Lake” in the Santa Cruz Mountains. David google-maps the lake, only to discover: It’s 10 minutes from the intersection Margot was recorded at. As realization dawns, David SLAMS the laptop closed and we-
+E: CONT’D PHOTO
+C: SMASH TO BLACK. OVER BLACK
+D: We HEAR A CAR ENGINE AT FULL THROTTLE. Then-
+C: RING. RING. RING. VICK
+D: You’ve reached Rosemary Vick. Leave a message. I’ll get back to you.
+E: V.O.
+C: SMASH TO: IPHONE UI
+D: Our screen is now an iPhone. On the VERTICAL iPHONE USER INTERFACE, a Waze arrow zips down the 101-South and takes the exit for the 152-East as-
+C: DAVID
+D: Vick, wake up. I know why she was at that traffic stop. She wasn’t leaving town... She was driving to the spot she’s been visiting for the last 5 months. It’s 3:45 AM. I’m headed there now. Call me back.
+E: V.O. beat
+C: SMASH TO BLACK.
+D: IPHONE UI - 4:24 AM David’s iPhone EXPLODES with an incoming FaceTime Video Call. It’s from Vick. The phone slides open, we hear WATER LAPPING and immediately, we can tell something is wrong. EXT. LAKE - SANTA CRUZ MOUNTAINS - NIGHT On VERTICAL VIDEO, David looks grimy and out-of-breath. Shell- shocked. Around him, PITCH BLACK. INT. VICK’S HOME - NIGHT 78 78 Even Vick, for the first time, looks just as anxious as she rushes to put on her jacket and grab her keys.
+E: FACETIME VIDEO FACETIME VIDEO
+C: VICK
+D: Where are you? INTERCUT DAVID/VICK’S FACETIME VIDEO CALL79 79
+C: DAVID
+D: You said she ran away, Vick.
+C: VICK
+D: Are you at the lake?
+C: DAVID
+D: You said she ran away.
+C: VICK
+D: I’m headed there now. Vick opens her garage door as we catch a brief glimpse of her * son in the hallway and-
+C: VICK
+D: Marvin, go back to sleep! INT. DETECTIVE VEHICLE - CONTINUOUS 80 80 Vick gets in her car. She mounts the phone on the dashboard.
+E: CONT’D FACETIME VIDEO
+C: VICK
+D: David, I need you to calm down. We’re gonna figure this out together. INTERCUT DAVID/VICK’S FACETIME VIDEO CALL David switches his FaceTime CAMERA to FORWARD-FACING and we see now that David is sitting by the same lake Margot was recording her videos at. But washed-up at the shore... ...is an eerily familiar item.
+C: VICK
+D: David, what are you showing me? David holds the object up. It’s BLURRY, but then FOCUSES and-
+C: DAVID
+D: These are her keys, Vick. We’re looking at Margot’s homemade Pokeball keychain. *
+C: VICK
+D: Oh my god. We hear FAINT SOUNDS on David’s end.
+C: VICK
+D: What is that? The POLICE SIRENS GROW LOUDER.
+E: CONT’D
+C: DAVID
+D: These are her keys.
+C: VICK
+D: David, did you call the cops? Pink Rev. 70. Vick SLAMS on the gas.
+E: 11/04/16
+C: VICK
+D: I’m on my way. The SIRENS are now DEAFENING. David is still in shock.
+E: CONT’D
+C: DAVID
+D: These. Are. Her. Keys.
+C: SMASH TO:
+D: EXT. LAKE - SANTA CRUZ MOUNTAINS - MORNING 82 82 A SWEEPING AERIAL SHOT introduces us to the expansive Barbosa Lake. It’s 7:50 AM and we’re streaming the morning news on- NEWS WEBSITE - GOOGLE CHROME
+E: NEWS FOOTAGE Note: all news footage will play from news websites.
+C: BOYD
+D: Good morning, Bay Area! I’m Natalie Boyd. A terrifying development today as a vehicle matching that of a missing San Jose teenager was discovered late last night underneath a Santa Cruz lake. EXT. LAKE - SANTA CRUZ MOUNTAINS - MORNING The CAMERA REVEALS the lake shore, where Vick, officers, and paramedics idle as police cars and a tow-truck arrive. But then the CAMERA ANGLE SWITCHES TO GROUND-LEVEL where- Wrapped in a wool blanket, a tortured David watches from the shore. Suddenly, the CAMERA WHIPS towards the water and- Two Divers emerge from under the lake, each gripping cables.
+E: V.O. NEWS FOOTAGE
+C: BOYD
+D: An operation is currently underway to recover Margot Kim’s Toyota Camry. But at this moment, we still * do not know whether the Evercreek High sophomore is actually inside the vehicle. Let’s say a prayer and take a look. Pink Rev. 71. The CAMERA WATCHES CLOSELY as the Divers attach the cables to the tow-truck, and the truck begins to pull Margot’s green Toyota Camry out of the lake. Tons of water wash out the windows. But then- Right when it gets the chance, the CAMERA ZOOMS to the FRONT WINDSHIELD, and we quickly see that-
+E: V.O. 11/04/16
+C: BOYD
+D: ...Okay, it doesn’t look like there’s anyone in the front seat. The car is set down on the shore and brought right-side-up. But instead of opening the doors, Vick and the officers converge on the-
+E: V.O.
+C: BOYD
+D: Oh God, they’re checking the trunk. David covers his mouth, unprepared for whatever’s inside. Vick pulls out Margot’s keys, unlocks the trunk, opens it and- EXT. ROADSIDE PRESS CONFERENCE - LATER On a different local news network, we watch as cameras are set up for a press conference, lights are adjusted, and reporters aim their mics at the makeshift podium when- Vick approaches the podium with a prepared statement.
+E: V.O. NEWS FOOTAGE
+C: VICK
+D: Good morning. Thank you for being here at such short notice. I’m Detective Sergeant Rosemary Vick, the lead investigator in this case and I’m joined by David Kim, Margot’s father. The CAMERA PANS to David, stoic.
+C: VICK
+D: We’ve provided you all with a chronology of events beginning with last Thursday, May 11th when Ms. Kim first went missing. That’s yours to circulate. But focusing on the events this morning, the Silicon Valley Police Department was able to recover Ms. Kim’s vehicle. And to answer the most obvious question: Margot Kim was not inside. Pink Rev. 72. A MURMUR goes through the crowd as-
+E: CONT’D 11/04/16
+C: VICK
+D: However, our examination of the vehicle did reveal a small amount of blood on the passenger side dashboard. Blood that points to a physical confrontation. Meaning that this case is now being officially considered... an abduction. INT. NEWS STATION 1 A MALE ANCHOR speaks to the camera.
+E: CONT’D NEWS
+C: MALE ANCHOR
+D: Good afternoon. A search through the Santa Cruz Forest is now underway for a local teen whose car was discovered dumped in a lake. INT. NEWS STATION 2 A FEMALE ANCHOR, just as dramatic.
+E: NEWS
+C: FEMALE ANCHOR
+D: --Authorities are asking anyone with information regarding the disappearance of Margot Kim to dial the hot-line or 911 immediately. EXT. ROADSIDE HEADQUARTERS - DAY Volunteers start arriving, being dropped off or carpooling in large groups. At the site- David and Peter hand out copies of the missing poster we saw David make earlier in the film.
+E: NEWS FOOTAGE
+C: VICK
+D: Starting at 1 PM, we’ll be assigning every volunteer to a search team. Each team will be in charge of a single section of the critical 12 square-mile radius. EXT. ROADSIDE PRESS CONFERENCE - MORNING 88 88 Next to Vick is a large map of the area, with an “X” marking the lake/roadside headquarters. Surrounding the lake, 15 different influence spheres mark 15 different search zones. Vick signals to a few zones west of the lake-
+E: V.O. NEWS FOOTAGE
+C: VICK
+D: Because of the steep ravines and otherwise unsafe topography on the west side of the lake, we’ve already cleared the following zones. But still, there’s a lot of ground to cover. EXT. LAKE - SANTA CRUZ MOUNTAINS - DAY 89 89 Volunteer groups search along the lake... EXT. FOREST - SANTA CRUZ MOUNTAINS - DAY 90 90 ...They travel through paths of thick shrubbery... EXT. RAVINES - SANTA CRUZ MOUNTAINS - DAY 91 91 ...and they inch their way around the edges of steep, cliff- like ravines as-
+E: signalling to the rest NEWS FOOTAGE NEWS FOOTAGE NEWS FOOTAGE
+C: VOLUNTEERS
+D: Margot! / Margot? / Margot! EXT. ROADSIDE HEADQUARTERS - DAY A91 A91 Vick instructs her team in the tents. She directs volunteers to their search zones. And she oversees the whole operation. EXT. ROADSIDE PRESS CONFERENCE - MORNING 92 92 CAMERAS FLASH. Reporters yell. Vick points to one of them. PRESS CONFERENCE REPORTER 1 Doesn’t the lack of footprints or fingerprints point to someone who knew exactly what he was doing? Pink Rev. 74.
+E: NEWS FOOTAGE NEWS FOOTAGE O.S. 11/04/16
+C: VICK
+D: It can. But still, everyone makes mistakes. Vick points to another reporter. PRESS CONFERENCE REPORTER 2 What about Margot’s phone? Did you locate that?
+E: O.S.
+C: VICK
+D: ...It wasn’t in the vehicle. Pink Rev. 74A. EXT. ROADSIDE HEADQUARTERS - DAY 93 93 Police prepare K-9s, which are each given a clothing article of Margot’s to sniff. They all rush into the forest with their police trainers as- NEWSCASTER 1 It’s hour 6 in the search for Margot Kim and so far, nothing to show for it. EXT. FOREST - SANTA CRUZ MOUNTAINS - EVENING A local ABC-7 SEARCH REPORTER comments from the field.
+E: 11/04/16 NEWS FOOTAGE V.O. NEWS FOOTAGE
+C: SEARCH REPORTER
+D: That’s right, Andrea. “Nothing to show for it” except for the tortuous mystery at its center, or if I may, in its glove-box. EXT. LAKE - MORNING
+E: SERIES OF PHOTOS
+C: A94 A94
+D: In one photo, Vick grabs a manila envelope from Margot’s car. In another, she opens it. In another, she looks inside and- OMITTED95 95 OMITTED96 96 INT. NEWS STATION 3 97 97 Another anchor.
+E: NEWS
+C: SOPHISTICATED MALE ANCHOR
+D: $2,500 in cash was found in a manila envelope in Margot’s glove box. Was it a runaway fund, like the lead Detective is suggesting, ...or was it something more? EXT. ROADSIDE HEADQUARTERS - NIGHT Peter, David, and a troop of volunteers return to the roadside, tired and empty-handed. Blue Rev. 75. NEWSCASTER 2 It’s hour 9 here at search headquarters, the sun is starting to set, and police are asking volunteers to pause their search and resume tomorrow morning. CUT TO: David gives an interview. He tries to stay composed.
+E: NEWS FOOTAGE 11/01/16 V.O.
+C: DAVID
+D: Yeah, I think... Tomorrow is a full day. There’s still lots of the * search zone that we haven’t touched * yet. But the more people who came, * the faster we went. If you have some * time tomorrow, we’d love the help. * INT. SILICON VALLEY HERALD NEWS WEATHER REPORT 99 99 RAIN CLOUDS COVER a weather projection. On the Silicon Valley Herald news website, the same kooky weatherman from before.
+E: NEWS
+C: NATHAN WATTSER
+D: Like I’ve been telling you all week, today is the day to whip out those umbrellas, folks. And not the plastic ones, either. EXT. SAN JOSE STREETS - MORNING Severe thunderstorms and heavy rain HAMMER DOWN. Traffic is halted. Streets are flooded. But most importantly- EXT. ROADSIDE HEADQUARTERS - MORNING 101 101 The search headquarters are wet and empty. On the lower- third: “SUMMER STORM HALTS SEARCH FOR LOCAL TEEN.” INT. POLICE OFFICE - DAY 102 102 Vick delivers an indoor statement, looking and sounding more frustrated than we’ve ever seen her. Pink Rev. 76.
+E: ignoring his previous prediction NEWS FOOTAGE NEWS FOOTAGE NEWS FOOTAGE 11/04/16
+C: VICK
+D: This is obviously not the outcome we wanted, but we will resume the search the moment it’s safe to walk through the forest again. In the meantime, however, the investigation will not stop until we find Margot.
+C: SMASH TO: TWITTER
+D: Meanwhile, “#FindMargot” trends locally, the number of tweets with the hashtag rising by the minute. Everything from: “Sending prayers to the family <3” to “I bet $2,500 the money was a plant” to “Uhhh Mom dies 1.5 years ago and now daughter disappears.... Um....the DAD anyone? #conspiracy #justsayin.”
+C: MR. LEE
+D: As one of the few teachers Margot really confided in... EXT. EVERCREEK HIGH SCHOOL - DAY Mr. Lee, the teacher David used PeopleSmart to track down, * gives an interview.
+E: V.O. NEWS FOOTAGE
+C: MR. LEE
+D: ...if not the only one, Margot always seemed troubled. If it were me, I’d look into the household. GMAIL - GOOGLE CHROME David’s Gmail is filled with hate mail: “I KNOW YOU DID IT.” “YOU MURDERER.” David CLICKS one labeled: “UNTITLED.” In it- A meme of a dopey David. Caption: “FATHER OF THE YEAR.” YOUTUBE - GOOGLE CHROME On the front page of YouTube, the cursor CLICKS a trending video called: “#FindMargot.” The video plays. In it- Pink Rev. 77. INT. TEENAGE GIRL’S BEDROOM - DAY 105 105 Abigail Nielsen fake-cries.
+E: 11/04/16 WEBCAM VIDEO
+C: ABIGAIL
+D: She was... She was... Sorry... She was my best friend. EXT. EVERCREEK HIGH SCHOOL - DAY A105 A105 A teenage boy with PERFECT HAIR gives an interview.
+E: NEWS FOOTAGE
+C: PERFECT HAIR
+D: I’m just a big believer in community service. Looking at all the things that happened to Margot, I just thought to myself: I think they could use my help. INT. TEEN’S HOUSE - DAY
+E: SNAPCHAT VIDEO
+C: B105 B105
+D: A STONER TEEN shakes his head in a snapchat video. His labeled text pops up, and it’s simply a : / FACEBOOK - GOOGLE CHROME Every single one of Margot’s “friends” David looked into has already posted a status. From Anoop to Mindy to Raj to Lee to Sruti to Megan and from Ross to Sam, the posts BLUR into a digital cacophony until- The SEQUENCE COMES TO A GRINDING HALT as David stumbles on the Facebook status of a familiar Instagram flirt: Derek ' ‘ Ellis. His status reads: “Everyone stop freaking out. Margot’s just been in my bed this whole time. She’s crazy about my dick lmaooooo ;)” Suddenly, David OPENS his- GOOGLE SPREADSHEET - GOOGLE CHROME He scrolls to Derek’s row: question-marks. Then returns to- FACEBOOK - GOOGLE CHROME David CLICKS on Derek’s profile and sees that: “Derek Ellis checked into Oakfair Theaters, San Jose.” Then we ZOOM IN to read: “7 minutes ago.” INT. MOVIE THEATER - NIGHT ” Suddenly, David OPENS his- GOOGLE SPREADSHEET - GOOGLE CHROME He scrolls to Derek’s row: question-marks. Then returns to- FACEBOOK - GOOGLE CHROME David CLICKS on Derek’s profile and sees that: “Derek Ellis checked into Oakfair Theaters, San Jose.” Then we ZOOM IN to read: “7 minutes ago.” INT. MOVIE THEATER - NIGHT C105 C105 On a cell phone video , David aggressively talks to a teen moviegoer until suddenly-
+E: CELL PHONE FOOTAGE CELL PHONE FOOTAGE recorded from a distance
+C: VICK
+D: You can’t be assisting the investigation anymore.
+E: V.O.
+C: DAVID
+D: What? INT. MARGOT’S BEDROOM - LATER David PAUSES the video. Titled “CRAZY DAD THEATER ATTACK,” the YouTube video now has 800,000 views. Meanwhile- David and Vick video chat. David is manic. INT. VICK’S HOME OFFICE - NIGHT 107 107 Vick doesn’t look happy, either.
+E: V.O. FACETIME VIDEO FACETIME VIDEO
+C: VICK
+D: We’ll update you on every move we make and all the evidence we gather. INTERCUT DAVID/VICK’S FACETIME VIDEO CALL108 108
+C: DAVID
+D: What does that mean?
+C: VICK
+D: It means that we can’t have someone this close to the case helping investigate it. It was my fault for involving you in the first place, but I did it because we had already lost so much time--
+C: DAVID
+D: --You’re cutting me off.
+C: VICK
+D: Every professional who should be working on this case is working on this case.
+C: DAVID
+D: --What about digital forensics, ‘cyber-crime,’ or whatever? Shouldn’t you guys have people who can help me look at her laptop?
+C: VICK
+D: Yes. And they will. But right now, we need to focus every resource we have on the ground search.
+C: DAVID
+D: All I’m trying to do is help you find my daughter.
+C: VICK
+D: I know. But you can’t see things clearly.
+C: DAVID
+D: Who’s the one who brought you the car? Huh? Who’s the one who found that lake and who brought you to her car? If it weren’t for me - not you - you and I would both be thinking my Margot ran away. But because of me--
+C: VICK
+D: --We don’t know she didn’t run away. She had cash in her car. And because of you, there is now a 17- year-old boy in the hospital--
+C: DAVID
+D: --He’s going to be fine.
+C: VICK
+D: You broke his jaw at a--
+C: MARVIN
+D: --Mom? Suddenly, a pimpled-faced teen appears in the doorway behind Vick, startling her and-
+E: O.S.
+C: VICK
+D: Marvin, may I take care of this, please?! Blue Rev. 80. Vick’s son looks at her screen, then drops his head. Leaves. Blue Rev. 80A.
+E: 11/01/16 11/01/16
+C: VICK
+D: You have a suspicion about someone? That’s fine. But then, it’s the police’s job to look for proof, not yours to act on flakes of evidence. Beat. David takes a breath. Then-
+E: CONT’D voice steadying
+C: DAVID
+D: You’re right. I shouldn’t have done that. But from now on, just tell me what you need from me, huh?
+C: VICK
+D: Nothing. We need nothing from you. I’m heading back to the field. Do not call me until I call you--
+C: DAVID
+D: --Vick, please.
+C: VICK
+D: Get some sleep, Mr. Kim. Vick hangs up and through the open FaceTime video display- INT. MARGOT’S BEDROOM - NIGHT 109 109 David is left all alone. Defeated- INTERCUT DAVID’S FACETIME WINDOW AND GOOGLE CHROME110 110 -David slowly drags his cursor back to the YouTube video and- He PRESSES PLAY. INT. MOVIE THEATER - NIGHT 111 111 In the clip, David grows testier. The exchange continues as- YOUTUBE - GOOGLE CHROME David starts to scroll past the hundreds of comments below: “This guy is nuts!” “Tragic.” “If I thought a punk-ass kid kidnapped my daughter, I’d be doing the same thing, bruh” “Real-life Making a Murderer.” But then David returns to the video and on it- Pink Rev. 81. INT. MOVIE THEATER - CONTINUOUS 112 112 David suddenly shoves Derek. Derek shoves back. And then- David CLOCKS the boy in the face. The CAMERA FRANTICALLY runs to the FRENZY as Derek’s friends wrestle a crazed David away and-
+E: FACETIME VIDEO CELL PHONE FOOTAGE 11/04/16 CELL PHONE FOOTAGE
+C: CAMERAWOMAN
+D: Someone call the police!
+E: O.S.
+C: SMASH TO:
+D: INT. MARGOT’S BEDROOM - LATER David JERKS AWAKE on the FaceTime video display. * DESKTOP - 7:45 PM David CLOSES FaceTime and logs into his own- GMAIL - GOOGLE CHROME Among the mass of hate mail, David OPENS two unread emails. The first is from Mike Porter at work, encouraging him to take as much time as he needs. NEXT. The second is from David’s psychiatrist, who recommends a new dosage of Trazadone based his recent stresses. DELETE. The third email is from MemorialOne, a funeral live-stream service, offering David access to their platform for Margot’s memorial, “God forbid she needs one.” David’s cursor HIGHLIGHTS key phrases from the email: “hundreds of well-wishers will inquire about attending,” “allows them to celebrate a life from afar,” “while still protecting the privacy of the moment to family and friends.” David replies: “SHE’S NOT DEAD” and TRAVELS to- GOOGLE - GOOGLE CHROME David searches “margot kim investigation.” The internet is full of links now. Margot even has her own Wikipedia. He CLICKS on the first link, which takes David to the official “Margot Kim Mystery” subreddit on- REDDIT - GOOGLE CHROME Pink Rev. 82. -where David is met with a barrage of thread theories. He skips the first: “21 REASONS DAVID KIM WOULD MURDER MARGOT.” And the second: “IS MARGOT KIM ‘GONE GIRL’ CRAZY?” And the third: “WHAT IF ITS A RANDOM ACT OF VIOLENCE?” Before finally CLICKING on the fourth thread: “$2,500 FOR WHAT???” INT. CONSERVATIVE TALK SHOW 114 114 An OLD RADIO JOCKEY banters.
+E: FACETIME VIDEO 11/04/16 NEWS
+C: OLD RADIO JOCKEY
+D: Drugs! It’s got to be drugs. You’ve got a 16-year-old girl stealing money from Daddy in Silicon Valley. She’s not using it to feed the homeless, we know that. Newsflash: We’ve got a drug problem in American high schools! Elect a Republican and fix it- The cursor RETURNS to- REDDIT - GOOGLE CHROME David finds another thread called “GOING OVER CAR PICS AGAIN.” He CLICKS the link and is taken to a- TABLOID WEBSITE - GOOGLE CHROME -where he’s met with a barrage of pictures from Margot’s car. David scrolls through all of them, but nothing seems especially significant. The cash. Gum. iPhone. USB cable. Chapstick. Car registration. Biology textbook. And... ...The lighter. Beat. David cycles through the photos again, finds a better angled photo of the car interior, and ZOOMS INTO the lighter to see: The San Jose Fins logo on the side of it. David’s cursor HOVERS over the lighter, trying to place it, trying to place it, trying to place it when suddenly- David OPENS Margot’s-
+C: IMESSAGE
+D: He scrolls to a single message chain and locks in on the profile photo of the corresponding contact. There he is: wearing a deceptive, warm smile and a faded, Fins jersey. The only person David knows who loves the Fins enough to a buy a lighter with their logo on it... Peter.
+C: CLICK.
+D: David opens the text chain, one of the few he chose not to read earlier. Then he sees the messages: “Last night was fun.” “Idk what you’re talking about ;)” David scrolls faster, catching bits and pieces of the texts. “I feel so weird doing this.” “NEVER tell your dad...” “Tonight?” “...or you’re dead” “Tonight?” “Yesterday was craazyyy.” “Tonight?” Then the final one, sent the day Margot disappeared: “See you tonight.” David’s cursor rereads the last text over, then quickly OPENS- GMAIL - GOOGLE CHROME He starts to compose an email to Vick ” David scrolls faster, catching bits and pieces of the texts. “I feel so weird doing this.” “NEVER tell your dad...” “Tonight?” “...or you’re dead” “Tonight?” “Yesterday was craazyyy.” “Tonight?” Then the final one, sent the day Margot disappeared: “See you tonight.” David’s cursor rereads the last text over, then quickly OPENS- GMAIL - GOOGLE CHROME He starts to compose an email to Vick - But then suddenly, David stops. DELETE. Instead, he OPENS- GOOGLE - GOOGLE CHROME -and types: “radioshack near me.”
+E: “I think my brother” “I think my brother”
+C: SMASH TO:
+D: INT. PETER’S APARTMENT - NIGHT David’s face COVERS THE FRAME, the word “STANDBY” stamped on the bottom of it. We’re looking through a CAMERA FEED. David FIDDLES with the CAMERA and then takes a step back to inspect his work. We’re in a living room, where a large San Jose Fins flag is pinned to the wall. In the BG, a vaguely familiar kitchen. David pulls out a second small cube-shaped camera from his pocket and places it inconspicuously among a pile of books on the other side of the room. He turns it ON and- INT. PETER’S APARTMENT - CONTINUOUS 116 116
+E: HIDDEN CAMERA FEED 1 HIDDEN CAMERA FEED 2
+C: PETER
+D: Davey, you want anything? Coffee? Tea? From the new VIDEO FEED, we glimpse Peter in the kitchen.
+E: O.S.
+C: DAVID
+D: Coffee. David cautiously sets up a third cube-camera when suddenly, Peter pops his head into the living room and-
+C: PETER
+D: No. You know what? You’ve probably been straight-chugging caffeine the last 3 days. I’m going make you some tea. Herbal. INT. PETER’S APARTMENT - CONTINUOUS The third camera feed BURSTS into existence, Peter doesn’t notice, and then-
+E: HIDDEN CAMERA FEED 3
+C: DAVID
+D: I need to go to my car. Through one of the CAMERA FEEDS facing a living room window, we see David exit the apartment. Outside, he gets into his car, grabs something from the passenger seat and... ...THE CURSOR FLIES INTO FRAME. We’ve been watching all of this on-
+C: DAVID’S PERSONAL LAPTOP
+D: On it, we WIDEN to reveal-
+C: HIDDEN CAMERA SOFTWARE APP
+D: All three CAMERA FEEDS are stacked next to each other, each with the word “STANDBY” stamped on the bottom. David moves his cursor to the toolbar, SELECTS “Name Session” and titles the video file: “Proof.” Then- David PRESSES “RECORD.” And as we begin to hear a TEA KETTLE WHISTLE GROW LOUDER AND LOUDER, David gets out of the car, walks inside, and we-
+C: SMASH TO:
+D: INT. PETER’S LIVING ROOM - MOMENTS LATER 118 118 David and Peter, seated uncomfortably in the living room. A TV plays in the BG. The brothers sip their tea until-
+E: HIDDEN CAMERAS
+C: PETER
+D: Mm, how’s the Detective? She working on any new leads?
+C: DAVID
+D: No. She’s not. David looks over at the TV. Then starts to chuckle.
+E: Note: For the duration of the scene, we will INTERCUT all three hidden CAMERA FEEDS.
+C: PETER
+D: What?
+C: DAVID
+D: You remember that time - I think it was like 6th grade - Eomma caught us watching Magnum PI. She banned us from TV for the whole summer because I introduced you to “graphic content!” Magnum PI. That was the worst feeling in the world. David turns off the TV.
+E: beat
+C: DAVID
+D: What’s your relationship like with Margot?
+E: CONT’D
+C: PETER
+D: What do you mean?
+C: DAVID
+D: You guys hung out, right?
+C: PETER
+D: Sure. David nods, prodding Peter to continue. Pink Rev. 86.
+E: 11/04/16
+C: PETER
+D: It was - you know - we didn’t hang out much, but I mean, she’s obviously an amazing--
+E: CONT’D
+C: DAVID
+D: --When was the last time you saw her, by the way? Beat.
+C: PETER
+D: You know what, I’d have to think about that, it’s really been awhi-- David’s PHONE RINGS. Peter quickly stands up.
+C: PETER
+D: I think this needs some honey. Meanwhile we WIDEN to see David’s-
+E: CONT’D re: tea
+C: DESKTOP
+D: The “incoming call” notification is from Detective Vick. INTERCUT DESKTOP AND HIDDEN CAMERA FEEDS David looks at his phone, debating whether to answer it as it continues to RING and then...
+C: IGNORE. PETER
+D: Who was that?
+E: from the kitchen
+C: DAVID
+D: Work.
+C: PETER
+D: Oh yeah, what have they been saying to you this whole ti--
+C: DAVID
+D: --Going back to the previous question, when did you say you last saw her? Beat. Peter stops. Thinks.
+C: PETER
+D: Dude, I can barely remember. He’s hiding something.
+C: PETER
+D: But let’s get our minds off this for a sec, huh? I feel like we’re just gonna drive ourselves crazy talking about it. Is your tea okay? You still want that coffee? David puts down his tea, unable to contain his emotions.
+E: CONT’D
+C: DAVID
+D: Last night was fun.
+C: PETER
+D: What was that? David gets up and starts to walks to the kitchen.
+C: DAVID
+D: I feel so weird doing this. As Peter begins to understand what David’s saying, so do we: David is reciting the texts between Peter and Margot.
+C: DAVID
+D: I mean, technically, it’ll be legal soon. Never tell your Dad. You free tonight? Yesterday was crazy. What about tonight? David will kill me if he ever finds out. Seriously he’d murder me. Peter’s frozen. David arrives at the kitchen.
+E: CONT’D
+C: DAVID
+D: And then, at 4:56 PM, the night she disappeared: See you tonight. Peter? What did you do with my daughter? * Beat.
+E: CONT’D pleading
+C: PETER
+D: I can explain--
+C: WHAM.
+D: David SLAMS Peter to the ground and starts to BEAT him. Pink Rev. 88.
+E: 11/04/16
+C: PETER
+D: David! Stop!
+E: CONT’D
+C: DAVID
+D: What have you done to her?!
+C: PETER
+D: Please! Peter flails under David’s weight. David keeps HITTING and-
+C: DAVID
+D: What did you do to her?! David CLAMPS Peter’s throat.
+C: PETER
+D: Stop! Stop! Peter tries to yank David’s hands away but David TIGHTENS.
+C: DAVID
+D: WHAT WERE YOU DOING WITH HER? Peter can barely speak, and David doesn’t relent. Peter’s face goes white, until finally, he’s able to get a word out.
+C: PETER
+D: --Weed. Beat. David loosens his hands.
+C: DAVID
+D: What?
+C: PETER
+D: Weed. I was smoking her out. Suddenly, a text notification slides onto the screen. It’s from Detective Vick: “Call back.” “Urgent.” But meanwhile- David climbs off Peter. He walks into the living room. Sits. Catches his breath. And then-
+E: coughing
+C: PETER
+D: David?
+E: CONT’D
+C: DAVID
+D: --Since when?
+C: PETER
+D: When you all came over for New Year’s, she found my piece. She wanted to try. And then it just kept happening. Peter stands and looks at a mirror: his neck is viciously bruised. Meanwhile- Another text from Vick goes ignored: “WE GOT HIM.” “Call me.”
+E: MORE
+C: DAVID
+D: --You gave drugs to my daughter?
+C: PETER
+D: I promised her I’d never tell you. Peter reaches into his fridge, fumbling for an ice pack as-
+C: DAVID
+D: So Margot would come to you in the middle of the night, you’d give her weed, and do God-knows-what-else--
+C: PETER
+D: --That’s it. We’d get high and talk. I swear. Another CALL from Detective Vick. David SILENCES it as-
+C: PETER
+D: I know how wrong this all sounds. And I know I should’ve told you sooner. But it just didn’t have anything to do with... this.
+E: CONT’D
+C: DAVID
+D: What kind of family are you? Peter freezes.
+C: PETER
+D: You’re asking me? You come in here and accuse me of something un- fucking-speakable and you’re wondering what kind of family I am? Peter enters the living room.
+C: PETER
+D: You wanna know why she hated those piano lessons? The ones she stopped going to. It’s because every time she’d walk in and see that thing, she’d think about her mother. Beat. Blue Rev. 90.
+E: CONT’D 11/01/16
+C: PETER DAVID
+D: She told you that?
+E: CONT'D
+C: PETER
+D: Like I said, we talked.
+C: DAVID
+D: She told my waste-of-a-life brother that and not me. Why? *
+E: CONT'D
+C: PETER
+D: Because you never asked. That’s the * point, dude. You didn’t even know * her. Ever since Pam, you’ve just * been so caught up in your charade of pretending everything was okay when everything was clearly not that you stopped talking to Margot about the only thing that’s been on her mind for the last two years. DAVID * --I lost someone too, okay? * PETER * She needed you to talk to her, not * the other way around! * DAVID * --I lost someone, too! * SILENCE. * PETER * I know. * Peter sits down across a pensive David, who doesn’t say anything for what seems like an eternity until finally- *
+C: DAVID
+D: I just thought it’d fix itself. * -DING. “NEW VOICEMAIL ” Shaken from his daze, David grabs his cell phone, keys, and-
+E: 1
+C: DAVID
+D: Thanks for the tea. He puts the phone to his ear and leaves Peter’s apartment. But then, halfway through Vick’s voicemail and almost at his car , David stops dead in his tracks... ...and crumbles to the pavement, just having heard the worst call any parent could get. Pink Rev. 91. INT. NEWS STATION 5 120 120 A “BREAKING NEWS” GRAPHIC FLASHES ACROSS THE SCREEN to ACTION MUSIC as we CUT TO an educated female anchor and-
+E: CONT’D as seen through the same living room window from earlier 11/04/16 NEWS
+C: FAUSTINE REA
+D: Good morning, I’m Faustine Rea. A parent’s worst nightmare comes true this morning for David Kim. In a shocking and thoroughly-mind- boggling conclusion to a story that’s captivated the Bay Area, Margot Kim, missing now for 5 days, has just been tragically declared dead. Why? A taped confession. A picture appears to the right of the anchor. On it, a depraved-looking man.
+C: FAUSTINE REA
+D: Randy Cartoff, released just six years ago for armed robbery and felony drug possession, uploaded the confession online before taking his own life. We’re going to play a segment of the 3-minute video now, but please be warned: the following contains graphic descriptions and disturbing content. Viewer discretion is advised. INT. DINGY LIVING ROOM RANDY CARTOFF - feral, pockmarked, out of his mind - stares STRAIGHT INTO THE CAMERA. Then he looks down at the crumbled piece of paper in his hands and reads from it.
+E: CONT’D 50’s
+C: RANDY
+D: Dear girl in the green car, I’m sorry for what I did to you. I’m sorry for not listening to you when you begged me to stop. She was really hurt, wasn’t she? I’m sorry for cutting you, putting you in your suitcases, and hiding you so no one would ever find you. I thought this would be easy. But it isn’t. But it isn’t... Blue Rev. 92. INT. POLICE OFFICE - DAY 122 122 Detective Vick speaks at a large press conference.
+E: beat 11/01/16 NEWS FOOTAGE
+C: VICK
+D: After analyzing the video online, we were able to track down the confessor’s identity. When we arrived at his Morgan Hill residence, Mr. Cartoff was deceased, seemingly by a self- inflicted gun wound. Sometimes these confessions are hoaxes, but based on his story, we were able to return to the lake site where we discovered trace DNA matching that of Mr. Cartoff in critical areas of the search zone. I have already spoken to her father, but at this point in the investigation, we are very confident... that Ms. Kim’s life was taken, on her way out of town. INT. NEWS STATION 5 Faustine Rea reshuffles her stack of blank papers.
+E: NEWS
+C: MORNING ANCHOR
+D: A public memorial will be held for Ms. Kim in downtown San Jose this week. Details to come soon, but until then, the only thing we know for certain is that the search for Margot Kim is over.
+C: DAVID
+D: It still doesn’t make sense. INT. DAVID’S BEDROOM - DAY David, in formal attire, video-chats with Vick. He looks like a shell of the man he was at the beginning. On his-
+E: V.O. FACETIME VIDEO
+C: DESKTOP
+D: Pictures of Randy and the crime scene.
+C: DAVID
+D: I mean, where’s the car that he took her in? * Pink Rev. 93. Where are these suitcases? Did he * clean up her blood? Who is this * guy? * Pink Rev. 93A.
+E: 11/04/16 MORE 11/04/16
+C: DAVID
+D: INT. VICK’S HOME OFFICE - DAY 125 125 Vick, in formal attire as well, sympathizes.
+E: CONT'D FACETIME VIDEO
+C: VICK
+D: I wish I had an answer for you. All * I know.. and all you need to * know... is that this had nothing to * do with you. DAVID * Yes, it did. * INTERCUT DAVID/VICK’S FACETIME VIDEO CALL126 126
+C: VICK
+D: I am so sorry for everything that’s happened to your daughter, and I am so sorry for everything that’s happened to you. If there’s anything you need me to do - ever - do not hesitate to give me a ring. * DAVID * Okay. VICK * Okay. * BEEP, BEEP, BEEP. The call ends, David CLOSES the FaceTime * window, and TRAVELS to- GOOGLE DRIVE - GOOGLE CHROME He opens the “SEARCH” folder, selects every document and spreadsheet he’s already made... and DELETES them all. Then he TRAVELS to Margot’s- FACEBOOK - GOOGLE CHROME 396 notifications. David FILES a request to memorialize Margot’s profile. Then- GMAIL - GOOGLE CHROME The hate mail has stopped. In its place, genuine condolences. Pink Rev. 94. David opens an unread email from “MemorialOne” titled "Videos/Photos for Today’s Memorial.” In the email- * MemorialOne gives David the option to submit any videos or * photos of Margot he’d like played during “today’s service.” * David CLICKS on the submission link and a window opens. FUNERAL ONE BROWSER WINDOW - GOOGLE CHROME On it: “Drag your files into the window and click SEND.” DESKTOP - MOMENTS LATER David opens his Finder where- -a “Kim_Home_Videos” Hard Drive loads on the sidebar. CLICK. In the search prompt, David types “margot.” 1134 results. He filters by “File Type” and SELECTS “Movies.” 101 results. David watches all of them. Some we saw in the opening montage. Some we didn’t. And he UPLOADS them all to- FUNERAL ONE BROWSER WINDOW - GOOGLE CHROME One by one by one until, in one video- FLASHBACK. INT. DAVID’S BEDROOM - MORNING 127 127 Pam RECORDS while YOUNG MARGOT jumps on a sleeping David.
+E: beat 11/04/16 HOME VIDEO 5
+C: YOUNG MARGOT
+D: Wake up! Wake up!
+C: PAM
+D: Show us what you made in class, Mar. Margot holds up a drawing to the CAMERA. Written below: “Happy Father’s Day to the BEST DAD EVER.” PAUSE.
+E: O.S.
+C: DESKTOP
+D: On Finder, David DELETES the video. Then EMPTIES the trash. FUNERAL ONE BROWSER WINDOW - GOOGLE CHROME After he’s done watching, David HITS “SEND” on the videos and- “Thanks for uploading!” is written below a photo of- Pink Rev. 95. INT. STOCK IMAGE 128 128 A freckled red-head in a headset shoots us a thumbs-up. FUNERAL ONE BROWSER WINDOW - GOOGLE CHROME David moves to close the window. But then he stops. His cursor glides back to the picture. The freckled red-head smiles back. There’s something off about it. About her. Suddenly, David OPENS Margot’s- PHOTOS APP - GOOGLE CHROME He scrolls. Nope. Then he opens Margot’s- FACEBOOK - GOOGLE CHROME David CLICKS through Margot’s tagged photos. Past Abby, past friends we’ve talked. Nothing. But then, David travels to- YOUCAST - GOOGLE CHROME David CLICKS on “Saved Videos,” skims Margot’s live-casts... -and revisits the profile of “fish_n_chips” . David opens fish_n_chips’ profile picture in full-screen, places the picture of MemorialOne’s redhead next to it, compares the images and realizes: They’re the same person. Suddenly, we begin to hear PRE-LAPPED AUDIO as-
+E: 11/04/16 PHOTO Hannah. 18. Server at Kirchick’s Diner. Pittsburgh, PA
+C: HANNAH
+D: Hello?
+E: V.O.
+C: DAVID
+D: Hi, I was wondering if I could talk to Hannah.
+E: V.O.
+C: HANNAH
+D: Speaking? David DRAGS Hannah’s YouCast profile picture- GOOGLE IMAGE SEARCH - GOOGLE CHROME - MOMENTS LATER -into a Google Image Search as-
+E: V.O.
+C: DAVID
+D: I’m calling in regards to my daughter, Margot Kim. You spoke to her online as ‘mkmania.’
+E: V.O.
+C: HANNAH
+D: Um... You must have the wrong number. I’m talent, not representation. But I can connect you to my agent if you’d-- The search results load. They’re all photos of Hannah. I/E. STOCK IMAGES 129 129 Same smile, but different outfits and uniforms. She’s a model.
+E: V.O. PHOTOS
+C: DAVID
+D: --So you work as a waitress part * time, then. Because you told the * detective you were on a shift. * GOOGLE IMAGE SEARCH - GOOGLE CHROME Next to one result, the model’s name is listed: Hannah Pardy.
+E: V.O.
+C: HANNAH
+D: What detective? GOOGLE - GOOGLE CHROME David googles the name, but can’t find what he’s looking for.
+E: V.O.
+C: DAVID
+D: You are Hannah Pardy, correct? Red hair. Freckles?
+E: V.O.
+C: HANNAH
+D: Yes! But I’m just an actress. * But then David VISITS- PEOPLESMART - GOOGLE CHROME He enters Hannah’s name, and parses through the results.
+E: V.O.
+C: DAVID
+D: I don’t understand. Detective Vick, she called you 4 days ago and you told her you were at the diner when- Pink Rev. 97.
+E: V.O. 11/04/16
+C: HANNAH
+D: Sir, I never got a call from the cops. What are you talking about? Pink Rev. 97A. David finds the correct “Hannah Pardy” and then returns to her photos on the- GOOGLE IMAGE SEARCH - GOOGLE CHROME
+E: V.O. 11/04/16 she lives in Los Angeles
+C: DAVID
+D: Okay. Maybe I’m not being clear. On YouCast, you’ve been chatting with my daughter for months. Your user name is ‘fish_n_chips.’ You’re a waitress from Pittsburgh. Your mom was in the hospital... Right? David lands on the photo of Hannah posing as a waitress and-
+E: V.O.
+C: HANNAH
+D: What’s YouCast?
+E: V.O.
+C: RING. RING. RING.
+D: INT. DAVID’S BEDROOM - MOMENTS LATER Seen through the open FaceTime display, a hyper-anxious David * keeps his phone glued his ear as he paces back and forth and-
+E: FACETIME VIDEO
+C: DAVID
+D: Vick. Something doesn’t add up. Call me back when you get this. David hangs up and returns to his computer where-
+C: DESKTOP
+D: Text notifications from Peter slide onto the screen: “Hey called/texted you 3 times. Trying Margot’s phone now...” “When are you getting here? Ceremony’s starting soon.” 911 OPERATOR SVPD Missing Persons Unit. How can I help you? INT. DAVID’S BEDROOM - DAY Through the open FaceTime video display, we see David check * his phone and-
+E: V.O. FACETIME VIDEO
+C: DAVID
+D: Can you connect me through dispatch to an officer? Pink Rev. 98. INTERCUT GOOGLE CHROME AND FACETIME VIDEO DISPLAYA131 A131 David types in: “Detective Rosemary Vick.” SEARCH. 911 OPERATOR I’m sorry sir, that’s not possible. What is this regarding? Meanwhile, David opens the same articles that he researched during his first talk with Vick. He cycles through them, searching for something as-
+E: V.O. 11/04/16 V.O.
+C: DAVID
+D: My name is David Kim, I’m trying to reach Detective Rosemary Vick-- 911 OPERATOR --Oh, Mr. Kim. I am so sorry to hear about Margot. We are so torn up about it here. *
+E: V.O. V.O.
+C: DAVID
+D: Thank you but-- David is down to the last two articles and- 911 OPERATOR --Especially Rosemary. I have never seen someone so invested in a case. * From the moment she volunteered to lead it, to the way she handled the investigation and dealt with the media the way she did--
+E: V.O. V.O.
+C: DAVID
+D: --Wait. David stops at an article when-
+E: V.O.
+C: DAVID
+D: What do you mean, volunteered? Above the article, a familiar photo. In it, Vick poses with a group of ex-convicts at a construction site. 911 OPERATOR Sorry? The photo’s caption: “Off the clock, Officer Rosemary Vick helping build a new drug-rehabilitation clinic.” Pink Rev. 99.
+E: V.O. V.O. 11/04/16
+C: DAVID
+D: You said Detective Vick “volunteered” to lead my case. I thought she was assigned to it. 911 OPERATOR No. She definitely volunteered. David PUNCHES INTO the photo. But instead of focusing on Vick, he ZOOMS to the eerily familiar ex-convict next to her. 911 OPERATOR Unfortunately though, I still can’t patch you through dispatch. She’s probably on her way to Margot’s memorial service, though. If you’d like, I can connect you to her voicemail instead? And then we recognize him: Randy Cartoff, the man who killed Margot.
+E: V.O. V.O. V.O.
+C: DAVID
+D: She didn’t run away from me. She didn’t run away from me. 911 OPERATOR Mr. Kim?
+E: V.O. to himself V.O.
+C: DAVID
+D: Actually. I’d like to speak to the Deputy Sheriff, please. MEMORIALONE - GOOGLE CHROME On the splash page, a live-stream link to watch the memorial: one million viewers already watching. David CLICKS the link and immediately, the MemorialOne video stream FLICKERS TO LIFE. Through the FaceTime video display, we see David grab his keys, his coat, and then leave the room. INT. CHURCH - DAY 132 132 The stream AUTOMATICALLY SWITCHES between three camera angles. The first: on the right. The second: on the left. And the third: in the back looking at-
+E: V.O. MEMORIALONE VIDEO STREAM seen via David’s laptop
+C: A MAKESHIFT MEMORIAL
+D: Pink Rev. 100. An array of candles and flowers surround a poster of Margot. Scattered throughout the pews, Isaac, Abby, Mr. Lee, and a slew of recognizable faces wait in somber silence. Pink Rev. 100A. At the front, Peter holds a spot for David, who’s noticeably missing. And off to the side- Vick. Her face is impossible to read. Then suddenly- David arrives. Respectfully acknowledging the crowd, the father proceeds down the aisle as if heading to his pew at the front. But then, he stops. Right in the middle. Turns. His eyes searching, searching until- He spots Vick. Then David doesn’t peel his eyes away. And neither does she. Vick knows. Now David walks faster. But instead of sitting at his pew or pausing at the memorial, he bee-lines to Vick, halts inches away from her face, and confronts her in a tense silence. Will Vick run? Will she confess? Attack David? Suddenly, entering from the side and front doors, five Silicon Valley Police Department officers make their way to the scene. Vick sees them. But still, she remains motionless, frozen in David’s glare until- The officers arrive, and Vick, instead of putting up a fight, calmly offers her hands in surrender. The mourners watch in shock as Vick is whisked out of the church by the officers. And David follows them. FADE TO: INT. INTERROGATION ROOM - TWO WEEKS LATER A HOMICIDE AGENT waits next to an empty table. Suddenly- Vick, in a denim prison uniform, enters. Expressionless. She sits at the table. The Homicide Agent follows suit. And then-
+E: 11/04/16 11/04/16 TAPED INTERVIEW
+C: HOMICIDE AGENT
+D: State your full name for the record, please.
+C: VICK
+D: Rosemary Clarice Vick. Blue Rev. 101.
+E: 11/01/16
+C: HOMICIDE AGENT
+D: Ms. Vick, you are admitting to four counts of felony: obstruction of justice under color of law, conspiracy to commit kidnapping and/or false imprisonment, kidnapping and/or false imprisonment, and murder. Is that correct?
+C: VICK
+D: Yes. EXT. CHURCH - DAY - BACK TO PRESENT The church doors fly open. SVPD escorts Detective Vick through a large crowd of media and spectators and-
+E: NEWS FOOTAGE
+C: CNN REPORTER
+D: Excuse us. We are getting word now that an arrest has just been made inside the church where the memorial of Margot Kim is currently in progress. Though not confirmed, reports claim that the new suspect-- Vick is taken into an SUV, flanked by two police cars when-
+E: V.O.
+C: CNN REPORTER
+D: --is a law enforcement agent working on the case. David is escorted into the front seat of the SUV by SVPD and- INT. INTERROGATION ROOM
+E: V.O. TAPED INTERVIEW
+C: HOMICIDE AGENT
+D: Okay. Let’s talk about the events leading up to your arrest last week, starting with Thursday May 11th when Margot Kim went missing. What happened that night?
+C: VICK
+D: I got a phone call.
+C: HOMICIDE AGENT
+D: And who was calling? MOMSANDDADSINBLUE.ORG - GOOGLE CHROME Blue Rev. 102. A familiar picture loads. In it, A younger Rosemary Vick stands next to her son, who makes only the slightest eye contact with the camera.
+E: 11/01/16
+C: VICK
+D: My son. Its caption: “From left to right, Officer Rosemary Vick and her son Marvin, a student at Sunwood Middle School.”
+E: V.O.
+C: HOMICIDE AGENT
+D: And what did he say? IPHONE UI - VICK’S PHONE An iPhone call from “Marvin.”
+E: V.O.
+C: MARVIN
+D: --Mom. I made a big mistake. I think I need to call 911. INT. INTERROGATION ROOM
+E: V.O. out-of-breath TAPED INTERVIEW
+C: HOMICIDE AGENT
+D: And what did you do after hearing the call?
+C: VICK
+D: I met him.
+C: HOMICIDE AGENT
+D: Where? IPHONE UI - VICK’S PHONE A text arrives from “Marvin.” It’s a dropped location pin.
+C: VICK
+D: Near Barbosa Lake. He was standing at the edge of a ravine.
+E: V.O.
+C: HOMICIDE AGENT
+D: Can you point to it on the map? We PINCH INTO the pin to reveal Marvin’s location on Apple Maps: the Santa Cruz Mountains, 500 feet west of Barbosa Lake. Pink Rev. 103. INT. INTERROGATION ROOM 137 137
+E: V.O. 11/04/16 TAPED INTERVIEW
+C: HOMICIDE AGENT
+D: And what did Marvin tell you when you got there?
+C: VICK
+D: He said ‘there’s a girl down there. I accidentally pushed a girl down there.’ So I asked him why.
+C: HOMICIDE AGENT
+D: What did he say?
+C: VICK
+D: --You have to understand, my son is not like the other kids. He’s different. He can be--
+C: HOMICIDE AGENT
+D: --What did he say?
+C: VICK
+D: He said he needed to give her money back.
+C: HOMICIDE AGENT
+D: What money?
+C: VICK
+D: Six months ago, Marvin recognized Margot on a live blogging website. MOZILLA FIREFOX - MARVIN’S COMPUTER “YouCast.com” is entered into the address bar and- YOUCAST - MOZILLA FIREFOX A pop-up appears on the splash page: “Welcome back, @fish_n_chips! A Facebook friend is live- casting for the first time. Wanna join?” The cursor hesitates and then-
+C: “YES.”
+D: Immediately, Margot’s first live-cast starts playing: In her-
+C: ROOM
+D: Margot, wearing braces, waits for a visitor. Blue Rev. 104.
+E: 11/01/16
+C: VICK
+D: He’s liked her since grade school. On the chat box next to Margot’s video, Marvin types: Fish_n_chips: hey margot
+E: V.O.
+C: VICK
+D: Always knew about her life... Fish_n_chips: <3 weird we’re both on here
+E: V.O.
+C: VICK
+D: ...and about her interests. Fish_n_chips: favorite pokemon and why In the video, Margot leans in, reads the message, tries to hold back a smile, and then grabs something OFFSCREEN.
+E: V.O.
+C: HOMICIDE AGENT
+D: So what did he do?
+E: V.O.
+C: VICK
+D: He continued talking to her. YOUCAST - MOZILLA FIREFOX - LATER138 138 Marvin CLICKS “Edit Profile.” He changes his account info.
+E: V.O.
+C: VICK
+D: ...Made up a story. Marvin enters a new age and a new location . But before he changes his profile picture, he TRAVELS to- GOOGLE IMAGE SEARCH - MOZILLA FIREFOX -and types “teacher” before backspacing and typing “retail” before backspacing and typing: “diner waitress.” ENTER. Results load.
+E: V.O. 18 Pittsburgh, PA
+C: VICK
+D: ...A new identity. The image on the fifth row: a familiar stock photo of “Hannah Pardy,” the woman we now know to be a model in LA. CLICK.
+E: V.O.
+C: VICK
+D: For six months, he was her friend. Blue Rev. 105. YOUCAST - MOZILLA FIREFOX We watch a series of familiar YouCast broadcasts. In them, Marvin makes up a story about a sick mother and-
+E: V.O. 11/01/16
+C: VICK
+D: It was just role-playing. Harmless. We watch Margot, talking, talking, talking... In one YouCast broadcast, Margot speaks excitedly from the-
+E: V.O.
+C: LAKE MARGOT
+D: By the way I’m sending you a little surprise I’ve been saving for tomorrow. I think you’re gonna really--
+C: HOMICIDE AGENT
+D: Until the money.
+E: V.O.
+C: DING. MARVIN’S DESKTOP
+D: A Venmo notification slides onto the screen, notifying fish_n_chips of a new transaction.
+C: VICK
+D: She found his username on Venmo. CLICK. Suddenly, we’re looking at- VENMO - MOZILLA FIREFOX A transaction receipt of $2,500. Its description: a emoji.
+E: V.O.
+C: VICK
+D: $2,500 to take care of hospital expenses. INT. INTERROGATION ROOM
+E: V.O. TAPED INTERVIEW
+C: HOMICIDE AGENT
+D: Expenses that didn’t exist.
+C: VICK
+D: She was a good kid. Blue Rev. 106.
+E: 11/01/16
+C: HOMICIDE AGENT
+D: And that was the cash he was returning.
+C: VICK
+D: He had to come clean. It was over.
+C: HOMICIDE AGENT
+D: Why didn’t he just give it to her at school?
+C: VICK
+D: She could’ve reacted the wrong way. In public. Marvin doesn’t like that kind of attention--
+C: HOMICIDE AGENT
+D: --So he followed her.
+C: TRAFFIC CAMERA FEEDS
+D: Alone in her green Toyota, Margot takes the exit for the 152 East in Gilroy, California, captured on camera. But one thing none of us noticed the first time:
+C: VICK
+D: He followed her. In the car directly behind Margot, a stone-faced Marvin. INT. INTERROGATION ROOM 140 140
+E: V.O. TAPED INTERVIEW
+C: HOMICIDE AGENT
+D: And what was Margot doing when your son arrived at the lake.
+C: VICK
+D: She was getting high, in her car.
+C: HOMICIDE AGENT
+D: And what happened then?
+C: VICK
+D: He got inside.
+C: HOMICIDE AGENT
+D: What was Margot’s reaction? Pink Rev. 107.
+E: 11/04/16
+C: VICK
+D: She screamed. She hit him. By the time Marvin noticed he was bleeding, she was already running and dialing for help. Marvin chased after. But it was pitch black.
+C: HOMICIDE AGENT
+D: Where did he catch up with her?
+C: VICK
+D: A few hundred yards west of the lake.
+C: HOMICIDE AGENT
+D: By the ravine.
+C: VICK
+D: She was punching. Yelling. Marvin just reacted. He pushed back once and... she fell. Just disappeared. And then it was quiet.
+C: HOMICIDE AGENT
+D: So then your son calls, asks for your help to cover up a murder--
+E: beat
+C: VICK
+D: --No. It was my decision. IPHONE UI - VICK’S PHONE The original call. Vick tries to calm Marvin down.
+C: VICK
+D: Baby? Baby? I need you to take those breaths we talked about, okay? I don’t want you calling anyone. Mom will be there in a second. EXT. VICK’S HOUSE - DAY On CNN, we see police escort a stone-faced Marvin from his house into a police vehicle while-
+E: V.O. NEWS FOOTAGE
+C: VICK
+D: It was my decision. Not his. Pink Rev. 108. INT. INTERROGATION ROOM 142 142
+E: V.O. 11/04/16 TAPED INTERVIEW
+C: HOMICIDE AGENT
+D: So now you’re looking down this * ravine. Could you see Margot’s body?
+C: VICK
+D: No.
+C: HOMICIDE AGENT
+D: Did you go down?
+C: VICK
+D: I tried. But it was narrow, jagged, and at least 50 feet to rock bottom. Impossible without SAR.
+C: HOMICIDE AGENT
+D: Then how did you figure--
+C: VICK
+D: --She was dead? It was narrow, jagged, and at least 50 feet to rock bottom. And it was dead quiet.
+C: HOMICIDE AGENT
+D: So you helped your son.
+C: VICK
+D: I put her phone in the car and dumped the car in the lake.
+C: HOMICIDE AGENT
+D: And the cash?
+C: VICK
+D: Nothing could trace back to him.
+C: HOMICIDE AGENT
+D: Then what?
+C: VICK
+D: Then I thought about my options. A police investigation was inevitable.
+C: HOMICIDE AGENT
+D: So you decided to head it.
+C: VICK
+D: I needed to convince David his daughter ran away. Pink Rev. 109. PHOTOSHOP - VICK’S COMPUTER143 143 We see Vick’s cursor upload a California driver’s license belonging to Rachel Jeun to Photoshop, and replace the picture with one of Margot’s. Then she changes the address.
+E: 11/04/16
+C: VICK
+D: I photoshopped an ID... VENMO - MOZILLA FIREFOX CLICK. Marvin’s Venmo Account is “DEACTIVATED.”
+E: V.O.
+C: VICK
+D: ...told David that Marvin’s Venmo belonged to Margot and that Marvin’s account on YouCast belonged to a girl who didn’t actually exist.
+E: V.O.
+C: HOMICIDE AGENT
+D: But David found the car.
+E: V.O.
+C: VICK
+D: I scrambled. First I delayed the laptop from getting to forensics.
+E: V.O.
+C: HOMICIDE AGENT
+D: Then?
+E: V.O.
+C: A FAMILIAR PRESS CONFERENCE
+D: Vick points to a map of the search area, telling reporters that the area west of the lake had already been cleared.
+C: VICK
+D: I told the law enforcement team that we’d already cleared the zone I knew her body was in and then told the volunteers to look elsewhere. INT. INTERROGATION ROOM
+E: V.O. TAPED INTERVIEW
+C: HOMICIDE AGENT
+D: --But still it was only a matter of time before they’d find the spot. Pink Rev. 110.
+E: 11/04/16
+C: VICK
+D: That’s why I needed a confession. It was the only thing I could do to stop it.
+C: HOMICIDE AGENT
+D: Okay. Let’s talk about Randy Cartoff. SILICON VALLEY HERALD NEWS WEBSITE We see the newspaper photo of Vick and Randy, smiling. Then-
+C: RANDY’S CONFESSION VIDEO
+D: -starts to play. Meanwhile-
+C: HOMICIDE AGENT
+D: So you drugged up a “bum” you knew and fed him lines?
+E: V.O.
+C: RANDY
+D: She was really hurt, wasn’t she?
+E: looking off-camera
+C: VICK
+D: He was the only one without a family.
+E: V.O.
+C: HOMICIDE AGENT
+D: What did you do with the video? LIVELEAK - GOOGLE CHROME The video is uploaded to LiveLeak.
+E: V.O.
+C: VICK
+D: I uploaded it. And planted his DNA near the lake. INT. INTERROGATION ROOM
+E: V.O. TAPED INTERVIEW
+C: HOMICIDE AGENT
+D: Was it really a suicide? Vick doesn’t answer.
+C: HOMICIDE AGENT
+D: He was murdered, wasn’t he? Silence. Blue Rev. 111.
+E: CONT’D 11/01/16
+C: HOMICIDE AGENT
+D: Did you kill Randy Cartoff? Vick breaks down.
+E: CONT’D
+C: VICK
+D: He’s my son. He made a mistake. We STAY ON Vick for awhile. Until finally- I/E. SAN JOSE STREETS - BACK TO PRESENT 146 146 An AERIAL SHOT FOLLOWS the SUV that carries Vick and David from the church. On the lower-third: “REPORT: LEAD DETECTIVE IN ABDUCTED/MURDERED TEEN’S CASE ARRESTED.” NEWSCASTER 3 For those of you just joining from our affiliates in Sacramento, San Francisco and Los Angeles, we are now tracking an SUV carrying... The car continue as-
+E: NEWS FOOTAGE V.O. and its procession
+C: HOMICIDE AGENT
+D: And on the way to the station, when you told all this to David, what did he do?
+E: V.O.
+C: VICK
+D: He asked a question.
+E: V.O.
+C: HOMICIDE AGENT
+D: What did he ask? The SUV turns a signal on and begins to switch lanes as-
+E: V.O.
+C: CNN ANCHOR
+D: In just a few seconds, the SUV will arrive at the police station where--
+E: V.O.
+C: VICK
+D: --He asked if I was sure Margot was dead.
+E: V.O.
+C: HOMICIDE AGENT
+D: And what did you say? The SUV approaches a fork-in-the-road and- Blue Rev. 112.
+E: V.O. 11/01/16
+C: VICK
+D: I said even if she survived that fall, she would have had to live 5 days without food or water.
+E: V.O.
+C: HOMICIDE AGENT
+D: And how did David respond? The SUV makes a right turn as-
+E: V.O.
+C: VICK
+D: He corrected me. He said 2 days. Margot would have had to live without food or water for 2 days. There was a storm on Monday. Suddenly- TIRES SCREECH and SIRENS BLARE as THE SUV CRANKS A U-TURN IN THE MIDDLE OF THE STREET... ...and SPEEDS OFF in the opposite direction. EXT. RAVINE - SANTA CRUZ MOUNTAINS - DAY We’re back in the Santa Cruz Mountains, where- The rescue mission is underway. From San Jose to New York, live footage of the operation is streamed on networks across the nation. In the footage- A Search-and-Rescue helicopter HOVERS over a deep RAVINE. Text over the image: “Santa Cruz Mountains, 5:06 PM PST.”
+E: V.O. beat NEWS FOOTAGE captured by aerial and ground cameras
+C: CNN ANCHOR
+D: We are currently watching a rescue operation underway for missing teen Margot Kim, who authorities now believe is at the bottom of this Northern California ravine. Above the ravine, police officers, fire marshals, and a hyper- anxious David Kim watch as- A RESCUE RESPONDER descends from the edge of the ravine and disappears into the abyss below. Blue Rev. 113. INT. NEWS STATION 5 148 148 A News Anchor speaks into the CAMERA. To his left, an OTS graphic with the text: “SEARCH BECOMES RESCUE.” NEWS ANCHOR 4 Presumed dead only hours ago, the search for Margot Kim is revitalized this evening after a suspect in custody has provided authorities with Ms. Kim’s exact location. The only question that remains, however: is Margot still alive... or is it already too late? EXT. RAVINE - SANTA CRUZ MOUNTAINS - DAY David can barely contain his emotions while-
+E: V.O. 11/01/16 NEWS NEWS FOOTAGE
+C: NEWS PUNDITS
+D: I mean, is there even a chance she survives after all this time? / Even if she were to make it out of this, what kind of injuries are we looking at? Suddenly, the Responder’s rope begins to raise as- EXT. RAVINE/INT. NEWS STATION 6 - SPLIT SCREEN - CONTINUOUS150 150 A DOCTOR is interviewed via split-screen, on CNN. Text below ID’s him as “Dr. Angel Palacios, Silicon Valley Trauma.”
+E: V.O.
+C: DOCTOR
+D: Assuming Margot is still alive, and I pray that she is, we are realistically looking... at broken legs, a sprained or broken neck, injuries to the spinal cord, severe blood clots from immobility, heavy bruising, hypothermia, dehydration, and that’s not even mentioning the mental damage: shock, trauma--
+C: CNN ANCHOR
+D: --Hold on guys. It looks like something is happening. The split-screen disappears and back on the live rescue- Pink Rev. 114. EXT. RAVINE - SANTA CRUZ MOUNTAINS - CONTINUOUS151 151 David and a team of EMTs huddle as shapes begin to emerge from ravine below. Inch by inch by inch until-
+E: V.O. 11/04/16
+C: CNN ANCHOR
+D: Oh my god. There she is. Strapped to a rescue basket, bruised and broken, covered in dirt and blood and grime and placed on the forest floor... ...is Margot Kim. The EMTs immediately surround the unresponsive Margot, checking vitals and slowly transporting her body onto a stretcher when David pushes through the group. Even from the HIGH ANGLE, we clearly track his emotions... David gently CARESSES his daughter’s body, KISSING her and WHISPERING into her ear for what seems like an eternity when- Margot RAISES her hand to David’s face. David doesn’t notice. Until she TOUCHES him. Smiling through his tears and crying through his laughter, David GRIPS his daughter’s hand and steps aside... EMTs carry a barely-alive Margot to a waiting ambulance as we- FADE OUT. DESKTOP - MARGOT’S LAPTOP - 1 YEAR LATER A familiar wallpaper of Margot and Pam loads first. Then comes the dock. Then the cursor, which OPENS-
+E: V.O.
+C: GOOGLE CHROME
+D: -and TRAVELS to “sfmc.edu” which autofills after the “s.” The website loads and suddenly we’re on the splash page of the- SAN FRANCISCO MUSIC CONSERVATORY WEBSITE - GOOGLE CHROME The cursor finds a corner of the page with a small link: “Application Status.” CLICK. On the next page, a progress bar: “Your application to study PIANO at the San Francisco Music Conservatory is PENDING. Please check again later for updates.” Suddenly- The cursor DARTS to-
+C: IMESSAGE
+D: -and starts drafting a text to “Dad” when we realize who’s operating the computer: Margot Kim. urgh still no news in their defense they did say they would’nt let you know until october what if i dont get in You’ll get in.
+C: PS
+D: I never sent you the photo From last month what photo? A photo is received: a first-day-of-school-selfie, taken at- EXT. EVERCREEK HIGH SCHOOL - DAY 152 152 Even though Margot now sits in a wheelchair, the faces of David and Margot remind us of the good old days. Silly. Happy. Love.
+E: PHOTO
+C: IMESSAGE
+D: Ew i look gross Oh my god!! i do!!! anyways gotta go Margot’s cursor RETURNS to the- SAN FRANCISCO MUSIC CONSERVATORY WEBSITE - GOOGLE CHROME Margot presses REFRESH on the “Application Status” window. No Updates. But then, DING. INTERCUT APPLICATION STATUS WINDOW AND IMESSAGE Totally understand. That page isn’t just gonna refresh itself That’s not what I’m doing. Margot SPAMS the REFRESH button. Nothing. Nothing. Nothing. But in all seriousness I’m so proud of you Margot drags her cursor to the texts while David bubbles. Then- I know Mom would be, too I know :) love you ever since thank you for always reminding me :) Ok. Now please focus on school.
+C: OH!
+D: Just remembered! I have a study group tonight. Oh. Okay... Where? Well that’s the thing. I actually told them to come to our place. Is that okay? David bubbles for a beat. And then- Yeah. It totally is. I’ll make muddy buddies. See you tonight. See you tonight. Margot CLICKS on the Apple logo at the top-left of the screen. She presses “Shut Down” and is about to confirm the selection on “Are you sure you want to shut down?” when- She stops. Then CANCELS the shut-down. Margot scrolls up her text chain with “Dad” and finds a photo. She RIGHT-CLICKS, scrolls past a series of options, and settles on: “Set Desktop Picture.” CLICK. And then-
+N: Every app quits. The dock vanishes. And our cursor disappears.

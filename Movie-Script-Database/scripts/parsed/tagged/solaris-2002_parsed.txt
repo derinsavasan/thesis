@@ -1,0 +1,1377 @@
+M: S O L A R I S
+M: by
+M: Steven Soderbergh
+M: based on the novel by
+M: Stanislaw Lem
+M: and the screenplay by
+M: Freidrich Gorentstein and Andrei Tarkovsky
+M: blue draft revised 4/01/02
+M: pink draft revised 4/10/02
+M: green draft revised 4/17/02
+M: yellow draft revised 4/25/02
+M: goldenrod draft revised 4/30/02
+M: salmon draft revised 6/05/02
+M: 2nd blue revised 9/12/02
+M: Converted to PDF by mypdfscripts.com
+M: First, over BLACK, we hear the sound a light rain.
+M: A MAN’S VOICE
+M: I’m not a poet. I’ve never moved
+M: anyone with my words.
+M: (beat)
+M: Maybe that’s why they chose me.
+M: Then:
+S: INT. APARTMENT. DAWN.
+N: A rain-streaked window. Beneath it, CHRIS KELVIN, 42, sits on the edge of his bed. He may have just gotten up or he may have been sitting like this for an hour.
+T: CUT.
+S: EXT. STREET. DAY.
+N: Kelvin walks to work. He takes no notice of passersby or his surroundings.
+T: CUT.
+S: INT. OFFICE. DAY.
+N: Kelvin guides a group discussion. The implication is that these people are undergoing grief counseling due to some recent cataclysmic event.
+T: CUT.
+S: INT. TRAIN. NIGHT.
+N: Kelvin looks toward the window, his gaze unfocused. His eyes drift back toward the train car and settle on: A STENCIL OF A HAND WITH A HOLE IN THE PALM Crudely spray-painted on the door of the train.
+T: CUT.
+S: EXT. STREET. NIGHT.
+N: Kelvin walks home. His apartment (which we haven’t seen from the outside) is in a structure designed for functionality. It continues to rain.
+T: CUT.
+S: INT. APARTMENT. NIGHT.
+N: Kelvin closes the door to the refrigerator as he makes dinner for himself. The TV drones in the background. While preparing food, Kelvin accidentally cuts himself. He lowers the knife slowly and stares at the wound.
+C: KELVIN’S FINGER
+D: Bleeding, though not profusely.
+C: KELVIN
+D: Looks at it for a moment longer, then moves to rinse it in the sink. The door buzzer sounds. Judging from Kelvin’s reaction, he wasn’t expecting anyone. We hold on the door as he looks at a readout of his visitor’s identities, replete with head shots and fingerprint confirmation.
+C: KELVIN
+D: Opens the door to reveal TWO SUITED PROFESSIONALS. MALE SUITED PROFESSIONAL #1 Dr. Kelvin? CUT.
+C: VIDEO
+D: A MAN, unshaven, looking into the camera. This man, GIBARIAN, looks very tired and somewhat apologetic. Kelvin and the two Suited Professionals are watching the screen.
+C: GIBARIAN
+D: We take off into the cosmos, ready for anything: solitude, hardship, exhaustion, death. We’re proud of ourselves, in a way. But when you think about it, our enthusiasm is a sham. We don’t want to explore the cosmos--we want to conquer it, to extend the boundaries of Earth to the cosmos. Imposing our ideas, our values. We are only seeking Man. We don’t want Other Worlds. We want mirrors. Maybe we don’t need to know what it is, or why. Maybe just knowing that it is should be enough. Gibarian stares at the camera for a long moment before switching it off and ending the transmission. Kelvin sits back. MALE SUITED PROFESSIONAL #1 That was six months ago.
+E: beat
+C: KELVIN
+D: Why not send a security force? MALE SUITED PROFESSIONAL #1 We did. A long beat. Everyone knows what that means.
+C: KELVIN
+D: Isn’t there some sort of on board AI system? MALE SUITED PROFESSIONAL #2 They shut it down. We’re receiving no streaming of any kind. A beat. MALE SUITED PROFESSIONAL #1 He was a friend of yours. MALE SUITED PROFESSIONAL #2 He’ll know you’re unarmed, and won’t associate you with DBA or any government. The flight itself is fully automated. You’ll be asleep most of the trip. MALE SUITED PROFESSIONAL #1 We feel confident that if you can manage to board the ship, you can negotiate their safe return.
+C: KELVIN
+D: Is that what everybody wants? A really long beat. MALE SUITED PROFESSIONAL #1 Of course. CUT. INT. SPACE CAPSULE. Begin opening credits. Close on Kelvin. We hold on him a long time, as a myriad of readouts scroll and flash across his face. A reverse angle out his small, rectangular window reveals the approaching planet: SOLARIS. Kelvin stares at it, hypnotized. It has a translucent quality, as though it is lit from within, and its undulating, ocean-like surfaces slowly change colors. Kelvin’s attention is diverted as an orbiting ship, the PROMETHEUS, edges into frame. A logo reading DBA is visible on its hull. Kelvin types on a keyboard and we see a readout: INITIALIZE DOCKING. EXT. SPACE. The Athena 7, sporting the newest version of the American flag, advances silently toward the Prometheus. End opening credits. CUT. INT. PROMETHEUS. Kelvin, in a space suit, climbs with some difficulty out of Athena 7, which has come to rest in the DOCKING BAY of the Prometheus. Several exploratory PODS fill the remainder of the area. Kelvin gets his bearings and looks around, wondering if he will be acted upon, but there is no one to be seen. He presents his left wrist to a small wall scanner, which confirms his identity and vital signs. Now Kelvin sees the DRIED BLOOD on the floor. It leads from one of the nearby PODS to the entryway. It’s been smeared by footprints. CUT. INT. CORRIDOR. Empty. Kelvin, now out of his space suit and holding a small carrying case and a duffle bag, continues to track the blood stains. CUT. INT. LAB. Also quiet, but with indications of past activity. It would appear that whoever was injured and brought here was worked on. A lone, dirty surgical glove lies on the floor. Kelvin spots a sealed glass room adjacent to the lab. In it, TWO BODY BAGS have been laid out. CUT. INT. COLD ROOM. Cautiously, Kelvin unzips the first of the two bags. It’s Gibarian. His body is unmarked. Kelvin unzips the second bag. Judging from his reaction, this corpse is in significantly worse shape than Gibarian’s. He notes the name hand-written on the bag:
+C: COUTARD.
+D: Kelvin re-zips the bag and exits. He didn’t notice that one of the tiles above his head is stained with blood that must be coming from the unexposed side of the ceiling. CUT. INT. CORRIDOR. Kelvin continues to explore the ship. CUT. INT. CORRIDOR. Empty. But there is a door at the end, slightly open. Kelvin moves toward it. As he nears, he hears a voice from within:
+C: VOICE
+D: Sort B. Run the probability of F. Cube the sum of C and the square root of N. INT. ROOM A. A FIGURE, seated with its back to the door, turns to see Kelvin enter. This is SNOW. He looks Kelvin up and down, his expression curious. He doesn’t seem stressed out; in fact, he seems almost relaxed, which throws Kelvin a little.
+E: beat beat
+C: SNOW
+D: Hi.
+C: KELVIN
+D: Hi. Snow.
+C: SNOW
+D: Yeah. Dr. Kelvin? A beat.
+C: KELVIN
+D: Call me Chris.
+C: SNOW
+D: Okay. Another beat, then Kelvin moves to shake his hand. Snow accepts, holding on a little longer than normal, as if to make sure of something.
+C: KELVIN
+D: Do you mind if I...? Kelvin indicates a small IDENTITY SCAN DEVICE that he is holding. Snow smiles.
+C: SNOW
+D: No, go ahead. Snow presents his left wrist. Kelvin scans it.
+C: SNOW
+D: Do I pass?
+C: KELVIN
+D: Yeah. Whose blood was that, leading to the lab?
+E: beat
+C: SNOW
+D: Coutard. He tried to escape when the security force showed up. They blew a hole in his pod.
+C: KELVIN
+D: What happened to Gibarian? A beat.
+C: SNOW
+D: Suicide.
+C: KELVIN
+D: When?
+C: SNOW
+D: Two days ago. Pills, I think. We didn’t do any toxicology, the bottle was right beside him.
+C: KELVIN
+D: Did he talk about wanting to kill himself?
+C: SNOW
+D: Not to me.
+C: KELVIN
+D: Who found him?
+C: SNOW
+D: I did.
+C: KELVIN
+D: What happened to Reese?
+C: SNOW
+D: We...don’t know what happened to Reese. He sort of disappeared. Kelvin just looks at him.
+C: KELVIN
+D: How could he disappear?
+C: SNOW
+D: We don’t know. He’s not on the ship, but we don’t know how he could’ve left.
+C: KELVIN
+D: Where’s Dr. Gordon?
+C: SNOW
+D: In her room. She won’t let you in. A beat.
+C: KELVIN
+D: I’ll need to communicate with Earth, let them know I’ve docked.
+C: SNOW
+D: We can’t let you do that. Chris.
+C: KELVIN
+D: If they don’t hear from me, they’ll send someone else.
+C: SNOW
+D: That’s really the least of our problems right now. A beat.
+C: KELVIN
+D: Can you tell me what’s happening here?
+C: SNOW
+D: Well, I could tell you what’s happening, but I don’t know if that would really tell you what’s happening, you know what I mean? A beat. Kelvin turns to leave.
+C: SNOW
+D: Hey, Dr. Kelvin--Chris--if you see anything unusual... Kelvin stops, but doesn’t turn around.
+C: SNOW
+D: ...try to stay calm. CUT. INT. CORRIDOR. Kelvin stands outside a door.
+C: GORDON
+D: You have to give me your word you won’t come in. Then I’ll come out.
+E: inside, muffled
+C: KELVIN
+D: All right. Gordon cracks the door open and slithers through the slit and into the hallway. She is of obvious intelligence and not to be messed with; contentious, intimidating when she wants to be, and probably brilliant. Also, in stark contrast to Snow, completely stressed out.
+C: GORDON
+D: Well?
+C: KELVIN
+D: What? Gordon holds up her left wrist so that Kelvin can scan it. He does so, wordlessly.
+C: KELVIN
+D: What happened to Gibarian?
+C: GORDON
+D: Didn’t you talk to Snow?
+C: KELVIN
+D: I want to hear your version.
+C: GORDON
+D: There isn’t any “version”. He killed himself.
+C: KELVIN
+D: Tell me what’s happening. What you found? Why won’t you come back to Earth? A beat.
+C: GORDON
+D: Even if I could explain it, why would I explain it to you?
+C: KELVIN
+D: I’m here to help.
+C: GORDON
+D: Who are you representing, exactly?
+C: KELVIN
+D: I represent the last effort to recover this mission before they destroy the ship and everyone on it. She exhales.
+C: GORDON
+D: Until it starts happening to you, there’s really no point in discussing this.
+C: KELVIN
+D: Until what starts happening? Gordon is grabbed by something on the other side of her door. She struggles to keep her composure.
+C: KELVIN
+D: Is there someone in there with you? Gordon is losing the battle with whomever or whatever is on the other side of the door.
+C: GORDON
+D: Just so you know: I’m not going back until I understand what it is. I am going to figure out what it is, make it stop, and then I will go home.
+C: KELVIN
+D: Listen--
+C: GORDON
+D: Oh, and I should tell you: I don’t trust Snow. Gordon rotates and zips back into her room. As the door closes Kelvin sees a flash of ANOTHER FIGURE in Gordon’s room. The glimpse was too quick to judge who or what the other figure could have been. CUT. INT. CORRIDOR. Kelvin walks, exploring the ship. He sees something that stops him:
+C: A YOUNG BOY
+D: Blonde, maybe five or six years old, slipping across a corridor up ahead. Kelvin gives chase. CUT. INT. GIBARIAN’S ROOM. Kelvin has been led here, though the Young Boy is nowhere to be seen. The room is in total disarray.
+C: VIDEO
+D: Gibarian addressing the camera. He appears to be lucid, but extremely weary. This image has been called up by Kelvin on Gibarian’s computer.
+C: GIBARIAN
+D: Hi, Chris. I’m sorry I’m not here to meet you. I still have a little time, and I want to tell you something. To warn you. By now you know about me, or if you don’t, get Snow or Gordon to tell you; it doesn’t matter. I didn’t lose my mind. You should be able to tell from this video. I’m not mad. If it happens to you, remember that: It isn’t madness. I’m sorry I couldn’t hang on. This would’ve been interesting to discuss.
+E: beat beat beat
+C: CHILD’S VOICE
+D: Who are you talking to? Gibarian shuts off the video recorder. CUT. INT. SNOW’S ROOM. Snow is still sorting through data.
+E: on the video, but offscreen
+C: KELVIN
+D: Is there anybody else here?
+C: SNOW
+D: Why, who did you see?
+E: sits up a little
+C: KELVIN
+D: He was real. A boy. Maybe five or six years old.
+C: SNOW
+D: Gibarian’s son. Michael.
+C: KELVIN
+D: You’ve seen him.
+C: SNOW
+D: Sure.
+C: KELVIN
+D: How is that possible? Snow doesn’t have an answer. He watches Kelvin.
+C: KELVIN
+D: I’d like to do a formal interview with you and Dr. Gordon. I may need your help convincing her to talk to me.
+C: SNOW
+D: I’ll do what I can.
+C: KELVIN
+D: Thank you. Kelvin turns to leave.
+C: SNOW
+D: Say, uh, how much sleep do you need?
+C: KELVIN
+D: How much sleep?
+C: SNOW
+D: Yeah. How long can you go without sleep?
+C: KELVIN
+D: That depends.
+C: SNOW
+D: Well, when you do go to sleep: barricade you door. CUT. EXT. SPACE. Solaris. Quiet.
+C: GORDON
+D: I’ve checked it fifty times. There’s no sign of any contaminant or psychotropic compound. CUT. INT. CONFERENCE ROOM. Gordon talking to Kelvin.
+E: voice over
+C: KELVIN
+D: And what about you? How are you doing? A beat.
+C: GORDON
+D: Depression, along with bouts of hypomania and primary insomnia. Suggestions of agoraphobia and obsessive/compulsive disorder. Shock. Fatigue. Denial.
+C: KELVIN
+D: None of which is unusual for long range space travel.
+C: GORDON
+D: I know.
+C: KELVIN
+D: What can you tell me about what’s happening here?
+C: GORDON
+D: Just that I want it to stop. But I want to stop it. If I can stop it, that means I’m smarter than it is. INT. CONFERENCE ROOM. Snow is talking to Kelvin.
+C: SNOW
+D: You got a Ph. D. in psych? Very nice. Having a Ph. D. After your name, that’s very nice, still. I didn’t go to school, not like that. I got into math and shit when I was really young. My dad’s brother was a big shot at DBA. He was very successful. My dad wasn’t successful. He was...he was an acknowledged failure, my father. But he had this nine-year-old kid--me-- showing some crazy math skills. So my dad, like, licenses me to DBA, I’m leased, like a car, to this company. And has this sort of proprietary attitude about me. So anyway, I lived away from home, away from my brother. I was really close with my brother.
+E: beat
+C: KELVIN
+D: You can return home and walk away from this. I guarantee it.
+C: SNOW
+D: Oh man. I would kill to go back to Earth. But Dr. Gordon...she won’t have it. I can’t help you there. I wish I could. CUT. INT. GIBARIAN’S/KELVIN’S ROOM. Looking at some of Gibarian’s video journals. During this clip, we see Gibarian’s son in the background.
+C: GIBARIAN
+D: What are we really? What are we worth? If humans vanished tomorrow, the Earth would continue as it always has. If the common housefly vanished tomorrow, the entire ecosystem of the planet would collapse in thirty days. We should remember this when we are congratulating ourselves.
+E: MORE
+C: ANOTHER VIDEO GIBARIAN
+D: Of course, I’ve considered the fact that we could all be hallucinating. But if you are watching this, then I am not hallucinating, and what I think is happening is happening. So if you’re watching this, I feel sorry for you. CUT. INT. GIBARIAN’S/KELVIN’S ROOM. Later. Kelvin is lying down. The lights are out, and he is trying to sleep. After a moment, he gets up, checks the lock on his door, and lies back down. He drifts off to sleep. Silence.
+C: ANOTHER ANGLE
+D: On Kelvin, asleep. EXT. SOLARIS. It’s surface beginning to churn.
+C: ANOTHER ANGLE
+D: On Kelvin still asleep. Then:
+C: EXTREME CLOSE-UP:
+D: A WOMAN’S LIPS, slightly parted.
+C: BACK TO KELVIN
+D: Asleep. Then: EXT. SOLARIS. The surface changing hue. GIBARIAN INT. TRAIN. DAY. RHEYA, 30s, staring at us, practically daring us to look away. Her obvious intelligence and confidence make her extremely compelling, along with the fact that it was her parted lips we were looking at a moment ago. Her expression indicates she’s in a very raw emotional state, almost on the verge of tears.
+E: cont'd
+C: REVERSE ANGLE
+D: Kelvin is the person she has locked eyes with on the
+C: TRAIN.
+D: He is younger here; not just in age, but in spirit. The contrast with his older self is striking.
+C: BACK TO KELVIN
+D: Asleep on the ship. EXT. SOLARIS. Swirling.
+C: EXTREME CLOSE-UP:
+D: Rheya’s LIPS. Except the circumstance is clearly different: it’s darker and there isn’t the side-to-side shimmy of the train car.
+C: A WIDER VIEW
+D: Reveals that Rheya is not sitting on the train-she is sitting in Kelvin’s room on the Prometheus, right now. She is staring at Kelvin and she is ethereal in her stillness.
+C: KELVIN
+D: Awakens, blinks, and slowly recognizes her. If he is not entirely surprised it is because he has obviously dreamed Rheya before. He looks at her, simply.
+C: RHEYA
+D: Stands and makes her way to Kelvin. Without hesitation she kisses him and they begin to explore each other and we see all of it happen and two things are obvious: first, they have done this before and two: they haven’t done it in some time. EXT. SOLARIS. The surface is active. Alive. FADE OUT. CUT. INT. KELVIN’S ROOM. Kelvin is asleep, Rheya in his arms. He wakes up and looks at her, perplexed. After a beat he rises to sit on the edge of the bed. A wave of terror is barely suppressed as he puts his hand to his forehead. Rheya opens her eyes. It is important we notice that her eyes are A DARK COLOR.
+C: KELVIN
+D: I’m awake.
+C: RHEYA
+D: Yes. He looks at her.
+C: KELVIN
+D: Where did you come from? She moves to him and kisses him as if that’s all she wants to do, forever.
+C: KELVIN
+D: How are you here? How are you here? She stops.
+C: RHEYA
+D: How do you mean? Chris, what’s wrong? Why are you acting like this?
+E: beat
+C: KELVIN
+D: Where do you think you are?
+C: RHEYA
+D: At home.
+C: KELVIN
+D: Where is home?
+C: RHEYA
+D: With you. Where we live. A beat.
+C: KELVIN
+D: Do you remember living anywhere else with me? Do you remember being together anywhere else? She thinks.
+C: RHEYA
+D: Our apartment.
+C: KELVIN
+D: Describe it to me.
+C: RHEYA
+D: The walls are dark. There are no pictures or paintings on any of the walls. Or even on the refrigerator. I always thought that was weird.
+C: KELVIN
+D: Do you remember when we first saw each other?
+C: RHEYA
+D: On the train. Kelvin is barely containing himself. How is this possible? She looks at him.
+C: RHEYA
+D: Are you all right? He just keeps looking at her.
+C: RHEYA
+D: I’m so happy to see you. Aren’t you happy to see me? A beat. He’s trying to keep it together.
+C: KELVIN
+D: I need to check something. With the rest of the crew.
+C: RHEYA
+D: I’ll go with you.
+C: KELVIN
+D: I’ll just be a minute. I just need to check something. She springs out of bed and practically grabs him.
+E: rising
+C: RHEYA
+D: Don’t. Don’t leave me. His reaction indicates this is unusual behavior.
+C: KELVIN
+D: Why?
+C: RHEYA
+D: I don’t know.
+C: KELVIN
+D: I’ll be right back.
+C: RHEYA
+D: No, Chris. He sits her down, then takes a position across from her.
+C: RHEYA
+D: Why are you sitting there? Can I sit next to you? CUT. INT. DOCKING BAY. Kelvin leads Rheya to one of the exploratory pods. They are in space suits. She seems happily stoned.
+E: beat
+C: RHEYA
+D: Wow...those. I feel really good. Really good. He opens the door of a pod and indicates for her to enter.
+C: RHEYA
+D: We’re taking a flight?
+C: KELVIN
+D: Yes. She begins entering the pod.
+C: RHEYA
+D: That’ll be great. I’ve never flown anywhere. In space, I mean. She starts up and into the pod. Kelvin watches her go with difficulty and then CLOSES THE DOOR behind Rheya. He walks across the docking bay to the control room and begins preparations for the pod to be jettisoned.
+C: KELVIN
+D: In agony as he watches a real-time, beat-by-beat brand of technological murder take place: Rheya’s pod is pushed off into space.
+C: RHEYA
+D: Her face contorted in confusion, watches through the pod window as the docking bay doors close in front of her with a brutal finality.
+C: KELVIN
+D: Collapses to the ground, shattered.
+C: INSERT:
+D: A woman’s HAND, resting on the floor of an apartment.
+C: ANOTHER INSERT:
+D: A rain-streaked window. CUT. INT. KELVIN’S ROOM. Kelvin, on the edge of his bed. He wants to tear himself inside out. He gets up. CUT. INT. LAB. Kelvin checks himself out to see if he’s physically normal. Snow enters.
+C: KELVIN
+D: I can’t talk now.
+C: SNOW
+D: You had a visitor, didn’t you? Kelvin turns and looks at him, then back to his data.
+C: KELVIN
+D: Yes.
+C: SNOW
+D: I told you, try to stay calm. You’re supposed to be the psychologist of the bunch.
+C: KELVIN
+D: What was it?
+C: SNOW
+D: I’m working on that. It happened to all of us, almost as soon as we got here. Gibarian first. He locked himself in his room and refused to talk except through a crack in the door. He covered his video lens. We thought he was having a nervous breakdown. I don’t know why he didn’t tell us he had somebody in there. We were about to force our way in when we started getting visitors of our own. He was desperately trying to figure it out. Day and night. A beat.
+E: beat beat
+C: SNOW
+D: Who was it?
+C: KELVIN
+D: My wife.
+C: SNOW
+D: Dead? Kelvins nods.
+C: SNOW
+D: What was her name?
+C: KELVIN
+D: Will she come back?
+C: SNOW
+D: Do you want her to? A beat.
+C: KELVIN
+D: Where’s your visitor?
+C: SNOW
+D: I don’t know. He went away.
+C: KELVIN
+D: Who was it? A beat.
+C: SNOW
+D: My brother. I wonder if they can get pregnant? Kelvin looks at him.
+E: beat
+C: SNOW
+D: Just wondering.
+E: apologetic shrug
+C: KELVIN
+D: What about Gordon’s visitor?
+C: SNOW
+D: She won’t talk about it. I’m not even sure if it’s a person. CUT. EXT. SOLARIS. Closer. The surface begins to pick up speed again; the colors shift. INT. PROMETHEUS. Quiet. INT. KELVIN’S ROOM. Kelvin fingers the tape over the video lens, while another Gibarian video plays in the background.
+E: beat
+C: GIBARIAN
+D: I’ve come to hate it here. I am in favor of destroying Solaris. I realize that is unethical. Unprofessional. Illegal. But that is the only way to make it stop. Kelvin takes the tape off of the video lens, then decides to put it back on. He lies down. Kelvin moves a chair in front of the door, then lies back down. Kelvin gets up and puts two heavy cases on top of the chair, and lies back down. DISSOLVE TO: Kelvin, asleep. INT. TRAIN. Kelvin, years ago, staring at Rheya. She doesn’t see him, yet. When she does, she locks eyes with his and doesn’t look away. Here eyes are a LIGHTER COLOR now. This continues until she gets off the train. Kelvin watches as she goes out of her way to avoid two POLICE OFFICERS checking IDs in front of the station entrance. INT. PARTY. NIGHT. Kelvin enters. He spots Rheya, who has already spotted him. Their expressions indicate they are pleased to see each other again, but are going to prolong the sensation by NOT interacting yet. We see a series of instances where both are talking/listening to others while thinking of and looking at each other. On a TV we see footage of a building that appears to have been bombed. Also an image of wild-posted GUERILLA STENCILS, similar to the one we saw on the train. Kelvin makes his way to Gibarian, who is holding his blonde infant son. Their conversation has a mocking tone that bespeaks a certain familiarity.
+E: over, from video
+C: GIBARIAN
+D: I was thinking about you the other day, and I decided you’re much too shallow to act so understated about everything.
+C: KELVIN
+D: And you’re too mean to have a wife.
+C: GIBARIAN
+D: Well, it did take a long time. The two men smile.
+C: GIBARIAN
+D: She said you’ve done very good work with her sister.
+C: KELVIN
+D: Her sister is doing most of the work. Kelvin once again finds Rheya in his line of sight across the room.
+C: KELVIN
+D: When are you leaving?
+C: GIBARIAN
+D: We’ve been postponed again.
+C: KELVIN
+D: I didn’t hear that.
+C: GIBARIAN
+D: Nobody knows yet. The rumor is the governments are looking for a buyer. Some people find it upsetting. I wish we could tell people what we think is happening up there.
+E: beat
+C: KELVIN
+D: I could arrange for this conversation to be covered under the doctor/patient privilege.
+C: GIBARIAN
+D: Let’s just say I look at Solaris the same way you are looking at that woman. Kelvin, with embarrassment, realizes that Gibarian has been examining his clear interest in Rheya.
+C: KELVIN
+D: Sorry.
+C: GIBARIAN
+D: Go to her. Go. Her name is Rheya. She already asked me for yours. Kelvin looks at him.
+C: KELVIN
+D: Thank you. Kelvin goes to her, leaving Gibarian with his son. Rheya watches Kelvin approach, and she can tell that he is coming straight to her. She enjoys knowing this, and he enjoys that she enjoys it. He sits next to her and they just look at each other. There is a long pause. Then:
+C: KELVIN
+D: “And Death Shall Have No Dominion”.
+C: RHEYA
+D: Book?
+C: KELVIN
+D: Poem. Dylan Thomas. I thought of it when I saw you on the train.
+C: RHEYA
+D: My Thomas is a little rusty. Not a very happy poem, judging from the title.
+C: KELVIN
+D: You didn’t look very happy.
+C: RHEYA
+D: I wasn’t.
+C: KELVIN
+D: And tonight?
+C: RHEYA
+D: It’s early. He nods, and they smile. They seem to be rooting for each other. After an extended pleasurable moment, Rheya leans over and whispers in his ear. He listens, then leans back and looks at her.
+C: KELVIN
+D: That’s good to know. CUT TO: Kelvin and Rheya, outside, off from the party, hiding themselves. They have to hide themselves because they are KISSING. A light rain falls on them. Rheya uses Kelvin’s jacket to cover her head. The partygoers in the background are totally oblivious. EXT. SOLARIS. Closer to the surface ; it becomes even more active. INT. PARTY. NIGHT. A group discussion around a table. Kelvin and Rheya are seated next to each other. Beneath the table, they are holding hands. INT. APARTMENT. NIGHT. Kelvin lets Rheya in. She takes in the surroundings. He kisses her while taking her coat and the kiss gradually develops into something more substantial.
+E: s
+C: IN HIS BEDROOM
+D: They slow dance, naked. They are kissing, but not as a preamble to anything--they are kissing like they would be content to kiss forever; making out. INT. DRUG STORE. DAY. Kelvin and Rheya roam the aisles.
+C: RHEYA
+D: No, it’s not.
+C: KELVIN
+D: Yes, it is.
+C: RHEYA
+D: No, it’s not.
+C: KELVIN
+D: Well, there’s one way to find out: submit it to someone and see if they publish it.
+C: RHEYA
+D: That’s no indication of anything except whether it’s commercial.
+C: KELVIN
+D: So no one else’s opinion counts for anything?
+C: RHEYA
+D: Now you’re getting it.
+C: KELVIN
+D: That’s insane.
+C: RHEYA
+D: Well, you would know. A beat.
+C: KELVIN
+D: Did you show it to your father?
+C: RHEYA
+D: Yes.
+C: KELVIN
+D: And?
+C: RHEYA
+D: He liked it.
+C: KELVIN
+D: What did he say?
+C: RHEYA
+D: He said he liked it.
+C: KELVIN
+D: Which, coming from the man who said to me, “Now she’s your problem”, is pretty significant. So I think it’s great and your withholding father the famous writer thinks it’s great. What does that tell you?
+C: RHEYA
+D: That you’re both wrong. INT. BOOK STORE. DAY. Kelvin and Rheya browse. Rheya fingers a book of Dylan Thomas poems.
+C: RHEYA
+D: I mean, how can I trust you when you said the same thing about the last one?
+C: KELVIN
+D: This one is better.
+C: RHEYA
+D: Let’s talk about something else. Anything else.
+C: KELVIN
+D: Like you know what?
+C: RHEYA
+D: No, not you know what. I’ll get hives. Is that what you want? My body is telling us not to talk about it.
+C: KELVIN
+D: I’m going to keep harassing you until I hear what I want to hear.
+C: RHEYA
+D: You’ll end up like Kenneth.
+C: KELVIN
+D: Who’s Kenneth?
+C: RHEYA
+D: Kenneth was this boy that kept harassing me when I was in grade school. Really awful, wouldn’t leave me alone. So one day while he was in gym class I got his pants and ran them up the school flagpole.
+C: KELVIN
+D: Jesus.
+C: RHEYA
+D: He never came near me again. She puts the Thomas book on the counter.
+C: KELVIN
+D: I already have that.
+C: RHEYA
+D: Can’t I have my own copy of our poem?
+C: KELVIN
+D: Absolutely. You’re right. A beat.
+C: KELVIN
+D: I wonder what Kenneth is doing now.
+C: RHEYA
+D: Can’t imagine.
+C: KELVIN
+D: How’d you get his--
+C: RHEYA
+D: I paid a friend of his to steal them for me. Best money I ever spent. EXT. STREET. DAY. Kelvin and Rheya, walking in the rain. This conversation, like the others, is very casual. It shouldn’t seem heavy.
+C: KELVIN
+D: Every time I bring it up, you make a joke about it.
+C: RHEYA
+D: I know. It’s hard for me.
+C: KELVIN
+D: Still? A beat.
+C: KELVIN
+D: Is there something else I could be doing?
+C: RHEYA
+D: No. No. That’s not the issue, you know that.
+C: KELVIN
+D: I think about you all the time. This isn’t easy for her to hear, because she feels the same but can’t say it.
+C: KELVIN
+D: Where are we going? The station is behind us. Rheya. She stops but can’t quite meet his gaze.
+C: RHEYA
+D: If I let go and then it came to an end...I don’t know what I would do. I have to protect myself.
+C: KELVIN
+D: There is nothing you could do to make me leave.
+C: RHEYA
+D: You’re underestimating me.
+C: KELVIN
+D: I know we can do this. I know it. A beat. She looks at him.
+C: RHEYA
+D: We don’t have to invite a bunch of people, do we?
+C: KELVIN
+D: It’s completely up to you. A beat.
+C: RHEYA
+D: You’re getting soaked. She reaches for his hair as we MATCH CUT to: INT. PROMETHEUS. RHEYA is kissing Kelvin. Without even waking, he kisses her back, hungrily.
+C: KELVIN
+D: Rheya...
+C: RHEYA
+D: I’m here. I’m here. They make love. It’s even better than before. EXT. SOLARIS. Its elements begin to calm; its surface rhythms decelerate. INT. KELVIN’S ROOM. Kelvin and Rheya are asleep.
+C: SOLARIS.
+D: Almost still now. CUT. INT. KELVIN’S ROOM. Kelvin and Rheya are awake now, staring at each other. She seems more self-aware than her first incarnation. She’s looking at his hands.
+C: RHEYA
+D: I can’t believe I’m seeing you.
+C: KELVIN
+D: Tell me about it. She finds a scar on his finger.
+C: RHEYA
+D: I don’t remember that. When did you get that?
+C: KELVIN
+D: I got that just before I came up here.
+C: RHEYA
+D: I wasn’t there? A beat.
+C: KELVIN
+D: No. A beat.
+C: RHEYA
+D: I feel like...like I’ve forgotten a lot of things. I can only remember you. Have I been ill?
+C: KELVIN
+D: Sort of.
+C: RHEYA
+D: We’ve been apart?
+C: KELVIN
+D: Yes.
+C: RHEYA
+D: For how long?
+C: KELVIN
+D: A few years. A beat. She’s thinking.
+C: RHEYA
+D: You’ve been alone.
+C: KELVIN
+D: Yes.
+C: RHEYA
+D: Has that been difficult?
+C: KELVIN
+D: It was easier than being with someone else. A beat.
+C: RHEYA
+D: Did you think about me?
+C: KELVIN
+D: Only all the time.
+C: RHEYA
+D: But we fought.
+C: KELVIN
+D: Yes. A beat.
+C: RHEYA
+D: I don’t remember how I got here. Did we come here together? Kelvin doesn’t know how to respond.
+C: RHEYA
+D: Chris.
+C: KELVIN
+D: I’m not sure how you got here.
+C: RHEYA
+D: What do you mean?
+C: KELVIN
+D: I woke up and you were here. She thinks about that.
+C: RHEYA
+D: I wasn’t here yesterday?
+C: KELVIN
+D: No.
+C: RHEYA
+D: Am I dreaming?
+C: KELVIN
+D: I don’t think so, no. She continues to think. Kelvin watches her closely, not sure where this is going. She looks at him and laughs.
+C: KELVIN
+D: What?
+C: RHEYA
+D: Your expression. You’re nervous. You remind me of whatshisname, the comedian. We used to watch him on Sundays. He looks at her--she doesn’t think it unusual to make that reference.
+C: KELVIN
+D: What else do you remember?
+C: RHEYA
+D: What do you mean?
+C: KELVIN
+D: Do you remember music? Movies, books, restaurants, friends?
+C: RHEYA
+D: Yes. As soon as you said those things, I remembered them. And they have associations that make me think of other things. It’s like filling up. She looks out the window. A piece of Solaris is visible.
+E: thinking beat
+C: RHEYA
+D: What is that?
+C: KELVIN
+D: Solaris.
+C: RHEYA
+D: Oh, I remember about that. This is the ship they were going to send. Gibarian was part of that project. Is he here?
+E: beat beat
+C: KELVIN
+D: No. Not anymore.
+C: RHEYA
+D: He left? A beat.
+C: KELVIN
+D: Yes. She thinks.
+C: RHEYA
+D: But what’s the difference between God-- INT. GIBARIAN’S HOUSE. NIGHT. Rheya is talking to Gibarian. At his house, around a table of friends. Kelvin is keeping a close eye on her-- there’s an unusual look in her eyes-- she seems volatile, combative.
+E: over
+C: RHEYA
+D: --and something more intelligent than we are?
+C: KELVIN
+D: The whole idea of God was dreamed up by a silly animal with a small brain called Man. Even the limits we put on it are human limits. It can do this, it can do that. It designs, it creates.
+C: RHEYA
+D: Even a God that wasn’t active, that just created something and stood back and watched?
+C: GIBARIAN
+D: You’re talking about a man in a white beard again. You’re ascribing human characteristics to something that isn’t human. Human beings look for causes and patterns.
+C: KELVIN
+D: Given the elements in the known universe and enough time, our existence is inevitable. It’s no more mysterious than trees or sharks. We’re a mathematical probability, that’s all.
+C: RHEYA
+D: And if it’s so advanced, how could we be aware of it?
+C: MRS. GIBARIAN
+D: Maybe religion has been bred into us. FRIEND 2 Hard-wired. Let’s face it, the primitive version of ourselves existed for a lot longer than our current “enlightened” version--
+C: FRIEND
+D: “Enlightened”? FRIEND 2 --and they needed explanations for bizarre shit like lightning and being eaten by animals and menstruation. Laughter.
+C: MRS. GIBARIAN
+D: So it sounds like God will be around for awhile.
+C: KELVIN
+D: For some people, sure.
+C: FRIEND
+D: Resolute nihilism. In a shrink, no less. FRIEND 2 So these people come to you for grief counseling and you say what? “When you die, it’s even worse”?
+C: KELVIN
+D: Something like that. FRIEND 2 And they pay you?
+E: smiles
+C: KELVIN
+D: Some. Two, actually. I charge them a hundred thousand dollars an hour.
+C: MRS. GIBARIAN
+D: See, he’s funny, at least. FRIEND 2 Do you validate? Laughter. Rheya gets up.
+C: RHEYA
+D: Excuse me... Kelvin watches her. FRIEND 2 Kelvin’s from the north. Cold weather makes people more introspective.
+C: FRIEND
+D: They’re not outside as much, having fun.
+C: GIBARIAN
+D: What is this, the Spring Break Theory of Evolution? Very deliberately Rheya gets her coat and literally walks right out of the party. INT. KELVIN’S ROOM. Rheya sits.
+C: KELVIN
+D: What? What are you thinking? INT. APARTMENT. NIGHT. Rheya enters, alone. She looks somewhat disheveled. She crosses to the living room and sits down, throwing her head back and closing her eyes. Halfway through this activity, the bedroom light comes on. A moment later, Kelvin is in the doorway. Eventually, but not angrily, because he’s still not really awake:
+C: KELVIN
+D: Where’ve you been?
+C: RHEYA
+D: Away from those fucking people. They’re like parodies of themselves, they think they’re so fascinating.
+C: KELVIN
+D: They’re my friends.
+C: RHEYA
+D: Yes. Kelvin stands in the doorway for a beat, then pivots and returns to bed. The light goes out. Rheya, her eyes still closed and her head thrown back, exhales.
+C: IN THE BEDROOM
+D: Kelvin sits in a chair. Rheya enters and goes to him.
+C: KELVIN
+D: Don’t. She ignores him, sitting in his lap.
+C: KELVIN
+D: Rheya. She begins kissing him.
+C: KELVIN
+D: Rheya. She won’t stop. She opens his robe and begins straddling him. Her persistence wears him down. He gives in. INT. APARTMENT. MORNING. Rheya, on the edge of the bed. She looks conflicted. Kelvin is getting dressed in the background.
+C: KELVIN
+D: I wish we had at least one other form of communication besides sex. A beat.
+C: RHEYA
+D: Why?
+C: KELVIN
+D: So we wouldn’t be fighting the other twenty-three hours of the day. She looks at the bedside table, noticing the drawer.
+C: INSERT
+D: Rheya, agitated, rifling through all the drawers in the house. Desperately looking for something. INT. KELVIN’S ROOM. Rheya looks disturbed.
+E: PROMETHEUS
+C: KELVIN
+D: What’s wrong? A beat. She looks down.
+C: RHEYA
+D: I have to talk to you...I...I don’t know what’s happening. If what I think is happening is actually happening, I don’t know if I can handle it. It’s like watching something happen to yourself. Calmly:
+C: KELVIN
+D: What do you mean?
+C: RHEYA
+D: I am not the person I’m remembering. At least, I’m not sure I am. I’m remembering things, but I don’t remember them happening to me. I don’t think I actually experienced them. He’s looking at her, and knows this is dangerous territory.
+C: RHEYA
+D: I’m trying to understand what’s going on. I have these strange thoughts, I don’t know where they come from. A beat. She looks at him, slightly panicked.
+C: RHEYA
+D: Chris. I’m, scared. I’m scared. What is happening? What is happening?
+C: KELVIN
+D: Rheya. It’s all right. You need some rest. Let me give you something.
+C: RHEYA
+D: Do you understand? I don’t know if I can live with this. I don’t understand what’s happening. He hands her a pill. She stares at it.
+C: INSERT
+D: Rheya smashes a pill bottle. Its contents scatter all over the floor of the apartment. INT. KELVIN’S ROOM. Rheya looks up at Kelvin, confused by the pills.
+C: RHEYA
+D: Like I remember these, but I don’t remember seeing them before. Being there. She’s getting panicked.
+C: RHEYA
+D: What’s happening?
+C: KELVIN
+D: It’s fatigue. It’s stress brought on by fatigue. That’s why I want you to take these. I’m going to talk to Snow and Gordon. We’re going back to Earth. You’re going to be fine. Will you be all right by yourself? She nods, calming down. She takes the pills.
+E: beat
+C: RHEYA
+D: Yes. She takes some deep breaths.
+C: RHEYA
+D: All right. All right.
+C: KELVIN
+D: Are you sure you’ll be okay by yourself?
+C: RHEYA
+D: Yes. Why do you keep asking me that?
+C: KELVIN
+D: The door locks from the inside. You’ll be perfectly safe. Just stay right here. He kisses her and leaves.
+C: IN THE CORRIDOR
+D: Kelvins listens at his door for a moment. Satisfied, he starts off.
+C: RHEYA
+D: Chris? He stops. Another beat.
+E: off
+C: RHEYA
+D: Chris? Another beat. We begin to hear movement from within the room. Then silence. Chris begins to move away from the door but is stopped by the sound of CRASHING GLASS.
+C: KELVIN
+D: Rheya? He hears footsteps approach the door, and then a fierce
+C: POUNDING. KELVIN
+D: Rheya, unlock the door. He takes a step back. An INHUMAN AMOUNT OF NOISE begins emanating from the other side of the door, which is now threatening to break apart. It sounds like a plane is crashing in Kelvin’s room--no human could create this kind of cacophony.
+C: KELVIN
+D: Rheya! Finally, the door opens.
+C: RHEYA
+D: Is revealed, covered in blood. She has completely torn the inside of the cabin door apart and has badly injured herself in the process.
+C: KELVIN
+D: Rheya... Confused, she looks up at him as he takes her in his arms and carries her to the bed.
+C: RHEYA
+D: What happened?
+C: KELVIN
+D: You were trying to break down the door. All you had to do was unlock it.
+C: RHEYA
+D: When I realized you were gone I got scared. He puts her down on the bed and runs to the bathroom, where he gathers all the first aid materials he can find. Returning, he blanches. Rheya’s wounds have HEALED; in fact, they are healing in front of us. She looks up at him and doesn’t like the look on his face.
+E: like a child
+C: RHEYA
+D: Chris, what am I? CUT. INT. LAB. Kelvin, Gordon, and Snow run Rheya through a battery of tests.
+C: GORDON
+D: Looking at an x-ray.
+C: GORDON
+D: How old were you when you broke your leg? Everyone exchanges glances, then looks to Rheya. She looks at Kelvin.
+C: RHEYA
+D: Eleven.
+C: SNOW
+D: Scrolling through some cell analysis figured. Kelvin is behind him.
+C: SNOW
+D: It’s perfect. Or rather, perfectly imperfect. It’s got all the flaws and mutations that normal DNA has. Blood; totally normal. It’s her.
+C: GORDON, KELVIN, AND RHEYA
+D: Looking at a scan of Rheya’s brain.
+C: GORDON
+D: Reduced cortex volume, reduced number of glial cells, reduced neuron size in the pre-frontal cortex, orbital cortex, and the amygdala. Reduced serotonin receptor binding potential in the raphe, mesiotemporal region, and post central gyrus. A beat.
+C: KELVIN
+D: That’s you. Down to the last synapse. Beat.
+C: RHEYA
+D: But where did I come from? CUT. INT. CONFERENCE ROOM. Snow, Gordon, Kelvin, and Rheya. Snow talks. He directs a lot of comments toward Rheya, for some reason.
+C: SNOW
+D: A pre-biological colloidal envelope, possibly exceeding terrestrial structures in complexity; a plasmic mechanism. Probably without life as we conceive it, but capable of performing functional activities on an astronomic scale. I think Solaris reached, in a single bound, the “homeostatic ocean” stage without passing through stages of terrestrial evolution. I think it bypassed cellular development altogether. It hasn’t taken endless eons to adapt itself to its environment, but in fact dominated its environment immediately. From the moment it existed in the Universe. It would seem to indicate that Thought can exist separately from Consciousness, which is pretty interesting. A beat. No one knows quite what to make of that.
+C: GORDON
+D: All right, enough hypothesizing. Are they or are they not made of subatomic particles.
+C: SNOW
+D: The visitors? I’m not sure.
+C: GORDON
+D: What do you think?
+C: SNOW
+D: Probably.
+C: GORDON
+D: Stabilized by what?
+C: SNOW
+D: I don’t know. Higgs field, maybe?
+C: GORDON
+D: So if we created a negative Higgs field and bombarded them with a stream of Higgs anti-bosons, they might disintegrate?
+C: SNOW
+D: Maybe. Take a lot of power.
+C: GORDON
+D: We’ll shut down all the non-critical ship functions.
+C: SNOW
+D: It’s just theory, you know. We could be wrong.
+C: GORDON
+D: Let’s find out.
+C: KELVIN
+D: Let’s take our findings back to Earth.
+C: GORDON
+D: What if this thing follows us back? What if what’s happening here started happening on Earth, on a mass scale? Don’t you see that as a problem? I think it’s a serious mistake to assume it’s benign. For all we know it’s driving us crazy so it can watch us kill each other.
+C: KELVIN
+D: Is that really why you think they’re here? Given its resources, it could have done anything, including destroy us.
+C: GORDON
+D: Meet me in an hour in the lab. She starts to go.
+E: to Snow
+C: KELVIN
+D: It’s murder. I won’t let you do it. Gordon stops, turns.
+C: GORDON
+D: How are you going to stop us?
+C: KELVIN
+D: How are you going to stop me from taking her back? An impasse. Snow comes to Gordon’s rescue.
+C: SNOW
+D: Should we pick up the other one on the way? Shouldn’t be too hard. We could chart its trajectory, only take a day or so...
+C: RHEYA
+D: What is he talking about?
+C: KELVIN
+D: Nothing.
+E: to Rheya
+C: SNOW
+D: Her oxygen might have run out. But maybe she doesn’t need any. Should we check?
+C: RHEYA
+D: Chris, what are they talking about?
+C: GORDON
+D: You didn’t tell her?
+C: RHEYA
+D: What? Chris, what are they talking about? A beat.
+C: KELVIN
+D: You came...before. I...
+C: GORDON
+D: You didn’t tell her?
+C: SNOW
+D: He got rid of you.
+C: RHEYA
+D: You what?
+C: KELVIN
+D: I sent you away.
+C: SNOW
+D: Into space. She looks like she’s going to be sick.
+C: RHEYA
+D: Omigod... She gets up to leave. Kelvin tries to stop her.
+C: KELVIN
+D: Rheya. Rheya. She doesn’t want him to touch her.
+C: RHEYA
+D: Get away from me. He tries to keep her from going--she pushes him away.
+C: RHEYA
+D: Get away from me! She leaves. Kelvin looks at Gordon and Snow.
+C: KELVIN
+D: What were you trying to accomplish with that, exactly?
+C: GORDON
+D: It is a mistake to become emotionally engaged with one of them. You are being manipulated. If she were ugly, you wouldn’t want her around; that’s why she’s not ugly. She is a mirror that reflects part of your mind. You provide the formula.
+C: KELVIN
+D: She’s alive.
+C: GORDON
+D: SHE IS NOT HUMAN! Try to understand that if you can understand anything!
+C: KELVIN
+D: What about your visitor, the one you’re ready to destroy without hesitation. Who is it? What is it? Does it speak? Does it touch? Does it feel?
+C: GORDON
+D: We are in a situation that is beyond morality. Your wife is dead.
+C: KELVIN
+D: How do you know that? Under these circumstances, how can you be so fucking definitive about a construct you don’t understand?
+C: GORDON
+D: She’s a copy. A facsimile. And she’s seducing you all over again. You’re sick. You think of fucking her as research for humanity, it’s just fucking. You’ve jumped out of a plane and you’re trying to sew a parachute together while you fall. We are not taking her back with us. CUT. EXT. SOLARIS. Turning. Twisting. INT. SNOW’S ROOM. Kelvin and Snow. Somehow it seems like Snow is functioning as the shrink in this context.
+C: KELVIN
+D: You have no idea who Gordon’s visitor is?
+C: SNOW
+D: She won’t talk about it. I’m not even sure it’s a person. Maybe she’s not a person. Maybe she’s got Gordon tied up in there, which is like...I don’t even want to think about that. Kelvin does think about it.
+C: KELVIN
+D: Somehow we have to convince her to bring this mission home.
+C: SNOW
+D: I’ve been trying, you know, but, she has like a position on this issue, you know? Very, uh, righteous attitude. A beat.
+C: SNOW
+D: Maybe if she met your wife, or something. She might change her mind. Like, she’s nice, right? Your wife? Kelvin nods.
+C: SNOW
+D: Yeah, so maybe we could have a little meeting. You never know. I was worried about you, you know, after you sent the first one away. You looked pretty freaked out.
+E: beat
+C: KELVIN
+D: She can’t know about that. Ever.
+C: SNOW
+D: Oh, hey, I mean, yeah, she doesn’t need to...it’s like... ...yeah, that would be intense, knowing that you were like the second version of yourself. Or the third, actually. Yeah... INT. KELVIN’S ROOM. Rheya is looking out one of the small windows. Kelvin watches her for a long time, saying nothing. She moves away from the window and sits down. She looks at Kelvin, sees the guilt and anguish on his face. The conflict.
+E: gestures as though it’s in the past
+C: INSERT:
+D: Kelvin, in their apartment on Earth. He’s angry and looks as though he’s preparing to leave. Rheya watches him, upset.
+C: ON THE PROMETHEUS
+D: Rheya, remembering. Kelvin watches her.
+C: RHEYA
+D: I remember...something burning. Coffee burning. Rain on the window. EXT. SOLARIS. The surfaces swirl. INT. APARTMENT. DAY. The rain-streaked window. An automated coffee maker has been left on, and the solidified coffee at the bottom of the pot is smoking. Rheya’s body is in the bedroom.
+C: RHEYA
+D: She is looking at Kelvin. He is dreading this.
+E: ON PROMETHEUS
+C: RHEYA
+D: You found me? He nods. It’s coming back to her. EXT. SOLARIS. Busier now. INT. APARTMENT. DAY. Kelvin is yelling at Rheya. We don’t hear what he’s saying, but judging from her reaction, it’s not pleasant. She is crying.
+C: RHEYA
+D: Experiencing this all over again. Kelvin comes and sits in front of her. INT. APARTMENT. DAY. Kelvin, still yelling, is packing some things into a suitcase. Rheya, between sobs, pleads with him. EXT. SOLARIS. Still moving, but not accelerating.
+E: ON PROMETHEUS
+C: RHEYA
+D: Her eyes fill up with tears. Kelvin embraces her.
+E: ON PROMETHEUS
+C: KELVIN
+D: I’m sorry. I’m sorry. Rheya is devastated, inconsolable.
+C: RHEYA
+D: Why did you say those things?
+C: KELVIN
+D: I don’t know. I couldn’t understand why you didn’t tell me. INT. APARTMENT. DAY. Rheya, dead. There is a TORN PAGE FROM A BOOK in her hand. Kelvin kneels next to her.
+C: KELVIN
+D: With Rheya still in his arms.
+E: ON PROMETHEUS
+C: KELVIN
+D: I was angry. I was confused. Sometimes you acted like you hated me. I’m sorry. INT. APARTMENT. DAY. Kelvin holds the dead Rheya.
+C: KELVIN
+D: He kisses her. She responds. They will make love again. EXT. SOLARIS. The fog-shrouded surface, shifting and turning like an ocean. FADE OUT. CUT TO: INT. KELVIN’S ROOM. Kelvin and Rheya are asleep. INT. DRUG STORE. DAY. Rheya is taking something off the shelf. She looks around and sees Kelvin further down the aisle. INT. BATHROOM. DAY. Rheya looks at the results of a home pregnancy test. She doesn’t like the result. INT. APARTMENT. NIGHT. Years ago. Kelvin, naked, sitting in a chair, in the dark. Rheya, also naked, is smoking a cigarette in bed.
+E: ON PROMETHEUS
+C: KELVIN
+D: I won’t have this conversation again. I’ve run out of excuses for your constant absence. You can’t stay home all the time. People notice, Rheya. A beat. He exhales.
+C: KELVIN
+D: I can put up with the mood swings, the restlessness, the new job every three months, but I can’t put up with you hiding from me. Why do you do that?
+C: RHEYA
+D: You’re the shrink.
+C: KELVIN
+D: Stop it. I’m asking you a question: Do you want to be here? A long beat.
+C: RHEYA
+D: I keep thinking I’ll hit bottom, but it just keeps going down. When I was young, I watched my mother go insane. We can tell from Kelvin’s expression that Rheya has never spoken about this.
+E: beat
+C: RHEYA
+D: And I thought, do people know when they’re going insane? Because she just lost it. She was gone, unreachable. And when I start going down, when the clouds gather, I think: This is the first sign. The first part of losing it. And the next step is...you’re gone. And you don’t even know it. He goes to her.
+C: RHEYA
+D: Don’t-- INT. BUILDING CORRIDOR. DAY. Rheya waits. After a long moment, a nurse appears.
+C: NURSE
+D: Ms. Vallembrosa?
+C: RHEYA
+D: Yes.
+C: NURSE
+D: The doctor will see you now. Rheya just looks at her. INT. APARTMENT. DAY. Kelvin, as he packs to leave Rheya.
+C: RHEYA
+D: --Chris. Don’t. Please, don’t do this. I am literally begging you not to do this. Chris. INT. PROMETHEUS. Rheya gets up and begins pacing.
+C: KELVIN
+D: Rheya-- INT. APARTMENT. DAY.
+C: KELVIN
+D: --you should’ve told me.
+C: RHEYA
+D: It wouldn’t have made any difference.
+C: KELVIN
+D: Thank you.
+C: RHEYA
+D: Chris, I had to. I had to. I didn’t think you’d react like this.
+C: KELVIN
+D: Neither did I.
+C: RHEYA
+D: You never said you wanted one.
+C: KELVIN
+D: Of course. Why would I? Why would I want a child? Something to be responsible for, something to stop you from attacking both of us?
+C: RHEYA
+D: Chris--
+C: KELVIN
+D: I can’t stay here.
+C: RHEYA
+D: Chris, please. Chris, I’m serious. I won’t get over this. I won’t make it.
+C: KELVIN
+D: Then you won’t make it. He leaves, brushing past her. EXT. SOLARIS. Churning. Faster now. INT. APARTMENT. DAY. Rheya, ransacking the apartment. Looking for something. Rheya, breaking a pill dispenser. The contents spill all over the floor. She scrambles after them, swallowing every one she can lay her hands on. EXT. SOLARIS. Faster still. INT. KELVIN’S ROOM. Kelvin, asleep. Rheya is curled up with him, quietly crying. INT. APARTMENT. DAY. Rheya on the floor. The piece of paper in her hand. Kelvin is kneeling over her. EXT. SOLARIS. Slowing. Shifting hue. INT. KELVIN’S ROOM. Kelvin and Rheya are both asleep now. Offscreen, we hear the door open. Someone walks quietly through the frame and sits. After a long beat, Kelvin bolts upright, his mind struggling to clear. When it does:
+E: though not surreptitiously
+C: GIBARIAN
+D: Leave the light off. A beat. Kelvin tries to get his bearings.
+C: GIBARIAN
+D: You think you’re dreaming me, like you dream her, but I am the real Gibarian. A new incarnation.
+C: KELVIN
+D: What do you want?
+C: GIBARIAN
+D: To warn you. Go back to Earth. Go back or you’ll end up like me.
+C: KELVIN
+D: You’re not Gibarian.
+C: GIBARIAN
+D: No? What am I, then?
+C: KELVIN
+D: A puppet.
+C: GIBARIAN
+D: And you’re not? Maybe you’re my puppet. But like all puppets, you think you’re actually human. It’s The Puppet’s Dream: Wondering if they’re human.
+C: KELVIN
+D: Why did you kill yourself?
+C: GIBARIAN
+D: It seemed like a good idea at the time. Now I think I made a mistake.
+C: KELVIN
+D: What about your son?
+C: GIBARIAN
+D: That is not my son. My son is on Earth. And that is not your wife. They are part of Solaris. Remember that.
+C: KELVIN
+D: What does it want from us?
+C: GIBARIAN
+D: Why do you think it has to want something? This is why you have to leave. If you keep thinking there is a solution, you’ll die here.
+C: KELVIN
+D: I can’t leave her alone. I’ll figure it out.
+C: GIBARIAN
+D: That’s what I kept saying. Do you understand what I’m trying to tell you? There are no answers. Only choices.
+C: KELVIN
+D: I’ll figure it out. A beat.
+C: GIBARIAN
+D: You don’t know what you’re in for. It’s worse than death.
+C: KELVIN
+D: For you, maybe.
+C: GIBARIAN
+D: I know her. She won’t make it. And neither will you. You’ll have to watch her die all over again.
+C: KELVIN
+D: Wakes up, gulping air. After another beat, Kelvin notices that he is alone, and something tells him that’s not a good sign. CUT. INT. CORRIDOR. Kelvin looks for Rheya. After a long period of silence, we hear the faint sound of an instrument of some sort hitting the ground. INT. LAB. Rheya is on the ground, convulsing. Beside her is a SMALL STEEL DRUM, which is spilling a strange-looking LIQUID that vaporizes with a smoky hiss. Kelvin moves to Rheya and is startled to see that half of her face and throat are burned away--not melted as in a fire, but merely eaten cleanly away.
+C: KELVIN
+D: Fuck. Fuck!!! He picks her up. INT. CORRIDOR. Kelvin is carrying Rheya. INT. KELVIN’S ROOM. Kelvin puts Rheya on the bed. Her face and throat have returned to normal, but she is not breathing. Kelvin goes and puts his head to her chest, but doesn’t hear what he hoped to hear. Gordon and Snow enter.
+C: GORDON
+D: What happened?
+C: KELVIN
+D: She drank liquid oxygen. He stands, still looking at her. An uncomfortably long moment as we realize she is actually not going to wake up.
+C: KELVIN
+D: She’s dead.
+C: SNOW
+D: No. Gordon says nothing. Then: Rheya’s finger twitches. Barely noticeable at first, but growing in intensity. Kelvin sees it, and goes to her. She is shaking much harder now. Kelvin tries to hold her still, but she’s too strong. He stands, reluctantly, and watches her.
+C: SNOW
+D: Come on... Rheya is shaking violently now, as if a rippling rhythmic force were coursing through her.
+E: to Gordon
+C: GORDON
+D: I never get used to them, these...”Resurrections”. She leaves with Snow. Rheya continues her process of “waking up”--it’s violent, even sexual. She spasms to a peak of some sort, and then slowly returns to normal. Kelvin puts his hand on her forehead. She gradually begins to open her eyes. She looks at Kelvin. It takes her a moment to realize she shouldn’t be seeing him; she shouldn’t be seeing anything. She should be dead. She begins to cry. Kelvin is relieved but frustrated.
+C: KELVIN
+D: Why did you do that? Why did you do that?
+C: RHEYA
+D: Because I can’t stand it. It’s hopeless. I want to die. She turns away.
+C: KELVIN
+D: Rheya--
+C: RHEYA
+D: Don’t call me that. I’m not Rheya. You know that. He turns her over.
+C: KELVIN
+D: You are, you are Rheya.
+C: RHEYA
+D: I’m disgusting.
+C: KELVIN
+D: No.
+C: RHEYA
+D: You’re lying because you’re afraid of me because I’m not human.
+C: KELVIN
+D: Rheya. You’re the only thing I have to hang onto. I don’t know if I’m dreaming; I don’t know if I’m dead and this is some sort of afterlife. If I died, when and how did I die, and why don’t I remember? I don’t know what to believe or what to trust other than you.
+C: RHEYA
+D: But I’m not Rheya.
+C: KELVIN
+D: Who are you, then?
+C: RHEYA
+D: I...I am Rheya. But I am not the woman you loved on Earth. I came from your memory of her. That’s the problem: I’m not a whole person. In your memory, you get to make all the decisions, other people are supporting characters. I don’t want to be made up out of part of your memory that’s left over. Do you see? I’m suicidal because you remember me that way. My voice sounds the way it does because you remember it that way. I don’t know who I am. I have no mother or father. I was never on Earth. I have consciousness, but I am not mortal. Don’t you see why I’m going crazy?
+C: KELVIN
+D: It put you here. I’ll admit it, it acted like a God and put you here. I was asleep, and it put you into my dream. I saw your mouth, your lips, from the train. And there you were. But listen: I know I made a mistake. When I left, and you said you weren’t going to make it, I didn’t understand. In that moment, you were asking for my help, and I wasn’t listening because I was angry. Whether or not we would’ve worked it out is irrelevant-my mistake was I didn’t hear what you were saying right then. And I’ve never gotten over it. This is my opportunity to undo that mistake. I need you to help me.
+E: beat
+C: RHEYA
+D: Am I really her?
+C: KELVIN
+D: I don’t know anymore. All I see is you. A beat. CUT. INT. CONFERENCE ROOM. Kelvin, Gordon, and Snow. In the center of the room are three small devices on stands, arranged in a triangle.
+C: GORDON
+D: I used it on mine.
+C: KELVIN
+D: What happens?
+C: GORDON
+D: They disappear. Back where they came from. A beat.
+C: GORDON
+D: It’s what she wants.
+C: KELVIN
+D: I won’t let her.
+C: GORDON
+D: Oh, this one you love? What about the one you fucked and blasted into space? You didn’t love her?
+C: KELVIN
+D: That’s enough.
+C: GORDON
+D: You are going around in circles to satisfy the curiosity of a power we don’t understand and can’t control, and she is the living proof that power exists. All these feelings you’re having--this isn’t the place for them. We have some decisions to make. Kelvin just leaves. To his back, as he goes:
+C: SNOW
+D: She’ll come to us when you’re asleep.
+C: RHEYA
+D: It created me and yet I can’t communicate with it. It must hear me, though. It must know what’s happening to me. CUT. INT. KELVIN’S ROOM. Rheya looks subdued. Kelvin is taking what must be amphetamines. He doesn’t even have the energy to hide how exhausted he is.
+E: over MORE
+C: RHEYA
+D: It’s created a situation without a goal, which means it’s a God whose passion is not a redemption, who saves nothing, fulfills no purpose. It’s a sick God. Its ambitions exceed its power, but it doesn’t realize it. We would have to have “an arrangement”. An unspoken understanding that I am not human.
+E: beat
+C: KELVIN
+D: Please.
+C: RHEYA
+D: I want to let them use the device on me so you can go back to Earth and tell people about Solaris.
+C: KELVIN
+D: No.
+C: RHEYA
+D: What kind of life is this, trapped here?
+C: KELVIN
+D: It’s what we have. It’s enough for me.
+C: RHEYA
+D: How long can you last? You’ll die.
+C: KELVIN
+D: I don’t care.
+C: RHEYA
+D: What will I do if you die? CUT. RHEYA EXT. SOLARIS. In motion. INT. KELVIN’S ROOM. Rheya is asleep. Kelvin watches a Gibarian video, trying to stay awake. He doesn’t look well.
+E: cont'd
+C: GIBARIAN
+D: If Solaris is inside our brain, and it knows everything, and we’re only consciously aware of what 10% of our brain is up to at any given moment, it knows us better than we know ourselves. It’s not even close. INT. KELVIN’S ROOM. Kelvin is asleep, for an instant. He wakes up and sees Rheya in the corridor, talking to someone we can’t see. Kelvin wakes up again, sweating. Rheya is beside him, asleep. Did he see her talking to someone or not?
+C: KELVIN
+D: Rheya. Rheya.
+C: RHEYA
+D: Yes...? He reaches for more pills.
+C: RHEYA
+D: It’s all right. You can sleep.
+C: KELVIN
+D: No.
+C: RHEYA
+D: You’ll make yourself sick. She touches his forehead.
+C: RHEYA
+D: You’re burning up. CUT. EXT. SOLARIS. Turning slowly. CUT. INT. PROMETHEUS. Kelvin, in a fever, eyes open but glazed as he lies on his bed. Rheya is putting a compress on his forehead.
+C: KELVIN’S POV
+D: Of the room. There are objects from his apartment on Earth. CUT. INT. APARTMENT. Where Kelvin and Rheya lived. Kelvin is in his bed, and Rheya is putting a compress on his head.
+C: KELVIN
+D: I thought I was home. CUT. INT. KELVIN’S ROOM. On the Prometheus. Kelvin is in bed, feverish.
+E: voice over
+C: KELVIN
+D: I thought it was over. He sees Rheya in the hallway, again talking to someone we can’t see.
+C: KELVIN
+D: Wakes up again. Rheya is asleep beside him. CUT. INT. TRAIN. Rheya, the first day she and Kelvin saw each other. EXT. STREET CORNER. DAY. Years ago. Kelvin and Rheya standing on a street corner. They seem to be pausing in the midst of a very serious conversation. It is raining. CUT. INT. KELVIN’S ROOM. Kelvin in bed, on the Prometheus. Still feverish. Rheya is mopping his brow. INT. KELVIN’S APARTMENT. Kelvin in bed, feverish. Rheya is there, wiping his forehead. INT. KELVIN’S ROOM. On the Prometheus. Kelvin looks over to Rheya.
+E: EARTH
+C: KELVIN
+D: Where did you go before?
+C: RHEYA
+D: When?
+C: KELVIN
+D: You were talking to someone in the corridor.
+C: RHEYA
+D: You must have been dreaming. She closes her eyes and curls into him. From Kelvin’s point of view: Rheya, in the chair, crying. Then he looks right to see: Rheya, in the doorway, talking to Gibarian’s son. Then he looks further to the right, and there she is again, staring at him from the bathroom doorway. She moves to the edge of the bed in order to be near.
+C: KELVIN
+D: Sweating. Struggling. Beyond fear.
+C: KELVIN
+D: I’m losing my mind. I’m breaking apart. INT. KELVIN’S APARTMENT. NIGHT. Kelvin sits in his chair, as he did at the beginning, with the two officials from DBA behind him. Only now the two officials are Snow and Gordon. Kelvin turns from them to see Gibarian on the video screen. INT. KELVIN’S ROOM. Kelvin, transfixed.
+E: voice over beat PROMETHEUS
+C: KELVIN
+D: Is this what it means to die? Am I in the moment of my own death? Is this the last thought I will ever have? This idea forces him to rise, and he does, slowly. INT. CORRIDOR. Behind Kelvin as he somehow keeps moving. We hold a long time, and then: CUT TO:
+E: voice over beat beat
+C: BLACK.
+D: Count to ten. Then: INT. KELVIN’S ROOM. Kelvin is in his bed, still feverish. He looks around the room. He is alone. A flashing light on his computer demands attention. Somehow he gets himself up.
+E: PROMETHEUS
+C: ON THE COMPUTER
+D: A video message from Rheya.
+C: RHEYA
+D: Don’t blame them. I begged them to do it. It’s better this way. I’m sorry. I’m sorry I tried to make you think I was human. I read my own suicide note, the page I tore from the book of poems. I found it in your things. I realized I was not her. She looks away.
+E: beat beat beat
+C: RHEYA
+D: I know that you loved me, Chris. I know that. I love you. CUT. INT. APARTMENT. DAY. Kelvin, with the dead Rheya in his arms, crying. Beyond him is the rain-streaked window. Clutched in Rheya’s hand is a torn page from a BOOK--it’s the Dylan Thomas poems, the one Kelvin quoted to her the first time they spoke. INT. PARTY. NIGHT. That first night. Kelvin and Rheya, together. Falling in love. Again we see her whisper in Kelvin’s ear, but this time we hear what she is saying:
+E: beat
+C: RHEYA
+D: I can’t be a mother. She pulls back.
+C: KELVIN
+D: That’s good to know. INT. APARTMENT. NIGHT. Kelvin and Rheya, slow dancing. Holding each other.
+C: RHEYA
+D: “Though they go mad they shall be sane. Though they sink through the sea they shall rise again.” INT. APARTMENT. DAY. Kelvin holding Rheya. The piece of paper in her hand. The rain-streaked window.
+E: over
+C: RHEYA
+D: “Though lovers be lost love shall not. And death shall have no dominion.” Kelvin wipes the hair from her face. INT. PROMETHEUS. Earlier. Kelvin is holding Rheya.
+E: over
+C: KELVIN
+D: I came back for you. I came back that day. I came back for you. EXT. SOLARIS. Swirling. INT. PROMETHEUS. Kelvin makes his way to Gordon’s room. Empty. INT. LAB. Kelvin enters, sees Gordon in the cold room. She is in the process of working on the ship’s computer. Upon seeing him, she moves to lock the glass door separating them. He yells at her through the glass.
+C: KELVIN
+D: You killed her!
+C: GORDON
+D: Not her. It.
+C: KELVIN
+D: It’s murder!
+C: GORDON
+D: Kelvin, she begged me. She walked into it and disappeared. She was gone. Kelvin looks around.
+C: KELVIN
+D: She’ll come back.
+C: GORDON
+D: No, she won’t.
+C: KELVIN
+D: Why would you let her do that?
+C: GORDON
+D: It’s not human, Kelvin. Whatever it is, it’s not human, and I am threatened by that. Evolution-of-the- species-at-stake threatened. And I want to win. I want humans to win. So I am killing it before it kills me. Whose side are you on? She goes back to the computer.
+C: KELVIN
+D: What are you doing?
+C: GORDON
+D: I’m putting the AI back on line. We’re leaving.
+C: KELVIN
+D: We have to figure out why it’s happening.
+C: GORDON
+D: You figure it out. I’m going home. Kelvin looks beyond her. For the first time, he notices the blood-stained tile on the ceiling.
+C: KELVIN
+D: Look.
+C: GORDON
+D: Kelvin, don’t--
+C: KELVIN
+D: Look. The ceiling tile. She turns and sees it. They exchange a glance, and she unlocks the door.
+C: KELVIN
+D: On a chair now, getting ready to remove the tile. He does so very slowly, revealing:
+C: SNOW
+D: Dead. Bleeding from the ear.
+C: GORDON
+D: Son of a bitch. I knew it.
+C: KELVIN
+D: How long?
+C: GORDON
+D: Hard to tell because of the cold. CUT. INT. ROOM A. Snow, with a strange smile on his face. Kelvin and Gordon stand in front of him.
+C: SNOW
+D: He attacked me. In my sleep. I swear to you. Imagine how I felt. I mean, here I am, I have all these questions, and I’m trying to learn things, and he literally wouldn’t even talk to me. I think most people would see this as an incredible opportunity, like a gift almost, and he had zero interest in what I was experiencing. No empathy whatsoever. It was confusing to me too, you know? I didn’t ask for this. I was brought here. And then he goes and attacks me in my sleep. He went crazy. I didn’t mean to kill him. It was self-defense.
+C: GORDON
+D: You helped get rid of the other. Why?
+C: SNOW
+D: So you would go home and take me with you.
+C: GORDON
+D: That’s not going to happen. A beat.
+C: GORDON
+D: I saw we use the Higgs device on him.
+E: to Kelvin
+C: KELVIN
+D: Why?
+C: GORDON
+D: He could attack us while we’re trying to escape.
+C: KELVIN
+D: Well...there has to be another way of controlling him.
+C: GORDON
+D: We can’t drug him, it’ll take too long.
+C: SNOW
+D: No, you really don’t have time to drug me.
+C: KELVIN
+D: Why do you say that?
+C: SNOW
+D: Because ever since we first used the Higgs device, Solaris has been taking on weight exponentially. Haven’t you noticed how much closer we are to it? It’s going to pull everything within its gravitational field in with it. Gordon turns immediately to leave. Kelvin follows.
+C: SNOW
+D: When I saw you find the body in the lab I drained the reactor cells. Kelvin and Gordon stop.
+C: SNOW
+D: We’re not going anywhere. Well, that’s not true; we’re going somewhere.
+C: KELVIN
+D: We’ll take the Athena.
+E: to Gordon
+C: GORDON
+D: Wait. What about him? She looks at Snow. CUT TO:
+C: SNOW
+D: Being taped to his chair by Kelvin and Gordon.
+C: KELVIN
+D: What made you suspicious? You said when I came that you didn’t trust him. Gordon stands, finished.
+C: GORDON
+D: This one paces, when he talks. The old Snow never did that. Kelvin looks at her, then to Snow. He shrugs. INT. CORRIDOR. Kelvin and Gordon head for the docking bay. INT. DOCKING BAY. Kelvin and Gordon prepare to enter the Athena.
+C: KELVIN
+D: Climbing into the entry chamber. Then:
+C: SOLARIS.
+D: Slowly pulsing.
+C: KELVIN
+D: Freezes.
+C: INSERT:
+D: Rheya, standing in the living room Kelvin left back on Earth. She’s just looking straight at us.
+C: KELVIN
+D: Thinking.
+C: RHEYA
+D: Closer to us now.
+C: KELVIN
+D: Starts to back out of the Athena. Upon doing so he looks at the empty chamber where the pod that jettisoned Rheya used to be docked. He heads for the door.
+C: GORDON
+D: Where are you going? INT. CORRIDOR. Kelvin runs toward the lab. INT. BRAIN ROOM. Kelvin logs on to the on board AI. INT. ATHENA. Gordon prepares the craft for takeoff. EXT. SOLARIS. Churning. Pulling the Prometheus closer. INT. BRAIN ROOM. Kelvin has the on board AI hooked up.
+C: KELVIN
+D: What is Solaris?
+C: A.I. SCREEN
+D: Discovered 2015 by all sky infrared survey. Solaris orbits the Sun at approximately 1100 au. Measured surface is 350K--
+C: KELVIN
+D: No. No. A beat.
+C: KELVIN
+D: Is Solaris alive?
+C: A.I. SCREEN
+D: Yes.
+C: KELVIN
+D: How old is Solaris?
+C: A.I. SCREEN
+D: N/a. A beat.
+C: KELVIN
+D: What is the purpose of the visitors? A beat.
+C: A.I. SCREEN
+D: N/a.
+C: GORDON
+D: Kelvin. We have to go.
+E: on intercom
+C: KELVIN
+D: One more minute.
+C: KELVIN
+D: What does Solaris want?
+E: to A.I.
+C: A.I. SCREEN
+D: N/a.
+C: KELVIN
+D: Fuck.
+C: GORDON
+D: Kelvin. EXT. SOLARIS. The Prometheus is closer still. INT. CORRIDOR. Kelvin runs to Snow’s room.
+E: on intercom
+C: GORDON
+D: Kelvin. Where are you?
+E: shipboard intercom
+C: KELVIN
+D: Snow. Snow! Can you hear me?
+C: SNOW
+D: What? A beat.
+E: off
+C: KELVIN
+D: Will I die if I stay here?
+C: SNOW
+D: Why should I be talking to you?
+C: KELVIN
+D: Will I die is I stay here?
+C: SNOW
+D: I don’t know.
+E: off
+C: KELVIN
+D: Will I see Rheya again?
+C: SNOW
+D: It’s possible. I don’t know. EXT. SOLARIS. Darkening. Swirling. INT. CORRIDOR.
+E: off
+C: GORDON
+D: Kelvin!
+E: shipboard intercom
+C: KELVIN
+D: Is it God? Is Solaris God? INT. ROOM A. Snow smiles and shakes his head.
+E: to Snow
+C: SNOW
+D: I don’t know. Did she think it was? INT. CORRIDOR. Kelvin considers this question. Unable to answer, he moves away from the door. INT. ROOM A. Snow, to himself.
+E: beat
+C: SNOW
+D: Chris? Dr. Kelvin? He lowers his gaze and takes a deep breath. INT. CORRIDOR. Kelvin runs. INT. DOCKING BAY. Kelvin enters and heads for the Athena. But he stops before climbing in.
+C: GORDON
+D: Kelvin, come on. Kelvin looks over at the empty pod chamber--the one he used to expunge Rheya before.
+C: GORDON
+D: Kelvin! He looks back to the Athena, torn. Paralyzed. CUT TO:
+C: BLACK.
+D: Total silence. Then: EXT. STREET. DAY. Kelvin, back on Earth. Standing at a corner, waiting for the light to change. Looking ahead, but at nothing. After the light changes and he melts into the crowd:
+C: KELVIN
+D: Why did I return to Earth and lie about what happened? I knew something else was out there, and didn’t tell a soul. I left them in the dark. CUT. INT. TRAIN. Kelvin taking the train to the suburbs.
+E: beat
+C: KELVIN
+D: I tried to find the rhythm of the world where I used to live. I was silent and attentive. I followed the current. I made a conscious effort to smile, nod, stand, and perform the millions of gestures that constitute life on Earth. CUT. EXT. APARTMENT. NIGHT. Kelvin walks home. He stops before entering his building and looks back.
+E: over
+C: KELVIN
+D: I studied these gestures until they became reflexes again. But I was haunted by the idea that I remembered her wrong; that somehow I was wrong about everything. CUT. INT. APARTMENT. NIGHT. Kelvin making himself dinner again. He closes the refrigerator door and crosses to the counter. As he prepares dinner, a sudden realization stops him and he once again CUTS HIS HAND.
+E: voice over MORE
+C: KELVIN
+D: Turns to looks at the refrigerator door. There is a PHOTO OF RHEYA on the door. It wasn’t there before, at the very beginning. He looks at his finger. There is a strange expression on his face, perhaps brought on by the echo of the previous time he cut himself. He goes to run his finger under the tap. The blood washes away, revealing that THERE IS NO
+C: WOUND.
+D: EXT. SOLARIS. Alive. Undulating.
+C: KELVIN
+D: Blinks. What is happening? CUT TO: INT. DOCKING BAY. Kelvin, standing at the door of the Athena. This is where we left him on the Prometheus.
+C: GORDON
+D: Kelvin! Come on! Kelvin thinks for a moment, then closes the hatch and locks it.
+C: GORDON
+D: Kelvin! KELVIN INT. ROOM A. Snow takes deep breaths. Preparing himself. INT. CORRIDOR. Kelvin heads for his room. The Athena leaves the Prometheus, which is now dwarfed by Solaris. Slowly, inexorably, Solaris begins to pull the Prometheus in... INT. CORRIDOR. Kelvin, still heading for his room. Then, the SOUND comes. It is a wall of white noise, that gradually increases in volume until it sounds like every atom in the universe is detonating simultaneously. Kelvin drops to his knees, trying to drown it out. The Prometheus is pulled into the center of Solaris. It begins to disappear. INT. ROOM A. Snow lifts his head back and looks upward. Still we hear the LOUD SOUND. The expression on his face is a combination of terror and transcendence. INT. CORRIDOR. Kelvin, on the ground. He rolls over, on the verge of losing consciousness. He turns to look at something:
+E: off cont'd
+C: GIBARIAN’S SON
+D: Standing next to him.
+C: KELVIN
+D: Stares at him
+C: GIBARIAN’S SON
+D: Extends his hand to Kelvin.
+C: KELVIN
+D: Still fighting the noise, reaches for him.
+C: THE TWO HANDS
+D: Are within inches of each other.
+C: GIBARIAN’S SON
+D: Calm. Watching.
+C: KELVIN
+D: Straining.
+C: THE TWO HANDS
+D: Make contact.
+C: KELVIN
+D: His eyes look up to the young boy. Suddenly, in a succession of subliminal cuts, Gibarian’s son is replaced by Gordon, then Snow, then Gibarian, then Rheya.
+C: KELVIN
+D: Beyond fear. Beyond everything. The sound is absolutely deafening. CUT TO: INT. APARTMENT. DAY. Silence. Kelvin, where we left him, moments ago: standing in the kitchen. Frozen. Remembering.
+C: RHEYA
+D: Chris? He turns, slowly.
+E: off screen
+C: RHEYA
+D: Is standing in the middle of the room. This is the image that stopped him from climbing into the Athena.
+C: KELVIN
+D: Like a wave just hit him. EXT. SOLARIS. Colors shifting rapidly.
+C: KELVIN
+D: Is now in her arms. He breathes her in. Rheya squeezes him. After a long beat:
+C: KELVIN
+D: Where am I?
+C: RHEYA
+D: Shhhh. You made it. His body relaxes. She continues to hold him.
+E: whispering
+C: KELVIN
+D: Are we alive or dead?
+C: RHEYA
+D: We don’t have to think like that anymore. EXT. SOLARIS. Feverish.
+C: RHEYA
+D: Looks at kelvin, and without moving her lips, she says:
+C: RHEYA
+D: Stay with me, Chris. Kelvin is awed and disconcerted by this, but not frightened. EXT. SOLARIS. Glowing. Light trails off of it.
+C: KELVIN
+D: Feeling something. Rheya speaks, again without moving her lips:
+C: RHEYA
+D: We’re together now. You made it. Everything we did is forgiven. Everything. EXT. SOLARIS. Exultant. New.
+E: beat
+C: KELVIN
+D: Takes a moment, looks at Rheya and answers her:
+C: KELVIN
+D: I love you. Then again, but this time without moving his lips:
+C: KELVIN
+D: I love you. They kiss. Very, very slowly we dissolve to: EXT. SOLARIS. Slowing. Dimming. Settling in. Another transition has been achieved. FADE OUT.
+N: THE END.

@@ -1,0 +1,1900 @@
+M: WIND RIVER
+M: Written by
+M: Taylor Sheridan
+M: OPEN ON:
+M: SNOW COVERS AN ENDLESS PLAIN ON A MOONLESS NIGHT.
+M: Clumps of sagebrush, huddled together like angry gnomes, are
+M: the only evidence of life in this place.
+M: There is no movement.
+M: No sound.
+M: Until ...
+M: The sound of FEET CRUSHING SNOW. Moving toward us. Fast.
+M: A GIRL RUNS PAST US -- SCREAMING.
+M: She’s in her late teens, wearing a baby blue, down-filled
+M: coat. White sweat pants. She runs as though her life depends
+M: on it ... Which it does.
+M: GIRL’S VOICE (V.O.)
+M: There is a meadow in my perfect
+M: world. Where wind dances the
+M: branches of a tree, casting leopard
+M: spots of light across the face of a
+M: pond ...
+M: ANGLE ON:
+M: BARE FEET slamming frozen earth. Blood staining the snow with
+M: every step.
+M: GIRL’S VOICE (V.O.)
+M: The tree stands tall and grand and
+M: alone, shading the world beneath
+M: it.
+M: WE RUN BESIDE HER.
+M: We take in her pretty face as she sobs, heaves in air,
+M: stumbles, and falls out of frame.
+M: GIRL’S VOICE (V.O.)
+M: There will come a day when I rest
+M: against its spine and look out over
+M: a valley where the sun warms, but
+M: never burns ...
+M: She rises, blood drips into her eye from an unseen wound.
+M: Takes off again and somehow runs faster -- screams whipping
+M: behind her like a cape.
+M: GIRL’S VOICE (V.O.)
+M: I will watch leaves turn. Green,
+M: then amber, then crimson. Then no
+M: leaves at all ...
+M: The faster she runs, the farther the horizon moves from her.
+M: As if the earth is tilting to prevent this girl from reaching
+M: her destination.
+M: GIRL’S VOICE (V.O.)
+M: But the tree will not die. For in
+M: this place, winter never comes ...
+M: It is here, in the cradle of all I
+M: hold dear, I guard every memory of
+M: you.
+M: She finds her stride. Crying less. Running harder. Gaining
+M: momentum. Pulling away from us. Getting down to the business
+M: of surviving.
+M: GIRL’S VOICE (V.O.)
+M: And when I find myself frozen in
+M: the mud of the real -- far from
+M: your loving eyes, I will return to
+M: this place, close mine, and take
+M: solace in the simple perfection of
+M: knowing you.
+M: WE WATCH FROM A DISTANCE: Her white pants match the snow, her
+M: black hair matches the night -- all we can see is a baby-blue
+M: coat that floats above the plains like a wayward balloon,
+M: bouncing above a white desert.
+T: CUT TO:
+S: EXT. HIGHWAY 789 -- CENTRAL WYOMING -- DAWN.
+N: Yellow lines whip beneath us. The faded blacktop is a gray blur as we chew road. To our left is an ocean of sage brush and dirty snow, sprawled out before the towering WIND RIVER MOUNTAIN RANGE. A PICK UP TRUCK makes its way down a deserted highway. On the door is an OFFICIAL SEAL and the letters U.S.F.W.S.: THE UNITED STATES FISH AND WILDLIFE SERVICE.
+S: INT. PICK UP TRUCK -- CONTINUOUS.
+N: A MAN grips the steering wheel. Sips coffee from a travel mug. He’s around 40. Sunken cheeks. Mustache. Cowboy hat on his head. Almost white when it was new -- sweat, dirt, and who knows what else, have stained the hat brown and robbed it of its shape. A fair description of the man as well. Through the windshield we see a dirt road that meets the black top. The truck slows, turns onto it.
+S: EXT. SAGEBRUSH PRAIRIE -- DAY.
+N: FIVE HUNDRED SHEEP wander through snow in a futile search for something to eat. In the distance, we see: TWO COYOTES. They duck behind the sagebrush, then reappear seventy-five yards closer, only to disappear again. Farther to the flock’s left, THREE MORE COYOTES approach at a trot. They see no need for stealth -- these sheep have nowhere to go ... The sheep spot the killers approaching and huddle into a tight circle -- with the rams forming an outer layer of protection. If coyotes could laugh, they would laugh at this. The two wary coyotes; however, make no attempt to approach. They raise their noses to the air -- sucking in the wind’s secrets. And just like that, they disappear. The other three move eagerly toward their lunch. THUNDER SHAKES THE VERY EARTH. One of the coyotes is blown backwards, cart-wheeling through the snow. The other two stop. MORE THUNDER. A second coyote is driven into the ground like he’s been hit with a giant hammer. The last coyote turns and runs for the safety of anywhere but here. WIDEN TO REVEAL -- The man, dressed completely in white, lays prone -- invisible in the snow. A rifle pressed to his shoulder. He works the bolt -- chambers another round. WE SEE THE LAST COYOTE THROUGH A RIFLE SCOPE. The cross-hairs find the back of the coyote’s head bouncing in and out of view. The scope begins to move with it. The rifle invades the silence again. When the muzzle flash disappears, we see the coyote splayed out in the snow. In the distance, the two coyotes wise enough to never trust the scent of man crest a far rise, and drop out of view. The sheep shriek in terror as they run around in a giant, panicked, pointless circle. The man rises and walks toward the carnage he inflicted. The flock runs right toward the man, who doesn’t stop. Doesn’t even look in their direction. The flock almost runs into him before dividing and passing him on either side. They rejoin, and continue their silly circle -- all instinct for survival bred out of them.
+S: EXT. SAGEBRUSH PRAIRIE -- DAY.
+N: The man looks at the dead coyotes with no emotion. He removes a rope from a backpack. Begins looping the rope around the back feet of a coyote, then moves to another and does the same. All three are now tethered together and he begins the chore of dragging them through the snow and red dirt. He drags them past the flock, which stands idly by, panting like tired dogs. His dark eyes hold no joy. No sorrow either. This is not sport. This is his job. This is CORY LAMBERT.
+T: CUT TO:
+S: INT. PICK UP TRUCK -- DAY.
+N: Cory warms his free hand against the truck’s vent. Grabs his coffee. Takes a sip. The coffee’s cold. Doesn’t matter -- not his first cold cup of coffee. He stares at the road. If the truck had a radio that worked, he’d turn it on.
+S: EXT. BUREAU OF LAND MANAGEMENT FIELD OFFICE -- DAY.
+N: BLM OFFICER TIM WINTER, late 30’s, big coat, bigger cowboy hat, stands beside USFWS ENFORCEMENT AGENT DALE BERTRAM, early 30’s. They stare at the coyotes in the bed of Corey’s truck.
+C: TIM
+D: Did you see Wyman’s sheep dogs near the flock?
+C: CORY
+D: Nope.
+C: TIM
+D: Told me he had six dogs watching over it.
+C: CORY
+D: He don’t have six dogs anymore. Those coyotes moved on that flock like they’ve been doing it all month.
+C: TIM
+D: Buggers are bad this year. We’ll be lucky if there’s a flock of sheep standing come April. Tim looks to the STORM CLOUDS that loom over the WIND RIVER MOUNTAIN RANGE like a reckoning.
+C: TIM
+D: After this storm, I want you up in a chopper. Those mutt’s will be easy to spot with a coat of fresh snow. When can your boy fly, Dale?
+E: CONT’D
+C: DALE
+D: We’ll see what kind of wind follows the storm. Maybe Wednesday. He looks at Cory.
+C: DALE
+D: I got a call from BIA Police, the chief was asking for you. A mountain lion’s working through the flocks east of Boulder Flats. Tim can’t help but laugh.
+E: CONT’D
+C: TIM
+D: You’d think folks would learn this isn’t sheep country. They all laugh at that.
+C: DALE
+D: Tore up a horse and some weanlings too.
+C: CORY
+D: That sounds like wolves.
+C: DALE
+D: Chief says it’s a cat, and they ain’t had no luck getting it. I offered Kenny and his hounds, but they don’t want a white man running around on the rez with a firearm.
+C: CORY
+D: They don’t want a white man out there period. I’ll call him.
+C: TIM
+D: I forget you’re part Indian.
+C: CORY
+D: Well ... I’m Indian enough to do favors, but not enough to pull a check.
+C: DALE
+D: Be careful out there. Half those boys are tweaked out of their minds. Cory doesn’t answer.
+C: TIM
+D: Shit, that junk’s everywhere now. I’m scared to let my daughter leave the house. As soon as Tim says it, he wishes he could have it back. Everyone looks to the ground. To the mountains. To the storm hovering. Anywhere but Cory, who stares at the coyotes’ corpses in the bed of his truck. Lifeless eyes stare back.
+C: CORY
+D: I gotta go.
+C: DALE
+D: Okay. Drop those off at Fish and Game.
+C: CORY
+D: Yep. He climbs in his truck and starts it in one fluid motion. He pulls toward the road as the coming storm inches closer. CUT TO: INT. CORY’S PICK UP -- LANDER, WYOMING -- DAY. Cory drives through the town of Lander. Feed stores, fast food, and a Wall Mart pass by his window. He turns on a side street and pulls up to a small house. Parks. Gets out. EXT. WILMA LAMBERT’S HOUSE -- CONTINUOUS. Cory walks up the driveway past a faded, Silver Subaru. Reaches the door. Rings the bell. The door opens and WILMA LAMBERT, 38, full blood Shoshoni, gives Cory a terse smile. She was a beauty two kids and many heartaches ago, but bad food and cigarettes are winning the war against her looks. Still, effort went into her hair, and make-up was delicately applied.
+C: WILMA
+D: You got blood on your shirt.
+C: CORY
+D: I was at work. She nods, but doesn’t approve.
+C: WILMA
+D: Who was the victim today? Cory knows her well enough to sense her moods, and apparently she’s in one right now.
+C: CORY
+D: Looks like it’s gonna be me. She stares at him. Her face goes from anger to pity to tired in an instant. She waves him in.
+C: WILMA
+D: Want some coffee? He doesn’t, but:
+C: CORY
+D: Sure. Thank you. He steps in, removing his hat. INT. WILMA LAMBERT’S HOUSE -- CONTINUOUS. It is exactly what you would expect from a prefab home owned by a woman with good taste and no money. The place is spotless. Mismatched Lazy Boys and outdated furniture are thoughtfully arranged. Wilma disappears into the kitchen, leaving Cory alone in the living room. He stares at the ground. Fumbles with his hat. Looks at the ceiling fan. ... Gives up and turns his gaze toward the fireplace. Above the mantle is a 16x24, FRAMED YEARBOOK PHOTOGRAPH of a TEENAGE GIRL. She wears a basketball uniform. Black hair neatly braided into long pig-tails. Big smile. Bright eyes. His eyes. Sage bundles, Sweetgrass braids, and an eagle feather are arranged around it. It is a shrine. Wilma returns. Hands him a mug. He nods his appreciation.
+C: CORY
+D: I gotta go to the Rez tomorrow, thought I’d take Casey by your folks. She winces at the word ‘Rez’, then nods at the word ‘folks’.
+C: WILMA
+D: Something killed a yearling in the pasture behind their house.
+C: CORY
+D: That’s why I’m going.
+C: WILMA
+D: Probably one of those Littlefeather demons. They stole two of Daddy’s calves last spring.
+C: CORY
+D: Mountain lion, wolf, or demon child, they want me to find it. Beat.
+C: WILMA
+D: Don’t let Casey out of your sight on the Rez, okay?
+C: CORY
+D: I was gonna leave him with your folks while I scouted. Too cold to drag him through the snow.
+C: WILMA
+D: You know what I mean. Cory seems to make eye contact with her for the first time.
+C: CORY
+D: Yeah, I do. And I won’t. Beat. Cory sips his coffee. Then yells down the hall.
+C: CORY CASEY! CASEY DAD??! OKAY! I’M COMING.
+D: Appearing in the hall and bumbling toward Cory is CASEY LAMBERT, 8 years old. Olive skin and short, black hair covered by a weathered cowboy hat very similar to Cory’s. Though the skin and hair are darker, this is clearly Cory’s son. The boy labors toward his dad with suitcase, sleeping bag, coat, and BB gun in a noisy, clumsy, ball of energy.
+E: CONT’D
+C: CORY
+D: What did I tell you about pointing that BB gun at people? Casey freezes. Drops everything but the gun.
+C: CASEY
+D: Sorry dad.
+C: CORY
+D: Being careless won’t get you anywhere faster.
+C: CASEY
+D: No sir.
+C: CORY
+D: Put the BB gun in the truck then come back for the rest.
+C: CASEY
+D: Yes sir. He begins running for the door.
+C: CORY
+D: Don’t run with it. Slows to an urgent walk. Pushes through the screen door.
+C: WILMA
+D: I’ll be back Monday afternoon.
+C: CORY
+D: Watch yourself on the road.
+C: WILMA
+D: He doesn’t need to be missing school to go chasing coyotes with you.
+C: CORY
+D: We’ll get all the chase out of our system tomorrow ... You be careful.
+C: WILMA
+D: This won’t be my first snow storm in a car. Beat. Cory walks over to Casey’s things.
+C: WILMA
+D: Let him. Needs to learn to do things for himself. Cory grabs his things anyway.
+E: CONT’D
+C: CORY
+D: I agree, but I’ve stood here as long as I care to. Hope the interview goes well in Jackson.
+C: WILMA
+D: Yep. We’ll see.
+C: CORY
+D: If anyone was born to make a living talking on the phone ... She takes the jab as one of affection, which it was.
+C: CORY
+D: It’s a good school over there. Good town. She nods.
+E: CONT’D
+C: WILMA
+D: If I get the job, we’re gonna have to talk about his child support -- Jackson’s a lot more expensive.
+C: CORY
+D: Get the job. We’ll get the rest figured. You got my word. Whatever happened to these two, they are unified in their desire to find a better life for their son. He pushes the screen door open. Looks back at her.
+C: CORY
+D: Take Togwotee Pass. Don’t go through Pinedale. Storm’s coming from the south. Wilma’s eyes go dark.
+E: CONT’D
+C: WILMA
+D: You couldn’t drag me through Pinedale with a rope. I’ll never set foot in that town again. He nods without agreeing, then pushes through the door. INT. CORY’S PICK UP -- DAY. Casey looks at his father, then at the coming storm.
+C: CASEY
+D: She’s gonna be a bad one. Cory hides a smile at Casey’s attempt to speak like a man. Looks at his son -- a miniature, if darker, version of him. Looks at his hat -- beaten and filthy, just like his.
+C: CORY
+D: You just got that at Christmas.
+C: CASEY
+D: It’s taken a beating, just like a hat should.
+C: CORY
+D: Doing what? You’ve only had the thing two months.
+C: CASEY
+D: I’m in the 4-H barn three times a week. Cory draws in a breath to reprimand. Looks at his boy -- so desperate to please -- and swallows it. Gives wisdom instead.
+C: CORY
+D: Life dirties things plenty fast on its own, don’t need any help from you. Casey stares at the floorboard. Gives a submissive nod as the excitement of a weekend with dad drains from him. He looks out the window as the outskirts of town fade into frozen fields. Cory regrets saying anything at all.
+C: CORY
+D: Hey. Casey looks up.
+E: CONT’D
+C: CORY
+D: When we get home, I’ll help you dust that hat up the right way. Okay? The tiniest of smiles crosses Casey’s face. Through the windshield we see storm clouds, black as the coming night, push against the mountains that contain them. EXT. CORY LAMBERT’S PLACE -- DUSK. Beside a small house is a corral. Four horses huddle together, asses to the wind, wishing like hell it was spring. Cory and Casey emerge from an old barn carrying hay. Cory flips a latch and swings the gate open, snapping the horses from their stupor. The horses head straight for Casey -- RIPPING HAY FROM HIS
+E: CONT’D
+C: BUNDLE.
+D: Cory tosses his hay bale in a trough, then turns back to Casey.
+C: CORY
+D: Push their nose when they rub up on you like that. Casey pushes one horse as another reaches over his head and grabs more hay, whipping Casey in the face when it does, knocking him down. Cory steps up and all the horses hurry toward the trough, like a high school fight breaking up when the principal arrives. Cory looks at his son, who has no hay left to hold. He sits on the ground -- face, coat, and hat covered in shredded alfalfa and horse slobber.
+C: CORY
+D: Told’ya I’d get that hat dirty.
+E: CONT’D
+C: CASEY
+D: They got the height advantage on me is the deal.
+C: CORY
+D: We can fix that. Cory smiles. Most kids would’ve been terrified, but Casey stood his ground. Cory walks up behind Casey, lifts him and sets him on a liver- colored mare that is far too busy eating to care about the boy now on her back.
+C: CORY
+D: Remember what I showed you?
+E: CONT’D
+C: CASEY
+D: But she’s eating.
+C: CORY
+D: You want that horse to be yours some day, prove it. Not to me, to her. Casey lets out a breath. Grabs a handful of mane, and pulls back slightly. The mare raises her head, but doesn’t move.
+C: CORY
+D: Put those boots into the front of her chest. He kicks into her. She bolts up. Casey grabs on tight.
+E: CONT’D
+C: CORY
+D: I didn’t say kick. Ask her before you tell her. Just press your boots into her chest. Gentle. He does, and the mare backs up.
+E: CONT’D
+C: CORY
+D: Ease up on the mane, and give her a little nudge in the ribs. He does. The mare obeys, and moves forward.
+E: CONT’D
+C: CORY
+D: Wherever you look is where she goes. Take her to the gate. Casey stares at the gate with the focus of a surgeon.
+E: CONT’D
+C: CORY
+D: Get alongside and open it. Casey sends cues through his feet and negotiates the mare parallel to the fence. He reaches down to the latch. Casey wrestles with the latch his father flipped without effort. He struggles.
+E: CONT’D
+C: CORY
+D: Freezes up quick, don’t it ... Give it a good hit. Casey curls his fist and pounds the lever. The gate swings open. Cory pulls Casey off and sets him on the ground, facing the mare.
+E: CONT’D
+C: CORY
+D: Let her know you. Casey stands in front of her. The mare inches closer, pressing her nostril to Casey’s nose, inhaling his exhaled breath.
+E: CONT’D
+C: CORY
+D: Put a hand to her face. Gentle, like a friend. He does. Then looks back at his father, all smiles once again.
+E: CONT’D
+C: CASEY
+D: That was pretty cowboy, huh.
+C: CORY
+D: No, son. That was Arapahoe. Cory closes the gate and they walk to the little house as the mare hangs her head over the fence, watching the boy -- forgetting the meal so important a moment ago. INT. CORY’S HOUSE -- NIGHT. Cory and Casey sit on the couch. Casey eats a sandwich and stares at the TV. Cory looks over A TOPO MAP as he speaks on the phone.
+C: CORY
+D: Yeah. I’m looking at it. There’s drill rigs over there, lions don’t like the noise ... You sure it’s something and not somebody? ... Alright, I’ll check it out in the morning. If you got lions, I’m gonna have to bring Kenny’s hounds in to run ‘em ... Name a Indian with lion hounds and I’ll use him. Call you if I find anything. Cory hangs up. Looks at his son, lost in the television. Little mouth chewing little bites, stopping for a little sip of soda. Cory watches him. Smiles. Sits back quietly. The smile disappears. Worry replaces it. Above the fireplace is the same photograph of a teenage girl dressed to shoot hoops, though much smaller. Cory stares at the photo, then back to his son -- who is staring right at him. Casey smiles, then returns to the TV. Cory rubs his eyes. Pinches the bridge of his nose. Hard. Forcing emotion to retreat to wherever emotion comes from. CUT TO: INT. CORY LAMBERT’S HOUSE -- CASEY’S BEDROOM -- NIGHT. The door creaks open. A shadow slinks in. Sits on the edge of the bed. A hand reaches out and rests gently on Casey’s chest.
+C: CORY
+D: Hey. The sheets move a little.
+C: CORY
+D: Come on. Wake up, son. We gotta go. Casey bolts upright.
+E: CONT’D
+C: CASEY I’M UP.
+D: The shadow rises, walks to the door. Turns on the light.
+C: CORY
+D: I’m making breakfast. Get dressed. We gotta feed the horses. Casey rubs furiously at his eyes and yawns.
+C: CASEY
+D: Waiting on you.
+C: CORY
+D: Yeah ... I can see that. Cory walks out as Casey rises, shaking off the night. CUT TO: INT. CORY’S PICK UP -- PRE-DAWN. Cory sips coffee. As they drive down the highway, PRONGHORN ANTELOPE walk parallel to the road. Following a path carved into these plains before man sparked his first fire. INT. CORY’S PICK UP -- DAWN. The sun has crested the horizon behind us. Ahead of us -- the Wind River mountains and the storm clouds that gather above them.
+E: Smiles
+C: CASEY
+D: How come the clouds just sit there? Why don’t they dump their snow and get it over with?
+C: CORY
+D: Mountains hold the clouds back with the winds that blows between ‘em. Makes a sort of suction. Sometimes they can suck the storm right out of the clouds. Sometimes they just make it worse, cuz a big storm will sit there and gather strength from the winds that hold it back ... Our ancestors believed the storms hold the spirits of vengeance, and the mountains are our protector. But when enough evil lives in our people, the mountains free the storm to punish the demons among us.
+C: CASEY
+D: That what you believe? Cory smiles.
+C: CORY
+D: No. Beat.
+C: CORY
+D: Sometimes. Up ahead, we see a small, log cabin with a barn even worse off than Cory’s. TWO HORSES run and kick at the dropping pressure and the storm behind it. Cory drives up and parks. The front door is already open. An Indian man in his 70’s stands in long johns and boots with no regard for the sub- zero temperature. This is DAN CROWHEART, Casey’s grandfather.
+E: CONT’D
+C: CORY
+D: Sense the storm.
+E: CONT’D Re: the horses
+C: CROWHEART
+D: Yep. That’s my cue to stick ‘em in the barn. But with a lion about, I don’t want ‘em stuck in a open stall. They gonna have to make their peace with the storm. Come here, grandson. Casey is already doing that. He runs to him and the old man lifts him with a strength we didn’t credit him with having.
+E: Opening his arms
+C: CROWHEART
+D: You’re Grandma made fry bread. You have breakfast?
+E: CONT’D
+C: CASEY
+D: Just eggs.
+C: CROWHEART
+D: Go get some then. Casey disappears inside. Crowheart looks to Cory.
+C: CROWHEART
+D: Hau, Munape.
+E: CONT’D
+C: CORY
+D: Yep.
+C: CROWHEART
+D: Police chief called you to hunt the lion, eh?
+C: CORY
+D: He called me to hunt something. You lost a steer?
+C: CROWHEART
+D: I’ll show you where. It’s a lion. He grabs a coat from a rack and steps outside. They walk behind the house, past the horses and toward a large, fenced, field completely covered in snow.
+C: CROWHEART
+D: How’s Wilma?
+E: CONT’D
+C: CORY
+D: Headed to a job interview in Jackson. Some hotel.
+C: CROWHEART
+D: Jackson Hole. Gonna go live with the millionaires.
+C: CORY
+D: What are you talking about, billionaires chased out the millionaires years ago. Crowheart looks back as he walks and smiles.
+C: CROWHEART
+D: Save your money. When the wolves start eating their Golden Retrievers, that land’s gonna go for pennies on the dollar. Cory laughs. Crowheart stops. THE SNOW IS STAINED RED. Just beyond is the body of a young steer. Crowheart stands over it and points to tracks in the hard snow.
+C: CROWHEART
+D: Tell me what that is. Cory lowers himself to it. Must admit --
+E: CONT’D
+C: CORY
+D: That’s a lion. Cory follows the tracks. Crowheart stays put, watching. Fifty yards away Cory stops. Looks back at Crowheart.
+C: CROWHEART
+D: There’s two. He follows the tracks farther.
+C: CORY
+D: Three. She’s got both of last year’s kits with her. They chased your steer around for a while, I bet.
+C: CROWHEART
+D: That’s what the tracks say. Cory walks back toward him.
+C: CORY
+D: She’s teaching them to hunt. And she’s teaching ‘em on livestock ... She just got her whole family killed. Cory looks toward the mountains. From here, they tower over us like a canyon wall.
+E: Shakes his head
+C: CORY
+D: They’re tucked up there somewhere. I’ll go have a look ... You mind watching Casey for a few hours? Crowheart smiles.
+E: CONT’D
+C: CROWHEART
+D: You never have to ask that.
+C: CORY
+D: Got gas in your snowmobile? EXT. WIND RIVER RESERVATION -- DAY. Cory drives a snowmobile over the frozen ground, following the tracks. He is far from the cabin. Far from anything. The mountains are so close, you could almost reach out and touch them. To the left, the prairie is broken with GAS DRILL AFTER GAS DRILL, all jutting eighty-feet into the air like giant, steel darts fired into the earth. Cory slows, sees something he didn’t expect. Stops the snowmobile. Looks down. We do too. HUMAN FOOTPRINTS IN THE SNOW. BAREFOOT. FROZEN BLOOD STAINING
+C: THE GROUND AROUND THEM.
+D: Cory steps off the snowmobile and places his hand against the print -- knows instantly this person was not large. He checks his pistol and his rifle, making sure both are loaded, removes the WHITE CAMO from his backpack. Puts it on. Follows the tracks on foot. ANOTHER ANGLE -- From a distance, he is invisible. It is as though the snow itself stood up and walked. WE WALK BEHIND HIM NOW. The mountains are a hundred yards from him. Pine trees lord over the snow. The clouds cast a shadow that is visible just fifty yards ahead. Cory studies the ground. Takes two more steps, then stops -- IN FRONT OF HIM IS A PERFECT IMPRINT OF THE GIRL. As though she laid down and made a bloody snow-angel. We see where she stood up and stumbled toward a small arroyo just ahead. Cory slings the rifle over his shoulder slowly. Silently. Pulls out his RUGER BLACKHAWK PISTOL. He hides the pistol under his coat, and cocks the hammer -- no noise. He raises the pistol to eye level and moves forward. Wherever he looks -- the pistol points. He crests the little arroyo and stares down. At first he sees nothing. Then -- A HAND. REACHING FROM THE
+C: SNOW.
+D: He looks around. Nothing. He looks at the ground. No tracks except those of the girl. He moves to the hand. Gently brushes the snow away. THE RUNNING GIRL’S FACE STARES BACK. Frozen in a constipated moan. Blood frozen to her face. Blood mixed with the snow and ice around her. Cory stares at her -- almost as frozen as she is. His breath leaves him -- but not from the sight of a dead body. He’s seen plenty in his day. This is a body he knows. A snowflake falls. Then another. Takes off his back pack, pulls out a two-way radio. Turns it to channel 16 -- the emergency channel -- and speaks with a hollow voice.
+C: CORY
+D: I need emergency assistance. Repeat. Emergency assistance requested ... Come back? Static crackles, then a voice filters through.
+C: DEPUTY
+D: Fremont County Sheriff’s office. What’s your emergency.
+E: O.S.
+C: CORY
+D: I found a body on the Wind River Indian Reservation west of Boulder Flats, I need Tribal Police to respond to the following location... We pull back and snow begins to fall. We pull back farther, and Cory fades as the snow falls faster. A STRONG WIND pushes the snowflakes horizontal -- it is snowing sideways. The storm breaks free from the mountains’ grasp with a vengeful howl -- ready to punish this land and her people for all the evil they’ve done. EXT. DAN CROWHEART’S CABIN -- DAY. Cory stands on the little porch with TRIBAL POLICE CHIEF BEN SHOYO, 50, kind, round face and large, heavy frame. They watch the storm throw snow at the earth like shrapnel. Barely visible to the left of the house are THREE TRIBAL POLICE TRUCKS. EMPTY FLAT-BED TRAILERS ATTACHED TO THE BUMPERS. AN AMBULANCE IS PARKED BESIDE THEM. Two snowmobiles sit in front of the house. Ben lights a smoke.
+C: CROWHEART
+D: FBI’s taking a while, eh.
+C: BEN
+D: Road’s bad out of Riverton. I hate to move her before they’ve had a look, but I’m not gonna try to pull her out after dark. We gotta get this show on the road. Cory steps out into the snow. Kicks at it with his boot.
+C: CORY
+D: We’re losing the tracks.
+C: BEN
+D: This ain’t letting up. Not for a while.
+C: CORY
+D: Oughta let me follow ‘em while I still can.
+C: BEN
+D: Can’t have you out there without the FBI’s okay, Cory. Cory looks back to the men on the porch.
+C: CORY
+D: You call her folks yet, Ben?
+C: BEN
+D: I want to get her to Lander first. It looks like Natalie, but I don’t want to call the wrong person. Not about this. Beat.
+C: CORY
+D: It’s Natalie. We look out from the porch and can barely make out -- A BLACK SUV, crawling through the snow on the main road.
+C: CORY
+D: There’s your Feds. INT. BLACK SUV -- CONTINUOUS. FBI AGENT JANE BANNER, 28, struggles to see through the snow as her GPS directs her.
+E: CONT’D
+C: GPS
+D: In seventy-five feet, turn right.
+C: JANE
+D: ... Where?!
+C: GPS
+D: Turn right ... Turn right.
+C: JANE
+D: Where do you want me to turn right?? WHERE!!! Dirty-blonde hair falls over a pretty face as she peers closer to the windshield in an attempt to see where the hell she’s supposed to go. EXT. DAN CROWHEART’S CABIN -- PORCH -- DAY. Dan, Ben, and Cory look at the SUV -- barely visible through the storm -- PULL TO A STOP on the highway.
+C: CROWHEART
+D: What are these fools doing?
+C: CORY
+D: Can’t see the road. Beat.
+C: BEN
+D: We don’t have time for this.
+C: CORY
+D: I’ll go get ‘em. Cory walks to his snowmobile. INT. JANE’S SUV -- CONT. She can barely make out the house a quarter-mile away, and the police vehicles -- white themselves -- are completely invisible. Jane pulls a ROAD ATLAS out and studies it. Looks back out the window. Hears what sounds like the whine of a CHAIN SAW. Cory appears from the snow like a wraith, pulls up beside Jane’s window. Knocks on it. No idea a gun is now pointed at him on the other side of the vehicle’s door. She cracks the window, leery.
+C: CORY
+D: You FBI?
+C: JANE
+D: ... You Tribal Police?
+C: CORY
+D: No. But I’ll take you to them. This thing in four-wheel drive?
+C: JANE
+D: Are you kidding?
+C: CORY
+D: Alright, follow me. Cory whips the snowmobile around, spewing snow, then drives toward the house.
+C: GPS
+D: In fifty feet -- Jane pounds the power button with her fist.
+C: JANE
+D: Shut up. Jane puts the SUV in gear and follows. The police vehicles come into view, as does Ben, standing on the porch. His uniform is her first evidence this isn’t an ambush. Cory has already parked and is walking back to the protection of the overhang. She slams the SUV in park and opens the vehicle door. EXT. DAN CROWHEART’S CABIN -- CONT. She tosses a coat over a business suit as she stumbles toward them in the shin-deep snow.
+C: JANE
+D: I’m Jane Banner.
+C: BEN
+D: Is it just you? Beat.
+C: JANE
+D: Just me.
+C: BEN
+D: Ben Shoyo. I’m Tribal Police Chief. This is Cory Lambert, works for US Fish and Wildlife. He found the body. This is his father-in-law, Dan. He don’t do nuthin’.
+C: CROWHEART
+D: We got the same job, eh?
+C: JANE
+D: Well. Sorry to meet under these circumstances. You wanna show me body? The men don’t move, just exchange bewildered looks. Jane shivers, hands jammed in her pockets. A half-inch of snow building on her shoulders and the top of her head.
+E: To Cory
+C: JANE
+D: I don’t want to be rude, but I’m freezing my ass off here, so...
+E: CONT’D
+C: BEN
+D: Yeah, that’s gonna get a lot worse if you go out there dressed like that.
+C: JANE
+D: I’m a big girl. Thank you. Cory steps to her.
+C: CORY
+D: Body’s a ten mile drive by snowmobile. You’d be dead before we got there. She looks away from his dark, intense eyes. Feels a little silly as she shivers in place.
+C: JANE
+D: I was in court in Riverton when I got the call to come here. This is what I have --
+C: BEN
+D: You should have a winter-gear bag in the back there --
+C: JANE
+D: This isn’t a government vehicle, it’s a rental. I flew in from Denver. I’m just the closest agent to the scene ... You don’t think I can make it like this? She is already shivering to the point it’s affecting her speech.
+C: CORY
+D: Come inside. We’ll get you fixed up. He points toward the cabin. Ben extends a hand to her as she reaches the first step. Crowheart has her elbow by the time she’s on the porch. It is clear none of these men think she will live five minutes out here. She should be grateful. She isn’t. Pride makes her shake free of the men cradling her like a wounded bird. She walks into the house. Ben looks at Cory, shaking his head.
+C: BEN
+D: See what they send us? INT. CROWHEART’S CABIN -- BEDROOM -- A LITTLE LATER. The humiliation continues as ALICE CROWHEART, 64, a hundred pounds overweight, and fierce eyes, watches Jane pull a pair of thermal underwear over her g-string.
+C: ALICE
+D: Thermals can make underwear wedge up your bottom, but I guess yours are already there. Jane’s smart enough to not respond.
+C: ALICE
+D: Here, these should fit. You’re skinny.
+E: CONT’D
+C: JANE
+D: Thanks. Alice hands her a pair of jeans. They’re a little tight, but they’ll do. She climbs into a pair of COVERALLS. Alice hands her a wool skull cap.
+C: ALICE
+D: You got gloves? Beat.
+C: JANE
+D: No. Alice shakes her head.
+C: ALICE
+D: Goodness. What were they thinking sending you here. Aside from her cheeks, virtually all of Jane is covered. She looks at herself in the mirror -- feels ridiculous. Alice looks too. Covers her mouth with her hand. Looks like she may cry, then turns back to the bed. Starts folding the rejects.
+C: JANE
+D: Thank you. While looking down, focused on her folding --
+C: ALICE
+D: You return them the minute you get back. They ain’t a gift. Alice turns and looks right at her.
+C: ALICE
+D: You hear me?
+E: CONT’D
+C: JANE
+D: ... Of course. Jane walks out to the living room -- all the men waiting for her. Notices Casey.
+C: JANE
+D: Okay, I’m ... Bundled. Let’s go. Casey grabs his coat, pulls it on.
+E: CONT’D
+C: CROWHEART
+D: You’re gonna stay with me, young buck. Casey looks up at his father. Cory kneels down. Looks into his eyes as his hand gently cups the back of Casey’s neck.
+C: CORY
+D: A couple more hours, son. I’m sorry.
+C: CASEY
+D: A couple. This is our day.
+C: CORY
+D: I promise. Casey seems to tighten and deflate at the same time, as his father rises and walks to the door. Ben looks outside.
+C: BEN
+D: It ain’t letting up. Cory looks, then turns back to Jane.
+C: CORY
+D: It’s ten below outside. You leave that pride on the porch and hug me like your prom date, understood? Jane is so offended she almost falls backwards.
+C: JANE
+D: I’m the highest ranking law enforcement officer for three hundred miles in any direction. Don’t ever tell me what to do again. Steps closer to her.
+C: CORY
+D: I don’t want to insult you, just making sure there’s only one girl froze to death out there today. She turns from him and walks out into the storm. EXT. SAGEBRUSH PRAIRIE -- DAY. Jane sits behind Cory on the snowmobile. They race through the white at 60 miles-per-hour. Jane presses her face into the back of this stranger -- her hands tucked under his ass -- as she experiences cold in a manner unexplainable to those who haven’t endured it. Up ahead, we see FOUR POLICE SNOWMOBILES, and FOUR OFFICERS huddling around a MOBILE PROPANE HEATER. TWO EMT’S huddle beside the body. Cory and Ben park. Walk toward them. Cory doesn’t wait for Jane to start asking questions.
+C: CORY
+D: I picked up her tracks about 300 meters to the south. Jane nods as she struggles to shake off the bone-breaking cold. They walk past the officers to NATALIE HANSON’S BODY, and an EMT holding a HEAT GUN -- basically a very powerful hair dryer -- that he waves along Natalie’s body where it meets the ice that holds her. Jane kneels next to her.
+C: JANE
+D: Got a positive
+E: Calls back to Ben
+C: ID? BEN
+D: Not positive, no. Cory, and three of the officers say in unison:
+C: EVERYONE
+D: It’s Natalie Hanson.
+C: BEN
+D: Haven’t found any identification, no one from the family has identified the body, but ...
+C: JANE
+D: We’ll call that positive for now. She live close?
+C: BEN
+D: Fort Wakashie. North a ways.
+C: JANE
+D: What’s ‘a ways’?
+C: BEN
+D: Thirty minute drive.
+C: JANE
+D: Okay, she didn’t run from home. Jane studies the gash. Touches the body.
+C: JANE
+D: She’s frozen solid. She looks back at Ben.
+E: CONT’D
+C: JANE
+D: No one reported her missing? Her parents?
+E: CONT’D
+C: BEN
+D: No. She takes that in.
+C: JANE
+D: Makes the parents rather suspect. No one likes the sound of that, but they all hold their tongues. Jane notices dried blood that has soaked and frozen to the crotch of her sweatpants. Notices her bare feet.
+C: JANE
+D: Who did this to you, honey? As out of place as Jane is in the wild, and this may very well be her first murder scene -- she ignores the cold and focuses. Patient. Observant. She looks up at Ben.
+E: CONT’D Softly
+C: JANE
+D: How experienced is your medical examiner? The irony of this girl asking who’s experienced ...
+E: CONT’D
+C: BEN
+D: He stays busy.
+C: JANE
+D: Order a rape kit, When he’s done with his prelim, I want her sent to Cheyenne. Make sure her belongings go with her. I need them tested. I’m listing this as a homicide. One of the officers can’t help but mumble --
+C: OFFICER
+D: Gee, you think? Jane stands, looks over the land -- covered in a foot of fresh powder. With more falling.
+C: JANE
+D: We’re not going to find the attack site if it’s out in the open. Not till spring, anyway. She turns to Cory.
+C: JANE
+D: How well do you know this land?
+E: CONT’D
+C: CORY
+D: Like it’s my job. Which it is.
+C: JANE
+D: Anywhere she could have been running from? Anything close?
+C: CORY
+D: Nearest homes are seven or eight miles southeast.
+C: BEN
+D: Sam Littlefeather’s house is out there.
+C: CORY
+D: Yep.
+C: BEN
+D: Those boys are worth looking into.
+C: JANE
+D: I’m no survivalist, but that’s too far to run in the snow -- she’s dressed no better than I was and I almost froze to death in your front yard.
+C: CORY
+D: You’re not from here.
+C: JANE
+D: There’s no structures closer?
+C: CORY
+D: Drill rigs maybe five miles from here. There’s trailers for the workers. But they shut it down in the winter.
+C: JANE
+D: So why would a teenage girl be out here?
+C: BEN
+D: Kids come out here on snowmobiles. Have a big party out here in the snow.
+C: JANE
+D: Not barefoot they don’t. What do you think?
+E: To Cory
+C: CORY
+D: Only thing I can tell you about is the tracks.
+C: JANE
+D: That’s the only thing we’ve got. Cory looks at her for a moment, walks a few feet, begins kicking snow -- making a little clearing. He kneels into the snow and very delicately begins using his hands, then leans over and blows the snow away.
+C: CORY
+D: Look here. She leans over him. NATALIE’S FOOT PRINT AND FROZEN BLOOD, NOW MIXED WITH SNOW is visible.
+C: CORY
+D: See how the toes twist out? And the front of the track is deeper than the back -- almost no imprint of the heel?
+E: CONT’D
+C: JANE
+D: Yeah.
+C: CORY
+D: She was running. He stands. Points to Natalie’s body thirty yards away.
+C: CORY
+D: She ran until she dropped. There’s a spot over here where she fell ... Cory walks to the bloody snow angel.
+E: CONT’D
+C: CORY
+D: A pool of blood where her face hit. Gets down to twenty below out here at night. You breathe that cold air deep in your lungs -- like when you’re running, it’ll freeze em. Lungs fill up with blood, you start coughing it up. He points to the impression of her face and the pool of blood.
+E: CONT’D
+C: CORY
+D: Wherever she came from, she ran all the way here. Her lungs burst and she curled up under that tree. She didn’t freeze to death ... She drowned. Beat.
+E: CONT’D
+C: JANE
+D: How far could someone run barefoot out here? He looks out over the mountains.
+C: CORY
+D: I seen tourists freeze to death in these mountains when it was barely 40 degrees ... I seen a fur trader caught in his own trap, drag himself six miles to a forest service cabin and radio for help. In the dead of winter ... There ain’t no gauge for the will to live. Some have it. Plenty don’t ... I knew this girl. She was a fighter. However far we think she ran, my guess is she ran farther. Cory looks east.
+C: CORY
+D: I got to get back to my son. I promised him a few hours.
+E: CONT’D
+C: JANE
+D: Would you be willing to help me? I mean, I can’t ... Hell, I couldn’t find the way back to my car. I don’t know how to investigate this without ... Can I borrow him for a few days?
+E: She turns to Ben
+C: BEN
+D: He don’t work for me. You got a lion to kill, don’t forget.
+E: To Cory
+C: CORY
+D: There’s three of ‘em. And I didn’t.
+C: JANE
+D: ... What do you do for the Forest Service?
+C: CORY
+D: I’m a hunter.
+C: JANE
+D: ... A lion hunter??
+C: CORY
+D: I hunt predators. She looks back at the police officers trying to free Natalie’s corpse from a frozen land intent on keeping her.
+C: JANE
+D: Good. Come hunt one for me.
+C: WE PUSH IN CLOSER.
+D: Past the officers. Past the heat gun. We rest on her face -- watching as she slowly thaws. Watching the ice that sealed her eyes begin to melt and run down her cheeks like tears. Cory looks at her. Says, very softly --
+C: CORY
+D: Okay. INT. JANE’S SUV -- NIGHT. SNOW pounds the windshield as the wipers work frantically to remove it. Snow swarms in the headlights like locust. Jane leans forward, chin almost resting on the steering wheel, straining to see the road.
+C: GPS
+D: In half a mile, turn left on East Main Street. The GPS may be right, but there is no way to know -- Jane can’t see ten feet in front of her. She slows down even more -- barely going 30. Turns on her hazards ...
+C: GPS
+D: In three hundred feet, turn left on East Main Street. She slows a little more, but still sees nothing -- no road. Nothing.
+E: CONT’D
+C: GPS
+D: Turn left. Turn left. She looks to the left, then back to her right --
+E: CONT’D
+C: A TRUCK HORN BLARES.
+D: She slams on her brakes and begins sliding as a SEMI whips by, mere feet from her bumper. She slides to a stop in the middle of the intersection, now facing the direction of the Semi. She struggles to slow her beating heart as she watches the brake lights of the truck that almost killed her. The TRUCK DRIVER gets out, runs back to her. She rolls her window down.
+C: JANE
+D: I’m sorry, I can’t see anything.
+C: TRUCK DRIVER
+D: IF YOU DON’T KNOW HOW TO DRIVE IN THIS YOU SHOULDN’T BE ON THE ROAD.
+C: JANE
+D: Who the hell knows how to drive in this??
+C: TRUCK DRIVER
+D: Pull up behind me and follow me close. Don’t slam your brakes. Stay in second gear -- and you pull your ass into the first motel we come to.
+C: JANE
+D: That’s where I’m headed anyway.
+C: TRUCK DRIVER
+D: Well I guess it’s your goddam lucky day. He turns and runs through the storm back to his truck. She rolls up her window.
+C: JANE
+D: I’m really sorry we never had blizzards in FUCKING FLORIDA!!! I’d like to see one of you bastards in a hurricane. He begins slowly moving forward. Mad as she is -- she obeys, and pulls up right behind him. EXT. SILVER SPUR LODGE -- LANDER, WYOMING -- NIGHT. The parking lot is completely empty and covered with snow. The truck driver points out his window at the motel -- wildly gesturing for her to go there. Jane turns into the lot, slamming the curb, and spinning her wheels in a furious attempt to reach the safety of the covered entrance. She parks. Draws in a deep breath, opens the door and steps into the fury of the storm. INT. SILVER SPUR LODGE -- LANDER, WYOMING -- NIGHT. The decor is old west meets late 80’s -- wagon wheels, black leather couches, and watercolors of mountains, cowboys, and horses. Behind the counter is INGRED, late 30’s, horribly obese, and watching some version of CSI on a small TV. Jane approaches the counter.
+E: To no one
+C: INGRED
+D: You look a little frazzled.
+C: JANE
+D: Quite a storm out there.
+C: INGRED
+D: Yeah, you could’ve picked a better day to travel.
+C: JANE
+D: Could I get a room?
+C: INGRED
+D: How many nights?
+C: JANE
+D: I don’t know. A week, maybe.
+C: INGRED
+D: Smoking?
+C: JANE
+D: No.
+C: INGRED
+D: Pets?
+C: JANE
+D: No.
+C: INGRED
+D: If you have a pet, now’s the time to tell me -- a whining dog at 3am puts you both back in the storm.
+C: JANE
+D: No pets. Ingred slides over a large index card.
+C: INGRED
+D: Mastercard, Visa or cash. Fill out your home address and vehicle information. I need to make a copy of your license. Jane lays her FBI ID and badge out.
+C: JANE
+D: Do you give a government discount?
+C: INGRED
+D: Government’s never given me one.
+C: JANE
+D: ... So that’s a no.
+C: INGRED
+D: And how, lady. Jane nods as she sets her credit card and license on the counter. Ingred takes them, runs the card.
+C: INGRED
+D: You here about that girl they just found? Beat.
+E: CONT’D
+C: JANE
+D: How do you know about that?
+C: INGRED
+D: Small town , Jane. Another Indian girl, I’m sure. Jane doesn’t answer.
+E: reading off the ID
+C: INGRED
+D: There ain’t gonna be a meth problem on the reservation much longer cuz there ain’t gonna be any Indians left to do it. Killing their babies faster than they can make new ones.
+E: CONT’D
+C: JANE
+D: You have kids?
+C: INGRED
+D: Two sons. Oldest graduates in June.
+C: JANE
+D: Is meth a problem here?
+C: INGRED
+D: Girls and algebra’s my boy’s only problems. Can’t speak for no one else’s kids. Jane swipes her room key.
+C: JANE
+D: Is the room far?
+C: INGRED
+D: Put you in the first one out the door to the left. You can leave your car under the awning till morning.
+C: JANE
+D: Thank you.
+C: INGRED
+D: Didn’t do it to be nice. I got tulip bulbs in planters out there, and I need you running over ‘em like I need another hemorrhoid. With that Ingred climbs back on her stool and returns to the TV. Jane turns and heads for the door. INT. CORY LAMBERT’S HOUSE -- NIGHT. Cory sits at his dining room table. A CENTERFIRE CARTRIDGE RELOADER in front of him. Beside him is a MARLIN GUIDE GUN -- a stainless steel, lever-action rifle chambered in .45-70. It is a rifle for stopping bears. When they are running right at you. On a small scale he weighs bullets, choosing only those that weigh exactly 540 grains. He seats a rifle casing in the reloader, places a bullet in the machine’s teeth, pulls a lever. When he returns the lever upright, he has a fully formed bullet, almost four inches long.
+C: CASEY
+D: Dad? Cory looks up. Casey stands in long johns -- hair messed from sleep and a sheepish look on his face.
+E: O.S.
+C: CORY
+D: Thought you were sleeping. Casey looks at his feet.
+C: CASEY
+D: Had a nightmare.
+E: Small
+C: CORY
+D: Bout what? Beat.
+C: CASEY
+D: Who was she?
+C: CORY
+D: Come over here. Casey shuffles over and sits at the table.
+C: CORY
+D: Want a glass of milk?
+E: CONT’D
+C: CASEY
+D: No. Beat.
+C: CORY
+D: She’s just a girl. Lost her way in the snow. Casey looks at the reloader and the gun resting against the table.
+C: CASEY
+D: What’s this?
+C: CORY
+D: Work. Cory seats another rifle casing.
+C: CASEY
+D: Did she die like Emily?
+C: CORY
+D: She died from the cold.
+C: CASEY
+D: So she died like Emily. Beat.
+C: CORY
+D: Yeah, son. I’m afraid she did. Cory pushes back from the table. Sets the rifle on the table. Pulls his son onto his lap.
+C: CASEY
+D: Is that for the lion?
+C: CORY
+D: I’m doing some work for the government this week. It’s for that.
+C: CASEY
+D: It’s a grizzly, isn’t it.
+C: CORY
+D: I don’t know what it is yet. But I’m gonna try and figure it out ... You wanna go back to bed?
+C: CASEY
+D: No. Can I sleep with you tonight?
+C: CORY
+D: I ain’t going to bed for a while. Casey nods as if that wasn’t an answer he had considered.
+C: CORY
+D: You wanna curl up on the sofa, and I’ll take you back with me when I’m done?
+E: CONT’D
+C: CASEY
+D: Okay. Casey slips off his dad’s lap, crawls on the couch, and disappears under a blanket. Cory returns to his reloader, and the chore of fashioning death, half an ounce at a time. EXT. CORY LAMBERT’S HOUSE -- DAWN. We watch from across the road as Cory walks toward the barn, Casey running behind. Sunlight bounces off the snow. The storm has passed. Blue skies above. We watch them disappear into the barn. Watch the horses press against the gate, unable to go another minute without their breakfast. INT. CORY’S PICK UP -- DAY. Casey holds his hands up to the heat vents. Cory looks at his son, wearing his filthy, little cowboy hat.
+C: CORY
+D: What’s the test?
+C: CASEY
+D: We’re studying the presidents.
+C: CORY
+D: What about ‘em, birthdays?
+C: CASEY
+D: No. The ones on money. Do you know who’s on the fifty dollar bill? Cory thinks about it.
+C: CORY
+D: I don’t.
+C: CASEY
+D: President Grant.
+C: CORY
+D: That a fact.
+C: CASEY
+D: Yep. Know who’s on the hundred dollar bill ... Ben Franklin?
+C: CORY
+D: ... I don’t think he was president.
+C: CASEY
+D: He got his face on money, I guess he’s the president of something. How bout a twenty dollar bill?
+C: CORY
+D: You know son, most of my experience has been with the George Washington and Abraham Lincoln variety.
+C: CASEY
+D: That’s the one dollar bill and the five.
+C: CORY
+D: Those I know. Cory pulls up in front of the elementary school.
+C: CASEY
+D: Are you picking me up?
+C: CORY
+D: Your mom. Unless the road from Jackson’s too bad, then it’ll be me.
+C: CASEY
+D: I hope the roads are bad.
+C: CORY
+D: You don’t ever wish that, son. He doesn’t.
+C: CASEY
+D: Sorry.
+C: CORY
+D: I’ll see you Thursday. Then you’re mine for a week. Casey smiles.
+C: CASEY
+D: Thursday. Casey opens the door. Steps out.
+C: CORY
+D: Good luck on that test.
+C: CASEY
+D: I love you, dad. Casey closes the door before Cory gets to say it back. Casey runs toward the school through a foot of snow. Cory watches the boy until he steps through the doors and they close behind him. Puts the truck in gear. Cory’s face hardens -- he is a hunter again. INT. FREMONT COUNTY CORONER’S OFFICE -- NIGHT. Jane walks down a dim, grey hallway. Ben leans against the wall, sipping coffee.
+C: BEN
+D: I see you found town okay.
+C: JANE
+D: Barely. Did the family identify her?
+C: BEN
+D: Yeah.
+C: JANE
+D: They give you a reason for not reporting her missing?
+C: BEN
+D: Got a boyfriend she stayed with some. Didn’t think anything of it. ... She was eighteen. Free to do what she wanted.
+C: JANE
+D: Gonna need to talk to the boyfriend.
+C: BEN
+D: We’ll get to that. Ben begins to push the exam room door open, then stops.
+C: BEN
+D: You ever done this before?
+E: CONT’D
+C: JANE
+D: Observed an autopsy? Come on ... No ... Is it that obvious?
+C: BEN
+D: Anyone who tells you they get easier is a goddam liar. Let’s get it over with. They push through the doors. INT. EXAM ROOM -- CORONER’S OFFICE -- CONT. On a steel table is Natalie. Naked. Chest sawed open like a gutted deer. Jane pretends like it doesn’t weaken her knees. Ben walks toward the body, no attempt to hide his unease toward this awful part of his job. A man, dressed in scrubs, runs a centrifuge along a far wall.
+C: BEN
+D: Randy, you’re on a clock. I’ve got about five minutes of this in me, so let’s go. DR. RANDY WHITEHURST turns and walks to the body.
+C: DR. WHITEHURST
+D: I’ll be quick. Good morning, Randy Whitehurst, I’m the medical examiner. Jane wants to look anywhere but the body or the man that cut her in half.
+E: Nods to Jane
+C: JANE
+D: Uh huh. I’m Agent Banner.
+C: BEN
+D: FBI --
+C: JANE
+D: Thank you, yes. I’m FBI. He studies her.
+C: DR. WHITEHURST
+D: This your first autopsy? How the fuck does everyone know that?
+C: DR. WHITEHURST
+D: Hey, gotta have a first.
+E: CONT’D
+C: JANE
+D: Yes, it’s my first on an investigation, but ... I am trained for this, so everyone just ... Can we get to it, please?
+C: DR. WHITEHURST
+D: Yes ma’am. As you see here, she suffered a deep laceration along her brow line. He points at each act of violence. Waits for nods from both Jane and Ben before moving on.
+C: DR. WHITEHURST
+D: Two separated ribs. Frost bite in both feet up through her ankles, frost bite on her nose and her left hand -- the frost bite on her feet is stage four, you can tell by the blueing here, you see that?
+E: CONT’D
+C: JANE
+D: Yes.
+C: DR. WHITEHURST
+D: Vaginal wall is torn. The damage on multiple sides of the wall at different depths indicates penetration by different individuals, and the bite marks along her neck and on the left nipple have distinct measurements --
+C: JANE
+D: So there were two assailants.
+C: DR. WHITEHURST
+D: At least ... I swabbed her and sent the samples by courier to Cheyenne. We should have DNA results in a week or so, but I will state in my report: sexual assault by multiple offenders. Jane has found herself next to Natalie’s head, can’t help but gently stroke her hair as though reminding herself this carcass had a soul.
+E: MORE
+C: DR. WHITEHURST
+D: Don’t touch her -- I haven’t combed her hair for forensics yet.
+E: CONT’D
+C: JANE
+D: Sorry.
+C: BEN
+D: What are you listing as the cause of death?
+C: DR. WHITEHURST
+D: You’re not going to like it -- she died from a pulmonary hemorrhage. When sub-zero air is drawn into lungs, it can cause the alveoli -- the tiny sacs in the lungs -- to burst. Fluid builds in the lungs, and if the air is cold enough, liquid in the lungs will crystallize. Ultimately, the victim either freezes from the inside out, or they drown in their own blood ... That’s the cause of death in this instance. Jane thinks. Cory was right. Then she realizes --
+C: JANE
+D: You’re not listing this as a homicide?
+C: DR. WHITEHURST
+D: Can’t.
+C: JANE
+D: But ... You have to factor in the circumstances. She was raped. Repeatedly. Beaten. And then --
+C: DR. WHITEHURST
+D: Look, circumstances is your field, not mine. Let me show you, come here --
+C: DR. WHITEHURST JANE
+D: I don’t need it explained -- I need to find whoever chased her to death in this frozen hell and put them in prison, and not calling this a ... She walks a lap around the room, calming herself, comes back to where she started.
+E: CONT'D
+C: JANE
+D: Sorry.
+E: CONT’D
+C: DR. WHITEHURST
+D: This is very prosecutable as a murder -- clearly she wouldn’t have been running through the snow if she hadn’t been attacked, but I can’t list the cause of death as a homicide.
+C: JANE
+D: The only way I can get an FBI team to the reservation is if it’s listed as a homicide. I’m not here to solve this, I’m here to obtain a cause of death and have someone sent here who can --
+C: DR. WHITEHURST
+D: Look, present the rape, present the assault and I’m sure --
+C: JANE
+D: Those aren’t federal crimes! Those crimes fall to the Bureau of Indian Affairs and ... Sorry.
+C: DR. WHITEHURST
+D: You keep saying sorry, but you keep doing it. She looks at Ben, eyes begging for an alternative.
+C: BEN
+D: Hey, I’m used to no help.
+C: JANE
+D: You have six officers on your entire force -- to cover an area the size of Rhode Island. No offense, but this will have to curl up in your lap for you to solve it. He does take offense, but also knows it’s true.
+C: DR. WHITEHURST
+D: We all know it’s a murder. Have a US Attorney sign off on it. I’m happy to corroborate that, I just can’t put it on the death certificate. She walks off, shaking her head.
+C: JANE
+D: Okay. Thank you. She pushes through the double doors to the hall. Ben walks out after her. She leans against the wall, looking at the ceiling.
+C: BEN
+D: I appreciate your passion. Not the usual response from Feds ... But Randy’s on our side -- She turns to him, fierce.
+C: JANE
+D: As soon as my supervisor sees this he’s going to want me back in Denver. Not that I’m much help, but ... I’m all you’re going to get. We have no time ... What’s that hunter’s phone number? INT. CORY’S PICK UP -- DAY. Cory moves through the reservation town of Wind River. It has none of Lander’s conveniences -- no 7-11’s, no motels, no chain restaurants. Every structure looks wind-bleached and buckling from the weight of snow on the roofs. Cory’s cellphone rings.
+C: CORY
+D: Hello. EXT. TROUT CREEK ROAD -- CONT. We watch Cory’s truck -- pulling a small flat-bed trailer carrying a snowmobile -- slow down, make a three-point turn in the middle of the road, and head off the other way. INT. HANSON HOME -- FORT WASHAKIE, WYOMING -- DAY. We are inside a house that screams poverty. Furniture is old and broken to the point of barely being functional. Faux-wood siding of the manufactured home is fraying at the edges. Still, extreme care has been given to make it into a home. Photos of Natalie and a handsome TEENAGE BOY are pasted on every wall. We hear Ben’s voice as we look over the home.
+C: BEN
+D: So you never met him.
+E: O.S.
+C: MAN
+D: No.
+E: O.S.
+C: BEN
+D: And she never talked about him?
+E: O.S.
+C: MAN
+D: Not to me. The man’s voice is soft, deep, almost soothing. As we push in on a photo of Natalie and the handsome young man, who is clearly her brother, we hear --
+E: O.S.
+C: JANE
+D: Why would you let her stay with a man you’ve never met. A man whose name you don’t even know. I look around, see all these photos --
+E: O.S.
+C: MARTIN
+D: She was an adult.
+E: O.S.
+C: JANE
+D: Barely. We see the man now -- Natalie’s father, MARTIN HANSON, 40’s, every bit of 6’2”. Long, black hair pulled in a braided pony tail. Dark, heavy face. But those eyes -- a hawk’s eyes. A warrior’s eyes. Which are burning into Jane. He looks at Ben.
+C: MAN
+D: Wyuksa psi wasichu.
+C: JANE
+D: What does that mean?
+C: BEN
+D: ... It’s not good. She looks at the big man, apologizing without backing down.
+C: JANE
+D: I don’t mean to offend you. I’m trying to understand the dynamic, Mr. Hanson. I’m trying to help.
+C: MARTIN
+D: Why is it whenever you people try to help, it starts with insults. He steps toward her, furious eyes and all. She resists the temptation to draw her weapon.
+C: MARTIN
+D: I don’t know why she wouldn’t tell me. But she was eighteen. I chose to trust her. I chose wrong. He looks her over.
+E: CONT’D
+C: JANE
+D: How about your wife, did your daughter talk to her?
+C: MARTIN
+D: Do you talk to your mother? Beat.
+C: JANE
+D: It’s Annie? Is she here?
+C: MARTIN
+D: She’s in the bedroom.
+C: JANE
+D: I’d like to speak to her. His hawk eyes narrow. He says, almost like a dare --
+C: MARTIN
+D: Be my guest.
+C: JANE
+D: Thank you. Bedroom this way?
+E: Points down the hall
+C: BEN
+D: Jane. Ben shakes his head ‘no’.
+C: JANE
+D: You don’t mind?
+E: To Martin
+C: MARTIN
+D: Hey, you don’t need my permission. You’re an adult. Barely. Point made. She walks down the hall. Comes to a closed door. Knocks softly. No answer. She opens the door and sees -- ANNIE HANSON is 50, heavy, and COVERED IN BLOOD. She sits on the edge of her bed, sobbing, mumbling, and rocking back and forth gripping a KITCHEN KNIFE. Cuts run up and down her arms. She never notices the open door. Jane doesn’t give her a chance to -- she closes the door quickly. Jane stands a moment in the hall -- she is in no way prepared to navigate this world, and she knows it. She dreads walking to the living room and facing Martin, but does it anyway. When she reaches the living room, Martin stares hell at her. She has it coming.
+C: JANE
+D: I’m sorry. There is a knock at the door. Martin opens it. It’s Cory. The two men stare at each other. Don’t speak. Martin’s lips tighten. Cory gives him a sad smile. Martin’s tight lips begin to quiver. Cory steps back onto the porch. Martin follows him. Cory kicks the door and we glimpse Martin fold into Cory’s arms as it closes, shutting us out. Through the door, we hear the man heaving enormous sobs that seem to shake the house’s flimsy foundation. Ben and Jane stand perfectly still, listening to pain echo against the door like a storm. EXT. HANSON HOME -- WIND RIVER, WYOMING -- LATER. Cory and Martin sit on the porch, looking out over the snow- covered sagebrush.
+C: CORY
+D: I’d like to tell you it gets easier, but it doesn’t. If there’s a comfort -- you get used to the pain if you let yourself ... I went to a grief seminar in Casper. Don’t know why, just ... It hurt so much, I was searching for anything that could make it go away ... That’s what I wanted this seminar to do -- make it go away. The instructor come up to me after the seminar was over, sat beside me and said, “I got good news and bad news. Bad news is you’ll never be the same. You’ll never be whole. Ever. What was taken from you can’t be replaced. You’re daughter’s gone. ... Now the good news -- as soon as you accept that, as soon as you let yourself suffer, allow yourself to grieve ... You’ll be able to visit her in your mind, and remember all the joy she gave you. All the love she knew. Right now, you don’t even have that, do you?” Martin finds himself shaking his head ‘no’, even though the question wasn’t directed at him.
+E: MORE
+C: CORY
+D: He said, “that’s what not accepting this will rob from you”. Cory looks at Martin.
+E: CONT’D
+C: CORY
+D: If you shy from the pain of it, then you rob yourself of every memory of her, my friend. Every one. From her first step to her last smile. You’ll kill ‘em all. Cory puts his hand on Martin’s neck, guides his eyes up to him.
+E: CONT’D
+C: CORY
+D: Take the pain ... Take the pain, Martin. It’s the only way to keep her with you. Martin drops his head into his lap. Cory resists the temptation to do the same. The big man stands up, pulls a cigarette from his pocket, lights it. Walks out into the snow.
+E: CONT’D
+C: MARTIN
+D: I’m tired, Cory. I’m just so tired of fighting this life.
+C: CORY CORY
+D: What you do now you do for your son.
+E: CONT'D
+C: MARTIN
+D: Drugs is his family now ... He’s gone too. Lives just down the damn road, but ... He’s gone. Martin takes a long drag.
+C: MARTIN
+D: I expect they’ll find he’s involved in this somehow. Beat.
+E: CONT’D
+C: CORY
+D: He stays with the Littlefeather boys, doesn’t he.
+C: MARTIN
+D: Yep ... You’re driving this Fed around so she don’t get lost, that it?
+C: CORY
+D: That’s what they asked me to do, but that’s not what I’m doing.
+C: MARTIN
+D: What are you doing? Martin looks back at Cory.
+C: CORY
+D: I’m a hunter. What do you think I’m doing? Martin walks toward the porch, bores his hawk eyes into his old friend.
+C: MARTIN
+D: If you find who did this ... No matter who it is. You understand me? He does.
+E: His eyes burn into Cory
+C: CORY
+D: Right where they stand. Martin nods. Flicks his cigarette into the snow.
+C: MARTIN
+D: Then get off my porch and go do it. Cory stands and follows Martin as he heads back into his crumbling house. INT. CORY’S PICK UP -- DAY. Cory follows Jane’s SUV, who follows Ben’s squad car ... They move down an empty highway. As they drive, Cory looks over, sees two coyotes trotting through the snow to his left. Notices a flock of sheep on the horizon... The sheep form their silly circle as the coyotes move closer at a dead run. Cory doesn’t slow down and doesn’t look back. He’s not hunting coyotes. Not today ... EXT. SAM LITTLEFEATHER’S HOUSE -- DAY. The house is the very essence of dilapidation. An old, burgundy MINIVAN that can’t possibly run, sits beside a lowered TOYOTA TERCEL in the driveway. HIP-HOP pulses the windows of the flimsy house. Cory, Jane, and Ben pull off the road. Get out. Cory looks down -- sees snow-filled SNOWMOBILE TRACKS beside the highway. They disappear abruptly -- as though they levitated. Or were loaded onto a trailer ... Cory begins walking through the snow to the back of the house as Jane and Ben head to the front door. Ben draws his pistol.
+C: BEN
+D: Natalie’s brother lives here with Sam and Bart Littlefeather and a real piece of work named Frank Walker. Hanson’s kid is bad -- but the others are stone evil. Watch yourself.
+C: JANE
+D: Should we maybe wait for some back- up?
+C: BEN
+D: This ain’t the land of back-up, Jane. This is the land of you’re on your own. Jane shakes her head and nods at the same time. Draws her pistol. Ben pounds on the door. They wait for an answer. EXT. LITTLEFEATHER HOUSE -- BACKYARD -- CONT. CORY WALKS THROUGH THE SNOW. He stares at the ground, looking for anything that tells a story. Notices SNOWMOBILE TRACKS, almost completely filled in with fresh snow, that run west into the mountains, disappearing into the black timber. He stares at the tracks. Mumbles to himself.
+C: CORY
+D: Who goes into the mountains just before a storm ... EXT. SAM LITTLEFIELD’S HOUSE -- CONT. Jane and Ben still stand outside the door. Ben knocks again, hard enough to knock the flimsy door through the frame. The music shuts off. Feet move toward the door. It opens. SAM LITTLEFEATHER is 20, tall, and rail thin. His shaved head is covered in a RAIDER’S SKULL CAP. His wild eyes fueled by three day’s worth of meth. He nods and bounces in place.
+C: SAM
+D: Yeah?
+C: BEN
+D: Looking for Chip Hanson. He around? Sam shakes his head for an eternity.
+C: SAM
+D: Not here, brah.
+C: JANE
+D: Who are you?
+C: SAM
+D: Who the fuck are you?
+C: JANE
+D: I’m the FBI, dickhead. You Sam? He stares at her a moment.
+C: SAM
+D: No.
+C: BEN
+D: Are you high right now Sam -- how many times have I arrested you? He stares his tweaked eyes at Ben. A flicker of recognition.
+C: SAM
+D: ... Chief, wazzup Brah.
+C: BEN
+D: Your brother here?
+C: SAM
+D: He’s in prison. Where you put him.
+C: BEN
+D: No parole? Look at that, the justice system at work. Sam’s wild eyes bore into Ben.
+C: SAM
+D: Reminds me, I’m supposed to give you this from my P.O. ... Hold on, got it in here somewhere, yeah here it is -- He fishes a small canister of pepper spray from his coat pocket and empties it into their faces. Ben and Jane fall back, coughing and rubbing furiously at their eyes. The door closes. Frantic footsteps and yelling come from the house as Ben and Jane stumble into the snow, gasping for breath. EXT. LITTLEFEATHER HOUSE -- BACKYARD -- CONT. Cory hears the shouting and coughing. Ben yells a warning to him, then -- FOOTSTEPS moving through the house toward the back door. Cory runs toward it, picking up a SNOW SHOVEL on the way ... He brings the shovel up, plants his foot, and swings like hell as the back door opens -- a FAT TEENAGER DRESSED LIKE A GANGSTER runs right into the meat of the shovel. He is blown back into the door frame, and into CHIP HANSON, 21, the boy from the photos on Martin Hanson’s wall. Chip falls over the fat one, landing hard in the snow FACE FIRST. He rolls over and sees: FROM CHIP’S POV -- We are looking up at Cory -- AND HIS BOOT -- coming toward us. Fast. Blocking the sun like an eclipse. Slamming us back into the snow. EXT. LITTLEFEATHER HOUSE -- FRONT DOOR -- CONT. Jane forces herself to stand, snot and tears running freely down her face. Ben is struggling to stand, fighting the liquid cayenne pepper wreaking havoc on his senses. He stumbles to the ground, vomiting and cursing simultaneously. Jane sneezes and spits mucus as she raises her pistol eye- level and enters the house ... INT. LITTLEFEATHER HOUSE -- CONT. It is dark. No electricity. A small fire burns in an oil drum in the living room -- smoke escaping through a hole in the roof. WE RUN BEHIND HER, LOOKING OVER HER SHOULDER. She stumbles, sneezes, and trips over the ocean of trash on the floor. Notices the open back door and Cory, standing over the two teens sprawled in the snow. She motions for him to stay there and moves deeper into the house. She hears the sounds of shells being fed into a shotgun, hears a round pumped into the chamber. She stumbles through the ankle-high trash and falls against the wall, announcing her presence. She strains to see through her tears. A BLACK BLUR MOVES INTO THE HALLWAY. She fires round after round in its direction. The muzzle flash of her pistol blinds us -- the echo of the rounds beat into our skull. RINGING IS ALL WE CAN HEAR. She stumbles further down the hall. Sees Sam crumpled on the floor -- a shotgun beside him. A bullet has pierced his cheek, another his neck. Goose down protrudes from holes in his coat. Blood pumps from his neck to the rhythm of his dying heart. He looks up at her -- face filled with surprise and hate. He tries to say something, but no sound comes. THE RINGING FADES, REPLACED WITH JANE’S LABORED BREATHING. She leans against the wall. Hears Ben kicking through the trash behind her. She looks back down -- Sam is trying to grab the shotgun -- piece of shit to the very last. She reaches down, grabs the shotgun. Steps away, still pointing her pistol at him.
+C: BEN
+D: The other two’s outside with Cory. Let’s go.
+C: JANE
+D: He’s alive, Ben. We need to call
+C: EMS. BEN
+D: EMS is an hour away. Leave him.
+C: JANE
+D: He’s not dead, Ben. Ben walks up to Sam, looks down. Sam’s wild, wired eyes stare back. He gulps for air once, twice ... There is no third time.
+C: BEN
+D: Like I said. Let’s go. They walk out of frame, leaving us with Sam’s lifeless body on the floor -- beer cans, fast food containers, and filthy clothes scattered around him. EXT. LITTLEFEATHER HOUSE -- BACKYARD -- CONT. When Jane and Ben step out, they see two young men hog-tied with bailing wire, face down in the snow. Cory leans against a small tool shed, holding his revolver.
+C: CORY
+D: Skinny one’s Natalie’s brother.
+C: JANE
+D: Who’s the other one?
+C: BEN
+D: That’s Frank Walker. Won’t your daddy be proud?
+E: To Frank
+C: FRANK
+D: My dad’s in prison, asshole.
+C: BEN
+D: I know, I put him there. Prison’ll be good for you, Frank. Get you on your dad’s exercise plan -- lifting weights and selling hand jobs for cigarettes. Slim you right up. You’ll come out of there looking like Johnny Depp, I bet.
+C: JANE
+D: Tell me what happened to your sister, Chip.
+C: CHIP
+D: What? What happened to her.
+C: BEN
+D: Don’t play dumb.
+C: CHIP
+D: About what? What happened to her? Jane and Ben look at him. Is he a criminal and a drug addict? Yes. Is he a liar? Sure. Is he lying now -- not a chance.
+C: CHIP
+D: What did those crackers do? No one speaks.
+E: CONT’D
+C: BEN
+D: What crackers? Was she seeing a white man? Do you know him -- do you know who he is?
+C: JANE
+D: Do you know his name, Chip? Beat.
+C: CHIP
+D: ... You said was. Why did you say was? What happened. Why did she say was? She just said was -- why did she say was? Cory stands up, walks over to him. Kneels close. Speaks softly as he points toward the mountains.
+E: Chip looks up at Cory MORE
+C: CORY
+D: Because I found her raped and killed right over there, son. That’s why. Beat.
+C: CHIP
+D: ... WHAAATTTT????? From across the frozen plains, we look at Sam Littlefeather’s house -- smoke rising through a hole in the roof. Chip’s screams carrying across the white desert -- or perhaps it’s the wind howling. In this place they sound the same. EXT. LITTLEFEATHER HOUSE -- LATER. Again -- an ambulance and police vehicles. Officers mill about out front. Chip and Frank sit cuffed in the back of separate cars. Cory is unloading his snowmobile off the trailer. Jane is pulling on coveralls emblazoned with the BIA POLICE SEAL. She walks up to Cory, who straps a gun case into a rifle rack on the front of his snowmobile. Straps a HEAVY DUFFEL BAG AND SNOWSHOES to the back.
+C: JANE
+D: You go. I’m going to get Chip to Lander. See if he’ll give me a name for this boyfriend. He’s who we need to find.
+C: CORY
+D: This is how we find him.
+C: JANE
+D: No. We go to where he works or where he lives, not out there.
+E: Pointing to the mountains
+C: CORY
+D: Okay, where’s he live? Where’s he work? What’s his name.
+C: CHIP
+D: You think that piece of shit’s gonna tell you? You keep looking for clues, and missing all the signs. You see that? He points out over the snow.
+E: CONT'D MORE
+C: JANE
+D: I don’t -- no. I don’t see anything. He shakes his head as he pulls a pair of binoculars from the duffel.
+C: CORY
+D: Look there. She takes the binoculars. Looks through them.
+C: JANE
+D: Where? He stands behind her, wraps his arm around her, and points out over the snow.
+C: CORY
+D: You see my arm through the binocs?
+C: JANE
+D: That’s all I can see.
+C: CORY
+D: When I move my hand, look where it was ... You see the tracks? a sled track, filled with snow ... Look for the shadow in it.
+C: JANE
+D: I think so.
+C: CORY
+D: Now look straight out -- at the base of the mountains, you’ll see it easy there. In the distance, the slight indentation stands out. The tracks run straight from the house up into the pine trees that cover the mountain.
+C: JANE
+D: Yes ... I see it. She looks up at him.
+C: CORY CORY
+D: Natalie died over there -- seven miles . Those tracks lead to the mountain from here -- that’s five miles. He points south to tall drill rigs jutting up from the ground.
+E: CONT'D He points north
+C: CORY
+D: There’s West-Central’s nearest rigs. Six miles. Someone unloaded sleds right here and drove way the hell out there, but there‘s no tracks coming back -- why is that? Do those assholes look like they’re up for a trek ten miles into the snow? In what -- that minivan? The answers are out there. It’s hard to say whether she doesn’t buy what he’s saying or just dreads going into the mountains. She comes clean.
+E: CONT’D Cory points at the house
+C: JANE
+D: Look ... I’ve never done this before, okay? He nods. Appreciates the honesty.
+C: CORY
+D: It’s all I’ve ever done.
+C: JANE
+D: Okay. Let’s go. Cory gets on, fires it up. Pulls a TWO-WAY RADIO from his coveralls, clips it to the front. Jane climbs on and Cory pulls around to the back of the house. TWO OFFICERS are lining the house with police tape. Ben steps from the house.
+E: Reluctantly
+C: CORY
+D: What channel you running?
+C: BEN
+D: Eleven. Cory tunes his radio to eleven.
+C: BEN
+D: I want to see you back here by nightfall -- gives you three hours at best.
+E: CONT’D
+C: CORY
+D: I’ll radio if we come across anything. He guns his sled and they shoot off over the snow. EXT. WYOMING PLAINS -- LATER. WE ARE FLYING OVER THE SNOW -- ALARMINGLY FAST. Again, Jane finds herself pasted to Cory’s back -- hiding from the snow that pelts every exposed part of her. The forest looms over us. We are climbing now. Trees begin whipping past us. Cory doesn’t slow down. We are moving almost vertically up the mountain -- the engine whines angrily as the snowmobile lurches uphill, digging down into the snow then firing out of it like a rocket. They reach a bench -- a level area that cuts into the mountain. Cory stops. Cuts the engine, it is instantly silent. Jane dares to look up and is shocked to find the valley floor a thousand feet below them. Cory steps off -- pulling the stainless steel rifle from its case, and levering a round into the chamber. He speaks softly, aware they are both hunter and hunted out here.
+C: CORY
+D: The tracks move south from here.
+C: JANE
+D: What are we doing?
+E: Whispering
+C: CORY
+D: Gonna go it on foot for a bit. Not what she wanted to hear. Cory pulls the snowshoes free, tosses a pair to her.
+C: CORY
+D: Step into ‘em, then ratchet the strap down till they’re good and tight. She does. His are already on by the time she’s strapped one foot in. She steps into the other.
+E: CONT’D
+C: JANE
+D: Now what?
+C: CORY
+D: Follow me. They walk through the soft, deep snow of the mountains. The snowmobile tracks cut west, away from the valley into even deeper timber. They follow. Jane pants heavily -- she is in snow to her waist. It is grueling work to take even one step, though you wouldn’t know it from watching Cory, who is pulling away from her. She labors forward, looks up at a clump of Aspens and Pines. Looks back down, unable to see her feet through the snow. When she looks up again, the clump of trees silently comes to life, the trunks melting into one giant mass that is walking toward the clearing. She freezes. IT IS A BULL MOOSE stepping through the snow, making no sound. It stands almost eight feet tall, and it is looking right at her. She feels Cory step quietly beside her.
+C: JANE
+D: What the fuck is that.
+E: Whispers
+C: CORY
+D: Moose, stay still. He don’t want any more trouble than you do.
+E: Quiet
+C: JANE
+D: I don’t want ANY.
+C: CORY
+D: Then you two have something in common. The enormous creature moves across the ‘road’ and the barely visible tracks they follow. It is twenty feet from them, and still makes no sound. It slinks into the trees across the road and is enveloped by the forest -- disappearing as quickly as it appeared. Jane’s tries to gasp in a silent breath of much needed air. Cory can’t help but smile.
+C: JANE
+D: Yeah, yeah ... Come to Florida, sport. We have alligators on our golf courses.
+C: CORY
+D: No, thank you. I’ll stick to the world I know. Cory starts moving off. Jane gathers her strength and follows. CROWS can be heard cawing. The trail opens to a clearing, the snow here is so deep, there is no evidence of any tracks. But at the far end of the clearing, A DOZEN CROWS gather around a DEAD SOMETHING. Cory moves toward it, trudging through the snow. The crows scream their frustration at having their dinner interrupted. As Cory and Jane get closer, they relent and fly to nearby branches. They stare at the dead animal -- flesh the color of a peeled apple. They are almost upon it before they realize it is a man.
+C: JANE
+D: Oh my God. Cory steps closer. Looks at the body, which is stripped naked. The crows have been busy, as have the other animals of the forest, though his face has been mostly spared. He is young and white.
+C: JANE
+D: Do you know him?
+E: CONT’D
+C: CORY
+D: No. Bet I know who he is though ... Cory nods. Looks around. No snowmobile tracks anywhere. He moves into the forest.
+C: JANE
+D: What are you doing?
+C: CORY
+D: Stay here. Cory pushes into the timber. Looks at the ground, where snow is unable to cover as quickly. He scans the harder snow. Spots Something. Moves to it.
+C: ANGLE ON:
+D: A SNOWMOBILE TRACK -- clear enough to see the tread pattern. Cory’s face registers surprise. He follows the track a bit. The thicker timber opens up to another clearing and the track disappears. He looks up at the sky -- the sun is fading. Looks back at Jane -- no chance she is up for or capable of continuing this into the night. He turns back. Jane looks relieved when he reappears from the forest.
+C: JANE
+D: See anything?
+C: CORY
+D: The tracks don’t lead from the house. They lead to it. Someone stripped this boy, left him here and drove down to Littlefeather’s house, loaded their sleds on a trailer and headed down the highway. Jane has no idea how Cory has put this together, but recognizes the truth of it. She looks down. Ashamed. Has to laugh.
+C: JANE
+D: Are there tracks we can follow?
+C: CORY
+D: For a bit. They went high where the snow’s deeper. Where the tracks would get covered. She looks at him.
+C: JANE
+D: I need to get a team up here that has experience with this area. With crimes like these. This was ...
+C: CORY
+D: This was well thought out. She looks over at the man, half-eaten and frozen in the snow. CUT TO: EXT. LITTLEFEATHER HOUSE -- NIGHT. The number of police vehicles has grown. FREMONT COUNTY SHERIFF’S VEHICLES CAN BE SEEN. NUMEROUS SNOWMOBILES LINED UP, PREPARING TO HEAD OUT. Cory speaks with Ben.
+C: CORY
+D: We went on foot the last half mile, but we blazed a decent trail through the snow ... I’ll run them back up there if you need.
+C: BEN
+D: I’ll talk to the sheriff, he may want you to. Jane walks up to them.
+C: BEN
+D: The security team at West-Central’s rig site has cameras around their perimeter. I’m gonna head over in the morning, maybe we’ll get lucky and they caught something on film.
+E: CONT’D
+C: JANE
+D: Okay. The two we have in custody say anything?
+C: BEN
+D: These aren’t the talking kind, Jane. These kids -- they expect to go to prison. It’s a rite of passage. Hell, I think they look forward to it. Three hots, a cot, and free cable? Beats being here doing nuthing, the way they see it.
+C: JANE
+D: Let’s run their DNA against the semen, see what that tells us. Cory looks over at the police car where Chip still sits.
+C: CORY
+D: Can I talk to him?
+C: JANE
+D: Cory, anything they might tell you would be inadmissable in court, and anything you told us would render everything that resulted inadmissable as well.
+C: CORY
+D: What if I talked to him and didn’t tell you what he said. I just knew it. Jane’s cell phone rings. Answers.
+C: JANE
+D: Agent Banner. Yes sir, yes we did. Jane steps away. Cory looks at Ben.
+C: CORY
+D: I’ve known him since he was three. Ben can’t say yes. Doesn’t want to say no.
+C: BEN
+D: I gotta canvas the house. The back doors are only locked from the inside ... Ben walks off. Cory looks at the squad car. Goes to it. INT. BEN’S POLICE VEHICLE -- NIGHT. Chip sits, shivering. Looks exhausted. Coming down, maybe. Maybe just tired from crying. Cory opens the door, sits beside him -- leaves one foot outside so he doesn’t lock himself in the car. Chip looks at him, assumes the hard stare of a criminal.
+C: CORY
+D: Look at us.
+C: CHIP
+D: Look at you. I didn’t do shit.
+C: CORY
+D: All you been doing is shit for three years. Beat. Chip softens.
+C: CHIP
+D: ... It’s this place. Look what it makes you do. What it takes from us. What it took from you.
+C: CORY
+D: I’m not going to sit here and say life’s been fair. To either of us. This land is all we got left. Barely four thousand of us still breathing --
+C: CHIP
+D: What are you -- a fucking quarter Arapaho? Only thing Indian about you is your ex-wife and a daughter you couldn’t protect. Maybe if you’d played detective then -- Cory slams his head into the front divider before he can finish the sentence.
+C: CORY
+D: You gonna lecture me about protecting our people? Hmm? While you deal the shit that’s killing ‘em? You know what you are -- you’re just a ‘hang-around-the- fort’ prairie nigger begging for smallpox blankets you can sell to your friends. That’s what you sell, chief -- the smallpox of your generation. You had every chance to get out if that’s what you wanted. Army. College. It was your choice. And look what you chose. Cory swings open the car door. Gets out.
+C: CHIP
+D: I met him. Wanted to fight his ass. But he just took everything I said. Not like a coward. Like a man ... She loved him ... He works security on a drill site ... One of those guards, that’s where the smallpox comes from.
+E: Small
+C: CORY
+D: What’s the boyfriend’s name?
+C: CHIP
+D: Matt something ...
+C: CORY
+D: He the smallpox dealer too?
+C: CHIP
+D: I doubt it. I don’t know.
+C: CORY
+D: Who does? Chip looks up at him.
+C: CHIP
+D: Sam knew. Why don’t you ask him? Cory looks at the criminal that used to be a boy he knew well.
+C: CORY
+D: You’ll be talking to Sam long before I do, Chip. Of that I’m sure.
+C: CHIP
+D: You think this is who I wanted to be? I just ... I get so mad, I want to fight the whole world. You know what that feels like?
+C: CORY
+D: I do. I decided to fight the feeling instead. Know why? Cory leans back into the car.
+C: CORY
+D: Because I knew the world would win. Cory closes the door. Sees Ben and Jane talking. They look at him as he approaches.
+E: CONT’D
+C: JANE
+D: What did I tell you -- Did he say anything -- never mind, don’t tell us. What did he say? Cory’s eyes are steel.
+C: BEN
+D: What?
+C: CORY
+D: You’re going out to the rigs tomorrow morning? Cory looks at Jane as he leans into Ben. Whispers --
+C: CORY
+D: Natalie’s boyfriend worked there.
+E: CONT’D
+C: JANE
+D: What? Don’t tell me -- Fuck.
+C: BEN
+D: Hmm ... This thing is solving itself. We’ll pick him up in the morning and see what he’s got to say.
+C: CORY
+D: We’re picking him up now. From three feet of snow --
+C: BEN
+D: Chip said that?
+C: CORY
+D: I say that. Beat.
+C: BEN
+D: But you don’t know it. I want you with us tomorrow.
+C: CORY
+D: You don’t catch a wolf searching where he might be ... Cory looks out over the snowmobile tracks leading through the snow. Shadows fill their slight indentations, and point toward the mountains like an arrow.
+C: CORY
+D: You search where he’s been ... and he’s been here. EXT. WILMA LAMBERT’S HOUSE -- NIGHT. Cory stands at the door, his breath frosting in front of him. Knocks softly. Knows she’ll never hear that, tries a little louder. A light comes on. The door opens. Wilma stands there in a robe. For an instant, she seems worried about how she must look, then remembers issues far more grave surround them.
+E: CONT’D
+C: CORY
+D: Hi.
+C: WILMA
+D: You okay?
+C: CORY
+D: I been better.
+C: WILMA
+D: Brings everything back, doesn’t it.
+C: CORY
+D: Yeah. She shakes her head. Silence.
+C: WILMA
+D: You and Ben and this little FBI girl formed your own posse to go solve it all, I hear.
+C: CORY
+D: I’m just trying to help.
+C: WILMA
+D: You won’t get the answers you’re looking for. No matter what you find.
+C: CORY
+D: This isn’t about Em --
+C: WILMA
+D: Don’t you say her name. Her venom brings out his.
+C: CORY
+D: I didn’t kill her, Wilma.
+C: WILMA
+D: Yes you did. We both did ... We looked away. We let our guard down, and this place snatched her from us. We have one chance left at this, and I for one will not rest a second until he is grown and living very far from here. Where it’s never cold and your baby doesn’t-- She fights it back. Calms herself.
+E: MORE
+C: WILMA
+D: If doing this gives you some sort of closure, I’m happy for you. Closure for me will be Casey married and happy with a family of his own. Beat.
+E: CONT’D
+C: CORY
+D: Then what.
+C: WILMA
+D: ... Good night, Cory. She closes the door. EXT. CORY LAMBERT’S HOUSE -- NIGHT. Jane’s SUV pulls up as Cory hauls hay into the corral. He tosses it into the trough. Walks toward Jane’s SUV. She rolls down her window.
+C: JANE
+D: Matt Rayburn. Did you know him?
+C: CORY
+D: That the man in the snow?
+C: JANE
+D: His fingerprints are in the database -- he was enrolled at the Police Academy in Rock Springs. Supposed to begin in April. Worked as a security officer for a drill station out here.
+C: CORY
+D: You wanna come in?
+C: JANE
+D: Do you mind?
+C: WILMA CORY
+D: Come on. He turns and walks to the house. She shuts down the SUV and follows. INT. CORY LAMBERT’S HOUSE -- A MOMENT LATER. Jane looks around the living room. Spots reloading equipment on the dining room table. The silver-colored rifle lays on a towel placed over the coffee table -- stretched out like a snake. Her hand goes to her sidearm, checking that it’s still there. She sees numerous photos of Casey, and the mini-shrine on the mantle. Looks at the girl’s picture.
+E: CONT'D
+C: CORY
+D: I got milk, coffee, and tap water.
+E: O.S.
+C: JANE
+D: Tap water’s fine. Thanks. She steps closer to the photo.
+C: CORY
+D: That’s my daughter. She turns, caught.
+E: O.S.
+C: CORY
+D: She passed on three years ago. She figured as much, buts feigns surprise anyway.
+E: CONT’D
+C: JANE
+D: I’m sorry.
+C: CORY
+D: You wanna ask how, don’t you.
+C: JANE
+D: I do ... But I won’t. Beat.
+C: CORY
+D: I was working as an outfitter out of Pinedale. There was a big snow, and I found myself with a night off, so I grabbed a motel room and told my wife to come up. Just her -- You get precious little romance with two kids and a job that keeps you in the mountains half the year ... Emily was sixteen. Casey was five. You could trust her ... She was a good girl. We lived out on the Rez not far from her parents ... Should’ve made ‘em stay with Wilma’s folks ... I guess word got out that we were out of town and some school friends came over. Then more came over. He looks up at Emily’s photo on the mantle.
+E: MORE
+C: CORY
+D: Then some people came that weren’t her friends. Get together turned into quite a party, and then, I don’t know ... He looks around like he might sit -- might need something to lean on to continue. Decides to tell it where he stands.
+E: CONT’D
+C: CORY
+D: A lot I don’t want to know ... It was Natalie that called us the next day. Told us Emily was missing. They were best friends, so... Natalie was worried. She had a right to be ... Can’t go any further on his feet. He sits on the couch. Jane doesn’t move an inch.
+E: CONT’D
+C: CORY
+D: You try to be so careful, try to plan for everything. Emily was such a good girl, we just ... let our guard down ... You’ll have kids some day, and let me tell you, Jane: you can’t blink. For eighteen- years. Not once ... Cory swallows the pain. Looks up at his daughter on the mantle. Then to his feet.
+E: CONT’D
+C: CORY
+D: Some guy was moving his sheep near Wind River. He’s the one who found her ... Twenty something miles from our house. How she got there? What happened -- I don’t know.
+E: CONT’D
+C: CORY
+D: Couldn’t find out much from the autopsy cuz the Coyotes had been at her pretty good. He looks right at her.
+E: CONT'D MORE he sucks in a pained breath
+C: CORY
+D: And I’ve been killing those sons of bitches ever since. Jane tries to find something to say -- anything -- but there’s nothing. All she can think to utter is:
+E: CONT’D
+C: JANE
+D: Can you point me toward your --
+C: CORY
+D: Yeah, right down the hall. She walks down the hall to the bathroom. Closes herself in. Stares at herself in the mirror -- not a decade older than Natalie was, than Emily would be. Splashes water on her face. Leans against the counter, relishing a moment without tension, terror, or heartache. Steels herself and opens the door. She walks out and notices a poem, framed and hanging on the wall. She reads the heading -- A MEADOW IN MY PERFECT WORLD. She reads the poem. Cory walks up, leans beside her.
+C: CORY
+D: She got accepted to a summer program for creative writing at Colorado State. That’s what got her in. Jane looks at him.
+E: CONT’D
+C: JANE
+D: She wrote this to you? And for the first time, there is a crack in the steel.
+C: CORY
+D: I don’t know who she wrote it to. Beat.
+C: CORY CORY
+D: I like to think it was me. He disappears into the living room. She follows. Stands before him.
+E: CONT’D CONT’D
+C: JANE
+D: I don’t know what the Hanson boy told you, but I don’t want to stumble into something like today if I can help it. If he told you something I need to know ...
+C: CORY
+D: He told me one of those guards sells ‘em meth. Which one? I don’t know. Also told me her boyfriend worked security for West-Central. Beat.
+C: CORY
+D: You could’ve called for that.
+E: CONT’D
+C: JANE
+D: I wanted to know why you’re helping me. What your motivation was. Now I do. Cory smiles.
+E: Gentle
+C: CORY
+D: Didn’t trust me.
+C: JANE
+D: Didn’t trust how good you are at it. She works her way to the door.
+C: JANE
+D: Is it possible to not drive the snowmobiles eighty-miles an hour tomorrow?
+E: CONT’D
+C: CORY
+D: Sure, if you don’t mind landing in a ditch you could’ve sailed over.
+C: JANE
+D: ... Great. She offers him a smile and leaves. Cory returns to the task of making rifle rounds. Places one of the giant bullets on an ELECTRONIC SCALE. The reading says: 544 GRAINS. He takes a FILE, expertly shaves the bullet down. Places it back on the scale: 540 GRAINS. Perfect. He seats it in the machine, pulls the lever, driving the bullet into the casing. He holds up the round. Studies it ... This bullet has a home, and Cory is close to finding it. EXT. FREMONT COUNTY SHERIFF’S STATION -- MORNING. Cory pulls into the parking lot, snowmobile in tow. Two TRIBAL POLICE VEHICLES are parked by Jane’s SUV and a SHERIFF’S PICK UP TRUCK, two SHERIFF’S DEPUTIES leaning beside it. ALL HOOKED TO TRAILERS CARRYING SNOWMOBILES. Jane, Ben, two BIA POLICE, and two SHERIFF’S DEPUTIES -- CARL and EVAN, stand in a circle bouncing in place, fighting off the cold, their breath rising from their mouths like smoke. Cory steps out. Walks to them.
+C: BEN
+D: It’s a cold one today. Cory barely notices.
+C: CORY
+D: Below zero, I bet.
+C: BEN
+D: Six below. Colder out there. Cory studies him.
+E: Points to the mountains
+C: CORY
+D: You’re shaking worse than her. Looking at Jane, that’s debatable. Evan walks up to Cory.
+C: EVAN
+D: What are you doing here, bud?
+C: CORY
+D: In case you wander off, I’m here to track you down. Evan laughs.
+C: BEN
+D: We heard from a reliable source one of West-Central’s security officers may be supplying meth on the Rez, we don’t know which one --
+C: CARL
+D: The nervous one. They all chuckle.
+C: BEN
+D: Eyes peeled is the point. Everyone ready? They move to their cars. Jane looks at Cory.
+C: JANE
+D: If you find anything, radio us.
+C: CORY
+D: I will. You do the same. She offers him a smile. It isn’t returned -- he is a hunter today, no room for anything else... Everyone moves to their vehicles as the sun crests the mountains, kissing the land that surrounds them. EXT. HIGHWAY 789 -- DAY. The procession moves down the empty highway. WE MOVE ABOVE THEM -- PULLING AWAY. The land is white in every direction. WE PULL HIGHER, UNTIL THE MOUNTAINS COME INTO VIEW, THE CARS
+C: MERE SPECS BELOW US.
+D: ANOTHER ANGLE -- Sitting low beside the highway, frostbitten sagebrush blowing in and out of view -- we hear the vehicles approaching. Rubber attacking road. Whining. Humming. Louder. Nothing ever sounded less natural ... The vehicles race past us in a blur, snow swirling in their wake. EXT. HIGHWAY -- CONT. Cory pulls over in front of Sam Littlefeather’s place, now surrounded in YELLOW POLICE TAPE. He begins unstrapping his snowmobile as the other vehicles push farther down the highway. He puts on his white camo as the whine of rubber on frozen road fades into the distance. EXT. HIGHWAY 789 -- DAY. WE PULL OVER. STOP. EVERYONE GETS OUT. In the distance, DRILL RIGS and TRAILERS can be seen. Though miles away, they stand out like blisters in this white world. Snowmobiles are unloaded and mounted. Engines scream as they are started. Ben fires his snowmobile, looks back at Jane.
+C: BEN
+D: Get on. She looks at him.
+C: JANE
+D: Getting really tired of these things.
+C: BEN
+D: Oh, come on. You’re a Florida girl, right? Just like those jet-skis, ain’t it? She climbs on behind him.
+C: BEN
+D: If there was an easier way to travel snow, we’d be doing it.
+E: CONT’D
+C: JANE
+D: Let’s get it over with. Shit. Forgot to bring gloves ... You mind? He rises out of the seat. She places her hands down and he sits on them. Smiles.
+E: Looks at her bare hands
+C: BEN
+D: See? All sorts of perks to this deal.
+C: JANE
+D: ... Yeah. She tries not to, but can’t help smiling either. All six snowmobiles take off toward the rigs, blowing smoke and spitting snow. EXT. -- WEST-CENTRAL DRILL STATION, TWENTY-TWO -- DAY. A DOZEN DRILLS rise from the earth. ENORMOUS GALVANIZED PIPING undulates above and below the snow, like a steel serpent. TELEPHONE POLES have been sunk every thirty feet. WIRES criss- cross from them. SURVEILLANCE CAMERAS are mounted to each. Four MOBILE HOMES are lined one after the other away from us. TWO GIANT, CYLINDER TANKS sit to our left. Beyond them is a larger Mobile Structure -- all wires lead here. A MAN ON A SNOWMOBILE APPROACHES US. As he gets closer, we can see he wears a NAVY PARKA WITH A BADGE ON THE RIGHT CHEST
+C: POCKET.
+D: He stops. His name is CURTIS. 40’s, burly but clean cut, professional and very friendly. He has a large bruise on his cheek.
+C: CURTIS
+D: Good morning. Can I help you?
+C: BEN
+D: Matt Rayburn work here?
+C: CURTIS
+D: Yeah, do you know where he is?
+C: BEN
+D: ... Bout to ask you the same question.
+C: CURTIS
+D: He had a fight with his girlfriend a few days ago, she ran off and he went after her. We haven’t seen him since.
+C: JANE
+D: When was that?
+C: CURTIS
+D: Three days ago. Heck, we didn’t know what to do -- waiting to hear back from corporate about whether to write up his termination papers or call you guys. Jane and Ben look at Curtis who seems genuinely concerned. Another snowmobile pulls up carrying another security officer. He steps up -- we can’t help but notice the scratches that run down his face.
+C: SECURITY OFFICER
+D: Everything okay?
+C: CURTIS
+D: They’re here about Matt --
+C: SECURITY OFFICER
+D: You find him -- is he okay?
+C: JANE
+D: What happened to you guys?
+C: SECURITY OFFICER
+D: What’s that?
+C: JANE
+D: Pretty torn up.
+C: CURTIS
+D: Hit a pine branch doing sixty and see what happens to you.
+C: SECURITY OFFICER
+D: We run the property line twice daily. Comes with the territory.
+C: BEN
+D: You should try a face shield.
+C: CURTIS
+D: Oh, I requested helmets. My supervisor said, “But snow’s soft, ain’t it?” Corporate’s in Texas, what can I tell you. Everyone has a chuckle at that.
+C: EVAN
+D: Matt bunked here on the property?
+C: CURTIS
+D: Yep, we all do.
+C: EVAN
+D: Can we see where he stayed? Beat.
+C: CURTIS
+D: Sure. I’ll walk you up. Jane looks over the two security guards -- well dressed, web belts with pistols, flashlights, hand cuffs. And beat to shit. They seem professional and courteous. She strains to pick out the bad apple. TWO MORE SECURITY OFFICERS WALK UP THROUGH THE SNOW. She looks them over as well, all of their faces torn and bruised. The entire group begins moving off toward the trailers ... EXT. MOUNTAINS -- DAY. Cory works his snowmobile through terrain not meant for machines -- he takes it almost vertically up the side of a mountain. We move past the area where Matt’s body was found, surrounded by POLICE TAPE. He drives past, looks for tracks. There are none. Continues east, over white powder. Judging from the snow, he is the first living thing to traverse this land since the storm. Then he stops. Looks down --
+E: Stepping off his snowmobile
+C: LION TRACKS.
+D: HE SHUTS DOWN THE ENGINE. STEPS OFF. He pulls his silver-colored bear killer from its case and follows the tracks around a bend. He walks across what looks to be an endless plain of white surrounded by dark pines tasked with containing it. He comes to a rock outcropping that creates something rarely viewed during winter in Wyoming -- an area with no snow. THE CARCASS OF A DEER, almost completely devoured, lays in front of it. He raises his rifle, moves toward the shallow cave. He stops. Listens. Hears shallow breathing. Cocks the hammer, steps closer. Stares at the black hole nature cut into the side of the mountain. Pulls a flashlight from his pocket, points it toward the cavern -- THREE SETS OF RED EYES STARE BACK. He lowers the light a bit -- A MOUNTAIN LION AND HER TWO CUBS
+C: STARE BACK. CORY
+D: This is the end of the road for you. He presses his face to the stock. Notices something ... MUD, SPRAYED ALONG THE CAVERN WALL. He steps closer, rifle still at the ready. Looks at the mud spray, then looks down. He walks toward the cavern. The big cat curls her back as Cory kneels down, not ten feet from her. We follow his eyes to: A SNOWMOBILE TRACK CUT INTO THE MUD. He stands up, looks out from the track and sees a slight indentation in the snow, leading down the mountain. He follows it. Cory walks to a clearing, pulls his BINOCULARS to his face.
+C: THROUGH BINOCULARS WE SEE:
+D: Tracks, barely visible, leading down the mountain to the open plains. Toward a large, DRILL RIG STATION. He glasses the station -- Jane, Ben, and the officers walking alongside the security guards.
+C: CORY
+D: Oh no. Cory shakes his head -- knows what they don’t, turns back. Finds himself in front of the lion hole. Looks in and talks, loud.
+E: CONT’D
+C: CORY
+D: You’re one lucky bitch it’s today I find you. The lion responds with a panicked hiss, her kits huddled beside her. Cory turns and pushes down the hill through the snow. EXT. WEST-CENTRAL DRILL STATION -- CONT. Jane, Ben, and the officers trudge through the snow with Curtis beside them. We notice that the other security officers have lagged back, and are now walking behind them.
+E: CONT’D
+C: CURTIS
+D: So, did something happen? Do you know where he is? Jane studies him. As genuine as he seems, she doesn’t want to play her cards, not yet.
+C: JANE
+D: That’s what we’re trying to find out. His girlfriend filed a missing person’s report.
+C: CURTIS
+D: How can that be, I thought you guys found her in a snowdrift right before the storm. She turns to stone.
+C: JANE
+D: Excuse me?
+C: CURTIS
+D: I heard it go out over the radio when you guys found her. Jane stares at him.
+C: JANE
+D: I don’t remember her name being used over the radio. Beat.
+C: CURTIS
+D: Then maybe you weren’t listening --
+C: EVAN
+D: What the fuck are you doing? Jane turns to find Evan with his hand on his pistol.
+E: O.S.
+C: SECURITY OFFICER
+D: What?
+C: EVAN
+D: Why are you flanking me?
+C: SECURITY OFFICER
+D: What are you talking about --
+C: EVAN
+D: Fuck do you think I’m talking about -- you got us on three sides, dickhead. And so they do -- the security team has effectively surrounded the police.
+C: SECURITY OFFICER
+D: Get your hand off that weapon, this is private property -- Evan unsnaps his holster and pulls his pistol free.
+C: SECURITY OFFICER WHOA!! EASY MAN.
+D: Evan trains his weapon on the security guard as EVERYONE’S hand goes to their weapon ...
+E: CONT’D
+C: SECURITY OFFICER
+D: WHAT ARE YOU DOING?? PUT IT DOWN.
+E: CONT’D
+C: BEN
+D: Evan.
+C: EVAN
+D: Turn away from me and drop to your knees!
+C: SECURITY OFFICER
+D: Fuck you, this is a BIA lease on reservation land, asshole -- you’re breaking the law by being here --
+C: JANE
+D: Hey!
+C: CURTIS
+D: This is leased land on a reservation -- you have no authority, deputy--
+C: EVAN
+D: You think I don’t know what you’re doing? Curtis steps back, hand on his pistol. One of the security guards holds a MOSSBERG 590 SHOTGUN tucked to his shoulder, barrel inching up from the snow toward the officers. Emotion is overtaking reason. A security guard stands mere feet from a BIA officer, both of their hands gripping pistols. SECURITY OFFICER 2 FUCKING DO IT ASSHOLE, PULL YOUR WEAPON AND SEE WHAT HAPPENS --
+C: BIA OFFICER
+D: HOKA HEY WHITE BOY, LET’S GO -- Jane locks eyes with Curtis, who grips his pistol as well. Her hand moves to her waistband. A SECURITY GUARD unsnaps his holster ...
+C: CURTIS
+D: DEPUTY -- You have no authority, you are in violation of Federal law, lower your weapon --
+C: EVAN
+D: FUCK YOU! YOU’RE PUTTING US IN A CROSSFIRE -- Ben, the tribal officers -- hell, all of them -- have their hands on their weapons, stepping back, seeking a clear shooting lane. Evan points his pistol wildly from one security guard to the next -- the security guard with the shotgun points it at Evan, then calls to Curtis for guidance --
+C: SECURITY OFFICER
+D: What do I do??
+C: CURTIS
+D: Hold your ground!! County Sheriffs have no authority here, tell him to holster his weapon -- Jane realizes this misunderstanding is seconds from disaster.
+C: JANE
+D: I’m a federal officer -- The men scream and dance in place, hands on their weapons -- it’s a mad ballet of aggression and confusion.
+E: Too small to be heard
+C: BEN
+D: OKAY EVERYBODY EASY -- Jane draws in a deep breath, then explodes above the chaos.
+C: JANE
+D: FBI!!!! THIS IS FEDERAL LAND AND I AM THE AUTHORITY HERE. RIGHT NOW, ALL OF YOU. STAND DOWN. Everyone stands with their feet planted wide in the snow, hands on their weapons -- it’s minus twelve-degrees and they are sweating through their coats.
+C: JANE
+D: OKAY. EVERYONE. Slow down. We’re all working toward the same goal ... Everyone back down and move your hands from your weapons ... Slowly. Look -- Jane demonstrates, removing her hand from her pistol and holding it up. Like molasses, basing their speed off the speed of the man across from them, all hands move away from weapons.
+E: CONT’D
+C: CURTIS
+D: Keep these assholes in check. We’re just doing our job, lady --
+C: EVAN
+D: When we show up your job’s over asshole --
+C: BEN EVAN. CARL
+D: Every one of you step to your left--
+C: EVAN
+D: No one behind us, you understand?
+C: CURTIS
+D: You got it. Guys, step my way. The security guards all move left, even with the police.
+E: To his men
+C: CURTIS
+D: Alright, let’s all just take a deep breath. Jane looks back at Evan, still swinging his pistol between targets.
+E: CONT’D
+C: JANE
+D: Evan ... Deputy. Holster your weapon. Evan looks at her, amazed.
+C: EVAN
+D: You didn’t see it??
+C: JANE
+D: Right now, or you’re under arrest, you understand me? Evan looks over the men as he lowers his pistol.
+C: EVAN
+D: You didn’t see it. Jane looks over the officers. The security detail. Knows someone must take control before they all kill each other. She turns on Curtis, and makes an even bigger show of laying into him.
+E: Defeated
+C: JANE
+D: Make no mistake who’s running things here. I don’t give a shit what billionaire owns this dump -- I am the biggest dog on the porch and when I say jump, you don’t ask how high -- you just start fucking hopping. You got me? Beat.
+C: CURTIS
+D: Yes ma’am.
+C: JANE
+D: Take us to Matt’s trailer. Now.
+C: CURTIS
+D: Okay. He starts walking. The whole tense lot of them follow. EXT. MOUNTAINS NEAR DRILL STATION TWENTY-TWO -- DAY. Cory has dropped down from the mountains. Stops his snowmobile. Looks through binoculars at the camp. Sees the tension-filled mass ambling toward the last trailer in the camp. Cory pulls his two-way radio from his coat.
+C: CORY
+D: Ben ... Ben, you copy? He’s a little more than a mile away. He takes the rifle from his shoulder and steps off the snowmobile. Begins racing toward the camp ... EXT. MATT’S TRAILER -- WEST-CENTRAL STATION -- CONT. Everyone stops before the trailer. No one trusting anyone.
+E: Into the radio
+C: CURTIS
+D: This is his trailer.
+C: BEN
+D: Did he bunk with anybody?
+C: CURTIS
+D: Yeah ... Me and Pete Mickens. Cory’s voice filters through Ben’s radio. He steps away as he speaks into it.
+C: JANE
+D: Is Pete in there now?
+C: CURTIS
+D: He’s sleeping. He has night shift. Beat. Jane steps up on the aluminum steps that rise to the door. She knocks, then steps down. INT. MATT’S TRAILER -- WEST-CENTRAL STATION -- CONT. WE ARE IN THE TRAILER’S BATHROOM. STEAM FROM THE SHOWER HAS
+C: CLOUDED THE MIRROR.
+D: We hear knocking. Push open the bathroom door. We move through the trailer, through the kitchen, and toward the front door. A HAND REACHES FOR THE DOOR LATCH. TURNS IT. The hand pulls it open ... WE ARE IN A FLASHBACK -- We look out and see, standing outside the trailer: NATALIE HANSON, DRESSED IN WHITE SWEAT PANTS AND A BABY-BLUE COAT. Her beautiful face smiles back at us. FROM HER POV WE SEE -- Matt Rayburn, 26, handsome, wearing only a towel.
+C: MATT
+D: Can I help you?
+C: NATALIE
+D: Yes, I’m looking for my knight in shining armor. I believe this is his trailer. He smiles.
+C: MATT
+D: I’m a bit short on armor at the moment. She snaps her feet out of a pair of SNOWSHOES, climbs up the stairs, and wraps her arms around him.
+C: NATALIE
+D: I don’t mind.
+C: MATT
+D: I didn’t hear your carriage outside.
+C: NATALIE
+D: Yes, well ... My carriage wanted to catch the eight o’clock show in Lander, so she dropped me off at the turn-out. He drops out of character for a moment.
+C: MATT
+D: You walked that far in the snow? She leans into him.
+C: NATALIE
+D: You’re worth it. He kisses her. Pulls her inside and slams the door closed. INT. MATT’S TRAILER -- BEDROOM -- LATER. Matt traces his finger over her breasts. She stares up at him as if nothing else on earth exists. His hand slips out of frame. She cranes her head back -- loves the way he touches her. She closes her eyes.
+C: MATT
+D: No. Look at me. She does. He rolls on top of her. She fights to keep her eyes open as he enters her.
+E: Soft
+C: NATALIE
+D: Tell me how you’ll take me away from here ... He gently thrusts into her. She moans.
+C: MATT
+D: A little house ... a little porch where we sit ... He moves back, then pushes gently into her again.
+C: MATT
+D: I tell you about my day and you tell me what I forgot to buy at the store -- She laughs. Which makes her contract, which makes her moan.
+E: CONT’D
+C: NATALIE
+D: And you love me, still.
+C: MATT
+D: I do. WE PUSH IN CLOSER. CLOSER. Their bodies become one -- he gently moves inside her, and the pleasure of it -- the love that drives it, pushes a tear from her eye. We follow it down her cheek and watch it creep behind her. INT. MATT’S TRAILER -- BEDROOM -- LATER. Natalie rests her head on his chest. They stare at the ceiling.
+C: MATT
+D: Two more months of this place ... , four months at the Academy ...
+E: He looks at her
+C: NATALIE
+D: Then Cheyenne.
+C: MATT
+D: Then Cheyenne. Beat.
+C: NATALIE
+D: Six months is so long ...
+C: MATT
+D: It’ll go by in no time. She looks at him.
+C: NATALIE
+D: Time’s like everything else on the Rez in winter ... Frozen. It’ll be an eternity. She lays her head against him.
+C: NATALIE
+D: Don’t forget me, when you’re there, please? His hand finds her cheek.
+E: CONT’D
+C: MATT
+D: Natalie ... That’s silly.
+C: NATALIE
+D: No ... That’s what happens once people make it out of here. They don’t ever look back. We hear the sound of SNOWMOBILES. They pull close. We hear DRUNKEN LAUGHTER. Lonely men violating the night with their noise. Matt’s face clouds.
+C: MATT
+D: Shit. The vultures have returned. Put something on, babe. She hears the sounds of drunken men outside the trailer. She stands, naked, and steps into her sweat pants. Grabs her coat. Puts it over her naked torso.
+C: NATALIE
+D: Where’s my shirt? We hear the TRAILER DOOR FLY OPEN.
+C: MATT
+D: Just get back in bed, they’re gonna bust in here, you know it. She climbs back in bed. They listen to the drunk men stumble through the trailer, laughing.
+E: Whispers
+C: VOICE
+D: Smells like sex in here! We hear stumbling toward the canvas door -- fashioned like an accordion -- that separates them from the rest of the trailer.
+C: MATT
+D: Guys ... Come on. Leave us alone, okay? The accordion door is thrown open. PETE MICKENS, 30’S, skinny, dark eyes, stares drunkenly at them. Behind him we see CURTIS.
+C: PETE
+D: What’re you two doing?
+C: MATT
+D: Come on. Pete stumbles in and sits on the edge of the bed. Bloodshot eyes. Big smile. Looks at Natalie.
+C: PETE
+D: Hello there.
+C: NATALIE
+D: ... Hi, Pete. He looks at her form under the sheet.
+C: PETE
+D: Wonder what you got on under those sheets. The trailer door opens. We hear more men enter.
+C: NATALIE
+D: A fluffy, down coat. Not very sexy.
+C: PETE
+D: Fluffy sounds good to me. Matt sits up. Pete looks at his bare torso.
+C: MATT
+D: Pete. Come on. Go to your room.
+C: PETE
+D: You naked, Matt? What have you guys been doing?
+C: MATT
+D: Get out of here!!!
+C: PETE
+D: Whooooo ... Curtis laughs. We see shadows move behind him. TWO MORE MEN
+C: PEER IN. SECURITY OFFICER
+D: Well, well, well. What have we here? Natalie is starting to get nervous. Matt is starting to get pissed.
+C: PETE
+D: Come on. Let me have a little peak. He moves to lift the sheet and Matt slaps his hand. Pete does it again and Matt slaps it again. To Pete, this is rapidly becoming a game. He holds up his hands, gesturing surrender, then yanks the sheet hard, pulling it down below Natalie’s waist. We see flashes of her skin. Matt reaches over and grabs at the sheet as Natalie rolls away from Pete, pulling the coat closed. Her ass hangs half-out of her sweats. The gawking men see it before Matt wins control of the sheet. The look on the men’s faces turns from humor to hunger in an instant.
+C: NATALIE STOP IT! PLEASE. PETE
+D: Don’t bullshit me girl, you’re sticking your little ass out like a flag -- Matt’s fist slams into his chin, knocking him backwards.
+C: MATT
+D: Get the fuck out. Curtis laughs. Pete doesn’t.
+C: CURTIS
+D: Pete, let’s go. He doesn’t want to share.
+C: PETE
+D: Oh, I can see that ... We look into Pete’s cold eyes.
+C: PETE
+D: But sharing is what friends do -- Pete launches himself over Natalie and punches Matt in the face. Doesn’t stop with one. A fight breaks out on the bed -- right on top of Natalie -- who screams and struggles to get free. Pete has the leverage, punching furiously. Natalie grabs Pete by his hair and pulls back. Hard. Curtis and the others cheer and laugh. Matt slams his fist into Pete’s jaw with such force he knocks both Pete and Natalie off the bed. Natalie’s coat flies open -- exposing her breasts to the men that loom over her. Matt rises and punches, wild. Rocks Curtis with a shot, who yells and hits back. It is quickly escalating to a point of no return.
+E: CONT’D
+C: CURTIS
+D: Hey!!!
+C: MATT
+D: Why didn’t you stop him --
+C: CURTIS
+D: Pete’s just fucking around --
+C: SECURITY OFFICER
+D: You’re acting like a pussy over this prairie nigger -- And that’s all the insult Natalie can take, she punches and scratches furiously at the security guard.
+C: NATALIE FUCK YOU!!!
+D: Curtis shoves her back -- his hands touching bare skin. Grabs her breasts as she rakes him with her nails. Pete, still on the ground, reaches up and pulls her sweats to her ankles, yanking her to the ground. Matt kicks Pete in the jaw, knocking him unconscious. He throws a punch over Natalie, hitting Curtis in the face -- the other two security guards race in, beating Matt with their flashlights. They punch and kick and pound -- in a drunken, feral, orgy of no reason. WE DROP DOWN TO NATALIE -- FEET STOMPING HER, OVER HER, ALL AROUND HER, AS SHE STRUGGLES TO STAND. We hear METAL MEETING BONE. Matt falls down to our eye level, an enormous gash in his forehead. Eyes look at her, but no recognition in them. Natalie screams, tries to fight through this forest of men’s legs-- she looks up and sees Curtis’s flashlight slamming down toward her. The world goes dark. Like a SLOW STROBE, images pulse through the black -- WE COME TO FOR A MOMENT, look up. See the ceiling of the trailer. The world goes dark, then pulses into -- PETE’S BONY ASS moves back and forth, thrusting. Tan legs on either side of him, spread wide. The world goes dark, then pulses into -- CHEAP CARPET. So close, we can follow the weave of the thread. The world goes dark, then pulses into ... NATALIE’S FACE, PRESSED INTO THE CARPET. Curtis’s face lowers into frame -- ecstasy etched across it. CURTIS IS RIPPED OUT OF FRAME. In a daze, Natalie rolls over. Looks up. Matt blasts past us - - slamming Curtis into the wall, shaking the entire trailer with the impact.
+C: MEN LEAP OVER US.
+D: Natalie crawls out of the room, pulling her sweatpants up as she goes. She crawls through the kitchen area -- chaos leaking from the room behind her. She finds her feet. Uses them. She stumbles toward the door, dizzy. Struggles to zip her coat -- looks back to the bedroom and the men that tear her love apart. She moves toward the trailer door, reaches for the handle ... BACK TO PRESENT -- EXT. MATT’S TRAILER -- WEST-CENTRAL STATION -- DAY. Jane climbs up the steps and knocks again.
+C: JANE FBI. OPEN UP.
+D: Beat.
+C: JANE
+D: You sure someone’s in there?
+E: CONT’D To Curtis
+C: CURTIS
+D: PETE. IT’S CURTIS. FBI IS STANDING IN FRONT OF THE DOOR. OPEN UP.
+C: BEN JANE!!
+D: She turns and sees Ben running toward her.
+E: O.S.
+C: BEN
+D: STEP AWAY FROM THE -- A SHOTGUN BLASTS through the door -- blowing Jane off the steps. BEN FIRES HIS PISTOL AT THE DOOR AS HE RUNS TOWARD HER. At once, everyone pulls pistols and fires into each other -- from ten feet away. Pete swings the trailer door open, pumping shells through the shotgun -- spraying the police officers. Ben fires rounds into his chest, knocking him back. Deputies fall, security guards fall -- at ten feet apart, no one is spared. ANGLE ON -- Jane, on her back -- desperate to draw a breath. She emits an airless moan, then frantically attempts to suck in air. Buckshot has torn into her neck and face, and blown her coat and vest to shreds. Blood covers her neck like a bib ... TIME SLOWS ... So desperate to breathe, her body convulses -- pulling her upward like a sit-up, then blasts her back into the snow -- forcing air into her lungs. She blinks. Feels her senses returning. Looks at Ben, firing rounds above her. Shell casings rain down on her. She watches bullets SLAM INTO BEN’S BULLET PROOF VEST -- thrusting him out of frame. She breathes in again -- sucking in strength-- and adrenaline overtakes her. She turns on her side, firing into a man’s legs. He screams and falls. He looks directly at her and she sends a round into his forehead, rolling him over, dead. -- A AR-15 ASSAULT RIFLE POPS OUT THE TRAILER’S KITCHEN WINDOW, spraying rounds on the police -- They rip through Ben and pound Jane in her shoulder and through her vest. The rounds tear through the officers, cutting them to the ground. The fight is over as quickly as it started. Men lay writhing on the ground. Of the dozen men in the fight, only Curtis still stands. A SECURITY OFFICER pulls himself from the snow, blood pulsing from numerous wounds. He looks over the bodies of the officers. Sees Evan, whose legs have been tattered. Evan struggles to rise, even though his legs were almost amputated by the rounds that cut through him. The security guard stumbles toward Evan, who raises his pistol at the man who now stands over him.
+E: CONT’D
+C: EVAN
+D: Let’s go -- THEY BOTH FIRE, sending round after round into each other. A bullet finds Evan’s head, unplugging him. The security officer falls back, then sits in the snow in a bloody daze. Right next to the man he just killed. He places a hand on Evan’s dead chest and pats him with an absent affection.
+C: CURTIS PETE???
+D: Jane looks up at the blue sky. So tired .... She looks across the snow -- it is painted red. She looks to her right -- Ben’s lifeless eyes stare back. Beyond him, all the men she came with. Dead. She hears movement. Talking.
+C: CURTIS
+D: You okay? SECURITY OFFICER 2 I’m hit.
+E: O.S. CONT’D O.S.
+C: CURTIS
+D: Who isn’t? Pete -- you good?
+E: O.S. Yells to the trailer
+C: ANGLE ON:
+D: PETE, drawing in large gulps of air, bullets have torn through his shirt and flattened against his Kevlar vest.
+C: PETE
+D: We’re good. How many we got down?
+C: CURTIS
+D: Two that won’t get up. SECURITY OFFICER 2 No ... I’m getting up. But he makes no attempt to do so. Curtis walks to a BIA OFFICER who struggles to turn over. When he does, it’s only to see Curtis fire a round into his forehead. Curtis turns. Sees Jane looking at him. Starts walking toward her. She breathes heavy -- here it comes. She tries to raise her pistol. His foot prevents her.
+E: O.S.
+C: CURTIS
+D: My God, the women out here are spunky. He raises his pistol. Something catches his eye. He looks up. Sees something. He squints -- it appears the snow itself is standing to face him. The muzzle flash from Cory’s rifle shoots five-feet out the barrel. The bullet punches a hole in Curtis’s chest we can almost see through. Punches a hole through the trailer behind him. Curtis is thrown back into the trailer, dead before he left his feet. Jane rolls over and crawls underneath the trailer. The one security guard who still stands looks out over the plains. Sees nothing.
+C: SECURITY OFFICER
+D: You see where that came from?
+C: PETE
+D: No! The security officer strains to see. Looks to his friend, bleeding in the snow.
+E: Shouting from the trailer
+C: SECURITY OFFICER
+D: Can you stand up? SECURITY OFFICER 2 I don’t know.
+C: SECURITY OFFICER
+D: Well, you better figure it out, cuz we’re not done. The wounded man struggles to his feet. Dizzy. He looks out over the plains. Turns back and sees -- Cory, standing fifty yards from him. The security guard doesn’t even have the presence of mind to raise his pistol, just points his finger in Cory’s direction. Cory has fired and ejected the second round before the first one hits the ground. Both men are thrown backward into the snow. The men in the trailer return fire, but Cory is gone. INT. MATT’S TRAILER -- WEST-CENTRAL STATION -- CONT. Pete and a security officer peer out through the window. SECURITY OFFICER 3 Where is he?
+C: PETE
+D: I don’t know. SECURITY OFFICER 3 He went behind trailer three --
+C: PETE
+D: Curtis! Mike! Curtis! SECURITY OFFICER 3 Okay, okay ... Cory’s bullet punches through the trailer, through the sink, through the security guard and through the wall behind him, knocking a six inch hole that bleeds light into the room. The man is pulled backward in the bullet’s wake, falling flat on the floor. Pete drops to the floor, crawls to the bedroom. He climbs over the bed and kicks out the window. Climbs out.
+E: Drawing calming breaths
+C: ANGLE ON:
+D: JANE. Under the trailer. She empties her gun at Pete as he runs. They punch into his Kevlar Vest, and knock him to the ground. He stands immediately and continues running. She rolls on her back, shivers. Cory kneels down -- offers her a hand. She takes it. Pulls her out.
+C: CORY
+D: How bad are you hit?
+C: JANE
+D: I don’t know. Cory helps her to her feet.
+E: Through chattering teeth
+C: CORY
+D: I gotta get you in this trailer. He lifts her up, and carries her inside. INT. MATT’S TRAILER -- WEST-CENTRAL STATION -- CONT. Cory sets her on a couch. Heads to the bedroom, returns with the bedding. Wraps it around her shoulders.
+C: CORY
+D: I need to have a look. She nods and he unzips the coveralls, runs his hand inside. Pulls it out, looks at it -- no blood. Runs his hand along her sides, her belly, feels something warm. Looks at his hand -- blood, but not an alarming amount.
+C: CORY
+D: I think a few rounds got through, but only in pieces. You’re not bleeding too bad. He looks at her neck, this wound is more severe.
+E: CONT’D
+C: CORY
+D: This one ain’t great. He takes some of the sheet. Presses it against the wound.
+E: CONT’D
+C: CORY
+D: Hold that there. She does. She looks at him.
+E: CONT’D
+C: JANE
+D: Give me your radio. My best chance is a helicopter flying me out of here, you don’t have one of those, do you?
+E: He doesn’t
+C: CORY
+D: No.
+C: JANE
+D: Give me your radio. Go get him.
+E: He does
+C: CORY
+D: I won’t bring him back, Jane. You need to know that. Beat.
+C: JANE
+D: I do. Go get him. She gives the tiniest of nods. He stands up and walks out. EXT. WIND RIVER MOUNTAINS -- DAY. WE RUN THROUGH THE SNOW. We stumble. Breathe heavy. Stand up and continue. We hear the whine of an engine in the distance. It echoes through the trees -- no way to know where it comes from. WE LOOK AT PETE, STANDING IN THE SNOW, TREES ALL AROUND HIM. He turns in every direction, trying to pinpoint the sound of the machine echoing through the mountains. The sound stops. The forest is silent. Pete pulls a pistol from its holster, and continues marching through the frozen forest. He freezes. Hears something -- a gnawing sound. He turns. A PORCUPINE IS CLIMBING A NAKED ASPEN TREE. It chews the bark. Stops. Looks at Pete -- like any animal, the porcupine can sense the hunted. Can smell the fear. The porcupine’s button eyes show no sympathy -- better you than me. When Pete turns he finds CORY STANDING IN FRONT OF HIM. Pete screams like a startled child. The butt of Cory’s rifle slams into Pete’s chin, knocking him backward. EXT. GANNET PEAK -- WIND RIVER MOUNTAINS -- DAY. The sun sits low in the Western sky. We are well above the treeline. Ragged mountains cut the skyline in every direction. Pete lays in the snow, blindfolded. Hands bound. The blindfold is ripped off. His hands cut free. Cory stands over him.
+C: CORY
+D: Know where you are?
+C: PETE
+D: ... No. Pete shivers in the snow, his breath crystallizing the instant it’s exhaled.
+C: CORY
+D: That’s Gannet Peak. Highest mountain in Wyoming. We look around. Deep in the land of nothing. Only bitter cold.
+C: CORY
+D: On the hottest day in August there’s a foot of snow. Today ... Cory looks at him.
+E: CONT’D
+C: CORY
+D: It’s too cold to snow.
+E: CONT’D
+C: PETE
+D: Okay ... Okay ... Let’s just -- let’s talk for a minute.
+C: CORY
+D: Alright. Pete’s teeth chatter -- he looks down at his feet -- NO
+C: SHOES. PETE
+D: Wha -- WHAT THE FUCK!? -- what the, what --
+E: Sobs
+C: CORY
+D: I give you a minute and this is how you spend it -- cussing and crying?
+C: PETE
+D: Listen, okay ... I’ve made mistakes. I’ve ... I’ve ...
+C: CORY
+D: What. What did you do. I’m not a policeman -- tell me the truth and I’ll give you a chance.
+C: PETE
+D: Alright. Just ... You know what it’s like? Stuck out in this frozen hell -- nothing to do? No nothing. No women, no fun? Just fucking ... snow and silence.
+C: CORY
+D: My people have been stuck in this shit for a century. Snow and silence is the only thing that hasn’t been taken from us ... You took from us too, didn’t you?
+C: PETE
+D: I don’t -- how did I --
+C: CORY
+D: You have a little taste, did you? Got lonely ... Got drunk? Beat.
+C: CORY
+D: Then what did you get? Pete can barely speak, he is shivering so hard.
+E: CONT’D
+C: CORY
+D: If you did it, be a man and say it. Say ‘I raped her’.
+E: CONT’D
+C: PETE
+D: ... I raped her. Cory nods.
+C: CORY
+D: Now say, ‘her boyfriend tried to stop me, and we beat him to death.’ He nods.
+C: CORY
+D: Nod won’t cut it. Not today. Say it.
+E: CONT’D
+C: PETE
+D: We-we-we d-d- we beat him.
+C: CORY
+D: Fair enough. Cory stands. Grabs his rifle. Slings it over his shoulder.
+C: CORY
+D: Let’s go.
+E: CONT’D
+C: PETE
+D: Wha -- wha -- where.
+C: CORY
+D: You get the same chance she got.
+C: PETE
+D: What did she -- what did she get?
+C: CORY
+D: Stand up big boy. I’m a man of my word. If you can make it to the highway, you’re a free man. Pete stands up. Looks around -- they are so deep in the mountains, so high up, the valley isn’t even visible.
+C: PETE
+D: Where -- where’s the highway? He looks at Cory, eyes wide.
+C: CORY
+D: You know how far it is from that drill camp to where Natalie was found -- almost six miles. Barefoot. That’s a warrior. I doubt you’ll make it six hundred feet. Still, we should make this fair ... Cory walks up pulling a large hunting knife from its sheath and slices Pete’s parka open down the middle.
+E: Looks the freezing man over
+C: CORY
+D: There we go.
+E: CONT’D
+C: PETE
+D: I don’t understand. What do you want me to do? Cory steps close to him.
+C: CORY
+D: I want you to run. Cory places the muzzle of his rifle beside Pete’s ear. Pulls the trigger. The gun is so loud, we expect the mountain to collapse. Instead, it is only Pete’s eardrum that erupts. Pete screams as blood funnels out of it. He covers his ear and runs like his life depends on it -- which it does. Cory pulls a ski mask over his face, climbs on his snowmobile and goes after him. Pete runs -- bare feet slamming into snow. He screams, looks for a way down the steep mountain, sees none. Looks back, Cory is right behind him. He runs faster, arms flinging wildly. Suddenly, half of him disappears -- THE SNOW IS SO DEEP IT COVERS HIM TO HIS WAIST. Pete looks back at Cory, who fires a round right over his head. He shrieks in terror and pushes further into the snow. He breathes harder, deeper. As he exhales, a thin mist of blood spews out. Cory slows down, let’s Pete get distance, gives him hope. WE WATCH PETE FADE INTO THE MOUNTAIN -- The man becoming a speck in a world of white. Pete FUMBLES, weak -- blood is frozen to the side of his face. Cory stops. Watches him. Seconds ache by. Sees him slow down, stumble, then fall. He doesn’t get up.
+C: ANGLE ON:
+D: Pete lays in the snow, coughing -- gasping -- freezing from the inside out. He rolls on his back. The sky is so close, he can almost reach out and touch it. He reaches his arm up, stretching. Stays like this. No breath. No movement. He is gone. Cory turns the snowmobile east and begins the long ride home. INT. FREMONT COUNTY HOSPITAL -- NIGHT. Jane lays in a hospital bed, IV tubes running to and from her. She stares at the ceiling, too tired to cry but knowing it’s coming. She feels a presence. Looks to the door. Cory stands there.
+C: CORY
+D: You made it.
+C: JANE
+D: So did you.
+C: CORY
+D: I bet this ain’t how they sell those bulletproof vests in the brochure, is it? She chuckles, and pain runs through her body.
+C: JANE
+D: Don’t make me laugh.
+C: CORY
+D: Shouldn’t joke. It saved your life.
+C: JANE
+D: You saved my life.
+C: CORY
+D: You’re a tough girl, Jane. You saved your own life.
+C: JANE
+D: Let’s be honest, I just got lucky. He sits beside her.
+C: CORY
+D: Luck don’t live out here. Luck lives in the city. Whether someone runs the stoplight, whether your bank’s the one that gets robbed, whether someone’s dialing their cellphone when they come to a crosswalk ... Luck is winning or losing. Out here, you survive or you surrender. That’s determined by your strength. You spirit. Wolves don’t kill unlucky deer, they kill weak ones. He leans forward.
+C: CORY
+D: You fought for your life. And now you get to leave with it. He sits back. Stretches his legs out, gets comfortable. She realizes why he’s here -- and it wasn’t to make sure she’s alright. It’s to watch over her until she’s able to watch over herself. He reaches into a stack of magazines, grabs one. Flips through it.
+E: CONT’D
+C: JANE
+D: I know what you’re doing. But she doesn’t object.
+C: CORY
+D: I’ll read something to you ... “How to know if he’s into you -- ten signs. Number one: he looks you in the eye when he speaks.” You’re supposed to do that anyway, ain’t you. I don’t think that one’s reliable ... She can’t help but laugh, can’t help but be moved by the gesture. But laughter brings pain, and thoughts of the day and all she saw ... All she endured. Laughter turns to tears. She fights them at first, but Cory’s hand finds hers. Squeezes, unleashing all she’s fought to contain. She cries like it’s her first time to do so, purging the demons that ravage her mind and heart. He is neither uncomfortable nor surprised. He knew she needed this. We watch her sob as he stretches over the hospital bed, caressing her battered hand. EXT. BULL LAKE -- WIND RIVER INDIAN RESERVATION -- DAY. We look out over a frozen lake. Dead center of it is a small, bright green ICE FISHING HUT. A SNOWMOBILE parked beside it. We PUSH toward it. INT. ICE FISHING HUT -- CONT. Cory and Casey sit on little stools, holding fishing poles. Their lines disappears into a 12 inch hole cut into the ice. They stare at the hole.
+C: CORY
+D: You want your sandwich?
+C: CASEY
+D: No. Beat.
+C: CASEY
+D: Can I have some of your coffee?
+E: CONT’D
+C: CORY
+D: No. They say it’ll stunt your growth.
+C: CASEY
+D: ... What’s that mean?
+C: CORY
+D: It’ll make you short. Beat.
+C: CASEY
+D: I’m already short.
+C: CORY
+D: Not as short as you’ll be if you drink coffee. Beat.
+C: CASEY
+D: Do you like ice fishing?
+C: CORY
+D: Not really. Beat.
+C: CASEY
+D: Me neither.
+C: CORY
+D: Wanna do something else? Casey thinks about that.
+C: CASEY
+D: Nah ... Don’t matter what we do, so long as we’re doing it, you know what I mean? Cory looks at him.
+C: CORY
+D: I do. Casey smiles then looks down to the hole in the ice, never knowing what those words meant to his father. But, if he were to look up and into his eyes -- as we do now -- he would begin to understand. EXT. BULL LAKE -- WIND RIVER INDIAN RESERVATION -- CONT. WE PULL AWAY FROM THE HUT. As we back away, the white world dominates our view in every direction. We RISE. High above the lake, watching the green hut shrink -- the only thing in this place that dares to defy the color of winter.
+N: THE END.

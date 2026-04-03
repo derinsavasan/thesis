@@ -1,0 +1,2778 @@
+M: by
+M: Simon Pegg and Edgar Wright
+S: INT. MTROPOLITAN POLICE STATION. FRONT DESK M DAY
+N: POLICE CONSTABLE NICHOLAS ANGEL bursts through the entrance of a eity police station and [U+FB02]ashes his warrant card.
+C: MALE VOICE (V.0.}
+D: Police Constable Nicholas Angel. INT. METROPOLITAN POLICE STATION - DAY ANGEL strides down a corridor. His collar number reads 777.
+C: MALE VOICE
+D: Born and schooled in London. Graduated from Canterbury University in 1993 with a double [U+FB02]rst in politics and sociology. INSERT: ANGEL at training college standing amongst dopey looking trainees. They wear navy tee shirts and shorts.
+E: V.O.
+C: MALE VOICE (V.0.}
+D: Attended police training college, displaying an impressive aptitude in both field training and theoretical studies. INSERT: ANGEL running in riot gear down an alley, dodging petrol bombs, storming a fake hostage situation, finishing an exam and holding the paper aloft. MALE VOICE Excelled way beyond peers, passed into the Metropolitan Police Service- INSERT: ANGEL surrounded by the same dopey faces as before, this time in full uniform, at a graduation parade.
+E: V.0.}
+C: MALE VOICE
+D: -and soon proved worth as an officer. Establishing both a popularity and an effectiveness in the community- INSERT: ANGEL talking with elderly people, a Chinese family in their native tongue, young offenders in a hall.
+E: V.O.
+C: MALE VOICE (V.0.}
+D: -Furthering his skills with elective training courses in advanced driving- INSERT: ANGEL doing an elaborate skid in a police car.
+C: MALE VOICE
+D: -as well as pioneering the use of the mountain bicycle- INSERT: ANGEL doing an elaborate skid on a police bike. MALE VOICE -and raising of[U+FB02]oe morale with an inventive use of desktop publishing- INSERT: ANGEL pinning up various notices in bright colours; they read ’BIKE SHED’, ’CANTEEN’, ’HATE CRIMES’. MALE VOICE -Also became heavily involved in many extra curricular activities and to this day holds the Met record for the 100 metre dash. INSERT: ANGEL fencing, doing judo, playing chess, bursts through a finishing tape at speed.
+E: V.O. V.O. cont’d V.O. cont’d
+C: MALE VOICE (V.0.}
+D: -In 2001 began operations in a North London armed response unit, Whiskey, Bravo 7- INSERT: ANGEL bursts into a stairwell of an apartment block as part of a heavily armed response team.
+C: MALE VOICE
+D: -and received a bravery award for efforts in the resolution of Operation Crackdcwn- INSERT: ANGEL storms a room where a wild eyed CRACKHEAD holds a family hostage with a KALISHNIKOV. ANGEL responds fast, firing a short burst. His expression is one of shock. MALE VOICE In the last twelve months alone, has received nine special commendations, achieved the highest arrest record for any officer in the borough and sustained three injuries in the line of duty, most recently in December when wounded by a man dressed as Eather Christmas. INSERT: We see [U+FB02]ashes of framed commendations, multiple cuffing and a violent altercation with a wild eyed St. Nick. INT. MTROPOLITAN POLICE STATION. FRONT DESK M DAY POLICE CONSTABLE NICHOLAS ANGEL bursts through the entrance of a city police station and [U+FB02]ashes his warrant card.
+E: V.O. V.O. cont’d
+C: MALE VOICE (V.0.}
+D: Police Constable Nicholas Angel. INT. SERGEANT’S GEEICE - DAY ANGEL sits opposite a jovial SERGEANT of the same age.
+C: SERGEANT
+D: Hello Nicholas. How’s the hand?
+C: ANGEL
+D: Still a bit stiff.
+C: SEEGEANT
+D: Hardly fitting for such a good boy.
+C: ANGEL
+D: I’m sorry Sergeant?
+C: SERGEANT
+D: Getting stabbed by Santa.
+C: ANGEL
+D: Right.
+C: SERGEANT
+D: It can get awfully hairy out there. I’m surprised you hadn’t been snapped up into a nice desk job before. That’s what I did.
+C: ANGEL
+D: I know sergeant. I prefer to think my office is out on the street.
+C: SERGEANT
+D: Indeed you do. Your arrest record is 460% higher than any other officer. And your paperwork is really quite exemplary. You do like to cross the ’I’s and dot the ’T’s.
+C: ANGEL
+D: Dot the ’I’s and cross the ’T’s.
+C: SERGEANT
+D: Exactly. And that’s why it’s high time such skills were put to better use. We’re making you Sergeant.
+C: ANGEL
+D: I see.
+C: SERGEANT
+D: In Sandford, Gloucestershire.
+E: mumbles
+C: ANGEL
+D: In where sorry?
+C: SERGEANT
+D: In Sandford, Gloucestershire.
+C: ANGEL
+D: That’s in the country.
+C: SERGEANT
+D: Yes, lovely.
+C: ANGEL
+D: That’s miles away.
+C: SERGEANT
+D: Lovely.
+C: ANGEL
+D: Is there not a Sergeant’s position in London?
+C: SERGEANT
+D: No.
+C: ANGEL
+D: Well, can I just stay here as a
+C: P.C.? SERGEANT
+D: Nooo.
+C: ANGEL
+D: Do I have any choice in this?
+C: SERGEANT
+D: Noooo.
+C: ANGEL
+D: But, I like it here.
+C: SERGEANT
+D: You always said you wanted to transfer to the country.
+C: ANGEL
+D: In twenty years time maybe.
+C: SERGEANT
+D: Well done you.
+C: ANGEL
+D: Hang on - I don’t actually remember telling you that.
+C: SERGEANT
+D: Yes you did, you said" "I’d love to settle down in the country sometime Janine".
+E: slyly looks at notes
+C: ANGEL
+D: I’d like to talk to the Inspector.
+C: SERGEANT
+D: Hey, fine. You can talk to the Inspector, but I promise he’ll say the same thing as me. INT. SERGEANT’S OFFICE - DAY An equally jovial INSPECTOR sits alongside the SERGEANT.
+C: INSPECTOR
+D: Hello Nicholas. How’s the hand?
+C: ANGEL
+D: Still a bit stiff.
+C: INSPECTOR
+D: How are things at home?
+C: ANGEL
+D: I’m sorry sir?
+C: INSPECTOR
+D: How’s Janine?
+C: ANGEL
+D: We’re no longer together sir-
+C: INSEECTQR
+D: So where are you living now?
+C: SERGEANT
+D: He’s in the Section House sir.
+C: INSPECTOR
+D: With all the recruits?
+C: ANGEL
+D: Temporarily yes, but-
+C: INSPECTOR
+D: Well, we must get you out of there.
+C: SERGEANT
+D: Yes, he’s living out of cardboard boxes.
+C: INSPECTOR
+D: Well, then you’re already packed. Nicholas, we’re offering you a smashing position and a delightful cottage in a lovely little place that’s been voted ’Village of the Year’ I don’t know how many times. It’ll be good for you.
+C: SERGEANT
+D: We’re only asking you to go for nine months.
+C: ANGEL
+D: Nine months!?
+C: INSPECTOR
+D: A year.
+C: SERGEANT
+D: Two years tops.
+C: ANGEL
+D: I really don’t know what to say-
+C: INSPECTOR
+D: Just say yes.
+C: SERGEANT
+D: Just say yes, thank you.
+C: ANGEL
+D: No, I’m sorry sir, I want to-
+C: INSPECTOR
+D: -take this higher?
+C: ANGEL
+D: Yes. Yes I do.
+C: INSPECTOR
+D: You want me to bother the Chief Inspector with this?
+C: ANGEL
+D: Yes I do.
+C: INSPECTOR
+D: You want me to get the Chief Inspector to come all the way down here?
+C: ANGEL
+D: Yes.
+C: INSPECTOR
+D: Okay. Kenneth? The jovial CHIEF INSPECTOR enters. ANGEL stands.
+E: 50’s
+C: CHIEF INSPECTOR
+D: Hello Nicholas. How’s the hand? INSPECTOR & SERGEANT Still a bit stiff.
+C: ANGEL
+D: Chief Inspector-
+C: CEIEF INSPECTOR
+D: Keep your seat. Now, I know what you’re going to say, but the fact is, you’re making us all look bad.
+C: ANGEL
+D: I’m sorry sir?
+C: CHIEF INSPECTOR
+D: Of course we all appreciate your efforts, but you’re rather letting the side down.
+C: ANGEL
+D: But, my record is 406% higher than everyone else.
+C: CHIEF INSPECTOR
+D: Exactly...
+C: ANGEL
+D: I’m not sure I-
+C: CHIEF INSPECTOR
+D: Sometimes you’ve just got to sail the middle path.
+C: INSPECTOR
+D: It’s all about being a team player, Nicholas.
+C: SERGEANT
+D: You can’t be the Sheriff of London.
+C: CHIEF INSPECTOR
+D: If we let you carry on running around town, you’ll just continue to be exceptional and we can’t have that. You’ll put us all out of a job.
+C: ANGEL
+D: With the greatest respect, sir. You can’t just make people disappear.
+C: CHIEF INSPECTOR
+D: Yes I can. I’m the Chief Inspector.
+C: INSPECTOR
+D: No one’s disappearing, Sergeant.
+C: ANGEL
+D: However you spin this, there’s one thing you haven’t counted on. And that’s what the ’team’ are going to make of this. ANGEL exits the office and is greeted by every officer in the force, clasping plastic glasses. A makeshift sign made from colour photocopied sheets reads ’GOOD LUCK NICHOLAS’. INT. GROUNE FLOOR ESTATE FLAT - DAY A group of Crime Scene Investigators dressed in white protective suits, face masks and goggles, work in a blood spattered room. A mobile rings. One of the CSI’s picks up.
+C: JANINE
+D: Hello.
+C: ANGEL (O.S.}
+D: Janine. It’s me.
+C: JANINE
+D: I know. I’m at work.
+C: ANGEL
+D: I know. I’m outside. JANINE turns to see ANGEL outside the window on his mobile.
+E: O.S.
+C: ANGEL (CONT’C}
+D: What’s the situation?
+C: JANINE
+D: You know the situation. We’ve been over this.
+C: ANGEL
+D: I meant here.
+C: JANINE
+D: Two people involved, distinct signs of a struggle. A complete mess.
+C: ANGEL
+D: You are talking about here?
+C: JANINE
+D: Nicholas, what do you want?
+C: ANGEL
+D: I need to tell you something and I didn’t want to do it over the phone. ANGEL disappears. Beat. He re-enters moments later and approaches the hallway door. He sees JANINE.
+C: ANGEL
+D: Janine, I’m being transferred. I’m going away for a while-
+E: CONT’D
+C: MALE CSI
+D: I’m not Janine. A cough. ANGEL turns to find JANINE standing to his right.
+C: ANGEL
+D: Janine, I’m being transferred. I’m going away for a while.
+C: JANINE
+D: I know. Bob told me. Another CSI walks past and waves to ANGEL.
+C: BOB
+D: Alright?
+C: ANGEL
+D: I just wanted to tell you in person. There’s no reason why we can’t be civil with each other. It’s not so long ago that we were talking about getting married.
+C: JANINE
+D: Yes but you were already married to the force weren’t you?
+C: ANGEL
+D: We’re actually supposed to refer to it as ’the service’ now. Of[U+FB02]oial’vocab guidelines state that ’force’ sounds too aggressive.
+C: JANINE
+D: See that’s it. It’s only ever about the job. It’s all you care about.
+C: ANGEL
+D: That’s not true.
+C: JANINE
+D: No, you’re right, you do have that rubber plant.
+C: ANGEL
+D: It’s actually a Peace Lily.
+C: JANINE
+D: You just can’t switch off Nicholas. JANINE whips off her goggles for emphasis. We are still no wiser as to what she looks like. JANINE And until you find a person you care about more than your job, you never will. Besides you were the one who suggested we take a break.
+E: cont’d
+C: ANGEL
+D: Yeah well, guilty people usually make the first move.
+C: JANINE
+D: Actually there’s something I need to tell you too.
+C: ANGEL
+D: You’re seeing somebody.
+C: JANINE
+D: Yes. How did you-?
+C: ANGEL
+D: Is it Bob? We see BOB dusting for prints.
+C: JANINE
+D: No. Does Bob look like the kind of person I’d go out with?...It’s Dave. She gestures to an identical CSI. He waves to ANGEL.
+C: DAVE
+D: Alright? ANGEL looks down and stares at the [U+FB02]oor. JANINE softens.
+C: JANINE
+D: Oh, Nicholas-
+C: ANGEL
+D: You do know that window’s been broken from the inside? The CSIs look to the broken window. JANINE hangs her head. INT. SECTION HOUSE CORRIDOR/BEDROOM - DAY We prowl down the corridor of a dormitory to a tiny bedroom. ANGEL packs a large red suitcase and takes down photos from the wall; a blonde child in a toy police car, an article reading ’HERO GUN COP SAVES FAMILY’. Three FRESH FACED RECRUITS appear at the door.
+C: RECRUIT
+D: Is it true you’re leaving sir?
+C: ANGEL
+D: Yes it is true.
+C: RECRUIT
+D: Is it okay if we have your milk? INT/EXT. TITLES/TRAVEL NONTAGE - DAY - DUSK ANGEL leaves the section house, striking a lonely figure on the pavement with his suitcase and pot plant under his arm... ...ANGEL cradles his POT PLANT on a crowded TUBE TRAIN... ...ANGEL reads The Guardian on an INTER-CITY TRAIN and eats tofu from a lunch box. Urban landscapes whisr by... ...ANGEL and his POT PLANT at a deserted train station... ...ANGEL sits on a connecting shuttle train. The reception bars on his mobile deplete. Street lights whizz by... ...ANGEL sits in a minicab in semi darkness. Out of the window a sign looms: ’WELCOME TO SANDEORD’, ’THE COMMUNITY THAT CARES’. It features a picture of castle ruins. ...Signs whizz by; one pointing to the ’MODEL VILLAGE’, a large [U+FB02]oral display reading ’SANDFOED, VILLAGE OF THE YEAR’, a NEIGHBOURHOOD WATCH sign. We see a local church surrounded in scaffolding. Rain spots the cab window. EXT. SANDEORD VILLAGE SQUARE - EVENING The minicab pulls away, leaving ANGEL, a lonely figure on the pavement, the pot plant under his arm. INT. SWAN HOTEL RECEPTION - NIGHT ANGEL comes in to the reception of an up-market guest house, with twee living room furnishings in the foyer. A VERY OLD MAN snores in an armchair. We see a poster for a production of ROMEO AND JULIET. An ornamental sword is mounted above a front desk where a MIDDLE-AGED WOMAN presides. She doesn’t look up.
+C: WOMAN
+D: It would appear the heavens have opened.
+C: ANGEL
+D: I was hoping I could check in.
+C: WOMAN
+D: Check in? But you’ve always been here.
+C: ANGEL
+D: Excuse me?
+C: WOMAN
+D: I’m sorry, I thought you were my husband. You must be Sgt. Angel.
+E: peering through specs
+C: ANGEL
+D: Um, yes I am.
+C: JOYCE COOPER
+D: I’m Joyce Cooper. I trust you had a pleasant trip. Fascist.
+C: ANGEL
+D: I beg your pardon?
+C: JOYCE COOPER
+D: System of Government characterised by extreme dictatorship. Seven across. MRS. COOPER motions to the crossword she’s been doing.
+C: ANGEL
+D: Ah. I believe that’s ’fascism’.
+C: JOYCE COOPER
+D: Fascism? Wonderful. We’ve put you in the ’Castle Suite’. It’s on the second [U+FB02]oor. Bernard will escort you up. She motions to the OLD MAN in the foyer. For a moment he looks dead but a prodigious snore proves otherwise.
+C: ANGEL
+D: It’s okay. I’m sure I can make my own way up. Hag.
+C: JOYCE COOPER
+D: I beg your pardon?
+C: ANGEL
+D: Evil old woman considered ugly or frightful. 12 down.
+C: JOYCE COOPER
+D: Bless you. INT. SWAN HOTEL CORRIDOR/ROOM - DAY ANGEL approaches a door marked CASTLE SUITE. He unlocks it and enters. The room is quaint but identical in dimension to his previous accomodation. ANGEL takes off his jacket and places his POT PLANT on the windowsill. It’s deathly quiet. ANGEL grabs his jacket again. EXT. SANDFORD SQUARE - NIGHT The rain now stopped, ANGEL walks the empty streets. He hears signs of life from the pub. He heads towards it, passing the village fountain, where a group of young children gather. Chatting, leaning on skateboards, they all wear hooded tops. ANGEL frowns and glances at his watch. As he passes, the HOODIES all stare after him. INT. THE CROWN - NIGHT ANGEL cautiously enters a lively pub, complete with rustic farming equipment and a cheery landlord and landlady.
+C: ROTUND DRINKER
+D: Pint of lager, please Mary.
+C: MARY PORTER
+D: Right you are my love.
+C: ROY PORTER
+D: Yes sir, what can I get you?
+C: ANGEL
+D: Could I have a glass of the... cranberry juice please?
+C: ROY PORTER
+D: Certainly. Now, you wouldn’t, by any chance, be the new policeman?
+C: ANGEL
+D: Police officer, yes. My name is Nicholas Angel.
+C: ROY PORTER
+D: Thought so. I’m Roy Porter and this is my wife Mary.
+C: MARY PORTER
+D: Welcome to Sandford. If there’s anything you need, let us know.
+C: ANGEL
+D: Thanks. Could I borrow your paper? ANGEL points to a ’SANDFORD CITIZEN’ on the bar.
+C: MARY PORTER
+D: It’s not ours love.
+C: ROY PORTER
+D: Not big fans of the local fishwrapper, are we Mare? They listed her age as 55"
+C: MARY PORTER
+D: -when I’m actually 53.
+C: ROTUND DRINKER
+D: Pint of lager, please Mary.
+C: MARY PORTER
+D: Right you are my love. INT. THE CROWN - NIGHT ANGEL sits on a stool at the bar reading the paper - A suspiciously young laugh draws ANGEL’s attention. Some drinkers at the bar look very fresh faced. Others drink beer through straws. Another drinker guffaws, his BRACES glint. ANGEL is dazzled. He looks to a sign reading ’IT IS ILLEGAL TO SELL ALCOHOL TO ANYONE UNDER THE AGE OF 18’. INT. THE CROWN - CONTINUOUS ANGEL strides over to the table of straw drinkers.
+E: Headlines read ’MYSTERY SURROUNDS PROPOSED EIPASS’
+C: ANGEL
+D: Excuse me. When’s your birthday?
+C: YOUNGSTE
+D: 22nd of February.
+C: ANGEL
+D: What year?
+C: YOUNGSTER
+D: Every year.
+C: ANGEL
+D: Okay. Get out. JUMPCUT. ANGEL talks to the YOUNGSTER with terrible acne. YOUNGSTE 2 Eighth of May, 1968.
+C: ANGEL
+D: You’re 37? YOUNGSTER 2 ...Yeah.
+C: ANGEL
+D: Get out. JUMPCUT. A high voiced YOUNGSTER with braces. YOUNGSTER 3 Ummm...
+C: ANGEL
+D: Out.
+C: ROY PORTER
+D: Is there a problem officer?
+C: ANGEL
+D: Yes there is. An awful lot of your patrons appear to be underage Mr. Porter.
+C: ROY PORTER
+D: Well, a few of them may be a month or two south of proper. But if they’re in here, it stops them getting into trouble out there-
+C: MARY PORTER
+D: -doing their business in the street, having fisticuffs, nicking traf[U+FB02]c cones-
+C: ROY PORTER
+D: The way we see it, it’s all about the greater good.
+C: MARY PORTER
+D: ...the greater good.
+C: ANGEL
+D: That may be, but the law’s the law. They’ll all have to go.
+C: MARY PORTER/ROY PORTER
+D: Oh. EXT. THE CROWN - NIGHT A grumbling group of teens stomp out of the pub. INT. THE CROWN - NIGHT ANGEL is sat back at the bar. The pub is now almost empty. The PORTERS are not so cheery now.
+C: ROY PORTER
+D: Another cranberry juice?
+C: ANGEL
+D: I’m fine thank you. EXT. THE CROWN - NIGHT ANGEL strolls out of the pub and walks past the fountain. He tosses a coin in and takes time to observe the plague; ’This fountain was generously’restored with funds raised by Mr F. Butterman, Mrs J. Cooper, Mr R. Hatcher, Miss A. Paver...’ A metallic scratching distracts ANGEL. He sees the ROTUND DRINKER trying to put his key in the lock of an ASTRA.
+C: ANGEL
+D: I hope you’re not thinking of driving that.
+C: ROTUND DRINKER
+D: Nope. The ROTUND ERINKER stumbles away from the car. ANGEL turns back and notices that the plague has been vandalised with a marker pen graffiti tag which appears to be a ’G’. An engine revs behind ANGEL. He jumps back as the ASTRA reverses into the fountain with a resounding crash. He storms over to the driver’s door and hauls the ROTUNO DRINKER out, who immediately and loudly throws up.
+C: ANGEL
+D: I’m taking you down the station... Where is it? ANGEL escorts the ROTUND DRINKER by the collar. Up ahead, the underage drinkers pisses in the street. ANGEL coughs.
+C: UNDERAGE DRINKER
+D: What? INT. SANDFOED STATION/FRONT OFFICE - NIGHT ANGEL strides in with the ROTUND DRINKER and the UNDERAGE DRINKER. He has also picked up three other underage drinkers, two scuffed from brawling and one with a traffic cone on his head. He [U+FB02]ashes his card to a cheery DESK
+C: SERGEANT. DESK SERGEANT
+D: Sergeant Nicholas Angel? When did you start?
+C: ANGEL
+D: Tomorrow.
+C: DESK SERGEANT
+D: I see you’ve already arrested the whole village.
+C: ANGEL
+D: Not exactly. The DESK SERGEANT looks to the ROTUND DRINKER and laughs. The ROTUNE DRINKER stumbles over to a connecting door.
+C: DESK SERGEANT
+D: You in for the night? Four’s free.
+C: ANGEL
+D: I need to talk to him.
+C: DESK SERGEANT
+D: He’ll be no use til the morning. Do you really want to process this lot? My pen’s running out.
+C: ANGEL
+D: Not a problem. ANGEL retrieves two pens from his pocket. Cue ELASHCUTS of detainees being processed, fingerprints taken, heights measured; . INT. SWAN HOTEL ROOM - NIGHT ANGEL lies on his bed, staring at the ceiling. INT. SWAN HOTEL ROOM - MORNING JUMP CUT to the next morning. The bed is empty. EXT. HIGH STREET - MORNING ANGEL in sweats, jogs out of the hotel. In the daylight, Sandford looks beautiful and idyllic. JOYCE COOPER is up a ladder, watering her hanging baskets. She greets ANGEL cheerily. He passes other early birds who do the same; a FEMALE NEWSAGENT setting out her paper stand, a EOOKISH WOMAN on a bicycle, a cheery VICAR, a dishy
+E: the TRAFFIC CONE kid, unable to remove his headgear is recorded as 8’ 2"
+C: DOCTOR.
+D: ANGEL sees the crashed ASTRA being towed away by a removal vehicle operated by two GRUFF LOOKING MEN. They nod to him.
+C: MAN
+D: Lock me up? Another jogger stops by ANGEL. He has a ready smirk and a confident air. He wears a ’SANDFORD FUN RUNNERS’ t-shirt.
+E: O.S.
+C: ANGEL
+D: Sorry?
+C: MAN
+D: I’m a slasher and I must be stopped.
+C: ANGEL
+D: You’re a what?
+C: MAN
+D: A slasher...of prices. I’m joking of course. I’m Simon Skinner, I run the local Super Marche. SIMON SKINNER nods to a supermarket named SUMMRAISLES. Pop in some time, my discounts are criminal. Catch me later. SKINNER accelerates into a sprint, leaving a bemused ANGEL at the door of his hotel. ANGEL strides inside. INT. SANDFORD FRONT OFFICE - MORNING ANGEL strides into the station, now in full uniform. The same DESK SERGEANT is there as before. Although he is now sour faced and has curly hair. ANGEL is a tad confused.
+C: ANGEL
+D: Morning Sergeant. Have you done something with your hair?
+C: DESK SERGEANT
+D: No.
+C: ANGEL
+D: Well, could you tell Inspector Butterman that I’ve arrived?
+C: DESK SERGEANT
+D: No.
+C: ANGEL
+D: Why?
+C: DESK SERGEANT
+D: He’s not in yet.
+C: ANGEL
+D: I see. How’s our guest?
+C: DESK SERGEANT
+D: Guest?
+C: ANGEL
+D: The inebriate in cell four.
+C: DESK SERGEANT
+D: I dunno. Nobody tells me nothing. ANGEL walks over to Cell Four and looks through the observation hatch. Panic spreads across his face.
+C: ANGEL
+D: Can I get cell four open?
+C: DESK SERGEANT
+D: Danny, can you open four?
+E: O.S.
+C: ANGEL
+D: Quickly please?
+C: DESK SERGEANT
+D: Quickly...please! An OFFICER opens the cell. ANGEL walks in to find it empty.
+E: O.S.
+C: ANGEL
+D: He’s gone.
+C: OFFICER
+D: Oh my god? Who’s gone? We see that the OFFICER is the ROTUND DRINKER.
+C: ANGEL
+D: Why are you dressed as a police officer?
+C: OFFICER
+D: Because I am one? A jovial man enters the cell in senior officer’s garb.
+C: FRANK
+D: Sergeant Angel, at last. I see you’ve already met my boy. INT. FRANK’S OFFICE - DAY FRANK’s office is adorned with CERTIFICATES, including ’VILLAGE OF THE YEAR’ plagues, along with a POLICE a glass case and two mounted ANTIQUE PISTOLS. We also see a photo of a younger FRANK and DANNY dressed as cowboys and a middle aged woman dressed as a sguaw.
+C: FRANK
+D: Do forgive me. I’m something of a wild west nut. Speaking of which, that was a fair few outlaws you rounded up last night.
+C: ANGEL
+D: Thank you sir.
+C: FRANK
+D: I admire your enthusiasm Nicholas and far be it from me to sti[U+FB02]e your [U+FB02]air, but this isn’t London.
+C: ANGEL
+D: With respect sir, geographical location shouldn’t factor in the application of the law.
+C: FRANK
+D: But coming in all guns blaring can sometimes exacerbate matters, you know make things worse?
+C: ANGEL
+D: I’m aware of the meaning of exacerbate, sir.
+C: FRANK
+D: Of course you are. Statistically, Sandford is the safest village in the country but that doesn’t mean it reguires anything less than a careful and considered approach. There’s a reason we accommodate a few of the younglings at the pub.
+C: ANGEL
+D: The greater good?
+C: FRANK
+D: The greater good. Precisely! Your predecessor assumed rural policing was easy. Ended up having a nervous breakdown. And Sgt. Popwell was an exceptional officer, truly exceptional. And he had one thing you haven’t got.
+C: ANGEL
+D: What’s that sir?
+C: FRANK
+D: A great big bushy beard! Come on. Let’s have a mosey around. INT. STATION - DAY FRANK shows ANGEL the locker room. DANNY lags behind.
+C: FRANK
+D: Locker room. FRANK opens a door on a musty collection of riot gear.
+C: FRANK
+D: Riot room. A HEDGEHOG is startled by the rare intrusion. FRANK approaches another door with a security keypad. FRANK And this here’s the evidence room. What’s the code again?
+E: CONT’D CONT’D cont’d
+C: DANNY
+D: 999, Dad.
+C: FRANK
+D: You’d think I’d remember that. FRANK opens the evidence locker. It’s surprisingly empty.
+C: FRANK (CONT’ D}
+D: Now, how about a trip to the Andes? FRANK leads them to a door marked ’C.I.D’. Inside are two thirty something plain clothes officers with cropped hair, and tashes. On their small desk are two plates of cake.
+C: FRANK
+D: Detective Sergeant Wainwright and Detective Constable Cartwright. CARTWRIGHT and WAINWRIGHT stare back at ANGEL with disdain.
+C: FRANK
+D: Don’t get up. They leave and continue down the corridor.
+E: CONT’D
+C: FRANK
+D: I suspect you’re wondering why we call them the Andes.
+C: ANGEL
+D: Because they’re both called Andrew?
+C: FRANK
+D: They said you were good.
+C: DANNY
+D: It’s also because talking te them is a uphill struggle, innit Dad? A wastepaper basket sails out of the Andes office and hits Eanny on the head. DANNY Oh fuck eff?
+E: cont’d
+C: FRANK
+D: Thank you Danny. A battered tin reads ’SWEARBOX’. DANNY dreps a quid in.
+C: FRANK
+D: The swearbox. All proceeds to the restoration of the church roof. FRANK shows ANGEL into the operations room, where uniformed officers bunch together at oramped desks.
+E: O.S.
+C: FRANK
+D: And this is where it all happens- We hear a solitary Apple start-up chime. FRANK That’s Sergeant Tony Fisher, that’s PC Bob Walker and that is Saxon. FISHER reedy, fixed grin. WALKER bald, grizzled with a large Alsatian. All three are eating cake.
+E: cont’d 40’s 50’s
+C: WALKER
+D: Pleshnrertoaveyeenbordsarg.
+C: FRANK
+D: And this is one Doris Thatcher.
+C: DANNY
+D: She’s our only police woman.
+C: ANGEL
+D: She’s not a police woman.
+C: DANNY
+D: She is. I’ve seen her bra.
+C: ANGEL
+D: She’s a police officer, being a woman has nothing to do with it.
+C: DORIS TRATCHER
+D: Oh, I don’t knew. It comes in handy every so often. The rosy faced officer winks lewdly at a blushing ANGEL. DORIS TRATCHER I ceuld’ve given you the tour. I’ve been round the station a few times. The office erupts into bawdy cheers. ANGEL is keen to move on. He points to a door marked ’N.W.A’.
+E: cont’d
+C: ANGEL
+D: What’s upstairs? A little besuited man opens the door. On the table of his tiny, folder crammed office is a plate of chocolate cake.
+C: WEAVER
+D: Well, well, well, I see we have Visitors.
+C: FRANK
+D: Nicholas, this is Tom Weaver"
+C: WEAVER
+D: Civilian liaison for the Neighbourhood Watch at your service.
+C: ANGEL
+D: Good to meet you.
+C: WEAVER
+D: You’ll find we run a tight ship here. Got everyone linked up with a walkie so we can keep eaoh other abreast of any misadventure. And from here WEAVER opens a connecting door to a room full of monitors. WEAVER I can see what the whole village is up to. I must say I was rather admiring your handiwork last night. Chuckling WEAVER cues up CCTV footage of ANGEL’s run-ins. We also see footage of HOODIES huddled around the fountain. WEAVER Shame you couldn’t have done the same with those bloody hoodies. Hanging around. Loitering. Sitting.
+E: cont’d cont’d
+C: ANGEL
+D: I did notice some minor graffiti on the fountain.
+C: WEAVER
+D: Graffiti? I knew they were up to something! They need to be dealt with Frank?
+C: FRANK
+D: They’re nippers Tom. They’ll come round.
+C: ANGEL
+D: Yes, this kind of transgression usually stems from boredom. Ever thought about building them a skate park? Or providing a designated wall for a graf[U+FB02]ti mural? WEAVER looks at ANGEL and lets out a huge guffaw.
+C: WEAVER
+D: Ha? That’s all we need on the team, another bloody joker. Which reminds me, our friend the living statue’s back. He was there Saturday. WEAVER [U+FB02]icks through CCTV printouts of a street performer dressed as a STATUE. They are all identical. WEAVER Look 11am, 12pm, lunchtime, 2pm. If we don’t come down hard on these clowns, we’ll be up to our balls in jugglers.
+E: cont’d
+C: FRANK
+D: Perish the thought.
+C: WEAVER
+D: I tried to move him on myself but it cost me twenty quid in fifty pees and took four hours.
+C: FRANK
+D: We’ll get right onto it, Tom. They leave. FRANK scrunches up the printouts into a hall, and throws it to DANNY, who heads it into the bin. FRANK We like to let them think they run the place. Now, confession to make, bit of a problem with your office.
+E: cont’d
+C: ANGEL
+D: Well sir, I like to think my office is out on the street-
+C: FRANK
+D: Oh, you heard about that? He nods to office furniture sat out front of the station. FRANK Had a bit of a leak last week. FRANK opens a door to reveal a damp, bare tiny office. FRANK I know it’s not a great start on the welcome front. They brought the ’Village Of The Year’ forward for some reason and everyone’s gone a bit mad getting ready for it. We’ll get you behind your desk as soon as the [U+FB02]oor’s dry. FRANK shuts the door. They move back to the main of[U+FB02]oe. FRANK And that’s that. Unless there’s anything you’re unclear about?
+E: cont’d cont’d cont’d
+C: ANGEL
+D: There is sir. Why is everyone eating chocolate cake?
+C: FRANK
+D: The Black Forest Gateaux is on Danny. As punishment for his little indiscretion.
+C: ANGEL
+D: I Wouldn’t call driving under the influence a ’little indiscretion’, ANGEL sir. Besides, where’s the disciplinary value if Constable Butterman gets to partake of the Gateaux as well? He’s having his cake and eating it. Literally.
+E: MORE cont’d
+C: FRANK
+D: The gateau is for misplaoing his helmet the other week. Last night’s incident will require something much more serious.
+E: chuckles
+C: ANGEL
+D: Good.
+C: FRANK
+D: Do you like ice cream?
+C: ANGEL
+D: I’m sorry, I don’t follow sir.
+C: FRANK
+D: Let’s just say we won’t be short of Chunky Monkey for the next month. The officers cheer. ANGEL visibly sags. FRANK Well, since it’s your hrst day and it’s half past eleven, I’d say that’s lunch. Another cheer from the assembled officers. INT. THE CROWN - DAY ANGEL is sat at a pub table with the other offieers . DANNY brings pints to everyone but ANGEL, who has a cranberry juice. SAXON laps at a bowl of lager
+E: cont’d only he wears a stab vest
+C: FISHER
+D: Sooooo, what made you choose Sandford Sergeant Angel?
+C: ANGEL
+D: It wasn’t actually my choice.
+C: FISHER
+D: Wasn’t your choice to come down here and show me how to do my job. Our jobs.
+C: WALKER
+D: Yooceetyboisefinkdeynobettarrr. There’s a murmur of agreement. ANGEL is a little oonfused.
+C: ANGEL
+D: I can assure you it wasn’t my intention to upset the apple cart.
+C: CARTWRIGHT
+D: Yeah, cos we all sell apples down here, don’t we?
+C: DANNY
+D: Your Dad sells apples Andy.
+C: CARTWRIGHT
+D: And raspberries.
+C: WAINWRIGHT
+D: I bet you can’t wait to jump into Sergeant Fopwell’s grave. WAINWRIGHT swigs Guinness, the head collects on his lip.
+C: ANGEL
+D: I’m not jumping in anyone’s grave. You have a moustache.
+C: WAINWRIGHT
+D: I know.
+C: CARTWRIGHT
+D: Why’ve you got your stab vest on?
+C: ANGEL
+D: It’s a requirement.
+C: FISHER
+D: In the city maybe. No-one’s going to stab you in here sergeant, not a member of the public anyhow.
+C: ANGEL
+D: Have you ever been stabbed Sergeant Fisher?
+C: FISHER
+D: No.
+C: ANGEL
+D: I have. And I can assure you it’s not the slightest bit amusing. DANNY’s ears prick up, he looks to ANGEL with awe.
+C: DANNY
+D: Have you seen a lot of action Sergeant Angel?
+C: ANGEL
+D: I’ve experienced my fair share, yes.
+C: WAINWRIGHT
+D: Little bird tells me you were part of an armed response unit.
+C: ANGEL
+D: What little bird would that be?
+C: CARTWRIGHT
+D: Andy googled you.
+C: DORIS THATCHER
+D: I wish someone would google me.
+C: DANNY
+D: Were you part of an armed response unit?
+C: ANGEL
+D: Yes, for two years. grave.
+C: DANNY
+D: Did you cook any fools?
+C: ANGEL
+D: Excuse me?
+C: DANNY
+D: Did you shoot anybody?
+C: CARTWRIGHT
+D: Shot someone? He killed someone.
+C: DANNY
+D: No way, that’s amazing.
+C: ANGEL
+D: It was not amazing, it was extremely regrettable, but the situation left me with no choice.
+C: DANNY
+D: Who did you shoot?
+C: WAINWRIGHT
+D: He shot a crack-head with a Kalashnikov.
+C: DANNY
+D: Wow. Where d’you get that? .
+C: ANGEL
+D: The offender had the Kalashnikov.
+C: DANNY
+D: Wow. Where’d he get that?
+C: WAINWRIGHT
+D: You do know there are more guns in the country than in the city?
+C: CARTWRIGHT
+D: Everyone and their mum’s packing round here.
+C: ANGEL
+D: Really, like who? CARTNRIGHT nods to a tall, ruddy, farmer at the bar.
+C: CARTWRIGHT
+D: Farmers.
+C: ANGEL
+D: Anyone else?
+C: CARTWRIGHT
+D: Farmer’s mums. DANNY pulls his chair closer to the bemused ANGEL.
+C: DANNY
+D: What’s it like being stabbed?
+C: ANGEL
+D: It was the single most painful experience of my life.
+C: DANNY
+D: Wow. What’s the second most painful? INT. ANGEL’S OFFICE - DAY A glum ANGEL sits at his desk. Two men manoeuvre a filing cabinet into the office. A man appears from under his desk, placing a phone in front of him. It rings. ANGEL answers.
+C: FRANK
+D: Everything alright?
+E: O.S.
+C: ANGEL
+D: Actually sir- INT. FRANK’S OFFICE - SECONDS LATER
+C: ANGEL
+D: -there is something I want to talk to you about.
+C: FRANK
+D: Oh yes?
+C: ANGEL
+D: I’m a little concerned that my appointment here may be causing resentment within the division.
+C: FRANK
+D: Oh really? So what do you suggest? INT. STATION " SOME MORE SECONDS LATER. ANGEL steps out of Frank’s office. He gets the attention of the assembled officers. They stop eating their cake.
+C: ANGEL
+D: Excuse me everyone. If you could put your gateau down for a sec. In order to maximise my integration here at Sandford, I’ve asked the Inspector to permit me a more grass roots introduction.
+C: DORIS THATCHER
+D: Root. Ha ha.
+C: ANGEL
+D: I’m hoping that getting out on the beat and familiarising myself with the area in this way, might dispel any concerns about my suitabilty. Thank you. There’s a vague affirmative murmur from the other officers.
+C: ANGEL
+D: Basically, I’d just like to be treated like any other officer at this station. ANGEL turns his back. A WASTE PAPER BASKET hits him hard on the head. The officers snigger.
+C: ANGEL
+D: That could have actually really hurt someone. But... thank you. ANGEL re-enters FRANK’s office. FRANK looks concerned.
+C: FRANK
+D: You sure about this?
+C: ANGEL
+D: Yes sir.
+C: FRANK
+D: Well, I suppose, we should get you out there with someone who really knows what’s what. And I think I have just the man...DANNY! EXT. HIGN STREET - DAY A glum cap wearing ANGEL and chirpy helmet wearing DANNY, walk the streets. Village folk greet them with ’Afternoon’.
+C: DANNY
+D: Have you ever fired two guns whilst jumping through the air?
+C: ANGEL
+D: Afternoon. No.
+C: DANNY
+D: Have you ever fired one gun whilst jumping through the air?
+C: ANGEL
+D: Afternoon. No.
+C: DANNY
+D: Have you ever been in a high speed pursuit?
+C: ANGEL
+D: Afternoon. Yes.
+C: DANNY
+D: Have you ever fired a gun whilst in a high speed pursuit?
+C: ANGEL
+D: Afternoon. No. INT. NEWSAGENT - DAY A sign reads ’ONLY ONE SCHOOL CHILD AT ANY TIME’. ANGEL waits as DANNY buys a pasty from a FEMALE NEWSAGENT. A walkie talkie crackles to life on the counter.
+C: RADIO VOICE
+D: Annette, that new policeman is coming into your shop. EXT/INT. SQUAD CAR - DAY ANGEL and DANNY sit in the parked squad car; ANGEL is on the radio, watching with disdain as DANNY retrieves ketchup sachets from his top pocket and squirts them onto a pasty.
+C: ANGEL
+D: Oscar four zero, over.
+C: RADIO VOICE
+D: Oscar four zero go ahead, over.
+C: ANGEL
+D: Just checking... EXT. HIGH STREET - EVENING ANGEL and DANNY walk the quiet streets again.
+C: DANNY
+D: What about Dirty Harry?
+C: ANGEL
+D: Evening. No.
+C: DANNY
+D: Lethal Weapon.
+C: ANGEL
+D: Evening. No.
+C: DANNY
+D: You’ve seen Die Hard though?
+C: ANGEL
+D: Evening. No.
+C: DANNY
+D: Bad Boys 2?
+C: ANGEL
+D: Evening. No.
+C: DANNY
+D: You haven’t seen Bad Boys 2?? INT. LOCKER ROOM - EVENING ANGEL and a pumped DANNY change out of their uniforms.
+C: DANNY
+D: Woof? Hell of a day.
+C: ANGEL
+D: Yep.
+C: DANNY
+D: Same again tomorrow?
+C: ANGEL
+D: Yep. ANGEL opens his locker. Hundreds of apples tumble out. Inside a note reads ’WELCOME SERGEANT’.
+C: DANNY
+D: That weren’t me. The other officers appear, sniggering; the ANDES, FISHER and THATCHER, who is in her bra. We hear a round of applause. INT. SWAN HOTEL FUNCTION ROOM - EVENING The applause continues over a sign reading ’N.W.A - 7pm’. TOM WEAVER introduces ANGEL to a large group of Village folk, including JOYCE COOPER and the PORTERS. FRANK is also present, as is a snoring BERNARD. WEAVER introduces the BOOKISH CYCLIST glimpsed that morning.
+C: WEAVER
+D: This is Amanda Paver, headmistress of Sandford Primary. And Simon Skinner I believe you’ve met.
+C: SIMON SKINNER
+D: Oh we’re already firm friends. SIMON SKINNER beams at ANGEL, who is a little unnerved. A middle aged woman fusses over a [U+FB02]oral display reading
+C: ’WELCOME SERGEANT’. WEAVER
+D: And this is Leslie Tiller, our local [U+FB02]oral wiz. Her horticultural contributions have helped put Sandford on the map. She prepared this especially for you.
+C: JOYCE COOPER
+D: She’s ever so good.
+C: WEAVER
+D: James Reaper, who owns Brannigan Farm. WEAVER introduces the tall, ruddy, farmer from the bar.
+C: REAPER
+D: I hear you’re quite the marksman. Perhaps you might like to join us for a shoot one day.
+C: ANGEL
+D: I haven’t held a firearm for over two years Mr. Reaper and I’m more than happy to keep it that way.
+C: REAPER
+D: You will be popular with the local birds. A ripple of polite laughter as the group gather round and sit at a large circular table. SKINNER stares at ANGEL, grinning.
+C: REV. SHOOTER
+D: Hello Nicholas. Reverend Shooter. May I say how pleased we are to have an Angel at our table. Actually I was hoping you might read a homily at Sunday Service.
+E: more laughter
+C: ANGEL
+D: To be honest Reverend, that might be a little hypocritical of me.
+C: REV. SHOOTER
+D: Oh, are we an atheist?
+C: ANGEL
+D: No, I’m open to the concept of religion, I’m just not entirely convinced.
+C: REV. SHOOTER
+D: You’re agnostic?
+C: DR. HATCHER
+D: I think I have a cream for that. More laughter. WEAVER nods to a tweedy, bearded doctor.
+C: WEAVER
+D: And this is Robin Hatcher our resident sawbones.
+C: DR. HATCHER
+D: Hopefully we won’t see too much of each other over the coming months. DR. HATCHER smiles at ANGEL. More laughter.
+C: WEAVER
+D: All that remains to say is, welcome to the weekly meeting of the Neighbourhood Watch Alliance.
+C: READER
+D: We’re basically a group of volunteers who strive to keep the village just so.
+C: SHOOTER
+D: We’re the community that cares.
+C: ANGEL
+D: Well, it’s good to know we have the support of the community.
+C: HATCHER
+D: Well, not the whole community.
+C: SKINNER
+D: We don’t let any old riff raff in. A huge laugh. JOYCE COOPER brings the meeting to order.
+C: JOYCE COOPER
+D: Now, quick announcement before we begin. Janet Barker has just given birth to twins. Congratulations to her, we’ll be keeping a keen eye on them as they grow up. Tom?
+C: WEAVER
+D: Thanks Joyce. To business then. WEAVER affects a deadly earnest tone of voice. WEAVER I’m sure many of you will have noticed the return of a blight on our streets, one which is all the more disturbing as the ’Village Of The Year’ contest looms. I speak of course of the extremely irritating Living Statue. An image of the LIVING STATUE on an overhead projector. There are mumbles of "irritating". ANGEL stifles a yawn. FRANK smiles and pats him on the back. INT. SWAN HOTEL ROOM - EVENING - MONTAGE ANGEL listens to the radio and waters his POT PLANT. RADIO 4 ANNOUNCER Newly released Home Office statistics show crime in the capital soaring... Later: A dejected ANGEL is on the phone. We hear the recorded voice of the MET SERGEANT, from the first scene.
+E: cont’d O.S.
+C: SERGEANT
+D: I’m out of the office at present. If it’s an emergency, call 9-9-9... Later: ANGEL lies awake on his bed. His [U+FB02]oral tribute appears almost funereal against the wall.
+E: V.O.
+C: ANGEL
+D: Police work is as much about preventing crime as it is about fighting crime. Most importantly it is about procedural correctness...
+E: V.O.
+C: ANGEL
+D: -in the execution of unquestionable moral authority. Any questions? We see ANGEL is talking to a group of young school kids. DANNY sits cross legged with them. He puts his hand up.
+C: DANNY
+D: Is it true if you shot a man in a particular spot on the head, you can make it blow up? Later: ANGEL and DANNY talk to headmistress AMANDA PAVER. A wiry young reporter approaches with a camera.
+C: TIM MESSENGER
+D: Hi, Tim Messenger. Quick snap for the Sandford Citizen? Later: ANGEL poses awkwardly with the schoolkids. TIM MESSENGER How about if you put the teacher in handcuffs?
+E: cont’d
+C: ANGEL
+D: I’m not sure that gives off the right signals.
+C: TIM MESSENGER
+D: Give the little blond kid your hat? ANGEL looks at a sweet BLOND HAIRED BOY next to him.
+C: ANGEL
+D: I’d rather not.
+C: TIM MESSENGER
+D: Wave your hitting stick about?
+C: ANGEL
+D: No. INT. SWAN HOTEL DINING ROOM - MORNING FLASH. We see the newspaper article; ’SHORT ARM OE THE LAW: TOP COP ANGLE TELLS IT TO THE KIDS’. ANGEL circles the typo as he sits in a vast dining room. JOYCE approaches with tea.
+C: JOYCE COOPER
+D: Oh, can I have your autograph please? ANGEL laughs it off bashfully.
+C: JOYCE COOPER
+D: I do need your signature for breakfast. INT. LOCKER ROOM - MORNING ANGEL opens his locker. It is plastered with photocopies of the article. The ’ANGLE’ typo is underlined in red. INT. STATION - MORNING ANGEL makes his way to his office. Sniggering officers greet him with ’Sergeant Angle’, including the now straight haired
+E: CONT’D
+C: DESK SERGEANT. DESK SERGEANT
+D: Morning Angle.
+C: FISHER
+D: Morning Angle.
+C: DORIS THATCHER
+D: Morning Angle.
+C: WAINWRIGHT
+D: Morning Angle.
+C: CARTWRIGHT
+D: Morning Angle.
+C: WALKER
+D: Murrrnangul.
+C: ANGEL
+D: I presume you just called me Angle.
+C: WALKER
+D: Arrr. ANGEL feigns good humour but looks irritated. His phone rings. He picks up.
+C: ANGEL
+D: Sergeant Angel?... The swan has escaped?...And where exactly has the swan escaped from? And who might you be? Mr. Staker. Mr. P. I. Staker? Piss taker? ANGEL looks around at his fellow officers to see who is on the other end of the phone. He realises that no-one is. EXT. CHURCH - DAY ANGEL and DANNY talk to an OLD MAN IN A CAR by a moat.
+C: ANGEL
+D: Yes Mr. Staker, we’ll do everything we can to get her back. Can you describe her?
+C: MR. STAKER
+D: Two foot tall. Long slender neck.
+C: ANGEL
+D: Go on.
+C: MR. STAKER
+D: Orange and black bill.
+C: ANGEL
+D: Anything else?
+C: MR. STAKER
+D: She’s a swan. EXT. PARK - DUSK DANNY and ANGEL close in on a swan which waddles through a park. However it evades them every time they draw near. INT. NEWSAGENT - DAY DANNY buys a Cornetto from a smirking ANNETTE ROPER. ANGEL stands nearby, whilst looking elsewhere.
+C: ANNETTE ROPER
+D: No luck catching them swans then?
+C: DANNY
+D: It’s just the one swan actually. EXT. SQUAD CAR/SANDFORD SQUARE - DAY ANGEL and DANNY sit in their usual parking space. Sandford life drifts by. The LIVING STATUE is also present.
+C: DANNY
+D: You want anything from the shop?
+C: ANGEL
+D: You’ve just been to the shop.
+C: DANNY
+D: I was thinking of a different shop.
+C: ANGEL
+D: Constable Butterman, this is not the time for personal errands.
+C: DANNY
+D: Well, there’s nothing going on.
+C: ANGEL
+D: There’s always something going on. Look around you, what do you see?
+C: DANNY
+D: People...cars...that gold bloke... the swan.
+C: ANGEL
+D: Where?
+C: DANNY
+D: Ha ha?
+C: ANGEL
+D: I’m serious. You have to look closer. What about him in the big coat? ANGEL nods to an ANCIENT MAN in a heavy winter overcoat.
+C: DANNY
+D: Mr. Treacher?
+C: ANGEL
+D: Well why is Mr. Treacher wearing that big coat? He can’t be cold. Why the extra layer? He might be hiding something...
+C: DANNY
+D: But that’s Mr. Treacher.
+C: ANGEL
+D: Okay, what about him? ANGEL nods over to a man in a PURPLE SHELL SUIT with his cap pulled down low over his face. ANGEL Ask yourself why he has his hat pulled down like that.
+E: cont’d
+C: DANNY
+D: He’s fuck ugly?
+C: ANGEL
+D: Or he doesn’t want you to see his face.
+C: DANNY
+D: Because he’s fuck ugly. Changing tack, ANGEL nods to a HULKING MAN, clad in denim.
+C: ANGEL
+D: Alright. Well, what’s his story?
+C: DANNY
+D: That’s Lurch.
+C: ANGEL
+D: Go on.
+C: DANNY
+D: He’s the trolley boy at the supermarket.
+C: ANGEL
+D: Good.
+C: DANNY
+D: Real name, Michael Armstrong.
+C: ANGEL
+D: Okay.
+C: DANNY
+D: Dad says he’s got a child’s mind.
+C: ANGEL
+D: Uh huh.
+C: DANNY
+D: Lives up Summer Street with his mum and his sister.
+C: ANGEL
+D: Are they as big as him?
+C: DANNY
+D: Who?
+C: ANGEL
+D: The mum and the sister.
+C: DANNY
+D: Same person.
+C: ANGEL
+D: Which shop were you thinking of? INT. SUMMERAISLES - DAY As DANNY delves in a video bargain bin full of action films, ANGEL loiters in organic produce. He spots two GRUFF LOOKING BUTCHERS behind a meat counter. They nod ’hello’.
+C: FEMALE VOICE
+D: Sergeant Angel to the manager’s ofifice. Managers ofifice. Sergeant Angel. INT. MANAGERS OFFICE - DAY ANGEL strides into an office where SIMON SKINNER reads the ’Top Cop’ story in the SANDFORD CITIZEN. A slutty CHECKOUT GIRL lounges beside him. One wall is lined with sketches of a drive thru supermarket, the other with security monitors. A ’fun running’ trophy sits conspicuously on the shelf.
+E: TANNOY
+C: SKINNER
+D: Ah, Sergeant Angel. Or is it Angle?
+C: CHECKOUT GIRL
+D: Mr. Skinner, a baby’s sicked up in aisle six.
+C: SKINNER
+D: Please excuse me. Michael? The now uniformed LURCH lumbers past the doorway.
+C: LURCH
+D: Yarp.
+C: SKINNER
+D: Child vomit. Aisle six. Mop it up.
+C: LURCH
+D: Yarp.
+C: ANGEL
+D: Is there a problem, Mr Skinner?
+C: SKINNER
+D: No, I just wanted to say how lovely it is to see you supporting your local store.
+C: ANGEL
+D: That’s quite alright.
+C: SKINNER
+D: All too many have defected to the big Safeway in Buford Abbey and may their heads be struck from their shoulders for such disloyalty.
+C: ANGEL
+D: Yes, well if you’d excuse me, Mr. Skinner I am on duty.
+C: SKINNER
+D: Of course, I simply spied you loitering in organic produce and assumed you had time on your hands.
+C: ANGEL
+D: Well maybe there’s someone else you should be keeping an eye on. SKINNER turns to leak at the CCTV. On one screen we see a small, well dressed man climbing out of a Range Rover.
+C: SKINNER
+D: That’s the Fridge Magnate.
+C: ANGEL
+D: The Fridge Magnet?
+C: SKINNER
+D: Name’s George Merchant. Made a fortune in kitchen goods. Built that monstrosity on Norris Avenue. He’ll validate his parking with a SKINNER paltry Snickers and scurry off to his solicitor’s office all afternoon. I swear I’ll have the boys tow him away.
+E: MORE cont’d
+C: ANGEL
+D: Actually I wasn’t talking about him.
+C: SKINNER
+D: Oh?
+C: ANGEL
+D: I was talking about him. ANGEL paints to a different screen. We see a SHOPPER rather obviously stuffing biscuits into his trousers.
+C: SKINNER
+D: Ah.
+C: ANGEL
+D: Excuse me. INT. SUMMERAISLES - DAY ANGEL strides straight up to the shopper. It is THE MAN IN THE PURPLE SHELL SUIT from the square.
+C: ANGEL
+D: Excuse me. The SHOPLIFTER freezes for a moment. Then scarpers. DANNY reads the cover of Jackie Chan’s SUPERCOP when ANGEL explodes into life, chasing the SHOPLIFTER down the aisle. He throws the video back in the bin and fellows suit. EXT. SUPERMARKET/HIGH STREET - DAY The SHOPLIFTER bursts onto the street with ANGEL in hot pursuit. The usual friendly greetings from folk are bestowed on ANGEL as he sprints by. It sounds surreal. They race past shopkeepers, who report into their radios. They also pass the LIVING STATUE. He doesn’t budge. The SHOPLIFTER avoids being hit by REAPER’s 4x4. ANGEL vaults ever the bonnet. The shoplifter runs into an alley. ANGEL fellows, but comes to a stop at the alley entrance.
+C: ANGEL
+D: Oh, you mothers. Several YOUNG MOTHERS with push chairs clog up the alley. DANNY catches up with ANGEL. He’s very out of breath. ANGEL Let’s cut through here.
+E: cont’d
+C: DANNY
+D: Through the gardens?
+C: ANGEL
+D: What’s the matter? You never taken a short cut before? ANGEL leaps over a garden fence, then the next one, then the next. It’s an amazing acrobatic feat. DANNY gasps and follows ANGEL, but trips and crashes through the fence. ANGEL lands back in the alley, when suddenly he spots- The SWAN. Waddling past the mouth of the alley. ANGEL is torn for a split second, then resumes the SHOPLIFTER chase. ANGEL runs into the HOODIES, spraying a graffiti tag reading ’G’ on a wall. Upon seeing ANGEL, the HOODIES immediately scatter like roaches, dropping their spray cans on the [U+FB02]oor. ANGEL scoops up the spray can and hurls it through the air. It hits the SHOPLIFTER on the head. He crashes to the [U+FB02]oor hard. ANGEL picks the SHOPLIFTER up. DANNY approaches. ANGEL You do not have to say anything, but it may harm your defence if you do not mention when questioned something which you later rely on in court. Anything you do say may be given in evidence.
+E: cont’d
+C: SHOPLIFTER
+D: Alright Danny.
+C: DANNY
+D: Alright Pete.
+C: ANGEL
+D: Do you know this man?
+C: DANNY
+D: Yeah, he’s Auntie Jackie’s sister’s brother’s boy.
+C: ANGEL
+D: And it didn’t occur to you to mention this before?
+C: DANNY
+D: I couldn’t see his face could I? I’m not made of eyes! INT. CUSTODY SUITE - DAY We see FLASHCUTS of PETER COCKER being processed; mugshot, prints. ANGEL fills out arrest paperwork. FISHER ambles over.
+C: SGT. FISHER
+D: Impressive collar. Shame Mr Skinner doesn’t want to press charges.
+C: ANGEL
+D: What do you mean he doesn’t want to press charges??
+C: SIMON SKINNER
+D: I’m simply suggesting Peter be given a second chance- ANGEL turns to see SKINNER distributing the stolen biscuits to officers, including a curly-haired DESK SERGEANT.
+E: O.S.
+C: SKINNER
+D: -before he becomes just another crime statistic. I’m sure he’s learnt a valuable lesson.
+C: FISHER
+D: Stealing biscuits is...wrong?
+C: SKINNER
+D: Correct.
+E: offers Fisher a biscuit
+C: FISHER
+D: Ooh thanks.
+C: ANGEL
+D: And yet we respond by not taking a single punitive measure?
+C: SKINNER
+D: That’s the way the cookie crumbles.
+C: FISHER
+D: Heh heh. Like biscuits innit?
+C: ANGEL
+D: Mr. Skinner-
+C: FRANK (O.S.}
+D: Everything alright? ANGEL turns to see FRANK at the doorway, eating ice cream.
+C: ANGEL
+D: Mr. Skinner feels it would be best if we didn’t prosecute an individual who has blatantly committed an offence.
+C: FRANK
+D: Leave this with me boys. I’ll make sure everyone gets their just desserts. INT/EXT. SQUAD CAR IN LAYBY - DAY ANGEL sits with a speed gun recording passing cars, DANNY has his feet up and is eating some of the stolen biscuits. Behind is a sign reading ’YOU ARE NOW LEAVING SANDFORD’.
+C: ANGEL
+D: 27. Why are we on traffic?
+C: DANNY
+D: Dad’s probably giving us a rest after all that jumping over fences.
+C: ANGEL
+D: I don’t need a rest.
+C: DANNY
+D: There’s an amazing bit in ’Point Break’ where they jump over fences.
+C: ANGEL
+D: Is there now? 28.
+C: DANNY
+D: Yeah, Patrick Swayze’s robbed this bank and Keanu Reeves chases him through people’s gardens and then DANNY Keanu lands really badly and breaks his leg off and he’s like ’aaaargh’-
+E: MORE cont’d
+C: ANGEL DANNY
+D: "and then he goes to shoot Swayze, but he can’t cause he loves him so much and he fires up in the air and he’s going ’aaaargh’-.
+C: ANGEL DANNY
+D: Have you ever fired your gun up in the air and gone ’aaaarh’.
+C: ANGEL
+D: No, Constable I have never fired my gun up in the air and gone ’aaaargh’. 30.
+C: DANNY
+D: Sorry, I just feel... I just feel like I’m missing out sometimes. I want to do what you do.
+C: ANGEL
+D: You do, do what I do. What on Earth do you think you’re missing out on?
+C: DANNY
+D: I don’t know. Gun fights. Car chases. Proper action and shit .
+C: ANGEL
+D: Proper policing isn’t about action... or shit.
+C: DANNY
+D: Yeah but you got to fire a gun. How come we don’t all have guns?
+C: ANGEL
+D: Arming the entire British Police Service would not necessarily lower the rate of crime. Guns aren’t toys Constable. Opening fire on another human being is a difficult and ANGEL dizzying experience. 29. If you’d paid attention to me in school, you’d know it’s not all about guns fights and car chases. A MEGANE speeds past them. DANNY and ANGEL exchange a look.
+E: MORE cont’d
+C: ANGEL (CONT’D}
+D: Fire up the roof.
+C: DANNY
+D: Yeah?...Where is it? ANGEL [U+FB02]icks the siren on. They peel out at speed. The MEGANE pulls over, ending the chase before it begins. DANNY That was brilliant. They walk over to the MEGANE. The smartly dressed DRIVER winds down his window. ANGEL can see a NERVOUS YOUNG WOMAN in the passenger seat. The DRIVER hands over his license.
+E: cont’d
+C: BLOWER
+D: Was I going a tad fast, officer?
+C: ANGEL
+D: Yes, you were Mr. Blower. ANGEL starts speedily scribbling in his notebook.
+C: BLOWER
+D: We’re staging a homage to Baz Luhrmann’s, William Shakespeare’s Romeo and Juliet tonight and I’m a little late for the dress rehearsal. I’m playing the eponymous hero you see. Romeo not Juliet. What are you writing?
+E: nervous chuckle
+C: ANGEL
+D: Everything you say so I can refer to it later.
+C: BLOWER
+D: Now officer, I am a respected solicitor, there’s no need to- ANGEL continues to write. DANNY watches this with interest.
+C: BLOWER (CONT’D}
+D: Stop writing. I was merely trying to explain why I might have exceeded the speed limit-
+C: ANGEL
+D: You’re playing the male lead in a production of Bar Luhrmann’s, William Shakespeare’s Romeo and Juliet and you’re late for the dress rehearsal. You think this is sufficient reason to travel at 48 in a 30 zone?
+C: BLOWER
+D: Well, I-
+C: ANGEL
+D: To [U+FB02]out laws put in place to save lives.
+C: BLOWER
+D: This is preposterous.
+C: ANGEL
+D: ...pre-post-er-ous.
+C: BLOWER
+D: I’ve never been...stop writing?
+C: ANGEL
+D: ...St-op wri-ting.
+C: BLOWER
+D: Look...you’re right, I apologise. ANGEL hands him a ticket.
+C: ANGEL
+D: Payable in fourteen days. ANGEL and DANNY get back into their CAR. ANGEL You see what I did there?
+E: cont’d
+C: DANNY
+D: You hypnotised him. ANGEL waves his pocket book in DANNY’s face.
+C: ANGEL
+D: I used this? The most important piece of police hardware. This has saved my skin on many occasions. Think about using yours more often.
+C: DANNY
+D: I do use mine. DANNY produces his pocketbook. ANGEL [U+FB02]ips through the pages. We see a [U+FB02]ick-illustration of cops shooting someone dead with red ink for blood. ANGEL shakes his head.
+C: ANGEL
+D: This is just extraordinary.
+C: DANNY
+D: Wait til you see the one on the other side. INT. LOCKER ROOM/FRONT DESK - EVENING ANGEL and DANNY stride out of the station in their civvies.
+C: DANNY
+D: What are you up to tonight?
+C: ANGEL
+D: I have to water my peace lily.
+C: DANNY
+D: Oh okay.
+C: ANGEL
+D: Why?
+C: DANNY
+D: I just thought you might want to do something.
+C: ANGEL
+D: What exactly were you thinking?
+C: DANNY
+D: Pub?
+C: ANGEL
+D: I don’t think that’s a good idea, do you? ANGEL glares at DANNY. The now straight haired DESK SERGEANT calls after him.
+C: DESK SERGEANT
+D: Oi, you two. A Mr. Blower left you tickets for Romeo and Juliet tonight. Said it was by way of an apology.
+C: DANNY
+D: Yeah?
+C: ANGEL
+D: Well, we can’t accept gifts from someone we’ve of[U+FB02]cially rebuked.
+C: DANNY
+D: Yeah. ANGEL calmly rips up both tickets in front of a deflated DANNY. ANGEL makes to leave again, just as FRANK enters.
+C: FRANK
+D: Ah Nicholas. Glad I caught you. Wondered if you wouldn’t mind representing us at the am dram tonight. I’m otherwise engaged and it’d be good to have a show of faith from the constabulary.
+C: ANGEL
+D: Of course, sir.
+C: FRANK
+D: And there’s a spare for Danny too.
+C: DANNY
+D: Yeah? INT. AUDITORIUM - LATER ANGEL’s expression is one of abject horror, Danny is asleep. On stage, BLOWER in cod Bar Luhrmann, Romeo gear, complete with suit of armour, [U+FB02]oppy fringe and revolver, leans over EVE DRAPERS’s Juliet, who lies in state on a prop alter. He uncaps a large bottle of poison, marked with a skull and cross bones and holds it aloft.
+C: BLOWER
+D: A dateless bargain to engrossing death. Here’s to my love. He drinks the poison, just as JULIET awakes with an exaggerated yawn. ROMEO and JULIET look at each other in horror.
+E: ROMEO
+C: EVE DRAPER
+D: Poison? Drunk all and not one drop to help me after? I’ll kiss thy lips. Happly some poison doth yet hang on them. They kiss. With tongues. It goes on far too long. ROMEO goes limp. JULIET picks up his gun and shoots herself with a click. The stage goes to black. The lights come up again to reveal the whole cast performing a ’Knees Up Mother Brown’ version of The Cardigan’s ’Love Fool’. The audience applaud. A relieved ANGEL joins in, DANNY wakes up. On stage the cast take their bows. LESLIE TILLER walks on stage with a bouquet of [U+FB02]owers.
+E: JULIET
+C: JOYCE COOPER
+D: She’s ever so good. INT. THEATRE BAR - LATER In the packed bar, DANNY downs a pint and ANGEL downs a cranberry juice. A beaming TIM MESSENGER sidles over.
+E: from behind Angel
+C: MESSENGER
+D: Sergeant Angel, quick word for the Sandford Citizen?
+C: ANGEL
+D: It was very...enjoyable.
+C: MESSENGER
+D: "Cop Enjoys Watching Young Lovers?"
+C: ANGEL
+D: I don’t think so.
+C: MESSENGER
+D: "Local Bobby Gives Thumbs Up To Teen Suicide?"
+C: ANGEL
+D: That’s grossly inappropriate.
+C: SKINNER
+D: You will spell his name correctly this time, won’t you Timothy? SKINNER swoops in and leads ANGEL away from MESSENGER. SKINNER Absolute tosh wasn’t it? Annoyingly, the understudies are actually professional actors. Greg was an extra in Straw Dogs and Sheree portrayed a cadaver in Prime Suspect- SKINNER nods to an OLDER COURLE who wave back at him. A still made up MARTIN BLOWER and his FEMALE LEAD rush over.
+E: cont’d
+C: BLOWER
+D: Sergeant Angel, you came? I am so thrilled you accepted my invitation.
+C: ANGEL
+D: Our Inspector requested we attend.
+C: DANNY
+D: Yes, we can’t accept gifts from someone we’ve officially rebuked so... ...jog on.
+E: blows raspberry
+C: ANGEL
+D: Well, congratulations anyway to you and Mrs. Blower.
+C: BLOWER
+D: Oh, this isn’t my wife.
+C: SKINNER
+D: Yes, where is Edna, Martin?
+C: BLOWER
+D: She’s at home with the dogs. This is Miss Draper, my leading lady.
+C: SKINNER
+D: Isn’t she just? Eve works for the council, Sergeant. Quite the lady in the know. EVE DRAPER snorts an alarmingly high pitched laugh.
+C: EVE
+D: Oh I am not.
+C: SKINNER
+D: Nonsense. I’m sure if we bashed your head in, all sorts of secrets would come tumbling out. EVE lets out another snort. GEORGE MERCHANT approaches.
+C: MERCHANT
+D: Romeo, Romeo, a pint of bitter for Romeo?
+C: BLOWER
+D: Yes please George and thank you for coming!
+C: MERCHANT
+D: A pleasure my liege. ANGEL spots the BLONDE SCHOOLKID from his school talk, in the other room, sipping Coke and staring at him.
+C: DANNY
+D: Eve’s nice ain’t she?
+C: ANGEL
+D: She has a... distinctive laugh.
+C: DANNY
+D: She was in my year at school. Always had a thing for her.
+C: ANGEL
+D: Well, she obviously has a thing for older men.
+C: DANNY
+D: What with Blower?! No way!
+C: ANGEL
+D: We just sat through three hours of so-called acting tonight Constable, their kiss was the only convincing moment in it.
+C: DANNY
+D: Now you mention it, I too have reason to believe she favours the older gent.
+C: ANGEL
+D: Really? How so?
+C: DANNY
+D: Marcus Carter’s big brother said he fingered her up the duck pond. ANGEL spits out his cranberry juice. EXT. SANDFORD PLAYHOUSE - NIGHT Theatregoers spill out onto the street as BLOWER closes up.
+C: BLOWER
+D: Officers, again let me extend my sincere apologies for earlier.
+C: ANGEL
+D: Good night Mr. Blower. Drive safe. ANGEL and DANNY turn away and walk home. DANNY chuckles.
+C: DANNY
+D: "Drive safe". You got him then. You know that’s the bloke we done for speeding earlier.
+E: pause
+C: ANGEL
+D: I know and hopefully that’s the last we’ll see of him. ANGEL smiles. Be and DANNY walk off, revealing- A FIGURE swathed in a BLACK CLOAK. We cannot see its face. It darts into the alley behind the Playhouse building! In FLASHCUTS we see an axe blade glint...a door pane smash...a gloved hand finds the door handle... INT. DRESSING ROOM - CONTINUOUS MARTIN BLOWER rips the foil from a bottle of champagne. There’s a knock at the door. BLOWER coos back.
+C: BLOWER
+D: Who is it? The door opens...It’s EVE DRAPER...BLOWER grins... BLOWER We haven’t got long. EVE grins...A champagne cork pops...Bubbly foams...
+E: cont’d
+C: EVE
+D: To us? There’s another knock at the door. BLOWER shouts, worried.
+C: BLOWER
+D: Who is it? BLOWER INCHES THE DOOR 0PEN...AN AXE SMASHES DOWN INTO BLOWER’S NECK...THE CHAMPAGNE DROPS...EVE SCREAMS... INT. SWAN HOTEL BEDROOM - EARLY MORNING A call button [U+FB02]ashes red in the darkness...ANGEL picks up.
+C: ANGEL
+D: Decaffeinated? EXT. LAYBY - MORNING TWO DECAPITATED HEADS lie surrounded by pieces of metal.
+C: FISHER
+D: Little Brian Libby found them, out on his paper round. He’ll be having nightmares for a while. FISHER addresses ANGEL, DANNY, THATCHER and WALKER. Behind is a blood splattered ’YOU ARE NOW LEAVING SANDFORD’ sign. FISHER Must have hit the sign at some speed. Took the whole top off.
+E: cont’d
+C: DORIS THATCHER
+D: I’ve had my top off in this layby. FISHER points to where BLOWER’s MEGANE has come to a violent stop. The top half of the car has been shaved off.
+C: FISHER
+D: Most likely lost control, left the road here and ended up there... Soooo, what do you think we should do? Sergeant Angel?
+C: ANGEL
+D: We should cordon off the area, screen the remains from public view and close off the road until the ambulance arrives, whereupon we should open a single lane of traffic to ease congestion.
+C: FISHER
+D: Very good. What he said. FLASHCUTS; a cordon unfurled, tents erected, cones set out. ANGEL and DANNY wave on the morning traffic past the crash site. JAMES REAPER leans out of his 4X4.
+C: REAPER
+D: What’s happened Danny?
+C: DANNY
+D: Car accident.
+C: REAPER
+D: Nasty way to go.
+C: ANGEL WAINWRIGHT
+D: Constable, official Vocab states such incidents are now referred to as ’collisions’, not ’car accidents’ - A RED MG slows to a stop. SKINNER leans out of the window.
+C: SKINNER
+D: For never was there a story of more woe. Than this of Juliet and her Romeo.
+C: ANGEL
+D: I’m sorry?
+C: SKINNER
+D: Martin and Eve. Such a tragedy. SKINNER goes to pull off. ANGEL stands in front of his ear.
+C: ANGEL
+D: Mr Skinner, could you tell me how you knew the identity of the persons involved?
+C: SKINNER
+D: Of course. When I didn’t get my Citizen delivered this morning, I rang Annette Roper to enquire after young Brian. You know how it is, news travels fast. SKINNER pulls away fast. ANGEL watches his MG go and makes a note of the personalised numberplate ’SS1’. Behind AMANDA PAVER pulls up on her bicycle and talks to DANNY.
+C: AMANDA PAVER
+D: What’s happened, Danny?
+C: DANNY
+D: A traffic collision...Why can’t we say ’accident’ again?
+C: ANGEL
+D: Because ’accident’ implies there’s no one to blame. INT. STATION/C.I.D. OFFICE - DAY
+C: WAINWRIGHT
+D: What about him? Oh, put a sock in it town mouse!
+C: CARTWRIGHT
+D: Yeah, you want to be a big cop in a small town, bugger off up the model village. The ANDES sit in their office eating ice-cream. DANNY enters with another bowl, which ANGEL declines.
+C: ANGEL
+D: I’m just saying, things aren’t always simple as they look.
+C: WAINWRIGHT
+D: But most times they are. Let’s wait until Er. Hatchet comes back with something, before you go jumping the Kalashnikov.
+C: ANGEL
+D: Well, in the meantime, why not start by checking out some of Martin Blower’s clients?
+C: WAINWRIGHT
+D: Martin Blower represents damn near most of the village. You want us to go through the whole phone book?
+C: CARTWRIGHT
+D: Yeah, we’ll put a call into Aaron A. Aarronson shall we?
+C: ANGEL
+D: Please don’t be childish. At least think about interviewing the widow? Mr Blower was clearly having an affair with Eve Draper.
+C: WAINWRIGHT
+D: And how did you establish that? DANNY slams his [U+FB02]st on the table. ANGEL jumps.
+C: DANNY
+D: We sat through three hours of so-called acting last night. The kiss was the only convincing moment in it. DANNY [U+FB02]ashes a grin at a bemused ANGEL.
+C: WAINWRIGHT
+D: Alright, pipe down.
+C: CARTWRIGHT
+D: Yeah, what else you got, Tango and Hutch?
+C: ANGEL
+D: Simon Skinner.
+C: WAINWRIGHT
+D: What about him?
+C: ANGEL
+D: He was acting suspiciously at the collision scene.
+C: CARTWRIGHT
+D: He runs the local supermarket.
+C: WAINWRIGHT
+D: Anything else?
+C: ANGEL
+D: Skid marks.
+C: WAINWRIGHT
+D: Now who’s being childish?
+C: ANGEL
+D: There were no skid marks at the scene. Don’t you think it’s a little strange that Mr. Blower would lose control of the car and not think to apply his brakes? For the [U+FB02]rst time, the ANDES do not have an answer. ANGEL If there are no skid marks it follows that for three hundred yards the driver and the passenger made no attempt to prevent their fate. You don’t have to be a detective to work that out.
+E: cont’d
+C: DANNY
+D: Yeah! FRANK pops into the office. He’s also eating ice cream.
+C: FRANK
+D: You causing trouble?
+C: ANGEL
+D: I was talking to the ’detectives’ about the ’accident’.
+C: DANNY
+D: ’Yeah’.
+C: FRANK
+D: Dreadful business. You free? WAINWRIGHT & CARTWRIGHT Yes they are.
+C: FRANK
+D: Good. Got a spot of bother up at Ellroy Farm. Old Arthur Webley’s been clipping hedgerows that don’t belong to him.
+C: ANGEL
+D: Yes sir?
+C: FRANK
+D: That’s it.
+C: ANGEL
+D: Yes sir.
+C: WAINWRIGHT
+D: You wanted grass roots. INT. SQUAD CAR - DAY DANNY drives a pissed off ANGEL up a dirt road. P.C. BOB WALKER is in the back. SAXON drools on ANGELS shoulder.
+C: ANGEL
+D: Why do We used the dog?
+C: DANNY
+D: It’s not the dog we need. EXT. FARMHQUSE - DAY A White haired Did farmer, ARTHUR WEBLEY stands at his door with a shotgun broken over his arm.
+C: WEBLEY
+D: Hedgizuhedgeinnit. loonlychopped etdowwnoozicoutn’tseethe View nomore. Wasshemoaninabout?
+C: ANGEL
+D: Right. What did he say?
+E: to Danny and Walker
+C: PC WALKER
+D: Eessad. A hedgeisahedge innit. Nee onlychoppedet dowwn cozee cun’t see t’voo nomore. Whas he moanin’ about?
+C: ANGEL
+D: Right. What did he say?
+E: to Danny
+C: DANNY
+D: He said a hedge is a hedge. He only chopped it down because it spoilt his view. What’s Reaper moaning about?
+C: ANGEL
+D: Right. That’s not the point Mr. Webley.
+C: WEBLEY
+D: Whystoyalwaspiokinawnmeanywaiz. Iznotthewanrunninabowtallhowersofthenight. Themhloodyoods.
+C: PC WALKER
+D: Eesad. Why you pickin onhem. Ees nart the wan runnnin abowt all hours like them bloody hoods.
+C: ANGEL
+D: Them bloody who?
+C: DANNY
+D: Hoods.
+C: ANGEL
+D: What does he mean by that?
+C: DANNY
+D: Probably them kids.
+C: ANGEL
+D: Mr. Webley, I appreciate your position but you can’t go around cutting down other people’s hedges without permission.
+C: WEBLEY
+D: Yarghspose.
+C: PC WALKER
+D: ’Yargh he suppose’.
+C: DANNY
+D: ’Yeah I suppose’.
+C: ANGEL
+D: Thank you .
+C: DANNY/WALKER/WEBLEY
+D: S’alroight.
+C: ANGEL
+D: Oh and Mr. Webley, I trust you have a license for that?
+E: points at shotgun
+C: WEBLEY
+D: Oharrghldozfortheesun.
+C: PC WALKER
+D: ’Idoes for theesun’.
+C: DANNY
+D: He does for this one.
+C: ANGEL
+D: What do you mean by ’this one’? ANGEL and DANNY peer in as WEBLEY opens the door to a huge outbuilding. The daylight illuminates...an enormous arsenal of antique firearms; RIFLES, SHOTGUNS, PISTOLS, BLUNDERBUSSES. It’s a museum of firepower.
+C: DANNY
+D: By the power of Grey Skull!
+C: ANGEL
+D: Where on Earth did you get these?
+C: WEBLEY
+D: Foundum.
+C: DANNY
+D: Found ’em. ANGEL And what is that? ANGEL points to an enormous spiky sphere in the corner.
+E: cont’d
+C: DANNY
+D: Sea mine.
+C: WEBLEY
+D: Seemoine. ANGEL Well Mr. Webley, this is an extremely dangerous collection. It’s a wonder nobody’s been hurt before.
+E: cont’d
+C: WEBLEY
+D: Naaarrrgh. Iss jussaloodajunk. WEBLEY strikes the SEA MINE with his walking stick. ANGEL and DANNY’s faces go white. There is a resounding clang... EXT. FARM - DAY ANGEL, DANNY and WEELEY come bursting out of the shed. They run in heroic slow motion towards a nearby hedge. All three dive over the hedge and land with an enormous crunch. Seconds pass...Nothing...ANGEL and DANNY stand. They peer over the hedge. More seconds pass... Nothing. INT/EXT. SQUAD CAR/FARM - DAY ANGEL is sat in the squad car on the radio. Behind, WEBLEY and DANNY stand with the sea mine.
+C: ANGEL
+D: Apparently it’s deactivated.
+C: WEBLEY
+D: Thassroit. Deeaaktiyaded.
+E: hits the seamine
+C: ANGEL
+D: Yes, it’s not live.
+C: DANNY
+D: Looks live. INT. STATION - DAY FLASHCUTS; ANGEL and DANNY march in with armfuls of guns, the curly haired DESK SERGEANT tags them, the evidence room is filled (with the SEA MINE is stored on a high shelf}.
+E: kicks seamine
+C: ANGEL
+D: That was a quite an impressive haul today, Constable Butterman.
+C: DANNY
+D: Maybe we should do something to celebrate...unless you have to water your Peace Lily.
+C: ANGEL
+D: What are you thinking exactly? INT. THE CROWN " NIGHT The pub is heaving with a huge cross section of people; Neighbourhood Watch, off duty police, even FRANK.
+C: MARY PORTER
+D: Right you are my love.
+C: ROY PORTER
+D: Yes sir, what can I get you?
+C: DANNY
+D: Pint of lager, please Roy. And what can I get you that isn’t a cranberry juice?
+C: ANGEL
+D: I don’t really want to get drunk.
+C: DANNY
+D: You can get a little drunk.
+C: ANGEL
+D: Okay I’ll have one.
+C: DANNY
+D: That’s what I’m talking about!
+C: ANGEL
+D: What’s your wine selection?
+C: RUY PORTER
+D: Oh, we’ve got red...or white.
+C: ANGEL
+D: Pint of lager, please Roy.
+C: DANNY
+D: Yeaaaah Roy. ANGEL spies the ANDES at the bar and wanders over.
+C: ANGEL
+D: Any developments from this morning?
+C: WAINWRIGHT
+D: Yeah, CSI found nothing, Dr. Hatcher reported no misadventure, Mrs. Blower has four alibis.
+C: ANGEL
+D: And Skinner?
+C: CARTWRIGHT
+D: He runs the local supermarket.
+C: FISHER
+D: Come on Sergeant, it’s not your job to investigate this incident is it? Is it?
+C: WAINWRIGHT AND CARTWRIGET
+D: No it isn’t. ANGEL and DANNY sit down. ANGEL scribbles in his notebook.
+C: DANNY
+D: You don’t switch off do you?
+C: ANGEL
+D: You sound like my ex.
+C: DANNY
+D: Why, did she have a deep voice?
+C: ANGEL
+D: No, she always used to accuse me of not being able to switch off.
+C: DANNY
+D: Well you are always thinking away.
+C: ANGEL
+D: It’s what I do.
+C: DANNY
+D: No, no I think it’s amazing. I mean what made you want to he a policeman-
+C: ANGEL
+D: Officer-
+C: DANNY
+D: What made you want to be a policeman-officer?
+C: ANGEL
+D: I can’t remember a time when I didn’t want to he a police officer, apart from the summer of 1979 when I wanted to be Kermit The Frog. It all started with my Uncle Derek. He was a Sergeant in the Net. Gave me a police pedal car when I was five. I rode it around every moment I was ANGEL awake, arresting kids twice my size for littering and spitting. I got beaten up a lot but it didn’t stop me. I wanted to be like Uncle Derek.
+E: MORE cont’d
+C: DANNY
+D: Sounds like a good bloke.
+C: ANGEL
+D: Actually, he was jailed for selling drugs to students.
+C: DANNY
+D: What a cunt.
+C: ANGEL
+D: He most likely bought the pedal car with the proceeds. Needless to say I never went near it again. I let it rust. But I never forgot that clear sense of right and wrong I felt at the wheel of that pedal car and I refused to accept that corruption was the inevitable consequence of authority. I had to prove to myself that the law could be proper and righteous and for the good of humankind. I knew then, I was destined to be a police officer.
+C: DANNY
+D: Shame.
+C: ANGEL
+D: How so?
+C: DANNY
+D: I think you would’ve made a great muppet. ANGEL laughs. It’s the first time we have seen him do this.
+C: ANGEL
+D: So, what made you want to be a police officer?
+C: DANNY
+D: Dad does it...I think after Mum died, it’s what he wanted. Keep me close by.
+C: ANGEL
+D: Do you mind if I ask how she died?
+C: DANNY
+D: Traffic collision.
+C: ANGEL
+D: I’m sorry.
+C: DANNY
+D: Aw, don’t worry...watch this. DANNY sticks a fork in his eye, scarlet squirts everywhere.
+C: ANGEL
+D: Jesus Christ?
+C: DANNY
+D: Ta-daaaa! DANNY reveals a TOMATO KETCHUP sachet. ANGEL laughs. DANNY Get ’em in silly bollocks... FLASH CUTS. The night wears on. The glasses on the table multiply. DANNY and ANGEL are both tipsy and enjoy each other’s company. DANNY beats ANGEL at bar skittles. LATER. ANGEL finds his way to the bar. He sees a beaming SIMON SKINNER sitting at the bar with another gentleman.
+E: cont’d
+C: SKINNER
+D: Ah, 777. Do join us. You’ve met George Merchant haven’t you? GEORGE MERCHANT is drunk and morose. ANGEL sits at the bar.
+C: MRCHANT
+D: Good evening offisher...
+C: SKINNER
+D: We were just talking about the accident. Dreadful business.
+C: MRCHANT
+D: I’d come to know Martin and Eve very well of late. Such a losssh.
+C: SKINNER
+D: What say we drink to their demise?
+C: ANGEL
+D: Isn’t it drink to their memory?
+C: SKINNER
+D: Of course. Cheers.
+C: GEORGE MERCHANT
+D: I mussh go to the little boyssh room. MERCHANT gets off his stool. He is remarkably short.
+C: SKINNER
+D: Little being the operative word. He’ll be in bits tomerrow. SKINNER moves off. ANGEL watches him go, swivelling on his stool. It’s a cool mement. Until ANGEL slips off his seat.
+C: FRANK
+D: Think somebedy needs to go home.
+C: ANGEL
+D: I’m not that drunk sir.
+C: FRANK
+D: Net yen. Him. FRANK points to GEORGE MERCHANT who stands in the corner, with his nob out, pissing into the coin tray of a fruit machine. EXT. STREET - NIGHT ANGEL and DANNY carry GEORGE MERCHANT along the street. He is unconscious, his feet not touching the ground.
+C: DANNY
+D: Hey, we did get a little drunk. Geddit? It’s funny ’cos he’s little. ANGEL spies the HOODIES huddled round a village map. He gestures for DANNY te be quiet and sneaks ever.
+C: ANGEL
+D: Evening all. The HOODIES spin around and freeze. A freshly sprayed grefitti tag is en the village map. ANGEL holds out his hand. ANGEL Give it here. A SPRAY CAN sails past ANGEL’s head and hits GEORGE MERCHANT full in the face. He and DANNY fell to the [U+FB02]eor. The HOODIES scatter. ANGEL steams over, grabbing HOODIE 1 and pulling him back into a neerby bin. ANGEL grabs HOODIE 2 and spins him round, pulling the hood off his face. ANGEL finds himself face to face with the BLONDE SCHOOLKID. HOODIE 1 meanwhile, clambers out of the bin and runs off. A thrown ANGEL looks on, as the BLONDE SCHOOLKID [U+FB02]ips his hood back up and runs off.
+E: cont’d
+C: DANNY
+D: Let em go. They’ll come round again. ANGEL and DANNY pick MERCHANT up and carry him eff.
+C: ANGEL
+D: We know where his house is right?
+C: DANNY
+D: Oh yes. EXT. STREET - NIGHT DANNY stops, looking up at the monstreus piece ef architecture.
+C: ANGEL
+D: Gcod grief.
+C: DANNY
+D: Six mohths ago, that was a pear orcherd.
+C: ANGEL
+D: I want to threw up, but I fear it may add value. MERCHANT is suddenly awake. His eyes glazed.
+C: MERCHANT
+D: Jussst here. How much do I owe youss?
+C: DANNY
+D: Twenty quid. MERCHANT gives DANNY £20 guid. ANGEL gives it back.
+C: ANGEL
+D: Thank you and here’s your change.
+C: MERCHANT
+D: Buh-bye. MERCHANT disappears inside. ANGEL and DANNY walk away.
+C: ANGEL
+D: I wouldn’t want to be him in the morning. They walk out of shot, revealing...A CLOAKED FIGURE! EXT. GEORGE NERCHANT’S HOUSE - NIGHT A light [U+FB02]icks on. We see GEORGE MERCHANT stumbling around his hall. We also the CLOAKED FIGURE watching, waiting... EXT. DANNY’S HOUSE - NIGHT DANNY and ANGEL arrive at DANNY’s front door.
+C: DANNY
+D: Well, this is me.
+C: ANGEL
+D: I shall see you in the morning.
+C: DANNY
+D: Unless you wanna come in for a coffee?
+C: ANGEL
+D: I don’t drink coffee.
+C: DANNY
+D: Tea?
+C: ANGEL
+D: No, no caffeine after midday.
+C: DANNY
+D: How about another beer? INT. KITCHEN - NIGHT A fridge opens...We see a number of bottled beers... GEORGE MERCHANT grabs a beer and swigs it as he staggers to the toilet. Outside the CLOAKED FIGURE watches. MERCHANT put his beer on the cistern and has a piss...He [U+FB02]ushes, zips up and retrieves his beer from the cistern. As he stands back up, behind him we see... The CLOAKED EIGUEE. Who strikes him with a cudgel. Bang! INT. DANNY’S HOUSE - NIGHT ANGEL drops down onto DANNY’s sofa and surveys the untidy room. DANNY appears to be living out of cardboard boxes.
+C: ANGEL
+D: When did you move in? DANNY enters from the kitchen with two cans of beer.
+C: DANNY
+D: About five years ago.
+C: ANGEL
+D: You should get some pot plants.
+C: DANNY
+D: Oh yeah?
+C: ANGEL
+D: Yes, I’ve been tending my Peace Lily for three years now. NASA rates it as one of top ten air cleaning plants. It oxygenates the room, it helps me think, it relieves stress. Its needs are simple. Janine said I loved my Lily more than her.
+C: DANNY
+D: Is that why you split up?
+C: ANGEL
+D: What?
+C: DANNY
+D: Cos’ you dunnit with a plant.
+C: ANGEL
+D: No, it was more about being obsessed with the job.
+C: DANNY
+D: But, that’s good though innit?
+C: ANGEL
+D: I don’t know, I did miss a few dinners, parties, a birthday or two-
+C: DANNY
+D: Well I mean-
+C: ANGEL
+D: -her dad’s funeral. I just want to be good at what I do.
+C: DANNY
+D: You are good at what you do. You’ve just got to learn to switch off that big melon.
+C: ANGEL
+D: You know Danny, I don’t know how.
+C: DANNY
+D: I’ll show you how. DANNY opens a cupboard that is stacked full of alphabetized VHS tapes. It’s the most ordered area of the entire [U+FB02]at.
+C: ANGEL
+D: By the power of Greyskull. DANNY carefully selects two tapes.
+C: DANNY
+D: Point Break or Bad Boys 2?
+C: ANGEL
+D: Which one do you think I’ll prefer?
+C: DANNY
+D: No, I mean which one do you wanna watch first?
+C: ANGEL
+D: You are pulling my leg? INT. GEDRGE MERCHANT’S KITCHEN - NIGHT MERCHANT is dragged by his feet and dumped into a kitchen chair...GLOVED HANDS empty beans into a pan... Bacon is fried...Gas taps are turned on full...Gas hisses... INT. DANNY’S HGUSE - NIGHT Static hisses as the video [U+FB02]ickers to life.
+C: DANNY
+D: This film is A-MAZING!
+C: ANGEL
+D: So, what’s it actually about?
+C: DANNY
+D: An FBI agent who goes under cover to infiltrate a gang of wild wave riding, sky diving, bank robbers but falls in love with the surfing lifestyle and the leader’s girlfriend and ends up having to make some very tough choices.
+C: ANGEL
+D: So it’s based on a true story?
+C: DANNY
+D: Now that I don’t know.
+C: ANGEL
+D: No I just mean, it sounds a little far fetched.
+C: DANNY
+D: Well, it’s a film innit? INT. GEORGE MERCHANT’S HOUSE - NIGHT Hiss...GLOVED HANDS light a candle in the living room. Hiss...MEECHANT lies motionless in the chair....Hiss... INT. DANNY’S HOUSE - NIGHT DANNY and ANGEL are on the sofa. ’Point Break’ ends.
+C: DANNY
+D: Whaddya think?
+C: ANGEL
+D: Well, I won’t argue that it’s a no holds barred, adrenaline fuelled thrill ride but there’s no way you could perpetrate that amount of carnage and mayhem without incurring a considerable amount of paperwork.
+C: DANNY
+D: That’s nothing man. This is about to go off! EXT. GEDRGE MERCHANT’S HOUSE - NIGHT KA-BOOOOOOM. MERGHANT’s [U+FB02]aming body [U+FB02]ies through the air. INT. DANNY’S HOUSE - EARLY MORNING DANNY’s head rests on ANGEL as they sleep on the sofa. Daylight fills the room as ’Bad Boys 2’ blares from the TV.
+C: MARTIN LAWRENCE
+D: This shit just got real! The phone rings. They open their eyes at the same time. EXT. GEDRGE MERCHANT’S HOUSE - MORNING
+C: DR. HATCHER
+D: Nasty way to go. The Sandford Police survey the smoking black husk of Merchant’s house. His twisted and burnt cadaver is covered up by DR. HATCHER. Paramedics carry him off on a gurney.
+C: DR. HATCHER
+D: Seems Mr. Merchant tried to have a little fry up and left the gas on. They say you shouldn’t eat late at night.
+E: CONT’D
+C: DORIS THATCHER
+D: I dunno. I like a little midnight gobble. THATCHER and WALKER laugh at this. WALKER mumbles ’Cocks’.
+C: FISHER
+D: So what do we reckon? Angel? FISHER looks to a spectacularly groggy ANGEL and DANNY.
+C: ANGEL
+D: Yes?
+C: FISHER
+D: Help me.
+C: ANGEL
+D: We should set up a proper cordon, keep people back, let the fire crew finish and get the forensics to do a thorough sweep.
+C: FISHER
+D: Right. What he said. ANGEL spots a crew of workmen on the periphery, waiting to clear the scene. TIM MESSENGER appears, notebook in hand.
+C: MESSENGER
+D: Sergeant, a guick word?
+C: ANGEL
+D: Mr. Messenger, please. A statement will be issued shortly.
+C: MSSENGER
+D: Actually I just wanted to find out, ’What’s your perfect Sunday’?
+C: FISHER
+D: I’ll deal with the press Sergeant. Now, my perfect Sunday would begin FISHER leads MESSENGER away. ANGEL sees SIMON SKINNER amongst a crowd of onlookers. SKINNER waves ’hello’.
+C: WAINWEIGHT
+D: What you thinking? Foul play?
+C: ANGEL
+D: Maybe.
+C: WAINWRIGHT
+D: We’re just waiting to speak to the last people to see Mr Merchant alive, namely Sergeant Knickerless Asswipe and Constable Fanny Butterdog.
+C: DANNY
+D: That’s us. The ANDES collapse with into sniggers.
+C: ANGEL
+D: Why is this such a big joke to you? Three people have died in less than a week.
+C: WAINWRIGHT
+D: Oh come on Dr. Sherlock, they were accidents.
+C: CARTWRIGHT
+D: People have accidents everyday.
+C: WAINWRIGHT
+D: Ron Spencer got his cravat caught in the mulcher the other week.
+C: ANGEL
+D: But the victims knew each other.
+C: CARTWRIGHT
+D: Everyone knows everyone round ’ere.
+C: WAINWEIGHT
+D: Yeah. If you didn’t see anything suspicious, then who did? INT. STATIQN/CCTV OFFICE - DAY TOM WEAVER spools through footage on his CCTV monitors. ANGEL, DANNY, FRANK and the ANDES look on.
+C: WEAVER
+D: Bit of a blind spot I’m afraid. We’re not that well covered around George Merchant’s. We only get the very edge of the explosion.
+C: FRANK
+D: Nasty way to go.
+C: WEAVER
+D: One thing that did catch my eye.
+C: ANGEL
+D: What’s that?
+C: WEAVER
+D: You sticking it to these herberts! WEAVER shows a replay of the drunken HOODIE fight and whoops with delight. The ANDES snigger. ANGEL fumes.
+C: ANGEL
+D: This is irrelevant.
+C: WEAVER
+D: I beg to differ. It’s the closest we’ve come to nabbing the bastards.
+C: ANGEL
+D: Mr. Weaver, let’s concentrate- WEAVER pauses the tape on a blurred shot of the BLONDE KID.
+C: WEAVER
+D: Did you get a good look at this little mischief? What did he-
+C: ANGEL
+D: Forget that, just keep looking for anything out of the ordinary in the immediate area of Mr Merchant’s residence. Make a note of any car registrations spotted in the vicinity. In partieular, look out for a Red MG, license ’SS1’.
+C: FRANK
+D: Nicholas.
+C: ANGEL
+D: Yes sir?
+C: FRANK
+D: Can I have a mo? INT. CORRIDOR - DAY
+C: FRANK
+D: You’ve got to ease off on these Skinner allegations. He’s the manager of the local supermarket.
+C: ANGEL
+D: With respect sir-
+C: FRANK
+D: Listen, you are an exceptional officer, truly exceptional, but you do have to let the Andes do their job. If there’s anything amiss, we’ll hear soon enough. Until then we have to regard these incidents as accidents.
+C: ANGEL
+D: Yes sir.
+C: FRANK
+D: Good boy. FRANK leaves. ANGEL looks up to the photo on the wall. It is of an officer with a big bushy beard; ’Sgt, Popwell’.
+C: WEAVER
+D: Sergeant Angel, I think I’ve found what you’re looking for. ANGEL runs excitedly over to WEAVER’s office. The ANDES follow suit, as do DANNY and FRANK. They see CCTV footage of the SWAN waddling past Merchant’s house.
+E: O.S.
+C: WAINWRIGHT
+D: Ah, there you go. It was the Swan all along.
+C: ANGEL
+D: This is not funny Detective!
+C: CARTWRIGHT
+D: Oh give over Miss Marples.
+C: WAINWRIGHT
+D: Let us do our job and you do yours.
+C: CARTWRIGHT
+D: Yeah, haven’t you got a church fete to look after?
+C: ANGEL
+D: No, I have not!
+C: FRANK
+D: Actually. EXT. CHURCH FETE - DAY
+C: MALE VOICE
+D: Lovely day for it Sergeant? A bored ANGEL patrols at a bustling fete. We see impressive [U+FB02]oral displays and banners reading ’SAVE THE CHURCH RGQE’ and promoting Sandford for ’VILLAGE OF THE YEAR’. REV. SHOQTER sidles up to ANGEL with a tray of drinks.
+E: O.S.
+C: REV. SHOOTER
+D: Sergeant Angel, would your theological reservations preclude you from assisting me with the raf[U+FB02]e this afternoon? There’s a glass of Joyce Cooper’s lemonade in it for you. ANGEL takes a glass and downs it, to SHOOTER’S delight.
+C: REV. SHOOTER
+D: Marvellous. ANGEL slumps into a nearby chair and surveys the fete. He sees a child messily eating a ice lolly. He looks up to see the father, SGT. FISHER doing the same. He sees DORIS THATCHER standing with two burly men, giggling at a pig being spit roasted. He sees WALKER feed candy [U+FB02]oss to SAXON. BONG. A bell rings as LURCH plays a ’TEST YOUR STRENGTH’ game. SKINNER lurks nearby, manning a ’BASH THE RAT’ stall and staring into the distance. Thunder rumbles. ANGEL follows his gaze over to TIM MESSENGER having an animated discussion with LESLIE TILLER, the [U+FB02]orist...
+E: CONT’D
+C: CARTWRIGHT
+D: Shark? ANGEL jumps. The ANDES appear, clutching cans of Cider.
+E: O.S.
+C: WAINWRIGHT
+D: Seen any murderings Nicholarse? FRANK and DANNY approach dressed in wild west gear.
+C: FRANK
+D: Come on now boys. Leave Sergeant Angel alone, he’s working.
+C: WAINWRIGHT
+D: Sorry Chief, won’t waste anymore police time. The ANDES slope off, swigging their cider.
+C: FRANK
+D: Actually Nicholas. You may as well have a break.
+C: DANNY
+D: Great. I’ve got something to show you. ANGEL follows DANNY through the crowd until they come to a stop at an AIR RIFLE RANGE, run by a smiling DR. HATCHER.
+C: ANGEL
+D: This is a ri[U+FB02]e range.
+C: DANNY
+D: You’ll be really good at it.
+C: HATCHER
+D: Three cans wins you a squeaky bunny, five gets you a [U+FB02]oppy lion. Take out all the little people, you get to waltz off with the cuddly monkey.
+C: ANGEL
+D: I thought I made it clear to you how I felt about guns.
+C: DANNY
+D: It’s only an air ri[U+FB02]e.
+C: ANGEL
+D: No Danny.
+C: DANNY
+D: It is for a cuddly monkey. ANGEL grudgingly takes an air rifle. DANNY smiles expectantly. ANGEL fires, hitting every can dead centre with amazing speed. He lowers the rifle, feeling excited and unclean at once. The ANDES watch, swigging their cider.
+C: DR. HATCHER
+D: Good lord. ANGEL hands the ri[U+FB02]e to an awed DANNY, who inspects it.
+C: DANNY
+D: Fuck me...that was- DANNY accidentally pulls the trigger. We hear an agonized yelp. DR. HATCHER drops on the [U+FB02]oor clutching his leg. EXT. FETE - DAY ANGEL and DANNY walk away from the stall: ANGEL clutching the CUDDLY MONKEY, DANNY in shock. Behind a Saint John’s Ambulance team attend to DR. HATCHER, who’s in some pain.
+C: DANNY
+D: I can’t believe I shot someone.
+C: ANGEL
+D: He’s a doctor, he can deal with it.
+C: DANNY
+D: But I’ve never shot anyone before.
+C: ANGEL
+D: Believe me Constable. It’s not something you ever get used to.
+C: DANNY
+D: Yeah. Maybe we should go on the bouncy castle. Take our minds off it. ANGEL spies SKINNER talking heatedly with TIM MSSENGER. DANNY What is it? Thunder rumbles. Before ANGEL can answer, a YOUNG BOY runs right into him. We see that it is the BLONDE SCHOOL KID. He and ANGEL lock eyes. The boy looks terrified.
+E: cont’d
+C: WEAVER
+D: Watch where you’re going. ANGEL turns to see the grandfather. WEAVER I do apologise for my grandson. Stand up straight Gabriel, this is Sergeant Angel.
+E: cont’d
+C: ANGEL
+D: I’ve met Gabriel before actually.
+C: WEAVER
+D: Oh, have you? GABRIEL looks extremely anxious. His eyes go wide.
+C: ANGEL
+D: Yes. I gave a talk at the school, didn’t I Gabriel?
+C: GABRIEL
+D: Yeah.
+C: ANGEL
+D: Maybe we’ll get a chance to have another little chat sometime.
+C: WEAVER
+D: I’m sure Gabriel would love that.
+C: ANGEL
+D: You have a good afternoon. WEAVER and GABRIEL walk off. GABRIEL looks back at ANGEL, his expression of confusion and relief.
+C: DANNY
+D: What was that about? Before ANGEL can answer...a breathless TIM MESSENGER appears, slamming into ANGEL.
+C: TIM MESSENGER
+D: Sergeant Angel, I need to talk to you about George Merchant. Alone. It might be less conspicuous if you don’t bring the monkey.
+C: ANGEL
+D: This man is a police officer, I’d thank you to treat him with more respect.
+C: TIM MSSENGER
+D: I was talking about that. MESSENGER nods to ANGEL’s giant CUDDLY MONKEY.
+C: ANGEL
+D: Oh.
+C: TIM MESSENGER
+D: The churchyard. Ten minutes. ANGEL watches MESSENGER scurry off, passing SIMON SKINNER.
+C: SKINNER
+D: Bash the rat?
+C: REV. SHOOTER
+D: Could we have Sergeant Angel to the stage please? ANGEL gives the CUDDLY MONKEY to DANNY and walks off. EXT. FETE - DAY A distracted ANGEL takes to a makeshift stage where the REV. SHOOTER stands with a tombola and a microphone.
+E: TANNOY
+C: REV. SHOOTER
+D: Here to announce the winners is the newest addition to the Sandford Police Force-
+C: ANGEL
+D: (under breath} Police service.
+C: REV. SHOOTER
+D: -Sergeant Nicholas Angel.
+C: ANGEL
+D: Hello. A buzz of feedback from the mic. ANGEL eyes the clock. It’s 3pm. The tombola spins... ...MESSENGER waits in the churchyard, looks at his watch. ...ANGEL picks a name from the tombola. ANGEL The [U+FB02]rst name is Simon Skinner.
+E: cont’d
+C: ANNETTE ROPER
+D: He’s in the loo!
+C: REV. SHOOTER
+D: Too much of Joyce’s lemonade perhaps. Laughter from the crowd. Thunder rumbles... ...We see a BLACK GLGVED HAND on a church door handle... ...The tombola spins. ANGEL looks at the clock... ...We see BLACK EOOTS race up belfry steps... ...MESSENGER still waits. Sweat forms on his brow... ...ANGEL picks another name.
+C: ANGEL
+D: Tim Messenger.
+C: REV. SHOOTER
+D: Tim, your number’s up. There’s much hub-bub. Thunder rumbles. Closer this time. ANGEL looks in the crowd frantically... ...Unseen a CLOAKED EIGURE steps onto the church roof... ...ANGEL jumps down off the makeshift stage. ...ELACK GLOVED HANDS push on a loose turret stone. ...TIM MESSENGER stands directly below... ...ANGEL strides through the crowd... ...The gloved hand presses on the turret. The stone cracks... ...ANGEL breaks into a run. He reaches the churchyard... ...The stone breaks away from the roof and falls down. ...ANGEL runs in the churchyard, sees TIM MSSENGER- SPLAT. The tip of the stone CRUSHES MESSENGER’S head! ANGEL jerks back in horror. TIM MESSENGER now looks utterly surreal, with an upside down cone where his head should be. The off duty police arrive on the scene, along with many of the NWA. SIMON SKINNER runs over from a chemical toilet.
+C: FRANK
+D: Keep back. There’s been a terrible accident! There’s much hub-bub and murmurs of the word ’accident’ from the crowd. FISHER steps in, not having seen the body.
+C: FISHER
+D: What accident? Oh right. ANGEL grimaces, looks to the church roof and races off. EXT. CHURCH STEPS/ROOF - CONTINUOUS ANGEL runs up the church steps to the roof. He [U+FB02]ings the door open and peers out. There’s no-one there. He comes back down to find all the off duty police waiting at the door, along with a troubled REV. SHOOTER.
+E: he sees it
+C: FRANK
+D: Nicholas, what is it?
+C: ANGEL
+D: Sir, I think all these deaths are linked. Tim Messenger was murdered.
+C: REV. SHOOTER
+D: Who could do something like this?
+C: WAINNRIGHT
+D: Maybe it was the swan.
+C: CARTWRIGHT
+D: Apparently they can break a man’s arm.
+C: WAINWRIGHT
+D: Or blow up a man’s house.
+C: ANGEL
+D: Look-
+C: FRANK
+D: Whoa there Nicholas. Let me get this straight. Are you saying this is a crime scene?
+C: ANGEL
+D: Yes sir, I am.
+C: FRANK
+D: Very well. Detectives, start interviewing everyone who was at the fete. Sgt Fisher, secure the area, PC Thatcher, get the CSI down here. PC Walker patrol the churchyard with Saxon. Nicholas, Danny...you know what to do. EXT. CHURCHYARD - NIGRT ANGEL and DANNY sit in the rain at the crime scene. DANNY still wears his cowboy outfit and clutches the MONKEY.
+C: DANNY
+D: Do you really think this is murder?
+C: ANGEL
+D: I just don’t think we should rule it out.
+C: DANNY
+D: Yeah. I think you’re right. PC WALKER passes with SAXON.
+C: WALKER
+D: Ifinkyertarkinaloodashitt.
+C: DANNY
+D: He thinks you’re talking a load of shit. Swings and roundabouts innit? The ANDES wander past. ANGEL and DANNY get up and approach.
+C: ANGEL
+D: Did you find anything?
+C: WAINWRIGHT
+D: Yes I was extremely shocked when I looked at my watch and discovered the pubs were shut.
+C: ANGEL
+D: What about his house? Have you checked his office? Read his articles?
+C: CARTWRIGHT
+D: If you want to wade through every copy of the Sandford bloody Citizen, be our guest.
+C: ANGEL
+D: It’s your job isn’t it? Detect!
+C: WAINWRIGHT
+D: This isn’t the city, Mister Angel. Not everyone’s a murdering psychopath. High time you realised that. You and your monkey. The ANDES walk off into the night. DANNY holds up the CUDDLY
+C: MONKEY. DANNY
+D: Did he mean me or that? A furious ANGEL puts his head in his hands. DANNY Maybe we should go home.
+E: cont’d
+C: ANGEL
+D: What do you mean?
+C: DANNY
+D: Well, there’s nothing going on is there?
+C: ANGEL
+D: Have you listened to anything I’ve said Constable?
+C: DANNY
+D: What do you mean?
+C: ANGEL
+D: Has anything I’ve told you in the last few weeks got through that thick skull of yours?
+C: DANNY
+D: Yeah...
+C: ANGEL
+D: Oh really?
+C: DANNY
+D: You said I could be an amazing policeman officer.
+C: ANGEL
+D: There’s always something going on Danny and you’ll never be an amazing police officer until you understand that.
+C: DANNY
+D: I remembered something else you said.
+C: ANGEL
+D: And what was that?
+C: DANNY
+D: You don’t know how to switch off. ANGEL stalks back to his stool and again guards the cordon. He sits alone in the rain, soaking to the skin. INT. SWAN HOTEL CORRIDOR/BEDROOM - NIGHT ANGEL approaches his door. He unlocks it and enters. On the bed is the sodden CUDDLY MONKEY and a card reading - ’This was left for you at reception. Regards Joyce’ ANGEL slumps into a chair, picks up the phone and dials-
+C: INSPECTOR
+D: I’m out of the office at present... ANGEL spies the Sandford Citizen featuring him on the cover. He sees the byline ’Words and Pictures by Tim Messenger’. ANGEL hangs up and [U+FB02]icks through the paper, past mundane stories; ’Bypass Still Unannounced’, ’Sandford Family Trees’. He stops at a feature entitled ’Sandford People’ with an accompanying photo of George Merchant. A quote reads "This is just the beginning; I have big plans for Sandford". ANGEL looks inspired. He grabs his pen and notebook. EXT/INT. LIERARY - MORNING ANGEL sits at a table surrounded by archived volumes of the Sandford Citizen. He [U+FB02]ips through the pages at speed. We see FLASHCUTS of ANGEL scouring articles, photocopying relevant pages, highlighting crucial sentences and even correcting the odd typo. It’s a blizzard of information. We see ANGEL highlight a sentence reading ’Mr. G. Merchant has applied for planning permission...’ We see another headline, ’George Of The Jungle: Merchant Buys Scrubland’. We see a photo of MARTIN BLOWER outside the Sandford Playhouse. The headline reads ’From Bar to Verse: Solicitor Finances Drama Sociecy’. The pages [U+FB02]ip faster, the words start to blur. There has never been a more exciting scene in film history. INT. STATION - MORNING A glum DANNY sits at a desk. ANGEL enters. DANNY doesn’t look up. ANGEL struggles with a guilty greeting.
+E: V.O.
+C: ANGEL
+D: Morning Constable.
+C: DANNY
+D: Alright?
+C: ANGEL
+D: Thanks for the monkey.
+C: DANNY
+D: It’s yours.
+C: ANGEL
+D: Yeah but I won it for you. Danny, I think I’m on to something.
+E: smiles apologetically
+C: DANNY
+D: Are you?
+C: ANGEL
+D: I think with a little bit of deliberation we can figure out what links these deaths. ANGEL slaps a thick bundle of photocopies on the table.
+C: DANNY
+D: We?
+C: ANGEL
+D: I can’t do this by myself Danny. DANNY looks touched. The ANDES breeze past their desk.
+C: WAINWRIGHT
+D: Morning benders.
+C: CARTWRIGHT
+D: What you up to?
+C: DANNY
+D: Nothing. The ANDES leave. ANGEL smiles at DANNY.
+C: ANGEL
+D: Come on partner, lets go to work. FISHER pokes his head out of his office, a note in hand.
+C: FISHER
+D: Sergeant Angel. Someone from London rang for you.
+C: ANGEL
+D: Tell them I’ll ring ’em back. EXT. HIGH STREET - DAY DANNY and ANGEL walk their beat, striding in perfect time.
+C: ANGEL
+D: Tim Messenger.
+C: DANNY
+D: Go.
+C: ANGEL
+D: Editor and journalist for The Sandford Citizen.
+C: DANNY
+D: Uh-huh.
+C: ANGEL
+D: Fondness for puns.
+C: DANNY
+D: Go on.
+C: ANGEL
+D: Terrible speller.
+C: DANNY
+D: Oh yeah?
+C: ANGEL
+D: Rut nevertheless had uncovered important information about... INT/EXT. SQUAD CAR - DAY ANGEL and DANNY neglect their speed gun duty.
+C: DANNY
+D: George Merchant.
+C: ANGEL
+D: Self made millionaire.
+C: DANNY
+D: Ch-ching.
+C: ANGEL
+D: Fancied himself as a property developer.
+C: DANNY
+D: Uh-huh.
+C: ANGEL
+D: Had big plans for Sandford.
+C: DANNY
+D: Pissed on the [U+FB02]oor in the Crown.
+C: ANGEL
+D: But more importantly, was a good friend and client of... INT/EXT. STREET - DAY ANGEL and DANNY walk the beat again.
+C: ANGEL
+D: Martin Blower.
+C: DANNY
+D: Affirmatron.
+C: ANGEL
+D: Respected solicitor and leading light of the local drama society.
+C: DANNY
+D: Bad actor.
+C: ANGEL
+D: Undoubtedly.
+C: DANNY
+D: Bad driver.
+C: ANGEL
+D: Not necessarily.
+C: DANNY
+D: Cheated on his missus.
+C: ANGEL
+D: Most certainly and we both know who with? EXT. SQUAD CAR - DAY ANGEL and DANNY drive back to the sation.
+C: DANNY
+D: Eve Draper.
+C: ANGEL
+D: Blower’s leading lady.
+C: DANNY
+E: Whistles
+C: ANGEL
+D: Distinctive laugh.
+C: DANNY
+D: Oh yes.
+C: ANGEL
+D: Liked older men.
+C: DANNY
+D: Fingered.
+C: ANGEL
+D: But crucially, where did she work?
+C: DANNY
+D: Council.
+C: ANGEL
+D: Specifically?
+C: DANNY
+D: The department of planning and development.
+C: ANGEL
+D: Where George Merchant had secured permission to build his dubious mansion on Norris Avenue.
+C: DANNY
+D: So... INT. STATION - EVENING Back in the office, the energy [U+FB02]ags. DANNY has his head on ANGEL the table, ANGEL [U+FB02]icks endlessly through his notes.
+C: DANNY
+D: Tim Messenger was onto something about George Merchant who was into something with Martin Blower who was up to something with Eve Draper.
+C: ANGEL
+D: And Simon Skinner has something to do with it all.
+C: DANNY
+D: But he runs the local supermarket.
+C: ANGEL
+D: So?
+C: DANNY
+D: I don’t know, I mean, maybe it was all accidents. People have accidents everyday. Gary Butcher drowned in his own septic tank the other week. ANGEL puts his head on the table too. FRANK swings by.
+C: FRANK
+D: What are you two up to?
+C: ANGEL
+D: Nothing.
+C: FRANK
+D: Well, look sharp. There’s been reports of a fire in the station.
+C: ANGEL
+D: What?! DORIS produces a cake with a single candle stuck in it. The other officers gather round, singing ’Happy Birthday’. ANGEL then notices cards and banners that have clearly been there the whole day. All reading ’Happy Birthday Danny’. ANGEL You should have said something.
+E: cont’d
+C: DANNY
+D: We were working weren’t we? ANGEL is ashamed of himself. He slinks away to the door. DANNY Where you going?
+E: cont’d
+C: ANGEL
+D: Personal errand. EXT. STATION - EVENING The squad car races along a street, lights [U+FB02]ashing. EXT. FLORISTS/NURSERY - EVENING ANGEL pulls up outside ’mourns as LESLIE’ and puts his notebook emphatically on the dashboard. ANGEL arrives at the door as LESLIE TILLER is shutting up.
+C: ANGEL
+D: Oh Miss Tiller, I was wondering, have you got any Peace Lilies?
+C: LESLIE TILLER
+D: Of course. I was just about to pop off actually. INT. FLORIST/NURSERY - EVENING LESLIE TILLER cuts wrapping paper with large garden shears.
+C: LESLIE TILLER
+D: I can never find my scissors. Is this for someone special?
+C: ANGEL
+D: Yes. Yes it is. ANGEL spies packing crates and boxes on the [U+FB02]oor. ANGEL Are you going somewhere Miss Tiller?
+E: cont’d
+C: LESLIE TILLER
+D: No. Well, yes. I’m moving away. It’s all a bit out of the blue. I was planning to disappear quietly actually. I do so hate goodbyes.
+C: ANGEL
+D: And why the move, if you don’t mind me asking?
+C: LESLIE TILLER
+D: Well, just between you and I... LESLIE TILLER seems a little edgy. ANGEL is intrigued.
+C: ANGEL
+D: Yes?
+C: LESLIE TILLER
+D: You know that fella who blew up?
+C: ANGEL
+D: George Merchant.
+C: LESLIE TILLER
+D: That’s him, well George Merchant - god rest him - he wanted to buy this land, so he sends round his legal fella Martin Blower - god rest him - I thought I might take them up on it, because I’ve been thinking about moving for some time, I haven’t really got that much family round here, save for Cousin Sissy. And while the ’Village Of The Year’ stuff is great and everything, I don’t really see anything from it, so I thought I might take them up on the offer and move to Buford Abbey. Would you like a card with this?
+C: ANGEL
+D: No, it’s okay. You were saying about the offer?
+C: LESLIE TILLER
+D: Well, it turns out that Martin Blower - god rest him - knew where the new bypass road is going because he was knocking off Eve Draper from the council - god rest her - then that reporter - god rest LESLIE TILLER him - finds out about the route and tells me the land’s very valuable, ten times what George Merchant and Martin Blower - god rest them - offered me. So with them having passed on and me still owning the land, I decided to sell it on myself to some folks from the city that Martin, George and Eve - god rest the lot of them - had been talking to, apparently they want to build a big shopping centre or something, of course Cousin Sissy won’t be too happy about that, but as far as I’m concerned - ANGEL pats his pockets for his note book.
+E: MORE cont’d
+C: ANGEL
+D: Would you excuse me for one second?
+C: LESLIE TILLEE
+D: Of course. EXT. FLORIST/NURSERY - NIGHT ANGEL leaves the [U+FB02]orist. He runs back to the car to get his pocketbook. In the background we can see LESLIE TILLER wrapping the [U+FB02]owers - but we can also see - The CLOAKED FIGURE slips in from the back room of the shop, grabs the shears and plunges them into LESLIE TILLER’s throat. Blood spurts all over the counter and front window. ANGEL turns back to see...TILLER dead. Shears in her neck. The blood. A SHADOW disappearing into the stock room...
+C: ANGEL
+D: Stop. In the name of the law! ANGEL runs towards the [U+FB02]orist, throwing his trunoheon at the window. It shatters a second before he jumps through. INT/EXT. FLORIST/NURSERY - NIGHT ANGEL runs into the stock room, to see the CLOAKED FIGURE running through the aisles of the stock room. He gives chase. SMASH. The CLOAKED FIGURE jumps through a greenhouse window, catching their leg on the frame. ANGEL is almost on top of him and jumps through the newly smashed window. Landing, he looks up to see the FIGURE now a good 50 metres ahead, running towards a greenhouse and knocking garden furniture in its wake. ANGEL sprints off again, bursting into the greenhouse and gaining on the CLOAKED EIGUEE. Both knock plants asunder. The CLOAKED EIGURE slices through a mesh door with a knife and disappears over a hedge at the nursery perimeter. ANGEL reaches the final hedge to find the CLOAKED FIGURE, now 100 metres away, sprinting across a cricket pitch. A breathless ANGEL stands at the hedge, confused and amazed. EXT. FLORISTS/NURSERY - NIGHT Back at the [U+FB02]orist. ANGEL and FISHER stare at LESLIE TILLER who lies dead, shears protruding from her neck.
+C: FISHER
+D: Hang about, hang about. You’re saying this wasn’t an accident? INT. STATION - NIGHT
+C: ANGEL LESLIE TILLER WAS MURDERED!
+D: The assembled officers look at ANGEL as if he is insane.
+C: CARTWRIGHT
+D: What just like Tim Messenger?
+C: ANGEL
+D: Yes!
+C: WAINWRIGHT
+D: And George Merchant?
+C: ANGEL
+D: Yes!
+C: CARTWRIGHT
+D: And Eve Draper? ANGEL scrawls on a piece of paper the word ’YES’.
+C: ANGEL
+D: Yes!
+C: WAINWRIGHT
+D: And Martin Blower?
+C: ANGEL
+D: No, actually.
+C: WAINWRIGHT
+D: Really?
+C: CARTWRIGHT
+D: Really?
+C: ANGEL COURSE HE FUCKING WAS!
+D: DANNY pops a coin in the swearbox. ANGEL Thank you Danny.
+E: cont’d
+C: WAINWRIGHT
+D: Oh Murder. Murder. Murder. Change the fucking record. CARTWRIGHT pops a coin in the swearbox for WAINWRIGHT. WAINWRIGHT Thank you Andy.
+E: cont’d
+C: FISHER
+D: Yes come on Sergeant, you’ve got to accept that it was another terrible accident.
+C: ANGEL
+D: Are you suggesting Leslie Tiller somehow tripped and fell on her own shears?
+C: FISHER
+D: Ben Fletcher fell on his pitchfork the other week.
+C: DORIS THATCHER
+D: People have accidents everyday. What makes you think it was murder?
+C: ANGEL
+D: Because I was there.
+C: CARTWRIGHT
+D: Yeah, that’s a point. Why were you there?
+C: ANGEL
+D: I was buying a Japanese Peace Lily for Constable Butterman’s birthday.
+C: WAINWRIGHT
+D: What absolute horseshit.
+C: ANGEL
+D: Look, I chased a suspect from the scene. Innocent people don’t run.
+C: FISHER
+D: It might have been our old friend the cactus thief again.
+C: DORIS THATCHER
+D: Yeah, he was a prickly customer. Everyone laughs. ANGEL crumples against the nonsense.
+C: ANGEL
+D: Am I going completely mad?
+C: WAINWRIGHT
+D: Maybe you are?
+C: CAEIWRIGHT
+D: Ieah, maybe you killed her, seeing as you’re such a big fan of murder.
+C: ANGEL
+D: What!?
+C: FRANK
+D: Sergeant Angel?
+E: O.S.
+C: ANGEL
+D: YES....sir? FRANK ushers ANGEL into his office and shuts the blinds.
+C: FRANK
+D: Nicholas, Nicholas, Nicholas, what am I going to do with you?
+C: ANGEL
+D: Chief, you’ve got to understand-
+C: FRANK
+D: No, you have to understand, the boys here aren’t used to the concepts you’re bandying about. The ’M’ word, Nicholas. There hasn’t been a recorded murder in Sandford for 20 years.
+E: off Angel’s look
+C: ANGEL
+D: But I’m sure sir. And what’s more, I know who did it.
+C: FRANK
+D: I hope you’re not going to say who I think you’re going say. INT. SKINNER’S OFFICE - NIGHT
+C: ANGEL
+D: Could I see the manager please? ANGEL and co. burst into SKINNER’s office to find the CHECKOUT GIRL chewing gum. She intones into the tannoy.
+C: CHECKOUT GIRL
+D: Mr. Skinner to the manager’s office please. Managers office. Mr. Skinner. INT. SKINNER’S GEFICE - NIGHT The cops are all crammed into the office. ANGEL stands purposefully. Various employees look through the office window.
+C: SKINNER
+D: Sergeant Angel. Officers. To what do I owe this pleasure?
+C: ANGEL
+D: I’m arresting you on suspicion of the murder of Leslie Tiller.
+C: SKINNER
+D: Leslie Tiller is dead? How?
+C: FISHER
+D: She tripped and fell on her own shears. ANGEL throws a pen at FISHER’s head. He yelps.
+C: ANGEL
+D: I’m also arresting you on suspicion of the murders of Tim Messenger on May 1st, George Merchant on April 29th and Eve Draper and Martin Blower on April 28th.
+C: SKINNER
+D: Why on earth would I want to do that Sergeant?
+C: ANGEL
+D: I’m glad you asked. The following is illustrated with oodles of FLASHCUTS. It looks pretty damn cool, for a British film. ANGEL My suspicions were [U+FB02]rst aroused when you appeared at the scene of the Blower/Draper deaths, on the outskirts of Sandford, despite living and working in the centre of the village. I couldn’t help recall your comments at the theatre the previous evening, when you not only indicated your awareness of the couple’s affair but also inferred that Ms. Draper’s connections at the council might make her privy to important information. You yourself spoke of "bashing her head in". Perhaps hoping you might discover the route for the proposed Sandford Bypass. You were already suspicious that Blower’s client George Merchant was buying up an area of land on the edge of the village, after a story Tim Messenger ran in the Citizen. You put two and two together after noting Merchant’s use of your car park to visit Blower who you knew all too well had an inside connection at the council. The land Merchant was buying up had no particular value as it was but if it were to be made accessible by a new road, it would become an ideal location for perhaps, a retail park. Consumed with concern for your business and potential disloyalty from fickle customers ANGEL whom you yourself stated the desire to behead, you killed the potential competition in cold blood, staging the murders as accidents. You used a vehicle removal truck to stage the Blower/Draper crash and incinerated an old man in his house, covering your tracks with the judicial application of bacon and beans. However, there was a loose end. Tim Messenger foolishly confronted you at the village fete, after his own investigations lead him to the same conclusions. So you silenced him, before he could voice his concerns to me but not before he had told Leslie Tiller about the true value of her land. Upon discovering that she was about to sell up to the developers, you brutally murdered her with her own shears and made your escape utilising your impressive prize winning skills as a fun runner. ANGEL finishes his summation, by resting his hand on a ’fun run’ trophy. The room is astonished. SKINNER claps slowly.
+E: cont’d MORE cont’d
+C: SKINNER
+D: Very entertaining, Sergeant Angel. But I rather think you’ve been watching too many films.
+C: DANNY
+D: He hasn’t.
+C: SKINNER
+D: Why would I kill Leslie? You clearly aren’t aware we’re related.
+C: ANGEL
+D: Oh but I am, ’Cousin Sissy’. ANGEL slaps down a photocopied sheet of a family tree article from the ’Sandford Citizen’. Highlighted are Skinner and Tiller’s connected names. SKINNER scoffs.
+C: SKINNER
+D: I’m afraid my nickname of Sissy is only a revelation to yourself. My teenage years studying ballet are well known.
+C: WAINWRIGHT
+D: Yeah Sissy Skinner.
+C: CARTWEIGHT
+D: What a gaylord!
+C: SKINNER
+D: Thank you Andrews. Despite my comment about beheading customers, what we here on Planet Sandford like to refer to as ’a joke’ I would personally relish the competition of another store. Anything to energise my workforce. SKINNEE gesticulates to his gormless minions outside.
+C: ANGEL
+D: You would relish the competition. Especially if it was yourself. As Miss Tiller’s only cousin, you’re set to inherit her land, on which you plan to build a Summeraisles Express. The perfect one stop shop for bypass traffic. ANGEL points to the sketch of a new store on the wall.
+C: SEINNER
+D: These sketches are just pipe dreams. Anyway, what makes you think I could dislodge part of the church roof? Or for that matter stage a car crash?
+C: ANGEL
+D: It’s a well known fact that the church roof is severely in need of repair. As for the car, isn’t it true that two of your employees also operate the council’s vehicle removal truck? ANGEL points to the GRUFF LOOKING BUTCHERS. They are the same GRUFF LOOKING MEN from the removal vehicle earlier.
+C: SKINNER
+D: Sergeant, this is the 21st Century, I’ll think you find that many people hold down several jobs, I myself host a life drawing class at the Village Hall. SKINNER Tina here is a table dancer at Flappers.
+E: nods to Checkout Girl MORE cont’d
+C: ANGEL
+D: The thing is Mr. Skinner, you could quite easily have obtained access to the removal vehicle and used it for your own ends.
+C: SKINNER
+D: These accusations are meaningless Sergeant, unless you can back them up with hard evidence.
+C: ANGEL
+D: Well you’ve certainly got me there. We’d need something conclusive. Like perhaps a wound you sustained on a shard of broken glass this very evening. ANGEL awkwardly pulls back SKINNER’s trouser legs. Nothing.
+C: SKINNER
+D: Oh Sergeant, this is getting to be embarrassing. Apart from anything else, how can I be in several places at once? I’m sure the store’s security footage can absolve me. Do feel free to spool through. INT. SKINNER’S OFFICE - NIGHT A frustrated ANGEL spools a huge pile of VHS tapes. We see CCTV images of SKINNER stagily strolling the shop [U+FB02]oor. The other officers drift out of the office, grumbling. Soon only DANNY and FRANK remain. FRANK slaps a hand on ANGEL’s shoulder and leaves. DANNY picks up another tape.
+C: ANGEL
+D: I can handle this Danny You enjoy the rest of your birthday.
+C: DANNY
+D: Did you really get me that plant?
+C: ANGEL
+D: Yes, but it’s been impounded as evidence.
+C: DANNY
+D: Maybe I can still water it. DANNY leaves as SKINNER apprcaches with LURCH.
+C: SKINNER
+D: Sergeant, I wanted you to know that if I do indeed now own the land belonging to Leslie, I intend to turn it into a memorial garden, in her honour.
+C: ANGEL
+D: Jog on.
+E: blows raspberry
+C: SKINNER
+D: Michael, will you escort the Sergeant off the premises when he’s quite finished?
+C: LURCH
+D: Yarp. INT. SWAN HOTEL DINING - NIGHT ANGEL eats alone, a broken man. JOYCE serves him wine.
+C: JOYCE CQOPER
+D: I can’t believe Leslie’s dead. How did it happen again?
+C: ANGEL
+D: She tripped and fell on her own shears. INT. STATION LOCKER ROOM - DAY ANGEL and DANNY are getting into uniform. Retrieving his cap, ANGEL sees the word ’TWAT’ written on the inside.
+C: DANNY
+D: That wasn’t me. INT/EXT. SQUAD CAR - DAY DANNY and ANGEL sit in their usual spot, as the high street is being decorated with bunting. DANNY leeks at ANGEL, whe stares off intc space.
+C: DANNY
+D: Look Nicholas. Mr. Treacher’s got his big coat on again...Want anything from the shop?
+C: ANGEL
+D: Cornetto. INT. NEWSAGENT - DAY DANNY buys two ice-creams from a smirking ANNETTE ROPER. ANGEL watches on morosely.
+C: ANNETTE RUPER
+D: No luck catching them killers then?
+C: DANNY
+D: It’s just the one killer actually. EXT. SQUARE - DAY DANNY throws some change into the fountain. They get into the squad car, licking their ice creams. ANNETTE’s words echo in ANGEL’s head; ’No luck catching them killers then?’ Licking his ice cream; ANGEL ponders DANNY’s response; ’It’s just the one killer actually’. The words resonate. ANGEL stops eating his ice cream, his eyes go wide.
+C: DANNY
+D: What’s the matter? You got brainfreeze?
+C: ANGEL
+D: No I got brainwave. Get us back to the station. Now! NANNY starts the car, whilst trying to finish as much of his ice cream as he can. He clutches his head in pain.
+C: DANNY
+D: Arrrgh! EXT. STATION - DAY The squad car screeches to a halt in the car park.
+C: ANGEL
+D: It’s more than one person.
+C: FRANK
+D: Come again?
+C: ANGEL
+D: More than one killer.
+C: FRANK
+D: It was Skinner a minute ago.
+C: ANGEL
+D: Maybe it still is. Maybe he’s not alone. Maybe there are others.
+C: FRANK
+D: Who exactly?
+C: ANGEL
+D: I don’t know but we were buying Cornettos and it suddenly hit me-
+C: FRANK
+D: You’re an exceptional officer, Nicholas. Truly exceptional. But I’ve seen this before.
+C: ANGEL
+D: Sir?
+C: FRANK
+D: Sergeant Popwell. It was exactly the same thing. You’ve come from a city where there’s danger round every corner and it’s driven you round the bend. ANGEL visibly sags. He becomes listless and compliant.
+C: ANGEL
+D: Yes sir.
+C: FRANK
+D: Listen, I’m due at a function in about half an hour. So do yourself a favour. Sleep on it. If you feel the same way in the morning, I give you my word, we’ll get right on it.
+C: ANGEL
+D: Thank you sir. EXT. STATION - DAY ANGEL leaves the station. DANNY follows, confused.
+C: DANNY
+D: What happened? What’s going on?
+C: ANGEL
+D: Nothing. I was just- I’m gonna go back and crash for a bit.
+C: DANNY
+D: Oh okay. Need a lift?
+C: ANGEL
+D: No, I could do with the walk. ANGEL walks off, feeling guilty. DANNY looks forlorn. EXT. SANDFORD HIGH STREET - DUSK ANGEL trudges home, the street is festooned with bunting. INT. SWAN HOTEL RECEFTION - DUSK ANGEL slopes through the hotel reception. It is empty. A new ROMEO AND JULIET poster shows understudies, Greg and Sherry, smiling as the male and female lead. INT. SWAN HOTEL CORRIDOR - DUSK ANGEL takes out his key. He notices his door is ajar. The door [U+FB02]ies open...A huge CLOAKED FIGURE lifts ANGEL off the ground, throws him inside and slams the door behind. INT. SWAN HOTEL BEDROOM - DUSK ANGEL hits the wall with a thud. He gets up and throws several punches at his attacker, but stops, clutching his injured hand. The FIGURE picks ANGEL up in a bear hug. ANGEL struggles, pulling the assailant’s hood off to reveal- LURCH. They look at each other for a second. ANGEL brings his [U+FB02]sts down on either side of LURCH’s head. LURCH drops ANGEL, holding his ears. ANGEL kicks LURCH in the balls. He barely winces before hurling ANGEL across the room into a painting of the castle. His notebook drops to the [U+FB02]oor. LUNCH lumbers towards him. ANGEL grabs the CUDDLY MONKEY and looks throws it in LURCH’s direction. LUNCH catches it and is momentarily charmed, hypnotised by the monkey’s cute eyes. A whistle from offscreen. LURCH turns to see ANGEL upright, brandishing his beloved POT PLANT.
+C: ANGEL
+D: Playtime’s over. SMASH. ANGEL hits LURCH across the head, destroying his Peace Lily in the process. LURCH drops. His walkie-talkie clatters to the [U+FB02]oor, crackling to life.
+C: SKINNER
+D: Michael? Michael? Are you there? Michael? Is everything okay? ANGEL speaks into the Walkie-talkie in a thick brogue.
+E: O.S.
+C: ANGEL
+D: Yarp.
+C: SKINNER
+D: Sergeant Angel has been taken care of?
+E: O.S.
+C: ANGEL
+D: Yarp.
+C: SKINNER
+D: He’s not going to get back up again?
+E: O.S.
+C: ANGEL
+D: ...Narp?
+C: SKINNER (O.S.}
+D: Good. Proceed to the castle. ANGEL looks to a castle painting on the wall. He pulls out his phone and dials.
+C: FRANK
+D: You’ve reached Frank Butterman. Please leave a message after the beep-
+E: 0.S.
+C: ANGEL
+D: Frank. This shit just got real. Skinner just tried to kill me. He’s going somewhere. The castle I think. I’m going there now. I don’t know who to trust. It’s Nicholas by the way. ANGEL turns to see DANNY at the door and jumps a mile. DANNY looks at LURCH sprawled among the pot plant debris.
+C: DANNY
+D: Oh my god. What happened to your Peace Lily?
+C: ANGEL
+D: Danny. Stay here. Watch him. Call your Dad. Tell him I was right.
+C: DANNY
+D: What are you going to do?
+C: ANGEL
+D: I’m going to bust this thing wide open.
+C: DANNY
+D: Nicholas? Danny picks up ANGEL’s notebook and puts it in his pocket.
+C: ANGEL
+D: Thanks partner. EXT. HIGH STREET - NIGHT ANGEL runs down the high street past a National Trust sign pointing toward ’SANDFORD CASTLE’. EXT/INT. CASTLE RUINS - NIGHT ANGEL approaches Sandford Castle ruins, a dilapidated l2th Century Castle. It looks spooky in the dark. ANGEL hears voices coming from inside. We hear chanting-
+C: MASSED VOICES (O.S.}
+D: ...bonum commune communitatis... ANGEL peers into the main hall. He sees several BLACK CLOAKED FIGURES standing around a large circular stone tablet. They hold torches under their faces. ANGEL makes out familiar faces under the hoods. We see TOM WEAVER, whose words echo in ANGEL’s head; "I can see what the entire village is up to..." ANGEL looks to see 12 walkie talkies on the stone tablet - "Got everyone linked up with a walkie so we can keep each other abreast of any misadventure." ANGEL sees SKINNER under one of the hoods. Words echo; "How can I be in several places at once?"... We see ELASHCUTS of the [U+FB02]orist chase, now with angles that we didn’t see previously; a second CLOAKED FIGURE outside the greenhouse, a third CLOAKED EIGUEE behind the hedge. ANGEL spies some of the other faces - JOYCE COOPER, ANNETTE ROPER, JAMES READER, REV. SHOOTER, DR. HATCHER, AMANDA PAVER - "We’re basically a group of volunteers who strive to keep the village just so..." ANGEL’s thoughts [U+FB02]ash back to the fountain. We see DANNY throw some change in. The penny drops. We see the plaque; ’This fountain was generously restored with funds raised by F. Butterman, J. Cooper, R. Hatcher, A. Paver...’ As the CLOAKED FIGURES stop chanting and sit at the tablet, ANGEL is even more horrified by what he hears next...
+C: JOYCE COOPER
+D: Quick announcement before we begin. Janet Barker has decided to call her boys Roger and Martin which is lovely. The christening will be Saturday week and all are welcome. Tom? The CLOAKED FIGURES all swing their torches to WEAVER.
+C: WEAVER
+D: Thanks Joyce. Now you’ll be pleased to know that the tenacious Sergeant Angel has now been taken care of. Thanks must go to Simon Skinner for his efforts in this. Our very own Joyce Cooper will discover the officer tomorrow morning, slumped WEAVER on the wet [U+FB02]oor of his ensuite bathroom, having slipped in the shower and tragically broken his neck. Dr. Hatcher will take it from there.
+E: MORE cont’d
+C: DR. HATCHER
+D: Indeed and may I say very well executed Simon. I will of course pronounce the death as accidental. That is after all what I’m here for. All torches to DR. HATCHER. There are mild chuckles.
+C: WEAVER
+D: With Sergeant Angel dispatched, we can concentrate our efforts on eradicating our hoodie infestation, after which nothing will stand in our way.
+C: ANGEL
+D: Oh I beg to differ, Mister Weaver. All the torches spin to the direction of the voice.
+E: O.S.
+C: WEAVER
+D: Well, well, well, I see we have visitors. ANGEL walks into the torch beams, warrant card aloft.
+C: ANGEL
+D: Sergeant Nicholas Angel. Sandford Police Service.
+C: SNINNER
+D: My, he is tenacious isn’t he?
+C: ANGEL
+D: I’m placing you all under arrest on suspicion of conspiracy to commit murder.
+C: WEAVER
+D: Oh come, come Sergeant Angel.
+C: ANGEL
+D: You should be ashamed of yourselves. This is supposed to be the community that cares!
+C: REV. SHOOTER
+D: Oh, but we do care Nicholas.
+C: JOYCE COOPER
+D: It’s all about the greater good.
+C: ALL
+D: The greater good.
+C: ANGEL
+D: What do you mean the greater good?
+C: ALL
+D: The greater good.
+C: SKINNER
+D: Sandford, Nicholas. The village.
+C: DR. HATCHER
+D: A happy village is a healthy village.
+C: REAPER
+D: Perfection breeds contentment and contentment is paramount.
+C: SKINNER
+D: You see, as much as I enjoyed your wild theories Sergeant, the truth is far less complex. Blower’s fate was simply the result of his being an appalling actor. There’s a murmur of "appalling".
+C: ANGEL
+D: You murdered him for that?
+C: SKINNER
+D: He murdered Bill Shakespeare.
+C: ANGEL
+D: What!? Oh I see. We see FLASHEACKS of MARTIN ELOWER’s dressing room murder. Now, we see new angles with MULTIPLE CLOAKED FIGURES.
+C: REAPER
+D: The Sandford Players is an important feather in our cap.
+C: DR. HATCEER
+D: We couldn’t let Blower jeopardize that. Not when we had two semimprofessionals waiting in the wings. SKINNER points to an OLDER COUPLE in cloaks who wave back.
+C: SKINNER
+D: Let us not forget Greg was an extra in Straw Dogs -
+C: ANGEL
+D: Yes, I know!
+C: JOYCE COQPER
+D: Martin was less concerned with the reputation of the village than his sordid affair with Eve Draper. We see FLASHBACKS of EVE’s murder by MULTIPLE KILLERS.
+C: ANGEL
+D: And so Eve deserved to die too?
+C: DR. HATCHER
+D: She did have an annoying laugh. There’s a murmur of ’annoying’.
+C: ANGEL
+D: And George Merchant?
+C: SKINNER
+D: He had an awful house. There’s a murmur of "awful". We see FLASHBACKS of MERCHANT’S ’accidental’ explosion. Now, with MULTIPLE CLOAKED FIGURES engineering it.
+C: JOYCE COOPER
+D: We begged him in vain to make his residence more in keeping with the village’s rustic aesthetic.
+C: ANGEL
+D: What was Messenger’s crime?
+C: SNINNER
+D: Tim Messenger’s tenure as editor of the Sandford Citizen has been unbearable.
+C: REAPER
+D: Our once great paper had become riddled with tabloid journalism and dreadful punnery. Not to mention persistent errors.
+C: ROY PORTER
+D: He listed her age as 55.
+C: MARY PORTER
+D: When I’m actually 53.
+C: REV SHOOTER
+D: The church roof was in need of repair and the insurers wouldn’t pay unless it was certified hazardous. Let’s just say we killed two birds with one stone. FLASHBACK of MULTIPLE CLOAKED FIGURES pushing the turret.
+C: ANGEL
+D: What about Leslie Tillar? One of your own? Her her horticultural expertise helped put Sandford on the map.
+C: JOYCE COOPER
+D: She was ever so good.
+C: SKINNER
+D: Cousin Leslie was a terrible shame. But it seems she was set on moving away.
+C: WEAVER
+D: We had to stop her before she shared her green fingers with anyone else.
+C: JOYCE COOPER
+D: Not least the heathens at Euford Abbey. The NWA simultaneously spit on the ground.
+C: DR. HATCHER
+D: If we can’t have her no-one can.
+C: ANGEL
+D: How can this be for the greater good?!
+C: ALL
+D: The greater good.
+C: ANGEL
+D: Shut it. These people died for no reason, no reason whatsoever?
+C: VOICE
+D: Oh I wouldn’t say that. All torches move to the voice. To ANGEL’s horror, it is FRANK. He wears the era FASHIONED POLICE CAPE.
+E: O.S.
+C: FRANK
+D: I was like you once Nicholas. I believed in the immutable word of the law. That is until the night Mrs. Butterman was taken from me. You see, no-one loved Sandford more than her. She was head of the Women’s Institute, chair of the ’[U+FB02]oral committee’, even ran the Neighbourhood Watch before Tom. When they started the ’Village of the Year’ contest, she worked round the clock, it became her life. I’ve never seen such dedication. On the eve of the adjudicator’s arrival, some travellers moved into Callahan Park. Before could say gypsy scum, We were knee deep in dog muck, thieving kids and crusty jugglers. We lost the title and Irene lost her mind. She drove her Datsun Cherry into Sandford Gorge. The inquiry said it was an accident but I knew better. From that moment on I swore that I’d do her proud. And whatever the cost, we’d make Sandford great again.
+C: ANGEL
+D: Sir, this doesn’t make sense.
+C: WEAVER
+D: It makes perfect sense, Sergeant. Frank gathered together a group of the most faithful Sandfordians and showed us how we might rid our streets of the paedophiles and perverts-
+C: REV. SHOOTER
+D: -the shoplifters-
+C: REAPER
+D: -the shirtlifters-
+C: WEAVER
+D: -the punks, the drunks-
+C: AMANDA PAVER
+D: -the thugs, the mugs-
+C: SKINNER
+D: -the hams, the shams-
+C: REV. SHOOTER
+D: -the drifters, the grifters-
+C: DR. HATCHER
+D: -the dodgers, the bodgers-
+C: JOYCE COOPER
+D: -the hawkers, the stalkers-
+C: ROY PORTER
+D: -the gypsies, the tramps-
+C: MARY PORTER
+D: -and thieves-
+C: ANNETTE ROPER
+D: -the paedophiles, the perverts-
+C: ANGEL
+D: Yeah, you’ve had them.
+C: FRANK
+D: The adjudicators arrive tomorrow Nicholas. They were supposed to arrive in a couple of months but they brought it forward for some reason. We had to make sure everything was ready.
+C: ANGEL
+D: Are you saying this was all about winning the ’Best Village Award’?
+C: FRANK
+D: This is the best village Nicholas. You’ve seen the people. They’re happy, contented. Most of them don’t even know about our work. They have very normal lives. There’s a murmur of "very normal".
+C: ANGEL
+D: They’re living in a dream world.
+C: HATCHER
+D: Precisely. No crime. No tension.
+C: WEAVER
+D: Sheer bliss. There’s a murmur of "bliss".
+C: FRANK
+D: We have created the society you dream about. Isn’t that worth preserving?
+C: ANGEL
+D: Not with murder.
+C: FRANK
+D: Sgt. Popwell thought much the same as you. I’m disappointed you can’t see the big picture.
+C: ANGEL
+D: Well, I’m happy to disappoint sir. And I’m afraid you’re going to have to come with me. You’re all going to have to come with me.
+C: FRANK
+D: No Nicholas, I’m afraid it’s you who has to some with us... The NWA reveal an array of weapons from under their cloaks; axes, scythes, pitchforks, knives etc. Out of the shadows, a bruised and angry LURCH slaps a hand on ANGEL’s shoulder. ANGEL is shocked. Another hand lands on his other shoulder. he turns to see-
+C: ANGEL
+D: Danny? No! NO! DANNY is silent. He and LURCH wield knives and torches. With lightning speed ANGEL ducks out of their grip, grabs LURCH’s blade, spins behind DANNY and holds it to his throat. He takes DANNY’s torch and shines it at the NWA. ANGEL Now back off or you’ll be explaining to everyone how Danny accidentally tripped and cut his own head off. The NWA continue to close in. FRANK laughs.
+E: cont’d
+C: FRANK
+D: Oh come on Nicholas. You haven’t got it in you.
+C: ANGEL I MEAN IT.
+D: They close in further. Shit. ANGEL throws DANNY to the ground and runs into the woods. The NWA give chase. A hoard of cloaked figures run through the trees. ANGEL sprints into the darkhess- Suddenly ANGEL trips and falls through a hole in the path. INT. BLACKNESS - NIGHT ANGEL crashes to a dusty [U+FB02]oor, winded. He picks up his torch and shines it around. He seems to be inside an old GYPSY CARAVAN buried in the ground. His torch picks out a
+C: SKELETON IN GYPSY CLOTHING.
+D: ANGEL backs up frantically, colliding with an ENTIRE FAMILY OF GYPSY SKELETONS, complete with children and dog. ANGEL staggers to the door which bursts open into a cave. His torch picks out many more bodies. The most recent addition, in a PURPLE SHELL SUIT is a dead PETER COCKER. ANGEL jumps back and finds himself staring at a skeleton in a police sergeant’s uniform. It has a BIG BUSHY BEARD. ANGEL [U+FB02]ees the cave and sees one other corpse; that of the LIVING STATUE, now frozen in a final expression of terror. EXT. WOODS - NIGHT ANGEL slams straight into DANNY at the cave mouth. The other NWA members gather behind, an ominous mass of shadow. DANNY produces his blade.
+C: ANGEL
+D: Danny! No! DANNY plunges the knife into ANGEL’s chest. We see ANGEL stagger back. His torch drops and smashes. INT/EXT. DANNY’S CAR - NIGHT A sign looms in the night - ’YOU ARE NOW LEAVING SANDFORD’. A grim DANNY pulls into a dark layby in his Astra. The brake lights illuminate the sign with a hellish glow. INT/EXT DANNY’S CAR - NIGHT A car boot opens. DANNY stands over a bloodied ANGEL, the knife protruding from his chest. ANGEL slowly opens his eyes and looks at DANNY with confusion. DANNY slowly opens his hand to reveal a number of empty ketchup sachets.
+C: DANNY
+D: Ta-daaaa. DANNY yanks the knife out of ANGEL’s chest. ANGEL produces the notebook from his breast pocket.
+E: weakly
+C: ANGEL
+D: What are you doing?
+C: DANNY
+D: They told me I had to put you in the front seat and push you in the gorge. DANNY hauls ANGEL out of the car boot.
+C: ANGEL
+D: Danny, it’s murder.
+C: DANNY
+D: It’s not, it’s ketchup.
+C: ANGEL
+D: I’m not talking about me Danny, I’m talking about all the others the NWA have murdered.
+C: DANNY
+D: That’s not true. Dad just said it’s his special club. I thought it was just about rapping knuckles and sending them on their way.
+C: ANGEL
+D: There are skeletons back there Danny.
+C: DANNY
+D: I don’t know nuffin about the skelingtons!
+C: ANGEL
+D: But what about Draper, Blower, Merchant, Messenger and Tiller? What do you think was happening?
+C: DANNY
+D: I don’t know.
+C: ANGEL
+D: It was Frank, Danny. He’s appointed himself judge, jury and executioner.
+C: DANNY
+D: He’s not Judge Judy!
+C: ANGEL
+D: He is Danny! And you have to help me take him down.
+C: DANNY
+D: I can’t Nicholas. I’m involved now. I have to do what Dad says. I can’t get out. But you can. Take the car, go back to London. There’s nothing you can do.
+C: ANGEL
+D: I can come back. And I can bring the blue fury of the Metropolitan Police Service with me.
+C: DANNY
+D: They’ll make it all disappear. They hid it from everyone else. Who are they gonna believe? Dad, or the loony London copper?
+C: ANGEL
+D: But you’ll be here won’t you Danny? We can do this together. You and me. Partners.
+C: DANNY
+D: Forget it Nicholas. It’s Sandford. A tearful DANNY pulls out his car keys. ANGEL takes them, limps to the car and drives off. In his rear view, ANGEL can just make out the figure of DANNY standing in the road. INT. DANNY’S CAR - NIGHT ANGEL drives down the M4. Rain lashes his windscreen. His fuel light blinks low. He reaches ’HESTON SERVICES’. INT. HESTON SERVICES - NIGHT A CLERK eyes ANGEL, who is covered in grime and ketchup.
+C: CLERK
+D: Is that everything Sir? ANGEL’s gaze has been drawn to a bargain bin full of DVDs. He scans the titles - ’OUT FOR JUSTICE’,’THE ENFDRCER’, ’LETHAL WEAPON’, ’WALKING TALL’, ’HARD T0 KILL’. CLERK Sir? Sir? Is there anything we can do for you?
+E: cont’d
+C: ANGEL
+D: No. This is something I have to do myself. ANGEL grabs a pair of shades, a [U+FB02]stful of car spray paints and some bubble gum. He slams down some crumpled money. EXT. BRANNIGAN’S FARM - MORNING We see the ’WELCOME TO SANDFORD’ sign. It’s morning outside JAMES REAPER’s farm. His GREEN 4X4 pulls over to the roadside. He gets out and walks to some horses at a gate. They snort, restless. REAPER looks behind him. The ASTRA is sitting right in the middle of the road.
+C: REAPER
+D: Danny? REAPER squints. It’s not DANNY. Sitting behind the wheel, wearing shades and revving the engine, is ANGEL. Reaper runs to his 4X4...ANGEL screams towards him...Reaper grabs his car radio.. SMASH. ANGEL crashes his car directly into the 4X4...REAPER is left clutching the radio and snapped cable...ANGEL springs from the ASTRA and charges towards REAPER. REAPER Mum!!! ANGEL punches REAPER out cold. BANG...Buckshot rips into the 4X4 next to ANGEL’s head... REAPER’S MUM brandishes a shotgun from the other side of the gate. She breaks the shotgun and goes to reload. ANGEL runs towards the gate, jumps into the air and launches into a [U+FB02]ying kick. REAPER’S MUM snaps the shotgun shut, ANGEL lands on her, with maximum force. EXT. BRANNIGAN’S FARM - MORNING JAMES REAFER and his MUM are tied to the fence.
+E: cont’d
+C: REAPER
+D: What are you going to do? Just walk in and arrest the whole village?
+C: ANGEL
+D: Not exactly. INT. SANDFORD STATION - MORNING ANGEL glides through the quiet front office, past the straight haired DESK SERGEANT who barely looks up. INT. LOCKER ROOM - MORNING ANGEL glides through the locker room. No-one spots him. He opens his locker, and retrieves a uniform and a stab vest. INT/EXT. EVIDENCE ROOM - MORNING ’999’ is punched into the keypad. The door opens on the arsenal of weaponry. ANGEL grabs all he can carry. RIFLES and SHOTGUNS round his shoulders, PISTOLS in his belt. The room is now completely empty, save for the sea mine. INT. FRANK’S OFFICE - MORNING FRANK looks at paperwork and eats ice cream. In the outer office ANGEL stands looking in. FRANK becomes aware of someone watching. He looks up but ANGEL has gone. INT. STATION - MORNING ANGEL glides past the DESK SERGEANT, who finally pipes up.
+C: DESK SERGEANT
+D: Oh Sergeant Angel? Someone from London called for you. ANGEL scowls back at him, chewing gum, armed to the teeth. DESK SERGEANT I’ll tell them you’ll ring ’em back. ANGEL nods and walks out. The DESK SERGEANT watches him go. DESK SERGEANT That’s funny.
+E: cont’d cont’d
+C: VOICE (O.S.}
+D: What’s that?
+C: DESK SERGEANT
+D: I didn’t know we had a mounted division. The voice’s owner joins DESK SERGEANT in peering after
+C: ANGEL.
+D: It’s his curly haired twin brother.
+C: THE OTHER DESK SERGEANT
+D: Nobody tells me nothing. EXT. STREET - MORNING An armed ANGEL trots down the street on a FUCKING HORSE. He rides past a bus shelter where GABRIEL WEAVER and the HOODIES sit in their usual formation, albeit in school uniform. They stare at ANGEL, their young mouths agape.
+C: ANGEL
+D: Wanna do something useful? ANGEL throws a holdall to GABRIEL. It’s full of spray cans. INT. STATION/CCTV OFFICE - MORNING WEAVER reads the paper and daintily eats ice cream. He does not see the CCTV screens slowly turn black behind him. EXT. HIGH STREET - MORNING Sandford. As it was that first morning. Idyllic, bustling, happy. Among the morning folk we see smiling NWA members going about their business as if nothing has happened. We see WORKMEN putting up a banner across the middle of the street reading ’GOOD LUCK SANDFORD: VILLAGE OE THE YEAR’. ANNETTE ROPER is putting out a display in front of her shop. Her walkie-talkie crackles to life.
+C: RADIO VOICE
+D: Annette, that new policeman’s back. INT. CCTV ROOM - MORNING WEAVER hears this RADIO message and finally realises that all his precious CCTV cameras have been sprayed black. INT. SURGERY - MORNING DR. HATCHER peers through his surgery window, his eyes wide. ANGEL is re[U+FB02]ected passing on horse back. EXT. STREET - MORNING JOYCE COOPER waters the hanging baskets outside the hotel, she spots ANGEL riding up the middle of the high street. The PORTERS peer out of the Crown, mouths agape. REV. SHOOTER is talking to the understudies GREG and SHEREE. All three stop and stare. AMANDA PAVER skids to a stop on her bicycle and gawps. MR. TREACHER in his heavy coat looks on in terror. SKINNER and his staff stare from the window of SUMMERAISLES. DANNY is sat in the squad car in the usual parking spot. He sees ANGEL and is terrified, not knowing what to do. INT. STATION - MORNING WEAVER bursts into FRANK’s office, panic stricken. FRANK looks up. His cheery expression dissipates immediately.
+C: FRANK
+D: Angel. EXT. SQUARE - MORNING The village has come to a stop. The NWA watch as ANGEL dismounts. Beads of sweat glisten. Eyes [U+FB02]ick this way and that. The ordinary folk are unnerved by the hush.
+C: ANGEL
+D: Morning. MR. TREACHER [U+FB02]ings open his winter coat revealing a shot gun. ANGEL dives behind the fountain just as he fires. The village erupts into chaos. The innocent run for cover. The NWA mobilise. The PORTERS scurry inside. DR. HATCHER emerges from his surgery with a number of guns. ANNETTE ROPER runs into her shop. Moments later an upper window smashes and the barrel of a gun protrudes. DANNY sits in the car, his face a mixture of awe and panic. ANGEL takes a look at MR. TREACHER’s position. He is standing next to a truck loaded with BEER BARRELS. ANGEL jumps up and fires blasting the catch holding the BEER BARRELS in place. They tumble off the back of the truck, knocking TREACHER off his feet. ANGEL is pinned down by fire from ANNETTE ROPER. He looks up to see ROPER’S gun poking out of her shop. ANGEL sees the HOODIES hiding behind a car. He motions to the newsagent. The HOODIES stampede into the shop. The door slams. We see the notice; "ONLY ONE CHILD AT ANY TIME". In the window, ROPER’S gun is suddenly yanked backwards. We hear muffied screams and blows. Shots ring out, a hail of bullets narrowly missing ANGEL. Pedalling towards him on her cycle, firing a ri[U+FB02]e is AMANDA PAVER. ANGEL dives out of the line of fire. DANNY sees AMANDA PAVER in his wing mirror. His face hardens. He [U+FB02]ings the door wide open and sends AMANDA PAVER [U+FB02]ying through the air into a crumpled heap. DANNY runs over to join ANGEL. ANGEL throws him a shotgun. DANNY catches it in mid air. ANGEL That’s what I’m talking about. Shots ricochet off the fountain. GREG and SHEREE reign fire on the two officers. ANGEL and DANNY, without a moments pause, return fire, shooting GREG in his gun hand and SHERRE in the shoulder. Both fall dramatically.
+E: cont’d
+C: JOYCE COOPER
+D: Fascist! JOYCE COOPER opens fire with an antique Winchester. DANNY dives for cover. ANGEL rolls across the [U+FB02]oor, pulling two pistols from his belt, still rolling he fires at JOYCE. One of JOYCE’s hanging baskets drops directly on her head.
+C: ANGEL
+D: Hag! There’s a piercing yell. ANGEL turns to see BERNARD baring down fast with the ORNAMENTAL SWORD. ANGEL barely manages to draw his baton to block the attack. BERNARD swipes, slicing the baton in half. ANGEL takes out BERNARD’s legs with a foot sweep. BERNARD crashes down. Then from behind ANGEL.
+C: REV. SHOOTER
+D: STOP! STOP THIS! Please. Let us put down our guns. Nicholas, my son, you may not be a man of god but surely you’re a man of peace.
+C: ANGEL
+D: Reverend I may not be convinced about the existence of God but I know good and evil and I have the grace to know which is which.
+C: REV. SHOOTER
+D: Oh fuck off Grasshopper! REV. SHOOTER pulls a pistol from his cassock and fires. The bullet takes ANGEL by surprise, grazing his shoulder.
+C: DANNY
+D: Nooooooooo! DANNY returns fire at SHOOTER hitting him in the shoulder.
+C: REV. SHOOTER
+D: Jesus Christ!!! DANNY runs over to ANGEL who is lying winded in the road.
+C: ANGEL
+D: Still feel like you’re missing out? CLICK. They turn to see DR. HATCHER pointing a shotgun.
+C: DR. HATCHER
+D: Drop your weapons.
+C: DANNY
+D: Dr. Hatcher wait.
+C: DR. HATCHER
+D: Shut up Danny. I brought you into this world, it’s rather fitting I should be the one to take you out of it. You and your interfering little friend. Now drop them! DANNY does so. His shotgun hits the [U+FB02]oor. BLAM! It fires into HATCHER’s leg. His knee explodes in a shower of blood. DR. HATCHER clutches his knee, wailing in pain.
+C: ANGEL
+D: You’re a doctor, deal with it...motherfucker. Danny, let’s go.
+C: DANNY
+D: What are you thinking exactly? A shot blasts from the windows of THE CROWN.
+C: ANGEL
+D: Pub? ANGEL eyes the board outside the pub; reading ’COME ON IN!’ INT/EXT. THE CROWN - MORNING SMASH. The pub board comes smashing through the window. The PORTERS fire wildly from behind the bar, before a sign reading ’TWO SHOOTERS FOR THE PRICE OF ONE’. They stop. Then - the pub doors [U+FB02]y open. DANNY and ANGEL burst in, jumping through the air whilst both firing two guns. They land and roll, grabbing tables to form a barricade. The PORTERS open fire again. Tables and chairs splinter. ANGEL pops up and fires at a bear trap on the wall. It falls and clamps its jaws around ROY PORTER’s head.
+C: MARY PORTER
+D: Roy! Somebody call the police!
+C: FRANK (O.S.}
+D: Reach! The entire Sandford police burst in, wearing RIOT GEAR and clutching batons. WALKER holds a growling SAXON on a leash. FRANK leads them, aiming his ANTIQUE PISTOLS at ANGEL.
+C: FRANK (CONT’D}
+D: Officers, arrest that man. Danny, step away from the Sergeant.
+C: DANNY
+D: No Dad.
+C: FRANK
+D: Danny, you’ll do as you’re told.
+C: DANNY
+D: No, I’m not taking orders from you any more.
+C: FRANK
+D: Officers, arrest these men!
+C: ANGEL
+D: You can arrest us if you want. You can throw us in prison and go back to being blind, submissive slaves.
+C: CARTWRIGHT
+D: What the fuck is he on about?
+C: WAINWRIGHT
+D: What the fuck are you on about?
+C: ANGEL
+D: Have you ever wondered why the crime rate in Sandford is so low and the accident rate so high?
+C: FISHER
+D: No. Yes. What?
+C: ANGEL
+D: You’ve been brain washed Sergeant into naivety by an old man with a murderous obsession and it’s time you opened your eyes to the truth.
+C: FRANK
+D: This is ridiculous.
+C: DANNY
+D: No, it’s not Dad. It’s very unridiculous. And it’s only now that I’m starting to realise how unridiculous it all is.
+C: FRANK
+D: Silence Danny! Think of your mother.
+C: DANNY
+D: Mum’s dead and for the first time in my life, I’m glad. Because even though she loved this village more than anything if she could see what you’ve become, she’d kill herself all over again.
+C: DORIS THATCHER
+D: Sorry, I’m completely lost.
+C: ANGEL
+D: Sandford is a lie Doris. For the last twenty years the village has been controlled by Frank and the NWA. They’ve lulled you into thinking this is a perfect village by killing anyone who threatened to change that. SAXON stops growling. BOB WALKER pipes up.
+C: WALKER
+D: Recconneeegottsumadere.
+C: DANNY
+D: He says he ’reckons you got something there’.
+C: ANGEL
+D: I know. Thanks.
+C: WALKER/DANNY
+D: S’alroight. FRANK rounds on the officers, raising his pistols at them.
+C: FRANK
+D: You’re not seriously going to believe this man are you? Are you?! He’s not even from round here. The officers look on in confused disbelief at the manic FRANK, who realises he is brandishing his weapons.
+C: WAINWRIGHT
+D: Maybe it’s time to give it up sir.
+C: FRANK
+D: You ignorant flatfoots! FRANK snaps, shooting his pistols up in the air. He hits a rustic light fitting, which crashes to the ground. ANGEL and the other officers dive out of the way, as glass explodes across the main bar. Everyone scatters. In the confusion, FRANK makes a bid for freedom through the back of the pub. ANGEL jumps up. The other officers stare after FRANK, then look to ANGEL, their new leader.
+C: ANGEL
+D: Let’s go.
+C: DANNY
+D: Aren’t we gonna go after dad?
+C: ANGEL
+D: He’ll come round again.
+C: DANNY
+D: Well, who else is there?
+C: ANGEL
+D: Want anything from the shop? FLASHCUTS; the police tool up, cuff people. PC WALKER and SAXON guard the already incapacitated NWA members. ROY PORTER still has the bear trap on his head. EXT. SUMMERAISLES - MORNING ANGEL leads his new recruits as they approach the car park. They take cover behind recycling bins, armed and ready.
+C: DANNY
+D: What you thinking? Before Angel can answer-
+C: FISHR
+D: We should strike now while we have the element of surprise, the longer we wait the more time they have to mobilise. I say we go in through the front entrance and take the place aisle by aisle. They won’t be expecting that.
+C: ANGEL
+D: Very good. What he said. INT. SUMMERAILES - MORNING A grim SKINNER and his gormless minions watch the CCTV.
+C: SKINNER
+D: My, my. Here come the fuzz. EXT. SUMMERAISLES - MORNING The Sandford police gather near the entrance.
+C: WAINWRIGHT
+D: Maybe they’re not in.
+C: ANGEL
+D: Wait here. ANGEL goes into SUMMERAISLES through the automatic door.
+C: DORIS THATCHER
+D: We can’t let him go in on his own.
+C: DANNY
+D: He knows what he’s doing. KRAAASSSHHHH! ANGEL comes [U+FB02]ying through the front window of the shop and lands in a heap on the ground. He gets up.
+C: ANGEL
+D: They’re in. You take the shop. I’ll deal with the trolley boy.
+C: WAINWRIGHT
+D: Eh?
+C: CARTWRIGHT
+D: Eh? LURCH strides out of the shop.
+C: WAINWRIGHT
+D: Oh.
+C: CARTWRIGHT
+D: Oh. DANNY leads the officers in, as ANGEL faces up to LURCH. ANGEL We don’t have to do this Michael. Is this what you really want?
+E: cont’d
+C: LURCH
+D: Yarp.
+C: ANGEL
+D: Suit yourself. ANGEL runs at LUNCH and headbutts him in the face. INT. SUMMRAISLES - MORNING The OFFICERS make their way through the supermarket aisles. WAINWRIGHT peers round a corner. One of the GRUFF BUTCHERS throws a large meat cleaver. It shatters a tomato sauce jar next to his head. CARTWRIGHT shrieks, assuming it’s blood.
+C: CARTWRIGHT
+D: Andy! Meanwhile ANGEL is being swung around by LURCH, his arms clamped tightly around LURCH’s neck. ANGEL [U+FB02]ailing legs knock produce off shelves as he clings on tight. LURCH begins to lose consciousness. He staggers past a ’WET FLOOR’ sign, slips and both fall hard into a chest freezer. ANGEL scrambles out covered in frost. LURCH is out cold. ANGEL joins the other officers, who crouch behind shelves as they shoot at the two GRUEE EUTCHERS.
+C: DANNY
+D: Where’s Lurch?
+C: ANGEL
+D: He’s unconscious in the freezer.
+C: DANNY
+D: Did you say ’cool off’?
+C: ANGEL
+D: No I didn’t say anything.
+C: DANNY
+D: Oh shame.
+C: ANGEL
+D: But you missed a bit earlier when I distracted him with the monkey, said ’Playtime’s over’ and hit him with the Peace Lily.
+C: DANNY
+D: You’re off the fucking chain! Another cleaver whizzes by, smashing more sauce bottles.
+C: ANGEL
+D: What’s the situation?
+C: WAINWRIGHT
+D: Two blokes and a lot of cutlery. What do you reckon? The two GRUFF BUTCHERS wait, knives drawn, ready to throw. Suddenly a terrific clattering rumble fills the store. A battering ram comprised of several trollies handcuffed together bursts into view, hurtling toward the GRUFF BUTCHERS. The ANDES ride the front of the trolley-ram, yelling like Vikings. The trollies crash into the meat counter, knocking the GRUFF BUTCHERS to the [U+FB02]oor. The ANDES leap off the makeshift battering ram and deck the [U+FB02]oored bad guys. A PIERCING SCREAM. The officers turn to see the sluttish CHECKOUT GIRL running towards them. DORIS THATCHER grabs the ’WET FLOOR’ sign and slams it into the CHECKOUT GIRL’s face. She slides across the [U+FB02]oor. WAINWRIGHT Nice one Doris.
+E: cont’d
+C: DORIS THATCHER
+D: Nothing like a bit of girl on girl. SPLAT! The officers duck for cover. Gangly SHELF STACKERS appear, throwing a volley of melons and pineapples.
+C: ANGEL
+D: Can you handle this sergeant? We’re going after the big boss.
+C: FISHER
+D: We’re on it, Sergeant.
+C: ANGEL
+D: Danny, let’s roll.
+C: WAINWEIGHT
+D: Angel! Don’t go being a twat now.
+C: ANGEL
+D: I wouldn’t give you the satisfaction. ANGEL and DANNY burst in. The office is deserted, the window open. They see SKINNER in the car park climbing into a SQUAD CAR, driven by FRANK. ANGEL Let’s get down there.
+E: cont’d
+C: DANNY
+D: How?
+C: ANGEL
+D: Skip. ANGEL and DANNY jump through the open window and land in a skip full of cardboard boxes, as FRANK’s car peels off. ANGEL Head ’em off?
+E: cont’d
+C: DANNY
+D: Fuck yeah. ANGEL and DANNY sprint down an alley, burst back into the square and race towards DANNY’s SQUAD CAR. DANNY I’ll drive. ANGEL slides over the bonnet to the passenger side. FRANK’s car screams past. DANNY gets in and [U+FB02]icks on the siren.
+E: cont’d
+C: ANGEL
+D: Punch that shit! They screech off. Behind them we see the once picturesque square bullet riddled and blood splattered. The banner reading ’Village of the Year’ [U+FB02]utters to the ground. Three official looking types holding clipboards stand gobsmacked amid the debris. EXT. SANDFOED STREETS - DAY FRANK’s car races past a ’KILL YOUR SPEED’ sign. Behind, ANGEL and DANNY gain on them. They take turns shooting at FRANK’s car as they go. It’s COP ON COP. FRANK’s car hits the brow of a hill at 100mph and gets air. As it hits the road again, SKINNNR spots something.
+C: SKINNER
+D: Swan! FRANK panics. Swerves. Big mistake. The car careers off the road and smashes right into a sign for the ’MODEL VILLAGE’. EXT. MODEL VILLAGE - DAY A beautiful blue sky. The sun beams down on a perfect vista of Sandford. The idyllic shot is quickly ruined however as- A GIGANTIC SQUAD CAR [U+FB02]ies over what we reveal to be a miniature version of Sandford. A small GINGER HAIRED KID stares in awe as the SQUAD CAR brie[U+FB02]y blocks out the sun. EXT. ROAD - DAY ANGEL and DANNY’s SQUAD CAR reaches the brow of the hill.
+C: ANGEL
+D: Swan. DANNY brakes with expert timing. They screech to a stop by the waddling SWAN. ANGEL opens the door and grabs the SWAN. EXT. MODEL VILLAGE - DAY The SWAN now sat in the back seat, DANNY takes the SQUAD CAR into the Model Village. Ahead is a scene of devastation. FRANK’s SQUAD CAR lies upturned in a water feature, a damaged sprinkler rains water down onto the model village. FRANK is motionless at the wheel. SKINNER limps away from the crash. ANGEL jumps from the car and runs toward him. DANNY runs over to his injured father. SKINNER swipes up the GINGER HAIRED KID and holds a pistol to his head. ANGEL freezes, stopping dead in his tracks.
+C: SKTNNER
+D: Stay back or the ginger nut gets it! The KID thinks fast, sinking his teeth into SKINNER’s hand.
+C: SKINNER
+D: Ow you little fucker! SKINNER drops the kid. Before he has a chance to recover, ANGEL pounces and they both crash down into the tiny village. SKINNER’s pistol skitters down a miniature street. ANGEL and SKINNER spring back up. The sprinkler rains down as they trade blows. The low angle in the model village makes them look like GODZILLA and KING KONG. ANGEL hits SKINNER twice hard in the face. Reaching out SKINNER grabs ANGELS’s hand. ANGEL winces in pain. SKINNER sees he has discovered a weakness and exploits it. He twists ANGEL’s hand whilst raining blows down on his face. SKINNER GET GUT GE MY VILLAGE! ANGEL straightens himself like T2 and shakes his head.
+E: cont’d
+C: ANGEL
+D: It’s not your village any more. WHAM. ANGEL [U+FB02]attens SKINNER with one punch. SKINNER sprawls across a mini village sguare. ANGEL looks over to the GINGER KID, who is agog at the coolness of events. ANGEL Well done son. What’s your name?
+E: cont’d
+C: GINGER HAIRED KID
+D: Aaron A. Aaronson.
+C: ANGEL
+D: I’m sorry? The KID’s eyes go wide. ANGEL spins around. Behind is a maniacal SKINNER, holding a box cutter knife and running full pelt at ANGEL through the tiny streets.
+C: SKINNER
+D: Annnnnnnnnnnnnngelllllllll! SKINNER trips on a model Someraisles truck. His legs slip from under him, sending him [U+FB02]ying. He spins in the air. SPLAT. SKINNER falls hard onto the miniature church roof. A model turret has embedded itself beneath SKINNER’s chin and protrudes through his mouth. ANGEL looks to DANNY who pulls FRANK from the SQUAD CAR.
+C: ANGEL
+D: Danny. It’s over.
+C: SKINNER (0.S.}
+D: Ooowwww. SKINNER is not actually dead. He speaks, even though his neck and tongue are now pierced by the turret.
+C: SKINNER
+D: Goooow, thith weally hurth. I can’t feel my thongue. I’m going to need thome ice cream.
+C: ANGEL
+D: There’s plenty of ice cream back at the station. Isn’t there- ANGEL turns to see FRANK holding a gun to DANNY’s head. ANGEL Oh pack it in Frank, you silly bastard!
+E: cont’d
+C: FRANK
+D: Now, now Sergeant. We don’t want any more bloodshed.
+C: DANNY
+D: Dad, don’t do this!
+C: ANGEL
+D: Frank, this whole thing started because you lost someone you loved. Don’t expect me to believe you’d let it end the same way.
+C: FRANK
+D: I’ll tell you how this is going to end! He points his gun at ANGEL. DANNY leaps on FRANK wrestling the gun from him. FRANK sprints off towards ANGEL’s car. DANNY aims the gun at him and is about to pull the trigger. He can’t. Instead he points the gun in the air and fires.
+C: DANNY
+D: Aaaaargh! FRANK jumps in the car and peels off, wheels screeching. INT. CAR - CONTINUOUS FRANK looks in his rear view. No one pursues him. However he is not alone in the car. Behind, the long slender neck of THE SWAN rears up. FRANK turns. It pounces. EXT. ROAD - MORNING ANGEL and DANNY watch as the CAR veers wildly and crashes into a tree. We hear the sound of distant swan battle.
+C: ANGEL
+D: I feel like I should say something smart.
+C: DANNY
+D: You don’t have to say anything at all. Rehind them cars screech up and the rest of the Sandford police run over. The two officers look up to see a METROPOLITAN POLICE HELICOPTER coming to land in a field. EXT. ROAD - LATER FRANK sits handcuffed in the back of an ambulance, wearing a neckbrace. SKINNER is carried through shot on a stretcher, the model church spire still sticking through his face. The HOODIES record this sight on their mobiles.
+C: SKINNER
+D: Ow ow ow ow ow ow ow. We see the Swan cuffed to a car door by the neck. The OLD MAN IN A CAP approaches to retrieve him. ANGEL and DANNY sit with blankets around them. They are addressed by the three ofificers from the start of the film.
+C: CHIEF INSPECTOR
+D: What do you say Nicholas?
+C: INSPECTOR
+D: We’ve been trying to reach you for days.
+C: ANGEL
+D: Well I’ve been kind of busy.
+C: SERGEANT
+D: We need you back. The figures have gone a little squiffy in your absence it has to be said.
+C: CHIEF INSPECTOR
+D: Come back to London. Sandford’s hardly fitting for such an exceptional officer. ANGEL looks to DANNY, then back at the model Sandford.
+C: ANGEL
+D: Yes, but the thing is sir. I like it here. Now, if you’ll excuse me, we have to do a considerable amount of paperwork. INT/EXT. STATION - DAY FASTCUTS of forms being filled, various NWA members processed; prints, mug shots etc. ROY PORTER still has the bear trap on his head. He is measured as 7 feet 5 inches. INT. STATION - DUSK The entire Sandford force, including both DESK SERGEANTS sit guietly scribbling away. DANNY is particularly hard at work, the Peace Lily now has pride of place on his desk.
+C: WATNWRIGHT
+D: Fucking hell Nick, this is going to take ages.
+C: CARTWRIGHT
+D: Yeah, we’re gonna be here all night.
+C: FISHER
+D: Good job we’ve got the manpower isn’t it Andy?
+C: DANNY
+D: Actually, official vocab guidelines state that we say ’staf[U+FB02]ng’, not ’manpower’. ’Manpower’s sexist.
+C: ANGEL
+D: You don’t mind a bit of manpower do you Doris?
+C: DORIS THATCHER
+D: Dirty bastard! Everyone laughs. Whoops and catcalls fill the office. ANGEL is for once the office joker. A WASTEPAPER BASKET hits him hard on the head.
+C: ANGEL
+D: Hey you cheeky fucker! Another huge laugh. ANGEL grins at DANNY, who appears suddenly grave. He follows DANNY’s gaze to see TOM WEAVER. Aiming a BLUNDERBUSS at ANGEL, his face full of hate.
+C: WEAVER
+D: You know what you are? A bloody busy-body! WEAVER fires. DANNY lunges at ANGEL, pushing him off his chair and taking full force of WEAVER’s blast in the chest. With lightning speed ANGEL slips his feet into a wastepaper basket and kicks it at WEAVER’s face. WEAVER staggers back into the evidence ream. He hits the back shelf. The sea mine teeters, rolls forward and drops between WEAVER’s legs, narrowly missing his crotch. WEAVER Oh thank god. KA-BOOM. The sea mine gees off. The evidence room door blasts outwards. ANGEL [U+FB02]ies backwards thrcugh the air.
+E: cont’d
+C: SANDFORD POLICE STATION EXPLODES.
+D: In the clearing smoke, paperwork [U+FB02]utters to the fioor. From under the rubble, we see movement. A hedgehog crawls out, blinking in the light. Then the Sandford Police Service, blackened but intact, miraoulcusly get to their feet. A frantic ANGEL hurries over to find DANNY who lies among the debris, barely alive.
+C: ANGEL
+D: Hold an Danny. Everything’s alright. The offieers gather round ANGEL cradling DANNY in his arms. ANGEL Everything’s gonna be just fine. EXT. SANDFORD/VARIOUS - DAY CAPTION - ’One Year Later’. We see ANGEL leaving a cottage and walk by a garden yath. We see ANGEL, now an Inspector, suiting up at the station. His uniform is different however. It’s more modern. Cooler. He is else armed with an automatic revolver. ANGEL strolls down a station corridor. Familiar looking brightly coloured notices are pinned all around the walls. ANGEL walks out of the newly built station, and gets into his new SQUAD CAR. It’s mere modern. Cooler. ANGEL drives along, his passenger seat conspicuously empty. He passes a skate yark where GABRIEL WEAVER and friends congregate, their heeds down. His mobile rings. He answers.
+E: cont’d
+C: ANGEL
+D: Okay. Give me a minute. ANGEL comes out of the florists, now called LESLIE’S GARDEN, with a bouquet of [U+FB02]owers and gets into his car. He walks through the graveyard to a single headstone. We see that it reads BUTTERMAN.
+C: ANGEL
+D: Are these okay?
+E: CONT’D
+C: VOICE
+D: Yeah they’re lovely. DANNY is revealed, standing next to ANGEL. He kneels down and places the [U+FB02]owers on a grave. ANGEL steps back, revealing the full headstone. It reads, ’IRENE BUTTERMAN’. INT/EXT. SQUAD CAR - DAY DANNY and ANGEL are in their car. The radic crackles.
+E: O.S.
+C: DORIS THATCHER
+D: Any officers near the church?
+E: 0.S.
+C: ANGEL
+D: Go ahead Doris.
+C: DORIS TRATCHER
+D: Chief, we’ve had a report of some hippy types messin’ with the recycle bins at the supermarket.
+E: 0.S.
+C: ANGEL
+D: Leave it with us. Sergeant Butterman. Little hand says it’s time to rock and roll.
+C: DANNY
+D: Bring the noise. We cut to the exterior of the SQUAD CAR. ANGEL pulls a spectacular handbrake turn, spinning the car 180 degrees. Accelerating with a roar, the car hurtles towards us, filling the frame.
+N: CRASH TO BLACK

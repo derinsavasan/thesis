@@ -1,0 +1,1925 @@
+M: BROKEN ARROW
+M: by
+M: Graham Yost
+M: FOR EDUCATIONAL PURPOSES ONLY
+M: FOURTH DRAFT
+M: March 7, 1995
+M: Converted to PDF by ScreenTalk™ Online
+M: http://www.screentalk.org
+T: FADE IN:
+N: A FIST HITS A FACE The fist is in a boxing glove. It belongs to VIC DEAKINS, 38. The face belongs to RAWLEY HALE, 28. They are in...
+S: INT. GYMNASIUM, WHITEMAN AFB - DAY
+N: Hale and Deakins are sparring in a ring. Other people are lifting weights, shooting baskets.
+C: IN THE RING
+D: Hale and Deakins circle each other. Hale is shaking cobwebs out of his head.
+C: DEAKINS
+D: You know what happened there?
+C: HALE
+D: Hell, I barely know what day it is.
+C: DEAKINS
+D: I set you up. I fake right, go left three times in a row. You expect it again, I take the right in hard. That's what boxing's all about. Make your opponent think you're gonna do one thing, then do another. Like Ali in Zaire, using the rope-a-dope on Foreman. Everyone thought Ali's arms were getting destroyed, when he was really just letting Foreman tire himself out. Eighth round, Ali starts hitting, George's got nothing left -- fight's over.
+E: mimes rope-a-dope
+C: HALE
+D: The fact that I can't feel the left side of my face -- that's okay, right? Deakins laughs. Hale seizes the relaxed moment and suddenly launches into Deakins with a flurry of punches. THE OTHER PEOPLE IN THE GYM Take notice -- the fight is getting real. They move to the ring.
+C: DEAKINS
+D: Several of Hale's punches land. Deakins staggers back, caught off guard. It looks like he might even go down. Converted to PDF by ScreenTalk Online 2.
+C: HALE
+D: He cocks his arm back. He could finish Deakins off. But he doesn't. He drops his fist.
+C: DEAKINS
+D: Seizes the opportunity and slugs back.
+C: THE CROWD
+D: Loves it.
+C: HALE AND DEAKINS
+D: Now Deakins has the upperhand. He backs Hale around the ring.
+C: DEAKINS
+D: Don't watch my hands -- watch my shoulders. That's where the punch starts. Ready? Deakins hits Hale hard in the face, sending him back.
+C: THE SPECTATORS
+D: Are circling the ring, following the fighters, cheering.
+C: HALE AND DEAKINS DEAKINS
+D: You were looking at my hands. Let's try it again. Ready? Deakins hits Hale hard. He's got Hale on the run.
+C: DEAKINS
+D: Come on. Focus. Ready? My shoulders. Ready? Deakins fakes left, puts everything into one big uppercut. It connects.
+E: punch
+C: HALE
+D: Lands, dazed, blood trickling out of the corner of his mouth.
+C: DEAKINS
+D: He's in silhouette, the lights above him.
+C: HALE
+D: Looks up at Deakins, catches his breath. Converted to PDF by ScreenTalk Online 3.
+C: HALE AND DEAKINS
+D: Deakins offers his hand. Hale pushes it aside. Deakins ignores Hale, grabs him and helps him to his feet. Deakins climbs out of the ring between the ropes. Hale grabs the top rope and flips himself over, landing on his feet. Deakins gives Hale a look, laughs, shakes his head. INT. SHOWERS Hale lets the water rinse the blood off his face. INT. LOCKER ROOM - DAY Hale and Deakins are sitting on the bench between their lockers, getting into their flightsuits, pulling on boots. Deakins is smoking a cigarette. The smoke curls up into the light slanting down across the room from high windows.
+C: HALE'S LOCKER
+D: Is in sunlight. On the inside of his locker door are pictures of exotic planes -- the SR-71, a swept-wing fighter, an artist's rendition of the Aurora, etc.
+C: DEAKINS' LOCKER
+D: On the shady side of the room. Nothing on the inside of his locker door. The locker is spare, Zen-like in its neatness.
+C: HALE
+D: Here.
+C: HALE'S HAND
+D: Slams a twenty dollar bill down on the bench.
+C: DEAKINS
+D: I can't take that.
+C: HALE
+D: Oh, shut up.
+C: DEAKINS
+D: Really. I feel bad. How many times have we fought and how many times have you won?
+C: HALE
+D: Jerk.
+C: DEAKINS
+D: Well, if you insist. Deakins grins, folds the bill and jams it into his flightsuit. Converted to PDF by ScreenTalk Online 4.
+C: DEAKINS
+D: You know why I beat you?
+C: HALE
+D: Because you've been boxing for twenty years and you're much better at it than I am?
+C: DEAKINS
+D: You don't want it enough. You had me today. I was back on my heels. But you didn't close the door.
+C: HALE
+D: We were just sparring.
+C: DEAKINS
+D: Life isn't sparring, Hale.
+C: HALE
+D: I think I saw that on a T-shirt. Deakins pulls out the twenty dollar bill; hands it back to Hale.
+C: DEAKINS
+D: Here.
+C: HALE
+D: No, that's yours.
+C: DEAKINS
+D: If you weren't giving it everything you've got, then I don't want it.
+C: HALE
+D: No, I mean -- that's yours, literally. I took it out of your wallet when you were in the shower. Deakins laughs, puts the money away. EXT. WHITEMAN AIR FORCE BASE - DUSK Planes taxiing, vehicles moving. INT. WHITEMAN MISSION BRIEFING ROOM Deakins and Hale enter to find GENERAL BOONE, 50s.
+C: DEAKINS/HALE
+D: General. Converted to PDF by ScreenTalk Online 5.
+C: BOONE
+D: Gentlemen. Deak?
+E: nods at NO SMOKING sign
+C: DEAKINS
+D: Sorry. What's the mission, General?
+E: puts out cigarette
+C: BOONE
+D: Simulate a border penetration. Hug the ground. Scare some cows. See if anyone can spot you.
+C: HALE
+D: The usual ...?
+C: BOONE
+D: No, actually, it's a little unusual. You're carrying a couple of nukes tonight, fellas. Palmdale's afraid low-level gamma and x-ray diffusion might screw up the peripherals. They asked us to send a couple on a run, see if anything glows.
+E: off their looks
+C: HALE
+D: '61s?
+C: BOONE
+D: Big ones. '83s.
+E: shakes head
+C: HALE
+D: Ooh. Crowpleasers. INT. HANGAR A BOMB TRUCK carrying two B-83 nuclear weapons drives under the wing of a big, black plane, toward the open bomb bays. GROUND CREWMEN are hurrying about.
+C: HALE AND DEAKINS
+D: Enter and walk under the plane, nodding to the ground crew. Hale and Deakins are royalty. Deakins and Hale climb up the airplane's Crew Entry steps and disappear. INT. COCKPIT Hale and Deakins climb into a very strange cockpit. There are two pilots' seats in this plane, with duplicate controls. Converted to PDF by ScreenTalk Online 6. But instead of the usual dials and gauges on the control panels, there are FOUR COMPUTER SCREENS in front of each pilot. Hale gets into the left seat; Deakins the right. They review information on their screens, flip switches. INTERCUT WITH BOMBS Being loaded into the bomb bays. When they've been clamped into place in the rotary bomb racks...
+C: DEAKINS
+D: Ready for rollout. INT./EXT. HANGAR Alarm horns sound, wheels roll on track and the huge hangar doors open revealing...
+E: into helmet mike
+C: THE GHOST
+D: An enormous black flying wing. INT. COCKPIT Deakins looks at maps on his computer screens. Hale looks over, sees the map of Utah.
+C: HALE
+D: You know, these exercises are fantastic. I mean, when that day comes and we finally go to war against Utah, we are really going to kick ass. CUT TO: EXT. CANYONLANDS NATIONAL PARK, UTAH - NIGHT Bright moonlight shows a campfire burning at the edge of an escarpment, the Colorado River a thousand feet below. Near the campfire is an Army surplus tent. Next to it, an easel holds a painting in progress.
+C: A PARK RANGER TRUCK
+D: Drives up, stops. The driver's door open, and out gets...
+C: A RANGER
+D: We don't see his face in the dark. He switches on a flashlight, walks over and taps on the tent.
+C: RANGER
+D: Park Ranger. I'd like to talk to somebody about this fire. Converted to PDF by ScreenTalk Online 7. We hear a man and a woman -- JIM and WANDA, 60s -- wake up.
+C: JIM
+D: Wha--? Oh, hell.
+E: O.S.
+C: WANDA
+D: I'll talk to him, Jim.
+E: O.S.
+C: JIM
+D: Wanda, you stay put. Jim comes out of the tent, the ranger's light in his face.
+E: O.S.
+C: JIM
+D: I know -- no wood fires in the Park. It's just -- Wanda's got a cold and I wanted her to stay warm.
+C: RANGER
+D: Sir, you see any other hikers, campers anywhere around here?
+C: JIM
+D: Not this time of year. What's the fine for something like this?
+C: RANGER
+D: Your life. Jim grins. But the ranger pulls out a pistol and shoots Jim, who falls into the fire. He then puts three shots through the wall of the tent. Nothing moves. The Ranger -- call him BAKER -- pulls out a walkie-talkie, clicks on.
+C: BAKER
+D: Done.
+C: HEADLIGHTS
+D: Come on and two Humvees roll in and four men get out. Three of them -- JOHNSON, a tech-whiz; LETT, gangly, grim, and NOVACEK, a wiry guy in a baseball cap -- start setting up what looks to be a high-tech missile launcher. The fourth man is...
+C: MR. PRITCHETT
+D: A neatly groomed man, 40s, with a perpetually sour attitude. He looks like -- and is -- a lawyer.
+C: PRITCHETT
+D: Jesus. Do you think maybe you could get him out of the fire? Unless you like that smell. Converted to PDF by ScreenTalk Online 8. EXT. THE NIGHT SKY The Ghost flies overhead, roaring. INT. COCKPIT Deakins and Hale check their screens.
+E: to Baker, re: Jim in fire
+C: DEAKINS
+D: Weren't you going to call Taylor today about the Aurora Project?
+E: thinks of something
+C: HALE
+D: Yeah. Turns out he wants people with more fighter hours.
+C: DEAKINS
+D: What'd you say?
+C: HALE
+D: What could I say?
+C: DEAKINS
+D: Jesus. You are such a pussy. You never fight for anything. Hale is stung. Pissed, he goes on the offensive.
+C: HALE
+D: Yeah, well you know what your problem is?
+C: DEAKINS
+D: Because I said what your problem is, you're gonna--?
+C: HALE
+D: You fight too much. Right? You said it yourself -- you should be at least Wing Commander by now. Maybe you would be if you didn't insist on telling people what they're doing wrong all the time.
+E: Deakins look at him
+C: DEAKINS
+D: I'm usually right though, aren't I? Hale shakes his head, grins. Deakins clicks on his mike.
+C: DEAKINS
+D: Ghost 7 to McMurran. Hey, Wilkins, you old bag of dirt, your boys in Utah still awake? Converted to PDF by ScreenTalk Online 9. EXT. MCMURRAN AIR FORCE BASE - UTAH Establishing shot of McMurran Air Force Base. INT. MCMURRAN CONTROL CENTER Jammed with MEN looking at radar screens and computer monitors. COLONEL WILKINS, 50s, seen it all, talks over a headset.
+C: WILKINS
+D: Ready and waiting, Mr. Deakins. And tell our favorite hotshot, he's not gonna lose us tonight. INT. COCKPIT Deakins covers his mike, turns to Hale.
+C: DEAKINS
+D: Wilkins says you won't lose them tonight.
+C: HALE
+D: Tell Colonel Wilkins I could fly this puppy up his ass without him knowing.
+C: DEAKINS
+D: Hale says ... if anyone can catch him it'd be you. INT. MCMURRAN CONTROL CENTER
+E: grins, shakes his head; into helmet mike
+C: CU RADAR SCREEN
+D: The Ghost makes a prominent blip on the screen.
+C: WILKINS
+D: Everyone get a fix! They're about to turn out the lights! INT. COCKPIT Deakins turns to Hale.
+C: DEAKINS
+D: Ready, Major?
+C: HALE
+D: On your word.
+C: DEAKINS
+D: Go to war. Converted to PDF by ScreenTalk Online 10. CLOSE ON CONTROL PANEL - THREE BUTTONS The left, labeled TAKE OFF, is lighted. The other two buttons are MISSION and LANDING. Hale pushes MISSION.
+C: THE COCKPIT
+D: everything goes quiet. EXT. NIGHT SKY The plane's running lights go out. The roar of the engines quickly drops to a low rushing sound. The plane in in full stealth mode. INT. MCMURRAN CONTROL CENTER
+C: CU RADAR SCREEN
+D: The Ghost's blip disappears.
+C: WILKINS
+D: Lost 'em on active! Who's still got 'em?
+C: IR CREWMAN
+D: Got their heat signature, sir. Their engines may be cold, but the air is colder.
+E: points to computer screen
+C: CU COMPUTER SCREEN
+D: Half of the screen shows a waveform, like a voiceprint. The other half shows a triangle moving across a map of Colorado. INT. COCKPIT Deakins studies the maps on the computer screens.
+C: DEAKINS
+D: Descend to 400 feet AGL. River valley approach.
+C: HALE
+D: Airspeed lock at point-seven Mach. Blue line descent on throttle to 400 feet AGL. Hale pulls back on the throttle. The plane descends.
+C: HALE
+D: Time to limbo down. How low can we go. Converted to PDF by ScreenTalk Online 11. EXT. NIGHT SKY The Ghost drops away from us, a stark black cut-out against the moonlit Colorado landscape. The Colorado River is a winding silver ribbon five miles below. EXT. CANYONLANDS NATIONAL PARK, UTAH - NIGHT
+C: A PARK RANGER TRUCK
+D: Driving along the blacktop. The driver is not Baker. It's...
+C: TERRY CARMICHAEL
+D: Pretty, late 20s. Her radio squawks.
+C: CLYDE
+D: Terry? You been through the Needles entrance tonight?
+E: V.0.
+C: TERRY
+D: No. Why?
+E: grabs mike, answers
+C: CLYDE
+D: Mrs. Parker called --
+E: V.0.
+C: TERRY
+D: Oh, God. What is it this time? UFO abduction? Ritual human sacrifice?
+C: CLYDE
+D: She said she saw a bunch of trucks going through the Needles entrance an hour ago and thought they looked suspicious.
+E: V.0.
+C: TERRY
+D: Yes, well, this is a woman who chopped off one of her own fingers because it'd "turned on her."
+C: CLYDE
+D: Thing is, she said one of the trucks was ours, and you're the only one out.
+E: V.0.
+C: TERRY
+D: She was probably hallucinating, but I'll check it out. EXT. COLORADO RIVER VALLEY - THIRTY MILES UP RIVER We feel the Ghost before we hear it. It rushes over, close to the river, below the ridgelines on either side of the valley. Converted to PDF by ScreenTalk Online 12. INT. MCMURRAN CONTROL CENTER The triangle representing the Ghost disappears from a computer screen.
+E: arches eyebrow
+C: IR CREWMAN
+D: Lost 'em.
+C: WILKINS
+D: Stay on it. They're gonna have to come up for air sooner or later. INT. COCKPIT Deakins reads his computer screens.
+C: DEAKINS
+D: We're under the radar. Proceed to primary target. Hale hits a button, lets go of the stick -- they're on autopilot. It's a moment of peace. Hale looks out.
+C: HALE
+D: I tell people I became a pilot because I wanted to fly cool planes. It's also for this. When we're up here, I feel... closer ... I don't know.
+C: DEAKINS
+D: To God? Is that what you're going to say? That you feel closer to God up here? Hell, Hale, with the payload we're carrying, we are God. Deakins notices something odd on his screen. He checks between the screen and what he can see through the windshield.
+E: snorts
+C: DEAKINS
+D: Hale, take a look out your side. I think our terrain following is off. It's got us two klicks from the left flank ridge. Hale turns to look out the window on his side.
+C: HALE'S POV
+D: Looking out the window. There's some movement in the reflection in the glass. QUICK PULL FOCUS to see, distorted in the curve of the window, Deakins reaching inside his flight suit. Converted to PDF by ScreenTalk Online 13.
+C: HALE
+D: Turns his head back toward Deakins.
+C: HALE
+D: Deak, you can't smoke in here -- But then Hale sees it's not a cigarette that Deakins is pulling out of his flight suit. It's shiny, metal. It's...
+C: A GUN
+D: And Deakins levels it right at Hale's head and his finger starts to squeeze the trigger.
+C: HALE
+D: Grabs Deakins' hand, pushing up as...
+C: DEAKINS
+D: Pulls the trigger and the gun FIRES.
+C: HALE
+D: The bullet cuts a line through the top of his helmet, punching a hole in the window by his head.
+C: DEAKINS AND HALE
+D: Deakins goes for another shot, but Hale grabs the gun and pushes up, sending bullets through the ceiling of the plane, into the walls. Deakins forces the gun down, fires.
+C: THE BULLET
+D: Tears through Hale's harness, blowing apart a shoulder strap.
+C: HALE AND DEAKINS
+D: Hale brings Deakins' gun hand hard against Hale's own helmet. Deakins yowls and the gun goes flying. Then Hale sees something.
+C: THE PLANE
+D: Is banking towards a ridge-line cliff wall.
+C: HALE
+D: Sees it, yanks on the stick.
+C: THE PLANE
+D: Banks hard away from the cliff, just missing. Converted to PDF by ScreenTalk Online 14. EXT. CANYONLANDS Baker gives a sign. Johnson, standing beside the missile launcher-like device, hits a button. Instead of a missile, a brilliant light shoots out. INT. COCKPIT
+C: ARMAMENTS CONTROL BUTTONS
+D: Buttons include ONE, TWO, LOCK, LEFT, RIGHT, OPEN, CLOSE, ARM and RELEASE. Deakins presses ONE and TWO, then RIGHT.
+C: HALE
+D: No! He pulls at Deakins' arms.
+C: CU COMPUTER SCREENS
+D: Graphics of bomb racks rotate, the B-83 nukes -- labeled and glowing red -- move into the bottom spot. The word RELEASE appears on the screen. Next to it, the word UNARMED flashes.
+C: HALE AND DEAKINS
+D: Deakins hits Hale with the back of his hand, knocking him back. Hale grabs Deakins' helmet, yanks it off his head and smashes Deakins back with it. Hale keys the armament buttons.
+C: CU COMPUTER SCREENS
+D: The nukes rotate out of the release position. RELEASE and UNARMED disappear.
+C: HALE AND DEAKINS
+D: Deakins grabs a fire extinguisher, swings it, getting Hale in the face. Hale is almost knocked out, blood running from his nose. EXT. PARK - NEEDLES AREA Terry is standing by her truck, talking on the radio.
+C: TERRY
+D: Clyde, tell Mrs. Parker that there's nothing weird going on. No truck, no UFOs, and, except for the odd human head on a stick, no sign of Satan. She feels it before she hears it or sees it. Converted to PDF by ScreenTalk Online 15.
+C: THE GHOST
+D: Rushes over Terry, no more than fifty feet above the ground. The jet-wash rocks the truck, almost knocks Terry down.
+C: TERRY
+D: Holy shit. INT. COCKPIT Hale groggy, hears a loud click. He looks down to see...
+C: DEAKINS' HAND
+D: AUTO to MANUAL. Deakins grabs Hale's EJECTION HANDLE.
+C: HALE AND DEAKINS
+D: Hale tries to push the handle down as Deakins pulls it up as... EXT. THE GHOST Heads into the beacon light. INT. COCKPIT Hale and Deakins look at each other as the plane enters the light and the light, in SLOW MOTION, washes across their faces.
+C: DEAKINS
+D: Suddenly lets go of Hale's hand, then hits Hale hard under the chin with the fire extinguisher.
+C: HALE
+D: His head snaps back as Deakins pulls.
+C: HALE'S EJECTION SEAT HANDLE
+D: Pop, hiss like a huge vacuum-sealed can is being opened. EXT. ABOVE GHOST The ejection hatch blows and is ripped away by the wind.
+C: HALE'S POV
+D: As he rockets up out of the cockpit.
+C: HALE
+D: When the chute opens, he almost spills out because of the severed shoulder harness. He grabs the straps, holds on. Converted to PDF by ScreenTalk Online 16. EXT. ON THE GROUND Terry, on the radio with Clyde.
+C: TERRY
+D: Somebody ejected! INT. COCKPIT Debris -- coffee cups, flight bags, anything not nailed down -- is whipping around the inside of the cabin. Deakins reaches through the maelstrom, then reaches to the ARMAMENT BUTTONS and punches them. INT. BOMB BAYS The the clamps snap back and the two B-83s drop toward the earth. INT. COCKPIT Deakins looks around, then gets an idea. He hits the LANDING mission mode button and the cockpit lights up. INT. MCMURRAN CONTROL CENTER The Ghost starts popping up on everyone's screens. There's a chorus of "I got em!" and "They're ba-a-a-ck!" Wilkins looks at a screen, puzzled.
+C: WILKINS
+D: They're not due for another halfhour. INT. GHOST COCKPIT Deakins yells into his helmet mike as he gets ready to eject.
+C: DEAKINS
+D: This is Deakins! Hale lost it! I have to punch out! Deakins pulls his second handle. BLAM! WHOOSH! He's gone. He hear and feel the plane dropping, screaming toward the earth. INT. MCMURRAN CONTROL CENTER
+E: into helmet mike
+C: CU RADAR SCREEN
+D: The Ghost's blip suddenly disappears from the screen. A chorus of "What the hell?" and "Jesus."
+C: WILKINS
+D: That's not good. Converted to PDF by ScreenTalk Online 17. EXT. MCMURRAN RUNWAY Alarm horns blare. FIVE MEN are running to a waiting Blackhawk helicopter. Waving the men on is Wilkins. The last man up is...
+C: LIEUTENANT COLONEL SAM RHODES
+D: 40s, short grey hair: he could snap your neck with a look. Wilkins pats Rhodes on the shoulder and Rhodes jumps into...
+C: THE HELICOPTER
+D: And it lifts up and flies off. EXT. CANYONLANDS Hale lies, unconscious, his parachute whipping in the wind. INT./EXT. SEARCH AND RESCUE HELICOPTER/DESERT The helicopter glides over wind-whipped sand, searchlights on. Rhodes sits with MCKELLAR, the pilot. Lieutenants KELLY, REED and THOMAS are in the back.
+C: IN THE SAND
+D: Something glints in the searchlights but the helicopter moves on.
+C: RHODES
+D: Hold it. Come back. The lights sweep back, find... THE TIP OF BLACK WING Sticking out of the sand. CUT TO: EXT. PENTAGON - NIGHT Establishing shot. INT. PENTAGON - SITUATION ROOM AKA "The War Room." Phones, faxes, computers, TV monitors, backlit maps and coffee. Present are GENERALS , the CHAIRMAN OF THE JOINT CHIEFS OF STAFF and ASSISTANTS, all in uniform. They turn as...
+E: including Air Force General CREELEY CHAIRMAN
+C: BAIRD
+D: Enters. Baird, 60s, is the White House Chief of Staff. His assistant stays in the b.g. as Baird walks in. Converted to PDF by ScreenTalk Online 18.
+C: BAIRD
+D: So, do I wake the President?
+C: CHAIRMAN
+D: Where is he -- Las Vegas?
+C: BAIRD
+D: Computer convention. Some information superhighway crap.
+E: nods
+C: CHAIRMAN
+D: Let him sleep for now. We're going out with this. Rick's team prepared it. The chairman nods toward RICK. Baird reads, mumbling.
+E: hands Baird a piece of paper
+C: BAIRD
+D: "United States Air Force ... regrets to announce ... C-130 heavy-lift cargo plane ... down over the Utah desert ... status of crew not determined at this time ... yadda yadda ... Nice bullshit, Rick. Baird hands it to Rick, who starts for the door.
+C: GILES
+D: That's a mistake. The room quiets. All eyes on...
+E: O.S.
+C: GILES
+D: Baird's intensely competent assistant.
+C: BAIRD
+D: Giles ...?
+C: GILES
+D: Aviation Week has been following this plane's development for years. They have stringers who spend their vacations sitting in lawnchairs all night long by the Whiteman perimeter fence just in case one of these things takes off. The boys in those lawnchairs know one took off tonight. They're going to know when it doesn't come back. Converted to PDF by ScreenTalk Online 19. GILES And when we put out a press release saying a C-130 went down in Utah, they're going to put two and two together. Aviation week will run a story, everyone'll know what really happened and we're going to look real stupid. We might as well tell the truth.
+E: more cont'd beat
+C: BAIRD
+D: The truth? How the hell did you get this job? A few chuckles in the room. Baird looks at the Chairman -- well? The Chairman thinks for a second, nods. Baird turns to Rick.
+E: mock shock
+C: BAIRD
+D: Rewrite it. What Giles just said. Rick grits his teeth and hurries out. Baird looks at Giles.
+C: BAIRD
+D: I want you in Utah. Now. Giles nods, heads out. Baird grabs his arm.
+C: BAIRD
+D: You scare me sometimes.
+C: GILES
+D: Hell, sir. Sometimes I scare myself. And out Giles goes. EXT. GHOST CRASH SITE Rhodes and his men are on the ground. Wind is whipping the sand. Rhodes is walking under part of the wing that is exposed. He's yelling into a headset microphone.
+C: RHODES
+D: Cockpit's empty! We're checking the payload! INT. MCMURRAN CONTROL CENTER Wilkins talks to Rhodes over the radio.
+E: into mike
+C: WILKINS
+D: Watch your needles! Converted to PDF by ScreenTalk Online 20. EXT. GHOST CRASH SITE Rhodes walks up to his men who are in the process of opening the bomb bay doors manually. The doors are open a foot. Rhodes signals his men to stop. Rhodes steps up, shines a light into the bomb bays.
+C: INSIDE BOMB BAYS
+D: Rhodes' light plays over the bomb racks -- empty.
+C: RHODES
+D: Colonel? We've got ourselves a Broken Arrow. INT.PENTAGON - SITUATION ROOM Stunned silence. They've just gotten the news. Baird doesn't know what it means.
+E: into headset mike takes breath
+C: BAIRD
+D: Broken Arrow?
+C: CHAIRMAN
+D: That's what we call it when we lose a nuclear weapon.
+C: BAIRD
+D: Oh, Jesus. I don't know what's scarier -- losing nuclear weapons or the fact that it happens so often that you people have a term for it. INT. MCMURRAN CONTROL CENTER Wilkins is on the radio with Rhodes.
+E: thinks, shakes head
+C: WILKINS
+D: Find the nukes, Sam. But be careful. I know they say those eggs can't be cracked, but if your geigers pick up more rads than you'd get off a toaster, I want you out of there. Wilkins to the CORPORAL.
+C: WILKINS
+D: Get the teams in. I want Colonel Rhodes and his men backed up. Converted to PDF by ScreenTalk Online 21. INT. PENTAGON SITUATION ROOM
+C: CU COMPUTER SCREEN
+D: Various views of a B-83 nuclear weapon. Creeley is briefing Baird on the nukes.
+C: BAIRD
+D: They dropped from a plane but they didn't go off...?
+C: CREELEY
+D: They have to be armed to detonate.
+C: BAIRD
+D: Then they're destroyed?
+C: CREELEY
+D: They're designed to survive crashes intact. They can lie in a pool of burning jet fuel for five hours without any problem.
+E: shakes head
+C: BAIRD
+D: How did this happen?
+C: CREELEY
+D: In his last transmission, Colonel Deakins said Major Hale lost control. He probably hit weapons release by accident. Believe me, when a plane's auguring in, you start pushing every button you can. Baird stands, looks at a picture of a Ghost shakes his head.
+C: BAIRD
+D: Hell, we should take the cost of the plane out of major Hale's salary. Although I guess at two billion dollars a pop, that could take a while. EXT. CANYONLANDS - DAWN Hale is still unconscious, lying beside his parachute. There's the crunch of footsteps and a FIGURE looms over Hale. The figure reaches down to touch Hale's shoulder and...
+C: HALE
+D: Spins, grabs the shirt of the figure and cocks his arm about to punch. He hesitates when he sees it's... Converted to PDF by ScreenTalk Online 22.
+C: TERRY
+D: She seizes Hale's hesitation and punches him hard.
+C: HALE AND TERRY
+D: Hale is stunned. Terry starts to get up, reaching for her gun. Hale strikes out with a leg, getting Terry in the gut, sending her back. She hits the ground, still struggling for her gun. Hale gets up, runs, sprinting off over the rocky terrain.
+C: HIS POV
+D: Jarring, racing over rock and then...
+C: HALE
+D: Pulls up fast, almost not fast enough.
+C: HALE'S POV
+D: He's stopped right at the edge of a fifty foot drop.
+C: TERRY
+D: That would be the wrong way.
+E: O.S.
+C: TERRY
+D: Is walking slowly, calmy, up behind Hale, pistol out.
+C: TERRY
+D: Turn around.
+C: HALE
+D: Look, I --
+E: turning
+C: TERRY
+D: Gimme your hands. Hale sticks his hands behind him. Terry handcuffs them.
+E: not interested
+C: HALE
+D: I'm going to tell you something I can't tell you. Terry puts away her gun, spins Hale around and starts marching him off.
+C: HALE
+D: There were nuclear weapons on that plane. The guy I was flying with is trying to steal them. Terry reacts to that, but keeps Hale moving. Converted to PDF by ScreenTalk Online 23.
+C: HALE
+D: I have to stop him, and I need your help.
+C: TERRY
+D: Look, pal, all I know is, I saw you come down, I come in to help you and you grab me, kick me and run away.
+E: stops
+C: HALE
+D: I only ran because you punched me.
+C: TERRY
+D: What, we're ten years old now? "You started it. No you started it."
+C: HALE
+D: He has men on the ground. I --
+C: TERRY
+D: Save it. My dog's waiting for his breakfast. Terry starts to push Hale along again and...
+C: HALE
+D: Jumps up and through the handcuffs.
+C: TERRY
+D: Reaches for her revolver, but...
+C: HALE
+D: Grabs it from her, puts it to-her head, but not before...
+C: TERRY
+D: Whips a knife from her belt and puts it under Hale's chin.
+C: HALE AND TERRY
+D: Don't move. A beat while they catch their breath.
+C: HALE
+D: This isn't a stand-off, okay? I've got a gun.
+C: TERRY
+D: Yeah, well, I never keep my gun loaded. Terry taps her belt. Converted to PDF by ScreenTalk Online 24.
+C: CLOSE ON HER BELT
+D: A line of bullets.
+C: HALE AND TERRY
+D: Terry holds out her hand. Hale lets the revolver swing down on his finger. Just as Terry takes it...
+C: HALE
+D: Moves fast, grabs Terry's knife hand, then kicks her legs out from under her. Hale lands on top of her, still holding her knife hand, putting the knife to her throat.
+C: HALE
+D: I'm telling you the truth.
+C: TERRY
+D: This is a good way to convince me.
+C: HALE
+D: I could kill you now. Right? Terry nods, bewildered and more than a little scared. Hale lets go of Terry's hand holding the knife.
+C: HALE
+D: I need your help. Terry looks at Hale for a long moment. She's still holding the knife. She exhales, then sticks the knife in the dirt. INT./EXT. HELICOPTER The helicopter flies low. Rhodes looks at a device on his lap.
+C: ON THE DEVICE'S SCREEN
+D: Green, like a radar screen. It's blank, and then two dots appear on the outer edge of the screen.
+C: RHODES
+D: Got 'em! EXT. CANYONLANDS Terry unlocks Hale's handcuffs.
+C: TERRY
+D: I've got a radio in the truck. We can call McMurran and get the Marines in here. Converted to PDF by ScreenTalk Online 25.
+C: HALE
+D: Deakins'll be monitoring any radio transmissions out of here. That's what I'd do.
+E: shakes head off her look
+C: TERRY
+D: Who is this guy?
+C: HALE
+D: Someone I would've trusted with my life. You've gotta get to a phone.
+E: a flash of the horrible betrayal he feels beat
+C: TERRY
+D: Me? What are you going to do? Wait. You're gonna go after this guy? Isn't he going to have a lot guns and shit? I don't want to sound insulting or anything, but ... you're just a pilot.
+E: no answer, she realizes
+C: HALE
+D: I don't have any choice. The nukes are my responsibility. Besides... I do have one thing going for me.
+E: pulls something from pocket
+C: TERRY
+D: What's that? Hale sticks...
+C: A TWENTY DOLLAR BILL
+D: Under a rock.
+C: HALE
+D: The last thing in the world he expects is for me to come after him. Hale walks off into the light of the rising sun. Terry looks at the $20 bill. EXT. CREVICE SITE The helicopter is parked at the edge of a deep crevice. Converted to PDF by ScreenTalk Online 26.
+C: DOWN IN THE CREVICE
+D: Rhodes comes down the last few feet of rope to the bottom of the crevice. Kelly, Thomas and Reed are waiting, shining lights on a B-83 lying in the dirt, all in one piece.
+C: RHODES
+D: We've got one intact. Let's go find the other one. Rhodes starts off along the bottom of the crevice. EXT. TOP OF THE CREVICE - BY THE HELICOPTER McKellar is sitting in the pilot's seat, eating a candy bar. He turns at the unexpected sound of a truck-driving up.
+E: into mike to his men
+C: A HUMVEE
+D: climbs up the slope toward the helicopter.
+C: MCKELLAR
+D: Grabs his rifle, hops out of the helicopter.
+C: NOVACEK AND LETT
+D: Are in the Humvee. Novacek sticks his head out.
+C: NOVACEK
+D: Hey, you guys need any help?
+C: MCKELLAR
+D: It's an Air Force training exercise, sir. I'm going to have to ask you to leave.
+C: NOVACEK
+D: Hey, no problem. We just --
+C: LETT
+D: Whips out a silenced rifle and shoots.
+C: MCKELLAR
+D: Barely has time to raise his rifle before he's hit. He drops.
+C: ANOTHER HUMVEE
+D: Drives up fast.
+C: BAKER, JOHNSON AND PRITCHETT
+D: Get out. Johnson wears radio headgear. Pritchett is furious. Converted to PDF by ScreenTalk Online 27.
+C: NOVACEK
+D: Picks up McKellar's half-eaten candy bar, takes a bite.
+C: BAKER
+D: Any sign of Deakins? Novacek, mouth full, shakes his head.
+E: to Novacek
+C: PRITCHETT
+D: He better be dead.
+C: DEAKINS
+D: Sorry to disappoint you, Mr. Pritchett. They all look over to see...
+E: O.S.
+C: DEAKINS
+D: Walk out of the shadows, smoking a cigarette. While soldierly with his men, Deakins is courteous and polite with Pritchett.
+C: PRITCHETT
+D: You said nothing would go wrong!
+C: DEAKINS
+D: Well, point of fact, nothing has.
+C: PRITCHETT
+D: You didn't drop the nukes where you were supposed to!
+C: DEAKINS
+D: Ah, but we always planned on the search and rescue team finding the weapons for us, and they have. Mr. Pritchett, I really have thought of everything. Johnson walks up, pointing to his radio headgear.
+C: JOHNSON
+D: Newsflash. Two gunships just left from McMurran and they're headed this way.
+C: PRITCHETT
+D: You thought of that?
+C: DEAKINS
+D: That'll take care of itself.
+C: PRITCHETT
+D: What about the other pilot? We saw him eject. Converted to PDF by ScreenTalk Online 28.
+C: DEAKINS
+D: You don't have to worry about Major Hale. He's probably hiding behind a rock somewhere, praying I don't find him.
+C: JOHNSON
+D: Someone else might find him. A Ranger called her base, said she saw a pilot come down and was gonna go look for him. Deakins thinks it over, turns to Novacek.
+E: off Deakins' look
+C: DEAKINS
+D: Get ready. You'll go when the clean-up's done. Novacek nods, goes to the helicopter. Ext. Canyonlands - 4wd trail Hale and Terry are hurrying along a 4WD trail toward Terry's truck. Terry taken a look at Hale's ripped and torn flightsuit.
+C: TERRY
+D: Is that the new uniform?
+C: HALE
+D: Yeah. Less constricting.
+C: TERRY
+D: The dayshift guy left some work clothes in the truck. You can have them if you want. Hale nods. His feet crunch on something.
+C: TERRY
+D: Don't walk there.
+C: HALE
+D: Don't walk where?
+C: TERRY
+D: On that black stuff. That's cryptogamic soil. It's very fragile. One footprint takes centuries to repair.
+C: HALE
+D: That's a new one. Endangered dirt. Terry gives Hale a look. Converted to PDF by ScreenTalk Online 29. EXT. BOTTOM OF THE CREVICE Rhodes, Reed, Thomas and Kelly move along the shadowy crevice. INT. HELICOPTER Novacek flips switches in the helicopter, getting ready to start up. Deakins reaches in, flips off a switch marked COM LINK. EXT. BOTTOM OF CREVICE Rhodes hears the connection go dead. He taps his headset.
+C: RHODES
+D: Hello? McMurran? Come in. Suddenly, there's a soft popping sound and Reed drops.
+C: RHODES
+D: Reed? What the --? Rhodes looks down, sees blood on Reed. Before he can say another word, there's a fusillade of soft popping sounds as silenced bullets ricochet off the rock around them. Thomas goes down. INT. MCMURRAN CONTROL CENTER Silence from the speakers.
+C: WILKINS
+D: Sam? Sam, are you there? Sam? EXT. TOP OF CREVICE Lett aims a sniper's rifle down into the crevice. He flips a switch and a red laser beam stabs out from the scope. EXT. BOTTOM OF CREVICE Rhodes and Kelly are pressed against the crevice wall.
+C: THE RED LASER BEAN
+D: Dances along the wall, heading for them.
+C: RHODES
+D: Raises his pistol and shoots at the source of the laser. EXT. ATOP THE CREVICE Lett pitches back, dead. Converted to PDF by ScreenTalk Online 30.
+C: PRITCHETT AND DEAKINS
+D: Pritchett looks at Deakins -- another part of the plan? Deakins is unperturbed. He's holding an overnight bag. He unzips it. EXT. BOTTOM OF THE CREVICE Rhodes whispers to Kelly.
+C: RHODES
+D: We'll open up the access panels, put in a couple grenades. The nukes won't go nuclear, but they will go dirty. I won't lie and say we'll be all right. We won't. But if we're gonna go, might as well take those bastards with us. Rhodes scrambles off.
+C: KELLY
+D: Just one thing, sir.
+C: RHODES
+D: What?
+E: turns
+C: KELLY
+D: This. Kelly opens fire with his rifle. Rhodes is thrown back, dead. Kelly yells up top.
+C: KELLY
+D: Done! Kelly grabs the rope, climbs fast. EXT. ATOP THE CREVICE Mr. Pritchett looks at Deakins, surprised. Deakins -- putting on new clothes -- just grins. Deakins takes...
+C: THE TWENTY DOLLAR BILL
+D: From his flightsuit and puts it into his shirt pocket.
+C: KELLY
+D: Climbs into view. INT. MCMURRAN CONTROL CENTER Kelly's voice comes in over the speaker. Converted to PDF by ScreenTalk Online 31.
+C: KELLY
+D: Colonel Wilkins? You there?
+E: V.0. terrified
+C: WILKINS
+D: Who is this?
+C: KELLY
+D: It's Lieutenant Kelly, sir.
+E: V.0.
+C: WILKINS
+D: What happened, Kelly? EXT. ATOP CREVICE Kelly talks over the helicopter's radio mike. Deakins is behind him, shaving with an electric shaver.
+C: KELLY
+D: Colonel Rhodes is dead, sir! They're all dead! WILKINS What happened? Deakins puts the shaver to the radio mike. There's a wash of 40 static. Deakins pulls the shaver away, nods to Kelly.
+E: V. 0.
+C: KELLY
+D: It's the nuke, sir! It's open! Wide open! Oh, God, what am I going to do?! Deakins puts the shaver to the mike again -- more static. He reaches into the helicopter and flips off the COM LINK switch, then backs away, shaving. He nods to Novacek, who fires up the helicopter. INT. MCMURRAN CONTROL CENTER Wilkins slumps in his chair.
+C: WILKINS
+D: Call back the teams and get me the Room. We're gonna need NEST in here. EXT. CREVICE SITE Novacek lifts off in the helicopter and flies away. Deakins turns to Kelly and applauds his performance.
+C: DEAKINS
+D: Brought a tear to my eye. Converted to PDF by ScreenTalk Online 32.
+C: KELLY
+D: I'd just like to thank the members of the Academy.
+C: PRITCHETT
+D: I hope you've got another surprise up your sleeve. If I'm not mistaken, there are two attack helicopters headed this way.
+E: to Deakins
+C: JOHNSON
+D: Not any longer. They look at him; he taps his radio headgear.
+C: JOHNSON
+D: They've just been recalled.
+C: DEAKINS
+D: You see, Mr. Pritchett, they think they've got an exposed core. They'll want to get a satellite to take a look, but it'll take ninety minutes minimum to shift the orbit. Until then? Well, people get a little weird when it comes to radiation. No one'll have the balls to come near here unless it's NEST -- the Nuclear Emergency Search Teams --and it'll take the nearest team at least two hours to get out here, and we only need an hour to reach our connection with the transport squad. Not that I'm not delighted with your presence, but you really don't need to be here. INT./EXT. TERRY'S TRUCK - 4WD TRAIL Hale and Terry are riding in Terry's truck. Terry drives. Hale is wearing work clothes. After some silence...
+E: grins
+C: HALE
+D: What's your dog's name?
+C: TERRY
+D: Bear. I was going to call him Death, so I could say things like, "I walk with Death," and "Death chewed my boots," but I chickened out. You?
+C: HALE
+D: No dog. Converted to PDF by ScreenTalk Online 33.
+C: TERRY
+D: Do you have a name, or is that classified? Before Hale can answer... THE SEARCH AND RESCUE HELICOPTER Rises up in front of them, Novacek piloting. Novacek thumbs a button and machine guns on the sides open up.
+C: TERRY AND HALE
+D: Terry jumps on the brakes. She and Hale bail out as...
+C: THE TRUCK
+D: is riddled with bullets and explodes.
+C: TERRY AND HALE
+D: Sprint up the trail.
+C: HALE
+D: We've gotta hide!
+C: TERRY
+D: Follow me! Terry leads Hale up a short slope. Hale scrambles over the top and is stunned. Terry runs out onto an open expanse -- no cover.
+C: HALE
+D: Hide where?
+C: IN THE HELICOPTER
+D: Novacek grins, shoots.
+C: HALE
+D: Looks at the helicopter as the bullets whistle in. When he turns back, Terry's gone.
+C: HALE
+D: What the --?
+C: TERRY
+D: Come on! Hale runs in the direction of her voice.
+E: O.S
+C: NOVACEK'S POV
+D: Aiming at Hale's back. But then Hale suddenly drops from view. Converted to PDF by ScreenTalk Online 34.
+C: HALE
+D: Arms flailing, drops fifteen feet, to deep sand.
+C: TERRY
+D: This way. Terry runs. Hale follows.
+C: HALE
+D: How do you --?
+C: TERRY
+D: I'm a Ranger. I've been over these trails a million times. Not looking, Terry runs straight into a wall, smacks her head and drops like a rock.
+E: looks back, still running
+C: IN THE HELICOPTER
+D: Novacek can't see his prey. He gets an idea and reaches back.
+C: TERRY AND HALE
+D: Terry is trying to get her eyes to focus.
+C: TERRY
+D: Please don't tell anyone I did that.
+C: IN THE HELICOPTER
+D: Novacek has a box of grenades beside him. He pulls the pin on a grenade and drops it.
+C: TERRY AND HALE
+D: Hale is helping Terry to her feet as BOOM -- the first grenade goes off. They run.
+C: THE HELICOPTER
+D: Chases them, strafing them. BOOM! -- a grenade goes off in front of them. They run back. They're cornered. Hale looks around, looks up.
+C: HALE
+D: Can you climb up?
+C: TERRY
+D: Yeah ...?
+C: HALE
+D: Give me your gun. Converted to PDF by ScreenTalk Online 35.
+C: TOP OF CLIFF
+D: Terry climbs up into view of...
+C: NOVACEK
+D: Who sees her.
+C: TERRY
+D: Pull herself up, stands, hands up.
+C: THE HELICOPTER
+D: Novacek swivels the helicopter around.
+C: TERRY
+D: This has nothing to do with me.
+C: NOVACEK
+D: Tell me where he is!
+C: HALE
+D: Is down in the fissure, pointing the revolver straight up at the helicopter hovering right overhead, figuring out where to shoot.
+C: HALE
+D: Blackhawk ... Moved pilot seat back a foot ... Puts him right about ... here. Hale hesitates -- he's never shot at someone before -- then takes a breath and starts shooting.
+C: IN THE HELICOPTER
+D: The bullets fly up from below. One hits Novacek. He slumps, pushing the joystick to one side.
+C: THE HELICOPTER
+D: Starts to lean over sideways.
+C: HALE
+D: Is surprised -- it worked!'
+C: TERRY
+D: Watches in horror as... THE HELICOPTER'S MAIN ROTOR BLADES Angle toward her, slicing the air as the helicopter tips over. Converted to PDF by ScreenTalk Online 36.
+C: TERRY
+D: Dives and rolls over the edge of the cliff as...
+C: THE ROTOR BLADES
+D: Hit the rock, sparking, grinding, right over Terry's head. The blades stop dead. But the torque of the motor brings... THE TAIL OF THE HELICOPTER Up and over, in a high arc.
+C: TERRY
+D: Looks up.
+C: THE TAIL --SECTION
+D: Is swinging over fast and the tail rotor is coming right for her.
+C: HALE AND TERRY
+D: Hale runs up, grabs Terry, pulls her to her feet as...
+C: THE TAIL SECTION
+D: Swings down, rotor spinning. It digs into the dirt and sand a split-second after...
+C: HALE AND TERRY
+D: Run clear. EXT. ATOP CREVICE Deakins and Pritchett watch a fireball from the exploding helicopter rise up in the distance.
+C: PRITCHETT
+D: We don't have to worry about the other pilot? Deakins shakes his head.
+C: PRITCHETT
+D: Then how come the helicopter crashed?
+C: DEAKINS
+D: Pilot error. Deakins turns and walks away, over to... Converted to PDF by ScreenTalk Online 37.
+E: a flicker of worry
+C: BAKER AND KELLY
+D: Who have taken the three-foot, pointed, front section off each nuke. They are loading them into the back of one Humvee. Pritchett walks up behind Deakins, still nagging.
+C: PRITCHETT
+D: Tell me again how I don't need to be here.
+C: DEAKINS
+D: Mr. Pritchett, I understand your concerns. You and your associates gave me a lot of money to mount this operation. But they're getting ten times that back if we succeed.
+C: PRITCHETT
+D: If we succeed?
+C: DEAKINS
+D: All I can do is my part. We've got the weapons, we're ... ... seventeen minutes ahead of schedule and everything will be in place within two hours. But I can't guarantee that the assholes in Washington won't do something stupid like not pay.
+E: checks watch
+C: PRITCHETT
+D: What if they don't?
+C: DEAKINS
+D: Then the next census for this region is going to show a very sudden drop in population. INT. MCMURRAN CONTROL ROOM Giles enters and is brought over to Wilkins.
+C: GILES
+D: Colonel Wilkins? I'm Giles Prentice. My word from your search and rescue team?
+E: they shake hands
+C: WILKINS
+D: No. Converted to PDF by ScreenTalk Online 38.
+C: GILES
+D: I'm sorry. Picked up any radiation? Wilkins shakes his head.
+C: GILES
+D: That's kind of strange -- if there's an exposed core out there.
+C: WILKINS
+D: Point?
+C: GILES
+D: Probably nothing. I asked for a transcript of the last cockpit transmission...? Wilkins nods to a CORPORAL who hands some papers to Giles. Giles reads them quickly.
+C: WILKINS
+D: I don't know what you expect to find.
+C: CU TRANSCRIPTS
+D: We see COLONEL DEAKINS: "This is Deakins! Hale lost it! Oh, God! I have to punch out!"
+C: GILES
+D: You know these guys? The pilots?
+C: WILKINS
+D: Just on the radio. Never met 'em. Why?
+C: GILES
+D: What if this wasn't pilot error? INT. PENTAGON SITUATION ROOM Baird has put Giles on speaker phone. The people in the Situation Room exchange looks.
+E: looks up
+C: BAIRD
+D: No rhetorical questions, Giles. Spit it out. Converted to PDF by ScreenTalk Online 39. CROSSCUT WITH GILES IN MCMURRAN CONTROL ROOM
+C: GILES
+D: In the last transmission from the plane, Colonel Deakins said Major Hale lost it and made the plane crash. We all assumed that meant pilot error. But what if Deakins meant Hale made the plane crash. Murmurs of "That's insane" "No way" fill the room.
+C: BAIRD
+D: Why would he do that?
+C: GILES
+D: Two nuclear weapons would be worth a hell of a lot of money.
+C: CHAIRMAN
+D: To whom? Son, there are easier ways for someone to buy nuclear weapons. You go to one of the old Soviet republics, you can get one for the price of a BMW.
+C: GILES
+D: I meant they'd be worth a lot of money to us. How much would we pay to get them back? To make sure they weren't used in this country? A flurry of looks around the room.
+C: BAIRD
+D: Hold on, hold on. These nukes have codes or something that prevent people from using them.
+E: to Creeley
+C: CREELEY
+D: Of course.
+C: BAIRD
+D: No one has these codes -- outside of the President and you guys.
+C: CREELEY
+D: Access to the codes requires the highest security --
+C: BAIRD
+D: I mean, not even the pilots have these codes, right? Converted to PDF by ScreenTalk Online 40. Creeley starts to stammer. Baird slumps. The chairman turns.
+C: CHAIRMAN
+D: Where's that NEST team now?
+E: to an assistant
+C: ASSISTANT
+D: They just took off. EXT. NEST HELICOPTER - IN FLIGHT A sleek, very serious-looking helicopter. INT. NEST HELICOPTER SIX very serious-looking SOLDIERS are in black radiation suits, listening to COLONEL HUNT, 45, over headsets.
+C: HUNT
+D: Listen up, sportsfans. Word is, this particular broken arrow has broken open. Our ETA Utah is ninety-six minutes. I want everyone to take that time to triple-check the seams and seals on their E-suits. Let's go! INT. MCMURRAN CONTROL ROOM Giles looks at Wilkins.
+C: GILES
+D: You think I'm nuts. You don't think NEST or the satellite will find anything weird.
+C: WILKINS
+D: That's right. But it wouldn't hurt to get some gunships fueled just in case. Wilkins reaches for a phone. Giles smiles. EXT. HELICOPTER EXPLOSION SITE The helicopter wreck burns. Hale looks over the terrain.
+E: beat
+C: HALE
+D: How do they get out of here?
+C: TERRY
+D: Get out? I don't think that helicopter's going anywhere. Converted to PDF by ScreenTalk Online 41.
+C: HALE
+D: Deak'd have a back-up. He'd be prepared.
+C: TERRY
+D: If they've got trucks they could take the four-wheel-drive trail we were on.
+C: HALE
+D: He wouldn't want to go towards town.
+C: TERRY
+D: He could go to the river. Hale looks at Terry -- that's exactly what Deakins would do. EXT. 4WD TRAIL The two Humvees roll along the narrow, twisting trail.
+C: IN THE SECOND HUMVEE
+D: Kelly drives, Deakins beside him, Johnson and Pritchett in back.
+C: DEAKINS
+D: You a fan of boxing, Mr. Pritchett?
+C: PRITCHETT
+D: I think it's barbaric.
+C: DEAKINS
+D: Me, too! I love it! Two men trying to do as much damage to the other as he can. As basic as you can get, don't you think?
+C: PRITCHETT
+D: I think it should be banned.
+C: DEAKINS
+D: So do I! God, wouldn't that make it more exciting? Having to go into dark alleys and basements to see a fight? I bet we see eye-to- eye on a lot of things, Mr. Pritchett. Deakins grins; Mr. Pritchett steams. EXT. CANYONLANDS Hale and Terry stand on an outcropping overlooking the 4WD trail. Converted to PDF by ScreenTalk Online 42.
+C: THEIR POV
+D: The two Humvees make their way along the trail.
+C: HALE
+D: See the one in front? It just has a driver? They wanted to keep the weight down. It has the nukes. Hale takes Terry's gun from her.
+C: TERRY
+D: You gonna shoot out the tires?
+C: HALE
+D: Humvees can reseal and inflate with the flick of a switch. That's why Deak chose 'em. Terry looks at Hale -- then what is he going to do?
+C: HALE
+D: I'm gonna steal it. You get to a phone and call McMurran.
+E: checks gun
+C: TERRY
+D: The nearest phone is a two-hour walk.
+C: HALE
+D: Then you better start walking.
+C: TERRY
+D: Look, I know my way around here. You're gonna need me.
+C: HALE
+D: I appreciate what you've done so far. But now it gets hairy. Go to the phone. He scrambles off over the rock.
+E: very serious
+C: THE HUMVEES
+D: Come around a corner. The trail hugs the face of a ten-foot- high cliff. Suddenly, from off the cliff...
+C: HALE AND TERRY
+D: Jump down onto the roof of the lead Humvee. Hale looks at Terry, angry. But before he can say anything... Converted to PDF by ScreenTalk Online 43.
+C: IN THE HUMVEE
+D: Baker swerves, trying to throw them off. He pulls out a pistol, shoots up through the ceiling.
+C: HALE AND TERRY
+D: Bullets punch up. Hale pulls out the gun. It falls from his hand. Terry grabs it as a sharp swerve sends...
+C: HALE
+D: Flying. He lands hard behind the Humvee.
+C: IN THE SECOND HUMVEE
+D: Deakins points at Hale, getting to his feet.
+C: DEAKINS
+D: Run him down.
+C: HALE
+D: Sprints after the leading Humvee. Deakins' Humvee closes fast.
+C: TERRY
+D: Looks back, sees Hale's predicament.
+C: TERRY
+D: Here! She slides the pistol along the truck roof.
+C: HALE
+D: Grabs the gun out of the air as...
+C: BAKER
+D: Slams on the brakes.
+C: TERRY
+D: Comes flying off the top, landing on the hood, barely holding on.
+C: HALE
+D: Is going to be crushed between the Humvees. He jumps up, turning, as the bumpers come together. He lands on the tailgate facing backwards and fires into Deakins' windshield.
+C: DEAKINS AND KELLY
+D: Kelly ducks below the dash and slams on the brakes but Deakins doesn't flinch. The bullets bounce off the glass --bulletproof. Converted to PDF by ScreenTalk Online 44.
+C: IN THE LEAD HUMVEE
+D: Baker sticks his gun out the window and aims at Terry and starts to pull the trigger when he stops, feeling a gun against the back of his head.
+C: HALE
+D: Is behind him. Hale gets into the passenger seat.
+C: HALE
+D: Gimme the gun and get out.
+C: BAKER
+D: I don't know. I think we got ourselves a little stand-off.
+E: smirking
+C: HALE
+D: No, we don't. Hale shoots Baker in the thigh. Baker howls.
+C: TERRY
+D: Reaches forward and grabs Baker's gun as...
+C: HALE
+D: Kicks Baker out of the Humvee.
+C: BAKER
+D: Bad timing for him. He tumbles out, right in front of...
+C: DEAKINS' HUMVEE
+D: And is run over.
+C: HALE
+D: Holds the steering wheel, yells to Terry.
+C: HALE
+D: You drive!
+C: TERRY
+D: Climbs into the Humvee, takes the wheel from Hale. She jams Baker's gun into her belt.
+C: HALE
+D: I'd yell at you for coming after me, but you did just save my life. Converted to PDF by ScreenTalk Online 45. There's a look between them, then Hale climbs into the back. He finds what he is looking for -- a jerry can of gasoline and an emergency tool box.
+C: IN THE SECOND HUMVEE DEAKINS
+D: What're you doing, Hale? IN HALE AND TERRY'S HUMVEE Hale keeps his back to the other Humves. He pulls gaffer's tape off a roll, tears it with his teeth, grabs...
+C: A FLARE
+D: Out of the tool kit.
+C: IN THE SECOND HUMVEE KELLY
+D: Maybe he'll set off a nuke. That'd show us.
+C: BETWEEN THE HUMVEES
+D: Hale tosses the jerry can of gasoline out the back of the Humvee. THE JERRY CAN OF GASOLINE Flies through the air. There's a burning flare taped to the side of the plastic can.
+C: ECU TIP OF FLARE
+D: As the plastic of the can bubbles and melts and...
+C: IN THE SECOND HUMVEE DEAKINS
+D: Stop! But it's too late and...
+C: THE JERRY CAN
+D: Explodes.
+C: THE SECOND HUMVEE
+D: Skids to a stop, showered with burning gasoline. Deakins and his men bail out. Kelly, Johnson and Pritchett run for cover.
+C: DEAKINS
+D: Coolly grabs a fire extinguisher and starts spraying. Converted to PDF by ScreenTalk Online 46. IN HALE AND TERRYS HUMVEE Hale climbs up into the front seat. Terry looks at him, genuinely impressed.
+C: HALE
+D: We need somewhere to hide.
+C: TERRY
+D: I know a place. EXT. 4WD TRAIL Deakins keeps spraying the burning Humvee with foam. EXT. MINE ENTRANCE Terry and Hale have taken the Humvee to the parking area in front of an abandoned mine. The winch on the Humvee strains. The cable is attached to the handles on the padlocked metal doors. The doors are slowly pulling out, groaning.
+E: thinks
+C: TERRY
+D: It was a copper mine, barely squeaking along for years. They shut it-down a few months ago when they hit an underground river. The hinges on the metal doors buckle and snap and the doors rip loose. Hale shuts down the winch, unhooks it from the doors. He motions for Terry to drive it in. INT. MINESHAFT ENTRANCE Terry drives the Humvee into the mineshaft entrance. Hale uses a flashlight to look around. He finds a switch a flips it. A gas generator comes to life. Another click and lights come on. Now they can see the rest of the entry area, including a wire- mesh-enclosed elevator. As Terry looks around, Hale grabs the Humvee radio, tries to tune in other frequencies, gives up.
+C: HALE
+D: They hardwired in their frequency. We can't call out.
+C: TERRY
+D: What are we gonna do? Hale goes to the back of the Humvee, pulls down the tailgate.
+C: HALE
+D: I'm gonna take away Deakins' reason for being here. Hale grabs a screwdriver from the tool kit and pries open a panel on the side of one of the B-83s. Converted to PDF by ScreenTalk Online 47.
+C: INSIDE PANEL
+D: There's an LCD DISPLAY, a NUMERIC KEYPAD and a CLOCK showing the current time. The keys are oversized and brightly colored.
+C: TERRY
+D: Fisher-Price makes nuclear weapons?
+C: HALE
+D: They're designed to be used by guys wearing gloves in Alaska. He reaches in, hits a key and the LCD display lights up.
+C: HALE
+D: These nukes have security codes. If you enter the wrong code three times, the nuke goes dead -- all the circuitry shorts out and shuts down. Kind of like the security systems with car radios.
+C: TERRY
+D: And people say the public doesn't benefit from defense spending.
+C: HALE
+D: Hand me the radio. Terry goes for the radio mike. Hale sees something.
+E: grins
+C: A PLASTIC NAME TAG
+D: Sticking out from under one of the nukes.
+C: HALE
+D: Pulls it out, looks at it.
+C: ECU NAMETAG
+D: It's from "St. Judes Hospital, Radiology Department."
+C: HALE AND TERRY
+D: Hale turns to Terry as she pulls over the radio mike.
+C: HALE
+D: Where's St. Judes Hospital? INT. 4WD TRAIL -- DEAKINS' HUMVEE The fire is out. The radio crackles.
+C: HALE
+D: Deak -- you there? Converted to PDF by ScreenTalk Online 48. Deakins and Kelly look at each other.
+E: V.0.
+C: HALE
+D: Ding, ding, ding, Deak. We're starting a new round. You took the first couple, but I've got you on the ropes now, you son of bitch. Deakins gets in the passenger side, grabs the radio mike.
+E: V.O.
+C: DEAKINS
+D: Hey, there. What was that last part? There was some static. Find them. Let's go! Johnson pulls out a radiation detector scanner like the one Rhodes used. Kelly and Pritchett get back in the vehicle. CROSSCUT BETWEEN HALE AND DEAKINS Kelly drives Deakins' Humvee along the trail as they talk.
+E: clicks off mike; to Johnson to Pritchett and Kelly
+C: HALE
+D: I know you're stalling while you try to find the nukes with your scanner, but you're gonna be too late. Hear that? Hale holds the radio mike up to the keypad as he enters numbers.
+C: HALE
+D: I'm entering the wrong code, you bastard. A couple more times and these are gonna be useless to you.
+C: DEAKINS
+D: You really got me there. I sure didn't think of that. Hale slows down -- something's wrong -- Deakins doesn't cars.
+C: DEAKINS
+D: All that time we spent in the cockpit together and you think I'm stupid? I got some new boards and circuits from a friend at Pantex. But nice try. Hale curses to himself. Terry looks at him. He shakes his head they're in trouble. Converted to PDF by ScreenTalk Online 49.
+C: DEAKINS
+D: You know, Hale, I thought of asking you to join me on this. You wanna know why I didn't?
+C: HALE
+D: Because I would've said no?
+C: DEAKINS
+D: I would've just killed you if you said no. I was more afraid you'd say yes. Because I knew I couldn't count on you. You can pretend you've got guts, but when and if it comes down to it, you're gonna run off crying like a little girl.
+C: HALE
+D: You better hope that's true, Doak. Because I've got the nukes, and there's nothing to stop me from entering the right code, if you know what I mean.
+C: DEAKINS
+D: You wouldn't do that.
+E: flash of worry
+C: HALE
+D: Nah. You're right. I wouldn't have the guts. END SPLIT-SCREEN. Hale drops the mike; looks at the elevator.
+C: HALE
+D: How deep is this mine?
+C: TERRY
+D: I don't know. A couple thousand feet.
+C: HALE
+D: That's deep enough. Hale opens the elevator gate.
+C: TERRY
+D: For what?
+C: HALE
+D: A nuclear explosion. Terry's jaw drops. Converted to PDF by ScreenTalk Online 50. EXT. 4WD TRAIL/ INT. DEAKINS' HUMVEE Kelly drives the blackened Humvee as fast as he can. Johnson looks at his scanner, grins.
+C: JOHNSON
+D: Got it! They're --
+C: DEAKINS
+D: In the mine. I could tell he was inside something. There was an echo. INT. MINE ENTRANCE Hale hurries to the back of the Humvee.
+E: off their looks
+C: TERRY
+D: We can still hide them!
+C: HALE
+D: He's got a scanner. He'd find them.
+C: TERRY
+D: You're talking about setting off a nuclear weapon!
+C: HALE
+D: They set them off underground in Nevada all through the fifties and sixties. There's no risk.
+C: TERRY
+D: Tell it to the two-headed cows. Hale grabs the straps around one of the nukes, pulls. He can barely move the thing. He turns to Terry.
+C: TERRY
+D: No! I am not helping you set off a nuclear weapon.
+C: HALE
+D: We won't be down there when it goes off. This isn't a suicide mission.
+C: TERRY
+D: No! Converted to PDF by ScreenTalk Online 51.
+C: HALE
+D: All right. Fine. Though I think you should know, before I ejected, I heard Deakins say the nukes were going to be used to wipe out the last few remaining handicapped gay whales. Terry looks at him -- you asshole. Hale looks at her, very serious.
+E: impatient
+C: HALE
+D: I need your help. Terry thinks, shakes her head, steps up and grabs the nuke. EXT. 4WD TRAIL The Humvee takes the turn-off to the mine entrance. INT. MINESHAFT ELEVATOR - DESCENDING Hale and Terry are going down with the nukes.
+C: HALE
+D: When we get to the bottom we'll have to get away from this shaft. It'll limit the amount of radiation released into-the atmosphere. EXT. MINE ENTRANCE Deakins's Humvee comes into the clearing. The Humvee stops and Deakins and Kelly jump out, followed by Pritchett and Johnson. EXT. MINE - BOTTOM OF ELEVATOR SHAFT The elevator comes down. Hale slides open the gate. He and Terry drag the nukes out.
+C: TERRY
+D: We'll each drag one down a tunnel?
+C: HALE
+D: No. I'm only going to set off one. We'll leave the other one here. It'll be buried under a billion tons of rock. They are startled when the elevator starts going up behind them
+C: HALE
+D: We better hurry. Let's try down there. Converted to PDF by ScreenTalk Online 52. They start hauling the nuke down the tunnel. INT. MINE ENTRANCE Deakins, Pritchett, Kelly and Johnson wait by the elevator.
+E: nods down tunnel
+C: PRITCHETT
+D: I can't wait to see how this fits into your plan. Deakins' charm peels away for an instant and he fixes Pritchett with a stare. Pritchett shrinks back. INT. PENTAGON SITUATION ROOM Baird, the Chairman and the others are watching large TV monitors. Creeley walks them through what they're looking at.
+C: ON THE MONITORS
+D: A wide-view, bird's-eye, thermal image of rocky terrain.
+C: CREELEY
+D: This is the KH-12 satellite's infrared view of the area. An exposed nuclear core would be relatively hot -- it'd show as a circle of bright white. As you can see, there's nothing. The only heat signatures we found were these. The image changes. There are four blotches, glowing a dull red.
+C: BAIRD
+D: What's --?
+C: CREELEY
+D: We think it's Colonel Rhodes and his men. Their bodies. A look between Baird and the Chairman. The Chairman reaches for a phone. INT. MCMURRAN CONTROL CENTER Wilkins is on the phone. Giles looks at him.
+C: WILKINS
+D: I understand, sir.
+C: GILES
+D: Was I right? Wilkins nods. Giles grins smugly for about half a second, then realizes what it really means. Converted to PDF by ScreenTalk Online 53.
+E: whispers
+C: GILES
+D: Oh, shit.
+C: WILKINS
+D: I've got ten ships ready to go ... We should be hearing from NEST any minute now. EXT. NEST HELICOPTER IN FLIGHT Flying over Canyonlands. INT. MINESHAFT ELEVATOR - DESCENDING Deakins, Kelly and Johnson are in the elevator. Kelly holds a small metal briefcase. INT. END OF MINE TUNNEL Hale and Terry have stopped at the end of a tunnel. Hale has opened the guts of the nuke. He's pulling out a chip.
+E: into phone
+C: TERRY
+D: How do you know how to do this?
+C: HALE
+D: Pilots who fly with nuclear weapons have standing orders to ... ... "retrieve if possible, disable if necessary and destroy if we must," and destroy I must. He stands, looks around. He sees...
+E: quoting from the manual
+C: EYEBOLTS
+D: Screwed into the cross beaus on the ceiling.
+C: HALE
+D: I'm gonna need your belt and one of your socks. INT. BOTTOM OF ELEVATOR SHAFT The elevator descends into view. Deakins, Kelly and Johnson get out. They see the other nuke lying there.
+C: KELLY
+D: Send it up?
+C: DEAKINS
+D: Let's take care of Hale first. Spread out. Converted to PDF by ScreenTalk Online 54. INT. END OF MINE TUNNEL In one hand Hale holds Terry's sock, filled with sand. His other hand grips the eyebolt. Terry is giving Hale a log up, straining under the weight.
+E: shakes head
+C: TERRY
+D: Take your time. Really. Hale has pushed the open end of the sock through the eyebolt. He tightens a belt around the open end of the sock.
+C: HALE
+D: Okay. Terry lets Hale down. Hale picks up a big rock and loops the free end of the belt around it. Then he picks up a smaller rock.
+C: CLOSE ON NUCLEAR WEAPON
+D: One chip has been pulled out of a circuit board. Hale very gingerly lays the small rock on top of the chip.
+C: HALE
+D: We make a small hole in the sock, and when enough sand drains out -- and we're hopefully in New Mexico -- the sock is pulled through the eyebolt, the rock drops... ... hitting the rock on this chip, closing the firing circuit and that's it. Hale finishes putting the small rock in position. He stands.
+E: re: smaller rock
+C: TERRY
+D: How much time are we going to have?
+C: HALE
+D: I don't know precisely. This isn't a Swiss sock. Ten minutes, maybe -- Hale is cut off by...
+C: BULLETS
+D: Flying in, ricocheting off the rock walls, fired by...
+C: JOHNSON
+D: Thirty yards down the tunnel. Converted to PDF by ScreenTalk Online 55.
+C: HALE AND TERRY
+D: Dive to the ground. They pull pistols, start shooting.
+C: THE SOCK
+D: One of Johnson's bullets cuts through it.
+C: HALE
+D: Feels sand hitting his face, looks up.
+C: HIS POV
+D: Sand is draining out of the sock very fast.
+C: HALE AND TERRY
+D: Reaches up to grab the big rock, but Johnson sends a spray of bullets in. Terry grabs Hale.
+C: TERRY
+D: Come on!
+C: HALE
+D: The sock -- More bullets. Terry pulls Hale. They run down a side passage. Hale and Terry fire back at Johnson as they run out of sight.
+C: JOHNSON
+D: Shoots after them, then runs up to the weapon. He reaches for the rock, stops -- maybe that'll set it off.
+C: THE SOCK
+D: The last sand pours out; the sock is sucked through the eye-bolt.
+C: THE ROCK
+D: Drops fast toward the nuke.
+C: A HAND
+D: Grabs it, stopping it just in time. The hand belongs to...
+C: DEAKINS
+D: He looks at Johnson in disgust, exhales, and tosses the rock. He pulls out a walkie-talkie, clicks on, talks into it. Converted to PDF by ScreenTalk Online 56.
+C: DEAKINS
+D: We're at the end of tunnel three. You two get this one set. I'll take the other one up.
+E: clicks off; to Johnson
+C: HALE AND TERRY
+D: Running along a tunnel.
+C: TERRY
+D: What do we do?
+C: HALE
+D: Beat 'em back to the elevator. Stop 'em from getting out. Terry nods. They hurry off around a corner and are met by...
+C: A FLURRY OF BULLETS
+D: Fired by...
+C: DEAKINS
+D: With his Uzi.
+C: HALE AND TERRY
+D: Run back down the side tunnel, bullets winging off the rock all around them, shooting back. Hale starts shooting out the lights, plunging the tunnel into darkness.
+C: DEAKINS
+D: Slows down.
+C: DEAKINS
+D: The bit with the sock was good. I like it. Still, I'm gonna use the the Field Expedient Tactical Timer. It's a little more precise. See, Hale -- you aren't the only one who's thought of setting off a nuke in this mine.
+E: beat
+C: BY THE NUKE
+D: Kelly is there with Johnson. Kelly flips on a lamp on a headstrap, giving him better light as he opens up the metal briefcase he's been carrying.
+C: INSIDE THE BRIEFCASE
+D: An elaborate electronic timer. Converted to PDF by ScreenTalk Online 57.
+C: IN THE TUNNELS
+D: Deakins pulls out a fresh clip.
+C: DEAKINS
+D: I need a demonstration. Otherwise, some swinging dick in Washington is going to say I don't have the balls or the ability to set off a nuclear weapon. I'm gonna show these puppies I'm ready, willing and able. Hell, I'm eager. Deakins jams in his clip, walks into the dark part of the tunnel.
+C: HALE AND TERRY
+D: In the dark, waiting to ambush Deakins and then...
+C: DEAKINS
+D: Opens fire -- but not at Hale and Terry -- at the cable along the ceiling connecting the lights. The cable snaps and electrical sparks shoot out, flooding the tunnel with light, showing...
+C: HALE AND TERRY
+D: Suddenly exposed to Deakins' fire. The bullets whiz in.
+C: DEAKINS
+D: The muzzle flashes from his Uzi give away his position and Hale and Terry's bullets scream in at him. He backs around a corner.
+C: HALE AND TERRY
+D: Take cover. It's a stand-off.
+C: DEAKINS
+D: Well, Hale, I better be going. Look at it this way, partner. If you wanted to get closer to God, you are about to get your wish. Hale hears Deakins' footsteps start off.
+C: HALE
+D: You're gonna ransom Salt Lake City, aren't you? The footsteps stop.
+C: DEAKINS
+D: What makes you think that? Converted to PDF by ScreenTalk Online 58.
+C: HALE
+D: That's where St. Judes Hospital is. You're gonna hide the nukes near the radiology department so they won't show up an any satellite radiation scans.
+C: DEAKINS
+D: I'm impressed.
+C: HALE
+D: How much are you gonna ask for?
+C: DEAKINS
+D: Enough. I've got a broker in Stockholm. Monday morning he's going to buy me five percent of Volvo. For the rest of my days I'm going to live off the dividends, happy in the knowledge I'm helping to build the safest car in the world.
+C: HALE
+D: So that's it? You're just doing 'this for the money? I'm kind of disappointed.
+C: DEAKINS
+D: Why would you do it, Hale?
+C: HALE
+D: That's the thing -- I wouldn't.
+C: DEAKINS
+D: If you were me.
+C: HALE
+D: If I were you...? Because ... because I got passed over for promotion and goddamnit I'm going to show the bastards that I'm smarter than them all. Because ... everyone's selling out and cashing in, so why not me? Because ... because my ex-wife was sleeping around. Because my parents abused me. Because I ate some sugar. Converted to PDF by ScreenTalk Online 59. HALE Because I don't like Mondays. It's all bullshit, Deak. There are no reasons. Not really. There's no difference between you and the guy who shoots up the schoolyard with an M-16. You both think you have reasons. You both think you were wronged. The truth? You're both just fucked in the head.
+E: thinks, starts in getting angry angrier more cont'd furious takes a breath, grins
+C: DEAKINS' FACE
+D: Grim, evil -- fades into darkness as he turns and walks off.
+C: HALE AND TERRY
+D: They hear footsteps, receding. Hale bolts out of their hiding spot. Terry follows. INT. BOTTOM OF ELEVATOR SHAFT Deakins gets to the elevator, drags the other nuke in, shuts the gate and starts up. INT. END OF TUNNEL Kelly finishes keying in numbers into the nuke timer. An amber light comes on and...
+C: THE TIMER
+D: Starts ticking down from ton minutes.
+C: KELLY AND JOHNSON
+D: Grab their guns and run. INT. MINESHAFT ENTRANCE The elevator comes up. Deakins drags out the nuke, hits the DOWN button, shuts the gate. The elevator descends.
+C: DEAKINS
+D: Mr. Pritchett! INT. BOTTOM OF ELEVATOR SHAFT Hale and Terry are waiting for the elevator to come down when...
+C: KELLY AND JOHNSON
+D: Run in. A half-second of surprise is broken when... Converted to PDF by ScreenTalk Online 60.
+C: THE ELEVATOR
+D: Comes down.
+C: HALE AND TERRY
+D: Make a move toward the elevator, but...
+C: KELLY AND JOHNSON
+D: Unload with their Uzis.
+C: HALE AND TERRY
+D: Back around a corner, side by side, shooting their pistols.
+C: JOHNSON
+D: Is shot, drops.
+C: KELLY
+D: Grabs Johnson's Uzi and, firing both guns, backs to the elevator, kicks open the gate with his foot and gets inside. He hits the UP button with the butt of one of the guns and the elevator starts to rise.
+C: HALE AND TERRY
+D: Step out of the tunnel and fire on the climbing elevator. INSERT - ECU NUKE TIMER Seven minutes and counting. INT. MINESHAFT ENTRANCE Deakins and Pritchett get the nuke into the back of the Humvee. INT. BOTTOM OF ELEVATOR SHAFT
+C: TERRY
+D: We can go back, try to shut it down.
+C: HALE
+D: We don't know the code, and Deak'd have it wired to blow if we so much as look at it funny.
+C: TERRY
+D: Then we're... Hale looks at her. Converted to PDF by ScreenTalk Online 61.
+C: HALE
+D: I'm sorry. I shouldn't've let you come.
+C: TERRY
+D: Oh, God. Hale takes Terry in his arms, holds her.
+C: TERRY
+D: I ... I just hope someone remembers to feed my dog. Hale nods, hugs Terry. Terry starts to say something else, but Hale puts a finger to his lips -- he's heard something -- a distant rushing.
+C: HALE
+D: Come on. Hale pulls Terry, running, down the far tunnel.
+C: TERRY
+D: What're you --?
+C: HALE
+D: You said they shut down the mine when they hit an underground river. INT. MINESHAFT ENTRANCE Deakins slams the tailgate on the Humvee shut. From the distance, he and Pritchett hear the whump-whump-whump of a helicopter. Deakins motions Pritchett to stay. EXT. MINE ENTRANCE Deakins comes out, looks up, sees...
+C: THE NEST HELICOPTER
+D: Coming toward him, two miles away. INT. NEST HELICOPTER Hunt sees something, points.
+C: HUNT
+D: Ten o'clock! In the clearing!
+C: HIS POV
+D: The blackened Humvee and Deakins by the mine entrance. Converted to PDF by ScreenTalk Online 62. INT. MINE TUNNEL Hale and Terry run up. The tunnel comes to an end at a big hole. The rushing sound comes from the hole. They step up to the edge and look down.
+C: THEIR POV
+D: Dark water rushes by ten feet below them.
+C: HALE
+D: Any idea where it goes?
+C: TERRY
+D: No. They look at each other. They don't have any choice. They flick on their flashlights and jump. They-hit the water and are swept from view. INT. MINESHAFT ENTRANCE Deakins enters, motions for Pritchett to get into the Humvee.
+C: DEAKINS
+D: Get in. We're leaving.
+C: PRITCHETT
+D: Aren't you going to wait for them?
+E: re: Kelly and Johnson
+C: DEAKINS
+D: No time. And if they get out, they might talk. Fortunately, there's something wrong with the elevator. Deakins opens fire with his Uzi on the generator. Sparks fly and the thing shuts down. INT. ELEVATOR Kelly is jarred when the elevator stops and the lights dim. EXT. MINE ENTRANCE Deakins and Pritchett drive out of the mine in the Humvee. Deakins punches the trip odometer, setting it to zeroes. INT. ELEVATOR Kelly switches on his headlamp.
+C: KELLY
+D: Wrong person to screw with, Deak. Converted to PDF by ScreenTalk Online 63. He pulls open the gate and climbs down.
+C: THE ELEVATOR SHAFT
+D: Kelly swings under the elevator.
+C: KELLY
+D: I know the goddamn code, asshole. He grabs the cable trailing off below the elevator and starts sliding down it into the darkness. INSERT - ECU NUKE TIMER Two minutes and counting. INT. THE UNDERGROUND RIVER Hale and Terry are being sucked along through the fast, turbulent water. Their flashlights show...
+C: STALACTITES
+D: Jutting down like knives, ready-to rip then open.
+C: HALE AND TERRY
+D: Dodge them, push off, duck under. And then they notice that...
+C: THE CEILING
+D: Is getting lower, getting closer to the surface of the water. They're running out of breathing room. Three feet, two feet, one foot. They take big breaths, maybe their last, and they're...
+C: UNDERWATER
+D: Tumbling along, pulled at by the eddies, flashlights showing their faces -- they are running out of air. And then, there's light above them in the water.
+C: HALE AND TERRY
+D: Lungs bursting, they start kicking up. EXT. COLORADO RIVER Terry and Hale come to the surface, coughing, sucking in air. EXT. 4WD TRAIL/INT. HUMVEE Deakins drives fast along the 4WD trail, glancing in his sideview mirror at... Converted to PDF by ScreenTalk Online 64.
+C: THE NEST HELICOPTER
+D: Closing in on him.
+C: PRITCHETT
+D: Is holding on tight as Deakins drives wildly.
+C: PRITCHETT
+D: I think I've finally figured out your plan. Those guys in the helicopter are going to kill us, but we're going to rise from the dead and
+C: DEAKINS
+D: Very suddenly and very violently lashes out. The side of his hand hits Pritchett in the throat.
+C: PRITCHETT
+D: Gags silently, suddenly unable to get any air. He pulls at his throat, even pounds himself in the back of the neck. No go. He slowly slumps, dying, skin turning blue.
+C: DEAKINS
+D: Maybe now you'll shut up. INT. MINE TUNNEL Kelly is running as fast as he can, headlamp lighting the way. INSERT - ECU NUKE TIMER Thirty seconds and counting. EXT. COLORADO RIVER Hale and Terry are swimming toward the bank. EXT. 4WD TRAIL Deakins barrels along in the Humvee, the NEST helicopter getting closer behind him.
+C: IN THE HUMVEE
+D: Deakins has a thought and looks over at Pritchett, dead, held up by the seatbelt.
+C: DEAKINS
+D: I just realized I've never killed anyone before. I mean, I dropped bombs on Baghdad, but never face to face. Converted to PDF by ScreenTalk Online 65. DEAKINS I don't know what the big deal is. INT. MINE - END OF TUNNEL
+E: more cont'd thinks about it, shrugs
+C: ECU NUKE TIMER
+D: Eighteen seconds left.
+C: KELLY
+D: Runs up, starts entering numbers into the timer keypad. INT./EXT. NEST HELICOPTER The NEST helicopter closes fast on Deakins. They are a couple hundred feet above him, a quarter mile back.
+C: HUNT
+D: Let him know we're here! EXT. 4WD TRAIL A line of bullets kicks up dust in front of Deakins' Humvee. INT. HUMVEE Deakins looks at...
+C: THE TRIP ODOMETER
+D: It clicks over from 2.9 to 3.0 miles.
+C: DEAKINS
+D: Grins, steps on the brakes. EXT. 4WD TRAIL The Humvee stops and Deakins gets out, arms above his head.
+C: THE NEST HELICOPTER
+D: A hundred feet in the air, slowly coming in toward Deakins. INT. MINE - END OF TUNNEL
+C: ECU NUKE TIMER
+D: Eleven, ten, nine...
+C: KELLY
+D: Punches in the last two numbers of the code then ENTER. Converted to PDF by ScreenTalk Online 66.
+C: ECU NUKE TIMER
+D: It stops with seven seconds left. The amber light goes off and the red light comes on.
+C: KELLY
+D: Sits back on the floor, takes a breath. EXT. 4WD TRAIL Deakins is watching the helicopter. Strangely, he is grinning. Then the camera CLOSES IN fast on...
+C: DEAKINS' HAND
+D: He's holding a small black box. He presses a button and... INT. MINE - END OF TUNNEL Kelly hears a click. He looks over at...
+C: THE TIMER
+D: The red light goes out. The amber light comes on. A splitsecond later, the green light comes on.
+C: KELLY
+D: Oh shit. The screen goes white. EXT. 4WD TRAIL
+C: DEAKINS
+D: Watching the helicopter, listening to Hunt over the loudspeaker.
+C: HUNT
+D: Do not move or you will be fired --
+E: V.O.
+C: THE GROUND
+D: Rises up beneath Deakins. HIGH ANGLE - WIDE SHOT The ripples of the shockwave shoot out from the mine, shaking dust and dirt into the air with an incredible, deafening roar.
+C: DEAKINS AMD THE HUMVEE
+D: Fly ten feet into the air. Converted to PDF by ScreenTalk Online 67. INT. NEST HELICOPTER There's a roar of static over everyone's headphones and then every light, every piece of electronic equipment shuts down.
+C: HUNT
+D: No...! They plummet. EXT. COLORADO RIVER RIVER BANK Terry and Hale are pulling themselves out of the water when the shockwave hits, knocking them off their feet. INT. MCMURRAN CONTROL ROOM Wilkins and Giles hear the sudden rumble and then the shockwave hits, knocking stuff off desks, swinging lamps. EXT. 4WD TRAIL Deakins and the Humvee land. In the b.g....
+C: THE NEST HELICOPTER
+D: Drops out of sight behind a rock formation. There's an explosion and a ball of fire shoots up. EXT. COLORADO RIVER - RIVER BANK Terry looks over at Hale -- holy shit. INT. MCMURRAN CONTROL ROOM The lamps are still swinging.
+C: GILES
+D: That's all we need. A goddamn earthquake.
+C: WILKINS
+D: Son, I was at the Nevada Test site in the fifties. That wasn't an earthquake. EXT. 4WD TRAIL Deakins picks himself up.
+C: DEAKINS
+D: At least I know they work. INT. MCMURRAN CONTROL ROOM Wilkins grabs a phone. Giles is pacing, freaked. Converted to PDF by ScreenTalk Online 68.
+E: to himself
+C: WILKINS
+D: Get me the Room.
+E: into phone
+C: GILES
+D: I have to get out of here.
+C: WILKINS
+D: You're going to be fine. It was underground. Colonel Wilkins for General Creeley.
+E: into phone
+C: GILES
+D: How do you know?
+C: WILKINS
+D: For one thing, if it was above ground, it wouldn't have caused the same kind of ground tremor. For another, if it was above ground, we'd all be blind and dying. Sir, we've just had a detonation. INT. PENTAGON -- SITUATION ROOM Bedlam. People yelling. The Chairman is huddling with Baird.
+E: into phone
+C: BAIRD
+D: How'd that happen?
+C: CHAIRMAN
+D: I don't know, but thank God it happened underground.
+C: BAIRD
+D: What do we do now?
+C: CHAIRMAN
+D: First thing we do is put a huge goddamn lid on this thing. With all due respect to your boy Giles and his belief in honesty as the best policy, from now on and until the end of time, what happened in Utah tonight was an earthquake. All right? Baird nods. EXT. 4WD TRAIL The Humvee races along the trail. Converted to PDF by ScreenTalk Online 69.
+C: IN THE HUMVEE
+D: Deakins and the dead Pritchett motor along. Deakins turns to Pritchett as if Pritchett had just asked him a question.
+C: DEAKINS
+D: The helicopter? It was hit by EMP. Electromagnetic pulse. It's released in a nuclear detonation. It wipes out anything electronic for miles. That"s another reason I wanted to set off a nuke. I knew it'd bring down any helicopters coming for us. It'll also shut down all radio communications for a few hours, which will severely screw up their response. You see, Mr. Pritchett? There really is nothing for you to worry about. Pritchett's body seems to nod from the motion of the Humvee. EXT. COLORADO RIVER - RIVER BANK
+E: grins
+C: BUTTERFLIES
+D: Hover and dance over the water in the early morning light.
+C: HALE
+D: Hale has his shirt off and is wringing it out.
+C: TERRY
+D: Goddamn it! He turns to see Terry trying to undo her buttons but unable to her fingers are too numb.
+E: O.S.
+C: TERRY
+D: Stupid buttons. I hate these shirts. They're ugly and stupid and -- Terry suddenly starts crying. It's not the shirt she's upset about. Hale holds her.
+C: HALE
+D: It's okay.
+C: TERRY
+D: We just ... I mean, we almost...
+C: HALE
+D: I know. Converted to PDF by ScreenTalk Online 70.
+C: TERRY
+D: A nuclear bomb went off.
+C: HALE
+D: That it did.
+C: TERRY
+D: Are we...?
+C: HALE
+D: Look. If the butterflies are okay, then we'll be okay.
+E: points at butterflies
+C: TERRY
+D: Really?
+C: HALE
+D: Absolutely. It says so in the manual. "If you see butterflies after a detonation, you are fine." Terry looks at Hale. She knows he's bullshitting her, but she appreciates it. They look at each other. They could kiss ... but they both shy away from it. Terry gets her shirt off.
+C: HALE
+D: We better get moving. We might be able to reach Deakins when he gets to the river. They start off along a trail by the river.
+C: HALE
+D: Something I've been meaning to ask. How did someone like you end up with a gun?
+E: Terry looks at him
+C: TERRY
+D: I hit a bankrobber with a frozen chicken.
+C: HALE
+D: Excuse me?
+C: TERRY
+D: I came out here one summer during college. It was the campaign to stop the dam in the Grand Canyon. I loved it here. I came back, worked as a river guide and eventually stayed year-round. When a Park Ranger job came open, I applied. Converted to PDF by ScreenTalk Online 71.
+C: HALE
+D: I'm still waiting for the chicken.
+C: TERRY
+D: The local Parks Department wasn't sure how I'd do with the law enforcement part of the job. Well, one night I was coming home from the store and Tommy Drewson part of the local brain trust was robbing old Bob Kearney in front of the ATM. I bear old Bob yelling and I see Tommy heading for his car, so I tossed a bag of groceries at him at thirty miles an hour. A frozen chicken in the bag hit him in the forehead and he dropped like a rock. Next thing I know, I'm a Ranger. Hale looks at Terry with a new appreciation. EXT. 4WD TRAIL Deakins pilots the Humvee along the trail. EXT. COLORADO RIVER - RIVERBANK TRAIL Hale and Terry are crouching behind a rock, looking down.
+C: THEIR POV
+D: A zodiac raft has been pulled up on the river bank. A man with an Uzi -- SHEPPARD -- waits, duffel bag by his feet.
+C: TERRY
+D: Get me a frozen Zacky's fryer and he's a dead man. There's the sound of an approaching engine. Sheppard stands, gun ready. The engine stops. A few seconds later...
+C: DEAKINS
+D: Appears, walking down a footpath toward Sheppard.
+C: SHEPPARD
+D: Where is everyone?
+C: DEAKINS
+D: I am everyone. Let's go. Sheppard hurries to Deakins. They disappear up the footpath. Converted to PDF by ScreenTalk Online 72.
+C: HALE AND TERRY HALE
+D: Shit.
+C: TERRY
+D: What?
+C: HALE
+D: We're the only ones who know what's going on, and I don't have the faintest idea how we're gonna stop them.
+C: TERRY
+D: You'll think of something.
+C: HALE
+D: Why do you say that?
+C: TERRY
+D: You have so far. Hale looks at Terry -- she's right. But it almost pisses him off more than it gives him confidence. He grumbles to himself and starts off down toward the raft.
+C: TERRY
+D: Sink it?
+C: HALE
+D: Steal it. They get down to the raft. They climb in. Hale grabs the engine throttle, slumps.
+C: HALE
+D: Keys. Hale looks around, spots Sheppard's duffel bag lying on the riverbank. He hops out and starts rummaging through it when they hear grunting and feet approaching. Hale looks around for a place to hide. There isn't any. Terry tries to get out of the raft, but she trips on a tarpaulin bunched on the bottom of the raft. she drops.
+C: WITH DEAKINS AND SHEPPARD
+D: Coming down a path, lugging the last remaining nuke.
+C: THEIR POV
+D: Of the raft. Hale and Terry are nowhere to be seen. Converted to PDF by ScreenTalk Online 73.
+C: HALE
+D: Is alone, in the water, on the far side of the raft, very silent. He hears Deakins and Sheppard load the nuke into the raft.
+C: SHEPPARD
+D: Why were you driving around with a dead guy?
+E: O.S.
+C: DEAKINS
+D: Because I like him. He doesn't ask a lot of annoying questions. All right? A few seconds later the engine starts up. Hale ducks down under water as the raft takes off over him. He surfaces to watch the raft zooming off into the distance. He is very worried. ON THE RAFT - MOVING The nuke is on a pallet in the middle of the raft. Sheppard pilots the raft. Deakins looks around, sees what he wants.
+E: O.S.
+C: A TARP
+D: Is lying on the deck of the raft along one side, all bunched up. It'd be the kind of thing you'd hide under.
+C: DEAKINS
+D: Grabs the tarp and pulls.
+C: UNDER THE TARP
+D: There's no one there.
+C: DEAKINS
+D: Throws the tarp over the nuke. As he does, we PAN OVER to... A LONG CRATE MARKED "LIFE JACKETS" Strapped to one of the side pontoons. A small triangle of cloth is sticking out from inside the crate -- like the corner of a shirt. It's quickly pulled out of sight from within.
+C: BACK ON THE RIVERBANK
+D: Hale climbs out of the water and looks around, not knowing quite what to do. EXT. LAKE POWELL - TRANSFER POINT The zodiac boat is on the shore. Sheppard and four man -- call them the GUNMEN -- are hauling the nuke to the truck. Deakins walks with another man -- MAX, 50s. Max checks his watch. Converted to PDF by ScreenTalk Online 74.
+C: MAX
+D: Your friends in Washington should be getting the package about now.
+C: DEAKINS
+D: I wish I could see their faces. INT. PENTAGON - SITUATION ROOM Baird, the Chairman, Creeley and the others are all staring slack-jawed at a TV screen.
+C: ON THE TV
+D: Camcorder shot of Deakins against a black backdrop.
+C: DEAKINS
+D: ... two-hundred-and-fifty million dollars, by nine a.m. Utah time. The depositing instructions are in the envelope that came with this tape. This deadline is not negotiable, and there is no grace period. The device is on a timer. Shortly after you receive this, the timer will be activated. At nine a.m., I will make a call. If I find out you've done as you've been told, I will stop the timer. If you have not complied -- The screen suddenly cuts to a flurry of images of nuclear destruction -- buildings being knocked sideways, mushroom clouds, shockwaves, fires.
+C: CHAIRMAN
+D: Turn that off! EXT. LAKE POWELL Hale runs along the shoreline, headed for...
+C: A MARINA
+D: Where houseboats are rented out. Hale's eyes focus on a sign with a picture of a phone on it. EXT. LAKE POWELL - TRANSFER POINT The back gate of the truck is shut from the inside. The truck starts up and rumbles off, slowly at first.
+C: TERRY
+D: Jumps up from the raft and runs after the truck, staying right behind. She grabs a handhold and pulls herself up. She holds on tight as the truck bounces off down the dirt road. Converted to PDF by ScreenTalk Online 75. INT. PENTAGON SITUATION ROOM Loud voices and crosstalk. Baird is on the phone, nodding.
+C: BAIRD
+D: Yes, sir. Creeley's phone rings. He answers it.
+C: CREELEY
+D: Creeley.
+C: BAIRD
+D: The President wants to know if we know where the device is headed.
+E: covers phone; to Chairman
+C: CHAIRMAN
+D: If Deakins had a plane waiting, it could be anywhere. We just don't know.
+C: CREELEY
+D: I do. Major Hale is alive. According to him, Colonel Deakins is headed for Salt Lake City. EXT. LAKE POWELL - MARINA Army helicopters are landing near the marina. Two are already down. One has TROOPS standing outside of it.
+E: all eyes on him
+C: HALE, WILKINS AND GILES
+D: Are walking toward the second helicopter.
+C: WILKINS
+D: We found the raft on the other side of the lake. Tracks from a heavy truck ran out when they hit the paved road.
+C: HALE
+D: If we get a rad scanner we can track them. A brief look between Wilkins and Giles.
+C: WILKINS
+D: Actually, Major, we're going back to McMurran.
+C: HALE
+D: What? Converted to PDF by ScreenTalk Online 76.
+C: GILES
+D: We'd just like to ask you a few questions.
+C: HALE
+D: I'm not wasting time answering questions. We've got --
+C: WILKINS
+D: No debate, Major. I was given orders. Now, you can come with us, or you can go with them. Wilkins nods over at the other helicopter. The troops standing in front of it are MPs. Hale looks at Wilkins, astounded. EXT./INT. WILKINS' HELICOPTER - IN FLIGHT Wilkins is up front with the pilot. Hale and Giles are in back. All wear headsets. Hale is yelling at Wilkins.
+C: HALE
+D: Deakins thinks I'm dead. He thinks it's over. You've got to let me go after him. I can help. I know how his mind works.
+C: WILKINS
+D: Major, I know this is personal for you, but I think we can handle it. We're putting a wall of men and machines around Salt Lake City as we speak. That truck is not getting through. INT. TRUCK CLOSE ON THE NUCLEAR WEAPON Dusty slices of light come through the truck's slatted walls. The nuclear weapon is lashed to a hammock, straps running off to D-rings on the sides. Max is hooking up an electronic timer. INT. WILKINS' HELICOPTER
+C: HALE
+D: What about the Ranger?
+C: GILES
+D: What about her?
+C: HALE
+D: When you find that truck, you'll hit it hard. Chances are she'll be killed in the crossfire. "Regrettable but unavoidable." Converted to PDF by ScreenTalk Online 77. Giles and Wilkins share a look -- Hale is right.
+C: HALE
+D: Look, she's not supposed to be there. She should be checking camping permits, finding lost kids. She... She saved my life. Giles wants to help. So does Wilkins, but...
+E: beat
+C: WILKINS
+D: We were ordered to take you back to McMurran. You understand what orders are, don't you, Major? Wilkins turns away. Hale sits back, mind racing, not knowing what to do. He quickly grabs a pistol from the helicopter's weapons rack and puts it to Wilkin's neck.
+C: WILKINS
+D: Major, put that away or say goodbye to your career and hello to twenty years in Leavenworth.
+C: HALE
+D: If that's what it takes.
+C: WILKINS
+D: You'll have to shoot me. Hale thinks, but there's no way he can do that. He lowers the gun, sits back. Giles gets Hale's attention, then points to his own head. Hale doesn't understand, so Giles grabs Hale's gunhand and puts the gun up to his head.
+C: GILES
+D: Colonel! How about this? Wilkins looks back, sees Hale holding the gun to Giles' head.
+C: HALE
+D: I swear to God I'll shoot. Wilkins grins. INT. TRUCK Max finishes hooking up the timer. He looks at Deakins.
+E: bad acting
+C: MAX
+D: Ready when you are. Converted to PDF by ScreenTalk Online 78.
+C: DEAKINS
+D: Wait until I get back. I'm going to check on Sheppard. Deakins goes to a ladder that leads up to the ceiling. INT. WILKIN'S HELICOPTER Hale is looking back and forth between what he sees out the window and the map on his lap.
+C: WILKINS
+D: I don't know what you're looking for, Major. Every road between here and salt Lake has already been sealed.
+C: HALE
+D: Deak would know that. Maybe he's not on the road. Wilkins doesn't understand.
+C: HALE
+D: They were using maps like these to set up the roadblocks?
+C: WILKINS
+D: Yes...?
+C: HALE
+D: Then that's the answer. Wilkins doesn't understand. Hale points outside, down at...
+C: TRAIN TRACKS
+D: On the ground. Old ones, half-covered by weeds.
+C: HALE
+D: It's an old spur. Probably hasn't been used in twenty years. Nobody bothered to put it on the new maps.
+C: WILKINS
+D: What are you --?
+C: HALE
+D: The nuke isn't in a truck, Colonel. It's on a train. EXT. TRAIN A freight train -- engine, a car carrier , several boxcars and a caboose. A hatch opens up an the roof of one of the boxcars near the tail of the train and... Converted to PDF by ScreenTalk Online 79.
+E: carrying a load of Toyotas
+C: DEAKINS
+D: Climbs out and we discover that indeed they are not in a truck, they're in a train. The "nuke boxcar" has a small satellite dish mounted on the roof.
+C: THE FOUR GUNMEN
+D: Are in position at points along the train, ready with Uzis. INT. WILKINS' HELICOPTER Wilkins hangs up the radio mike.
+C: WILKINS
+D: Radio's still down. We'll head north, look for a phone, then look for a train. Giles nods. Hale is thinking. Wilkins starts to tell the pilot.
+C: HALE
+D: No. Go south.
+C: GILES
+D: Salt Lake is north.
+C: HALE
+D: He's not going to Salt Lake.
+C: GILES
+D: But you said it would be Salt Lake. You found that hospital tag.
+C: HALE
+D: He planted that. He wanted whoever found it to think that's where he was going. He's been doing a rope-a-dope. Giles and Wilkins look at him like he's nuts.
+E: Shakes head
+C: HALE
+D: It's a boxing term. When Ali -- Look, I know this guy. If everything has been saying he's heading north, then he's heading south. They look at him, then Wilkins grabs the map.
+C: WILKINS
+D: What's south of here? Converted to PDF by ScreenTalk Online 80.
+C: ECU MAP
+D: Wilkins' finger follows the train line on the map. It goes right into Las Vegas.
+C: HALE
+D: No. Not Vegas. What the hell is there to blow up in Vegas? Wilkins' finger keeps moving on the map.
+C: GILES
+D: The President. Wilkins' finger stops. EXT. TRAIN Deakins jumps the gap between two boxcars and walks on. We ANGLE DOWN to reveal...
+C: TERRY
+D: Crouching down between the two cars. INT. TRAIN ENGINE - DRIVER'S COMPARTMENT Sheppard is working with a torch, welding the brake and accelerator controls. Deakins enters. Sheppard turns the torch down. Deakins lights a cigarette off it.
+C: DEAKINS
+D: How much longer?
+C: SHEPPARD
+D: Almost done. INT. TRAIN ENGINE ENGINE AREA Behind the driver's compartment is the engine itself, with walkways along either side.
+C: TERRY
+D: Creeps-up to one of the doors that lead into the driver's compartment. She hears...
+C: SHEPPARD
+D: How long until the helicopter gets here? INT. DRIVER'S COMPARTMENT
+E: O.S.
+C: DEAKINS
+D: Five minutes. We'll leave from the boxcar roof. Converted to PDF by ScreenTalk Online 81. Deakins turns to go. INT. TRAIN ENGINE - ENGINE AREA Deakins opens the door and strides along beside the engine.
+C: TERRY
+D: Is hiding on the other side of the engine, very quiet and still. As Deakins goes out the back door of the engine, Terry follows. EXT. TRAIN - BETWEEN ENGINE AND BOXCAR Terry comes out the door and is about to step across to the ladder on the boxcar when we PULL BACK to reveal...
+C: DEAKINS
+D: As he puts a gun to the back of Terry's head. EXT. GAS STATION AND MINI-MART A RANCHER comes out of the mini-mart with a cup of coffee and heads for his old pickup truck. He starts to open his door when he hears, incongruously, whump-whump-whump. He looks up as...
+C: WILKINS' HELICOPTER
+D: Comes in, gets about three feet off the ground and Giles jumps out. As Giles runs to a payphone, the helicopter pulls up and flies away, leaving the Rancher agog. INT. NUKE BOXCAR Terry comes down the ladder from the hatch, followed by Deakins with a gun.
+C: DEAKINS
+D: Terry, Max. Max, Terry.
+C: MAX
+D: A pleasure. What the hell is a "Terry" and why is it still live?
+E: to Terry to Deakins
+C: DEAKINS
+D: She asked me how I thought I was going to get away with this and I thought I'd tell her. We're going to a cabin in the mountains, not far from here. When we get there I'm gonna make two phone calls. Converted to PDF by ScreenTalk Online 82. DEAKINS The first is to the Pentagon. I'm gonna tell them where the train is. See, all their forces are up at Salt Lake by now. By the time they could get a F-15 down here the train will be on the outskirts of Vegas. And I'll remind them about the impact trigger -- if they hit this train hard, the nuke'll blow. They won't have any choice. They'll have to let the train get into the city and because of that, they'll have to pay.
+E: to Terry more cont'd grins shakes head
+C: TERRY
+D: You said two phone calls.
+C: DEAKINS
+D: The second will be to my bank in Geneva. If the money's in my account, I use this... ... and shut down the timer. If not, we sit back, put on some shades and get a quick tan.
+E: pulls out what looks like a modified cell- phone
+C: TERRY
+D: But -- radio isn't working.
+C: DEAKINS
+D: You saw the dish on the roof? Microwave. It's not affected by EMP. See? I really have thought of everything.
+C: MAX
+D: You kept her alive just so you can impress her with how smart you are?
+C: DEAKINS
+D: No, I kept her alive because I want her to do me a favor. See, if something goes wrong and this thing goes off, a half a million people are going to be vaporized. I don't want that on my conscience. So I'm not going to arm the nuke. Converted to PDF by ScreenTalk Online 83. DEAKINS She is. INT. PENTAGON SITUATION ROOM The room is silent. Everyone is looking at video monitors showing a map of Las Vegas. They are listening to a nervous ASSISTANT as he uses a telestrator to diagram the blast effects.
+E: to Max more cont'd puts gun to Terry's head
+C: AIR FORCE ASSISTANT
+D: Starting at ground zero and moving out, we have, in terms of immediate effect, one hundred percent fatalities to thirty miles. Ninety percent from thirty to forty miles, dropping roughly ten percent for every-ten miles after that. The long term --
+C: CHAIRMAN
+D: Son?
+E: cut to the chase
+C: AIR FORCE ASSISTANT
+D: Two hundred and fifty thousand in the first few seconds. The same again within a year.
+E: looks up, seared
+C: BAIRD
+D: Good God. INT. NUKE BOXCAR Terry is shaking, tears in her eyes, as she slowly-enters the numbers Deakins tells her to in the nuke timer keypad.
+E: it sinks in
+C: DEAKINS
+D: Nine ... Then pound ... Good. Now six ...
+C: ECU TERRY'S EYES
+D: Filled with tears. She blinks and... QUICK CUTS Terry has visions of RETIREES in Vegas, watering potted plants outside their motor home, of TEENAGERS ragging on each other as they walk to school, of CHILDREN in a playground.
+C: DEAKINS
+D: Seven ... Star ... One... Converted to PDF by ScreenTalk Online 84. And Terry shakingly pushing each button and then... The images of the retirees, the teenagers and the children each bleach out to white, fast, as if hit by a nuclear blast.
+C: DEAKINS
+D: Then ENTER and it's done.
+C: TERRY
+D: Her finger hovers over the ENTER button, almost pushes it, then shifts to CANCEL and pushes that.
+C: ECU NUKE TIMER
+D: The display goes blank.
+C: DEAKINS
+D: Stunned. He shakes his head.
+C: DEAKINS
+D: Ooh. You really shouldn't have done that. I said I would kill you, and I will.
+C: TERRY
+D: I'm gonna be dead either way. I don't want any part of this. Deakins shrugs -- he sees her logic. He puts his gun to Terry's head. Terry shuts her eyes.
+C: DEAKINS
+D: Night-night. Deakins is about to pull the trigger when Max stops him. Max gestures -- listen. They hear a helicopter approaching. Max checks his watch.
+C: DEAKINS
+D: They're early. Just then, they hear gunfire. Max gives Deakins a look.
+C: DEAKINS
+D: It's not a problem. Set the timer, then kill her. Have fun with it. Deakins starts climbing up the ladder to the hatch. EXT. TRAIN The GUNMAN at the caboose is firing on Wilkins's helicopter, hanging a hundred yards off the back of the train. Converted to PDF by ScreenTalk Online 85. INT. NUKE BOXCAR Max holds a pistol on Terry with one hand while he quickly sets the timer with the other.
+C: TERRY'S HAND
+D: Rests on Max's tool tray. Her fingers creep over to a vrench.
+C: MAX
+D: Presses ENTER and finishes setting the timer.
+C: MAX
+D: There.
+C: TERRY AND MAX
+D: Terry swings hard and fast with the wrench, knocking the gun out of Max's hand. Max spins, and when Terry swings at him again. Max kicks the wrench out of her hand, then steps up fast and hits Terry under the chin with the heel of his hand. She drops straight back.
+C: MAX
+D: Thought I was just friendly old Max, huh? Lady, I was a Navy SEAL. You should see what I can do with just my thumb. Max goes for his gun.
+C: TERRY'S HAND
+D: Grabs onto something. It's the wrench.
+C: TERRY AND MAX
+D: As Max turns back with the gun, Terry heaves the wrench. It hits Max square in the forehead. He drops like a rock.
+C: TERRY
+D: Yeah? Well, you should see what I can do with just a chicken. EXT. TRAIN - CABOOSE Deakins joins his man on top of the caboose, firing on Wilkins, helicopter. INT. HELICOPTER Wilkins and Hale are returning fire. Hale points at Deakins.
+C: HALE
+D: That's him! Converted to PDF by ScreenTalk Online 86.
+C: WILKINS
+D: Get him!
+E: to pilot
+C: PILOT
+D: They've got guns!
+C: WILKINS
+D: You've got a helicopter. Use it! EXT. TRAIN Deakins and the gunman keep firing on the helicopter as...
+C: THE HELICOPTER
+D: Comes swooping in.
+C: DEAKINS
+D: Sees what's going to happen and turns and runs as...
+C: THE HELICOPTER
+D: Drops down beside the train. The rotor blades whip about three feet over the train roof and the pilot starts forward.
+C: DEAKINS AND THE GUNMAN
+D: Run from the blades as fast as they can.
+C: THE HELICOPTER
+D: Closes fast.
+C: DEAKINS AND THE GUNMAN
+D: Jump from car to car. The gunman passes Deakins. Just when the helicopter blades are about to catch up to Deakins...
+C: DEAKINS
+D: Jumps down between two boxcars and the rotor blades go right over his head. Deakins hears an awful sound and a scream cut short.
+C: HELICOPTER POV
+D: Swooping fast over the train when suddenly...
+C: TERRY
+D: Pops up out of the hatch, her back to the helicopter.
+C: HALE
+D: Pull up! Converted to PDF by ScreenTalk Online 87.
+E: O.S.
+C: THE HELICOPTER
+D: Pulls up fast.
+C: TERRY
+D: Watches the helicopter bank away. Bullets-start whizzing by her.
+C: DEAKINS
+D: Has climbed up and is shooting at her.
+C: TERRY
+D: Runs away from Deakins, shooting Max's pistol behind her blindly.
+C: TWO GUNMEN
+D: Appear two cars ahead of Terry and start toward her, shooting.
+C: TERRY
+D: Is caught between Deakins and the gunmen with no way out when...
+C: THE HELICOPTER
+D: Comes along the length of the train, flying low. It rises up and there's...
+C: HALE
+D: Hanging from the helicopter on a cable hooked to a harness and he's firing a pistol, shooting right over Terry at...
+C: THE FIRST GUNMAN
+D: He's hit, falls off the train.
+C: THE SECOND GUNMAN
+D: Aims at Terry and starts firing.
+C: TERRY
+D: The bullets rip up the boxcar roof around her. She jumps up and grabs onto...
+C: HALE
+D: As he swings in on the cable, shooting his pistol.
+C: HALE AND TERRY
+D: Are lifted up and over... Converted to PDF by ScreenTalk Online 88.
+C: THE SECOND GUNMAN
+D: Who turns, firing a shotgun. Hale's bullets find him. He falls.
+C: SHEPPARD
+D: Appears, firing an Uzi at Hale, Terry and the helicopter.
+C: IN THE HELICOPTER
+D: Bullets rip through. Wilkins is hit, knocked back. THE CABLE HOLDING HALE AND TERRY Is severed by one of Sheppard's bullets.
+C: HALE AND TERRY
+D: Drop ten feet to the roof of a boxcar. Hale shoots as they fall.
+C: SHEPPARD
+D: Is hit and drops.
+C: THE HELICOPTER
+D: Banks away fast, making ugly sounds, smoke billowing out. The engine cuts out and the helicopter drops to a hard landing beside the tracks.
+C: HALE AND TERRY
+D: Watch the helicopter land as the train rolls on. They look at each other.
+C: TERRY
+D: You stop the nuke. I'll stop the train. Hale nods. Terry starts forward, then turns.
+C: TERRY
+D: I'd yell at you for coming after me, but you did just save my life. Hale grins. They hear a helicopter in the distance. They look over to see...
+C: A RED CROSS HELICOPTER
+D: Coming in fast.
+C: HALE AND TERRY
+D: Any excitement turns to confusion when they see... Converted to PDF by ScreenTalk Online 89.
+C: A MAN
+D: Standing in the doorway of the Red Cross helicopter, holding a gun.
+C: TERRY
+D: That's Deakins' escape route.
+C: HALE
+D: Not any more. Terry nods. They share a last look, then Terry heads off. Male coils up the winch cable, slings it over his shoulder and heads for the nuke boxcar and his old friend Deakins. He picks up...
+C: THE SHOTGUN
+D: Left by deceased Gunman #2. EXT. CAR CARRIER Makes her way past the Toyotas. EXT. WILKINS' HELICOPTER - BESIDE TRAIN TRACKS Wilkins and the pilot stand outside their disabled helicopter. The train is way off in the distance. They hear honking and turn to see...
+C: A PICKUP TRUCK
+D: Tearing toward then along a dirt road, horn honking.
+C: CLOSE ON PICKUP
+D: The RANCHER from the mini-mart is driving; Giles beside him. INT. TRAIN ENGINE - DRIVER'S COMPARTMENT Terry comes into the driver's compartment. She tugs at the brake and accelerator levers. It's useless. She looks around, spots a cigarette lighter. INT. BOXCAR Deakins and the one remaining GUNMAN hear the helicopter. They start toward the ladder to the roof hatch when they hear footsteps on the roof of the car. Deakins gestures to the gunman. He raises his gun, trying to figure out where to shoot. Then they hear someone tugging at the hatch handle. The gunman opens fire on the hatch. EXT. ON TOP OF BOXCAR Bullets stream up through the hatch cover, but Hale is nowhere in sight. One end of Hale's helicopter winch cable is tied to the hatch cover. Converted to PDF by ScreenTalk Online 90. We follow the cable fast, over to the side of the boxcar to find...
+C: HALE
+D: Standing, tugging on the cable, still attached to the harness. Hale racks a load in the shotgun and jumps back off the side of the train. INT. BOXCAR The gunman hears a sound, starts to turn, just as...
+C: HALE
+D: Swings into the boxcar on the cable, firing the shotgun.
+C: THE GUNMAN
+D: Is picked up by the blast and smashed back through the wood slat wall of the boxcar and out of the train.
+C: DEAKINS
+D: Climbs up fast through the hatch to the roof.
+C: HALE
+D: Shoots at Deakins, misses. The shotgun clicks empty. Hale tosses the gun then unhooks the cable from the harness. He drops to the floor-of the boxcar and runs to the ladder. EXT. CAR CARRIER Terry has a three-foot length of gasoline-soaked cloth stuffed into the gas tank opening of a Toyota on the lower level of the car carrier. She lights it and hurries off. EXT. ROOF OF TRAIN Deakins steadies himself as...
+C: THE RED CROSS HELICOPTER
+D: Hovers in sideways toward the train. The MAN in the doorway holds out a hand to Deakins.
+C: DEAKINS
+D: Is reaching for the man's hand and grabs it when...
+C: HALE
+D: Reaches out of the hatch and grabs onto Deakins' foot. Converted to PDF by ScreenTalk Online 91.
+C: HALE AND DEAKINS
+D: Deakins kicks free of Hale, holds onto the man in the helicopter and is pulled onboard.
+C: THE HELICOPTER
+D: Moves sideways over the train.
+C: IN THE HELICOPTER
+D: Deakins turns, pulling his gun and shoots down at the train as...
+C: THE HELICOPTER
+D: Moves back sideways over the train.
+C: DEAKINS' POV
+D: No sign of Hale on the train roof.
+C: DEAKINS
+D: Get us out of here!
+C: THE PILOT
+D: Nods and starts to lift and bank. Then he gets an odd expression. The helicopter isn't doing what he wants.
+C: THE HELICOPTER
+D: Is hovering over the train, but it can't fly away because...
+C: HALE
+D: Is hanging onto the skids and he's hooked the cable to the skid. The other end of the cable is still attached to the hatch.
+C: THE HELICOPTER
+D: Strains against the cable, but it doesn't snap.
+C: IN THE HELICOPTER DEAKINS
+D: Hurry!
+C: POWER LINES
+D: Cross the track, a quarter-mile ahead.
+C: DEAKINS
+D: Leans out of the helicopter with his Uzi, shooting down at... Converted to PDF by ScreenTalk Online 92.
+C: HALE
+D: Who grabs onto the cable and slides down it to the roof of the train, bullets plugging in all around his. He jumps down through the hatch as...
+C: DEAKINS
+D: Sees what's coming and jumps.
+C: THE HELICOPTER
+D: Hits...
+C: THE POWER LIKES
+D: Which snap, shoot sparks and wrap around the helicopter's rotor.
+C: THE HELICOPTER
+D: Breaks up and flies apart as the train rolls on. EXT. CAR CARRIER The flame burning up the gas-soaked cloth goes into the Toyota gas tank and...
+C: THE TOYOTA
+D: Explodes. INT. NUKE BOXCAR Hale gets to his feet, goes to look at the nuke.
+C: ECU NUKE TIMER
+D: Five minutes and counting.
+C: HALE
+D: Looks at it, trying to figure out how to disarm it. He hears the whoosh-thump of someone jumping down into the boxcar. He turns.
+C: DEAKINS
+D: Stands there, trying to smile, trying to be cool, but...
+C: DEAKINS
+D: They would've paid and I would've stopped it. You've made a very, very big mistake.
+C: HALE
+D: It's over, Deak. I beat you. Disarm it. Converted to PDF by ScreenTalk Online 93.
+C: DEAKINS
+D: If it's over and you beat me, you disarm it.
+C: HALE
+D: Deak...
+C: DEAKINS
+D: Course you are going to need this. All you have to do is get it. And if you do, as a special added bonus, you get this. Deakins pulls out...
+E: holds cell-phone remote puts remote in pocket
+C: THE TWENTY DOLLAR BILL
+D: Then pockets it.
+C: HALE AND DEAKINS
+D: Share a look. Deakins puts up his fists.
+C: DEAKINS
+D: Ready? Hale puts up his fists. EXT. CAR CARRIER It's a chain reaction, with one flaming Toyota setting off the one above it or next to it. BETWEEN BOXCAR AND CAR CARRIER Terry is looking under the car carrier.
+C: TERRY'S POV
+D: The train car axle is smoking, grinding, glowing red in the heat from the flaming Toyotas. INT. BOXCAR Hale and Deakins circle each other.
+C: DEAKINS
+D: Modern boxing is a pussy sport. They want to make it about scoring points. It's not about scoring points! It's about this! Converted to PDF by ScreenTalk Online 94. Deakins fakes a right, jabs with his left, catching Hale on the chin. Hale is jarred. Blood runs from his mouth.
+C: DEAKINS
+D: Okay. You're bleeding. Good. In the old fights, there'd be so much blood, guys would slip and fall. Let's see if we can't get a little more of that red goo out of you. Ready? Again Deakins fakes right, jabs left. Hale half blocks it, but is sent back. EXT. TRAIN
+C: CU TRAIN AXLE
+D: The axle is bending, grinding, groaning.
+C: TERRY
+D: Is between the car carrier and a boxcar, looking down at the axle, not knowing what the hell she's going to do when she hears a horn honking. She turns. INT. BOXCAR
+C: DEAKINS
+D: Used to be, every fight was to a knockout. You know what happens when you get knocked out? It's your brain slapping against the inside of your skull. Here. I'll let you see what it's like. Ready? Deakins steps toward Hale, about to finish him off. Deakins swings. Hale ducks, comes up hard with all he's got, gets Deakins under the chin and Deakins sails up and back, landing prone, seeing stars.
+C: HALE
+D: Stands over Deakins, in silhouette, the light of the hatch above him. And then... EXT. THE TRAIN AXLE Snaps and...
+C: THE TRAIN
+D: Jumps the tracks. INT. BOXCAR Hale is thrown off his feet. Converted to PDF by ScreenTalk Online 95.
+C: THE NUCLEAR WEAPON
+D: Swings wildly in the hammock webbing.
+C: THE STRAPS
+D: Securing the webbing to the walls of the car start to snap. EXT. TRAIN The front cars accordion sideways off the tracks, down a short, steep, embankment. It's all grinding, twisting, groaning metal.
+C: FLAMING TOYOTAS
+D: Fly, tumble, explode. INT. BOXCAR Hale tries to get to his feet, but then the floor starts dropping below him as... EXT. THE TRAIN
+C: THE NUKE BOXCAR
+D: Goes down the steep slope of the embankment and stops.
+C: THE TRAIN
+D: The sounds of the crash cease. Dust and smoke. Burning Toyotas. INT. BOXCAR Flickering light from a burning Toyota comes in through the slatted walls. In this weird light, Hale sees...
+C: THE NUCLEAR WEAPON
+D: It's above him, at the end of the car. It's hanging in mid-air, tangled up in the webbing. Two straps are the only things keeping the nuclear weapon from dropping twenty feet to the bottom of the car.
+E: top
+C: DEAKINS
+D: Is lying at the bottom of the car, directly under the nuke, not moving.
+E: end
+C: HALE
+D: Looks around for something. He sees it --
+C: DEAKINS' REMOTE CONTROL DEVICE
+D: On the floor. Converted to PDF by ScreenTalk Online 96.
+C: DEAKINS' EYES
+D: Flicker open. He sees...
+C: A PISTOL
+D: Lying a few feet away.
+C: HALE DEAKINS
+D: You have to push amber, then red. You might have time to push amber. You won't get to red. Hale turns to see...
+E: O.S.
+C: DEAKINS
+D: Pointing a gun at him.
+C: HALE
+D: The nuke is armed, Deak. If it falls, the impact trigger will set it off.
+C: DEAKINS
+D: I know.
+C: HALE
+D: Half a million people will die.
+C: DEAKINS
+D: Fuck 'em if they can't take a joke.
+E: thinks, shrugs
+C: ONE OF THE STRAPS
+D: Holding the nuke tears through. One strap left.
+C: HALE
+D: His finger hovers over the amber button.
+C: DEAKINS
+D: Do it and I shoot. Hale looks at Deakins.
+C: HALE
+D: I guess you really don't know me that well after all. Hale presses the amber button. Converted to PDF by ScreenTalk Online 97.
+C: DEAKINS
+D: Shoots.
+C: HALE
+D: Spins back, blood spraying from his shoulder.
+C: THE REMOTE
+D: Falls from his hand.
+C: DEAKINS
+D: Is about to shoot again, then hears a tearing and looks up as...
+C: THE LAST STRAP
+D: Rips through and...
+C: THE NUKE
+D: Drops toward him, point first.
+C: HALE'S BLOODY HAND
+D: Grabs the remote and his finger presses the RED button.
+C: ECU NUKE TIMER
+D: Mid-air, dropping, the clock and display go blank as...
+C: DEAKINS
+D: His eyes fill with true terror as...
+C: THE NUCLEAR WEAPON
+D: Punches into Deakins, point first, crushing him.
+C: HALE
+D: Gets to his feet and stands over Deakins. He reaches down, opens Deakins' pocket and pulls out the twenty-dollar bill.
+C: HALE
+D: Ready. He heads out of the boxcar. EXT. TRAIN TRACKS Hale climbs out of the boxcar and starts running through the train wreckage and burning cars, looking for Terry. Converted to PDF by ScreenTalk Online 98.
+C: A TV NEWSVAN
+D: Pulls up and a REPORTER and CAMERAMAN jump out.
+C: HALE
+D: Keeps running through the wreckage. He stops, unable to breathe when he sees...
+C: A FOOT
+D: In a boot, sticking out from under a burning Toyota.
+C: HALE
+D: Runs to the car, pulls at the foot, tries to push the car off the body underneath. O.S. another vehicle drives up.
+C: HALE
+D: Come on! Oh, God. Oh, no. Hale is pulling hard on the foot when...
+C: TERRY
+D: The Air Force pays you so little you have to steal shoes off dead people? Hale turns to see...
+E: O.S.
+C: TERRY
+D: Walkins over from the Rancher's pickup truck.
+C: WILKINS AND GILES
+D: Are behind her, grinning.
+C: HALE AND TERRY
+D: Run to each other. They embrace, start smoothing each other's hair, start wiping blood off each other's faces, start kissing, only to be interrupted by... THE TV REPORTER AND CAMERMAN
+C: REPORTER
+D: What happened here? Hale and Wilkins and Giles share a look.
+C: HALE
+D: Uh... ... somebody was trying to steal some Toyotas. Converted to PDF by ScreenTalk Online 99. The reporter asks more questions. Hale and Terry walk off, arms around each other. As they go, Hale sticks out his hand to Terry.
+E: looks at flaming Toyotas
+C: HALE
+D: Rawley Hale.
+C: TERRY
+D: Terry Carmichael. They shake hands and walk on as we... FADE TO BLACK
+N: THE END

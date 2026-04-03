@@ -1,0 +1,2733 @@
+M: DON'T LOOK UP
+M: Screenplay by
+M: Adam McKay
+M: Story by
+M: Adam McKay & David Sirota
+M: OPEN ON: QUOTE AGAINST BLACK:
+M: “The end of the world will be legal.” - Thomas Merton
+T: CUT TO:
+S: EXT. THE MAUNA KEA TELESCOPE ARRAY - HAWAII - DUSK
+N: The world famous telescopes of Mauna Kea sit on a mountain on Hawaii’s Big Island framed by a brilliant orange sunset.
+S: INT. SUBARU TELESCOPE - CONTINUOUS
+N: A group of 4 GRAD STUDENTS in their mid 20s, DANIEL, NISHA, OLIVER, WIN and their PROFESSOR from Michigan State PROFESSOR RANDALL MINDY, 50s, Midwestern, bearded, not so ambitious since he got tenure, are winding down the day.
+C: RANDALL
+D: Knock... knock...knock...knock... knock... knock...
+C: NISHA
+D: Is a gravitational burst at the door?
+C: RANDALL
+D: Knock... knock... knock-
+C: DANIEL
+D: Wait! Is a pulsar at the door?
+C: RANDALL
+D: Very good Daniel!
+C: OLIVER
+D: Some pulsars emit double pulses. That’s why I didn’t get it.
+C: RANDALL
+D: True Oliver but the vast majority emit single pulses.
+C: NISHA
+D: I’ve got one! Knock, knock knock knock knock knock knock knock knock knock knock knock knock knock...
+E: fast and whispered
+C: OLIVER
+D: What are you even doing?
+E: MORE
+C: RANDALL
+D: If I’m right it might help to be in a water tank a mile underground to get this one.
+C: WIN
+D: Are Neutrinos at the door?
+C: NISHA
+D: Yes!
+C: RANDALL
+D: Good one Win.
+C: WIN
+D: Oh! I’ve got one: Knock..... Ka-blaaammmmmm!!! Silence.
+C: RANDALL
+D: Uh-oh. Make sure you’re a few hundred trillion kilometers away when you open that door...
+C: NISHA
+D: A Supernova!
+C: OLIVER
+D: I knew that but I didn’t want to wreck it for everyone. PhD candidate KATE DIBIASKY, 26, dyed red hair, rides the fine line between geeky and alternative, enters.
+C: KATE
+D: Hey guys.
+C: NISHA/DANIEL
+D: Hey Kate! Hey!
+C: RANDALL
+D: There she is. The woman of the hour. Holder of another half night of time on one of the most powerful optical telescopes on the planet: Subaru.
+C: WIN
+D: How goes the supernova hunt Kate??
+C: KATE
+D: I got good data last time. I’m hoping tonight’s the night.
+E: MORE
+C: KATE
+D: If I get lucky my findings could help more accurately measure the expansion of the universe! A girl’s gotta dream right?
+E: CONT'D
+C: RANDALL
+D: That’s the beauty of science Kate. There’s no luck! Follow your evidence.
+C: OLIVER
+D: I’d say the odds of you doing a better job than Nobel Prize winners at Hubble are improbable at best.
+E: know it all
+C: KATE
+D: You’re improbable at best Oliver.
+E: under her breath
+C: OLIVER
+D: What did you say?
+C: RANDALL
+D: Alright gang! Let’s clear out. I think we’re officially in Kate’s hair. Happy hunting Ms. Dibiasky! And don’t forget to check your standard stars.
+C: KATE
+D: Goodnight. Everyone exits. Their conversation echoes down the hallway.
+C: DANIEL
+D: Knock knock.
+C: NISHA
+D: Who’s there? Who’s there?
+E: no response
+C: RANDALL
+D: I think a black hole is at your door Nisha.
+C: NISHA
+D: I love being around you Professor Mindy. You know so much!
+C: RANDALL
+D: I’ve just been around awhile that’s all.
+C: KATE WIN
+D: Are you blushing Dr. Mindy?
+E: CONT'D
+C: RANDALL
+D: I don’t think so. Am I? INT. SUBARU TELESCOPE - CONTINUOUS Quick cuts as Kate prepares a BAG OF GREEN TEA AND A CUP. The WATER BOILS. Tea is STEEPED. Raspberry JAM is spread on a piece of WHOLE GRAIN BREAD. A CARL SAGAN action figure is positioned next to the computer. Kate types coordinates. The TELESCOPE REPOSITIONS. AND THE ROOF OPENS revealing a starry night. And for the final preparatory touch Kate puts her ear buds in and HITS PLAY ON HER PHONE. MUSIC: WU-TANG CLAN AINT NUTHING TO F’ WIT by Wu-Tang Clan Kate raps along under her breath. She also SELF BEEPS any questionable words without falling off the beat. As we hear Kate rap we cut back and forth between Kate’s COMPUTER SCREEN SHOWING A HARD TO DECIPHER IMAGE and A STUNNING REAL LIFE VIEW SPACE THAT ENDS ON A LITTLE SPIRAL
+C: GALAXY. KATE
+D: Come on... just a little explosion. That’s all. Just two stars exploding with the force of 10 trillion trillion tons of TNT... She clicks several photos. QUICK TIME JUMP to her “stretching” the photos on a big screen to look for signs of a supernova. But there’s... nothing.
+E: to herself
+C: KATE
+D: Shit. JUMP CUT: Kate stretches another picture. Still nothing.
+E: CONT'D
+C: KATE
+D: Shit, shit, shit. ...Huh. She sees something else, a small smudge of light. Quickly she takes more pictures.
+E: CONT'D
+C: KATE
+D: Okay... Okay... Be cool Kate. You are a calm and cool scientist... JUMP CUT: She stretches and sequences them until a clearly visible “streak” is visible in the sky.
+E: CONT'D
+C: KATE
+D: Holy shit... Holy shit INT. SUBARU TELESCOPE - 2 IN THE MORNING - NIGHT MUSIC: YOU GOT TO BE THE ONE by the Chi-Lites A “Party” is coming together with Professor Mindy and the grad students.
+E: CONT'D
+C: RANDALL
+D: Comet Dibiasky. It definitely has a ring to it.
+C: WIN
+D: I found four beers and three Diet Sparkles in the back fridge! It’s a party!
+C: NISHA
+D: I’ve got a hard cider and a bag of Crossbone Crunch! Randall is transfixed by the pictures.
+C: RANDALL
+D: It’s got to be an Oort cloud comet just based on where you saw it. Probably the last time it got this close to the sun was long before human civilization. Amazing.
+C: KATE
+D: The crazy thing is I found some more detections of it from my observing runs a few months ago. But my code wasn’t looking for something moving. When I saw it tonight I almost started hyperventilating!
+C: OLIVER
+D: Maybe they ought to call it the “Kate got lucky” comet.
+E: jealous
+C: KATE
+D: Or we can call it “Discovered while Oliver’s smug ass was sound asleep.”
+C: DANIEL
+D: Please name it that Kate. For real, do it.
+C: RANDALL
+D: I’m just so thrilled for you Kate. I remember when I published my first paper on the gaseous properties of dead small galaxies back in 04. It was such a rush.
+C: NISHA
+D: How would we find out the comet’s velocity and orbit Professor Mindy?
+C: RANDALL
+D: What a great question. I haven’t done orbital dynamics since Grad school. But we’ve got a six-hour progression from tonight, a set from a few months ago... Win see if they have a copy of a celestial mechanics textbook back there. Randall wheels over a white board. He begins to draw the XYZ Axis from FIGURE 1. Daniel hands him a battered textbook.
+C: RANDALL
+D: Okay. Gauss’ method is a good place to start...We’ll set up the coordinates like this.. The topocentric vector is rho... Kate, can you double-check the average astrometric accuracy? Kate is on her laptop.
+E: CONT'D
+C: KATE
+D: 0.04 arcseconds.
+C: RANDALL
+D: We’ve got a pretty good arc on this thing… So the iterations are converging nicely. Quick time dashes as Randall writes more and more equations on the board and flips through the textbook.
+C: OLIVER
+D: I hate to be the guy who asks “do we have to know this for the test?” But do we have to know this for the test?
+C: KATE
+D: What is the comet’s orbit relative to earth?
+C: RANDALL
+D: Hmmm..interesting. Now that we have the comets orbit. Let’s just check the ephemeris. That will tell us the distance between the comet and earth.
+C: NISHA
+D: Kate, how cool would it be if you could see it in the night sky? You’d be famous! He types into the computer and writes down the results. The distance between the earth and the comet gets lower and lower.
+C: RANDALL
+D: Well this is very interesting. Randall writes the last part of FIGURE 2. And then finally...he writes “O.OO” His hand is frozen with the marker in it in front of the board.
+C: KATE
+D: Professor Mindy? Professor Mindy?
+E: beat
+C: RANDALL
+D: Alright everyone... Time to go back to sleep.
+C: WIN
+D: But what’s the relative position?
+C: RANDALL
+D: I can’t figure it out. Sorry guys.
+C: DANIEL
+D: Let’s hit it. I’m wiped. That was awesome. The Grad students shuffle off. Randall hasn’t taken his eyes off the board.
+E: yawns
+C: RANDALL
+D: Kate you stay. INT. NASA HEADQUARTERS - HALLWAY - MINUTES LATER - MORNING L/3 “NASA HEADQUARTERS, KENNEDY SPACE CENTER, FLORIDA 10:42
+C: AM”
+D: DR. JOCELYN CALDER, early 50s and political player, comes walking down a hallway fast in a sharp business suit. INT. NASA HEADQUARTERS - OFFICE - CONTINUOUS Calder takes the phone from a NASA SCIENTIST.
+C: NASA SCIENTIST
+D: Dr. Calder. I thought you should hear this. A Michigan State Professor and his grad students are at Subaru and they saw-
+C: DR. CALDER
+D: This is Dr. Calder. You’ve just pulled me out of a meeting where I had to tell my team we’ve lost 8 billion in funding because Congress wants an aircraft carrier that’s ALSO a submarine. So this had better be damn important.
+E: ignores him
+C: RANDALL
+D: I am so sorry Dr. Calder. But we are seeing some awfully strange orbital numbers on this comet we just found. They should be in your inbox. Data and pictures are on the computer screen in front of Dr. Calder. Dr. Calder takes a look.
+C: DR. CALDER
+D: Okay... Hmm...Okay... You’ve definitely found something large here... But I’m no expert on comets. Let me get Doctor Oglethorpe on the line. Please hold. INT. SUBARU TELESCOPE - SAME TIME
+E: beat
+C: RANDALL
+D: I’m on hold... He’s calling a Doctor Oglethorpe. Who is that? Kate on her phone.
+C: KATE
+D: Dr. Oglethorpe: the head of the Planetary Defense Coordination Office in Washington DC. Is that a real place? EXT. GOVERNMENT OFFICE BUILDINGS, WASHINGTON DC - MORNING L/3 “THE PLANETARY DEFENSE COORDINATION OFFICE (YES, IT’S A
+E: and then
+C: REAL PLACE)
+D: A collection of bland buildings in the Nation’s capital. An African American man, late fifties, DR. CLAYTON “TEDDY” OGLETHORPE, whip sharp, seen it all, answers his phone as he walks into the building THROUGH A LIGHT SUN SHOWER.
+C: DR. OGLETHORPE
+D: This is Dr. Oglethorpe... Hey Jocelyn... I see.. Why didn’t they just report it to the Minor Planet Center?... Really? How big? INT. NASA HEADQUARTERS - OFFICE -FLORIDA- DAY - CONTINUOUS Dr. Calder reads more and more print outs.
+C: DR. CALDER
+D: Mathew thinks this one is at least 5 kilometers wide...Possibly 10. INT. SUBARU TELESCOPE - DAY - CONTINUOUS INTERCUT ALL THREE CONVERSATIONS as Teddy makes his way into the building and waits for an elevator.
+C: DR. OGLETHORPE
+D: That’s a big boy. And was this Professor the one who first made the observation?
+C: RANDALL
+D: Uh, Dr. Mindy, hi, and no, PHD candidate Kate Dibiasky saw it... I study um, trace gases in dead galaxies. I haven’t published in awhile so you probably wouldn’t know me - but that doesn’t matter obviously - sorry.
+C: DR. OGLETHORPE
+D: And what are the most updated estimates on its trajectory? Kate does more calculations on her Matlabs.
+C: KATE
+D: I keep getting the same result. Direct hit of earth in 6 months and 14 days.
+C: DR. CALDER
+D: Mathew?
+C: NASA SCIENTIST
+D: That’s exactly what our Scout program is saying.
+C: DR. OGLETHORPE
+D: And it’s roughly 5 to 10 kilometers wide. Which means...
+C: RANDALL
+D: ...Isn’t that an extinction level event? A terrifying silence hits the room.
+C: KATE
+D: I feel sick.
+C: RANDALL
+D: But these are just early calculations I did. They can’t be right.
+C: DR. CALDER
+D: Okay let’s all stay calm. What’s the protocol for this situation Dr. Oglethorpe?
+C: DR. OGLETHORPE
+D: First move is to get the school field trip out here to DC. I need the person who first had eyes on the comet and the person in charge. Kate and Randall look at each other.
+C: DR. OGLETHORPE
+D: Is anyone else in the loop on this?
+E: CONT'D
+C: RANDALL
+D: No. I had the other Grad students go back to the dorm and the night shift crew left an hour ago.
+C: DR. OGLETHORPE
+D: Okay we need to share this data immediately with Cambridge, Cal Tech and the I.A.U.
+C: DR. CALDER
+D: Whoah, whoah. This is classified information Dr. Oglethorpe. I serve at the discretion of the President and her policy is all priority intel goes to her first.
+C: DR. OGLETHORPE
+D: But if these numbers are right-
+C: DR. CALDER
+D: The administration’s policy is clear. Now let’s get the student and the dead galaxy Professor to Hickam Air Force Base now.
+C: DR. OGLETHORPE
+D: Okay... You heard the woman. Let’s get moving. They hang up. Terrified Kate looks to Randall who looks fairly terrified himself.
+C: KATE
+D: What the hell is happening?
+C: RANDALL
+D: We should, um, probably pack up and let the others know to fly back to Michigan without us. QUICK CUT: KATE TAKING A HIT OF WEED ON A ONE HITTER
+C: OPENING CREDITS BEGIN
+D: EXT. HICKAM AIR FORCE BASE-HONOLULU-30 MINUTES LATER-NIGHT Kate and Randall, each holding a mini suit case stand on the tarmac of a full on active air force base. A CAPTAIN comes over to them yelling above the jets.
+C: CAPTAIN
+D: Word is I need you both in DC fast! Only plane we got going there is that one! We see a C-5 Galaxy transport plane. The nose cone of the plane is up as a line of trucks are being offloaded. The massive rear cargo bay doors are open.
+E: the visor
+C: RANDALL
+D: Okay. I’m Dr. Mindy and this is-
+C: CAPTAIN
+D: Go! Go! Go! He ushers them towards the massive plane. INT. C-5 GALAXY PLANE - HOURS LATER Kate and Randall sit in the vacant back of the plane. It’s like two football fields and is completely empty except for a perfectly cut in half Abrams TANK. EXT. C-5 IN THE SKY - NIGHT TO DAY EXT. JOINT BASE ANACOSTIA BOLLING - 7 HOURS LATER - 11 AM C-5 lands. Kate and Randall emerge from the open back of the huge plane to BLINDING LIGHT. EXT. WHITE HOUSE - 30 MINUTES LATER - DAY Some tourists and souvenir stands outside. A BEARDED PROTESTOR holds a sign “THE METRIC SYSTEM MURDERED MY SON.” TWO WOMEN PROTESTORS hold signs “THE CENSUS STEALS PEOPLE’S
+C: SOULS!”
+D: INT. WHITE HOUSE - SAME TIME Randall and Kate, both pulling their bags on wheels walk down a hallway and see Dr. Oglethorpe and AIR FORCE GENERAL THEMES, 61, a straight ahead General with a permanent resting smirk.
+C: DR. OGLETHORPE
+D: You must be Randall and Kate. I’m Dr. Oglethorpe but you can call me Teddy.
+C: RANDALL
+D: Teddy?
+C: AIR FORCE GENERAL THEMES
+D: Yeah, because he’s no Teddy Bear. General Themes, I’m the Pentagon’s eyes on whatever this turns out to be. Everyone shakes hands, sits.
+C: DR. OGLETHORPE
+D: Is Jocelyn coming?
+C: AIR FORCE GENERAL THEMES
+D: I don’t think so. She’s doesn’t want to end up in the President’s crosshairs.
+C: KATE
+D: Excuse me. I’m sorry. Is that the oval office? She points directly across from them.
+C: DR. OGLETHORPE
+D: Yes. The President should be here shortly. She’s already been briefed, correct Scott?
+C: AIR FORCE GENERAL THEMES
+D: That is correct. Kate speaks to Randall.
+C: KATE
+D: Are we really about to tell the President of the United States that we have just over six months before mankind and pretty much all life on planet earth are completely destroyed?
+C: RANDALL
+D: That’s exactly what we’re about to do. Kate turns to her left and DISCREETLY THROWS UP IN A
+C: WASTEBASKET. MAIN TITLE: DON’T LOOK UP
+D: INT. WHITE HOUSE HALLWAY - A FEW HOURS LATER Kate, Randall, Dr. Oglethorpe and Air Force General Themes are waiting... and waiting. Finally a crisp and purposeful entourage makes it way around the corner. IT’S THE PRESIDENT and her ADVISORS with Secret Service Detail. The foursome stands to greet the President.
+C: DR. OGLETHORPE
+D: Hello Madam President. I’m Doctor Oglethorpe. I believe Jocelyn told you- But THE PRESIDENT WALKS RIGHT PAST THEM and into the Oval Office.
+C: DR. OGLETHORPE
+D: What the hell Jason? This is real world. A trailing advisor JASON, 33, is closing the doors.
+E: CONT'D
+C: JASON
+D: I’m sorry. Give us five minutes. Our Supreme Court nominee is in trouble.
+C: OVAL OFFICE DOORS CLOSE.
+D: INT. WHITE HOUSE HALLWAY - CONTINUOUS The foursome sits back down. They wait and wait. THREE ASSISTANTS sing happy birthday to an assistant and leave balloons on the desk. Shadows get long through the windows and eventually the
+C: OFFICE LIGHTS COME ON. GENERAL THEMES
+D: Does anyone want a bottled water or some snacks?
+C: TEDDY
+D: Thanks Scotty. I’m guessing these guys are starving. Kate scrolls through her phone.
+C: KATE
+D: There’s a bunch of stuff about their Nominee not being qualified... But I don’t see any stories about our... thing. Dr. Oglethorpe checks his phone too.
+C: DR. OGLETHORPE
+D: Nothing here either. Social media’s going on and on about that singer Riley Bina and DJ Chello breaking up... That’s too bad... They seem like sweet kids.
+C: RANDALL
+D: I don’t know them. But that’s a shame. Kate do you know them?
+C: KATE
+D: Yes. But I really don’t give a shit right now.
+C: RANDALL
+D: I was just making small talk. Air Force General Themes returns from the coffee station with bags of Cheez-bits and bottled waters.
+C: AIR FORCE GENERAL THEMES
+D: Sorry but they charge a fortune for this stuff. Ten a piece should do it.
+C: RANDALL
+D: Of course... I’ve got Kate as well. Randall gives him a twenty. Dr. Oglethorpe gives him a twenty as well.
+C: DR. OGLETHORPE
+D: Do you have change?
+C: AIR FORCE GENERAL THEMES
+D: No. But I can see if the front desk does.
+C: DR. OGLETHORPE
+D: Forget it. Get me back some other time. After a beat of eating, Randall checks his phone again.
+C: RANDALL
+D: I guess this DJ Chello posted pictures of him with someone named “Lady Baroque”... That’s why Riley Bina broke up with him... Randall looks at Kate who looks straight ahead.
+C: RANDALL
+D: Point being there’s nothing about us. Another beat of waiting. Randall reaches into his jacket pocket and takes out a pill. He bites the tip off and swallows with water. Kate looks at him.
+E: CONT'D
+C: RANDALL
+D: It’s a Xanax. I can only take a quarter one or I fall asleep. Kate takes the rest of the pill and dry swallows it.
+E: CONT'D
+C: RANDALL
+D: Oh. Okay. SFX: Air Force General Themes’ phone alarm goes off. He immediately starts packing up his belongings.
+E: CONT'D
+C: AIR FORCE GENERAL THEMES
+D: I’m very sorry. But I have to be in Okinawa by two o’clock tomorrow.
+C: KATE
+D: Really? What for? I mean, this is-
+C: DR. OGLETHORPE
+D: It’s fine Scott. We have all the information we need for the President.
+C: RANDALL
+D: Thank you General. And thank you for the Cheez-bits and bottled water. They stand, shake hands and the General exits. Dr. Oglethorpe, Kate and Randall sit back down and wait more. It’s now fully dark outside. Kate gets up and walks down the hallway.
+C: KATE
+D: I’m getting more water if anyone wants some.
+C: RANDALL/TEDDY
+D: No thank you... I’m good. There’s a coffee station with bottled water and snacks. She grabs a bottle and a bag of chips. An OFFICE WORKER is there.
+C: KATE
+D: Excuse me, where do I pay for this?
+C: OFFICE WORKER
+D: It’s free.
+C: KATE
+D: Really?
+C: OFFICE WORKER
+D: Yes. It’s the White House. Kate returns to Randall and Dr. Oglethorpe. The balloons on the desk are now drooping.
+C: KATE
+D: The snacks are free.
+C: DR. OGLETHORPE
+D: What?
+C: KATE
+D: The snacks are free but the General charged us. Why would- SUDDENLY THE OVAL OFFICE DOORS OPEN and the staff member from earlier, JASON, pops out.
+C: JASON
+D: I’m so sorry guys. It’s not happening tonight.
+C: RANDALL
+D: Excuse me! Does the President know why we’re here? He’s already closed the door.
+C: KATE
+D: They’re really not going to see us? Are you fucking kidding me?
+C: DR. OGLETHORPE
+D: You heard him. First thing tomorrow. Get some sleep and be at your sharpest. EXT. HACIENDA COURTS MOTEL - WASHINGTON, DC - LATER THAT
+C: NIGHT
+D: It’s a rainy night. The traffic is nasty and honking. INT. KATE’S ROOM - WASHINGTON, DC - CONTINUOUS Kate talks to her boyfriend PHILLIP KAJ, 28. INTERCUT.
+C: KATE
+D: We waited seven hours. And they never even called us in. I couldn’t believe it. INT. WEBSITE OFFICES - MANHATTAN - SAME TIME Phillip, still mad he didn’t get into Yale, is in the offices of a news and culture website AUTOPSY. Despite the late hour, the open concept office is full. TVs and screens everywhere.
+C: PHILLIP
+D: Of course they didn’t see you. Have you watched any news today?
+C: KATE
+D: No. We’ve been pretty... wrapped up in our... project.
+C: PHILLIP
+D: Turn on your TV right now. President Orlean is in the middle of an all-time shit storm. Kate does so. There’s CVN coverage about the President’s Supreme Court nominee. It also plays in Phillip’s office. ANCHOR 1 ... Sheriff Wade Conlon was already a controversial nominee with no law degree and a record of shoot first and ask questions later but with his background as a nude life model in college now coming to light, the White House is in full crisis mode. INTERVIEW with SHERIFF CONLON, 60s, walking fast away from the cameras.
+C: SHERIFF CONLON
+D: Life models are an important part of our nation’s rich artistic history. I have no shame in what I did! That’s all I have to say!
+E: SOT
+C: PHILLIP
+D: And get this, I found five former students willing to go on record that Conlon got noticeably aroused when he posed for their drawing classes. It’ll be up on Autopsy tomorrow! Kate turns off the TV with the remote.
+C: PHILLIP
+D: Should I say “noticeably aroused” or “engorged?” I don’t want this to read like click bait. This is a real story. Or what about “unabashedly erect?” ... Kate?
+E: CONT'D
+C: KATE
+D: I’m sorry, I’m just out of sorts tonight.
+C: PHILLIP
+D: Alright. You’re definitely in a mood. And I have no idea what the hell I did wrong so I’m going to hang up before this detonates.
+C: KATE
+D: Yeah. That’s probably a good idea.
+C: PHILLIP
+D: Okay. But here’s a crazy idea that just came to me: what if sometimes our relationship was, oh I don’t know, fun? Wouldn’t that be something? He hangs up. Kate just stares off. She starts to cry hard for a second but sucks it in.
+C: KATE
+D: No. No She reaches into the Motel drawer and takes out the bible. She opens it and a packaged condom falls out. INT. RANDALL’S ROOM - SAME TIME Randall is on the phone while the TV plays a CELL PHONE COMMERCIAL in the background an APPLE like gravitas to it. MUSIC: CALL ME ballad cover with strings.
+C: LIEV SCHREIBER
+D: Faster, better, easier. That’s what you demand. Which is why BASH cellular was the first to bring you 8G. Allowing you to make a call from up to a mile below the earth’s surface. Then we brought you Vroom Vroom, the only social media site where everyone is popular. And coming soon: an even faster, better, easier way of life with a new platform that will change everything. BASH. Leave the innovation to us. Then a REALITY SHOW comes on.
+E: V.O.
+C: RANDALL
+D: Hey honey... Yes, they couldn’t see us today so we’re in a motel for the night... INT. MIDDLE CLASS HOME - LANSING, MICHIGAN - DAY Randall’s wife, JUNE, 40s, earthy yet sharp. She’s clearly the rock of the family. INTERCUT
+C: JUNE
+D: And you can’t tell me what’s happening?
+C: RANDALL
+D: It’s just the protocol. Please don’t worry.
+C: JUNE
+D: Just remember to speak up in the meeting tomorrow. You know how you get quiet when it’s time to take credit.
+C: RANDALL
+D: I will sweetie. How are the boys? We see their sons EVAN, early 20s and MARSHALL, mid 20s who both look and carry themselves exactly like Randall.
+C: EVAN
+D: Hey Dad.
+C: MARSHALL
+D: Love you! Hey Dad!
+C: RANDALL
+D: Love you!
+C: JUNE
+D: Marshall got a 180 on his LSATs and we’re celebrating.
+C: RANDALL
+D: Way to go Marshall! I’m proud of you buddy! How’s Evan feeling? Are the new meds working?
+C: JUNE
+D: Evan! How are you feeling today?
+C: EVAN
+D: I’m a solid four!
+C: KEITH OLLENS
+D: Hey Randall! DR. KEITH OLLENS, 51, the dashing head of the astronomy department is there too.
+C: RANDALL
+D: Is that Keith?
+C: JUNE
+D: Yes. He just found out they’re doing an episode of NOVA about his work on supermassive black holes.
+C: RANDALL
+D: Congratulations Keith! On the other end Keith leans into the phone.
+C: KEITH OLLENS
+D: Thanks for taking over that field trip for me Randall!
+C: RANDALL
+D: What? Of course Keith. Although it was an observing run not a field trip.
+C: JUNE
+D: Bye sweetheart. We’re going to eat some pizza. Lots to celebrate.
+E: Keith says something and everyone laughs
+C: JUNE
+D: Oh my God Keith just said the funniest thing!
+E: CONT'D
+C: RANDALL
+D: Honey you know the Xanax I carry around just in case? I lost it. Do you think you can overnight me- Hello? He realizes she’s already hung up and then sees a text from Dr. Oglethorpe: JUST CONFIRMED TRAJECTORY. 99.78% WILL HIT EARTH BARRING INTERVENTION. GET SOME SLEEP. EXT. WHITE HOUSE - WASHINGTON DC - THE NEXT AFTERNOON INT. OVAL OFFICE - CONTINUOUS Randall, his leg moving nervously, Dr. Oglethorpe and Kate sit in the Oval Office across from PRESIDENT JANIE ORLEAN, 60s. President Orlean has bright blonde statement hair, remnants of a Long Island accent and behind her dozens of copies of her best selling “HOW TO MANAGE YOUR MONEY EVEN WHEN YOU HAVE
+C: NONE.”
+D: Her Chief of Staff who we met yesterday, son Jason is there along with TWO OTHER AIDES in their 70s. The President checks her phone and texts for a long beat while everyone waits. Finally she puts it down and addresses the room.
+C: PRESIDENT ORLEAN
+D: Okay, I heard there’s something about an asteroid or a comet you don’t like the looks of. Tell me about it and then tell me why you’re telling me about it. Teddy Oglethorpe looks at Randall.
+C: DR. OGLETHORPE
+D: You’re up Doc. Go. Randall is very nervous.
+C: RANDALL
+D: Okay... okay, um, 36 hours ago a graduate student, Kate Dibiasky here... discovered a large comet, 5- 10 kilometers across, that we calculate is from the Oort cloud, the outer part of the solar system. He pauses. Looks at his notes. Looks up. The President gives him a “go on” look. Randall’s hand shakes a little as he looks at his notes.
+C: RANDALL
+D: And uh, using Gauss’ method of orbital determination and the average astrometric uncertainty of 0.04 arcseconds... we then asked the question: what does Marsden 1985’s iterative numerical method tell us about the heliocentric orbit of the-
+E: CONT'D
+C: PRESIDENT ORLEAN
+D: Whoah, whoah. What the hell?
+C: JASON
+D: Seriously. Stop it.
+C: RANDALL
+D: What?
+C: PRESIDENT ORLEAN
+D: Knock that shit off.
+C: KATE
+D: Dr. Mindy is trying to say the comet is headed directly at earth.
+E: cuts to the quick
+C: RANDALL
+D: Yes, uh, that’s correct. In roughly over six months without intervention the comet will wreck catastrophic and irreversible damage to the earth’s entire ecosystem.
+C: DR. OGLETHORPE
+D: And I’ve confirmed all of this data myself using NASA computers. Dr. Jocelyn Calder is also aware of the situation. Half beat.
+C: JASON
+D: Okay. Can we see it? AIDE #1 We’re going to need visual confirmation.
+C: DR. OGLETHORPE
+D: Yes, we have extensive optical images taken by Ms. Dibiasky here from the Subaru telescope... He lays out the photos highlighting the blurry “streak.” The President and Jason examine the pictures.
+C: PRESIDENT ORLEAN
+D: I don’t know what I’m looking at. I see some arrows and a smudge.
+C: KATE
+D: It’s a comet and according to NASA’s computers this object will hit the Pacific Ocean a sixty two miles due west off the coast of Chile.
+C: JASON
+D: And then what happens? A tidal wave?
+C: RANDALL
+D: Well yes, but many tsunamis, each of them hundreds of meters tall, fanning out across the globe in all directions. Not to mention massive unprecedented earthquakes and volcanic eruptions. And worst of all the debris from the impact would eject into the atmosphere heating it up to 500 degrees celsius upon reentry cooking all life larger than a field mouse.
+C: DR. OGLETHORPE
+D: Madame President, this comet is what we call a planet killer. President Orlean takes this all in.
+C: PRESIDENT ORLEAN
+D: How certain is this?
+C: RANDALL
+D: There is basically a 100% certainty of impact.
+C: PRESIDENT ORLEAN
+D: Please don’t say 100%. AIDE #2 It’s a potentially significant event.
+C: KATE
+D: But it’s not “potentially” going to happen. It is going to happen.
+C: RANDALL
+D: Well it’s 99.78 percent to be exact.
+C: JASON
+D: So it’s not 100%.
+C: DR. OGLETHORPE
+D: Scientists never like to say 100%. Every data set contains at least a small degree of uncertainty.
+C: JASON
+D: He just said it’s 100%.
+C: RANDALL
+D: Well there could be an interstellar collision or the comet could melt at an accelerated rate.
+C: PRESIDENT ORLEAN
+D: Call it 70% and let’s move on.
+C: KATE
+D: It’s not even close to seventy percent. I’m sorry but are we not being clear?
+C: JASON
+D: Considering it looks like someone wiped snot on your picture 70% is pretty generous.
+C: PRESIDENT ORLEAN
+D: The point is you can’t go around telling people there’s a 100% chance they will die.
+C: JASON
+D: Sixty percent as a working number.
+C: RANDALL
+D: Wait. What?
+C: PRESIDENT ORLEAN
+D: And we should get our own scientists on this. No offense, but you’re just two people who walked in here with...
+C: DR. OGLETHORPE
+D: Dr. Oglethorpe, I’ve been at NASA for fifteen years. And Dr. Mindy is a tenured Professor of astronomy at Michigan State where Ms. Dibiasky is a doctoral candidate.
+C: JASON
+D: Michigan State?
+C: DR. OGLETHORPE
+D: They have an excellent astronomy department.
+C: JASON
+D: If you say so.
+E: MORE
+C: KATE
+D: Are you serious? Do you want to see our goddamn SAT scores?
+C: DR. OGLETHORPE
+D: Easy now.
+C: JASON
+D: Cornell Business school class of
+C: PRESIDENT ORLEAN
+D: Okay, let’s bottom line this. So what’s the ask here? Why isn’t this Chile’s problem or a private sector issue?
+C: RANDALL
+D: With all due respect, this will affect the whole planet, not just Chile. The impact is a global event. Over 7 billion people will die.
+C: DR. OGLETHORPE
+D: Madame President there are government plans in place. Actions we can take through NASA. Drones that can be outfitted with nukes to deflect and hopefully change the orbit of this comet. But respectfully, we must act now
+C: PRESIDENT ORLEAN
+D: Alright, alright, let me think here... When are the midterms?...
+C: JASON
+D: Three weeks.
+C: PRESIDENT ORLEAN
+D: Three weeks. If this breaks before then we could lose Congress and then there’s nothing we can do about this anyway.
+C: JASON
+D: It’ll be gridlock.
+C: PRESIDENT ORLEAN
+D: We’re also getting absolutely crucified because our SCOTUS nominee popped a woody in front of an art class 40 years ago...
+E: MORE
+C: PRESIDENT ORLEAN
+D: We can’t let this get political... But at the same time it’s entirely political. God, the timing really is atrocious. At this exact moment... I say we sit tight and assess.
+E: CONT'D breath
+C: RANDALL
+D: Sit tight and assess?
+C: PRESIDENT ORLEAN
+D: If there’s two things voters hate it’s math and bad news. This is both.
+C: KATE
+D: You want us to sit tight?
+C: PRESIDENT ORLEAN
+D: Just for three weeks. Until the mid terms. We hear you and we will take action when the time is right Meanwhile we get some of our people on it. Some Ivy Leaguers, no offense. And we review the NASA plans. OLD AIDE #1 We just cut NASA’s budget to pay for the Trident Sub Aircraft Carrier.
+C: JASON
+D: It’s a sub that once it surfaces opens up to become an aircraft carrier. It’s going to kick major ass.
+C: KATE
+D: Hold on. I want to make sure I’m understanding this: is the decision being made right now to “sit tight?”
+C: JASON
+D: Seriously. Who is she?
+C: KATE
+D: Who are you ? Aren’t you her son?
+C: JASON
+D: I am also the chief of fucking staff, Miss State School.
+C: PRESIDENT ORLEAN PRESIDENT ORLEAN
+D: Shut up Jason.
+E: CONT'D
+C: JASON
+D: I’m sorry Mom.
+C: RANDALL
+D: The idea of sitting tight seems very dangerous. The fact is the closer the distance the more energy intervention requires.
+C: PRESIDENT ORLEAN
+D: Well in my experience facts are just opinions for fancy people. We are the White House and we will handle this. But we will do it when it is best for the nation. Not for you. President Orlean takes a pack of smokes out of her desk and lights one.
+C: PRESIDENT ORLEAN
+D: When I ran for President I had to sneak cigarettes for the first month of the campaign. Photographs of me smoking were going for a hundred grand a shot. Until finally I got sick of it and just started... smoking. Whenever I wanted. And guess what happened? I went up three points in the polls.
+E: CONT'D
+C: JASON
+D: People loved that she was real. She’s a rock star. AIDE #1 It was really something.
+C: PRESIDENT ORLEAN
+D: Do you know how many “the world is going to end meetings” we’ve had in the last two years? AIDE #2 A lot.
+C: PRESIDENT ORLEAN
+D: Economic collapse, loose nukes, car exhaust killing the atmosphere, rogue A.I.
+C: JASON
+D: Drought, famine, plagues, population growth, the hole in the ozone, the rapture, alien invasion...
+C: PRESIDENT ORLEAN
+D: Okay. That’s enough Jason. Read the room for once in your life. The point is... I have a job to do. And that job is to not slam the brakes on the whole country every time someone gets spooked by some numbers. But we hear you, we will vet the science, focus group the talking points and in the end we will do what’s best. And that is a promise.
+E: exhales a giant plume of smoke
+C: JASON
+D: We got this. For real.
+C: RANDALL
+D: Well that’s good to hear.
+C: KATE
+D: Focus group the talking points?
+C: JASON
+D: Who said anything about focus groups?
+C: KATE
+D: Didn’t she just say- Dr. Oglethorpe stands up.
+C: DR. OGLETHORPE
+D: Madam President, eventually there are other people who are going to see this. There’s a group in Mexico using the 10-meter in the Canary Islands...
+C: PRESIDENT ORLEAN
+D: Don’t worry. We’ll handle them. We’ve got the nukes. Okay, let’s do the pictures. I’m late for the NCAA championship softball team. A PHOTOGRAPHER steps out of the side door and takes a series of rapid fire pictures.
+E: wrapping it up
+C: JASON
+D: And gang, obviously everything we’ve discussed here is classified. INT. WHITE HOUSE HALLWAY - CONTINUOUS Randall, Kate and Teddy walk away down the hallway.
+C: DR. OGLETHORPE
+D: No one say a word. Not a goddamn word until we’re clear. They walk silently for a beat.
+C: KATE
+D: Did we just get blown off? They blew us off didn’t they?
+C: DR. OGLETHORPE
+D: Wait until we’re clear.
+C: RANDALL
+D: When’s clear? What just happened?
+C: KATE
+D: Wasn’t her son the host of Celebrity Matchmaker?
+C: DR. OGLETHORPE
+D: Wait until we’re clear CUT TO: EXT. BOJO MAMBO’S SHRIMP RESTAURANT - AN HOUR LATER INT. BOJO MAMBO’S - WASHINGTON DC - SAME TIME Randall, Kate, and Teddy Oglethorpe are eating seafood and having beers and a glass of white wine.
+C: KATE
+D: Why is this place clear?
+C: DR. OGLETHORPE
+D: No self-respecting NSA officer’s gonna tell his superior he put a wire in a Bojo Mambo’s.
+C: RANDALL
+D: Do I smell? I was sweating so much.
+C: KATE
+D: No. You’re fine.
+C: RANDALL
+D: It’s hard for me to talk about but... sometimes I get panic attacks.
+C: KATE
+D: No shit.
+C: RANDALL
+D: That’s a mean thing to say.
+C: KATE
+D: I’m sorry. Okay? So what do we do? We have to leak this right? There’s no way we “sit tight.” That’s insane.
+E: back to it
+C: RANDALL
+D: Are we sure they weren’t taking us seriously? It wasn’t the response I was hoping for but... are we sure?
+C: DR. OGLETHORPE
+D: I’ve been blown off by the very best. The kind of blow off where you don’t realize it til a month later. And they aren’t even close to the best. So yeah, we got blown off.
+C: RANDALL
+D: So then we leak it. We have no choice. Right?
+C: DR. OGLETHORPE
+D: Hell yeah, we leak it. No question. But you two need to get your asses ready for the churn.
+C: RANDALL
+D: Wait. What’s the churn?
+C: DR. OGLETHORPE
+D: The big chatter, the beast... the 24 hour news cycle. It’s no joke.
+C: KATE
+D: We’ll be fine. People need to know this right now.
+C: DR. OGLETHORPE
+D: Listen, years back I had about five years in this town where I was hot shit. An asteroid had blown up over Russia and I was hitting all the daily news shows, being quoted left and right. And then I was testifying before Congress and this old road apple of a Representative from Texas was questioning me. QUICK FLASH OF A CONGRESSMAN’S HAND AND MOUTH SPEAKING INTO A MIC AT A HEARING. ANOTHER CONGRESSMAN NEXT TO HIM.
+C: DR. OGLETHORPE
+D: I knew he was an idiot so I trapped him. Got him to admit on camera he had no idea who Isaac Newton was. He thought he was a black activist from the 60s. And the clip got shown everywhere. Waitress comes by.
+E: CONT'D
+C: RANDALL
+D: May I have another ice water. Kate slams her wine.
+C: KATE
+D: I’ll have two more wines. And don’t make that judgey face please.
+C: DR. OGLETHORPE
+D: And then for the next three years my entire career came apart. I went backwards and backwards. My wife even left me for a wide receiver from the Eagles. Handsome son of a bitch. Ran a four four. Point being I had no idea what had happened. And one day a package shows up at my divorced guy apartment and inside was Sir Isaac Newton’s The Principia. FLASH of the book being unwrapped from tissue paper.
+C: DR. OGLETHORPE
+D: With a note from that old road apple Congressman: “Hope the fall didn’t hurt your ass too much.”
+E: CONT'D
+C: RANDALL
+D: Jesus. That’s awful.
+C: KATE
+D: Thanks for the pep talk. I feel great now. Teddy gets up and puts a few twenties on the table.
+C: DR. OGLETHORPE
+D: The point is you gotta be smart. You’re about to leak classified materials against a President whose base thinks when she pisses there’s a cork popping sound. Oh wait! This commercial kills me. The TV by the BAR plays: A HUSBAND is binging eating right out of his OPEN FRIDGE IN THE MIDDLE OF THE NIGHT in a dark kitchen. LIGHTS COME ON and it’s his WIFE. He is caught with his mouth full of PIE.
+E: and then
+C: WIFE
+D: How’s the new diet going? Beat.
+E: SOT
+C: HUSBAND
+D: Meow? Teddy and some of the people at the bar LAUGH hard.
+E: SOT
+C: ANCR
+D: Land Trust insurance. Because sometimes plans don’t go as planned.
+E: SOT
+C: KATE
+D: If we stand here laughing at insurance commercials for one more second I’m going to fucking SCREAM.
+C: DR. OGLETHORPE
+D: We’re going. We’re going. INT. WASHINGTON UNION STATION - 40 MINUTES LATER Kate and Randall followed by Teddy speed through the DC train station pulling their bags towards their track. Kate finishes a call on her cell phone.
+C: KATE
+D: No, I can’t tell you. You just have to trust me. Okay, see you soon. My boyfriend Phillip says he knows a reporter from the New York Herald we can talk to. “Adul Grelio.”
+E: hangs up
+C: DR. OGLETHORPE
+D: Good. That guy’s a heavy hitter. And I’ll reach out to more of the scientific community on the down low. They’re getting on the train.
+C: RANDALL
+D: I just feel like this isn’t what I do.
+C: DR. OGLETHORPE
+D: You’re just telling a story! Keep it simple! And no math!
+C: RANDALL
+D: But it’s all ma- Train doors close. As the train pulls away there are a series of ADS WITH A FEW WORDS ON EACH: “IN THE BEGINNING” “GOD SAID” “LET THERE BE
+C: LIIF”
+D: CUT TO: INT. GIANT CONVENTION CENTER - SAN FRANCISCO - DAY A 10 STORY SCREEN SHOWS the ceiling of the SISTINE CHAPEL. PUSH IN TO GOD’S HAND TOUCHING ADAM’S. MUSIC: Philip Glass meets Timberland.
+C: LIEV SCHREIBER
+D: It all started with a connection... A simple gesture that created so much... GOD’S HAND TURNS revealing a CELL PHONE. Images flash of families, a baby being born, a child riding a bike, a girl with her prom date and on and on getting faster and faster...
+E: V.O.
+C: LIEV SCHREIBER
+D: Family. Business. Love. Social Media. Shopping. Mental Health. Spirituality. Dating. Sports. Medicine. Friendship. Laughter. Love. News. So many choices. Sometimes it can even feel like too much. Until now. THE CELL PHONE GLOWS and then Adam’s hand turns revealing a SECOND CELL PHONE. PUSH IN TO THE SCREEN to see the texted words “Let There Be Life. BASH Liif.”
+E: V.O. and then
+C: LIEV SCHREIBER
+D: Introducing BASH Liif. Liif without the stress of living. The CROWD of 5 thousand TECH CONFERENCE attendees applauds heartily.
+E: V.O.
+C: FEMALE ANCR
+D: And now Chief Operating Officer and founder of BASH: Peter Isherwell. THREE CHILDREN enter the stage with Peter Isherwell, an ageless optimistic yet very shy man in a windbreaker.
+E: V.O. AGES 8-9 African American, Asian American and Caucasian
+C: PETER ISHERWELL
+D: Hello everyone. As some of you know I sometimes struggle with public speaking because of an early childhood trauma that to this day I still cannot speak of. But thanks to the “spokesman” mode on my BASH phone I can share my traumatic tale with as the Beatles wrote “a little help from my friends.” He clicks a button on his phone. The children each have ear buds in one ear. CHILD 1 When I was a small child on a family safari I watched my parents be eaten by a Tiger. CHILD 2 For some reason after hours of devouring my Mother Linda and Father Ted, the massive beast simply walked right past me and back into the jungle. CHILD 3 Ever since the day when that bloody faced tiger walked calmly past me...
+C: PETER ISHERWELL
+D: ... I have struggled with human interaction. So I thank these children from my Wishing Well Foundation for helping me to express myself. Each of them has also lost their family from traumatic events. CHILD 2 And because of the struggles I have with communication from my terrible experience I never got to have one thing you all take for granted:
+C: PETER ISHERWELL
+D: ...a friend to blow out the candles on my birthday cake with. Voice recognition appears on the screen: “I want a birthday cake.”
+C: BASH PHONE VOICE
+D: Peter Isherwell wants a birthday cake.
+E: V.O.
+C: PETER ISHERWELL
+D: All of my work has been driven by the want of a friend to understand me and sooth me. And finally my years of work have come to fruition... with BASH Liif. Our new BASH 14 point three phone is fully integrated into your every feeling and desire. Peter and the children hold up the new cell phone.
+C: PETER ISHERWELL
+D: If I feel... CHILD 1 Sad. CHILD 2 Afraid. CHILD 3 Or alone.
+E: CONT'D
+C: PETER ISHERWELL
+D: ...my BASH phone when set to Liif setting, instantly senses my mood through blood pressure, heart rate and search preferences...
+C: PHONE VOICE
+D: Your vitals show that you are sad. This will cheer you up Peter. “Here, this will cheer you up...” appears on the screen and a VT of a CUTE LITTLE GIRL singing a song comes up. It then posts the video on Vroom Vroom social media and orders the original song for purchase.
+E: V.O.
+C: PETER ISHERWELL
+D: ...It also schedules a therapy session with a nearby professional so we can make sure this sad feeling doesn’t return. CHILD 1 And orders Mr. Isherwell a Whip ride to take him to the appointment. All of these functions play out on the screen behind him.
+C: PETER ISHERWELL
+D: And to support BASH Liif I would like to officially announce that we have just made over 400 billion dollars in major acquisitions of... CHILD 1/CHILD 2/CHILD 3 ...news, media, private hospitals, retail outlets, pet stores, book stores and delivery services. Logos for companies appear on the screen behind him. Dozens and dozens. A DELIVERY MAN in a blue polo holding a cake with a lit candle on it enters.
+C: DELIVERY MAN
+D: Excuse me! Did someone order a birthday cake?! Peter walks up to the edge of the stage and smiles and giggles at his cake. CHILD 2 Happy. CHILD 1 Happy. CHILD 3 Happy. He blows out the candle. The crowd breaks into thunderous applause. SMASH CUT: INT. BACKSTAGE - 20 MINUTES LATER Isherwell and the children exit to the backstage. A HANDLER ushers the children off. EXECUTIVE That was stellar Peter. And truly moving.
+C: HANDLER
+D: Come on kids. Let’s get you back in the van. A Junior Executive takes their phones. JUNIOR EXECUTIVE Give me the phones. They’re not yours.
+C: KIDS
+D: Bye Mr. Isherwell... Bye Peter... We love you.
+C: PETER ISHERWELL
+D: Are we sure the video of the little girl singing is optimizing our pre- pubescent sense memory consumer sector? I find her eyes disconcerting. EXECUTIVE We’ll cross check the data on that for sure. JUNIOR EXECUTIVE I’ve never cared for her.
+E: ignores the children
+C: TECH JOURNALIST APPROACHES ISHERWELL. TECH JOURNALIST
+D: Peter, hi. Kendra Drake from Download. Are you concerned about the costs of materials for the new 14.3? At 1900 dollars a phone how can BASH sell enough to support the Liif platform?
+C: PETER ISHERWELL
+D: Who is this? There are no questions scheduled for the backstage moment. The Executive forcefully ushers the Journalist away. EXECUTIVE This is not aggressive... I am handling this well.
+C: TECH JOURNALIST
+D: Just because you’re saying it doesn’t mean it’s true. A JUNIOR EXECUTIVE in stylish glasses pulls Isherwell aside. JUNIOR EXECUTIVE Mr. Isherwell, Paul Debent wanted me to give you this. He got it from an astronomer friend of his in Mexico. She hands him a PICTURE OF THE BLURRY COMET with “Direct hit” handwritten on it.
+C: PETER ISHERWELL
+D: Oh my. INT. BALTHAZAR RESTAURANT - AFTERNOON Kate, Randall and journalist ADUL GRELIO, 47, handsome and international, sit eating fries and salads. THE PICTURES OF THE COMET ARE ON THE TABLE.
+C: ADUL GRELIO
+D: You’ll have to give me a second... This is a lot to take in. This can’t be real. It just can’t.
+C: RANDALL
+D: It’s absolutely true. These photographs and our data have been verified by NASA high ranking officials. Kate hands Adul a thumb drive.
+C: KATE
+D: Here’s a thumb drive with all the calculations on it. I don’t know how sharp your celestial mechanics are, but it’s basically the most terrifying shit I’ve ever seen. Randall opens a FedEx envelope and takes out a single Xanax and bites off a quarter of it. Kate snatches the rest of the pill and downs it.
+C: RANDALL
+D: Please stop doing that.
+C: KATE
+D: No.
+C: ADUL GRELIO
+D: Can I contact this NASA official?
+C: RANDALL
+D: Yes, of course. His encrypted contact information is on the zip drive.
+C: ADUL GRELIO
+D: And I’ll need to verify this with an outside scientist.
+C: RANDALL
+D: Of course.
+C: ADUL GRELIO
+D: I just don’t get it. How is the whole world not screaming about this? INT. NEW YORK HERALD OFFICE - 90 MINUTES LATER Now Randall and Kate are in a conference room at the Herald with the CHIEF EDITOR PAULA WOODS, 51, two of the OWNERS and Adul Grelio.
+E: looking at the pictures
+C: RANDALL
+D: A few scientists are aware but the highly specialized equipment needed to observe it have kept the circle tight.
+C: CHIEF EDITOR PAULA WOODS
+D: What other confirmation do we have on this Adul?
+C: ADUL GRELIO
+D: I’ve spoken to Dr. Oglethorpe in DC. He confirmed it and all the math. Plus I showed it to Dr. Franks at Columbia and he almost fell out of his chair. I was very skeptical at first but this is all quite credible.
+C: CHIEF EDITOR PAULA WOODS
+D: Jesus. And the President really said to sit tight?
+C: RANDALL
+D: That’s correct.
+C: MRS. TANKEN
+D: Of course she did. Probably worried about the midterms. Everyone’s CELLS BUZZ.
+C: ADUL GRELIO
+D: What is this?
+C: CHIEF EDITOR PAULA WOODS
+D: We’ve been bought by BASH cellular? One of the owners MRS. TANKEN, patrician with a hearing aid, is clearly caught off guard.
+C: MRS. TANKEN
+D: We did not want you to find out this way Paula. But revenue was not sustainable. Isherwell guaranteed us editorial control.
+E: MORE
+C: CHIEF EDITOR PAULA WOODS
+D: And no one felt the need to confer with me? The other owner BENJAMIN, 38, chimes in.
+C: BENJAMIN
+D: You know how these things go Paula. If it had leaked we would have looked desperate. Which we are.
+C: ADUL GRELIO
+D: Hey. We’ve got the biggest story since the Pentagon Papers in front of us. Can’t this boardroom BS wait?
+C: CHIEF EDITOR PAULA WOODS
+D: Okay, okay. Adul’s right. We need to move fast. The Feds will claim breach of security so make sure these two get a pro bono attorney.
+C: MRS. TANKEN
+D: You can use my attorney.
+C: CHIEF EDITOR PAULA WOODS
+D: You can certainly afford it now.
+C: ADUL GRELIO
+D: Stop it Paula.
+C: RANDALL
+D: Excuse me. How is it criminal to just tell people what we saw?
+C: BENJAMIN
+D: Make sure this one gets some kind of media training before he hits the shows. He seems a step slow. EXT. NEW YORK CITY STREET - 20 MINUTES LATER Kate and Randall followed by Phillip, Kate’s boyfriend, are pulling their bags and looking for the Westin Hotel.
+E: re: Randall
+C: PHILLIP
+D: I just don’t understand why you can’t tell me what this is about?
+E: MORE
+C: PHILLIP
+D: I mean you haven’t read my piece on Conlon getting hard in front of the art classes, it featured on Diddly for an hour this morning by the way, and now Adul Grelio has come down from his mountain top for your thing and you won’t even give me a lousy pronoun. Kate stops suddenly.
+E: CONT'D MORE
+C: KATE
+D: A comet bigger than the asteroid that killed the dinosaurs is headed directly at earth. If it isn’t deflected the entire planet dies. Phillip is stunned. A PASSERBY stops.
+C: PASSERBY
+D: What did you just say?
+C: KATE
+D: It’s for a video game. Passerby moves on.
+C: PHILLIP
+D: Oh my God... You’re serious aren’t you? But that can’t be... Oh my God... Oh God... Phillip hyperventilates and starts to walk into the street where he is almost hit by a car. Kate pulls him back.
+C: KATE
+D: Phillip!! Randall’s phone buzzes.
+C: RANDALL
+D: They want us on a show called The Daily Rip first thing in the morning tomorrow when the article comes out. What is the Daily Rip? Phillip is now hunched over and hyperventilating.
+E: reading his texts
+C: PHILLIP
+D: It’s the show. It’s the one everyone wants to be on... Brie and Jack... they have legendary chemistry...
+C: PHILLIP
+E: CONT'D MORE
+C: PHILLIP
+D: I almost went on once and I couldn’t sleep for two nights I was so excited... But they cut me for time... It still hurts to think about it. Phillip almost gets hit by a car again but Kate pulls him aside.
+E: CONT'D
+C: RANDALL
+D: Hey buddy. It’s Dad. Can you tell your Mother to send me two pills this time? EXT. SPACE - SAME TIME TOTAL BLACKNESS. THERE IS A BLINKING LIGHT IN THE DISTANCE growing larger at an astonishing rate. Suddenly the light is upon us in a BLINDING MASSIVE FLASH. EXT. MIDTOWN MANHATTAN - THE NEXT DAY A 30 Rock type building. “The Daily Rip” T-shirts for sale in the gift store window. People bustling everywhere. A TOWN CAR pulls up and Randall and Kate get out. They are greeted by a
+E: on his phone
+C: TALENT P.A. TALENT P.A.
+D: You must be Dr. Mindy and Ms. Dibiasky. This way please. Jack and Brie are so excited to have you on the show.
+C: RANDALL
+D: Really? They know who we are?
+C: TALENT P.A.
+D: I’m sorry. I was raised super religious and I don’t ever lie. Jack and Brie don’t know who you are.
+E: after a beat
+C: KATE
+D: Well praise Jesus. INT. THE DAILY RIP STUDIO - SAME TIME Randall and Kate are led to the makeup room. A young GROOMER covered in tattoos meets them.
+C: PHILLIP GROOMER THALIA
+D: Hi I’m Thalia. The Herald sent me to help with your wardrobe. She holds up two fashionable outfits.
+E: CONT'D
+C: RANDALL
+D: Hi. I’m Randall. This is Kate.
+C: KATE
+D: No. I’m not wearing that. They sit in the hair and makeup chairs.
+C: HAIR PERSON
+D: You actually have a great facial structure. Do you mind if I trim this beard? And maybe put a little product in your hair?
+E: to Randall
+C: RANDALL
+D: Sure. If you think it looks nice. He’s opening another FedEx package and takes a nibble of a pill.
+C: KATE
+D: So I’ll start by describing the comet discovery and then you talk about what it means and how urgent it is to take action.
+C: RANDALL
+D: But how do we... you know, how do we say it? Shouldn’t we practice it... or write it out beforehand?
+C: KATE
+D: What do you mean? We just say it. Kate reaches for the pill but Randall puts it in his shirt pocket first.
+C: RANDALL
+D: We’re basically delivering the most devastating and traumatic news possible.
+C: KATE
+D: Screw it. I’ll just say it.
+C: HAIR PERSON
+D: What are you on the show for again?
+C: KATE
+D: We found a cure for hair loss. INT. LANSING MICHIGAN - SAME TIME June Mindy, Randall’s wife and his two sons are up early eating eggs and waiting for the Daily Rip to start.
+C: JUNE
+D: He just needs to breathe. Breathe and sit up straight...
+C: MARSHALL
+D: He’s going to be fine Mom.
+C: EVAN
+D: How serious is this comet?
+C: JUNE
+D: He said it’s a potentially very significant event. INT. STUDIO BATHROOM - MOMENTS LATER Randall is in the bathroom with his outfit taking deliberate deep breaths trying to calm down.
+C: RANDALL
+D: You are here now... You are here now... INT. AUTOPSY OFFICES - SAME TIME Phillip, eating a Danish, watching the TV in the packed office.
+C: PHILLIP
+D: My girlfriend is going to be on the Daily Rip... Yeah, it’s a pretty big story... Kate, her name is Kate... Is she hot? What are you a frat guy from 1990?..... But yes, she is. INT. NEW YORK HERALD OFFICE - SAME TIME The Chief Editor Paula Woods is on the phone. Adul Grelio sits in his office.
+E: to someone across the room
+C: CHIEF EDITOR PAULA WOODS
+D: Okay then... If that’s your statement that’s your statement. She hangs up.
+C: CHIEF EDITOR PAULA WOODS
+D: White House is denying they even met with them. Says Mindy and the PHD student aren’t credible and Oglethorpe is looking for some publicity to boost his career.
+E: CONT'D
+C: ADUL GRELIO
+D: Assholes. INT. THE DAILY RIP STUDIO - CONTINUOUS OPENING VT PACKAGE FOR THE DAILY RIP PLAYS and we meet our hosts: JACK BREMMER, 48, in the know but also a bit charmingly dumb and BRIE EVANTEE, 45.
+C: JACK BREMMER
+D: President Orlean’s Supreme Court nominee Sheriff Conlon has now been identified as appearing in a soft core porn cable show from the early 90s called “Satin Sheet Nights.” This story just keeps going and going doesn’t it Brie?
+C: BRIE EVANTEE
+D: It’s certainly got stamina. And have I seen Satin Sheet Nights? No comment. Do I think President Orlean’s nominee is toast? Yes comment. And the comment is “you’re damn right I do.”
+C: JACK BREMMER
+D: Not so fast. Party support is still strong. In fact, a recent Pranlassen poll shows Sheriff Conlon went up a point since yesterday...
+C: BRIE EVANTEE
+D: Which is pathetic.
+C: JACK BREMMER
+D: So it looks like President Orlean’s Sheriff may make it to high noon yet. INT. CRAPPY APARTMENT - WASHINGTON DC - SAME TIME Teddy is having coffee with the Daily Rip on the TV while working on his laptop. Lots of pictures of his kids and one framed game photo of an Eagles player are the only decoration in his apartment. He talks to his CAT who walks across the back of the couch.
+C: DR. OGLETHORPE
+D: You hear that Re-run? That’s the calm before the storm of all storms. INT. GREEN ROOM - SAME TIME Randall, groomed and in his new stylish clothes, and Kate are seated and waiting their turn. There’s a YOUNG SINGER WITH AN ENTOURAGE also in the room. This is RILEY BINA, 25.
+C: KATE
+D: You actually look good Dr. Mindy.
+C: RANDALL
+D: What? Oh, thanks. A STAGE MANAGER pops in.
+C: STAGE MANAGER
+D: So Jack and Brie are doing 10 on the SCOTUS nominee. Then Riley Bina, you come on...
+C: RILEY BINA
+D: Okay. And I can talk about my new single right? A portion of the profits goes to manatee sanctuaries.
+C: STAGE MANAGER
+D: Yes, but the break up first.
+C: RANDALL
+D: Is that Riley Bina?
+C: KATE
+D: I think so.
+C: STAGE MANAGER
+D: And then Dr. Mindy and Ms. Dibiasky you both come on to talk about the planet you discovered.
+C: RANDALL
+D: Comet. We found a comet.
+C: KATE
+D: Excuse me. Do the hosts know what we’re here to talk about?
+C: STAGE MANAGER
+D: Of course. Jack and Brie love doing science segments. Stage Manager exits.
+C: RILEY BINA
+D: You guys found a comet? That’s dope. I have a tattoo of a shooting star on my back.
+C: RANDALL
+D: That’s terrific. I’m sorry about your break up by the way. You seem like a wonderful person.
+C: RILEY BINA
+D: Well maybe you should mind your own business you old fuck.
+C: RANDALL
+D: Oh. Okay. INT. THE DAILY RIP STUDIO - 30 MINUTES LATER Jack and Brie are interviewing Riley Bina.
+C: BRIE EVANTEE
+D: I know you’ve been through a lot...
+C: RILEY BINA
+D: It’s been hard. My friends and my Vroom Vroom Army have picked me up... but still... I’m not gonna lie, I’ve been down.
+C: BRIE EVANTEE
+D: Is there any message you want to send to your ex DJ Chello?
+C: RILEY BINA
+D: Yes there is... Chell... I still love you... and after a lot of sleepless nights... I want to take you back.
+C: BRIE EVANTEE
+D: Wait a minute! He cheated on you and you want him back?
+C: JACK BREMMER
+D: Whoah! DJ Chello, I hope you’re watching. You’re a very, very lucky man! INT. THE MINDY HOME - LANSING MICHIGAN - SAME TIME June and her sons are watching. One of the sons is on Social media.
+C: EVAN
+D: Oh my God, Diddly just exploded. So did Vroom Vroom.
+C: MARSHALL
+D: BASH News just gave me 8 push notifications. And my phone purchased DJ Chello’s latest single... What the hell? It just did that without asking...
+C: JUNE
+D: Who are these people again? INT. TEDDY OGELTHORPE’S APARTMENT - SAME TIME Teddy sips his coffee as he watches Riley Bina.
+C: DR. OGLETHORPE
+D: Good for you little lady. Forgiveness is the whole damn game.
+C: JACK BREMMER
+D: I’ve just been told we have DJ Chello live on a Mugg link! DJ CHELLO 26 is on a Skype type link.
+E: SOT
+C: DJ CHELLO
+D: Hey baby doll, your kid messed up bad. Lady Baroque wasn’t wearing panties that night at the club... and I got stupid. But it’s always been you girl. Always INT. AUTOPSY OFFICES - SAME TIME Autopsy already has a full staff meeting as the show keeps playing.
+E: SOT tearing up
+C: RILEY BINA
+D: Aw Chell, I know how that girl works it. I hooked up with her at the Music Globes last year. Right before I ran off with that power forward from the Nuggets. It’s all just drama. But I want you to be my happy ending.
+E: SOT
+C: AUTOPSY EDITOR IN CHARGE
+D: Sonya you see if you can get a quote from Lady Boutique... Damain, get a list going: ”Celebs who got it right the second time.”
+C: DJ CHELLO
+D: Hey my little bumble bee... will you marry me?
+E: SOT
+C: RILEY BINA
+D: Aw Chell. Yes. Hell yes.
+C: PHILLIP
+D: And hey, I hear there’s another big story coming up.
+C: DAMAIN
+D: What about “Forget break up sex, try a break up relationship?”
+C: PHILLIP
+D: 10 Famous Second Chances for Two Timers? Phillip glances nervously at the TV. INT. THE DAILY RIP STUDIO - 10 MINUTES LATER Brie and Jack come back from commercial.
+E: can’t help himself
+C: BRIE EVANTEE
+D: Wow. The fireworks have certainly gone off today...
+C: JACK BREMMER
+D: This show has been intense. I need a temple rub and a Martini.
+C: BRIE EVANTEE
+D: Well, our last guests... STAGE MANAGER cues Randall and Kate to take their seats.
+C: STAGE MANAGER
+D: Go, go, go!
+E: whispering
+C: BRIE EVANTEE
+D: ...have made a pretty big discovery in space. Astronomer Dr. Randall Mindy and PHD candidate Ms. Kate Dibiasky are here. Welcome.
+C: RANDALL
+D: Hello. Hi.
+C: KATE
+D: Thank you for having us.
+C: JACK BREMMER
+D: Can I just ask one thing before we go any further: is there life out there? Yes or no? Final answer.
+C: RANDALL
+D: Well that’s not really my field of study. But there have been hundreds of exo-planets discovered lately. So sure. Why not. Aliens are real. Kate gives Randall a quick sideways glance.
+E: being playful
+C: JACK BREMMER
+D: I knew it! I knew it! I like this guy!
+C: BRIE EVANTEE
+D: Please don’t encourage him Dr. Mindy. You’ll regret it! INT. THE MINDY HOME - LANSING MICHIGAN - SAME TIME June and their sons watch their Dad.
+C: EVAN
+D: Dad looks good. Doesn’t he look good? Keith Ollens enters the house.
+C: KEITH OLLENS
+D: Sorry I’m late! Wow. Randall looks great! INT. THE DAILY RIP STUDIO - CONTINUOUS
+C: BRIE EVANTEE
+D: Now Jack was having some fun about the aliens but I’m told there’s a New York Herald story that has just come out that talks about a very serious discovery you two have made.
+C: RANDALL
+D: That’s right Brie. Kate was observing supernovas on the Subaru optical telescope when she made a breathtaking and once in a career discovery.
+C: JACK BREMMER
+D: That sounds very exciting. Please tell us what you saw Ms. Dibiasky...
+C: KATE
+D: Well, I was monitoring for exploding stars... to improve the measurement of the expansion of the universe... but I saw something I didn’t recognize. It was a comet. A big one. And it’s… headed right at Earth. It’s really likely to hit.
+E: a little awkward
+C: JACK BREMMER
+D: Now how big is this thing? Could it damage say, someone’s house?
+C: RANDALL
+D: Comet Dibiasky, which is what it’ll be named officially, is somewhere between 6 and 9 kilometers across. So, it’ll damage much more than a house.
+C: JACK BREMMER
+D: Can I somehow get it to just hit my ex-wife’s house? Would that be possible? Brie hits his arm playfully.
+C: BRIE EVANTEE
+D: Stop it! You and Shelly have a great friendship!
+C: JACK BREMMER
+D: In fairness I did pay for the house the comet would hit!
+C: BRIE EVANTEE
+D: I apologize for him. He’s terrible!
+C: KATE
+D: I’m sorry... But do you understand what we’re talking about?... We’re talking about the entire planet being destroyed. Brie and Jack freeze. So does PHILLIP WATCHING AT AUTOPSY.
+E: interrupting
+C: BRIE EVANTEE
+D: We’re just having a little fun. It’s something we do around here to keep the bad news light.
+C: JACK BREMMER
+D: Helps the medicine go down. And speaking of medicine we’ve got a two part-
+C: KATE
+D: Well maybe the destruction of the entire planet isn’t supposed to be fun. Everyone stops.
+C: KATE
+D: Maybe it’s supposed to be incredibly terrifying... and upsetting...and maybe we’re supposed to stay up all night every night crying... when we’re all 100% for sure going to fucking die! She storms off. There is a long silence.
+E: CONT'D
+C: BRIE EVANTEE
+D: Is she always like that? Randall is totally on the spot. Finally after a painful beat he opens his mouth...
+C: RANDALL
+D: What’s that commercial, where the guy is put on the spot? You know... Meow? I guess I should have let her have that Xanax. Jack, Brie and the crew ERUPT INTO LAUGHTER.
+E: alt
+C: JACK BREMMER
+D: I knew I liked him! I knew it! Brie gives Randall a quick intrigued glance.
+C: BRIE EVANTEE
+D: The handsome astronomer can come back anytime. Yelling lady, not so much.
+C: JACK BREMMER
+D: Join us tomorrow when our guest will be the man who many say will challenge President Orlean in two years, Senator Jeff Lerner. And word is he’s going to show us how to make his legendary risotto.
+C: BRIE EVANTEE
+D: Yummm. And wrongly convicted murderer Michelle Weems talks to us about her third place finish on Celebrity Dance Off.
+C: JACK BREMMER
+D: I thought she should have won. I really did.
+C: STAGE MANAGER
+D: And we’re out! Everyone stands up and pulls off their mics.
+C: JACK BREMMER
+D: You were great. And don’t worry about your friend cursing. We’ve got tape delay. She was a piece of work though!
+C: BRIE EVANTEE
+D: We usually get drinks after our 5 o’clock staff meeting at Aundrine if you want to stop by...
+C: RANDALL
+D: Thank you... I’ll have to see. She gives him a hard look and then exits. The Groomer from the Herald is there.
+C: GROOMER THALIA
+D: You were awesome. Can I take a picture of you for my portfolio?
+C: RANDALL
+D: Of course. She takes his picture. Brie is back.
+C: BRIE EVANTEE
+D: I just had that terrible feeling that I was too subtle for my own good. Did it come across I’d sleep with you?
+C: RANDALL
+D: Um, now that you’re saying it now I guess it did.
+C: BRIE EVANTEE
+D: Good. She walks away.
+C: RANDALL
+D: Wait, did you see where the young lady I was with went?! EXT. MANHATTAN BUILDING - 20 MINUTES LATER Randall is chasing down Kate.
+C: RANDALL
+D: Please slow down Kate! Just hold up. She keeps walking but slows.
+C: KATE
+D: This is deranged. We have an actual scientific warning that can save billions of lives and I just had to try and impress the popular kids at the local mall.
+C: RANDALL
+D: We said it though. The message is out there! The article is published. We did the show.
+C: KATE
+D: No one heard what we said! PASSERBY gives Randall the thumbs up.
+C: PASSERBY
+D: Loved you on the Rip Doc!
+C: RANDALL
+D: Thank you! People did hear us. And hey, they certainly heard you! Kate considers this.
+E: back to Kate
+C: KATE
+D: Really? INT. NEW YORK HERALD OFFICE - AN HOUR LATER - AFTERNOON Randall, Kate, Adul, Chief Editor Paula Woods and the Herald’s MEDIA QUANT go through the numbers on a giant computer screen.
+C: MEDIA QUANT
+D: You can see this spike here is when Riley Bina asked to take DJ Chello back on the segment before you. We saw engagement across all social media platforms.
+C: RANDALL
+D: What about our story?
+C: MEDIA QUANT
+D: I apologize. In my business you don’t see “bomb engagements” like this very often. That’s what we call them: bomb engagements. And that one... is a beaut. Beat as he admires it.
+C: CHIEF EDITOR PAULA WOODS
+D: Erin, let’s move on. He moves to the next page with various graphs and stats.
+C: MEDIA QUANT
+D: Okay, the Herald article did get some pick up in certain scientific circles... And in some religious and fringe end times sites.
+C: ADUL GRELIO
+D: Nothing says journalism like “End times sites.”
+C: MEDIA QUANT
+D: Randall and Kate your TV appearance got some nice traffic when Ms. Dibiasky cursed. But unfortunately there was an immediate backlash that quickly became a meme... Screen shows VT of Kate cursing and then Michael Jordan crying. Another meme “The winner of craziest bitch on the internet goes to...”
+C: KATE
+D: Jesus. They just think I’m crazy.
+C: MEDIA QUANT
+D: Views on Ms. Dibiasky’s appearance were definitely polarizing. Negative comments ranged from “This white bitch is cancelled!” from YOL9 and “Miss Dye job’s shitty dye is melting her brain.” from DaKween438
+C: RANDALL
+D: I like your hair...
+C: KATE
+D: Stop it.
+C: MEDIA QUANT
+D: Other more positive comments were “She’s nuts but I’d smash that.” from Proud2BProud483 and “If we’re all gonna die can I do her in a tub?” from TricksAre4Me, quite a popular influencer. Someone started a parody account called “Crazy Freak Out Chick” that immediately got 8 thousand followers-
+C: CHIEF EDITOR PAULA WOODS
+D: You can move on.
+C: MEDIA QUANT
+D: Dr. Mindy on the other hand had very high favorables. VeganBabe wrote “Meooow. Me likey hunky Star Man” Some accounts called him “The Bedroom Eyes Doomsday Prophet” and “A.I.L.F.” which means “Astronomer I’d Like to Fuck.” Pardon my language. Annnd that’s everything. We did not feature or push on any sites. And clicks overall were below basic weather and traffic stories. Beat.
+C: RANDALL
+D: That’s it?
+C: KATE
+D: I knew it.
+C: CHIEF EDITOR PAULA WOODS
+D: Thank you Erin. The Media Quant packs up. They all wait until she leaves.
+C: RANDALL
+D: So people didn’t really hear what we said.
+C: CHIEF EDITOR PAULA WOODS
+D: Scientists in Mexico and Spain are currently going through the data. And South Korea has expressed concern.
+C: ADUL GRELIO
+D: Let’s not bullshit each other. Bottom line is you told us the science was 100% and it’s not. And now we look like idiots.
+C: RANDALL
+D: But the science is solid.
+C: ADUL GRELIO
+D: Dr. Jocelyn Calder the head of NASA just came out calling it “more near miss astronomy hysteria.”
+C: KATE
+D: She’s the one who told us not to tell anyone. Is she even an astronomer?
+C: RANDALL
+D: She’s a former anesthesiologist and a President Orlean super donor.
+E: off his phone
+C: CHIEF EDITOR PAULA WOODS
+D: The point is, Adul’s right, there’s still serious debate. And now the Herald has egg on its face.
+C: ADUL GRELIO
+D: Autopsy just called me Chicken Little with a jawline. Which is mostly very insulting. We’ve taken this story as far as it goes. Adul leaves.
+C: CHIEF EDITOR PAULA WOODS
+D: The only good news is the story fell so flat the White House isn’t crying breach of national security. And you were quite charming Dr. Mindy. He leaves as well. Kate and Randall are alone. Randall wipes makeup off his face with a tissue.
+C: KATE
+D: As of right now we have exactly six months, ten days, two hours, 11 minutes and 41 seconds... EXT. SPACE - SAME TIME We pan up from EARTH and see a twinkling in the distance.
+C: KATE
+D: ... until a comet the size of downtown Denver rips through our atmosphere and extincts all life on earth. INT. NEW YORK HERALD OFFICE - CONTINUOUS
+C: RANDALL
+D: When did you do those calculations? Holds out her phone.
+C: KATE
+D: I just put the impact moment on a diet app. So impact is when my diet ends. Except I’m not dieting. I’m crying five times a day. A BASH push notification comes on her phone.
+C: KATE
+D: That prick. We see an article on Autopsy “YOU KNOW THE CRAZY GIRL WHO TOLD US WE’RE ALL GOING TO DIE? I USED TO DATE HER.” By Phillip Kaj. CUT TO: EXT. PORT IN SHANGHAI - DAY - A WEEK LATER Shipping containers are lifted and moved from massive stacks. One container with a BASH logo on it is lifted revealing Peter Isherwell, his CFO, A TRANSLATOR and Junior Executive mid stride. A Mercedes speeds towards them and a CHINESE TELE-COM EXEC and one CHINESE GENERAL exit the vehicle with two armed
+E: CONT'D
+C: GUARDS. PETER ISHERWELL
+D: Hello. I appreciate you keeping this meeting private.
+C: TRANSLATOR
+E: repeats in Mandarin
+C: CHINESE GENERAL
+D: Why is he looking away from us? I do not trust this man. CHINESE TELE-COM EXECUTIVE Why do you not make eye contact with us?
+E: in Mandarin
+C: TRANSLATOR
+D: Mr. Isherwell watched his twin drown in front mere inches away from him when he was a teen. The trauma is still with him everyday.
+E: in Mandarin MORE
+C: CHINESE GENERAL
+E: in Mandarin to the Exec
+C: CHINESE TELE-COM EXEC
+D: The General says you may proceed.
+C: PETER ISHERWELL
+D: Tell them I want a partnership. BASH now owns 21 percent of the US media. That includes news, streaming and films...
+C: TRANSLATOR
+E: repeats in Mandarin
+C: CHINESE TELE-COM EXEC
+D: And you want part ownership in our Brazilian yttrium, terbium and dysprosium mines for your cell phones? And the African cobalt mines?
+E: in English
+C: PETER ISHERWELL
+D: That’s correct. Our Liif platform will disrupt a minimum of seven industries. With access to your mines we could have half the planet on it within five years.
+C: CHINESE GENERAL
+D: 
+E: gives a fairly long answer in Mandarin
+C: TRANSLATOR
+D: He says they want 185 billion cash, four board seats and editorial control over all BASH media.
+C: PETER ISHERWELL
+D: That’s absurd.
+C: TRANSLATOR
+D: 
+E: tells General in Mandarin
+C: CHINESE GENERAL
+E: responds in Mandarin
+C: CHINESE TELE-COM EXEC
+D: He says you forget who has the advantage. Your country betrayed its workers so that the very few may be very wealthy.
+E: MORE
+C: CHINESE TELE-COM EXEC
+D: Now we make your phones, your cooking utensils even the silky clothes your women wear when you make love to them. We do not need you. Because we already own you. They walk away.
+E: CONT'D
+C: PETER ISHERWELL
+D: That is very disappointing.
+C: BASH CFO
+D: Sorry to pile on, but news of the Chinese’s rejection of our partnership offer leaked. Our stock is already down six percent.
+C: PETER ISHERWELL
+D: How could it have leaked? It just
+N: happened right now. The sound of the little girl singing is heard on Peter’s phone.
+T: CUT TO:
+S: INT. CVN CABLE NEWS STUDIO
+C: BLACK.
+D: WE HEAR THE AUDIO OF A MAJOR NEWS STORY FADING IN. ANCHOR 2 It started with a photo many thought was an armpit or the chin of a man with a strange beard... But what’s emerging now is a scandal that may rock the Orlean administration to its core as Midterms approach... Dalia Hensfield is live from the White House... CELL PHONE PHOTO PIXELATED AND SHADOWY. EXT. WHITE HOUSE LAWN - NIGHT A reporter DALIA HENSFIELD, 43, in front of the White House fence.
+C: CHINESE TELE-COM EXEC DALIA HENSFIELD
+D: Darren, just minutes ago an unnamed administration official told me, “Yes, it’s true. President Orlean sent her Supreme Court nominee Sheriff Conlon a cell phone picture of her privates. They’ve been having an affair for years and just had sex yesterday in the Situation Room.” Many believe this could hurt the President with the evangelical vote and cost her party the House. This is Dalia Hensfield with your BASH Cellular Scandal of the day. BASH graphics whoosh across the screen. EXT. DC HOTEL - NIGHT SENATOR LERNER getting into a car addresses the press in a white collared shirt.
+E: CONT'D SOT
+C: SENATOR LERNER
+D: Members of my party are currently drawing up a formal censure of the President. It is time we restored dignity to the White House. Now if you’ll excuse me I have a costume party fundraiser at a haunted house I have to attend. REVEAL that he is dressed as a pirate and holding a pirate hat. INT. DR. MINDY HOME - DAY Randall is on his home computer arguing with people on Diddly . He has grown into his Daily Rip look nicely.
+E: Twitter
+C: RANDALL
+D: Oh my God sweetie, this guy doesn’t even know what a heliocentric orbit is and he’s calling me a crackpot. He says Jewish billionaires made up the comet to steal everyone’s guns.. June passes by the doorway.
+C: JUNE MINDY
+D: You’ve been on that site a lot lately.
+C: RANDALL
+D: I’ve got over two hundred thousand subscribers. I have to use my voice to get the word out. It’s called “the scientific method.” It’s what made the computer you’re typing your half formed ideas into right now.
+E: talks while typing
+C: JUNE MINDY
+D: Randall!
+E: O.C.
+C: RANDALL
+D: Yes?
+C: JUNE MINDY
+D: Someone is here to see you! INT. THE MINDY LIVING ROOM - SECONDS LATER Randall enters and there are SEVEN FBI AGENTS in his living room and TWO BLACK SEDANS WITH HOOD LIGHTS FLASHING ON HIS
+C: FRONT LAWN. RANDALL
+D: Hello. EXT. MICHIGAN STATE CAMPUS - SAME DAY, SAME TIME Kate is jogging across campus. A COLLEGE GIRL hanging out with friends yells at her as she passes.
+C: COLLEGE GIRL
+D: “We’re all going to die!!”
+E: mocking
+C: KATE
+D: Fuck off please! Suddenly A PASSING STUDENT, A BLIND MAN WITH A CANE, A COFFEE VENDOR reveal they are undercover FBI, tackle her and draw guns on her.
+E: like she’s said it a 100 times
+C: FBI AGENTS
+D: FBI! You are under arrest for breach of national security secrets!
+C: KATE
+D: Jesus Christ! You could have just called me! You pretended to be a blind guy? Was that exciting for you? You got to play dress up? EXT. “OFFICE 4 YOU” OFFICE BUILDING - D.C. - 1 HOUR LATER Teddy Oglethorpe exits a rent by the day office space building holding his briefcase. Suddenly THREE BLACK SEDANS screech up to the curb and FBI AGENTS point guns at him.
+E: getting on the ground sees more agents
+C: FBI AGENTS
+D: FBI! Get down on the ground!
+C: DR. OGLETHORPE
+D: Okay... Be cool... I just have more skin pigmentation than you because your ancestors migrated to northern Europe and developed lighter skin so as not to get vitamin D poisoning... That’s all... Otherwise we’re exactly the same... He slowly gets on the ground. INT. BLACK SEDAN - SAME TIME Kate is in the back seat of a black sedan driven by TWO FEDS. She has a HOOD OVER HER HEAD.
+C: KATE
+D: Unless you two assholes are taking me to the Bat Cave fuck you for putting this hood on me! EXT. WHITE HOUSE - SIX HOURS LATER - NIGHT INT. HALLWAY OUTSIDE THE OVAL OFFICE - CONTINUOUS Teddy Oglethorpe, Randall and Kate are seated in the hallway outside the Oval Office. Two SECRET SERVICE AGENTS stand guard.
+C: RANDALL
+D: What’s this about?
+C: DR. OGLETHORPE
+D: No idea. But that flash mob of G- Men they hit us all with makes me think they’re trying to leverage us into something. Air Force General Themes, the General from their first White House visit walks by with TWO CONTRACTORS.
+C: KATE
+D: Watch out for him. He’ll charge you for free shit. Jason, President Orlean’s son, peaks out of the Oval Office.
+C: JASON
+D: Guys. You can come in. INT. OVAL OFFICE - TEN MINUTES LATER President Orlean and Jason speak to Randall, Teddy and Kate. Dr. Calder is also there.
+C: PRESIDENT ORLEAN
+D: Look there are times as a leader when one must admit that they’ve made a mistake... and pride must be put aside. She exhales a plume of smoke and dies out a cigarette.
+C: JASON
+D: We’ve had several scientists from Harvard and Princeton confirm your data. This is an official Presidential apology. And we are prepared to mobilize in an historic fashion to save this planet.
+C: KATE
+D: So basically, what you’re saying is-
+C: DR. OGLETHORPE
+D: Hey. There’s no need. We all get-
+C: KATE
+D: - you’re about to lose the midterms because you got caught sending pictures of your cooch to your porn star Sheriff and now suddenly it’s to your advantage to act on the comet? Beat.
+C: PRESIDENT ORLEAN
+D: Yes. That’s right.
+C: KATE
+D: I’m just glad you’re finally going to do something... Jesus... This has been really really hard. She gets a little teary-eyed but fights it back. Randall puts his hand on hers.
+E: big exhale
+C: JASON
+D: Jesus.
+C: RANDALL
+D: It’s been stressful for all of us. Carrying this knowledge around...
+C: JASON
+D: Dr. Calder people will ask why we didn’t act earlier so we need you to take the hit on this.
+C: PRESIDENT ORLEAN
+D: Needless to say we’ll take care of you down the road Jocelyn.
+C: DR. CALDER
+D: Of course Janie. I’ll resign in disgrace first thing tomorrow.
+C: KATE
+D: Well that’s weird as hell.
+E: under her breath
+C: DR. OGLETHORPE
+D: So what are we talking about Madame President? International joint action? NATO? A U.N. initiative?
+C: PRESIDENT ORLEAN
+D: According to our scientists the comet has already passed inside the orbit of Jupiter.
+C: RANDALL
+D: That’s correct, yes.
+C: JASON
+D: So the optics are perfect.
+C: KATE
+D: And by “optics” you mean reality?
+C: PRESIDENT ORLEAN
+D: I’m going to read a statement to the American people. We’ll give no notice to the press so it will have the quality of a breaking emergency... INT. OHIO LIVING ROOM - TWO NIGHTS LATER A HUSBAND AND WIFE AND THEIR TEEN DAUGHTER watch TV while they eat and the daughter is on her phone. THE BACHELOR type show they’re watching is interrupted. CLOSE UP: TV SCREEN: PRESIDENTIAL SEAL
+E: 40s 14
+C: ANCR
+D: We interrupt this broadcast of Jackpot Fiancé for an emergency message from the President of the United States. INT. 24 HOUR GYM - SAME TIME A LINE OF 9 GYM PATRONS all watch the announcement on their treadmill TV screens. INT. BEDROOM - INDIA - DAY CLOSE UP: An INDIAN TEEN watches on his phone in bed. INT. SUDANESE LIVING ROOM - DAY.D70 D70 A FAMILY IN THE SUDAN watch on TV EXT. WW 2 BATTLESHIP - NIGHT President Orlean, at a podium in front of a WORLD WAR TWO BATTLESHIP with American flags everywhere. It’s lit like a movie. Behind her are Randall, Kate, Teddy and Jason. Jason occasionally mouths the words of the speech along with his Mom.
+E: V.O.
+C: PRESIDENT ORLEAN
+D: Citizens of the United States and people of the world. I have just been handed scientific findings that confirm a worst case scenario. An unprecedented comet 9 kilometers wide is on a direct collision course with our cherished home: planet earth... INT. OVAL OFFICE - FLASHBACK CUT BETWEEN PLANNING AND THE EXECUTION of the media roll out.
+C: JASON
+D: We’ve already drawn up an emergency spending package for Congress- EXT. BATTLESHIP - TWO NIGHTS LATER
+C: PRESIDENT ORLEAN
+D: - an emergency spending package that will allow NASA in conjunction with our great military to launch a mission using decommissioned Space Shuttles and Satellites loaded with nuclear explosives to knock Comet Dibiasky off course- INT. OVAL OFFICE - TWO NIGHTS PRIOR
+C: PRESIDENT ORLEAN
+D: And we’ll need a hero. A pilot.
+C: RANDALL
+D: Shouldn’t the mission all be done using remote technology?
+C: DR. OGLETHORPE
+D: They always gotta have a hero. EXT. BATTLESHIP - TWO NIGHTS LATER
+C: PRESIDENT ORLEAN
+D: ... I have asked Medal of Freedom recipient and outspoken Patriot, Benedict Drask to lead this dangerous and critical mission- INT. OVAL OFFICE - TWO NIGHTS EARLIER
+C: RANDALL
+D: Isn’t he that crazy mercenary who cursed at those kids?
+C: JASON
+D: He’s also the guy who went into southern Pakistan without any authorization and killed Mussad Al Tabad.
+C: PRESIDENT ORLEAN
+D: Drask was given the honor of leading the Presidential Initiative to get kids exercising and let’s just say he’s from another generation. EXT. WHITE HOUSE FRONT LAWN 3 YEARS EARLIER - DAY A HUNDRED CHILDREN between the ages of 8-11 are doing jumping jacks on the White House Front Lawn while BENEDICT DRASK, 49, leads them on.
+C: BENEDICT DRASK
+D: Eleven! Twelve! Come on! You can do better than that! You look like a bunch of f- EXT. BATTLESHIP - NIGHT Benedict Drask stands at attention in his private military uniform and salutes.
+C: BENEDICT DRASK
+D: Benedict Drask reporting for duty sir! The President returns the salute.
+C: BENEDICT DRASK
+D: Thank you for this honor Madame President. Some are saying this is a suicide mission. Well all I ask is if I get snuffed make sure you all earn the extra living my sacrifice gives you. INT. OVAL OFFICE - TWO NIGHTS EARLIER
+E: CONT'D
+C: JASON
+D: I wrote that line for him.
+C: KATE
+D: Isn’t that from Saving Private Ryan?
+C: JASON
+D: No. It’s totally different. EXT. BATTLESHIP - NIGHT
+C: PRESIDENT ORLEAN
+D: And special thanks go to the team of scientists behind me who were the first to raise the alarm about this looming threat. Dr. Teddy Oglethorpe, Kate Dibiasky who the comet is named after. But please don’t blame her. And the great and beloved Dr. Randall Mindy. Who will help us destroy our common enemy Dibiasky. INT. OVAL OFFICE - FLASH BACK TWO NIGHTS PRIOR
+C: JASON
+D: And yeah, because you all were on this early you have a ton of credibility so we’ll need the three of you to be the face of this. That means interviews, appearances and total support for this administration.
+C: PRESIDENT ORLEAN
+D: Especially you Dr. Mindy. You poll much higher than your colleagues.
+C: RANDALL
+D: Thank you...I guess.
+C: PRESIDENT ORLEAN
+D: But Teddy is good for diversity and Ms. Dibiasky actually connects with disaffected youth and portions of the prison population.
+C: KATE
+D: Thank you.
+C: DR. OGLETHORPE
+D: We’ll do whatever we can.
+C: JASON
+D: Great. Then let’s get-
+C: KATE
+D: Can I say something?
+C: PRESIDENT ORLEAN
+D: Go ahead.
+E: annoyed
+C: KATE
+D: I didn’t vote for you... Frankly I find your policies of serving the rich over the needy and blaming people of different races and religions reprehensible... But this is obviously much...much bigger than any of my misgivings. So I will be 100% committed to this task. No matter how offensive I find you.
+C: JASON
+D: You know I was the one who told the FBI to put the sack over your head. The FBI doesn’t do that. That’s CIA. But I made them.
+C: KATE
+D: I had a feeling. I really did.
+C: JASON
+D: Well that feeling was correct. Because I did it.
+C: PRESIDENT ORLEAN
+D: Good then we’re all on the same page. EXT. BATTLESHIP - 2 NIGHTS LATER President Orlean finishes her speech.
+C: PRESIDENT ORLEAN
+D: ... I will be addressing the U.N. tomorrow in an emergency session. Although I am the leader of this nation, it is with the cooperation of the entire world that we shall confront this challenge. Unified and together. Thank you. And may Jesus Christ bless every one of you. Especially the honorable members of my party and our brothers and sisters in Israel. MUSIC: SCORE: INSPIRING HORNS AND TIMPANIS. INT. CLOSE UP OF SOCIAL MEDIA FEEDS DIDDLY FEED that dissolves into FRIEND POST that dissolves into VROOM VROOM all buzzing about the comet: “Is this for real?” “I’m scared.” “We’re gonna kick this comet’s ass!” “That Dr. Mindy is fire hot.” “I hate that crazy chick.” “God will protect us.” “Get a free large fries when you say the word ‘comet.’” An Autopsy story: “32 Facts About the Comet that Will Make You Go ‘Gulp.’” by Philip Kaj. INT. BEDROOM - SOUTH KOREA - NIGHT A SOUTH KOREAN 12 YEAR OLD watches and types away on her phone.
+C: NEWS ANCHOR MONTAGE
+D: It’s a speech that sent shockwaves around the world... Several religious groups have claimed it’s God’s wrath for the NBA not saying the Lord’s Prayer before games...They’re calling the haircut “The Randall” after Dr. Randall Mindy. And millions are getting it... The first pictures of the comet have emerged and it’s a big one! INT. DISHWASHING AREA OF A RESTAURANT KITCHEN - NIGHT CU: THE FIRST FAIRLY CLEAR PICTURES BEGIN TO EMERGE OF THE COMET. A FLARE OF WHITE AGAINST THE BLACK OF SPACE. DISHWASHERS and WAITERS all look at their phones. EXT. NEWS STAND AT TRAIN STATION - DAY Magazine covers at a news stand show headlines like “Earth’s Big Moment!” “Drask’s Miracle Workout” “Are Sheriff Conlon and President Orlean F Buddies?” “Jason Orlean Wants To Save Mankind ” “How the Comet Changes NFL Playoff Race!”
+E: V.O. or online and meet the right girl
+C: NEWS MONTAGE
+D: The U.K. France, India, Germany and even Iran have immediately pledged support...Is Kate Dibiasky to blame for the Dibiasky comet? Older Americans sure think so by an overwhelming margin according to... Another magazine with Kate on the cover: Is She to Blame for the Comet? And one of Randall “America’s Scientist” EXT. KENNEDY SPACE CENTER - DAYS LATER An Old SPACE SHUTTLE and MISSILES ARE BEING TOWED ONTO THE TARMAC. Crews are building launch platforms. EXT. GUN STORE - DAY Long line of WHITE MEN wait to buy guns.
+E: V.O.
+C: NEWS MONTAGE
+D: Gun stores are running out of guns. And Kal-Mart stores have no more shovels. EXT. KAL-MART - DAY An OLDER TOUGH LADY is being interviewed. Her husband holds 7 shovels. A few SHOPPERS in the background wheel out carts full of toilet paper.
+E: V.O.
+C: OLDER TOUGH LADY
+D: Comet’s coming. People gotta dig in. We already got buyers for these shovels on E-Market for a thousand bucks a pop. It’s called the free market baby. You don’t like it move to Seattle! INT. THE DAILY RIP STUDIO - DAY Randall speaks with Brie and Jack on the air. The crawl underneath has stories about the comet as well as a story “MICHELE WEEMS ARRESTED AGAIN FOR MURDER” and “SENATOR LERNER PLEDGES TO SUPPORT PRESIDENT ORLEAN “DESPITE THEIR DIFFERENCES.” And “ALL STAR POINT GUARD PAUL FRANKLIN DOESN’T
+C: BELIEVE COMET IS REAL” RANDALL
+D: We’re all frightened. But I can assure you our best and brightest are on the job. I’ve seen the science on this plan... and it is sound. It will work.
+C: BRIE EVANTEE
+D: I know your words are a great comfort to all of our viewers Dr. Randall. We thank you for your courage and service. Whenever I feel afraid I think of you and I just feel... Better. Randall looks down and Brie has put her hand on his thigh. He clearly has a hard on pushing against his pants.
+C: JACK BREMMER
+D: Financial expert Franklin Hanes joins us next. Find out why he thinks the comet will be good for your 401K and could lead to some fantastic real estate bargains. INT. OVAL OFFICE - DAY Sheriff Conlon is being sworn in as the newest Supreme Court Justice by the Chief Justice while President Orlean looks on. She winks at him.
+C: SHERIFF CONLON
+D: I swear to uphold the laws of the Constitution to the best of my abilities and will serve the court- INT. FANCY HOTEL - DAY Randall and Brie Evantee have sex standing up in the hallway of a posh Manhattan hotel.
+C: BRIE EVANTEE
+D: Tell me we’re all going to die...
+C: RANDALL
+D: What?
+C: BRIE EVANTEE
+D: Tell me we’re all going to die... Do it... Randall’s BASH PHONE SHOWS A TEXT “Hey love, Keith, the boys and I thought you were great on the show. Cheering you on from Michigan! Love, June.”
+C: RANDALL
+D: We’re all going to die...
+C: BRIE EVANTEE
+D: Ohhhh!!!! Tell me how we’re going to die!!
+C: RANDALL
+D: Uh, the comet will hit off the coast of Chile at 116,000 miles per hour…the force of the explosion will send flaming debris raining down across the planet…The sun will be blocked out destroying the food chain and ushering in a new ice age.... Ohhh!!!
+C: BRIE EVANTEE
+D: OOOhhh!!! INT. PATRIOT NEWS STUDIO - DAY Kate and Teddy being interviewed by a Hannity type DAN PAWKETTY, 55 and debating with a Texas CONGRESSMAN TENANT,
+C: CONGRESSMAN TENANT
+D: So these two Marxists wave around the word “science” and we’re all supposed to do whatever they say? How do we know there even is a comet?
+C: KATE
+D: Well, actually Mr. Pawketty, Congressman, this data has now been confirmed and peer reviewed by hundreds of world-renowned scientists. So it’s not just according to us.
+C: CONGRESSMAN TENANT
+D: And we’re supposed to trust you? The comet’s got your name!
+C: KATE
+D: That doesn’t even make any sense.
+C: DAN PAWKETTY
+D: Then why won’t you answer the question?
+C: DR. OGLETHORPE
+D: This is ridiculous. Other than a few crazy videos on Me-Screen there’s no credible scientists arguing the comet isn’t real.
+C: CONGRESSMAN TENANT
+D: Don’t talk down to me. Last I saw of you Dr. Oglethorpe your career in DC was sinking faster than a lead canoe. MOMENTS LATER: Teddy and Kate are leaving the studio.
+C: DR. OGLETHORPE
+D: You did good. Kept it professional.
+C: KATE
+D: Why did he say that about your career? Is he-
+C: DR. OGLETHORPE
+D: Yup. That’s the guy. It’s okay. Water under the bridge. Water under the bridge. INT. KIDS SHOW STUDIO - DAY Randall talks to SAMMY, a cute, famous kids’ puppet.
+C: SAMMY
+D: Hello, Dr. Mindy.
+C: RANDALL
+D: Hello Sammy.
+C: SAMMY
+D: Are you really a doctor?
+C: RANDALL
+D: No Sammy, I’m an astronomer.
+C: SAMMY
+D: What’s an astronomer?
+C: RANDALL
+D: Well Sammy, we look up in the sky, and study the universe.
+C: SAMMY
+D: Dr. Mindy, I don’t want to look up in the sky.
+C: RANDALL
+D: Why Sammy?
+C: SAMMY
+D: Because I am afraid of the big comet.
+C: RANDALL
+D: It’s ok to be afraid Sammy. Even I get scared sometimes, but I promise, a lot of really smart and brave people are going to make sure we’re all safe.
+C: SAMMY
+D: Thank you Dr. Mindy. I feel sooo much better knowing all those scientists are working hard to keep us safe!
+C: MUSIC: A SONG SAMMY
+D: WE ALL GET SCARED SOMETIMES
+E: CONT'D
+C: ESPECIALLY AROUND BEDTIMES
+D: BUT THE COMET WON’T GET US BECAUSE BRAVE PEOPLE WON’T LET US
+C: GET HURT
+D: SO HAVE SOME YUMMY DESSERT AND A TICKLE OR TWO!!! Randall tickles Sammy. INT. WHITE HOUSE HALLWAY President Orlean, Randall, Jason and Kate walk down a hallway.
+C: JASON
+D: The anti-taxers in Congress want something in exchange for this comet spending bill. And so do the religious folks.
+C: KATE
+D: How about not dying?
+C: JASON
+D: Why are they here?
+C: PRESIDENT ORLEAN
+D: I’ll give them a 5% tax cut for people making over 10 million a year and a bill that gives patients full disclosure of their Doctor’s background.
+C: RANDALL
+D: Isn’t that the law that says any Doctor who is gay must tell all patients?
+C: PRESIDENT ORLEAN
+D: We need that spending bill. It’s time to grow up gang. INT. UPSCALE RESTAURANT - DAY Brie and Randall have lunch with A TALENT AGENT: KATHY LOGOLOS, 42. A total killer who is old friends with Brie.
+C: KATHY LOGOLOS
+D: The quick pops on talk shows are great but we need to get Randall out there as a paid speaker. The Big Banks and Tech Companies will pay a 100 grand a pop for you right out of the gate.
+C: BRIE EVANTEE
+D: I make 150 thousand and I’m the worst. My last one was for Evergreen Bank and I ended by saying “always reach for your dreams.” How terrible is that?
+C: RANDALL
+D: I don’t totally understand why I need an agent. Isn’t the idea to just inform people about what’s going on?
+C: KATHY LOGOLOS
+D: You weren’t kidding Brie. He’s adorable. Also LTD Sedans has a new electric car and they want someone who projects intelligence and sex appeal. I already said you’d do it.
+C: BRIE EVANTEE
+D: I’m ordering the oysters.
+C: KATHY LOGOLOS
+D: You’re a genius.
+C: RANDALL
+D: Wait, but I don’t want to do a car commercial.
+C: BRIE EVANTEE
+D: No one “wants” to do a car commercial sweetie. But when they ask you say yes.
+C: KATHY LOGOLOS
+D: Besides Albert Einstein did commercials for Volvo.
+C: RANDALL
+D: Is that true?
+C: KATHY LOGOLOS
+D: It might be. Let’s get the oysters and some more wine and decide if we care or not. EXT. EAST LAWN - TWO DAYS LATER President Orlean signs the bill into law with Randall behind her.
+C: PRESIDENT ORLEAN
+D: This may be the bill that saves mankind. Everyone applauds.
+C: PRESIDENT ORLEAN
+D: And also gives tax relief to high earning job creators... and religious freedom to medical patients. Slightly confused applause. INT. KENNEDY SPACE CENTER MEDICAL CENTER - DAY Drask sits shirt off on an examination table. A PHYSICIAN, 31, approaches.
+E: CONT'D
+C: BENEDICT DRASK
+D: Let me save you save you some time on the physical Doc. Just write “ticker’s still ticking.”
+C: PHYSICIAN
+D: Mr. Drask I’m Doctor Ginnerson. And according to federal mandate 38-D9 I must inform you that I had several homosexual encounters in college.
+C: BENEDICT DRASK
+D: What the fuck? EXT. D.C. HOTEL - NIGHT Cable reporter Dalia Hensfield does a live shot from outside the busy hotel. CRAWL at the bottom of the CVN screen: “END TIMES CULTS FLOCK TO CHILE’S BEACHES ” “TELESCOPE SALES ARE AT AN HISTORIC HIGH” “RILEY BINA AND DJ CHELLO SET WEDDING DATE: APRIL 11” “PLANS FOR A “MEOW” TV SHOW IN THE WORKS.”
+C: DALIA HENSFIELD
+D: And it was a clean sweep for President Orlean’s party in the midterms giving her a super majority in both the House and the Senate. And a record setting 98 percent approval rating. Some even think the President could win the Nobel Peace Prize. Which would be remarkable for a leader who once said waterboarding is “no worse than when the masseuse goes too hard on you.” EXT. TRAIN STATION - DAY NEWS STAND GUY puts out new Time Magazines with a cover showing President Orlean smoking a cigarette with the headline “SMOKING HOT!” INT. CABLE NEWS STUDIO - DAY Kate is on CVN cable news with host HARRISON TELMS, 50.
+C: KATE
+D: The plan seems solid but we need to be prepared for all outcomes. What we’re talking about Harrison is the future of life on this planet.
+C: HARRISON TELMS
+D: Interesting. Well let’s check our viewer poll. Is the future of mankind at stake? GRAPHICS come up: 38% Yes, 47% NO, 15% UNDECIDED
+C: HARRISON TELMS
+D: And it looks like our viewers do not agree with you.
+E: CONT'D
+C: KATE
+D: That’s great. But science is something that transcends opinion so I’m not sure what the point of that poll is.
+C: HARRISON TELMS
+D: Coming up next: Riley Bina and DJ Chello have officially split up. Details are sketchy at the moment. We are hearing that Lady Baroque is not involved. Are you team Bina or team Chello?
+E: and then to Kate
+C: KATE
+D: I really haven’t been following- I don’t care.
+C: HARRISON TELMS
+D: Okay. We’ll be back to discuss this after the break. They go to commercial break. The Meow commercial plays on the studio monitor.
+C: HARRISON TELMS
+D: A word of friendly advice. Maybe you would get your message across more effectively if you didn’t act like you’re better than everyone.
+E: CONT'D
+C: KATE
+D: But my “message” is about the possibility of all of mankind dying. I’m frightened. As we all should be.
+C: HARRISON TELMS
+D: You just did it again. Thanks for coming on. INT. HOTEL ROOM BEDROOM - NIGHT Brie holds a glass of wine as she and Randall lay in bed post coital.
+C: BRIE EVANTEE
+D: I just realized we don’t really know anything about each other.
+C: RANDALL
+D: Every time I ask about your life you tell me about your favorite restaurants.
+C: BRIE EVANTEE
+D: I despise the “get to know you” part of relationships so let’s just get it all over with now: My Grandfather invented the flash freezing process so I come from grotesque money but I got away from it by getting three Master’s degrees. I’ve been divorced twice. One was a Secretary of State. The other a sport fisherman. I’ve slept with two former Presidents and I speak four languages and own two Monets. Now you. Randall sits up a little straighter.
+C: RANDALL
+D: Um, okay... my Dad was a middle school geography teacher. My Mother cut hair out of our kitchen. I have two kids. My youngest struggles with mood swings. My wife teaches disabled children ceramics. Last year we put a new deck on our house. Which was surprisingly hard. We never quite got the stain right. Two years ago our dog JoJo died after eating a lot of chocolate. That was really emotional. And, oh yeah, I have a Star Wars poster signed by Mark Hamill.
+C: BRIE EVANTEE
+D: Good. That’s done. Where should we eat tonight?
+C: RANDALL
+D: Do you ever get afraid? I mean what if the mission goes wrong...? Sometimes I think about what will happen to us... Brie gets up and goes into the bathroom where she turns the shower on.
+C: BRIE EVANTEE
+D: There’s a new place on 73rd. Everything they serve is a cube. I think it’s called Telekinesis. Let’s give it a whirl! SMASH CUT TO: EXT. DC SKYLINE JET PLANES RIP ACROSS THE D.C. SKY IN FORMATION WITH A
+C: DEAFENING ROAR.
+D: “GIANT LETTERS ACROSS THE SCREEN “LAUNCH DAY” EXT. LAUNCH PAD - CONTINUOUS NASA van pulls up, Drask exits van heroically in a space suit. Two techs walking to the space shuttle. INT. WHITE HOUSE SITUATION ROOM - DAY President Orlean, Randall, Jason, Kate, Teddy, Air Force General Themes, THREE OTHER GENERALS and for some reason Brie Evantee are all crouched in the situation room looking at MONITORS SHOWING A MODIFIED SPACE SHUTTLE. It’s surrounded by an array of satellites and other Space Shuttles on the launch pad at Kennedy Center.
+C: BENEDICT DRASK
+D: This is Benedict Drask on the launch pad and ready for a go. EXT. KENNEDY SPACE CENTER - 3 MILES AWAY - SAME TIME A HUNDRED THOUSAND PEOPLE watch from a distance with binoculars and phones raised.
+E: O.C. crackly on the radio
+C: PRESIDENT ORLEAN
+D: This is your President Commander Drask. Your nation thanks you. Your planet thanks you. And your God, Jesus Christ thanks you. Hundreds of press report from around the world.
+E: V.O.
+C: FRENCH REPORTER
+D: I've just spoken to the technical liaison from NASA who assures me the mission is a go and the probability of success is extremely high. Dr. Randall Mindy also released a statement saying that he has the utmost confidence in the engineers and scientists who have put thousands of man hours into planning this mission. President Orlean says there is no better person to lead this mission than the astronaut, Gary Drask.
+C: HAITIAN REPORTER
+D: The skies are clear and the weather is temperate and the conditions seem perfect for launch. I'm not going to lie, I personally am afraid and concerned but ultimately hopeful that today will be one of the greatest days in the history of mankind. If you are with your family, hold them tight and tell them that you love them. Even if you don't. And God Bless President Janie Orlean and the United States of America. EXT. TOKYO CENTER CITY - SAME TIME - NIGHT A HUNDRED THOUSAND PEOPLE WATCH on giant screens. EXT. CAIRO EGYPT - SAME TIME - DAY HUNDREDS OF THOUSANDS WATCH GIANT SCREENS. INT. MISSION CONTROL - CONTINUOUS Mission control full of techies at screens coordinate the launch.
+C: MISSION COORDINATOR
+D: This is Mission Control. All indicators are coming up green. This is a final warning to control the launch pad. I repeat, we are approaching countdown. INT. WHITE HOUSE SITUATION ROOM - CONTINUOUS
+C: PRESIDENT ORLEAN
+D: Dr. Randall Mindy your discovery led to this mission and the chance to save earth. I give you the honor. Kate glances over at Randall. She sees he and Brie Evantee are holding hands?
+C: RANDALL
+D: Thank you Madame President. Citizens of planet earth... commence countdown.
+C: MISSION COORDINATOR
+D: Launch mission array in 10, 9, 8... Peter Isherwell, CEO of BASH enters the room.
+E: V.O.
+C: PETER ISHERWELL
+D: Hello all.
+C: PRESIDENT ORLEAN
+D: Hello Peter.
+C: PETER ISHERWELL
+D: Hi Brie! You look lovely as always.
+C: KATE
+D: Should he be in here?
+C: JASON
+D: Yes, Peter’s a Platinum Eagle Donor to the campaign. He has full clearance.
+C: MISSION COORDINATOR
+D: ...3, 2, 1... liftoff! EXT. KENNEDY SPACE CENTER - SAME TIME The Shuttles and satellites shoot bright yellow and red flame as they battle against the pull of gravity...
+E: V.O.
+C: MISSION COORDINATOR
+D: We have successful liftoff. I repeat: we have successful liftoff. INT. WHITE HOUSE SITUATION ROOM - SAME TIME Everyone cheers and high fives.
+E: V.O. MORE
+C: DR. OGLETHORPE
+D: We didn’t lose any satellites. Margin of error was for two to malfunction.
+C: RANDALL
+D: Mission success probability has already increased to 81 percent. This is good. This is very good. Peter Isherwell pulls the President aside.
+C: PETER ISHERWELL
+D: Madame President can I speak to you outside for one second? She’s engrossed by the screens showing liftoff.
+C: PETER ISHERWELL
+D: Janie. Now!
+E: CONT'D in his real voice
+C: PRESIDENT ORLEAN
+D: I’m so sorry. Of course Peter.
+C: JASON
+D: Mom, where are you going? She’s already exited with Peter.
+C: KATE
+D: Are you worried she’s going to fuck him? Your Mom gets around doesn’t she?
+C: JASON
+D: Screw you. But when Jason turns away he has a hurt face. INT. SHUTTLE COCKPIT - THE UPPER ATMOSPHERE - SAME TIME Drask shakes and rattles in the cockpit.
+C: BENEDICT DRASK
+D: 6 minutes from main engine cut off. Everything is A-OK. Just wanna say hello to everyone on earth.
+E: MORE
+C: BENEDICT DRASK
+D: All the proud white folks, the Mexicans, great food. The Arabs, at least the ones who don’t act all crazy. The Fairies, the Chinamen, your babies are really cute. And the negroes. Especially when you’re calm and not all jacked up and-
+E: CONT'D
+C: MISSION COORDINATOR
+D: Uh, Commander. Booster ejection is imminent. Let’s keep com on mission.
+E: V.O.
+C: BENEDICT DRASK
+D: Roger that. One last hello to Dr. Ginnerson. Duncan I’m thinking about that dinner we had last night. It was really special. INT. PICK UP TRUCK - DAY A MEXICAN FATHER AND SON watch the launch on a cell in their truck behind a warehouse. EXT. HALLWAY OUTSIDE THE SITUATION ROOM - SECONDS LATER Long shot down the hallway: Peter Isherwell explaining something to President Orlean. She attempts to jump in but he cuts her off.
+E: 51 17
+C: PETER ISHERWELL
+D: There are moments where risk and opportunities collide with incredible force. It is in those moments in which diamonds and rubies are created Janie.
+C: PRESIDENT ORLEAN
+D: Peter. I can’t. The whole world is watching.
+C: PETER ISHERWELL
+D: Then show them who you are. Show the world your place in history. You are more than a portrait in a museum or a school named after you. Do this Janie and they will name the country after you.
+C: PRESIDENT ORLEAN
+D: Oh Jesus. My face feels hot. Are we really going to do this?
+C: BENEDICT DRASK PETER ISHERWELL
+D: The day you were born it was already done. INT. WHITE HOUSE SITUATION ROOM - SAME TIME The Shuttles and satellites approach the outer atmosphere.
+E: CONT'D
+C: BENEDICT DRASK
+D: So far so good. Just another day at the office!
+E: V.O. on his radio
+C: JASON
+D: I wrote that.
+C: KATE
+D: Isn’t that just something people say? How can you write that?
+C: BRIE EVANTEE
+D: Et les anges s’envolent vers le ciel...
+E: in French
+C: RANDALL
+D: What does that mean?
+C: BRIE EVANTEE
+D: It means “And the angels soar to the heavens...” It’s from a 14th century French poem I studied at Dartmouth... Watching this made me think of it... And you.
+C: RANDALL
+D: When I look at your eyes... I can’t look away. Brie and Randall kiss. The room clocks it.
+C: DR. OGLETHORPE
+D: Well okay. It’s a party.
+E: under his breath
+C: KATE
+D: Can you hand me a water?
+E: to Air Force General Themes
+C: AIR FORCE GENERAL THEMES
+D: Of course. Kate stares at him hard. But then President Orlean walks back in looking solemn.
+E: hands her the water
+C: PRESIDENT ORLEAN
+D: Everyone...I’ve just been given some critical information concerning our mission. CUT TO: EXT. KENNEDY SPACE CENTER - SAME TIME MASSIVE CROWD WATCHING AND CHEERING ON THE SPACE SHUTTLE
+C: SCORE: GLORIOUS NEWS ANCHORS CHATTER
+D: Not since D-Day has there been a moment - today we are one planet, one people-- proving that when we unite mankind can do great, great things! Although it’s just a flaming speck in the sky, we see slowly but surely that THE LEAD SPACE SHUTTLE BEGINS TURNING.
+E: V.O.
+C: ONLOOKER
+D: Hey! It’s looks like it’s turning around!
+C: GUY
+D: No it’s not! It’s a course correction! Pretty standard! Nope. It’s turning around.
+C: ONLOOKER
+D: Nope! It’s turning around! He deployed his capsule!
+C: ANOTHER ONLOOKER
+D: What the fuck?!
+C: A MOM
+D: It’s definitely turning around! It is! See how the flame is in a different direction than it was before! And now IT’S FULLY HEADED BACK TO EARTH along with the other shuttles and satellites. THE CROWD AND CROWDS ACROSS THE WORLD ARE SILENT AND CONFUSED.
+E: MORE
+C: ANCHORS CHATTER
+D: There seems to be some confusion - Perhaps a malfunction - No details as of yet - Radio contact has ceased and Mission Control has gone to a different channel- INT. MISSION CONTROL Mission Coordinator turns around in his seat and addresses the rest of his team.
+E: V.O.
+C: MISSION COORDINATOR
+D: Does anyone know what the fuck just happened?! CUT TO: INT. WHITE HOUSE OFFICE - TWO HOURS LATER Teddy, Randall and Kate are in a generic office. Teddy tries the door.
+C: DR. OGLETHORPE
+D: It’s still locked.
+C: RANDALL
+D: I don’t understand. The mission was working. Everything was on track.
+C: DR. OGLETHORPE
+D: Had to be a computer malfunction. Or maybe the nukes destabilized.
+C: KATE
+D: Who was that man who walked in when we were in the situation room? He looked familiar.
+C: DR. OGLETHORPE
+D: That was Peter Isherwell, CEO of BASH. And the third richest human ever. He saw his wife fall into a wood chipper and hasn’t spoken since. The door opens. It’s Jason.
+C: JASON
+D: I’m very sorry for keeping you in here but the situation is extremely fluid.
+E: MORE
+C: JASON
+D: Dr. Randall, you’re now Chief Science Advisor to the White House...
+E: CONT'D MORE and then
+C: RANDALL
+D: What? Okay. But we need to know why the mission was turned around.
+C: JASON
+D: ...and as such we need you for an emergency cabinet meeting right now where you will be fully debriefed.
+C: KATE
+D: What about us?
+C: JASON
+D: I’m sorry. You don’t have the clearance for this meeting. Here are some bottled waters and crackers.
+C: RANDALL
+D: I’ll be back. I’m sorry about this. An ASSISTANT hands them the snacks. Then closes the door.
+C: KATE
+D: Hey! What if we have to go to the bathroom!? INT. CABINET ROOM - 20 MINUTES LATER President Orlean presides over a FULL CABINET MEETING with Randall, Jason, several Generals in attendance. Peter Isherwell stands behind the President.
+C: PRESIDENT ORLEAN
+D: Ladies and gentlemen what we and what the world thought was an impending and terrifying danger... is actually an astonishing opportunity. SECRETARY OF STATE GLEESON BERKERS Our allies are very confused and demanding answers Madame President.
+C: PRESIDENT ORLEAN
+D: Tell them to wait.
+E: moves on
+C: JASON
+E: CONT'D MORE
+C: PRESIDENT ORLEAN
+D: According to a recent spectrometer reading of Comet Dibiasky done by astro-geologists at BASH cellular... we have discovered something truly miraculous. Peter?
+E: CONT'D
+C: PETER ISHERWELL
+D: Thank you, Janie. As some of you know the most valuable minerals in the world are fast becoming the ones used to make cell phones and computers: yttrium, terbium, osmium, dysprosium, and on and on. China has a strong hold on the mines that produce these valuable rare earth assets. But we have determined that this comet has at least eighteen trillion dollars of these critical materials.
+C: RANDALL
+D: Wait. So the mission was aborted for rare minerals?
+C: PRESIDENT ORLEAN
+D: There’s more. In addition, this Near-Earth Object also contains 30 trillion dollars in gold, platinum, palladium, billions of tons of pure water, and assorted heavy radioactive minerals.
+C: PETER ISHERWELL
+D: When other metals are factored in this comet contains almost 140 trillion dollars’ worth of assets. There’s some muttering and oohs and ahhs in the room.
+C: JASON
+D: Wooow.
+C: RANDALL
+D: But what does any of this matter if it destroys the whole planet?
+C: SECRETARY OF EDUCATION
+D: I was about to ask the same question Janie.
+C: PRESIDENT ORLEAN
+D: Please give us just a little credit gang. We have a plan.
+C: PRESIDENT ORLEAN PETER ISHERWELL
+D: That’s right. A safe and dare I say brilliant, plan that will protect earth and transform the future of mankind forever. TWO BASH employees are setting up a large computer screen. INT. WHITE HOUSE OFFICE - SAME TIME Teddy and Kate have eaten the Cheez-Bits and drank the water. They stare off, half asleep and half stricken with stress.
+E: CONT'D
+C: KATE
+D: I’ve gone over it again and again and I still don’t get it. He’s a three star General. He’s from the Pentagon. Why would he charge us for the free snacks?
+C: DR. OGLETHORPE
+D: People are weird. One time I met Sting and I swear to God he farted right in front of me and didn’t even say excuse me. Thing is, he pulled it off. The door opens. It’s Randall.
+C: RANDALL
+D: Okay, let’s go. Hurry EXT. BOJO MAMBO’S SHRIMP - AN HOUR LATER - NIGHT INT. BOJO MAMBO'S SHRIMP - CONTINUOUS Seafood, cocktails. It’s Bojo Mambo’s, you know the vibe.
+C: DR. OGLETHORPE
+D: That’s insane. Completely insane.
+C: KATE
+D: It won’t work.
+C: RANDALL
+D: Listen, I was furious they halted the mission too. And then the BASH team showed us the science and I’ll be damned if it’s not truly impressive.
+C: KATE
+D: We’re talking about a 9 kilometer wide planet killer not roaming charges.
+C: RANDALL
+D: They have Gary Talcamont out of Stanford and Lisa Inez from Princeton on their team. This is cutting edge next generation technology they’ve created. INT. CABINET ROOM - EARLIER Isherwell, DR. INEZ, DR. TALCAMONT and a BASH designer show an impressive animation of featuring dozens of DRONES WITH DRILL TIPS and EXPLOSIVE CHARGES. President Orlean vapes while she listens.
+C: PETER ISHERWELL
+D: One giant comet is a major and existential threat to our planet... But 30 smaller meteoroids we can handle. Our BEADS, which stands for BASH Explore and Acquire Drones, will attach to the comet and scan using Nano-technology developed by Nobel Prize winner Dr. Gary Talcamont here.
+C: DR. TALCAMONT
+D: Thank you Peter. Our nano scanners assume a near liquid form and are able to completely scan the comet’s integral structural points within a second of initial contact.
+C: PETER ISHERWELL
+D: We will then deploy Nobel and Polofsky prize winning scientist Dr. Inez’s micro targeted quantum fission explosives deep into the object... COMET has been scanned on a 3D grid. IN THE ANIMATION the drones ATTACH USING THEIR DRILL BITS and BLAM!
+C: DR. INEZ
+D: ... That’s right Peter. We’ve been developing phase fission reactions in the CERN particle accelerator that can splinter the comet into smaller pieces with breathtaking accuracy. These segments are then steered and decelerated by each BEAD into the Pacific Ocean for reclamation by waiting US Navy ships... The animated drones then individually steer each piece of the comet into the Pacific ocean making a simple splash.
+C: PETER ISHERWELL
+D: And once this treasure from the Heavens is claimed poverty as we know it will become a relic of the past and mankind will enter a golden age of opportunity and innovation. The room applauds.
+C: PRESIDENT ORLEAN
+D: And Dr. Mindy we would like you to join our research team of over a dozen Nobel Prize winning scientists.
+C: RANDALL
+D: Well I’ll need to review all of this science first. I have many, many questions. But... clearly I having nothing but respect for Dr. Inez and Talcamont.
+C: PRESIDENT ORLEAN
+D: This is an historic moment. Opportunity is knocking. Let’s have the courage to open the door.
+C: JASON
+D: Of course we’re opening it right? How can we not?
+C: PRESIDENT ORLEAN
+D: Shhh. Let the question hang in the air so the listener can answer it themselves. INT. BOJO MAMBO’S SHRIMP RESTAURANT - CONTINUOUS
+E: MORE
+C: DR. OGLETHORPE
+D: Hold on, hold on. This comet is moving at 52 kilometers per second. That’s 116,000 miles per hour. How are you gonna navigate a drone to hit the comet on the precise spot that’ll split it up exactly the way we need?
+C: RANDALL
+D: Talcamont has developed nano-tech sensors in conjunction with MIT. They form a full structural analysis the second they make contact.
+C: DR. OGLETHORPE
+D: And is this nano-tech work peer reviewed?
+C: RANDALL
+D: I need to review the data but it’s been modelled.
+C: KATE
+D: Has any of this been reviewed?
+C: RANDALL
+D: No. But what choice do we have?!
+C: KATE
+D: That’s it. I’m out.
+C: DR. OGLETHORPE
+D: So am I.
+C: RANDALL
+D: My exact job is to ask the questions you’re asking! If the answers are unacceptable I’m the one who stops this.
+C: KATE
+D: And what happens when you start getting some answers you don’t like? You going to go up against a 600 billion dollar corporation and the whole US Government?
+C: RANDALL
+D: At least I’m in the room! What are you going to do on the outside?
+E: MORE
+C: RANDALL
+D: Hold up some protest signs? Start an online petition? Besides, their lives and their family’s lives are at stake too.
+E: CONT'D
+C: DR. OGLETHORPE
+D: Lots and lots of money makes people do real short sighted stuff. Seen it over and over and over...
+C: RANDALL
+D: This money is for the whole world. Poverty will cease to exist. This could eliminate wars, starvation, everyone will have healthcare and clean water.
+C: DR. OGLETHORPE
+D: Oh. So that’s the pretty bow they’re putting on this dangerous bullshit. Give me a break Doc.
+C: RANDALL
+D: So if I leave then who’s there to make sure this whole thing doesn’t turn into a disaster? Answer me. Who?
+C: KATE
+D: I hate to break it to you but it’s already a disaster. They’re about to let a comet the size of a mountain hit the planet to jack up a cell phone company’s stock! Everyone at the bar and tables nearby is now looking at them.
+C: DR. OGLETHORPE
+D: You gotta take it down about four or five notches now red. If the White House hears we’re yelling classified materials out in a Bojo Mambo’s Shrimp they’ll put you, and I mean specifically you , in Leavenworth. The WAITRESS, 23, comes over.
+E: whispering
+C: WAITRESS
+D: Were you just yelling about why they turned that mission around? Why were you talking about cell phones?
+C: RANDALL DR. OGLETHORPE
+D: My friend was just theorizing as to what’s going on. We’re confused too.
+E: CONT'D
+C: WAITRESS
+D: That’s an official looking White House badge you have on. Randall is still wearing his White House laminate ID.
+C: WAITRESS
+D: Just tell us what’s going on. We deserve to know. Another GUY FROM THE BAR comes over.
+E: CONT'D
+C: GUY FROM THE BAR
+D: These people know what’s going on? A NEARBY DINER turns from a table near them.
+C: NEARBY DINER
+D: I heard them talking. They definitely know some things!
+C: GUY FROM THE BAR
+D: Hey, I got three scared kids at home. How about you just tell us something?
+C: RANDALL
+D: We can’t say anything. I’m sorry.
+C: GUY FROM THE BAR
+D: We’re people just like you. We deserve to know!
+C: DR. OGLETHORPE
+D: Sir, there are national security laws in place that we must observe for the good of-
+C: KATE
+D: Screw this. You wanna know what’s going on? Does everyone really want to know what’s going on?! Now the WHOLE RESTAURANT is listening.
+C: DR. OGLETHORPE
+D: Kate don’t-
+E: MORE
+C: CUSTOMERS
+D: Yes! Just tell us! Etc.
+C: KATE
+D: They found out there’s a bunch of gold and diamonds and other rare shit in the comet and now they’re going to let it hit earth so a bunch of rich people can get even more disgustingly rich! Everyone freezes. What the hell does anybody do with that information? CUT TO: EXT. BOJO MAMBO’S SHRIMP - 20 MINUTES LATER People are SMASHING OUT THE WINDOWS ON THE RESTAURANT. 4 COP CARS are there with LIGHTS FLASHING. There’s a dumpster and a car on FIRE.
+C: PATRONS
+D: Assholes are gonna kill us all!... Tell us the truth!! Etc. CUSTOMERS FIGHT WITH COPS. Others LOOT AND DRINK FREE LIQUOR. Kate is in the back of a BLACK SEDAN with a HOOD OVER HER HEAD. Teddy and Randall talk to her through the car window.
+C: DR. OGLETHORPE
+D: I’m starting to think you just like riling people up Red.
+C: RANDALL
+D: I’m so sorry Kate.
+C: KATE
+D: Don’t you have another talk show appearance to do? Where’s Brie Evantee? Aren’t you having dinner with her and Harrison Telms?
+C: DR. OGLETHORPE
+D: The girl ain’t wrong. You lost the thread in a big way “Dr. Randy.”
+C: RANDALL
+D: So you want me to just quit and leave the future of life on earth to Jason Orlean?
+E: MORE
+C: RANDALL
+D: I didn’t turn that mission around! Now the only chance we have is to make sure this one works! FEDERAL AGENT approaches.
+E: CONT'D MORE
+C: AGENT
+D: I’m sorry Dr. Mindy. White House wants her off the grid. Now.
+C: KATE
+D: Wait! What does that mean? Hey! What the hell does that mean THE CAR DRIVES AWAY. Teddy walks away from Randall.
+C: RANDALL
+D: Teddy! Come on! What choice do I have?
+C: DR. OGLETHORPE
+D: A man’s always got choices! Sometimes he’s just gotta choose the good one! INT. PATRIOT NEWS STUDIO - NEXT DAY President Orlean is having a one on one interview with Dan Pawketty in a book lined study.
+E: turns back to him
+C: PRESIDENT ORLEAN
+D: Dan, millions of working people around the world are hungry and struggling to pay their medical bills. I truly believe God has sent us a miracle.
+C: DAN PAWKETTY
+D: The courage it must have taken to turn that spaceship around... God I admire you.
+C: PRESIDENT ORLEAN
+D: When it comes to jobs for the American people it’s a very easy decision. The President takes out a cigarette. Dan Pawketty lights it.
+C: PRESIDENT ORLEAN
+D: But I’m also a Mother. And as a Mother safety comes first.
+E: CONT'D
+C: RANDALL
+E: CONT'D MORE
+C: PRESIDENT ORLEAN
+D: And this mission will harm no one... and benefit everyone. INT. GIANT MILITARY TRANSPORT PLANE - SAME TIME Kate is in the back of the massive transport plane with the hood still over her head flying to God knows where. INT. PATRIOT NEWS STUDIO - CONTINUOUS
+E: CONT'D MORE
+C: DAN PAWKETTY
+D: What about this wing nut Kate Dibiasky that’s all over the internet yelling in Shrimp restaurants? She’s got some people awfully upset.
+C: PRESIDENT ORLEAN
+D: She’s obviously severely mentally ill. And word is her Father had to go into rehab in 2009. They’ve suffered enough.
+C: DAN PAWKETTY
+D: You always take the high road. I love that about you.
+C: PRESIDENT ORLEAN
+D: All I know Dan is that when God sent manna down from heaven to the Israelites Moses didn’t try and deflect it. Or hide from it. They picked it up and they ate it. She has a large ash on her cigarette. Dan holds his coffee cup out and she taps her cigarette into it.
+C: DAN PAWKETTY
+D: So true. I’ve also heard some people, some very credible people I might add, say that there isn’t a comet at all. That it’s a hoax made up by fat cat astronomers. How do you respond Madame President?
+C: PRESIDENT ORLEAN
+D: Look, I’m no scientist, so I have no possible way of answering that question.
+C: PRESIDENT ORLEAN
+E: CONT'D MORE
+C: PRESIDENT ORLEAN
+D: But make no mistake about it, if extremist radical scientists are lying to us to push their agenda they will be locked up for a long time. Dan takes a sip of his coffee. EXT. SCOTT AIRFORCE BASE - ST. CLAIR, ILLINOIS - MORNING The HOOD IS REMOVED FROM KATE’S HEAD revealing she is in a small office with an air force base outside the window. A JUSTICE DEPARTMENT ATTORNEY, 41 is in front of her with TWO SOLDIERS behind him. He reads a written statement.
+E: CONT'D
+C: FEDERAL ATTORNEY
+D: Ms. Kateland Dibiasky, the charges against you are violation of national security secrets, inciting a riot and destruction of private property owned by Bojo Mambo Shrimp
+C: LLC. KATE
+D: But I didn’t-
+C: FEDERAL ATTORNEY
+D: However, the Attorney General is willing to not pursue prosecution if you will agree to the following: a suspension of all public media appearances and incendiary language relating to Comet Dibiasky and BASH Cellular. Beat.
+C: KATE
+D: Give it to me. I don’t give a shit anymore. She signs the agreement. CUT TO: INT. MIDDLE CLASS KITCHEN - DAY TV COMMERCIAL: A worried HOUSEWIFE is in a kitchen. Her children run past. MUSIC: Like a pharma ad: contemplative yet hopeful
+C: PRESIDENT ORLEAN HOUSE WIFE
+D: I worry about my kids and their future. Sure the jobs the comet will create sound great but what if it’s not safe? Randall enters in a sweater and suit jacket. He is now fully a “star.” L/3 ”Dr. Randall Mindy. Senior White House Science Advisor
+E: CONT'D to camera
+C: RANDALL
+D: Right now millions of you are having these same questions and doubts about the approaching comet. That’s why for the next month free of charge, BASH cellular in conjunction with the US Government is offering a free hotline connecting you with experts to answer your questions. As a scientist nothing brings greater comfort than knowledge. And who knows, maybe, just maybe one of our scientists... The Housewife is already on the phone talking and even smiles a little.
+E: very warm and sincere
+C: HOUSE WIFE
+D: Thank you Sharon. That makes me feel so much better.
+C: RANDALL
+D: ...can be that friend we all need to lean on during uncertain times.
+C: ANCR
+D: Call 1-800-428-6483 for peace of mind. Roaming and data charges apply. CUT TO: EXT. ILLINOIS HIGHWAY - DAY Kate is now in the back of a cargo van sans hood driving along a long four lane highway. INT. UNIVERSITY HALL - DAY Hundreds of students are doing a sit in at the University President’s office. They chant and hold signs “EARTH ALWAYS HAS FOUR BARS!” “OUR CHILDREN WANT A PLANET NOT 6G! Dr. Oglethorpe speaks into a bullhorn.
+E: V.O.
+C: DR. OGLETHORPE
+D: I am ashamed that my alma mater still invests in BASH cellular and supports this madness!
+C: STUDENTS
+D: Divest from BASH when?
+C: MORE STUDENTS NOW! DIVEST NOW!!
+D: Two POLICE OFFICERS take Dr. Oglethorpe away. INT. WHITE HOUSE PRESS ROOM - DAY Jason and Randall stand against the back wall as President Orlean fields questions.
+C: PRESIDENT ORLEAN
+D: Go ahead Vince. Make it quick please. You always talk so slow.
+C: REPORTER WITH BEARD
+D: How to do you respond to the letter signed by over five thousand international scientists against the mission to harvest the comet?
+C: PRESIDENT ORLEAN
+D: Sounds like a bunch of scientists jealous they weren’t chosen to work on this historic mission. They didn’t make the cut. They should quit whining. You! No, not you. The skinny one.
+E: moving on
+C: SKINNY REPORTER
+D: Is there a backup plan if this plan goes wrong?
+C: PRESIDENT ORLEAN
+D: Of course there’s a backup plan. And honestly it’s so strong we considered making it THE plan but the one we chose was too good. Dr. Randall?
+C: RANDALL
+D: The President is correct Christy. Our back up plan accounts for two dozen low probability events. The stakes are too high not to account for any eventuality.
+C: PRESIDENT ORLEAN
+D: At a certain point you just have to trust us folks. There’s no way around it. Yes, go.
+C: REPORTER WITH BIG HAIR
+D: This is a question for Dr. Mindy. Dr. Mindy do you 100% stand behind the science of this plan?
+C: JASON
+D: That’s a dumb question. Why would he be up here if he didn’t!
+C: REPORTER WITH BIG HAIR
+D: Can Dr. Mindy answer?
+E: CONT'D
+C: RANDALL
+D: I do. But science is an ongoing process of inquiry. And the stakes are too high to be complacent. EXT. STYLISH RESTAURANT - NIGHTR Randall and Brie, both in tasteful designer clothes leave a restaurant. 6 PAPARAZZI and a TMZ REPORTER with a VIDEO CAMERA follow them.
+C: TMZ REPORTER
+D: Hey Dr. Mindy, hey Brie. Are you guys dating?
+C: BRIE EVANTEE
+D: Our relationship is strictly professional!
+C: RANDALL
+D: Sorry guys! We’re just friends! I’m happily married! They get into a BLACK TOWN CAR that drives away. INT. CVN CABLE NEWS STUDIO - DAY STORIES ACROSS THE BOTTOM CRAWL: “FAMED MEOW ACTOR ARRESTED FOR POSSESSION OF ILLEGAL FIREARMS AND NARCOTICS” “LADY BAROQUE FACES SOCIAL MEDIA BACKLASH FOR COMMENTS ABOUT POL POT” “NEVER HITTERS CLASH WITH DIGNIFIED BOYS” “COMET DENIER
+C: WINS CELEBRITY DANCE OFF” HARRISON TELMS
+D: Joining us now is Philip Kaj from Autopsy who has been handicapping the back and forth on the comet debate since day one. Philip what are today’s numbers telling us? Phillip Kaj is on the feed from the Autopsy offices.
+C: PHILLIP
+D: Thanks Harrison. Well the latest Trenk poll show 40% for managing the comet to create jobs. 37% never want the comet to hit, which is down three points, and 23% don’t believe there is a comet at all. And yes that number is way up.
+E: SOT
+C: HARRISON TELMS
+D: And why have the Never hitters lost so much ground?
+C: PHILLIP
+D: If you look inside the numbers their message is just too extreme for moderates in the Midwest. Voters don’t want to hear about 7 billion people dying, the whole food chain collapsing... the sun being blocked out for years and years... bringing in a new ice age... Philip gets a little lost in the reality.
+C: HARRISON TELMS
+D: What about the Impact Deniers? They seem to be gaining a lot of momentum lately.
+C: PHILLIP
+D: That’s right Harrison. The Impact Deniers led by Congressman Louie Tenant are tapping into a grassroots anger with the system. Benedict Drask himself just gave a Com-denier speech that has the whole movement buzzing on their website of choice: Dark 9. CELL PHONE VT: Drask talking to a few hundred people in a park with Tenant and Dr. Ginnerson behind him.
+E: SOT
+C: BENEDICT DRASK
+D: I got right up there to the edge of space... And I didn’t see anything! And why? Cause there’s nothing up there to see! EXT. LOWER MIDDLE CLASS ILLINOIS HOME - DUSK Kate’s van pulls away as snow falls. She goes up to the front door of a modest home and knocks. Her MOM AND DAD, mid 50s and clearly traumatized by all of this, open the door.
+E: SOT
+C: KATE
+D: Mom... Dad... I’m so glad to be home... But they don’t open the door.
+E: breaks down in tears
+C: KATE
+D: Open the door...
+E: CONT'D
+C: DAD
+D: No politics. None.
+C: KATE
+D: What do you mean?
+C: MOM
+D: Your Dad and I are for the jobs the comet will provide.
+C: DAD
+D: The division in this country is bad enough. We don’t want it in our house.
+C: KATE
+D: But that’s not-
+C: DAD
+D: No politics. That’s the only way you moving in here will work.
+C: KATE
+D: Fine. They open the door and Kate hugs them. They hug her back.
+E: truly tired now
+C: MOM
+D: I know it’s been hard... INT. THE WASHINGTON DC HYATT - A FEW NIGHTS LATER A big, impressive suite with the lights out. We hear laughter and the door opens. It’s Randall, in a tuxedo and Brie Evantee in a stunning gown.
+C: BRIE EVANTEE
+D: ...I thought it was the ambassador. I was flattering him!
+C: RANDALL
+D: Well he was the waiter and now he’s got an ego the size of Texas. They turn on the lights. JUNE, RANDALL’S WIFE IS ON THE COUCH WITH A BAG OF LUGGAGE NEXT TO HER.
+C: RANDALL
+D: June. What are you doing-
+E: CONT'D
+C: JUNE
+D: I had a feeling something was going on.
+C: RANDALL
+D: I’m busy. This is important work.
+C: JUNE
+D: Yes it certainly is.
+C: BRIE EVANTEE
+D: Can we just skip past this whole part please, where you get to be righteous and we put our tails between our legs? It’s so boring.
+C: JUNE
+D: So you want to skip the part where you feel bad?
+C: BRIE EVANTEE
+D: Oh I don’t feel bad. Randall and I are having a wonderful time. And so there’s only one question: do we keep having a wonderful time or does he go back with you to Michigan? Beat.
+C: JUNE
+D: You know what? She’s actually right. That is the only question.
+C: RANDALL
+D: June... I-
+C: JUNE
+D: Well that was fast. But before I go let me give you some instructions on how to take care of Randall- She comes out of the bathroom holding a bunch of prescription pill bottles.
+C: JUNE
+D: Here’s the Xanax he takes for his panic attacks... She throws the bottle at them, pills fly everywhere.
+E: CONT'D
+C: JUNE
+D: Here’s the Zoloft he takes to curb the crashing depressions that hit him sometimes...
+E: CONT'D
+C: RANDALL
+D: Actually not as much lately- She throws the bottle. More pills fly.
+C: JUNE
+D: This is for his blood pressure. Restless Leg Syndrome. Appetite suppressant to counteract appetite gain from his other meds. And yes, a bottle of goddamn Cialis! The last bottle hits Randall right on the head.
+C: JUNE
+D: Goodbye Randall! I’ll tell your sons Dad’s fucking the lady on our television! The door opens and Dr. Keith Ollens is there.
+E: CONT'D
+C: KEITH OLLENS
+D: Are you ready to go June?
+C: RANDALL
+D: You and Keith. I always knew it.
+C: KEITH OLLENS
+D: Randall, are you serious? You’ve met my partner Paul a dozen times.
+C: RANDALL
+D: I thought... he was a business partner.
+C: BRIE EVANTEE
+D: Oh that’s a shame. For a second it seemed like this was all about to work out quite nicely.
+C: JUNE
+D: Let’s go Keith. They’re gone. Brie rubs Randall’s shoulders.
+C: BRIE EVANTEE
+D: This will feel shitty for about 12 hours and then it will pass. I promise. Randall’s BASH phone plays the little girl singing Puff the Magic Dragon.
+C: BRIE EVANTEE
+D: Well that’s sweet. CUT TO: EXT. SOUTHERN ILLINOIS TOWN - FEW DAYS LATER. A town that’s seen better days. Car with a bumper sticker of an American flag with “THESE COLORS DON’T RUN FROM A STUPID
+E: CONT'D
+C: COMET!”
+D: A store has a sign “Never Hitters NOT Welcome!” Another store has a heroic picture of President Orlean shooting the comet with a machine gun. Two TEENS in President Orlean’s shirts and/or hats watch a Drask Dark 9 video on their phones. INT. DRINK-MO STORE - ILLINOIS - CONTINUOUS Kate, now a cashier at a giant Drink-Mo watches a CVN show hosted by Dalia Hensfield with Teddy Oglethorpe arguing against SENATOR SCOTT LERNER.
+C: SEN. LERNER
+D: ... Over 200 trillion in wealth created. Homelessness, water, healthcare... Fixed worldwide.
+E: SOT
+C: DR. OGLETHORPE
+D: You know full well that BASH owns Comet Dibiasky. The people don’t get one pebble of it even though we’re footing the bill.
+E: SOT
+C: SEN. LERNER
+D: Doctor, people are tired of you Never Hitters and your divisiveness. Americans want to harness the comet for its riches AND make safety a priority by building sea walls.
+E: SOT
+C: DR. OGLETHORPE
+D: What about the fact that you’ve taken over three hundred thousand dollars in BASH campaign contributions in the last five years Senator?
+E: SOT
+C: SENATOR LERNER
+D: I’m pro-business Doctor. I’m not a socialist. I have no problem with BASH’s success but I do believe they need to include us in the conversation.
+C: INTERRUPTING VOICE
+D: Excuse me? A SKATER PUNK, 24 with TWO FRIENDS. One of them wears a MISFITS jacket and they all have stickers and hand drawn stuff on their clothes. The main guy, YULE has half his hair cut off.
+C: YULE
+D: Aren’t you that girl that yelled “we’re all gonna die” on live TV?
+C: KATE
+D: No. What’s your purchase?
+E: and then
+C: YULE
+D: Yes you are. His friend holds up his phone with Kate on the Daily Rip.
+C: KATE
+D: We’re all going to fuckin die!
+E: SOT
+C: KATE
+D: Yup. That’s me.
+E: CONT'D
+C: YULE
+D: You are a stone cold legend. Word is bond.
+C: FRIEND
+D: I’ve got a sticker of you on my board.
+C: KATE
+D: Great. What’s your purchase? If you don’t have one you need to make room for the next customer in line. There’s no next customer.
+C: YULE
+D: You don’t give a shit do you?
+C: KATE
+D: Sure I do. I care about the Drink- Mo guarantee of quality service. Yule holds open his jacket to reveal FOUR BOTTLES OF EXPENSIVE VODKA they’ve shoplifted.
+E: flat
+C: FRIEND
+D: We don’t give a shit either.
+C: OTHER FRIEND
+D: Not one single shit.
+C: KATE
+D: Well good for you.
+C: YULE
+D: We hang and board behind the abandoned Burger Champ from seven to whenever. You should come hang. Yule closes his jacket and they walk away. Kate watches them go but says nothing about the stolen liquor. The TV plays in the background. ANCHOR 2 BASH telecom shares are now up a whopping 520% for the year. And in other news the President says the millions of illegal immigrants fleeing Chile and headed to our border will be treated as an invading army... CUT TO: EXT. KENNEDY SPACE CENTER - FLORIDA - SAME TIME INCOMPLETE DRONES WITH DRILLING ARMS AND WARHEADS ON THEM are being wheeled around the massive launch pad. Randall and President Orlean land in a helicopter and are greeted by Isherwell.
+E: V.O.
+C: PRESIDENT ORLEAN
+D: Hello Peter! We are very excited to see these drones everyone is talking about.
+C: PETER ISHERWELL
+D: Hello Janie. Dr. Mindy. We have one entirely completed. It’s quite the marvel. They walk over to a hangar.
+C: RANDALL
+D: I’ve been meaning to ask you both Peter, Madame President, why won’t you disavow Congressman Tenant and the impact deniers? Millions of people are starting to believe it.
+C: PRESIDENT ORLEAN
+D: Randall, contrary to popular belief I don’t control Congressman Tenant.
+C: RANDALL
+D: The White House visitor’s log shows he’s met with you four times just this past week.
+C: PETER ISHERWELL
+D: You’ll have to pardon my amusement but I do love seeing Janie put on the spot.
+E: chuckles lightly
+C: PRESIDENT ORLEAN
+D: Randall’s a worrier. He just needs to start worrying about the right things.
+N: A giant BEAD DRONE is in front of them in the hangar. An incomplete one is next to it.
+C: PETER ISHERWELL
+D: I give you mankind’s savior. The Bash Explore and Acquire Drone.
+C: PRESIDENT ORLEAN
+D: My oh my. It is something.
+C: RANDALL
+D: Wow. It certainly is.
+C: PETER ISHERWELL
+D: I call this one Primo for first. He’s my beautiful baby boy.
+C: RANDALL
+D: I have a question. Are you concerned at all about the sync of the phase reactions? I hear there are some questions.
+C: PETER ISHERWELL
+D: There are always questions and fears Dr. Mindy. But the sort of vision we’re following doesn’t wring it hands like a worried housewife.
+C: RANDALL
+D: It’s just that Dr. Inez showed me this modeling data that suggests the sync of the explosions may be flawed. Randall takes some papers from his jacket. Hands them to Isherwell.
+E: MORE
+C: RANDALL
+D: Apparently debris from the comet may affect the communication links. And as you know without proper sync the mission won’t- Isherwell hands the papers back to Randall.
+E: CONT'D
+C: PETER ISHERWELL
+D: Sadly Dr. Inez is no longer with us. It turned out she was associating with some radical Never Hitter activists.
+C: PRESIDENT ORLEAN
+D: Fortunately we didn’t miss a beat. Former head of NASA Dr. Jocelyn Calder is now in charge. She gets the big picture.
+C: RANDALL
+D: It’s just that Dr. Calder is a medical doctor, not a physicist... and a dozen other scientists have been removed or have resigned from this project for asking questions. This mission has zero margin for error. I need to know you’re acting as a scientist and not a businessman. Beat. Uh-oh. Wrong thing to say. A hint of anger flashes in Isherwell’s eyes.
+C: PETER ISHERWELL
+D: You’re worried I’m just a businessman?
+C: RANDALL
+D: I just want to-
+C: PETER ISHERWELL
+D: Do you think you know me Doctor? Do you? BASH has over 40 thousand data points on you and every decision you’ve made since 1994. I can tell you what you’ll buy your son Evan for his birthday in six years.
+E: MORE
+C: PETER ISHERWELL
+D: I know that right now you have colon polyps that are not an immediate danger, but should be removed in 2-3 years. But most of all I know what you are. My algorithm has identified 8 consumer profile types. You are a Lifestyle Idealist. You think you are motivated by beliefs but you just run from pain and towards pleasure. You’ll take a stand when it’s safe but ultimately you chose the path life conveniently provides. Like a field mouse. He gets right in Randall’s face.
+E: CONT'D
+C: PETER ISHERWELL
+D: Our algorithms can even predict how you’ll die with up to 96% accuracy. I looked you up after we first met. Your death was so unremarkable... I can’t even remember what it said. He steps back.
+E: CONT'D
+C: RANDALL
+D: I just want the science to be sound.
+E: almost in a whisper
+C: PRESIDENT ORLEAN
+D: How will I die Peter? I’d like to know.
+C: PETER ISHERWELL
+D: You’ll be smothered. In 4 years. By a friend. Now if you’ll excuse me, there’s much work to be done. He walks away and greets Dr. Calder in the distance.
+C: PRESIDENT ORLEAN
+D: What the fuck was that?
+C: RANDALL
+D: I’m trying to do my job.
+C: PETER ISHERWELL PRESIDENT ORLEAN
+D: You’re lucky Peter adores you. Otherwise you’d be on an unregistered plane to a black site facility 1 minute ago. President Orlean lights up a cigarette with a GIANT: “HIGHLY FLAMMABLE” warning sign behind her.
+E: CONT'D
+C: RANDALL
+D: I wouldn’t-
+C: PRESIDENT ORLEAN
+D: You are with the grown-ups now Randall. These are hard but necessary decisions. Stop grandstanding like a teenager and step the hell up. Goodbye sweetheart. She kisses him on the cheek, throws her lit cig and walks away. Randall steps out the cig and then looks up to see Orlean joining Peter Isherwell and Dr. Calder. He looks down at the report he’s holding in his hand. CUT TO: EXT. OLD BURGER KING PARKING LOT - THAT NIGHT About a dozen kids ages 16-25 are skateboarding and drinking with music blaring. MUSIC: EKULU’s “The Ruminator” Yule passes the bottle of vodka over to Kate who takes a hard swig.
+C: YULE
+D: I heard today on the corporate owned news BASH got Orlean to pay Chile 90 billion for the tsunamis that are gonna wreck that country. And their shady ass President took it. FRIEND from the Drink-Mo chugs a beer.
+C: FRIEND
+D: You know Isherwell built an underground bunker for him and all his executives.
+C: TEEN GIRL
+D: No, I heard they’re building an escape ship. Them and all their rich friends’ll just fly off and start a whole other earth.
+C: SHORT GUY
+D: You gotta stop listening to your uncle. He’s on Meth.
+C: TEEN GIRL
+D: No he’s not. He just drinks a lot of Red Bull and reads a lot.
+C: YULE
+D: I don’t think the thing’s even gonna hit. Orlean just scared us all so she could get her approval ratings up. Kate takes another swig of vodka.
+C: KATE
+D: You want to know the real truth? Everyone quiets.
+C: KATE
+D: They’re not even smart enough to be as evil as you’re giving them credit for.
+E: CONT'D
+C: FRIENDS
+D: Damnnn... ain't that the truth... Sad but true. Yule, clearly enamored, leans over and kisses Kate. She pushes him back.
+C: KATE
+D: Nope. Yule punches the air in frustration.
+C: YULE
+D: Ahhh!! You make me crazy!! Beat.
+C: KATE
+D: Fuck it. Why not. They make out as the hardcore plays and some kids break old light tubes. EXT. SPACE - SAME TIME POV from the comet moving towards a small blinking blue/green planet in the distance. INT. MAKEUP ROOM - THE DAILY RIP - TWO DAYS LATER CU of Randall’s face as makeup is being applied and hair is being styled. For the first time in a while he looks anxious. We hear the show from the monitor.
+C: JACK BREMMER
+D: The movie will be released the day that some believe Comet Dibiasky will impact the planet. And early word is it’s a classic.
+E: O.C.
+C: BRIE EVANTEE
+D: What a stellar cast. I always love Devin Peters. What’s it called again? INT. THE DAILY RIP STUDIO - CONTINUOUS Show is in progress with Brie and Jack hosting.
+E: O.C.
+C: JACK BREMMER
+D: It’s called “Total Devastation.” It cost 300 million dollars. And my friend Farley saw it and says it’s a ton of fun.
+C: BRIE EVANTEE
+D: Coming up in the next hour: We’ll do a deep dive on the tragic descent of the “Meow man” Pete Cintell into drugs and depression. Such a shame. But first, and you can tell by my smile, Dr. Randall is here. Randall seems tense and awkward. The studio lights somehow brighter.
+C: JACK BREMMER
+D: Dr. Randall. How are you sir?
+C: RANDALL
+D: I’m good. Gooder... than good! Tiny awkward beat.
+C: BRIE EVANTEE
+D: So Randall, we’re hearing there’s no comet, that there is a comet but it’s a good thing, or maybe it’s a bad thing. Please help us oh wise scientist. You’re our only hope. She winks at him with her upstage eye.
+C: RANDALL
+D: Well... uh...first and foremost, there most certainly is a comet. There are, of course, many conspiracy theories out there, so people need to check their sources and be careful where we get our information...
+C: JACK BREMMER
+D: Are you okay Doc?
+C: RANDALL
+D: I’m fine... I just... Well, let's just say it's not a good idea to eat airport sushi before going on national television... Tepid laughs from the crew.
+E: trying to cover
+C: BRIE EVANTEE
+D: Dr. Randall, our viewers are dying to know how the mission is going. We know you're involved with every detail. Plus you're so darn cute.
+C: RANDALL
+D: Thank you. The truth is there's been growing concern out there in the scientific community that our peer review process has not been --
+C: JACK BREMMER
+D: Well, if BASH's stock price is any indicator, it seems to be going gangbusters. And I'm not going to lie. I bought a few shares myself.
+E: Keeping the energy up
+C: BRIE EVANTEE
+D: You are such a shameless capitalist, Jack!
+E: MORE
+C: JACK BREMMER
+D: Guilty as charged! But you'll be the first one in the new hot tub I'm putting in on my back deck.
+C: BRIE EVANTEE
+D: He knows me too well. Are you okay, Dr. Randall?
+C: RANDALL
+D: I don’t feel so well...
+C: BRIE EVANTEE
+D: Okay...Well, we’re going to go to a commercial and come back--
+C: RANDALL
+D: DON’T CUT AWAY!
+C: BRIE EVANTEE
+D: What are you doing love?
+E: sotto voice
+C: JACK BREMMER
+D: You heard the man. He had some bad sushi.
+C: RANDALL
+D: I just have to say something.
+C: JACK BREMMER
+D: Well fortunately this is a show where we say things. Some say I say too much! But it pays the bills.
+E: laughing
+C: RANDALL
+D: CAN YOU PLEASE STOP BEING SO
+C: FUCKING PLEASANT!
+D: Everyone goes quiet.
+C: RANDALL
+D: Not everything has to be charming...or clever...or likable ...We have to, we just have to, be able to hear things...bad things or confusing things...They're called facts for a reason! Facts don't always feel good. Or sell insurance. Or phones. And they don't always make you feel safe...This is NOT A DEBATE!
+E: CONT'D MORE
+C: RANDALL
+D: There is a huge fucking comet headed this way. It's real, and it doesn't give a goddamn what you think.
+E: CONT'D MORE
+C: BRIE EVANTEE
+D: But the President and Isherwell said that maybe we can benefit from the rare miner-
+C: RANDALL
+D: They're fucking lying! The science is not sound! And when scientists speak up they fire them! The fact is we don't really know how to bring a comet the size of a mountain down to Earth. We just don't! They should have deflected it, and we had the chance, but we didn't do it! And I'm not saying this because I'm on one side or another. I'm not a radical or a moderate; I'm not here to get clicks or likes or whatever... I'm just telling you the observed science. And I'm sure everyone's going to think I'm taking a "stance" and that I'm too "extreme." But I'm just like all of you...I hope to GOD this Administration is right, that they're not blinded by wealth or their political party. I hope to GOD I'm wrong on this, I really do, but the truth is, I think they've completely lost the fucking plot...I used to think that people who actually studied and learned things for a living had some value or worth in our culture...And I just want to go home. More than anything. But I can't sit here for one more second and act like a fucking salesman. We must first AGREE that this comet is real, first and foremost, and you know why? Because we all saw it with our own goddamn eyes through a goddamn telescope! And if you people can't acknowledge at the bare minimum that a giant comet about to slam into us at 116,000 miles per hour is not a GOOD thing, then what the hell happened to us?
+C: RANDALL
+E: CONT'D MORE
+C: RANDALL
+D: I mean, honest to God. What have we done to ourselves? And how do we fix it? I don't know...if there's one thing that I pray you all remember from anything I've said it's this: We must, every one of us, immediately start to-- Randall sees the Meow commercial playing on the studio monitors.
+E: CONT'D
+C: RANDALL
+D: What the hell?
+E: CONT'D
+C: BRIE EVANTEE
+D: We cut you off and went to commercial a long time ago, honey. EXT. STUDIO - MOMENTS LATER Randall is in the back of an FBI unmarked sedan with a HOOD OVER HIS HEAD. Brie Evantee gets in the back seat.
+C: BRIE EVANTEE
+D: Why did you do that? I really liked you. And I despise most people.
+C: RANDALL
+D: I was in love with you.
+C: BRIE EVANTEE
+D: You were? Wow. STOCKY FBI AGENT gets behind the wheel.
+C: STOCKY FBI AGENT
+D: Ma’am. You need to go. We need to get this man off the grid. Beat as Brie stares at the hooded Randall.
+C: RANDALL
+D: Are you still there?
+C: BRIE EVANTEE
+D: No. She gets out. The car pulls away. INT. THE MINDY HOUSE - LANSING - THE NEXT DAY An unseen person watches the news. CVN with Harrison Telms.
+C: RANDALL HARRISON TELMS
+D: In breaking news, Federal Prosecutors are considering pressing charges against disgraced scientist Randall Mindy after uncovering evidence he is connected to a radical Never Hitter group- There is a knock at the door. REVEAL JUNE, RANDALL’S WIFE walking to the door. Randall is there looking like hell.
+E: CONT'D SOT
+C: RANDALL
+D: Please June. Can we just talk for- Without saying a word SHE CLOSES THE DOOR AND WALKS AWAY.
+C: HARRISON TELMS
+D: Recent polling now shows 42% convinced there is no comet at all. And 7% believing that the comet is a promotional stunt for the Devin Peters movie Total Devastation... June turns off the TV. CUT TO: EXT. ROOF OF A CLOSED BURGER KING - TWO NIGHTS LATER Kate and Yule lay on the roof looking at the stars with a six pack.
+E: SOT
+C: KATE
+D: I mean maybe he just gets off on power. Any kind of power. Whether it’s being a General or charging people a lot of money for free snacks.
+C: YULE
+D: I don’t know but I bet all of this comet stuff is nothing. My Dad said it’s just like Y2K.
+C: KATE
+D: It’s definitely coming. I saw it.
+C: YULE
+D: How do you know what you saw?
+C: KATE
+D: Because I was an astronomer. I used coordinates and a map of the solar system and equations.
+C: YULE
+D: I don’t know... You can say that but at the end of the day you were looking through a tube at the sky.
+C: KATE
+D: So you’re an impact denier? Wow. Fortunately I don’t give a shit...
+C: YULE
+D: Besides, only God can destroy the earth.
+C: KATE
+D: You believe in God?
+C: YULE
+D: My parents are evangelicals. So yeah... I guess I do. Even though I hate them. I don’t go around advertising it though. I mean, don’t tell anyone.
+C: KATE
+D: It’s okay. I won’t. It’s actually kind of sweet. When I was 9 years old my Dad took me to a seafood chain restaurant and I asked him if there was a God... and he mouthed “no.”
+E: then
+C: YULE
+D: That’s terrible.
+C: KATE
+D: I thought it was cool at the time. Now I don’t know. She takes a pull of her beer.
+C: YULE
+D: Wanna make out?
+C: KATE
+D: Yeah, why not?
+C: YULE
+D: Can you not say “why not” before we kiss every time. It’s kind of shitty.
+C: KATE
+D: Sure. Whatever.
+C: YULE
+D: That’s better. They kiss. And while they do Kate looks up in the sky and sees something... A twinkle.
+C: KATE
+D: Oh my God... She pushes him off.
+C: KATE
+D: That’s it! That’s the comet right there!
+E: CONT'D
+C: YULE
+D: Where?
+C: KATE
+D: See? That’s the big dipper. That’s Venus. There’s the north star. Well what is that? EXT. EAST LANSING BUSY ROAD - SAME TIME Randall is in a crappy Honda driving with a WHIP LIGHT on his dashboard. Suddenly he sees something above him and
+E: UBER
+C: STOPS HIS CAR. RANDALL
+D: What the hell? Cars honk AS RANDALL GETS OUT AND LOOKS UP AT THE NIGHT SKY.
+C: RANDALL
+D: There you are. There you are He sees the twinkling comet. EXT. ABANDONED BURGER KING ROOF - CONTINUOUS
+E: CONT'D
+C: YULE
+D: So that’s really it?... God... I just got really scared.
+C: KATE
+D: Exactly! She takes out her phone and dials.
+C: YULE
+D: Who are you calling? EXT. BUSY EAST LANSING ROAD - SAME TIME Cars are honking at Randall. He is dialing Kate.
+C: RANDALL
+D: Kate?! You can see it!
+C: KATE
+D: Randall! You can see it!!
+C: DIDDLY FEED
+D: A video with Kate and Randall talking right into camera is being re-diddled like crazy. 100k shares... 1 mill...5 mill
+C: KATE
+D: Just go into your yard or on your roof or on the sidewalk and just look up north in the sky...
+E: SOT
+C: RANDALL
+D: ...and then a little bit east if you’re in the northwestern hemisphere. It looks like a streak, that’s the comet’s tail.
+E: SOT
+C: KATE
+D: It’s real and it’s coming. Anyone who says otherwise is full of shit. Trust your eyes.
+E: SOT
+C: MORE VIDEOS
+D: OTHER VIDEOS FROM AROUND THE WORLD ARE POSTED IN MANDARIN, FARSI, SPANISH AND on Diddly, Vroom Vroom, Friend Post.
+C: FRENCH REPORTER
+D: For the first time, Comet Dibiasky is visible to the naked eye in the night sky. This dramatic sight, is causing widespread concern and chaos around the globe. Today in Paris 100s of thousands of people took to the street demanding action to divert the comet. The commercial ACTOR from the Meow commercials pops up.
+C: MEOW ACTOR
+D: I refused to do more “meow” commercials because it typecast me and ruined my career... I’ve been in a deep depression. But if this gets a 100 thousand shares I’ll do it! Just look up! Hearts, thumbs up, thumbs down, shares, smiley faces are clicked and dinged as comments and articles shoot around the world: “Holy shit. It’s real.” “I just see a twinkle. So what?” “Autopsy: President Orlean Plays Defense on the Comet” “Anyone else shitting themselves?” “This is more Never Hitter Lies!” STOCK FOOTAGE: VT. MASSIVE STREET PROTEST IN PARIS. CROWD
+E: SOT
+C: CHANTING “JUST LOOK UP!”
+D: EXT. CHINESE PARK - DAY Three OLDER CHINESE MEN look at their phones. INT. BASEMENT - NIGHT A TEENAGER looks at his phone with a fish tank and heavy metal poster behind him. EXT. PARKING LOT - DAY 10 PEOPLE yell into a cell phone.
+C: PEOPLE
+D: Just Look Up! INT. MOVIE JUNKET SET - DAY DEVIN PETERS talks to an ENTERTAINMENT JOURNALIST with a TOTAL DEVASTATION poster behind him.
+C: ENTERTAINMENT JOURNALIST
+D: First off I saw an early cut of the movie and it is quite a ride!
+C: DEVIN PETERS
+D: Thank you so much. It was quite a ride making it, that’s for sure.
+C: ENTERTAINMENT JOURNALIST
+D: Now I know a lot of Hollywood is supporting the Just Look Up movement but I haven’t seen a pin like that.
+C: DEVIN PETERS
+D: Yeah, this pin points up and it points down. Because this country needs to stop arguing and “virtue signaling” and just get along.
+C: ENTERTAINMENT JOURNALIST
+D: That is sooo refreshing. I think we’re all tired of the politics.
+C: DEVIN PETERS
+D: That’s why we made Total Devastation. For everyone to enjoy. INT. MEOW GUY’S HOUSE - DAY The commercial actor is back.
+C: ACTOR
+D: ... Meooow? More likes, shares, retweets, thumbs up, positive comments. INT. CVN STUDIO - NIGHT Harrison Telms hosts his show.
+E: SOT
+C: HARRISON TELMS
+D: They’re calling it the biggest worldwide music event ever. The Just Look Up concert will be held in Wembley stadium with artists including Jason Dak, Three Ton Credit Card Tray and Riley Bina expected to perform. Bina has become a big supporter of the Just Look Up movement. No word on whether or not her ex-fiance DJ Chello will appear. INT. KIDS SHOW STUDIO - DAY Randall is with SAMMY the puppet.
+C: SAMMY PUPPET
+D: But we’re all going to be okay right Dr. Randy?
+C: RANDALL
+D: Well Sammy, even though I’m an astronomer, sometimes I learn new things. And what I’m currently learning, is that unchecked power, and extreme wealth, distorts people’s view of reality. And that’s what happened to our leaders. And if we don’t wake up fast, every single one of us is going to die.
+C: PUPPETEER
+D: Um, that wasn’t what you said in rehearsal... INT. PATRIOT NEWS STUDIO - DAY Randall arguing with Congressman Tenant as Dan Pawketty hosts. He’s not smooth anymore. He’s fiery.
+C: RANDALL
+D: But the comet is visible Congressman. And there are serious questions about the science behind this BASH mission. We need full transparency or else President Orlean needs to be removed.
+C: CONGRESSMAN TENANT
+D: See Dan, this is what these “Just Look Uppers” do. They want to control everyone. Tell em where to look. How to look. How to think.
+C: DAN PAWKETTY
+D: It’s a fair point Doctor. What about freedom?
+C: RANDALL
+D: Wow. I just realized you really believe what you’re saying. That’s truly terrifying. Congressman can I ask you a question?
+E: changes gears
+C: CONGRESSMAN TENANT
+D: Sure hot shot. Fire away.
+C: RANDALL
+D: Who is Sir Isaac Newton?
+C: DAN PAWKETTY
+D: Now come on Doctor. I think- Teddy watches from the studio floor.
+C: RANDALL
+D: Hold on Dan. Let him answer. Who is he Congressman? The Congressman looks frozen. He still doesn’t know.
+C: CONGRESSMAN TENANT
+D: Well look now... I could ask you some stuff too... Dan Pawketty is confused by the Congressman’s hemming and hawing.
+C: DAN PAWKETTY
+D: Congressman... Just answer him. Who is Sir Isaac Newton?
+C: CONGRESSMAN TENANT
+D: Well he’s that fella. The one.... That sings the... Rocketman. And the Candle in the Wind.
+C: DAN PAWKETTY
+D: Wait. Do you mean Sir Elton John? Are you putting me on? The Congressman stands up, rips off his mic and leaves.
+C: CONGRESSMAN TENANT
+D: I’ve got a bad connection over here Dan, sorry! Teddy has a tear coming down his cheek.
+C: DR. OGLETHORPE
+D: That comet could strike me dead now and I’d die happy... INT. RALLY IN GIANT BASKETBALL STADIUM - NIGHT President Orlean is on stage. Speaking to a crowd of 20 thousand supporters.
+E: to himself
+C: PRESIDENT ORLEAN
+D: You know why they want us to look up? Because they want us to be afraid! Because they think they’re better than us! They do!
+C: CROWD
+D: Boooooo!!!!
+C: PRESIDENT ORLEAN
+D: That’s right. But when you walk the road of freedom, the road of jobs and God, you don’t look up. You keep your eyes down on that path and you put one foot in front of the other, step by step, each and every day! And you don’t do it for promotions or a big paycheck, you do it because that’s what Americans do! CLOSE UPS of chanting faces young and old.
+C: CROWD
+D: DON’T LOOK UP! DON’T LOOK UP! Someone hands Orlean a red, white and blue hat with “Don’t Look Up!” written on it. She puts it on.
+C: CROWD
+D: DON’T LOOK UP! DON’T LOOK UP! INT. WAREHOUSE - DAY Three GUYS in “Don’t Look Up” hats yell into a cell phone. 3 GUYS Don’t Look Up! EXT. STADIUM - NIGHT Randall and Kate speak into the mic to 120 THOUSAND FANS
+E: CONT'D
+C: CHEERING. RANDALL
+D: Hello! I’m Randall Mindy.
+C: KATE
+D: And I’m Kate Dibiasky. The crowd cheers.
+C: RANDALL
+D: How great were Velcro Jesus and Pootchie Q? They told us a billion people are watching this concert. So we just wanna say to all of you loud and clear...there is no safe way to bring this comet back to Earth, and exploit it for profit! It cannot be done! The fact is, we have tried to work with this administration, but they didn’t listen. They didn’t listen to us, or the thousands of scientists who have objected to this insane mission. So who are you going to stand with: the scientific community, or a dictatorship and a corrupt corporation?
+E: applause
+C: KATE
+D: We need national strikes now. Shut down the economy until President Orlean is impeached, and the BASH mission is taken over by sane individuals. And throw your BASH phones into the toilet!
+C: RANDALL
+D: Look it's real simple. Unless we wake up, as a wise woman once said, "We’re all going to fucking die." This administration is risking billions of lives with their autocratic new world ideology! It’s time we LOOK UP to reality, we LOOK UP to science, and we LOOK UP to the fact, that this government has put profit above the lives of the people! Cheering. Lights come up. Crowd goes crazy. Riley Bina is there with her band in a stunning outfit. THEY KICK INTO AN ORIGINAL SONG “JUST LOOK UP.” DJ Chello enters the stage on the mic.
+C: DJ CHELLO
+D: Hey baby. It’s me and I want you back. I’ve been a stone cold fool... The crowd goes crazy as he spits rhymes and he and Rina reunite. INT. BATHROOM - DAY A BASH phone is thrown into a toilet by an ACTIVIST WOMAN in her 20s who then turns to camera .
+E: another non-BASH phone
+C: ACTIVIST WOMAN
+D: Screw BASH! And screw Orlean! INT. MAKEUP ROOM AT A TV STUDIO - DAY President Orlean is getting makeup put on while watching Randall and Kate at the Riley Bina concert on her phone.
+C: PRESIDENT ORLEAN
+D: Son of a bitch. She calls someone.
+C: PRESIDENT ORLEAN
+D: Don’t call me Mommy. That’s gross. Let Tenant know we need to step up our attacks on the Professor and Marianne. They’re starting to make some real noise... No, if you throw them in Guantanamo they’ll become, what’d you call it? Martyrs. Let the crazies do the work for us. INT. BEDROOM - DAY A ME-TUBER in a “Don’t Look Up” hat spews conspiracy theories and attacks Randall and Kate with crazy accusations. EXT. STREET - DAY Three police officers subdue a man and a woman, 20s, in JUST LOOK UP shirts and regalia and arrest them. INT. KATE’S DIET APP CLOSE UP of KATE’S DIET APP countdown showing 5 days, 3 hours, 48 minutes and 11 seconds until diet ends. INT. UPSCALE RESTAURANT - DAY Randall and Kate sit across from Senator Lerner.
+E: CONT'D
+C: SENATOR LERNER
+D: I am truly disgusted by the President embracing these lunatic anti-comet theories.
+C: RANDALL
+D: Well that is SO good to hear. Now we need to impeach President Orlean immediately and take control of the mission to fragment the comet not mine it.
+C: KATE
+D: And we need every nation in the world to launch their nuclear weapons as well. It’s too late to completely stop the comet but we can still save billions of lives.
+C: SENATOR LERNER
+D: I completely agree. That’s why we’re proposing legislation that will provide incentives to sea wall companies and funding for middle class families to build bunkers.
+C: RANDALL
+D: That’s it? Incentives?
+C: KATE
+D: Do you understand we have no time? None.
+C: SENATOR LERNER
+D: Look the idea of impeachment polls very poorly. We have to be practical here. This isn’t a time for purity tests. Would either of you be willing to host a fundraiser so we can take on Orlean?
+C: RANDALL
+D: Let’s get out of here. This is a waste of time. EXT. CITY STREET - DAY People run back and forth as sirens blare in front of a wall of “Just Look Up” posters covered in graffiti. INT. WAREHOUSE - DAY Kate speaks into a cell phone.
+C: KATE
+D: We’ve got to shut down the economy. Shut down the corrupt governments. This is life and death. Throw your BASH phones away. Delete your Vroom Vroom accounts. If your news is trying to act like there are two sides to this turn it off! The death of 7 billion people is not a legitimate point of view! It’s fucking insane!
+C: MONTAGE:
+D: MASSIVE WORLDWIDE PROTESTS in Tokyo, New York, Mumbai, Kinshasa, Madrid, Sidney, Moscow. Crowds, banners, police spraying people with hoses and tear gas. HUGE CACOPHONY OF SOUNDS, voices, screams, social media ALL CUT OFF BY A PHONE BEING HUNG UP INT. JUST LOOK UP HEADQUARTERS - 3 DAYS LATER Teddy has just hung up the phone. A grim look on his face.
+C: KATE
+D: What’s wrong?
+C: DR. OGLETHORPE
+D: Orlean and BASH cut Russia, India, and China out of the rights for the minerals. So they tried their own deflection mission. But approximately 40 minutes ago a massive explosion was detected at the Russian’s Baikonur launch complex. It looks like the mission failed. Quick cut to VT: HELICOPTER FOOTAGE OF A GIANT CLOUD OVER A
+C: RUSSIAN BASE.
+D: The bustling office goes quiet.
+C: RANDALL
+D: Then that’s it.
+C: KATE
+D: Wait, what do you mean “that’s it?”
+C: RANDALL
+D: It’s over.
+C: KATE
+D: What are you talking about?
+C: DR. OGLETHORPE
+D: It’s simple physics. Force, distance and velocity. Randall’s right. It’s over. EXT. DON’T LOOK UP RALLY - GREAT LAWN, D.C. - THAT NIGHT Congressman Tenant with Dan Pawketty, Jason Orlean, and KID ROCK speak to a giant crowd wearing the “Don’t Look Up” red, white and blue caps.
+E: look alike
+C: CONGRESSMAN TENANT
+D: These “Just Look Uppers” want millions of illegals to come across the border!
+C: DAN PAWKETTY
+D: You want to know my opinion? They want no borders and no laws folks! That’s a fact!
+C: CROWD
+D: Boooo!!!!
+C: CONGRESSMAN TENANT
+D: They think science is more powerful than God!
+C: DAN PAWKETTY
+D: The Just Look Uppers want to tell you what to do! Because they think you can’t think for yourself! Well I want you to boo them and then chant Don’t Look Up! Do it now! CLOSE UP OF booing people’s faces with Don’t Look Up hats on.
+C: CROWD BOOOOO!!!!
+D: DON’T LOOK UP! DON’T LOOK UP! CRANE ARM DOWN to one LOYAL SUPPORTER, early 20s in camo and a Don’t Look Up hat, as he looks back up over his shoulder for JUST A SECOND.
+E: chants break out
+C: LOYAL SUPPORTER
+D: What? What the hell is that Crowd hushes and starts to turn around and look up.
+E: and then louder
+C: CONGRESSMAN TENANT
+D: Alright now, settle down everyone... What’s going on? In the sky is a GIANT GLOWING BALL a fifth the size of the moon.
+C: CONGRESSMAN TENANT
+D: Jesus... What the hell is that?
+E: CONT'D
+C: DAN PAWKETTY
+D: Oh shit. Crowd starts to murmur. Jason runs up to the mic.
+C: JASON
+D: People! Listen! It’s okay! Yes, that’s the comet but we have a plan! A BOTTLE HITS JASON in the head cutting him and knocking him down. More bottles and caps start to rain down.
+C: JASON
+D: You stupid hicks! You cut my face EXT. HIGHWAY - TWO DAYS LATER Randall, Kate and Yule drive back to the Midwest. The highway is completely empty.
+E: CONT'D
+C: YULE
+D: There’s no cars.
+C: RANDALL
+D: Everyone’s watching the BASH launch.
+C: KATE
+D: And what are we doing again?
+C: RANDALL
+D: I already told you. We are going grocery shopping. INT. BASH LAUNCH CENTER - SAME TIME President Orlean, Jason and Peter Isherwell in the command center. The FLIGHT DIRECTOR calls out the launch.
+C: FLIGHT DIRECTOR
+D: We have clear skies and are a go for the BEAD launch. President Orlean puts on her head set.
+C: PRESIDENT ORLEAN
+D: Citizens of the world. Now we usher in a new era of economic opportunity for the world. May God bless you all. Except for France and the UK. And India. INT. SUPERMARKET - MICHIGAN - SAME TIME Randall, Kate and Yule are grocery shopping.
+C: KATE
+D: But I still don’t understand why we’re-
+C: RANDALL
+D: Look at this. I think this salmon is real salmon. Not farm raised. Kate can you find some sweet potatoes? Yule shoves a steak in his pants. INT. LOWER MIDDLE CLASS HOME - GEORGIA - DUSK A family of 5 watches TV with a grim seriousness. The comet is visible in the day sky and is huge
+E: and then
+C: ANCHORS
+D: The BEADS are a go for launch... There’s not as much excitement as the last launch. Just a quiet trepidation... I can hear people saying prayers in the crowd.
+E: V.O.
+C: FLIGHT DIRECTOR
+D: 10, 9, 8... INT. HOME IN NAIROBI - DAY A FAMILY watches grimly on their LAPTOP. EXT. THE MINDY HOME - LANSING MICHIGAN - DAY Randall with Kate and Yule behind him carrying lots of groceries approach his family home. He knocks. INT. BASH LAUNCH CENTER - MOMENTS LATER
+E: V.O.
+C: FLIGHT DIRECTOR
+D: Liftoff! Monitors show the BEAD drones flames under tail lifting off. One screen shows a drone explode.
+C: JASON
+D: What just happened?
+C: FLIGHT DIRECTOR
+D: We’ve lost BEAD number 12. Another MISSION TECH yells out from across the room.
+C: MISSION TECH
+D: BEAD number 22 failed to launch.
+C: PETER ISHERWELL
+D: It’s fine. We anticipated a margin of error. We’re fine everyone! INT. CVN STUDIO - SAME TIME Harrison Telms reports on the launch.
+C: HARRISON TELMS
+D: We’re being told that several of the BEADS have exploded on launch. But the mission is still proceeding. A NASA spokesperson when asked to comment referred us to a BASH spokesperson who told us that BASH is committed to customer service, affordable monthly plans and the survival of mankind. EXT. BASH LAUNCH CENTER - CONTINUOUS The drone satellites tear towards the heavens. INT. THE MINDY HOME - LANSING MICHIGAN - MOMENTS LATER June answers the door and sees Randall.
+C: RANDALL
+D: Hi. I thought we could have a family dinner. We got a turkey and some salmon. Randall’s sons are inside in the living room watching the launch.
+C: EVAN
+D: Hey Dad!
+C: MARSHALL
+D: Hey it’s Dad! Dad! Long beat as June considers.
+C: JUNE
+D: When we dated in college I fucked Aaron Tran. Randall stands firm. Finally June opens the door.
+C: YULE
+D: I’m Yule. You, uh, may know me by my Twitch handle FirePuma142.
+C: KATE
+D: Odds are super low she knows you by FirePuma142. Randall hugs June for a long time.
+C: RANDALL
+D: I’m so sorry... EXT. DEEP SPACE - TWO HOURS LATER The BEAD drones approach the comet.
+C: FLIGHT DIRECTOR
+D: BEADS are ready for attachment... The BEADS spread out and their hooked drill arm extends. TWO MORE OF THE BEADS FAIL TO ATTACH and spin away from the comet into each other EXPLODING.
+E: V.O.
+C: FLIGHT DIRECTOR
+D: BEADS 8 and 27 are lost due to lateral control malfunction. INT. THE MINDY HOME - LANSING MICHIGAN - SAME TIME Turkey is being put in the oven. Stuffing made. Kate is putting a dry rub on the Salmon. Yule is dicing carrots. There’s a knock at the door and Teddy pops in holding a bottle of wine.
+E: V.O.
+C: DR. OGLETHORPE
+D: Heyyyy everyone! Sorry I’m late. Randall embraces him. June says hello. INT. BASH LAUNCH CENTER - AN HOUR LATER PUSH IN on Isherwell, President Orlean, Jason all stressed.
+C: PRESIDENT ORLEAN
+D: We’re six drones down now. Can this still work?
+C: PETER ISHERWELL
+D: Engineers assured me that yes. 24 drones are enough.
+C: JASON
+D: How many more can we lose? Isherwell doesn’t answer. INT. THE MINDY HOME - LANSING MICHIGAN - SAME TIME Dinner is cooking. Randall’s sons and Teddy watch news coverage in the living room. EXT. SPACE - 20 MINUTES LATER Remaining BEAD drones are attached.
+C: FLIGHT DIRECTOR
+D: Commence simultaneous explosive separation stage... This is it. The BEADS EXPLODE IN A GIANT FLASH INT. THE MINDY HOME - LANSING MICHIGAN A beautiful turkey and salmon, carrots etc. on the table. The Mindys and Kate, Yule and Teddy all take their seats.
+E: V.O.
+C: DR. OGLETHORPE
+D: This looks beautiful.
+C: JUNE
+D: It certainly does. And it is nice to have you home.
+C: KATE
+D: Yeah. Randall got really famous.
+C: RANDALL
+D: Is that what happened? June and Randall kiss. INT. BASH LAUNCH CENTER - MISSION CONTROL - AN HOUR LATER Everyone is super tense.
+C: FLIGHT DIRECTOR
+D: Still waiting for a full status report on the explosive devices.
+C: PRESIDENT ORLEAN
+D: Chinese President just texted me. The comet is still whole.
+E: just to Isherwell
+C: FLIGHT DIRECTOR
+D: We’re seeing four misfires and sync was off...
+C: PETER ISHERWELL
+D: It’s okay. We’ll be fine. If you’ll excuse me. I’m going to the restroom. Isherwell leaves the room.
+C: PRESIDENT ORLEAN
+D: I should go too... She also leaves. INT. MINDY DINING ROOM - MICHIGAN - 20 MINUTES LATER Kate looks out the window at the sky.
+C: KATE
+D: It’s still there.
+C: RANDALL
+D: I don’t want to talk about any of that anymore. Let’s just enjoy this meal together.
+C: DR. OGLETHORPE
+D: Best idea I’ve heard in a long time.
+C: JUNE
+D: Should we go around and all say what we’re thankful for?
+C: RANDALL
+D: Absolutely. INT. CVN STUDIO - SAME TIME Harrison Telms reports.
+C: HARRISON TELMS
+D: We are being told that the comet is still whole. A few pieces have broken off as a result of the explosion but the comet is still intact. A few CREW MEMBERS RUN past camera.
+C: HARRISON TELMS
+D: It’s clear now that for the past six months we have, I have, not done my job. I just never imagined. I never imagined... this. And I should have... He walks off. The set is empty. EXT. BASH LAUNCH CENTER - SAME TIME TWO HELICOPTERS LEAVE THE SPACE CENTER.
+E: CONT'D
+C: ANCHORS
+D: The BEAD drones did not break apart the comet. I repeat did not... We’re being told the Presidential helicopter has left Kennedy Space Center... The comet is still moving at a great velocity- EXT. NEIGHBORHOOD - NIGHT Frightened neighbors video with their phones the comet in the sky. INT. MINDY DINING ROOM - MICHIGAN - MOMENTS LATER Everyone at the table has joined hands and are giving thanks.
+E: V.O.
+C: RANDALL
+D: I’m thankful to be with the woman I love and my beautiful sons again. Honestly... I’m just so thankful.
+C: DR. OGLETHORPE
+D: I’m thankful I got to know you fine people. I truly am.
+C: KATE
+D: I’m thankful... At least we tried. Beat.
+E: long beat
+C: RANDALL
+D: Do we say Amen? I’m not the most religious guy.
+C: YULE
+D: I got this. Dearest Father and almighty creator, we ask for your grace despite our pride, your forgiveness despite our doubt and most of all, your love to sooth our fears in these dark times. May we face your divine will with courage and open hearts of acceptance. In your name... Amen.
+E: into a beautiful prayer
+C: DR. OGLETHORPE
+D: Damn. Yule’s got some church game.
+C: KATE
+D: That was... beautiful. INT. BASH LAUNCH CENTER - MOMENTS LATER The Flight Director turns to where the President should be. Only Jason is there.
+E: MORE
+C: FLIGHT DIRECTOR
+D: Sir? Where is the President? We need to know what the mission status is.
+C: JASON
+D: She’ll be back. A Command Tech stands up.
+C: COMMAND TECH
+D: Screw this! I’m going to see my husband! He runs out. Some other people start to run out too. INT. THE MINDY HOME - LANSING MICHIGAN - MOMENTS LATER Teddy is on the phone in the kitchen.
+C: DR. OGLETHORPE
+D: I just wanted to tell you and the kids that I’ve never stopped loving you. But I understand why you stopped loving me- What’s that?.... Really?... Well it means everything for me to hear that baby. Everything... CUT TO: EXT. NEW YORK CITY - OVERHEAD - 20 MINUTES LATER We pan over New York City which is in chaos. Traffic, fires, violence, sex, etc. INT. PRESIDENTIAL HELICOPTER - SAME TIME President Orlean is on her satellite phone. INT. THE MINDY DINING ROOM - MICHIGAN - CONTINUOUS Randall moves towards their phone. INTERCUT
+C: RANDALL
+D: I got it!
+C: PRESIDENT ORLEAN
+D: Hello. I had to call your home line.
+E: MORE
+C: PRESIDENT ORLEAN
+D: Cell service is down everywhere. How about that? Land lines win in the end.
+E: CONT'D
+C: RANDALL
+D: We’re sort of eating right now Janie.
+C: PRESIDENT ORLEAN
+D: There’s a ship. In case we were wrong. And clearly we were wrong.
+E: let’s it sit there
+C: RANDALL
+D: Of course you have a ship.
+C: PRESIDENT ORLEAN
+D: It holds 600. It has state of the art cryo-chambers and it’s set to find the nearest earth like planet in a goldilocks zone. I don’t know why I’m calling you but I am. There’s room for you and one other. Brie, your wife. Your call.
+C: RANDALL
+D: I think I’m good. But you and Jason enjoy your new world.
+C: PRESIDENT ORLEAN
+D: Jason? INT. BASH LAUNCH CENTER - CONTINUOUS Jason is still seated. The control center is almost empty. The Flight Director turns to Jason.
+C: JASON
+D: She’s coming back.
+C: FLIGHT DIRECTOR
+D: I’m sorry. I’ve got a 20-year-old daughter I have to see. He bolts. Jason is alone.
+C: JASON
+D: She’s coming back.
+C: PRESIDENT ORLEAN
+D: INT. MANHATTAN BAR - SAME TIME Jack sits drinking a giant tumbler of tequila at an empty bar with chairs knocked over and the bar mirror cracked. Brie enters looking disheveled. Jack pours her a drink. She downs it.
+E: CONT'D
+C: JACK BREMMER
+D: Wanna have sex... or pray?
+C: BRIE EVANTEE
+D: Honestly I’d rather just drink and talk shit about people.
+C: JACK BREMMER
+D: That sounds perfect. What do you think of that new junior executive network hired?
+C: BRIE EVANTEE
+D: Clueless and obedient. The perfect hire. Like a blank eyed mule.
+C: JACK BREMMER
+D: She’ll be VP of content in a year. INT. AUTOPSY OFFICES- SAME TIME - NIGHT Phillip is checking his Diddly account on his computer where his piece “Pray, Have Sex or Murder: What’s the Best Way to Greet the End of the World?” is getting thousands and thousands of hearts and shares.
+C: PHILLIP PHILLIP
+D: Hey everyone! My piece is going viral! He looks around and the place is empty.
+E: CONT'D
+C: PHILLIP
+D: Is anyone here?! EXT. PLANET EARTH - 30 MINUTES LATER The COMET BEGINS ENTERING EARTH’S ATMOSPHERE WITH INCREDIBLE VELOCITY . Violent RIPPLES SPREAD OUT and a bright light flares from the FIRE CREATED BY THE
+E: CONT'D 30 THOUSAND FEET A SECOND
+C: FRICTION OF ITS ENTRY.
+D: INT. MINDY DINING ROOM - MICHIGAN - CONTINUOUS Everyone is enjoying dessert. The HOUSE IS NOW SHUDDERING.
+C: MARSHALL
+D: I’m going to have some more of that apple pie. It’s really good.
+C: KATE
+D: It’s actually store bought.
+C: DR. OGLETHORPE
+D: If I’m being really honest, which at this moment why not, I like the junky taste of store bought better than homemade.
+C: RANDALL
+D: Oh no. Teddy. That’s crazy. Homemade is the best.
+C: JUNE
+D: I know what he means. It’s a childhood memory thing or something- EXT. OPEN SKY - CONTINUOUS THE COMET RIPS THROUGH THE SKY LIKE FABRIC BEING TORN. EXT. - INDIA - DAY The COMET is a fiery behemoth in the sky. People run and flee. EXT. FRONT LAWN OF A HOME - SAME TIME Drask is firing a machine gun at the sky and screaming. When it’s out he takes out his hand gun and fires it at the sky.
+C: BENEDICT DRASK AHHHHH!!!
+D: Finally Dr. Ginnerson comes out of the house.
+C: DR. GINNERSON
+D: Just come inside Benny. Let’s be together. INT. UPSCALE LIVING ROOM - MANHATTAN Riley Bina is in DJ Chello’s arms in a big cushy loveseat.
+C: RILEY BINA
+D: Here we are heart to heart facing the end.
+C: DJ CHELLO
+D: And I wouldn’t want to be with anyone else. I love you forever girl. His phone buzzes. Riley grabs it.
+C: RILEY BINA
+D: I got it. What’s your pass code?
+C: DJ CHELLO
+D: Give it to me. I’ll type it in.
+C: RILEY BINA
+D: Why do you care? Just tell me the numbers.
+C: DJ CHELLO
+D: Because it’s my phone. It’s my own personal business.
+C: RILEY BINA
+D: Are you afraid I’ll see something? We’re about to die together!
+C: DJ CHELLO
+D: That doesn’t mean I can’t have some privacy! Maybe you should trust me for once in your goddamn- INT. THE MINDY DINING ROOM - MICHIGAN - CONTINUOUS THE HOUSE IS SHAKING VIOLENTLY.
+C: KATE
+D: This coffee isn’t store bought is it?
+C: RANDALL
+D: Never. I always grind my own beans.
+C: JUNE
+D: It’s true. Randall is very particular about his coffee.
+C: YULE
+D: How do you grind coffee beans at- BOOM. We go SLO MO as the room collapses and disintegrates. EXT. SPACE SPACE SHOT OF EARTH AS THE COMET IMPACTS. GIANT PLUMES OF MAGMA SHOOT INTO THE SKY. SHOCKWAVES SPREAD ACROSS THE PLANET. A CHUNK OF THE EARTH SPLITS OFF. Incredible amounts of DEBRIS, ROCK, CARS, DIRT, PEOPLE AND TREES PLUME OUT in the massive explosion. We weave and snake through pieces of buildings, a hunk of gold from the comet, a copy of President Orlean’s best selling “HOW TO MANAGE YOUR MONEY EVEN WHEN YOU HAVE NONE”, a skateboard, half a whale etc until we catch a glint of metal... Amidst the chaos ONE SPACESHIP NAVIGATES ITS WAY OUT. As it passes us by a small BASH logo is visible on its side. It soars out into the infinity of space. Leaving behind the new comet field that used to be planet earth. DISSOLVE TO: EXT. SPACE - 180 YEARS LATER The ship navigates past a giant exploding galaxy. And towards a sparkling array of stars. DISSOLVE TO: EXT. SPACE - 3543 YEARS LATER The spaceship cruises past a black hole devouring an asteroid field. EXT. SPACE - 6788 YEARS LATER The ship now dented and dirty is orbiting a planet that has a blue green hue to it. EXT. NEW PLANET - 22,740 YEARS LATER - DAY The SHIP ENTERS THE ATMOSPHERE AND LANDS IN A CLEARING OF BLUE GRASS surrounded oddly shaped but verdant trees. A group of 7 HALF DEER/HALF BIRDS leap past frame. The door on the ship OPENS with a hiss. INT. SPACESHIP - CONTINUOUS PAN past all the cryo-chambers showing the names of their occupants: TED BILES-CEO INTER-BANK, HARRY TELT -CEO OF I.G.T., PETER ISHERWELL -CEO OF BASH, MICHELLE YAO -CEO OF MCKINSEY, JANIE ORLEAN -PRESIDENT OF USA, KID ROCK - MUSICIAN, CONGRESSMAN TENANT -etc. The cryo chambers calculate and finally OPEN. EXT. NEW PLANET - MOMENTS LATER Slowly the naked and dazed CEOs, Lobbyists and Elected Officials begin to emerge from the ship. Most are in their late 60s and 70s. They groan, stretch and wipe their eyes. Isherwell checks an atmospheric gauge.
+C: PETER ISHERWELL
+D: Oxygen is higher than on earth by 9 percent everyone so you might feel a bit light headed. Cryo-chambers were 58 percent successful which is much better than anticipated. President Orlean, nude and with a lower back tattoo of a string of roses and guns, is there.
+E: checks more data
+C: JANIE ORLEAN
+D: There are 54 dead in there. And we lost the entire Goldman Sachs pod.
+C: LOBBYIST
+D: Is that good news or bad news? Some chuckles.
+C: PETER ISHERWELL
+D: Pods 3 and 6 were destroyed roughly thousand years ago to a meteor storm.
+C: OLD BILLIONAIRE
+D: I saw the frozen eggs and semen are preserved and safe.
+C: CONGRESSMAN TENANT
+D: There’s fruit on these trees. Delicious.
+E: he takes a bite
+C: PETER ISHERWELL
+D: I think this will work quite well. Quite well indeed...
+E: looking around at the world
+C: PRESIDENT ORLEAN
+D: Look at that beautiful creature. How striking... President Orlean walks toward a feathered bear type creature 20 yards away. It immediately ATTACKS and kills her.
+C: PRESIDENT ORLEAN
+E: CONT'D horrific scream
+C: KID ROCK
+D: Holy shit. That’s nasty.
+C: CONGRESSMAN TENANT
+D: What is that thing?
+C: PETER ISHERWELL
+D: I believe that’s a Brontaroc.
+C: OLD BILLIONAIRE
+D: Where are the engineers and laborers? I want a house.
+C: PETER ISHERWELL
+D: They were on pod 3. They’re all dead.
+C: OLD BILLIONAIRE
+D: I’ll give anyone who builds me a house ten million dollars.
+C: CONGRESSMAN TENANT
+D: Hell I’ll give 20 million.
+C: PETER ISHERWELL
+D: I’m offering a billion.
+C: OLD BILLIONAIRE
+D: 5 billion.
+C: PETER ISHERWELL
+D: 20 billion. They continue on with no takers as we pull out.
+C: END. AFTER CREDITS
+D: EXT. EARTH - DAY There is rubble everywhere. Ash falls from the sky. Everything is devastation. Some rubble moves and a cut and dusty Jason Orlean emerges. Slowly he stands. He might be the last living human.
+C: JASON
+D: Mom... Mom!!!!!
+N: OUT

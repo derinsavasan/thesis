@@ -1,0 +1,1594 @@
+M: T H E N O R T H M A N
+M: Written by
+M: Sjón & Robert Eggers
+M: Current Revisions by
+M: Sjón & Robert Eggers
+M: White Production Draft - February 20, 2020
+M: Blue Draft - March 10, 2020
+M: Pink Draft - May 26, 2020
+M: Yellow Revisions - July 28, 2020
+M: Green Draft - September 13, 2020
+M: Goldenrod Draft - December 18, 2020
+M: All rights reserved. Copyright ©2020 New Regency Productions, Inc.
+M: ("New Regency"). No portion of this script may be sold, distributed,
+M: performed, published, duplicated and/or reproduced, or used by any
+M: means, or quoted or published in any medium, including on any web site,
+M: without the prior written consent of New Regency. Disposal of this
+M: script does not alter any of the restrictions set forth above.
+M: New Regency Productions, Inc.
+M: ii.
+M: S E T T I N G:
+M: Turn of the 10th century
+M: L O C A T I O N S:
+M: Hrafnsey, a North Atlantic island, somewhere near Scotland, home to a Norse
+M: petty kingdom
+M: The Land of the Rus, what is now Ukraine and Western Russia
+M: Iceland, most of the story is set in Freysdalur, a prosperous Icelandic
+M: farmstead
+M: P L A Y E R S:
+M: Amleth, a Norse prince. As a berserker warrior, he uses the name Björnulfr
+M: (Bear-Wolf)
+M: King Aurvandil War-Raven , Amleth's father, King of Hrafnsey
+M: Queen Gudrún, Amleth's mother, a woman of great cunning
+M: Fjölnir the Brotherless , Amleth's uncle, Aurvandil's bastard brother,
+M: becomes the Icelandic chieftain-priest of Freysdalur after killing his
+M: brother
+M: Thórir the Proud , Fjölnir's eldest son, Amleth's younger cousin
+M: Gunnar, Fjölnir's son with Gudrún, Thórir's half-brother and Amleth's
+M: half-brother, 12 years old
+M: Olga, a Slavic maiden, captured and enslaved by Vikings, wise in the ways
+M: of herbs
+M: Heimir the Fool , Aurvandil's jester and high priest to the cult of Loki
+M: Seeress
+M: He-Witch
+M: The Warrior King, a mound dweller
+M: A Valkyrja, a valkyrie
+M: Draugr, a magic sword
+M: Hallgrímr Half-Troll, one of Fjölnir's men
+M: Finnr Nose-Stub, one of Fjölnir's men
+M: ii.
+M: iii.
+M: Áshildur Hofgythja, temple priestess in Freysdalur
+M: Hallur Freymundur, her assistant
+M: Hersveinn Battle-Hard, friend to Thórir in Freysdalur
+M: Hjalti Battle-Hasty, friend to Thórir in Freysdalur
+M: Helga, Thórir's nanny in Hrafnsey
+M: Halla, Queen Gudrún's chambermaid in Hrafnsey
+M: Völundur, the blacksmith in Freysdalur
+M: Halldóra the Pict, the housekeeper in Freysdalur, a former slave
+M: Melkorka, the kitchen slave in Freysdalur, and a good singer
+M: Audunn the Irish, a tough slave in Freysdalur
+M: Kormlöth, a young female slave in Freysdalur, of the Norse faith
+M: Hákon Iron-Beard, an Icelandic chieftain, friend to Fjölnir
+M: Gunnhildr Ship-Breasted, Hákon's wife
+M: Thórfinnr Tooth-Gnasher , the toughest knattleikr player in Iceland
+M: Eysteinn, Hákon's comical slave
+M: Captain Volodymyr, A Rus ship captain
+M: Eiríkr Blaze-Eye, a Berserker
+M: Grímr Skull-Hammer , a Berserker
+M: Thórvaldr Giant-Crusher , a Berserker
+M: Hrólfur Split-Lip, a Berserker
+M: Fengr Shield-Biter, a Berserker
+M: Grani Battle-Screamer, a Berserker
+M: Ketill the Whale-Sided, a Berserker
+M: Ragnar Cold-Mouthed, a Berserker
+M: Leifr Seal's Testicle, a Berserker
+M: Vígstein the Grinner, a Berserker
+M: Skarpheidinn the Norwegian Killer, a Berserker
+M: iii.
+M: iv.
+M: Rakki, Fjölnir's dog
+M: Freyfaxi, Thórir's horse
+M: Ravens
+M: An Arctic Fox Vixen
+M: Haraldr Fine-Hair, The King of Norway, oft mentioned, but not in the film
+M: iv.
+S: EXT. MOUNT HEKLA. NIGHT1 1
+N: A sulfurous VOLCANO smolders in darkness. War drums thunder ominously. A sparse, funereal pulse. A deep, ancient voice speaks. A male and a female voice whisper with him, speaking in a forgotten language.
+C: HE-WITCH
+D: Hear me, Ódinn, all-father of the gods. Summon the shadows of ages past, when the thread-spinning Norns ruled the fates of men. Hear of a prince’s vengeance quenched at the fiery gates of Hel, a prince destined for Valhöll. Hear me!
+E: V.O.
+C: BLACK.
+D: TITLE CARD: H R A F N S E Y — 8 9 5 A D EXT. HRAFNSEY. DAY2 2 The wind howls. TWO RAVENS soar toward a wintry ISLAND. Its high cliffs violently lashed by the black North Atlantic OCEAN. It is day but already dusky. The sun glows like a single red eye struggling to be seen through the low December clouds. Below, a LANGSKIP , followed by three KNÖRRS , approach the island with terrible speed, over the dark waves. They sail toward a towering NORSE STRONGHOLD — an impenetrable wooden fortress that encloses a VIKING VILLAGE. The wet sails of the ships are stretched by the roaring wind. The langskip nears the shore at a menacing pace. The ship's RED WAR BANNER streams: The heraldry of a RAVEN. Long tassels of white horse hair flow proudly from it. EXT. HRAFNSEY. STRONGHOLD. WATCHTOWER. DAY3 3 CLOSE ON: AMLETH, a 12-year-old boy. He looks out to sea, tense with worry and excitement. He is a thin child, agile and playful, still reveling in the joys of his retreating childhood. CONTINUED:3 3
+E: a Viking warship merchant ships
+C: AMLETH
+D: He's here ... He’s here! Suddenly, he is grabbed from behind. A coarse voice shouts at him in a playful manner.
+E: to himself
+C: HEIMIR
+D: Who's there? Who? Amleth struggles to get free from the strong grip of a wildly energetic fellow. It is the king's fool HEIMIR, a strangely dressed man in his 50s. His hood is adorned with the floppy ears of a gelded ram, and topped with a leather cockscomb. Heimir becomes darkly serious, but keeps his smile.
+C: HEIMIR
+D: Is it not our enemies, wielding their gleaming wound-snakes, come to drown us all in surging waves of death? To steal our screaming sisters, daughters, mothers? To burn our homes to ash in ravenous Hel-fire? Amleth breaks free from Heimir's grip by kicking him in the crotch. He turns and answers cockily:
+E: CONT'D
+C: AMLETH
+D: A son who knows not his father's standard is a bastard and a fool! He runs away, gleefully. INT. HRAFNSEY. GREAT HALL. DAY4 4 Amleth runs through the dark mead hall to the living quarters. INT. HRAFNSEY. STRONGHOLD. ROYAL CHAMBER. DAY5 5
+C: AMLETH
+D: Mother! Father is here. Amleth comes bursting through the impressive door of the Queen's Chamber, his mother's bedroom. A massive Norwegian Forest Cat in a silver collar slinks toward her owner ... QUEEN GUDRÚN , being dressed by her TWO CHAMBER MAIDENS. She looks at herself in a primitive LOOKING GLASS. She's stunning. Her ice blue eyes pierce with cunning and ferocity. Amleth CATCHES A GLIMPSE of her bare thigh. CONTINUED:3 3 CONTINUED:5 5 He runs up to her, but is stopped in his tracks as his mother turns swiftly around with a raised hand.
+E: 30s
+C: QUEEN GUDRÚN
+D: Never enter my chambers without invitation! But just as Gudrún is about to strike Amleth's bewildered face, a third maiden, HALLA shouts from an open door:
+E: hissing
+C: HALLA THE MAIDEN
+D: The King, milady, the King! Gudrún lowers her hand and gently strokes Amleth's cheek. She smiles and grabs Amleth's hand. Together, they run to the door with excitement ...
+C: AMLETH
+D: Ódinn brought him home! EXT. HRAFNSEY. VILLAGE. DAY6 6 KING AURVANDIL WAR-RAVEN is a handsome, well-bearded Norse King , beaming with charisma. He rides his horse in splendor through the village gates. His mail and saddle tack jangles. A procession of his men and the spoils of his Viking raids follow behind his red banner. The horses grunt under the weight of the plunder, dragging wagons of heavy coffers containing untold riches. The villagers nod in respect. Aurvandil acknowledges them with a faint smile and a nod of his head. Fine snow drifts down from the dark northern sky, melting in the sputtering torches held high by the KING'S MEN. FJÖLNIR, a brooding, dark-haired man , is no less handsome than the king. His eyes hold many secrets. He leads the second half of the procession. It is much less glamorous. No reverence from the villagers. The silence broken only by the strenuous groans of the men and animals. At the front, Aurvandil halts his horse. His procession comes to a stop. He looks over his shoulder to Fjölnir. Fjölnir raises his hand, giving Aurvandil a sign. Aurvandil nods and then carries on toward the GREAT HALL. CONTINUED:5 5 CONTINUED:6 6 Fjölnir turns his horse around, guiding his procession to a dirt road that leads to a cluster of rudimentary barracks. He watches with indifference as the more sinister part of the war spoils begin passing him by: SLAVES in bonds. The long line of slaves consists of men and women of different ages. From their clothing, hair, and beardless faces, it is clear they are not of the Viking culture. Some are sick and weak after the long journey. They are painfully silent. INT. HRAFNSEY. GREAT HALL. DUSK7 7 Aurvandil strides into the hall on horseback. Dismounting, he is met by Amleth and Gudrún. COURTIERS and SERVANTS are in attendance. Everything is treated in a ritual fashion. Everyone knows their role.
+E: late 40s 40s
+C: ALL
+D: Hail King Aurvandil War-Raven! Hail! The wooden hall is as impressive as any castle's, hung with great tapestries, regalia mounted high, tapers burning bright and illuminating the sophisticated, painted carvings that transform its beams and pillars into fantastic beasts. It has been prepared for the king's homecoming feast. Aurvandil gives his helm to an attendant. He embraces Queen Gudrún in a ceremonial way and speaks for all to hear.
+C: KING AURVANDIL
+D: Like a battle-dog returning to his master ... He looks her in the eyes and gently touches her braids, as if rehearsed.
+E: reciting a poem known to both
+C: KING AURVANDIL
+D: I've come back to be fettered by my queen's fair locks ...
+E: CONT'D
+C: QUEEN GUDRÚN
+D: Ever are we bound, my lord. There is a worried look in her eyes, but he pays it no heed. He turns to Amleth. CONTINUED:6 6 CONTINUED:7 7
+C: KING AURVANDIL
+D: Prince Amleth, you have grown too old to be greeted as a child ... He holds his hand out to Amleth. Amleth nods his head, looks at his father's big hand and hesitantly touches his GOLD SERPENTINE RING with his delicate finger in fealty.
+C: AMLETH
+D: Hail, lord king. Pause. Suddenly, Aurvandil quickly pulls Amleth to his bosom and hugs him.
+C: KING AURVANDIL
+D: But a father never grows too old for a good smothering ... How I’ve missed you my son. Amleth is relieved. Aurvandil laughs. Gudrún and the courtiers look on with appreciation. Aurvandil lets go of Amleth. Gudrún offers him her hand and he takes it. She is distracted and looks to the door in concern. She feigns an insulted attitude:
+C: QUEEN GUDRÚN
+D: Will your brother not grace us with his presence?
+C: KING AURVANDIL
+D: Think not on Fjölnir, he'll soon be with us.
+C: QUEEN GUDRÚN
+D: As you wish, my lord. EXT. HRAFNSEY. STRONGHOLD. SLAVE SHEDS. DUSK8 8 Fjölnir sits hunched in the saddle of his horse, watching his men usher the slaves into the barracks. It snows. The wind blows mercilessly. He looks up to the great hall sitting heavy and blue in the twilight and the snow. Its doorways and window-like smoke vents glow orange with the warm fires burning inside. Fjölnir bites his beard in spite.
+C: FJÖLNIR
+D: Proud-ringed peacock. CONTINUED:7 7 CONTINUED:8 8 Fjölnir trots to a Viking sitting on a horse next to him, HALLGRÍMR HALF-TROLL, an enormous muscular man in his late 20s with the face and voice of a giant. His torch flickers.
+C: FJÖLNIR
+D: Hasten your work. Hallgrímr Half-Troll shouts to the men by the barracks.
+E: CONT'D
+C: HALLGRÍMR HALF-TROLL
+D: Hurry there! He catches the attention of FINNR, a short, gangly man in his 30s, with a hungry face and manic eyes. He's in charge of the slave work. Finnr chuckles with menace as he herds the newly enslaved people.
+C: HALLGRÍMR HALF-TROLL
+D: Look you ... sneer at the king all you might, he’s ever-still your brother. You have station.
+E: CONT'D careful
+C: FJÖLNIR
+D: He smiles on my mis-chanced birthright. I’m ever-still the bastard.
+C: HALLGRÍMR HALF-TROLL
+D: Many would wish to be in your fine shoes.
+C: FJÖLNIR
+D: Like a stallion's cock, even the finest leather shrinks with age. And my shoes no longer fit ... Fjölnir sneers again. Hallgrímr laughs. INT. HRAFNSEY. GREAT HALL. NIGHT9 9 King Aurvandil sits in his high seat at the center of the banquet table. Amleth to his right and Gudrún to his left. She wears a golden headdress. All is merry. Behind them is a large tapestry with King Aurvandil's RAVEN heraldry surrounded by elaborate Viking patterns. Servants and slaves bring in food and drink for the feast; mead, broiled fish and sea birds, smoked leg of lamb, and more. It is all rudimentary, but served with care. CONTINUED:8 8 CONTINUED:9 9 There is joyful music of pipes and lyre. Heimir the Fool leads a small group of mummers clad in straw, and one dressed as a Yule goat. Heimir acts the clown, taunting the goat. At the table, Aurvandil reaches for a tray heaped with smoked puffins. As he does so, he grits his teeth with pain. Gudrún notices.
+C: QUEEN GUDRÚN
+D: Let me help you, my lord. She brings him two puffins. She puts her hand on his right shoulder.
+C: QUEEN GUDRÚN
+D: What is this? Tell me.
+E: CONT'D in a low voice
+C: KING AURVANDIL
+D: Nothing, Gudrún. Yuletide shall lighten the spirit as the sun finds its way back to us ... The hall erupts with laughter, stopping their conversation. Heimir the Fool is waving around a red leather phallus belted to his groin. He turns around, bends over, and lifts up his tunic, repeatedly mooning the crowd. Aurvandil shouts with a firm but warm voice.
+E: motions to the feast
+C: KING AURVANDIL
+D: Enough, Heimir! Enough, you creature! We have seen more of you than your own mother ever wished to see! The laughter in the hall fades. Heimir pretends to be offended and collects his troupe. Aurvandil raises his hand to make an announcement. The hall falls completely silent.
+E: CONT'D
+C: KING AURVANDIL
+D: We return with prosperous hands from wild, untamèd lands. Our fearsome blood-battles fought with savage men and dragons foul ... the thunder of our battle din ... it is a tale better fit for a poet. Amleth looks at his father with admiration. CONTINUED:9 9 CONTINUED: 9 9
+E: CONT'D beat 2
+C: KING AURVANDIL
+D: This night, we've made merry ... Aurvandil motions to Heimir the Fool and continues.
+E: CONT'D
+C: KING AURVANDIL
+D: Yet after war, there is one thing finer than good cheer: Silver! The hall roars with appreciation. Aurvandil smiles as servants bring four heavy coffers of loot into the hall, and slaves scatter loose rushes on the floor before them. Gudrún gestures for the music to start again. The highest ranking courtiers rise and walk to King Aurvandil, who sits on his high seat, his sword across his lap. The King distributes the finest gifts himself: finger and arm rings, Byzantine silk, and costly weapons. The courtiers thank him with a mannered bow. Amleth is at Aurvandil's side, helping with the ritual. Attendants distribute the silver to the other worthy guests. Amleth watches as Aurvandil picks up a Middle Eastern-looking amulet hanging on a Viking neck ring. He turns to Amleth showing him the gift.
+E: CONT'D
+C: KING AURVANDIL
+D: This was worn round a prince’s neck when I found it. But it was destined for this prince. Wear it always, with my love. Amleth looks at the Arabic design of the amulet with wonder.
+E: CONT'D
+C: AMLETH
+D: Thank you, father ... my King. The King put it on him, then strokes his son's cheek tenderly. Suddenly, Fjölnir bursts into the great hall with a group of rowdy soldiers and huge, barking, Irish dogs by his side.
+C: QUEEN GUDRÚN
+D: Fjölnir ... Aurvandil's face lights up when he sees Fjölnir. So does Gudrún's. Fjölnir walks to the king. Aurvandil remains seated and holds out his hand to Fjölnir. CONTINUED: 9 9 CONTINUED: 9 9 Fjölnir nods his head and touches his brother’s serpentine ring. He hides his spite.
+E: 2 3
+C: FJÖLNIR
+D: Hail, lord king. Aurvandil clasps his brother’s hand and rises. He speaks loudly for the court to hear:
+C: KING AURVANDIL
+D: Furnish this fierce-hearted slayer of men with some drink — that I might drink to him! A servant hands Gudrún a fine decanter. She pours wine into Aurvandil's glass horn, then hands her own drinking horn to Fjölnir. He receives it with reverence as she pours.
+C: QUEEN GUDRÚN
+D: Accept my cup, kinsman.
+C: FJÖLNIR
+D: M’lady. The serenity of the moment is shattered by Heimir the Fool's snarling laughter from the other end of the room.
+C: HEIMIR
+D: Look! See how the queen's cup grows wet for more men than her king. What metal might buy a fragrant sip? Sweet silver ... ? He throws a handful of silver coins in the air.
+C: HEIMIR
+D: Or hard iron ... He holds up his prop phallus like an erect penis and gives it a good slap. He laughs mockingly. Gudrún's eyes flash with fire. Fjölnir lunges forward, exploding in anger:
+E: CONT'D
+C: FJÖLNIR
+D: Silence, dog! By Freyr, you slander your lord and mistress! Aurvandil stands and holds Fjölnir's shoulder. He whispers:
+C: KING AURVANDIL
+D: Please you, Brother ... it is but a jest. A jest. Heimir keeps a foul tongue, and I keep him as a deep-sworn friend. CONTINUED: 9 9 CONTINUED: 9 9 Fjölnir bows his head apologetically to Gudrún and Aurvandil. Heimir bows theatrically to all.
+E: 3 4 MORE
+C: KING AURVANDIL
+D: Come, Brother, here's one more in need of your safekeeping than myself. Aurvandil nods to HELGA the nanny, who stands at the ready with one-year-old BABY THÓRIR in her arms. Fjölnir receives his son and kisses him on the forehead. Thórir pulls on his father's beard, and Fjölnir lifts him high.
+E: CONT'D
+C: FJÖLNIR
+D: Thórir. My son! Then, with Thórir on his left arm, Fjölnir raises Queen Gudrún's drinking horn in the air with his right hand.
+C: FJÖLNIR
+D: To my brother the War-Raven! Amleth holds up his small, princely drinking horn.
+E: CONT'D
+C: AMLETH
+D: To the Kingdom of Hrafnsey! The assembly in the hall looks to King Aurvandil and roars.
+C: THE ASSEMBLY SKÁL!
+D: INT. HRAFNSEY. GREAT HALL. ROYAL CHAMBER. NIGHT10 10 A cracking fire burns bright. Aurvandil sits slumped on a stool and takes a sip of ale. The Queen's trusted maid Halla is nearby while Gudrún weaves fine threads by the fire. Her cat is curled up by her side. TWO MALE SERVANTS remove Aurvandil's undershirt. Gudrún is STARTLED BY WHAT SHE SEES. CAMERA DOESN'T REVEAL THE WOUND.
+C: KING AURVANDIL
+D: The enemy had a taste of my liver. With a gesture, Gudrún motions for her servants to remove the loom and weaving cards.
+C: QUEEN GUDRÚN
+D: Are you hurt?
+C: KING AURVANDIL
+D: Enough for Amleth to be marked as my successor. CONTINUED: 9 9 CONTINUED:10 10
+E: 4 MORE
+C: KING AURVANDIL
+D: I watched his innocence tonight. He must be awoken to what awaits him.
+E: CONT'D
+C: QUEEN GUDRÚN
+D: He is just a puppy.
+C: KING AURVANDIL
+D: He's the same age as my grandfather when he took to the throne. Aurvandil motions to a servant who brings fresh clothes.
+C: QUEEN GUDRÚN
+D: That was different.
+C: KING AURVANDIL QUEEN GUDRÚN
+D: He had to kill his uncle first. Aurvandil gets up. His servant begins dressing him. Gudrún moves slowly towards him.
+C: QUEEN GUDRÚN
+D: You have not seen your queen in a season. Come, let me take you to our bed. He crosses to his servant, ignoring her.
+E: CONT'D
+C: KING AURVANDIL
+D: No. Pray my luck-spirits see me to many war-fields after I defeat this wound. I refuse to die in sickness, nor live the long life of a shameful graybeard. No, I must die by the sword. I will die in honor. Aurvandil is almost fully dressed.
+C: QUEEN GUDRÚN
+D: Fret not. You will die in battle, my lord. The gates of Valhöll await you. I know it. Gudrún turns away from Aurvandil. Aurvandil girds himself with his sword. He walks up to Gudrún. CONTINUED:10 10
+C: KING AURVANDIL
+D: CONTINUED: 10 10 She leans into him, as if to kiss him ... He holds her shoulder, keeping her at distance.
+E: CONT'D 2
+C: KING AURVANDIL
+D: Keep the bed warm. Aurvandil leaves. HOLD on Gudrún, her piercing eyes full of thought. EXT. HRAFNSEY. TEMPLE. NIGHT11 11 A GRAND WOODEN TEMPLE sits at the edge of a small pine forest, silhouetted against the moonlit clouds. Trees cast their tangled shadows on the snow-covered ground. Two hooded figures, Aurvandil and Amleth, come walking to the temple. The wind rustles in the branches. A raven croaks.
+C: AURVANDIL
+D: This is the same path I walked with my father, and he with his. Now it is our path to walk. INT. HRAFNSEY. TEMPLE. NIGHT12 12 Aurvandil and Amleth enter through a narrow keyhole-shaped door. Amleth stays close to his father and follows his every move. Aurvandil and Amleth are silently greeted by the Hofgythja, THE TEMPLE PRIESTESS, a stoic, middle-aged WOMAN adorned with the temple keys over her long robes. They hand over their weapons — Aurvandil's sword and Amleth's long knife — to an attending younger WOMAN in similar garments. The temple priestess walks Aurvandil and Amleth through the dark temple. Aurvandil reverently takes a GOLD ARM RING from an altar. He dips the ring in a bowl of blood and carries it. Amleth looks in awe at the splendid carvings and painted effigies of the various GODS OF THE NORDIC PANTHEON, all the more life-like in the flickering light from the fires burning in cauldrons placed at intervals throughout the temple. The goddess FREYJA greets Amleth and his father with both mead horn and spear. At the far end of the temple, they come to its greatest effigy. The one-eyed god of battle and poetry, ÓDINN, riding an eight-legged horse, with a raven on each shoulder. A cloaked MAN dips an oak branch, as an aspergillum, into a bowl of blood and scatters the blood on the effigy, chanting a prayer. A severed bull's head is impaled on a tall post. CONTINUED: 10 10 CONTINUED:12 12
+E: 2
+C: AMLETH
+D: Ódinn. The temple priestess leads Aurvandil and Amleth into the even darker shadows behind the Ódinn effigy. On a massive door set in the wall, there is a grotesque painting of the trickster god LOKI and his children: HEL, the goddess of the netherworld; the wolf FENRIR, who will swallow the sun at Ragnarök; and the world serpent JÖRMUNGANDR, who circles the earth with its python-like body. The temple priestess unlocks the door and opens it. The door groans ominously. She ushers them inside. INT. HRAFNSEY. TEMPLE. UNDERGROUND CHAMBERS. NIGHT13 13 The door is bolted. Locked. It is dark. The ancient walls are flagstone, adorned with neolithic carvings. Amleth stays close to his father as Aurvandil feels his way into the darkness with his fingers. He finds an opening in the ground. The end of a ladder sticks up from the opening. CORRIDOR14 14 Amleth and Aurvandil reach the bottom of the ladder. They have shed their clothing down to their loincloths. Aurvandil wears the bloody arm ring. Amleth follows his father as they crawl on their hands and knees through a narrow corridor with a muddy stone floor. Aurvandil hides his pain, as he crawls. At the end of the corridor, there is a hole in the wall. Fire burns in the cell beyond it. AN OMINOUS, MASKED FIGURE stands like a statue awaiting them. INT. HRAFNSEY. TEMPLE. UNDERGROUND RITUAL CELL. NIGHT15 15 The cell is half grave and half cave of treasures. And surprisingly wide and high. It smells of mildew and rot. Human bones stick out of the mud here and there. Some swathed in precious but rotting cloth. Expensive rings adorn mummified fingers. A skull wearing a ritual helmet sits on a flat rock in the middle of the room. Firelight shimmers off of small gold foils imprinted with mysterious wraiths. Steam rises from stones nested in a hole in the ground. As Aurvandil passes the threshold, he starts panting like a dog, shivering, growling, and barking. CONTINUED:12 12 CONTINUED:15 15
+E: whispers
+C: KING AURVANDIL
+D: Be not afraid Amleth. Do as I do ... Woof... Aurvandil motions to Amleth to follow his lead.
+E: whispering
+C: AMLETH
+D: Woof, grrr ... woof. Standing before them is Heimir the Fool in his role as a high priest of the cult of Loki. He shakes an IRON RATTLE and speaks in a low, menacing voice.
+C: HEIMIR
+D: Who barks? Is it the wolves of the High One? Or is it the barking of the village dogs? Amleth dares to take a peek out of the corner of his eye. He sees the figure in silhouette, a naked man with his hair and beard braided in a witch-like fashion. Heimir places two bowls in front of Aurvandil and Amleth.
+C: HEIMIR
+D: Harken to me you two-legged dogs: Drink the vision-mead of knowledge to learn what it is to live and die in honour. Heimir turns toward him suddenly, bringing his face into the light, revealing his GRINNING LEATHER MASK. Amleth lowers his head, in fear, as quickly as he can.
+E: CONT'D
+C: HEIMIR
+D: To be in battle slain and in death rewarded by the Valkyrie’s embrace. As Heimir bends down by Amleth, the boy sees that all kindness is gone from the fool's eyes.
+E: CONT'D
+C: HEIMIR
+D: The warrior maidens will carry you to the shimmering gates of Valhöll. Aurvandil starts lapping up the broth like a dog, and Amleth does the same. It is a murky, hazel-green broth of hallucinogenic henbane and what looks like human finger bones.
+E: CONT'D
+C: HEIMIR
+D: You are dogs that wish to become men. CONTINUED:15 15 CONTINUED: 15 15 Heimir the Fool pours water over the hot stones in the ground. Thick steam rises. Heimir steps up to Aurvandil and sniffs him all over.
+E: CONT'D 2
+C: HEIMIR
+D: Prove you are not a dog. Aurvandil burps loudly into his face. Heimir smells it.
+E: CONT'D
+C: HEIMIR
+D: Ah, not only are you a man, you dine like a king! Together, Aurvandil and Heimir sniff Amleth.
+E: CONT'D
+C: HEIMIR
+D: And you, little cub, what are you? Amleth looks from one to the other before letting out a good fart. Aurvandil and Heimir smile.
+E: CONT'D
+C: KING AURVANDIL
+D: I smell a clever pupil! Heimir pours more water on the stones. The steam thickens. The henbane begins to take effect. Amleth's eyes become hazy, his face heavy, his perception confused. The steam grows thicker and thicker ... The ritual continues:
+C: KING AURVANDIL
+D: At every passage, one should turn his eye round, one should spy round ...
+E: CONT'D
+C: HEIMIR
+D: For a foe might be crouched within upon the floor...
+C: KING AURVANDIL
+D: Fortunate is the man who has the wisdom of life ...
+C: HEIMIR
+D: Wise in measure should each man be, yet wise enough to be the fool ... Amleth instinctively joins in. His heart begins to race, he grows more fearful by the moment. He tries to stay focused.
+C: AMLETH
+D: Wise enough to be the fool ... CONTINUED: 15 15 CONTINUED: 15 15
+E: 2 3
+C: KING AURVANDIL
+D: Tell me, how did Ódinn lose his eye?
+C: AMLETH
+D: To learn the secret magic of women.
+C: KING AURVANDIL
+D: Never seek the secrets of women – but heed them always.
+C: HEIMIR
+D: It is women who know the mysteries of men. The Norns that spin and weave at their well of Fate, Freyja the shining goddess, The Choosers of the Slain ... Amleth grows more anxious and tense ...
+C: KING AURVANDIL
+D: Live in honor.
+C: AMLETH
+D: Live in honor ...
+C: KING AURVANDIL
+D: Safeguard your familial blood.
+C: AMLETH
+D: Safeguard your familial blood.
+C: HEIMIR
+D: Know you what that means, Amleth son of Aurvandil? Amleth cannot answer in his state.
+C: KING AURVANDIL
+D: Should I fall by an enemy sword, you must avenge me or forever live in shame. Amleth becomes desperate, possessed with rage:
+C: AMLETH
+D: I will, father, I will! My blade will not rest till it's drunk the blood from his open neck! Heimir looks at him. His mask has disappeared: CONTINUED: 15 15 CONTINUED: 15 15
+E: 3 4
+C: HEIMIR
+D: Now, live always without fear – for your fate is set and you cannot 'scape it.
+C: KING AURVANDIL
+D: Swear it. Amleth touches Aurvandil’s blood-dipped arm ring.
+C: AMLETH
+D: I swear. Amleth's last words are followed by a sudden silence. AMLETH REALIZES HE IS LEVITATING IN THE CELL. He sees himself, his body, sitting below him with Aurvandil and Heimir. Then he looks up, the steam clears ... The atmosphere becomes raw and naked. Now Aurvandil is facing Amleth. Heimir is to Amleth’s side ... Amleth, entirely disoriented, watches in horror as Aurvandil starts unwinding the bandages from his lower body, REVEALING A HORRIBLE, BLOODY, INFECTED WOUND ON HIS ABDOMEN. Amleth hears a THUNDEROUS HEARTBEAT ... his eyes fill with tears. A SINGLE TEARDROP breaks free from his left eye. It falls through the air and lands in the palm of Heimir's hand.
+C: HEIMIR
+D: This is the last tear you will shed in weakness. Heimir closes his hand around the tear.
+C: HEIMIR
+D: It will be given back when most you need it. Amleth looks up to his father.
+E: CONT'D
+C: HEIMIR
+D: Now behold, as a man.
+E: CONT'D
+C: AURVANDIL
+D: Approach, Amleth, and in our blood behold the tree of kings. At that moment, Aurvandil takes hold of Amleth's wrist and brings his hand to his wound. Amleth tries to resist, but his father's grip is firm. Aurvandil forces his son's fingertip into the wound. As he touches the wet blood, the heartbeat grows louder, louder ... LOUDER! CONTINUED: 15 15 SUDDENLY, AMLETH’S HAND AND AURVANDIL'S NAKED BODY SLOWLY 16 16 TEAR APART, evaporating into a swirling, nebula ... THE PLACE OF VISIONS17 17 Within this glowing cosmos of dissolving flesh, A GIANT ARBOREAL STRUCTURE rises from Aurvandil's flickering heart. The rising structure is a royal FAMILY TREE made of RED
+E: 4
+C: PULSATING VEINS.
+D: CAMERA MOVES through the branches as if floating on water. GENERATIONS OF DEAD KINGS hang from its branches like rotting and withering fruit. The more mummified, the farther away in time they are. On the youngest vein-branch of this royal tree, Aurvandil is seen in his weakened state. A vein grows from his wound and it connects to Amleth’s fingertip. Amleth has transformed into a stoic, YOUTHFUL KING, having shed the persona of the fragile child that entered the ritual. A royal helmet adorns his head. SUDDENLY, THE HELM
+C: BURSTS WITH HEAVENLY LIGHT!
+D: EXT. HRAFNSEY. TEMPLE. DAY18 18 Dawn is breaking. The sliver of an ocher winter sun peeks over a mountain ridge in the distance. It snows silently. Aurvandil and Amleth exit the temple, exhausted and happy. Aurvandil holds his sword casually in his left hand, not bothering to gird himself with it on this peaceful morning. His right arm lies across Amleth's shoulders. Amleth's long knife is in its sheath, hanging from his belt. As Amleth sticks his tongue out to catch a snowflake — a WHOOSHING SOUND breaks the silence. Aurvandil stops in his tracks. There is a second WHOOSH. An arrow has lodged itself in King Aurvandil's left shoulder. Another in his neck. Its impact throws father and son apart. A small contingent of NINE Vikings is launching a surprise attack. Some ride small Norwegian Fjord Horses through the falling snow. Two fire fierce arrows running on foot, the others carry spears. CONTINUED:18 18 One of the Vikings, clearly THE LEADER, rides on a painted saddle, wearing a mail coat and a fancy helm that covers his face. The others hide their faces with cloaks, hoods, and felted masks.
+C: AMLETH
+D: Father! Amleth reaches for his knife. Aurvandil shouts.
+C: KING AURVANDIL
+D: Run, run! Amleth runs to the forest. He hides behind a tall stone. The horsemen with spears surround Aurvandil. He mocks them.
+C: KING AURVANDIL
+D: Come for your carcass, you mongrels! Amleth watches the spearmen attack his father. Aurvandil meagerly waives his sword at his attackers, paralyzed from his arrow wounds. Just then, Aurvandil is struck with the first spear. Aurvandil twists himself in agony, bravely managing to cut another advancing spear shaft in half, but his defense is futile. Amleth watches as Aurvandil is thrown back and forth – the spears repeatedly plunged into his body. He is a mighty stag being brought down by a pack of hunting dogs. He loses the grip of his sword and falls to his knees. The Leader dismounts his horse and strides up to the fatally wounded king. He removes his sinister-looking helmet, revealing himself to be FJÖLNIR. Aurvandil's eyes fill with horror when he sees his brother's face. It is true. Fjölnir gives Aurvandil a stone-cold look.
+E: CONT'D
+C: FJÖLNIR
+D: You behold your brother’s gaze in amazement. I knew well you would. Pity you never paid a bastard's eyes heed before. Now behold how swiftly your brother swings his sword. Fjölnir raises his sword to deal the final death blow. Aurvandil tremors in pain, but speaks calmly –– blood trickling from his lips. CONTINUED:18 18 CONTINUED: 18 18
+E: 2
+C: KING AURVANDIL
+D: Strike, brother, strike. But know that bearing a stolen ring makes no half- breed a king. Soaked in my blood, it will soon be sliding off your arm like a serpent. Your kingdom will not last. ) Let this misdeed haunt all your living nights till a flaming vengeance gorges on your death. Strike. Strike! To Valhöll! Fjölnir cruelly cleaves his sword into his brother’s neck. It takes three brutal strikes to sever Aurvandil’s head from his body. It falls at Fjölnir's feet on the blood-stained snow. In his hiding place, Amleth stifles his cry. A single tear finds its way into the corner of his right eye. But it doesn’t fall, it is as if he is willing it to stay in place. Fjölnir looks up from his vile doing. The eight men stare at him, dumbfounded. One of them pulls his mask from his face, revealing himself to be Hallgrímr Half-Troll. He raises his spear and shakes it. The men beat their shields and cheer!
+E: a beat, as he fights off the pain
+C: HALLGRÍMR HALF-TROLL
+D: King Aurvandil is dead, long live King Fjölnir! In his hiding place, Amleth hears the roar of the Vikings.
+C: VIKINGS
+D: Long live King Fjölnir! Hail, lord king! Fjölnir turns and sees Amleth hiding. They lock eyes for a moment.
+C: FJÖLNIR
+D: Bring me the boy's head! Amleth takes off from his hiding place. Three men chase him through the eerily silent forest. FOREST. CONTINUOUS19 19 Amleth is good at this. He hides in a hole by a fallen tree trunk. The three men split up in order to cover more ground. It looks like they may have lost him. CONTINUED: 18 18 CONTINUED:19 19 When Amleth looks up from the hole to make sure they are gone, one of them attacks him from behind. It is Finnr, the man who made the hand gestures by the slave barracks. Finnr pins Amleth down and gets his knife ready for the kill.
+E: 2
+C: FINNR
+D: I’ll make it slow. But Amleth is quicker. He unsheathes his own long knife and with a swift move, he slices off Finnr's nose. Blood spurts from the wound. Finnr screams. He drops his knife and covers his face. Amleth escapes. EXT. HRAFNSEY. STRONGHOLD. DAY20 20 Amleth runs to the great hall’s palisade gate, he stops ... it’s open ... Aurvandil's guards lie on the ground with their throats cut. SOUNDS OF SENSELESS VIOLENCE comes from the village. Just then, he hears a piercing scream! The lifeless and bloodied body of Halla, Gudrún's chamber maid, is thrown from the palisade and lands hard in front of him. Amleth hurries away from Halla’s corpse down a back alley. More corpses line the streets. Stray dogs pick at bodies. He picks a discarded cloak up from the ground and disguises himself as a girl. He hurries in the direction of the stronghold’s exit as fast as he dares. Suddenly, he hears Fjölnir’s men cheering and beating their shields. Through alley fencing, Amleth sees Gudrún slung over Fjölnir's shoulder. Fjölnir parades his mother through the town like a trophy. Vikings laugh and cheer!
+C: HALLGRÍMR HALF-TROLL
+D: King Fjölnir has found himself a queen! Amleth is horrified. He crawls under a storehouse on stilts, through muck and mire, to try and get a better look. He can’t make it all out. As Amleth emerges from under the storehouse, he quickly hides again as Finnr comes running up the main street. Blood pours from Finnr’s face. He shouts in an unintelligible voice:
+C: FINNR NOSE-STUB
+D: Fjölnir! Fjölnir, my lord. Th' b-oy! CONTINUED:19 19 CONTINUED:20 20 When Finnr realizes he’s interrupted Fjölnir’s parade, he quickly goes to his knee in respect. Amleth takes the chance to run away right behind Finnr, disappearing into a group of mourning women . To lessen his humiliation at the hands of Amleth, Finnr comes up with a lie. He shouts proudly to Fjölnir:
+E: all with cloaks covering their hair like Amleth
+C: FINNR NOSE-STUB
+D: Th' b-oy ... Th' b-oy is dea-dd ... Finnr — who from now on will be known as FINNR NASASTÚFR or Finnr Nose-stub — points behind him to the ocean.
+E: CONT'D
+C: FINNR NOSE-STUB
+D: Dea-dd 'n the sea. He sank like a stone. EXT. HRAFNSEY. BEACH. DAY21 21 Amleth is alone on a hidden beach. With all of his might, he pushes a fisherman's rowing boat into the sea and jumps aboard. He rows away from the island, screaming his mantra of revenge.
+E: CONT'D
+C: AMLETH
+D: I will avenge you, father, I will save you, mother, I will kill you, Fjölnir, I will avenge you, father, I will save you, mother ... The boat looks tiny and fragile as it bobs up and down on the 22 22 mighty waves of the Atlantic Ocean. TITLE CARD: L A N D O F T H E R U S — 9 1 4 A D EXT. LAND OF THE RUS. RIVER. DAY23 23 Two Langskips speed down a wide river in what would today be called Ukraine. Long oars move with military precision. A garishly painted dragon's head splattered with blood rises from the bow of the lead ship, grinning with menace.
+C: ON THE LANGSKIP
+D: Amleth, now 30 years old, is one of the many Vikings sitting at the oars, driving the lead warship. Amleth has grown a full beard, his hair is long, his blue eyes are full of hate. CONTINUED:20 20 CONTINUED:23 23 But the amulet hanging around his neck leaves no doubt about who he is. Amleth spots a small fishing boat out on the river ahead.
+C: EIRÍKR BLAZE-EYE
+D: ... Yes. The wise hunter only preys on waterfowl before Midsummer blót. A FISHERMAN in his 30s, and his SON, 11 years old. The Fisherman sees the warship and hauls in the net as fast as he can. Two whooshing sounds break the silence surrounding the small boat, one followed by the other in quick succession. Both father and son are hit by arrows that kill them instantly. At the back of the Langskip, a STOUT VIKING, Grímr Skull- Hammer, lowers his bow, satisfied with his marksmanship.
+E: O.S. finishing a monologue
+C: AMLETH
+D: Fathers and sons are always in season. EXT. LAND OF THE RUS. RIVER BANK. DAY24 24 Vikings are already on shore, dragging the Langskips up on dry land. Other Viking crew start unloading the ships. Axes, long spears, bows, swords, clubs, etc. Amleth is with a team that cuts down birch trees and larch bows and uses them to camouflage the ship. All this is done with great speed. They're a well-oiled machine. EXT. LAND OF THE RUS. FOREST CLEARING. NIGHT25 25 It rains. Amleth participates in a bestial spear dance by a bonfire in the center of a shadowy birch grove. He moves in unison with his companion BERSERKERS. They are the elite fighting squad of the operation, a select twelve-man group of Viking raiders. They wear bear or wolf skins on their shoulders and backs, the muzzles drawn over their heads. Otherwise, they are in various degrees of nakedness. Some entirely naked. CONTINUED:23 23 CONTINUED:25 25 To prepare for battle, they are working themselves into a mystical Berserker rage. They are led by an old BERSERKER PRIEST. He is nude save for a belt and an ancient bird-horned headdress. He chants an Old Norse war poem. They grunt and beat their weapons and shields rhythmically, abreast in a line. There is order and rigor to the ritual. Viking martial arts.
+E: muttering dryly Amleth is bare-chested with his tunic belted to his waist, and wears a bearskin with a wolf's head.
+C: BERSERKER PRIEST
+D: Your bear-minds burn in the bodies of men. Sons of the wolf Fenrir break free from your flesh. Amleth's warrior body is muscular and flexible. The light from the burning fire flickers on his shining muscles and his weapons of choice: One arm-length war knife and a small axe of the same length. He swings them about his torso and strikes them to the accelerating beat. Lightning strikes. Thunder claps. The rain begins to pour!
+C: BERSERKER PRIEST
+D: Wolves will howl in the storm of Ódinn. Warriors will fall as the Bear claw strikes. We will fight to Valhöll! The Berserkers shout and roll their heads as they begin going into a trance, transforming from Viking warriors into fiendish man-beasts.
+E: CONT'D
+C: BERSERKER PRIEST
+D: ‘Til we return to human shape, Fearless we shall drink blood from our enemies wounds. They scream in excruciating pain!
+E: CONT'D
+C: BERSERKER PRIEST
+D: Together we will rage in the battlefields of corpses! The Father of War commands us-Transform your skin, brothers! Slaughter-wolves, Berserkers, become your fury! The transformation reaches its peak. An unstoppable fury is breaking loose within Amleth, pushing its way out of his body in strong pulses. His muscles start trembling, his veins throb, his face contorts in hellish grimaces, his limbs stretch and twist. CONTINUED:25 25 CONTINUED: 25 25 All the Berserkers around him foam at the mouth, bite their shields, roar and roll their eyes back in their heads as the rain beats down on them! They break from their line and descend into chaos. Amleth's eyes burn. He has become a super-predator, intoxicated by the promise of a merciless attack. Thunder strikes again. Lightning flashes. EXT. LAND OF THE RUS. FIELD. DAWN26 26 A gray, oppressive dawn. Amleth and the Berserkers prowl silently through a misty field of high grass. With the bearskins and wolfskins covering their backs and their heads, they truly look like a pack of animals. They move steadily toward their target in a formation that is tight and fluid. Amleth grits his teeth and flashes his wild eyes as he approaches ... EXT. LAND OF THE RUS. SLAV VILLAGE. DAWN27 27 A sizable fortified Slav village. It is peaceful, smoke from the villagers' fires billows in the morning air. There are faint dawn sounds of cocks crowing and babies waking.
+E: CONT'D 2
+C: OUTSIDE THE PALISADE
+D: A NUMBER OF ARMED SLAVS mill about on the wooden ramparts, shivering. A Slav guard sees the menacing silhouette of Viking man- beasts. He screams in old Slavic:
+C: SLAV GUARD
+D: The Bear-demons are here! The Bear- demons are here! Panic! A wooden alarm bell rings. Watchmen blow their horns. The guards on the ground close the gate as fast as they can. A Slav guard throws a spear from the ramparts. It is a sure and powerful throw. The Berserkers stop and watch with indifference as the spear flies through the air. CONTINUED: 25 25 CONTINUED:27 27 When it looks like the spear is going to land in the middle of the Berserkers, Amleth jumps up in the air and catches it mid-flight. Then, as if it were weightless, Amleth spins the spear around and throws it back. This time, it finds its mark and lands right in the breast of the Slav guard who threw it in the first place. They roar like bears and wolves! They throw off their skins!
+E: 2
+C: AMLETH
+D: To Valhöll! The Berserkers spread out and descend on the Slav village from all sides at once like the wrath of the gods. Arrows assail the Berserkers from the ramparts, many caught in their shields. Amleth quickly and fearlessly climbs up the palisade with help from his axe. The other Berserkers follow. Amleth leaps onto the battlements ... into the gatehouse ... He swiftly takes out an archer, severing his hand that still grips the bow string. Behind him, Berserkers systematically destroy the other archers ... IN THE VILLAGE. CONTINUOUS28 28 Amleth jumps below, into the village, landing on a fierce mounted soldier riding by. He tears off the soldier's helmet by the cheek guard bringing the soldier and his horse hard to the ground. Amleth then cleaves the soldier's head in two with his axe. CAMERA continues to follow Amleth running with great speed. He splits the shield of an armed man with his axe, then slits his throat with his war knife. The man's lifeless body falls splashing into the mud. Then Amleth turns swiftly around, disarming a spear-carrying soldier running toward him. Amleth kicks the soldier's shield into his face, smashing his jaw into his skull. As CAMERA follows Amleth running, it's clear from his actions, and the background action, that the Berserkers only fight other soldiers and SPARE the unarmed population. THE
+C: BRUTE VIKINGS DO
+D: NOT. Most of the villagers are hiding indoors or in animal pens, but some brave farmers use shovels and hoes, or throw raw timbers at the Brute Vikings in defense. The women throw pails of milk and toss clothing over incoming spear points – even some children throw stones – all to no avail. CONTINUED:27 27 CONTINUED:28 28 One young woman, OLGA, fights particularly ferociously. All this time, CAMERA follows Amleth. Behind him, Berserkers are taking out other armed Slav soldiers right and left, leaving the gate unmanned. A group of BRUTE VIKING FOOT SOLDIERS with pole arms descend into the village breaching the gate. These Vikings carry out the actual raiding and pillaging. A COMPANY OF VIKINGS come lead the charge. It is THE HIRD – THE HIGH COMMAND. This high- status group is dressed in mail shirts with expensive, engraved helmets, scale armor, painted shields, shining swords, and flowing banners. Amleth keeps running through the mud. An arrow narrowly misses him. A skillful, mounted archer emerges, hidden behind a hayrick. In fury, Amleth runs full force toward the archer's galloping horse – head to head – more arrows whizzing by him. Just as he is about to collide with the horse, he steps to the side and grabs the rider's stirrup, sending him off the horse to the mud. Amleth grabs the struggling archer, bites into his jugular and howls like a wolf – his mouth covered in hot blood. VILLAGE SQUARE. DAY. LATER29 29 Silence. The Slav village has been beaten into submission. Amleth stands in the muddy village square. He is bloodied and tired, coming down from his Berserker high. Around him, his fellow Berserkers stand still in similar poses. Grímr Skull- Hammer has many arrows stuck in his body. He pulls them out carelessly and throws them to the ground. The Berserkers begin to shiver. Amleth pulls his tunic over his shoulders. BEHIND HIM, Vikings separate the men from the women, dividing them into the YOUNG AND HEALTHY and the OLD AND USELESS. SCREAMING BABIES are torn from the arms of their MOTHERS. Cows, pigs, goats, and other animals are slaughtered. THE CHILDREN are HERDED INTO A BARN with the old and weak. THE CAMERA stays with Amleth as he watches this well- organized and merciless operation. Amleth sees THE HIRD trot through the village. The GENERAL, barking the commands, is a WOMAN. A SHIELD MAIDEN. The Hird makes sure their foot soldiers do not spoil the goods. It is clear that the SLAVES are the real valuables the Viking invaders have come for. The Shield Maiden slays a skinny Slav man being herded away. Two fellow Berserkers, HRÓLFUR SPLIT-LIP and THE BERSERKER PRIEST, walk past Amleth. They nod to him. CONTINUED:28 28 CONTINUED:29 29
+E: who we’ll meet later
+C: HRÓLFUR SPLIT-LIP
+D: These savages are fine chattel, eh Björnulfr? We did good.
+C: AMLETH
+D: Never better ...
+E: low, emotionless
+C: BERSERKER PRIEST
+D: When we found you as a cub, I knew then you had a heart of cold iron. Amleth looks away from him.
+E: laughs
+C: SHIELD MAIDEN
+D: Too weak! I want strong ones! Not weak ones! The VALUABLE VILLAGERS are in the center of the square. They are terrified. Humiliated families of petty nobility are stripped of their fine clothes. Goods are collected from the houses and sorted and stored away in chests and on wagons at the edge of the square. A group of Vikings encircle a limping woman . She holds her six year old SON close ... OLGA, a young blonde woman with large, wide-set eyes , tries to intervene. She holds a LOAF OF BREAD and kneels before the group of Vikings. She raises it high above her head, as an offering ... one of the men goes to her and takes the bread ... he leans into her ... Just then, Olga pulls a small eating KNIFE from her belt AND TRIES TO STAB HIM IN THE FACE ... HE RETREATS IN TIME ... SHE WIELDS THE KNIFE WILDLY, LAUGHING, but she is quickly restrained and dragged away. The men encircle the one-shoed woman ... her son runs free as she screams ... But a Viking quickly picks up the child and shoves him into the barn packed with people, and bars it shut. Other Vikings SET FIRE TO THE BARN. The Vikings laugh and make sheep noises, mocking the screams of those trapped inside. In Amleth's eyes, there is a hint that he is waking up to the brutality of it all. INT. LAND OF THE RUS. SLAV VILLAGE. STORE HOUSE. NIGHTFALL30 30 The Berserkers are celebrating the successful defeat of the Slav guards, making the storehouse into a sort of tavern. CONTINUED:29 29 CONTINUED:30 30 They are being rewarded with plentiful food and drink served by AN OLD MAN who can barely keep up with the warriors’ appetites. A TRAUMATIZED MUSICIAN is forced to perform and mocked when it goes badly.
+E: with one shoe who we saw fighting in the raid
+C: THÓRVALDR GIANT-CRUSHER
+D: Play, you idiot, play ... The Berserkers, exhausted and wounded, are still up to party. One laughs, wearing the helmet of a slain Slav guard. When a group of frightened SLAV TEENS are dragged in by their hair for the Berserkers’ pleasure, Amleth gets up.
+E: boys as well as girls
+C: GRANI BATTLE-SCREAMER
+D: Björnulfr?
+C: AMLETH
+D: I’ll leave you to strangle your chicks and goslings ... EXT. LAND OF THE RUS. SLAV VILLAGE. NIGHT31 31 Amleth stands in the burnt cinders and ransacked remains of the Slav village. It is deadly quiet. Something catches his gaze. He walks forward slowly ... Slowly ... OMITTED32-33 32-33 EXT. LAND OF THE RUS. SLAV VILLAGE. CONTINUOUS34 34 Amleth walks to a smoldering ruin of a Slavic Pagan shrine. It is much smaller than the temple on Hrafnsey, but it shares some of its features. There is a kinship between polytheistic places of worship: Massive wooden poles with carved faces, decorated cattle skulls, and singed bones of different sacrificial animals. INT. LAND OF THE RUS. SLAV VILLAGE. SHRINE. CONTINUOUS35 35 Amleth enters the ruined shrine. It is pitch black, but at the far end, the blueness of the night finds its way in through a rift in the roofing. CONTINUED:30 30 CONTINUED:35 35 It creates ominous silhouettes above the altar from the desecrated effigies and torn ribbons. Offerings of milk, cream, and eggs are spilled over abundant flowers. Amleth notices a strange movement in the shadows by the altar. It is followed by a low but insistent WHIRRING SOUND. The sound is strangely seductive, and it draws Amleth closer, deeper into the shrine. He is terrified, but he cannot stop his approach. By the altar, Amleth finds someone cowering in the dark, turned away from him. He walks silently toward the figure. It is a SEERESS, spinning wool on her distaff and spindle. The seeress senses his presence.
+C: SEERESS
+D: Prowl in shadow, slayer of my people. Hide. Even though your brothers stole my eyes, I see you. She turns to face Amleth. Her eye sockets are dark. Streaks of blood stretch from her eyes down her cheeks. Amleth retreats in horror.
+C: AMLETH
+D: I am no one's brother. She ignores his question and shocks him even more with what comes next:
+C: SEERESS
+D: It is not enough to be the man who never cries ... Prince Amleth. Before Amleth can respond to her uttering of his real name and title, she quickly grabs his right hand with her left.
+C: SEERESS
+D: The prince that turned from his fate. A beast that cares for naught. A beast that wrings tears from the eyes of men. A beast scavenging for wisdom in the temple it burnt to the ground. Amleth tries to pull away, but her grip is fiendishly firm. She forces his hand open and points to a single teardrop sitting there, glittering in his palm. Amleth is terrified. She goes into a trance. Her voice becomes hypnotic. CONTINUED:35 35 CONTINUED: 35 35
+E: CONT'D 2
+C: SEERESS
+D: Now remember for whom you shed your last teardrop. Remember the oath to right the wrong. Remember the Raven King. Remember. Remember. Amleth pulls harder to retrieve his hand, but the Seeress is steadfast. She tightens her grip on it and continues with her prophecy. She closes his fist around the teardrop.
+E: CONT'D
+C: SEERESS
+D: It contains the salty ocean you must sail upon to the edge of the world.
+E: CONT'D
+C: AMLETH
+D: It feeds the freezing river of hate that runs in my veins. Amleth is spellbound by her speech.
+C: SEERESS
+D: It will take you to an island in the north, where there will spring a burning lake, bursting from a black mountain’s peak. Amleth nods in agreement, as if in a trance.
+C: AMLETH
+D: There, I will drown my father’s killer.
+C: SEERESS
+D: Follow the vixen's tail to the dwelling of the ancient one. To seek the fated sword, that matches your brutal rage.
+C: AMLETH
+D: Why speak you my fortune, witch? The seeress leans in and lowers her voice for the last and surprisingly hopeful prophecy.
+C: SEERESS
+D: For where your path of ashes ends, another will begin her journey. A maiden king.
+C: AMLETH
+D: Release me ... CONTINUED: 35 35 CONTINUED: 35 35
+E: 2 3
+C: SEERESS
+D: You cannot 'scape what Fate the Norns have spun. Now begone! Amleth wakes up from the trance and manages to free his hand — or is it the Seeress who lets it go? Amleth shouts like a wounded animal as he is thrown back by the release. The Seeress lets out a piercing fox's cry. As Amleth regains his balance, the Seeress has vanished. Her chilling scream echoes in the dark. EXT. LAND OF THE RUS. RIVER BANK. DAY36 36 Amleth is still in a daze from the Seeress’ words. He works alongside Eiríkr Blaze-Eye, dragging the bigger branches away from the Langskip and getting it ready to leave. Several large Knörrs are moored nearby. He watches the slaves being sorted for the last time. THE SHIELD MAIDEN laughs, playing a board game with her officers. As Amleth works, he hears the shouts and orders of the Hird.
+E: a beat, commanding merchant ships
+C: HIRD OFFICER
+D: These slaves go to Uppsala! Those to the market in Kiev! When the slaves have been assigned a destination, they are taken to be branded. After the branding, they are herded onto Knörrs, along with the other valuable plunder.
+E: beat
+C: HIRD OFFICER
+D: Send them to Constantinople. Another group is brought before the slaver for inspection.
+E: CONT'D
+C: HIRD OFFICER
+D: And these strong ones should make it all the way to Fjölnir's post in Iceland! Upon hearing the last shout, Amleth looks over his shoulder at the slave trader. CONTINUED: 35 35 CONTINUED:36 36
+E: CONT'D 3
+C: AMLETH
+D: Who is this Fjölnir, living in Iceland?
+E: muttering
+C: EIRÍKR BLAZE-EYE
+D: Fjölnir the Brotherless. So called after he killed his brother, the disgraced King Aurvandil War-Raven. The last remark hits Amleth hard, but he bites on it and continues his work, dragging a long, heavy birch branch.
+C: AMLETH
+D: I know of him. Why are his slaves bound for Iceland? Fjölnir rules over Hrafnsey.
+C: EIRÍKR BLAZE-EYE
+D: Fjölnir fled to that frontier backwater with his wife and son after King Harald of Norway, took his kingdom. He killed his brother for nothing, now he's a sheep farmer! Just then, A RAVEN lands on a post of a temporary Viking 37 37 shrine erected in the encampment. The raven looks at Amleth and croaks.
+C: AMLETH
+D: Father ... Amleth looks back at the raven. An omen. It's now or never. A QUICK SUCCESSION OF IMAGES: Amleth steals the clothes off a murdered Slav.38 38 Hidden from view, Amleth shears his long Dane-man's hair and 39 39 beard with the sharp blade of his knife. In a clearing with a view of the river, Amleth goes to a 40 40 cauldron with a selection of branding irons that have been left there, hanging over a smoldering fire. Behind him a slave ship is sailing away. Amleth opens his shirt and brands himself on his shoulder, gnashing his teeth. He pulls the iron from his body and looks at his smoldering skin imprinted with Fjölnir's bind rune branding mark. CONTINUED:36 36 CONTINUED:40 40 He looks back at the iron ...
+E: whispered
+C: AMLETH
+D: Worry not. When I meet your owner, I will thank him for the warmth you gave me. Amleth throws the iron away. He tears his Arab amulet from off of his neck ring, discards the ring, and puts the amulet in his mouth. Amleth looks out to the river, the slave ship is rowing out into the bay. EXT. RIVER/SLAVE KNÖRR. DAY41 41 Amleth swims to the side of the ship. He grabs hold of some rigging running through the ship’s gunnel. He hears a commotion aboard the ship. He pulls himself up to take a look ... INT/EXT. SLAVE KNÖRR. DAY42 42 The crew is busy raising the yard getting the ship ready to sail. The captain shouts commands. Amleth uses this opportunity to climb aboard, unseen, as the sail drops into place. Amleth slides down into the holding where the slaves are kept, crammed together. He finds a place by the ship's side and sits down. The slaves are too confused and stricken by pain and sorrow to pay him any mind. Olga is less rattled and beaten than the rest. She kneels by a woman who is sobbing uncontrollably. Olga removes some herbs from a tiny linen pouch she wears under her shift. She puts them in the crying woman’s mouth. Olga turns to Amleth, catching him watching her. He's a bit fearful of her. Olga cradles the sobbing woman. Amleth watches. EXT. OCEAN. DAY43 43 The slave knörr sails on the open sea. CONTINUED:40 40 EXT. SLAVE KNÖRR. NIGHT43A 43A It rains gently, but the slaves are already soaking wet in the exposed hold. The crew has erected a small tent on the ship and huddle inside. It glows with warm firelight. Amleth is awake staring into the tent with intensity, plotting. Olga sees him. She whispers with a dirty look:
+E: muttering
+C: OLGA
+D: Your sheep’s clothing doesn’t disguise you, North-man. Amleth pauses. He’s caught.
+C: AMLETH
+D: What say you, spell-speaker?
+C: OLGA
+D: You wish to be a slave, hide your cunning. Show the shepherd you are a sheep.
+C: AMLETH
+D: I’ll show the shepherd his death. They stare at each other. Thunder quietly rumbles in the distance as the rain patters. EXT. SLAVE KNÖRR. NIGHT44 44 Lightning strikes! A nightmarish storm assails the ship. It threatens to rip apart the sails as the slave ship struggles in the huge waves.. Everyone is seasick and worse. Weak slaves are hurled overboard by the crew. The wind roars and the ship's timbers groan like the living dead of Hel.
+C: AMLETH
+D: I have you. Take my hand. Amleth and Olga hold on to the ship’s mast for dear life. Olga nearly looses her grip, but Amleth draws her near. Another wave lashes the ship. They hold each other tightly as the wave nearly washes Amleth away. He bangs his head against the mast. Olga holds him. Amleth’s mind races with images that have to do with his mission — his FATE. CONTINUED:44 44 A QUICK SUCCESSION OF IMAGES: The Seeress silently mouthing the words of the prophecy.45 45 The last teardrop falling through the air.46 46 King Aurvandil howling like a dog.47 47 Spears lodging in a body.48 48 The blood-tree of the initiation vision.49 49 Olga wears a crown of rowan branches.49A 49A The thread of Amleth's Fate being spun.50 50 Queen Gudrún combing her long red hair.51 51 Fjölnir removing his helmet.52 52 The Seeress’ bloody eye sockets – then her eyes intact.53 53 The yellow eyes of an arctic fox vixen.54 54 A lake of flowing lava.55 55 An ominous, ancient man within a cave.56 56 A smoldering volcano.56B 56B The flutter of Aurvandil's royal raven banner.57 57 THE DELIRIUM COMES TO A SUDDEN END.58 58 Amleth is sleeping soundly, a peaceful look on his face. His head rests on Olga's shoulder, her blanket covering both of them – BUT – the light dances in a strange, supernatural way over their faces. EXT. THE ATLANTIC OCEAN. CONTINUOUS59 59 The slave knörr is sailing toward the mythological world-tree YGGDRASILL. Up in the sky, the Northern Lights crown the majestic tree with their haunting movements — on the sea beneath it, their reflection colors the lulling waves. AMLETH AS A BOY I will avenge you, father, I will save you, mother, I will kill you, Fjölnir ... TITLE CARD: I C E L A N D CONTINUED:44 44 INT. FJÖLNIR'S FARM. LONGHOUSE. MASTER BEDROOM. NIGHT60 60 Audio: A Raven croaks. In bed, Fjölnir awakes from a terrifying dream, sweating and screaming. A woman beside him raises herself up from the coverlet. It is the former queen, Gudrún. She rolls over and strokes Fjölnir's hair comfortingly. Both have aged since we last saw them, but are still fit and fine. They sleep in an enclosed BOX-BED with locked doors, almost like a large cupboard built into the wall.
+E: V.O.
+C: GUDRÚN
+D: Hush, hush, my love.
+C: FJÖLNIR
+D: A voice cried out to me from darkness. It cried: ‘Your end has come. You are come home ... home to Hel.’ I fear it was my brother.
+E: gasping for air
+C: GUDRÚN
+D: Calm yourself, my love. If your brother calls you, he calls from the battlefields of the dead. That is where you and Aurvandil will meet again... Fjölnir finds peace in her words and closes his eyes. She strokes his hair and continues in a soothing voice.
+C: GUDRÚN
+D: And you will kill him again. And again and again. Gudrún makes sure Fjölnir is at rest before she lays her head on her pillow. But the instant she closes her eyes, she is startled by more ominous RAVEN CROAKING from outside. Gudrún opens her eyes in fear. She leaves her bed and puts a blanket over her shoulders. LONGHOUSE HALL61 61 Gudrún walks through the house. From the modestly paneled walls and dirt floors, it is obvious that she and Fjölnir are living in much humbler conditions than in Hrafnsey. But the longhouse is still large, with many chambers and sleeping inhabitants, dogs, and wandering chickens. CONTINUED:61 61 Gudrún walks through another threshold and into a large kitchen. INT. FJÖLNIR'S FARM. LONGHOUSE. KITCHEN. CONTINUOUS62 62 As Gudrún walks by, a few bodies stir in the shadows, lying on the floor. MELKORKA, the 16 year old Irish kitchen slave, wakes for a moment then goes back to sleep. Gudrún climbs up a wooden ladder adjacent to the main hearth. She hears the CROAKING of the raven. Gudrún unlocks and opens a small shutter to a smoke hole set into the sloping roof. The hole is just big enough for her to push her upper body through it. EXT. FJÖLNIR'S FARM. LONGHOUSE. ROOF. NIGHT63 63 Gudrún sees, standing on the turf roof, a big RAVEN, blacker than the night sky. A number of his kin are nearby. They shift about at her presence, but do not take off. The big raven croaks again, staring at her. Gudrún shoos him, throwing her hands in the air.
+E: CONT'D
+C: GUDRÚN
+D: Off! Off ... She tears a lump of grass from the roofing and throws it at the persistent birds. The raven CROAKS again.
+C: GUDRÚN
+D: I know you are hiding in your feathered-shadow, Aurvandil. You are dead. Be gone! The raven croaks one last time and flies into the night with his clan. EXT. SOUTHERN ICELAND. BLACK BEACHES. DAY64 64 The black beaches of southern Iceland. An unimaginably huge glacier spreads its white-cold cloak in the distance. Massive chunks of glass-like melt-ice from the glacier line the shore, glinting like giant jewels in different hues of blue in the morning sun. It is as beautiful as it is menacing. CONTINUED:61 61 CONTINUED:64 64 Amleth wades through the waves onto dry land from a row boat floating at a short distance from the shore. Behind him, the slave knörr is moored out on the bay, and another rowboat is shuttling slaves. Olga is in the group of slaves just behind him. Corpses of slaves bob about, floating in the water. On land, a group of ARMED MEN await them with horses and the trappings of the slave trade. Ahead of him, Amleth sees slaves collapsing on the sand as they reach it. They are brutally kicked and dragged onto their feet by the armed men. Behind him, Olga stumbles and falls into the water. Amleth turns around and raises her up, helping her to shore. As soon as their feet touch the shore, an armed man pulls Olga away from Amleth and drags her toward the group of female slaves. Another armed man beats Amleth with the end of a spear and pushes him toward the male group.
+E: CONT'D
+C: HALLGRÍMR HALF-TROLL
+D: Move! Amleth sees Hallgrímr Half-Troll and Finnr Nose-Stub, Fjölnir's treasonous right-hand men from Hrafnsey. They are overseeing the arrival of the slaves. Finnr’s missing nose is now a sinister, concave slit. Finnr shrieks in a nasal, aspirated voice:
+C: FINNR NOSE-STUB
+D: Let him rot, the seagulls will eat him, if they’re hungry. MOVE SWINE!!!! Amleth’s face is stern, his eyes are full of hate. Then he remembers that he must play the docile slave, his face goes slack, his shoulders sink. The two slave groups, male and female, are herded off the shore, inland in the direction of the magnificent glacier that reaches for the sky in the distance. EXT. SOUTHERN ICELAND. WILDERNESS. DAY65 65 Amleth and Olga travel in chains, with the other slaves. They are tethered neck-to-neck with their hands in shackles. They walk alongside small, shaggy pack horses, guarded by the armed men on horseback. They are taken across immense Icelandic landscapes: Green, lush, mossy lava fields. CONTINUED:64 64 Multi-colored sulfurous mountain slopes.66 66 A valley with steaming hot springs.67 67 EXT. SOUTHERN ICELAND. KERLINGARFJÖLL. DAY67A 67A The slave train is taken through bubbling mud pools and pits emit foul smoke, making the slaves choke and cough. Amleth and Olga are tied together by chains, the train slows down as the ground is treacherous. Olga looks over the hostile landscape. She glances over her shoulder at Amleth.
+C: OLGA
+D: Why would you stow away to such a hellish place? This ground harbours evil. Amleth scans the monstrous area.
+C: AMLETH
+D: My Fate has brought me here, to find what was stolen from me.
+C: OLGA
+D: And what is that?
+C: AMLETH
+D: A mother, a father, a kingdom.
+E: hesitating, secretive
+C: OLGA
+D: This is your kingdom?
+C: AMLETH
+D: The traitor who stole my kingdom fled here when another king took it from him. I will leave when I’m done with him.
+C: OLGA
+D: I am Olga of the Birch Forest, and I too, vow to escape this island.
+C: AMLETH
+D: Then you must face many foes ...
+C: OLGA
+D: As do you. Would you face them alone?
+C: CONTINUED:67A 67A AMLETH OLGA
+D: Your strength breaks mens’ bones. I have the cunning to break their minds. Amleth looks at her with interest.
+C: HALLGRÍMR HALF-TROLL
+D: You two, hold your traps! Walk on!
+E: O.S.
+C: CAMERA PUSHES INTO AMLETH:
+D: The faintest smile passes his lips.
+C: AMLETH
+D: Always heed the wisdom of women. EXT. FJÖLNIR'S FARM. NEAR THE SMITHY. DAY68 68 Fjölnir's farm, FREYSDALUR, is a prosperous estate with a great TURF LONGHOUSE and out buildings in the same Norse style. Horse stables, a barn, dairy, smithy, tannery, carpentry, dye-works/weaver's workshop, and so forth, plus workers' living quarters and some dismal looking sheds and byres – housing for animals AND SLAVES. Flocks of sheep roam the tall hills. Cows bellow. A rooster crows. In the distance, over the rolling hills looms a black mountain:
+C: MOUNT HEKLA.
+D: Fjölnir is working in the yard, splitting a log into raw lumber. He's with his son GUNNAR, a 12-year-old who resembles his mother Gudrún, more than his father. Gunnar chops away with a small axe. ARMED MEN stand a stone's throw from Fjölnir at all times
+C: GUNNAR
+D: Why are we doing this?
+C: FJÖLNIR
+D: What?
+C: GUNNAR
+D: This.
+E: motions to the log
+C: FJÖLNIR
+D: Huh ...
+C: GUNNAR
+D: It's slave work.
+C: CONTINUED:67A 67A
+D: CONTINUED:68 68 Fjölnir sighs.
+C: GUNNAR
+D: You are the chieftain. It's your temple and I'm the heir to this holy chiefdom. Fjölnir halts his work.
+E: CONT'D
+C: FJÖLNIR
+D: No man knows if he will celebrate next Yuletide as a king or as a slave. It is best to be prepared for both. Fjölnir returns to his work — but halts again.
+C: FJÖLNIR
+D: And to stave off the latter, the least you can do is show your slaves that you are as strong as they are.
+E: CONT'D
+C: GUNNAR
+D: But no one's watching us. He's right. Everyone on the farm is minding their own business . Fjölnir stops the work and the conversation.
+E: well, except the stoic armed guards
+C: FJÖLNIR
+D: Go and fetch us some whey. And think on what I said ... Gunnar runs off. Fjölnir wipes his brow and watches with admiration as a young man practices his weaponry skills with two other young men in a fenced off area by the forge. It is THÓRIR THE PROUD, Fjölnir's son who was just a baby in Hrafnsey. He's now in his 20s. His sea-green eyes scowl. He's inherited his father's dark coloring and presence. His pals are the blond brothers HERSVEINN BATTLE-HARD and HJALTI BATTLE-HASTY. Thórir is fending off the two with a sword and shield as they attack him with spears. A sword master stands by with a reprimanding willow stick. Gunnar comes back to Fjölnir, holding a big clay jug and two wooden cups. Fjölnir pours the whey into a cup he hands Gunnar, but drinks directly from the jug himself. Gunnar takes a sip and looks at Thórir and his friends. CONTINUED:68 68 CONTINUED: 68 68
+E: 2
+C: GUNNAR
+D: Why doesn't Thórir ever have to do slave work? He's not even my real brother.
+C: FJÖLNIR
+D: Silence!
+C: GUNNAR
+D: But ...
+C: FJÖLNIR
+D: He is your brother.
+C: GUNNAR
+D: Half.
+C: FJÖLNIR
+D: Thórir has been reared up for a different role. He'll be sailing to the court of Norway, come autumn.
+C: GUNNAR
+D: Mother says you favor him.
+C: FJÖLNIR
+D: Be glad you have a mother. His mother died bringing him into this world.
+C: GUNNAR
+D: I care not. I want to go to Norway.
+C: FJÖLNIR
+D: And you will. But know this is your family land. Haraldr Fine-Hair took my Kingdom? Ha! I care not. I care for you and Thórir. When I threw my high seat pillars to this shore it was for my children to prosper. The earth. The sea. Great bounties for my blood to reap. And when our time has come, we will die into these hills. Gunnar looks up to HEKLA, the volcano beyond the hills.
+C: GUNNAR
+D: Then I wish to die into that mountain.
+C: FJÖLNIR
+D: That black peak is the very Gate of Hel. CONTINUED: 68 68 CONTINUED: 68 68
+E: 2 3
+C: GUNNAR
+D: Then will I become Hel's bondsman when I am buried there – and Thórir will kneel before me.
+C: FJÖLNIR
+D: Stop this! You are brothers! None will kneel before another. You must swear always to remember that you are blood ... Now swear it! Gunnar touches his father’s arm ring, reluctantly.
+C: GUNNAR
+D: I swear it. Fjölnir puts his hand under Gunnar's chin and looks him in the eyes. Gunnar smiles. Just then, Thórir screams with rage! Fjölnir turns and watches Thórir lose his sword and fall to his knees. Hersveinn and Hjalti raise their spears, preparing to stab the furious Thórir. Hersveinn and Hjalti put down their spears. Fjölnir shakes his head, ignoring this outburst. It's clearly common behavior. The moment is interrupted when someone comes riding up to Fjölnir and Gunnar. Fjölnir's guards ready themselves. It's Hallgrímr Half-Troll and Finnr Nose-Stub looking worse for wear from the long journey. The men lower their spears.
+C: HALLGRÍMR HALF-TROLL
+D: Fjölnir, my lord, your shipment is here. EXT. FJÖLNIR'S FARM. FARMYARD. DAY69 69 Amleth is filthy. His hair has grown during the voyage to Iceland. It covers half of his now shaggy-bearded face in a tangle. He is among the male slaves, still chained, in the center farmyard. Olga and the other female slaves are there too. The slaves are dead tired after the long walk from the south coast. Some sit or lie on the ground. Pigs scream from inside one of the nearby animal sheds. Hallgrímr Half-Troll and his armed men watch over them. CONTINUED: 68 68 CONTINUED:69 69 Fjölnir comes striding forward to inspect the slaves, surrounded by Thórir, Hersveinn, Hjalti, and his other men, all armed to the hilt. Amleth tenses up when he sees Fjölnir, and secretly tests the strength of his iron fetters. They hold. His attack on his father's murderer must wait.
+E: 3
+C: FJÖLNIR
+D: Well, show me.
+C: THÓRIR
+D: Where’s the rest of them? Hallgrímr and Finnr kick a couple of the male slaves.
+C: HALLGRÍMR HALF-TROLL
+D: Get on your feet! On your feet!
+C: FINNR THE NOSE-STUB
+D: Up, swine! The armed guards kick the female slaves. Everyone rises, many groaning.
+C: HALLGRÍMR HALF-TROLL
+D: Line up, bastards! The slaves line up. Fjölnir looks the men and the women over. He's emotionless. Fjölnir prepares to leave.
+C: FJÖLNIR
+D: They won't last the winter. Sell all of them. Amleth sees that he is about to miss his opportunity. He grunts loudly and pulls the slave standing next him to the ground to get Fjölnir’s attention. It works.
+C: FJÖLNIR
+D: Let me see this one. Hallgrímr pulls Amleth forward. Amleth keeps calm even though it is deeply painful for him to be so close to the man he has vowed to kill. Fjölnir pinches Amleth's biceps and thighs. He makes Hallgrímr pry Amleth's mouth open so he can check his teeth and gums. Amleth plays the part of a docile, dimwitted beast. CONTINUED:69 69 CONTINUED: 69 69
+E: CONT'D to Hallgrímr 2
+C: FJÖLNIR
+D: We've kept worse. Fjölnir gestures to Hallgrímr Half-Troll. Hallgrímr unchains Amleth from his fellow slaves. His wrist fetters remain. Thórir steps forward from behind Fjölnir.
+E: CONT'D
+C: THÓRIR
+D: I'm not impressed. His stench! Amleth turns to Thórir.
+C: THÓRIR
+D: Never look me in the eye, slave. Thórir punches Amleth in the stomach. Amleth receives the blow with little reaction, just slightly bending over, but he lets out a quiet, guttural growl. Fjölnir is impressed.
+E: CONT'D
+C: FJÖLNIR
+D: Well, I wonder what they call a beast like you in the Land of Rus? Amleth answers in the Norse tongue
+C: AMLETH
+D: I ... am ... Björn ... ulfr ... Fjölnir laughs.
+E: in a hoarse voice
+C: FJÖLNIR
+D: By name alone you can tell he is as strong as a bear! Fjölnir puts his face right up to Amleth's face:
+E: to Thórir
+C: FJÖLNIR
+D: But if you're as untrustworthy as a wolf, I swear I will put you down myself. Amleth shivers with rage, but manages to stay calm enough to look Fjölnir in the eyes. Fjölnir breaks off the staring contest. CONTINUED: 69 69 CONTINUED: 69 69
+E: CONT'D whispering 2 3
+C: FJÖLNIR
+D: We keep this one, the rest can go. Amleth looks over to Olga. There is pain in their eyes as they exchange glances. Amleth is about to be marched away when Gunnar comes running over.
+E: CONT'D to Hallgrímr
+C: GUNNAR
+D: But, mother needs two for the kitchen and one for the laundry. And two males for the harvest. Amleth's ears prick up at the word "mother." Fjölnir scans the female slaves quickly, and without much interest, picks out three.
+E: remembering
+C: FJÖLNIR
+D: Fine. These two for the kitchen, and her for the laundry. And chose two male for the fields. Fjölnir points to AN OLDER WOMAN, A YOUNG WOMAN, and a TEENAGE GIRL by her side. The women and the girl are unchained. Then, Fjölnir notices Olga. He looks her up and down, barely hiding his appreciation.
+C: FJÖLNIR
+D: And her, too. Doesn’t matter if she knows how to cook or wash. Keep her arms white and her hair long. Amleth throws Olga a glance. She looks down. Amleth is marched toward the oxen shed by the two armed guards. INT. FJÖLNIR'S FARM. OXEN SHED. NIGHT70 70 The long, single room is overfull with slaves sleeping tight together on the dirt floor, lying among other sleeping beasts of burden – large horned OXEN. A lucky few have some fodder to lie on. All is quiet. Snores and whimpers. The ominous moaning of cattle. Amleth lies on his back, watching the moonlight seeping in through ventilation holes in the roof. CONTINUED: 69 69 CONTINUED:70 70 His hair has been cropped short with sheep shears, like all the other male slaves. He's holding something in his fist. AUDUNN THE IRISH, a tall world-wearied, watches Amleth with tired eyes. He speaks, half-asleep:
+E: CONT'D to Hallgrímr beat 3
+C: AUDUNN THE IRISH
+D: Plan to climb out, eh Bear-Wolf? Even if you did escape this farm, you'd only be carrion for the blue foxes and selkies. This island is a barren waste. Best find yourself some sleep. Audunn closes his eyes again and turns his back to Amleth. Amleth opens his fist and looks at his Arab amulet in his palm. EXT. FJÖLNIR'S FARM. OXEN SHED. 71 71 Amleth jumps off the roof. He heads for the farmyard, toward the forge. INT/EXT. FJÖLNIR'S FARM. SMITHY. NIGHT72 72 Amleth sneaks behind the smithy. He can see the longhouse from there. (In the yard, are other small out buildings and a
+C: CHICKEN COOP.)
+D: Through an opening, by the back door Amleth sees that the smithy is used as much for weapon making as tool-making.
+C: FORGE
+D: VÖLUNDUR THE SMITH is finishing his long day's work. Lying about on the work tables are fine weapons, some being repaired, and some half-made. Behind him are stores of weapons in a side room. A very well- stocked armory.
+C: FARMYARD
+D: Amleth gets closer. He reaches his hand through a chink in the waddle wall, trying to get a short sword that appears to be within his grasp ... but ... as his fingertips are about to touch it ... there is a commotion in the yard behind him. He pulls back his hand ... A brown-blue arctic fox VIXEN runs from the chicken coop with a bloody HEN in her jaws. The chicken is clucking loudly and frantically flapping her wings. CONTINUED:70 70 CONTINUED:72 72 For a moment, the VIXEN stares straight at Amleth. It’s supernaturally eerie. Just then, Völundur bursts out of the smithy's back door, A LARGE BEARDED AXE IN HAND.
+C: VÖLUNDUR
+D: Get. Get. Get! Thieving demon-bitch! Amleth retreats into shadow. The vixen quickly darts off with her prey. Völundur shakes his head and goes back inside. As Amleth watches the vixen run toward the hills beyond, he hears a familiar voice:
+C: GUDRÚN
+D: Away! Amleth looks up: Gudrún is on the longhouse roof, a distant silhouette. She desperately shoos croaking ravens who fly into the night. He watches her. Amleth is flooded with emotion by the sight of his mother.
+E: O.S.
+C: AMLETH
+D: I will avenge you, father, I will save you, mother, I will kill you, Fjölnir, I will ... EXT. FJÖLNIR'S FARM. DAY73 73
+E: whispering
+C: A SUCCESSION OF IMAGES: DISTANT FIELD
+D: Amleth is carrying a big load of freshly cut willow on his back. Smoke drifts around him. He takes the load to a high stack of wood that is being prepared for coal making. Further on are stacks of the same kind, but already smoking. BY THE BARN74 74 Amleth and three other slaves build a fence. Amleth hammers the posts into the ground with a primitive sledge hammer. Thórir supervises the work. CONTINUED:72 72 UNCULTIVATED FIELD 75 75 The sun shines. Amleth is one of a group of slaves extracting huge boulders from a field. Sweat pours from the men working with rudimentary tools and bare hands. Amleth drags a sledge full of boulders up a hill, grunting like a beast of burden. EXT. FJÖLNIR'S FARM. FIELD. DAY76 76 It's laundry day at Fjölnir's farm. In the field down from the longhouse, Amleth is filling heavy buckets with water. Female slaves dip linens into the stream and strike them with washing paddles. On the shore, more women pour water on rugs and scrub them with their bare feet. Blue sky, the sun is out. NEARER TO THE LONGHOUSE. LATER77 77 Amleth carries the two buckets on a yoke, past a green field where many textiles are laid out to dry. Amleth walks by a pair of slave women who are beating the dust out of a tapestry ... he slows ... It's King Aurvandil's RAVEN heraldry, stolen from Hrafnsey. Amleth's face hardens. Two male slaves walk past him, carrying another tapestry draped on a pole. Amleth sees that slaves like this are going straight into Fjölnir's longhouse – past Fjölnir's armed men. Amleth pushes away the slave holding the back end of the pole and takes his place.
+C: AMLETH
+D: Go take a piss ... Audunn the Irish is at the front of the pole. He looks at Amleth with a bewildered expression, as they head quickly to the longhouse. INT. FJÖLNIR'S FARM. LONGHOUSE. DAY78 78 Amleth follows the lead of Audunn the Irish in front, who seems to know where they are going. As they walk through the longhouse, Amleth surveys its layout. Amleth carefully scans the different ROOMS and CLOSETS. Everything is being washed and cleaned.
+C: MAIN HALL
+D: CONTINUED:78 78 The main hall is a poor man's version of the grand hall of the Hrafnsey stronghold. Imitations of grandeur. Amleth and Audunn the Irish are received in the hall by HALLDÓRA, a tough Pict woman in her 40s. A former slave. She seems to be in charge. And she's not to be trifled with.
+C: HALLDÓRA
+D: In there. She motions to Amleth and Audunn to bring the tapestry to the wall opposite the high table.
+C: HALLDÓRA
+D: Stop there. There, TWO MAIDS hoist it like a sail. It covers the wall. This tweed tapestry is embroidered with the image of a red tree, its branches folding in on themselves and curling this way and that. It reminds Amleth of his family blood-tree he saw in his initiation vision as a young man. Amleth stares at it in wonder.
+E: CONT'D
+C: HALLDÓRA
+D: You! Amleth is startled.
+E: O.S. CONT'D
+C: HALLDÓRA
+D: Get on with it. While Amleth was studying the embroidered tree, Halldóra draped several more wall hangings onto Amleth and Audunn's pole.
+E: CONT'D
+C: HALLDÓRA
+D: On with you now ... Amleth takes the initiative, turning around so he is at the FRONT end of the pole. He leaves with Audunn in tow. CORRIDOR79 79 Amleth crosses a threshold into an corridor near the master bedroom. Audunn the Irish looks concerned. But Amleth is taking the opportunity to explore the rest of the longhouse.
+E: CONT'D
+C: AUDUNN THE IRISH
+D: Where’s your wits? Turn around. CONTINUED:78 78 CONTINUED:79 79 The door to the master bedroom is open. A sweet melody is being hummed inside it. Amleth slows down and looks into the room from a distance. MASTER BEDROOM80 80 Amleth sees Gudrún. She is humming and tenderly combing Fjölnir's long, dark, gray-streaked hair. He sits bare- chested on a stool in front of her, with his back turned to Amleth. It is a calm and intimate moment. Gudrún becomes aware of Amleth's presence. She falls silent and looks up. She stares at him, the comb in her hand. Unaware of why Gudrún has stopped combing his hair, Fjölnir reaches for Gudrún's hand and kisses it. Amleth is still in the shadows of the corridor. Does she know it's him? No. She calls out:
+C: GUDRÚN
+D: Shut the door! One of Gudrún's servants quickly does so. OMITTED81 81 KITCHEN82 82 Olga is by the hearth, stirring a large pot of crude porridge. Melkorka, the kitchen slave, is working by her side. Halldóra is now overseeing the kitchen work. Footsteps are heard coming from the corridor. Olga looks up and sees Amleth rush by the kitchen door, gritting his teeth, overwhelmed with poisonous anger.
+C: HALLDÓRA
+D: Keep your eyes off him, child. Your gaze belongs only to our chieftain now. INT/EXT. FJÖLNIR'S FARM. OXEN SHED. DAY83 83 Amleth sits with his back against the doorpost of the open shed. He listlessly eats porridge from a wooden bowl. Outside, the male slaves are lined up holding their bowls. Audunn the Irish, in line, scowls at Amleth. Halldóra distributes the crude porridge from a big pot. CONTINUED:79 79 CONTINUED:83 83 Olga is there with Melkorka and other kitchen staff. They collect the empty bowls, putting them into baskets they carry on their heads. Olga stops by Amleth.
+C: OLGA
+D: Did you find it?
+E: in a low voice
+C: AMLETH
+D: Huh?
+C: OLGA
+D: What you lost. Amleth looks at her emptily.
+C: OLGA
+D: In the house today. Was it there?
+E: CONT'D
+C: AMLETH
+D: That and more ... Hallgrímr Half-Troll and Finnr Nose-Stub walk over in the background. Hallgrímir spots Olga and nudges Finnr.
+C: AMLETH
+D: It is a nightmare.
+E: CONT'D
+C: OLGA
+D: Then you must wake up.
+C: AMLETH
+D: It's their nightmare ...
+E: hissing
+C: FINNR NOSE-STUB
+D: You! You, woman! You come with us.
+C: HALLGRÍMR HALF-TROLL
+D: You don’t belong here. Fjölnir wants you close. As Finnr strides toward Olga, she glances at Amleth.
+C: OLGA
+D: If you lose me, will you come and look for me, too? Amleth doesn't answer. CONTINUED:83 83 CONTINUED: 83 83
+E: 2
+C: FINNR NOSE-STUB
+D: Ho! Here ... Halldóra catches Olga talking with Amleth again.
+E: O.S.
+C: HALLDÓRA
+D: Girl! I told you! Olga looks Amleth deeper in the eyes. She places her hand on Amleth’s hand. For a moment ....
+C: OLGA
+D: Will you? Amleth watches as Finnr Nose-stub grabs Olga by the arm and drags her away. INT. FJÖLNIR’S FARM. OXEN SHED. NIGHT84 84 Amleth is asleep. A persistent scratching noise from outside awakes him. EXT. FJÖLNIR’S FARM. OXEN SHED. NIGHT85 85 Amleth sneaks over the rooftop to see the arctic fox VIXEN 85A 85A scratching the side of the shed. She stops and makes eye contact with Amleth. She wags her tail. EXT. FREYSDALUR. HILLS. NIGHT86 86 Amleth cautiously climbs the hill behind the farm, looking behind him. He turns ... Ahead, he sees the VIXEN running up the hills, like his first night on the farm. As he comes closer to her, the vixen raises her head and sniffs in his direction.
+C: AMLETH
+D: I give you thanks, little sister. The vixen licks her chops, turns around, and starts running uphill. Amleth follows her into the misty night. EXT. FREYSDALUR. MOUNTAIN. NIGHT87 87 The vixen has brought Amleth to an OMINOUS MOUNTAIN. As the mist disperses Amleth sees a WIDE GLACIAL LAKE. It mirrors the snowy hills that slide into it, leaving small icebergs floating on its cool, still surface. CONTINUED: 83 83 CONTINUED:87 87 Amleth gets a glimpse of the vixen as she vanishes behind a tall rock formation on the other side of the lake. Amleth comes walking around the rock formation. The mouth 88 88 of a CAVE gapes from the mountain side. It is lined with woodcarvings smeared with dried blood, skulls of animals, seashells and fish skin, tatters of colored cloth. The ground in front of the cave is littered with animal bones of various sizes. A pair of ravens eats offal from sacrificial bowls that have been put there for their sake. As Amleth comes closer to the mouth of the cave, he sees the vixen’s bushy tail disappear into the darkness inside. INT. FREYSDALUR. MOUNTAIN. CAVE. NIGHT89 89 Amleth enters the cave and feels his way along a dark, narrow tunnel ... after a while, the tunnel opens onto a larger room, the dwelling place of a heathen Nordic He-Witch. Amleth can hear the fell chanting of a man in Old Norse.
+E: 2
+C: HE-WITCH’S DWELLING
+D: The shaman's dark and sinister cell recalls both the underground ritual chamber on Hrafnsey and the Seeress lair. In an open fire in the middle of the room, something simmers in an age-old silver cauldron adorned with the figures of gods past. It smells of sulphureous smoke and burning flesh. Amleth sees the HE-WITCH sitting by the fire on a raised platform of gathered stones. His chant seems to emanate from deep within his throat, he beats a drum like a seeress. He is singular in his poly-sexual manner. He wears women's garments under his foxskin hood, cradles a Völva's staff between his legs, and is barefoot with toe rings. His braided beard is very much male. He is ancient and ageless. His forehead and eyelids painted lead white. He stops his chant and his drum. He turns and locks his vixen-like eyes with Amleth, peering into his soul. His voice rumbles like distant thunder.
+C: HE-WITCH
+D: Sit, Amleth, son of Aurvandil. Amleth does.
+C: AMLETH
+D: Did our hen-eating friend tell you of me?
+C: HE-WITCH
+D: No. CONTINUED:87 87 CONTINUED:89 89 On a flat stone beside the He-Witch, there is a ball-shaped object covered by embroidered cloth and decorated with strings of colorful glass beads.
+C: HE-WITCH
+D: One much more talkative ... The HE-WITCH removes the embroidered cloth off the ball- shaped object. It is an herb-MUMMIFIED HUMAN HEAD, the skin dried and wrinkled, the hair combed back and braided on the sides.
+E: CONT'D
+C: HE-WITCH
+D: An old fool. Amleth stares at the head. It is his father's fool, Heimir, his own mentor and friend from Hrafnsey.
+E: CONT'D
+C: AMLETH
+D: Poor Heimir ...
+C: HE-WITCH
+D: He speaks of days passed ... and days yet to come. The He-Witch picks up the head from the floor and holds it out so Amleth can see it better. He notices that polished opal stones sit in the eye sockets. A red-painted wooden tongue sticks out between its rune-engraved teeth.
+C: HE-WITCH
+D: Fjölnir cut out his tongue and plucked out his eyes before killing him, but I gave him ones anew ... Amleth looks with tenderness at Heimir's head.
+E: CONT'D
+C: AMLETH
+D: Kind friend. Know that I will avenge you, too. There is a pause.
+E: in a low voice
+C: HE-WITCH
+D: I fear you must address me. Alas, I made him no new ears. They also met with Fjölnir's blade. Amleth is hurt by the He-Witch’s mocking tone and lunges toward him. CONTINUED:89 89 CONTINUED: 89 89
+E: 2
+C: AMLETH
+D: Enough! The He-Witch stops Amleth with a look alone.
+C: HE-WITCH
+D: You are still a beast cloaked in man- flesh. Heimir forewarned me.
+C: AMLETH
+D: You said you know why I have come.
+C: HE-WITCH
+D: Son of the War-raven, the great giver of ring’s son has no token for my work?
+C: AMLETH
+D: My torment is reward enough for midnight doings. Speak, witch!
+C: HE-WITCH
+D: So be it, slave. The He-Witch cuts off a lock of Heimir’s hair. He throws it into the fire with some herbs. The fire flares up with a flash. The cave thickens with smoke. He then looks with concentration at the severed head of Heimir, and sets it on a stone with the face turned toward Amleth. The He-Witch begins beating his drum, breathing heavily ...
+C: HE-WITCH
+D: Hear me ... wandering prophet ... wake now from your murder ... The He-Witch is almost hyperventilating, falling into a trance, his eyes rolling back in his head, twitching and seizing, beating and beating his drum – orgasming? He pauses in a moment of frenzy, drool drips from his lips:
+E: CONT'D
+C: HE-WITCH
+D: Hear me ... Heimir ... is ... come. Amleth leans forward and looks into the eyes of polished opal stones in Heimir's head. He is transfixed, almost hypnotized. The flickering light and smoke plays on Heimir's features. CAMERA NOW STAYS ON AMLETH:
+E: O.S. CONT'D
+C: HEIMIR'S VOICE
+D: Hello, puppy ... CONTINUED: 89 89 CONTINUED: 89 89 The words are followed by a LOW HOWL, SAD LAUGHTER. In death, Heimir's voice is tormented and cursed.
+E: O.S 2 3
+C: HEIMIR'S VOICE
+D: Your rage wishes to speak through your hand. Your hand longs for something more venomous than a washing pail. Something that strikes fast as hot- lightning, something that cuts to the heart ...
+E: O.S CONT'D
+C: AMLETH
+D: I seek the weapon the Norns of Fate chose for my revenge.
+C: HEIMIR'S VOICE
+D: Hear me ... Amleth's POV: The flickering fire reflected in the polished opal eyes of Heimir's head seems to make them almost alive. INT. SWORDSMITHS WORKSHOP. ANCIENT TIMES. NIGHT90 90 The swordsmiths workshop is a dark foreboding, underground place with fires burning in many forges. Shadows of the SWORDSMITHS move about.
+E: O.S
+C: A SUCCESSION OF IMAGES: HEIMIR'S VOICE
+D: Forged by the deadliest war-smiths ever to crawl from under the great worm's belly ... Hot, glowing, liquid metal bubbles in a giant crucible.
+E: V.O.
+C: HEIMIR'S VOICE
+D: It is a battle-flame like none other A stone kiln is shattered with a mighty hammer. Tongs remove a steel ingot, glowing like a red jewel from within.
+E: V.O.
+C: HEIMIR'S VOICE
+D: After Hrólfur Wolf-Tooth ravaged the lands of the Huns, they offered it up to him as a token of surrender ... The luminescent, sword-shaped form is brought out of a blazing forge. We glimpse the dwarf-like, black-bearded swordsmiths in the glow from the metal. CONTINUED: 89 89 CONTINUED:90 90
+E: V.O. 3
+C: HEIMIR'S VOICE
+D: ... a sword of the most secretive-rare iron, bound with bone of the jötnar The sword is being shaped on a giant anvil with heavy blows and cinders flying through the air.
+E: V.O.
+C: HEIMIR'S VOICE
+D: Weightless in its owner's hand, yet like a dragon's fang, its bite can never be dulled, never broken nor bent. The inlayed runic inscription upon the sword's fuller is pounded into place, smeary with bubbling iron oxide.
+E: V.O.
+C: HEIMIR'S VOICE
+D: ... for its blade could only be quenched in human blood. The glowing sword is thrust into a large vat filled to the brim with a thick liquid that steams red as it boils. The sword is quickly pulled from the vat and it bursts into flame.
+E: V.O.
+C: HEIMIR'S VOICE
+D: Its name: Draugr. The Undead. A small, thick hand polishes the blade and slowly revealing its name:
+E: V.O.
+C: HEIMIR'S VOICE
+D: It is fated. INT. FREYSDALUR. MOUNTAIN. CAVE. CONTINUOUS91 91 Amleth's face glows in the light from the open fire. The He- Witch covers Heimir’s head. The voice of Heimir gives way for the He-Witch’s own voice.
+E: V.O.
+C: HE-WITCH
+D: Yet, difficult is the sword's nature, for it can only be unsheathed in the dark of night — or else at Hel’s black gates. CONTINUED:90 90 CONTINUED:91 91
+C: AMLETH
+D: The Gates of Hel. There will my sword be just. I will enjoy feeding Draugr til then in everlasting night.
+C: HE-WITCH
+D: Then shall you also enjoy the moment when you must choose between kindness for your kin and hate for your enemies – for this I also prophesy.
+C: AMLETH
+D: That is nothing. My heart knows only revenge. Show it to me!
+C: HE-WITCH
+D: It is not mine to give, ungenerous prince ... You must make a visitation to Draugr's owner – the Mound Dweller. A black SERPENT slithers out of the He-Witch’s dress and down his arm.
+C: HE-WITCH
+D: Mark well the full moon’s light. For Shadows are not hospitable hosts. The He-Witch tosses the serpent to Amleth’s feet. Amleth jumps! The He-Witch laughs maniacally. Amleth looks down: the serpent has become a coil of rope. EXT. BURIAL MOUND. NIGHT92 92 Amleth is crouching on the top of a grass-covered burial mound, silhouetted against a half-clouded, moonlit sky. He digs into the earth with his bare hands until he comes to decaying wooden rafters set in the ground. He rips them open and is taken aback by the horrible stench released from below. INT. BURIAL MOUND. NIGHT93 93 Amleth comes sliding down the rope the He-Witch gave him, into the black earth. It is as if he is descending on a column of moonlight. He lets go of the rope and lands softly on the floor. As his eyes adjust to the dusky interior, he inspects the contents of the mound. It is a king's tomb. CONTINUED:91 91 CONTINUED:93 93 At the far wall, a Warrior King sits on his throne, mummified. Under the grime and the dust, he is wearing his finest regalia – gold on his fingers, expensive fur on his shoulders, a flowing cloak. On his head is a glorious helm, intricately carved with a bristling boar on its crest. The burial chamber is decked with all of the riches the King brought with him to the afterlife. The mummified bodies of sacrificed animals, splendid cauldrons, beakers, game pieces – and many costly weapons. Amleth approaches the Warrior King, slowly, carefully. The King's enormous, skeletal hands clasp the hilt of the magnificent sword Draugr, which is laid across his lap. The blade is covered by the age-worn scabbard adorned with a garnet eye. This sword is from a golden age before Amleth or this King's time. Amleth holds his breath and puts his hands carefully around the sword, just under the hilt. Then, he pulls it toward himself to get it free ... BUT ... ... the Warrior King pulls back with amazing force. Amleth is thrown back in confusion and fear as the Warrior King wakes up from his long slumber. The King is UN
+E: CONT'D
+C: DEAD.
+D: The Warrior King rises from his throne, unsheathes Draugr, and swings it at Amleth. Amleth swiftly avoids the blow. The Warrior King steps down from the throne. He heads toward Amleth with dread intent, towering over him. He moves slowly, but there is a powerful inevitability in each footstep. The undead cannot be stopped. He swings Draugr at Amleth. Amleth swiftly avoids the blow. The Warrior King hits Amleth with his shield and sends him flying against the wall. Amleth grabs a chest of silver and throws it at him. The Warrior King attacks again. Amleth grabs a long knife from the wall and tries to stop Draugr in mid-air. But the enchanted sword proves to be as powerful as the He-Witch told him. The knife blade splinters and falls to the ground in pieces. The Warrior King attacks Amleth again and again. With every blow, Draugr narrowly misses Amleth. The Warrior King is supernaturally strong, but not as fast as the living. Blow after blow, the treasures of the mound are hacked to pieces. CONTINUED:93 93 CONTINUED: 93 93 Amleth lures the Warrior King into a pool of pale light in the center of the mound. The Warrior King halts and looks up into the sky. The moonlight shines on his shriveled eyes, and for the briefest moment, it looks as if his humanity comes back to him. His grip on Draugr loosens, he lowers the sword. And that very instant, Amleth catches him by surprise. Amleth grabs a massive two-handed axe and strikes the Warrior King in the chest. Prying the axe loose, he spins on his feet and strikes him again in the thigh. The Warrior King falls to the floor. Draugr drops from his hands, the helmet is thrown off his rotten head. Amleth strikes him for the third time in the back.
+E: 2
+C: AMLETH
+D: Mark well the full moon's LIGHT!!! Amleth picks up Draugr and chops the Warrior King's head off of his body. And in the Norse tradition of smiting the undead, he places the head between the corpse's buttocks. Exhausted, Amleth looks at Draugr in his hand. He turns his hand so his face is mirrored in the sword's clear silver blade. BUT in a flash ... ... he is taken back to the moment he first touched the sword. The Warrior King sits before him again on his throne. Still. Dead. Amleth looks on in fear ... He grabs the sword and pulls it from the Warrior King's grasp ... the mummified corpse falls, crumpling down in the throne. Amleth looks at Draugr in amazement. EXT. FJÖLNIR'S FARM. LONGHOUSE. NIGHT94 94 The night is still. Half-clouded and foreboding. Amleth sneaks into the paddock at the back of the byre, jumping over a fence. He holds Draugr in its sheath, the belt and hangers coiled around it. On the back side of the byre, he prepares to bury Draugr in a dungheap in the paddock. He halts as he hears VOICES OF MEN and the clatter of their weapons. Amleth quickly hides in the shadows. CONTINUED: 93 93 CONTINUED:94 94 Fjölnir is walking with Hallgrímr, Finnr, and Fjölnir’s dog Rakki, a frightening mastiff. They are well-armed, as always, but with some drink in them.
+E: 2
+C: FJÖLNIR
+D: Thórir will choose our strongest. Tomorrow we’ll prove Hákon Iron- beard’s men are born of mud and water.
+C: HALLGRÍMR HALF-TROLL
+D: Mud will be all that remains of them. Amleth readies Draugr, silently pulling it a hand's breadth from the scabbard. He calculates the distance to Fjölnir. But as soon as he is ready to strike, his concentration is broken by a DOG'S PANTING. Amleth looks down. Rakki is looking at him, baring his teeth and growling. Amleth bares his teeth, and growls too. Back on the path, Fjölnir looks around for Rakki.
+C: FJÖLNIR
+D: Rakki!
+C: HALLGRÍMR HALF-TROLL
+D: Rakki! Fjölnir and his men walk towards the dog near the back of the byre, very close to Amleth. They don’t see Amleth hidden in shadow. But Fjölnir stops ... does he feel Amleth's presence? Amleth holds Draugr ready, but hesitates, and that gives Fjölnir time to shrug off the feeling.
+C: FJÖLNIR
+D: Rakki. Rakki. Take Rakki home. Rakki stops growling at Amleth and reluctantly returns to Fjölnir. He and his men head toward the front door of the byre.
+C: FJÖLNIR
+D: Get you to bed. It is nearly dawn. Hallgrímr takes Rakki by the collar.
+E: CONT'D
+C: HALLGRÍMR HALF-TROLL
+D: Yes, my lord. Amleth watches Hallgrímr and Finnr leave, taking Rakki with them. CONTINUED:94 94 CONTINUED: 94 94 Fjölnir goes into the byre. Amleth slides Draugr back into the scabbard and peers through the back door of the byre. BYRE. AMLETH POV. CONTINUOUS95 95 FJÖLNIR enters, walking past a COW with swollen udders and miscellaneous dairy equipment. The smallish outbuilding is low lit by flame. Along the walls are two curtained off benches. Olga, Halldóra, Kormlöth and a few other ENSLAVED WOMEN SLEEP on the benches. Fjölnir wakes up HALLDÓRA.
+E: 2
+C: FJÖLNIR
+D: Wake you. Fetch her. You know the one. Halldóra quickly gets up from her bench and assists Fjölnir, waking Olga to make her stand in front of him. Olga wears a plain linen shift. Amleth grits his teeth. Fjölnir looks at her lasciviously and tries to grab her. Olga retreats, shaking her head, and Amleth sees that she SAYS SOMETHING to Fjölnir.
+C: FJÖLNIR
+D: The hair of a Valkyrie, on a savage Slav bitch. Fjölnir steps closer to Olga. She pulls up her dress: She has an undergarment on, reddened with BLOOD. She is having her period.
+E: CONT'D
+C: FJÖLNIR
+D: A little blood? Fjölnir advances again ... Olga quickly places her hand on her loins and slaps Fjölnir, smearing her blood on his face.
+E: CONT'D whispered
+C: FJÖLNIR
+D: Unclean whore! Fjölnir seethes with anger and retreats, barking to Halldóra, as he leaves.
+E: CONT'D
+C: FJÖLNIR
+D: You will correct her, or you'll both be dead in the ground. EXT. BYRE. CONTINUOUS96 96 Fjölnir walks off. Amleth has climbed unseen onto the roof of the byre, he stares down at Fjölnir. CONTINUED: 94 94 CONTINUED:96 96
+E: CONT'D 2
+C: AMLETH
+D: Thank the Norns that a woman’s tide is the only blood that runs in your house tonight, coward. He speaks to his sword: I am a fool. It was foretold that I would drown my father’s killer in a burning lake. Till that day comes, I will torment the man who made my life a Hel. Now, sleep well, night-blade. Yes, we thirst for vengeance, but we cannot 'scape our Fate. EXT. FJÖLNIR’S FARM. BEHIND THE LONGHOUSE. DAY96A 96A Amleth is working behind the longhouse with three other slaves. Under the supervision of a foreman ordering them around with a wooden stick, they are loading tents and other travel gear for Fjölnir’s and Gudrún’s visit to Hákon Iron- beard. On the other side of the longhouse the convoy is being formed, the sounds of horses and people coming O.S. Olga walks by with two other women, carrying baskets with provisions for the journey. Amleth sees Olga and catches up with her. They walk and talk facing forward, not trying to draw attention to themselves.
+C: AMLETH
+D: Where are they taking us?
+C: OLGA
+D: Something about a chieftain’s feast. Amleth grows more serious.
+C: AMLETH
+D: Last night. I saw him with you.
+C: OLGA
+D: Then you know Fjölnir’s touch will not linger with me when I leave this island.
+C: AMLETH
+D: You marked him well. And I have found the cold iron that will strike him down. CONTINUED:96 96
+C: CONTINUED:96A 96A
+D: Olga walks faster, almost shocked by Amleth’s words. They quickly hide around the other side of the turf wall for more privacy.
+C: OLGA
+D: When will you do it?
+C: AMLETH
+D: When I must. For now I will haunt this farm like a hungry corpse returned from the grave. Fjölnir thinks Amleth is long dead.
+C: OLGA
+D: Yes, but what of your mother?
+C: AMLETH
+D: She will revel in Fjölnir’s anguish. She only feigns her love to protect their child. When I free her, I will bring the boy if I must.
+C: OLGA
+D: They’ve moved me back to the kitchen. If we can keep Fjölnir’s men at bay, I can safely– Amleth notices the foreman is coming around the corner, about to catch them. He touches Olga’s arm with care.
+C: AMLETH
+D: Our plan may have to wait. Amleth and Olga make a quick dash to the other side of the longhouse before getting caught.
+C: FOREMAN
+D: Björnúlfr! Move on! EXT. FJÖLNIR'S FARM. LONGHOUSE. DAY97 97 Early morning. In front of the longhouse, Fjölnir, Thórir, and a band of armed men sit high on their horses. Gudrún looks queen-like, on her gilded saddle. She points this way and that with the handle of her whip, in charge of getting the convoy ready.
+C: GUDRÚN
+D: You lot, to the back. In the entourage is also ÁSHILDUR HOFGYTHJA, a formidable woman in her 70s. Her eyes are great wells of knowledge. She is a temple-priestess of Freyr and Freyja.
+C: CONTINUED:96A 96A
+D: CONTINUED:97 97 She whispers some incitations as she ties a rune stick of bone into the mane of her horse. Next to her is her haggard gray-bearded assistant, HALLUR FREYMUNDUR, who trails her at all times like a hungry dog. Rakki stands to attention by the side of Fjölnir's horse. Everyone, even the horses, are dressed in their finest, conveying their strength, power, and wealth. Thórir's horse FREYFAXI is special, with its coal black body and flowing red mane. Thórir pets his mane, his fingers over-adorned with rings. Gudrún goes to Gunnar, adjusting his fur-trimmed hat. Gunnar is as happy with her attention as any twelve-year-old would be.
+E: the actual dog
+C: GUNNAR
+D: I'm not a child. My hair is my own.
+C: GUDRÚN
+D: I know grown men who need a woman to tend their hair ... The slaves are lined up behind nobles and attendants. They carry parcels and bags of various sizes. Olga is one of them, along with Melkorka and Kormlöth. Amleth is waiting to be assigned a task. Thórir rides up to Amleth.
+E: looking at Fjölnir
+C: THÓRIR
+D: Can you fight, slave?
+E: O.S.
+C: AMLETH
+D: Huh?
+C: THÓRIR
+D: Look me in the eye slave. I asked you, do you know how to fight? Amleth nods. Thórir waves to Finnr who corrals Amleth with the biggest male slaves in the convoy. Amleth and the other four men are led to two horses, who carry packs with SINISTER LOOKING WOODEN STICKS and bags that bulge with BALLS THE SIZE OF AN INFANT'S HEAD. CONTINUED:97 97 EXT. ICELAND. LANSDSCAPES. DAY97A 97A The procession travels over green hills that stretch for miles under a blue sky. The procession travels toward an endless mountain rage, 97B 97B lined with an autumnal birch forest, shrouded in mist. EXT. LAUGADALSFJALL. DAY98 98 Noon. The procession travels over a rocky mountain stream. Amleth is nudged by his fellow slave, Audunn the Irish.
+C: AUDUNN THE IRISH
+D: Bear-wolf the Witless. You like to leave the stalls at night? Amleth plays dumb.
+C: AUDUNN THE IRISH
+D: Our Thórir has flayed slaves alive for less. Amleth ignores the warning and gestures to the strange wooden sticks carried by the two horses trotting ahead of them.
+E: CONT'D
+C: AMLETH
+D: What are those?
+C: AUDUNN THE IRISH
+D: You've never seen a knatttré before?
+C: AMLETH
+D: No. Audunn laughs.
+C: AUDUNN THE IRISH
+D: By nightfall, you'll have seen enough of them. Audunn crosses himself. EXT. LAUGADALUR. GAME FIELD. DAY99 99 By a sloping mountainside, TWO TEAMS of four men stand on opposite ends of a torn up, grassy field. They are ready to play KNATTLEIKR, the violent Norse sport . They hold their heavy knatttré shaped something like a huge wooden cleaver with a divot for catching the ball. All is silent in the mist. Blue mountain ridges line the distant horizon. CONTINUED:99 99 Amleth holds the knatttré ready, like a weapon. A redheaded teenage girl in fine dress holds up a red ball ceremonially, she pauses ... and tosses it in the middle of the field. Suddenly, all the men let out their war cries! They run at great speed across field, fighting ruthlessly for the ball. These are fierce warriors, not sportsmen. The feeling of the game is wild and primitive. The only rule seems to be to get the ball to touch the other team's end line: a six-foot wooden post, driven into the earth. The players use whatever means necessary to win. It's chaos. Suddenly, Amleth sees the ball come flying straight at his face. He breaks its flight midair with his knatttré. It drops down on the ground in front of his feet. Two of his opponents, BERSERKER-TYPES, scream like beasts running for the ball. Amleth realizes he needs to move. He quickly pushes the ball toward the enemy team's end line. The two berserker-types catch up with him ... one tackles him, sending him toward the muddy outskirts of the field. Amleth passes the ball to Audunn before he hits the ground hard. THÓRFINNR TOOTH-GNASHER a massive, frightening, dark haired man from the other team, kicks Amleth into the muddy ditch before spitting on him and returning to the game. Amleth struggles up, slipping in the mud, and runs back to the field. Meanwhile, Audunn has the ball ... He is immediately set upon by their opponents. Thórfinnr catches up with him and smashes his kneecaps, knocking him to the ground. They beat him mercilessly. His mouth is ripped open by the blows from Thórfinnr's knatttré – his teeth come flying out of his mouth in spurts of blood, spilling across the field like the beads of a broken necklace. Loud cheers echo in the hills. Amleth looks over to hospitality tents set up somewhat similar to a medieval jousting tournament. Fjölnir, Gudrún, Thórir, and Gunnar watch the game with the family who "owns" the enemy team, chieftain HÁKON IRON-BEARD, his wife GUNNHILDR SHIP-BREASTED, and their CHILDREN and RETAINERS and SLAVES . CONTINUED:99 99 CONTINUED: 99 99 Gunnar is not too happy about his team's poor performance. He shouts to Amleth and his teammates:
+E: somewhat akin to lacrosse, or hurling sticks/bats it was Hákon’s daughter who threw the ball into the pitch 2
+C: GUNNAR
+D: You’re shaming our family's name! We need more men! Hákon, Gunnhildr and their people cheer even more as Audunn the Irish's limp body is dragged off of the field and onto the shore by two of his fellow slaves. Amleth watches as they lay Audunn on the grass near two other members of Fjölnir's team. One is bloodied and bruised. The other looks dead, with his neck broken. THE FIELD. LATER100 100 The ball is back in the game and Amleth is hot on the heels of one of his opponents. Amleth is getting the knack of it now and takes out one of the berserker types with his knatttré ... as the other tries to attack him from behind, Amleth takes a huge swipe, smashing the player square in the face with a huge explosion of blood. Fjölnir's people cheer. Thórir beats his decorated shield. THE FIELD. LATER101 101 Now there are only two players left on the field – Amleth and Thórfinnr. Amleth locks eyes with Thórfinnr. His face is a mask of concentration. Thórfinnr is just as stoic, trembling with fury. They seize it with equal force, pressed shoulder to shoulder! Amleth gets the advantage and quickly hits the ball through Thórfinnr’s legs and far across the field toward the goal post ... Amleth and Thórfinnr are still locked in conflict ... Suddenly, Amleth hears GUNNAR screaming his war cry, and sees the boy running to the field, knatttré in hand ... Gunnar gets the ball and runs toward the goal ... Thórfinnr tears himself from Amleth and runs full-force toward the boy, his knatttré raised... Gunnar realizes what he's gotten himself into. He picks up the ball and starts running even faster away from Thórfinnr.
+E: Amleth is the last man standing on his team.
+C: GUDRÚN SCREAMS!
+D: CONTINUED: 99 99 CONTINUED:101 101 Amleth looks at his mother. Amleth grits his teeth and takes off after Thórfinnr, fast as he can, to save Gunnar ...
+E: 2
+C: GUDRÚN
+D: Gunnar!
+C: HÁKON IRON-BEARD
+D: Halt the game! Halt it now! Gudrún, Fjölnir, and others start running to the field. Before Amleth can catch Thórfinnr, and just before Gunnar reaches the goal post ... the huge man body checks Gunnar hard to the ground. Gunnar is immediately unconscious. BLOOD trickles from his hairline into the mud. The ball slips from his hand. Thórfinnr towers over the boy trembling with adrenaline ... As quickly as he raises his knatttré to strike at the ball, right next to Gunnar’s head ... about to deal a fatal blow
+C: THÓRFINNR
+D: Stupid runt! Just then, Amleth roars like a bear-wolf and tackles Thórfinnr to the ground, knatttrés flying out of their hands. They wrestle with great strength ... Thórfinnr punches Amleth in the face repeatedly ... In berserker-mode Amleth head- butts Thórfinnr and flips him over. Amleth head-butts him over, and over, and again, until Thórfinnr is nothing but a lifeless pulp. Amleth gets up ... he sees Gudrún hugging Gunnar tightly, but before she has the chance to look up and thank her son’s savior, Amleth walks away from her. Gudrún strokes Gunnar's blood-soaked hair. Fjölnir quickly follows and takes his hand.
+C: FJÖLNIR
+D: You stupid, stupid boy. Wake up. Wake! Thórir, and the others arrive. As Gudrún strokes his cheek ... Gunnar slowly awakes ... he looks at his parents. CONTINUED:101 101 CONTINUED: 101 101
+E: kindly 2
+C: GUNNAR
+D: Did we win? Gudrún smiles with pride.
+C: GUDRÚN
+D: Spoken like a true chieftain's son!
+C: HÁKON IRON-BEARD
+D: Brave boy. A brave young man.
+N: They all laugh. Amleth withdraws far from the crowd.
+S: EXT. LAUGADALUR. FIELD. SLAVES’ CAMPSITE. NIGHT102 102
+N: A bonfire rages in an open space encircled by simple tents of Fjölnir's slaves' camp. Slaves dance to the hypnotic beat of a drum around the fire. They wear crowns of rowan branches adorned with bright red berries and drink ale from bowls. Amleth stands on the edge, not participating. Melkorka and another slave, EYSTEINN, an impish man in his late 20s, sing an episode from Bósa Saga and Herröds. Melkorka uses a milk pail as a drum. The beat and alcohol enhance the impact of the bawdy story. Their dancing is erotic and wild.
+C: MELKORKA THE KITCHEN SLAVE
+D: "What do you want from me?" Asked the farmer’s daughter.
+C: EYSTEINN
+D: I need to water my steed at your wine- trough" answered Bósi ... The slaves laugh as they dance faster and faster around the fire. Amleth exchanges glances with Olga, enjoying herself, dancing. The couples grow increasingly lustful from the heat, the story, and the steady rhythm. Fondling and kissing.
+C: MELKORKA THE KITCHEN SLAVE
+D: “Where is your steed, my sweet?” she said.
+C: EYSTEINN
+D: “Between my two legs, my love,” he replied, “and you may stroke him, but gently, since he is very ... bashful.” CONTINUED: 101 101 CONTINUED:102 102 A COUPLE close to Amleth leaves the circle, the woman leads the man into the darkened forest surrounding the camp.
+E: 2
+C: MELKORKA THE KITCHEN SLAVE
+D: Said the girl: “I'll guide him there and thrust him deep if he does not want to freely drink ...” The fire is smoking, adding to the growing sexual atmosphere of what is turning into a mating ritual.
+C: MELKORKA THE KITCHEN SLAVE
+D: She took hold of Bósi's staff and stroked it: “It is a tender steed, although rather stiff at the neck.” A trio of lovers runs off to the forest.
+E: CONT'D
+C: MELKORKA THE KITCHEN SLAVE
+D: "Be careful not to drown your steed!" Shrieked the farmer’s daughter ... Amleth looks at Olga. He sees that another slave dancing next to her is eyeing her, too. Hallgrímr Half-Troll appears at the edge of the slaves' campsite. He motions to Amleth to come and see him.
+E: CONT'D
+C: HALLGRÍMR HALF-TROLL
+D: You. This way. Amleth looks at Olga again. She smiles, but he can't be sure the smile is meant for him. Reluctantly, Amleth leaves the slaves' raunchy party and goes to join Hallgrímr. AT THE EDGE OF HAKON'S CAMPSITE103 103 A group of men awaits Amleth at the edge of the campsite. It is Thórir, flanked by Hersveinn and Hjalti. Thórir's horse Freyfaxi, grazes close by.
+C: THÓRIR
+D: You showed yourself brave and loyal. Father and Mother are grateful ... Thórir falls silent and extends his hand. Amleth realizes that he's expected to be thankful for Fjölnir and Gudrún's gratitude. Amleth bows his head.
+C: AMLETH
+D: Thank you ... CONTINUED:102 102 CONTINUED:103 103 Amleth is distracted by the sight of the fine tent in the distance. Hákon is throwing a Vetrarnætr feast for Fjölnir and Gudrún's entourage. The tent is open to the field side, and Amleth sees that they are being served good food and drink. The sound of celebratory music comes from inside.
+C: THÓRIR
+D: When we return to the farm, certain privileges will be granted you.
+C: AMLETH
+D: Huh? Thórir looks over his shoulder, acknowledging Fjölnir's presence. Fjölnir watches them from a short distance, both as if he is making sure Amleth understands Thórir has his approval for what is going on, and to make sure Thórir doesn't blow it.
+C: THÓRIR
+D: You will be moved from the stalls to the foreman's quarters. You will eat better. Your work will be less burdensome. You will command others' burden ... Amleth nods. Thórir enjoys the authority he's been given.
+C: THÓRIR
+D: And Björnulfr, as a reward for winning us the game, I’ll let you choose a woman for yourself ... From your own kind, of course ... Even that Slav bitch I've seen you eyeing. Father found her too ... unyielding. AMLETH
+E: CONT'D gestures to the slaves’ campsite beat
+C: THÓRIR
+D: Something the matter with you? You understand me?
+E: beat
+C: AMLETH
+D: I will, uh ... sleep better ... Amleth's aloofness disturbs Thórir in his role as authority, but he continues as well as he can. CONTINUED:103 103 CONTINUED: 103 103
+E: 2
+C: THÓRIR
+D: But know that we will never make you a free man. The stench of a low-born slave cannot escape him.
+C: AMLETH
+D: Yes. Thank you ... Thórir nods and leaves in the direction of the fine tent, followed by Hersveinn, Hjalti, and Hallgrímr Half-Troll.
+E: absent-minded
+C: HERSVEINN
+D: We’ll miss you ...
+C: HJALTI
+D: Cleaning the shit house. They laugh. As Thórir reaches Fjölnir, Fjölnir taps him on the shoulder approvingly. Amleth watches them leave. Through an opening in the fine tent, Amleth sees Gudrún raising a gold decorated drinking horn, and for a second it looks like she is raising it in his direction — but then, Gunnar leans into the picture with his own decorated horn. THE SLAVES' CAMPSITE104 104 Amleth comes back into the slaves' campsite. It is empty. Olga is gone from her place. The fire is smoking and the wind blows smoke into the shadowy woods. EXT. LAUGADALUR. WOODS. NIGHT105 105 Amleth finds his way through the autumnal, smoke-filled woods. Naked bodies run by in the cold autumn air. All around him, he hears the sounds of people mating or chasing each other through the trees. Amleth searches for Olga. He comes to a clearing in the woods. He sees a woman standing with her back to him. Is it Olga? Amleth walks to her. Just as he is about to reach her, a man rises from the ground in front of her and embraces her.
+C: AMLETH
+D: Olga. Amleth pulls back with disappointment, but then sees her face: It's not Olga. CONTINUED: 103 103 CONTINUED:105 105 Just then, Olga's voice comes from behind him.
+E: 2
+C: OLGA
+D: You found me ... He turns around. Olga is standing there, smiling.
+C: AMLETH
+D: Were you lost?
+C: OLGA
+D: Only if you were searching for me. EXT. LAUGADALUR. WOODS. NIGHT. LATER106 106 Amleth and Olga make love in the moss under the clear evening sky. The breeze swaying the dark branches of the birch trees. The full moon glows above. POST-COITUS107 107 Amleth looks Olga tenderly in the eyes. She smiles, and turns away. She kneels naked on the moss. She caresses it and whispers some kind of incantation.
+C: OLGA
+D: Mother Soil, hear your daughter’s prayer. Show me the way to destroy our enslavers, and free my love from his fire and sorrow.
+E: Old Slavic
+C: AMLETH
+D: What do you do?
+C: OLGA
+D: Here, where the threads of Fate have bound us together, embraced beneath the trees. Here, I speak with the earth.
+C: AMLETH
+D: What does she tell you?
+C: OLGA
+D: How to reach your mother. My Earth magic will stoke the flames of your sword. She picks up a RED SPOTTED MUSHROOM and smiles. CONTINUED:105 105 CONTINUED:107 107
+C: AMLETH
+D: Tomorrow night you and I will begin this nightmare. Amleth looks at Olga.
+C: AMLETH
+D: And bring Fjölnir’s life to chaos. TITLE CARD: T H E N I G H T B L A D E F E E D S EXT. FJÖLNIR'S FARM. BARN. THE NEXT DAY108 108 There is snow in the mountains. The fields by Fjölnir's farm have turned yellow and gray. The sun is low in the sky. A group of women walk by singing, spinning wool on their distaffs. Other women weave on looms in their weaving huts. Amleth is overseeing a crew of slaves charged with bringing the last of the barley harvest inside for the winter. They work hard. Amleth is firm and fair. Amleth helps a slave bring a bushel of barley on the cart.
+E: CONT'D
+C: AMLETH
+D: Come, come ... Amleth looks to the mountains. The sun is setting behind a mountain ridge in the west. He turns and shouts.
+C: AMLETH
+D: Finish. Amleth turns to AN OLDER SLAVE standing nearby.
+E: CONT'D
+C: AMLETH
+D: Back to the stalls. The older slave nods. Amleth motions to a younger slave hauling barley.
+E: CONT'D
+C: AMLETH
+D: You. EXT. FJÖLNIR'S FARM. TEMPLE HOUSE. DAY109 109 The temple house is situated at a short distance from the longhouse on a rocky hillock. It is a much smaller version of the grand temple from Hrafnsey, decorated with elaborate mythological wood carvings. Amleth comes to the temple house with the younger slave. They carry barley on their backs. CONTINUED:107 107 INT. FJÖLNIR'S FARM. TEMPLE HOUSE. DAY110 110 Amleth and the younger slave are led into the temple house through the front door by ÁSHILDUR HOFGYTHJA. Áshildur looks at the barley with reverence.
+E: CONT'D
+C: ÁSHILDUR HOFGYTHJA
+D: The servants of Freyr. Lay them before our lord’s feet. Like the Hrafnsey temple, there are carvings of the Nordic pantheon. But here it is the fertility god FREYR who is the center of attention, with paintings of his sister goddess Freyja. Freyr's imposing wooden effigy rises thirteen feet tall from the floor. He sits with a massive PHALLUS sticking out from his lap. Skulls and bones of horses and swine are placed in a ritualistic way around the blood-stained altar. Fjölnir stands before the effigy. He puts on a blood-dipped gold ARM RING at the altar. He assumes a reverent posture and shakes an IRON RATTLE. He is the high priest here. Áshildur Hofgythja brings Amleth and the two younger slaves to the front of the altar. Fjölnir prays with closed eyes while Áshildur Hofgythja supervises the slaves and Hallur Freymundur . They place the barley at the base of the Freyr effigy. Amleth looks at the back of Fjölnir's head with wrath. Just then, Amleth hears a faint sound that catches his attention, a barely audible whisper.
+C: KING AURVANDIL
+D: Amleth ... Amleth turns and sees ... KING AURVANDIL sitting in the shadow of a far off corner of the temple. He is pale, but dressed in full regalia, war- helmed, holding a sword and raven-topped scepter. Amleth and Aurvandil lock eyes. The king conveys a fatherly approval. EXT. FJÖLNIR'S FARM. LONGHOUSE. NIGHT111 111 The full autumn moon rides through the clouds, drifting across the black night sky. CONTINUED:111 111 A back door on the longhouse is thrown open. Hersveinn Battle- Hard and Hjalti Battle-Hasty, Thórir's companions, step outside, happily drunk. The sound of feasting can be heard coming from inside. Hersveinn and Hjalti lock arms in a brotherly way and bend forward to VOMIT in unison. They raise themselves up and wipe the vomit from their lips, laughing. They head toward the OUTHOUSE singing a drinking song. A man exits the outhouse, pulling up his trousers. As they disappear into the darkness of the outhouse, Amleth jumps off the roof.
+C: AMLETH
+D: Fear not, you’re the first of many. Amleth unsheathes Draugr. It flashes in the moonlight. He leaps into the outhouse ... there is a SWOOSH and a CRUNCH as Amleth finishes Hersveinn and Hjalti with two swift blows. EXT. FJÖLNIR'S FARM. BARN. DAY112 112 Dawn breaks over the valley. A scream rings out. The workers of Fjölnir's farm, both the free and the slaves, are assembled by the barn, staring at the mutilated corpses of Hersveinn Battle-Hard and Hjalti Battle-Hasty. The two men have been dismembered and hung out for display on the side of the barn. Their body parts are all mixed up and arranged by an evil design to resemble one monstrous beast with two heads, four arms, and four legs — the wall is smeared with their blood, their intestines strung out. Amleth stands with the slaves from the barn crew who we saw earlier. He watches with a neutral expression, hiding his interest in what is going on. Olga is also among the slaves. She alone is aware of the truth of what happened, and tries not to look in Amleth's direction. Thórir is already at the scene, beside himself with grief and anger. CONTINUED:111 111 CONTINUED:112 112
+E: O.S.
+C: THÓRIR
+D: O, I will find who did this. I will find them ... And I will tear out their eyes ... And I will tear out their tongues. They will all sup in Hel! The Christian slaves make the mark of the cross at Thórir's heathen cursing. Fjölnir and Gudrún arrive at the barn with Hallgrímr Half- Troll, Finnr Nose-stub, Rakki the dog, and several more armed men. They are all shocked by the gory sight. Rakki BARKS.
+C: THÓRIR
+D: Look, Father, look what has been done to my brave friends! Thórir turns on his heels and lashes out at the Christian slaves with kicks and blows.
+E: CONT'D
+C: THÓRIR
+D: Lack-beard, Christian Monsters! Monsters! Monsters! Did you do this? Answer me! Answer Me!
+E: CONT'D
+C: GUDRÚN
+D: Stop this! Gudrún slaps Thórir in the face, then motions to Fjölnir and Hallgrímr Half-Troll to restrain him. With the help of an armed man, Hallgrímr takes Thórir by the arm and drags him away from the side of the barn to Fjölnir. Fjölnir takes Thórir's head in his hands and looks him in the eyes.
+C: FJÖLNIR
+D: Son, regain your calm. They were good boys. By Freyr, we will avenge them. Take him away. Gudrún gives Thórir a stern look. Finnr Nose-stub leans to Fjölnir.
+E: whispered
+C: FINNR NOSE-STUB
+D: Is Thórir right? Could it be the Christian swines? Their god is a corpse nailed to a tree. CONTINUED:112 112 CONTINUED: 112 112 Finnr Nose-stub gestures to the Christian slaves, huddled together after Thórir's attack.
+E: whispered 2
+C: FJÖLNIR
+D: For what? These boys never touched them.
+C: GUDRÚN
+D: And how might they find weapons? Just then, ÁSHILDUR HOFGYTHJA comes to the scene. Everyone parts for her. Amleth watches Áshildur walk slowly and deliberately to the barn. She inspects the corpse arrangement closely and is unafraid to touch them. There is silence as she runs her fingertips over the cuts where the men's heads and limbs were separated from their bodies. Áshildur turns and looks at Gudrún and Fjölnir.
+C: ÁSHILDUR HOFGYTHJA
+D: No. These wounds, are not of our world. She continues with unblinking seriousness.
+E: in a low voice
+C: ÁSHILDUR HOFGYTHJA
+D: This distempered spirit will ride again. It wields a hungry blade. Fear strikes Fjölnir and Gudrún. Finnr Nose-stub starts dispersing the crowd with the help of the armed men, and kicks a Christian slave in the backside.
+E: CONT'D
+C: FINNR NOSE-STUB
+D: On with you, blood drinking Christians! Fjölnir, Gudrún and Áshildur walk off. Rakki runs after his master. Olga uses the opportunity to make her way toward Amleth. Amleth calls to the slaves in his barn crew:
+C: AMLETH
+D: Do as you're told. Back to work. Go. CONTINUED: 112 112 CONTINUED: 112 112 As he follows his barn crew, Amleth bumps into Olga, who has found her way to his side. She shows him a small bag of RED SPOTTED MUSHROOMS that she hides in her hand.
+E: 2 3
+C: OLGA
+D: The mushrooms. I have them ...
+E: whispering
+C: AMLETH
+D: Not tonight. The spirit will ride and spill more blood. INT. FJÖLNIR'S FARM. LONGHOUSE. MASTER BEDROOM. NIGHT113 113 Fjölnir and Gudrún sit at a table. A feast is laid out. A blazing fire. Rakki lies on the floor, chewing on a bone.
+E: in a low voice
+C: FJÖLNIR
+D: Our weapons were wiped clean when we settled here. What enemies we had would have hunted us while their blood still boiled. Yet, my brother’s prophecy... Gudrún is still thinking about Áshildur Hofgythja’s words.
+C: GUDRÚN
+D: Aurvandil and his kind are where you put them. Deep in the ground. This enemy didn't brave the whale roads to assail us here. There have been no unknown ships.
+C: FJÖLNIR
+D: No. Volodymyr's ship lands in a fortnight to take Thórir to Norway. That voyage untimely robbed of two proud spear-bearing men. Might Thórir's friends have summoned this wrath upon themselves? Did some enmity arise between them and Hákon Iron-Beard's men? At the games? I paid settlement for those killed.
+E: beat beat
+C: GUDRÚN
+D: Fjölnir, an affliction was chanced there -- apart from what befell our eyes. CONTINUED: 112 112 CONTINUED:113 113
+E: 3
+C: FJÖLNIR
+D: Speak clearly ... Gudrún looks Fjölnir in the eyes with much seriousness.
+C: GUDRÚN
+D: Our son was almost lost to us.
+C: FJÖLNIR
+D: That I know.
+C: GUDRÚN
+D: What if his life was meant to be taken? Freyja’s youth-starved daughters haunt those mountains. Those land spirits tasted of his child blood when he fell. It aroused their appetite. Fjölnir stares at her in disbelief.
+E: hesitating
+C: FJÖLNIR
+D: Don't speak lightly of this.
+C: GUDRÚN
+D: This was not the work of a natural being.
+C: FJÖLNIR
+D: And ...
+C: GUDRÚN
+D: What if that which covets Gunnar's life has come to seize what was snatched away from it?
+E: carefully
+C: FJÖLNIR
+D: And you wish it to have him? Gudrún puts her hand on Fjölnir’s.
+C: GUDRÚN
+D: Never. But it will not end until it has been appeased. It has already taken two lives for the one it was cheated of, yet ... Fjölnir gets it now. CONTINUED:113 113 CONTINUED: 113 113
+E: beat 2
+C: FJÖLNIR
+D: The spirit must be offered a life for that life. The rite must be done with faultless custom.
+C: GUDRÚN
+D: Tonight. Áshildur the Temple-Priestess must do it. Bid her take whomever she deems fit – our Gunnar must be safe.
+C: FJÖLNIR
+D: We will brave whatever witchcraft the Norns offer us. It will be done! They kiss. INT. FJÖLNIR'S FARM. TEMPLE HOUSE. NIGHT114 114 Áshildur Hofgythja is by the altar in front of the Freyr effigy adorned with barley. She is dressed in ceremonial robes, with her old assistant, Hallur Freymundur. He is preparing his ritual knives and sacrificial bowls. Melkorka the kitchen slave lies on the floor by the foot of the effigy. She is blindfolded, bound, and gagged. Áshildur Hofgythja shakes the iron rattle, then raises the ritual knife.
+C: ÁSHILDUR HOFGYTHJA
+D: Black she-spirit, abate. Bear this offering to your mistress. Abate, and sheath your rageful corpse-hound! Just then, she looks up as a CHILLING HOWL is heard coming from the distance. EXT. FREYSDALUR. HILLS. NIGHT115 115 The HOWL rings out in the blue hills above Fjölnir's farm. INT. FJÖLNIR'S FARM. LONGHOUSE. MASTER BEDROOM. NIGHT116 116 Rakki jumps up from the floor. He bares his teeth and growls aggressively, startling Gudrún and Fjölnir, who are getting ready for bed.
+C: FJÖLNIR
+D: Rakki. What is it Rakki? The HOWLING is heard coming from the distance. Rakki answers the distant howl by letting out his own HOWL. CONTINUED: 113 113 CONTINUED:116 116 Fjölnir steps forward to let Rakki out, but Rakki blocks the door and growls at him even more aggressively.
+E: 2
+C: GUDRÚN
+D: Rakki!
+C: FJÖLNIR
+D: Down, Rakki! Rakki! Rakki is at the mercy of the distant call, and will not obey. He becomes even more aggressive, the hairs on his back bristle, his mouth foams. Fjölnir looks for his sword. It is by the door, blocked by Rakki. Fjölnir hears the other dogs on the farm join in the deafening barking and howling. The commotion is growing with human shouts of panic and pain. The CHILLING HOWL continues. Rakki attacks Fjölnir. EXT. FREYSDALUR. HILLS. NIGHT117 117 In the hills overlooking Fjölnir's farm, Amleth is standing by a rock, bathed by the moonlight, with Draugr strapped to his side. Standing next to him is the VIXEN. Amleth lets out his ALPHA-WOLF HOWL. The vixen HOWLS AND SCREAMS with him in frightful harmony. INT. FJÖLNIR'S FARM. LONGHOUSE. MASTER BEDROOM. NIGHT118 118 Fjölnir wrestles with Rakki, who repeatedly tries to bite him in the throat. There is much growling and panting. Gudrún runs to Fjölnir’s sword. Fjölnir tries to crush Rakki by pressing him to his body while pushing his snarling dog's head backwards.
+C: GUDRÚN
+D: Rakki! Rakki! Just as Gudrún draws the sword, Fjölnir manages to free his knife from his belt and stabs the frenzied dog several times, rolling him toward the fire. The dog cries in pain and falls limply to the floor, whimpering. CONTINUED:116 116 CONTINUED:118 118 Gudrún and Fjölnir look at each other, the bleeding body of Rakki lying on the floor between them. Gudrún sheaths the sword and hands it to her husband.
+C: GUDRÚN
+D: Go to the temple! Keep charge of Áshildur, that she finishes what she has begun. I'll join you when I've tended to Gunnar. OMITTED119 119 EXT. FJÖLNIR'S FARM. TEMPLE HOUSE. NIGHT120 120 Fjölnir and his men rush to the temple house, through the gate. In the background, there is PANDEMONIUM around in the farm. All the dogs have gone mad and are attacking their owners, who fight back with spears and swords and kill the animals. There are YELPS, BARKS, and SHOUTS. EXT. FJÖLNIR'S FARM. TEMPLE HOUSE. NIGHT121 121 Behind the temple house, Amleth slips out with Melkorka in his arms. He puts her down gently, and cuts her free. Melkorka removes her gag and blindfold.
+E: CONT'D
+C: MELKORKA THE KITCHEN SLAVE
+D: Thank you. She looks around, but Amleth is nowhere to be seen. INT. FJÖLNIR'S FARM. TEMPLE HOUSE. NIGHT122 122 Fjölnir falls silent as he sees Áshildur's old assistant, Hallur Freymundur, hanging from the rafters, upside down and naked. Blood spurts from a nasty cut in his neck. It collects in his gray beard and long hair and drips into a sacrificial bowl on the altar. He has been castrated, and his genitals lie in the puddle of blood in the bowl. Áshildur Hofgythja is tied up in the same blindfolded position as Melkorka, only bound by Hallur's intestines. She is below the body, on the altar, with her assistant's blood dripping all over her face. She moans in terror. None of the three men, Fjölnir, Hallgrímr, or Thórir, can utter a word. Fjölnir gestures to the men to help Áshildur Hofgythja out of her bonds. CONTINUED:118 118 CONTINUED:122 122
+C: FJÖLNIR
+D: Free her. Gudrún appears in the doorway behind Fjölnir.
+C: GUDRÚN
+D: Freyr, it seems, has chosen for himself who is deemed fit for sacrifice. Let us hope his hunger has been sated.
+C: FJÖLNIR
+D: This is not the work of my God, this is trollish sorcery ... OMITTED123 123 EXT. FJÖLNIR'S FARM. OXEN SHED. DAY124 124 It is a gray and cloudy day. The CROAKING of ravens. At a short distance from Fjölnir's longhouse, a flock of ravens feasts on a pile of dog carcasses. Amleth and the other male slaves are lined up outside the oxen shed, faced by Fjölnir's usual armed henchmen along with Gudrún and Thórir. The armed men are marked by last night's fighting with the dogs, wounded and bruised, and full of menace and ill will.
+C: FJÖLNIR
+D: Tonight you will be armed to defend the farm, for this is also your home. A secret evil has descended upon our house. It has killed noble men. It has turned our beasts against us. Hallgrímr Half-Troll walks along the line and picks out the stronger men among the male slaves. Amleth and the stronger ones are walked to the side. The others are sent back into their stalls by Finnr Nose-Stub.
+C: FJÖLNIR
+D: Till we have smote this wickedness, your stalls will be bolted, morning, noontide, and night. I am no monster, and I will not suffer monstrous spirits to take your lives ... Gudrún steps forward. Amleth turns to hide his face from her. CONTINUED:122 122 CONTINUED:124 124
+E: CONT'D
+C: FJÖLNIR
+D: Thus far, it has spared you, our slaves. Yet, we know not the bounds of its gluttony.
+E: CONT'D
+C: GUDRÚN
+D: Your corpse-god will not protect you from these woes. Amleth sees Olga weaving baskets with some other enslaved women outside the byre.
+C: FJÖLNIR
+D: The strongest of you must uphold and defend the house and the farm, for this is also your home.
+C: THÓRIR
+D: What is this weak, soft-hearted talk? Gudrún turns sharply to him.
+E: muttering to himself
+C: GUDRÚN
+D: Your father doesn't want an uprising by emboldened slaves. Do not doubt his wisdom. Fjölnir, Gudrún and Thórir walk off. Amleth and Olga exchange a look. INT. FJÖLNIR'S FARM. LONGHOUSE. KITCHEN. NIGHT124A 124A Olga’s hand holds a large spoon, stirring a bubbling cauldron of Svid, a rustic stew. A dozen sheep’s heads rise to the top. With her other hand, she pours in the bag of RED SPOTTED
+C: MUSRHOOMS. OLGA
+D: Black dreams arise! EXT. FJÖLNIR'S FARM. FIELD. NIGHT125 125 It is a still night, shrouded in fog. Amleth is out in the field, holding a sharpened pole of wood for a weapon. A rope is tied around his ankle, and he is tethered to a post secured in the ground a few feet away, like a goat used as bait for wolves. CONTINUED:124 124 CONTINUED:125 125 In front of him is the foggy, ominous night. At a distance to his right there is AUDUNN THE IRISH holding a pole and tethered in the same way. A third male slave in the same situation is on Amleth's left. More tethered slaves recede into the fog. Together, the strongest of the male slaves form a human barrier at the farm's periphery. Sitting at a safe distance, by small fires closer to the longhouse, Fjölnir's armed men keep watch of the tethered slaves. Finnr Nose-stub guards Amleth.
+E: whispered his face marred by the knattleikr game
+C: FINNR THE NOSE-STUB
+D: You slaves! I like your sticks. You. Good luck fending off the demon with that thing! Amleth watches with interest as Olga appears, leading Kormlöth and another female slave. They carry the guards’ dinner and approach Finnr. Finnr serves himself and takes drink from a jug. Olga and the other female slaves carry on to the next armed man. Finnr holds a too hot sheep's head in his hand and waves it at Amleth.
+E: O.S. laughs
+C: FINNR NOSE-STUB
+D: Hungry? Tonight you are the food! INT. FJÖLNIR'S FARM. LONGHOUSE. KITCHEN. NIGHT126 126 Halldóra is in the kitchen wiping her hands. Melkorka is sweeping. Olga, Kormlöth, and the other slaves return to the kitchen with their empty receptacles.
+E: has a brainwave laughs
+C: HALLDÓRA
+D: That was the last of it. Clean up. Kormlöth, Melkorka, and the other female slaves sigh. They look tired. Olga watches Halldóra leave. She turns to her fellow slaves.
+C: OLGA
+D: Go take some night air. I’ll finish here. Go on. CONTINUED:125 125 EXT. FJÖLNIR'S FARM. FIELD. NIGHT127 127 Amleth turns his gaze to Finnr Nose-stub. He looks at him hard. Finnr Nose-stub is uncomfortable with being watched so, as he eats. He turns his back to Amleth. When Finnr turns around again ... he doesn’t see Amleth. He falls back on his stool in fear, and draws his sword. Amleth has untied himself and has now run behind Finnr again. Finnr turns around in a panic and struggles to his feet. Amleth is nowhere to be seen. Finnr then turns, he sees something monstrous before him. His eyes widen, he begins screaming, laughing hysterically – crying, laughing and shaking uncontrollably due to his fly agaric mushroom-induced hallucination. Another armed man comes running by, fighting a hallucinatory being. He imagines the thing is on his chest, and as he falls to the ground ... he suddenly plunges his knife into his own throat. A BURLY MAN tears his tongue out and waives it in the air while he chokes on his own blood. There is more screaming of men in the distance. Amleth disappears into the fog. Finnr keeps laughing wildly, rolling around on the ground. EXT. LONGHOUSE ROOF. MOMENTS LATER128 128 Amleth sneaks along the longhouse roof with Draugr in his hand. There are shouts and commotion coming from the farm. As Amleth makes his way, he catches glimpses of the chaos that the hallucinogenic mushrooms are causing among Fjölnir's armed men, as they come in and out of the fog. Some fight each other while others stop in their tracks as they are overcome with excessive vomiting. Fjölnir, Thórir, and a handful of their sober men run into the farmyard.
+E: MORE
+C: FJÖLNIR
+D: Touch them not. Look not into their eyes. CONTINUED:128 128
+E: MORE
+C: FJÖLNIR
+D: The night spirits have entered their skins and are riding their minds. Suddenly, Thórir starts screaming in unbearable pain!
+E: CONT'D
+C: THÓRIR
+D: Hag!! Hag!! He drops to his knees and vomits! Fjólnir shakes his iron rattle.
+C: FJÖLNIR OUT DÍSIR! BE GONE!!
+D: Amleth reaches the kitchen's smoke hole. He enters. INT. FJÖLNIR'S FARM. LONGHOUSE. KITCHEN. NIGHT129 129 Amleth goes down a ladder that Olga holds for him.
+E: O.S.
+C: AMLETH
+D: We will meet you before dawn. They exchange glances and Amleth continues out of the kitchen. HALL130 130 Amleth sneaks along the dark and empty HALL. He halts as he sees light coming from a distant doorway. The voices of Gudrún and Gunnar come from inside it:
+C: GUNNAR
+D: But I want to be fighting the monster!
+E: O.S.
+C: GUDRÚN
+D: And who would take charge of the farm with me if something happened to your father? To you? You must sleep. Amleth gets nearer to the doorway of Gunnar’s bedroom.
+E: O.S
+C: GUNNAR
+D: Do you miss it?
+E: O.S.
+C: GUDRÚN
+D: Miss what?
+E: O.S.
+C: GUNNAR
+D: Your past life? The life of a queen? CONTINUED:128 128
+E: O.S.
+C: FJÖLNIR
+D: CONTINUED:130 130 Amleth follows their conversation through the gap in the door. He sees Gudrún, worried, stroking Gunnar's hair and holds him close.
+E: CONT'D
+C: GUDRÚN
+D: Never. Because of you. Yet I sometimes miss having a whole island to myself. Hrafnsey is a wondrous place.
+E: beat
+C: GUNNAR
+D: One day I will helm a great warship and get it back for you.
+C: GUDRÚN
+D: Yes, you will. She tucks him in.
+C: GUDRÚN
+D: Sleep. Amleth takes a beat and then hurries to the master bedroom. OMITTED131 131 MASTER BEDROOM. CONTINUOUS132 132 Amleth makes sure no one is in the room before inspecting it further. Amleth looks at his mother's things. He runs his fingers through the fine robes and veils folded in an open chest. He touches the jewelry and boxes on her wooden, carved vanity table. In a small box, there is a lock of blonde baby hair held together with an aging blue ribbon. On a silk cushion sits the headdress that Gudrún wore at the banquet on Hrafnsey. Beside it is King Aurvandil's GOLDEN SERPENTINE RING shining by the flame of a stone lamp. Amleth TAKES the ring.
+E: CONT'D
+C: AMLETH
+D: Father. He hears footsteps approaching the door to the master bedroom. Amleth retreats, hiding behind a carved post. Gudrún steps into the room and closes the door securely. She goes to the table with the pitcher and the washing bowl. CONTINUED:130 130 CONTINUED:132 132 Amleth watches as his mother unties her hair so it flows down her body. Gudrún takes off her outer garments and is about to strip off her long shift when she feels the blade of Draugr on her throat. Without moving her head, Gudrún glances along the blade and meets Amleth's eyes. Amleth keeps the blade steady, she keeps her cool.
+C: GUDRÚN
+D: Your sword is long ... Amleth breaks her off.
+C: AMLETH
+D: Stop your jest ... I am your son.
+C: GUDRÚN
+D: Amleth? There is tenderness in Gudrún's eyes. Amleth's hand shakes a little. He moves the sword from Gudrún's throat so as not to harm her. Gudrún backs off, away from Amleth, and looks at him with admiration and relief.
+E: a beat
+C: GUDRÚN
+D: You live still?
+E: CONT'D
+C: AMLETH
+D: A life of death. Yet I swore to survive till this moment. Tomorrow, I’ll finish my deeds in honor. Only then will I discover whether living is to my liking.
+C: GUDRÚN
+D: You are your mother's son.
+C: AMLETH
+D: And my father's. I am come to avenge King Aurvandil, to choke my traitorous uncle in his death-blood — and to free you! Amleth raises Draugr with hope in his eyes. Gudrún laughs dismissively. CONTINUED:132 132 CONTINUED: 132 132
+E: 2 MORE
+C: GUDRÚN
+D: I see you have inherited your father's simpleness.
+C: AMLETH
+D: What say you?
+C: GUDRÚN
+D: I never mourned him. Amleth is shattered by her words.
+C: AMLETH
+D: You were his queen.
+C: GUDRÚN
+D: Your father endured me because I bore him a son.
+C: AMLETH
+D: No ...
+C: GUDRÚN
+D: His affections were only for silver and rutting his whores. I know not if he had a heart enough to love you.
+C: AMLETH
+D: Silence!
+C: GUDRÚN
+D: He was a coward feigning to be a king. He was a nothing! Just another proud, lust-stained slaver ...
+C: AMLETH
+D: Hold your tongue. You spit in the face of your dead husband.
+C: GUDRÚN
+D: Yet his brother ... his fine brother ... a bastard has no shame of himself nor his trade. Your uncle loved me though he knew-well my past. Amleth looks blankly at her. Gudrún smiles condescendingly.
+C: GUDRÚN
+D: Amleth. Even now, you believe the fairy tale I told you was true? CONTINUED: 132 132 CONTINUED: 132 132
+E: CONT'D laughs 2 MORE 3
+C: GUDRÚN
+D: "A noble bride hailing from the land of Brittany"? I never began as his bride. Gudrún takes a step closer to Amleth. She lets her shift fall down over her left shoulder, slipping her arm out of the sleeve, revealing a CRUDE BRANDING MARK on the skin below it.
+E: CONT'D cold
+C: GUDRÚN
+D: How easily we all become princesses again when the beasts take us for their wives. Amleth is speechless.
+E: CONT'D
+C: GUDRÚN
+D: Yes. You were forced upon your mother. Gunnar was received freely. With love.
+E: CONT'D
+C: AMLETH GUDRÚN
+D: And know you this: it was I who begged on my knees for Fjölnir to kill King Aurvandil. I pressed my lips upon his strong, sweet hand, I kissed it, and I begged him. And so this day would never come, Fjölnir ordered your death — with your own mother's blessing.
+C: AMLETH
+D: But I saw it. I saw Fjölnir carrying you away – screaming.
+C: GUDRÚN
+D: Screaming? I was laughing.
+E: beat
+C: AMLETH
+D: Lies! Amleth is destroyed. He lets down his sword so the tip touches the floor. Gudrún becomes mild of manner again.
+C: GUDRÚN
+D: Now that you are here, what do we do? Amleth mutters grimly. CONTINUED: 132 132
+E: 3
+C: GUDRÚN
+D: CONTINUED: 132 132
+E: CONT'D 4
+C: AMLETH
+D: I should kill you, and all that is dear to you.
+C: GUDRÚN
+D: But you love me. A son loves his mother. A mother loves her son. Amleth is confused by this love talk.
+C: GUDRÚN
+D: You saved your brother's life. You love. You. Love. Gudrún steps right up to Amleth and speaks to him in a low, soothing voice.
+E: CONT'D
+C: GUDRÚN
+D: None but me knows who you are. And you are so hot for revenge, child born of savagery. If you kill Fjölnir, if you kill Thórir ... and if you are so untamed as to kill my Gunnar ... You would be my new king, Amleth, and together we will rule. She pulls him close and kisses him sensually on the mouth. Amleth is stunned. Then he tears himself away from her.
+E: CONT'D beat
+C: AMLETH
+D: Bitch!
+C: GUDRÚN
+D: Your taste and your mind reek of your foul father. You should have joined him in death! Amleth is pulled back. While kissing him, Gudrún got a grip on his hand holding Draugr. Amleth tries to break free, but Gudrún's grip is surprisingly strong. Amleth and Gudrún fight over the sword.
+C: AMLETH
+D: Your words are poison. At last, Amleth manages to free himself from Gudrún's grip. Mother and son stand across from each other, catching their breath. Amleth holds Draugr at the ready. With a mocking smile, Gudrún rips her shift open, baring her breasts. CONTINUED: 132 132 CONTINUED: 132 132
+E: 4 5
+C: GUDRÚN
+D: I am your death! Amleth runs out of Gudrún's chamber. She laughs and laughs, flashing her frenzied eyes. INT. FJÖLNIR'S FARM. LONGHOUSE. MAIN HALL. NIGHT133 133 Amleth rushes through the dark, sleeping longhouse. The main hall is mostly empty thanks to the mushroom chaos.
+C: HALL BENCH
+D: Amleth finds THÓRIR lying asleep, stained in vomit. Without hesitation, Amleth raises Draugr high above his head and stabs Thórir in his sleep. The force plunges the blade through Thórir's body and through the hall bench itself. The blade of Draugr comes bursting through the underside of the bed, its blood-soaked tip touching the floor below. As Amleth pulls Draugr back with a RINGING SOUND, Thórir wakes, his eyes wide! He looks at Amleth in horror at being murdered in his sleep – and by a slave. Thórir tries to grab Draugr's bloody blade, slicing his own hands, as Amleth brings the sword down again with a final,
+C: HIDEOUS CRUNCH. BLACK.
+D: OMITTED134 134 EXT. BEHIND THE LONGHOUSE. PREDAWN134A 134A
+C: OLGA
+D: Where is your mother? Amleth is dumbstruck.
+C: OLGA
+D: Tell me.
+E: CONT'D
+C: AMLETH
+D: The words aren't coming.
+C: OLGA
+D: Where? She looks at him with fierce compassion. CONTINUED: 132 132
+E: 5
+C: CONTINUED:134A 134A
+D: He whispers quickly with clenched teeth in fury and confusion.
+C: AMLETH
+D: She is as evil as Fjölnir. I will destroy him and all that she loved. I will become a hailstorm of iron and steel ... I’ll have my vengeance ... and more.
+C: OLGA
+D: Then what must we do now?
+C: AMLETH
+D: I must take to the hills. My mother discovered who I am, soon everyone will.
+C: OLGA
+D: I’ll come with you.
+C: AMLETH
+D: No, they cannot know you are a part of this. Come morning they will hunt for me.
+C: OLGA
+D: Why? He shows her his blood soaked hands.
+C: OLGA
+D: You killed her?
+E: CONT'D
+C: AMLETH
+D: I will not kill a woman. Not even her. Thórir met his end by my fury.
+C: OLGA
+D: Good riddance. Tomorrow night you will return and kill Fjölnir?
+C: AMLETH
+D: If the Norns of Fate allow it. And whatever happens tomorrow … be ready to run. They kiss. Amleth disappears into the night.
+C: CONTINUED:134A 134A
+D: EXT. FJÖLNIR'S FARM. LONGHOUSE. DAY135 135 `Thórir's bloodied corpse lies on a bier, carried by male slaves who bring it out of the longhouse through a hole cut in the turf wall . The bier is met by Fjölnir, who is beyond himself with grief. Gudrún comes fast on his heels, holding Gunnar close to her. Fjölnir throws himself on Thórir's dead body. The bier falls from the slaves' hands to the ground. Fjölnir crouches over it, crying silently in the mud. Gudrún and the others look on with compassion. Then, Fjölnir pulls himself away from Thórir's body and shouts.
+E: a corpse-door
+C: FJÖLNIR
+D: His heart. His heart. It has taken his heart! He thrusts his hand into the gaping wound on Thórir's breast and rummages in it.
+C: FJÖLNIR
+D: His heart! What evil is this? What kind of evil eats the hearts of brave young men? Freyr, do you hear me? Gudrún throws herself on the ground as well. It looks like she is joining Fjölnir in his desperation. Instead, she whispers in his ear, fast and as cold as stone.
+E: CONT'D
+C: GUDRÚN
+D: Behave! Be a man in front of your inferiors! There is no evil spirit here, Fjölnir, think! I told you ... I told you ... it is my cursèd son, Amleth! Fjölnir chokes on her words. Blood rushes to his brain.
+C: FJÖLNIR
+D: We rid ourselves of him as a boy!
+C: GUDRÚN
+D: You must believe me, he is here. The progeny of Aurvandil lives still. I fear he was led here by the raven- spirit of your dead brother.
+C: FJÖLNIR
+D: It is impossible. CONTINUED:135 135
+C: GUDRÚN
+D: Think. He has killed your men. He has murdered your eldest son. And he will not rest till you lie cold in the ground and our own Gunnar lies slain beside you. It is Amleth. Gudrún puts her hand around Fjölnir's head and makes him look her in the eyes.
+C: GUDRÚN
+D: No god can help you with this task. You must discover my son and kill him with your own hands. Gudrún raises herself and Fjölnir up from Thórir's corpse. Fjölnir closes his eyes in rage, his veins bulging.
+E: CONT'D
+C: GUDRÚN
+D: Let my words be the whetstone to your biting rage for the mischief of last night was not the work of one man. Find the slaves who ally with him ... All the slaves have been herded together and brought to the front of the longhouse by Hallgrímr, Finnr Nose-stub, and what is left of the armed men.
+E: CONT'D
+C: GUDRÚN
+D: Find them! Gudrún pulls a long knife from inside her cloak and hands it to Fjölnir. Fjölnir steadies himself and walks to the group of slaves. Hallgrímr Half-Troll orders the slaves down on their knees.
+E: CONT'D
+C: FINNR THE NOSE-STUB
+D: On your knees!
+C: HALLGRÍMR HALF-TROLL
+D: Down with you! Down with the lot of you! The slaves get down on their knees. When Fjölnir reaches them, he grabs an ELDERLY MALE SLAVE by the hair, forces his head back, and cuts his throat. The blood spurts, and Fjölnir lets go of him as the man falls to the muddy ground. Fjölnir waves the long knife, dripping with blood, at the terrified slaves. CONTINUED:135 135 CONTINUED: 135 135
+E: 2
+C: FJÖLNIR
+D: I know not, nor care not, if that slave aided in the death of my son ... but this is the end you will all meet, if you speak not what you know. Fjölnir grabs the next slave, A YOUNG WOMAN, and he cuts her throat in the same manner before she can utter a word.
+C: FJÖLNIR
+D: No? The next in line is Olga. As Fjölnir grabs her hair and pulls her head back so he can cut her throat, she looks him in the eyes with pure hatred.
+E: CONT'D
+C: OLGA
+D: I see you're no longer afraid of a woman's blood. She laughs, tears streaming in hate. Fjölnir's eyes flash with anger.
+E: hissing
+C: FJÖLNIR
+D: Of course, of course it is you! Fjölnir brandishes the long knife and places its blade on Olga's throat, breaking the skin – WHEN SUDDENLY – the crowd gasps. Everyone turns. Fjölnir stops and looks: It is Amleth standing on a hilltop with Draugr at his side. He wears his Arab amulet proudly. He roars:
+C: AMLETH
+D: Fjölnir! Let her alone!I offer you your son's heart in exchange for her life! Amleth raises his right hand up in the air. His fist is clenched around a blood-soaked leather sack, the size of a human heart.
+C: AMLETH
+D: I am Amleth the Bear-Wolf, son of King Aurvandil War-Raven, and I am his vengeance! Fjölnir screams. He throws Olga to the side and strides toward Amleth. Amleth hangs the pouch from his belt and runs toward Fjölnir. CONTINUED: 135 135 CONTINUED: 135 135 Gudrún shouts to Fjölnir's men.
+E: CONT'D 2 3
+C: GUDRÚN
+D: Kill him, kill him! Before Amleth reaches Fjölnir, Fjölnir's men attack Amleth from all sides. In a scene that echoes King Aurvandil's last moments, Amleth uses Draugr as a blunt object, holding it like his father did his sword in his final hour, beating the attackers senseless when he hits them in the head. With his berserker skills, Amleth has the upper hand in the fight. BUT ... ... in the chaos, Amleth sees Olga as she sneaks away from the group of slaves ... ... SO when Amleth is sure Olga has made her escape, he starts allowing Fjölnir's men to hit him harder and faster. Fjölnir's men knock Draugr out of Amleth's hands. They throw themselves on him like a pack of dogs, bringing him down on his knees, forcing his hands behind his back. Fjölnir walks to him, knife unsheathed ... He cuts the bloody pouch loose from Amleth’s belt. He looks at Amleth with contempt.
+E: Since it is daytime, Amleth doesn't unsheathe his enchanted sword.
+C: FJÖLNIR
+D: In the end, you're just like your father. Evil begets evil. Amleth mutters something through his cracked and bloodied lips.
+C: AMLETH
+D: How, how do you ... Fjölnir turns to Amleth.
+C: AMLETH
+D: How ... how do you know it is your son's heart ... Amleth grins a bloody grin, the rain beating down on his face. CONTINUED: 135 135 CONTINUED: 135 135
+E: CONT'D 3 4
+C: AMLETH
+D: ... and not the heart of a rabid dog killed two nights ago? Fjölnir screams in anger and stomps Amleth in the face! INT. FJÖLNIR'S FARM. BARN. DAY136 136 Amleth comes back to his senses. He has been hoisted up in the shadowy barn. He hangs from the rafters by his tied hands, bare-chested, bloodied, and bruised. One of his eyes swollen shut. In front of Amleth are Fjölnir and his men. Finnr Nose-stub is among them, holding Draugr. Fjölnir sees that Amleth has regained consciousness, and throws him several hard punches so that Amleth swings on the rope. Amleth coughs and spits blood. He looks at Fjölnir with utmost intensity.
+E: CONT'D
+C: FJÖLNIR
+D: Where is it?
+C: AMLETH
+D: You cannot kill me. Even if you were to strike me with your sword, it would not bite. It is not my time. I will die in battle. This clearly frightens Fjölnir. He throws Amleth another punch.
+C: FJÖLNIR
+D: Where is my son’s heart?
+C: AMLETH
+D: Ódinn the All-Father will vanquish your god of erections. Fear him ––
+C: FJÖLNIR
+D: Silence! Fjölnir smashes Amleth in the face again.
+C: FJÖLNIR
+D: I will come back ... for your heart. And your mother and I will eat it. Fjölnir and his men leave the barn. CONTINUED: 135 135 CONTINUED:136 136 Finnr Nose-stub is the last to leave. He halts in the barn door and tries to draw Draugr from its scabbard. It is still daytime, so the sword doesn't yield. He tries it again, but it remains stuck in the scabbard. Finnr tears off the garnet- decorated hanger for himself and throws the sheathed sword into the barn like a piece of junk, and closes the door. LATER. EVENING137 137 The blue of the twilight outside shines through cracks in the ceiling. Still unconscious, Amleth hangs from the rafters. IN A FLUTTERING OF WINGS, a raven appears up on the rafter. It does its little raven jig and hops toward the spot where the rope is tied around the wooden beam. It starts pecking at the rope. A moment later, another raven appears on the rafter and joins in on the pecking. Amleth falls to the ground. The ravens follow him to the barn floor. There is more fluttering of wings. More ravens come gliding down from the rafters and join the first two ravens in pecking at Amleth as carrion. Amleth regains consciousness, and through a crack in his eyes, he sees the ravens flocking around him, covering him, croaking and beating their wings. Amleth cries out in pain.
+E: CONT'D 4
+C: AMLETH
+D: Ódinn let the Valkyrie, your warrior maiden fly me, to your shining gates. As the beating of the ravens' wings reaches a climax, the dark shadow of A GIANT HOODED FIGURE approaches eerily behind Amleth. EXT. FJÖLNIR'S FARM. MOUNTAIN SIDE. NIGHT138 138 A simple DOOR FRAME has been erected outdoors as a ceremonial entrance to a stone circle. Fjölnir’s men lift up Kormlöth the slave, so that her face looks over the door frame:
+C: KORMLÖTH
+D: I see my father and mother. CONTINUED:136 136 CONTINUED:138 138 They lower her and then lift her again.
+C: KORMLÖTH
+D: I see my dead kindred. Again:
+E: CONT'D
+C: KORMLÖTH
+D: I see my master in Freyja’s hall. He calls me to him! Men beat their shields and women ululate. Kormlöth, who is dressed beautifully and beyond her station, sings a mournful funeral song as she enters the stone circle towards a small VIKING SHIP half-buried in the earth. Iron lamps on tall stands burn brightly. Thórir is being buried with all the pomp that befits one of his status. The tall, wooden effigy of Freyr has been brought out of the temple house and placed in a cart at the entrance of the circle. It is specially adorned for the funeral. Fjölnir and his family stand outside the port side of the ship. He wears his priest's bloody arm ring and shakes the iron rattle. Gudrún and Gunnar are by his side. All are overcome with sorrow. Áshildur Hofgythja stands on the ship’s deck with a foreboding disposition. She wears a ceremonial boar skin cloak and presides over the funeral. Fjölnir's men stand vigil outside the starboard side of the boat. MOURNING WOMEN, led by Halldóra, kneel, tossing their hair wildly, grabbing their breasts, and clawing at their faces, moaning and wailing. Fjölnir’s men kneel and Kormlöth uses their palms as a staircase to board the ship, greeted by Áshildur. Kormlöth passes earthly goods placed onto the ship: Weapons, brass bowls, casques of food offerings, birds torn into pieces. Áshildur leads Kormlöth to a bed where THÓRIR’S CORPSE LIES. Thórir is dressed in his best armor. His nose and ears are sealed with wax. Áshildur lays a gilded sword on his chest. Áshildur then gives Kormlöth a horn of drink. A HORSE HANDLER brings Thórir's horse, Freyfaxi, forward to Fjölnir, holding his golden bridle. Fjölnir embraces the beautiful horse tenderly, and speaks into its ear. CONTINUED:138 138 CONTINUED: 138 138
+E: CONT'D 2
+C: FJÖLNIR
+D: Tonight our mourning for Thórir ends. Fjölnir steps back. With a gentle command, the horse handler brings Freyfaxi down on its side. The horse is calm. Fjölnir unsheathes his sword. His men beat their weapons on their shields, rhythmically ... Kormlöth’s singing grows louder ... Fjölnir gets ready to swing his sword. Just then, Gudrún pushed Gunnar forward.
+E: in a low voice
+C: GUDRÚN
+D: Go on ...
+C: GUNNAR
+D: Father, let me do it. Thórir was my brother. Fjölnir hesitates. He looks at Gudrún. She bows. Fjölnir hands Gunnar the sword. Gunnar weighs the sword in his hands. It is heavy. The shield banging and the singing grows louder and louder ...
+C: GUNNAR
+D: May the neck-ale of this swift steed hasten you to that highest tree of the battle-weavers, brother. With both hands, he swings the sword ... The blood spurts on Gunnar. Gunnar yanks the sword loose and swings it again. A thud is heard as the horse’s head is separated from its body (OFF-
+E: CONT'D he hacks into the horse’s neck, OFF CAMERA
+C: CAMERA).
+D: The mourning women rush to the horse's decapitated corpse and collect the blood spurting from its open neck into big clay bowls. Just then, on the ship, Kormlöth’s singing is cut short: ÁSHILDUR STABS KORMLÖTH IN THE CHEST THREE TIMES. She lays her body next to Thórir. The thick, steaming blood is ritually poured over Thórir and Kormlöth's bodies. Fjölnir and Gunnar remove their cloaks and stand naked before Gudrún . CONTINUED: 138 138 CONTINUED: 138 138 Gudrún dips a branch in the blood, like an aspergillum..
+E: CAMERA show them from the waist up 2 3
+C: GUDRÚN
+D: You now remain our only heir. She sprinkles it on her living family. Blood sprays their faces and bodies. Fjölnir touches his bloody arm ring.
+C: FJÖLNIR
+D: I swear, by your own brother's death, that you’ll not meet this selfsame fate.
+C: GUDRÚN
+D: It will never befall you. Never! Gudrún locks eyes with Fjölnir. After a beat he turns to his men and shouts with fury:
+E: to Gunnar to Fjölnir
+C: FJÖLNIR
+D: My hour of grief has passed! The time of wrath-kindled revenge is upon us! Fjölnir shakes his iron rattle. Gudrún and the other women ululate, the men shout their war cries, and beat their weapons on their shields as fast as they can! INT. FJÖLNIR'S FARM. BARN. NIGHT139 139 Fjölnir kicks the barn door open. Amleth is gone. The rope lies in tatters on the ground. Fjölnir is in shock. Suddenly, he is overwhelmed with CROAKING and the FLUTTERING 140 140 OF WINGS. Ravens come diving off of the rafters, heading straight for the men. EXT. FJÖLNIR'S FARM. BARN. NIGHT141 141 Fjölnir and his men flee out of the barn. The ravens dart out and scatter into the night sky. EXT. SOUTHERN ICELAND AND BEYOND. PRE-DAWN142 142
+C: HOOF BEATS. BLOWING WIND.
+D: MASSIVE HOOVES of a white horse beat the ground, kicking up black earth and dust. CONTINUED: 138 138 CONTINUED:142 142 The RIDER'S fine leather boots are adorned with golden spurs that gleam in the moonlight. The rider violently heels the galloping steed onward. Amleth is half-covered in her cloak, sitting sideways on the horse, unconscious and limp in front of the rider. The rider holds him close and steady with her muscular left arm — as if he were a sleeping child — while holding the reigns of the horse with her right, spattered in blood to her elbow. Her long spear is tucked under her thigh. The rider is a VALKYRJA . She is a Nordic warrior deity — dressed in the threatening, ornamented armor of her kind. Her iron war helm shines like glass. Her red cloak is smeared in gore and lined with fluttering swan feathers. Her hair is an icy wind. Her face is fierce and beautiful – angelic and demonic. The Valkyrja rides her horse through the mythic landscape of Southern Iceland. The Valkyrja casts her blood-thirsty, silver eyes ahead to the cliff edge, reflecting the light of a waxing moon shining through wispy clouds. As they come closer to the cliff's edge, the Valkyrja spurs her horse ever harder ... and they gallop straight off of the cliff, into the void. She screams a bone-chilling war cry – like a bird of prey – her filed teeth inlaid with raven-black resin! There is a MOMENT OF VERTIGO: BUT ...143 143 ... the Valkyrja rides the wind up into the sky ... ... AND as they climb up above the clouds where they reach the silence of the starry night, they are joined by other Valkyrjur also carrying slain warriors on their horses, far in the distance, wielding bloody swords and spears ... The beating of their hooves is like thunder. Their war cries are a baleful sirens' song. They are all headed for the same place: a CITADEL at the end of the Milky Way. It glows with an eerie light: VALHÖLL. EXT. HIDDEN VALLEY. DAWN144 144 Amleth wakes up. He lies in a warm, steaming mountain tarn. Some of his wounds are healed by the swirling blue water, but he is still very battered and bruised. His eye is open and his amulet is around his neck. CONTINUED:142 142 CONTINUED:144 144 It is dawn. A white horse grazes nearby. Through the steam, Amleth sees the form of a woman. The steam shifts and reveals that it is Olga. Olga comes to Amleth holding a bundle of fresh clothes. She puts the clothes on the ground by the small hot spring.
+E: 3 Valkyrie much like the Valkyrja’s
+C: AMLETH
+D: This is not Valhöll?
+C: OLGA
+D: I did not carry you that far. I am no Valkyrie. The dreams of your afterlife must wait. Besides ... She slips the dress off her body and steps into the water.
+E: she smiles
+C: OLGA
+D: I'm not done with you yet. EXT. HIDDEN VALLEY. EVENING145 145 It is evening. Amleth and Olga are dressed, sitting by a small open fire. They share a simple meal of bread, roasted ptarmigan , and water. Amleth is still nursing his wounds.
+E: CONT'D Arctic grouse
+C: AMLETH
+D: My Fate brought me to Iceland to carry out my pledge of vengeance ... but my Fate ... it did not ready me for finding ... He looks down sheepishly as he tries to say the word ...
+C: AMLETH
+D: You.
+E: CONT'D
+C: OLGA
+D: And I thought I must shield my heart always in stone. I could not think I would open it to a North man. You sacrificed yourself, that I could flee.
+C: AMLETH
+D: And you came back for me. Olga gives him time to find the words to continue. CONTINUED:144 144 CONTINUED:145 145
+C: AMLETH
+D: I ... I have never felt close to another person. Not since I was a child. She touches his face gently, imagining him as that traumatized child.
+E: CONT'D
+C: OLGA
+D: I curse your mother’s evil. If Amleth could cry, he would with these next words:
+C: AMLETH
+D: She murdered my past. Olga looks at him with hope:
+C: OLGA
+D: Could it not be your Norns of Fate have spun another thread for you to follow? He wants it to be true:
+C: AMLETH
+D: What do your Earth gods tell you?
+C: OLGA
+D: That wherever I go, I must take you with me.
+C: AMLETH
+D: I have kinsmen in Orkney. We could find safe passage there. Together.
+C: OLGA
+D: Yet I cannot truly believe that you have extinguished your fire for vengeance. Amleth hesitates.
+C: AMLETH
+D: Hate is all I have ever known, but I wish I could be free of it.
+C: OLGA
+D: That is for you to choose. Let’s find our future. She takes his hand. They smile. CONTINUED:145 145 EXT. MOUNT HEKLA. NIGHT146 146 The rumble continues. The volcano’s massive form is silhouetted against the night sky, black and still. Suddenly, there is a mighty roar: The mountain side splits open and the fissure lights up with a hellish orange glow. EXT. FJÖLNIR'S FARM. FIELD. NIGHT147 147 Gudrún stands out in the field, far from the longhouse, alone. Sleepless. She is watching the distant glow from Mount Hekla in the first throes of its eruption. A figure walks to her in the night. It is Áshildur Hofgythja. She stops a few feet behind Gudrún.
+C: GUDRÚN
+D: No god would be so fearless as to dash the sun's fire into the night. The volcanic light glimmers in Gudrún's eyes.
+C: GUDRÚN
+D: What dread omen is this?
+E: CONT'D
+C: ÁSHILDUR HOFGYTHJA
+D: None. Áshildur Hofgythja steps forward.
+C: ÁSHILDUR HOFGYTHJA
+D: Hel has but opened her solemn gates. The merciless hostess makes ready to receive our murdered ones.
+E: CONT'D
+C: GUDRÚN
+D: Rich have we made her hoard.
+C: ÁSHILDUR HOFGYTHJA
+D: How all living men do fear entering her kingdom.
+C: GUDRÚN
+D: And so they should. A woman rules its high seat. Gudrún and Áshildur smile.
+E: beat
+C: GUDRÚN
+D: When the warriors feast in the mountain hall, Freyja my death goddess will welcome me as a sister. CONTINUED:147 147
+E: CONT'D
+C: ÁSHILDUR HOFGYTHJA
+D: Are you no warrior? Gudrún becomes more serious.
+C: GUDRÚN
+D: I am a queen.
+C: ÁSHILDUR HOFGYTHJA
+D: May she embrace you as one. Gudrún looks directly at Mount Hekla, the orange glow colors her cheeks. Her eyes darken.
+C: GUDRÚN
+D: Hel, close your lap. Let no more of my house's lives be unbirthed by you. EXT. LANDMANNALAUGAR MOUNTAINS. DAY147A 147A Amleth and Olga ride on horseback through the rainbow colored ridges of the Landmannalaugar mountains. EXT. VESTRAHORN. BLACK BEACHES. DAY148 148 Amleth and Olga cross the black beach below the peaks of Vestrahorn. Their reflections shimmer in the high tide like a fairy tale. EXT. VESTRAHORN. BLACK BEACHES. DAY148A 148A They gallop through the shallow, mirror-like water toward a Knörr moored out at sea. EXT. KNÖRR MERCHANT SHIP. DAY149 149 Amleth and Olga are helped aboard the ship from a row boat by its side. Amleth needs the help. He groans from his injuries. The ship's captain, VOLODYMYR, a blond-mustached Rus with water-blue eyes and a dangling pearl earring, motions to the SHIP CREW. It’s a motley assortment of early 10th century seamen. Volodymyr greets Amleth and Olga with a deep, grave voice:
+C: CAPTAIN VOLODYMYR
+D: Welcome, seafarers. The deck of this wooden saddle-beast is the only ground you’ll tread for twenty-one days. If our luck-spirits smile upon us. CONTINUED:147 147 CONTINUED:149 149 Beat. I was expecting more of Fjölnir's men. His son was to join us.
+E: switching to Old Slavic, speaking to himself back to our tongue
+C: OLGA
+D: Thórir departed early – on his own ship. Volodymyr smiles with his eyes.
+E: Old Slavic
+C: CAPTAIN VOLODYMYR
+D: Anchor up! Sail down! OMITTED150 150 EXT. KNÖRR MERCHANT SHIP. DAY151 151 Amleth stands with Olga by his side. The sea wind blows their hair. The ship is under full sail. Amleth and Olga look back at Iceland, behind them. A massive gray plume of smoke billows from Mount Hekla, spreading ash through the sky above. Amleth turns to Olga. Her cloak has slid down. It exposes the nasty, bruised cut on her throat, where Fjölnir placed his knife.
+C: AMLETH
+D: Your wound ...
+C: OLGA
+D: It is nothing to what we have endured. I have forgotten it already. Amleth unpins her shawl, exposing her neck fully. He touches it gently. He leans in to her ... He can hear the pulse of her throat grow louder ... Louder ... He kisses her neck ... coming into contact with the cut on Olga's throat ... THE PLACE OF VISIONS152 152 WITH A THUNDERING HEARTBEAT, Amleth is again thrown into a bright, silent VISION of his family tree made of red and blue pulsating veins. CONTINUED:149 149 CONTINUED:152 152 CAMERA floats by the generations of mummified kings, to the youngest branch. Amleth is sitting there, just above King Aurvandil. Amleth holds out his hand, and from the tip of his index finger stretches a red vein/twig. But just as the vision is about to reveal who it connects with ... EXT. KNÖRR MERCHANT SHIP. DAY153 153 ... Amleth is thrown out of the vision. He stutters in shock.
+C: AMLETH
+D: My family's blood ... my own blood is inside you ... you are the well our dynasty will spring from.
+C: OLGA
+D: I did not wish you to know until I could trust that our child would be safe.
+C: AMLETH
+D: While Fjölnir lives, our children will never be safe. If he but knew of this he would hunt you with all the fire of the gods. It cannot wait!
+C: OLGA
+D: Stop this – there is now a living thread that binds us.
+C: AMLETH
+D: I was a fool. I wish to flee with you from my fate. Amleth holds back tears as he goes to his knees and touches Olga’s womb.
+C: AMLETH
+D: My vision shows me you will have two. My sword will save them. He takes the amulet from around his neck and places it in Olga's hand. He kisses her womb. He stands.
+E: CONT'D
+C: OLGA
+D: But you must come with us. You must! CONTINUED:152 152 CONTINUED:153 153
+C: AMLETH
+D: It was prophesied that I must choose ... between kindness for my kin and hate for my enemies ...
+C: OLGA
+D: And see what hope we have before us She kisses him. He pulls her away gently. He holds her head and looks her deeply in the eyes with love.
+E: pleading
+C: AMLETH
+D: I choose both. Amleth pulls King Aurvandil's golden ring from his finger. He quickly goes to Captain Volodymyr and puts it in his hand.
+C: AMLETH
+D: Take her to Orkney ... in return for this ring, my kinsmen will give you ninefold its worth ... Captain Volodymyr nods in agreement. Amleth grabs Draugr from the railing and ties it to his back. He leaps onto the gunnel. Olga runs to him. Captain Volodymyr restrains Olga so she doesn't follow Amleth into what must be a certain death.
+E: CONT'D
+C: OLGA
+D: No ... no ... Amleth! Amleth locks eyes with Olga one last time.
+C: AMLETH
+D: You will be mother to a king! We cannot scape our Fate.
+C: OLGA
+D: Amleth! Amleth dives from the ship's gunnel. Olga screams! Olga watches Amleth disappear into the waves. Olga moves out of the grip of Captain Volodomyr and turns to him. Her face has become a fierce mask of determination. The captain retreats from her gaze. CONTINUED:153 153 CONTINUED: 153 153 The crew looks on in fear and awe as she raises her right hand to the ocean's far horizon and shouts:
+E: 2
+C: OLGA
+D: Ride with me, daughters of the North wind! Carry me and mine to the shores of my children's forbears. There I'll grow you a forest of birch, fathomless branches to dance your tempest with, raptured by your most righteous breath! The wind obeys her call. The big sail reacts to the hard gust and it stretches to its fullness with a deep rumbling roar. EXT. THE OCEAN. DAY154 154 Amleth swims through the heavy waves toward land. Behind him, the ship grows smaller. Amleth's HEARTBEAT grows louder as he swims. Louder... LOUDER THE PLACE OF VISIONS155 155 ... the red vein/twig of blood sprouting from King Amleth's finger SPLITS IN TWO. One vein connects with the forefinger of a small BOY, the other with the forefinger of a small GIRL. The girl is the one wearing the royal crown. A MAIDEN
+E: CONT'D in Old Slavic
+C: KING.
+D: EXT. FJÖLNIR'S FARM. FIELD. NIGHT156 156 Amleth comes sneaking over the fields. The farmstead in the distance. EXT. FJÖLNIR'S FARM. NIGHT157 157 Amleth hunts down what is left of Fjölnir's armed men. With each kill, he moves closer to the longhouse. EXT. FJÖLNIR'S FARM. BY THE WEAVERS HUTS. NIGHT158 158 Finnr Nose-Stub is patrolling the dark farm yard. In the distance, a few of Fjölnir’s remaining men do the same. Suddenly, the sound of a blade piercing flesh is heard and a stifled groan. A body of a retainer falls to the ground nearby Finnr. Finnr draws his sword and quickens his pace to reach another retainer. Just then, a sword emerges from darkness and cuts CONTINUED: 153 153 CONTINUED:158 158 the man’s throat. Finnr flees in the other direction ... But as he turns the corner ... he finds Amleth's face an inch from his own. Finnr is terror-stricken.
+E: 2
+C: AMLETH
+D: The cub you once hunted ate of your nose. Now the wolf is grown. He hungers for the rest. Amleth plunges Draugr up Finnr’s nose-hole, deep into his skull. OMITTED159-161 159-161 INT. FJÖLNIR'S FARM. BYRE. NIGHT162 162 The FEMALE SLAVES hide among the cows in the stall, listening in fright to the SOUNDS OF FIGHTING and the GROANING of dying men outside. Melkorka runs in, helping some pigs to safety. Suddenly, the door is thrown open. There is silence – the female slaves are too frightened to scream. Hallgrímr Half-Troll stumbling through the door. Clutching his intestines spilling from his belly, he falls flat on his face and onto the fire below. Amleth stands outside, his silhouette framed by the doorway. Draugr is in his hand, dripping with blood.
+C: AMLETH
+D: From this night there are no masters on this farm. Take your freedom and do with it what you will. Before anyone can respond, Amleth disappears into the night. INT. FJÖLNIR'S FARM. LONGHOUSE. MASTER BEDROOM. NIGHT162A 162A Fjölnir stands by the edge of the box-bed wearing his armor. Gudrún holds Gunnar tightly inside the bed.
+C: FJÖLNIR
+D: Whatever you hear, you must stay hidden. Gunnar nods in silent agreement. Fjölnir turns toward Gudrún. CONTINUED:158 158
+C: CONTINUED:162A 162A FJÖLNIR
+D: Keep him safe. Keep both of you safe. Fjölnir hands Gudrún a long saex in a scabbard.
+E: CONT'D
+C: GUDRÚN
+D: I will. They kiss. He leaves.
+C: OMITTED162B 162B
+D: INT. FJÖLNIR'S FARM. LONGHOUSE. CONTINUOUS163 163 Fjölnir closes the bedroom door. He draws his sword and heads out the rear entrance into the yard. But just as Fjölnir leaves ... In the kitchen: Amleth drops to the ground from the smoke hole, landing on his feet. He walks through the longhouse with Draugr ready. INT. FJÖLNIR'S FARM. LONGHOUSE. MASTER BEDROOM. NIGHT164 164 Amleth kicks open the door of the master bedroom.
+C: AMLETH
+D: Fjölnir! Beat. SUDDENLY, A PIERCING SCREAM rings out in the bedroom. Amleth turns swiftly around. Gudrún comes flying at him from out of the box-bed, with the long saex in her hand.
+E: Gunnar stays hidden inside
+C: GUDRÚN
+E: screaming
+C: NEVER!
+D: Gudrún attacks Amleth like a she-wolf. Gudrún knows how to wield a sword and means to kill her son. Amleth, parries her blows, not attacking her back – but she is too fierce.
+C: CONTINUED:162A 162A
+D: CONTINUED:164 164 They cross blades twice more. Amleth narrowly escapes Gudrún’s blade ... and strikes her a fatal blow! He plunges Draugr deep into his mother’s chest. There is silence. Gudrún goes pale. Still standing upright, she looks down at Draugr's blade sticking out of her body.
+C: GUDRÚN
+D: In the heart ... thank you ... Gudrún is dead. The saex drops from her hand. She falls forward and Amleth catches her. Without showing any emotion, he stands still, holding his mother's dead body in his arms. SUDDENLY, A CHILD'S CRY OF AGONY shatters the moment.
+E: CONT'D whispering
+C: GUNNAR
+D: Mother! Gunnar is out of the bed, running to Amleth, A DAGGER in his hand ... He jumps on Amleth and starts stabbing him with his dagger, over and over and over and over — a wild frenzy of stabbing to kill Amleth ... With a swing of Draugr, Amleth drops Gudrún's lifeless body on the floor and strikes young Gunnar across the torso. The boy falls dead on the floor beside his mother. Beat. Amleth looks on in horror at what has just happened. Just then, Fjölnir appears in the doorway. He too looks on at the carnage, his wife and his son lying dead on the floor. He is stunned. He walks to Gunnar as if Amleth is invisible to him. He embraces Gunnar’s dead body. Amleth is riddled with knife wounds, soaked in blood, falling faint. Fjölnir picks up the slain body of Gunnar and puts him over his shoulder. He takes Gudrún’s arms. CONTINUED:164 164 CONTINUED: 164 164
+E: O.S. 2
+C: FJÖLNIR
+D: I will meet you at the Gates of Hel.
+C: AMLETH
+D: At the Gates of Hel you will find me.
+C: FJÖLNIR
+D: And there you will die by the hand that killed your father. Fjölnir leaves with the bodies. Amleth drips oceans of blood onto the floor. EXT. FJÖLNIR'S FARM. LONGHOUSE. NIGHT165 165 Amleth stands outside the longhouse watching Fjölnir ride away into the night. Gudrún and Gunnar's dead bodies are tied to the back of his horse. Audunn the Irish and Melkorka run past Amleth with torches. Slaves have placed hay all over the longhouse. They throw the torches into the hay. The longhouse bursts into tall flames behind Amleth. Two slaves carry Halldóra by her arms and legs. Two other slaves carry Áshildur Hofgythja. They kick and scream for mercy while the slaves laugh. More and more slaves throw torches at the longhouse and cheer.
+C: HALLDÓRA
+D: Let me down! Let me down! I’m one of you! I’m one of you! Let me down.
+C: ÁSHILDUR HOFGYTHJA
+D: Show mercy. By my gods! Amleth lowers his head, his trembling body silhouetted in flame. TITLE CARD: T H E G A T E S O F H E L EXT. SOUTHERN ICELAND. WILDERNESS. DAWN166 166 Amleth rides through the dawn on horseback in a dark cloak. It looks as if he may fall off his horse at any moment. Draugr is at his side. EXT. BLACK LAVA FIELDS. DAWN167 167 Amleth crosses the wide lava fields at the foot of ... CONTINUED: 164 164 EXT. MOUNT HEKLA. DAY168 168 ... Mount Hekla. The volcano RUMBLES, black plumes of ash rise from its top, wisps of steam float from its black hills. Amleth dismounts his horse with difficulty. At the base of the volcano, Amleth finds the lifeless bodies of Gudrún and Gunnar, placed ritualistically to rest within a stone circle, in the shape of a Viking ship. Fjölnir's horse has been slain and lies with them. Gunnar is dressed in Fjölnir's clothes and armor. Amleth is held back by the sight of his mother and half- brother's corpses. He walks to the burial circle. Stoically, he kneels by the side of his mother and takes her cold hand in his hand. He kisses her slender fingers before putting her hand respectfully back in its place. Then he reaches over to Gunnar and brushes his fingertips over the boy's forehead and down his cheek in a big brother/fatherly manner. He speaks quietly in a monotone:
+E: 2
+C: AMLETH
+D: Slain by iron, we shall all meet again in the stronghold of the All- father. Amleth stands. With Draugr in hand, he starts walking up the black hill following Fjölnir's footprints. He takes off his blood-soaked cloak, and slowly begins beating his sword on his shield to enter his berserker state. He chants and chants, beating his sword on his shield:
+C: AMLETH
+D: I will avenge you. I will honor our blood. I will cut the thread of Fate. My blood will live on. Valhöll awaits. THE SUMMIT169 169 As he reaches the summit, Amleth is entirely naked and ready to fight to the death like an animal. Here, the full, hellish power of the volcano is on display. Deadly lava sputters from the crater. The heat is unbearable. Black, billowing smoke envelopes Amleth. It obscures the sun, and the darkness becomes like blackest night. Amleth stops and pulls at Draugr. The enchanted sword runs smoothly from its scabbard. It shines deadly in his hand. CONTINUED:169 169 Suddenly, Fjölnir comes attacking from inside the smoke, his sword aimed at Amleth's head. Amleth stops Fjölnir's strike with Draugr. Fjölnir is in formidable shape for a man his age. Amleth is terribly wounded, but in his Berserker state, he can fight through that agonizing pain. Amleth and Fjölnir fight brutally as the volcano begins its next stage of eruption. Threatened by the shaking ground ... the slow-flowing but never-nearing lava slag ... the burning heat from the crater ... the raining of ash ... the thick smog ... the lightning striking from inside the mushroom cloud .. Fjölnir and Amleth duel. They parry each other's blows with their shields. Fjölnir is winning. He slices Amleth's arm. Amleth drops his shield. Amleth attacks again but Fjölnir slices his other arm. Amleth drops to his knees. He will surely die. Fjolnir raises his sword, slowly, aiming at Amleth's neck, much like when he beheaded Amleth’s father. But with his last bit of strength, Amleth screams with unknown rage ... He rises, attacking Fjölnir, both men on the offense, swords sparking ... In the chaos of blows, it all ends when Fjölnir thrusts his sword toward Amleth's chest, deep into his heart ... AND ... At the very same moment Amleth swings Draugr ... behead ing Fjölnir in a single blow! Their bodies fall hard upon the burning rocks, slowly consumed by the flowing lava from the volcano. AMLETH POV: It’s Olga, bathed in moonlight, and looking lovingly at him. CONTINUED:169 169 CONTINUED: 169 169
+E: CONT'D in Old Norse also entirely unclothed 2
+C: OLGA
+D: The thread that binds us can never break. As the camera slowly pulls back from her close up, we see that she holds TWIN BABIES in her arms. The GIRL holds Amleth’s AMULET in her tiny hands. Olga’s eyes smile.
+E: V.O.
+C: OLGA
+D: We are safe. AMLETH CU: A tear of love wells in his eyes. With these words, knowing he has saved Olga and the twins ... HE SHEDS A TEAR for the first time since his youth.
+E: V.O.
+C: OLGA
+D: Now, make your passage. With relief and joy, Amleth looks to the sky ... AMLETH POV: The glittering gates of Valhöll await. CAMERA PUSHES TOWARD VALHÖLL. The sounds of the Valkyries hoofbeats and cries grow louder and louder... AMLETH CU: The lights of Valhöll dance on his face, and shine in his eyes ... he dies. WIDE: A Valkyrie on horseback carries Amleth toward Valhöll as the music climaxes as his Fate is fulfilled.
+E: V.O. A Valkyrie’s hand reaches toward him.
+C: TITLE CARD:
+E: Subtitle: T H E N O R T H M A N 
+C: THE END
+D: ... OG LÚKUM VÉR HÉR AMLÓÐA SÖGU AURVANDILSSONAR.
+N: CONTINUED: (2)169 169

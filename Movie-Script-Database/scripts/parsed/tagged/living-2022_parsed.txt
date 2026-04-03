@@ -1,0 +1,1702 @@
+M: LIVING
+M: Written by
+M: Kazuo Ishiguro
+M: Based on the original screenplay "IKIRU" by
+M: Akira Kurosawa, Shinobu Hashimoto and Hideo Oguni
+T: FADE IN:
+S: EXT. OUTSIDE RAILWAY STATION - ESTABLISHING - DAY
+N: England, early 1950s. Summer. A station in a commuter town thirty miles from London. Morning rush. Men with bowler hats, dark suits, briefcases, rolled umbrellas converge on the station entrance.
+S: EXT. STATION - PLATFORM ONE - DAY
+N: A Mother, 30s, and an uniformed Schoolboy, 12, stand together on the platform, awaiting their train. She is reading a magazine. He is reading a comic. Behind them, and in front of them, bowler-hatted Commuters stream past, all hurrying in the same direction to reach the other platform. At any moment, the Mother and Schoolboy might get swept up into the tide of commuters. But the tide continues to part around them, leaving them unscathed. The Mother and Schoolboy remain absorbed in their reading, completely ignoring the Commuter tide.
+S: EXT. STATION - PLATFORM TWO - DAY
+N: The tide’s destination is this platform across the tracks. It is already packed with other Commuters standing shoulder to shoulder. Many read newspapers, folded back and held out before them. PETER, 24, is dressed identically to his fellow commuters, though his suit is of a lighter shade and less broken in. He’s glancing about nervously, looking for something or someone. He attempts to shift position within the crowd, bumps into a Gent standing behind him, reading his newspaper.
+C: PETER
+D: Oh! So sorry! Gent mumbles without looking up, carries on reading. Two Schoolboys push past, almost knocking Peter over. He recovers, resolves to stand with more dignity in his designated space. Then he sees what he’s been looking for: Three bowler-hatted men standing together further along platform. MIDDLETON, late-40s; HART, mid-40s; RUSBRIDGER, late-20s. PETER raises a hand half-heartedly. They don’t see him. He raises his hand more boldly, waves. Hart notices, draws attention of Middleton and Rusbridger. All three gaze neutrally towards Peter. Peter smiles, starts to go towards them, hesitates. Middleton, taking charge, gestures for Peter to come over.
+C: PETER
+D: Excuse me... He reaches the others.
+E: CONT'D squeezing past
+C: PETER
+D: Good morning!
+E: CONT'D too loud
+C: MIDDLETON, HART, RUSBRIDGER
+D: Good morning.
+E: subdued
+C: PETER
+D: So. Here I am. All ready for battle. Beat.
+C: MIDDLETON
+D: I’d better introduce you. This is Mr Peter Wakeling, our new colleague. Mr Wakeling, Mr Hart. Mr Rusbridger.
+C: PETER, HART, RUSBRIDGER
+D: How do you do.
+E: shaking hands
+C: HART
+D: You’re eagerly awaited, Mr Wakeling. We’ve been short now for nearly two months.
+C: PETER
+D: Well I hope to make a difference. May take a week or two though! Middleton, Hart and Rusbridger smile but don’t laugh.
+E: laughs
+C: RUSBRIDGER
+D: Don’t worry, old chap. We’ll all get a lot livelier once we’re in London. This time of morning, it’s a kind of rule. Not too much fun and laughter. Rather like church. Peter looks down platform: Rows of bowlers, dark suits, folded back newspapers. No-one is talking.
+E: to Peter; sotto indicates
+C: PETER
+D: Hmm. I see what you mean. EXT. STATION - PLATFORM TWO - MOMENTS LATER Train comes in. Steam. Commuters jostle politely but firmly. NB The train has old-style carriages divided into individual compartments, each with a door opening to the platform. INT. RAIL COMPARTMENT - TRAVELLING / EXT. SCENERY - DAY Train is moving. They have secured a compartment to themselves. Middleton and Hart on one side, Peter and Rusbridger opposite. No-one is talking. Middleton and Hart have got out documents and are studying them. Rusbridger is reading the sports page of his newspaper. Peter looks at his new colleagues. He almost speaks, stops himself, gazes at view out of window. After a few beats, Rusbridger takes pity.
+C: RUSBRIDGER
+D: First day’s always a bit nerve- racking.
+C: PETER
+D: Yes.
+C: RUSBRIDGER
+D: You’ll get the hang of it. As for these chaps here, they’ll improve somewhat once they wake up.
+C: MIDDLETON
+D: It’s not us you have to worry about, Mr Wakeling. We’re your pals. But you’ll need to get on the right side of the old man.
+E: not looking up
+C: PETER
+D: You mean Mr Williams? Silence.
+C: PETER
+D: He seemed a decent sort at the interview. Perhaps on the frosty side, but er... Truth is, I didn’t get to see much of him --
+E: CONT'D
+C: HART
+D: You’re about to get another chance just now. Here’s his station coming up. EXT. VILLAGE STATION - DAY Train slowing as it comes into small leafy ‘countryside’ station on commuter line. Steam. INT. RAIL COMPARTMENT/EXT. VILLAGE STATION - DAY Middleton, Hart and Rusbridger have put down their reading and are leaning forward to the window. Peter looks out, apprehensive. In the window: the Waiting Passengers on the platform outside glide by as train slows. A smaller crowd than at previous station, but large proportion are bowler-hatted. As the train stops, the window neatly frames WILLIAMS out on the platform, waiting to board. Williams is tall, angular, elegant, early 60s. Dressed immaculately in the commuters’ uniform. He gazes into their compartment, raises his rolled umbrella in subdued greeting. Middleton, Hart and Rusbridger immediately touch or raise their bowler hats. Peter hesitates, also raises hat, but by then Williams has gone OUT OF VIEW to board the train. DOORS SLAM up and down the train.
+C: PETER
+D: Is he coming in here?
+C: HART
+D: Oh no. Never travels with us. But he always manages to be at exactly the right spot to greet us. The way he was just now.
+C: MIDDLETON
+D: Rather mysterious, the way he gets it right every morning.
+C: RUSBRIDGER
+D: He must watch us go by and run along the platform.
+C: HART
+D: Can you imagine Mr Williams running along the platform? Train stops and there he is. Every morning. Very calm.
+E: to Peter
+C: RUSBRIDGER
+D: But how else is it possible? He must spot us and run.
+C: PETER
+D: But why would he... bother?
+C: RUSBRIDGER
+D: Why? Just Mr Williams, I suppose. It’s what he does every morning. Before we came along, I expect he did the exact same thing to our predecessors. Peter looks around anxiously, as if Williams might burst into their compartment at any moment. EXT. COUNTRYSIDE - DAY The train journeys on. EXT. WATERLOO STATION - NEAR TICKET BARRIER - DAY ON: A huge SEASIDE POSTER advertising a break in a resort town: ‘JUST 90 MINUTES BY RAIL FROM VICTORIA!’ It shows: sea, beach, blue sky, pier, Ferris wheels, happy families. MOVE DOWN to discover Peter, Middleton, Hart and Rusbridger amidst crowds. They’ve just come through the barrier. Peter starts to push his way into the crowd, but Middleton stops him, indicates they must wait. The four men become stationary while crowd moves around them. They look back to the barrier. Williams emerges, comes towards them.
+C: WILLIAMS
+D: Good morning, gentlemen.
+C: MIDDLETON, HART, RUSBRIDGER
+D: Good morning, sir! / Good morning, Mr Williams!
+C: WILLIAMS
+D: You appear taller than at your interview. Beat.
+E: looking Peter up and down
+C: WILLIAMS
+D: I do hope you’ll be... comfortable with us.
+E: CONT'D
+C: PETER
+D: Thank you, sir. I... hope to make a contribution. Williams strides off. Peter is about to follow, but again Middleton stops him. Middleton, Hart and Rusbridger watch until Williams is sufficiently ahead. Only then do they start to move. Peter follows. EXT. WATERLOO STATION - ESTABLISHING - DAY Morning rush on streets. Summer. EXT. OUTSIDE COUNTY HALL - ESTABLISHING - DAY Massive grand building on south bank of Thames. EXT. OUTSIDE COUNTY HALL NORTH BLOCK - DAY Entrance to this section of building. Office Workers, male and female, ascend steps and pass in through double doors held open by Porters. INT. COUNTY HALL NORTH BLOCK - ENTRANCE HALL - DAY Impressive Art Deco hall. Signs pointing to ‘FIRE DEPT’, ‘EDUCATION DEPT’ etc. Broad central staircase leading up to upper levels, at present filled with ascending Office Workers. FAVOUR Williams within this tide. He now seems just one among many, patiently taking his place in the slow procession up the stairs. INT. COUNTY HALL NORTH BLOCK - SECOND FLOOR - CORRIDOR A quiet corridor. Williams comes into it, walks a few strides. Then stops, surprised. Further down the corridor, SIR JAMES emerging from a door. SIR JAMES, 60s, Chairman of London County Council, walking regally in Williams’s direction. Although the corridor is wide enough for them both to pass, Williams steps aside, waits. In marked contrast to his earlier demeanour, he now appears very deferential. Sir James strolls past, hardly looking at Williams.
+C: WILLIAMS
+D: Good morning, Sir James.
+E: sotto
+C: SIR JAMES
+D: Hmm. Williams waits till Sir James turns out of the corridor, then resumes walking. INT. COUNTY HALL NORTH BLOCK - SECOND FLOOR - OUTER OFFICE A large room. Lined with desks, arranged in neat rows. Office Workers installing themselves behind each desk, getting ready for the day ahead. SINGH, a clerk, carrying folders, comes down aisle between desks, walks past a door to an adjoining office. It is marked ‘PUBLIC WORKS DEPARTMENT.’ INT. OFFICE - TABLE - DAY NOISE of TYPING in background, CLOSE SHOT - A TOWER OF PAPERS AND FOLDERS stacked precariously on a wooden table. A name sign before it reads: ‘MR WAKELING’. PETER peers around the tower, studies it nervously. We now see he is seated at the table behind the tower. There are six people, sitting and working around the table, each with their own tower. On one side, Rusbridger, Hart and MARGARET HARRIS, early 20s - though we don’t yet favour her. On the other side, Middleton and Peter. Williams is at the head of the table, his back to two tall windows. He has that side of the table to himself, wearing once again his confident, poised air. Aside from the name signs, the towers help to mark out each official’s territory. Williams has two such towers, to either side of him. CLOSE ON: PETER trying to extract a sheet from his tower. He almost brings it down, hastily restores it to stability.
+E: MORE
+C: MARGARET
+D: Consider yourself very fortunate, Mr Wakeling. Across the table, Margaret is looking at him from behind her own tower.
+E: O.S.
+C: MARGARET
+D: Bequeathed one of our tallest skyscrapers. Courtesy of Mr Woodward, your predecessor. Peter looks around at others, at Williams. The others, Williams included, keep working, eyes down.
+E: CONT'D
+C: MARGARET
+D: Imagine if you’d arrived here and there’d been no skyscraper for you.
+E: CONT'D MORE
+C: MARGARET
+D: It could take you a good few days to build one as tall as that. Peter studies his skyscraper closely.
+E: CONT'D
+C: MARGARET
+D: If your skyscraper isn’t very tall. Or God forbid, you work so fast you don’t have one at all... Then people will suspect you of not having anything very important to do! Hart and Rusbridger snicker quietly without looking up. Middleton looks disapprovingly at Margaret. Williams gives no reaction.
+E: CONT'D looks round table; stage whisper
+C: PETER
+D: I see...
+C: MARGARET
+D: So here’s your first rule, Mr Wakeling. Keep your skyscraper high! He’s at a loss how to respond. But he’s smitten by Margaret. He smiles at her. She grins back mischievously. Then she bows to her tower of papers, as if it’s a religious object. Hart and Rusbridger laugh quietly. Middleton frowns. Williams looks up, watching Margaret expressionlessly. Then:
+C: WILLIAMS
+D: Mr Rusbridger. Why has this D19 come back to us? He holds up a document.
+C: RUSBRIDGER
+D: Mr Wright at Planning was of the view that a remittance certificate should be attached to it.
+C: MARGARET WILLIAMS
+D: A remittance certificate can only be issued after the D19 is authorised.
+E: CONT'D
+C: RUSBRIDGER
+D: Yes, I tried to tell Mr Wright that, Mr Williams. But he simply won’t have it. Williams looks at the folder in his hand, thinks.
+C: MARGARET
+D: Mr Rusbridger, why didn’t you try bribing that horrid Mr Wright? All you’d need is a photo of Tessie O’Shea. Hart, Rusbridger and this time Middleton all laugh. Peter, not in on joke, smiles anyway. Williams doesn’t react, continues to consider the folder. Then he inserts it decisively midway into the tower to his left.
+C: WILLIAMS
+D: Then we can keep it here for now. It’ll do no harm. Williams’s gaze turns to the next document. The others resume their work. Singh comes INTO VIEW, passing through the small gate, into the ‘privileged’ area sectioned off from the rest of the room by a waist-high mahogany rail. They all look up at him.
+C: SINGH
+D: The ladies from Chester Street, sir. An ironic groan goes around the table. Peter is intrigued. Williams looks around the table, all avoid his gaze.
+E: addressing Williams
+C: WILLIAMS
+D: Please show the ladies in, Mr Singh. Singh nods, goes OUT OF VIEW.
+C: WILLIAMS
+D: Mr Middleton. Your turn, if you don’t mind. Middleton suppresses sigh, rises.
+E: CONT'D
+C: MIDDLETON
+D: Of course, Mr Williams. Middleton goes OUT OF VIEW towards the barrier.
+C: WILLIAMS
+D: Mr Wakeling. Perhaps you’d like to assist Mr Middleton with the ladies.
+C: PETER
+D: Of course, sir. Peter rises, nearly upsetting his tower as he does so. Margaret grins. Peter smiles, goes OUT OF VIEW. INT. OFFICE - BARRIER RAIL - DAY Peter joins Middleton at the rail, as Singh leads in: MRS SMITH, 40s, MRS McMASTERS, 30s, MRS PORTER, 40s - all ‘respectable poor’, neatly attired in hats, jackets, etc, which they have carefully made or adapted for themselves. Middleton has on his ‘public smile’.
+C: MIDDLETON
+D: Ladies. How are we today? Mrs Smith, the leader, is patient, controlled, a tactician.
+C: MRS SMITH
+D: We were elsewhere in this building all yesterday and kept waiting hour upon hour. First at Planning, then at Parks, then at Cleansing and Sewage. Then just before closing yesterday, the gentleman said we were to bring this to you. She holds up a folder. Middleton hesitates, smiles, takes the folder.
+C: MIDDLETON
+D: Let me speak with Mr Williams. Just a moment. Middleton goes OUT OF VIEW. Peter, left at the rail with the women, smiles nervously.
+C: MRS MCMASTERS
+D: New here, ain’t you?
+C: PETER
+D: Yes. First day actually. Mrs Smith is watching the rear of the office. Peter follows her gaze: Middleton, at the table, leaning down to confer with Williams.
+E: laughs nervously
+C: MRS MCMASTERS
+D: Well. You enjoy yourself, son. No end of entertainment you’ll get here.
+C: PETER
+D: No doubt...
+C: MRS MCMASTERS
+D: Like a good old Punch and Judy show. We the citizens are Judy. And all you lot are Mr Punch --
+C: MRS SMITH
+D: Eliza.
+E: with quiet authority
+C: MRS MCMASTERS
+D: Just chatting to the young gentleman. He’s a nice lad this one. I can tell. Peter smiles.
+C: MRS PORTER
+D: Here he comes. Back he comes. Middleton is coming back, folder in hand, wearing his public smile.
+C: MIDDLETON
+D: Your letter and your petition are very well presented. We of course know this from before. However you must first take it to Parks and Recreation on the third floor --
+C: MRS SMITH
+D: We were there yesterday, sir.
+C: MRS MCMASTERS
+D: They even thought to offer us a bench to sit on. That’s how long we was there!
+C: MRS SMITH
+D: Eliza.
+C: MIDDLETON
+D: I do apologise. And we don’t wish you any further inconvenience. So Mr Williams has suggested you be accompanied this time by a member of our staff. To ensure there’s no further confusion. This is Mr Wakeling. The women all look at Peter.
+E: looks at Peter
+C: PETER
+D: Oh! Splendid! Then I’ll make sure... all this confusion...
+C: MRS MCMASTERS
+D: That’s lovely, son. Then you’d better hop over to our side of the fence.
+C: PETER
+D: Yes. Well, if you ladies would care to follow me... He starts to lead them out. Singh holds open the door. Then Peter realises he doesn’t know the way.
+E: passes through gate
+C: MRS SMITH
+D: Allow me to lead the way. We’re perhaps more familiar with this building than you are. INT. OFFICE - TABLE - CONTINUOUS ACTION Williams looks up, gazes after Peter and the ladies: a concern - even a conscience - momentarily detectable in his expression. Middleton takes his seat at the table.
+C: WILLIAMS
+D: Miss Harris. Is it really true you may be leaving us? Beat.
+E: looks down at his work
+C: MARGARET
+D: It’s not certain yet, Mr Williams. But I did have my interview. And it seemed to go well. They’re going to let me know. It’s a Lyons Corner House.
+E: to others
+C: WILLIAMS
+D: A Lyons Corner House. Is that a respectable job for a nice young lady? It takes a moment to realise Williams is making a joke. They all laugh.
+E: beat
+C: RUSBRIDGER
+D: So will you become one of those, what d’you call them? Skippys? Nippys?
+C: HART
+D: You’ll look fetching in that apron, Miss Harris.
+C: MARGARET
+D: It’s an assistant manager’s post, Mr Hart. At least once I’ve settled in.
+E: cross beat
+C: HART
+D: Wasn’t trying to be cheeky, Miss Harris.
+C: RUSBRIDGER
+D: They do an excellent treacle sponge. At least the one in Coventry Street does. Margaret, cross, gets on with her work. Williams gazes at her expressionlessly then he steals a glance at his watch. A tension enters his manner as he notes the time.
+C: MIDDLETON
+D: Good idea, sir. Williams doesn’t respond. He’s still staring at his watch then realises he’s been addressed, looks up.
+C: WILLIAMS
+D: Mmm?
+C: MIDDLETON
+D: Mr Wakeling, I mean. Good training.
+C: HART
+D: Rather the deep end, I’d say.
+C: WILLIAMS
+D: He’ll manage. Seems bright enough... INT. COUNTY HALL NORTH BLOCK - STAIRCASE - DAY Mrs Smith leads way up grand staircase. Peter follows, Mrs McMasters a step in front, Mrs Porter one behind.
+C: PETER
+D: What an excellent idea.
+C: MRS MCMASTERS
+D: A playground’s what’s sorely needed, love. There’s nowhere for them to play. It’s still so blimming dangerous everywhere.
+C: MRS PORTER
+D: A cesspool. No other word for it. There’s no-one been near it since the Germans dropped that bomb. Rats as huge as that, and our houses backing right onto it -- SOUND of SHRILL BELL, a beat long, resounding through this part of the building. Peter, startled, stops, looks around.
+C: PETER
+D: What on earth...
+C: MRS PORTER
+D: Oh, you’ll have to get used to that, love... PETER sees Mrs Smith and Mrs McMasters continuing up the stairs as if nothing has occurred. Two Officials come down the stairs, also oblivious to the bell. Peter hurries to catch up, Mrs Porter close behind him. INT. CORRIDOR - DAY Peter opens a door marked ‘PARKS AND RECREATION’, ushers ladies through with a flourish. INT. CORRIDOR - MOMENTS LATER Peter comes out of same door, holding folder, the wind taken out of his sails. The ladies, behind him, appear weary but stoic. An Official, 50s, appears in the doorway, indicating further down the corridor.
+E: bumping into him
+C: A SERIES OF SHOTS
+D: A) Dismissive Official, at desk piled with papers, shaking head as though to say, ‘Oh, not this thing again’, laughs wearily, gives folder back to Peter, waves hand dismissively. B) Distracted Official, standing near doorway of his office. While Peter tries to talk to him, he continually looks away at something going on OS. Soon it’s clear he’s ceased to listen altogether. He gestures with irritation OS to reprimand a colleague, strides angrily OUT OF SHOT, even as Peter continues to offer him the folder. C) Irritated Official, in corner of large office, bent over re-setting mouse trap. He gestures impatiently TOWARDS CAMERA, indicating we should consult another official OS. INT. PLANNING DEPT OFFICE - DAY Peter stands inside doorway of large office. The ladies stand just behind him. TALBOT, 40s, is barricading further access to the room. Behind Talbot, a room busy with Clerks and Typists. SOUND of
+C: TYPING. TALBOT
+D: That’s all very well. But we’ve bliming through this before, haven’t we. First we need all that water drained. The SHRILL BELL goes off again, one beat long, making Peter start. No-one else reacts at all.
+E: MORE
+C: TALBOT
+D: I’ve explained this to you. Cleansing needs to look at it first.
+E: CONT'D
+C: SERIES OF SHOTS
+D: A) Mrs Smith leading the party along corridor. She remains upright, determined. B) Peter going down staircase, while Mrs McMasters and Mrs Porter lecture him. He is nodding. C) Peter emerging from another office, looking dejected. D) Peter now bringing up rear, as Mrs Smith leads party along another corridor. INT. CORRIDOR OUTSIDE CLEANSING DEPARTMENT - DAY Mrs Smith, Mrs McMasters, Mrs Porter are gathered in corridor in front of an official, HARVEY, who is holding up their folder and barring entry. Peter stands at rear of group, trying to minimise himself.
+C: HARVEY
+D: So this isn’t for us. But I’m sure the Public Works Department will be pleased to assist you.
+C: MRS MCMASTERS
+D: Public Works? That’s where he’s from! All gazes fall on Peter. The SHRILL BELL goes off once more. Again, Peter starts. Again, no-one else reacts.
+C: HARVEY
+D: You’re from Public Works?
+C: PETER
+D: Well, yes. First day, actually.
+C: HARVEY
+D: Then why on earth have you brought these good ladies here? I do apologise.
+E: affecting anger to ladies MORE
+C: HARVEY
+D: Yours is an excellent scheme and I wish you well with it. Look here. Take this back to your office at once. These ladies deserve better! INT. COUNTY HALL NORTH BLOCK - OUTER OFFICE - DAY Peter, demoralised, now alone, clutching folder, walks past the rows of desks towards the door to the Public Works Department. Singh comes INTO SHOT, opens door for him. INT. OFFICE - TABLE - CONTINUOUS ACTION Peter arrives at the table, folder in hand. He hovers, unsure. Margaret points to the folder, points at Williams - still head down, working. Peter goes over, stands beside Williams. Eventually Williams lays down his pen, looks up.
+E: CONT'D to Peter, thrusting folder at him
+C: WILLIAMS
+D: Forgive me everyone. Unfortunately I shall be obliged to leave early this afternoon. At twenty past three. An unprecedented occurrence. Surprise around the table.
+E: ignoring Peter
+C: WILLIAMS
+D: Perhaps Mr Middleton. You’d be so good as to deputise in my absence.
+E: CONT'D
+C: MIDDLETON
+D: Of course, Mr Williams. I’ll see everything stays ship shape. Hart is annoyed by this. It’s unclear if Williams intends to say something else. An awkward silence. Then Williams notices Peter standing beside him with the folder.
+C: WILLIAMS
+D: Mr Wakeling. What may I do for you?
+C: HARVEY PETER
+D: The ladies’ petition, sir. Um. Mr Harvey at Cleansing insists this is for us after all. Williams takes the folder from Peter, thrusts it midway into one of his two towers.
+E: CONT'D
+C: WILLIAMS
+D: Mr Harvey is quite wrong. But we can keep it here. No harm. INT. CORRIDOR/LANDING/STAIRCASE/ENTRANCE HALL - DAY Williams approaches, his gait upright, almost military. The corridor opens out to building’s central staircase before him. JONES and three SECTION HEADS emerge and engulf Williams, who reacts instantly, greets them, smiles. They begin to descend together. WE MOVE WITH Williams’s face, the others drifting INTO VIEW and OUT OF VIEW as they interact with him. All five men are making humorous remarks, indiscreet gossip. They reach the bottom of the stairs. Jones claps Williams on the shoulder, moving off OUT OF VIEW. Williams, genial, gives a final smile. He turns to face directly ahead of him, the doors to the outside. WE REVEAL Williams standing entirely alone in the large entrance hall. He takes a few steps forwards. Something catches his eye. He stops still. A tall wall mirror hanging near the doors. Williams stares at his reflection. His expression solemn. He adjusts the knot of his tie, building up his resolve. EXT. OUTSIDE COUNTY HALL NORTH BLOCK - DAY Williams comes down the steps. Pauses to consult watch. INT. DOCTOR’S WAITING ROOM - DAY A poster on the wall: ‘THE NATIONAL HEALTH SERVICE BELONGS TO
+C: US ALL!’ MRS BUTTON
+D: Bournemouth. Ten days starting next Monday. Two patients waiting: Williams, sitting isolated in a corner, and MRS BUTTON, 30s, seated near the reception desk.
+C: RECEPTIONIST
+D: Oh lovely! You must be looking forward to it.
+C: MRS BUTTON
+D: The same guesthouse we stayed in year before last. The lady there provides a very nice supper. SOUND of BUZZER
+C: RECEPTIONIST
+D: Mr Williams? Doctor will see you now.
+C: WILLIAMS
+D: Thank you. He rises, crosses floor then pauses at the doctor’s door, hand on the knob, his nose almost touching the wood.
+C: RECEPTIONIST
+D: I much prefer the beach at Bournemouth. A pebble beach is just so uncomfortable. Williams remains still for a few beats, hesitant.
+E: to Mrs Button
+C: MRS BUTTON
+D: I couldn’t agree more. Williams opens the door, goes in. INT. CONSULTING ROOM - DAY The DOCTOR stands from behind desk, looks uneasy. Gestures to seat in front of desk.
+C: DOCTOR
+D: Mr Williams. Please sit down. Williams hardly reacts, but he doesn’t sit down. The Doctor’s manner has made him stiffen. They look at each other like men about to fight a duel. Then:
+C: WILLIAMS
+D: Thank you. They both sit. The Doctor looks at the papers before him. He removes his spectacles from his face.
+C: DOCTOR
+D: The results have come back. I’m afraid this time they’re pretty conclusive. Never easy this.
+E: looks up grimly
+C: WILLIAMS
+D: Quite. Williams’s face remains calm, betrays nothing. EXT. WATERLOO STATION - NEAR TICKET BARRIER - DAY ON: the huge seaside poster displayed near the ticket barrier. Williams is gazing at it. Legend: ‘JUST 90 MINUTES BY RAIL FROM VICTORIA!’ Williams adjusts his head to see the poster more clearly. It dwarfs him and his fellow commuters. A flicker of emotion. Then he moves OUT OF VIEW towards the platform. DISSOLVE TO: EXT. STREET IN SUBURBS - NIGHT Around 9:00 PM. A quiet residential street lined with trees. Victorian semi-detached houses. MICHAEL and FIONA, both late 20s, come walking arm in arm. They’ve had a little to drink, but they’re not quite drunk. Fiona is laughing boisterously - perhaps too much so for this respectable neighbourhood.
+C: FIONA
+D: ... Really, darling, that’s incredibly wicked of you! They giggle together as they walk. Fiona suddenly straightens her gait, digs elbow into Michael. Coming towards them - the only other person in the street - is MISS FRY, 60s, a very prim lady walking a dog. Fiona and Michael go quiet. They pass Miss Fry.
+C: FIONA
+D: Good evening, Miss Fry.
+E: CONT'D
+C: MISS FRY
+D: Good evening. They walk on a few steps before Fiona dissolves into giggles, clutching Michael’s arm.
+E: frostily
+C: MICHAEL
+D: Stop it. She’s still watching us.
+E: suppressing laugh
+C: FIONA
+D: How can she be? She doesn’t have eyes in the back of her head.
+C: MICHAEL
+D: I assure you she does. They both giggle, look over their shoulders furtively. EXT. OUTSIDE WILLIAMS FAMILY HOUSE - CONTINUOUS ACTION -
+C: NIGHT
+D: They turn through a gate, up the garden path of a solid suburban family house. No lights are on.
+C: FIONA
+D: If your father’s in, this is a good time to talk about you know what.
+E: sotto
+C: MICHAEL
+D: Not a good time.
+E: shakes his head
+C: FIONA
+D: Look, dear, you’ll have to start the ball rolling at some stage.
+C: MICHAEL
+D: Yes, but not tonight, darling. I’m really not up for it. Besides... He’s not in.
+E: looking up at house
+C: FIONA
+D: But this isn’t his cinema night. They go in through the door. INT. WILLIAMS FAMILY HOUSE - HALLWAY - CONTINUOUS ACTION -
+E: unlocking front door
+C: NIGHT
+D: The hall, the entire house, is in darkness.
+C: MICHAEL
+D: Hello! Dad! He missed his cinema on Tuesday, so he’s gone tonight. Fiona turns on the hall light.
+E: calling to Fiona
+C: FIONA
+D: As I was saying - you can’t put it off forever, dear. I don’t intend still to be in this stifling house come Christmas.
+C: MICHAEL
+D: Christmas! How can anyone purchase a house and move in that sort of time? From the living room we catch their shadows moving outside as they hang coats, etc.
+C: MICHAEL
+D: And it is his money, darling. We can’t just --
+E: O.S. CONT'D
+C: FIONA
+D: Your mother intended that money for us all. And what’s he sitting on it for? We’re the ones who need it. You have to speak to him, Michael, I mean it. A small movement. In the armchair beside the unlit fireplace - someone is sitting silently in the darkness. Fiona comes into the room, turns on the light. Williams is revealed, sitting in the armchair. He looks at them blankly.
+E: O.S.
+C: FIONA
+D: Father! What on earth -- Michael comes in after Fiona.
+E: CONT'D
+C: MICHAEL
+D: Oh! Dad. You gave us a start. Thought you’d gone to the pictures. Williams looks at him blankly. Fiona and Michael both realise there’s something strange about Williams’s manner.
+C: MICHAEL
+D: Dad, are you all right?
+E: CONT'D
+C: WILLIAMS
+D: Quite all right.
+C: WILLIAMS
+D: I was just sitting here. Thinking things over. Then you two came in. Fiona turns, suddenly embarrassed.
+E: CONT'D
+C: WILLIAMS
+D: So. Are you going to sit down? A little cocoa?
+E: CONT'D
+C: MICHAEL
+D: Well...
+C: FIONA
+D: No. We both have early starts. I have to get ready for bed. You should too, dear. Fiona exits. Her FOOTSTEPS GO UP STAIRCASE. Michael and Williams look at each other. Two beats.
+E: to Michael
+C: MICHAEL
+D: Well. Better get going. Heard what the boss just said. Michael laughs nervously.
+C: WILLIAMS
+D: Yes. Michael nods, leaves. Williams hears Michael’s FOOTSTEPS GO UP STAIRCASE. Williams looks over at the upright piano and the framed photo on it of his late wife. She is in her early 40s. Williams gazes at it from across the room. FLASHBACK - INT. CAR / EXT. COUNTRY ROADS - DAY POV BACK SEAT OF MOVING CAR: Rain, windscreen wipers, uniformed driver. The car in front, seen through windscreen, is a hearse. REVERSE: Williams, years younger, in back seat with YOUNG MICHAEL, 5, who leans forward with keen interest, as if on a fairground ride. The hearse gains ground, turns a corner.
+E: AUTUMN
+C: YOUNG MICHAEL
+D: Come on! Mum’s leaving us behind! Williams gives a start, reaches forward and embraces Young Michael with urgency, as if the boy might hurtle forward in the vehicle. Young Michael keeps watching excitedly out of the windscreen. FLASHBACK - EXT. SCHOOL CRICKET GROUND - DAY Williams, 12 years younger, sitting on pavilion bench, wearing a sun hat. The FATHER of another schoolboy sits beside him. Around them are other Boys, Parents, Teachers. On the cricket pitch: a school match in progress. TEENAGE MICHAEL is at the crease. The Bowler bowls. Teenage Michael bats the ball cleanly through the fielders, starts his run.
+E: SUMMER
+C: APPLAUSE FATHER
+D: Well done, your boy. Williams, filled with delight and pride, almost forgets his customary English reserve. He only just conquers urge to rise and cheer wildly.
+C: WILLIAMS
+D: Yes. Quite. FLASHBACK - INT. PUB - NIGHT COLLEAGUE, 40s, sitting, smoking, deep in thought. He kills his cigarette then speaks almost directly at CAMERA.
+E: back in control, smiling
+C: COLLEAGUE
+D: ...I’m being serious. Chap like you needs a wife. And as for your boy, well, he’ll come round to it. Youngsters get used to anything. FLASHBACK - EXT. OUTSIDE WILLIAMS HOUSE - DAY Williams, younger, dressed in ‘gardening’ clothes, tends to his modest war time apple tree - he’s up a ladder collecting apples. He greets a passing neighbour.
+E: 1944
+C: VOICE
+D: Dad! Williams turns, squints. Some distance away, a bus moving off, having deposited a single figure at the bus stop. YOUNGER MICHAEL waving happily. He is in an army uniform, suitcase on the pavement beside him.
+E: O.S. calling
+C: YOUNGER MICHAEL
+D: Hey! Dad!
+C: WILLIAMS
+D: Michael...
+C: MICHAEL
+D: Dad! INT. LIVING ROOM - NIGHT Williams starts, rises from the armchair, moves across the room as though to go to Younger Michael.
+E: ADULT O.S. PRESENT - JULY
+C: WILLIAMS
+D: Michael! Beat. Then Williams remembers where he is.
+E: inappropriately urgent
+C: MICHAEL
+D: Dad? Could you lock up? We’re not coming down again now. Williams, in the middle of the room, a disappointment and sadness engulfing him. He doesn’t reply.
+E: O.S. calling
+C: MICHAEL
+D: Dad? You there? Williams walks slowly to the doorway. Calls up:
+E: O.S. CONT'D
+C: WILLIAMS
+D: Yes. I’ll lock up.
+C: MICHAEL
+D: Good night then.
+E: O.S.
+C: WILLIAMS
+D: Good night. SOUND of DOOR CLOSING UPSTAIRS. Williams remains beside the doorway, head bowed. Then - he steps out into the hallway, taking care not to make a sound. INT. HALLWAY/STAIRCASE - CONTINUOUS ACTION - NIGHT Williams looks up. The staircase rises to a half landing, turns, continues up a second flight OUT OF VIEW. A MURMUR OF VOICES from upstairs. Williams starts up, taking each stair with care. Three steps before the turn, he stops, a hand on the rail.
+C: FIONA
+D: ...I do hope he’s not upset.
+E: O.S.
+C: MICHAEL
+D: Of course he’d be upset. If he heard us. But look, darling, this might be for the best.
+E: O.S.
+C: FIONA
+D: How can it possibly be --
+E: O.S.
+C: MICHAEL
+D: If we’re ever to have our own home, have our own life. We need to grasp the nettle. Make him understand we can’t just keep... Williams reverses carefully down the stairs. He reaches the bottom, lets go the rail. INT. LIVING ROOM - CONTINUOUS ACTION - NIGHT Williams enters, glances around, reaches for the wall switch. The room falls into darkness again only lit by the street light. Williams goes back to the armchair, sits. His posture remains as upright as before, his expression reveals little. But there are traces of tears in his eyes. DISSOLVE TO: INT. OFFICE - TABLE - DAY
+E: O.S.
+C: HART
+D: But he’s never late. Something must have happened. Middleton, Hart, Rusbridger, Margaret and Peter sit around the table, each behind their towers and name signs. Williams’s seat is empty.
+E: looking at watch
+C: MIDDLETON
+D: Daughter-in-law said he’d left as usual this morning.
+C: HART
+D: Very odd.
+C: PETER
+D: I say. Do you think we should, you know, alert the police?
+C: MIDDLETON
+D: Mr Williams is hardly an infant. What will the police care that he’s a couple of hours late for work.
+C: RUSBRIDGER
+D: ‘A couple of hours late for work.’ Who would ever have thought.
+C: HART
+D: Leaves early yesterday. Late today. You don’t suppose, you know, that he’s just had enough. Decided to pack it all in. Beat. Peter notices Middleton, Hart and Rusbridger have momentarily stopped working. Margaret too notices, exchanges glance with Peter.
+C: MIDDLETON
+D: I don’t appreciate that suggestion, Mr Hart. In fact I find it in rather poor taste. They resume working - signing, stamping, reading.
+E: awkward
+C: MARGARET
+D: A pity he should choose today of all days.
+C: RUSBRIDGER
+D: Why’s that, Miss Harris?
+C: MARGARET
+D: Because the Lyons Corner House have requested my reference. So I needed Mr Williams to --
+C: MIDDLETON
+D: If it’s a reference you’re after, Miss Harris, I’d be happy to step in. As Mr Williams’s deputy --
+C: HART
+D: Now hold on. He’s just a little late, that’s all --
+C: MARGARET
+D: Quite. Thank you, Mr Middleton, but I’d prefer to wait for Mr Williams to return. Middleton knows he’s asserted himself too quickly.
+C: MIDDLETON
+D: As you wish, Miss Harris. Everyone returns to work. Hart sees Middleton turn to Williams’s empty seat. DISSOLVE TO: INT. MRS BLAKE’S CAFE - EVENING English seaside cafe situated on a pier. Booths. Fading light through windows. The cafe has at present two customers, sitting apart. For now we focus only on SUTHERLAND, late 40s, at a table near the front. He’s writing in an exercise book, having made himself very much at home - loose pages, pens, coffee cup before him. He wears a good suit, but as though he doesn’t care if he ruins it. No tie. He is addressing the owner, MRS BLAKE, early 50s, aproned, standing near her counter.
+C: SUTHERLAND
+D: Cocoa?! A cup of cocoa? Cocoa, Mrs Blake, will barely scratch the topsoil of the vast mountain that is my sleeplessness. I need strong medicine, Mrs Bee. I need tranquillised against this eternal, hamster’s wheel of wakefulness. And you talk to me of cocoa. Mrs Blake shakes her head, lips tight. She’s used to this.
+C: SUTHERLAND
+D: How can it be that in this colourful and popular resort town of ours, insomniacs converging from every corner of the land, how is it a fellow’s not able to buy such a thing as a sleeping tablet?
+E: CONT'D
+C: MRS BLAKE
+D: Oh you don’t half go on, Mr Sutherland. If you was really sleeping as little as you says, I don’t see how your brain can keep coming out with all these ridiculous phrases. Never mind all of your, well, ‘entertainments’ shall we call them...
+C: SUTHERLAND
+D: There! That accusatory tone again! That prudery! It creeps back. It is your constant curse, Mrs Blake, as it is mine, to be English.
+C: MRS BLAKE
+D: I’m very proud to be English, I’ll have you know.
+C: SUTHERLAND
+D: Consider, I beg you, my last great work. ‘Shocking Stockings’. Performed upon this very pier last summer for all of three weeks and two days. Now I very much suspect you have judged it to be smutty and trivial --
+C: MRS BLAKE
+D: You know very well, Mr Sutherland, I never saw it. It’s not for me, that kind of thing.
+E: MORE
+C: SUTHERLAND
+D: My point exactly. The dramatic vision of your most loyal customer. Devotee of your stubborn fish suppers. Of your ironic apple turnovers. Performed on the very pier to which your own establishment clings. And you shun it. Turn away with a blush. Because you’re too English, Mrs Bee. Would it have been that way in Paris? In Pigalle, where, triumphantly disowned by my entire family, I so deliciously misspent my youth? Over there they know what true living is! The night, the wine, the women, the cabaret, the Moulin Rouge. Do you see Picasso, Degas, blushing and frowning upon it the way you do? Who knows, Mrs Blake? Had you been born French, who knows? You might even now be kicking high those lovely legs of yours for the appreciation of a discerning audience --
+C: MRS BLAKE
+D: Mr Sutherland! Really --
+C: SUTHERLAND
+D: This little town of ours, Mrs Blake. English it may be, but I still have high ambitions for it. Bournemouth, Bognor Regis, they’re long beyond reach. But here, hope still lingers. Our own version of the can-can francaise may yet sprout from out of the mud of our Knees Up Mother Brown. I look at you even now, Mrs Blake, and I can see you coquettish, with a fur stole --
+C: MRS BLAKE
+D: Mr Sutherland! I will not have any more such talk in my --
+C: SUTHERLAND
+D: I could achieve all this, all this and more for this town if only... If only I could sleep. Sleep. Consider my fate, Mrs Bee. One grandfather a moderately feted poet. Two uncles, both very dreadful novelists.
+E: MORE
+C: SUTHERLAND
+D: Now it falls to me to steer the family line into playwrighting. Shakespeare. Marlowe. I grew up with them. And if only I could sleep at night, I might even now be standing where they once stood. Oh why won’t the pharmacists sell sleeping tablets? What are they afraid of?
+E: CONT'D
+C: VOICE
+D: Excuse me. Sutherland and Mrs Blake turn to the speaker. The other customer, till now obscured by the booth, is Williams. He is dressed in a noticeably less formal style. He is raising a finger in the air.
+E: O.S. quietly
+C: WILLIAMS
+D: I don’t mean to intrude.
+E: CONT’D
+C: SUTHERLAND
+D: You do not intrude, sir. In fact, you’re most welcome to join our conference here.
+C: WILLIAMS
+D: That’s most kind. But I wondered. If I might have a word in private with the gentleman. Sutherland and Mrs Blake swap glances.
+C: MRS BLAKE
+D: I don’t know. I’ll leave you to it. The things that go on. Sutherland rises, comes down past the empty tables, to Williams’s booth.
+E: moves to the kitchen
+C: SUTHERLAND
+D: Well, sir? May I take it you’re inviting me aboard?
+C: WILLIAMS
+D: If you’d care to. Sutherland sits, noticing that Williams has left most of his fish and chips untouched.
+E: indicates seat opposite
+C: SUTHERLAND WILLIAMS
+D: Excuse me. I just thought, overhearing what you were saying... He’s fumbling in his briefcase near his feet. He produces a pharmacist’s packet.
+E: CONT'D CONT'D
+C: WILLIAMS
+D: If you like... You’re welcome to these.
+E: CONT'D handing over packet
+C: SUTHERLAND
+D: Very kind of you, old man. Just what I need. Williams now takes out three more identical packets and places them on the table between them.
+C: WILLIAMS
+D: These too. You’re very welcome.
+C: SUTHERLAND
+D: Rather a lot, old man. Sutherland and Williams look at each other across table. Suddenly Sutherland reaches over, takes remaining packets.
+C: SUTHERLAND
+D: I’m grateful to you. I’ll... take them off your hands. Williams laughs.
+E: CONT'D
+C: WILLIAMS
+D: I did think about it. But I don’t have it in me. That kind of thing.
+C: SUTHERLAND
+D: Think of the inconvenience to your landlady.
+C: WILLIAMS
+D: Odd. I thought about exactly that. It’s not quite what you think. You see, this is rather a bore but... The doctors have given me six months, eight or nine at a stretch. Sutherland, despite his customary flippant manner, is a decent person and his concern is genuine.
+E: beat
+C: SUTHERLAND
+D: I’m so sorry.
+E: MORE
+C: WILLIAMS
+D: Funny. You’re the first person I’ve told. The thing is, I just came down here and ... Look, you’re very welcome to those. I’ve no more need of them.
+C: SUTHERLAND
+D: ...Six months. Nine. It doesn’t seem long. But it’s something. Enough time to get things in order. And to live a little, if you chose to.
+C: WILLIAMS
+D: When I was listening to you just now. I was wondering how a chap like you, what you’d do. If you only had six months left.
+C: SUTHERLAND
+D: I’m not the man to ask. You’re clearly a gentleman, if I may say so. I may pass for one but... I’m not like you at all. These days I’m one of the... misbegotten. I write my saucy seaside farces by day. Do what I can to entertain myself at night.
+C: WILLIAMS
+D: You do that... here?
+E: gestures to the window
+C: SUTHERLAND
+D: Oh yes. This time of year, town can rise to some... colour. Williams looks out of the window, then back at Sutherland.
+C: WILLIAMS
+D: I withdrew some money. Almost half of my life’s savings. Look. Williams struggles to lift up his briefcase. Sutherland recoils, holds up his hands.
+C: SUTHERLAND
+D: Look, old chap. Enough of that. You have to be more careful.
+C: WILLIAMS
+D: You see my problem. I withdrew this cash and came down here...
+E: lowering briefcase MORE
+C: WILLIAMS
+D: to enjoy myself. To live a little, as you put it. But I realise I don’t know how. Just now, when I was listening to you talking, I thought, a fellow like that, it’d be easy for him. He’d know. Despite all your complaints... I thought, he wouldn’t find it hard. So I wondered. Of course, you’d be fully entitled to refuse. But I wondered, if you weren’t busy, and... ... since you’re not a big one for sleeping, if you’d help me spend this money. Tonight. Out there. Sutherland leans back, thinks.
+E: CONT'D laughs self-consciously lifts briefcase again laughs
+C: SUTHERLAND
+D: This can be a quite wonderful town this time of year. What’s more, it has an underbelly elusive to the average holiday-maker. I’ll be delighted to be your guide. However there’s one condition. Williams looks at him, waits.
+C: SUTHERLAND
+D: You don’t touch a penny of that there. You’ll find better use for it. This tour will be on me.
+E: CONT'D
+C: WILLIAMS
+D: But really --
+C: SUTHERLAND
+D: I insist. Those are my terms, sir. Do say yes. INT. SEAFRONT AMUSEMENT ARCADE - NIGHT Glassy, brightly-lit palace of penny arcade games: one-armed bandits, ‘What The Butler Saw’, ‘Gypsy Fortune Teller’, etc Outside, night has fallen. Williams, bowler hat on, is bent over a machine. Six Holiday- makers elsewhere in the arcade.
+C: WILLIAMS
+D: Sutherland comes INTO VIEW, stands a little way behind Williams.
+E: CONT'D
+C: SUTHERLAND
+D: What have you found, old man? Williams is too absorbed to reply. We stay on Williams’s face: rigid with excited, child-like concentration.
+C: WILLIAMS
+D: Yes, yes... Just a little more... A little more... Sutherland smiles, pleased. A range of emotions rapidly crosses Williams’s face, reflecting his changing fortunes. Then sudden anguish.
+E: to himself; sotto
+C: WILLIAMS
+D: Oh! That’s wretched! They must have it fixed! It’s... some sort of optical illusion! Williams starts to put more coins in.
+E: CONT'D straightening
+C: SUTHERLAND
+D: Give that up, old man. Come and look at this. You might have more luck. Williams is reluctantly led away by Sutherland. He throws resentful glances back at the machine. They cross the arcade and come to:
+E: stops him
+C: A CRANE GAME
+D: Williams peers into the cabinet at the prizes: The crane’s jaws hang over boxes of sweet cigarettes, small plastic toys, trinkets. The star prize is a fluffy toy rabbit, larger and brighter than everything else. Sutherland is pleased to see Williams freshly absorbed.
+E: A glass cabinet houses a pile of small prizes. A miniature crane dangles over prizes. The aim is to pick up the prize of one’s choice and to drop it into the chute mouth for collection.
+C: SUTHERLAND
+D: Always that same rabbit! It’s what one wants. But can’t quite get. Williams stares at the rabbit. The rabbit stares back.
+E: CONT'D
+C: SUTHERLAND
+D: Go on, old man. Have a go. I’m sick of trying. Williams looks at Sutherland, who has suddenly become melancholy. Williams turns back to the machine, puts in two coins. The cabinet lights up. TINNY MUSIC starts. Williams takes the handles, starts to manipulate the crane, concentrating hard, closing in on the rabbit. Sutherland notices Williams’s serious attitude.
+E: CONT'D
+C: SUTHERLAND
+D: You’re doing well. Doing well. Williams slowly lowers jaws of crane over the rabbit. Adjusts, lowers again. The jaws open wider.
+E: CONT'D murmuring
+C: SUTHERLAND
+D: You’ll have to hurry, old man. Suddenly the MUSIC and lights cut out. The crane becomes still, hovering over the rabbit.
+E: O.S. CONT'D
+C: WILLIAMS
+D: I... I wasn’t quick enough. Williams is inordinately disappointed. Sutherland claps him on the back.
+C: SUTHERLAND
+D: Enough of this, old man. Let’s go. Time to see more.
+C: WILLIAMS
+D: Next time I have to --
+C: SUTHERLAND
+D: Come on! INT. PUB - NIGHT Crowded Saloon bar. Williams and Sutherland drinking on high stools at bar, watching revellers. EXT. ALLEY - NIGHT Williams, still with bowler hat, and Sutherland push their way through a back alley crowded with Local Young Men, Servicemen, Young Women, passing lit doorways and windows from which come competing MUSIC. Williams is now quite unlike the man from County Hall, amazed by what he is seeing and feeling. He stops, looks around him. Sutherland takes his arm to keep him moving.
+E: 1
+C: GIRL’S VOICE
+D: Hey! Hey you there! Mr City Gent! Williams breaks away from Sutherland to look back. A gaudily dressed GIRL emerges from the crowd, snatches Williams’s bowler hat from his head, retreats laughing into the crowd. Williams, bewildered, starts to go after the Girl. Sutherland pulls him back.
+E: O.S.
+C: SUTHERLAND
+D: Let it go, old man. Girl like that steals your hat, always cheaper to buy a new one!
+C: WILLIAMS
+D: But --
+C: SUTHERLAND
+D: We’ll get you a new one. It can mark the new phase of your life. Out with the old!
+C: WILLIAMS
+D: Yes! Out with the old! In with -- Williams staggers into an Oncomer.
+E: waving arms in air
+C: WILLIAMS
+D: Oh... Excuse me, excuse me. Sutherland supports Williams till he regains balance.
+E: CONT'D
+C: SUTHERLAND
+D: That’s what we need. A new hat. For a new era.
+C: WILLIAMS
+D: Where on earth... can a chap... find a new hat at this time of night? INT. PUB - NIGHT Through a busy bar crowd we find Williams and Sutherland leaning against a back wall, talking, now noticeably drunk. Around them, boisterous holiday revellers wash by in search of drink and laughter. A Drunken Man comes to take a seat next to them. Sutherland finds Williams’s gaze drift toward the man’s impressive fedora hat. INT. PUB - NIGHT According to licensing laws, this pub should be closed. But it has closed only its curtains and become a ‘private club’. Around 20 CUSTOMERS, middle-aged, sit or stand around the piano singing popular songs. Two Couples dance half- heartedly, slowly, in the middle of the floor. The SINGING is led by the PIANO MAN, who also ACCOMPANIES. Williams and Sutherland sit at the bar. They are very drunk. Williams has on the fedora we last saw on the Drunken Man.
+E: 2 2
+C: SUTHERLAND
+D: A bargain, I tell you.
+C: WILLIAMS
+D: He’d have gone down to half a crown. I’m sure of it.
+C: SUTHERLAND
+D: Half a crown. It’s a quality hat. A bargain. Harry. This here is my friend, Mr Rodney Williams of Esher, Surrey. Would you know it? This man before you now is grievously ill.
+E: to BARMAN behind bar
+C: BARMAN
+D: What’s the matter with him?
+C: SUTHERLAND
+D: Stomach. A death sentence.
+C: BARMAN
+D: Then why’s he drinking?
+C: SUTHERLAND
+D: Why indeed? Another man, a lesser man, might crawl into a hole and weep. Await his hour with gloom and dread. Not Mr Williams. He has decided to grasp life, what little of it remains to him. We have to admire him for it. Don’t you admire him, Harry? Williams is sitting with eyes closed, swaying lightly to the singing behind him. His lips move along to the song.
+C: BARMAN
+D: If he’s not well, this ain’t good for him.
+C: SUTHERLAND
+D: Harry. You don’t understand. This man, who until yesterday had been living a shell of an existence, has sprung to life. Look! He even has a new hat!
+C: BARMAN
+D: One size too large, I’d say. APPLAUSE, LAUGHS and CHEERS as the song at the piano closes.
+E: regards hat
+C: PIANO MAN
+D: All right! All right! Come on. What’s to be next? What else do we know? Let’s have someone new. What’s next? Williams opens his eyes, turns, raises a hand.
+C: WILLIAMS
+D: Yes. Yes. I have a song.
+C: PIANO MAN
+D: Ah! And what might you offer us, sir? Williams gets off his stool unsteadily, leans against bar, faces the room.
+C: WILLIAMS
+D: I... I have a little Scotch on my mother’s side --
+C: VOICE
+D: Looks like you’ve got a little Scotch in you right now, mate! LAUGHTER. Williams smiles, waves for quiet.
+E: O.S.
+C: WILLIAMS
+D: You’re right! I’m somewhat... Even so, I’d like to sing a song for you if I may. That is, sir... sir... If you happen to know The Rowan Tree.
+E: to Piano Man
+C: PIANO MAN
+D: The Rowan Tree. Old Scottish song.
+E: searching memory
+C: WILLIAMS
+D: Yes. I have a little Scotch in me. And my late wife. She too... Piano Man plays a run, starts on an arrangement. None of the Customers around the piano know this song, but Piano Man does.
+C: PIANO MAN
+D: ‘Oh Rowan Tree, oh Rowan Tree, Thou’lt aye be dear to me, Entwined thou art wi’ mony ties O’ hame and infancy...’ Williams joins in, quietly at first, then with growing confidence. Not a great singer, but he has a heart-felt quality that captures the attention. His gaze remains distant as he sings. After a few lines, Piano Man leaves the singing to Williams, carries on accompanying.
+E: singing
+C: WILLIAMS
+D: ‘... Thy leaves were aye the first o’ spring, Thy flow’rs the summer’s pride, There was nae such a bonny tree In a’ the countryside.’ The Customers, Sutherland, Barman sense Williams’s melancholy, watch and listen silently.
+E: singing
+C: WILLIAMS
+D: ‘How fair wert thou in summer time, wi’ a’ thy clusters white, How rich and gay thy autumn dress, wi’ berries red and bright. On thy fair stem were many names, which now nae mair I see, But they’re engraven on my heart, Forgot they ne’er can be. We sat aneath thy spreading shade, The bairnies round thee ran, They pu‘d thy bonny berries red, And necklaces they strang. My mother, oh I see her still ... ‘ Williams trails off, stops singing. Piano Man goes on playing.
+E: CONT'D singing
+C: WILLIAMS
+D: I’m sorry. I’m so sorry. This is too... I didn’t mean to... Piano Man stops playing. Hesitant APPLAUSE around the room.
+E: CONT'D
+C: WILLIAMS
+D: I’m spoiling your evening. Sutherland rises, puts arm around Williams’s shoulders.
+E: CONT'D
+C: SUTHERLAND
+D: Come along, old man. I’ll show you... another place I know. Come on, chin up. You’re doing well. Piano Man starts up an UP-TEMPO SONG. The Customers immediately start to sing along. Williams and Sutherland leave. INT. PIANO BAR - REAR STAIRS - CONTINUOUS Sutherland and Williams come through a set of doors. Before them, stairs leading down to a back exit. PIANO and SINGING remain faintly audible. Williams pauses at top stair, hurls fist in the air - a triumphant but oddly empty gesture. As he does so, he almost falls down the steps, but Sutherland steadies him in time.
+C: SUTHERLAND
+D: Come along, old chap. Let me now show you something really special. Strictly VIPs only. They descend steps together, leave through doorway. EXT. TENT - NIGHT - ESTABLISHING A large tent, illuminated from within, on the edge of a field near an unseen fairground. A powerful light, somewhere nearby, is going on and off rhythmically. From within the tent: MUFFLED SOUND of a BOISTEROUS CROWD SINGING ‘Roll Out The Barrel’, backed by ACCORDION, DRUMS and
+C: TRUMPET.
+D: INT. TENT - NIGHT - CONTINUOUS MUSIC and SINGING now much louder. The tent’s interior feels stifling: sagging canvas ‘ceilings’, garish lighting, closely packed benches and wooden chairs arranged in rows across the trodden grass floor. An audience of twenty Men, and twelve Hostesses distributed among them, swaying and singing. Everyone appears to be drunk. All gazes remain fixed on the make-shift stage where: A Dancer, in a bizarre military costume, is performing a striptease. The SINGING builds in momentum, to egg on the Dancer. An Accordionist, Drummer and Trumpeter RAMP UP THE MUSIC’S
+C: TEMPO.
+D: APPLAUSE and CHEERS as the Dancer discards an item of clothing. In the midst of the audience: Williams, seated arm in arm with Hostess 1. Beside them, Sutherland, arm in arm with Hostess 2. Both are now very drunk, and in danger of falling asleep. Hostess 1 gives Williams a shake. Williams makes an effort to focus on the Dancer. Sutherland’s eyes are closing, but he forces them open, looks at stage, smiles as: More APPLAUSE and CHEERS greet another gesture from the Dancer. SINGING continues boisterously. Hostess 1 mouths the words to the song, encourages Williams to join in. Williams starts to sing along. Suddenly he stops, his expression freezing as a stab of internal pain assaults him. For a beat, he remains frozen in an unnatural posture while Hostess 1, continues to sing, an arm inside Williams’s arm. Williams pulls away from her, rises. Stumbles past Men and Hostesses in his row, towards the flap in the tent’s rear, with the urgency of one about to vomit. Sutherland, noticing, disentangles himself from Hostess 2, goes down row, reaches flap. Nods to Doorman as he goes out. EXT. FIELD OUTSIDE TENT - NIGHT - CONTINUOUS Dark no-man’s land between fringe tents and the main fairground. Sutherland emerges, looks around: The powerful light from nearby, as before, going on and off rhythmically, illuminating erratically the patch of field immediately before him. Beyond that is darkness. Beat. Williams emerges from the dark into the erratic light. He has lost his urgency. He dabs his mouth with a handkerchief, looks up, sees Sutherland, stops. They stare at each other, now both strangely sober. Williams appears as if caught in the act of doing something shameful. He touches his handkerchief to his mouth again. Sutherland’s expression filled with pity and horror, as if the full import of William’s condition - indeed, of Death itself - has only now dawned on him. They continue to stare at each other. SINGING and MUSIC continue from the tent. Williams smiles sheepishly, gives a small nod towards the tent, indicating he’s ready to return. He dabs his mouth again, puts away handkerchief, approaches. Sutherland continues to stare at him in horror, allows Williams to pass. INT. TENT - CONTINUOUS MUSIC and SINGING louder than ever. Everyone is swaying, singing at full throttle. We don’t see the stage, but the fixed stares of the Men and the Hostesses tell us the act has progressed to some new level. Williams and Sutherland come in past the Doorman, head towards their old seats, both within a bubble of solemnity. They squeeze down their row, past irritated Men. Hostess 1 and Hostess 2 still mouthing the words of the song, partly out of duty, partly from a wish to numb themselves as Williams and Sutherland regain their seats: Hostess 1 and Hostess 2 take their arms automatically, not without affection. They don’t notice Williams’s and Sutherland’s changed mood. The SINGING now feels overwhelming. The crowd press in on Williams and Sutherland, jostling them. But none of the gaiety penetrates Williams’s or Sutherland’s bubble - Williams sits with eyes gazing into space. Sutherland still stares at Williams. He suddenly becomes freshly aware of their surroundings, looks around at it with a kind of terror. Then looks again at Williams. Williams is far away, oblivious to everything around him. We MOVE OUT steadily to see Williams and Sutherland within the audience, isolated in their melancholy, like men on a small boat tossed by wild waves. DISSOLVE TO: EXT. PICCADILLY AREA - ESTABLISHING - DAY Bright summer sunshine. Late morning. Double-decker buses, well-heeled pedestrians. EXT. STREET IN PICCADILLY - DAY Williams, looking without interest into the window of a smart men’s shoe shop. He’s wearing his new hat. He moves along, aimlessly. A VOICE calls out to him.
+C: MARGARET
+D: Mr Williams... Mr Williams? Williams turns slowly. Margaret arrives at his side.
+E: O.S.
+C: MARGARET
+D: Mr Williams. It is you! For a moment then, I was quite thrown. I mean, by your... ... by your new hat!
+E: CONT'D looks him up and down
+C: WILLIAMS
+D: Ah yes. I lost my old one.
+C: MARGARET
+D: It’s jolly nice. But I do wonder what they’ll make of it at the office.
+C: WILLIAMS
+D: I wonder. What would be your guess, Miss Harris? Will my new hat... go down a storm there?
+E: suddenly smiles
+C: MARGARET
+D: Noah himself couldn’t get something to go down a storm with that lot! Oh, I shouldn’t be unkind. Anyway, I don’t have to worry about them any more. Because I have a new job.
+C: WILLIAMS
+D: Oh yes?
+C: MARGARET
+D: That’s why I’m so pleased to see you. Oh! I mean, that’s not the only reason. I’m pleased you’re well and going about your business. Because when you didn’t come in yesterday and the day before...
+C: WILLIAMS
+D: Yes. I have rather gone to ground. But you see, I had other... Well, never mind. Tell me more about your new job, Miss Harris.
+C: MARGARET
+D: You know about it, Mr Williams. The position with Lyons Corner House. It’s a branch just round the corner from here. An assistant manager’s role, at least once I get into the swing of it. I’m so excited! There’ll be so many more people, so much more air! Oh. I didn’t mean --
+C: WILLIAMS
+D: Quite all right. County Hall isn’t for everyone. They start to walk.
+C: MARGARET
+D: Mr Williams, I am glad I ran into you! I’ll be honest. I have the job, but, well, it’s subject to the reference. And because you were away...
+C: WILLIAMS
+D: Ah, I see I might have inconvenienced you. Surely Mr Middleton could have --
+C: MARGARET
+D: We all think you have to write the reference. So I’ve been dying for you to come back. You won’t write a mean one, will you?
+C: WILLIAMS
+D: I wouldn’t dream of it, Miss Harris. But this is a little awkward. I hadn’t intended to return to the office quite yet.
+E: smiling
+C: MARGARET
+D: Oh that’s no problem. I have the form here with me. I’ve been walking about with it.
+E: raises handbag
+C: WILLIAMS
+D: Then perhaps I could just sign it here and you can fill it in how you wish.
+C: MARGARET
+D: Mr Williams! This might be a joke to you. But I do need my reference. It’s required. They stop on the pavement. Williams considers.
+C: WILLIAMS
+D: Very well. This is what I propose, Miss Harris. I was just thinking of treating myself to a light lunch at Fortnum’s. If you’d care to join me, I could write your reference over lunch.
+C: MARGARET
+D: Fortnum’s? Really? Are you sure?
+C: WILLIAMS
+D: Why not? It might make up for the inconvenience I’ve caused you.
+C: MARGARET
+D: But that’s so kind, Mr Williams. Fortnum’s! Is it this way?
+C: WILLIAMS
+D: Fortnum’s is this way. INT. FORTNUM AND MASON - SECOND FLOOR CAFE - DAY Sun-filled room within the famous store. Williams and Margaret have a table overlooking Piccadilly. A Waiter is clearing away dishes from their lunch. Williams is writing on an official form.
+C: MARGARET
+D: You know, Mr Williams. When I see you like this, bowed over your paperwork, I suddenly remember you’re the same person after all. The one at the head of our desk, every morning, every afternoon, for the last sixteen months of my life. But I realise today, you’re not like that really. Williams looks up from his document.
+C: MARGARET
+D: What I mean is. There’s much more to you. Fortnum’s! And your new hat! Williams smiles, touches the hat on the seat beside him.
+E: CONT'D
+C: WILLIAMS
+D: Now now. I won’t write a more favourable reference just because you say things like that.
+C: MARGARET
+D: Oh, I’m not trying to butter you up, Mr Williams. I just had you wrong, that’s all. I’d never seen you outside of that building. So I never suspected you could be so...
+C: WILLIAMS
+D: Go on, Miss Harris.
+E: writing
+C: MARGARET
+D: Well... so alive.
+E: apologetic
+C: WILLIAMS
+D: Alive? Beat.
+E: looks up
+C: MARGARET
+D: Mr Williams. If you promise, I mean really truly promise you won’t get angry. I’ll tell you my secret nickname for you.
+C: WILLIAMS
+D: Very well. I promise.
+C: MARGARET
+D: Now remember. You’re really not to get cross. And it’s not just you. I have nicknames for everyone. No-one knows them except me and Rosemary. My cousin with whom I share rooms.
+C: WILLIAMS
+D: I see.
+C: MARGARET
+D: For instance. Mr Rusbridger’s secret name is The Reverend. Because he’s always opening his hands like this. Like he’s addressing his congregation. Williams consider this, nods.
+E: imitates
+C: MARGARET
+D: And Mr Hart. I call him Saint George. Because he looks like he’s expecting to see a dragon any moment. She pulls a face to impersonate. It does resemble Hart. Williams bursts out laughing. He turns to the window, goes on laughing. Margaret, pleased, laughs and laughs.
+E: CONT'D
+C: MARGARET
+D: All right. This time, I’ll give you the nickname. And you guess who it is. It’s someone on the fourth floor. Julius Caesar. Who do you think that is?
+E: CONT'D
+C: WILLIAMS
+D: Julius Caesar. I suppose that would be Mr Brown, in accounts?
+C: MARGARET
+D: Correct! They both laugh. They’re interrupted by the arrival of the Waiter.
+C: WAITER
+D: Excuse me. May I get you something else? A dessert? Something from our sweets trolley?
+C: WILLIAMS
+D: Not for me. But perhaps the young lady might --
+C: MARGARET
+D: Oh yes please! I’ve always wanted one of those ice cream sundaes!
+C: WAITER
+D: A Knickerbocker Glory, miss?
+C: MARGARET
+D: Oh yes! With fruit and nuts. Yes, please! Waiter nods, leaves.
+C: MARGARET
+D: Oh, are you sure this is all right?
+E: CONT'D
+C: WILLIAMS
+D: Of course. But Miss Harris. You haven’t come round to the main point. You were going to tell me your name for me. The smile leaves Margaret’s face.
+C: MARGARET
+D: Well. It’s a silly name really. Perhaps I shan’t tell you after all.
+C: WILLIAMS
+D: Oh no. You’ve come this far. You have to tell me. Margaret has become very tense.
+C: MARGARET
+D: All right. But remember your promise. Not to get angry. Mr Zombie.
+E: beat
+C: WILLIAMS
+D: Mr what?
+E: puzzled
+C: MARGARET
+D: Mr Zombie. There was a film about it with, oh, what’s her name. A zombie’s rather like an Egyptian mummy. Except it can walk around, go about doing things. They’re sort of dead and not dead. They say they really have them in the West Indies, though I don’t suppose that’s true. Beat.
+C: WILLIAMS
+D: Mr Zombie. My, my. Margaret is close to tears.
+C: MARGARET
+D: I’m so sorry. It’s wicked of me. Williams reaches over, touches her arm.
+C: WILLIAMS
+D: Miss Harris, you mustn’t get upset. Mr Zombie. It’s rather good. In fact it’s quite appropriate. I like it. Mr Zombie. An Egyptian mummy except... I can walk about! Williams bursts out laughing. Margaret, relieved, laughs too. The Waiter returns.
+E: breaks into smile
+C: WAITER
+D: Your Knickerbocker Glory, miss. Margaret is delighted.
+C: MARGARET
+D: Oh thank you! Williams shakes his head, laughs again.
+C: WILLIAMS
+D: Mr Zombie. Williams and Margaret both laugh. Across the room, waiting to be seated: Miss Fry, watching Williams and Margaret laughing together. She is holding her small dog in her arms, its face close to hers. She stares - scandalised, excited. As Waiter approaches, she pivots primly, walks away. DISSOLVE TO: EXT. STREET IN PICCADILLY - DAY Sunshine. Double-decker buses. Taxis. Pedestrians. Williams and Margaret walking.
+E: same as before
+C: MARGARET
+D: Oh Mr Williams, I so wish you could see where I’m going to work. It’s just around the corner. But... Oh no, look at the time! I was just about to say ‘Mr Williams will be furious.’ I’d better hurry just the same. Williams stops walking. Margaret does too.
+E: laughs
+C: WILLIAMS
+D: It’s a splendid day. And I’d like to see your Lyons Corner House. Miss Harris, why don’t you take the afternoon off?
+C: MARGARET
+D: I can’t do that, Mr Williams!
+C: WILLIAMS
+D: Why not? You’ve handed in your notice. You have your glowing reference. Why not enjoy the rest of your day?
+C: MARGARET
+D: Mr Williams. Earlier I didn’t wish to be... Well, I’ll ask it now. Is that what you’ve been doing? I mean, skiving off? People thought you must be ill or something. But obviously you’re not.
+C: WILLIAMS
+D: Look, here’s my proposal. Why don’t you and I ‘skive off’ together? What difference would our absences for an afternoon make to anything?
+C: MARGARET
+D: It is very tempting. Very tempting... But it does seem very... daring. What would we do?
+C: SERIES OF SHOTS
+D: Williams and Margaret walking across the main entrance hall of an art gallery, gazing at rows of paintings. Margaret stops, pointing at a picture, says something. Williams comes to stand beside her, considers picture. Williams and Margaret walking along path through St James Park. She is entertaining him with another office anecdote. Williams and Margaret pass a large poster advertising I WAS A MALE WAR BRIDE with Cary Grant’s face looming down. INT. OFFICE - TABLE - LATE AFTERNOON Peter, Middleton, Hart, Rusbridger at their usual places around the table. The name plates ‘MR WILLIAMS’ and ‘MISS HARRIS’ mark vacant places. Peter looks glumly across at the ‘MISS HARRIS’ sign, lost in thought. Rusbridger notices.
+E: A B C
+C: HART
+D: One could easily find out her new place of employment, Mr Wakeling. Hart and Rusbridger laugh quietly, not looking up. Peter smiles. But he’s not pleased.
+C: PETER
+D: It’s rather bad form really. Even if she is leaving. I wouldn’t have expected it of her.
+E: MORE
+C: HART
+D: I dare say she’ll pop back Monday. Well we know it’s a Lyons Corner House. Narrows it down. If Mr Wakeling really wants to --
+E: to Rusbridger
+C: PETER
+D: I don’t want to! You’re all getting quite the wrong end of the stick!
+C: RUSBRIDGER
+D: Mr Middleton. As Acting Head, wouldn’t you be able simply to look it up?
+C: MIDDLETON
+D: That would be highly irregular, Mr Rusbridger.
+C: RUSBRIDGER
+D: What, even if there may be far more than curiosity at stake here?
+C: PETER
+D: Look, really! I do wish Mr Williams would come back. Things might go back to being more orderly around here. EXT. WATERLOO STATION - APPROACH - DAY Williams and Margaret have stopped on the pavement. People hurry past them and into the station, the evening rush not yet in full flow.
+E: now seriously annoyed
+C: WILLIAMS
+D: I’d better be on the 4.56. Or else I’ll find myself sharing the same train as our dear colleagues.
+E: consulting watch
+C: MARGARET
+D: That would be awkward. They exchange a smile. But Margaret now looks guilty.
+C: MARGARET
+D: I do wonder if we haven’t been... very wicked.
+E: CONT'D
+C: WILLIAMS
+D: You’ve no need to worry about that any more, Miss Harris.
+E: MORE
+C: WILLIAMS
+D: You just keep your mind on your Lyons Corner House.
+E: CONT'D
+C: MARGARET
+D: I will. But I was thinking about you.
+C: WILLIAMS
+D: Oh, don’t worry about me. I had a wonderful afternoon.
+C: MARGARET
+D: So did I. Thank you for treating me. I do hope it hasn’t been terribly expensive and you don’t awfully regret it when you get home.
+E: smiling
+C: WILLIAMS
+D: I’ll make a promise now that I won’t. Miss Harris. I did wish to saying something to you... Your time with us. It might not always have been so exciting. But I hope you won’t judge them too harshly. Judge us, I should say. We do what we can.
+E: beat
+C: MARGARET
+D: Yes, of course. I never meant --
+C: WILLIAMS
+D: Look at the crowd here. Came through the war, so much still to rebuild, so many dreams. Sometimes it can get too much. Too much to place on the shoulders of ordinary decent chaps like those up in that office.
+E: indicates
+C: MARGARET
+D: Yes... I shan’t think wickedly about them any more.
+C: WILLIAMS
+D: Well, Miss Harris. Goodbye.
+C: MARGARET
+D: Goodbye, Mr Williams.
+C: WILLIAMS
+D: Williams goes into the crowd. Margaret watches, concern on her face. DISSOLVE TO: EXT. STREET IN WILLIAMS’ SUBURB - EVENING Fiona, carrying a bag of groceries, and Miss Fry, dog in tow, conversing on the pavement. Miss Fry is leaning forward, speaking with urgent intimacy, fervent with moral outrage. Fiona, uncomfortable, takes a step back but Miss Fry immediately takes a compensatory step forward. A Commuter approaches along the pavement. Miss Fry falls into a meaningful silence, waits for him to pass then leans forward again, continues speaking intently. Fiona shakes her head as though bewildered. INT. WILLIAMS’ FAMILY HOUSE - DINING ROOM/KITCHEN - NIGHT Michael standing in the middle of the dining room. He is upset, looking towards the kitchen doorway - through which we see: Fiona, in an apron, moving about busily. Behind Michael, the table set for the evening meal.
+E: CONT'D
+C: MICHAEL
+D: The woman is a public nuisance. A prize mischief maker... Fiona brushes past him, places dish on the table, throws Michael a curt look. Michael shakes his head in exasperation.
+E: forcing voice down despite emotion
+C: MICHAEL
+D: Nothing she likes better than -- Fiona spins round, finger to lips, gestures with her head toward the open door to the hall.
+E: CONT'D
+C: MICHAEL
+D: Look. Are we really supposed to believe --
+E: CONT'D lowering voice
+C: FIONA
+D: You have to speak to him. If people are talking about this here... INT. WILLIAMS’S BEDROOM - NIGHT - CONTINUOUS Modest, tidy bedroom. Single bed. Williams standing before his wardrobe mirror, dressed in his ‘at home’ attire: V-neck pullover, shirt and tie, studies his reflection, adjusts his tie. His hands become still around his tie knot.
+E: sotto
+C: WILLIAMS
+D: Look here. Look here. There’s something I’d like to share with you both. Bit of a bore, but... Williams goes on staring silently at his reflection. INT. WILLIAMS' FAMILY HOUSE - DINING ROOM/KITCHEN -
+E: sotto, as if rehearsing beat beat
+C: CONTINUOUS
+D: Michael, as before in centre of room, looks more upset than ever. He can now barely keep down his voice. He’s addressing Fiona through doorway to the kitchen.
+C: MICHAEL
+D: It’s outrageous! At his age! And as for this... this girl. Barely a woman. Certainly not a lady -- Fiona, emerging from kitchen, pushes past with another pot, gestures warningly upstairs with her eyes.
+E: beat
+C: FIONA
+D: It does all fit. The calls from his office. The savings. You simply must speak to him. You should have done so long ago. About everything.
+E: sotto
+C: MICHAEL
+D: I’ll speak to him all right! With pleasure I’ll speak to him! INT. WILLIAMS'S BEDROOM - CONTINUOUS Williams adjusts tie one last time.
+E: sotto
+C: WILLIAMS
+D: Look here. Bit of a bore but... With sudden resolve, he moves to the door, goes out. Through the open doorway, we see him start his descent down the staircase. INT. WILLIAMS' FAMILY HOUSE - DINING ROOM/KITCHEN -
+E: barely audible, to the mirror
+C: CONTINUOUS
+D: Michael now sitting at the table, apparently absorbed in a newspaper.
+C: FOOTSTEPS.
+D: Michael braces himself, raises newspaper till it hides most of his face. Fiona comes to the kitchen doorway, waits. Williams enters.
+C: FIONA
+D: Oh here you are, Father. She retreats into the kitchen OUT OF VIEW. Williams looks around, looks at Michael hidden behind the newspaper. He sits. Beat. Fiona comes in with a dish, places it at centre of the table.
+E: nonchalantly
+C: WILLIAMS
+D: Ah. Smells wonderful.
+C: FIONA
+D: I do hope you’ll enjoy it. She throws a sharp glance at Michael. Williams notices this. Michael remains behind the newspaper. Fiona returns to kitchen. Beat.
+C: MICHAEL
+D: Fancy. Alf Jordan’s sprained his ankle while on holiday. Unlikely to be fit for the start of the season.
+E: nonchalant, from behind paper
+C: WILLIAMS
+D: Oh dear. How unfortunate. Look here. Bit of a bore but... He trails off. WILLIAMS watches Michael, unresponsive behind his newspaper. Fiona, now without apron, comes in holding a gravy boat, places it on table, sits. She throws another sharp glance at Michael.
+E: beat
+C: FIONA
+D: Darling. This is hardly the time to be reading. Michael lowers the paper, looks around feigning distraction.
+C: MICHAEL
+D: Oh sorry. Are we ready?
+C: FIONA
+D: Of course we’re ready. Ready as we’ll ever be. Williams looks from Fiona to Michael, shakes head in fatherly fashion.
+C: WILLIAMS
+D: Shepherd’s Pie?
+E: believing he’s peacemaking
+C: FIONA
+D: Yes. And decent mince too.
+C: WILLIAMS
+D: How splendid. Fiona takes Williams’s plate, serves food, places it back in front of him. Williams gazes at it, his thoughts now far away, realising he will not bring up anything significant at this present moment - defeat.
+C: FIONA
+D: You might look a little more grateful, Father.
+C: WILLIAMS
+D: What? Oh, excuse me. Miles away. Fiona serves Michael, staring daggers at him. But she too knows now the moment has passed and Michael won’t say anything.
+C: MICHAEL
+D: Thank you, darling. Fiona’s frustration boils over.
+C: FIONA
+D: There was a time - when what one did in London - stayed in London. But these days - half of this street works in London! She glares in turn from Michael to Williams back to Michael. Michael looks down at his food. Williams, still believing his role is solely that of peacemaker, nods wisely.
+E: shockingly loud
+C: WILLIAMS
+D: That’s right, my dear. She has a point, you know. Half the street. Fiona calms herself, serves own plate. Beat.
+E: to Michael beat
+C: WILLIAMS
+D: This is really quite splendid.
+E: CONT'D eating
+C: MICHAEL
+D: Yes, darling. Delicious. They continue eating quietly. INT. OFFICE - TABLE - DAY Peter, Middleton, Hart, Rusbridger at their usual places around the table, working with bored diligence. MOVE TO: Williams’s empty seat. We then MOVE TO a Calendar on the wall behind Williams’s seat. It features a bright illustration with ‘JULY’ above it. DISSOLVE TO: INT. OFFICE - TABLE / BARRIER RAIL - A MONTH LATER - DAY The Calendar: new illustration - ‘AUGUST’. The light on the wall has changed. PULL BACK to reveal: ‘MR WILLIAMS’ sign still marking a vacant place. The ‘MISS HARRIS’ sign has been replaced by ‘MRS JOHNSTONE’. Behind the sign sits working Mrs Johnstone, a handsome, stern- faced lady in her 40s. Middleton, Hart, Rusbridger still working in their usual places. Peter is not with them. INT. COUNTY HALL NORTH BLOCK - STAIRCASE - DAY Peter, holding a folder, purposefully striding up the stairs. His face lights up with recognition at: Mrs Smith, Mrs McMasters and Mrs Porter descending the staircase towards him.
+E: MORE
+C: PETER
+D: Ladies! How lovely to see you! They all pause on the stairs.
+C: MRS SMITH
+D: How do you do, Mr Wakeling.
+C: PETER
+D: And are you all well? Had a trifle more luck today perhaps? Mrs Smith stares at him blankly.
+C: MRS MCMASTERS
+D: Another blimming day going all over this building. Like we had no husbands or kiddies to see to.
+E: MORE
+C: MRS MCMASTERS
+D: Downright disgrace, if you ask me, the way they treat us.
+E: CONT'D
+C: PETER
+D: Oh dear. I’m so sorry. I really thought that by now --
+C: MRS SMITH
+D: We want someone, sir. We don’t care who. We want someone to take charge.
+E: quietly explosive
+C: PETER
+D: Oh! But really. You must appreciate, Mrs Smith. The way these things work, it’s never quite so simple as one would... He trails off, conscious of the hollowness of his words. Beat.
+E: rocked back
+C: MRS SMITH
+D: We wish you a pleasant afternoon, Mr Wakeling. It was nice to see you again. She leads Mrs McMasters and Mrs Porter down the staircase. Peter remains frozen where he’s standing, gazing after them, disappointed by his own response to the encounter. Then he starts up the stairs again, thoughtful. EXT. ST JAMES PARK - DAY Sunshine. Quiet. Williams sits alone on a bench, gazing at surroundings. To a casual observer he may look carefree. But we can see that his tranquillity is willed. A sudden stab of physical pain. He grimaces, stiffens. With effort, he reimposes his ‘relaxed’ posture. But now his expression betrays troubled preoccupation. Annoyed with his intruding thoughts, he rises, looks around for something to distract him. His gaze finds nothing.
+C: MRS MCMASTERS
+D: He takes a deep breath, as if it will bring him fresh resolve. Walks away from the bench purposefully. INT. LYONS CORNER HOUSE - DAY A large, smart Art Deco room offering food, tea and sanctuary to white-collar workers and genteel middle-class customers at ‘reasonable’ prices. Potted palms. Chamber orchestra. Late afternoon. The place is busy. Margaret, in waitress uniform, hurries between tables. She appears to be in danger of being overwhelmed. As she hurries past a table:
+E: CONT'D
+C: PRIM LADY
+D: Miss! Miss! This sausage roll is cold.
+C: MARGARET
+D: I’m so sorry. Shall I bring you --
+C: PERSISTENT MAN
+D: Miss? Miss!
+C: MARGARET
+D: One moment, sir. I’m sorry.
+E: turning to his table
+C: PRIM LADY
+D: New here, aren’t you? Not quite found your feet yet.
+C: MARGARET
+D: Would you care for something else, madam? Some more tea?
+C: PRIM LADY
+D: I shall think about it. Then I shall let you know. Something catches Margaret’s eye across the room: Williams queuing behind two other Customers at the ‘PLEASE WAIT TO BE SEATED’ notice at the front. He is searching the room with his gaze. Concern crosses Margaret’s face.
+C: PERSISTENT MAN
+D: Miss? Miss!
+C: PRIM LADY
+D: Don’t worry, my dear. I’ve seen a lot of girls come and go. I can tell you’ll do fine here. Trust me. But Margaret is preoccupied: Williams has now spotted her. He waves. Margaret smiles, but shakes head slowly at him disapprovingly.
+C: PERSISTENT MAN
+D: Miss?
+C: MARGARET
+D: Yes, sir. INT. LYONS CORNER HOUSE - A FEW MOMENTS LATER HEAD WAITER leading Williams across the room to his table. As he sits down, Williams is saying something, pointing towards Margaret on the other side of the room. Head Waiter’s gaze falls on Margaret. He signals for her to come over to Williams’s table. Margaret begins to cross the room while the Head Waiter, having left Williams, comes towards her. As they cross:
+C: HEAD WAITER
+D: Make it snappy, please. It’s getting very busy.
+C: MARGARET
+D: Yes, Mr Adams. Margaret approaches Williams’s table.
+C: MARGARET
+D: Mr Williams. You’re skiving again. I’m disappointed.
+E: CONT'D
+C: WILLIAMS
+D: And Miss Harris. I’m disappointed to find you, well into your third week here, still working as a waitress. It was an assistant manager’s post you accepted?
+C: MARGARET
+D: I hope to be given greater responsibilities... in good time.
+C: WILLIAMS
+D: If you wish, I might have a word with your --
+C: MARGARET
+D: That won’t be necessary, thank you. And I am disappointed to find you haven’t returned to the office. You did say, last time, that you would.
+C: WILLIAMS
+D: As it happens, I was just now thinking about that. After all, it’s not as though I’ve discovered a wealth of other ways to --
+C: MARGARET
+D: Oh look, I’m sorry. It’s so very busy--
+E: looking over shoulder
+C: WILLIAMS
+D: Of course. I’ll let you go. But I did wonder when your present shift ended.
+C: MARGARET
+D: And why would you mind about that, Mr Williams?
+C: WILLIAMS
+D: Why? Well, for one thing, because they’re showing ‘I Was A Male War Bride’ at the pictures. It has Cary Grant in it. I wondered if you’d care to come along.
+C: MARGARET
+D: Mr Williams, I refuse to encourage you any further with this skiving. We did say last Tuesday that would be the last time. You really must return to the office. What must they all be thinking there?
+C: WILLIAMS
+D: Ah but today is my pictures day. And I was merely... wishing for a companion. Oh well. Cary Grant, Miss Harris. I understood you’re quite fond of him. Margaret goes on looking at him. Then smiles. INT. CINEMA - DAY Williams and Margaret watching the screen. A nearly full house. We hear SOUND from ‘I WAS A MALE WAR BRIDE’. A FUNNY LINE OF DIALOGUE makes Williams, Margaret, the Audience Members all laugh loudly together. Margaret, enjoying herself, keeps watching, poised to laugh again. But now a change comes over Williams’s face. His gaze remains on the screen, but his thoughts have gone elsewhere. Another FUNNY LINE. Margaret, Audience Members, laugh loudly. Williams doesn’t laugh, his gaze now melancholy. Margaret doesn’t notice. A third FUNNY LINE. Margaret laughs, but this time notices Williams isn’t laughing, looks at him with concern. Williams keeps staring at the screen, thoughts far away. EXT. LONDON WEST END - ESTABLISHING - NIGHT Theatres, lights, lit doorways. INT. WEST END AMUSEMENT ARCADE - NIGHT Garish lights. One-armed bandits, other machines. Reminiscent of the seaside arcade, but the atmosphere here lacks the seafront’s innocence. Several Customers in the background, each solitary, verge on the sleazy. Williams is bending over a machine that we do not see yet. We hear its TINNY MUSIC. Margaret comes INTO VIEW behind him. She glances at Williams, then looks uncomfortably around at their surroundings.
+E: smiles charmingly MORE
+C: MARGARET
+D: Mr Williams. It’s time I was going home. My cousin will be getting concerned.
+C: WILLIAMS
+D: Yes, of course. But look at this.
+E: concentrating MORE
+C: WILLIAMS
+D: It may seem easy. But I assure you it isn’t. Margaret, without enthusiasm, looks over his shoulder. CLOSE SHOT - CRANE GAME CABINET: A heap of small prizes. The star prize a fluffy white toy rabbit. The crane hovers over the rabbit, comes lower, clutches it. But when Williams raises the crane, the rabbit slips out, drops back onto the heap of prizes. The light in the cabinet cuts out. TINNY MUSIC STOPS.
+E: CONT'D
+C: WILLIAMS
+D: Oh! It’s so difficult!
+E: CONT'D straightening
+C: MARGARET
+D: Mr Williams, I really must --
+C: WILLIAMS
+D: Of course. But before you go, Miss Harris, wouldn’t you like to have a try yourself? I have this feeling, you see, that you’d be rather good at this. We’re after that rabbit. It’s what everyone wants. Margaret hesitates, looks uneasily again around the arcade.
+C: MARGARET
+D: Very well. Just the once. Then I must be going.
+C: WILLIAMS
+D: Jolly good. Now. You have to take a good proper grip on these --
+C: MARGARET
+D: I can see what to do, thank you. Margaret takes the controls without enthusiasm. Williams puts in coins. TINNY MUSIC STARTS. The cabinet lights up again. CLOSE SHOT: Margaret manipulates the crane till it is hovering over the rabbit.
+C: WILLIAMS
+D: I did warn you, Miss Harris. It’s not nearly as...
+E: O.S.
+C: WILLIAMS
+D: He trails off because Margaret has successfully caught the rabbit in the crane’s jaws.
+E: CONT'D
+C: WILLIAMS
+D: I say. The crane picks up the rabbit, raises it off the heap.
+E: O.S. CONT'D
+C: WILLIAMS
+D: Now be very careful. And hurry, Miss Harris. They don’t give you long... The crane holds the rabbit, swings it over to the mouth of the chute, drops it. A HOOTING SOUND to signal a win.
+E: O.S. CONT'D
+C: WILLIAMS
+D: Well done! Well done, Miss Harris. I might have known it. I might have known you could do it! Margaret looks around self-consciously. Other Customers glance towards them, return to their own games. Margaret extracts rabbit from the hatch, looks at it. For the first time she looks gleeful.
+E: CONT'D too loud
+C: MARGARET
+D: Oh! It’s rather sweet!
+C: WILLIAMS
+D: Bravo, Miss Harris!
+C: MARGARET
+D: Now I really must --
+C: WILLIAMS
+D: Of course. I’ll walk you to your bus stop. He makes an ushering gesture towards the exit. Margaret starts to stride towards it, eager to leave. Williams follows, beaming contentedly.
+C: WILLIAMS
+D: Bravo, Miss Harris! Bravo! EXT. LONDON WEST END - STREET - NIGHT Brightly lit theatre fronts. Illuminated windows of restaurants and cafes. Taxicabs, Pedestrians, buses. Williams and Margaret walking. She is setting a purposeful pace. They are not talking. Williams registers another surge of pain in his abdomen. He grimaces. Margaret has not noticed. Suddenly Williams stops in the middle of the pavement.
+E: CONT'D
+C: WILLIAMS
+D: Miss Harris. Margaret stops, comes back the few paces to him.
+C: MARGARET
+D: What is it, Mr Williams?
+C: WILLIAMS
+D: I know I’ve already taken more of your evening than I should. But I did wonder if you’d... If you’d join me for just one drink. A few minutes, no more. Because you see... ... I don’t feel quite able to go home just yet. Margaret looks at him with surprise. She’s uneasy, but she nods.
+E: reserve suddenly crumbling
+C: MARGARET
+D: Very well. INT. PUB - INNER ROOM - NIGHT Williams and Margaret are alone in this section of the pub Their table is large enough for six. Margaret sits on a banquette, Williams sits at right-angles to her on a wooden chair. A lime cordial and an untouched pint of beer on the table. They sit in uncomfortable silence. Visible through an arch: the pub’s bar and Main Room. Here six wholesome YOUNG PEOPLE - three couples, all Margaret’s age - are talking and laughing cheerfully. Margaret glances towards them, winds the clockwork mechanism of the fluffy toy rabbit. A BURST OF LAUGHTER from the Young People. Margaret looks at them enviously, sets the rabbit hopping across the table surface. Before the rabbit can hop off the table edge, Margaret reaches over, brings it back to her. She sets it hopping on its journey once more. But this time the rabbit slows, comes to a halt half-way across. Williams and Margaret stare at the rabbit. More LAUGHTER from the Young People. Margaret glances again towards them.
+C: WILLIAMS
+D: I’m sure you’ll find things more conducive once you’re given your proper duties --
+C: MARGARET
+D: Mr Williams. This isn’t very nice really, is it? Williams looks at her.
+C: MARGARET
+D: I know it’s quite innocent, I’m not implying anything. But you are, well, much older than me and... Well, frankly, Mr Williams. Someone might suppose you were becoming... infatuated! She turns away from him. Williams looks at her with outrage but it melts away quickly. He looks sheepish, defeated.
+E: CONT'D
+C: WILLIAMS
+D: Infatuated. I suppose, in a way, I am. But not quite as some might suppose. Another BURST OF LAUGHTER, Williams and Margaret look again towards the Main Room.
+E: beat
+C: WILLIAMS
+D: Miss Harris, I wonder if I may confide in you. There’s something I haven’t really told anyone. Not even my son.
+E: CONT'D
+C: MARGARET
+D: Well, if you really think --
+C: WILLIAMS
+D: It’s quite a bore really. But the fact is... Suddenly he’s overcome with emotion, unable to speak. For two beats, he struggles to hold back tears. Margaret stares, astonished. She reaches out a hand. But Williams has already recovered his customary composure.
+C: WILLIAMS
+D: The fact is, I’m not expected to live much longer. It appears I have a cancer. Here, somewhere --
+E: CONT'D
+C: MARGARET
+D: Oh...! She raises her hands to her mouth, stares at him.
+C: WILLIAMS
+D: I’ve another seven months. A little longer if I’m fortunate. I’m sorry, I really didn’t wish to distress you. But you see, I wanted you to know because, well, because of this infatuation as you called it. You see, after receiving my news, I took to looking around myself a little. At that office, that life. And I realized how, since you arrived, how very different it’s been. I confess I did at times worry if your attitude was, well, appropriate. But then I came to appreciate you. Not simply for your youth. There was some other quality. Your appetite for life. The way you always make everything jolly and gay. Even whilst working there, with us. And that day I saw you, in Piccadilly. I thought, look at her, look at Miss Harris. If only to be alive like that, even for one day. And I suppose I hoped you might show me. Teach me how to be like you --
+E: now calm, almost humorous beat
+C: MARGARET
+D: I have no such special quality. I’m just an ordinary person. With my fair share of worries and resentments. I try to keep cheerful, it’s true. But all too often --
+C: WILLIAMS
+D: If only for a day. And I started to think... to remember. That perhaps, once, long ago, I too may have been... almost like you are now...
+C: MARGARET
+D: Mr Williams, really... Your son. Why haven’t you told your son? Surely he’s the one you must turn to now --
+C: WILLIAMS
+D: Michael? Oh, I do think the world of Michael. However he’s now... he has his own life to lead. His own concerns. That’s as it should be. I suppose that’s why I’ve had to pester you, Miss Harris. But you’re correct. I’m behaving like an old fool. Please forgive me. I should find some other way to -- The Young People in the Main Room start SINGING ‘Happy Birthday’. Margaret looks at them, now resentful for this inappropriate gaiety. But Williams turns to regard them with gentle pleasure, conducting the singing lightly with his fingers. The Happy Birthday chorus ENDS in APPLAUSE.
+E: smiles distantly
+C: WILLIAMS
+D: A birthday. How pleasant... Yes, I’m sure of it, Miss Harris. I wasn’t always this... what was it? Your name for me...?
+E: CONT'D beat
+C: MARGARET
+D: Mr Zombie...
+E: close to tears
+C: WILLIAMS
+D: Ah yes, Mr Zombie. No, I wasn’t always... When my wife was with me, for instance. Then later, all the time Michael was growing up. I wasn’t Mr Zombie at all then. Perhaps I didn’t much resemble you. But in my own way --
+E: MORE
+C: MARGARET
+D: Is there really nothing they can do?
+C: WILLIAMS
+D: When I was your age, Miss Harris, no, even younger, from when I was this high. What I wanted was to be a gentleman. Nothing grand. Just a rank and file sort of gentleman. I used to see them in the mornings, all lined up at the railway station whenever I went there with my mother. Their suits and hats. Waiting on the platform to go into London. A gentleman like that. That’s what I longed to be one day. Again, his reserve crumbles. He struggles not to be overwhelmed by frustration, anger, sadness. Then he recovers, shakes his head.
+E: ignoring
+C: WILLIAMS
+D: How did it happen? I fancy it crept up on me. The days proceeding one after the next. Each with their little burdens and defeats. Small wonder I didn’t notice what I was becoming. But then I looked at you and remembered. What it was like, to be alive like that -- Williams stares at Margaret for a moment.
+E: CONT'D
+C: WILLIAMS
+D: Miss Harris, I wonder if you ever stop on your way home and watch the children playing. In the street, in the yard. Balls, cowboys, whatever. Always so full of life. And when the time comes and their mothers call them in, they’re often reluctant, get a little contrary. Well, that’s as it should be. Far better that than be the child you occasionally see, sitting by himself in a corner. Not taking part, not happy, not unhappy. Merely waiting for his mother to call him in. Now I’ve become rather afraid I might end up like that little fellow and... and I so very much wish not to do so.
+E: CONT'D MORE
+C: WILLIAMS
+D: When the time comes, when my Maker calls me, I wish at least for him to find me... living. The thing is, I don’t see how to change it now. I’ve tried my best these last few weeks. Even went to the seaside... Suddenly he’s stopped by an idea opening within him. Beat. Williams starts to laugh. Secretively at first, then his laughter seems to shake his whole being - a laughter filled with relief, revelation, and the appreciation of having missed something staring one in the face. Margaret looks at him, alarmed, puzzled.
+E: CONT'D
+C: WILLIAMS
+D: Perhaps it’s not too late after all for Mr Zombie. He picks up the rabbit, holds it to his heart.
+E: CONT'D another short laugh
+C: MARGARET
+D: Mr Williams --
+C: WILLIAMS
+D: Miss Harris, I hope you’re able to forgive me. Forgive me for everything. But I’ve kept you for too long. Let’s get you to your bus stop. Williams rises with urgency, reaches for his fedora, the rabbit still clutched to his chest. Margaret rises too, looks at the rabbit.
+C: MARGARET
+D: Mr Williams, are you sure you’re all right? Oh I’m so sorry. What I mean is --
+C: WILLIAMS
+D: Never better, Miss Harris! But we must hurry. Your cousin will be getting anxious. He ushers Margaret out before him, an impatience, as well as a new energy, in his manner. Margaret pauses to look round at him, but he hurries her on. As they pass the cheerful Young People in the Main Room, Williams gives them a smiling nod, waves the rabbit at them triumphantly.
+C: WILLIAMS
+D: INT. OFFICE - TABLE - DAY SOUND OF RAIN ON WINDOWS The ‘Mr WILLIAMS’ name sign still marks a vacant place. Peter, Middleton, Hart, Rusbridger, Mrs Johnstone in their allotted places, their towers no less tall. Suddenly, Hart looks up in astonishment, Middleton too. Peter follows their gaze: Williams coming through the gate in the barrier rail. Fedora, briefcase. His rolled umbrella leaves a trail of drops on the floor as he goes to the head of the table.
+E: CONT'D
+C: MIDDLETON
+D: Mr Williams, sir! Welcome back! Peter, Hart, Rusbridger, Mrs Johnstone now come to life, rising from their chairs.
+E: unable quite to hide disappointment
+C: EVERYONE
+D: Good morning, sir!/ Good morning, Mr Williams! / Welcome back, sir!
+C: MIDDLETON
+D: I’m very glad you’re feeling, er, better, sir. Williams ignores them, removes hat, sits at his old place. There’s a physical fragility about him but he’s lit up by an inner energy. He breaks down one of his towers. Papers cascade across the table.
+C: WILLIAMS
+D: Good morning, everyone. Mr Hart. Our file on that bomb site at Chester Street. The others watch in astonishment.
+C: WILLIAMS
+D: The one the local ladies have been petitioning to turn into a children’s playground.
+E: CONT'D
+C: HART
+D: Ah yes, sir.
+C: PETER
+D: Yes, sir! I believe Mr Rusbridger has it now. He has spoken out of turn. Faces look at him. Peter is defiant.
+E: delighted
+C: PETER
+D: Mr Rusbridger, you took it off Mr Williams’s desk last Friday, the last time the ladies were here.
+E: CONT'D
+C: WILLIAMS
+D: Well, Mr Rusbridger?
+C: RUSBRIDGER
+D: Yes. I suppose I did. So it must be here somewhere.
+C: WILLIAMS
+D: Mr Wakeling. You say the ladies have been in again? As recently as...
+C: PETER
+D: Last Friday, sir.
+C: RUSBRIDGER
+D: Ah yes. Here it is.
+C: WILLIAMS
+D: We have just enough time before lunch. I propose we go straight away.
+E: consulting watch
+C: MIDDLETON
+D: Go, sir?
+C: WILLIAMS
+D: Mr Rusbridger, we’ll take the file with us, but please wrap it up well. It’s pouring outside.
+E: rises
+C: HART
+D: Well, that’s just it, if I may say so, sir. It’s very wet just now.
+C: WILLIAMS
+D: I’m sure we’ll manage, Mr Hart. And this rain will allow us to assess all the better what the ladies are complaining of. Mrs Johnstone, we have not been formally introduced.
+C: MRS JOHNSTONES
+D: How do you do, Mr Williams. A pleasure to meet you.
+E: stands
+C: WILLIAMS
+D: Pleasure’s all mine. Mrs Johnstone, would you mind terribly remaining here to hold the fort? Messrs Middleton, Hart, Rusbridger and Wakeling, if you’d come with me. Bewilderment. But those named get up. INT. COUNTY HALL NORTH BLOCK - ENTRANCE HALL / EXT. OUTSIDE COUNTY HALL NORTH BLOCK - DAY Williams, Peter, Middleton, Hart, Rusbridger stand just inside open doorway to the steps leading out of the building. Coats, hats, umbrellas at the ready. Through the open doorway: the rain is coming down hard.
+C: WILLIAMS
+D: Chester Street. District line to Stepney Green. Then a brisk walk. Middleton and Hart exchange dubious looks. INT. VILLAGE CHURCH - NAVE - DAY Solemn ORGAN MUSIC. Peter, seated in a pew, studies his lap. Sullen. He takes a breath as he looks up, craning his neck to get a better view of: Margaret, several rows ahead across aisle, eyes to the front of the church. She turns, notices him. Her face brightens. Peter smiles at her. Peter takes in the rest of the mourners: A) At the front, Michael staring blankly. Fiona glances at him with concern. B) Middleton, Hart, Rusbridger, midway up nave. Solemn. C) Singh in another part of the nave. Solemn. D) Near the rear, Mrs Smith consoles Mrs McMasters. Mrs Porter beside them. Margaret catches Peter’s eye again, indicates to the entrance at the rear: Sir James and two Officials have just entered. Sir James is very sure of the stir his presence will cause. He is shaking hands with the Usher near the door. Peter swivels: Mrs Smith notices, alerts Mrs McMasters and Mrs Porter. All three turn, staring daggers at Sir James, who is still talking with the Usher. Peter turns, sees: WILLIAMS’S PHOTO mounted on table. Formal, head and shoulders, framed. Surrounded by flowers. INT. VILLAGE HALL - AREA ONE - DAY Mourners mingling, holding tea and refreshments. Michael talking to a Vicar out of earshot. His attention is caught by something O.S: Margaret crossing the hall through Mourners, towards the buffet table. Michael watching her intently. The Vicar, oblivious, continues to talk pleasantly to him. Michael turns back to him. INT. VILLAGE HALL - AREA TWO - DAY Peter, Middleton and Hart, holding cups of tea, huddled together in conversation amidst Mourners. They all three straighten and turn as: Sir James and the two Officials, also holding cups and saucers, come up to them.
+E: FEBRUARY MORE FEB FEB
+C: MIDDLETON
+D: Good afternoon, sir. Jolly decent of you to show up.
+C: SIR JAMES
+D: Good afternoon, Mr Ryman.
+C: MIDDLETON
+D: Middleton, sir. And this is Mr Hart and Mr Wakeling. All from Public Works.
+C: SIR JAMES
+D: Of course.
+E: shaking hands MORE
+C: SIR JAMES
+D: Actually I knew exactly who you were. Just that I’m becoming such a blighter with names...
+E: CONT'D MORE
+C: MIDDLETON
+D: Perfectly all right, sir.
+C: SIR JAMES
+D: Knew exactly who you were. And you worked beside him. Must be like losing family.
+C: MIDDLETON
+D: Yes, sir. Feels almost like that.
+C: SIR JAMES
+D: I want you chaps to know how very sorry we all are. MIDDLETON & HART Good of you, sir / Thank you, sir.
+C: SIR JAMES
+D: I’ve never been one for skirting around awkward topics. He indicates with his gaze across the hall: Margaret offering sandwich plate to Mrs Smith, Mrs McMasters, Mrs Porter - who look uncomfortable in this milieu.
+C: MIDDLETON
+D: Of course not, sir.
+C: SIR JAMES
+D: Well, now’s not the time to be going into this. Look here, Mr...
+C: MIDDLETON
+D: Middleton, sir.
+C: SIR JAMES
+D: Middleton, quite. Perhaps you’d be good enough to come to my office Monday morning. We might talk this over. How best to handle it from here.
+C: MIDDLETON
+D: Of course, sir.
+C: SIR JAMES
+D: Naturally one wants to give credit where it’s due.
+E: leans in, sotto
+C: SIR JAMES
+E: CONT'D MORE
+C: SIR JAMES
+D: But the way those ladies have been kicking up. Even complained to their MP.
+E: CONT'D MORE
+C: HART
+D: Yes, a bit steep.
+C: SIR JAMES
+D: And the irony is, in the end, it does a disservice to the memory of our dear departed friend. Such a self-effacing fellow. If he were here, he’d be the first to protest.
+C: MIDDLETON
+D: Quite. Peter’s attention has wandered from Sir James. He is looking over to the ladies - and Margaret.
+C: SIR JAMES
+D: Actually I did wonder if I could count on you fellows. In the event of my requiring protection. Margaret starts walking off to another part of the hall.
+E: chuckles, leans forward
+C: PETER
+D: Excuse me. He hurries off. Sir James looks after him, somewhat put out. As Margaret passes through Mourners, Peter catches up with her. She stops, looks at him, delighted to see him, but controls herself.
+C: MARGARET
+D: Oh hello.
+C: PETER
+D: Hello. They smile at each other.
+C: PETER
+D: Saw you talking to the ladies.
+E: CONT'D
+C: MARGARET
+D: Yes. They’re very distraught. They were so fond of him.
+C: PETER
+D: You know. I think those ladies may have a point.
+C: SIR JAMES
+E: CONT'D MORE
+C: PETER
+D: Mr Williams didn’t even get a mention at the official opening.
+E: CONT'D
+C: MARGARET
+D: I quite agree.
+C: PETER
+D: Look, Miss Harris. Well. I was just wondering...
+C: MARGARET
+D: What were you wondering, Mr Wakeling? For a beat, they go on smiling at each other, their pleasure in being together now barely contained. Margaret smiles, but before she can reply, something catches her eye. Her expression darkens: Michael comes towards them, holding up a letter-size envelope. He glances quickly at Margaret, looks away.
+C: MICHAEL
+D: Mr Wakeling.
+C: PETER
+D: Mr Williams.
+C: MICHAEL
+D: I’m sorry to raise this here. But I thought it best I give this to you right away. Michael holds out the envelope to Peter, still avoiding looking at Margaret.
+C: MICHAEL
+D: It was amongst my father’s things. Quite prominent. He’s marked it ‘Private and Confidential’.
+E: CONT'D
+C: PETER
+D: So he has. Beat. Suddenly Michael turns to face Margaret.
+C: MICHAEL
+D: Miss Harris. We haven’t been introduced, I know. But I wonder if we might have a word. In private.
+C: MARGARET
+D: In private?
+C: PETER MICHAEL
+D: Yes. If you wouldn’t mind. Michael is now looking down, avoiding Margaret’s gaze. Peter and Margaret exchange a quick glance.
+E: CONT'D
+C: MARGARET
+D: Well, of course.
+C: MICHAEL
+D: Perhaps over here. Excuse me. I’m so sorry.
+E: to Peter
+C: PETER
+D: Not at all. Michael leading Margaret across the hall through the Mourners. INT. VILLAGE HALL - CONSERVATORY - CONTINUOUS Glass ceilings and panels. Wicker furniture. Plants. No-one present until: Michael opens the door from the main hall, holds it open to let Margaret pass. He closes the door after them. They turn and face each other.
+C: MICHAEL
+D: Excuse me for bringing you away.
+C: MARGARET
+D: Not at all.
+C: MICHAEL
+D: I appreciate you coming today.
+C: MARGARET
+D: Thank you. I’m awfully sorry. It must be... Such a loss.
+C: MICHAEL
+D: It is rather. We haven’t really been introduced. I know that you... worked with him.
+E: beat
+C: MARGARET
+D: Yes, though only briefly. Margaret Harris. She holds out her hand. Michael hesitates, then shakes her hand.
+C: MICHAEL
+D: How do you do, Miss Harris.
+C: MARGARET
+D: How do you do. I should have come and introduced myself earlier. But you seemed so busy and I --
+C: MICHAEL
+D: Oh that’s quite all right. Beat.
+C: MARGARET
+D: I’m dreadfully sorry. It must be so hard for you.
+C: MICHAEL
+D: One bears up. And I’ve been through this sort of thing once before...
+C: MARGARET
+D: Oh yes--
+C: MICHAEL
+D: Funny thing though. I was so small when Mother left. So you’d think I’d have no memory of it. But then when he left... I said to myself, isn’t it funny, I know this feeling... I know it really quite well... Sorry. I’m boring you.
+E: laughs
+C: MARGARET
+D: Not at all. Michael looks away, collects himself.
+C: MICHAEL
+D: Miss Harris. There was something I wished to ask you...
+C: MARGARET
+D: Of course.
+C: MICHAEL
+D: Something I can’t quite... Beat.
+C: MICHAEL
+D: Did my father know he was ill? That he was dying, I mean? Now Margaret looks away.
+E: CONT'D exhales
+C: MARGARET
+D: I... really don’t know what to say.
+C: MICHAEL
+D: Because if he knew. And he told you...You see what I mean? Why wouldn’t he tell me? Margaret turns back to Michael. Her expression makes clear: she did know. Michael’s eyes well up. He attempts to wipe tears, then turns away, sobbing.
+E: laughs
+C: MARGARET
+D: Oh dear. Perhaps-- His sobs reach a climax, then come under control.
+C: MICHAEL
+D: If he’d just told me. I’d never have let him leave us like that. In all that cold. In danger of losing control again, he turns, hurries out. Margaret gazes after him, helpless. INT. RAIL COMPARTMENT - TRAVELLING - DAY Middleton and Hart sit on one side, Rusbridger and Peter on the other. Peter surreptitiously takes from his jacket the envelope, unseals it, takes out letter. Several handwritten pages. He keeps the letter held low so as not to draw attention. Reads:
+E: FEB
+C: WILLIAMS
+D: My dear Mr Wakeling. I hope you will forgive what by this stage might appear an intrusion on my part. But I did wish to draw your attention to the on-going issues regarding the maintenance schedule for the recently completed playground at Chester Street. Peter, disappointed, shakes his head. He glances up, checks the others haven’t noticed, goes on reading.
+E: V.O.
+C: WILLIAMS
+D: An approved timetable has been filed with Parks and Recreation, together with a completed D48, and you will already be aware that day- to-day responsibilities have been delegated to Allsop and Dundee, a local firm of sound reputation --
+E: V.O.
+C: RUSBRIDGER
+D: What’s that you’ve got there?
+C: PETER
+D: Oh nothing. I’ll read it some other time. EXT. COUNTRYSIDE - DAY The train journeys on. INT. RAIL COMPARTMENT / EXT. VILLAGE STATION - DAY As train slows, Williams’s old station glides by out of the window. Comes to a halt. Peter, Middleton, Hart and Rusbridger gaze out at the space on the platform where Williams would have stood. Steam.
+E: putting pages away FEB FEB
+C: HART
+D: Suppose we shan’t ever know now.
+C: MIDDLETON
+D: Mmm?
+C: HART
+D: How he managed it. Always the correct spot.
+C: MIDDLETON
+D: However he did it, it was good of him. Just so he could greet us each morning. The train begins to move. INT. RAIL COMPARTMENT - TRAVELLING / EXT. SCENERY - DAY VIEW FROM WINDOW: Home Counties greenbelt ‘countryside’. CLOSE: pages being shuffled in Peter’s hands. He settles on a passage from further in the letter, reads.
+E: FEBRUARY
+C: WILLIAMS
+D: ... oversight is especially required concerning the quality of paints used on all exposed metal surfaces of the children’s play apparatus --
+E: V.O.
+C: RUSBRIDGER
+D: Any of you chaps get to talk to Mrs Smith? Or any of the other ladies? Peter places the letter on the seat beside him, out of the others’ view.
+C: MIDDLETON
+D: You know one appreciates them sticking up for the old man’s memory. But they've quite convinced themselves Mr Williams built that playground entirely by himself.
+C: RUSBRIDGER
+D: Parks did get more credit than they deserved.
+C: HART
+D: That’s because they’re called Parks.
+C: RUSBRIDGER
+D: Sir James certainly got his share of the credit. Made certain of that. Uncomfortable silence. Peter takes the letter in hand again, goes to a random passage, reads:
+C: WILLIAMS
+D: ... successive layers of bitumen can never be a substitute for necessary repair to the hut’s roof... Peter shakes his head.
+E: V.O.
+C: MIDDLETON
+D: Sir James was quite crucial as far as that playground’s concerned.
+C: RUSBRIDGER
+D: I suppose he was. Middleton, Hart and Rusbridger go back to staring quietly out of their windows. Peter looks around at the others. They remain lost in thought, gazing out at the passing view.
+C: PETER
+D: You know, I can't help thinking. I didn’t know Mr Williams the way you all did. But it does seem to me...
+C: RUSBRIDGER
+D: That he changed?
+C: PETER
+D: Yes.
+C: RUSBRIDGER
+D: It was this playground business. *The rhythmic sound of the train bleeds over all following flashbacks: INT/EXT COUNTY HALL NORTH BLOCK. ENTRANCE HALL - DAY Same as before but seen from a DIFFERENT ANGLE. ON: Rusbridger, he sees Williams, Peter, Middleton, Hart, before him, looking out onto County Hall North Block steps and the outside. Rain pouring.
+E: FLASHBACK
+C: WILLIAMS
+D: Chester Street. District Line to Stepney Green. Then a brisk walk. Hart and Middleton exchange glances. EXT. UNDER BRIDGE / WASTEGROUND - DAY Rain pouring down. Williams, in coat and fedora, stands right at the edge of the sheltered area, gazing out at the wasteground before him - a bomb site unattended since the war. One end flooded by stagnant water, now rippled by falling rain. The wasteground is overlooked by council houses. Their back yards abut the wasteground. Behind Williams: Huddled to one side, Peter, Middleton, Hart, Rusbridger. On other side, Mrs Smith, Mrs McMasters, 4 Local Women. Everyone is watching Williams - Peter with interest, Mrs Smith, Mrs McMasters and the Local Women with tension. William’s gaze moving from one point to another. Drops fall on Middleton’s shoulder. He moves to one side. Williams raises a hand absentmindedly in the air, steps out from under the bridge, strides onto the wasteground. Immediately he’s ankle-deep in dirty water. The rain pours down on him. He keeps walking. The others watch from the underpass, astonished. Suddenly Mrs McMasters hurries out after Williams, opening an umbrella as she does so and comes to stand next to him, holds umbrella over him. Williams turns to her, gestures to her to return. But Mrs McMasters keeps holding the umbrella over him - revealing a steely, determined side of her previously hidden by her comic demeanour. Something else in the wasteground catches Williams’s notice. He strides towards it, the water deepening around his ankles. Mrs McMasters follows him, determinedly keeping the umbrella over him, neglecting herself. INT. RAIL COMPARTMENT - TRAVELLING / EXT. SCENERY - DAY As before.
+E: FLASHBACK FEBRUARY
+C: HART
+D: He did become, well, obsessed. He was prepared to make himself a right bugger about it... INT. PLANNING DEPT OFFICE - DAY Large office with rows of desks. Secretaries typing, Clerks filing. NOISE of TYPING.
+E: FLASHBACK - SEPTEMBER
+C: HART
+D: I accompanied him once to Planning. That ogre Talbot was presiding that day... With no obvious area for outsiders to wait, Williams and Hart stand just inside the doorway. A Furiously Typing Secretary is working at a desk nearby, pays them no attention. TALBOT, 50s, closed-faced, routine-weary, emerges from rear of room, holding a folder up in the air.
+E: V.O.
+C: TALBOT
+D: This is it here. Leave it with us. We’ll send it down to you once it’s ready.
+C: WILLIAMS
+D: Actually I was hoping you might see to it now. Then I could take it off your hands straight away.
+C: TALBOT
+D: I’m unable to authorise it just like that. Look, don’t worry. I’ll see it gets done. Then we’ll send it down to you. Williams points to an empty chair right beside the Furiously Typing Secretary’s desk.
+C: WILLIAMS
+D: Why don’t I wait here while you check those entries? Williams sits. The Furiously Typing Secretary pauses for a second, then resumes typing.
+C: TALBOT
+D: It’s up to you. You might find yourself waiting for some time. We’ve a lot on up here.
+E: put out
+C: WILLIAMS
+D: Take all the time you need, Mr Talbot. I’m quite happy here. Mr Hart, you’d better get back. Tell the others I’ve been held up. Indefinitely. Talbot stares at Williams in the chair. Glances at the folder in his hand, goes off fuming. DISSOLVE TO: INT. PARKS DEPARTMENT OFFICE - DAY A smaller office. Six desks. Three male Junior Clerks, heads down, writing. Two female Secretaries typing. The section chief, JONES, sits behind a larger, central desk. Williams and Peter enter, each carrying five heavy box files, pile them on Jones’s desk. Jones looks up wearily, but his manner is kindly.
+E: FLASHBACK - SEPT.
+C: WILLIAMS
+D: It’s very good of you. I know we’re placing an extra burden on all of you here. The Junior Clerks and Secretaries ignore him, keep working.
+E: short of breath turns to include everyone in room
+C: JONES
+D: So this is what? A kiddies’ playground?
+C: WILLIAMS
+D: Yes.
+C: JONES
+D: Urgent?
+C: WILLIAMS
+D: We’d appreciate your giving it priority.
+C: JONES
+D: Hmm. Well, if you request it, Mr Williams. Suddenly Williams offers Jones his hand. Jones is surprised, but by instinct, rises and shakes hands.
+C: WILLIAMS
+D: Thank you, Mr Jones. Williams now turns and goes to each Clerk and offers his hand: Junior Clerk #1 is astonished. But he too rises, shakes Williams’s hand.
+C: WILLIAMS
+D: I want to thank you. In advance. I appreciate it. Junior Clerk #2, equally astonished, stands up to receive him.
+E: CONT'D
+C: PETER
+D: He went around to each of them in turn... INT. RAIL COMPARTMENT - TRAVELLING / EXT. SCENERY - DAY As before.
+E: V.O. FEBRUARY
+C: PETER
+D: ... Looked them in the face. Thanked them all. Secretaries, everyone.
+C: RUSBRIDGER
+D: Parks did then rather pull out the stops, didn’t they?
+C: HART
+D: The Mr Williams of a year ago would never have thought of doing something like that. For a beat or two, they all stare out of train window: Home Counties greenbelt. Pockets of suburbia appearing.
+C: MIDDLETON
+D: Actually. I witnessed something even more remarkable. I never told you chaps at the time because... well, it rather annoyed me... INT. SIR JAMES’S OFFICE - DAY Sir James seated behind impressive desk, smoking, relaxed. His office is grand, spacious, with a ‘lounge area’ - leather armchairs, a fireplace with logs burning, a mahogany occasional table. Two DISTINGUISHED GENTS are in the armchairs, reading newspapers, smoking. They totally ignore the business going on at Sir James’s desk. Williams and Middleton sit across from him, on the edge of their seats. Sir James passes a folder over the desk to Williams.
+E: FLASHBACK - OCTOBER
+C: SIR JAMES
+D: So you see. For all these reasons, this isn’t something we can contemplate for the foreseeable future. I’m sorry. I genuinely regret it. Sir James rises, obliging Williams and Middleton to rise also.
+C: SIR JAMES
+D: I’m not saying it isn’t a jolly good idea. It is. I can see what this would bring to the neighbourhood. And the site is a disgrace. Unfortunately, just now, we have even more urgent priorities. Well. Thank you for coming to see me. Sir James shakes hands quickly with them both, moves over to join the Distinguished Gents by the fire. Williams and Middleton cross the floor towards the door. Middleton has his hand on the door when Williams turns. DISTINGUISHED GENT #1 They’re considering Anderson. For the new editor’s post at Punch. Don’t fancy that, do you?
+E: CONT'D
+C: SIR JAMES
+D: Wouldn’t be quite right. Man’s obsessed with the ballet. DISTINGUISHED GENT #1 That’s not entirely fair. Anderson also cares passionately about detective fiction and horses. DISTINGUISHED GENT #2 Punch isn’t what it used to be. Not amusing enough. They now become aware that Williams is not only still in the room, but has come right up to them. Middleton, astonished, remains at the door, hand on knob. Sir James looks at Williams, puzzled.
+C: WILLIAMS
+D: Sir James. Please excuse me. But I beg you to reconsider. Sir James, taken aback, is lost for words.
+C: WILLIAMS
+D: I beg you. Or at least. If you would leave the application open for one more week. What harm can that do? Sir James stares at him. INT. RAIL COMPARTMENT - TRAVELLING / EXT. SCENERY - DAY As before.
+E: CONT'D FEBRUARY
+C: MIDDLETON
+D: I’d no idea what to do. Made myself as small as possible.
+C: PETER
+D: But it came off.
+C: MIDDLETON
+D: What’s that?
+C: PETER
+D: It came off. It must have done. Chairman did reconsider.
+C: MIDDLETON
+D: Yes. I suppose he did.
+C: RUSBRIDGER
+D: Those ladies may have a point.
+C: MIDDLETON
+D: Yes. But we all put our shoulders to it.
+C: RUSBRIDGER
+D: Yes but... There’s no denying the old man did push it.
+C: PETER
+D: Could it be he knew? That he didn't have long? Knowing something like that, I suppose it might... galvanise a person.
+C: MIDDLETON
+D: But he didn’t know. His son was very clear on that.
+C: HART
+D: I’m pretty sure that’s right. They become lost in their thoughts. VIEW FROM WINDOW: outer reaches of London. Suddenly:
+C: HART
+D: I think he did know. The others look at him. INT. COUNTY HALL - CORRIDOR - DAY Mrs Smith, Mrs McMasters, Mrs Porter emerge out of an office with long faces. Williams and Hart behind them, both holding folders. They all walk despondently along corridor, not talking. Williams stops.
+E: CONT'D FLASHBACK - OCTOBER
+C: WILLIAMS
+D: Ladies. A moment. The others all stop.
+C: WILLIAMS
+D: We mustn’t be discouraged. There’ll be a way around this. I assure you.
+E: CONT'D
+C: MRS SMITH
+D: I don’t know how you kept your temper just now, sir.
+C: WILLIAMS
+D: I don’t have time to get angry, Mrs Smith. Now, ladies. Williams makes an ushering motion for them to carry on down the corridor. INT. RAIL COMPARTMENT - TRAVELLING / EXT. SCENERY - DAY As before.
+E: smiles FEBRUARY
+C: HART
+D: Something about the way he said it...
+C: PETER
+D: He must have known.
+C: MIDDLETON
+D: Perhaps we’d all do the same. All of us here. We’d work with extra urgency in a situation like that.
+C: PETER
+D: Would we?
+C: MIDDLETON
+D: Surely... it’s a natural reaction.
+C: PETER
+D: I don’t think everyone, we here even, would necessarily have responded in quite the way Mr Williams did.
+C: HART
+D: I agree.
+C: MIDDLETON
+D: Hmm.
+C: RUSBRIDGER
+D: If he knew. And if he was in pain. He did an awfully good job keeping it to himself. *The rhythmic train motion masks all other sound: EXT. WASTEGROUND - DAY Men working. Cement mixers. Diggers.
+E: FLASHBACK - NOVEMBER
+C: PETER
+D: There was that one incident on site. Williams strides among the Men and the diggers consulting a large sheet. Peter struggles to keep up with him, looking over his shoulder at the sheet. Suddenly Williams drops the sheet, wobbles, sways. Peter stops him falling. Peter helps Williams over to the edge of the work area, onto the abutting back yard of one of the houses. Two Local Women hurry to help Williams into a garden chair, fuss over him, as Peter looks on with concern. Then Williams looks up, smiles uncertainly, tries to stand up. Woman #1 pushes him back into the chair, keeps her hands protectively on his shoulders while Woman #2 kneels before him, checks him out. Now Woman #3 comes hurrying out of a nearby house with a mug of water, passes it to Woman #2 who offers it to Williams. He smiles reassuringly. Peter sees WILLIAMS gazing with quiet satisfaction at the work going on before him, the mug of water close to his lips.
+E: V.O
+C: PETER
+D: The expression on his face... INT. RAIL COMPARTMENT - TRAVELLING / EXT. SCENERY - DAY VIEW FROM WINDOW: Coming into London.
+E: V.O. FEBRUARY
+C: PETER
+D: It was like... Beat.
+C: MIDDLETON
+D: You’re right. He certainly set an example for us. Middleton, Hart and Rusbridger all gaze out of their windows, thoughtful. Peter takes this opportunity to bring out again Williams’s letter. He shuffles pages, glances down. His face ignites with new interest as he reads:
+C: WILLIAMS
+D: I wonder, Mr Wakeling, if I may now turn to matters you may consider more personal --
+E: V.O.
+C: MIDDLETON
+D: Look here, everyone. If I may speak as his successor - and I don’t think I’m getting ahead of myself, it’s all but official now - let me propose we all make a pledge, here, today. Peters is dying to read more of Williams’s letter, but there’s nothing for it. He tucks it away into his jacket.
+E: cutting in
+C: MIDDLETON
+D: Let’s pledge to learn from his example. This lesson he set before us. Let’s vow never again to shy away from our responsibilities. Never again to push things under the carpet --
+E: CONT'D
+C: HART
+D: Or upstairs!
+C: MIDDLETON
+D: Or upstairs... I’m not saying we don’t already do a jolly good job. But Mr Williams has shown us... Well, that if we put our minds to it, our backs into it, we can do even better.
+C: HART
+D: That’s right. Peter, watching, a caution growing in his expression.
+C: MIDDLETON
+D: And let me say this today. While I remain in charge of Public Works, we’re going to be true to Mr Williams’s memory. We’re going to get things done.
+C: RUSBRIDGER
+D: That’s right!
+C: HART
+D: Hear hear! EXT. RAILWAY LINES - WATERLOO APPROACH - DAY Train slowing as it enters Waterloo Station. EXT. WATERLOO STATION - NEAR TICKET BARRIER - DAY The giant seaside poster we saw is now in the process of being replaced. Two-thirds torn away, giving it a cruelly scarred aspect. DISSOLVE TO: SERIES OF SHOTS - A) Spring coming to Central London streets. B) Peter and Margaret, after work, strolling together along Thames embankment. Delighted to be with each other, but as yet they avoid any physical contact. C) Margaret and Peter in the cinema watching The Thing. An expression of utter horror across Margaret’s face. She digs her head into Peter’s shoulder. D) Arcade, same one as before. Margaret scoops another rabbit, triumphant. We then see Peter try. He’s no good. E) Dusk. Margaret and Peter enjoy a fish and chip dinner, sitting on a park bench. Margaret has two rabbits sitting next to her. DISSOLVE TO: INT. OFFICE - TABLE - DAY Spring coming to Central London streets. B) Peter and Margaret, after work, strolling together along Thames embankment. Delighted to be with each other, but as yet they avoid any physical contact. C) Margaret and Peter in the cinema watching The Thing. An expression of utter horror across Margaret’s face. She digs her head into Peter’s shoulder. D) Arcade, same one as before. Margaret scoops another rabbit, triumphant. We then see Peter try. He’s no good. E) Dusk. Margaret and Peter enjoy a fish and chip dinner, sitting on a park bench. Margaret has two rabbits sitting next to her. DISSOLVE TO: INT. OFFICE - TABLE - DAY Peter and Margaret, after work, strolling together along Thames embankment. Delighted to be with each other, but as yet they avoid any physical contact. C) Margaret and Peter in the cinema watching The Thing. An expression of utter horror across Margaret’s face. She digs her head into Peter’s shoulder. D) Arcade, same one as before. Margaret scoops another rabbit, triumphant. We then see Peter try. He’s no good. E) Dusk. Margaret and Peter enjoy a fish and chip dinner, sitting on a park bench. Margaret has two rabbits sitting next to her. DISSOLVE TO: INT. OFFICE - TABLE - DAY Margaret and Peter in the cinema watching The Thing. An expression of utter horror across Margaret’s face. She digs her head into Peter’s shoulder. D) Arcade, same one as before. Margaret scoops another rabbit, triumphant. We then see Peter try. He’s no good. E) Dusk. Margaret and Peter enjoy a fish and chip dinner, sitting on a park bench. Margaret has two rabbits sitting next to her. DISSOLVE TO: INT. OFFICE - TABLE - DAY Arcade, same one as before. Margaret scoops another rabbit, triumphant. We then see Peter try. He’s no good. E) Dusk. Margaret and Peter enjoy a fish and chip dinner, sitting on a park bench. Margaret has two rabbits sitting next to her. DISSOLVE TO: INT. OFFICE - TABLE - DAY Dusk. Margaret and Peter enjoy a fish and chip dinner, sitting on a park bench. Margaret has two rabbits sitting next to her. DISSOLVE TO: INT. OFFICE - TABLE - DAY The name sign reads: ‘MR MIDDLETON’. He has two towers of papers before him, to his right and left, just as Williams did. Around the table, each with their name sign, and a tower of documents: Hart, Peter, Rusbridger along one side. On the other, Mrs Johnstone, then two new officials, Mr Grey and Mrs Henderson. They are working, heads down. Singh comes INTO VIEW, goes to Middleton.
+E: FEBRUARY FEB APRIL JULY JULY JULY JULY JULY JULY
+C: SINGH
+D: Education insist this is for us, sir. Singh holds up a folder. Peter looks up, watches.
+C: MIDDLETON
+D: Which one is this, Mr Singh?
+E: not looking up
+C: SINGH
+D: The disagreement concerning the proposed prefabs at Saint Mary’s School in Shoreditch, sir.
+C: MIDDLETON
+D: Oh that. Mr Hart, didn’t you look into Saint Mary’s School?
+E: looks up
+C: HART
+D: It’s for Education, Mr Middleton. It’s a school matter.
+C: SINGH
+D: Even so, sir, Education insist...
+C: MIDDLETON
+D: Well we can keep it here for now. No harm. Middleton takes the folder, thrusts it into the midst of the tower to his left, returns to his work. Singh starts to walk off. Peter slams down his pen.
+C: PETER
+D: But look here! Middleton looking at him coldly. Everyone else around the table, and Singh, all staring at him, astonished. Peter stares at them. Then, with air of defeat, looks down again at his papers. Middleton goes back to his work. So does everyone else. Singh goes OUT OF VIEW. Beat. Peter checks no-one is still watching, opens the drawer below his alotted place, sees Williams’s letter amidst pencils, etc, still in its original torn envelope.
+C: WILLIAMS
+D: I wonder, Mr Wakeling, if I may now turn to matters you may consider more personal... Peter removes it, tucks it into his inside pocket, closes drawer. EXT. STREET WITH BUS STOP - EVENING Peter stands waiting, other commuters around him.
+E: V.O.
+C: WILLIAMS
+D: In the time we have known one another, I have perceived in you a certain spark perhaps not obvious among your colleagues. The bus pulls up, blocking our view. INT. PHONE BOX Peter grapples with receiver, sets out coins on counter, dials.
+E: V.O.
+C: WILLIAMS
+D: I write here then in an attempt to pre-empt any undue disappointment on your part concerning our playground project. Peter gets connected, pushes coins into the slot.
+E: V.O.
+C: WILLIAMS
+D: It is my feeling that you, perhaps alone among colleagues, will be vulnerable in days to come to a certain disillusionment, precisely because you have invested in it more than others. INT. MARGARET’S LODGINGS - FIRST FLOOR LANDING - CONTINUOUS As Margaret comes out, Landlady indicates the communal telephone fixed to the wall, receiver resting off hook on a ledge.
+E: V.O.
+C: LANDLADY
+D: Reasonably brief if you don’t mind. I’m expecting my nephew to call.
+C: MARGARET
+D: Of course. Margaret goes to phone, lifts receiver.
+C: MARGARET
+D: Hello, Peter, how are you? INT. PHONE BOX - CONTINUOUS
+E: CONT'D
+C: PETER
+D: Oh... I’m all right. INTERCUT - PHONE CONVERSATION
+C: MARGARET
+D: Oh dear. What did they get up to today?
+C: PETER
+D: Oh, nothing much. I’m fine. But look, would you mind terribly if I came just a little later than we said? Half an hour, no more --
+C: MARGARET
+D: Very well.
+E: knowingly
+C: PETER
+D: Would you mind? Promise I won’t be long, and I can get the Circle Line afterwards --
+C: MARGARET
+D: Why would I mind? I too worked in that office, remember? You go ahead.
+C: PETER
+D: It’s just that... I sometimes feel you disapprove. Disapprove of me always going there.
+C: MARGARET
+D: No, dear, that’s not it. It still upsets me a little, that’s all. Remembering what happened there. To think of him like that, all by himself. In that freezing cold.
+C: PETER
+D: I know, darling. But honestly that’s not how I see it --
+C: MARGARET
+D: I know. You go and have good look around, dear. But don’t be too long. I’ve been missing you all day. Heaven knows why.
+C: PETER
+D: Promise I won’t be long. Well, goodbye. Peter replaces receiver, collects unused coins, turns. EXT. STREET WITH PHONE BOX - CONTINUOUS Coming out of phone box, Peter stops, unsure which way to go.
+C: WILLIAMS
+D: I have no wish to belittle our playground. But I put it to you that it was but a small thing. And that it will, before long, go the way of most such small things. Peter decides on a route, starts to walk. DISSOLVE TO: EXT. EAST LONDON STREET - EVENING A different, poorer district. Peter walks past rows of terraced houses. Illuminated windows. SOUNDS OF LAUGHTER,
+E: V.O.
+C: ARGUING, BADLY-PLAYED PIANO.
+D: As he walks on:
+C: WILLIAMS
+D: For the time being, our playground may be safe, a thing of joy for the local children. In time, however, it may fall into disrepair, or be superseded by some grander scheme. In a word, sir, we cannot assume to have erected a lasting monument. DISSOLVE TO: EXT. BRIDGE - EVENING Peter walks over a deserted bridge lit by a street lamp.
+E: V.O.
+C: WILLIAMS
+D: Even the fine spirit mustered among us as we saw the project through may not, in the end, survive long, set against the daily frustrations that are part and parcel of lives such as ours. All this, Mr Wakeling, you must accept. DISSOLVE TO: EXT. EAST LONDON SQUARE - EVENING Peter walks across a cobbled square. A group of Small Children playing under a lamp. They call out to him. He ignores them, walks on.
+E: V.O.
+C: WILLIAMS
+D: But let me counsel you, if I may. Should there come days when it is no longer clear to what end you are directing your daily efforts, when the sheer grind of it all threatens to reduce you to the kind of state in which I so long existed... DISSOLVE TO: EXT. STREET OVERLOOKING PLAYGROUND - EVENING A quiet street, another poor neighbourhood. Peter walks past terraced houses and their illuminated, curtained windows. No- one outdoors.
+E: V.O.
+C: WILLIAMS
+D: ... I urge you then to recall our little playground, and the modest satisfaction that became our due upon its completion. Peter walks on. The houses and street come to an end at a short rail fence. Peter goes to it, looks over: What was once the wasteland, now a well-appointed children’s playground. Swings, climbing frame, roundabout, etc. Three carefully-positioned street lamps illuminate it clearly. It is locked for the night and deserted.
+E: V.O.
+C: WILLIAMS
+D: I have, sir, only the best wishes for your future. Sincerely. Rodney Williams. Peter gazes down at the playground. FOOTSTEPS approach from behind him. A POLICE CONSTABLE, mid-30s, is coming along the darkening street towards Peter. Police Constable stops beside Peter, regards him suspiciously, looks over the railings at the playground below.
+E: V.O.
+C: POLICE CONSTABLE
+D: Evening, sir.
+C: PETER
+D: Good evening, officer.
+C: POLICE CONSTABLE
+D: Everything all right?
+C: PETER
+D: Yes. I just wanted to see this playground again. I played a small part, only a small part mind you, in bringing it into being. I work at the L.C.C. They both look down at the playground.
+E: beat
+C: POLICE CONSTABLE
+D: Is that so, sir. Well then the people here have a lot to thank you for.
+C: PETER
+D: Oh I didn’t do much. The man who did though passed away this winter. He was my boss. Mr Williams.
+E: smiles beat
+C: POLICE CONSTABLE
+D: Mr Williams. Yes. He'll be remembered around here with respect and affection, if I may say so. The Police Constable continues to gaze down at the playground. Something in his manner has changed. Emotion crosses the face beneath the helmet. Peter regards him with new interest.
+E: beat
+C: PETER
+D: If this is your regular beat, then perhaps you knew him. He was here a great deal last year. The Police Constable remains silent, goes on staring down at playground. Then:
+C: POLICE CONSTABLE
+D: If you was his friend, sir. Then perhaps you won’t mind my telling you this. Station sergeant says I’m being foolish. But it stays on my mind. If you was his friend, worked with him... If you wouldn't mind, sir.
+C: PETER
+D: No. No, not at all, officer. Please.
+E: surprised
+C: POLICE CONSTABLE
+D: I never actually had the honour of meeting your Mr Williams personally, he was always that busy. Closest I came, sir, was the night he passed away.
+C: PETER
+D: You saw him that night?
+C: POLICE CONSTABLE
+D: It was fully reported, sir.
+C: PETER
+D: Ah....
+E: knowingly
+C: POLICE CONSTABLE
+D: Yes, sir. I was possibly the last person to see Mr Williams alive. I wasn’t up here. I was down there. Chester Street. It was nine thirty- five. The snow had started by then. Coming on quite heavy. I went over because I heard the singing. That’s what drew me, sir. FLASHBACK - EXT. CHESTER STREET / PLAYGROUND - NIGHT Snow falling. A VOICE SINGING softly, slowly. The Police Constable comes up to the railings of the playground. We are now on the same level as the playground: Its three street-lamps illuminate the falling snow - a dusting of snow on the ground and on the play equipment. The centrepiece of the playground is a frame holding three swings side by side. Williams, in winter coat, scarf and fedora, is swinging gently on the middle swing. He is singing softly to himself, no-one else in the playground. The Police Constable watches from the railings. Thinks about entering playground, hesitates. We MOVE SLOWLY towards Williams on the swing, his face hidden under his hat, snow falling steadily around him. His SINGING is heard more clearly as we approach.
+E: indicates FEBRUARY O.S.
+C: WILLIAMS
+D: ‘... Rowan tree, oh Rowan Tree Thou’lt aye be dear to me, Entwin’d thou art wi’ mony ties O’ hame and infancy. Thy leaves were aye the first o’spring, Thy flow’rs the summer’s pride, There was nae such a bonny tree In a’ the countryside...’
+E: singing; sotto
+C: POLICE CONSTABLE
+D: I recognised Mr Williams, sir. So I knew he had a right to be there. That he wasn’t meaning any harm...
+E: V.O.
+C: WILLIAMS
+D: ‘...How fair wert thou in summer time, Wi’ a’ thy clusters white, How rich and gay thy autumn dress, Wi’ berries red and bright. On thy fair stem were many names, Which now nae mair I see, But they’re engraven on my heart, Forgot they ne’ever can be...’
+E: singing; sotto
+C: POLICE CONSTABLE
+D: And I thought, maybe he’d had a drop to drink and he was just... For his own good, sir, I should have persuaded him. Told him to get out the cold. That’s what’s been on my mind, sir... If only I... We now see Williams’s face. His expression is illuminated by an inner triumph. A glowing contentment that seems to warm the snow falling over him.
+E: V.O.
+C: WILLIAMS
+D: ‘... We sat aneath thy spreading shade, The bairnies round thee ran, They pu’d thy bonny berries red, And necklaces they strang. My mother, Oh, I see her still, She smiled our sports to see, Wi’ little Jeanie on her lap, And Jamie at her knee... ‘
+E: singing; sotto
+C: POLICE CONSTABLE
+D: But you see, sir. He looked so... so happy. Happy as I ever saw a man. And it felt a shame, sir, to disturb him. I imagined, in time, he’d just come off that swing and go home. EXT. STREET OVERLOOKING PLAYGROUND - EVENING As before. Peter and Police Constable looking down on the playground.
+E: V.O.
+C: POLICE CONSTABLE
+D: It was negligent of me, sir. If I'd persuaded him to get out the snow...
+C: PETER
+D: No, officer. I think it was for the best. Mr Williams had a terminal illness and it was... right that you allowed him that moment. The Police Constable accepts these words like communion.
+C: PETER
+D: And I believe you were quite right. He was happy when you saw him. Perhaps as happy as he'd ever been in his life. So I wouldn't worry yourself any more, officer.
+E: CONT'D
+C: POLICE CONSTABLE
+D: That does lift a cloud. What you say there. Thank you, sir. Beat. Peter touches the Police Constable gently on the arm.
+C: PETER
+D: Good night, officer.
+C: POLICE CONSTABLE
+D: Good night, sir. Peter walks away down the street. The Police Constable watches him, then glances back down at the empty playground below, lit by the lamps, silent. Then Three Children, aged 8 or 9, come running into the playground, excited. Two run towards the swings, begin swinging. The other Child clambers eagerly up the climbing frame. NOISE of PLAYING CHILDREN becomes audible, rises in volume. The street lamps dim and go out, to be replaced by sunlight. The playground, busy with children, on a summer’s afternoon. EXT. PLAYGROUND - CONTINUOUS - DAY At ground level. A YOUNG MOTHER emerges from one of the council houses whose back yards abut the playground. She looks cross.
+C: YOUNG MOTHER
+D: Jennifer! Steven! I’m not going to tell you again! Jennifer and Steven, 6 and 9, come off the swings, hurry towards the Young Mother. The other CHILDREN PLAY on NOISILY. A child is CRYING O.S. The playground is clearly a resounding success. A Boy jumps off the middle of the three swings in the frame. Now all three swings are empty. The middle swing, for the moment, continues to swing by itself. FADE TO BLACK
+E: calling
+N: The End

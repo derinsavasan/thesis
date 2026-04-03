@@ -1,0 +1,2721 @@
+M: STAR TREK II
+M: THE WRATH OF KHAN
+M: by
+M: HARVE BENNETT
+M: PARTICIPATING WRITERS
+M: JACK B. SOWARDS
+M: SAMUEL A. PEEPLES
+M: MAIN TITLE SEQUENCE (TO BE DESIGNED)
+T: FADE IN:
+N: BLACK Absolute quiet. SOUND bleeds in. Low level b.g. NOISES of Enterprise bridge, clicking of relays, minor electronic effects. We HEAR A FEMALE VOICE.
+C: SAAVIK'S VOICE
+D: Captain's log. Stardate 8130.3, Starship Enterprise on training mission to Gamma Hydra. Section 14, coordinates 22/87/4. Approaching Neutral Zone, all systems functioning.
+S: INT. ENTERPRISE BRIDGE
+N: As the ANGLE WIDENS, we see the crew at stations; (screens and visual displays are in use): COMMANDER SULU at the helm, COMMANDER UHURA at the Comm Con- sole, DR. BONES McCOY and SPOCK at his post. The Captain is new -- and unexpected. LT. SAAVIK is young and beautiful. She is half Vulcan and half Romulan. In appearance she is Vulcan with pointed ears, but her skin is fair and she has none of the expressionless facial immobility of a Vulcan.
+C: SULU
+D: Leaving Section Fourteen for Section Fifteen.
+C: SAAVIK
+D: Project parabolic course to avoid entering Neutral Zone.
+C: SULU
+D: Aye, Captain.
+C: UHURA
+D: Captain... I'm getting something on the distress channel. Minimal signal... But something...
+E: suddenly
+C: SAAVIK
+D: Can you amplify?
+C: UHURA
+D: I'm trying...
+C: SULU
+D: Course change projected.
+C: UHURA
+D: It's an emergency distress call!
+C: SAAVIK
+D: On speakers!
+C: VOICE
+D: Imperative! Imperative! This is the Kobayashi Maru -- nineteen periods out of Altair Six. We have struck a gravitic mine and have lost all power... Our hull is... ... and many casualties.
+E: filtered, breaking up breaks up, static
+C: UHURA
+D: This is the Starship Enterprise. Your message is breaking up. Give your coordinates. Repeat --
+C: VOICE
+D: Enterprise, our position is Gamma Hydra, Section Ten...
+C: SAAVIK
+D: In the neutral zone.
+C: VOICE
+D: Hull penetrated, life support systems failing. Can you assist us, Enterprise? Can you...
+N: Breaks up.
+C: SAAVIK
+D: Data on Kobayashi Maru! Tactical!
+N: Tactical on big screen.
+C: COMPUTER VOICE
+D: Subject vessel is third class neutronic fuel carrier, crew of eighty-one, three hundred passengers.
+C: SAAVIK
+D: Damn. Mr. Sulu, plot an intercept course.
+E: then
+C: SULU
+D: May I remind the Captain that if a Starship enters the zone --
+C: SAAVIK
+D: I'm aware of my responsibilities, Mister.
+C: SULU
+D: ... Now entering the Neutral Zone...
+E: with a nod
+S: INT. ENTERPRISE BRIDGE - ANOTHER ANGLE
+C: COMPUTER VOICE
+D: Warning. We have entered the Neutral Zone... Warning...
+C: SULU
+D: Estimating two minutes to intercept.
+N: On screen: Enterprise approaches the stricken vessel.
+C: SAAVIK
+D: Stand by transporter room, ready to beam survivors, aboard.
+C: UHURA
+D: Captain, I've lost their signal!
+C: COMPUTER VOICE
+D: Alert. Sensors indicate three Klingon Cruisers, bearing 316, mark 4, closing fast.
+C: SAAVIK
+D: Visual!
+N: On screen we see the approach of the Klingon vessels, they are dark and sinister.
+C: SAAVIK
+D: Battle stations! Activate shields!
+E: continuing
+N: The ALARM SOUNDS.
+C: SULU
+D: Shields activated!
+C: SAAVIK
+D: Inform the Klingons we are on a rescue mission...
+C: UHURA
+D: They're jamming all frequencies, Captain --
+C: COMPUTER VOICE
+D: Klingons on attack course and closing.
+N: Screen verifies this. Saavik makes an agonized choice.
+C: SAAVIK
+D: We're over our heads. Mr. Sulu, get us out of here.
+C: SULU
+D: I'll try, Captain.
+C: COMPUTER VOICE
+D: Klingon cruisers approaching, bearing 090, mark 20.
+C: SAAVIK
+D: Visual!
+N: The image flops: more Klingons approach. They FIRE photon torpedoes.
+C: SAAVIK
+D: Evasive action!
+E: continuing
+N: Sulu does his best, but Enterprise is hit; Sulu is hurled from his station, and Bones hurries to him.
+C: SAAVIK
+D: Engineering! damage report!
+E: continuing
+C: SCOTTY'S VOICE
+D: Main energizer hit, Captain!
+E: INTERCOM
+C: SAAVIK
+D: Engage auxiliary power. Prepare to return fire!
+N: The bridge takes another hit -- a big one. In its wake there is a second electrical EXPLOSION along the communi- cations panel. Uhura falls from her station. Bones rushes to her side amid the smoke and alarms.
+C: A CADET
+D: Shields collapsing, Captain!
+C: SCOTTY'S VOICE
+D: Captain, we're losing auxiliary power!
+E: FILTERED
+C: SAAVIK
+D: Fire all phasers...!
+C: SPOCK
+D: No power to the weapons system, sir.
+N: Another hit: reverberating flashes of spark and flame on the bridge. Spock dies. Bones comes to him, but even as he coughs his way through the smoke, a final hit and Bones falls. The room is smoke filled and a shambles. Saavik looks about in shock.
+C: SCOTTY'S VOICE
+D: Captain, it's no use. We're dead in space.
+E: FILTERED
+N: Saavik digests this for a painful moment. Then, touch- ing a comm button:
+C: SAAVIK
+D: Activate escape pods. Send out the Log Buoy... All hands abandon ship. Repeat -- all hands --
+C: KIRK'S VOICE
+D: All right, open her up.
+E: FILTERED
+N: There is a loud CLANGING and -- FULL SHOT - ENTERPRISE BRIDGE The side walls of the "bridge" slide apart, revealing a lighted room beyond. Through the opening strides KIRK. He stops, surveys the shambles, and shakes his head.
+C: SAAVIK
+D: Any suggestions, Admiral?
+C: KIRK
+D: Prayer, Mr. Saavik. The Klingons do not take prisoners. Captain.
+E: to Spock
+C: SPOCK
+D: Trainees to the briefing room.
+N: Sulu awakens with a grin. Uhura straightens herself demurely. The Trainees head toward the distant room, Spock rises and leaves. Bones remains on the floor, head propped in his hand, whimsically.
+C: KIRK
+D: Physician, heal thyself.
+C: BONES
+D: That's all you have to say?
+C: KIRK
+D: I'm not a drama critic.
+N: Bones rolls his eyes and rises. Kirk sees Saavik who has not moved.
+C: KIRK
+D: Well, Mr. Saavik, are you going to stay with the sinking ship?
+E: continuing
+C: SAAVIK
+D: Permission to speak candidly, sir?
+C: KIRK
+D: Very well.
+C: SAAVIK
+D: I don't believe this was a fair test of my command capabilities.
+E: fights emotion
+C: KIRK
+D: And why not?
+C: SAAVIK
+D: Because... there was no way to win.
+C: KIRK
+D: A no-win situation is a possibility every commander may face. Has that never occurred to you?
+C: SAAVIK
+D: ... No, sir. It has not.
+C: KIRK
+D: How we deal with death is at least as important as how we deal with life, wouldn't you say?
+C: SAAVIK
+D: As I indicated, Admiral, that thought had not occurred to me.
+E: falters
+C: KIRK
+D: Then you have something new to think about. Carry on.
+N: She stays at attention.
+C: BONES
+D: Wouldn't it be easier to put an experienced crew back on the ship?
+C: KIRK
+D: They'll learn. Galloping about the cosmos is a game for the young, doctor.
+N: He leaves. They look at each other.
+C: UHURA
+D: What is that supposed to mean?
+E: offended
+N: HOLD ON Saavik.
+S: INT. CORRIDOR OUTSIDE THE SIMULATOR ROOM - DAY
+N: Kirk rounds the corner and sees Spock, leaning against the wall.
+C: KIRK
+D: Aren't you dead?
+E: dry
+N: Spock almost smiles.
+C: KIRK
+D: I assume you are loitering here to learn what efficiency rating I plan to give your cadets.
+E: continuing
+C: SPOCK
+D: I am understandably curious.
+N: They walk together.
+C: KIRK
+D: They destroyed the simulator room and you with it.
+C: SPOCK
+D: The Kobayshi Maru scenario frequently wreaks havoc with students and equipment.
+E: dry
+N: As I recall you took the test three times yourself. Your final solution was, shall we say, unique?
+C: KIRK
+D: It had the virtue of never having been tried.
+E: solemn
+C: SPOCK
+D: Yours was not a solution which would have occurred to a Vulcan mentality.
+C: KIRK
+D: So you said at the time. Speaking of which, your prot‚g‚'s first rare -- a trifle emotional --
+C: SPOCK
+D: She's half Romulan, Jim. The admixture makes her more volatile than -- me, for example.
+C: KIRK
+D: Than you. Yes, I see that. By the way, thank you for this.
+N: He lifts the book.
+C: SPOCK
+D: I know of your fondness for antiques.
+C: KIRK
+D: 'It was the best of times, it was the worst of times...' Message, Spock?
+E: reads
+C: SPOCK
+D: None of which I am consciously aware -- except, of course, happy birthday -- surely the best of times.
+N: Kirk looks around uncomfortably, overlaps:
+C: KIRK
+D: Hrummm... and where are you off to, now?
+C: SPOCK
+D: The Enterprise. I must check in before your inspection. And you?
+C: KIRK
+D: Home.
+E: shortly
+N: Spock studies him --
+C: SPOCK
+D: Something oppresses you.
+N: They are old friends --
+C: KIRK
+D: Something.
+N: He steps into a turbo elevator. The doors close as Spock watches, wiping the scene.
+S: EXT. DEEP SPACE - NEAR CETI ALPHA V
+N: In f.g. is the U.S.S. RELIANT, an older, somewhat battered starship of the ENTERPRISE class, with a slightly different configuration. Reliant approaches an inhospitable-looking yellow planet: CETI ALPHA V
+C: CHEKOV'S VOICE
+D: Starship log, Stardate 8130.4. This report classified MOST SECRET. Log Entry by Commander Pavel Chekov, Duty Officer. Starship USS Reliant on orbital approach with Ceti Alpha VI in connection with project code name GENESIS. We are continuing our search for a lifeless planet which will serve as a suitable test site for the Genesis Experiments. This is the 16th planet we have visited, so far, no success.
+S: INT. BRIDGE OF RELIANT
+N: Well-aged and distinctive. The usual compliment of officers and crew. CAPTAIN CLARK TERRELL, about 45, soft spoken and in good shape, but somewhat laconic. Behind Terrell, surveying the data screen is COMMANDER CHEKOV, aged some, but still boyish.
+C: TERRELL
+D: Standard orbit, Mr. Beach.
+C: BEACH
+D: Standard orbit, sir.
+C: TERRELL
+D: Any change in surface scan?
+C: BEACH
+D: Negative. Limited atmosphere, dominated by craylon gas, sand and high velocity winds. Incapable of supporting life forms.
+N: Forward screen: Ceti Alpha.
+C: CHEKOV
+D: Does it have to be completely lifeless?
+N: Terrell rises and crosses to Chekov.
+C: TERRELL
+D: Don't tell me you've got something.
+C: CHEKOV
+D: We've picked up a minor energy flux reading on one dyno scanner.
+E: points
+C: TERRELL
+D: Damn! Are you sure? Maybe the scanner's out of adjustment --
+C: CHEKOV
+D: I suppose it could be a particle of preanimate matter caught in the matrix...
+C: TERRELL
+D: All right, let's get on the Comm-pic to Doctor Marcus. Maybe it's something we can transplant.
+C: CHEKOV
+D: You know what she'll say...
+S: EXT. DEEP SPACE - REGULA I SPACE STATION
+N: A functional cluster of modules serve as a scientific complex, a futuristic White Sands, orbiting a small barren plantoid in b.g.: Regula.
+C: CAROL MARCUS'S VOICE
+D: Something you can transplant? I don't know --
+E: FILTERED
+S: INT. SPACE STATION - CAROL'S LAB
+N: Big but deserted except for Carol, in contact with Reliant. Surrounded by equipment clearly meant for many workers, CAROL MARCUS is in her early forties, attractive and intelligent. Static mars the trans- missions. On the monitor: Terrell and Chekov, looking hopeful.
+C: TERRELL
+D: It might only be a particle of preanimate matter...
+C: CAROL
+D: Then again it might not. You boys have to be clear on this: there can't be so much as a microbe or the show's off. Why don't you have a look? If it IS something that can be moved...
+E: she thinks
+C: TERRELL
+D: You bet, doctor. We're on our way!
+E: eager
+N: Carol sighs as the image fades, not happy.
+S: INT. CORRIDOR, SPACE STATION REGULA I
+N: Carol walks through the labyrinthine complex with DAVID, her son, a bright young scientist of twenty. He is good looking and humorous.
+C: DAVID
+D: How can you let them pull that stuff on you? They're just lazy.
+C: CAROL
+D: And bored. I know. But maybe it IS something they can...
+C: DAVID
+D: Come on, Mother, that's just the military mentality. Never put off tomorrow what you can put off today. If there's one atom of life...
+C: CAROL
+D: I know, I know...
+N: Silence.
+C: DAVID
+D: Well, don't have kittens. Genesis is going to work. They'll remember you in a wreath with Newton, Einstein, Surak...
+C: CAROL
+D: Thanks a lot. No respect from my offspring --
+E: mock outrage
+C: DAVID
+D: Par for the course... you teaming up with me for bridge after dinner?
+C: CAROL
+D: Maybe...
+C: DAVID
+D: Every time we have dealings with Starfleet, I get nervous. We're dealing with something that COULD be perverted into a dreadful weapon. Remember that overgrown boy scout you used to hang out with? That's exactly the --
+E: shrugs
+N: They walk past the CAMERA, their VOICES FADING.
+C: CAROL
+D: Listen, kiddo, Jim Kirk was many things, but he was never a Boy Scout...
+N: HOLD ON the empty corridor.
+S: INT. KIRK'S APARTMENT, TERRA - NIGHT
+N: Kirk reads the novel, trying to focus. His flat befits an Admiral and a loner with few possessions, except a collection of antiques. WE HEAR A SOFT BONG. Startled, Kirk lowers the book and pushes a button.
+C: KIRK
+D: Come.
+N: The door slides open and Bones enters. He carries two packages, one of them wrapped in brown paper.
+C: KIRK
+D: Bless me, doctor; and what beams you into this neck of the woods?
+E: continuing
+C: BONES
+D: 'Beware Romulans bearing gifts.' Happy Birthday...
+N: With a flourish, he pulls out a bottle of blue liquid.
+C: KIRK
+D: Romulan Ale! Bones, you know this stuff is illegal --
+C: BONES
+D: I only use it for medicinal purposes. Don't be a pring...
+E: broad
+C: KIRK
+D: Twenty-two, eighty-three...
+E: reading the label with difficulty
+C: BONES
+D: Takes the stuff a while to ferment. Gimme.
+N: He takes the bottle and pours; continues talking.
+C: BONES
+D: Now open the other one.
+E: continuing
+N: Kirk starts to obey.
+C: KIRK
+D: I'm almost afraid to. What did you bring me, contraband Klingon --
+C: BONES
+D: More antiques for your collection -- Cheers!
+N: They drink. The package is opened: a pair of gold "Ben Franklin" half-glasses. (N.B.: Romulan Ale is an INSTANT DRUNK: both men react.)
+C: KIRK
+D: Cheers. Bones, these are... charming.
+C: BONES
+D: Four hundred years old. You don't find many with the lens still intact.
+C: KIRK
+D: Uh -- what are they?
+C: BONES
+D: For your eyes. For most patients of your age, I generally administer Retlax Five to restore flexibility of the lens.
+C: KIRK
+D: But I'm allergic to Retlax.
+C: BONES
+D: Exactly. Happy birthday.
+N: He toasts. Kirk is unsure how they work.
+C: BONES
+D: Slide them down your nose. Now look at me over the top. And you read printed matter through the bottom.
+E: continuing
+C: KIRK
+D: Amazing! I don't know what to say --
+E: reacts
+C: BONES
+D: Say thank you.
+C: KIRK
+D: Thank you.
+N: An awkward silence.
+C: BONES
+D: Damn it, Jim, what the hell's the matter? Other people have birthdays. Why're we treating yours like a funeral?
+C: KIRK
+D: Bones, I don't want to be lectured.
+C: BONES
+D: What DO you want? Damn it, why isn't there a girl here? You know this has nothing to do with age. This is about you flying a goddamn computer console when you wanna be out hopping Galaxies.
+C: KIRK
+D: Spare me your notions of poetry, please. We all have our assigned duties and...
+C: BONES
+D: Bull. You're hiding -- hiding behind the rules and regulations --
+C: KIRK
+D: And who am I hiding from?
+C: BONES
+D: From yourself, Admiral.
+N: Pause. Kirk pours another drink.
+C: KIRK
+D: Don't mince words, Bones; tell me what you really think.
+C: BONES
+D: I'm your doctor and I'm your friend, Jim. Get back your command. Get it back before you really do grow old. Before you turn into part of this collection.
+E: mild take
+N: They look at each other.
+S: EXT. RELIANT - DEEP SPACE
+N: orbiting Ceti Alpha V. VOICES OVER indicate the transporter room is ready.
+S: EXT. SURFACE CETI ALPHA V
+N: A YELLOW PLANET, in constant SWIRLING HURRICANE WINDS OF SAND. Terrell and Chekov materialize. Their VOICES, filtered, are hard to make out. With the TRICORDER to guide them, they set out...
+C: TERRELL
+D: Are you sure these are the coordinates?
+C: CHEKOV
+D: Captain, this is the garden spot of Ceti Alpha VI --
+C: TERRELL
+D: I can hardly see --
+N: SEVERAL ANGLES The difficult search, the men leaning into the wind -- TERRELL is ahead of Chekov on a slight rise --
+C: CHEKOV
+D: There's nothing, let's go --
+N: ANGLE Terrell waves him frantically forward. As Chekov moves up, we rise with him to the top of the ridge and look down. ANGLE - THEIR POV A RUINED SERIES OF MAN-MADE STRUCTURES, half buried in sand. They look at each other in consternation. Chekov is worried; something about all this is familiar. They descend towards the structures, now seen to be the wreckage of some sort of space craft. They pass but do not notice the FEDERATION LOGO, half buried next to their feet.
+C: TERRELL
+D: They look like cargo carriers...
+N: As Chekov looks at the porthole, a face suddenly looks back! It is the face of a CHILD! The Apparition scares the daylights out of Chekov -- and us. He screams.
+C: TERRELL
+D: What is it?
+E: continuing
+N: He comes clumsily over --
+C: CHEKOV
+D: A face! I saw -- it was like a child --
+N: He points. The porthole is empty.
+C: TERRELL
+D: You're crazy -- !
+C: CHEKOV
+D: I saw it -- !
+C: TERRELL
+D: There's an air-lock.
+N: He points and they go into the airlock.
+S: INT. CARGO HOLD
+N: Terrell and Chekov enter, dumbfounded. THEIR POV. Someone lives here -- there are beds, food, all jury- rigged -- but no people. Terrell checks a monitor.
+C: TERRELL
+D: There's breathable atmosphere in here.
+N: He takes off his helmet; Chekov likewise.
+C: TERRELL
+D: What the hell is this? Did they crash? Where's the rest of the ship?
+E: continuing
+N: They wander as they talk, picking up objects that be- speak a fairly sophisticated ad hoc environment: a laboratory in one hold; a kitchen; A LARGE SAND TANK filled with disgusting CETI EELS. ABRUPTLY A SOUND -- They start: CHILD'S GURGLE.
+C: CHEKOV
+D: I told you! I told you I saw a --
+E: terrified
+C: TERRELL
+D: Ssssh!
+N: They start looking. They enter a new chamber -- KHAN'S QUARTERS On its side in the sand: the walls are now the floor, etc. All in crookedness -- like its owner. On the floor, smiling at them (i.e., the wall) is a BABY. Tentatively they come over to it, looking around -- ANGLE - CHEKOV'S POV Lethal-looking odd swords on one wall, a bookshelf; CAMERA PANS by 20th Century volumes; MOBY DICK, KING LEAR, THE HOLY BIBLE -- and a seat belt dangling with the name on it -- Botany Bay. Chekov mouths the words, softly at first, then aloud --
+C: CHEKOV
+D: Botany Bay -- oh no!
+C: TERRELL
+D: What's the matter -- ?
+E: examines the child
+N: Chekov runs, tries to get his helmet on, tries to drag Terrell --
+C: CHEKOV
+D: Captain, we've got to get out of here -- now! Damn! Hurry!
+N: Terrell catches his urgency --
+C: TERRELL
+D: But the child --
+C: CHEKOV
+D: Never mind! Hurry!
+S: EXT. CARGO HOLD AIRBAY
+N: Terrell and Chekov emerge, helmeted, then stop dead. ANGLE - THEIR POV A RING OF SUITED FIGURES has them surrounded.
+S: INT. RELIANT - THE BRIDGE
+N: Mr. Beach, the duty officer, stands looking at Ceti Alpha V on the forward screen.
+C: BEACH
+D: Try again.
+C: KYLE
+D: Starship Reliant to Captain Terrell ... This is Lieutenant Kyle. Will you please respond, Captain...
+N: Captain Terrell, respond please. Nothing.
+C: BEACH
+D: Let's give them a little more time.
+E: thinks
+S: INT. CARGO HOLD - CETI ALPHA V
+N: Terrell and Chekov are held by FOUR STRONG MEN. They seem to be waiting. One of the men is JOACHIM. Out of the airlock steps a tall masked figure. A moment of suspense as Terrell and Chekov watch, terri- fied. The mask is peeled back.
+C: CHEKOV
+D: Khan!
+E: aloud despite himself
+N: KHAN is startled by the recognition; comes over and examines Chekov and Terrell.
+C: KHAN
+D: I don't know you. But you. I never forget a face. Mister Chekov, isn't it? I never thought to see your face again.
+E: finally wonderingly
+C: TERRELL
+D: Chekov, who is this man?
+C: CHEKOV
+D: A criminal, Captain -- a product of the late 20th Century genetic engineering --
+C: TERRELL
+D: What do you want with us? I demand --
+C: KHAN
+D: You are in a position to demand
+E: mild
+N: nothing, sir. I, on the other hand, am in a position to grant nothing. What you see is all that remains of the ship's company and the crew of the Botany Bay, marooned here fifteen years ago by Captain James T. Kirk.
+C: TERRELL
+D: Listen to me -- you men and women --
+C: KHAN
+D: Save your strength, Captain, these people have sworn to live and die at my command two hundred years before you were born. Do you mean he... ... never told you the tale? To amuse you, Captain? Never told you how the Enterprise picked up the Botany Bay, lost in space from the year 1996, myself and the ship's company in cryogenic freeze?
+E: i.e. Chekov
+C: TERRELL
+D: I've never even met Admiral Kirk --
+C: KHAN
+D: Admiral? He didn't tell you how Admiral Kirk sent seventy of us into exile on this barren sand heap with only the contents of these cargo bays to sustain us?
+C: CHEKOV
+D: You lie! On Ceti Alpha V there was life, a fair chance to --
+C: KHAN
+D: This is Ceti Alpha V! Ceti Alpha VI exploded six months after we were left here. The shock shifted the orbit of this planet and everything was laid waste. Admiral Kirk never bothered to check on our progress. It was only the fact of my genetically engineered intellect that enabled us to survive! On earth, two hundred years ago, I was a prince, with power over millions -- now, like Prometheus
+N: I have been left by Admiral Kirk to digest my own entrails.
+C: CHEKOV
+D: Captain Kirk was your host! You repaid his hospitality by trying to steal his ship and murder him.
+C: KHAN
+D: And I'll wager he never told you about his shipmate, the beautiful and courageous Lieutenant McGiver, who gave up everything to join me in exile. OUT OF LOVE. And see how Admiral Kirk requited her devotion -- She's dead as earth!
+E: moves closer
+N: The wind howls in the silence. When Khan turns, his eyes are filled with tears.
+C: KHAN
+D: A plague upon you all.
+E: continuing
+N: He recovers his poise and returns to them --
+C: KHAN
+D: You didn't expect to find me. You thought this was Ceti Alpha VI. Why are you here?
+E: continuing
+N: They don't answer. Khan goes over to Terrell and, WITH ONE HAND, LIFTS HIM INTO THE AIR --
+C: KHAN
+D: Why?
+E: continuing
+N: Terrell gasps, stays silent --
+C: KHAN
+D: No matter.
+E: continuing
+N: He lets go; Terrell falls with a thud -- KHAN (continuing) You will soon tell me willingly enough. He goes over to the tank and dips a kind of strainer in, pulling out TWO CETI EELS -- wriggling items --
+C: KHAN
+D: Let me introduce you to Ceti Alpha V's only remaining indigenous life form; what do you think? They've killed twenty of my people, including my beloved wife. Oh, not all at once and not instantly, to be sure. Their young enter through the ears and wrap themselves around the cerebral cortex. This has the effect of rendering the victim extremely susceptible to suggestion. Later, as they grow, follows madness, paralysis -- and death. These are pets, of course -- not quite domesticated.
+E: continuing
+N: As he speaks, Khan dumps an eel in each of their helmets; he swirls the helmets around as though he were mixing martinis --
+C: CHEKOV
+D: Khan, listen to me! Captain Kirk was only doing his duty! You --
+N: CLOSE UP - KHAN - CAMERA IN
+C: KHAN
+D: There is some pain at first, I am told, and then the effects are quite benign -- until the end. That was what I learned from watching my wife.
+N: At a sign, the helmets are slammed down. As the muffled shrieks are heard from within, the eels crawl across the faces of Chekov and Terrell; with unerring in- stincts they head for the ears of the two hapless men. There is some atrocious pain as they enter -- then dazed calm.
+C: KHAN
+E: continuing
+N: That's better! Now: tell me why you are here -- and tell me where I may find James Kirk.
+S: INT. RELIANT BRIDGE
+C: KYLE
+D: Captain Terrell. Captain Terrell... This is Reliant; please respond.
+N: No answer -- Beach makes up his mind --
+C: BEACH
+D: Mr. Kyle, muster a landing party with full arms. Alert the transporter room. We're beaming down.
+N: He heads for the door but is stopped by:
+C: TERRELL'S VOICE
+D: Reliant, this is Terrell. Respond please.
+E: filtered
+C: BEACH
+D: This is Reliant. Clark, are you all right?
+N: Fractional pause.
+C: TERRELL'S VOICE
+D: Everything's fine, commander. I'll explain when I see you. Oh, by the way, we're bringing several guests aboard. Prepare to beam up on my next signal. Terrell out.
+E: filtered
+N: Beach and Kyle look at each other.
+C: KYLE
+D: Guests?
+C: BEACH
+D: Maybe we ARE transplanting something.
+S: EXT. ORBITING SPACE DOCK AREA - TERRA (FEATURE STOCK)
+N: A SPACE SHUTTLE moving toward us.
+S: INT. SPACE SHUTTLE
+N: A new composite. Bones, Sulu, Uhura and Kirk -- who sits, reading. Through the windows we can see the approach to the starship ENTERPRISE. Kirk looks up, nods. Sulu activates a comm button.
+C: SULU
+D: Enterprise, this is Admiral Kirk's party on final approach.
+C: ENTERPRISE VOICE
+D: Enterprise welcomes you. Prepare for docking.
+E: filtered
+N: Kirk looks up from his book as Sulu sits next to him.
+C: KIRK
+D: I really must thank you.
+C: SULU
+D: I am delighted; any chance to go aboard Enterprise, however briefly, is always an excuse for nostalgia.
+E: embarrassed
+C: KIRK
+D: I cut your new orders personally. By the end of the month, you'll have your first command: USS EXCELSIOR.
+C: SULU
+D: Thank you, sir. I've looked forward to this for a long time.
+C: KIRK
+D: You've earned it. But I'm still grateful to have you at the helm for three weeks. I don't believe these kids can steer.
+N: Sulu laughs.
+S: EXT. SPOCE DOCK - TERRA (FEATURE STOCK)
+N: The shuttle approaches the mammoth airstrip. As we near the ship, a few WORK CREWS IN SPACE flit about her hull, working.
+S: EXT. ENTERPRISE (FEATURE STOCK)
+N: The shuttle makes its way to the Docking Lock of the mother ship and settles in place.
+S: INT. ENTERPRISE DOCKING BAY
+N: A reception group awaits, led by Captain Spock. Saavik stands at his side, in company of the Trainee crew. Also present: CHIEF ENGINEER MR. SCOTT and members of his staff in their distinctive uniforms.
+C: INTERCOM VOICE
+D: Docking procedure complete.
+C: SPOCK
+D: Prepare for Admiral's inspection.
+N: The group comes to attention.
+C: SPOCK
+D: Open the Air Lock.
+E: continuing
+N: The doors open. Kirk and his staff are piped aboard by an electronic version of the boatswain's tradi- tional whistle. Kirk salutes the Federation symbol and steps forward to exchange salutes with Spock.
+C: KIRK
+D: Permission to come aboard, Captain?
+C: SPOCK
+D: Welcome aboard, Admiral. I believe you know my trainee crew. Certainly they have come to know you.
+C: KIRK
+D: Yes, we've been through death and life together.
+E: dryly to Saavik
+N: Saavik stiffens slightly -- humor is not her forte.
+C: KIRK
+E: continuing to Scotty
+N: Mr. Scott, you old space dog. You're well?
+C: SCOTTY
+D: I had me a wee bout -- but Dr. McCoy pulled me through.
+C: KIRK
+D: Oh? A wee bout of what, Mr. Scott?
+N: Uncomfortable, Scotty exchanges a glance with Bones --
+C: BONES
+D: Shore leave, Admiral.
+C: KIRK
+D: Ah.
+N: He stops before a BRIGHT-FACED FOURTEEN-YEAR OLD, stand- ing so stiff he looks like he'll break -- in an engineer's uniform.
+C: KIRK
+D: And who is this?
+E: continuing
+C: PRESTON
+D: Midshipman First Class Peter Preston, engineers mate, SIR.
+E: breathless
+N: A big salute. Kirk is amused, returns the salute.
+C: KIRK
+D: Your first training voyage, Mr. Preston?
+C: PRESTON
+D: Yes, SIR.
+C: KIRK
+D: I see. Well, shall we start with the engine room?
+N: He moves, followed by his staff.
+C: SCOTTY
+D: I believe you'll find all in order --
+E: eyeing his prot‚g‚
+C: SPOCK
+D: We'll see you on the bridge, Admiral.
+C: KIRK
+D: Very good, Mr. Spock.
+N: Kirk and party leave. CAMERA PUSHES IN ON SPOCK AND SAAVIK.
+C: SAAVIK
+D: He's not what I expected, Sir.
+C: SPOCK
+D: What did you expect, Lieutenant?
+C: SAAVIK
+D: He's very human.
+E: uncertain
+C: SPOCK
+D: We can't all be perfect, Saavik. You must control your prejudices and remember that as a Vulcan as well as a Romulan you are forever a stranger in an alien land. Around you are humans, and as a member of the Starfleet you are unlikely ever to escape their presence or their influence. You must learn to tolerance in addition to all else I have taught you. Tolerance is logical.
+N: Saavik is humbled.
+C: SAAVIK
+D: As always, my mentor. Company dismiss.
+S: INT. ENTERPRISE ENGINE ROOM - LOOKING DOWN
+N: The inspection party dwarfed by the size. Silence as Kirk looks around, runs a finger for dust, etc. Scotty, his team and Preston, stand at attention. ANGLE - FLOOR OF ENGINE ROOM FEATURING power room separated by glass from the rest of the facilities. Bones, Sulu, Uhura, and some train- ees watch as Kirk inspects one console, clearly the responsibility of the bursting Midshipman Preston.
+C: PRESTON
+D: I believe you'll find everything shipshape, Admiral.
+E: blurting
+C: KIRK
+D: Oh do you? Have you any idea, Midshipman Preston, how many times I've had to listen to Mr. Scott on the Comm, telling me his troubles? Have you any idea the ribbing I've had to endure in the officers' mess to the effect that the Enterprise is a flying death trap?
+E: sternly puts him on
+C: PRESTON
+D: Oh, no, sir! This is the finest engine room in the whole Star --
+E: scandalized
+N: The repressed grins of the others, and a smile on Scotty's face tell Preston he's being had. He stops, confused.
+C: PRESTON
+D: If the Admiral can't see the facts for himself, then, with all due respect, he's as blind as a Tiberion bat. SIR.
+E: continuing
+N: Approving laughter. Kirk looks amused.
+C: KIRK
+D: Midshipman, you're a tiger.
+C: SCOTTY
+D: My sister's youngest, Admiral. Crazy to get to space.
+C: KIRK
+D: Every young boy's fancy. I seem to remember it myself. Very well. Mr. Scott, are your
+E: brisk
+N: engines capable of handling a minor training cruise?
+C: SCOTTY
+D: Give the word, Admiral.
+C: KIRK
+D: Mr. Scott, the word is given.
+C: SCOTTY
+D: Aye, sir.
+N: He moves off, followed by Preston, who gives one last salute as Kirk leaves, followed by Bones.
+C: BONES
+D: What about the rest of the inspection, Admiral?
+E: dry
+C: KIRK
+D: The inspection will continue once we're underway, Doctor.
+N: They step into the Turbo Lifts.
+S: INT. ENTERPRISE BRIDGE
+N: The real one, no doubt! CAMERA REVEALS the maze detail: winking and blinking displays, all HANDS at station, a hum of activity, Uhura and Sulu in familiar chairs, Spock is in the Captain's chair, Saavik in the First Officer's position. Kirk and Bones stand towards the rear.
+C: INTERCOM VOICE
+D: This is Starfleet operations. Enterprise is cleared for departure.
+C: SULU
+D: Admiral on the bridge!
+C: SPOCK
+D: Very well, Mr. Saavik, clear all moorings.
+C: SAAVIK
+D: Aye, sir.
+N: Saavik punches data into her console.
+S: EXT. SPACE DOCK AND ENTERPRISE (FEATURE STOCK)
+N: The dock slowly folds away from the ship.
+S: INT. BRIDGE, ENTERPRISE
+N: Saavik watches instruments, punches data in response.
+C: SAAVIK
+D: All moorings are clear, Captain.
+C: SPOCK
+D: Thank you, Mr. Saavik.
+N: Spock casts a glance at Kirk, then, to Saavik:
+C: SPOCK
+D: Lieutenant, how many times have you piloted a Starship out of Spacedock?
+E: continuing
+C: SAAVIK
+D: Never, sir.
+N: Kirk tries to conceal his reaction. Spock enjoys it.
+C: SPOCK
+D: Take her out, Mr. Saavik.
+C: SAAVIK
+D: Aye, sir.
+N: Saavik settles herself in the chair, looks again at the console -- Spock looks at Kirk.
+C: SPOCK
+D: There's a first time for everything, Admiral.
+C: KIRK
+D: To be sure, Captain.
+E: casual
+N: They all stifle their responses. Kirk is like a father watching his kid drive the family car for the first time. SAAVIK Aft thrusters, Mr. Sulu.
+C: SULU
+D: Aft thrusters, sir.
+S: EXT. ENTERPRISE (FEATURE STOCK)
+N: as the ship slowly and majestically leaves the dock.
+S: INT. ENTERPRISE BRIDGE
+N: Activity hums.
+C: SAAVIK
+D: Ahead one quarter impulse power.
+N: Kirk starts to say something, but doesn't. Bones looks at him.
+C: BONES
+D: Would you like a tranquilizer?
+E: sotto voice
+N: Kirk shakes his head, takes a breath --
+C: SULU
+D: Ahead one quarter impulse power.
+S: EXT. SPACE DOCK ENTERPRISE (FEATURE STOCK)
+N: The ship clears the dock and begins heading into space.
+S: INT. ENTERPRISE BRIDGE
+N: Kirk quietly lets his breath out.
+C: SULU
+D: We are clear and free to navigate.
+C: SAAVIK
+D: Course heading, Captain?
+N: Spock turns inquiringly to Kirk.
+C: KIRK
+D: Captain's discretion.
+N: Spock digests this with a slight smile.
+C: SPOCK
+D: Mr. Sulu, you may follow your nose.
+S: EXT. THE ENTERPRISE (STOCK FROM FEATURE)
+N: She gathers speed into the vastness of space.
+S: EXT. SPACE, FEATURING THE RELIANT
+N: moving towards us, in opposition to the previous shot, close enough for us to read her markings.
+S: INT. RELIANT BRIDGE
+N: Khan occupies the Captain's chair. We PULL BACK: the crew of the RELIANT has been replaced by Khan's fol- lowers in their odd-looking clothes. At the helm is Joachim, Khan's lieutenant. He is in the largest and brightest of Khan's group. Terrell sits in the First Officer's chair, Chekov at the Comm Console. Their behavior is normal, save for subtle hesitation, symptoms of their mind-controlled state.
+C: JOACHIM
+D: Steady on course. All systems normal.
+C: KHAN
+D: It's not much different from Enterprise. When I was a guest aboard her some years ago, Captain Kirk kindly allowed me to memorize her technical manuals. And now, Mr. Chekov, let us review: You say you have no details of Project 'Genesis' ?
+E: beat
+C: CHEKOV
+D: Beyond what I told you, sir, it is classified information.
+C: KHAN
+D: Umm. And would Admiral Kirk have access to such information?
+N: CHEKOV I would think so, sir. He's on the Fleet General Staff.
+C: KHAN
+D: Then to whom do you report directly regarding Genesis?
+C: CHEKOV
+D: To Doctor Marcus, the civilian director of the experiments on Space Laboratory Regula I.
+C: KHAN
+D: I see. Helmsman?
+E: thinks
+C: HELMSMAN
+D: Aye, sir.
+C: JOACHIM
+D: May I speak? We're all with you, sir, but consider: we are free, we have a ship and the means to go where we will. We have escaped permanent exile on Ceti Alpha V. You have proved your superior intellect and defeated the plans of Admiral Kirk. You do not need to defeat him again.
+C: KHAN
+D: He tasks me -- and I'll have him. I'll chase him round the moons of Nibia and round the Antares maelstrom and round perdition's flames before I give him up. Prepare to alter course -- for Space Station Regula I.
+E: as no one speaks
+S: EXT. SPACE - SPACE STAION REGULA I INT. CAROL'S LAB
+N: Huge and busy. Among the scientists going about their tasks are JEDDA, a Deltan; MARCH, thin intense; MADISON, black, easy going. They are all young and earnest. Carol and David huddle over a computer console.
+C: DAVID
+D: Does that about do it?
+C: CAROL
+D: I don't think there's another piece of information we could squeeze into the memory banks. Next time, we'll design a bigger one.
+C: DAVID
+D: Who --
+N: Jedda at the Comm Console overlaps.
+C: JEDDA
+D: Comm-Pic coming in on hyperchannel ... It's Reliant.
+N: Carol moves forward as the others close in.
+C: CAROL
+D: On the screen, please, Jedda.
+N: Buttons punched; the screen ebbs, flows and crackles on. ON SCREEN is CHEKOV.
+C: CHEKOV
+D: ... come in, please. This is Reliant calling Regula I. Repeat. This is USS Reliant --
+C: CAROL
+D: Commander, we are receiving. This is Regula I. Go ahead.
+C: CHEKOV
+D: Dr. Marcus... good. We're en route to you and should be there in three days.
+C: CAROL
+D: En route? Why? We weren't expecting you for another three months. Has something happened? Has something happened? Do you read
+E: pause
+N: us?
+C: CHEKOV
+D: All went well. Nothing has happened. Ceti Alpha VI has checked out.
+E: fractional pause
+N: Pleased reaction from the scientists.
+C: CAROL
+D: I still don't under --
+C: CHEKOV
+D: We have received new orders. Upon our arrival at Regula I, all materials of Project Genesis will be transferred to this ship for immediate testing at Ceti Alpha VI.
+N: Consternation in the lab. David is livid -- the words "Bullshit" are overlapped by his mother.
+C: CAROL
+D: Will you please be quiet! Commander Chekov, this is completely irregular. Who gave the order you are quoting? Who gave the order?
+E: back to console
+C: CHEKOV
+D: The order comes from Starfleet command, Dr. Marcus, direct from the General Staff.
+E: still smiling
+C: CAROL
+D: But Genesis is a civilian project, under my control --
+C: CHEKOV
+D: I have my orders.
+C: DAVID
+D: Pin him down, mother! Who gave the orders!?
+N: Chekov hesitates, seems to be listening to someone off the monitor.
+C: CHEKOV
+D: The orders come from Admiral James T. Kirk.
+N: Sensation in the lab.
+C: DAVID
+D: I knew it! I knew it! All along the military has wanted to get their hands on this --
+N: He starts to press a button; Carol pushes his hand away and communicates herself.
+C: CAROL
+D: This is completely improper, Commander Chekov. I have no intention of allowing Reliant or any other unauthorized personnel access to our work or materials.
+C: CHEKOV
+D: I'm sorry you feel that way, Doctor. Admiral Kirk's orders are confirmed. Please prepare to deliver Genesis to us upon our arrival. Reliant out.
+E: pauses; listens
+T: The image fades.
+C: CAROL
+D: Commander Chekov -- !
+S: INT. BRIDGE OF RELIANT
+N: Chekov, in a matched cut, turns away as CAMERA WIDENS TO REVEAL KHAN by his side. He is charming.
+C: KHAN
+D: Well done, Commander.
+C: CHEKOV
+D: You realize, sir, that they will attempt to contact Admiral Kirk and confirm the order.
+N: Khan smiles, more charming than ever as we move in.
+S: INT. REGULA I LAB
+N: Everyone is talking at once.
+C: CAROL
+D: Will you please be quiet! We must have order here. This has to be some sort of mistake.
+E: as they subside
+C: DAVID
+D: Mistake? We're all alone here. They waited until everyone was on shift-leave to do this. Reliant is supposed to be at our disposal, not vice-versa.
+C: MADISON
+D: It seems clear that Starfleet never intended that --
+C: CAROL
+D: I know, but --
+C: DAVID
+D: I've tried to warn you. Scientists are always pawns of the military --
+C: CAROL
+D: Starfleet has kept the peace for a hundred years, I cannot and will not subscribe to your interpretation of this event.
+E: angry
+N: Silence.
+C: JEDDA
+D: You may be right, Doctor, but what about Reliant? She's on her way.
+E: Deltan cool
+N: Carol reacts: this is certainly true.
+C: CAROL
+D: Get your gear together where it's handy.
+C: MARCH
+D: Where are we going?
+C: CAROL
+D: That's for us to know and Reliant to find out. We have only three days. Let's not waste time.
+N: They split off in different directions as ordered.
+S: EXT. SPACE - ENTERPRISE (FEATURE STOCK)
+N: In no particular hurry.
+S: INT. ENTERPRISE CORRIDOR
+N: Kirk waits for the Turbo Lift, which opens at last. As he gets in --
+C: SAAVIK'S VOICE
+D: Hold please -- !
+N: Kirk holds and Saavik dashes in. She is surprised to see him.
+C: SAAVIK
+D: Thank you, sir.
+E: continuing
+N: Kirk nods, the doors close. There is an uneasy forced intimacy between them.
+C: KIRK
+D: Lieutenant, are you wearing your hair differently?
+C: SAAVIK
+D: It is still regulation, Admiral.
+N: She reaches out and touches a button. The lift stops.
+C: SAAVIK
+D: May I speak, sir?
+E: continuing
+C: KIRK
+D: Lieutenant, self-expression does not seem to be one of your problems.
+C: SAAVIK
+D: I wish to thank you for the high efficiency rating.
+C: KIRK
+D: You earned it.
+C: SAAVIK
+D: I did not think so.
+C: KIRK
+D: You're bothered by your performance on the Kobayashi Maru.
+C: SAAVIK
+D: I failed to resolve the situation.
+C: KIRK
+D: There is no correct resolution. It is a test of character.
+C: SAAVIK
+D: May I ask how you dealt with the test?
+C: KIRK
+D: You may ask, Lieutenant.
+E: amused
+N: She stares.
+C: KIRK
+D: That was a little joke.
+E: continuing
+C: SAAVIK
+D: Humor... that is a difficult concept ... it is not logical...
+C: KIRK
+D: We learn by doing, Lieutenant.
+N: She's a laugh a minute. Kirk pushes the button; the elevator starts.
+C: KIRK
+D: You want my advice?
+E: continuing
+N: She studies him, considering. No doubt about it, the attraction is mutual and she has no idea how to handle it.
+C: SAAVIK
+D: Yes.
+C: KIRK
+D: Take the test again.
+N: The lift stops and the doors open.
+C: BONES
+D: Who's been holding up the damn elevator?
+N: He reacts to them. Saavik exits demurely.
+C: SAAVIK
+D: Thank you, sir.
+N: Bones enters and the doors close. Kirk studies the ceiling.
+C: BONES
+D: Has she changed her hairstyle?
+N: Kirk says nothing.
+C: BONES
+D: Wonderful stuff, that Romulan ale --
+E: finally
+C: UHURA'S VOICE
+D: Admiral Kirk --
+C: KIRK
+D: Kirk here.
+C: UHURA'S VOICE
+D: I have an urgent CommPic from Space Lab Regula I for the Admiral. Dr. Carol Marcus.
+C: KIRK
+D: In my quarters, Uhura.
+N: UHURA'S VOICE Yes, sir. Awkward silence.
+C: BONES
+D: It never rains but when it pours --
+C: KIRK
+D: As a physician you of all people should appreciate the danger of re-opening old wounds.
+N: The elevator stops. Kirk leaves. The doors close.
+C: BONES
+D: Sorry.
+E: annoyed with himself
+S: INT. KIRK'S QUARTERS
+N: Featuring VIEW SCREEN: A scramble of interference and noise. A piece of Carol's VOICE breaks through now and again as we PULL BACK revealing a frustrated Kirk.
+C: KIRK
+D: Uhura. Can't you augment?
+C: UHURA
+D: I'm trying, sir. Stand by...
+N: Carol's face appears. The image will never be stable for long; sometimes the sound will be covered.
+C: CAROL
+D: Jim... read me? Can you read me?
+C: KIRK
+D: Message breaking up, Carol. What's wrong? What's wrong?
+C: CAROL
+D: ... Can't read you... repeat...
+C: KIRK
+D: Repeat... what's wrong? What's wrong?
+N: CAROL ... taking Genesis away from us...
+C: KIRK
+D: Taking Genesis? Who? Who is taking Genesis?
+C: CAROL
+D: ... see you but can't hear. Did you... order...?
+C: KIRK
+D: What order? Who's taking Genesis?
+C: CAROL
+D: ... Please help us, Jim... won't let them have... without proper... repeat... on whose authority...
+C: KIRK
+D: Carol!
+C: CAROL
+D: Jim please --
+N: But the picture is irrevocably scrambled now. Kirk pounds the Comm in frustration.
+C: KIRK
+D: Uhura! What's happening? Damn it...
+C: UHURA'S VOICE
+D: Transmission jammed at the source, sir.
+C: KIRK
+D: Damn. Alert Starfleet Headquarters. I want to talk with Starfleet Command.
+S: EXT. ENTERPRISE (FEATURE STOCK)
+N: cruising.
+S: INT. ENTERPRISE BRIDGE
+N: The activity is normal. The Turbo-Lift opens and Kirk strides in. Bones and Saavik react to the following:
+C: KIRK
+D: Stop engines.
+C: SULU
+D: Stop engines.
+N: They look wonderingly. Kirk takes a breath --
+C: KIRK
+D: An emergency situation has arisen. By order of Starfleet Command, as of now, 1800 hours, I am assuming command of this vessel. Duty officer so note in the ship's log. Plot a new course: for Space Laboratory Regula I. Mr. Scott?
+E: pushes a button
+C: SCOTTY'S VOICE
+D: Aye, sir.
+C: KIRK
+D: We'll be going to warp speed --
+C: SCOTTY'S VOICE
+D: Aye, sir --
+C: SULU
+D: Course plotted for Regula I, Admiral...
+E: overlapping
+C: KIRK
+D: Engage warp engines --
+C: SAAVIK
+D: Prepare for warp speed.
+E: comes out of being stunned
+C: SULU
+D: Ready, sir.
+C: KIRK
+D: Mr. Sulu, go to Warp 5.
+N: Sulu does, and with a great thrust of energy --
+S: EXT. SPACE - ENTERPRISE (FEATURE STOCK)
+N: The ship accelerates, and then, with an eye-filled burst, whips ahead to warp speed, disappearing.
+S: 57A INT. SPOCK'S QUARTERS 57A
+N: Spock is at meditation as Kirk enters quietly. Spock looks up.
+C: KIRK
+D: We've got a problem.
+N: Spock raises an eyebrow --
+C: KIRK
+D: Something may be wrong at Regula I. We've been ordered to investigate.
+E: continuing
+C: SPOCK
+D: Regula I is a scientific research laboratory, if memory serves...
+C: KIRK
+D: I told Starfleet all we had was a boatload of children but we're the only ship in the quadrant. Spock: those cadets of yours -- how good are they? How will they respond under real pressure?
+C: SPOCK
+D: Like all living beings, Admiral each according to his gifts. The ship is yours.
+C: KIRK
+D: That won't be necessary: just take me to Regula I.
+C: SPOCK
+D: Excuse my presumption, but I do not agree. As a teacher on a training mission, I am content to command a Starship. If we are to go on actual duty, it is clear that the senior officer aboard must assume command.
+C: KIRK
+D: But it may be nothing; garbled communications. Why don't you...
+C: SPOCK
+D: You proceed from a false assumption. I am a Vulcan. I have no ego to bruise.
+N: Kirk smiles in bemused wonderment.
+C: KIRK
+D: You are going to remind me that logic alone dictates your actions.
+C: SPOCK
+D: I was going to remind you of nothing, least of all that which you know well. Your mistake, if I may be so bold, was promotion. Commanding a Starship is your first best destiny. Anything else is a waste of material.
+E: pause
+C: KIRK
+D: I would not presume to debate you.
+C: SPOCK
+D: That is wise. In any case, were I to invoke logic, logic clearly dictates that the needs of the many outweigh the needs of the few.
+C: KIRK
+D: Or the one.
+N: Spock inclines his head.
+C: SPOCK
+D: You are my superior officer. You are also my friend. I have been and always shall be yours.
+N: Kirk is moved. He starts to speak, can't -- finally:
+C: KIRK
+D: Will you accompany me to the bridge?
+N: SPOCK I'd best talk with Mr. Scott, first so that he may, in his own words, explain the situation to his cadets. Kirk's face tells us the wisdom of Spock's choice.
+S: EXT. SPACE STATION REGULA I
+N: Floating quietly around the planet below. Tranquil as we PUSH SLOWLY IN. OVER we can hear, FILTERED, UHURA'S VOICE:
+C: UHURA'S VOICE
+D: Regula I, this is Enterprise. This is Enterprise calling. Do you receive... I say...
+S: INT. ENTERPRISE BRIDGE
+N: Featuring Spock and Uhura, as she keeps trying --
+C: UHURA
+D: ... Again, this is Enterprise calling Space Lab Regula I. Come in, please. Dr. Marcus. Please respond, please -- it's no use; no response from Regula I.
+C: SPOCK
+D: But no longer jammed?
+C: UHURA
+D: No, sir. No nothing.
+N: Spock considers, moves to Kirk.
+C: SPOCK
+D: There are two possibilities, sir they are unwilling to respond, they are unable to respond.
+C: KIRK
+D: How far?
+C: SPOCK
+D: Twelve hours and forty-three minutes, present speed.
+C: KIRK
+D: Give up Genesis, she said. What in God's name does that mean? Give it up to whom?
+C: SPOCK
+D: It might help my analysis if I knew what Genesis was.
+N: Kirk looks at him, nods; rising now.
+C: KIRK
+D: Uhura, ask Dr. McCoy to join us in my quarters. Mr. Saavik, take the con.
+N: They start for the Turbo Lifts as Saavik reacts --
+S: INT. KIRK'S QUARTERS
+C: BONES
+D: I've got the sick bay ready. Will someone please tell me what is going on?
+C: KIRK
+D: Computer. Request security procedure and access to Project Genesis Summary.
+E: dims lights
+C: COMPUTER VOICE
+D: Identify for retina scan.
+C: KIRK
+D: Kirk, Admiral James T., Starfleet General Staff. Security Class 1.
+N: The screen is suddenly busy with coded read-outs and then computer graphics of retina patterns. Then it glows green. SECURITY CLEARANCE, CLASS 1 GRANTED.
+C: KIRK
+D: Summary, please.
+E: continuing
+N: More coded read-outs, a red line SECURITY SCAN, then over it APPROVED, in green. Replaced by:
+S: ON SCREEN INT. CAROL MARCUS' LAB, REGULA I
+N: Carol appears, FACING CAMERA, not used to it. To one side stands David and behind them, the lab. ANGLE - KIRK, SPOCK, BONES
+C: SPOCK
+D: Carol Marcus --
+C: KIRK
+D: Yes.
+T: ON SCREEN (AND INTERCUT)
+C: CAROL
+D: I'm Dr. Carol Marcus, and I am the director of the Project Genesis team at Regula I. What exactly IS Genesis? Put simply, Genesis is a procedure whereby the molecular structure of any given matter can be restructured -- changed -- into anything else of identical mass.
+N: (DNA ILM TAPE ACCOMPANIES, AD LIB)
+C: SPOCK
+D: Fascinating.
+C: KIRK
+D: Wait --
+C: CAROL
+D: Stage One of our experiments was conducted in the labora- tory. Stage Two of the series will be attempted in a lifeless underground; Stage Three will involve the process on a plane- tary scale. What follows is a computer projected simulation of Stage Three. Please watch closely.
+N: ILM MONITOR SEQUENCE
+C: CAROL
+D: It is our intention to introduce what we call the Genesis device or "torpedo" into the targeted area of a lifeless space body, a moon or other inert form -- the device is fired --
+N: ON BONES, SPOCK AND KIRK react with wonder. BACK TO MONITOR
+C: CAROL
+D: -- Unleashing, almost instantan- eously, what we call the Genesis effect. Particulate matter is reorganized and electrified -- with life introduced results. Instead of a dead moon, a living breathing planet, capable of sus- taining whatever life forms we see fit to deposit on it... The reformed object you see represents the merest fraction of the Genesis potential, should the Federation wish to pursue these experiments to their logical conclusion.
+N: 67A BACK TO CAROL IN LAB 67A
+C: CAROL
+D: When we consider the problems of population and food supply, the usefulness of this process begins to become clear. This concludes this demonstration tape. Thank you for your attention. The Genesis team eagerly awaits the decision of the Federation regarding the next phase of our work.
+N: The tape becomes snowy and blinks off. Kirk looks at Bones and Spock -- they are stunned.
+C: SPOCK
+D: It literally is Genesis...
+C: KIRK
+D: The power of creation --
+C: SPOCK
+D: Have they proceeded with their experiments?
+C: KIRK
+D: The tape was made a year ago. I can only assume they've reached Phase Two by now --
+C: BONES
+D: But dear Lord, are we intelligent enough to -- Suppose, this thing were used where life already exists?
+C: SPOCK
+D: It would destroy such life in favor of its new matrix --
+C: BONES
+D: It's new -- have you any idea what you're saying?
+C: SPOCK
+D: I was not attempting to evaluate its moral implications, Doctor. As a matter of cosmic history, it has always been easier to destroy than to create --
+C: BONES
+D: Not anymore! Now you can do both at the same time! According to myth, the earth was created in six days. Watch out: here comes Genesis; we'll do it for you in six minutes --
+C: SPOCK
+D: I don't dispute that in the wrong hands --
+C: BONES
+D: Would you like to tell me whose are the right hands, my cold-blooded friend? Are you in favor of these
+N: experiments?
+C: KIRK
+D: Gentlemen, this isn't --
+C: SPOCK
+D: Really, Dr. McCoy; you cannot ban the acquisition of knowledge because you distrust the moral implications of what you learn. Logic suggests --
+C: BONES
+D: Logic?? We're talking about universal Armageddon, you inhuman bloodless...
+C: SAAVIK'S VOICE
+D: Admiral, sensors indicate a vessel in our area, closing fast.
+E: intercom
+C: KIRK
+D: What do you make of her?
+C: SAAVIK'S VOICE
+D: It's one of ours, Admiral... It's Reliant.
+C: SPOCK
+D: What's she doing here?
+C: KIRK
+D: Chekov's on Reliant, isn't he?
+S: INT. ENTERPRISE BRIDGE
+N: The whoosh of the turbo doors and Kirk, Bones and Spock assume their posts. Saavik stands next to Kirk's chair.
+C: UHURA
+D: She's not responding...
+C: KIRK
+D: Try the emergency channels...
+C: UHURA
+D: Enterprise to Reliant. Come in,
+N: Reliant.
+C: KIRK
+D: Picture, Mr. Saavik.
+N: ANGLE INCLUDING THE FORWARD SCREEN Space; a tiny dot in the distance, growing larger.
+C: SPOCK
+D: Attempt visual communication.
+C: UHURA
+D: Yes, sir.
+C: KIRK
+D: Is it possible their COMM system has failed -- ?
+C: SPOCK
+D: It would explain a great many things --
+S: EXT. SPACE - THE RELIANT
+N: Boring forward ominously.
+S: INT. BRIDGE - THE RELIANT
+N: Khan and his crew; no sign of Chekov and Terrell. On Khan's screen, the Enterprise grows larger --
+C: KHAN
+D: Slow to one-half impulse power. Let's be friends...
+E: almost sing-song with joy
+C: HELMSMAN
+D: Slowing to one-half impulse.
+C: JOACHIM
+D: They're requesting visual communications, sir.
+C: KHAN
+D: Let them eat static.
+C: JOACHIM
+D: They're still running with shields down.
+C: KHAN
+D: Of course. We're one big happy fleet. Ah, Kirk, my old friend, do you know the Klingon proverb that tells us revenge is a dish that is best served cold? It is very cold in space.
+E: pause
+S: INT. ENTERPRISE BRIDGE
+C: SULU
+D: Reliant in our section this quadrant, sir, and slowing --
+C: KIRK
+D: Visual.
+N: Visual of Reliant appears.
+C: SAAVIK
+D: Sir, may I quote General Order 12: 'On the approach of any vessel, when communications have not been est --
+C: SPOCK
+D: Lieutenant, the Admiral is aware of the Regulations.
+C: SAAVIK
+D: Aye, sir.
+C: KIRK
+D: This is damned peculiar. Yellow alert.
+E: watches the screen beat
+C: SAAVIK
+D: Energize defense fields.
+N: ALARMS SOUND. The lights on the bridge dim into the soft reddish glow of battle illumination. ADDITIONAL CREW troop in to man vacant consoles.
+C: UHURA
+D: I'm getting a voice message... wait
+N: ... short range band. They say their Chambers coil is shorting their COMM system.
+C: KIRK
+D: Spock?
+C: SPOCK
+D: Scanning...
+N: He steps to his station.
+S: EXT. SPACE
+N: The two ships are very close, barely moving as they inch toward each other.
+S: INT. RELIANT BRIDGE
+C: JOACHIM
+D: They still haven't raised their shields.
+N: Khan is half out of his seat, sweating with anticipation.
+C: KHAN
+D: Careful: Not all at once. The engine room. Lock on target and prepare to fire.
+C: JOACHIM
+D: Locking phasers on target.
+N: Computer graphics monitor: Cross-hairs on Enterprise. BIG SCREEN (?)
+S: INT. ENTERPRISE BRIDGE - FAVORING SPOCK
+N: He reacts to his blue-lit scope --
+C: SPOCK
+D: Their coil emissions are normal... Wait: their shields are going up. They're locking phasers -- !
+C: KIRK
+D: Raise shields! Energize phasers, stand by to --
+N: But the ENTIRE BRIDGE is ROCKED by a shock impact, some of the crew sent flying.
+S: EXT.SPACE
+N: Reliant firing phasers at Enterprise. A hit in the rear of the engine room area, debris flying into the void.
+S: INT. ENTERPRISE ENGINE ROOM
+N: An explosion rips through the facility, sending yellow- ish green GAS hurtling down the long facility towards us. Crewmen are hurled through the air, screaming. ANGLE - THE GREAT AUTO DOORS roll closed, sealing off the damaged tail section, SIRENS SHRIEKING! ANGLE - THE TRAINEES terrified, scramble to get out amid the deadly yellow- ish green smoke, the cries. ANGLE - SCOTTY trying to rally them --
+C: SCOTTY
+D: Respirators! Get back! Use your respirators!
+N: And he puts his own respirator on, as do some of the veterans. Preston dons his respirator -- and stays. HIGH ANGLE - ENGINE ROOM The angle we saw during inspection. The trainees, in panic amid the gas crawl over each other trying to get out. They scramble over each other's shoulders in the efforts to escape, screaming and shouting.
+S: INT. ENTERPRISE BRIDGE
+N: The bridge is slowly righting. Crew members getting back to their stations. On speaker, we hear the CRIES AND SHOUTS of the Engine Room. KIRK Mr. Sulu... The shields!
+C: SULU
+D: Trying, sir!
+C: INTERCOM VOICE
+D: Medical Alert: Engine Room.
+N: Bones dashes out.
+C: SULU
+D: I can't get power, sir!
+C: KIRK
+D: Scotty!
+N: Scotty's voice is faint, drowned by the screams and cries from a dozen intercom stations.
+C: KIRK
+D: Uhura, turn off those damn channels!!
+E: continuing
+N: Uhura does. There is a dead silence. Then:
+C: UHURA
+D: Mr. Scott on discrete.
+C: KIRK
+D: Scotty, let's have it.
+S: INT. ENGINE ROOM - FAVORING SCOTTY
+N: Behind, the crew chief and a few others work feverishly in respirators. Scotty, in respirator, with a throat mike which filters his voice.
+C: SCOTTY
+D: Just hanging on, sir. Main energizers out.
+S: INT. ENTERPRISE BRIDGE
+N: ON SCREEN computer graphics, red flashing lights indi- cate damaged areas. Spock steps up to Kirk evaluating the display. SPOCK They knew just where to hit us.
+C: KIRK
+D: WHO? Who knew just where to hit us? And why?
+C: SPOCK
+D: One thing is certain; we cannot escape on auxiliary power.
+E: shakes head
+C: KIRK
+D: Visual! Mr. Sulu, divert everything to the phasers --
+E: sees visual
+C: SPOCK
+D: Too late --
+E: re screen
+N: On VISUAL SCREEN, Photon torpedoes approach...
+C: KIRK
+D: Hang on!
+N: The bridge is shaken badly, screens go dark, fires spark and erupt. ALARMS and SOUND full. Crew personnel try to put out electrical fires, help the fallen --
+S: EXT. SPACE - RELIANT
+N: circling Enterprise.
+S: INT. RELIANT BRIDGE - FAVORING KHAN AT DASH
+N: The glow of the O.S. screens and battle illumination highlighting the passion in his eyes.
+S: INT. ENTERPRISE BRIDGE
+N: The firefighting continues.
+C: KIRK
+D: Scotty -- what's left?
+C: SCOTTY'S VOICE
+D: Just the batteries, sir. I can have auxiliary power in a few minutes --
+C: KIRK
+D: We don't have minutes. Can you give me phaser power?
+C: SCOTTY'S VOICE
+D: A few shots, sir.
+C: SPOCK
+D: Not enough against their shields.
+C: KIRK
+D: Who the hell are they?
+C: UHURA
+D: Admiral... Commander Reliant is signaling. He wishes to discuss terms of our surrender.
+E: a pause
+N: There is a moment. Kirk looks around the battered bridge, and his eyes meet Spock's, and Saavik's.
+C: KIRK
+D: On screen.
+C: UHURA
+D: Admiral --
+E: hesitating
+C: KIRK
+D: Do it, while we have time.
+N: All eyes go to the SCREEN. After momentary visual confusion, Khan's face appears, smiling --
+C: KIRK
+D: Khan!
+E: continuing; dumbfounded
+C: SAAVIK
+D: Who?
+C: KHAN
+D: You still remember, Admiral. I cannot help but be touched. Of course, I remember you.
+C: KIRK
+D: What is the meaning of this attack? Where is the crew of the Reliant?
+C: KHAN
+D: Surely I have made my meaning plain. I mean to avenge myself upon you, Admiral. I've deprived your ship of power and when I swing round I mean to deprive you of your life --
+S: EXT. SPACE
+N: We can see Reliant making a large arc as she prepares to come back for another round.
+S: INT. ENTERPRISE BRIDGE
+C: KHAN
+D: -- But I wanted you to know first who it was who had beaten you: I, Khan Noonian Singh, the eagle you attempted to cage forever.
+E: on screen
+C: KIRK
+D: Khan, listen to me -- if its me you want, I'll have myself beamed aboard. All I ask is that you spare my crew.
+C: KHAN
+D: That is a most intriguing offer. Typical, I must say of your sterling character. Let me think.
+S: EXT. SPACE
+N: Reliant continues her slow arc.
+S: INT. ENTERPRISE BRIDGE
+C: KHAN
+D: I make you a counter-proposal, I will agree to your terms, if in addition to yourself, you turn over to me all data and material regarding the project called Genesis.
+E: on screen
+N: Reactions from Spock and Kirk.
+C: KIRK
+D: Genesis, what's that?
+C: KHAN
+D: Don't play with me, Kirk, my hand is on the phaser control --
+C: KIRK
+D: Give me some time to recall the data on our computers --
+C: KHAN
+D: I give you sixty seconds, Admiral.
+N: Kirk turns from the screen --
+C: SPOCK
+D: Admiral, you can't give him Genesis...
+C: KIRK
+D: At least we know he hasn't got it. Just keep nodding as though I'm giving orders. Saavik, punch up the data charts of Reliant's command console -- hurry...
+C: SAAVIK
+D: Reliant's command...
+C: KIRK
+D: HURRY.
+C: SPOCK
+D: The prefix code?
+C: KIRK
+D: It's all we've got.
+C: SAAVIK
+D: On screen...
+C: KIRK
+D: We're finding it. Please, please -- you've got to give us time -- the bridge is
+E: to Khan urging
+N: smashed, computers inoperative...
+C: KHAN
+D: Time is a luxury you do not have, Admiral: forty-five seconds...
+S: EXT. SPACE
+N: Reliant, her arc completed, is coming back.
+S: INT. ENTERPRISE BRIDGE
+C: SAAVIK
+D: I don't understand --
+N: Kirk puts on his spectacles --
+C: KIRK
+D: You've got to learn WHY things work on a Starship. It's coming through now, Khan...
+E: to Khan
+C: SPOCK
+D: The prefix code is 16309. All commands from each Starship bridge are relayed electronically; each ship has its own prefix combination code...
+E: descends
+C: KHAN
+D: Thirty seconds...
+C: KIRK
+D: ... to prevent an enemy from doing just what we're attempting; using our console to tap in a message, an order to lower Reliant's damn shields...
+C: SPOCK
+D: Let's hope he hasn't changed the combination. He's quite intelligent...
+E: at the weapons console
+C: KIRK
+D: Wait for my signal, Spock -- too
+E: grim
+N: soon and he'll have time to figure it out and raise them again. Spock nods; Kirk turns to the screen --
+C: KIRK
+D: Khan, how do I know you'll keep your word?
+E: continuing
+C: KHAN
+D: I've given you no word to keep, Admiral. In my judgment, you simply have no alternative.
+E: on screen
+C: KIRK
+D: I take your point. Stand by to receive our transmission.
+N: He turns from the screen again, softly:
+C: KIRK
+D: Mr. Sulu, lock phasers on target and await my command...
+E: continuing
+C: SULU
+D: Phasers locked...
+E: quietly
+N: They're all sweating.
+C: KHAN
+D: Time's up, Admiral...
+C: KIRK
+D: Here it comes. Now, Spock.
+E: dry
+N: CLOSE UP SPOCK'S HANDS PUNCHING IN THE PREFIX CODE followed by other signals.
+S: INT. RELIANT BRIDGE
+C: JOACHIM
+D: Sir -- our shields are dropping!
+E: stares at his console
+C: KHAN
+D: Raise them --
+N: Joachim punches frantically --
+C: JOACHIM
+D: They won't --
+C: KHAN
+D: Where's the over-ride??
+N: All monitors are haywire now that Enterprise is tapped in. They search wildly for the right switch, but...
+S: INT. ENTERPRISE BRIDGE
+N: CLOSE UP - KIRK
+C: KIRK
+D: FIRE!
+N: CLOSE UP - SULU'S HANDS punching.
+S: EXT. SPACE
+N: Enterprise fires at Reliant inflicting heavy damage.
+S: INT. RELIANT BRIDGE
+N: A shambles -- debris flying; Khan knocked to the deck. He struggles to his feet through wiring --
+C: KHAN
+D: At them! At them! FIRE! FIRE! Why can't you?
+E: enraged
+C: JOACHIM
+D: We can't fire, sir; they've damaged the photon controls and the warp drive. We must withdraw!
+C: KHAN
+D: No!
+N: JOACHIM Sir, we must! (desperate urging) We must repair the damage. Enterprise will wait; she's not going anywhere. Khan calms as the other holds him; he breathes deeper.
+S: EXT. SPACE
+N: Reliant turns away. ENTERPRISE BRIDGE They watch on screen as Reliant hauls off.
+C: SULU
+D: Sir, you did it.
+E: breathless
+C: KIRK
+D: I did nothing -- except get caught with my britches down. I must be senile. Mr. Saavik, you just keep right on quoting regulations. Meantime, let's find out what the hell is going on and see how bad we've been --
+E: enraged
+N: The turbo doors whoosh open as Kirk reaches them. Scotty stands there, tears streaming down his face; he holds the body of Midshipman Preston. Both of them are covered in blood. He sways into Kirk's arms as the others rush forward.
+S: EXT. SPACE
+N: The Enterprise, motionless, scars of battle showing.
+S: INT. ENGINE ROOM
+N: The CREW, wearing respirators amid the motionless ball of gas, work frantically at a dozen jobs, trying to put things aright, splicing wires, etc. Some TRAINEES who panicked are back. FEATURE THE CREW CHIEF making a final adjustment.
+C: CREW CHIEF
+D: Hit your blowers!
+N: A TURBO WHINES and a great wind of suction pulls the gas towards appropriate vents. The Crew Chief watches, then yanks off his respirator; wipes his brow.
+S: INT. SICK BAY
+N: MANY CASUALTIES IN EVIDENCE. Kirk enters and LEADS CAMERA THROUGH them; he has a word or two for men he doesn't know by name. Kirk leads us to the operating theatre, where Bones works over Preston. Scotty stands by, his lips trembling. Preston opens his eyes, sees Scotty and Kirk.
+C: PRESTON
+D: Is the word given?
+E: faint
+C: KIRK
+D: The word is given: warp speed.
+E: soft
+C: PRESTON
+D: Aye...
+E: almost smiles
+N: He dies. Pause. Scotty looks across the body at Kirk.
+C: SCOTTY
+D: WHY?
+C: KIRK
+D: He wants to kill me for passing sentence on him 14 years ago -- and he doesn't care who stands between him and his vengeance.
+E: looks at Preston
+C: BONES
+D: Scotty, I'm sorry...
+C: SCOTTY
+D: He stayed at his post. When the trainees ran, he stayed.
+N: KIRK If he hadn't, we'd be space by now.
+C: SPOCK'S VOICE
+D: Admiral, this is Spock.
+N: Kirk hits a wall intercom --
+C: KIRK
+D: Yes, Spock.
+C: SPOCK'S VOICE
+D: Engine room reports auxiliary power restored. We can proceed at impulse power.
+C: KIRK
+D: Best speed to Regula I. Kirk out. Scotty, I've got to ask: Any chance of getting the mains back on the line?
+E: thinks
+C: SCOTTY
+D: I dinna think so, sir, but you'll have my best --
+N: With an effort, he gets to his feet --
+C: SCOTTY
+D: Thanks -- I know you tried, Doctor...
+E: continuing
+N: Squeezes his shoulder and limps off -- We NOW HEAR the sound of impulse power taking effect.
+C: KIRK
+D: Are you all right?
+N: Bones shrugs unhappily, looks at Preston.
+C: BONES
+D: Doctors lose patients sometimes. Damn. I'm still in the dark: How'd he know about Genesis?
+C: KIRK
+D: At the moment that question takes a back seat to preventing him from laying his hands on it. You said it
+N: yourself; we're talking about a bang that would re-arrange the universe...
+C: BONES
+D: There may still be time... you gave as good as you got.
+C: KIRK
+D: I got beat. We're only alive because I knew something about these ships that he didn't.
+E: looks him in the eye
+N: He turns and leaves as Bones watches, looks again at Preston.
+S: EXT. SPACE - REGULA I SPACE STATION
+N: Regula, the dead planet beyond.
+S: EXT. SPACE - ENTERPRISE
+N: Approaching. As she moves slowly PAST CAMERA, WE PAN WITH her TO SEE that she is approaching the space lab.
+S: INT. BRIDGE - ENTERPRISE
+N: Battle damage, some repaired, some not. The bridge is filled with tension, all hands at station.
+C: SULU
+D: Approaching Regula and Space Lab Regula I.
+E: V.O.
+C: KIRK
+D: Try again.
+C: UHURA
+D: Space Station Regular I, this is Starship Enterprise. Come in, please...
+S: INT. SPACE STATION REGULAR I - CAROL'S LAB - ON SCREEN
+N: As before, Uhura's image, imploring a response.
+C: UHURA
+D: I say again. Space Station Regular. This is Starship Enterprise. Please respond. Please respond.
+N: During this, CAMERA HAS PANNED CLOSE AMONG the techni- cal clutter. Then suddenly. SOUND -- eerie, frightening. Our ears cannot place it... and before we can, it is gone a warning. BACK TO BRIDGE
+C: UHURA
+D: ... No response, sir.
+C: KIRK
+D: Sensors, Captain?
+C: SPOCK
+D: Scanners and sensors still inoperative. There's no way to tell what's inside the station.
+C: KIRK
+D: And no way of knowing if Reliant is still in the area...
+C: SPOCK
+D: Affirmative, Admiral.
+C: KIRK
+D: ... Blind as a Tiberian Bat. What do you make of the plantoid beyond?
+E: with irony
+C: SPOCK
+D: Regula is class "D'. It consists of various remarkable ores. Essentially, a great rock in space.
+C: KIRK
+D: Reliant could be hiding behind that rock.
+C: SPOCK
+D: A distinct possibility.
+C: KIRK
+D: Engine room... Scotty, do we have enough power for the transporters?
+C: SCOTTY'S VOICE
+D: Just barely, sir.
+C: KIRK
+D: I'm going down to the station.
+E: the decision
+N: He starts out. Bones stops him.
+C: BONES
+D: Khan could be down there!
+C: KIRK
+D: He's BEEN there and hasn't found what he wants. Can you spare someone? There may be people hurt.
+C: BONES
+D: I can spare me...
+C: SAAVIK
+D: Begging the Admiral's pardon: General Order 15: 'No flag officer shall beam into a hazardous area without armed escort.'
+C: KIRK
+D: There is no such regulation.
+N: Saavik's gaze falters --
+C: KIRK
+D: All right, join the party. Mr. Spock, the ship is yours.
+E: continuing
+C: SPOCK
+D: Aye sir --
+C: KIRK
+D: Establish a parking orbit around the station and send me a complete damage report when you've talked with Mr. Scott.
+C: SPOCK
+D: Be careful, Jim...
+N: Kirk, Bones and Saavik head for the turbo doors.
+S: EXT. SPACE - SPACE STATION REGULAR I
+N: CLOSER ANGLE now. The silence is ominous.
+S: INT. SPACE STATION REGULAR I - CAROL'S LAB
+N: empty, except for the hums and crackles of abandoned equipment. With a FAMILIAR SOUND, BONES, KIRK and SAAVIK MATERIALIZE. All have phasers, communicators and tricorders. For a moment they look around, seeing emptiness. Like being in a haunted house.
+C: KIRK
+D: Hello...! Anybody here?
+N: A WEIRD ECHO reverberates his cries.
+C: SAAVIK
+D: Indeterminate life signs.
+E: raises tricorder
+C: KIRK
+D: Phasers on stun. Move out.
+N: They separate. Each begins to search. ANGLE WITH SAAVIK She moves to the electronic and data area, examines the consoles, the equipment, then settles for the data bank. She starts keying sequences with the computer.
+S: INT. SPACE STATION - BONES
+N: He shows signs of fear as he walks through the deserted place, like a scuba diver exploring a cave. We want him to go back. A NOISE. Bones reacts with brave apprehension. Rounding a corner, he starts: A RAT scuttles right in front of him. Bones sighs with relief and moves forward. We think he's safe. SUDDENLY SOMETHING FALLS RIGHT ON HIS FACE: an upside down human ARM. SAME LOCALE - LATER Kirk helps Bones cut down the last of the five BODIES from where they were hanged, upside down. Having recovered his composure, Bones examines the corpses. We RECOGNIZE Madison, March, among others. One is clearly the COOK.
+C: KIRK
+D: They even killed the galley chief.
+E: stunned
+C: BONES
+D: This one looks like a Steward. They're not warm, but rigor hasn't set in. This didn't happen all that long ago, Jim.
+N: Kirk looks around, despairingly --
+C: KIRK
+D: Carol...
+S: INT. SPACE LAB DATA BANK
+N: WITH SAAVIK working with console. Something puzzles her. She frowns, but a NEW SOUND distracts her. She looks up and moves off. FULL SHOT - IN THE LAB A moan is heard. All three now converge on the area. As they near it, Saavik's tricorder hums furiously. Be this a room, a locker of some other place, this time they -- "open the door." The limp bodies of Chekov and Terrell fall out.
+C: UHURA'S VOICE
+D: Admiral Kirk, Enterprise. Come in, please. Come in please.
+E: on screen
+N: She will continue sporadically. KIRK My God! Chekov emits a live, reassuring moan.
+C: BONES
+D: That's Clark Terrell, Jim, I've served with him.
+N: Bones is passing his medical tricorder over Chekov.
+C: BONES
+D: Brain disturbance. Appears to be drug induced.
+E: continuing
+N: He reaches into his kit. He shoots Chekov moves off to Terrell. Uhura, voice continues in the b.g.
+C: KIRK
+D: Saavik, for God's sake, tell her we're all right.
+S: INT. ENTERPRISE BRIDGE - FAVORING UHURA
+C: UHURA
+D: I say again. This is Enterprise. Please acknowledge signal. Please --
+N: Saavik's face appears on her screen.
+C: SAAVIK
+D: Commander Uhura, this is Lt. Saavik. We're all right. Please stand by. Out.
+E: on screen, hurried
+C: UHURA
+D: Aye, aye.
+E: baffled
+S: INT. SPACE STATION - TIGHT GROUP
+N: Chekov opens his eyes, and stares into Kirk's.
+C: CHEKOV
+D: Oh, God, Admiral...!
+N: He weeps like a child, and Kirk holds him. Meanwhile, Terrell opens his eyes and stares at Bones.
+C: BONES
+D: It's Dr. McCoy, Captain. Do you remember me?
+C: TERRELL
+D: McCoy? Yes. Oh, yes.
+N: ANGLE FAVORING CHEKOV AND KIRK Chekov breaks the embrace in high relief and anxiety.
+C: CHEKOV
+D: Oh, sir. It was Khan! We found him on Ceti Alpha V.
+C: KIRK
+D: Easy, Pavel... Tell me what you can...
+C: CHEKOV
+D: No life signs -- but he was there. Captured us. He -- he put creatures in our bodies. To control our minds.
+N: Bones takes over Chekov --
+C: BONES
+D: It's all right, you're safe...
+C: CHEKOV
+D: ... Made us say -- lies... Do... things... But we beat him... The Captain and me. -- He thought he controlled us, but he didn't ... The Captain was strong.
+N: Chekov breaks into tears. Kirk looks at Terrell, who is more composed.
+C: KIRK
+D: Captain. Where is Dr. Marcus? Where are the Genesis materials?
+C: TERRELL
+D: He couldn't find them. Some of the scientists were still here, but everything else, even the data banks -- were empty.
+C: SAAVIK
+D: That's true, Admiral. All the memory cells have been emptied.
+C: KIRK
+D: Erased...
+E: ponders
+C: TERRELL
+D: He tortured those people. None of them would tell him anything. He went wild, strung them up and slit their throats. He wanted to tear the place apart, but he was late: he had to get back to Reliant in time to blow you to bits.
+C: KIRK
+D: He came damn close...
+C: CHEKOV
+D: He left us. We were no longer of use.
+E: with irony
+C: SAAVIK
+D: Where is the Reliant crew? Dead?
+C: TERRELL
+D: Marooned on Ceti Alpha V. He's completely mad, Admiral. He blames you for the death of his wife...
+C: KIRK
+D: I know what he blames me for. The escape pods are all in place. Where's the transporter room?
+E: thinks looks around
+S: INT. SPACE STATION TRANSPORTER ROOM
+N: Kirk, wearing his spectacles, studies the transporter consoles. ANGLE WIDENS TO REVEAL the transporter pods, and the others, b.g.
+C: KIRK
+D: Did he make it down here?
+N: Chekov and Terrell look at each other; they seem a bit stronger.
+C: CHEKOV
+D: It was not my impression. He spent most of his time trying to wring the information out of the people.
+N: Saavik approaches Kirk:
+C: SAAVIK
+D: Anything?
+N: Kirk looks at her over the rims of the glasses:
+C: KIRK
+D: Somebody left the unit on. If everyone else was dead, it implies that no one remained to turn it off. Those people back there bought escape time for Genesis with their lives.
+N: Saavik studies the console.
+C: SAAVIK
+D: It doesn't make sense. These coordinates are well within Regula -- a plantoid we know to be lifeless and airless.
+C: KIRK
+D: If Stage Two was completed, it was underground -- she said it was going to be underground.
+E: wheels turn
+C: SAAVIK
+D: Stage Two of what?
+N: Kirk gets it.
+C: KIRK
+D: Kirk to Enterprise. Damage report, Spock?
+E: on communicator
+C: SPOCK'S VOICE
+D: Admiral, if we go by the book, like Lieutenant Saavik, hours could seem
+N: like days.
+C: KIRK
+D: I read you, Captain. Let's have it.
+E: beat
+N: Fractional pause.
+C: SPOCK'S VOICE
+D: The situation is grave, Admiral. We won't have main power for six days at least. Auxiliary power has temporarily failed, but maybe we can restore that in two days. By the book, Admiral.
+N: Kirk frowns.
+C: KIRK
+D: Meaning you can't even beam us back?
+C: SPOCK'S VOICE
+D: Not at present.
+N: Kirk looks at Saavik and Bones, decides --
+C: KIRK
+D: Captain Spock, if you do not hear from us within one hour your orders are to restore what power you can, take the Enterprise to the nearest Star Base and alert Starfleet command when you are out of jamming range.
+C: UHURA'S VOICE
+D: Sir -- we won't leave you behind...!
+C: KIRK
+D: Uhura, if you don't hear from us, there won't be anybody behind. Kirk out. You gentleman can remain here, or...
+E: to Terrell and Chekov
+C: TERRELL
+D: If it's all the same, Admiral, we'd like to share the risk.
+C: KIRK
+D: Very well. Let's go.
+E: hesitates
+C: BONES
+D: Go? Where are we going?
+C: KIRK
+D: Where they went. Saavik.
+E: points to console
+N: Kirk walks onto the pods as Saavik works the console, rolling in electronic coding. The others join Kirk.
+C: BONES
+D: But what if they went -- nowhere?
+C: KIRK
+D: Then this will be your big chance to get away from it all.
+C: SAAVIK
+D: Ready.
+N: She presses a button, joins them on the pods. Slowly they VANISH.
+S: EXT. SPACE - THE PLANTOID REGULA
+N: CAMERA MOVES TOWARD it as the BEAM SOUND continues, with irregularity. The plantoid is ugly and dead. The sound frightens us, and climaxes with:
+S: INT. ROCKY CAVERN - REGULA
+N: The BEAM SOUND screeches, then settles into its comfort- able mode as the FIVE FIGURES FLUCTUATE, FADE, then APPEAR. They look around in wonder and relief.
+C: SAAVIK
+D: Admiral --
+N: She indicates something O.S. They cross as CAMERA reveals a cave wall stacked with technical materials and crowned by a LARGE PROJECTILE, a giant version of the model we saw earlier. They stare. (N.B. FEATURE GENESIS ARMING CONTROL BOX.) BONES Genesis, I presume. They walk by a group of crates. It all happens very fast: David leaps out and tackles Kirk, throwing him to the ground and landing atop him, a knife at his throat. At the same time, Bones and Saavik reach for their phasers, but Jedda, already armed, steps out. He has them covered and helpless. ANGLE FAVORING DAVID
+C: DAVID
+D: You're the sonavabitch who committed mass murder up there.
+N: He raises the knife --
+C: KIRK
+D: I'm Admiral Kirk...
+C: DAVID
+D: We were still there, you dumb bastard! We could hear the screams all the way to the transporter room --
+N: Again he raises the knife --
+C: KIRK
+D: Where's Dr. Marcus --
+C: DAVID
+D: I'm Doctor Marcus!
+N: Carol reaches the tunnel entrance to the cave --
+C: CAROL
+D: David --
+C: DAVID
+D: Mother, go back!
+N: Carol sees Kirk --
+C: CAROL
+D: Jim --
+C: DAVID
+D: Go back. I'm going to kill him.
+C: CAROL
+D: You do that and you'll have murdered your father.
+E: takes a breath
+N: All react. David and Kirk, facing each other, are turned to stone. Bones, Jedda and Chekov turn to look at Carol, wondering. Terrell very casually takes the phaser from Jedda. NEW ANGLE (FORMERLY SCENE 134)
+C: TERRELL
+D: I'll hold onto this.
+E: cool
+N: But Kirk and Carol ignore them and walk towards each other. There are tears in Carol's eyes. She reaches up, trying to smile and touches his hair --
+C: CAROL
+D: You've got a little grey --
+N: She can't. Kirk takes her and holds her tightly, look- ing at David, over her shoulder. He stands there, stunned, looking back.
+C: KIRK
+D: Carol. Is that true?
+N: She nods --
+C: KIRK
+D: Why didn't you tell me?
+E: continuing
+C: DAVID
+D: She's making it up! My father was Professor --
+C: CAROL
+D: David, you're just making this harder --
+C: TERRELL
+D: I'm afraid it's even harder than you think, Doctor.
+N: He and Chekov have their phasers trained on them.
+C: TERRELL
+D: Please don't move --
+E: continuing
+C: KIRK
+D: Chekov -- !
+C: CHEKOV
+D: I'm sorry, Admiral.
+N: Terrell speaks into his wrist recorder.
+C: TERRELL
+D: Your excellency, have you been listening?
+C: KHAN'S VOICE
+D: I have indeed, Captain. You have done well...
+E: filtered
+C: DAVID
+D: I knew it -- !
+N: David makes a reckless break for Terrell; Saavik instantly throws herself on him bringing him down as Terrell fires, hitting Jedda, who was behind David -- a killing ray. Jedda dematerializes. Carol SCREAMS and David reacts with horror and guilt. Most importantly, Chekov begins to tremble. Terrell himself is shaken by his reflexive action. He's in semi-panic.
+C: TERRELL
+D: Don't move -- any of you!
+N: thru thru
+S: EXT. SPACE - THE DARK SIDE OF REGULA
+N: Reliant, motionless in a parking orbit.
+S: INT. RELIANT BRIDGE - FAVORING KHAN
+N: Joachim over his shoulder. Others in evidence. Khan speaks into his console.
+C: KHAN
+D: Captain... We're waiting. What's the delay?
+S: INT. ROCKY CAVERN (INTERCUT AS DESIRED)
+C: TERRELL
+D: All is well, sir. You have the coordinates to beam up Genesis...
+C: KHAN
+D: First things first, Captain. Kill Admiral Kirk.
+N: Reactions by all -- only Kirk and Bones are unsurprised. David and Saavik, dazed, fight the urge to do something. Chekov is close to a seizure. Terrell fights conflicting mental signals.
+C: TERRELL
+D: Excellency... it is difficult. I try to obey, but --
+C: KHAN'S VOICE
+D: Kill him.
+N: As though tearing off a leach, Terrell grabs at the wrist recorder and flings it to the ground. A shock- wave of pain hits Terrell. He recovers, trembling and tries to obey. Chekov is shaking badly. Terrell aims his phaser at Kirk. Chekov slowly raises his phaser and aims at Terrell, though his hands are like lead. We THINK Chekov is going to do the right thing. Then, shockingly: Terrell turns his phaser on himself.
+C: KHAN'S VOICE
+D: Kill him, Terrell. Now.
+E: still emanates from wrist recorder
+N: Terrell does, blowing himself into oblivion. ANGLE - FAVORING CHEKOV He SCREAMS, horribly, drops his phaser, clutching his head. Bones leaps to his side, pulls an injection device from his belt pack, jabs it into Chekov's arm. Chekov, almost with a sigh of relief, drops.
+C: KHAN'S VOICE
+D: Terrell? Chekov -- !
+C: BONES
+D: Jim -- for God's sake!
+N: They rush to his side, as do Carol and David. ANGLE - FAVORING CHEKOV From the fallen man's ear, something begins to emerge. VERY CLOSE - CHEKOV'S EAR The Ceti eel crawls out. It has grown quite large. SCENE Horror from all. Kirk picks up a phaser. As the eel clears Chekov, he fires and destroys it. He shudders, then sees the wrist recorder and grabs it.
+C: KIRK
+D: Khan, you bloodsucker, they're finished! You'll have to do your own dirty work now. Do you hear me? Do you?
+S: INT. RELIANT BRIDGE
+N: Khan reacts to Kirk's VOICE: electronic shock. He clutches the communicator, his eye-whites rolling.
+C: KHAN
+D: Kirk! Kirk, you are still alive -- my old friend...
+T: INTERCUT AS DESIRED WITH
+N: ROCKY CAVERN - FAVORING KIRK
+C: KIRK
+D: Still, 'old friend.' You've managed to kill just about everyone
+N: else, but like a poor marksman, you keep missing the target.
+C: KHAN
+D: Perhaps I no longer need to try.
+E: ironic
+N: He punches several buttons. In the Rocky Cavern the transporter beam locks on to the Genesis torpedo and its arming control box. As Kirk and the others watch, horrified, Khan beams up the materials. David tries to reach the torpedo, but Saavik holds him fast --
+C: DAVID
+D: Let go -- he can't -- !
+C: SAAVIK
+D: Only half of you would get there.
+N: The beam disappears and Genesis with it, leaving them alone.
+C: KIRK
+D: Khan, you have Genesis, but you don't have me! You were going to kill me, Khan, it was your sole purpose. You'll have to come down here to do it! You'll have to come down!
+E: desperate
+C: KHAN'S VOICE
+D: I've done far worse than kill you, Admiral. I've hurt you. And I wish to go on hurting you. I shall leave you, as you left me -- where no one will ever find you: poetic justice; marooned for eternity in the center of a dead planet -- buried alive.
+C: KIRK
+D: Khan -- !
+C: KHAN
+D: Goodbye, Admiral. Oh, and don't
+N: count on Enterprise. She can't move. My next act will be to blow her out of the heavens.
+C: KIRK
+D: KHAN!
+S: INT. RELIANT BRIDGE
+N: Khan closes his eyes in voluptuous satisfaction. Joachim enters and Khan looks at him.
+C: KHAN
+D: Well?
+C: JOACHIM
+D: Warp drive still inoperative. All other systems should be restored shortly.
+N: Khan sighs, contentedly.
+C: KHAN
+D: Excellent. We have all the time in the world.
+S: INT. ROCKY CAVERN
+N: As before, Saavik is on the communicator.
+C: SAAVIK
+D: This is Lt. Saavik, calling Enterprise...
+N: She keeps trying. Chekov stirs --
+C: BONES
+D: He's alive!
+N: Bones goes and tends Chekov who moans, tries to sit up.
+C: KIRK
+D: Pavel?
+N: Chekov tries to smile; Kirk takes his hand --
+C: SAAVIK
+D: No use, Admiral, they're still
+N: jamming all channels.
+C: BONES
+D: It wouldn't make any difference. If Enterprise obeyed orders she's long since gone. And if she couldn't obey, she's finished.
+E: looks across Chekov
+C: DAVID
+D: So are we, it looks like.
+C: CAROL
+D: I don't understand. Who's responsible for all this? Who is Khan?
+C: KIRK
+D: It's a long story.
+C: DAVID
+D: We appear to have plenty of time.
+C: BONES
+D: You and your father can catch up on things.
+E: dry
+C: DAVID
+D: My father. I hope you realize another man has just been killed because of...
+E: bitter
+C: BONES
+D: Because of you, son. You shouldn't have tried to rush someone holding a primed phaser. Anyway it isn't one man dead, it's two, in case you've lost count.
+N: David has been effectively spiked. Long silence.
+C: KIRK
+D: Do you have anything to eat? I don't know about anyone else, but I'm starved.
+N: BONES How can you think of food at a time like this?
+C: KIRK
+D: Our first order of business is survival.
+C: CAROL
+D: There's food in the Genesis cave, enough to last a lifetime -- should that be necessary.
+C: BONES
+D: We thought this was Genesis.
+N: Carol laughs -- there's an edge of hysteria to it.
+C: CAROL
+D: This? It took the Starfleet corps of engineers ten months in space suits to tunnel out all this. What we did in there -- we did in a day. David, why don't you show Dr. McCoy and the Lieutenant our idea of food.
+C: DAVID
+D: But we can't just sit here -- !
+C: KIRK
+D: Oh, yes we can. Is there really something to eat?
+E: unruffled
+N: David looks at his father, who checks his watch, putting on his spectacles.
+C: CAROL
+D: David. Please.
+C: DAVID
+D: This is just to give us something to do, isn't it? Come on.
+E: to Kirk he shrugs
+N: Saavik and Bones make to follow. Saavik turns to Kirk --
+C: SAAVIK
+D: Admiral?
+C: KIRK
+D: As your teacher Mr. Spock is fond of saying: I like to think there always are possibilities.
+N: thru thru
+S: EXT. SPACE
+N: Dark side of Gamma. Reliant sits idle.
+S: 150A INT. ROCKY CAVERN 150A
+N: Carol sits on the ground, Chekov's head in her lap, looking at Kirk.
+C: CAROL
+D: David was right, wasn't he? It's just to keep them busy.
+C: KIRK
+D: Why? Why didn't you tell me?
+C: CAROL
+D: How can you ask me that? Were we together? Where we going to be? You had your world and I had mine. I wanted him in mine, not chasing through the universe with his father.
+N: Kirk turns away, overcome. She watches him.
+C: CAROL
+D: He's a lot like you in many ways. Nothing I could do about it. He's smarter, of course; that goes without saying. Most of Genesis is really his.
+E: continuing
+N: Her joke doesn't take effect. He doesn't turn.
+C: CAROL
+D: This is it, isn't it? We're never going to get out of here.
+E: continuing
+N: Kirk says nothing.
+C: CAROL
+D: Please. Tell me what you're feeling.
+E: continuing
+N: Kirk hesitates, comes back and sits next to Chekov; he changes Bones' compress on the ear as he finally speaks.
+C: KIRK
+D: There's a man I haven't seen in fifteen years who thinks he's killed me. You show me a son who'd almost be happy to help him. My son. My life that could have been and wasn't. What am I feeling? I'm feeling old -- worn out.
+N: Carol studies him; gently she sets Chekov's head down on a sweater, then stands.
+C: CAROL
+D: Let me show you something that will make you feel young -- young as when the world was new.
+N: She offers her hand. Kirk looks at Chekov, who smiles, faint assurance.
+C: CAROL
+D: He'll be all right. Come.
+E: continuing
+N: After a moment's hesitation, Kirk takes her hand and she leads him to the tunnel.
+S: 150B INT. TUNNEL 150B
+N: TRUCKING BEFORE Carol and Kirk. A rising light falls on their faces as they walk, then run with excitement toward the source. Kirk races ahead... 150C KIRK'S POV - MOVING THROUGH THE TUNNEL 150C toward an iridescent light at its end, blindingly beautiful with color. INTERCUT: THESE TWO ANGLES until WE CAN HARDLY WAIT for Kirk to reach the end of the tunnel, and then, when it does:
+S: 150D INT. GENESIS CAVE - PROMONTORY LEVEL 150D
+N: where the rock tunnel ends. Kirk comes out of the tunnel, and his mouth drops open. 150E FULL SHOT - THE GENESIS CAVE (MATTE AND FX) (FORMERLY 150E SCENE 130) A huge cavern. Kirk is actually standing at the middle of it. Space extends vastly above and below his point of view. Like Eden, lush growth everywhere, water- falls, and a cobalt blue sky high, high above where a round orb glows sending light and warmth downward. There is a path from where Kirk stands down to the lower level where Bones, and the others are waiting and calling to him. Mist and haze waft gently across the cavern. 150F BACK TO KIRK 150F as Carol comes up beside him.
+C: KIRK
+D: You did this -- in a day?!
+C: CAROL
+D: The matrix formed in a day. The life forms grew later -- at a wildly accelerated rate. Can I cook or can't I?
+S: INT. RELIANT BRIDGE
+N: The turbo doors open and Joachim stands there.
+C: JOACHIM
+D: Impulse power restored.
+N: Khan smiles.
+C: KHAN
+D: More than a match for poor Enterprise.
+N: He punches at his console. thru thru
+S: EXT. SPACE - REGULA
+N: Reliant ominously pokes her nose into the lit side of the planet, heading for Enterprise.
+S: INT. RELIANT BRIDGE
+C: JOACHIM
+D: Departing dark side, Regula.
+C: KHAN
+D: Visual --
+N: ON SCREEN The Regula I Space Station -- but where is Enterprise? ON KHAN frowning with puzzlement.
+C: KHAN
+D: Where IS she?
+N: ON SCREEN not a trace!
+S: INT. GENESIS CAVE PLATFORM
+N: Kirk and the others eat fruit from the huge (matte) forest beyond. Chekov has been moved to join them. 159A ANGLE FAVORING DAVID AND SAAVIK 159A who watches him.
+C: DAVID
+D: What are you looking at?
+C: SAAVIK
+D: The Admiral's son.
+C: DAVID
+D: Don't you believe it.
+C: SAAVIK
+D: Oh, I believe it.
+N: She almost smiles. David returns her stare and it throws her.
+C: SAAVIK
+D: What are you looking at?
+E: continuing
+C: DAVID
+D: I don't know.
+E: confused
+S: 159B INT. GENESIS CAVE - WIDER ANGLE 159B
+N: Saavik rises, paces. Kirk puts down his food.
+C: KIRK
+D: Now that's what I call a meal.
+C: BONES
+D: It's like the Garden of Eden...
+C: CAROL
+D: Only here, every apple comes from the Tree of Knowledge.
+N: Kirk watches Saavik.
+C: KIRK
+D: What's on your mind, Lieutenant?
+C: SAAVIK
+D: The Kobayashi Maru, sir.
+C: DAVID
+D: The what?
+C: BONES
+D: The no-win scenario -- and with what philosophy a commander faces defeat.
+C: KIRK
+D: Are you asking me if we are playing out that scenario now, Lieutenant?
+N: SAAVIK On the test, sir, will you tell me what you did? I'd really like to know. Kirk looks at Bones, who smiles --
+C: BONES
+D: Lieutenant, you are looking at the only Starfleet cadet who ever beat the no-win scenario --
+C: KIRK
+D: And almost got tossed out of the Academy...
+N: He looks at his watch again, using his glasses --
+C: SAAVIK
+D: How?
+C: KIRK
+D: I reprogrammed the simulation so it was possible to rescue the ship.
+C: SAAVIK
+D: WHAT?
+C: KIRK
+D: I changed the conditions of the test. I received a commendation for original thinking. I don't like to lose.
+E: pause
+C: SAAVIK
+D: Then -- you never faced that situation -- faced death...
+C: BONES
+D: Until now.
+C: KIRK
+D: We each face death every day we're alive, Saavik.
+N: He picks up the communicator.
+C: KIRK
+E: continuing
+N: Spock, this is Kirk. It's two hours. Are you about ready?
+C: SPOCK'S VOICE
+D: Right on schedule, Admiral. Just give us your coordinates and we'll beam you aboard.
+N: The others are on their feet, stunned with amazement --
+C: KIRK
+D: Right. I don't like to lose.
+N: He clicks off. David gapes at his father.
+S: EXT. SPACE DARK SIDE OF REGULA
+N: WE CAN SEE NOW where Enterprise is: she has slipped behind the plantoid, clockwise, even as Reliant was rounding into the lighted side.
+S: INT. TRANSPORTER ROOM - ENTERPRISE
+N: Kirk, David, Saavik, Carol and Bones, holding the semi- conscious Chekov MATERIALIZE. Spock is there to greet them.
+C: SAAVIK
+D: But the damage report -- we were immobilized...
+C: KIRK
+D: Come, come, Lieutenant, you of all people go by the book. Hello, Spock. You remember Dr. Marcus...
+N: They are moving through the room as they talk --
+C: SPOCK
+D: Certainly...
+C: SAAVIK
+D: By the book...
+E: overlapping
+C: KIRK
+D: Regulation 46-A: 'If transmissions are being monitored during battle...'
+C: SAAVIK
+D: '... no uncoded messages on an open channel...'
+N: Saavik steps in front of Spock.
+C: SAAVIK
+D: You lied.
+E: continuing
+C: SPOCK
+D: I exaggerated.
+C: KIRK
+D: Hours instead of days, Saavik; now we have minutes instead of hours --
+C: BONES
+D: I'm taking this bunch to sick bay.
+E: behind
+N: CAMERA STAYS WITH THEM, HOLDS ON DAVID, awed.
+S: INT. CORRIDOR ENTERPRISE
+N: Saavik and Kirk follow Spock. They stop at a Turbo Lift --
+C: SPOCK
+D: They're inoperative below C-deck.
+S: INT. ANOTHER ENTERPRISE CORRIDOR
+N: They race down corridors as they speak --
+C: KIRK
+D: What IS working around here?
+C: SPOCK
+D: Not much, Admiral. We have partial main power...
+C: KIRK
+D: That's it?
+C: SPOCK
+D: Best we could do in two hours.
+S: INT. ENTERPRISE BRIDGE
+N: Full crew in place as doors whoosh open --
+C: SULU
+D: Admiral on the bridge --
+E: overjoyed
+C: KIRK
+D: Battle stations.
+N: ALARMS, SIRENS, ETC. CREW RUSH INTO PLACE AS Kirk, Spock and Saavik approach the big screen.
+C: KIRK
+D: Tactical.
+E: continuing
+N: We see the Enterprise emerging from the dark side of Gamma Regula, where Reliant is now a moving blip.
+C: KIRK
+D: Uh oh.
+E: continuing
+C: SPOCK
+D: She can out-run us and out-gun us. But there is the Mutara Nebula at 153 mark four.
+C: KIRK
+D: Scotty, can we make it inside?
+E: studies his console
+C: SCOTTY
+D: The energizer's bypassed like a Christmas tree -- so don't give me too many bumps.
+C: KIRK
+D: No promises, Mr. Scott. On your way.
+C: SAAVIK
+D: Trouble with the nebula, sir, is all that static discharge and gas clouds our tactical display. Visuals won't
+N: function and shields will be useless. Kirk looks over the rims of his glasses at Spock; they smile with faint amusement.
+C: SPOCK
+D: What's sauce for the goose, Mr. Saavik. The odds will be even.
+N: VARIOUS CORRIDORS, ENTERPRISE As the lights change, the CREW runs to their stations.
+S: 166A EXT. SPACE 166A
+N: ENTERPRISE STARTS MOVING.
+S: INT. HOSPITAL
+N: Carol, David and Bones react to the light change and the sirens -- Bones works on Chekov...
+C: DAVID
+D: I'm going up there.
+C: BONES
+D: You'll be in the way, Dr. Marcus... best stay here.
+N: Carol and David are civilians on a battleship.
+S: INT. ENTERPRISE BRIDGE
+N: Reacting. Saavik approaches Kirk and Spock.
+C: SAAVIK
+D: Admiral... what happens if Reliant fails to follow us into the nebula?
+N: Kirk and Spock exchange looks --
+C: SPOCK
+D: I think we can guarantee she'll follow us, Mr. Saavik. Remind me to explain to you the concept of human ego.
+C: KIRK
+D: Best speed, Scotty...
+S: EXT. SPACE
+N: The Enterprise whooshes by CAMERA leaving Regula behind. Reliant now appears in far b.g. and CAMERA BEGINS A MOVE to her.
+S: INT. RELIANT BRIDGE
+C: KHAN
+D: There! Full impulse power! Not so wounded as we were led to believe -- so much the better...
+S: EXT. SPACE
+N: Reliant moves to and past CAMERA in hot pursuit.
+S: EXT. SPACE - SERIES OF SHOTS
+N: Call them SPACE-BYS. Enterprise rushes TOWARD US, flashes BY and CONTINUES towards the swirling nebula. THEN Reliant does the same, closer in pursuit. At this moment, half the distance between Regula and the nebula has been covered.
+S: INT. ENTERPRISE BRIDGE
+C: SPOCK
+D: Estimating nebula penetration in two minutes. Reliant is closing.
+C: KIRK
+D: Steady as you go...
+S: EXT. SPACE
+N: Orientation, SHOT. Reliant can clearly see where Enterprise is headed --
+S: INT. RELIANT BRIDGE
+C: JOACHIM
+D: We'll lose them if they go in there.
+C: KHAN
+D: Rake her.
+N: SOMEONE PUNCHES A BUTTON
+S: EXT. SPACE
+N: Reliant's shot crosses Enterprise's bow --
+S: INT. ENTERPRISE HOSPITAL
+N: The ship reverberates with the near miss. Chekov wakes up, looks wildly about --
+C: BONES
+D: Take it easy --
+C: CHEKOV
+D: But I must --
+C: BONES
+D: Listen to me, Pavel; you haven't the strength or the equilibrium --
+C: CHEKOV
+D: But --
+N: As they talk, David, unnoticed, leaves the area. The Enterprise is buffeted again --
+C: CAROL
+D: Dr. McCoy, I can't just sit here. Tell me what I can do.
+C: BONES
+D: You can help get my surgery squared away. I'm expecting customers.
+E: grim
+N: She whitens in fear. ANOTHER SHOT reverberates.
+S: INT. ENTERPRISE BRIDGE
+C: SAAVIK
+D: That was close --
+C: KIRK
+D: They just don't want us going in there.
+E: unfazed
+N: SPOCK One minute to nebula perimeter. The bridge door slides open and David enters. He stares in wonder. Saavik reacts to David.
+C: SPOCK
+D: Admiral, they're reducing speed.
+E: continuing
+C: KIRK
+D: Uhura, patch me in --
+C: UHURA
+D: Aye, sir.
+S: INT. RELIANT BRIDGE
+C: KHAN
+D: Why are we slowing?
+C: JOACHIM
+D: We daren't follow them into the nebula, sir -- our shields will be useless...
+C: KIRK'S VOICE
+D: This is Admiral Kirk.
+N: Khan's eyes bulge --
+C: KIRK'S VOICE
+D: We tried it once your way, Khan. Are you game for a rematch?
+E: continuing
+N: Khan's eyes bulge --
+C: KIRK'S VOICE
+D: Khan -- ! I'm laughing at the "superior" intellect.
+E: continuing
+C: KHAN
+D: Full impulse power!
+C: JOACHIM
+D: No sir! We have Genesis -- Whatever you want --
+C: KHAN
+D: Full power damn you!
+N: And he reaches across and executes it himself.
+S: INT. ENTERPRISE BRIDGE
+N: They react to Reliant's speed-up. The nebula approach is ON SCREEN.
+C: KIRK
+D: I'll say this for him: he's consistent.
+E: dry
+S: EXT. SPACE - THE MUTARA NEBULA
+N: WE'RE VERY CLOSE NOW, and SEE CLEARLY the swirling, slowly moving gases, magenta, purple, etc. There are veils of luminescent materials and through all an interlace of unpredictable electrical charges. Like lightning, these intermittent great flashes illumine whole sections of the nebula. OUR VIEW is moving slowly forward...
+S: INT. ENTERPRISE BRIDGE
+C: SPOCK
+D: And we're... in.
+E: timing
+S: EXT. SPACE - THE NEBULA
+N: As Enterprise whooshes into the PICTURE headed into the purplish gas -- and disappears into a cloud bank of the stuff. A moment then Reliant APPEARS, pursues Enterprise into the gloom, also disappears.
+S: INT. RELIANT BRIDGE
+N: ON SCREEN the picture is squirrelly purple, breaking up. Blindness. Panic.
+C: KHAN
+D: Tactical!
+C: JOACHIM
+D: Inoperative.
+E: tries
+C: KHAN
+D: Raise the shields...
+N: Electrical forces raging without are also reflected on the circuits within. It's bumpy, on top of everything else. Electronic WHINING.
+C: JOACHIM
+D: As I feared, sir. Not functional. I'm reducing speed.
+N: Khan does not argue.
+S: EXT. SPACE - PURPLE - SERIES OF SHOTS
+N: Cautiously Reliant emerges from a massive "cloudbank." Electrical discharges abound. Barely moving, she feels her way forward. Alone. AS THE ANGLE WIDENS A treat: Enterprise is above and behind Reliant.
+S: INT. ENTERPRISE BRIDGE - ON SCREEN
+N: Reliant's image is breaking up.
+C: SULU
+D: Phaser lock inoperative, sir.
+C: KIRK
+D: Best guess, Mr. Sulu. Fire when ready.
+N: Sulu strains, then fires -- just as an electrical dis- turbance bounces the bridge --
+S: EXT. SPACE NEBULA
+N: The bounce causes Sulu's phaser shot to go wide of Reliant, amid CRACKLING discharges --
+S: INT. RELIANT BRIDGE
+N: Rolls from the near-miss concussion --
+C: KHAN
+D: Aft-torpedoes -- fire -- !
+S: EXT. SPACE NEBULA
+N: Reliant is wide of the mark with a Photon torpedo. A BLINDING ELECTRICAL DISCHARGE. When it clears, Enterprise appears to be alone.
+S: INT. ENTERPRISE BRIDGE
+N: ON SCREEN, nothing but magenta amid picture breakup --
+C: KIRK
+D: Hold your course. Look sharp...
+E: sweating
+C: SAAVIK
+D: At what.
+S: EXT. NEBULA (INTERCUT WITH BRIDGE)
+N: Enterprise feeling its way... ON BRIDGE - POV ON SCREEN All peer into the lousy picture. Occasional electrical flashes.
+S: EXT. SPACE NEBULA
+N: Still Enterprise moves forward... A LARGE FLASH... a SUDDEN GLIMPSE: Reliant boring in on collision course!
+S: INT. ENTERPRSIE BRIDGE
+N: A sudden clearing ON SCREEN: Reliant!
+C: KIRK
+D: Evasive starboard!
+N: Hard over, but not fast enough. Reliant fires a phaser. SERIES OF SHOTS Reliant's phaser shot hits the Enterprise torpedo room in Dorsal Fin area of ship.
+S: INT. ENTERPRISE TORPEDO ROOM
+N: An EXPLOSION rocks the room and...
+S: INT. ENTERPRISE BRIDGE
+N: The Bridge rattles from the explosion below; Sulu is thrown from his chair. Saavik leaps to her post --
+C: KIRK
+D: Phaser bank one, fire!
+S: EXT. SPACE NEBULA
+N: The Enterprise fires a phaser and delivers a raking shot -- which rips along the side of Reliant's primary hull.
+S: 200A INT. RELIANT BRIDGE (FORMERLY SCENE 205) 200A
+N: The bridge is damaged; Joachim and others are wounded...
+C: KHAN
+D: Joachim!
+N: For the first time, his friend wounded, Khan hesitates, holds him --
+C: JOACHIM
+D: Yours... is... the superior...
+C: KHAN
+D: I shall avenge you --
+N: 200B NEW ANGLE 200B She veers to one side with the impact and disappears into a deep purple mass.
+S: INT. ENTERPRISE BRIDGE
+N: Sulu is being helped by David --
+C: KIRK
+D: Damage, Scotty?
+S: INT. ENGINE ROOM
+N: Bones is there, helping some crewmen. The Reactor Room flashes a red warning light and glows with a blue light. The air is heavy with smoke but the doors, damaged earlier, still hold.
+C: SCOTTY
+D: Admiral, I've got to take the mains off the line. The energizer's shaken loose and I can't get in there to fix her -- radiation --
+S: INT. ENTERPRISE BRIDGE
+C: KIRK
+D: All right, we'll do the job with auxiliary power.
+N: The bridge door opens and closes; Chekov, faint, stands there.
+C: CHEKOV
+D: Could you use another hand, Admiral?
+C: KIRK
+D: Man the weapons console, Mr. Chekov.
+N: ANGLE FAVORING David as the others react to Chekov taking his place. Quiet.
+C: KIRK
+D: Spock?
+E: continuing
+N: Spock is bent over the scanner --
+C: SPOCK
+D: Sporadic energy readings port side, aft. Could be an impulse turn.
+C: KIRK
+D: He won't break off now. If he followed me this far he'll be back. But from where...?
+C: SPOCK
+D: He's intelligent, but not experienced. His pattern indicates two dimensional thinking...
+N: Kirk looks at him, smiles.
+C: KIRK
+D: Mr. Saavik, all stop.
+C: SAAVIK
+D: All stop, sir.
+C: KIRK
+D: Descend ten thousand meters. Stand by photon torpedoes.
+S: EXT. SPACE NEBULA
+N: Reliant in purplish mass, banking slightly, completing a long turn, then boring ahead.
+S: EXT. SPACE NEBULA
+N: As Reliant emerges from the dark blue mass into a clear almost tranquil place. Reliant, moving slowly, stops, as if looking around.
+S: INT. RELIANT BRIDGE
+N: The screens are empty.
+C: KHAN
+D: Where is he? Where in God's name is he?
+S: EXT. SPACE NEBULA
+N: Reliant motionless in the f.g. amid occasional flashes. Now, behind Reliant and from below, like a great whale rising from the depths, Enterprise rises vertically, slowly passing the unsuspecting enemy. When Enterprise is above, behind and quite close:
+S: INT. ENTERPRISE BRIDGE
+N: Reliant ON SCREEN, intermittent but clear.
+C: CHEKOV
+D: Torpedoes ready, sir.
+C: KIRK
+D: Fire.
+N: SERIES OF SHOTS
+S: A) EXT. ENTERPRISE
+N: fires torpedo; one which hits, destroying Reliant's weapons pod on top.
+S: B) INT. RELIANT
+N: C) EXPLOSIONS rock the interior of Reliant.
+S: D) EXT. ENTERPRISE
+N: fires two more times. The first causes general damage. The second, close behind blasts Reliant's port engine off into space, debris scattering.
+S: E) INT. RELIANT BRIDGE
+N: is devastated. Khan is blown from his chair and WE'RE UNCERTAIN of his fate.
+S: EXT. SPACE NEBULA
+N: Reliant, now a scarred, battered hulk, her main hull still intact, but dead in space.
+S: INT. ENTERPRISE BRIDGE
+N: No cheers, just deadly professionalism.
+C: KIRK
+D: Cease fire. Look sharp.
+C: SAAVIK
+D: Power levels quite low, sir.
+C: KIRK
+D: Mr. Scott, can you get the mains back on line?
+E: to intercom
+C: SCOTTY'S VOICE
+D: I'll need ten minutes, sir, 'til the radiation dissipates.
+E: breaking up slightly
+C: KIRK
+D: Uhura, send to Commander, Reliant:
+N: prepare to be boarded.
+C: UHURA
+D: Aye, sir.
+S: INT. RELIANT BRIDGE
+N: Amid the smoke and ruins, WE SEE no signs of life.
+C: UHURA'S VOICE
+D: Commander, Reliant, this is Enterprise. Surrender and prepare to be boarded. Repeat...
+N: In f.g., chillingly, Khan rises INTO SHOT by the main console. He is horribly burned, and it is clear that he is clinging to life by his will.
+C: KHAN
+D: No... Kirk. The game's not over.
+N: As Uhura's voice continues O.S., Khan pulls himself into a chair at the console, one of his hands useless at his side.
+C: KHAN
+D: To the last I will grapple with thee!
+E: continuing
+N: Painfully, with one good arm, he starts arming the Genesis console.
+S: 213A INT. RELIANT TRANSPORTER ROOM 213A
+N: There sits the Genesis torpedo: lights start blinking in response. As we watch, the CHILD we met on Ceti Alpha walks to the torpedo and smiles at the lights.
+S: INT. ENTERPRISE BRIDGE
+C: UHURA
+D: Enterprise to Reliant: you are ordered to surrender your vessel. Respond! Nothing, sir.
+E: to Kirk
+C: KIRK
+D: We'll beam aboard. Alert
+N: transporter room --
+C: SPOCK
+D: Admiral. Scanning an energy source on Reliant. A pattern I've never seen.
+N: David peers closer over Spock's shoulder, reacts.
+C: DAVID
+D: It's the Genesis Wave!
+C: KIRK
+D: What?
+C: DAVID
+D: He's on a build up to detonation!
+C: KIRK
+D: How soon --
+C: DAVID
+D: We encoded four minutes --
+C: KIRK
+D: We'll beam aboard and stop it --
+C: DAVID
+D: You can't!
+N: The briefest stunned moment. Kirk hits intercom:
+C: KIRK
+D: Scotty, I need warp speed in three minutes or we're all dead!
+N: STATIC.
+C: KIRK
+D: Scotty!
+E: continuing
+N: Spock leaps from his place and disappears through the bridge doors.
+C: KIRK
+D: Saavik, get us out, best speed!
+E: continuing
+C: SAAVIK
+D: Aye, sir.
+S: EXT. SPACE NEBULA
+N: Enterprise backs away from Reliant. Her speed is pain- fully slow.
+S: INT. RELIANT BRIDGE
+N: ON SCREEN, Enterprise, intermittent image, backs away. Khan smiles triumphantly through his pain. An elec- tronic power SOUND has been building.
+C: KHAN
+D: No... You can't get away... From hell's heart I stab at thee... For hate's sake... I spit my last breath at thee!
+E: amid the pain
+N: Khan topples forward, dead. The WHINE continues to build chillingly.
+S: INT. ENTERPRISE ENGINE ROOM
+N: Spock rushes in. Bones ministers to Scotty, b.g. Spock sizes up the situation, starts for the radiation room, Bones intercepts him.
+C: BONES
+D: Are you out of your Vulcan mind? No human can tolerate the radiation loose in there!
+C: SPOCK
+D: But, as you are so fond of observing, Doctor, I'm not human.
+C: BONES
+D: You're not going in there -- !
+C: SPOCK
+D: I'm afraid I can't stop to discuss this logically --
+N: He gives Bones the Vulcan nerve pinch. Bones goes down. Spock presses the access button and enters the Reactor Room, a separated area behind radiation-proof glass and metal, RED FLASHING LIGHTS and an iridescent blue glow within. ANGLE - SCOTTY AND BONES
+C: SCOTTY
+D: Spock -- get out of there!
+E: in horror
+S: INT. ENTERPRISE REACTOR ROOM
+N: Bathed in blue light, arcing energy around him, Spock is a silhouetted figure as he goes to work, door clos- ing behind him.
+S: EXT. SPACE - RELIANT
+N: The WHINE increasing, the dead ship Reliant alive with danger...
+S: EXT. SPACE NEBULA - ENTERPRISE
+N: A snail's pace compared to the escape speed needed.
+S: INT. ENTERPRISE BRIDGE
+C: KIRK
+D: Time from my mark...
+C: SAAVIK
+D: Two minutes, ten seconds.
+C: KIRK
+D: Engine room! What's happening?!
+E: intercom
+S: INT. ENTERPRISE REACTOR ROOM (INTERCUT AS
+N: REQUIRED) Outside the glass, Scotty and Bones screaming:
+C: SCOTTY
+D: Captain, please!
+C: BONES
+D: Get out! Get out, man! Oh, dear
+N: God...! WITHIN WE CAN SEE the silent urging of Bones and Scotty. Spock is oblivious. Amid the fire-blue arcs, he moves to the control panel. Between his hands and the con- trols, power arcs insanely. Spock is in an inferno, a radiation hell, fighting now with all his strength to control it. Slowly, the damping rods move out. Spock moves to a manual control, begins to turn it. CLOSE - SPOCK'S HANDS on the manual control, slowly turning black. HIS FACE His face, using all the self discipline he is capable of to control the pain, continuing to work -- WITHOUT Bones and Scotty react in helpless horror.
+S: EXT. SPACE NEBULA
+N: Enterprise still well within the nebula, Reliant a figure still visible in b.g. She's crawling still.
+S: INT. ENTERPRISE BRIDGE
+N: Reliant, now symbol of death, ON SCREEN.
+C: KIRK
+D: Time!
+C: SAAVIK
+D: Three minutes, thirty seconds.
+C: KIRK
+D: Distance from Reliant...
+C: CHEKOV
+D: Four hundred kilometers.
+N: Kirk looks at David, but David shakes his head: No way. Then:
+C: CADET
+D: Sir! The mains are back on line -- !
+C: KIRK
+D: Bless you, Scotty. Go, Saavik!
+N: She increases power and --
+S: EXT. SPACE NEBULA - SERIES OF SHOTS
+N: A) With a burst of warp speed, Enterprise accelerates out of the lazy pace and whooshes PUT OF SCENE, leaving Reliant behind. B) POV RELIANT disappearing in the swirls of: C) POV MUTARA NEBULA which clears the flame and -- D) ENTERPRISE roaring through space -- and: E) RELIANT The WHINE increases to fever pitch, then: she goes!
+S: F) EXT. MUTARA NEBULA - MASTER EFFECT
+N: As Reliant goes, so goes the nebula. The "Genesis Effect" WE SAW in its earliest experiments, now seems familiar on a gigantic, cosmic scale. The blinding flash at first, followed by the same tumbling turbulence of the miniature test. It is awesome.
+S: INT. ENTERPRISE BRIDGE
+N: The bridge doors open and Carol appears. Instinctively she draws near her son. Finally, Kirk turns, sees Carol --
+C: KIRK
+D: Reduce speed. My God, Carl. Look
+N: at it. ON SCREEN and INTERCUT -- GENESIS TUMBLES and starts evolving. A moment in history.
+C: KIRK
+D: Engine Room. Well done. Scotty?
+E: continuing, on intercom
+C: BONES' VOICE
+D: Jim, you'd better get down here. Hurry.
+E: after a beat
+N: The tone frightens Kirk.
+C: KIRK
+D: Saavik, take the con.
+N: He moves through the doors quickly, leaving the rest staring at the new world evolving.
+S: INT. STAIRWAY TO ENGINE ROOM
+N: It is endless. Kirk runs forever, feet pounding down, down, down --
+S: EXT. SPACE AND ON SCREEN
+N: The clouds tumble and move, new things lie beyond --
+S: INT. STAIRS
+N: Kirk races --
+S: INT. ENTERPRISE ENGINE ROOM
+N: Kirk emerges to encounter Scotty and Bones. Their looks tell him. He sees the flashing light over the Reactor Room. He dashes for the control panel. Bones grabs him.
+C: SCOTTY
+D: No, sir! You'll flood the whole compartment...!
+C: KIRK
+D: He'll die -- !
+C: BONES
+D: He's dead already, Jim.
+E: also holds him
+N: Kirk's eyes bulge.
+C: KIRK
+D: Oh, God.
+N: ANGLE AT REACTOR ROOM GLASS DOOR With stunned understanding, Kirk stumbles to the door, sees Spock on his knees, hands blackened, face cracked with radiation lines and scars. Spock shakes his head. With a feeble hand he reaches the intercom button: filtered communication.
+C: KIRK
+D: Spock!
+C: SPOCK
+D: The ship -- out of danger?
+C: KIRK
+D: Yes --
+N: Spock is satisfied; he fights for breath --
+C: SPOCK
+D: Don't grieve, Admiral -- it's logical: the good of the many outweighs --
+N: He almost keels over. Kirk has tears streaming down his face.
+C: KIRK
+D: ... the good of the few...
+C: SPOCK
+D: Or the one.
+N: He props a hand on the glass to support himself. Kirk's hand reflexively goes to match Spock's on the other side of the glass --
+C: SPOCK
+E: continuing
+N: I never took the Kobayashi Maru test -- until now. What do you think of my solution?
+C: KIRK
+D: Spock...!
+C: SPOCK
+D: I have been -- and always will be -- your friend... Live. Long. And. Prosper.
+N: Spock falls. Bones and Scotty react.
+C: KIRK
+D: No...!
+C: SAAVIK'S VOICE
+D: Admiral, you've got to see this! There's new life -- a whole new world, a Genesis world -- !
+E: intercom
+N: But Kirk is past hearing or caring. He is huddled up against the glass, destroyed. Bones looks on, helpless.
+T: DISSOLVE TO:
+S: EXT. SPACE
+N: A spectacular look at Carol's planet being born! CAMERA PULLS BACK TO REVEAL the Ship's Company in full dress uniforms assembled for ship's burial service. Over the PULLBACK, we HEAR:
+C: KIRK
+D: In accordance with the traditions of Starfleet and of Article 184 Starfleet Regulations, we are assembled here today to pay final respects to our honored dead.
+N: Carol and David are PROMINENTLY FEATURED. David watching Kirk attentively. So are Sulu, Uhura, Chekov, and Saavik. Bones stands next to Kirk. Scotty carries his bagpipes. Saavik wears her hair down.
+C: KIRK
+D: And yet, in the midst of our sorrow it should be noted that this death takes place in the shadow of new life, the sunrise of a new world, a world that our beloved comrade gave his own life to protect and nourish. He did not feel that sacrifice a vain or empty one -- and we will not debate his profound wisdom, in these proceedings. Of my friend, I can only say this, that of all the souls I have encountered in my travels, his was the most -- -- human.
+E: continuing he falters
+N: He tries to go on, but catches Bones' face: Bones is streaming tears. Kirk can't go on.
+C: KIRK
+D: Lieutenant Saavik.
+E: continuing
+N: ANGLE - THE GROUP Saavik steps forward.
+C: SAAVIK
+D: We commend the soul of our brother departed. We love we commit his body to the depths of space.
+C: SULU
+D: Honors -- hup!
+N: All Starfleet personnel salute. Scotty begins to PIPE, an odd blare which mellows into Amazing Grace. Kirk nods a signal. THE CAPSULE A gleaming black projectile is carried by pallbearers into the launching chamber, which locks behind it. At a hand signal from a TORPEDOMAN, the projectile is fired. NOISE.
+S: EXT. SPACE
+N: Spock's remains seen on their way to the new world. The capsule grows too small to SEE. The bagpipes STOP.
+S: INT. TORPEDO ROOM
+C: SULU
+D: Return -- hup!
+N: The salute drop.
+C: KIRK
+D: Lieutenant.
+N: She steps to him and they exchange salutes --
+C: KIRK
+D: After you dismiss the company, you will take the watch. Set course for Ceti Alpha V and we'll pick up survivors.
+E: continuing; very quietly
+C: SAAVIK
+D: Aye, sir.
+C: KIRK
+D: I'll be in my quarters if needed, but I would prefer...
+C: SAAVIK
+D: Understood, sir.
+C: KIRK
+D: Dismiss the company.
+E: aloud
+N: They salute. She about-faces as Kirk walks towards the Turbo Lift. Saavik issues dismissal and posting orders, but WE TRUCK with Kirk until CAMERA STOPS and he leaves FRAME and WE HOLD on David. He finally understands.
+S: INT. KIRK'S QUARTERS
+N: After a long moment, the CAMERA DISCOVERS Kirk. He pours a drink, then decides not to have it. He sits wearily, not knowing how to shake the ghosts. Then he sees the book. Kirk picks up the battered volume, the gift from his friend, and closes his eyes a moment. Almost idly he starts turning pages, looking for a clue. But he can't see the writing -- he rummages through his pockets and pulls out the half-glasses -- One of the lenses is broken. It has a deep impact on Kirk. He puts down the book and glasses and covers his eyes. A SOFT BONG. Kirk clears his throat.
+C: KIRK
+D: Yes... come.
+N: The door whooshes open and closes to admit David. The last person Kirk expected to see.
+C: DAVID
+D: I don't mean to intrude.
+C: KIRK
+D: Uh, no... I should be on the bridge.
+E: rises
+C: DAVID
+D: Are you running away from me?
+N: David's strength is turning a corner with Kirk --
+C: KIRK
+D: I suppose I was. I poured a drink. Would you like it?
+E: pause
+C: DAVID
+D: No. I -- I guess I'm not what you expected.
+N: KIRK (rueful) I didn't expect anything.
+C: DAVID
+D: That makes two of us. Lieutenant Saavik was right: you never have faced death --
+E: he studies his father
+C: KIRK
+D: Not like this -- no. I haven't faced death, I cheated death. I tricked my way out of death and patted myself on the back for my ingenuity. I know nothing.
+E: hoarse
+C: DAVID
+D: You knew enough to tell Saavik that how we face death is at least as important as how we face life --
+C: KIRK
+D: It was just words.
+C: DAVID
+D: But good words. That's where ideas begin. Maybe you should listen to them.
+C: KIRK
+D: I'm trying, David.
+C: DAVID
+D: So am I. My friends were killed, too.
+C: KIRK
+D: I am truly sorry.
+N: Pause. They study each other.
+C: DAVID
+D: I was wrong about you. And I'm sorry.
+C: KIRK
+D: Is that what you came here to say?
+C: DAVID
+D: Mainly. And also that I'm proud -- very proud -- to be your son.
+E: he starts out, then turns --
+N: A stunned moment, then Kirk lets it all hang out: for David, for Carol and for Spock. He hugs his son, hold- ing onto him as if to life itself.
+S: EXT. SPACE
+N: The Enterprise passes the new planet in all its beauty.
+S: INT. ENTERPRISE BRIDGE
+N: The door whooshes. Kirk strides on the bridge, David with him. Carol is there with Bones; they are glad at what they see.
+C: SAAVIK
+D: Admiral on the bridge!
+C: KIRK
+D: As you were, Mr. Saavik.
+C: SAAVIK
+D: Aye, sir. On course to Ceti Alpha. All is well.
+C: KIRK
+D: Good, I believe you already know my, uh, son --
+N: Saavik comes close to blushing --
+C: KIRK
+D: Yes, well, why don't you show him around and...
+E: continuing
+C: SAAVIK
+D: Aye, sir --
+N: She takes him off, deadpan amusement -- SAAVIK (continuing) So you turn out to be the dumb bastard. They stare at her.
+C: SAAVIK
+D: That is a little joke.
+E: continuing
+N: Kirk has a smile. He joins Bones and Carol facing the screen.
+C: BONES
+D: She's changed her hair again. Will you look at that? Think they'll name it for you, Doctor?
+E: pause
+C: CAROL
+D: Not if I can help it. We'll name it for our friend.
+C: KIRK
+D: It is a far far better thing I do than I have ever done before... a far better resting place I go to than I have ever known...
+E: quietly
+C: CAROL
+D: Is that a poem?
+E: soft
+C: KIRK
+D: Something Spock was trying to tell me. On my birthday.
+N: He shakes his head, remembering --
+C: BONES
+D: You okay, Jim? How do you feel?
+C: KIRK
+D: Young. I feel young, Doctor.
+E: considers; smiles
+N: He turns to Saavik and David --
+C: KIRK
+D: Lieutenant, new course: 'Second star to the right and straight on till morning.'
+E: continuing
+N: The bridge crackles with lights and CHATTER as we...
+T: CUT TO:
+N: 247A THE VIEWSCREEN 247A AND GO THROUGH TO:
+S: EXT. SPACE FINALE (BOARDED)
+C: SPOCK'S VOICE
+D: Space, the final frontier... These are the continuing voyages of the Starship Enterprise... Her ongoing mission: to explore strange new worlds... to seek out new life and new civilizations... To boldly go where no man has gone before...
+N: She is moving out now, passing CAMERA and heading toward the distant stars. She is beautiful and they are beautiful. And as she slowly disappears from VIEW... MUSIC RISES. CREDITS ROLL. THE END

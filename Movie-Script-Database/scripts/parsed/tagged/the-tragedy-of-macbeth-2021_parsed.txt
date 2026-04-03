@@ -1,0 +1,1652 @@
+M: MACBETH
+M: Screenplay by
+M: Joel Coen
+M: Based on the play by
+M: William Shakespeare
+M: 11/12/19 – White
+M: 11/27/19 - REVISED White Production Draft
+M: 12/13/19 – White Shooting Script
+M: 1/16/20 – Blue REVISED
+M: BLUE REVISED – 1/16/20
+N: BLACK
+C: WIND
+D: And under the wind the distant tolling of a bell. With the tolling a single word fades up:
+C: WHEN
+D: And repeats twice more:
+C: WHEN WHEN
+D: As the last "When" appears we hear the voices of three women, alternating: When shall we three meet again? In thunder, lightning, or in rain? When the hurly-burly's done. When the battle's lost and won. That will be ere the set of sun. Where the place? Upon the heath. There to meet with Macbeth.
+E: V.O.
+C: ALL TOGETHER
+D: Fair is foul and foul is fair. Hover through the fog and filthy air. MILKY WHITE – DAY
+N: FADE UP with music on a theatre curtain. It opens slowly to reveal nothing but milky white from floor to ceiling. From the top of the frame a small black spot descends and starts to describe a circle in the white field. It looks like a far-away bird arcing down from above. As the bird completes a circle, the white fog behind it slowly blows away to reveal, even tinier, what appears to be a man, defying gravity, walking up the far wall at the back of the stage. We realize we are looking down from above.
+T: CUT TO:
+S: EXT. BEACH
+N: A LOW ANGLE looking across the beach. The tents of Duncan’s encampment can be seen on a rise in the distance as the last of the fog blows away. The man (The Captain) enters in BLUE REVISED – 1/16/20
+C: CONTINUED
+D: the foreground and recedes toward the tents, dripping a trail of blood. He walks with difficulty as he looks from the tents up into the sky overhead.
+N: HIS POV—Against a background of painted clouds, a raven circles overhead, waiting for him to die. It is joined by two others.
+C: MALCOLM
+D: Hail brave friend; EXT. DUNCAN'S ENCAMPMENT PUSH IN on Malcolm standing in the encampment next to Duncan, the King.
+E: OFF
+C: MALCOLM
+D: Say to the king the knowledge of the broil As thou didst leave it.
+E: CONT’D
+C: CAPTAIN
+D: Doubtful it stood, As two spent swimmers that do cling together And choke their art. The merciless MacDonwald -- * With fortune on his damnèd quarrel smiling, Showed like a rebel's whore. But all's too weak: For Brave Macbeth—well he deserves that name -- Disdaining fortune with his brandished steel, Which smoked with bloody execution, Like valor's minion carved out his passage Till he faced the slave; Which ne'er shook hands nor bade farewell to him Till he unseamed him from the knave to the chops And fixed his head upon our battlements.
+C: DUNCAN
+D: O valiant cousin, worthy gentleman! Behind Malcolm and Duncan warriors are gathering.
+C: CAPTAIN
+D: No sooner justice had with valor armed, Compelled these skipping kerns to trust their heels But the Norwegian lord, surveying vantage, With furbished arms and new supplies of men, Began a fresh assault. BLUE REVISED – 1/16/20
+C: CONTINUED DUNCAN
+D: Dismayed not this Our captains, Macbeth and Banquo?
+C: CAPTAIN
+D: Yes, As Sparrows eagles, or the hare the lion. So they doubly redoubled strokes upon the foe. I cannot tell-
+N: The Captain sinks to his knees. Behind him we see Ross and a soldier approaching. *
+C: CAPTAIN
+D: But I am faint; my gashes cry for help. As he is assisted off Ross walks into a CLOSE UP.
+E: CONT’D
+C: ROSS
+D: God save the King.
+C: DUNCAN
+D: Whence cam'st thou, worthy Thane?
+C: ROSS
+D: From Fife, great King. Where the Norwegian banners flout the sky And fan our people cold. Norway himself, with terrible numbers, Assisted by that most disloyal traitor The Thane of Cawdor, began a dismal conflict Till that Bellona's bridegroom, brave Macbeth, Confronted him with self-comparisons, Point against point, rebellious arm 'gainst arm, Curbing his lavish spirit, and to conclude, The victory fell to us.
+C: MALCOLM
+D: Great happiness!
+C: DUNCAN
+D: No more the Thane of Cawdor shall deceive Our bosom interest. Go pronounce his present death--
+N: BLUE REVISED – 1/16/20
+C: CONTINUED ROSS
+D: I'll see it done--
+C: DUNCAN
+D: --And with his former title greet Macbeth. WIND. Duncan looks to the sky: The fog has blown back in.
+N: Duncan and Malcolm, turn, walk away towards the tents, and are swallowed by the fog.
+S: 4 EXT. THE BEACH/BATTLEFIELD 4*
+N: A corpse littered beach—the bodies of Norwegian soldiers half buried in the sand. The first Witch starts to rummage a body, his eyes pecked out as if by a bird. FIRST WITCH * Where hast thou been sister? SECOND WITCH * Killing swine. FIRST WITCH * Sister, where thou? THIRD WITCH * (finding the thumb) Look what I have. SECOND WITCH * Show me! Show me! THIRD WITCH * Here I have a sailor’s thumb, Wrecked as homeward he did come. SECOND WITCH * A drum, a drum! Macbeth doth come. FIRST WITCH * O! In a sieve I’ll thither sail And, like a rat without a tail, I’ll do, I’ll do, I’ll do. SECOND WITCH * I’ll give thee a wind.
+C: FIRST WITCH
+D: Thou’rt kind.
+N: BLUE REVISED – 1/16/20
+C: CONTINUED
+D: THIRD WITCH * And I another. FIRST WITCH * I myself have all the other. I’ll drain him dry as hay. Sleep shall neither night nor day Hang upon his penthouse lid. He shall live a man forbid. Weary sev’nights nine times nine, Shall he dwindle, peak and pine. ALL TOGETHER * The weird sisters, hand in hand, Posters of the sea and land, Thus do go about, about, Thrice to thine and thrice to mine And thrice again, to make up nine, Peace, the charms wound up. Distantly, off:
+C: MACBETH
+D: So foul and fair a day I have not seen. SLOW PUSH IN on the Three Witches. They freeze, standing together, waiting for Macbeth to emerge from the fog.
+C: BANQUO
+D: How far is it to Forres? As Banquo and Macbeth approach:
+E: OFF
+C: BANQUO
+D: What are these, So withered and so wild in their attire. That look not like the inhabitants o’ th’ earth And yet are on ‘t? Live you or are you aught That man may question?
+E: CONT’D
+C: MACBETH
+D: Speak, if you can. What are you? We hear the screech of a bird—then, finding her voice:
+C: FIRST WITCH
+D: All hail Macbeth! Hail to thee, Thane of Glamis!
+N: BLUE REVISED – 1/16/20
+C: CONTINUED SECOND WITCH
+D: All hail Macbeth. Hail to thee, Thane of Cawdor.
+C: THIRD WITCH
+D: All hail Macbeth, that shall be king hereafter.
+C: BANQUO
+D: Good sir, why do you start, and seem to fear Things that do sound so fair? If you can look into the seeds of time And say which grain will grow and which will not, Speak then to me, who neither beg nor fear Your favors nor your hate.
+E: TO MACBETH to the witches
+N: Three screeches:
+C: FIRST WITCH
+D: Lesser than Macbeth, and greater.
+C: SECOND WITCH
+D: Not so happy, yet much happier.
+C: THIRD WITCH
+D: Thou shalt get kings, though thou be none. So all hail, Macbeth and Banquo! Banquo and Macbeth, all hail! Macbeth advances as the witches back away into the fog…
+C: MACBETH
+D: Stay you imperfect speakers, tell me more: I know I am Thane of Glamis, But how of Cawdor? The Thane of Cawdor lives, A prosperous gentleman; and to be king Stands not within the prospect of belief, No more than to be Cawdor. Say from whence You owe this strange intelligence, or why Upon this blasted heath you stop our way With such prophetic greeting. Speak, I charge you.
+C: BANQUO
+D: The earth hath bubbles as the water has, And they are of them. Wither are they vanished? Turning from the wall of fog to Banquo: BLUE REVISED – 1/16/20
+C: CONTINUED MACBETH
+D: Into the air, and what seemed corporal melted As breath into the wind. Would they had stayed! With a SCREECH three black birds burst from the fog behind Macbeth and rocket overhead, flapping their wings. Macbeth ducks as Banquo pivots to watch them fly away:
+C: BANQUO
+D: Were such things here as we do speak about? Or have we eaten on the insane root That takes the reason prisoner? Macbeth, laughing:
+C: MACBETH
+D: Your children shall be kings.
+C: BANQUO
+D: You shall be king.
+C: MACBETH
+D: And Thane of Cawdor too. Went it not so? Looking apprehensively into the sky:
+C: BANQUO
+D: To th’ selfsame tune and words. FADE OUT
+N: We hear the rhythmic spattering of rain on canvas and the distant rumble of thunder. The thunder turns into the ominous rumble of horse’s hooves, approaching. OVER BLACK a title FADES UP: THE TRAGEDY OF MACBETH We hear a voice: …Who goes there?
+T: CUT TO:
+S: INT./EXT. MACBETH’S TENT / ENCAMPENT – NIGHT
+N: CLOSE ON MACBETH’S EYES, startled open from sleep. BLUE REVISED – 1/16/20
+C: CONTINUED
+D: Standing over Macbeth are Ross and Angus under lit by firelight. We are inside a canvas tent.
+C: ROSS
+D: The king hath happily received, Macbeth, The news of thy success; and when he reads Thy personal venture in the rebels’ fight, His wonders and his praises do contend Which should be thine or his.
+C: ANGUS
+D: We are sent To give thee from our royal master thanks; Only to herald thee into his sight, Not pay thee. Macbeth struggles up from his pallet onto his elbows. Banquo waits in a far corner of the tent.
+C: ROSS
+D: And for an earnest of a greater honor, He bade me, from him, call thee Thane of Cawdor; In which addition, hail, most worthy thane, For it is thine.
+C: BANQUO
+D: What, can the devil speak true?
+C: MACBETH
+D: The Thane of Cawdor lives. Why do you dress me In borrowed robes?
+C: ROSS
+D: Who was the thane lives yet,
+N: He indicates the open entrance to the tent. Outside, under guard, THE THANE OF CAWDOR kneels outside. *
+C: ROSS
+D: But under heavy judgment bears that life Which he deserves to lose. Ross and Angus start to withdraw from the tent:
+E: CONT’D
+C: ROSS
+D: Whether he was combined With those of Norway, or did line the rebel BLUE REVISED – 1/16/20
+E: CONT’D MORE
+C: CONTINUED ROSS
+D: With hidden help and vantage, or that with both He labored in his country’s wrack, I know not; Still speaking as he approaches the prisoner, Ross unscabards his sword:
+E: CONT’D
+C: ROSS
+D: But treasons capital, confessed and proved, Have overthrown him. Macbeth has approached the entrance to the tent to peer out.
+E: CONT’D
+N: Ross has raised his sword over the prisoner—but pauses. He turns toward the tent. Cradling the blade, he offers it to Macbeth.
+C: MACBETH
+D: Thanks for your pains. Then, under his breath:
+E: Letting the tent flap down
+C: MACBETH
+D: Glamis, and Thane of Cawdor— The greatest is behind. He turns to Banquo. After a pause:
+E: CONT’D
+C: MACBETH
+D: Do you not hope your children shall be kings, When those that gave the Thane of Cawdor to me Promised no less to them?
+E: CONT’D
+C: BANQUO
+D: That, trusted home, Might yet enkindle you unto the crown, Besides the Thane of Cawdor. But ‘tis strange; And oftentimes, to win us to our harm, The instruments of darkness tell us truths, Win us with honest trifles, to betray’s In deepest consequence. Banquo leaves. Alone now:
+E: making his way out
+N: BLUE REVISED – 1/16/20
+C: CONTINUED MACBETH
+D: This supernatural soliciting Cannot be ill, cannot be good. If ill, Why hath it given me earnest of success. Commencing in a truth? Crossing the tent to sit at a small camp table:
+C: MACBETH
+D: I am Thane of Cawdor. If good, why do I yield to that suggestion Whose horrid image doth unfix my hair And make my seated heart knock at my ribs Against the use of nature? Present fears Are less than horrible imaginings: My thought, whose murder yet is but fantastical, Shakes so my single state of man that function Is smothered in surmise and nothing is But what is not. His attention is taken by a scuffle and raised voices outside.
+E: CONT’D
+C: MACBETH
+D: If chance will have me king, why, chance may crown me Without my stir. And then reaches for a piece of rolled paper and a quill pen. The wind returns, rattling the canvas of the tent all around him like a different kind of thunder.
+E: CONT’D
+C: MACBETH
+D: Come what come may, Time and the hour runs through the roughest day.
+E: CONT’D
+N: CLOSE on his hand as he unrolls the paper and we move in to its blank whiteness, filling the screen. The white parchment dissolves to the texture of a white wall. Once more the distant tolling of a bell, then a woman’s voice:
+C: LADY MACBETH
+D: They met me in the day of success; and I have learned by the perfect’st report they have more in them than * mortal knowledge.
+N: BLUE REVISED – 1/16/20
+S: INT. INVERNESS - LADY MACBETH’S HALL AND BEDCHAMBER – NIGHT
+N: A dark shadow of a woman, walking, holding a piece of paper, enters from the right, crossing the wall. We PAN off the wall into blackness to discover LADY MACBETH emerging from the shadows reading from the parchment that she holds in her hand.
+C: LADY MACBETH
+D: “When I burned in desire to question them further, they made themselves air, into which they vanished. Whiles I stood rapt in the wonder of it, came missives from the king, who all-hailed me Thane of Cawdor, by which title, before, these weird sisters saluted me, and referred me to the coming on of time with ‘Hail, king that shalt be!’ This have I thought good to deliver thee, my dearest partner of greatness, that thou might’st not lose the dues of rejoicing by being ignorant of what greatness is promised thee. Lay it to thy heart, and farewell.” She walks to a candle and dips the corner of the letter into the flame:
+E: CONT’D
+C: LADY MACBETH
+D: Glamis thou art, and Cawdor, and shalt be What thou art promised. Yet do I fear thy nature. It is too full o’ th’ milk of human kindness To catch the nearest way. She walks towards the door to the balcony as the flame slowly curls up the parchment, underlighting her face and leaving a translucent ash.
+E: CONT’D
+C: LADY MACBETH
+D: Thou wouldst be great, Art not without ambition, but without The illness should attend it. What thou wouldst highly, That wouldst thou holily; wouldst not play false, And yet wouldst wrongly win. CLOSE on Lady Macbeth on the balcony, now lit by the moon. Her prospect shows only the heath far below us, and the stars.
+E: CONT’D
+N: BLUE REVISED – 1/16/20
+C: CONTINUED LADY MACBETH
+D: Hie thee hither, That I may pour my spirits in thine ear And chastise with the valor of my tongue All that impedes thee from the golden round. Behind her, across the room, we see a door open, and she is backlit by a shaft of light.
+E: CONT’D
+N: CLOSE ON THE CANDLE: A draft of air from the open door carries the flaming * letter into the wind.
+C: DUNCAN
+D: Is execution done on Cawdor? EXT. DUNCAN'S ENCAMPMENT – NIGHT THE ROYAL ENCAMPMENT:
+E: OFF
+N: CLOSE ON ROSS CONFERRING WITH MALCOLM. Malcolm breaks off and approaches the king:
+C: MALCOLM
+D: My liege, I have spoke With one that saw him die, who did report That very frankly he confessed his treasons, Implored your highness’ pardon, and set forth A deep repentance. Ross steps up behind Malcolm to complete the thought:
+C: ROSS
+D: Nothing in his life Became him like the leaving it. He died As one that had been studied in his death To throw away the dearest thing he owed As ‘twere a careless trifle.
+C: KING DUNCAN
+D: There’s no art To find the mind’s construction in the face. He was a gentleman on whom I built An absolute trust. BLUE REVISED – 1/16/20
+E: studying Ross
+C: CONTINUED
+D: His attention is drawn to Macbeth and Banquo, who approach and kneel.
+C: KING DUNCAN
+D: O worthiest cousin, The sin of my ingratitude even now Was heavy on me. Only I have left to say, More is thy due than more than all can pay.
+C: MACBETH
+D: The service and the loyalty I owe, In doing it pays itself.
+C: KING DUNCAN
+D: Welcome hither. I have begun to plant thee and will labor To make thee full of growing. He gestures for them to rise.
+C: KING DUNCAN
+D: Noble Banquo, That hast no less deserved nor must be known No less to have done so, let me enfold thee And hold thee to my heart.
+E: CONT’D
+C: BANQUO
+D: There if I grow, The harvest is your own.
+C: KING DUNCAN
+D: My plenteous joys, Wanton in fullness, seek to hide themselves In drops of sorrow.
+N: Gesturing for the assembled troops to approach, he draws Malcolm close to him:
+C: KING DUNCAN
+D: Sons, kinsmen, thanes, And you whose places are the nearest, know We will establish our estate upon Our eldest, Malcolm, whom we name hereafter The Prince of Cumberland; This surprises Macbeth. BLUE REVISED – 1/16/20
+E: CONT’D
+C: CONTINUED KING DUNCAN
+D: Which honor must Not unaccompanied invest him only, But signs of nobleness, like stars, shall shine On all deservers. Turning to Macbeth:
+E: CONT’D
+C: KING DUNCAN
+D: From hence to Inverness, And bind us further to you. Surprised again:
+E: CONT’D
+C: MACBETH
+D: I’ll be myself the harbinger, and make joyful The hearing of my wife with your approach; Backing away: MACBETH * So, humbly take my leave. He turns to leave and we PULL him as he walks away from the encampment. KING DUNCAN * My worthy Cawdor! Let’s after him, whose care is gone before to bid us welcome. It is a peerless kinsman. MACBETH * The Prince of Cumberland—that is a step On which I must fall down or else o’erleap, For in my way it lies. Stars, hide your fires; Let not light see my black and deep desires. CUT TO:
+E: CONT’D
+N: BLUE REVISED – 1/16/20
+S: INT. INVERNESS - LADY MACBETH’S BEDCHAMBER – NIGHT
+N: Lady Macbeth, just as we left her, turns from the balcony toward the open door behind her—the blown out candle still in her hand. Lady Macbeth’s Gentlewoman, Lady Vivian, * stands in the doorway.
+C: LADY MACBETH
+D: What is your tidings? LADY VIVIAN * The king comes here tonight.
+C: LADY MACBETH
+D: Thou’rt mad to say it! Is not thy master with him? who, were’t so, Would have informed for preparation. LADY VIVIAN * * So please you, it is true. Our thane is coming. One of my fellows had the speed of him, Who, almost dead for breath, had scarcely more Than would make up his message.
+C: LADY MACBETH
+D: Give him tending; He brings great news. She shuts the door and leans against it, looking across the room at the balcony. With a distant CRY a black bird flies across the opening and disappears in the moonlit clouds. LADY MACBETH * The raven himself is hoarse That croaks the fatal entrance of Duncan Under my battlements. She crosses the room into the moonlight and sits on the bed.
+E: CONT’D
+C: LADY MACBETH
+D: Come, you spirits That tend on mortal thoughts, unsex me here, And fill me from the crown to the toe topfull Of direst cruelty. Make thick my blood; Stop up th’ access and passage to remorse, That no compunctious visitings of nature Shake my fell purpose nor keep peace between Th’ effect and it. BLUE REVISED – 1/16/20
+E: CONT’D MORE
+C: CONTINUED LADY MACBETH
+D: Come to my woman’s breasts And take my milk for gall, you murd’ring ministers, Wherever in your sightless substances You wait on nature’s mischief. Come, thick night, And pall thee in the dunnest smoke of hell, We move in to CLOSE on her eyes as they slowly close:
+E: CONT’D
+C: LADY MACBETH
+D: That my keen knife see not the wound it makes, Nor heaven peep through the blanket of the dark To cry “Hold, hold.” FADE OUT CUT TO: INT. INVERNESS - LADY MACBETH’S BEDCHAMBER – DAY CLOSE on Lady Macbeth as she slowly opens her eyes in the dark room.
+E: CONT’D
+N: THE CAMERA PULLS BACK OVER the shoulder of Macbeth, who sits on the bed leaning over her. For a long moment she simply looks up at him.
+C: LADY MACBETH
+D: Great Glamis, worthy Cawdor, Greater than both, by the all-hail hereafter. Macbeth draws her up into an embrace and we hold on her face, over his shoulder:
+E: softly
+C: LADY MACBETH
+D: Thy letters have transported me beyond This ignorant present, and I feel now The future in the instant.
+E: CONT’D
+N: BLUE REVISED – 1/16/20
+C: CONTINUED MACBETH
+D: My dearest love, Duncan comes here tonight.
+C: LADY MACBETH
+D: And when goes hence?
+C: MACBETH
+D: Tomorrow, as he purposes.
+C: LADY MACBETH
+D: O, never * Shall sun that morrow see. Your face, my thane, is as a book where men May read strange matters. To beguile the time, Look like the time; bear welcome in your eye, Your hand, your tongue; look like th’ innocent flower, But be the serpent under’t. She rises from the bed and starts to unstrap his armor, gently drawing it off his body.
+C: LADY MACBETH
+D: He that’s coming Must be provided for; and you shall put This night’s great business into my dispatch, Which shall to all our nights and days to come Give solely sovereign sway and masterdom.
+E: CONT’D
+C: MACBETH
+D: We will speak further.
+C: LADY MACBETH
+D: Only look up clear. To alter favor ever is to fear. Leave all the rest to me. FADE OUT
+N: We hear a bell begins to toll. Beating wings and the cry of birds. BLUE REVISED – 1/16/20
+S: EXT. INVERNESS - LADY MACBETH’S BEDCHAMBER WINDOW
+N: FADE IN on LADY MACBETH, through a window, looking down into the courtyard from a high vantage. Reflected in the window we see a flock of birds lifting off a bell tower in the center of the courtyard.
+S: EXT. INVERNESS - COURTYARD – DUSK
+N: We are BOOMING DOWN from the high angle perspective of the window toward the bell tower where Duncan and Banquo are just dismounting from their horses
+C: KING DUNCAN
+D: This castle hath a pleasant seat. CLOSE ON DUNCAN, looking up at the sky.
+C: KING DUNCAN
+D: The air Nimbly and sweetly recommends itself Unto our gentle senses. * The birds settle on the tower as Duncan continues:
+E: CONT’D
+C: KING DUNCAN
+D: This guest of summer The temple haunting martlet, does approve By his loved mansionry that the heaven's breath Smells wooingly here. INT. INVERNESS - STAIRS CLOSE TRACKING on LADY MACBETH’S footsteps hurrying down the stairs. EXT. INVERNESS - COURTYARD - DUSK
+E: CONT’D
+N: BACK TO DUNCAN, looking down from a high Angle:
+C: KING DUNCAN
+D: No jutty, frieze, Buttress, nor coign of vantage, but this bird Hath made his pendent bed and procreant cradle. Where they most breed and haunt, I have observed The air is delicate.
+E: CONT’D
+N: Lady Macbeth approaches across the courtyard. BLUE REVISED – 1/16/20
+C: CONTINUED KING DUNCAN
+D: See, see, our honored hostess!
+C: LADY MACBETH
+D: All our service In every point twice done, and then done double, Were poor and single business to contend Against those honors deep and broad wherewith Your majesty loads our house.
+C: KING DUNCAN
+D: Where's the Thane of Cawdor? We coursed him at the heels and had a purpose To be his purveyor; We see the group now from a distance, over the shoulder of Macbeth. He is watching them from a dark corner of the colonnade.
+C: KING DUNCAN
+D: but he rides well, And his great love, sharp as his spur, hath helped him. * To his home before us.
+E: CONT’D
+N: CLOSE on MACBETH watching Duncan, BANQUO AND LADY MACBETH withdraw toward the castle.
+C: KING DUNCAN
+D: Fair and noble hostess, We are your guest tonight. Give me your hand. Conduct me to mine host. CLOSE on Duncan's hand outstretched. Hesitating, her hand enters, and he grasps it. EXT. INVERNESS-COURTYARD / BELLTOWER – NIGHT SLOWLY WE DISSOLVE from the clasped hands to Macbeths hands, as we hear his voice:
+E: CONT’D
+C: MACBETH
+D: If it were done when ‘tis done, then ‘twere well It were done quickly.
+E: MORE
+N: BLUE REVISED – 1/16/20
+C: CONTINUED
+D: He opens them from fists to palm. Hard and calloused but scrubbed clean. Distant music has faded up, with the sound of merrymaking. He is standing where we left him but it is now night. A light from a distant window fades up on his face and shadows move across it.
+C: MACBETH
+D: If th’ assassination Could trammel up the consequence, and catch With his surcease success, that but this blow Might be the be-all and the end-all — here, But here upon this bank and shoal of time, We’d jump the life to come. He stands in the dark in the courtyard outside the banquet hall—For the first time we see him not in his armor but in a tunic. He turns toward the music and the distant window, and we follow him as he approaches it:
+E: CONT’D
+C: MACBETH
+D: But in these cases We still have judgment here, that we but teach Bloody instructions, which, being taught, return To plague th’ inventor. This evenhanded justice Commends th’ ingredience of our poisoned chalice To our own lips. He’s here in double trust: First, as I am his kinsman and his subject, Strong both against the deed; then, as his host, Who should against his murderer shut the door, Not bear the knife myself. Through the window we see dark shapes in silhouette, projected and distorted on the imperfect glass.
+E: CONT’D
+C: MACBETH
+D: Besides, this Duncan Hath borne his faculties so meek, hath been So clear in his great office, that his virtues Will plead like angels, trumpet-tongued against The deep damnation of his taking-off; CLOSE ON MACBETH
+E: CONT’D
+N: Shadows cross his face, cast from the merrymakers inside the banquet hall, passing to-and-fro across the window. BLUE REVISED – 1/16/20
+C: CONTINUED MACBETH
+D: And pity, like a naked newborn babe Striding the blast, or heaven’s cherubim horsed Upon the sightless couriers of the air, Shall blow the horrid deed in every eye That tears shall drown the wind. Behind him we see a dark form approaching from deeper in the courtyard.
+E: CONT’D
+C: MACBETH
+D: I have no spur To prick the sides of my intent, but only Vaulting ambition, which o’erleaps itself And falls on th’ other— Lady Macbeth, touching his shoulder, and he turns to face her:
+E: CONT’D
+C: MACBETH
+D: How now? What news?
+C: LADY MACBETH
+D: He has almost supped.
+C: MACBETH
+D: Hath he asked for me?
+C: LADY MACBETH
+D: Know you not he has?
+C: MACBETH
+D: We will proceed no further in this business. He hath honored me of late, and I have bought Golden opinions from all sorts of people, Which would be worn now in their newest gloss, Not cast aside so soon. She draws him away from the window into a darker corner of the courtyard, into the shadows of the bell tower.
+N: BLUE REVISED – 1/16/20
+C: CONTINUED LADY MACBETH
+D: Was the hope drunk Wherein you dressed yourself? Hath it slept since? And wakes it now to look so green and pale At what it did so freely? From this time Such I account thy love. Art thou afeard To be the same in thine own act and valor As thou art in desire? Wouldst thou have that Which thou esteem’st the ornament of life, And live a coward in thine own esteem, Letting “I dare not” wait upon “I would,” Like the poor cat I’ th’ adage?
+C: MACBETH
+D: Prithee peace. I dare do all that may become a man; Who dares do more is none.
+C: LADY MACBETH
+D: What beast was’t then That made you break this enterprise to me? When you durst do it, then you were a man; And to be more than what you were, you would Be so much more the man. I have given suck, and know How tender ‘tis to love the babe that milks me: I would, while it was smiling in my face, Have plucked my nipple from his boneless gums And dashed the brains out, had I so sworn as you Have done to this.
+C: MACBETH
+D: If we should fail?
+C: LADY MACBETH
+D: We fail. But screw your courage to the sticking place And we’ll not fail. When Duncan is asleep, Whereto the rather shall his day’s hard journey Soundly invite him, his two chamberlains Will I with wine and wassail so convince That memory, the warder of the brain, Shall be a fume, and the receipt of reason A limbeck only. When in swinish sleep Their drenched natures lies as in a death, What cannot you and I perform upon Th’ unguarded Duncan? what not put upon His spongy officers, who shall bear the guilt Of our great quell? BLUE REVISED – 1/16/20
+C: CONTINUED
+D: Macbeth looks at her for a long beat. The distant music stops and it is quiet.
+C: MACBETH
+D: Bring forth men-children only; For thy undaunted mettle should’ve composed Nothing but males. Lady Macbeth returns his stare but is silent.
+C: MACBETH
+D: Will it not be received, When we have marked with blood those sleepy two Of his own chamber and used their very daggers, That they have done’t? * LADY MACBETH * Who dares receive it other, * As we shall make our griefs and clamor roar Upon his death? * MACBETH * I am settled, and bend up Each corporal agent to this terrible feat. Away, and mock the time with fairest show; False face must hide what the false heart doth know. Lady Macbeth’s footsteps echoing away. The light from the distant window behind him fades out. leaving him standing * alone in a shaft of moonlight. EXT. INVERNESS - COURTYARD – STILL NIGHT From a distant corner of the courtyard, A VOICE:
+E: CONT’D
+C: BANQUO
+D: How goes the night, boy? MACBETH turns his attention to the voices: Fleance, Banquo’s son, is entering through the gate followed by his father. MACBETH backs into the shadow of the bell tower to listen but not be seen.
+N: BLUE REVISED – 1/16/20
+C: CONTINUED
+D: CLOSE ON FLEANCE. We are still in the courtyard but all is quiet now. Beyond the boy Banquo approaches.
+C: FLEANCE
+D: The moon is down; I have not heard the clock.
+C: BANQUO
+D: And she goes down at twelve.
+C: FLEANCE
+D: I take’t, ‘tis later, sir.
+C: BANQUO
+D: Hold, take my sword. There’s husbandry in heaven; Their candles are all out. Take thee that too. A heavy summons lies like lead upon me, And yet I would not sleep. MACBETH turns, hearing footsteps approach from the opposite end of the courtyard — a servant holding a torch.
+C: BANQUO
+D: Merciful powers, Restrain in me the cursed thoughts that nature Gives way to in repose. About to be revealed by the approaching torchlight, Macbeth steps out of the shadow to grab the torch, as if he was with the servant, and approaches Banquo with him.
+E: CONT’D
+C: BANQUO
+D: Give me my sword! Who’s there?
+C: MACBETH
+D: A friend.
+C: BANQUO
+D: What, sir, not yet at rest? Macbeth enters with a servant.
+C: BANQUO
+D: The king’s abed. He hath been in unusual pleasure and Sent forth great largess to your offices.
+E: CONT’D
+N: BLUE REVISED – 1/16/20
+C: CONTINUED MACBETH
+D: Being unprepared, Our will became the servant to defect, Which else should free have wrought.
+C: BANQUO
+D: All’s well. I dreamt last night of the three weird sisters. To you they have showed some truth.
+C: MACBETH
+D: I think not of them. Macbeth draws closer, looking at Fleance:
+C: MACBETH
+D: Yet when we can entreat an hour to serve, We would spend it in some words upon that business, If you would grant the time.
+C: BANQUO
+D: At your kind’st leisure. TRACK IN on Fleance—nervously returning Macbeth’s stare, as he approaches.
+N: Macbeth’s hand reaches in and tousles his hair.
+C: MACBETH
+D: Good repose the while.
+C: BANQUO
+D: Thanks, sir. The like to you.
+N: Banquo draws his son away and they leave. Macbeth turns to his servant.
+C: MACBETH
+D: Go bid thy mistress, when my drink is ready, She strike upon the bell. Get thee to bed. The servant leaves. His footsteps fade away leaving the faintest sound of wind. Macbeth is alone again.
+N: Behind MACBETH the columns of a long colonnade FADE UP, intersected by moonlight. BLUE REVISED – 1/16/20
+S: EXT. INVERNESS - COLONNADE – NIGHT
+N: He turns to face down the long colonnade which ends in a huge oak door to the tower. He moves, with purpose toward it, his footsteps echoing off the stones, then slows noticing something: A faint shaft of light is glancing off the steel handle of the door, still distant and hard to see. The wind disappears. Silence, except his footsteps:
+C: MACBETH
+D: Is this a dagger which I see before me, The handle toward my hand? Come, let me clutch thee. MACBETH’S POV: TRACKING SLOWLY down the dark colonnade. The glancing light on the distant door handle describes the shape of a knife…
+C: MACBETH
+D: I have thee not, and yet I see thee still. Art thou not, fatal vision, sensible To feeling as to sight? Or art thou but A dagger of the mind, a false creation Proceeding from the heat-oppresséd brain? I see thee yet, in form as palpable As this which now I draw. CLOSE as he draws a knife from the left sleeve of his tunic—
+E: CONT’D
+C: MACBETH
+D: Thou marshal’st me the way that I was going, And such an instrument I was to use. Mine eyes are made the fools o’ th’ other senses, Or else worth all the rest. I see thee still, And on thy blade and dudgeon gouts of blood, Which was not so before.
+E: CONT’D
+N: Still advancing, he moves his head to the side and as the light shifts on the handle changing the effect:
+C: MACBETH
+D: There’s no such thing. It is the bloody business which informs Thus to mine eyes. Now o’er the one half-world Nature seems dead, and wicked dreams abuse The curtained sleep.
+E: CONT’D
+N: BLUE REVISED – 1/16/20 CONTINUED A bell begins to toll in counterpoint to the rhythm of his footsteps on the stones. He looks up at the starry heavens.
+C: MACBETH
+D: Thou sure and firm-set earth, Hear not my steps which way they walk, for fear Thy very stones prate of my whereabout. I go, and it is done. The bell invites me. He expertly rolls the knife in his hand and we follow the tip of the blade as it makes contact with door, right next to the handle, and slowly pushes it open—into blackness…
+E: CONT’D
+C: MACBETH
+D: Hear it not, Duncan, for it is a knell That summons thee to heaven, or to hell.
+E: CONT’D
+S: INT. INVERNESS - DUNCAN’S BEDCHAMBER – NIGHT
+N: FADE IN FROM BLACK: CLOSE ON DUNCAN'S SLEEPING EYES The CAMERA SLOWLY PULLS BACK over a dark shoulder- Macbeth- - on the edge of the bed, sitting close and looking down at Duncan, as he did Lady Macbeth. After a long moment Duncan's eyes slowly open, sensing something. HIS POV: The dark apparition looming over him. Macbeth raises his forefinger to his lips. Quiet. Only slightly alarmed, but still confused by sleep, Duncan slowly rises from the pillow. Macbeth puts a reassuring hand on his shoulder and gently pushes him back down. BLUE REVISED – 1/16/20
+C: CONTINUED
+D: We hear the deep, rhythmic sound of beating wings...
+N: Suddenly, panicked, Duncan bolts upright, slamming into a CLOSE UP over Macbeth's shoulder--as if in an embrace. Macbeth slams him back down onto the bed, raising the knife. Duncan's hand flies up to grab his wrist-- As Duncan opens his mouth to scream Macbeth covers the * King’s face with his hand -- The beating wings grow louder. He presses his hand over Duncan's mouth — the other strains to plunge the knife. * Duncan thrashes. Slowly he weakens. The knife descends. Still thrashing. The wings beating. The knife pricks the skin of Duncan's neck just below the pillow and sinks in-- The SHRIEK of a bird! Blood gouts from his neck hitting Macbeth. Macbeth rears back, the knife in his hand as--
+S: INT. INVERNESS - LADY MACBETH’S BEDCHAMBER – NIGHT
+N: Lady Macbeth sits bolt upright in her bed:
+C: LADY MACBETH HARK! PEACE!
+D: The dark thrum of the beating wings recedes.
+C: LADY MACBETH
+D: It was the owl that shrieked, the fatal bellman Which * gives the stern’st good-night. He is about it. BLUE REVISED – 1/16/20
+E: MORE
+S: INT. DUNCAN'S BEDCHAMBER/INTERCUT W/ LADY MACBETH’S BEDCHAMBER
+N: Close on his arm hanging off the bed. We travel down the arm to his limp hand hovering over the floor as a drop of blood descends his finger and hits the floor with a dull THUMP. And another. And another. Looking down from on high. Macbeth, a small figure, sits on the bloody bed next to Duncan’s body. After a long beat he rises, the dagger in one hand. * We hear the distant, rhythmic thumping of the blood as Lady Macbeth continues:
+C: LADY MACBETH
+D: That which hath made them drunk hath made me bold; What hath quenched them hath given me fire. Still looking down from on high, we follow Macbeth -the camera moving over a chandelier — then where the grooms lie asleep on the floor.
+E: CONT’D a wheel of birds
+C: LADY MACBETH
+D: The doors are open, and the surfeited grooms Do mock their charge with snores. He walks past the sleeping grooms and we move over another door jamb as he disappears into blackness.
+E: CONT’D
+C: LADY MACBETH
+D: I have drugged their possets, That death and nature do contend about them Whether they live or die. INT. INVERNESS - LADY MACBETH'S BEDCHAMBER OUT OF THE BLACK WE TRACK IN TO CLOSE on Lady Macbeth. The faint thumping continues. She looks down from the ceiling. Footsteps:
+E: CONT’D
+C: LADY MACBETH
+D: Alack, I am afraid they have awaked, And ‘tis not done. Th’ attempt, and not the deed, Confounds us. Hark! I laid their daggers ready — He could not miss ‘em.
+N: BLUE REVISED – 1/16/20
+C: CONTINUED
+D: TRACK IN TO THE DOOR OF THE BEDCHAMBER as Macbeth enters.
+C: LADY MACBETH
+D: My husband!
+C: MACBETH
+D: I have done the deed.
+C: LADY MACBETH
+D: Dids’t thou not hear a noise?
+C: MACBETH
+D: When?
+C: LADY MACBETH
+D: Now.
+C: MACBETH
+D: As I descended?
+C: LADY MACBETH
+D: Ay. *
+C: MACBETH
+D: Hark! He looks down at his hand. *
+E: responding to the knocking
+C: MACBETH
+D: This is a sorry sight. *
+E: CONT’D
+C: LADY MACBETH
+D: A foolish thought to say a sorry sight. *
+C: MACBETH
+D: There’s one did laugh in’s sleep, and one cried “Murder!” That they did wake each other. I stood and heard them. But they did say their prayers and addressed them Again to sleep.
+C: LADY MACBETH
+D: The grooms were lodged together?
+N: BLUE REVISED – 1/16/20
+C: CONTINUED MACBETH
+D: One cried “God bless us” and “Amen” the other, As they had seen me with these hangman’s hands. List’ning their fear, I could not say “Amen” When they did say “God bless us.”
+C: LADY MACBETH
+D: Consider it not so deeply.
+C: MACBETH
+D: But wherefore could not I pronounce “Amen”? I had most need of blessing, and “Amen” Stuck in my throat.
+C: LADY MACBETH
+D: These deeds must not be thought After these ways; so, it will make us mad.
+C: MACBETH
+D: Methought I heard a voice cry “Sleep no more! Macbeth does murder sleep” — the innocent sleep, Sleep that knits up the raveled sleave of care, The death of each day’s life, sore labor’s bath, Balm of hurt minds, great nature’s second course, Chief nourisher in life’s feast.
+C: LADY MACBETH
+D: What do you mean?
+C: MACBETH
+D: Still it cried “Sleep no more!” to all the house; “Glamis hath murdered sleep, and therefore Cawdor Shall sleep no more, Macbeth shall sleep no more.”
+C: LADY MACBETH
+D: Who was it that thus cried? Why, worthy thane, You do unbend your noble strength to think So brainsickly of things. Go get some water And wash this filthy witness from your hand. Rather he approaches the bed and sits on it, still holding the dagger.
+N: BLUE REVISED – 1/16/20
+C: CONTINUED LADY MACBETH
+D: Why did you bring these daggers from the place? They must lie there: go carry them and smear The sleepy grooms with blood.
+E: alarmed
+C: MACBETH
+D: I’ll go no more. I am afraid to think what I have done; Look on’t again I dare not. Lady Macbeth puts her hands to either side of his face—
+E: vacantly
+C: LADY MACBETH
+D: Infirm of purpose! She looks down at her hand, now stained with Duncan’s blood.
+C: LADY MACBETH
+D: Give me the daggers. The sleeping and the dead Are but as pictures. ‘Tis the eye of childhood That fears a painted devil. Taking the daggers and leaving the room:
+E: CONT’D
+C: LADY MACBETH
+D: If he do bleed, I’ll gild the faces of the grooms withal For it must seem their guilt. My hands are of your color, but I shame To wear a heart so white. The slow rhythm of the thumping has now grown louder, harsher and more brittle.
+E: CONT’D
+C: MACBETH
+D: Whence is that knocking? How is’t with me when every noise appalls me? He rises, leaving a bloody hand print on the bed, and walks to a pitcher and a washbasin. Unfolding his clenched hand and plunging it in the basin:
+N: BLUE REVISED – 1/16/20 20 CONTINUED 16
+C: MACBETH
+D: What hands are here? Ha! They pluck out mine eyes. Will all great Neptune’s ocean wash this blood Clean from my hand? No, this my hand will rather The multitudinous seas incarnadine, Making the green one red. With a violent swipe he knocks the basin aside.
+C: MACBETH
+D: To know my deed, ‘twere best not know myself. The bloody water washes over the tabletop…
+E: CONT’D
+C: MACBETH
+D: Wake Duncan with thy knocking—I would thou couldst. A drop of bloody water falls from the table top and with a POUNDING THRUM hits the floor below. THE CAMERA DESCENDS THROUGH the floor and down through darkness to: INT. INVERNESS - PORTER'S ROOM - NIGHT/DAWN
+E: CONT’D
+C: CLOSE ON THE PORTER
+D: Raising his head from a table in a small room, where he has passed out from carousing the night before. The pounding continues. He stumbles to his feet holding his skull as if the sound is in his head.
+C: PORTER
+D: Here’s a knocking indeed. If a man were porter of hell gate, he should have old turning the key. Knock, knock, knock. Who’s there, i’ th’ name of Beelzebub? Here’s a farmer that hanged himself on th’ expectation of plenty. Come in time — here you’ll sweat for’t. Knock, knock. He walks, unsteadily, toward a door, through which we see a sliver of early morning light.
+E: Knock. Knock.
+C: PORTER
+D: Who’s there, in th’ other devil’s name? Faith, here’s an equivocator, that could swear in both the scales against either scale; yet could not equivocate to heaven. O come in, equivocator. Knock, knock, knock.
+E: CONT’D Knock.
+N: BLUE REVISED – 1/16/20
+S: EXT. COURTYARD / COLONNADE / CASTLE GATE – DAWN
+N: We follow the Porter to the heavy gate of the castle, from which the pounding emanates.
+C: PORTER
+D: Who’s there? Faith, here’s an English tailor come hither for stealing out of a French hose. Come in, tailor. Here you may roast your goose. Knock, knock. Never at quiet! What are you? — But this place is too cold for hell. I’ll devil-porter it no further. I had thought to have let* in some of all professions that go the primrose way to th’ everlasting bonfire. Anon, anon! Opening the gate:
+E: CONT’D Knock. Knock.
+C: PORTER
+D: I pray you remember the porter. Macduff and Lennox entering impatiently.
+E: CONT’D
+C: MACDUFF
+D: Was it so late, friend, ere you went to bed, That you do lie so late?
+C: PORTER
+D: Faith, sir, we were carousing till the second cock; and drink, sir, is a great provoker of three things. Macduff and Lennox stride across the courtyard to the long colonnade that leads to the tower, trailing the Porter
+C: MACDUFF
+D: What three things does drink especially provoke?
+C: PORTER
+D: Marry, sir, nose-painting, sleep, and urine. Lechery, sir, it provokes, and unprovokes: it provokes the desire, but it takes away the performance. Therefore much drink may be said to be an equivocator with lechery: it makes him, and it mars him; it sets him on, and it takes him off; it persuades him, and disheartens him; makes him stand to, and not stand to; in conclusion, equivocates him in a sleep, and, giving him the lie, leaves him.
+C: MACDUFF
+D: I believe drink gave thee the lie last night. Opening the door: BLUE REVISED – 1/16/20
+C: CONTINUED PORTER
+D: That it did, sir. INT. INVERNESS - STAIRCASE/GROUND FLOOR – DAWN Macduff and Lennox enter the dark at the foot of the stair and come face to face with Macbeth. He stands frozen in the dark, as if awaiting them.
+C: MACBETH
+D: Good morrow, both. Startled:
+C: MACDUFF
+D: Is the king stirring, worthy thane?
+C: MACBETH
+D: Not yet.
+C: MACDUFF
+D: He did command me to call timely on him; I have almost slipped the hour. Macbeth nods the direction up the stair.
+C: MACDUFF
+D: I’ll make so bold to call. AS Macduff brushes by leaving Lennox and Macbeth alone. After a pause:
+E: CONT’D
+C: LENNOX
+D: Goes the king hence today?
+C: MACBETH
+D: He does — he did appoint so. Lennox turns to the open doorway and looks out at the morning sky.
+C: LENNOX
+D: The night has been unruly. Where we lay, Our chimneys were blown down; and, as they say, Lamentings heard i’ th’ air, strange screams of death, And prophesying, with accents terrible, Of dire combustion and confused events New hatched to th’ woeful time. The obscure bird Clamored the livelong night. Some say the earth Was feverous and did shake. BLUE REVISED – 1/16/20
+N: CONTINUED Macbeth fixes him with a level stare.
+C: MACBETH
+D: T’was a rough night.
+N: From the top of the stair, a scream:
+C: MACDUFF
+D: O horror, horror, horror-- Tongue nor heart cannot conceive nor name thee!
+E: OFF
+C: MACBETH AND LENNOX
+D: What’s the matter? Macduff, stumbles down the staircase into CLOSE UP:
+C: MACDUFF
+D: Confusion now hath made his masterpiece: Most sacrilegious murder hath broke ope The Lord’s anointed temple and stole thence The life o’ th’ building!
+C: MACBETH
+D: What is’t you say? The life?
+C: LENNOX
+D: Mean you his majesty?
+C: MACDUFF
+D: Approach the chamber and destroy your sight With a new Gorgon. Do not bid me speak. See, and then speak yourselves. Macbeth and Lennox bound up the stairs as Macduff clambers down to the courtyard, shouting:
+C: MACDUFF AWAKE, AWAKE!
+D: Ring the alarum bell!
+N: BLUE REVISED – 1/16/20
+S: INT. DUNCAN’S BEDCHAMBER INTERCUT W/ COURTYARD/BELLTOWER – DAWN
+N: TRACK IN ON MACBETH as they enter.
+C: MACDUFF
+D: Murder and treason! Banquo and Donalbain! Malcolm, awake! Awake! Lennox makes for the king’s bed. The groom opens his bleary eyes to watch Macbeth approach, a dark apparition.
+E: DISTANTLY OFF
+C: MACDUFF
+D: Shake off this downy sleep, death’s counterfeit, And look on death itself. A bell begins to toll. Macbeth swipes up a dagger from the floor…
+E: OFF
+C: MACDUFF
+D: Up, up, and see The great doom’s image. Malcolm! Banquo! Grabs the groom by his hair and cuts his throat.
+E: IN BELLTOWER
+C: MACDUFF
+D: As from your graves rise up and walk like sprites To countenance this horror. Behind Macbeth the second groom, has risen unsteadily with his sword – and swings – but Macbeth ducks just in time.
+N: The groom runs for the door but slips on the bloody floor. Macbeth rises and planting a foot on his back pushes him and down the stairs.
+S: INT. INVERNESS - STAIRCASE – DAWN
+N: The groom tumbles down the stairs. Macbeth picks up the sword and follows him down.
+C: MACBETH
+D: Had I but died an hour before this chance, I had lived a blessèd time; for from this instant There’s nothing serious in mortality: All is but toys. Renown and grace is dead, He raises the sword and turns the groom’s body over with his foot –but the groom’s eyes are open, and dead. BLUE REVISED – 1/16/20
+C: CONTINUED MACBETH
+D: The wine of life is drawn, and the mere lees Is left this vault to brag of. INT. INVERNESS – STAIRCASE/GROUND FLOOR LANDING – DAWN Lady Macbeth has arrived from the courtyard. Banquo and Macduff, behind.
+C: LADY MACBETH
+D: What’s the business, That such a hideous trumpet calls to parley The sleepers of the house? Speak, speak!
+C: MACDUFF
+D: O gentle lady, ‘Tis not for you to hear what I can speak: The repetition in a woman’s ear Would murder as it fell. O Banquo, Banquo! Our royal master’s murdered!
+C: LADY MACBETH
+D: Woe, alas- What, in our house?
+C: BANQUO
+D: Too cruel anywhere. Malcolm and Donalbain are pushing their way forward. Behind Macbeth, Lennox is descending the stair from the King’s chamber.
+C: DONALBAIN
+D: What is amiss?
+C: MACBETH
+D: You are, and do not know. The spring, the head, the fountain of your blood Is stopped, the very source of it is stopped.
+C: MACDUFF
+D: Your father is murdered.
+C: MALCOLM
+D: O, by whom!? * BLUE REVISED – 1/16/20
+C: CONTINUED LENNOX
+D: Those of his chamber, as it seemed, had done’t. Their hands and faces were all badged with blood.
+C: MACBETH
+D: Yet I do repent me of my fury That I did kill them. Macduff is startled by this news:
+C: MACDUFF
+D: Wherefore did you so?
+C: MACBETH
+D: Who can be wise, amazed, temp’rate and furious, Loyal and neutral, in a moment? No man. He fixes his gaze on Lady Macbeth, steps to the bottom of the staircase, and slowly approaches her. Banquo and Macduff give way.
+C: MACBETH
+D: The expedition of my violent love Outran the pauser, reason. Here lay Duncan, * His silver skin laced with his golden blood; And his gashed stabs looked like a breach in nature For ruin’s wasteful entrance: He holds her by the shoulders, as if speaking only to her:
+E: CONT’D
+C: MACBETH
+D: There, the murderers, Steeped in the colors of their trade, their daggers Unmannerly breeched with gore. Who could refrain That had a heart to love, and in that heart Courage to make’s love known? She collapses.
+E: CONT’D
+C: BANQUO
+D: Look to the lady. Macbeth scoops her up in his arms and carries her off. Banquo, leaving with Macduff:
+N: BLUE REVISED – 1/16/20
+C: CONTINUED BANQUO
+D: And when we have our naked frailties hid, That suffer in exposure, let us meet And question this most bloody piece of work, To know it further. INT. BALCONY OVER THE GROUND FLOOR LANDING
+E: CONT’D
+N: Looking down from a small balcony over the ground floor landing, Ross watches as MACBETH carries Lady Macbeth away— leaving only Malcolm and Donalbain. They huddle together, thinking they are alone:
+C: MALCOLM
+D: Why do we hold our tongues, That most may claim this argument for ours?
+C: DONALBAIN
+D: Let’s away: Our tears are not yet brewed.
+C: MALCOLM
+D: What will you do? Let’s not consort with them. To show an unfelt sorrow is an office Which the false man does easy. I’ll to England.
+C: DONALBAIN
+D: To Ireland I. Our separated fortune Shall keep us both the safer. Where we are There’s daggers in men’s smiles; the near in blood, The nearer bloody.
+C: MALCOLM
+D: This murderous shaft that’s shot Hath not yet lighted, and our safest way Is to avoid the aim. Therefore to horse, And let us not be dainty of leave-taking. WIND
+N: The bell still tolls. Clouds scud over the sun. BLUE REVISED – 1/16/20
+S: EXT. THE CROSSROADS – DAY
+N: ROSS waits by a stone wall near a tumbledown stone shepherd’s hut. Beyond him, in the distance, is Inverness. Before him, the road branches away in two directions into the fog. Finally from Inverness, a rider approaches: MACDUFF. He draws near.
+C: ROSS
+D: Here comes the good Macduff. How goes the world, sir, now? Taken aback by his jauntiness:
+E: feigning nonchalance
+C: MACDUFF
+D: Why, see you not?
+C: ROSS
+D: Is’t known who did this more than bloody deed? *
+C: MACDUFF
+D: Those that Macbeth hath slain.
+C: ROSS
+D: Alas the day. What good could they pretend?
+C: MACDUFF
+D: They were suborned. Malcolm and Donalbain, the king’s two sons, Are stol’n away and fled, which puts upon them Suspicion of the deed.
+C: ROSS
+D: Then ‘tis most like The sovereignty will fall upon Macbeth.
+C: MACDUFF
+D: He is already named, and gone to Dunsinane To be invested.
+C: ROSS
+D: Will you to Dunsinane? MACDUFF * No, cousin, I’ll home to Fife. BLUE REVISED – 1/16/20
+C: CONTINUED ROSS
+D: Well, Considering for a moment:
+C: ROSS
+D: I will thither. Macduff turns his horse to the leftward fork.
+E: CONT’D nodding to the right
+C: MACDUFF
+D: Well, may you see things well done there. Adieu, Turning in his saddle back to look back at Ross as he takes the leftward fork.
+C: MACDUFF
+D: Lest our old robes sit easier than our new. ROSS watches Macduff disappearing into the fog, then up at the darkening sky.
+E: CONT’D
+N: We hear the distant voice of an old man:
+C: OLD MAN
+D: Threescore and ten I can remember well;
+N: Ross, surprised to hear another voice, makes his way around the wall and into the ruined hut. In a far corner an old man sits on a stone that has tumbled into the building. He is looking up at the scudding clouds through a hole in roof. The wind picks up and rumblesm around the corners of the hut.
+C: OLD MAN
+D: Within the volume of which time I have seen Hours dreadful and things strange, but this sore night Hath trifled former knowings.
+C: ROSS
+D: Ha, good father. Thou seest the heavens, as troubled with man’s act Threatens the bloody stage. By the clock ‘tis day, And yet dark night strangles the travelling lamp.
+E: MORE
+N: BLUE REVISED – 1/16/20
+C: CONTINUED ROSS
+D: Is ‘t night’s predominance, or the days shame That darkness does the face of earth entomb When living light should kiss it?
+E: CONT’D
+C: OLD MAN
+D: ‘Tis unnatural, Even like the deed that’s done. On Tuesday last A falcon, tow’ring in her pride of place, Was by a mousing owl, hawked and killed. And Duncan’s horses—a thing most strange and certain— Beauteous and swift, the minions of their race, Turned wild in nature, broke their stalls, flung out, Contending ‘gainst obedience, as they would make War with mankind. The clouds cover the sun with a grey pall.
+C: OLD MAN
+D: ‘Tis said they ate each other.
+C: THE CURTAIN FALLS
+D: FADE OUT
+N: We hear footsteps approaching: FADE IN: A SHAFT OF LIGHT
+S: INT. A BARE STAGE FLOOR/ DUNSINANE ARCHES - DAY
+N: Looking down from on high a spotlight snaps on, illuminating a bare circle on the stage. BANQUO, a small figure, alone, walks into the spotlight:
+C: BANQUO
+D: Thou hast it now — king, Cawdor, Glamis, all, As the weird women promised; and I fear Thou play’dst most foully for’t.
+N: CLOSE ON BANQUO BLUE REVISED – 1/16/20
+C: CONTINUED BANQUO
+D: Yet it was said It should not stand in thy posterity, But that myself should be the root and father Of many kings. If there come truth from them— As upon thee, Macbeth, their speeches shine— Why, by the verities on thee made good, May they not be my oracles as well, And set me up in hope? We hear a trumpet sound and behind Banquo we see the sunlight FADE UP on a column behind him. EXT. DUNSINANE - CASTLE - GREAT HALL - DAY WE CUT WIDE to see that Banquo is standing at the top of a stair outside the high arches of DUNSINANE.
+E: CONT’D
+C: BANQUO
+D: But hush, no more. He turns to walk through the columns into the castle. A31 INT. DUNSINANE - FLOOR - DAY A31* Banquo walks across the Dunsinane floor, followed by Fleance. * 31 INT. DUNSINANE – THRONE ROOM - DAY 31* A vast castle hall defined by receding shafts of sloping light from high windows like the spotlight that Banquo stands in.
+E: CONT’D
+N: Macbeth and Lady Macbeth, dressed in regal robes, approach from the background accompanied by Ross and servants. * Banquo turns to enter the hall to greet them.
+C: MACBETH
+D: Here’s our chief guest.
+C: LADY MACBETH
+D: If he had been forgotten, It had been as a gap in our great feast, And allthing unbecoming.
+C: MACBETH
+D: Tonight we hold a solemn supper, sir, And I’ll request your presence. Ride you this afternoon? BLUE REVISED – 1/16/20
+C: CONTINUED BANQUO
+D: Ay, my good lord.
+C: MACBETH
+D: We should have else desired your good advice, Which still hath been both grave and prosperous, In this day’s council; but we’ll take tomorrow. Is’t far you ride?
+C: BANQUO
+D: As far, my lord, as will fill up the time ‘Twixt this and supper. Go not my horse the better, I must become a borrower of the night For a dark hour or twain.
+C: MACBETH
+D: Fail not our feast.
+C: BANQUO
+D: My lord, I will not.
+C: MACBETH
+D: We hear our bloody cousins are bestowed In England and in Ireland, not confessing Their cruel parricide, filling their hearers With strange invention. But of that tomorrow, When therewithal we shall have cause of state Craving us jointly. Hie you to horse. Adieu, Till you return at night.
+C: BANQUO
+D: Our time does call upon’s. CLOSE ON MACBETH watching Banquo leave, he calls out to him:
+E: turning to leave
+C: MACBETH
+D: Goes Fleance with you? Pausing to look back:
+C: BANQUO
+D: Ay, my good lord.
+N: BLUE REVISED – 1/16/20
+C: CONTINUED MACBETH
+D: I wish your horses swift and sure of foot, And so I do commend you to their backs. Farewell. Macbeth turns to Ross as Banquo leaves:
+C: MACBETH
+D: Attend those men our pleasure?
+C: ROSS
+D: They do, my lord. He watches Banquo recede across the hall. Fleance runs up to join his father.
+C: CLOSE ON FLEANCE’S HAND
+D: As his father grasps it.
+C: WIND
+D: INT. DUNSINANE - TOWER OCULUS CHAMBER – DAY A round room with an oculus in the ceiling that throws a circular beam of light on the floor leaving the rest of the room in shadow. The door opens, Macbeth enters.
+N: Two men, roughly dressed, stand awkwardly, nervously, against the wall. They neither offer a salutation nor receive one. Macbeth studies them as he crosses the room, then after a moment:
+C: MACBETH
+D: Was it not yesterday we spoke together? MURDERER * It was. *
+E: BRIAN
+N: MURDERER (SCOTT) * MURDERER (SCOTT) * So please your highness. *
+C: MACBETH
+D: Well then, now Have you considered of my speeches? There is no answer. BLUE REVISED – 1/16/20
+C: CONTINUED MACBETH
+D: Know That it was Banquo, in the times past, which held you So under fortune, which you thought had been Our innocent self. This I made good to you In our last conference, passed in probation with you How you were borne in hand, how crossed; the instruments; Who wrought with them; and all things else that might To half a soul and to a notion crazed Say “Thus did Banquo.” MURDERER * You made it known to us.
+E: SCOTT
+C: MACBETH
+D: I did so; and went further, which is now Our point of second meeting. The older murderer lowers his eyes, glances at his companion.
+C: MACBETH
+D: Do you find Your patience so predominant in your nature That you can let this go? Are you so gospeled To pray for this good man and for his issue, Whose heavy hand hath bowed you to the grave And beggared yours forever? MURDERER * We are men, my liege.
+E: BRIAN indignantly
+C: MACBETH
+D: Ay, in the catalogue ye go for men. The murderers bow their heads.
+C: MACBETH _
+D: Now, if you have a station in the file * Not i’ th’ worst rank of manhood, say’t; And I will put that business in your bosoms Whose execution takes your enemy off, Grapples you to the heart and love of us, Who wear our health but sickly in his life, Which in his death were perfect.
+E: CONT’D
+N: BLUE REVISED – 1/16/20
+C: CONTINUED
+D: MURDERER * I am one, my liege, Whom the vile blows and buffets of the world Have so incensed that I am reckless what I do to spite the world. MURDERER * And I another, So weary with disasters, tugged with fortune, That I would set my life on any chance To mend it or be rid on’t.
+E: BRIAN SCOTT
+C: MACBETH
+D: Both of you Know Banquo was your enemy. MURDERER * True, my lord.
+E: SCOTT
+C: MACBETH
+D: So is he mine, and in such bloody distance That every minute of his being thrusts Against my near’st of life; and though I could With barefaced power sweep him from my sight And bid my will avouch it, yet I must not, For certain friends that are both his and mine, Whose loves I may not drop, but wail his fall Who I myself struck down. And thence it is That I to your assistance do make love, Masking the business from the common eye For sundry weighty reasons. MURDERER * We shall, my lord, Perform what you command us. MURDERER * Though our lives—
+E: SCOTT BRIAN
+C: MACBETH
+D: Your spirits shine through you. It must be done tonight And something from the palace — always thought * That I require a clearness; and with him, To leave no rubs nor botches in the work, Fleance his son, that keeps him company, Whose absence is no less material to me Than is his father’s, must embrace the fate Of that dark hour. BLUE REVISED – 1/16/20
+C: CONTINUED
+D: MURDERER * We are resolved, my lord. Macbeth indicates the door:
+E: SCOTT
+C: MACBETH
+D: Resolve yourselves apart. The two men leave. The door shuts and we hear their footsteps on the stair. INT. DUNSINANE - A BROAD WINDING STAIRCASE – DAY Lady Macbeth ascends in the company of Lady Vivian. * The two murderers pass her on their way down, their heads tucked down to hide their faces.
+C: LADY MACBETH
+D: Is Banquo gone from court? * LADY VIVIAN * Ay, madam, but returns again tonight. INT. DUNSINANE - TOWER OCULUS CHAMBER – DAY She enters quietly, the room seems empty and is darker now. The wind has stopped. Looking around she sees Macbeth. He sits on a low bench, leaning back against the wall, his face in shadow.
+N: CLOSE ON MACBETH His eyes are shut. He opens them slowly but doesn’t move.
+C: LADY MACBETH
+D: How now, my lord? Why do you keep alone, Of sorriest fancies your companions making, Using those thoughts which should indeed have died With them they think on? Things without all remedy Should be without regard. What’s done is done.
+C: MACBETH
+D: We have scorched the snake, not killed it. She’ll close and be herself, whilst our poor malice Remains in danger of her former tooth.
+N: BLUE REVISED – 1/16/20
+C: CONTINUED MACBETH
+D: Better be with the dead, Whom we, to gain our peace, have sent to peace, Than on the torture of the mind to lie In restless ecstasy. Duncan is in his grave; After life’s fitful fever he sleeps well. Treason has done his worst: nor steel nor poison, Malice domestic, foreign levy, nothing, Can touch him further.
+E: CONT’D
+C: LADY MACBETH
+D: Come on. Gentle my lord, sleek o’er your rugged looks; Be bright and jovial among your guests tonight.
+C: MACBETH
+D: O, full of scorpions is my mind, dear wife. Thou know’st that Banquo, and his Fleance, live. And in his royalty of nature reigns that Which would be feared. ‘Tis much he dares; And to that dauntless temper of his mind He hath a wisdom that doth guide his valor To act in safety. There is none but he Whose being I do fear.
+C: LADY MACBETH
+D: You must leave this.
+C: MACBETH
+D: He chid the sisters When first they put the name of king upon me, And bade them speak to him. Then, profitlike, They hailed him father to a line of kings, Upon my head they placed a fruitless crown And put a barren scepter in my grip Thence to be wrenched with an unlineal hand, No son of mine succeeding. If’t be so, For Banquo’s issue have I filed my mind; For them the gracious Duncan have I murdered; Put rancors in the vessel of my peace Only for them, and mine eternal jewel Given to the common enemy of man To make them kings—the seeds of Banquo kings—
+N: BLUE REVISED – 1/16/20
+C: CONTINUED LADY MACBETH
+D: But in them nature’s copy’s not eterne.
+C: MACBETH
+D: There’s comfort yet; they are assailable. Then be thou jocund. Ere the bat hath flown His cloistered flight, ere to black Hecate’s summons The shard-born beetle with his drowsy hums Hath rung night’s yawning peal, there shall be done A deed of dreadful note.
+C: LADY MACBETH
+D: What’s to be done?
+C: MACBETH
+D: Be innocent of the knowledge, dearest chuck, Till thou applaud the deed. Macbeth reaches out his hand, an invitation;
+C: MACBETH
+D: Come, seeling night, Scarf up the tender eye of pitiful day And with thy bloody and invisible hand Cancel and tear to pieces that great bond Which keeps me pale. She walks forward, takes his hand and he draws her close:
+E: CONT’D
+C: MACBETH
+D: Light thickens, and the crow Makes wing to th’ rooky wood. Good things of day begin to droop and drowse, While night’s black agents to their prey do rouse. Thou marvel’st at my words but hold thee still: Things bad begun make strong themselves by ill.
+E: CONT’D
+S: EXT. THE CROSSROADS — DUSK
+N: A setting sun. The road stretches away to a distant DUNSINANE. * The two murderers, crouch behind a corner of the tumbled down hut, looking up the rise of the hill from whence they came. Distant footsteps. BLUE REVISED – 1/16/20
+C: CONTINUED
+D: A hooded man rises up over the crest of the hill walking toward us, one hand resting lightly on the handle of his belted sword.
+N: As the hooded man draws into CLOSEUP he raises his finger to his lips, entreating silence. We see that it is Ross. MURDERER (BRIAN) * But who did bid thee join us?
+C: ROSS
+D: Macbeth. MURDERER * He needs not our mistrust, since he delivers Our offices and what we have to do To the direction just. MURDERER * Then stand with us. We hear the distant whinny of a horse… MURDERER * A light, a light! In the distance, the glow of a torch. The murderers separate, leaving the cover of the rock
+E: SCOTT BRIAN SCOTT
+C: CLOSE ON THE TORCH
+D: Held aloft by Fleance. He sits on a horse that is led by Banquo.
+C: BANQUO
+D: Give us a light there, ho! We hear a distant rumble of thunder. He sweeps the torch, searching the horizon. The light falls on Murderer approaching from the house. *
+E: reaching for the torch Scott
+C: BANQUO
+D: It will be rain tonight. * MURDERER * Let it come down!
+E: to the murderer SCOTT
+N: BLUE REVISED – 1/16/20
+C: CONTINUED
+D: Murderer appears behind Banquo. *
+E: Brian
+N: Banquo wheels. The murderer (Brian) lunges with his sword. * The horse rears. Banquo parries the blade with the up-sweeping torch. Murderer (Scott) reaches for the bridle of the rearing horse * as-- Fleance falls from the saddle to the ground. Banquo wheels again as the murderer (Scott) makes for the boy. *
+C: BANQUO
+D: Fly, Fleance, fly, fly, fly! Fleance is up and running, running through the stone house, into a field of high grass.
+N: Banquo swings the torch at the murderer (Brian’s) head. He * strikes a glancing blow that sends him to the ground in a shower of sparks. Banquo reaches for his sword and is run through from behind. He turns and throws the torch at his assailant. He staggers forward and is run through again by the murderer (Scott) and * kicked to the ground.
+C: CLOSE ON THE TORCH
+D: burning in the road-- *
+N: A hand reaches in and picks up the torch. It is Ross. He approaches the winded murderers.
+C: ROSS
+D: There’s but one down: the son is fled. Looking out over the grass:
+C: ROSS
+D: We have lost best half of our affair. BLUE REVISED – 1/16/20
+E: CONT’D
+C: CONTINUED
+D: As the two murderers leave: MURDERER * Well, let’s away, and say how much is done. Ross unsheathes his sword and turns calmly away from the retreating men.
+E: SCOTT
+N: We follow behind him as he walks slowly through the grass. One hand holds the torch aloft while the other sweeps the high grass in front of him with his sword. Thunder. CLOSE ON FLEANCE Lying on the ground, hiding, face up to the sky. A raindrop spatters his face. We hear Ross’s footsteps approaching.
+C: FLEANCE’S POV
+D: Looking up through the grass. The torchlight approaches as the grass is parted by the sword. Ross looms into frame and looks down at Fleance.
+C: THUNDER
+D: CUT TO: A window spattered by driving rain. INT. DUNSINANE - THRONE ROOM / BANQUET HALL – NIGHT Macbeth turns from the window to face a banquet hall full of roistering guests, taking their seats.
+N: Appraising the guests he approaches Lady Macbeth and draws her aside:
+C: MACBETH
+D: How sayst thou, that Macduff denies his person At our great bidding?
+C: LADY MACBETH
+D: Did you send to him, sir? Macbeth turns to the guests without answering:
+C: MACBETH
+D: You know your own degrees—sit down: At first and last the hearty welcome. BLUE REVISED – 1/16/20
+C: CONTINUED
+D: A servant approaches Macbeth and whispers in his ear. As he leaves:
+C: MACBETH
+D: Anon we'll drink a measure the table round. INT. DUNSINANE - TOWER OCULUS CHAMBER – NIGHT As Macbeth enters.
+N: The two murders stand inside, their faces in shadow. A column of rain beats down behind them from the oculus. Macbeth approaches and the older murderer leans forward into the light. His face is wet with rain.
+C: MACBETH
+D: There’s blood upon thy face. MURDERER * ‘Tis Banquo’s then.
+E: BRIAN
+C: MACBETH
+D: ‘Tis better thee without than he within. Is he dispatched?
+N: BLUE REVISED – 1/16/20
+C: CONTINUED
+D: MURDERER * My lord, his throat is cut: That I did for him. *
+E: BRIAN
+C: MACBETH
+D: Thou art the best o’ th’ cutthroats. Yet he’s good that did the like for Fleance: If thou didst it, thou art the nonpareil. MURDERER * Most royal sir, Fleance is scaped. Macbeth is silent for a moment, staring at the murderers.
+E: SCOTT
+C: MACBETH
+D: Then comes my fit again. I had else been perfect; Whole as the marble, founded as the rock, * As broad and general as the casing air. * But now I am cabined, cribbed, confined, bound in— The murderers exchange a worried glance. Finally:
+E: CONT’D
+C: MACBETH
+D: But Banquo’s safe? MURDERER * Ay, my good lord. Safe in a ditch he bides, With twenty trenchèd gashes on his head, The least a death to nature. Turning to leave:
+E: CONT’D SCOTT
+C: MACBETH
+D: There the grown serpent lies; the worm that’s fled Hath nature that in time will venom breed, No teeth for th’ present. Get thee gone. INT. DUNSINANE - THRONE ROOM / BANQUET HALL – NIGHT MACBETH ENTERS THE BANQUET HALL from a dark narrow hallway. Lady Macbeth rises from a table in the distance as he approaches her:
+C: LADY MACBETH
+D: My royal lord, You do not give the cheer. Lennox hands Macbeth a glass. BLUE REVISED – 1/16/20
+C: CONTINUED MACBETH
+D: Sweet remembrancer! He raises the chalice: *
+C: MACBETH
+D: Now good digestion wait on appetite, And health on both.
+E: CONT’D
+C: LENNOX
+D: May’t please your highness sit.
+C: MACBETH
+D: Here had we now our country’s honor roofed Were the graced person of our Banquo present— Who may I rather challenge for unkindness Than pity for mischance. We hear a low beating sound.
+C: LENNOX
+D: His absence, sir, Lays blame upon his promise. Please’t your highness To grace us with your royal company? Louder now, the sound has become the rhythmic beating of wings.
+N: Macbeths looks toward the door to the hallway from whence he came, his glass aloft. WHOOSH—Something, large and black, flies by the doorway and is gone.
+C: LENNOX
+D: Here is a place reserved, sir. Now a wounded figure, holding a torch, crosses the doorway and is gone. Banquo?
+E: OFF
+C: LENNOX
+D: Here, my good lord. What is’t that moves your highness? Macbeth is moving toward the doorway, dropping his chalice. *
+E: CONT’D
+C: MACBETH
+D: Which of you have done this? BLUE REVISED – 1/16/20
+C: CONTINUED LENNOX
+D: What, my good lord? Approaching the hallway:
+C: MACBETH
+D: Thou canst not say I did it. He stops in the hallway framed by the door, bellowing at the apparition:
+C: MACBETH NEVER SHAKE
+D: THY GORY LOCKS AT ME! Ross, rising from the table in alarm:
+C: ROSS
+D: Gentlemen, rise. His highness is not well. Lady Macbeth hurries towards the hallway:
+C: LADY MACBETH
+D: Sit, worthy friends. My lord is often thus, And hath been from his youth. Pray you keep seat. The fit is momentary; upon a thought He will again be well. INT. DUNSINANE - HALLWAY – NIGHT She enters the hallway where Macbeth stands, looking up its length—the shadow of the departing figure just disappearing around the corner.
+C: LADY MACBETH
+D: Are you a man? He turns to face her.
+E: CONT’D
+C: MACBETH
+D: Ay, and a bold one, that dare look on that Which might appall the devil.
+C: LADY MACBETH
+D: This is the very painting of your fear. This is the air-drawn dagger which you said Led you to Duncan. BLUE REVISED – 1/16/20
+C: CONTINUED MACBETH
+D: Prithee see there! He turns to look back:
+C: MACBETH
+D: Behold! Look! Lo! — How say you? But nothing is there, and Macbeth is off, moving down the hallway.
+E: CONT’D
+C: MACBETH
+D: Why, what care I? If thou canst nod, speak too. If charnel houses and our graves must send Those that we bury back, our monuments Shall be the maws of kites.
+C: LADY MACBETH
+D: What, quite unmanned in folly?
+E: following
+C: MACBETH
+D: If I stand here, I saw him.
+C: LADY MACBETH
+D: Fie, for shame! Macbeth is moving with speed, Lady Macbeth following. In the distance Ross, Lennox and others are following.
+C: MACBETH
+D: The time has been That, when the brains were out, the man would die, And there an end. But now they rise again, With twenty mortal murders on their crowns. * The beating wings are louder now—accompanied by thumps and shrieks—that seem to come from a room at the end of the hall.
+C: MACBETH
+D: This is more strange Than such a murder is.
+C: LADY MACBETH
+D: My worthy lord, Your noble friends do lack you! BLUE REVISED – 1/16/20
+S: INT. DUNSINANE - APPARITION CHAMBER AND DOORWAY – NIGHT
+N: Macbeth turns a corner and flings open a door onto a small room, moonlit by a huge window. The shrieks and thumps are deafening here. Banquo, dripping blood, swings the torch at Macbeth As he jumps back:
+C: MACBETH
+D: AVAUNT AND QUIT MY SIGHT! LET THE EARTH HIDE THEE!
+C: THY BONES ARE MARROWLESS.
+D: As he leans away from another swing:
+C: MACBETH THY BLOOD IS COLD;
+D: THOU HAS'T NO SPECULATION IN THOSE EYES. CLOSE ON LADY MACBETH standing in the doorway.
+E: CONT’D
+C: MACBETH HENCE HORRIBLE SHADOW. UNREAL MOCK'RY, HENCE! LADY MACBETH'S POV
+D: The room is empty save for Macbeth and a shrieking bird, trapped in the room. Macbeth leans back as it flies past him and hits the wall—He dodges as it shrieks over him and crashes into the window.
+N: BACK TO LADY MACBETH, flanked now by the Ross, Lennox and the guests. She calmly enters the room and throws open the window. The bird flies out and flaps away into the moonlight. The sound of beating wings fades away. All is still. Macbeth looks around the room as if seeing it for the first time. No one says a word. Finally:
+C: MACBETH
+D: Why so, being gone, I am a man again. BLUE REVISED – 1/16/20
+C: CONTINUED
+D: For the first time noticing the assembled court.
+C: MACBETH
+D: Do not muse at me, my most worthy friends: I have a strange infirmity, which is nothing To those that know me.
+E: CONT’D
+C: LADY MACBETH
+D: You have displaced the mirth, broke the good meeting With most admired disorder. Macbeth sits on a low bench.
+C: MACBETH
+D: Can such things be, And overcome us like a summer's cloud Without our special wonder? You make me strange Even to the disposition that I owe, When now I think you can behold such sights And keep the natural ruby of your cheeks When mine is blanched with fear.
+C: ROSS
+D: What sights, my lord?
+C: LADY MACBETH
+D: I pray you speak not: he grows worse and worse; Question enrages him. At once, good night. Stand not upon the order of your going, But go at once.
+C: LENNOX
+D: Good night and better health Attend his majesty.
+C: LADY MACBETH
+D: A kind good night to all. The Lords depart, Macbeth watching them go:
+C: MACBETH
+D: It will have blood, they say: blood will have blood. Stones have been known to move and trees to speak; Augurs and understood relations have By the magpies and crows and rooks brought forth The secret'st man of blood.
+N: BLUE REVISED – 1/16/20
+C: CONTINUED
+D: Lady Macbeth looks out the window at the rising sun as she closes it.
+C: MACBETH
+D: What is the night?
+E: CONT’D
+C: LADY MACBETH
+D: Almost at odds with morning, which is which.
+C: MACBETH
+D: How say'st thou that Macduff denies his person At our great bidding?
+C: LADY MACBETH
+D: Did you send to him sir?
+C: MACBETH
+D: I hear it by the way; but I will send There's not a one of them but in his house I keep a servant fee'd. I will tomorrow, unto the weird sisters. * More shall they speak. I am in blood * Stepped in so far that, should I wade no more, Returning were as tedious as go o'er. Strange things I have in head, that will to hand, Which must be acted ere they may be scanned. Lady Macbeth picks up a small pitcher from a table and pours Macbeth a drink
+C: LADY MACBETH
+D: You lack the season of all natures, sleep. Macbeth watches as she carries the chalice to him.
+C: MACBETH
+D: Come, we'll to sleep.
+N: He drinks.
+C: MACBETH
+D: My strange and self-abuse Is the initiate fear that wants hard use.
+E: CONT’D
+N: He lies down.
+C: MACBETH
+D: We are yet but young in deed.
+E: CONT’D
+N: BLUE REVISED – 1/16/20
+C: CONTINUED
+D: CLOSE ON MACBETH as he shuts his eyes.
+T: FADE OUT
+N: We hear the tolling of a bell. In the dark, a distant voice: --'Tis time! 'Tis time! The rhythm of the bell turns into the sound of knocking.
+T: FADE IN
+S: INT. DUNSINANE - APPARITION CHAMBER - NIGHT INTO DAWN
+N: CLOSE ON MACBETH as he opens his eyes. He is alone in the dark. He turns his head to look over at the window from whence the bird escaped. The black branch of a tree knocks at the window pane in the wind. Elsewhere in the room, something rustles. He turns to looks up into a dark corner of the room. Something black, but just visible, is hunched up in a high alcove near the ceiling—looking down at him, unblinking. A witch. Macbeth slowly sits up. He looks to another corner: Another witch, very still, is perched on a high ledge in the moonlight. Also staring at him. MACBETH looks slowly up, directly overhead: A third witch at the apex of the ceiling is perched on an iron chandelier, staring directly down at us. Her wings slowly unfold. Finally, she speaks:
+C: THIRD WITCH
+D: By the pricking of my thumbs, Something wicked this way comes. BLUE REVISED – 1/16/20
+C: CONTINUED
+D: The wind rises and the knocking at the window grows louder.
+C: MACBETH
+D: How now, you secret, black, and midnight hags, What is’t you do?
+C: ALL
+D: A deed without a name. Macbeth sits up slowly, his eyes on the witches.
+C: MACBETH
+D: I conjure you by that which you profess, Howe’er you come to know it, answer me. Even till destruction sicken, answer me, To what I ask you.
+C: FIRST WITCH
+D: Speak.
+C: SECOND WITCH
+D: Demand.
+C: THIRD WITCH
+D: We’ll answer.
+C: FIRST WITCH
+D: Say if thou’dst rather hear it from our mouths Or from our masters.
+C: MACBETH
+D: Call ‘em! Let me see ‘em! The witch directly overhead starts to shake. She convulses as if she is regurgitating something. Suddenly she coughs up a bloody finger and holds it between her teeth.
+C: SECOND WITCH
+D: Double, double toil and trouble, Fire burn and cauldron bubble.
+C: FIRST WITCH
+D: Finger of birth-strangled babe Ditch-delivered by a drab. She drops the finger from her mouth. We watch the finger fall… Just as it hits, the floor turns into a sheet of water, and the finger sinks. BLUE REVISED – 1/16/20
+C: CONTINUED THIRD WITCH
+D: Liver of blaspheming Jew, Gall of goat, and slips of yew Other things are splashing into the water now.
+C: FIRST WITCH
+D: Slivered in the moon’s eclipse, Nose of Turk, and Tartar’s lips,
+C: ALL
+D: Round about the cauldron go; In the poisoned entrails throw. CLOSE on the Second Witch, turning a small vial upside down:
+C: SECOND WITCH
+D: Here’s the blood of a bat.
+C: FIRST WITCH
+D: O put in that, put in that.
+E: bobbing her head
+C: ALL
+D: For a charm of powerful trouble * Like a hell broth boil and bubble. * Come high or low Thyself and office deftly show. Macbeth looks into the water. A child’s face is slowly rising from the depths to hover just beneath the surface.
+C: MACBETH
+D: Tell me, thou unknown power—
+C: FIRST WITCH
+D: He knows thy thought: Hear his speech but say thou nought.
+C: FIRST APPARITION
+D: Macbeth, Macbeth, Macbeth, beware Macduff, Beware the Thane of Fife.
+C: MACBETH
+D: Whate’er thou art, for thy good caution thanks: Thou hast harped my fear aright. But one word more— BLUE REVISED – 1/16/20
+C: CONTINUED
+D: The face has fallen back into the depths to be replaced by another that rises to just below the surface.
+C: FIRST WITCH
+D: He will not be commanded. Here’s another, More potent than the first.
+C: SECOND APPARITION
+D: Macbeth, Macbeth, Macbeth—
+C: MACBETH
+D: Had I three ears, I’d hear thee.
+C: SECOND APPARITION
+D: Be bloody, bold, and resolute. Laugh to scorn The pow’r of man, for none of woman born Shall harm Macbeth. This child too sinks back down.
+C: MACBETH
+D: Then live, Macduff, what need I fear of thee? But yet I’ll make assurance double sure And take a bond of fate. Thou shalt not live, That I may tell pale-hearted fear it lies And sleep in spite of thunder. A third child is rising, this one wearing a crown…
+C: MACBETH
+D: What is this That rises like the issue of a king And wears upon his baby brow the round And top of sovereignty?
+C: FIRST WITCH
+D: Listen, but speak not to’t. The third child’s face breeches the black water which leaves blood dripping from his face.
+C: THIRD APPARITION
+D: Macbeth shall never vanquished be until Great Birnam Wood to high Dunsinane Hill Shall come against him. The third child, wearing the crown, sinks away. As Macbeth leans over to watch it the reflection of his face covers the child’s. BLUE REVISED – 1/16/20
+C: CONTINUED MACBETH
+D: That will never be. Who can impress the forest, bid the tree Unfix his earthbound root? Yet my heart throbs To know one thing more. Tell me, if your art Can tell so much: Shall Banquo’s issue ever Reign in this kingdom?
+N: WITCHES * Seek to know no more. Under the knocking we hear the sound of galloping horses, approaching. Macbeth looks to the window-- DAWN is beginning to break, the tree limb beating faster now in the rhythm of the knocking. CLOSE ON THE FLOOR as he rises. The water is receding around his feet to leave dry floor.
+S: INT. DUNSINANE - APPARITION CHAMBER DAY
+N: WIDE ON THE ROOM, now streaked with light, as he walks to the window. His feet leave bloody footprints on the floor. Macbeth looks out the window then back up at the ceiling.
+C: MACBETH
+D: Where are they? Gone? The door bursts open and Lady Macbeth rushes in followed by * Landy Vivian, Lennox, Ross and a messenger.
+C: MACBETH
+D: Saw you the weird sisters?!
+E: CONT’D
+N: BLUE REVISED – 1/16/20
+C: CONTINUED
+D: She looks nervously at Lennox, Lady Vivian, Ross, and the * messenger. She waves them away.
+C: LADY MACBETH
+D: No, my lord. She shuts the door. Alone now, she reaches out to Macbeth, concerned, but he brushes her hand away.
+C: MACBETH
+D: Came they not by you?!
+C: LADY MACBETH
+D: No indeed, my lord.
+C: MACBETH
+D: Infected be the air whereon they ride, And damned all those that trust them! He turns back to the window, looking out:
+C: MACBETH
+D: I did hear The galloping of horse. Who was’t came by?
+E: CONT’D
+C: LADY MACBETH
+D: ‘Tis two or three, my lord, that bring you word Macduff is fled to England.
+C: MACBETH
+D: Fled to England?
+C: LADY MACBETH
+D: Ay, my good lord.
+C: MACBETH
+D: Time, thou anticipat’st my dread exploits. The flighty purpose never is o’ertook Unless the deed go with it. To Lady Macbeth:
+E: to himself
+C: MACBETH
+D: From this moment The very firstlings of my heart shall be The firstlings of my hand. BLUE REVISED – 1/16/20
+S: INT. DUNSINANE - HALLWAY TO APPARITION CHAMBER – DAY
+N: OUTSIDE THE DOORWAY Lennox, Ross, and the messenger have left. Lady Vivian, * lingering, puts her ear to the door.
+C: MACBETH
+D: And even now, To crown my thoughts with acts, be it thought and done. INT. DUNSINANE - APPARITION CHAMBER Back in the room Macbeth is heading from the windows to the door:
+E: OFF
+C: MACBETH
+D: The castle of Macduff I will surprise, Seize upon Fife, give to th’ edge o’ th’ sword His wife, his babes, and all unfortunate souls That trace him in his line. No boasting like a fool; This deed I’ll do before this purpose cool. He opens the door, startling Lady Vivian who backs away. * Macbeth, brushes past her waving his arm as he leaves.
+E: CONT’D
+C: MACBETH
+D: But no more sights!
+E: CONT’D
+N: Lady Macbeth sits down where Macbeth was lying. She looks around the room almost apprehensively. The camera moves slowly in to a CLOSE UP. She runs her hand through her hair, then sensing something, looks down at her hands.
+C: CLOSE
+D: Strands of hair have come away in her hand.
+N: She looks up. Lady Vivian stands in the doorway. They look at each other. *
+T: CUT TO:
+N: BLUE REVISED – 1/16/20
+S: EXT. DUNSINANE - HALLWAY – DAY
+N: Lennox walking with Ross: *
+C: LENNOX
+D: Only I say Things have been strangely borne. The gracious Duncan Was pitied of Macbeth. After he was dead. And the right valiant Banquo walked too late; Whom, you may say, if t please you, Fleance killed, For Fleance fled. ROSS * Men must not walk too late.
+C: LENNOX
+D: Who cannot want the thought how monstrous It was for Malcolm and for Donalbain To kill their gracious father? Damnèd fact, How it did grieve Macbeth! Did he not straight, In pious rage, the two delinquents tear That were the slaves of drink and thralls of sleep? Was not that nobly done? ROSS * Ay. *
+N: LENNOX * And wisely too, For ‘twould have angered any heart alive To hear the men deny’t. So that I say He has borne all things well; and I do think That, had he Duncan’s sons under his key-- As, an’t please heaven, he shall not—they should find What ‘twere to kill a father ROSS * I hear Macduff lives in disgrace. Sir, can you tell Where he bestows himself? LENNOX * Malcolm, the son of Duncan, * From whom this tyrant holds the due of birth, * Lives in the English court. Thither Macduff is gone to pray upon his aid * And this report Hath so exasperate Macbeth that he Prepares for some attempt at war. (MORE) BLUE REVISED – 1/16/20
+C: CONTINUED LENNOX
+D: Some holy angel Fly to the court of England and unfold This message ere he come, that a swift blessing * May soon return to this our suffering country Under a hand accursed.
+E: CONT’D
+C: WIND
+D: THE PLAYFUL SHREIKS OF CHILDREN EXT. MACDUFF'S CASTLE – DAY
+N: CUT TO a dead bird. A sparrow or a wren. It lies in the grass, a circle drawn in the dirt around it. Its feathers rustle in the wind. CLOSE on a little boy, eleven or twelve years old. He stares down at the bird. The boy bends down and picks up the bird. He looks down at the small bird in his hands.
+S: EXT. WIDE — LOOKING ACROSS THE HILLS
+N: A castle on a far bluff. In silhouette the children are running along a ridge toward the castle.
+S: EXT. MACDUFF'S GATE – DAY
+N: HIGH, LOOKING DOWN OVER THE CASTLE GATE
+S: INT. MACDUFF'S STAIRWAY - GROUND FLOOR – DAY
+N: INSIDE THE CASTLE As the children run in, followed by the nurse. The little boy, runs up a spiral staircase. * BLUE REVISED – 1/16/20
+C: CONTINUED
+D: Voices can be heard coming from a room at the top of the stairs. The boy pauses outside and puts his ear to the door, listening:
+C: LADY MACDUFF
+D: What had he done to make him fly the land?
+E: OFF
+C: ROSS
+D: You must have patience, madam.
+E: OFF
+C: LADY MACDUFF
+D: He had none. His flight was madness. INT. MACDUFF'S LANDING – DAY The little boy hears something downstairs that takes his attention away. He looks back down the staircase to where the children are playing. Lady Macbeth’s gentlewoman, Lady * Vivian, is bustling in and talking to the children’s nurse. *
+E: OFF
+C: LADY MACDUFF
+D: When our actions do not, Our fears do make us traitors.
+E: CONT’D
+C: ROSS
+D: You know not. Whether it was his wisdom or his fear. The little boy turns back, pushes the door open and goes to stand beside his mother. INT. MACDUFF'S BEDCHAMBER – DAY
+E: OFF
+C: LADY MACDUFF
+D: Wisdom? To leave his wife, to leave his babes, His mansion and his titles in a place From whence himself does fly? He loves us not, He wants the natural touch. She puts her arm around her son. *
+C: LADY MACDUFF
+D: For the poor wren, The most diminutive of birds, will fight, Her young ones in her nest, against the owl. BLUE REVISED – 1/16/20
+E: CONT’D MORE
+C: CONTINUED LADY MACDUFF
+D: All is the fear and nothing is the love, As little is the wisdom, where the flight So runs against all reason.
+E: CONT’D
+C: ROSS
+D: My dearest coz, I pray you school yourself. But for your husband He is noble, wise, judicious, and best knows The fits o’ th’ season. He walks to the high window and looks steeply down. The Gate to the castle is open. He looks up, scanning the horizon as if expecting something.
+C: ROSS
+D: I dare not speak much further, But cruel are the times when we are traitors And do not know ourselves; when we hold rumor From what we fear, yet know not what we fear, But float upon a wild and violent sea Each way and none. He makes for the door, tousling the little boy’s hair on the way out.
+C: ROSS
+D: My pretty cousin, Blessing upon you.
+C: LADY MACDUFF
+D: Fathered he is, and yet he’s fatherless.
+C: ROSS
+D: I am so much a fool, should I stay longer It would be my disgrace and your discomfort. I take my leave at once. Ross leaves. As he descends, we hear the laughing and shouting children downstairs.
+N: Lady Macduff turns to the little boy and takes him by the shoulders: BLUE REVISED – 1/16/20
+C: CONTINUED LADY MACDUFF
+D: Sirrah, your father’s dead And what will you do now? How will you live?
+E: mock earnest
+C: SON
+D: As birds do, mother.
+C: LADY MACDUFF
+D: What, with worms and flies?
+C: SON
+D: With what I get, I mean; and so do they.
+C: LADY MACDUFF
+D: Poor bird, thou’dst never fear the net nor lime, The pitfall nor the gin.
+C: SON
+D: Why should I, mother? Poor birds they are not set for. My father is not dead for all your saying.
+C: LADY MACDUFF
+D: Yes, he is dead. How wilt thou do for a father?
+C: SON
+D: Nay, how will you do for a husband?
+C: LADY MACDUFF
+D: Why, I can buy me twenty at any market.
+C: SON
+D: Then you’ll buy ‘em to sell again.
+C: LADY MACDUFF
+D: Thou speak’st with all thy wit; and yet, faith, With wit enough for thee.
+C: SON
+D: Was my father a traitor, mother?
+C: LADY MACDUFF
+D: Ay, that he was.
+C: SON
+D: What is a traitor? BLUE REVISED – 1/16/20
+C: CONTINUED LADY MACDUFF
+D: Why, one that swears and lies.
+C: SON
+D: And be all traitors that do so?
+C: LADY MACDUFF
+D: Every one that does so is a traitor and must be hanged.
+C: SON
+D: And must they all be hanged that swear and lie?
+C: LADY MACDUFF
+D: Every one.
+C: SON
+D: Who must hang them?
+C: LADY MACDUFF
+D: Why, the honest men. We hear footsteps on the stairs.
+C: SON
+D: Then the liars and swearers are fools, for there are liars and swearers enough to beat the honest men and hang up them. The children’s nurse and Lady Vivian are anxiously approaching * the doorway—apparently with news.
+C: LADY MACDUFF
+D: Now God help thee, poor baby!
+E: laughing
+C: CHILDREN’S NURSE
+D: Milady— Lady Macduff holds up her hand indicating they should wait.
+C: LADY MACDUFF
+D: But how wilt thou do for a father?
+C: SON
+D: If he were dead, you’d weep for him. If you would not, it were a good sign that I should quickly have a new father. BLUE REVISED – 1/16/20
+C: CONTINUED LADY MACDUFF
+D: Poor prattler, how thou talk’st! She looks up at Lady Vivian, who approaches: * LADY VIVIAN * Bless you, fair dame. I am not to you known, Though in your state of honor I am perfect. I doubt some danger does approach you nearly. If you will take a homely maid’s advice, Be not found here. Hence with your little ones. To fright you thus methinks I am too savage; To do worse to you were fell cruelty, Which is too nigh your person. We hear horses approaching. Lady Macduff moves to the window and looks out. Lady * Vivian exits. *
+E: anxiously
+C: LADY MACDUFF
+D: Whither should I fly? I have done no harm. EXT. MACDUFF'S GATE – DAY
+N: Horsemen are passing under the open gate.
+C: LADY MACDUFF
+D: But I remember now I am in this earthly world, where to do harm Is often laudable, to do good sometime Accounted dangerous folly. Why then, alas, Do I put up that womanly defense To say I have done no harm? INT. MACDUFF'S BEDCHAMBER We hear a loud clatter from downstairs.
+E: CONT’D
+N: The playful shrieks of the children have suddenly turned to shrieks of fear. Smoke is billowing up the staircase and into the room. Heavy footsteps running up the stairs. Lady Macduff grabs her son and runs to the landing— BLUE REVISED – 1/16/20
+S: INT. MACDUFF'S LANDING – DAY
+N: Two rough faces are emerging from the smoke near the top of the staircase.
+C: LADY MACDUFF
+D: What are these faces? MURDERER #3 Where is your husband?
+C: LADY MACDUFF
+D: I hope in no place so unsanctified Where such as thou mayst find him. MURDERER #3 He’s a traitor. The boy breaks away from his mother and rushes at the murderer.
+C: SON
+D: Thou liest! MURDERER #3 What, you egg! The Murderer grabs him by the wrist with his right hand and flings him into the smoke, down the stairs.
+N: Lady Macduff screams and runs toward her son, plunging down the stairs. We follow her as she disappears into the smoke. The sound of mayhem, fire and shrieking children fades out to leave only the wind.
+S: EXT. AN ALLÉE OF TREES / BIRNAM WOOD - DAY
+N: The smoke has become fog, and out of the fog emerge two faces, walking toward us, through an allée of trees. They are Malcolm and Macduff.
+C: MALCOLM
+D: Let us seek out some desolate place, and there Weep our sad bosoms empty. BLUE REVISED – 1/16/20
+C: CONTINUED MACDUFF
+D: Let us rather Hold fast the mortal sword and, like good men, Bestride our downfall birthdom. Each new morn New widows howl, new orphans cry, new sorrows Strike heaven on the face, that it resounds As if it felt with Scotland and yelled out Like syllable of dolor. The fog behind them is blowing away.
+C: MALCOLM
+D: What you have spoke, it may be so perchance, This tyrant, whose sole name blisters our tongues, Was once thought honest. We see Ross approaching from the direction of the camp.
+C: MALCOLM
+D: See who comes here?
+C: MACDUFF
+D: My ever gentle cousin, welcome hither.
+C: MALCOLM
+D: I know him now. Good God betimes remove The means that makes us strangers.
+C: ROSS
+D: Sir, amen.
+C: MACDUFF
+D: Stands Scotland where it did?
+C: ROSS
+D: Alas, poor country Almost afraid to know itself. It cannot Be called our mother but our grave, where nothing But who knows nothing is once seen to smile; Where sighs and groans, and shrieks that rend the air, Are made, not marked; where violent sorrow seems A modern ecstasy.
+C: MACDUFF
+D: O, relation Too nice, and yet too true! BLUE REVISED – 1/16/20
+N: CONTINUED
+C: MALCOLM
+D: What’s the newest grief?
+C: ROSS
+D: That of an hour’s age doth hiss the speaker; Each minute teems a new one.
+C: MACDUFF
+D: How does my wife?
+C: ROSS
+D: Why, well.
+C: MACDUFF
+D: And all my children?
+C: ROSS
+D: ...Well too.
+C: MACDUFF
+D: The tyrant has not battered at their peace?
+C: ROSS
+D: ... No... they were well at peace when I did leave ‘em.
+C: MACDUFF
+D: Be not a niggard of your speech. How goes’t? Changing the subject:
+C: ROSS
+D: When I came hither to transport the tidings Which I have heavily borne, there ran a rumor Of many worthy fellows that were out, Which was to my belief witnessed the rather For that I saw the tyrant’s power afoot. Now is the time of help. Your eye in Scotland Would create soldiers, make our women fight To doff their dire distresses.
+C: MALCOLM
+D: Be’t their comfort We are coming thither. Gracious England hath Lent us good Siward and ten thousand men, BLUE REVISED – 1/16/20
+E: MORE
+C: CONTINUED MALCOLM
+D: A stronger and a better soldier none * That Christendom gives out.
+E: CONT’D
+C: ROSS
+D: Would I could answer This comfort with the like. But I have words That would be howled out in the desert air, Where hearing should not latch them.
+C: MACDUFF
+D: What concern they, The general cause or is it a fee-grief Due to some single breast?
+C: ROSS
+D: No mind that’s honest But in it shares some woe, though the main part Pertains to you alone.
+C: MACDUFF
+D: If it be mine, Keep it not from me; quickly let me have it.
+C: ROSS
+D: Let not your ears despise my tongue forever, Which shall possess them with the heaviest sound That ever yet they heard.
+C: MACDUFF
+D: Hmm—I guess at it.
+C: ROSS
+D: Your castle is surprised, your wife and babes Savagely slaughtered. To relate the manner Were, on the quarry of these murdered dear, To add the death of you.
+C: MALCOLM
+D: Merciful heaven—What, man, Give sorrow words. The grief that does not speak Whispers the o’erfraught heart and bids it break.
+C: MACDUFF
+D: My children too? BLUE REVISED – 1/16/20
+C: CONTINUED ROSS
+D: Wife, children, servants, all That could be found.
+C: MACDUFF
+D: My wife killed too?
+C: ROSS
+D: I have said.
+C: MALCOLM
+D: Be comforted. Let’s make us med’cines of our great revenge To cure this deadly grief.
+C: MACDUFF
+D: All my pretty ones? Did you say all? O hellkite! All? What, all my pretty chickens and their dam At one fell swoop?
+C: MALCOLM
+D: Dispute it like a man.
+C: MACDUFF
+D: I shall do so; But I must also feel it as a man. I cannot but remember such things were That were most precious to me. Did heaven look on And would not take their part? Sinful Macduff, They were all struck for thee. Naught that I am, Not for their own demerits but for mine Fell slaughter on their souls. Heaven rest them now.
+C: MALCOLM
+D: Be this the whetstone of your sword. Let grief Convert to anger; blunt not the heart, enrage it.
+C: MACDUFF
+D: O, I could play the woman with mine eyes And braggart with my tongue. But, gentle heavens, Cut short all intermission. Front to front Bring thou this fiend of Scotland and myself. Within my sword’s length set him. If he scape, Heaven forgive him too.
+N: BLUE REVISED – 1/16/20
+C: CONTINUED
+D: We hear the rumble of thunder.
+T: FADE OUT
+N: The sound of rain beating down on stone. The sound of the rain fades away to leave only the sound of a slow, rhythmic, thumping.
+T: FADE IN
+S: EXT. DUNSINANE - COURTYARD – NIGHT
+N: A drop of silvery water, backlit by the moon, drops rhythmically into a puddle on the stones of the palace courtyard—each raindrop a deep, accented thump. A cloud moves slowly across the face of the moon. We still hear the rhythmic thumping of the raindrop, and under it the voice of the Doctor:
+C: DOCTOR
+D: When was it she last walked? INT. DUNSINANE - BEDCHAMBER/INTERCUT ARCHWAY LANDING – NIGHT CLOSE on Lady Macbeth, lying in the dark, eyes open. A shadow moves across her face at the same speed as the cloud across the moon.
+E: OFF
+C: LADY MACBETH’S NURSE
+D: Since his majesty went into the field I have seen her rise from her bed, throw her nightgown upon her, unlock her closet, take forth paper, fold it, write upon’t, read it, afterwards seal it, and again return to bed; yet all this while in a most fast sleep. Lady Macbeth rises from her bed.
+N: BLUE REVISED – 1/16/20 CONTINUED 57
+C: DOCTOR
+D: In this slumb’ry agitation, besides her walking and other actual performances, what at any time have you heard her say? 58 INT. DUNSINANE STAIRCASE/ARCHWAY LANDING/WINDOW – NIGHT 58*
+N: CLOSE on Lady Macbeth’s bare feet, descending a stone spiral staircase.
+C: LADY MACBETH’S NURSE
+D: That, sir, which I will not report after her. Neither to you nor anyone, having no witness to confirm my speech. ANGLED UP the staircase. Lady Macbeth is approaching down the staircase.
+N: She holds a candle that casts a shadow up onto the stone walls of the staircase behind her.
+C: LADY MACBETH’S NURSE
+D: Lo you, here she comes. This is her very guise, and, upon my life, fast asleep. CLOSE on a Doctor and a Lady Macbeth’s Nurse standing on a landing, watching her approach.
+C: LADY MACBETH’S NURSE
+D: Observe her; stand close.
+C: DOCTOR
+D: You see her eyes are open. We pivot with her as she passes and we watch her disappear as she descends further.
+C: LADY MACBETH’S NURSE
+D: Ay, but their senses are shut.
+C: DOCTOR
+D: How came she by that light? The Doctor and the nurse move to a window on the landing and look out to the courtyard.
+C: LADY MACBETH’S NURSE
+D: Why, it stood by her. She has light by her continually. ‘Tis her command. BLUE REVISED – 1/16/20
+S: 59 EXT. DUNSINANE COURTYARD/INTERCUT WITH COURTYARD WINDOW 59*
+N: HIGH ANGLE looking down into the moonlit courtyard as Lady Macbeth emerges. She puts the taper down on the ground and rubs her hands together.
+C: DOCTOR
+D: What is it she does now? Look how she rubs her hands.
+C: LADY MACBETH’S NURSE
+D: It is an accustomed action with her, to seem thus washing her hands. I have known her continue in this a quarter of an hour.
+C: LADY MACBETH
+D: Yet here’s a spot.
+C: DOCTOR
+D: Hark, she speaks.
+N: In the courtyard, Lady Macbeth walks to the overhang where * the rain drops. She holds out her hand. CLOSE on Lady Macbeth:
+C: LADY MACBETH
+D: Out, damned spot! Out, I say! One—two—why then ‘tis time to do’t. Hell is murky. Fie, my lord, fie! A soldier and afeard? What need we fear who knows it, when none can call our power to account? Yet who would have thought the old man to have had so much blood in him?
+N: Still rubbing her hands:
+C: LADY MACBETH
+D: The Thane of Fife had a wife. Where is she now? What, will these hands ne’er be clean? No more o’ that, my lord, no more o’ that. You mar all with this starting.
+N: The Doctor looks at the Nurse in alarm: *
+C: DOCTOR
+D: Go to, go to! You have known what you should not.
+C: LADY MACBETH’S NURSE
+D: She has spoke what she should not, I am sure of that. Heaven knows what she has known.
+N: The Doctor and the Nurse move away from the window. * Back to Lady Macbeth. She looks around: * BLUE REVISED – 1/16/20
+C: CONTINUED LADY MACBETH
+D: Here’s the smell of the blood still. All the perfumes of Arabia will not sweeten this little * hand. Breaking the rhythm, a drop of rain hits her hand and streaks it with blood.
+C: LADY MACBETH
+D: O, o, o! Lady Macbeth turns from the tree to walk back to the * castle. 60 INT. DUNSINANE STAIRCASE/ARCHWAY LANDING INTERCUT COURTYARD-NIGHT 60*
+N: As the Doctor and the Nurse are taking their position near the staircase: LADY MACBETH’S NURSE * What a sigh there is. The heart is sorely charged. *
+C: DOCTOR
+D: This disease is beyond my practice. Yet I have known those* which have walked in their sleep who have died holily in their beds. God, God forgive us all. Look after her; Remove from her the means of all annoyance, And still keep eyes upon her.
+N: They see Lady Macbeth approaching the landing and the staircase.
+C: LADY MACBETH
+D: Wash your hands, put on your nightgown, look not so pale. I tell you yet again, Banquo’s buried. He cannot come out on’s grave.
+C: DOCTOR
+D: Foul whisp’rings are abroad. Unnatural deeds Do breed unnatural troubles. Infected minds To their deaf pillows will discharge their secrets. More needs she the divine than the physician. Will she go now to bed?
+C: LADY MACBETH’S NURSE
+D: Directly. BLUE REVISED – 1/16/20
+C: CONTINUED
+D: Lady Macbeth starts to climb the stairs:
+C: LADY MACBETH
+D: To bed, to bed; there’s knocking at the gate. Come, come, come, come, give me your hand. What’s done cannot be undone. To bed, to bed, to bed.
+N: Eyes wide open she looks directly at the doctor on the landing:
+C: LADY MACBETH
+D: ...To bed. FADE OUT
+E: CONT’D
+N: The rhythm of the thumping becomes the dull, thudding rhythm of many marching feet. A bell begins to toll. In the blackness a single word fades in: TOMORROW The tolling of the bell becomes the rhythmic sound of steel biting into wood.
+T: FADE IN
+S: EXT. ALLÉE OF TREES / BIRNAM WOOD – DAY
+C: MONTEITH
+D: What wood is this before us?
+C: ANGUS
+D: The Wood of Birnam. THEIR POV: A woodsman is chopping down a small tree, making a pile of firewood.
+C: ANGUS
+D: The English pow'r is near, led on by Malcolm, His cousin Siward, and the good Macduff. Revenges burn in them.
+E: CONT’D
+N: BLUE REVISED – 1/16/20
+C: CONTINUED MONTEITH
+D: What does the tyrant?
+C: ANGUS
+D: Great Dunsinane he strongly fortifies. Some say he's mad; others that lesser hate him Do call it valiant fury; but for certain He cannot buckle his distempered cause Within the belt of rule.
+C: MONTEITH
+D: Now does he feel His secret murders sticking on his hands. Those he commands move only in command, Nothing in love. Now does he feel his title Hang loose about him, like a giant's robe Upon a dwarfish thief. CUT TO: INT. DUNSINANE - THRONE ROOM / BANQUET HALL – DAY Wheyface, a servant, kneeling.
+C: MACBETH
+D: The devil damn thee black, thou cream-faced loon! Where got’st thou that goose look?
+E: OFF
+C: WHEYFACE
+D: There is ten thousand— Macbeth, surrounded by retainers and attendants is sitting on his throne:
+C: MACBETH
+D: Geese, villain?
+C: WHEYFACE
+D: Soldiers, sir.
+C: MACBETH
+D: Go prick thy face and over-red thy fear, Thou lily-livered boy. What soldiers, patch? Death of thy soul! Those linen cheeks of thine Are counselors to fear. What soldiers, wheyface?
+C: WHEYFACE
+D: The English force, so please you. BLUE REVISED – 1/16/20
+C: CONTINUED MACBETH
+D: Take thy face hence. As Wheyface leaves:
+C: MACBETH
+D: Seyton—I am sick at heart, When I behold—Seyton, I say! Rising to his feet:
+E: CONT’D
+C: MACBETH
+D: This push Will cheer me ever, or disseat me now. I have lived long enough. My way of life Is fall’n into the sere, the yellow leaf,
+E: CONT’D
+N: He pushes his way through the courtiers who surround him:
+C: MACBETH
+D: And that which should accompany old age, As honor, love, obedience, troops of friends, I must not look to have. Seyton! Who is just entering the room, followed by the Doctor.
+E: CONT’D
+C: SEYTON
+D: What’s your gracious pleasure?
+C: MACBETH
+D: What news more?
+C: SEYTON
+D: All is confirmed, my lord, which was reported.
+C: MACBETH
+D: I’ll fight till from my bones my flesh be hacked. Give me my armor.
+C: SEYTON
+D: ‘Tis not needed yet.
+C: MACBETH
+D: I’ll put it on. Send out more horses, skirr the country round, Hang those that talk of fear. Give me mine armor!
+N: BLUE REVISED – 1/16/20
+C: CONTINUED
+D: An attendant appears, who starts to strap the upper canon of his armor onto Macbeth’s arms:
+C: MACBETH
+D: How does your patient, doctor?
+C: DOCTOR
+D: Not so sick, my lord, As she is troubled with thick-coming fancies That keep her from her rest.
+C: MACBETH
+D: Cure her of that. Canst thou not minister to a mind diseased, Pluck from the memory a rooted sorrow, Raze out the written troubles of the brain, And with some sweet oblivious antidote Cleanse the stuffed bosom of that perilous stuff Which weighs upon the heart?
+C: DOCTOR
+D: Therein the patient Must minister to himself.
+C: MACBETH
+D: Throw physic to the dogs, I’ll none of it. Seyton, the Doctor and the attendant with the armor, * trailing.
+C: MACBETH
+D: Come, put mine armor on! Seyton, send out. * Seyton, attempting to armor Macbeth, is batted away. Macbeth exits the throne room and turns up the ramparts stairs.
+N: OMIT OMIT
+S: *A65 INT. DUNSINANE - RAMPARTS STAIRS – DAY A65
+C: MACBETH
+D: Bring it after me. I will not be afraid of death and bane Till Birnam Forest come to Dunsinane. BLUE REVISED – 1/16/20
+C: *A65 CONT’D A65*
+D: A CLAP OF THUNDER
+N: THE SUN A thunder cloud moves across the sun as the day fades in to a gloomy cast
+T: CUT TO:
+S: INT. DUNSINANE - LADY MACBETH’S BEDCHAMBER – DAY
+N: Lady Macbeth’s bedchamber as a shadow slowly moves across the room. CLOSE OVERHEAD on Lady Macbeth lying on her bed as the shadow moves slowly over her face. We hear the distant sound of knocking. She opens her eyes.
+T: CUT TO:
+S: EXT. AN ALLÉE OF TREES /BIRNAM WOOD – DAY
+N: CLOSE ON AN AXE biting into the bark of a small tree. We are back in the forest. BLUE REVISED – 1/16/20
+C: CONTINUED
+D: Malcolm sits astride his horse. Macduff and many other horsemen surround him. Malcolm looks up at the darkening sky.
+N: The wind picks up and leaves begin to fall.
+C: MALCOLM
+D: Let every soldier hew him down a bough And bear’t before him. Thereby shall we shadow The numbers of our host and make discovery Err in report of us.
+C: MACDUFF
+D: It shall be done.
+C: SIWARD
+D: We learn no other but the confident tyrant Keeps still in Dunsinane and will endure Our setting down before’t.
+C: MALCOLM
+D: ‘Tis his main hope, For where there is advantage to be given Both more and less have given him the revolt, And none serve with him but constrainéd things * Whose hearts are absent too. The Thunder rolls again. The sound of the knocking, hundreds of trees being chopped down, grows louder. INT. DUNSINANE – LADY MACBETH’S BEDCHAMBER BACK TO THE DARK BEDCHAMBER as Lady Macbeth rises from her bed.
+N: Her bare feet as they touch the floor. Slowly she crosses the room toward us
+T: CUT TO:
+S: EXT. DUNSINANE RAMPARTS
+N: MACBETH WALKING OUT ONTO THE RAMPARTS. Thunder in the howling wind: BLUE REVISED – 1/16/20
+C: CONTINUED MACBETH
+D: Hang out our banners on the outward walls. The cry is still, “They come.” Our castle’s strength Will laugh a siege to scorn. Here let them lie Till famine and the ague eat them up. CUT TO: INT. DUNSINANE STAIRCASE/ARCHWAY LANDING – DAY TRACKING CLOSE on Lady Macbeth’s bare feet walking across a stone floor. They reach the edge of the stair and stop.
+N: At the bottom of the stair Ross is making his way through retainers and attendants who stream around him, fleeing the castle. He pauses at the bottom of the tower stair to look up: A lone figure in silhouette, stands at the top, not moving. Ross starts to climb the stair toward Lady Macbeth.
+S: EXT. DUNSINANE RAMPARTS
+N: BACK TO Macbeth on the ramparts, searching the horizon.
+C: MACBETH
+D: Were they not forced with those that should be ours, We might have met them dareful, beard to beard, And beat them backward home. EXT. AN ALLÉE OF TREES / BIRNAM WOOD – DAY BACK TO MALCOLM — on horseback — THUNDER *
+E: CONT’D
+N: He looks to the sky. Leaves are falling Beyond him we see the cut saplings of the forest moving with him. He turns to Siward and Macduff. BLUE REVISED – 1/16/20
+C: CONTINUED MALCOLM
+D: You, worthy cousin, Lead our first battle. Worthy Macduff and we Shall take upon’s what else remains to do.
+C: SIWARD
+D: Do we but find the tyrant’s power tonight, Let us be beaten if we cannot fight. Towards which advance the war. INT. DUNSINANE STAIRCASE/ARCHWAY LANDING BACK TO ROSS slowly climbing the stair, studying Lady Macbeth. People are fleeing the castle but take no notice of them.
+N: CLOSE on Lady Macbeth, eyes open but seemingly unaware, as Ross reaches the landing. They are now alone. He looks in her unseeing eyes then slowly walks around her never taking his eyes off of her.
+S: EXT. EDGE OF ALLÉE OF TREES / BIRNAM WOODS
+N: BACK TO MALCOLM reigning in his horse. The leaves still falling. Dunsinane is in the distance
+C: MALCOLM
+D: Now near enough. Your leafy screens throw down And show like those you are.
+C: MACDUFF
+D: Make all our trumpets speak, give them all breath, Those clamorous harbingers of blood and death. EXT. DUNSINANE RAMPARTS BACK TO MACBETH on the ramparts.
+N: We hear the sound of trumpets carried on the wind mixing with the distant cry of women, coming from the castle. As he turns his head toward the sound:
+C: MACBETH
+D: What is that noise? BLUE REVISED – 1/16/20
+C: CONTINUED
+D: Seyton, at the ramparts door. He turns to look down the long spiral of the staircase, just inside:
+C: SEYTON
+D: It is the cry of women, my good lord. Macbeth is moving toward the ramparts door as Seyton leaves to investigate.
+C: MACBETH
+D: I have almost forgot the taste of fears. The time has been my senses would have cooled To hear a night-shriek, and my fell of hair Would at a dismal treatise rouse and stir As life were in't. * Seyton is returning to the doorway.
+C: MACBETH
+D: Wherefore was that cry?!
+C: SEYTON
+D: The queen, my lord, is dead. Macbeth approaches him, to look down. INT. DUNSINANE STAIRCASE/ARCHWAY LANDING A tiny figure is sprawled near the bottom of the stair-- headfirst down.
+C: MACBETH
+D: She should have died hereafter: There would have been a time for such a word. We PULL MACBETH down the staircase as he descends, the wind rages behind him.
+C: MACBETH
+D: Tomorrow, and tomorrow, and tomorrow Creeps in this petty pace from day to day To the last syllable of recorded time, And all our yesterdays have lighted fools The way to dusty death. Out, out, brief candle, Life's but a walking shadow, a poor player
+E: MORE
+N: BLUE REVISED – 1/16/20
+C: CONTINUED MACBETH
+D: That struts and frets his hour upon the stage And then is heard no more. It is a tale Told by an idiot, full of sound and fury, Signifying nothing.
+E: CONT’D
+N: Suddenly a voice from above:
+C: WHEYFACE
+D: Gracious my lord!
+N: MACBETH turns to look up the stairs to the ramparts. The messenger stands in the doorway. The wind is howling.
+C: WHEYFACE
+D: I should report that which I say I saw, But know not how to do't.
+E: CONT’D
+C: MACBETH
+D: Well, say, sir!
+C: WHEYFACE
+D: I looked toward Birhnam, and anon methought The wood began to move.
+C: MACBETH
+D: Liar and slave!
+C: WHEYFACE
+D: Let me endure your wrath ift be not so. Within this three mile may you see it coming. I say, a moving grove. Macbeth is moving toward a window on the staircase landing, across from the throne room.:
+C: MACBETH
+D: If thou speak'st false, Upon the next tree shalt thou hang alive Till famine cling thee.
+N: The window blows open and, with a gust of wind, a blizzard * of silvery leaves blows into the castle, dancing in the air around him: Macbeth turns from the window to watch the leaves blow across the landing and in through the open doors of the throne room, opposite. BLUE REVISED – 1/16/20
+C: CONTINUED MACBETH
+D: “Fear not, till Birnam Wood * Do come to Dunsinane,” and now a wood Comes toward Dunsinane. The wind is blowing harder. He turns to call up the staircase, but the messenger has disappeared. . .
+C: MACBETH
+D: Arm, arm, and out! If this which he avouches does appear, There is no flying hence nor tarrying here. * Then, turning to call down the stairs:
+C: MACBETH
+D: Ring the alarum bell! Blow wind, come wrack, At least we’ll die with harness on our back. The sound of the fleeing inhabitants of the castle fades away leaving only the wind and silence. INT. DUNSINANE - THRONE ROOM / BANQUET HALL Macbeth turns once again to walk across the landing into the throne room. Thousands of leaves are blowing now across the floor, curling around the columns of the throne room as if it were the bed of a forest.
+E: CONT’D
+N: Wading through the leaves, he reaches the end of the room and sits heavily on the throne. The castle is silent now. Only the wind howls, which lifts the leaves in eddies from the floor. Finally, we hear footsteps approaching on the stairs, but Macbeth does not stir. Across the room a lone figure enters and stands in the doorway, but Macbeth takes no notice. It is Siward.
+C: SIWARD
+D: What is thy name?
+C: MACBETH
+D: Thou be afraid to hear it. BLUE REVISED – 1/16/20
+C: CONTINUED SIWARD
+D: No, though thou call’st thyself a hotter name Than any is in hell.
+N: After a pause:
+C: MACBETH
+D: My name’s Macbeth.
+C: SIWARD
+D: The devil himself could not pronounce a title More hateful to mine ear.
+C: MACBETH
+D: No, nor more fearful.
+C: SIWARD
+D: Thou liest, abhorrèd tyrant! With my sword I’ll prove the lie thou speak’st. Macbeth rises, smiling. He opens his arms wide to show he is unarmed.
+E: drawing his sword
+C: MACBETH
+D: Thou wast born of woman. Siward advances, his weapon raised with both hands.
+N: Macbeth walks calmly toward him, hands at his side. As they draw close Macbeth raises his arms, palms out, almost supplicating. Suddenly Siward chops the blade down but Macbeth leans nimbly back, the steel just grazing the front of his armor. Wheeling the blade, Siward swings at his head. Macbeth turns his head away, the blade just missing him, and kicks Siward to the ground. The sword clatters out of his hand and skates across the floor. As Siward rises to his feet Macbeth scoops up the sword. He heaves it back to Siward. Siward picks up the sword, taking a few unsteady backward steps, as Macbeth advances. BLUE REVISED – 1/16/20 CONTINUED Macbeth touches his cheek where the blade must have grazed him. His hand comes away with blood. He looks at his hand, still advancing, then suddenly— Flings the blood at Siward, spattering his face. Siward, rears back, reflexively raising the sword, but Macbeth’s hand is already on his wrist-wrenching it away. WIDE ON THE ROOM AS Macbeth wheels with the sword, and then, in one arcing blow, brings it down on Siward’s head, unseaming him from the neck to the chaps.
+S: EXT. DUNSINANE - RAMPARTS – DAY
+N: THE DOOR TO THE RAMPARTS Outside the wind is howling and the sky is dark. Macbeth enters with the dead man’s sword and walks out. He tips the sword up in front of him, looking at the blade. Blood drips from the glinting steel.
+C: MACBETH
+D: Why should I play the Roman fool and die On mine own sword? Whiles I see lives, the gashes Do better upon them. A voice from behind:
+C: MACDUFF
+D: Turn, hellhound, turn! Macbeth turns slowly to look at Macduff, framed in the doorway.
+C: MACBETH
+D: Of all men else I have avoided thee. But get thee back. My soul is too much charged With blood of thine already.
+N: BLUE REVISED – 1/16/20
+C: CONTINUED MACDUFF
+D: I have no words; My voice is in my sword, thou bloodier villain Than terms can give thee out.
+C: MACBETH
+D: Let fall thy blade on vulnerable crests. I bear a charmed life, which must not yield To one of woman born.
+C: MACDUFF
+D: Despair thy charm, And let the angel whom thou still hast served Tell thee, Macduff was from his mother’s womb Untimely ripped. Macbeth stares at Macduff—a dark apparition in the doorway.
+C: MACBETH
+D: Accursed be that tongue that tells me so, Then turns his back on Macduff to look out over the parapet.
+C: MACBETH
+D: I’ll not fight with thee.
+E: CONT’D
+C: MACDUFF
+D: Then yield thee coward, Shaking his head, then resolved:
+E: walking out sword high
+C: MACBETH
+D: I will not yield, To kiss the ground before young Malcolm’s feet He turns to face Macduff again, raising his sword:
+C: MACBETH
+D: And to be baited with the rabble’s curse. Though Birnam Wood be come to Dunsinane, And thou opposed, being of no woman born, Yet I will try the last. As Macduff charges.
+E: CONT’D
+N: BLUE REVISED – 1/16/20
+C: CONTINUED MACBETH
+D: Lay on, Macduff, And damned be him that first cries “Hold, enough!”
+N: Their blades come together with a mighty sound. WIDE on the parapet as they fight. Blow and parry. Wind and lightning. CLOSE on Macbeth as he swings his sword, glancing off Macduff’s armor. Macbeth batters him, driving Macduff back toward the bright doorway. A blow to the head sends Macduff to the ground. Macduff rolls as Macbeth’s blade swings down, glancing off the stones. Macduff rises to his knees. A slashing blow to his legs sends Macbeth staggering back. Macduff is on his feet again. He swings his sword but narrowly misses as Macbeth snaps his head back. The motion sends his crown flying off. CLOSE on the crown, hitting the stones and spinning next to the parapet wall. Off balance, Macbeth twists and staggers back as he sweeps the crown up and places it back on his head. He turns back just as Macduff’s blade swings through the air. It severs his head, sending it over the parapet.
+S: EXT. BASE OF THE DUNSINANE RAMPARTS – DAY
+N: THE WATER OF THE MOAT at the base of the castle wall. As Macbeth’s head hits the water. Suddenly the wind has stopped. The head sinks slowly down, face up wearing the crown, just as the third apparition did. BLUE REVISED – 1/16/20 CONTINUED Two hands reach in and grasp the severed head, pulling it up out of the water. The head is hoisted high over the man’s head. It is Ross.
+C: ROSS
+D: Behold where stands Th’ usurper’s cursed head! Hail, King of Scotland!
+N: He is surrounded by Malcolm and his army at the base of the castle.
+C: ALL
+D: Hail, King of Scotland! Hail, King of Scotland! CLOSE ON MALCOLM
+N: Sitting astride his horse as the crown is handed up to him. Malcolm lifts the crown high up over his head. We follow it up and then keep rising to find the sun, just as the thunder clouds roll away.
+T: FADE OUT SLOW FADE IN
+S: EXT. THE CROSSROADS – DAY
+N: Sunlight on high, waving grass. CLOSE on a coin being pressed into an OLD MAN' hand. The same man we saw earlier in the shepherd’s hut. He looks up at a man, mounted on a horse, who has leaned down to pay him. It is Ross. * Wider shows that we are near the grassy field where Banquo was murdered. The old man turns and disappears into a small stone hut, while Ross waits. BLUE REVISED – 1/16/20
+C: CONTINUED
+D: After a beat he emerges leading a young boy by the hand. It is Fleance.
+N: Taking the boy's hand, Ross swings him up to straddle the horse, in front of him.
+S: EXT. RISE BEYOND THE CROSSROADS
+N: Wider as Ross and the boy gallop directly away, across the field of grass toward a distant horizon. We hold as the horse grows smaller. The galloping hoofbeats recede. Suddenly, just beyond the horse, a huge flock of startled crows lifts into the sky. They shriek. They rise higher and higher, more and more, until the sky turns black. THE CURTAIN FALLS

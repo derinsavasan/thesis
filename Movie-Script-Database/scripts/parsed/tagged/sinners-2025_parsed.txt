@@ -1,0 +1,2343 @@
+M: SINNERS
+M: Written by
+M: Ryan Coogler
+S: INT. DARK VOID - NIGHT
+N: A MATCH STRIKES once, twice, and IGNITES on the third try, illuminating a WOODCUT IMAGE of a guitarist.
+C: ANNIE
+D: There are legends of people born with the gift of making music so true, that it can pierce the veil between life and death. Faces cry out to the guitarist from the dark and light portions of the woodcut.
+E: V.O.
+C: ANNIE
+D: Conjuring spirits from the past and the future. Another woodcut. Ancient Irishmen play music and dance around a fire. Faces look upon them from the blaze.
+E: V.O.
+C: ANNIE
+D: In ancient Ireland, they were called fili. In this woodcut, a Choctaw man captivates a family around a fire, as more faces listen from beyond the darkness.
+E: V.O.
+C: ANNIE
+D: In Choctaw land, they called them firekeepers. In another, a West African man plays a Kora for a group summoning a legion of faces in the night sky.
+E: V.O.
+C: ANNIE
+D: And in West Africa they are called griots. In the final Woodcut, a Bluesman plays for a group of people in a JUKE JOINT.
+E: V.O.
+C: ANNIE
+D: This gift can bring healing to their communities. A FIGURE with RED EYES peers in the window.
+E: V.O.
+C: ANNIE
+D: But it also attracts evil.
+E: V.O.
+C: PROLOGUE
+D: CHYRON- CLARKSDALE, MISSISSIPPI, 1932 EXT. FARMHOUSE - SUNSET The sun creeps halfway into the horizon. An INJURED MAN, hobbles towards a modest cattle farmhouse, looking back towards an unseen pursuer. INT. FARMHOUSE - SUNSET JOAN places a bowl down in front of BERT who is seated at a table, picking at his guitar and humming a tune . Watching her suspiciously, Bert sniffs it, makes a face. Joan notices, and raises her bowl to her mouth, slurps the liquid in and swallows-- its not great.
+E: 20s, White late 20s, White PICK POOR ROBIN CLEAN
+C: JOAN
+D: Go on... Bert stares at the bowl for a beat, then pushes it away.
+C: BERT
+D: I reckon I wont.
+C: JOAN
+D: Come on, Bert.
+C: BERT
+D: I can’t see how this is gonna help.
+C: JOAN
+D: Its supposed to increase you know... your count.
+C: BERT
+D: That’s hogwash...
+C: JOAN
+D: Aunt Comfort swears by it. Had eight babies, all healthy.
+C: BERT
+D: Healthy?! Joan every last one of her kids is as nutty as squirrel shit. Joan smiles offense at the slight.
+C: JOAN
+D: You know you got some nerve-- KNOCK! KNOCK! KNOCK! The front door rattles on its hinges. Joan and Bert exchange confused looks. Bert holds his finger to his lips “Shh” and then moves to an unseen wall of the room where a RIFLE and a SHOTGUN sit propped next to a folded KU KLUX KLAN uniform. He hands the rifle to Joan and carries the shotgun with him to the door. Bert opens it, revealing the INJURED MAN. Who is burned and bleeding. He looks like he’s been tortured.
+C: BERT
+D: Back up.
+C: INJURED MAN
+D: You gotta help. I thought I could trust em, but they’re trying to kill me.
+C: BERT
+D: Slow down. Bert looks beyond the man at the horizon. The top third of the sun still visible, but shadows are growing long.
+C: JOAN
+D: Who’s trying to kill you?
+C: INJURED MAN
+D: Choctaw. They was brutal.
+C: BERT
+D: Injuns? Where you from?
+E: beat
+C: INJURED MAN
+D: North Carolina.
+C: BERT
+D: You sure it wasn’t just some fair skinned niggers? Ain't no Injuns round here for miles.
+C: INJURED MAN
+D: We was traveling looking for a place of respite. And they, took my wife. - oh God, Siobhan. I’m a coward... He begins to cry.
+C: JOAN
+D: Jesus Christ, Bert. The Injured Man looks inside and notices the KKK regalia. He looks to Bert again.
+C: INJURED MAN
+D: I got gold. Them dirty Injuns meant to rob me, but they ain’t get all of it. Ya’ll can have it, just don’t let them hurt me no more. He reaches into his pocket, revealing a gold coin. Bert’s eyebrows raise at the sight of the money. He looks at Joan for a quick beat, before lowering his shotgun.
+C: BERT
+D: Come on... The Injured Man’s eyes water with gratitude as he enters.
+C: JOAN
+D: Set him up in the nursery. Bert nods and leads the Injured Man to the back of the house. Joan approaches the door and looks through the window.
+C: WINDOW POV
+D: In the distance we see a CHOCTAW SEARCH PARTY traveling via FORD MODEL T with two HORSES flanking, riders on their backs. EXT. FARMHOUSE - SUNSET - CONTINUOUS The members of the SEARCH PARTY stop outside the house. CHAYTON the leader of the group exits the vehicle, looking up at the sky. A LOOKOUT dismounts and stares directly at the setting sun - only a small edge of it remains. Chayton knocks on the door. INT. FARMHOUSE - SUNSET Joan readies her rifle.
+E: Choctaw, 50s
+C: JOAN
+D: Bert, they’re here! She opens the door, letting Chayton see her gun.
+C: CHAYTON
+D: Evenin’ ma’am. We don’t want any trouble. We are in pursuit of someone, very dangerous. He may have come here on your property. Have you seen anyone recently?
+C: JOAN
+D: No. Chayton stares at her for a beat, sensing her dishonesty.
+C: CHAYTON
+D: Is he in there, ma’am? Joan cocks her rifle.
+C: JOAN
+D: Bert..! Beat.
+C: JOAN
+D: I think ya’ll best be getting back to where you came from. Chayton looks at the rifle, then to Joan.
+E: CONT’D
+C: CHAYTON
+D: He ain't what he seems. God forbid you let him into your home. If so, we need to act right now. The Lookout watches as the last rim of light slides under the horizon. He whistles to Chayton, who turns and looks toward the horizon. He turns back to Joan with resolve.
+C: CHAYTON
+D: May God be with you. Chayton heads back to his car, and the search party rides off. Joan closes the door. Sighs out the tension.
+E: SUBTITLE CONT’D
+C: JOAN
+D: Bert... The injuns came and went... She walks towards the back of the house, and sits her rifle back down in the corner.
+C: JOAN
+D: Bert? She rounds the corner into the room. INT. NURSERY - NIGHT There is no light. Joan strains her eyes to make out the shape of a man standing in the corner of the room.
+E: CONT’D
+C: JOAN
+D: Bert? No. It’s the Injured Man, and he’s smiling a toothy grin. Fear grips Joan.
+C: JOAN
+D: Where’s-
+E: CONT’D
+C: INJURED MAN
+D: Shhh. He’s resting. The Injured Man points to the ground where Bert lies lifeless, in a pool of blood. Joan’s fear gives way to abject terror. The Injured Man licks his palm. Joan begins to cry.
+E: finger raised to mouth
+C: JOAN
+D: What did you do? The Injured Man feigns concern.
+C: INJURED MAN
+D: Oh don’t cry... He grins wider and points down at Bert’s corpse as it starts to stir.
+C: INJURED MAN
+D: ... you woke him. Bert stands, turns to Joan and flashes a smile matching that of the INJURED MAN.
+E: CONT’D
+C: INJURED MAN
+D: Look, he’s all better now. Joan tries to scream, but her throat is frozen. EXT. LUMBER MILL - DAY An abandoned two story lumber mill angles toward the morning sky. A tranquil stream and grass surround it. We reveal two men, identical twins waiting beside a PARKED CAR. SMOKE the older of the two watches the road ahead, while STACK rolls a cigarette, lights it, and takes a pull before passing it to his brother. Smoke takes the cigarette, his hands shaking slightly, as he takes a pull, he sees what they’ve been waiting for- A PACKARD, motoring towards them from a distance. Smoke hands the cigarette back to his brother who pulls one last time and drops it, stamps it out before picking up a small bag. The Ford parks in front of the mill and the driver, HOGWOOD, exits, taking the twins in with a self satisfied sigh.
+E: CONT’D Black, Mid 30s White, 45s
+C: SMOKE
+D: You Hogwoood? He nods.
+C: HOGWOOD
+D: Hope I ain't kept ya’ll boys waiting too long? You boys twins?
+E: takes a good look at them
+C: STACK
+D: Nah... we cousins... Hogwood smiles. Spits a dip. Smoke stare daggers at him. Unflinching. INT. LUMBER MILL - FIRST FLOOR - DAY Stack walks around examining the room beside Hogwood. Smoke eyes Hogwood from upstairs.
+E: smiling
+C: HOGWOOD
+D: They moved a ton of timber a month back in its heyday. Workers lived upstairs. Smoke sees something on the ground and bends down, running his fingers along the wood. Stack notices.
+C: STACK
+D: You washed these floors?
+C: HOGWOOD
+D: Yeah.
+C: SMOKE
+D: What was on them?
+C: HOGWOOD
+D: I thought ya’ll was dead set on buying the place. The longer time I spend with ya’ll, the less sure I am you boys was serious about it.
+C: SMOKE
+D: Ain’t no boys here.
+C: STACK
+D: Just grown men wit grown men money.
+C: SMOKE
+D: And grown men bullets.
+C: HOGWOOD
+D: I ain’t mean nothin by it. Just the way we talk down here. A long beat.
+C: SMOKE
+D: We’ll take it. Hogwood’s eyebrows raise.
+C: SMOKE
+D: The Mill, the equipment, and the land it stands on. Stack hands Hogwood a bag. He thumbs through it for a beat then looks up, inquisitive.
+E: CONT’D
+C: HOGWOOD
+D: Whats the extra for?
+C: STACK
+D: For your Klan buddies.
+C: HOGWOOD
+D: Klan don’t exist no more.
+C: SMOKE
+D: Then you take it to your clubhouse then.
+C: STACK
+D: And if anybody from Chicago come asking, make sure ya’ll tell em ya’ll sold us this place years ago. Hogwood nods.
+C: HOGWOOD
+D: Secrets safe with me.
+C: SMOKE
+D: Understand if you take that money, that’s the last dime you get from us. If we see you or one of your friends cross that property line, we’ll kill em where they stand.
+C: HOGWOOD
+D: Pleasure doing business with you both. Hogwood heads towards the door. He stops.
+C: HOGWOOD
+D: What do ya’ll fellas plan on doing with the place? EXT. GREY OAKS PLANTATION - DAY SAMMIE A SHARECROPPER works barefoot in a cotton field, the morning sun is still low in the sky. He hums a tune to himself, . He’s been at it for hours, evidenced by the full 9 ft sack beside him. Other SHARECROPPERS begin to show to start their day.
+E: CONT’D 19, BLACK I LIED TO YOU
+C: SHARECROPPER
+D: You out early this fine Saturday morning. I take it you strummin’ that guitar tonight? Sammie smiles.
+C: SHARECROPPER
+D: You gonna tell me where you playin’ or am I gonna have to hear it through the grapevine? Sammie packs up the massive bag of cotton.
+E: CONT’D
+C: SAMMIE
+D: You have a good one Beatrice. And I’ll see you at service tomorrow mornin’.
+C: SHARECROPPER
+D: I guess the grapevine it is. Sammie walks with his cotton sack over his back towards a SHACK in the distance. EXT. MOORE SHACK - SHARECROPPERS QUARTERS’ - GREY OAKS PLANTATION - DAY RUTHIE does laundry in a soapy bucket. She smiles warmly as Sammie approaches.
+E: Late 40’s, Black
+C: SAMMIE
+D: Mornin’ Ma.
+C: RUTHIE
+D: Mornin’ baby.
+C: SAMMIE
+D: Can I trade ya? Sammie takes off his sweaty work shirt. Hands it to her, then cups some of the soapy water.
+C: RUTHIE
+D: Don’t put that on your body, Samuel. He does anyway. Then rinses the dirt off his feet.
+C: SAMMIE
+D: Soap is soap.
+C: RUTHIE
+D: It’ll dry ya out.
+C: SAMMIE
+D: Not if I put this on while its still wet! He grabs a still wet shirt from the drying rack.
+C: RUTHIE
+D: Boy you ain't got sense God gave a goose. He hugs his mom, wet shirt and all.
+C: RUTHIE
+D: Don’t get that water all over me. Sammie heads inside. INT. MOORE SHACK - SHARECROPPERS QUARTERS - DAY A one room shack with SAMMIE’S FIVE YOUNGER SIBLINGS still in various stages of sleep. Sammie grabs his shoes and feels around for something. Doesn’t find it. EXT. MOORE SHACK - SHARECROPPERS’ QUARTERS - DAY Sammie exits with a pace, walking towards RUTHIE.
+E: CONT’D laughing
+C: SAMMIE
+D: Ma, my guitar and my slide ain’t in there. Now I don’t suppose they grew legs and walked out. Ruthie gives Sammie a knowing glance. He knows what this means. EXT. CHURCH - GREY OAKS PLANTATION - DAY Sammie approaches the praise house, with an angered gait, but calms himself before entering. He walks into- INT. CHURCH - GREY OAKS PLANTATION - DAY It is a modest church. Seated in the front row, Sammie’s father, JEDIDIAH reads from the bible.
+E: Black, Late 40s
+C: SAMMIE
+D: Mornin’ Pop.
+C: JEDIDIAH
+D: Up awful early, son.
+C: SAMMIE
+D: Like you say... jump on the work, don’t let the work jump on you. Finished our quota for the day. I was wondering if you seen my guitar. He walks closer to the pulpit, and he sees his GUITAR leaned up against it, and his SLIDE next to his father’s Bible.
+E: Wood with a shiny grey metal resonator
+C: JEDIDIAH
+D: I brought it here so we can prepare for tomorrow. I figure we can start with the young ones singing a song. You can lead em.
+C: SAMMIE
+D: What song you thinking?
+C: JEDIDIAH
+D: This little light of mine? Sammie walks over and picks up his guitar. Grabs his slide, and slips it onto his finger. Begins to play.
+C: SAMMIE
+D: This little light of mine, I’m gonna let it shine, this little light of mine, I’m gonna let it shine, this little light of mine, I’m gonna let it shine, let it shine, let it shine, let it shine-
+E: blues version
+C: JEDIDIAH
+D: What was that?
+C: SAMMIE
+D: Just spiced it up a bit. Make it fun for the congregation.
+C: JEDIDIAH
+D: It’s seasoned enough as is. Sammie takes a breath.
+C: SAMMIE
+D: Pop I don’t need to practice none of this. I know these old church tunes like the back of my hand.
+C: JEDIDIAH
+D: Well never-mind the music. I want you to help me give my sermon tomorrow. Sammie is confused. Jedidiah beckons his son over to him.
+C: JEDIDIAH
+D: Read 1 Corinthians 10:13 Sammie reluctantly takes his place at the podium.
+E: CONT’D
+C: SAMMIE
+D: “No temptation has overtaken you except what is common to mankind. And God is faithful; he will not let you be tempted beyond what you can bear.” Sammie closes the book.
+C: SAMMIE
+D: “But when you are tempted, he will also provide a way out so that you can endure it.” Pop if you don’t mind, I’m gon' be late.
+E: CONT’D from memory
+C: JEDIDIAH
+D: Late to what, boy? Where you got to go that’s more important than being in this house of God? To play music for drunkards and philanderers? Who shirk their responsibility to they families to sweat all over each other?
+E: off Sammie’s silence
+C: SAMMIE
+D: I been working all week pop. I just want to be free of all this for a day. I’ll be back in time for church in the morning. Sammie heads towards the door, guitar in hand.
+C: JEDIDIAH
+D: Son. Sammie stops.
+C: JEDIDIAH
+D: You keep dancing with the devil... one day he gon' follow you home. Sammie wants to respond, but he hears the sound of a car pulling up and decides against it. He exits to- EXT. CHURCH - GREY OAKS PLANTATION - DAY We see Smoke, and Stack in their car waiting outside as Sammie walks towards them. Jedidiah walks out and notices the twins.
+E: CONT’D
+C: JEDIDIAH
+D: Samuel... Sammie doesn’t turn around. He jumps into the car as Smoke’s eyes meet Jedidiah’s for a beat. Smoke turns away. Stack doesn’t.
+C: STACK
+D: Don’t worry Uncle Jed. We’ll bring him back in one piece. Jedidiah watches as the trio heads off in the distance, stoic hurt on his face. I/E. SMOKE AND STACK’S SEDAN - DAY Smoke drives while Stack rides shotgun and Sammie sits in the backseat with a wondrous grin on his face.
+C: STACK
+D: Look at you all grown up! You get you a little girlfriend yet? Maybe a few? Smoke whacks Stack on his shoulder.
+C: SMOKE
+D: You been okay?
+C: SAMMIE
+D: I can’t complain. Work is what it is.
+C: SMOKE
+D: Yo Daddy doing right by you? Sammie nods but Smoke doesn’t see it.
+C: SMOKE
+D: He not putting his hands on you is he?
+E: CONT’D
+C: SAMMIE
+D: Nah man. Nothing too much. Smoke relaxes.
+C: SMOKE
+D: The little ones?
+C: SAMMIE
+D: Only when they deserve it. Ma usually hands out the whoopings.
+C: SMOKE
+D: Good. Uncle Jed was always good.
+C: SAMMIE
+D: Tell me about Chicago. I heard everybody up north wears a pinstripe suit, that true?
+C: STACK
+D: Nah. But a lot of folks do. Especially downtown.
+C: SAMMIE
+D: Heard it get cold too.
+C: STACK
+D: As a hooker’s heart. Sammie smiles at this.
+C: SAMMIE
+D: Is it colder than New York?
+C: STACK
+D: Sure is.
+C: SAMMIE
+D: What about over in France when ya’ll was giving them Huns what for?
+C: SMOKE
+D: It was warm when we were there. Sammie nods and thinks deeply on this.
+C: SAMMIE
+D: I heard it ain’t got Jim Crow up there. A Black man can go where he wants. Stack laughs at this. Smoke doesn’t.
+C: SMOKE
+D: You can’t be believing everything you hear. This town gonna fill your head with all that make believe but we gonna give it to you straight. Chicago ain't shit but Mississippi with tall buildings instead a plantations.
+C: STACK
+D: And they got crackas that like to split themselves up. Italians, Jews, Polacks, Huns, Irishmen... Down here its easier. Just cracka. That’s it. Up there they got different flavors. And them crackas kill each other every day believe it or not.
+C: SMOKE
+D: But the one thing they can agree on, is HATING our black asses. EXT. SIDE OF THE ROAD - DAY Smoke pulls the car off the side of the road towards a large pile of foliage covering something. He parks and the three exit. The Twins start pulling at the foliage exposing a LARGE TRUCK, it’s covered bed filled with supplies. Sammie gazes at the truck, doing his best not to ask questions. He goes in to help remove foliage when something is revealed. A grating CH-CH-CH-CH-CH sound! Sammie jumps back. It’s a TIMBER RATTLESNAKE coiled on the truck bed, its tail vibrating loudly.
+C: SMOKE
+D: Don’t move. Sammie stands frozen within the snakes reach, in between Stack, who pulls a LARGE KNIFE and tosses it to Smoke, who catches it and brings the blade down on the snake’s head, killing it instantly. Sammie stands there ashen. Smoke wipes the blade and hands it back to Stack.
+C: SMOKE
+D: Leave the truck to us. The twins re- fold the tarp to cover the back of the truck to make it operable while hiding the supplies. Smoke tosses Stack the keys. Checks his watch.
+E: CONT’D
+C: SMOKE
+D: Cracka showing up late already got us behind schedule. I’m thinking we set up for the night... open next weekend.
+E: CONT’D
+C: STACK
+D: Nah fuck that. We gotta do it tonight! Grand opening. Start wit a bang.
+C: SMOKE
+D: Or we start wit a misfire. Come stumbling out the gate with a half cocked party. Still be setting up when folks come in. Stack makes a face.
+C: STACK
+D: How hard can it be? We got all damn day. We done more wit less lead time. Look at the sky. This a mighty fine cotton picking day. Think about all that money gettin’ spent tonight that should be spent wit us. Smoke looks at his watch again. He does the math out loud.
+C: SMOKE
+D: Only way for us to have a chance is if we split up. Stack smiles at this idea.
+C: SMOKE
+D: But who gon' watch the car while I talk to the Chows?
+E: CONT’D
+C: STACK
+D: Let em see it’s you.
+C: SMOKE
+D: We been gone a long time.
+C: STACK
+D: Seven years ain’t long enough to forget about us.
+C: SMOKE
+D: Alright. Make sure this fool don’t get into no trouble.
+E: to Sammie
+C: STACK
+D: Shit you might be big enough now to take me!
+E: to Sammie
+C: SAMMIE
+D: I’ll do what I can.
+C: SMOKE
+D: You’ll do what you’re told. Keep your eyes open for anybody staring too long. This nigga ain't no good at watching his own back. Stack tosses Smoke his car key. Smoke returns the favor. Before leaving, Stack pulls an unmarked bottle out of the cargo car. Sammie observes as the Twins do a parting ritual, One checks the others’ handgun and knife. And they hug. The twins walk towards their respective vehicles. Sammie follows Stack, and they load into CAR 1. Smoke loads into the truck and both cars pull off and go opposite ways down the road. INT. STACK’S SEDAN - DAY Stack drives down the Mississippi road...he drives much faster than his brother. He eyes his cousin.
+C: STACK
+D: You and Uncle Jed doing okay? You can tell me the real...
+C: SAMMIE
+D: We fine. He just don’t like me playing this blues is all. Stack smiles at the sweet, trivial nature of this conflict.
+C: STACK
+D: Shit you lucky he care at all.
+C: SAMMIE
+D: You always said you’ll tell me what happened with Uncle Adam when I got older, and well I guess I’m older. Did ya’ll really kill him? Stack’s smile fades, mostly.
+C: STACK
+D: Nah. We ain't kill him... Smoke did. Our Daddy knocked me unconscious. By the time I came to, Smoke was halfway done burying him.
+E: beat longer beat
+C: SAMMIE
+D: He used to beat ya’ll?
+C: STACK
+D: Me mostly. But he ain’t mean it. Sammie contemplates this.
+C: STACK
+D: You been making your way out to them juke joints... you seen people drinkin’ corn liquor and carrying on? Sammie nods.
+E: CONT’D
+C: STACK
+D: Well then you seen decent people take to drinkin’ and get to behavin' like somebody they ain't..?
+E: CONT’D
+C: SAMMIE
+D: Sure as I’m sittin’ here.
+C: STACK
+D: Well our Daddy, he was mostly good. But when he would drink... he’d turn into somebody else. Sammie nods. Stack looks at the guitar.
+C: STACK
+D: You been taking care of that thing, huh?
+E: CONT’D
+C: SAMMIE
+D: I can’t thank ya’ll enough for this. It play so right. Where ya’ll get this from, anyway? Ain’t seen one like it.
+C: STACK
+D: That’s Charlie Patton’s guitar. Me and my brother won it off him in a card game. Sammie’s eyes light up. He looks down at the guitar.
+C: SAMMIE
+D: I had Charlie Patton’s guitar this whole time?
+C: STACK
+D: Honest to GOD. Let’s see if you play like him. Sammie slips his slide over his finger and begins to play
+E: beat
+C: .
+D: He has a command over the instrument that can’t be taught. It’s God given. His eyes close, and he begins to hum a tune. EXT. DOWNTOWN STREET - DAY Smoke pulls up on a bustling street where black folks are standing outside shopping and fraternizing. Smoke exits the truck and stares down a group of TEENAGERS. He calls one over.
+E: TRAVELIN’ a young woman MORE
+C: SMOKE
+D: Where you from?
+C: TEENAGER
+D: Shelby.
+C: SMOKE
+D: You know who I am? Teenager shakes her head no. This hurts Smoke’s ego... but he gets over it quickly.
+C: SMOKE
+D: You heard of the Smokestack Twins?
+E: CONT’D
+C: TEENAGER
+D: Of course.
+C: SMOKE
+D: Good. I’m Smoke. Fear sweeps across her face and she starts to back up.
+C: SMOKE
+D: No it’s okay you not in trouble, I’m about to put some money in your pocket, now I need you to sit in this truck right here and if somebody comes and looks at it too long I want you to lean on this horn alright? Can you do that? The Teenager nods. Smoke gives the Teenager his wrist watch.
+E: CONT’D
+C: SMOKE
+D: Can you tell time? The Teenager shakes her head.
+E: CONT’D
+C: SMOKE
+D: Each one of these small lines is a minute. And I’m gonna pay you ten cents a minute, will that work for you?
+E: CONT’D
+C: TEENAGER
+D: Yes sir.
+C: SMOKE
+D: No. No ma’am! We talkin’ numbers now and numbers always gotta be in conversation with each other.
+E: MORE
+C: SMOKE
+D: You gotta negotiate, ya understand? Now ten cents ain't gonna work for you. Talk another number back to me.
+E: CONT’D
+C: TEENAGER
+D: 50 cents. Smoke smiles.
+C: SMOKE
+D: 20 cents the best I can do. We got us a deal? The teenager nods.
+C: SMOKE
+D: Good. Jump in. Smoke lets the Teenager into the truck. He then walks towards a Grocery Store with a colorful sign that reads DELTA GROCERY. He admires the sign for a quick beat and then enters. INT. DELTA GROCERY STORE - DAY Smoke enters to find several BLACK PATRONS inside the store shopping. He goes up to the register where a YOUNG KID is working, this is LISA CHOW .
+E: CONT’D 12, Chinese American
+C: SMOKE
+D: Now you not Lisa, is you?
+C: LISA CHOW
+D: Guilty as charged.
+C: SMOKE
+D: Jesus time flies... your Daddy here? Lisa nods and walks into the back of the store for a beat, and comes out with BO CHOW . He spots Smoke and smiles.
+E: 30s, Chinese American
+C: SMOKE
+D: Bo Chow!
+E: CONT’D
+C: BO CHOW
+D: Look what the damn cat dragged in! They embrace.
+C: SMOKE BO CHOW
+D: Where’s your brother?
+E: CONT’D CONT’D
+C: SMOKE
+D: He on the other side of town. We throwing a big event tonight.
+E: beat
+C: BO CHOW
+D: Whatcha need? Bo pulls out a pen and note pad.
+C: SMOKE
+D: I need catfish for a bout 50-100 people.
+C: BO CHOW
+D: Mmm hmm. Frying it? Cornmeal, lard, salt, pepper and garlic?
+C: SMOKE
+D: Yessir. Collards for the same amount. Prolly do cheese, ham, and bread for sandwiches. He jots down furiously.
+C: BO CHOW
+D: This gonna cost you. Tell me, ya’ll do good up in Chicago? I heard about some of them casinos up there. Did ya’ll hit big?
+C: SMOKE
+D: We hit. Just not in the way you thinking.
+C: BO CHOW
+D: What kind of way? HOOOOOOONK. They are cut off by the sound of Smoke’s horn.
+C: SMOKE
+D: Shit! Smoke quickly heads towards the exit. EXT. DELTA GROCERY STORE - DAY Smoke trots over to his car where the TEENAGER is leaning on the horn as TWO THIEVES are digging around in the trunk attempting to make off with one of the crates. Smoke produces a Colt 1911 Pistol from his waistband and BLAM, he shoots one of the Thieves in the ass cheek.
+C: THIEF
+D: Ahhh shit! Smoke takes aim at the other thief who starts to run.
+C: SMOKE
+D: Hold on. Wherever you think you going, I bet this bullet beat you there. The running thief stops. Ass Cheek Thief spins around towards Smoke.
+C: THIEF
+D: You shot me you mutha-- Smoke? Is that you?
+C: SMOKE
+D: Terry? How you been boy?
+C: THIEF
+D: I was doin better before you shot me in the ass!
+C: SMOKE
+D: Why the hell was you trying to boost from my truck?
+C: THIEF
+D: I didn’t know it was yours. The Teenager leans out of the car.
+C: TEENAGER
+D: Bullshit, I told you it was his!
+C: THIEF
+D: I thought she was lyin’! Ya’ll supposed to be in Chicago workin’ for Capone.
+C: SMOKE
+D: Well we back now... Smoke looks around and thinks. He looks at the second thief who is frozen in fear.
+C: SMOKE
+D: Who is he?
+E: CONT’D
+C: THIEF
+D: Just some nigga I met last week.
+C: SMOKE
+D: Where’s he from?
+C: THIEF
+D: Maybell. Smoke sucks his teeth and shoots the Second Thief in his kneecap.
+C: SECOND THIEF
+D: Ahh goddamn. What you do that for?
+C: SMOKE
+D: I can’t have some nigga from the Maybell plantation talking about how he almost robbed the Twins without a limp to show for it.
+C: THIEF
+D: Goddamn it Smoke. Who gon' patch me up? I ain't got no money. What if I get sepsis?
+C: SMOKE
+D: Hol’on let me think for a second. Ya’ll scoot out the street and put some pressure on it. Smoke walks back into the store. INT. DELTA GROCERY STORE - DAY Smoke resumes his convo with Bo Chow.
+E: beat
+C: BO CHOW
+D: You okay?
+C: SMOKE
+D: Ya’ll got a doctor close by?
+C: BO CHOW
+D: Yeah. Smoke hands Bo a $10 bill.
+C: SMOKE
+D: I just shot a couple niggas outside. They’ll live but they need patchin’ up.
+C: BO CHOW
+D: No problem. What else you need?
+E: beat
+C: SMOKE
+D: Imma need some ice. A lotta ice.
+C: BO CHOW
+D: Yeah we can take care of that. Anything else?
+C: SMOKE
+D: Yeah. We need a sign. You think Grace would be up to making one for us?
+C: BO CHOW
+D: When would you need it done?
+C: SMOKE
+D: Tonight!
+C: BO CHOW
+D: Lisa! Lisa walks over to him.
+C: BO CHOW
+D: Go get your mom. Lisa nods and walks towards the exit of the shop.
+E: CONT’D
+C: BO CHOW
+D: So ya’ll gon' have food, drank, music... but is ya’ll gon' be playing?
+E: O.S. CONT’D
+C: SMOKE
+D: Hell yeah. Cards, dice, even got a roulette. We stay with Lisa as she exits out to- EXT. DELTA GROCERY STORE - DAY Lisa walks across the street where we reveal another
+E: O.S.
+C: DELTA GROCERY STORE.
+D: Lisa enters. INT. OTHER DELTA GROCERY STORE - DAY This store is full with WHITE PATRONS. The upkeep is slightly nicer, but the same items are for sale. Lisa approaches her mother, GRACE CHOW , who stands behind the counter finishing up an order for a patron.
+E: 30s, Chinese American
+C: LISA
+D: Daddy wants you. Grace finishes up.
+C: GRACE
+D: Look after the register here now. Lisa slides into her mother’s place as Grace hands off the bag with a smile. And heads for the exit, her smile fading from her face. EXT. DELTA GROCERY STORE - DAY Grace walks across the street and looks at Smoke’s truck, and the two thieves holding their wounds. She walks into- INT. DELTA GROCERY STORE - DAY Grace walks right up to Smoke and Bo.
+C: GRACE
+D: You know it’s two men out there, look like they been shot.
+C: SMOKE
+D: Yeah that was my doin. I done already gave Bo some money for them to get patched up.
+C: GRACE
+D: Why you have to come here bringing trouble?
+C: BO CHOW
+D: Trouble ain't all he bringing. Bo shows Grace the shopping list that Smoke has requested.
+C: GRACE
+D: Jesus. How you paying for... She looks up just in time to see Smoke flash a wad of cash.
+C: BO CHOW
+D: And that ain't all. He needs you to make some signs for him.
+C: SMOKE
+D: Two. One big one for the front, one menu for the food.
+C: GRACE
+D: By when?
+C: SMOKE
+D: Tonight. Grace doesn’t flinch. Smells the opportunity.
+C: GRACE
+D: Rush job. Gone cost ya.
+C: SMOKE
+D: I’m listening.
+C: GRACE
+D: $20. Fifteen for the front door sign, five for the menu.
+C: SMOKE
+D: $10. Seven for the front door sign, three for the menu.
+C: GRACE
+D: Sixteen.
+C: SMOKE
+D: Fifteen.
+C: GRACE
+D: Done.
+C: BO CHOW
+D: We only got one color by the way.
+C: SMOKE
+D: What color you got?
+C: BO CHOW
+D: Red. Smoke thinks on this.
+C: SMOKE
+D: Thirteen.
+C: GRACE
+D: Fourteen fifty. Smoke looks at some FLOWERS in a can of water on the desk. He eyes them for a beat.
+C: SMOKE
+D: Fourteen and throw in them flowers right there and we got a deal. Grace looks at the flowers and back to Smoke.
+C: GRACE
+D: Done. Smoke hands off the wad of money to Bo. Grace realizes something. She turns to Smoke.
+C: GRACE
+D: Where’s Stack? EXT. RAILROAD STATION - DAY Stack parks and he and Sammie exit the car. The railroad station is BUSTLING with Delta locals. BLACK folks and WHITE folks keep their general distance. Folks move around in various degrees of dress and every few feet, a BLACK MUSICIAN is stationed, hat turned upside down in front of them, playing the Blues in hopes that a passing stranger throws them a coin. Sammie looks around with wonder. If he’s been here before, we can’t tell. We hear the sounds of someone playing an INCREDIBLE
+E: CONT’D
+C: HARMONICA. SAMMIE
+D: Is that Delta Slim?
+C: STACK
+D: Sure as hell is. We reveal DELTA SLIM hunched over, breathing magic into his harmonica. . Stack looks at him, smiling. He pulls out a wad of money and places a dollar in Slim’s hat. As he stops playing it becomes clear that Slim is buzzed.
+E: Black, 70s HARMONICA SOLO
+C: DELTA SLIM
+D: I thank you for your generosity... He pulls out a flask and sips from it, then looks up and spots Stack. He brightens.
+C: DELTA SLIM
+D: I guess that Chicago wind blew yo black asses back down here huh? He realizes something. Looks around.
+E: CONT’D
+C: DELTA SLIM
+D: Where’s the other one?
+E: CONT’D
+C: STACK
+D: Down the road.
+C: DELTA SLIM
+D: So you are, wait don’t tell me... Smoke!
+C: STACK
+D: Stack.
+C: DELTA SLIM
+D: Stack! Like I said. You Stack clear as day. Who’s the boy?
+E: beat
+C: STACK
+D: This here is my cousin Preacher- boy Sammie, finest blues player in the Delta. Delta Slim stews his face at this.
+C: DELTA SLIM
+D: I got socks twice as old as this boy here, what the hell he know about the blues?
+E: MORE
+C: SAMMIE
+D: I can show you better than I can tell you. Sammie gets ready to play. Delta pits his hand in his pocket.
+C: DELTA SLIM
+D: Now hold on just a minute now. This here is my plot. If you wasn’t his cousin I’d cut you too thin to fry.
+C: STACK
+D: But he is. And you threaten him again I’mma make yo drunk ass swallow that harmonica. Delta Slim holds his hands up in surrender.
+C: STACK
+D: You still nice on the keys?
+E: CONT’D
+C: DELTA SLIM
+D: Depends on who you ask.
+C: STACK
+D: I’ll give you $20 to come play the keys at our juke tonight. Wanna have a battle of the blues. Having everybody come down.
+C: DELTA SLIM
+D: I wish I could, but Imma be at Messengers same as I am every Saturday night. I already committed.
+C: STACK
+D: What’s Messengers paying you?
+C: DELTA SLIM
+D: For a gangster you sure ask a lot of questions.
+E: whistling first
+C: STACK
+D: They ain't payin’ you $20 a night I know.
+C: DELTA SLIM
+D: The thing is you ain't offering $20 a night. You offering $20
+C: TONIGHT.
+E: MORE
+C: DELTA SLIM
+D: I ain’t never heard of your juke. Maybe it’s here tonight but is it here next week? The week after? I been at Messenger’s every Saturday for ten years now. Messengers gon' be there ten more years at least. Shit that’s probably longer than I’ll be on this earth. I play, and I get as much corn liquor as I can drink. Ole sinner like me can’t ask for more than that.
+E: CONT’D beat
+C: STACK
+D: I guess I’ll drink to that. Stack pulls out the glass bottle. Carbon dioxide escapes as he pops the cap. Delta Slim’s eyes chase the sound.
+C: DELTA SLIM
+D: What you got there?
+C: STACK
+D: Irish beer, straight from the North Side of Chicago.
+C: DELTA SLIM
+D: That’s beer?
+C: STACK
+D: Wind ain’t blow us down here empty handed. Stack extends the bottle towards Delta Slim who accepts it and takes a swig- it’s cold and bittersweet.
+C: DELTA SLIM
+D: My goodness. Stack’s smile fades. If he were a great white shark, here’s where his eyes would go white.
+C: STACK
+D: I got 500 more bottles just like that. Ice cold. I pay you $40 tonight, and as much beer as you can drink no strings after that. Act now I’ll even let you finish that bottle in your hand. Delta Slim takes another sip, thinks.
+C: DELTA SLIM
+D: EXT. RAILROAD STATION - DAY Sammie and Delta Slim play a guitar and harmonica duet . Stack watching a crowd that has formed around them closely. PEARLINE hums along to the words and watches Sammie with bedroom eyes. Sammie winks back. The crowd erupts in applause as Stack does his spiel.
+E: CONT’D JUKE Black, 30s
+C: STACK
+D: If ya’ll thought that was bad, you ain’t seen nothin’ yet. These two’ll be playing tonight down at the old sawmill on the riverbank outside Clarksdale. On the platform A WELL DRESSED WOMAN preparing to board the train hears Stack’s voice and stops.
+C: STACK
+D: Gone have us a battle of the Blues. Turns around and looks towards Stack, Delta Slim and Sammie inquisitively, as the folks around her board. Back in the crowd Stack continues his sales pitch.
+E: O.S. CONT’D
+C: STACK
+D: Gon' be something to eat. Something to drank, and we gon' sweat till we stank. Sammie takes his chance to chat up Pearline.
+E: CONT’D
+C: SAMMIE
+D: I’m Preacherboy.
+C: PEARLINE
+D: Pearline.
+C: SAMMIE
+D: I seen you somewhere before?
+C: PEARLINE
+D: Maybe...
+C: SAMMIE
+D: You sing don’t you?
+C: PEARLINE
+D: Time to time. Sammie looks her up and down, lustfully. Pearline smiles.
+C: PEARLINE
+D: I’m married too.
+E: CONT’D
+C: SAMMIE
+D: Happily? Pearline laughs.
+C: PEARLINE
+D: Careful, boy. You gon bite off more than you can chew. Pearline heads off.
+C: SAMMIE
+D: Maybe I’ll see you tonight? Pearline doesn’t answer. Sammie turns back around and sees something in the distance that concerns him- the Well Dressed Woman, staring Stack down.
+C: SAMMIE
+D: Stack... Stack turns to him.
+E: CONT’D
+C: STACK
+D: Yeah?
+C: SAMMIE
+D: Don’t look But it’s a White woman staring at you.
+E: beat
+C: STACK
+D: Shit. We see genuine fear on Stack’s face for the first time.
+C: STACK
+D: You sure she white?
+E: CONT’D beat
+C: SAMMIE
+D: She walking over here, now. What should we do?
+E: beat
+C: WOMAN
+D: Excuse me boy... Sammie looks up at MARY , who we get our first glance at. She’s wearing expensive clothes, an expensive wedding ring, and she’s standing too close to Stack for comfort.
+E: O.S. late 20s, White?
+C: WOMAN
+D: Is this here Smoke... or is this Stack? Sammie starts working on a lie that Mary can see coming from a mile away.
+E: CONT’D
+C: STACK
+D: Leave the boy out of this Mary. Don’t look at her. Start playing. Sammie starts to play his guitar.
+E: to Sammie
+C: MARY
+D: You know I waited for you.
+C: STACK
+D: Why the hell would you go and do that?
+C: MARY
+D: Because you told me you loved me.
+C: STACK
+D: I told you to stay the fuck away from me too, but I guess you didn’t hear that part, huh?
+C: MARY
+D: I heard you. But then you stuck your tongue in my cooze and fucked me so hard I figured you changed your mind. Delta Slim chokes on his drink.
+C: STACK
+D: Keep ya voice down now Mary. Now that’s not how I remember it.
+C: MARY
+D: You remember falling asleep with your head on my chest? And leaving in the middle of night without a fucking word? Or a note?
+C: STACK
+D: It was for the best. I set you up good out there in Little Rock. What the hell brought you back here?
+C: MARY
+D: Buried my momma yesterday... Now Stack is cut too.
+C: MARY
+D: Figured I might see you and Smoke there as much she looked after you both. But I guess ya’ll love lasted as long as ya’ll could get something out of her.
+E: CONT’D
+C: STACK
+D: Yeah. That was all it was for us. Food and a warm bed. Stack is lying. Maybe she can tell.
+C: MARY
+D: Hmm. Rot in hell Stack.
+E: beat
+C: STACK
+D: I will. Maybe I’ll save yo triflin’ ass a room. Mary walks away with a mean switch. Sammie watches closely.
+C: SAMMIE
+D: Maybe she ain't White...
+E: to himself
+C: STACK
+D: Let’s get to gettin. EXT. ANNIE’S SHOP - DAY Smoke pulls up in front of a lone shack. He exits the car and takes a deep breath. Goes around back and looks at a tiny, makeshift grave, a stone painted white, a tiny handprint on it. He bends down, removing his hat, and rubs the stone. He pulls the FLOWERS he bought from Grace and Bo Chow from his suit jacket, and places them down next to the stone. We see the DOOR OPEN behind him and a woman exits the shack. This is ANNIE .
+E: 30s, Black
+C: SMOKE
+D: How you been?
+C: ANNIE
+D: I been okay. No miseries worth complainin’ about. You come alone? Smoke turns toward her, walks over.
+E: beat
+C: SMOKE
+D: Stack on the other side of town.
+C: ANNIE
+D: What ya come back for? Annie steps closer to Smoke, there is tension between them, old habits, familiar sadness, lust? Love?
+C: SMOKE
+D: We bought that old saw mill. You know the one right outside of Clarksdale?
+C: ANNIE
+D: That run down place?
+C: SMOKE
+D: Yeah we gon' fix it up. Make it into a juke joint.
+C: ANNIE
+D: A juke joint? This one of Stack’s ideas?
+C: SMOKE
+D: Yeah. He figure tonight can be the grand opening.
+C: ANNIE
+D: I thought ya’ll was done wit the Delta. Last I heard y'all was northern men.
+C: SMOKE
+D: Nah we done wit Chicago.
+C: ANNIE
+D: Chicago done wit ya’ll?
+C: SMOKE
+D: What you mean?
+C: ANNIE
+D: Who you and Stack rob to get enough money for them Crackas to sell you a whole mill? Smoke stares at Annie who stares back plainly for beat, then rolls her eyes and heads inside. Smoke follows behind her. INT. ANNIE'S SHOP - DAY It’s a store with a Tarot card reading table and lots of pickled items in mason jars. It’s an eclectic collection. A couple YOUNG BLACK GIRLS look around at items. Smoke watches as the older of the two grabs a mason jar with PICKLED PIG FEET in it.
+C: YOUNG BLACK GIRL
+D: Just this Miss Annie... The OTHER YOUNG BLACK GIRL whispers to the elder one.
+C: YOUNG BLACK GIRL
+D: And a pinch of High John. Annie smiles and goes to her collection of BAGGED DUSTS and grabs one. She hands it to the Girl, who hands Annie a piece of PLANTATION CURRENCY in return.
+E: CONT’D
+C: ANNIE
+D: Don’t sell none of them on your way home. Don’t need yo mama coming at me crazy later. The Girl smiles as she exits. Smoke pulls the PLANTATION CURRENCY out of Annie’s hand.
+C: ANNIE
+D: Excuse me?
+E: CONT’D
+C: SMOKE
+D: Can’t believe you taking this make believe shit. Smoke looks at the bill with contempt. Annie pulls a straight razor from nowhere.
+E: MORE
+C: ANNIE
+D: Smoke give me my money before I cut yo black ass.
+C: SMOKE
+D: Put that blade up, woman. Smoke pulls a wad of money and tears her off a bill. She tucks her blade back.
+C: SMOKE
+D: Here, I’ll trade you. He tries to hand it off to Annie but she reaches for her plantation bill.
+E: CONT’D
+C: ANNIE
+D: I don’t want your money.
+C: SMOKE
+D: Don’t be stupid.
+C: ANNIE
+D: I ain't stupid. Yo money comes with blood.
+C: SMOKE
+D: All money come with blood baby.
+C: ANNIE
+D: Not like yours.
+C: SMOKE
+D: This won’t even spend nowhere else.
+C: ANNIE
+D: I ain't goin nowhere else. Annie takes the plantation bill back.
+C: ANNIE
+D: I don’t need that cursed money you got.
+E: CONT’D
+C: SMOKE
+D: You know woman I been all over this world. Been in cars, on ships, and trains. Seen men die in ways I didn’t know was possible.
+E: MORE
+C: SMOKE
+D: And with all the shit I seen, I ain't ever saw no roots, no ghosts, no demons and no magic. If I’m cursed it was sho before I was old enough to steal something.
+E: CONT’D
+C: ANNIE
+D: You fool. How you know roots ain't what kept you alive? All that war, and whatever the hell else you was doing in Chicago, and you back here in front of me with two arms, two legs, two eyes, and a brain that work. How you know I ain't pray and work every root my grandmama taught me to keep you and that crazy brother of yours safe, every day since you been gone? Smoke hunches down. Maybe shame peeking through.
+C: SMOKE
+D: Why them roots ain’t work on our baby then? It’s a low blow, but Smoke’s confusion is genuine. It’s been years but it’s still fresh for him, and for her.
+C: ANNIE
+D: I don’t know. But they work for you. You still got that mojo bag? Smoke reaches down into his shirt and pulls up a leather necklace. It has his dog tag and a small leather bag. Annie smiles with her eyes but not her mouth. She takes the bag, opens it, and begins the process of “feeding” it. Emptying old contents and adding more.
+E: beat
+C: ANNIE
+D: Why you here Smoke? What you want wit me?
+E: CONT’D
+C: SMOKE
+D: We hoping to serve food at this Juke. And I want you to cook. Annie pauses for a beat.
+C: SMOKE ANNIE
+D: Elijah. Why are you here?
+E: CONT’D
+C: SMOKE
+D: You want me to say it? Annie answers with a look.
+C: SMOKE
+D: It still hurts coming back here. But I love you. And I miss you. She walks over to the entrance of her shop and shuts the door. She approaches Smoke, who leans his head on her chest. She kisses his neck. Smoke holds her close. Annie grips his dick through his pants and slides her tongue into his ear. Smoke winces in pleasure.
+E: CONT’D
+C: ANNIE
+D: Your body ain’t forget me. Annie moves her hand to Smoke’s throat and clutches it. Smoke kisses her then spins her around and slowly kisses her neck while unbuttoning his pants. Annie leans into his kiss while Smoke pulls up her dress slowly, his hand moving slowly from he her hip to under her dress. Smoke leans Annie on the counter and thrusts into her. EXT. MISSISSIPPI ROAD - DAY Stack drives with Delta Slim riding shotgun and Sammie in the backseat. They chat as they drive.
+E: SUBTITLE
+C: SAMMIE
+D: So that lady back there... you really put your mouth on her... you know. Stack hesitates to answer. Delta Slim cracks up.
+C: DELTA SLIM
+D: What’s going on over there Stack? Never known you to be shy.
+C: STACK
+D: Nah it’s just. Last time I saw this little nigga he was barefoot and had a snotty nose... now he asking me shit like this.
+C: DELTA SLIM
+D: You better educate the man. How he supposed to be a bad blues musician if he don’t know the proper way to treat a woman?
+C: STACK
+D: Man... how bout ya’ll talk music.
+C: SAMMIE
+D: C’mon Stack we gon talk music all night!
+C: DELTA SLIM
+D: Help the boy. His daddy a Preacher and ain't no verses in the Bible about eating kitty.
+C: STACK
+D: Add that to the list of reasons why that book ain’t worth the paper it’s printed on. Stack sneaks a look at Sammie from the road. He sighs.
+C: STACK
+D: Every cooze got a button on it. Towards the top. Find it, lick that. Not too hard. Not too soft. You ever had a scoop of that ice cream downtown? Sammie nods.
+E: CONT’D
+C: STACK
+D: Bout the same pressure you put on that. Like it taste good, but you don’t want it gone too quick, you understand? Sammie nods, smiling.
+E: CONT’D
+C: STACK
+D: But here’s the truth. Any woman can wet her hand and do that herself. You want to keep a woman, remember to do these five things. Tell her she beautiful. Tell her she smart. Feed her good food. Make her laugh. Make her feel safe. Sammie thinks deeply on this.
+E: CONT’D beat MORE
+C: STACK
+D: That’s it. Anything more I gotta charge you. Stack slows down to see a CHAIN GANG, of African American men clearing grass in a field, supervised by WHITE
+E: CONT’D
+C: OFFICERS.
+D: They sing a FIELD HOLLER.
+C: DELTA SLIM
+D: Ya’ll hold ya heads now! Delta Slim lifts his fist at them as some of the men hear this and look over at the passing car. Some look back.
+C: CHAIN GANG
+D: Aye Slim! BANG! An Officer fires his shotgun. The Chain Gang falls back in line. INT. STACK’S SEDAN - DAY Delta Slim’s smile begins to fade.
+C: SAMMIE
+D: You knew some of them?
+C: DELTA SLIM
+D: All of em.
+C: SAMMIE
+D: You been on a chain gang before?
+C: DELTA SLIM
+D: Never. But I spent a month in a jailhouse, that was enough for me.
+C: STACK
+D: I heard about that.
+E: with a smirk
+C: SAMMIE
+D: What happened?
+C: DELTA SLIM
+D: Me and my buddy Rice was hustlin’ back and forth up the delta. Night after night, Juke after Juke. We’d find a new woman in a new town and sleep for the night.
+E: MORE
+C: DELTA SLIM
+D: Next day we do it all over again. One day I get the mind to leave this here Delta. Go on out to hill country.
+E: CONT’D MORE
+C: SAMMIE
+D: By Alabama?
+C: STACK
+D: Naw, up by Tennessee.
+C: DELTA SLIM
+D: Soon as we get there we get busted for vagrancy. White sheriffs, they take us down to the jailhouse, and it’s empty. I figure they either kill us that night or let us go. Night goes on and they give us our instruments and tell us to play. We playing so good, music coming out the windows and people on the street was stopping to come in.
+E: beat
+C: SAMMIE
+D: In the jailhouse?
+C: DELTA SLIM
+D: Oh yeah! Next day these sheriffs get the bright idea they gon' take us on the road. They cuff us, throw us in patty wagon and take us to a big house, full of white folks. Pass around they hat and have us play.
+E: beat
+C: SAMMIE
+D: Ya’ll was playing them ole ragtime songs?
+C: DELTA SLIM
+D: Sure was. But we played a fair amount of blues too. You see white folks like the blues just fine, they just don’t like the people who make it. We’d go out night after night, and then back to jail. They fed us good, food from a hotel down the street.
+E: beat
+C: DELTA SLIM
+E: CONT’D MORE
+C: DELTA SLIM
+D: They’d even let us bring a girl or two through there. But it was awful. Against our will.
+E: CONT’D MORE
+C: SAMMIE
+D: How long was y'all there?
+C: DELTA SLIM
+D: 21 days. Sammie sighs deeply.
+C: DELTA SLIM
+D: I guess they had made enough money they felt good about letting us go. Gave us peanuts compared to what they was getting. But these white folks we was playing for had real money. By the time they cut us loose they gave us each about Stack whistles at the sound of this.
+E: CONT’D
+C: SAMMIE
+D: Gave ya’ll a thousand dollars?
+C: DELTA SLIM
+D: Turned us loose and said if they catch us around again they kill us.
+C: SAMMIE
+D: What did y'all do with the money?
+C: DELTA SLIM
+D: I drank it. Rice, he was traumatized. Said he was done Jukin’. Said he found religion in that predicament. Says he was gon' take that money and go up to Little Rock, start a church.
+C: SAMMIE
+D: Did he? Delta Slim grows dark.
+C: DELTA SLIM
+D: Dumb fool let the train conductor see him pay cash for his ticket.
+C: DELTA SLIM
+E: CONT’D MORE
+C: DELTA SLIM
+D: Klan got a hold of him and checked his pockets, found all that money on him and made up a story about him killing some white man for it. They took his money and lynched him right at the railroad station. Sammie doesn’t love the end of this story. EXT. MAYBELL PLANTATION - DAY Stack drives past a group of SHARECROPPERS. He notices a HUSBAND and WIFE. The husband, CORNBREAD is a mountain of a man.
+E: CONT’D MORE 30s
+C: STACK
+D: Hey Cornbread!
+C: CORNBREAD
+D: Stack! Long time no see! This here’s my wife, Therise.
+C: STACK
+D: Nice to meet you, Therise. Now I need you give us a moment. Men got business to discuss.
+C: CORNBREAD
+D: I ain't got time for your schemin' Stack, I’m behind on my quota.
+C: STACK
+D: Man, fuck yo quota.
+C: CORNBREAD
+D: Stack, my wife is right here man. I need you to have some respect.
+C: STACK
+D: Fuck yo wife, too.
+C: CORNBREAD
+D: What?
+C: STACK
+D: She gon' let you really fuck her when she see how much money you about to get from this job I’m offering you. None of that nice and slow shit she probably giving you now.
+E: beat
+C: DELTA SLIM
+E: CONT’D MORE
+C: STACK
+D: Shit. She might even let you put your pecker in her mouth. Stack waves a wad of money.
+E: CONT’D
+C: CORNBREAD
+D: Man I’m bout to beat the Black off you. Stack smiles, as Cornbread prepares to charge.
+C: THERISE
+D: How much you talkin’ bout payin' him? Stack smiles. Sammie smiles wider. SLAM CUT TO
+C: BEGIN MONTAGE
+D: EXT. MISSISSIPPI ROAD - DAY Stack drives while Delta Slim rides shotgun with Cornbread and Sammie in the backseat.
+C: BEGIN MONTAGE
+D: EXT. DELTA GROCERY STORE - DAY Bo and Grace Chow load up the groceries, paint supplies and wood, while Lisa and her GRANDMOTHER watch from the window. EXT. LUMBER MILL - SUNSET Smoke and Stack pull up to the Lumber Mill and their cars unload with Black Folks who have shown up to work. Stack watches as Smoke helps Annie down from the truck. Stack tips his hat to Annie and smiles, she gives a lukewarm look back. The twins hug then get to work. Smoke’s car is unloaded. Liquor, beer, groceries, a load of two by fours, a piano, and a few rifles. INT. LUMBER MILL - SUNSET Smoke, Stack, Sammie, Cornbread, Annie and Slim load equipment into the mill.
+C: STACK
+D: EXT. RIVER - SUNSET Sammie siphons water from the river. INT. BACK ROOM - LUMBER MILL - SUNSET Sammie brings excess alcohol into the BACK ROOM. INT. FLOOR - LUMBER MILL - SUNSET Sammie takes it in with a wide eye’d expression. He walks over to the BAR, the GAMBLING AREA, THE DANCE FLOOR. EXT. LUMBER MILL - SUNSET A LABOR PARTY pulls up to the mill via MULE AND WAGON. Smoke guides them on where to park. Annie watches as vultures circle overhead. INT. FLOOR - LUMBER MILL - SUNSET Sammie and Delta Slim, work to help the Twins nail together a small stage. EXT. LUMBER MILL - SUNSET The Chows arrive in their car. Grace speaks with the twins on where to place the sign. Grace begins preparing the sign. I/E. LUMBER MILL - SUNSET Annie and some black women unload the food and begin to cook. Gaps in walls are quickly covered by Stack and the workers. Fish is fried, sandwiches are made. EXT. LUMBER MILL - NIGHT The sun retreats further towards the horizon. The twins talk with Cornbread about how to work the door of the mill. Smoke taps electricity from an electric pole. Sammie places the washtub at the entrance. INT. JUKE JOINT - LUMBER MILL - NIGHT The lights turn on, revealing the mill has been whipped into shape, food is cooking the musicians are doing the walk through. The whiskey and beer is made to be ready to be sold behind the bar. On what is now the dance floor Smoke stands stoic, looking around, doing math in his head. Stack walks up to him, beaming. Slaps him on his back.
+E: CONT’D MORE
+C: END MONTAGE
+D: INT. JUKE JOINT- LUMBER MILL - NIGHT Sammie watches as Slim inspects the piano. He calls Sammie over to help him tune it. Slim points at Sammie’s guitar. Sammie plays the E string while Slim tightens the piano string and plays a key. Sammie observes him closely. Slim clocks this.
+C: SLIM
+D: How many yo Daddy got in his congregation? My Daddy wasn’t around, but my uncle taught the word. Had him a praise house. Baptist. Used to say I was swimming’ in temptation. But it’s the same spirit that flow through us with this blues. Just flow a different way. More honest way if you ask me. Blues wasn’t put on us like that religion. We brought this with us from home.
+C: SAMMIE
+D: What home?
+C: DELTA SLIM
+D: Africa, Preacherboy. What we do here a little different from what they do. But it’s sacred.
+E: MORE
+C: DELTA SLIM
+D: Don’t let nobody tell you no different. Not ya Daddy. Not nobody else. INT. JUKE JOINT - LUMBER MILL - NIGHT Sammie and the Twins walk around the empty Juke. Nervousness setting in. Annie organizes the bar materials anxiously, while Stack paces. Suddenly they hear Cornbread talking to someone at the door.
+E: CONT’D
+C: CORNBREAD
+D: Right this way. A male PATRON enters and sits down at the bar.
+E: O.S. Black, lifelong sharecropper, 60s
+C: PATRON
+D: I’m happy to stick round till ya’ll get to playin’. Just need somethin’ to wet my whistle.
+C: ANNIE
+D: We got whisky, Irish beer, Italian wine.
+C: PATRON
+D: Man ya’ll some classy niggas ain’t ya. Too fancy for me. I don’t need no Irish nothin’. Corn liquor’ll do. Annie looks to Smoke, who nods.
+C: ANNIE
+D: That’ll be 50 cents. The Patron reaches into his pocket, pulls out FOUR DIMES.
+C: PATRON
+D: Damn. All I got is forty. But these are good at the Maybell general store. The Patron pulls out two WOODEN PLANTATION CURRENCY NICKELS. Sits them down. A long pause as Annie, Smoke, and Stack share looks. Sammie tries to follow this with his eyes. Stack jumps in before it gets even more awkward.
+E: beat
+C: DELTA SLIM
+E: CONT’D MORE
+C: STACK
+D: You like that cold right? Annie eyes Smoke who seethes but doesn’t move to stop it. Stack pulls out a dew covered mason jar of moonshine and hands it to the PATRON, and slides the coins to Annie.
+C: PATRON
+D: Thank ya kindly. He smells the liquor, savors it.
+C: SMOKE
+D: Let me holler at ya’ll. Smoke walks to the back room, Stack, Annie, and Sammie follow. As the elders of the party enter Smoke turns to Sammie and stops him.
+C: SMOKE
+D: Not you... keep an eye on him. Sammie nods and turns, eying the Patron. Smoke closes the door behind him. Sammie tries to listen through the door. INT. BACK ROOM - LUMBER MILL - NIGHT Smoke is giving the group an earful.
+E: CONT’D
+C: SMOKE
+D: This ain't no house party. And it damn sure ain't no charity. We taking cash. US muthafuckin’ dollars.
+C: ANNIE
+D: This ain’t Chicago Smoke.
+C: SMOKE
+D: The fuck that mean? Smoke looks at the two of them.
+C: STACK
+D: She got a point, man.
+E: beat MORE
+C: STACK
+D: These niggas been workin’ inda field all day. When they show up let’em enjoy themselves.
+E: CONT’D
+C: ANNIE
+D: They gotta feel wanted if you want this here to work.
+C: SMOKE
+D: Wanted?
+C: STACK
+D: Yeah man. It gotta feel like it’s for them. That old nigga worked his ass off for them wooden nickels.
+C: SMOKE
+D: So now ya’ll on the same page? Guess hell done froze over. Smoke stares daggers at his brother.
+C: SMOKE
+D: Lemmie ask you somethin’. When you was sellin’ ass in Little Rock, you ever let a john pay with a goddamn promissory note?
+E: CONT’D
+C: STACK
+D: Hell nah. But I wasn’t sellin’ ass in the Delta.
+E: beat
+C: SMOKE
+D: What’s the damn difference? INT. ENTRY HALLWAY - JUKE JOINT - NIGHT Sammie listens in to them talking.
+C: SMOKE
+D: I don’t know hoo doo and I can’t talk slick, but I know business. And this is bad for business.
+E: O.S. beat
+C: STACK
+D: INT. BACK ROOM - JUKE JOINT - NIGHT
+E: CONT’D
+C: STACK
+D: This opening night. Let these niggas pay with what they have. It’ll just be a few of em like this. Annie cuts Stack a look.
+C: SMOKE
+D: I need a goddamn cig. Smoke storms out. Stack smiles at Annie- that was a yes- she doesn’t return it. She exits. Stack starts working on that cigarette. INT. JUKE JOINT - LUMBER MILL Smoke walks past Sammie.
+C: SMOKE
+D: You better play your ass off on that stage tonight. Sammie watches the Patron who takes another swig of corn liquor.
+C: PATRON
+D: Goddamn this good! Almost on cue, more PATRONS start to trickle in. Sammie looks around amazed. Delta Slim taps him.
+C: DELTA SLIM
+D: I guess I better get started... EXT. LUMBER MILL - NIGHT Folks from every part of town walk in, with Cornbread checking them in. INT. STAGE - NIGHT Delta Slim belts out a vocal from behind the keys of the piano. . INT. ENTRY HALLWAY - LUMBER MILL - NIGHT Sammie brings Cornbread a beer. Pearline enters following another guitarist.
+E: MESS AROUND or EVERY DAY I HAVE THE BLUES
+C: SAMMIE
+D: You made it.
+C: PEARLINE
+D: Yeah. When they turn this place into a Juke?
+C: SAMMIE
+D: Today. My cousins own it. You know the Twins?
+C: PEARLINE
+D: Heard of em of course. They your cousins? Sammie nods. Ready to soak up any trickle down respect.
+C: PEARLINE
+D: Ya’ll must be play cousins.
+E: CONT’D
+C: SAMMIE
+D: They daddy was my daddy’s big brother. Pearline pauses.
+C: PEARLINE
+D: So ya’ll cousins through blood? You seem like such a nice young man.
+C: SAMMIE
+D: I’m not always nice. And I ain’t that young. EXT. LUMBER MILL - NIGHT Cornbread lets a group of girls in their 20s in.
+C: CORNBREAD
+D: Ya’ll enjoy y'all selves. He watches them walk in, while a WOMAN approaches the entrance, she clears her throat. Cornbread turns to notice her, startled.
+C: CORNBREAD
+D: Excuse me ma’am you sure you at the right place? Smiles.
+E: CONT’D
+C: MARY
+D: That’s a damn good question, Cornbread... Cornbread is confused as to how this White Woman knows him... till he looks at her closer.
+C: CORNBREAD
+D: Little Mary?!
+C: MARY
+D: Not so little no more huh? Cornbread smiles. They embrace.
+C: CORNBREAD
+D: Whats it been? Six, seven years?
+C: MARY
+D: At least.
+C: CORNBREAD
+D: If I didn’t know no better, I’da thought you was-
+C: MARY
+D: White?
+C: CORNBREAD
+D: I was gon say rich. My condolences regarding your mother. We would have made the repass, but we had to work.
+E: beat
+C: MARY
+D: It’s alright. It was a beautiful service. Let me get on in here and get a drink before I start tearing up. Cornbread steps aside as Mary enters- INT. JUKE JOINT - LUMBER MILL - NIGHT Sammie and Pearline continue to chat.
+E: beat
+C: PEARLINE
+D: You gon' play?
+C: SAMMIE
+D: What you think? You gon' sang?
+E: beat
+C: PEARLINE
+D: We’ll see where the night take us.
+C: SAMMIE
+D: Ya husband coming?
+C: PEARLINE
+D: Nope. He’s older. Church type.
+C: SAMMIE
+D: Oh yeah? Sammie thinks for a bit.
+C: SAMMIE
+D: You hungry? Pearline thinks while Sammie notices something.
+E: CONT’D
+C: SAMMIE
+D: Shit. Hol’on. Sammie runs off towards what he saw- Mary. Pearline looks on, curious. Sammie approaches Mary.
+E: CONT’D
+C: SAMMIE
+D: Excuse me ma’am, I don’t think you should be here. You see, I’m with the Twins... and I
+E: CONT’D
+C: MARY
+D: With the twins? Boy if you don’t get the fuck out my face.
+C: SAMMIE
+D: I am with them ma’am. We met earlier at the train station. I’m they little cousin. You really upset Stack, I think you should leave before they see you.
+C: MARY
+D: Little cousin? Wait, you not little Sammie? Sammie looks confused as hell.
+C: MARY
+D: The guitar. That’s right! Little Sammie. You old enough to drink now? Come on, let me buy you a drink. Marry takes Sammie by the arm and walks him over to the now, crowded Bar.
+E: CONT’D
+C: SAMMIE
+D: Have we met before? I mean before today. Cause I don’t remember.
+C: MARY
+D: No. But Stack used to talk about you all the time. You the only one besides Smoke he seemed to care about. So you play that guitar they left you? That’s good. You making any money with that thing?
+C: SAMMIE
+D: Not really. Not yet at least.
+C: MARY
+D: I would tell you it didn’t matter, as long as you love it, but that’ll be horse shit advice.
+C: SAMMIE
+D: What are you?
+C: MARY
+D: What am I? I’m a human being. Sammie feels bad.
+C: SAMMIE
+D: That ain't what I meant.
+C: MARY
+D: I know what you meant. My mama’s daddy was half black. And he raised her to keep my grandma’s white family from killing her. She was a high yellow sharecropper. She was beautiful. Had any man she wanted. And by the look of my siblings all of em was jet black except for whoever my daddy was.
+C: SAMMIE
+D: You didn’t know who your daddy was? Mary shakes her head.
+C: MARY
+D: She told me he was white and she hated white people. I just figure he ain’t do right by her. Drunken fling, probably worse. Been meaning to ask her again the last few years, but now she gone. Mary takes a swig, fighting tears.
+C: MARY
+D: You know my momma delivered the twins? Saved Stack life after he got stuck in they Momma. And after she died, my momma nursed them like they was her own. And they had money to buy this whole mill and didn’t even send flowers to her funeral.
+E: CONT’D
+C: SMOKE
+D: We gave your mama flowers... plenty of em. All while she was alive to smell them. Mary and Sammie are startled to find Smoke behind them.
+E: O.S.
+C: MARY
+D: Hey Smoke.
+C: SMOKE
+D: Go check in with Slim and see if he need backup. Sammie obliges. Smoke walks off to find Stack while Mary enjoys more of her drink. INT. JUKE JOINT - LUMBER MILL - NIGHT On stage, Delta Slim switches to a new song with Sammie watching.
+E: beat MY PREACHIN’ PIANO VERSION
+C: DELTA SLIM
+D: I think she like the way I’m preachin’. Most of the patrons we have seen before along the road, in the shops and fields that we have passed. Smoke whispers in Stack’s ear, pointing at Mary. Mary eyes Stack who approaches her. He tries to walk her out of the door and she pulls away.
+E: MORE
+C: MARY
+D: I’m not here for you.
+C: STACK
+D: Oh yeah? Why you here then?
+C: MARY
+D: I come to hear the blues.
+C: STACK
+D: They play the Blues just fine in Arkansas. What’s it gone take? How much? Stack starts thumbing through money.
+E: long beat
+C: STACK
+D: How much to get you to get the fuck on? Mary chuckles at this.
+E: CONT’D
+C: MARY
+D: You can’t pay me off.
+C: STACK
+D: I’ll pay one of these field bitches in here to drag you out then. Mary laughs at this healthily.
+C: MARY
+D: Shit, you taught me how to fight. I’ll beat up every bitch in here.
+C: STACK
+D: Taught yo ass how to walk away when the money is up too. Got you a rich white husband. Got you a farm. Go home to it.
+C: MARY
+D: I ain’t ask for none of that. All that shit was your idea.
+E: MORE
+C: MARY
+D: I ain’t want no white man. I didn’t want to be white, I wanted to be wit you.
+E: CONT’D MORE
+C: STACK
+D: Woman you know I ain't shit. You know I can’t do nothing for you.
+C: MARY
+D: Maybe I ain't shit neither.
+C: STACK
+D: You think you don’t deserve what you got out there? Land? Freedom to go where you want? We all deserve it, but you was born wit a paint job to give you a shot at beating the system. And you want me to feel bad for showing you how to get it? You buried yo mama, now go home. All it take is the wrong person to see you here, word get back and them crackas’ll kill you.
+E: smiles wide, incredulous beat
+C: MARY
+D: What would it matter to you?
+C: STACK
+D: Cause if somebody hurt you out there me and my brother gon come kill em all.
+C: MARY
+D: So you’ll kill for me?
+C: STACK
+D: That’s right.
+C: MARY
+D: But you still won’t tell me the truth. I was young enough to believe you were coming back. But I’m grown now, Stack. And I know you never planned to stay. And you still can’t say it.
+E: alt
+C: STACK
+D: Say what? That I think about you every day?
+C: MARY
+E: CONT’D MORE
+C: STACK
+D: I just wanted you to be safe. And that was never gonna be here. And that was never gonna be with me. Stack walks to the front door, leaving Mary on the dance floor. Smoke observes from the catwalk. INT. DANCE FLOOR - NIGHT Delta Slim winds down my preachin’ from the stage.
+E: CONT’D MORE beat
+C: DELTA SLIM
+D: Shit. Ya’ll starting to move out there. I hope ya’ll getting a chance to get some good drank in ya. Now I been hearing about this young man out here all day. Supposed to be a bad blues man. Sammie, on the other side of the juke trying to bend Pearline’s ear, holding his guitar.
+E: beat
+C: DELTA SLIM
+D: Preacherboy where ya at? Sammie holds up his guitar high so Slim can see him.
+E: CONT’D
+C: DELTA SLIM
+D: Now we been hanging out and I seen you noise with that thang. But I wanna really see you cut loose. All the patrons clap and look towards Sammie who holds his guitar with one hand high over his head, making his way to the middle of the dance floor. He stops, surrounded by patrons and positions his guitar to play.
+E: CONT’D
+C: DELTA SLIM
+D: Tell him who you are and where ya from.
+E: CONT’D
+C: SAMMIE
+D: My name Sammie Moore, and I’m a sharecropper from Sunflower Plantation.
+C: STACK
+E: CONT’D MORE
+C: SAMMIE
+D: They call me Preacherboy, on account of my daddy being a Pastor. I wrote this song for him. Plays a guitar intro, bending the chords . The audience leans forward in anticipation. Hanging on every note.
+E: CONT’D I LIED TO YOU
+C: SAMMIE
+D: Somethin’ I been wantin’ to tell you, for a very long time. It might hurt, you might lose your mind. See I was just a boy, about 8 years old. You threw me your bible. On that Mississippi road. See I love you papa, you did all you could do. They say the truth hurts. So I lied to you. Yes I lied to you. I love the Blues. Blown away by his voice, patrons start to smile. Smoke and Stack look on at their cousin playing, Smoke with surprise, Stack with pride. Annie watches from the kitchen. Mary too.
+E: CONT’D
+C: DELTA SLIM
+D: Goddamn Preacherboy! Ya’ll don’t just watch, move ya feet, now! Sammie plays hard. The crowd begins to dance. Mary dances alone.
+C: SAMMIE
+D: Somebody take me, in your arms tonight. Annie comes around from the kitchen. She finds Smoke who is leaned up against a wall. She pushes up on him and they dance.
+C: SAMMIE
+D: Somebody take me, in your arms tonight. Stack watches Mary through the crowd as she dances alone. He approaches her she leans into him and they dance.
+E: CONT’D
+C: SAMMIE
+D: Somebody take me, in your arms tonight.
+E: CONT’D
+C: SAMMIE
+D: Pearline joins Sammie on the dance floor and their energy is electric. SURREAL MONTAGE STARTS- THE MUSIC SHIFTS Sammie closes his eyes and enters into a trance playing wildly. We rotate around him to reveal a SENEGALESE XALAM PLAYER in traditional African dress who stares at Sammie while playing his instrument in unison. This is a spirit, an ancestor visible to us, the audience, but not to Sammie and the other patrons of the juke. We rotate around to reveal a 1970s BLACK GUITARIST playing psychedelic rock. We rotate past Pearline to show TWO SPIRITS surrounding her, one from the past, one from the present. We push up to Delta Slim, to find him, eyes closed and playing, surrounded by two ancestors- GRIOTS one past, one future a disk jockey spinning from the 1980s. We track back to the dance floor to find it populated with more ancestors, all of the current day patrons in a trance their eyes still closed. We find Grace in the kitchen who takes us to the gambling room, where she pulls Bo away from the gambling tables and back onto the dance floor where A Past Ancestor, a Zaouli dancer in full dress, does a traditional dance, next to Future Ancestor who does Memphis Jooking. A modern dancer leads us back to Sammie, who kicks his singing up to another level, burning embers and debris fall down around him. We tilt the camera up to reveal the source of the debris. The ceiling of the mill is ablaze, with growing gaps exposing the inky, star filled sky beyond. We tilt back down and reveal the crowd, still dancing and the blaze has engulfed the walls. We spin around and pull back, beyond the walls of the juke wide on the patrons as they party with their ancestors past and present, in what is now an open field with burning debris illuminating them. The camera continues off to reveal three figures. We move towards them- EXT. JUKE JOINT - LUMBER MILL - NIGHT THREE WHITE DRIFTERS walk towards the Mill. One holds a lantern while the others hold instruments. It’s REMMICK , flanked by Joan and Bert. Remmick looks towards the party hungrily as if he can see it in all its surreal glory.
+E: CONT’D The Injured Man from the Prologue, all cleaned up and healed
+C: END SURREAL MONTAGE
+D: Over Remmick’s shoulder, we see the structure of the mill as it is in reality. INT. BACK ROOM - DAY - MOMENTS LATER Sammie and Pearline enter and make out heavy.
+C: PEARLINE
+D: Do this door lock?
+C: SAMMIE
+D: Only with a key...
+C: PEARLINE
+D: Keep ya foot on it at least. Pearline sits on a table by the door and takes off her panties. Sammie takes a knee to help, then-
+C: SAMMIE
+D: Hold on, I want to try something. Pearline looks at Sammie confused.
+C: SAMMIE
+D: Just trust me... He lifts her legs on his shoulders and goes down on her.
+E: CONT’D
+C: PEARLINE
+D: Wait, Preacher-boy... let me wash up first, I walked here.... Shiiiit.
+E: pleasure hits then ecstacy
+C: SHIIIIT!
+D: INT. ENTRY HALLWAY - NIGHT Stack listens in through the door. Chuckling silently before Grace taps him.
+C: GRACE
+D: Hey. Smoke asking for you. He upstairs. Stack smiles and heads towards the back of the juke. Grace listens to the door and makes a face. INT. CATWALK - UPPER LEVEL - NIGHT Stack walks upstairs to find Smoke leaning on the railing, observing the packed house from above. He holds two papers in his hand. Stack approaches his brother.
+C: STACK
+D: What you think? Go on head and say it.
+C: SMOKE
+D: It’s going alright.
+C: STACK
+D: Alright!? Man this shit jumpin’! And this just the first night. C’mon Smoke man we done done it! Stack slaps Smoke on the shoulder.
+C: SMOKE
+D: I tallied the till.
+C: STACK
+D: What’s the count? Smoke hands the slip to Stack.
+C: STACK
+D: Goddamn!
+E: CONT’D
+C: SMOKE
+D: That top figure... that’s plantation money. Bottom figure’s real dollars. Stack sobers. Thinks.
+E: beat
+C: STACK
+D: So whats the projection?
+C: SMOKE
+D: Two more months like this and we’ll be out of real cash. And we’ll be right back in these crackas pockets like the rest of em. EXT. JUKE JOINT - LUMBER MILL Cornbread notices the drifters approaching from the distance. He taps a SMOKING PATRON.
+C: CORNBREAD
+D: Go get the twins. The trio led by Remmick arrives at the front door. Cornbread blocks their passage.
+C: REMMICK
+D: Evenin’, sir.
+C: CORNBREAD
+D: Good evening. How can I help you folks?
+C: REMMICK
+D: We heard tale of a party. Food, blues music, drank and the like. We like to drank, we happen to be musicians, And we walked here, so we hungry as dogs. Remmick smiles... maybe too wide.
+E: beat beat
+C: REMMICK
+D: You wouldn’t mind us coming in, now would you?
+E: CONT’D
+C: CORNBREAD
+D: I think ya’ll at the wrong place. Joan takes issue with this.
+C: JOAN
+D: What makes you say that? Cornbread hesitates, just as the Twins arrive, Mary at Stack’s side, and Annie at Smoke’s. Pearline exits the back room, with Sammie in tow. They head towards the commotion at the front door.
+C: REMMICK
+D: You fellas must be the owners of this establishment.
+C: SMOKE
+D: That’s right. And you are?
+C: REMMICK
+D: Name’s Remmick. And this here is Joan and Bert. Sammie approaches.
+C: SAMMIE
+D: Stack, ya’ll alright? Remmick hears Sammie’s voice and catches eyes with him.
+C: REMMICK
+D: And you must be that voice I heard from out here. It was beautiful.
+C: JOAN
+D: Goddamn beautiful voice.
+C: BERT
+D: Even through these walls. Smoke steps in front of Sammie.
+C: SMOKE
+D: Where ya’ll from?
+C: JOAN
+D: Down the road.
+C: STACK
+D: How far?
+C: REMMICK
+D: North Carolina.
+C: SMOKE
+D: Ya’ll Klan? Remmick is genuinely offended by this. Buff Rev. 68.
+E: beat 06/03/24
+C: REMMICK
+D: We believe in equality. And music. We just came to play, spend some money, and have a good time. Smoke shakes his head. Stack thinks on this.
+C: REMMICK
+D: Let me show ya. The trio of drifters get their instruments into position and begin to play.
+E: CONT’D
+C: BERT
+D: You better pick poor robin clean, pick poor robin clean, I picked his head, picked his feet, I picked his body but it wasn’t fit to eat...
+C: JOAN
+D: You better pick poor robin clean, pick poor robin clean, I picked his head, picked his feet, I picked his body but it wasn’t fit to eat... Remmick joins in.
+C: REMMICK
+D: You’d better pick poor robin clean, pick poor Robin clean, but I’ll be satisfied, having your family.
+C: CORNBREAD
+D: Man these pecks ain’t bad... They are damn good.
+E: under his breath
+C: PEARLINE
+D: Not bad at all. Stack, Mary, and Annie are caught up in the music too.
+E: under hers
+C: SMOKE
+D: Hol'on just a minute now. The Trio stops playing.
+C: REMMICK
+D: Aww, it was just about to get good.
+C: SMOKE
+D: I believe ya. It’s just... this here is a juke joint. Buff Rev. 68.
+E: 06/03/24
+C: STACK
+D: Blues music.
+C: BERT
+D: But we got money and we ready to spend it with ya’ll.
+C: REMMICK
+D: And that music soundin’ goddamn amazing. And yer sayin’ we ain't welcome? Smoke grows more impatient.
+C: SMOKE
+D: If you go down that road, you’ll get back into town. Plenty white barrelhouses down there.
+C: REMMICK
+D: So it’s about the color we was born wit, huh? If that’s the case how she get in? Remmick points to Mary.
+C: MARY
+D: That’s none of-
+C: ANNIE
+D: She here cause she family. Remmick thinks on this, Stack steps in front of his view of Mary.
+C: REMMICK
+D: Well maybe we can all be family... just for the night. Remmick steps forward. Smoke takes a step closer to the trio and puts his hand on his pistol. Stack steps forward after.
+C: REMMICK
+D: No need for that! We’ll be on our way. They amble towards the parked cars and wagons.
+E: CONT’D smiling
+C: REMMICK
+D: Maybe we’ll walk real slow, in case ya’ll change your minds. INT. JUKE JOINT - LUMBER MILL - NIGHT The Twins and Cornbread huddle up. Annie and Mary listen in. Sammie and Pearline observe from a distance.
+E: CONT’D
+C: CORNBREAD
+D: What ya’ll want to do?
+C: STACK
+D: You sure they came alone?
+C: CORNBREAD
+D: Three of thems all I saw.
+C: SMOKE
+D: Keep a eye on em till they leave.
+C: ANNIE
+D: They gave me the willies.
+C: STACK
+D: Yeah crackas at night time will do that.
+C: ANNIE
+D: Wasn’t just that...
+C: SMOKE
+D: What if Hogwood set us up? I knew I shoulda killed that Klan motherfucker when we had the chance.
+C: STACK
+D: Slow down, Smoke. I don’t think they got nothing to do with each other.
+C: SMOKE
+D: You think they brought company?
+C: STACK
+D: Doubt it, but we got enough pepper on is if they did.
+C: SMOKE
+D: Shit. We ain’t get the trunk.
+C: STACK
+D: Damn. Why you didn’t remind me?
+C: SMOKE
+D: Fool, I told you to remind me! The twins look towards the door.
+C: MARY
+D: Ya’ll don’t need the trunk. It was three of em. The Twins turn to Mary. Maybe she’s right.
+C: STACK
+D: Maybe they just came to sing.
+C: SMOKE
+D: Somebody spill something on em, step on they shoe, look at they woman too long then we got a bigger problem than just a fight you understand? Smoke turns to Cornbread.
+C: SMOKE
+D: Don’t let em in. Smoke walks back into the Juke. Stack looks at Mary for a beat, then heads back in as well. Cornbread returns to his post. Leaving Mary and Annie with each other.
+E: CONT’D
+C: ANNIE
+D: You doin’ alright? Mary nods.
+C: ANNIE
+D: Look like you need something to eat. Food in Little Rock ain't no good?
+E: CONT’D
+C: MARY
+D: It’s fine. Just grieving. You ain't got none of that gumbo here do you? Annie shakes her head empathetically.
+C: ANNIE
+D: Catfish sandwich?
+C: MARY
+D: Could you?
+C: ANNIE
+D: Of course. Mary reaches for her pocket book.
+C: ANNIE
+D: Stop it. Annie and Mary head off into the Juke. Mary follows Annie over to the kitchen area where Annie enters to make a new plate. Mary looks around and notices Stack, visibly stressed, on the upstairs catwalk. She walks up the stairs to him.
+E: CONT’D
+C: MARY
+D: What’s wrong?
+C: STACK
+D: We got a packed house, but we under water.
+C: MARY
+D: How?
+C: STACK
+D: All the plantations paying is credits.
+C: MARY
+D: All the plantations?
+C: STACK
+D: Seems that way.
+C: MARY
+D: What about them crackers?
+C: STACK
+D: What about em?
+C: MARY
+D: Let me go out there and feel em out before they too far gone.
+C: STACK
+D: I can go feel em out.
+C: MARY
+D: They’ll tell me more than they’ll tell you. I can find out what they really have.
+C: STACK
+D: What if they from Little Rock?
+C: MARY
+D: They ain't. Let me try to get this money for us. I know ya’ll need it.
+E: beat
+C: STACK
+D: What’s that supposed to mean.
+C: MARY
+D: Irish beer? Italian wine? You robbed both sides. Let them blame each other while you and Smoke come down here and set up shop. You need every dime you can get in case they put two and two together.
+C: STACK
+D: They won’t.
+C: MARY
+D: In case they do. Let me go talk to them and see about putting something real on the till. Stack thinks for a long beat, then pulls his Luger. Mary snugs up close to him, and he slips it in her garter. INT. JUKE JOINT - LUMBER MILL Mary grabs her scarf from the bar and covers her hip with it. She looks at Annie- who is with Grace in the kitchen, busy making her a plate. She looks into the window into the gambling room where she spots Smoke, busy talking with Bo. She looks at the front door where Cornbread is on post. She turns to the barn doors where patrons watch Slim. She ambles across the dance floor, opens the barn door and slips out into the night. EXT. LUMBER MILL - NIGHT Mary walks through the darkness towards Remmick, Bert and Joan. They play a beautiful, sparse Mountain song (WILL YE GO
+C: LASSIE GO).
+D: Remmick sees her approaching, but continues singing. His eyes are two calm lakes at midnight- barely hinting at the depths below.
+C: REMMICK
+D: You lookin for some fresh air?
+C: MARY
+D: Just come to see if ya’ll was good people.
+C: REMMICK
+D: Aww darlin’ that’s sweet of you.
+C: JOAN
+D: So sweet.
+C: REMMICK
+D: We most surely are.
+C: MARY
+D: And ya’ll got money to spend?
+C: REMMICK
+D: Oh yeah. Plenty money. Bert reaches into his pocket and produces several gold coins. He hands them to Mary.
+C: MARY
+D: What type of money is that?
+C: REMMICK
+D: It’s the solid gold kind, darlin’. You want to see?
+C: MARY
+D: Where is this from?
+C: REMMICK
+D: From a different land, and a different time. But it spends just the same. You can have it. But you don’t need it, do you?
+E: beat
+C: JOAN
+D: No she don’t need it.
+C: MARY
+D: What makes you say that? Remmick smiles.
+C: REMMICK
+D: Cause you in some deep pain that money can’t fix. You need fellowship and love. Am I right? Mary looks up at and notices his eyes flicker for a bit while he turns to her. Like a feral cat’s or a timber- wolf’s when light is shined into them at night. Mary thinks she catches it, but its gone in an instant.
+C: MARY
+D: My mother, she just passed...
+C: REMMICK
+D: That’s awful.
+C: JOAN
+D: Awful.
+C: BERT
+D: Just awful. Losing a mother’s a hurtin’ feelin’.
+C: REMMICK
+D: I wish in my heart that we met sooner. I would have liked to save your mother from her fate. But I can still save you from yours.
+C: MARY
+D: You must have me confused. I’m sad is all. But I don’t need no saving.
+C: REMMICK
+D: Yes. Yes you do. You all do. She thinks to herself. Then looks to Remmick, repulsed at the drool on his chin. Mary stands up. Remmick notices her shock and wipes his mouth. But his leering smile stays. Mary pulls her pistol on Remmick.
+C: MARY
+D: I’m gonna head back now. And I think ya’ll should too. Back to wherever ya’ll came from. Remmick looks at the pistol and smiles, he doesn’t move. Mary backs away from them, then turns and walks towards the Juke. In the distance, Remmick stands calmly, then flies into the air towards Mary. EXT. LUMBER MILL - NIGHT Cornbread sits by the door tapping his feet to the music. Mary approaches from the shadows.
+C: MARY
+D: Cornbread. Cornbread jumps at the utterance.
+C: CORNBREAD
+D: What you doing out here?
+C: MARY
+D: I was convincing them white folks to leave. They on they way now. Cornbread looks back and the lantern they were holding is shrinking into the distance.
+C: CORNBREAD
+D: Thank you for that.
+C: MARY
+D: You gon' let me in or just stand there blockin’ the door? Cornbread steps aside.
+C: CORNBREAD
+D: Come on. Mary steps inside. INT. JUKE JOINT - LUMBER MILL Mary looks around at everyone partying and drinking. She moves through the crowd for a beat. Across the room, Sammie watches as Pearline takes the stage with A GUITARIST. Delta Slim turns to Sammie.
+C: DELTA SLIM
+D: I’mma get some air. Sammie nods at Delta Slim without breaking his gaze from Pearline, who slams the piano shut, and begins performing . Patrons dance along. Cornbread shuffling turns and notices Delta Slim approaching.
+E: Pale Moon Rising ~ 5 MINUTES PEARLINE + ~ SIX MINUTE JAM SESSION Musicians join in as it goes on, SECOND GUITARIST, PIANO, BANJO, BACKING VOCALS
+C: CORNBREAD
+D: Slim! Delta Slim rambles over to the door.
+C: CORNBREAD
+D: Watch the door for me. I gotta piss!
+E: CONT’D
+C: DELTA SLIM
+D: Gon' cost ya.
+C: CORNBREAD
+D: Put it on my tab. Delta Slim plops into the seat, nursing the beer. EXT. LUMBER MILL - NIGHT Cornbread, holding a lantern, puts some space between him and the Mill in search of some much deserved privacy. He finds a spot he likes, sets down his lantern, gets to the business of relieving himself. Just as we hear a stream and the relaxation sets in, he hears a rustling. He turns to his right, nothing. He turns to his left, his heartbeat in his throat... Nothing. He hears something again. Checks to his right... still nothing. To his left, JOAN now stands. Holding his lantern. She smiles at his hands and we hear the piss stop.
+E: already on the move
+C: JOAN
+D: Don’t quit on account of me. She blows the light out, leaving Cornbread surrounded in darkness. INT. JUKE JOINT - LUMBER MILL Stack finds Mary coming from around a corner, wiping her mouth.
+C: STACK
+D: How’d it go? Mary shows off the gold coin. Stack smiles at this.
+C: STACK
+D: Look at that! He holds out his hand for the pistol. She hands it to him, and Stack notices it is light. Before he can check it Mary kisses him. Stack withdraws, tucks his pistol and looks around anxiously.
+E: CONT’D
+C: MARY
+D: You scared. Mary pulls him close.
+C: STACK
+D: You somebody else's.
+C: MARY
+D: So. You rob trains and banks. But you can’t steal this pussy for a night? This lands on Stack hard. Mary walks into the BACK ROOM. Stack waits for a beat, and follows. Shuts the door behind him. Delta Slim watches from the front door and smiles. INT. BACK ROOM - JUKE JOINT - NIGHT - CONTINUOUS Stack walks Mary down and they kiss passionately. She playfully pulls at his bottom lip with her teeth, then licks his lips. Then his neck. Stack sits down on the floor and unbuckles his pants. Mary sits on top of him, lifting her dress slightly. She looks at Stack passionately, Stack notices drool trailing from her mouth.
+E: MORE
+C: STACK
+D: You droolin’ baby... Mary looks down, touches her hand to her mouth.
+C: MARY
+D: Oh. You don’t mind that do you? Stack, aroused shakes his head. Mary smiles.
+C: MARY
+D: You want some? Stack opens his mouth. Mary spits into his, Stack swallows. Mary smiles devilishly, they kiss again. Stack’s hand rubs her back, her dress shifts to reveal a bite mark on her shoulder. EXT. HALLWAY - JUKE JOINT - NIGHT - CONTINUOUS Smoke sees Sammie watching Pearline’s performance and he pulls him to the side towards the barn door
+E: CONT’D
+C: SMOKE
+D: I seen you performing up there. It was beautiful. You wrote that song?
+C: SAMMIE
+D: Yeah. I got a few of em. I can’t thank you enough for this. I mean, ya’ll the ones who put the guitar in my hand, and now this?
+C: SMOKE
+D: You got the talent. That’s for sure. But this ain't no life for nobody. I know plenty musicians, and I never met a happy one.
+E: MORE
+C: SMOKE
+D: You think its cute now, but it gets old. That ramblin'. You got somethin' else in you.
+E: CONT’D
+C: SAMMIE
+D: Today settled it for me. I’m headin’ off on my own.
+C: SMOKE
+D: You heard of Mound Bayou?
+C: SAMMIE
+D: No.
+C: SMOKE
+D: Town in Mississippi. Freed slaves founded it. No crime, no crackas. Everything Black owned.
+C: SAMMIE
+D: Sound like a crock.
+C: SMOKE
+D: I seen it. Stack was the one who told us we should go. One day our Daddy beat him real bad. We got it in our minds to run away. I wanted to go to the next plantation over, but Stack figured we get to Mount Bayou. So I got us a map, and put a plan together. Stole a car and got us there.
+C: SAMMIE
+D: For real? Why ya’ll ain't stay?
+C: SMOKE
+D: Mayor didn’t want us. Said we was ner’do’wells. Didn’t want nobody like us giving the town a bad name. But see the thing is. They knew our daddy. Knew he was a evil man. Figured it wasn’t no way he didn’t give it to us. See your Daddy a preacher. You can go do that. Something respectable. You like making music? Make church music. And if you want to leave, you can go to Mound Bayou. Live with the proper Black Folks. Leave this improper shit here to us, you understand?
+E: beat
+C: SMOKE SAMMIE
+D: I can’t do that. Being wit ya’ll today man, feel like I was flying. Smoke smiles at this.
+E: CONT’D
+C: SMOKE
+D: Well enjoy the rest of the night. Cause this is your last Juke. Come tomorrow, I find about you playing at one of these, I’ll kill you myself.
+C: SAMMIE
+D: Never figured you was the type to threaten blood. Guess I shoulda known better.
+C: SMOKE
+D: What? You got somethin’ to say gon head and say it lil pup.
+C: SAMMIE
+D: You ain't in no position to tell me how to live my life. You killed ya own Daddy. Just cause he was a drunk.
+C: SMOKE
+D: Stack tell you that? Stack don’t know shit. Our Daddy was a hateful son of bitch. Wanted to kill my brother since the day we was born, Just used alcohol as a excuse. Was gon kill him that night if I ain’t protect him.
+E: beat
+C: SAMMIE
+D: I can’t go to no Mound Bayou. My daddy a reverend but I’m ya’ll little cousin too. And a lot more people know the Smokestack Twins than know my daddy. And I’m leaving that plantation just like ya’ll did. And if that’s a problem for you, might as well kill me now. Bo Chow burst in on them, hurried.
+C: BO CHOW
+D: Smoke man you gotta get over here. Smoke quickly puts out his cigarette and he and Sammie head over to- INT. GAMBLING TABLES - LUMBER MILL - NIGHT TWO GAMBLERS are involved in an altercation. GAMBLER 1 is holding out a straight razor towards GAMBLER 2 who is holding his hand to the side of his face. Smoke, Sammie and Bo Chow approach.
+C: SMOKE
+D: What’s going on? GAMBLER 2 This son’ bitch had loaded dice. Been wearing us out. Smoke turns to Gambler 1 who has the blade extended.
+C: SMOKE
+D: Put the blade down. Gambler 1 backs up and shakes his head. GAMBLER 1 Can’t do that Twin. I told him not to put his hands on me. Smoke approaches. Gambler 1 backs up.
+E: beat
+C: SMOKE
+D: So what? You gon' cut me too? GAMBLER 1 If I have to, I just want to be allowed to leave. Smoke goes for him, dodges the razor blade and whacks him with his revolver. He then wrenches the blade from his hand, while holing him down. He looks to Bo.
+C: SMOKE
+D: Check his pockets. Bo reaches in and pulls out two dice. He and Smoke get up, and a few other GAMBLING PATRONS begin stomping him out.
+C: BO CHOW
+D: Ya’ll get him out of here. Smoke turns to Gambler 2 and looks at his face. The cut is gnarly.
+C: SMOKE
+D: Shit. Gon need stitches. Smoke turns to Sammie.
+C: SMOKE
+D: Go get my brother. Sammie takes off through the maze of partygoers. He gets to the door where he sees Delta Slim.
+E: CONT’D
+C: SAMMIE
+D: You seen Stack? Delta Slim points.
+C: DELTA SLIM
+D: He in the back room. Sammie goes towards the back room and opens it. INT. BACK ROOM - NIGHT We see what Sammie sees... Stack and Mary on the ground, Mary on top and in passionate rhythm.
+C: SAMMIE
+D: Jesus. Sammie quickly shuts the door back and smiles. He looks at Delta Slim who laughs. Sammie makes his way back to Smoke who stands alongside Annie who is helping him tend to Gambler 2 who now is drinking from a BOTTLE OF WINE for the pain.
+C: SMOKE
+D: You get him?
+C: SAMMIE
+D: Nah.
+C: SMOKE
+D: Why not?
+C: SAMMIE
+D: He was getting some nookie.
+E: whispers
+C: SMOKE
+D: I don’t give a fuck what he was doing I told you to bring him.
+C: SAMMIE
+D: I ain't doin’ that by myself.
+C: SMOKE
+D: Shit! Smoke heads for the back room but notices Delta Slim watching the door.
+C: SMOKE
+D: Where the fuck is Cornbread?
+E: CONT’D
+C: DELTA SLIM
+D: Building you a new outhouse, I suppose? Nigga left to take a piss two days ago.
+C: SMOKE
+D: And he left you to watch the door? Delta Slim lifts his beer towards Smoke. Smoke spins off towards the back room, with Sammie on his heels. Smoke walks up to the back room door and doesn’t break stride.
+C: SMOKE
+D: Ya’ll get decent I’m bout to open up. Smoke opens the door and steps in. INT. BACK ROOM - NIGHT Smoke’s face contorts into confusion as we see his POV. Mary, cradling Stack’s head as she slurps blood from his jugular vein.
+E: CONT’D
+C: SMOKE
+D: What the fuck? Mary looks up, her mouth and chin slick with blood.
+E: MORE
+C: MARY
+D: Smoke... it’s not what it looks like. She stands up, with her hands up and BLAM BLAM BLAM, Smoke shoots her in the chest. INT. DANCE FLOOR - JUKE JOINT - NIGHT PEARLINE, the BAND and the DANCING PATRONS hear the gun shots and look around in confusion. INT. GAMBLING TABLES - NIGHT Annie hears the gunshot and turns towards the back room. She turns to Bo.
+C: ANNIE
+D: Wait here. Annie rushes out of the gambling room. INT. ENTRY HALLWAY - JUKE JOINT - LUMBER MILL Slim turns and looks towards the back room. INT. BACK ROOM - NIGHT Mary drops. Smoke starts toward his injured brother when- Mary laughs, almost unaffected by the bullet. She rises up, gunshot wounds and all.
+C: MARY
+D: We gon' kill every last one of you. Smoke fires again and she charges past him, avoiding shots and running out of the room. INT. ENTRY HALLWAY - NIGHT Mary, her chest and face bloodied, sprints past Delta Slim who nearly sobers up at the sight of her sprinting off into the night air.
+C: MARY
+D: I’ll be right back, Slim. We gon kill every last one of you.
+E: MORE
+C: MARY
+D: We gon have some real fun tonight! Delta Slim runs towards the back room. INT. BACK ROOM - NIGHT Delta Slim enters to find Smoke cradling Stack, putting all the pressure he can muster on the wound, but the blood flows still.
+E: CONT’D
+C: SMOKE
+D: Hold on.
+C: STACK
+D: She, bit me. She...
+C: SMOKE
+D: Shhh. It’s okay...
+C: STACK
+D: I lo... I l... Stack’s body convulses. Then- stillness... his eyes open but empty. Shock takes root in Sammie. Annie enters the room and is horrified for a beat before jumping into action. Annie feels at Stack’s neck for a pulse. Nothing.
+C: ANNIE
+D: What happened? What happened? Sammie can’t answer. Annie turns to Delta Slim.
+E: to Sammie
+C: ANNIE
+D: Keep everybody out! Delta Slim turns exits to the- INT. ENTRY HALLWAY - LUMBER MILL - NIGHT Where all of the patrons, gamblers, and musicians are trying to get a look into the back room. Delta Slim keeps them at bay.
+E: CONT’D
+C: MARY DELTA SLIM
+D: Ya’ll back up now.
+E: CONT’D
+C: BO CHOW
+D: Who was shootin’? What’s goin’ on? PARTYGOER #2 Music still going?
+C: PEARLINE
+D: Hell with the music. Is Sammie in there?
+C: DELTA SLIM
+D: Party’s over. PATRON #2 Damn! It was just getting good too. The partygoers mutter amongst themselves, confused, paranoid, and upset such an great party has now ended. They start to file out the front door, murmuring. INT. BACK ROOM - JUKE JOINT - NIGHT Annie stands over Smoke.
+C: SAMMIE
+D: I coulda stopped it. I thought they was making love... Is Stack really... I was just with him. I thought... Sammie thinks
+E: beat
+C: SAMMIE
+D: What you think could be going on with her..? Rabies? Some sorta disease?
+E: CONT’D beat
+C: ANNIE
+D: She say anything?
+C: SMOKE
+D: Said “we gonna kill all of you...”
+C: ANNIE
+D: “We?”... She said, “we”? Annie speaks to Smoke with a renewed urgency.
+C: ANNIE
+D: Smoke. We have to move his body. Smoke looks up at Annie.
+E: CONT’D beat
+C: ANNIE
+D: We gotta move him outside.
+E: CONT’D
+C: SMOKE
+D: What the fuck are you talking about woman?
+C: ANNIE
+D: She might have had something. Just listen to me. We need to move his body outside. Just for now. Annie reaches for Stack’s body.
+C: SMOKE
+D: Don’t touch him! Nobody’s moving him.
+C: ANNIE
+D: You shot her. And she kept running like nothin’ happened. Smoke stares back at her with seething anger.
+C: ANNIE
+D: This a haint we dealing with here, or worse. We need to keep everybody inside... and a dead body out.
+E: CONT’D
+C: SMOKE
+D: This ain't no dead body. This Stack. He staying in here with me. You talking all this magic... you got any magic that can bring my baby brother back, got a mojo bag for him? Please?
+C: ANNIE
+D: I can’t... I’m sorry...
+C: SMOKE
+D: Look at him. He gone. Smoke stands up.
+C: SMOKE
+D: Best thing about me was him. Smoke storms out. Annie and Sammie follow behind. INT. ENTRY HALLWAY - NIGHT Smoke emerges covered in Stack’s blood. Annie and Sammie behind him. They lock the door from the outside.
+E: CONT’D
+C: BO CHOW
+D: Smoke what’s going on?
+C: SMOKE
+D: Stack’s dead. Smoke pushes past Bo towards the door, Delta Slim trails. Annie turns to Sammie.
+C: ANNIE
+D: Don’t let nobody go in there. She goes after Smoke, Bo Chow and Delta Slim. Delta Slim looks at Smoke searching for answers, then hands him his flask. Smoke takes a swig, and hands it back.
+C: ANNIE
+D: Still no Cornbread? Delta Slim shrugs.
+E: CONT’D
+C: DELTA SLIM
+D: Been gone a good while. Smoke looks out into the darkness through bloodshot eyes.
+C: ANNIE
+D: Ya’ll get him inside. Delta Slim and Bo pull Smoke back inside of the juke. INT. ENTRY HALLWAY - JUKE JOINT - LUMBER MILL - NIGHT -
+C: CONTINUOUS
+D: Pearline approaches Sammie who stands at the door.
+C: PEARLINE
+D: Preacherboy, I’m scared to go out there. Sammie gives her a look that mirrors her sentiment.
+C: SAMMIE
+D: You can stay here with us. Annie speaks up in the hall.
+C: ANNIE
+D: I want everybody to listen up. We had us a situation. Nobody should be going outside.
+C: ANNIE
+D: It ain't safe out there. PATRON #1 I ain’t scared of no rabies, or whatever Hoo Doo this hammer talkin’ bout. I’m worried about these crackas. As the group debates, the remaining patrons make their way out. Grace approaches Bo and pulls him away from Smoke.
+E: CONT’D
+C: GRACE
+D: Bo, we gotta go...
+C: BO CHOW
+D: I can’t leave em. He just lost his brother.
+C: GRACE
+D: How the hell you plan on helping him fix that? Cause if you know a way, I got some folks I’ll love for you to help me bring back too. Bo looks at Grace with an answerless expression.
+C: BO CHOW
+D: Let me go get the car. Bo looks around and heads out the door and into the darkness.
+C: AT THE ENTRY DOOR
+D: Delta Slim and Smoke hear someone approaching from the darkness. It’s Cornbread.
+C: CORNBREAD
+D: Hey Slim, Smoke!
+C: DELTA SLIM
+D: Where the hell you been at, man?
+C: CORNBREAD
+D: Seeing a man about a dog, like I told you. Turned out I needed more relieving than I imagined. Ya’ll starin’ me down like I missed somethin’. Cornbread finally notices Smoke is covered in blood.
+E: beat
+C: CORNBREAD
+D: Goddamn Smoke... what happened to you?
+E: CONT’D
+C: SMOKE
+D: What happened to me? Stack is dead. What the fuck happened to you? You was supposed to be watching the place. Not taking a hour long piss.
+C: CORNBREAD
+D: I’m sorry. Well let me come in and help. Annie clocks this.
+C: ANNIE
+D: Hol’on. She extends her hands to Smoke to stop him. Smoke looks back at Annie confused. Delta Slim as well. They stare at Cornbread, who stares back at them with an almost comically confused expression.
+C: CORNBREAD
+D: What ya’ll doing? The three continue to stare without budging.
+C: CORNBREAD
+D: Smoke. Just step aside and let me on in.
+E: CONT’D
+C: ANNIE
+D: Why you need him to do that? You big and strong enough to push past us.
+C: CORNBREAD
+D: Because that wouldn’t be very polite of me now, would it? I don’t know why I’m even talking to you. Probably your fish sandwich that made me so sick. Using that old stale grease.
+C: ANNIE
+D: I ain't never used stale grease and you know it.
+C: CORNBREAD
+D: Smoke, come- on.
+C: ANNIE
+D: Don’t talk to him you talking to me right now. Why you can’t just walk yo’ big ass on in here without an invite, huh? Just go ahead and admit to it.
+C: CORNBREAD
+D: Admit to what?
+C: ANNIE
+D: Admit that you dead. One of them white folks out there killed you. And you a haint now.
+C: CORNBREAD
+D: Smoke you hearing this shit? Woman this man showed me kindness. Employed me. Says his brother’s been killed. He need comfort, not you filling his mind up with that Louisiana garbage. We playing games and telling ghost stories instead of doing we ought to do.
+C: DELTA SLIM
+D: And whats that?
+C: CORNBREAD
+D: Be kind to one another. Be polite. And not just go barging into folks places uninvited.
+C: SMOKE
+D: I don’t believe half the shit that come out of her mouth. But you been in and out of here all day. And all of a sudden you need an invitation? It don’t add up.
+C: CORNBREAD
+D: So what I’m supposed to do Smoke? Shit Stack was my ride here. I’m supposed to walk home?
+C: SMOKE
+D: Ain't my business.
+C: CORNBREAD
+D: Can I at least get my money? Cornbread holds his hand out, short, like a gator.
+C: DELTA SLIM
+D: Real bang up job you did. Cornbread cuts a look at Delta Slim.
+C: ANNIE
+D: Careful. Smoke pulls out a wad of cash and thumbs through it. Pulls a few bills off and reaches the money out to Cornbread who smiles as Smoke reaches. Just as his hand crosses the threshold of the mill Cornbread snatches it with reptilian reflexes, extending his mouth towards Smoke’s forearm veins. He tugs Smoke off his feet nearing a bite when Smoke draws his pistol and BLAM. Shoots Cornbread right in the
+C: FACE.
+D: Annie shrieks. Smoke drops from Cornbread’s grasp and scuttles back into the mill while Cornbread’s body drops to the dirt. Annie slams the mill door just as Cornbread rises again. Then inspects Smoke’s arm for a bite.
+C: ANNIE
+D: We gotta hole up in here till sunrise.
+E: CONT’D
+C: DELTA SLIM
+D: Ya’ll smell anything?
+C: SMOKE
+D: No.
+C: DELTA SLIM
+D: Good. Was afraid I just shat myself. INT. JUKE JOINT - LUMBER MILL - NIGHT Outside the Back Room door, Sammie stands next to Pearline. KNOCK KNOCK KNOCK. Someone inside the Back Room knocks on the door gently. Sammie shoots Pearline a look. Clearly rattled. She gives the same one back. KNOCK KNOCK KNOCK on the door again.
+E: long beat
+C: PEARLINE
+D: Is somebody in there? Sammie shakes his head. He looks under door.
+E: sotto voce
+C: SAMMIE’S POV
+D: He sees movement underneath, but tries to focus.
+C: VOICE
+D: Hey... Sammie stands up. Not sure he’s heard what he thought. Puts his ear to the door when-
+E: O.S. sotto
+C: SHUNK!
+D: THE BLADE OF STACK’S KNIFE plunges through the wood, skimming Sammie’s eyelash. Pearline shrieks.
+C: SAMMIE
+D: Shit! Sammie looks at the door in shock as the blade is yanked back through the other side of the door, and a familiar laugh is heard.
+C: STACK
+D: Sammie is that you there? Boy I didn’t mean to scare you. I was just trying to see through the other side. Thought ya’ll had forgot about me in there. Sammie approaches the door tries looks through the hole. We see an obstructed glimpse of Stack’s toothy grin.
+C: SAMMIE
+D: Uhhh... SMOKE! Smoke heads over. Sammie points at the door.
+C: SAMMIE
+D: You sure Stack was dead when you left him? Smoke looks back at Sammie, and thinks on this. He approaches the door.
+E: CONT’D
+C: STACK
+D: Smoke, gone head and open up this door and let me outta here.
+E: O.S.
+C: SMOKE
+D: Stack is that really you?
+C: STACK
+D: Nah fool, it’s Jim Crow. Of course it’s me.
+C: SMOKE
+D: How... how you feelin’ man? You lost a lot of blood..?
+C: STACK
+D: Oh yeah. It was scary. But I’m okay now. I swear. On mama’s grave. Grace looks at Smoke, wildly confused.
+C: GRACE
+D: I thought you said he was dead?
+C: ANNIE
+D: He was. I checked his pulse.
+C: GRACE
+D: Then what the fuck is he doing talking to us?
+C: PEARLINE
+D: This is good right? Means he’s okay?
+C: ANNIE
+D: That ain't Stack. Annie turns to Smoke.
+C: ANNIE
+D: You hear me? That ain't your brother.
+E: CONT’D
+C: DELTA SLIM
+D: Goddamn! If it ain’t Stack then who the hell is it?
+C: STACK
+D: Smoke whats that witch out there talkin bout? You gon' let her come between us again? Huh? She don’t know shit about us, what we been through. German trenches and Chicago gangways. You tell that bitch to bite her tongue! Let me out this room Smoke! Annie and Smoke look at each other. Maybe it is, Stack? BOOM! A massive kick to the door. Annie gets an idea and runs towards the kitchen.
+C: STACK
+D: Let me the fuck out or I swear fo’ God I’ll come out there and lay all you sons of bitches down. Close ya’ll eyes for good!
+E: CONT’D
+C: BOOM! STACK
+D: Ya’ll know who the fuck I am? BOOM! Stack BARRELS through the door sending it flying to the ground with Sammie underneath it. Annie arrives holding a mason jar. Stack, holding his knife, his eyes shimmering, he charges towards Annie who throws the liquid mason jar contents on him. It sizzles on Stack’s face.
+E: CONT’D
+C: STACK
+D: Ahhh, shit! She throws more.
+E: CONT’D
+C: SMOKE
+D: Stop! You’re hurting him! Smoke grabs Annie, giving Stack enough time to the front door, swing it open, and escape into the night.
+C: SAMMIE
+D: Jesus.
+C: PEARLINE
+D: What was in that jar?
+C: ANNIE
+D: Pickled garlic. These ain't Haints. They vampires. INT. JUKE JOINT - LUMBER MILL Tears well in Grace’s eyes as she argues with the remaining group.
+E: beat
+C: GRACE
+D: Bo’s out there. We gotta go get him. The group doesn’t respond.
+C: GRACE
+D: Then let me go. I’m the one that sent him out there.
+E: CONT’D
+C: ANNIE
+D: We can’t let you do that.
+C: GRACE
+D: He needs my help. Annie looks to Smoke.
+C: SMOKE
+D: Bo know how to handle himself. He wouldn’t want me to let you go out there.
+C: GRACE
+D: Ya’ll ain't finna keep me from my husband.
+E: MORE
+C: DELTA SLIM
+D: They tryna to keep you alive. Annie thinks for a bit.
+C: ANNIE
+D: We need wood, garlic, holy water. I only heard stories about them. Never come across em in my time.
+E: beat
+C: PEARLINE
+D: What stories you heard?
+C: ANNIE
+D: I know how haints work, they switch places wit the soul of a man.
+C: SAMMIE
+D: But he moved like Stack, and sounded like Stack.
+C: ANNIE
+D: That’s cause vampires is different. Maybe the worst kind. The soul gets stuck in the body. Can’t rejoin the ancestors. Cursed to live here with all this hate. Can’t even see the sun.
+C: SMOKE
+D: Can we get him back? Maybe if I kill the one who made him like this? Annie shakes her head.
+C: ANNIE
+D: Ain't no way of bringing nobody back once they gone, that don’t involve evil. Best thang we can do for em is free they spirit from the curse.
+C: SMOKE
+D: I keep him safe all these years. All over the world. Why tonight?
+C: SAMMIE
+D: It’s cuz of me. My daddy told me. Said the Devil was coming on account of my music.
+E: MORE
+C: SAMMIE
+D: I been sinnin’ and God forsake me it’s my fault.
+E: CONT’D
+C: DELTA SLIM
+D: I had a girl who was a vampire. Light skinned too. She bit me everywhere but my neck. It almost cuts the tension.
+C: DELTA SLIM
+D: Don’t worry Preacherboy. Devil came for me plenty of times. He come knockin’ tonight he gotta go through his old friend Delta Slim first, you hear? INT. DANCE FLOOR - JUKE JOINT - LUMBER MILL - NIGHT
+E: CONT’D
+C: QUICK SUCCESSION OF SHOTS
+D: Sammie, Smoke, and Delta Slim gather wood and begin to break it down into stakes. In the kitchen area, Annie, Grace, and Pearline gather garlic. Annie throws bones. Reads them.
+C: ANNIE
+D: No no no no. She throws them again. Smoke ties some to his rifles like bayonets. Annie pulls him to the side, holding one of the stakes.
+E: to herself
+C: ANNIE
+D: I want you to promise me somethin’. Smoke looks at her.
+E: CONT’D
+C: ANNIE
+D: If I get bit by one of them, you promise right now to free me before I turn.
+E: CONT’D
+C: SMOKE
+D: What you mean free you? Annie takes Smoke’s hand in hers
+C: SAMMIE ANNIE
+D: Don’t let one of them things bite me. I got somebody I waiting for me on that other side. They waitin’ for you too. That’s why I’ll do the same for you. You understand? Annie places the stake near her heart. Smoke drops the stake to the ground, realizing what she’s insinuating. Pearline walks into the gambling room where she sees GAMBLER 2 laying dead in a pool of blood. Pearline screams.
+E: CONT’D
+C: PEARLINE
+D: Sammie, Smoke! The group descends on Pearline. Smoke looks down at Gambler 2’s body.
+C: SMOKE
+D: He got cut in the face, but that ain’t gon’ bleed like this. Smoke reaches down to check his pulse.
+C: DELTA SLIM
+D: Don’t touch him, man.
+C: GRACE
+D: Who did this? Was it Stack? Or Mary?
+C: SAMMIE
+D: Naw, they ran straight out. You saw them.
+C: GRACE
+D: So who bit him then? Annie thinks.
+C: ANNIE
+D: We gotta get him out before he wakes up. EXT. LUMBER MILL - NIGHT Sammie and Smoke drag Gambler #2’s body outside. They shift him and quickly place him on the ground. Sammie and Smoke look around, no one is around until Sammie sees-
+C: SAMMIE’S POV
+D: A JUKE PATRON walking off into the distance. Sammie watches with curiosity as the Patron joins up with a MASSIVE GROUP made up of all the former Juke Patrons. Sammie hears something in the distance.
+C: SAMMIE
+D: They’re playing music..? Smoke hears this too, and grabs Sammie, pulling him back into the Mill. EXT. LUMBER MILL - NIGHT Remmick in the center of concentric circles of vampiric Juke patrons, belts out a solo while The Juke Patrons cheer him on, Stack, Mary, Cornbread, and the others dance passionately, while Bert, Joan, and the other musicians play furiously .
+E: THE ROCKY ROAD TO DUBLIN
+C: JUKE PATRONS
+D: Well, in the merry month of May now from me home I started Left the girls of Tuam nearly broken hearted Saluted father dear, kissed me darling mother Drank a pint of beer, me grief and tears to smother Then off to reap the corn and leave where I was born Cut a stout blackthorn to banish ghosts and goblins. We reveal Remmick in the center of the semicircle conducting them, passion in his eyes. Then- the song crescendos and Remmick begins to do an increasingly elaborate Irish step. He’s overcome with emotion, it’s an experience he hasn’t had in centuries, the Juke Patrons sense this, and Stack and Mary begin to sing with more fervor, cheering him on.
+C: STACK
+D: Played some hearty jigs, the water round me bubbling When off Holyhead I wished meself was dead...
+C: MARY
+D: Played some hearty jigs, the water round me bubbling When off Holyhead I wished meself was dead. Remmick moving passionately, breaks free of the rigid upper body stance and begins to dance in the lost style, the Gaelic style, the style of the druid priests of his human time. His tears flow, and his arms swing through the night air unencumbered by the stunting shackles of the colonial gaze. INT. DANCE FLOOR - JUKE JOINT - NIGHT The remaining folks stand in a circle around Annie. We REVEAL that she is shelling a clove of garlic.
+E: MORE
+C: ANNIE
+D: We all gonna eat this clove of garlic.
+C: PEARLINE
+D: I don’t much like the taste of it.
+C: ANNIE
+D: Ain't nobody sayin you got to like it. We just gotta figure out if any of us left is one of them. Annie looks around at the people in the circle. GRACE, PEARLINE, SMOKE, SAMMIE, and DELTA SLIM. Annie eats a clove right away. Hands one to Smoke, who eats his as well. He hands a clove to Sammie, who chomps down on it and makes a face any young person would. Grace takes her clove and eats it whole.
+C: GRACE
+D: You ain't got none of the pickled ones? Annie shakes her head. Pearline takes her clove and hesitates.
+C: PEARLINE
+D: This is ridiculous. Smoke lifts his pistol. Sammie sees this and bucks up.
+C: SAMMIE
+D: Smoke. Put the gun down!
+C: SMOKE
+D: Shut up.
+E: to Sammie MORE
+C: SMOKE
+D: Eat or I shoot.
+E: CONT’D to Pearline
+C: SAMMIE
+D: Put the gun down Smoke. She ain't no damn vampire. Pearline stares daggers at Smoke.
+C: SMOKE
+D: How you know that?
+C: GRACE
+D: Just eat the damn garlic, girl.
+C: SAMMIE
+D: Put the gun down, Smoke! Sammie walks towards Smoke when WHAM! Smoke strikes him across the face. Pearline watches as the blood drips from Sammies mouth.
+C: SMOKE
+D: I’m trying to keep you alive, boy. You ain't to question me.
+C: PEARLINE
+D: You a evil man. No wonder the devil come for us. Pearline puts the garlic in her mouth, swallows it. Smoke turns to Delta Slim.
+C: DELTA SLIM
+D: You ain't gotta point no gun at me. Delta Slim eats the garlic and swallows it. Then... he begins to choke. Deep gurgling sounds. The others watch with paranoia.
+C: SMOKE
+D: Slim what’s going on man? Delta Slim vomits. Then wipes his mouth.
+C: DELTA SLIM
+D: I just drank too much. Too much beer. And my nerves is bad. He turns back to Smoke.
+C: SMOKE DELTA SLIM
+D: See? Smoke and Sammie look at each other for beat. They go back to the spot where they found Gambler #2 laying in a pool of blood. Smoke places his hand in the blood.
+E: CONT’D CONT’D
+C: SMOKE
+D: It’s wine. EXT. LUMBER MILL - NIGHT Gambler 2 knocks on the front door. GAMBLER 2 Smoke! Let me in, man! Gambler 2 beats on the door. INT. ENTRY HALLWAY - LUMBER MILL - NIGHT Smoke and Sammie run to the door, with Annie, Grace, Delta Slim, and Pearline behind them. Smoke opens the door just in time to see- EXT. LUMBER MILL - NIGHT Gambler 2 being tackled to the ground by Cornbread, who bites down on his neck.
+C: ANNIE
+D: Close the door!
+C: GRACE
+D: Wait! Grace runs to the door and we see what she sees, Bo Chow approaching.
+C: BO CHOW
+D: Hey baby. I got the car started. Come on outside lets go. Grace looks at Bo, who is a few feet from man being devoured by another man, as it were a perfectly normal occurrence.
+E: MORE
+C: BO CHOW
+D: What is it, Grace?
+E: CONT’D
+C: GRACE
+D: He’s killing him. Bo turns to Cornbread, still drinking from Gambler 2’s neck, Gambler 2 still clinging to life.
+C: BO CHOW
+D: Oh you talking bout that? Oh don’t worry bout Cornbread. He just a lil hungry, that’s all... Come on, come on and go, I got the car all warmed up. Bo’s smile materializes.
+E: beat
+C: BO CHOW
+D: Or you can let me come in there. I’ll come in there and we can grab our things and head home. Grace looks at Bo Chow with terror.
+E: CONT’D
+C: ANNIE
+D: Don’t listen to him.
+C: SMOKE
+D: Grace we gon find a way out of here. Suddenly Remmick appears.
+C: REMMICK
+D: I am your way out. This world has already left you for dead. Won’t let you build. Won’t let you fellowship. We will do just that, together, forever.
+C: BO CHOW
+D: It’s better this way, baby. Go’on ahead and invite us in. Grace covers her ears.
+C: REMMICK
+D: You should listen to him. Or listen to me Grace. Cause I know everything he knows now. And I want you to let us in there.
+E: MORE
+C: REMMICK
+D: Or we gon' go to the grocery store and pay little Lisa a visit. Grace is horrified as Stack and Mary appear from the shadows.
+E: CONT’D
+C: REMMICK
+D: Oh yes Grace. I know everything now. He smiles.
+E: CONT’D
+C: REMMICK
+D: Even how you like to be licked. I can promise I won’t bite too hard. Grace is mortified. Remmick turns his attention to Sammie.
+E: SUBTITLE CONT’D
+C: PEARLINE
+D: This can’t be real...
+C: SAMMIE
+D: You the Devil ain’t you? Remmick smiles and stares at Sammie.
+C: REMMICK
+D: Ya’ll give him to me. Just give me little Sammie, and we’ll let you all live.
+C: DELTA SLIM
+D: Haven’t you taken enough tonight? You took them all from us. You can’t have him too.
+C: SMOKE
+D: I ain’t gon let it happen. Smoke steps in front of Sammie, blocking him from Remmick’s gaze. Pearline holds Sammie’s hand.
+C: REMMICK
+D: You can’t save him. No more than you could save yo brother. He ain’t safe here. No matter how many guns or how much money. They gone take it from you when they want. You built something here tonight. And it’s beautiful. But it was built on a lie. Hogwood, that’s his uncle.
+C: REMMICK
+D: Remmick points to Bert. Who nods.
+E: CONT’D
+C: REMMICK
+D: He only sold it to you cause we promised to rob and kill you all tonight.
+E: CONT’D
+C: BERT
+D: And do it all over again.
+C: STACK
+D: He right Smoke. I see his memories. This wasn’t no Juke Joint, wasn’t no Club. It was a slaughterhouse.
+C: BERT
+D: Goddamn killing floor.
+C: JOAN
+D: But he don’t know we building’ us a new clan. Based on love.
+C: REMMICK
+D: That’s right. Now that we got the numbers, we gon show that racist piece of shit the light too. This settles on Smoke. Stack notices.
+C: ANNIE
+D: Why can’t ya’ll just go?
+C: MARY
+D: Cause we not leaving without ya’ll. We family. It sound crazy but after we kill ya’ll, we gon have heaven right here on earth.
+C: STACK
+D: We been running everywhere looking for freedom. You know you’ll never find it. Not in Mississippi, New York. Not in France or Chicago.
+C: REMMICK
+D: Not in the arms of that witch there. Smoke takes aim at Remmick. Stack steps in front of him. Smoke puts the gun down.
+C: SLIM
+D: Stack this ain’t you man.
+C: STACK
+D: We wasn’t never gon be free. Until this. This is the way. I can see it, Smoke. This the only way we live our dream out... together forever. I’m not doing this without you. Stack steps forward to his brother.
+C: STACK
+D: What’s it gon' be Smoke?
+E: CONT’D
+C: ANNIE
+D: Sammie, close the door! Smoke stares at his brother who approaches him smiling. Sammie closes the door. INT. DANCE FLOOR - LUMBER MILL - NIGHT The remaining survivors gather up their tools. Grace is in shock.
+C: GRACE
+D: He said he was going to go to our daughter.
+C: ANNIE
+D: You can’t believe him. He was just tryin’ to get you to let him in.
+C: GRACE
+D: He ain’t threaten your children.
+C: PEARLINE
+D: We just gotta get through the night.
+C: GRACE
+D: And what, let them kill my family? Kill the whole town? Turn everybody to monsters? That White Devil spoke Cantonese. He got in Bo’s mind. We gotta stop em, Smoke. We gotta try to get em before they get away.
+E: beat
+C: SMOKE
+D: Grace slow down.
+C: GRACE
+D: What? Ain’t you a soldier. You just shot two men for touching your truck. They made Stack one of them. My Bo. Said they was gonna kill Lisa. If now ain't go time, I don’t know what is. Grace gathers materials for a Molotov Cocktail.
+C: GRACE
+D: We supposed to wait out the night while they take more of our loved ones? Make em demons?
+E: CONT’D
+C: DELTA SLIM
+D: Don’t seem like they leaving.
+C: GRACE
+D: Shut your drunk ass up Slim!
+C: DELTA SLIM
+D: I ain’t drunk!
+C: ANNIE GRACE!
+D: Pearline hears something in the distance.
+C: PEARLINE
+D: Ya’ll hear that?
+C: SAMMIE
+D: It’s the song they was singin’. EXT. LUMBER MILL - NIGHT Remmick leads the others, Joan, Bert, Bo Chow, Cornbread, Gambler 2, Stack, and Mary in singing Pick Poor Robin Clean, as they surround the mill. The music is haunting, but Remmick’s voice is beautiful. Bo Chow circles around to a window visible to Grace and sings to her while making eye contact. INT. DANCE FLOOR - JUKE JOINT - NIGHT Grace puts her hands to her ears. She picks up a makeshift STAKE and walks over to the window.
+C: ANNIE
+D: No! Smoke and Sammie grab her, Smoke covering her mouth just as.
+C: GRACE
+D: Let go of me, goddamn it! We gotta kill all of em. She bites Smoke’s hand. Delta Slim runs over to try to help.
+C: SMOKE
+D: Ahh shit!
+C: GRACE
+D: Ya’ll co- Annie and Pearline pile on top of her, blocking her mouth for a beat, but she breaks free.
+C: GRACE
+D: Ya’ll come on in you motherfuckers! EXT. LUMBER MILL - NIGHT Remmick smiles. INT. DANCE FLOOR - JUKE JOINT The BARN DOORS open and the VAMPIRES enter shortly after.
+E: CONT’D
+C: SMOKE
+D: Get upstairs! Smoke opens fire at Remmick who dodges as Bert springs forward. Smoke shoots Bert who goes down. Annie stabs him with the stake. GRACE throws a MOLOTOV COCKTAIL at Remmick, who knocks it aside and causes it to ignite. Bo Chow steps through the fire and charges Grace, biting her as she pushes him into the blaze. They both ignite. Annie throws the holy water mixture at Remmick and it backs him up. Annie notices the other vampires back up in similar fashion. Mimicking Remmick’s recoil.
+C: ANNIE
+D: They feel his pain! Stack steps in behind him. Remmick grabs Smoke and holds him down, while Stack bites Annie. Smoke erupts in a rage. As Sammie shoots his rifle at Remmick, knocking him back off of Smoke. The other vampires recoil at Remmick’s gunshot and Remmick runs out of the barn doors. Stack lets go of Annie who collapses at Smoke’s feet. Her neck bleeding profusely.
+C: ANNIE
+D: Now! Elijah you promised! Don’t let this be the end! She grabs the stake and takes aim.
+E: CONT’D
+C: ANNIE
+D: If you love me you’ll- BOOM! Smoke drives the stake into the chest of the love of his life. Annie dies instantly, her eyes staring into Smoke’s who screams in rage. Stack and Mary see this and scream in rage. Stack turns to Mary.
+E: CONT’D
+C: STACK
+D: Run! Mary sees this and runs out of the barn doors. Slim grabs Smoke. Slim breaks a bottle and cuts his Wrist open with a broken shard.
+C: DELTA SLIM
+D: Ya’ll get the boy upstairs, and sneak him out back! I’ll keep em here. Remember what I say Preacherboy! Sammie grabs his guitar as they push towards the stairs.
+E: beat
+C: DELTA SLIM
+D: I don’t need no holy water. I rather sip on something else instead. Slim, holding up his bleeding wound, distracts the vampires but holds them at bay with his spear. He goes to the stage and stomps his feet and sings, as the vampires pour into the room, they are distracted by this brazen display.
+E: CONT’D
+C: DELTA SLIM
+D: Come on ya’ll gather round. Last call for Delta Slim. Even Remmick looks at him. Smoke, Sammie, and Pearline look at Slim with gratitude and head up the stairs.
+E: CONT’D
+C: DELTA SLIM
+D: Plenty mo drank left in me. A hundred proof. I don’t need I don’t need I don’t need no holy water. I rather sip on something else instead. The Juke vampires descend on Delta Slim in this final act of sacrifice, he does a stage dive into them. Going out fighting. As the vampires swarm, Pearline pushes Smoke and Sammie towards the staircase up into the-
+E: CONT’D beat
+C: PEARLINE
+D: Come on! INT. CATWALK - UPPER LEVEL - NIGHT Smoke, Sammie, and Pearline file up into the dark rafters. Smoke points his rifle towards the stairs. Smoke opens the balcony door for Sammie.
+C: SMOKE
+D: Ya’ll jump down. Remmick lands on the balcony, blocking their way. He quickly attacks Sammie, knocking Pearline to the ground. Stack charges up the stairs and tackles Smoke to the ground. Sammie holds his guitar, blocking Remmick from his neck. Pearline stabs her stake into Remmick’s back. He winces in pain but turns before it can reach his heart. He turns to Pearline and bites down on her neck.
+C: PEARLINE SAMMIE, RUN!
+D: Sammie shoots, the muzzle flare lighting the room. Revealing Remmick, holding Pearline, slurping her blood.
+C: SAMMIE NO! REMMICK
+D: Come here Sammie. Save her! Sammie charges but Stack jumps out, tackling him. Smoke goes for Stack, talking him off of Sammie.
+C: SMOKE
+D: Go! Sammie jumps out of the window. EXT. LUMBER MILL - RIVERSIDE - NIGHT Sammie lands hard in the grassy dirt. Limps up, and hobbles towards the river. INT. CATWALK - UPPER LEVEL - NIGHT Smoke and Stack go at each other. Stack gripping the makeshift stake, his life hanging in the balance. Pearline awakens and attacks Smoke as well.
+C: STACK
+D: Come on! The two exchange blows, Stack is stronger, faster, he lands a punch on Smoke that knocks him to the exposed earth of the catwalk beam. Pearline pounces and Smoke throws her off the balcony. Stack then mounts Smoke.
+C: STACK
+D: Just listen too me fool! This ain't like my other plans. I got proof. I can see it! This gone take your pain away. Stack prepares to bite Smoke but his fangs stop as they get to his Mojo bag. Annie’s spell protected him!
+E: CONT’D
+C: SMOKE
+D: Only reason I’m still here was for you and her. Smoke turns the tables lowering the stake tip towards Stack’s chest. Stack’s expression changes to one we haven’t seen before. Like a kid who just lost a fight to his older brother.
+C: STACK
+D: Big brother. You killed our own daddy, just to save me. And now you gon’ kill me too? Smoke looks into his eyes with a shameful expression, he cradles his face. EXT. RIVER - NIGHT Sammie runs like a storm wind. Hurdling through the blackness, his steps chewing up dirt, then mud, then water. His stake in one hand and his guitar in his other. Behind him in silhouette against the sky, we see Remmick float into the air in pursuit. CRASH! Remmick lands in front of Sammie.
+C: REMMICK
+D: This has taken long enough. Sammie jabs his stake at Remmick, who rips it out of his hands. And strikes him across his face with his claws. Sammie falls into the water. His blood blooms into the river waters. He stays under, mouthing words. Remmick licks the blood from his nails- sweet nectar then grabs Sammie by his throat, pulling him out of the water with inhuman strength.
+C: REMMICK
+D: Oh you little vessel... Sammie spits up water.
+E: CONT’D beat
+C: REMMICK
+D: I want your stories. I want your songs. And you will have mine.
+E: CONT’D
+C: SAMMIE
+D: Thy Kingdom come, Thy will be done on earth as it is in Heaven. Give us this day... Remmick listens to this, as if remembering something and decides to join in.
+C: SAMMIE
+D: Our daily bread. And forgive us out trespasses, as we forgive those who trespass against us. And lead us not into temptation, but deliver us from evil. Amen.
+E: CONT’D
+C: REMMICK
+D: Our daily bread. And forgive us out trespasses, as we forgive those who trespass against us. And lead us not into temptation, but deliver us from evil. Amen.
+C: REMMICK
+D: Long ago, the men who stole my fathers’ land forced these words upon us. I hated those men. But the words still brought me comfort. The other vampires, former patrons from the mill start to creep down the riverbank. They watch as a parish might observe a riverside baptism. Remmick strokes Sammie’s face.
+E: CONT’D
+C: REMMICK
+D: Lies can be warm. Lies can be comforting. Remmick suddenly slams Sammie into the water, baptizing him.
+E: CONT’D
+C: REMMICK
+D: The truth can be like cold water to the face. Those men lied to themselves. Then lied to us. Told stories of a God above and a devil below. He dunks Sammie again. The Patrons surround the two, watching closely, rapt by Remmick’s words.
+E: CONT’D
+C: REMMICK
+D: And lies of a dominion of man over beast and earth. Hierarchy of man, woman, and groups of kin. Slams him again into the water. Sammie gasps for air. Remmick pulls him close.
+E: CONT’D
+C: REMMICK
+D: You will taste the sweet pain of death. And you will awaken to the truth. We are earth, and beast, and God. We are woman and man. We are connected, you and I, to everything. Not me above and you below but one. And we will make beautiful music together. Remmick bares his teeth to bite Sammie when BLAM, Sammie swings his guitar into Remmick’s face, the wood shattering around him, but the metal face cutting into Remmick’s face! It’s silver, not white gold. And it surprises Remmick with the damage it causes him. He pulls the resonator out, and smoke and blood flows from the gash. The other vampires on the riverbank grab their heads and moan in agony. Remmick tosses the resonator into the river, and moves towards Sammie.
+E: CONT’D
+C: REMMICK
+D: Sammie... He grabs him by his face and prepares to bite him when... SCHOOCT- A STAKE TIP bursts through Remmick’s chest. He gasps... then falls to his knees revealing a battle ravaged Smoke behind him. The other Vampires react and wail in pain, as if they have been stabbed. Clutching their chests and writhing in pain. Smoke sloshes over and checks Sammie’s neck frantically.
+E: CONT’D
+C: SMOKE
+D: Did they get you? You okay? I’m gon get you home. The sun breaks further and crests the horizon and the other vampires begin to howl in agony and crawl their way towards the juke. Their bodies sizzling. They fall to the ground and burst into flames. Remmick’s body begins to sizzle and smoke. As he burns he transforms into an older more decayed version of himself. He then turns to the sun, smiles and EXPLODES into a
+C: PILLAR OF FIRE.
+D: The pillar swirls into a vortex, and then dissipates... silence. EXT. LUMBER MILL - DAY Smoke limps over to the truck. Sammie follows behind him holding the tattered guitar neck. Smoke removes a large box from the trunk and tosses Sammie the car key.
+C: SMOKE
+D: Go home. And bury that somewhere.
+C: SAMMIE
+D: I can’t. It’s Charlie Patton’s.
+C: SMOKE
+D: What? Who told you that?
+C: SAMMIE
+D: Stack. Said ya’ll won it off him in a bet. Smoke shakes his head.
+C: SMOKE
+D: That lyin’ son of a bitch. That’s our daddy’s guitar. Sammie thinks on this and looks down at it.
+C: SAMMIE
+D: Ya’ll daddy was a musician? Smoke looks back at the mill for a beat. Then back to Sammie.
+C: SMOKE
+D: Go home. Sammie stares at Smoke for beat, then climbs into the car and pulls off. Smoke watches him ride off into the distance.
+C: MOMENTS LATER
+D: Smoke lumbers to the entrance of the mill, carrying the tool box. He reaches into his pocket and pulls out Stack’s dog tag and his tobacco and papers. He tries to roll himself a cigarette, but his hands shake too much and he drops it. His eyes well, but he pushes it down before they spill- a final deposit to a well he thought he shut many years ago. Smoke pulls his knife and with one hand, and pulls the leather necklace holding his mojo bag with his other, cuts the necklace and allows the bag to fall to the ground. He opens the tool box, revealing a war chest. Parts for a BROWNING and a THOMPSON SUBMACHINE GUN, as well as two
+C: HAND GRENADES.
+D: Smoke assembles the weapons. EXT. LUMBER MILL - DAY Three cars drive down the road towards the mill, in formation. They park and 15 passengers exit, HOGWOOD first among them. Some are armed, but most hold cleaning supplies.
+C: HOGWOOD
+D: Club Juke, huh? Grand opening, grand closing. Alright boys, open it up- BOOM! PFFT! Hogwood falls to the ground, hit by bullet fired by an unseen assailant. One of HOGWOOD’S HENCHMEN turns to open fire but is cut down as well. We reveal the source of the volley - Smoke, dick in the dirt behind the Browning, firing it until empty. SIX OF HOGWOOD’S HENCHMEN try to load into the TRUCK. Smoke moves to the Thompson, picks it up, and walks them down firing. The Driver tries to start the truck up while another Henchman shoots at Smoke. Smoke takes a SHOT to the belly. Falls to a knee. He watches as the truck starts up, cold fire in his eyes. He stands, grabs a GRENADE from his pocket. Pulls the pin. Hurls it sidearm towards the truck, and takes cover...
+C: BOOM!
+D: The truck EXPLODES. Smoke turns back towards Hogwood, who is still breathing, holding his wound. Smoke limps over to him and looks down.
+C: SMOKE
+D: You got a cigarette?
+C: HOGWOOD
+D: Go to hell Nigger! Smoke stares at him for a long, unblinking beat.
+C: HOGWOOD
+D: Left pocket. Smoke bends down and pulls a pack of cigarettes from Hogwood’s left pocket.
+E: CONT’D
+C: SMOKE
+D: Matches? Hogwood motions to his chest pocket with his chin. Smoke lights a cigarette, takes a drag and shakes the match out. He drops to his ass out of exhaustion. Sits the Tommy Gun down. He takes a deep breath, maybe the first time he’s relaxed since we’ve seen him. He hears something... a baby cooing? He turns to his left and next to him is ANNIE, wearing white, nursing an INFANT. Smoke smiles as the baby finishes.
+C: ANNIE
+D: You put out that cig and you can hold her. I don’t want that smoke on her. Smoke nods and puts it out when.
+C: HOGWOOD
+D: Hey... Smoke turns to Hogwood.
+E: O.S.
+C: HOGWOOD
+D: I have money... Smoke, exasperated at his audacity. He reaches for the Thompson, aims it, and pulls the trigger with the last of his strength. Then reaches for his daughter. EXT. CHURCH HOUSE - DAY Sammie parks the car and exits, still in a daze. The blood on his clothes dried to a maroon crust. He walks to the church door, opens it, and- INT. CHURCH HOUSE - DAY Sammie enters to find everyone in their Sunday Best, mostly cotton, bleached white fabrics. His father Jedidiah wearing black.
+E: CONT’D
+C: CHILDREN’S CHOIR
+D: This little light of mine, I’m gonna let it shine, this little light of mine, I’m gonna let it shine... Jedidiah makes eye contact with Sammie: his look holding shock, shame, and pride in equal parts. The children keep singing, but murmurs of confusion from the congregation poke through the spiritual.
+C: JEDIDIAH
+D: Come son. He extends his arm from beyond the pulpit. Sammie sees this gesture and begins to cry.
+C: JEDIDIAH
+D: My son has felt the call of sin. You see what it gets you? But the Lord calls upon us to be fishers of men who sin and show them the way. Sammie walks into the open arms of his father and begins to break down, clinging to his father.
+E: CONT’D
+C: JEDIDIAH
+D: I want you to swear to me, and swear before this congregation, to leave those sinning ways where they lie. Samuel nods.
+E: CONT’D
+C: JEDIDIAH
+D: I want you make the promise right now. Jedidiah turns Sammie to the crowd.
+E: CONT’D
+C: JEDIDIAH
+D: Sing Samuel, but sing not for the Devil. Sing for the Lord. Jedidiah turns Samuel to the congregation.
+E: CONT’D
+C: SAMUEL
+D: Steal away... steal away steal away to Jesus.
+C: JEDIDIAH
+D: My prodigal son has returned.
+C: SAMUEL
+D: Steal away... steal away steal away to Jesus. We go tight on Sammie’s eyes still swollen with tears as he belts out his tune- Jedidiah turns to Sammie, seeing the guitar neck still in his hand.
+C: JEDIDIAH
+D: Drop the guitar Samuel. In the name of God! Sammie hears his father, but struggles. Tears well in his eyes.
+C: JEDIDIAH
+D: Swear to never again answer the devils call. I know some of ya’ll out there hear him talking, the call of whisky, the call of slick talking mens, and loose womens, you can let them call and not answer! YOU CAN TELL THEM MY EARS, MY HEART, MY BODY, MY SOUL, MY VOICE, BELONGETH TO THE LORD. Sammie winces, and we cut to- EXT. MISSISSIPPI STREET - DAY Sammie drives Stack’s car down the road. The weight of all of the loss hits him. He presses the guitar neck to his heart as he steers. HARD CUT TO:
+E: CONT’D
+C: EPILOGUE
+D: CHYRON- CHICAGO, IL, 1992 INT. PEARLINE’S BLUES BAR - NIGHT SAMMIE shreds a Blues riff on an electric guitar. His face still scared from Remmick’s claws, but his suit and custom guitar signal a long journey from that plantation. The CROWD, diverse, but mostly white, soaks up every second of it. Sammie has the same electricity from his youth, but with the added knowledge that this could be his last rodeo, the crowd savors every note.
+E: now 80 y.o
+C: MOMENTS LATER
+D: The Bar is closing up, and the last patrons exit, still buzzing from the show. Sammie sits his guitar case next to a seat and sits down at the end of the bar.
+C: BARTENDER
+D: Usual?
+C: SAMMIE
+D: Make it a double. Bartender obliges. Sammie sips slow, and winces. Just within earshot we can hear the BOUNCER speaking with someone outside.
+C: BOUNCER
+D: We just closed up but I’ll see what I can do. Wait here. The Bouncer enters.
+E: O.S.
+C: BOUNCER
+D: Hey Boss I got two out here. I told em we’re closed but they offered a couple hundred bucks.
+E: CONT’D
+C: SAMMIE
+D: Don’t bother me none. The Bouncer nods to Sammie and exits.
+C: BOUNCER
+D: You guys are all good.
+E: O.S. MORE
+C: FAMILIAR VOICE
+D: Thank ya. Sammie’s cup stops mid journey to his lips. He waits, listens, and we see the late night patrons enter. It’s STACK, and MARY dressed in early 90s style. Cartier sunglasses on Stack’s eyes, door knocker earnings on Mary, a cherry tootsie pop in her mouth. She takes a seat across from the Bartender. Stack sits next to Sammie.
+C: STACK
+D: I’ll have whatever the old man is having.
+C: BARTENDER
+D: Careful. I don’t want to have to be carrying you out of here. Stack chuckles at this while the bartender pours. The Bartender then shoots Mary a thirsty look and pours her a drink she didn’t ask for.
+C: BARTENDER
+D: Ya’ll together? Mary looks at Stack and back to the Bartender.
+E: CONT’D whispers
+C: MARY
+D: All depends... The Bartender smiles.
+C: MARY
+D: What’s your blood type? The Bartender recoils at the question. Backs up and starts cleaning glasses. Mary stares him down and flings spit from her tootsie pop onto the bar before returning it to her mouth. Sammie looks at Stack.
+E: CONT’D
+C: SAMMIE
+D: How?
+C: STACK
+D: I guess I was the one person he couldn’t kill.
+E: MORE
+C: STACK
+D: He made me promise to stay away from you... let you live out your life. Sammie almost smiles at this.
+E: CONT’D
+C: STACK
+D: And I see you didn’t listen to him or yo Daddy either huh?
+E: CONT’D
+C: SAMMIE
+D: I tried. Blues just in me I guess. Stack removes his sunglasses. He leans towards Sammie. Sniffs the air like a bloodhound... or a grey wolf. We see in the mirror behind the bar, Stack has no reflection.
+C: STACK
+D: Won’t be long for you, huh?
+C: SAMMIE
+D: Sorosis. Few more months. Figure I’ll spend em tourin’.
+C: STACK
+D: And drinking? Fighting fire with fire. Sammie nods at this. Laughs.
+C: STACK
+D: I can make it so you can stick around. Would you like that? Keep tourin', keep livin’. No pain? Sammie looks at Stack for a long beat.
+E: CONT’D
+C: SAMMIE
+D: Nah, I reckon I seen enough of this place. I’d like to know what comes next.
+C: STACK
+D: What if it’s just a whole lot of nuthin.
+C: SAMMIE
+D: Fine by me. It’ll be a nice change of pace.
+C: STACK STACK
+D: I got every one of them records you made. Sammie smiles at this.
+E: CONT’D
+C: STACK
+D: But I don’t like this electric shit as much as the real. I miss the real. The recordings from back then is dog shit. You still got the real in you? Sammie gets up and opens his guitar case. It’s an old Steel Acoustic in there. He slips on his slide. And he plays in the old way, the Delta way. Stack closes his eyes and sways to it, Mary nestles in under his arm swaying the same way. Sammie finishes. Stack opens his eyes. Pulls out his money and drops two $100 on the bar, revealing a GOLD FOUR FINGER RING that spells out “SMOKE”. Stack stands up, puts his glasses back on and heads towards the door. Mary stands and takes a beat.
+E: CONT’D TRAVELIN’
+C: MARY
+D: Take care little Sammie. She turns and catches up with Stack.
+C: SAMMIE
+D: You know something? Stack and Mary stop and turn back.
+C: SAMMIE
+D: I have nightmares about that night, maybe once a week I wake paralyzed. Re- living it. But before the sun went down, I think it was the best day of my life. Was it like that for you? Stack smiles takes his glasses off again.
+E: CONT’D beat
+C: STACK
+D: No doubt about it. Last time I seen my brother... last time I seen the sun. And for a few hours, we was free. Stack slips his glasses back on and he and Mary head out. Sammie watches as they go, and smiles at the thought.
+T: FADE OUT.

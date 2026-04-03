@@ -13,3 +13,22 @@ __pycache__/
 .env
 huggingfacehub_cache/
 .hf_cache/
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# macOS
+.DS_Store
+
+# Script corpus — large raw/processed data, not tracked in git
+Movie-Script-Database/scripts/parsed/tagged/
+Movie-Script-Database/scripts/parsed/dialogue/
+Movie-Script-Database/scripts/filtered/
+Movie-Script-Database/scripts/temp/
+Movie-Script-Database/scripts/unprocessed/
+Movie-Script-Database/scripts/get_scripts.log
+
+# Generated outputs — figures and arcs are derived data
+outputs/arcs/
+outputs/figures/
+outputs/mplcache/

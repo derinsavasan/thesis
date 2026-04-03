@@ -1,0 +1,4440 @@
+M: BOYHOOD
+M: Written by Richard Linklater
+M: Boyhood Inc.
+M: 1901 E. 51st Street
+M: Austin, TX 78723
+M: 512.322.0031
+S: EXT. OUTSIDE SCHOOL - DAY
+N: MASON waits outside his elementary school, laying in the grass staring up at the clouds. In the distance, the school door opens and Mason's MOM, Olivia, walks toward him.
+C: MOM
+D: Hey, love bug. You ready? He is quickly on his feet and they are walking toward the car.
+C: MASON
+D: Yeah. Hey, guess what, Mom?
+C: MOM
+D: What?
+C: MASON
+D: I figured out where wasps come from.
+C: MOM
+D: Oh, yeah? Where?
+C: MASON
+D: Well, I think it must be if you flick a rock into the air just right, it'll turn into a wasp.
+C: MOM
+D: Dang...
+C: MASON
+D: Yep.
+C: MOM
+D: That's cool. INT. CAR - DAY Driving...
+C: MOM
+D: So how was your day at school?
+C: MASON
+D: Fine.
+C: MOM
+D: Hey, I had a good meeting with Miss Butler this time. I kinda liked her.
+C: MASON
+D: What did she say?
+C: MOM
+D: Well... she said that you weren't turning in your homework assignments. And I told her, "I know he does them, 'cause I check them every night." She said she found a big chunk of them crumpled up at the bottom of your backpack.
+C: MASON
+D: She didn't ask for 'em.
+C: MOM
+D: Well, baby, she doesn't have to. You're supposed to turn them in. And she said you're still staring out the window all day.
+C: MASON
+D: Not all day.
+C: MOM
+D: And she said that you destroyed her pencil sharpener.
+C: MASON
+D: Not on purpose.
+C: MOM
+D: Wait, she said that you crammed a bunch of rocks in it.
+C: MASON
+D: I thought if it could sharpen pencils, maybe we could sharpen rocks.
+C: MOM
+D: Well, what were you gonna do with a bunch of sharpened rocks?
+E: stifling laugh
+C: MASON
+D: I was trying to make arrowheads for my rock collection.
+C: MOM
+D: Hm. She glances back at him, with an understanding sigh. EXT. HOUSE/DITCH - DAY Mason rides his bike across the front yard and heads down the street. Soon he and his friend TOMMY are riding down the embankment of a large drainage ditch. EXT. DITCH - DAY Mason runs up, as Tommy is spray-painting a drawing on the concrete wall of the drainage ditch.
+C: MASON
+D: Dude, when's my turn?
+C: TOMMY
+D: I don't know. Tommy hands Mason the can of spray paint. Mason begins to spray-paint a letter on the wall.
+C: SAMANTHA
+D: ...Maaason.
+E: O.S. calling out
+C: TOMMY
+D: Samantha!
+C: SAMANTHA
+D: Oh! Tommy! Is Mason down there?
+C: TOMMY
+D: Yeah.
+C: SAMANTHA
+D: Well, tell him he has to come home for dinner.
+C: TOMMY
+D: Okay. INT. LIVING ROOM - NIGHT Mason lays on the floor watching a cartoon. There's a knock at the door, and Mom comes out to answer it. It's TED.
+E: O.S.
+C: MOM
+D: Hey.
+C: TED
+D: Hey, sweetie. Why aren't you ready? Hey, Mason.
+C: MASON
+D: Hey, Ted.
+C: TED
+D: Come on, come on, hurry up. Let's go.
+C: MOM
+D: What time is it?
+C: TED
+D: It's nine. Let's go, let's go.
+C: MOM
+D: Okay, I meant to call you, 'cause Janice flaked out. I don't have a sitter.
+C: TED
+D: Why didn't you call somebody else?
+C: MOM
+D: Well, I can't get a baby-sitter now, it's nine o'clock. But you're welcome to hang out with us.
+C: TED
+D: Well, no. I mean we have plans. The guys are expecting me.
+C: MOM
+D: Well... you can go.
+C: TED
+D: All right. Yeah, well, I'll come back in a couple of hours. Is that okay?
+E: O.S.
+C: MOM
+D: Yeah. Yes.
+C: TED
+D: All right.
+C: MOM
+D: It's okay. INT. BEDROOM - NIGHT The kids lie on either side of Mom, as she reads a story aloud to them.
+C: MOM
+D: "Turn back! Turn back! I don't wanna talk to Moaning Myrtle." "Who?" said Harry as they backtracked quickly. "She haunts one of the toilets in the girls bathroom on the first floor," said Hermione. "She haunts a toilet?"
+E: Reading MORE
+C: MOM
+D: "Yes, it's been out of order all year because she keeps having tantrums and flooding the place." "I never went in there anyway if I could avoid it. It's awful trying to have a pee with her wailing at you." INT. BEDROOM - LATER Mason lies awake in bed listening to his mother argue with Ted.
+E: CONT'D
+C: TED
+D: Why can't you just say that?
+E: O.S.
+C: MOM
+D: I'm sorry. I don't want to go with you.
+E: O.S.
+C: TED
+D: You're sorry, that's bullshit!
+E: O.S.
+C: MOM
+D: That's right, I wanna stay here with my kids. That's what I'd rather do.
+E: O.S.
+C: TED
+D: All right. Would you stop using your kids as an excuse?!
+E: O.S.
+C: MOM
+D: I'm not using my kids as an excuse! You don't even know--
+E: O.S.
+C: TED
+D: I know you have to stay here with your kids! You're acting--
+E: O.S.
+C: MOM
+D: You have this immature life--
+E: O.S.
+C: TED
+D: And why do I always-- Why--
+E: O.S.
+C: MOM
+D: You have no responsibility.
+E: O.S.
+C: TED
+D: I have an immature life! I have an immature life?
+E: O.S.
+C: MOM
+D: And I have responsibilities, okay, you don't know what it's like to be a parent.
+E: O.S.
+C: TED
+D: No, I don't! And why am I responsible for your mistakes in life?
+E: O.S.
+C: MOM
+D: If you had any idea. You don't think I wouldn't-- INT. LIVING ROOM - NIGHT Mason peeks around the corner to watch as the argument continues.
+E: O.S.
+C: MOM
+D: Don't call my kids mistakes! Don't!
+C: TED
+D: I'm not responsible for your life choic-- I didn't call your kids--
+C: MOM
+D: You said, "Your respons-- your mistakes in your life," pointing at my kids.
+C: TED
+D: I know what I said, you know what, and immediately you use your kids again. Mason peeks through the doorway.
+C: MOM
+D: This is the reality: I'm a parent!
+E: O.S.
+C: TED
+D: That's, that's hysterical.
+E: O.S.
+C: MOM
+D: That means responsibility.
+E: O.S.
+C: TED
+D: I know you're a parent.
+E: O.S.
+C: MOM
+D: I would love to have some time to myself! I would love to just go to a fuckin' movie! You don't think I'd like that?
+E: O.S. MORE
+C: MOM
+D: Go have some dinner, go to a bar! I don't even know what that's like. I was someone's daughter, then I was somebody's fucking mother! Okay, I don't know what that's like. INT. KID'S BEDROOM - EARLY MORNING Mason is comfortably asleep. Samantha slowly pulls the pillow out from underneath his head and smacks him with it.
+E: O.S. CONT'D
+C: SAMANTHA
+D: "Oops, I did it again... I played with your heart. Got lost in the game. Oh baby, baby..." Mason throws a stuffed animal at her that she deflects.
+E: singing
+C: SAMANTHA
+D: "Oops, you think I'm in love. I'm sent from above. I'm not that innocent." Another stuffed animal. She continues to sing.
+E: CONT'D
+C: MASON
+D: Stop! Quit it!
+E: O.S.
+C: SAMANTHA
+D: "You see my problem is this. I'm dreaming away. Wishing that heroes truly exist. I cry watching the day. Can't you see I'm a fool in so many ways..."
+C: MASON
+D: Quit! Mom!
+C: SAMANTHA
+D: "But to lose all my senses-- that is..." He tries to drown out this last bit with a sustained scream. Soon the door flies open and Mom enters, angry.
+C: MOM
+D: What the hell is going on in here?! Samantha has instantaneously shifted from singing to crying.
+C: MOM
+D: Do you guys know what time it is?
+E: O.S. CONT'D
+C: SAMANTHA
+D: He's throwing things at me...
+E: through tears/sobs
+C: MOM
+D: Mason! Do not throw things at your sister!
+C: MASON
+D: She's faking, she hit me first!!
+C: MOM
+D: Listen, both of you! I am going back to bed. I don't wanna hear another peep out of here for an hour. Go to sleep. Mom slams the door behind her. Samantha is suddenly fine, almost cheerful.
+C: MASON
+D: Faker!
+E: to Samantha
+C: MOM
+D: Hey! EXT. HOUSE - DAY Mason swings on a large outdoor swing, while Tommy sits thumbing through a catalog. Immediately after, we see Mason and Tommy looking through the lingerie section of the catalog together.
+E: O.S.
+C: MASON
+D: Ohh!
+E: laughs
+C: TOMMY
+D: Look what I found in the street!
+E: pointing, giggling
+C: MASON
+D: Dude!
+C: TOMMY
+D: I know, right? Look at those.
+E: turns page
+C: MASON
+D: Hm, look at those!
+C: BOYS
+D: Ohh!! EXT. BACKYARD - DAY Moments later we see Mason having an introspective moment as he gazes upon a deceased bird's carcass in the dirt. INT. KITCHEN - DAY Mom, Samantha, and Mason eat lunch.
+E: giggling
+C: MOM
+D: So listen, guys, I wanna talk to you about something, and you might not like this idea at first but... we're moving to Houston.
+C: MASON
+D: When?
+C: MOM
+D: Well, soon. We should be out by the first, so we don't have to pay two rents next month.
+C: SAMANTHA
+D: No, Mother, we're not moving. Nope, nope, sorry Mom. Nope. Nope. Smack, smack, smack...
+C: MOM
+D: Samantha, I have to go back to college so I can make us a better living. Smack.
+C: MOM
+D: With this job I can't take care of us the way I'd like to. I can't keep going this way. And Grandma said she'd help us out... and it would be nice to be near her.
+E: O.S. CONT'D
+C: SAMANTHA
+D: Fine, Mother. You can do whatever you want but We're not moving. Mason moves his fork around in his bowl.
+E: shrugs Smacks
+C: MASON
+D: What about our friends?
+C: MOM
+D: Oh, baby, we can e-mail them or write. We can come back to visit. And guess what? She reaches out to touch Samantha's arm.
+C: MOM
+D: This place that Grandma found us, you'll each have your own room. Right? Samantha shrugs.
+E: CONT'D
+C: MOM
+D: And there's a pool. Samantha shrugs again, clearly not sold on the idea. INT. BEDROOM - NIGHT Mason and Mom are lying on his bed together.
+E: CONT'D
+C: MASON
+D: Mom, do you still love Dad?
+C: MOM
+D: I still love your father... but that doesn't mean it was healthy for us to stay together.
+C: MASON
+D: What if after we move he's trying to find us and he can't?
+C: MOM
+D: Oh, that won't be a problem. He can call Grandma and she'll tell him or he can call Information. We won't be hard to find. She pushes back his hair lovingly.
+C: MASON
+D: Is he still in Alaska?
+C: MOM
+D: Well, that's what your uncle says.
+C: MASON
+D: Probably taming polar bears or something.
+C: MOM
+D: Yeah... well, I hope they're taming him. EXT. HOUSE - DAY The moving van drives off as mom puts another item in the pile of stuff to be left at the curb. INT. HOUSE - DAY Mom and Mason are getting ready to paint in the empty bedroom. They're looking at the two lone murals, which look a little odd without the bunk bed in front of them.
+C: MOM
+D: Here, wanna help me out?
+C: MASON
+D: Sure.
+C: MOM
+D: Okay. Take this paint... very carefully... and paint any little smudge or mark or anything on the baseboard there, behind the door, and all around the doorways on the inside. INT. LIVING ROOM - DAY Meanwhile, Samantha is talking on the phone.
+C: SAMANTHA
+D: She says we're gonna come visit and I'm gonna write and call you. Oh, wait, hold on a second. I'm getting another call. Hello? Sorry, Tommy, Mason can't come over today. We're moving. And I'm on the other line. Bye. Althea? I'm gonna be sending Sailor Scout instructions. Email, and write back telling me how the other scouts are doing. Well, because you're the leader now. During the last bit of this conversation, Mason slowly paints over the "growth chart" lines on the bedroom door jamb. EXT. OUTSIDE FRONT DOOR - DAY Carrying their final belongings from inside the house, they slowly exit the front door and head over to the car.
+E: on phone Pushes Flash Pushes Button
+C: MOM
+D: Okay, let's go, 'cause I wanna get there before it gets dark.
+C: SAMANTHA
+D: Goodbye yard, goodbye crepe myrtle, goodbye mailbox. Goodbye box of stuff Mommy won't let us take with us but we don't wanna throw away. Goodbye house, I'll never like mommy as much for making us move.
+C: MOM
+D: Samantha! Why don't you say goodbye to that little horse shit attitude? Okay? 'Cause we're not taking that in the car. Just before he gets in the car, Mason is looking out at the neighborhood.
+C: MASON
+D: Goodbye old lady who listens to rock music and rides a motorcycle. Soon the car is pulling away. As they drive off, Mason notices out his side of the car, Tommy approaching on a bike in the distance, gesturing toward the car. Mason watches him out the window, but says nothing as Tommy recedes into the distance. INT. CAR - DAY Mason and Samantha are restless and energetic, letting their childish energy get the best of them as they wrestle, hit, and squeal at each other in the back seat of the car. It is all well-intentioned though, as the two share a laugh after Mom tells them to quiet down.
+C: SAMANTHA
+D: Eeeee! Don't!
+C: MOM
+D: Hey! Hey, what's happening back there? Stop, put the barrier up.
+C: SAMANTHA
+D: Ahh! Stop! No! Mason punches the pillow barrier between himself and Samantha, while his Mom speaks.
+C: MOM
+D: Hey, put the pillow between you. Make a barrier, come on. Stop. We're gonna play a game called The Game of Silence. Whoever can stay quiet for the longest period of time wins. You guys think you can do that? Okay, go! The family's car moves on toward the Houston skyline just as dusk arrives. INT. BEDROOM - DAY Mason appears grumpy, trying to shove what he needs for the day into his backpack quickly.
+C: MOM
+D: The bus'll be here in ten minutes.
+E: O.S.
+C: MOM
+D: Put that homework in your backpack!
+E: CONT'D steps into doorway
+C: MOM
+D: Go eat! Baby, go eat!
+E: O.S. CONT'D
+C: MASON
+D: I am! INT. KITCHEN - DAY Samantha places pancakes on their plates while talking to Mason in a cryptic language, reminiscent of pig latin.
+C: SAMANTHA
+D: ...I affatay servay yoohay.
+C: MASON
+D: Speak English! Shut up. Mom! She's speaking that stupid language again!
+C: MOM
+D: Samantha!
+C: SAMANTHA
+D: I was speaking perfectly clear English, Mother. You know, he's a little slow in the head. He did officially flunk first grade.
+C: MOM
+D: Sit your butt down.
+C: SAMANTHA
+D: Yes sir, Mother sir! She salutes.
+C: MOM
+D: All right, listen up guys. Grandma's gonna pick you up after school. Your dad is in town for the day so you're gonna spend the afternoon with him.
+C: SAMANTHA
+D: Hmm.
+C: MASON
+D: Is he moving back?
+C: MOM
+D: I don't know.
+C: SAMANTHA
+D: We haven't seen him in about eighty years.
+C: MOM
+D: Like... a year and a half.
+C: MASON
+D: Ha-ha.
+E: points to Samantha
+C: SAMANTHA
+D: Oh please...
+C: MOM
+D: Can we please eat, here? The bus is coming. Who wants syrup? INT. CLASSROOM - DAY Mason plays Oregon Trail on a classroom computer, while his TEACHER speaks in the background.
+C: TEACHER
+D: All right, nice cursive. Okay, Mason, when I check the mobiles, am I gonna find yours?
+E: O.S.
+C: MASON
+D: No.
+C: TEACHER
+D: And why not?
+C: MASON
+D: 'Cause I didn't finish it.
+C: TEACHER
+D: Well, it's time to finish it.
+C: MASON
+D: Just a minute.
+C: TEACHER
+D: No, let's do Apple Quit. Mason cuts a sheet of construction paper in the shape of the state of Texas, presumably to finish his mobile. He sits across from a female classmate, GIRL IN RED, who teases him.
+C: GIRL IN RED
+D: Time to finish your work, Mason. "Apple Quit." INT. GRANDMA'S HOUSE - LATER Samantha sits with her GRANDMA, Catherine, showing off her good grades on various school reports. Mason sits in his own chair, playing with a Gameboy.
+C: SAMANTHA
+D: So this is my history test...
+E: O.S.
+C: GRANDMA
+D: Mm-hm. A+, very good.
+E: O.S.
+C: SAMANTHA
+D: And that's another history test.
+E: O.S.
+C: GRANDMA
+D: Mm-hm, and another A.
+E: O.S.
+C: SAMANTHA
+D: Yeah, well, it doesn't have a plus but... oh well.
+C: GRANDMA
+D: Oh. Grandma strokes Samantha's hair proudly.
+C: SAMANTHA
+D: And then um, that's my report on lizards...
+C: GRANDMA
+D: Oh, let me see your pictures.
+C: SAMANTHA
+D: And then, um... Oh yeah, these are my pictures.
+C: GRANDMA
+D: What is that?
+C: SAMANTHA
+D: Well, that's called a dewlap.
+C: GRANDMA
+D: A dewlap, okay.
+C: SAMANTHA
+D: Oh yeah, this is a math test.
+C: GRANDMA
+D: Oh, "A" again. Mason reaches into candy dish on the table.
+C: GRANDMA
+D: Mase, that's the last candy, okay?
+E: CONT'D
+C: MASON
+D: Okay.
+C: GRANDMA
+D: Okay. We need to put this stuff up. EXT. STREET/FRONT PORCH - DAY A Pontiac GTO pulls up outside.
+E: O.S.
+C: GRANDMA
+D: That's him. DAD gets out of the car and hurries to the door. Samantha squeals, as she runs out to greet him.
+E: O.S.
+C: SAMANTHA
+D: Daddy! Hi!
+C: DAD
+D: Oh my! Look at you, you're so big! He hugs them both.
+C: DAD
+D: Hey, MJ! What's happening, buddy? Are you guys ready to have some fun?
+E: CONT'D
+C: MASON AND SAMANTHA
+D: Yeah!!
+C: DAD
+D: Yeah! Alright. Hey, Catherine, how are you?
+C: GRANDMA
+D: Mase. I'm good.
+C: DAD
+D: Good to see you.
+C: GRANDMA
+D: Yeah.
+E: O.S.
+C: DAD
+D: What time should I have these rascals back?
+C: GRANDMA
+D: Oh, I don't know, around 7:30, I guess. I gotta get 'em home by 8:00.
+E: O.S.
+C: DAD
+D: Aw, you know what, why don't I take them over to their mom's? A moment of tension passes between them.
+C: GRANDMA
+D: No, that's okay. She's expecting me.
+C: DAD
+D: Oh no, that's alright. You guys know where it is, don't you?
+C: SAMANTHA
+D: Mm. Yeah.
+C: DAD
+D: All right, I'll do it. It's no problem.
+C: GRANDMA
+D: I don't think that's such a good idea.
+C: DAD
+D: Look, it's no problem. Alright?
+C: GRANDMA
+D: Okay...
+E: rolls her eyes
+C: DAD
+D: You guys ready to go?
+C: MASON AND SAMANTHA
+D: Yeah!
+C: DAD
+D: Let's do it, go!
+C: GRANDMA
+D: Whoa. Wait a minute, you gotta get your stuff.
+E: O.S.
+C: SAMANTHA
+D: Oh yeah.
+C: GRANDMA
+D: You got backpacks, your purse. Homework. Go to the bathroom.
+C: DAD
+D: Can't believe how big they are.
+C: GRANDMA
+D: Yeah. Time is goin' by.
+C: DAD
+D: Mm. Must be nice for you, having 'em here in Houston.
+C: GRANDMA
+D: I love it, yeah. I'm volunteering at their school.
+C: DAD
+D: Oh yeah? What you doin' over there?
+C: GRANDMA
+D: I'm in the library. You know, reading to the little ones.
+C: DAD
+D: Huh. Great.
+C: GRANDMA
+D: So -- Alaska, huh?
+C: DAD
+D: Yeah.
+C: GRANDMA
+D: Are you back?
+C: DAD
+D: We'll see. How's Liv?
+C: GRANDMA
+D: She's a busy girl. Yeah. She's back in school. But she's working, and single parenting... a lot to juggle.
+C: DAD
+D: You guys got everything, huh?
+C: MASON AND SAMANTHA
+D: Yeah.
+C: DAD
+D: Alright, say goodbye to your grandmother.
+C: MASON
+D: Bye!
+E: O.S.
+C: SAMANTHA
+D: Bye grandma!
+E: O.S.
+C: DAD
+D: Alright, let's roll. Now wait a second. You're not the type of kids who like presents, are ya?
+C: SAMANTHA
+D: Yes!
+C: DAD
+D: Naw, you don't --
+C: MASON
+D: Yeah!
+C: SAMANTHA
+D: 'Course we are!
+C: DAD
+D: Really? Let's do it!
+C: MASON AND SAMANTHA
+D: Yeah! Yay!
+C: MASON
+D: I call front seat!
+C: SAMANTHA
+D: I wanted the front seat, though.
+C: DAD
+D: Alright. Well, Mason gets it on the way there and Samantha gets it on the way back, huh? Hop in there.
+C: GRANDMA
+D: Seat belts!
+E: O.S.
+C: DAD
+D: Seat belts. Alright. He motions to Grandma that he's got it covered.
+C: DAD
+D: Seat belts. Not like this car has any seat belts. INT. BOWLING ALLEY - LATER Samantha is bowling, her pink ball hurdling down the lane toward the pins.
+E: CONT'D
+C: DAD
+D: Nice... Nice... Nice... Strike!
+E: O.S.
+C: SAMANTHA
+D: Yay!
+C: DAD
+D: Yeah! Alright! Dad is clearly impressed and excited for Samantha, as he stands to embrace her.
+C: DAD
+D: Come here, come here, yes! That was awesome! Get up there Mason, get up there!
+E: CONT'D
+C: SAMANTHA
+D: Daddy!
+C: DAD
+D: It was so good! Come on. Let 'em know who you are, buddy. Let 'em know who you are. Dad kisses Samantha. Mason throws his bowling ball.
+E: to Samantha to Mason
+C: DAD
+D: Yes! Yes! Yes! Alright, alright... Gutter ball.
+E: CONT'D
+C: DAD
+D: Don't worry about it.
+E: CONT'D
+C: MASON
+D: Wish we could use the bumpers.
+C: DAD
+D: Bumpers are for kids. You know, what're you, two years old? You don't want the bumpers. Life doesn't give you bumpers. Mason tosses the ball again.
+C: DAD
+D: There we, there we go, there we go! We got something there! We got something! We got something! Ooooh! Another gutter ball.
+E: CONT'D
+C: MASON
+D: Last time I went bowling we had bumpers and it was a lot more fun! Dad gets up to bowl.
+C: DAD
+D: You don't want the bumpers, alright? You bowl a strike with the bumpers and it doesn't mean anything. Trust me. Just lay it out on the lane. One, two, three and... Samantha mimes smoking, points to Dad, as if to say that he smells of cigarettes. It's Dad's turn to bowl.
+C: DAD
+D: Ka-blam! Let's hear it for the father! Whoo! Get up there, get in there...
+E: CONT'D To Samantha
+C: SAMANTHA
+D: Yay! Great job!
+C: DAD
+D: Get out there, girl, get out there! Score-keeping screen flashes an animated alligator that reads:
+C: STRIKE
+D: EXT. Street as car burns
+E: on TV screen
+C: TV NEWSMAN
+D: Four Blackwater operatives have been viciously attacked in their cars in
+E: V.O. MORE
+C: TV NEWSMAN
+D: Fallujah. The bodies and cars were set on fire, after insurgents started shooting, killing American citizens.
+E: V.O. CONT'D
+C: DAD
+D: Look at this. It's a disaster.
+E: O.S.
+C: TV NEWSMAN
+D: But the ambush didn’t end there. The bodies of the four men were savagely ripped apart... INT. BOWLING ALLEY CAFE - EVENING The family sits around a table enjoying their snacks, while Dad smokes a cigarette.
+E: V.O.
+C: DAD
+D: Alright, let me tell you what's happening in Iraq, alright? Exactly what every thinking person in the world knew was gonna happen before they got started. Bush and his little numb-nut fanatics he's got around him, they don't give a rat's ass.
+E: O.S.
+C: SAMANTHA
+D: That's a quarter.
+C: DAD
+D: What's a quarter?
+C: SAMANTHA
+D: You said a-s-s.
+C: DAD
+D: Oh, sorry. My bad.
+C: SAMANTHA
+D: And my teacher says it's a good war, because it's better to be safe than sorry.
+C: DAD
+D: That's what they're teaching you in school? Alright, listen to me. Listen to your father, okay? That is the lie. That's the big lie. Iraq had nothing to do with what happened at the World Trade Center. You know that, right?
+C: SAMANTHA
+D: I guess.
+C: DAD
+D: Alright. Who are you gonna vote for next fall, MJ?
+C: MASON
+D: I don't know.
+C: SAMANTHA
+D: He can't vote. He's not eighteen.
+C: DAD
+D: Yeah, oh -- alright, who would you vote for?
+C: MASON
+D: Kerry?
+C: DAD
+D: Anybody but Bush! Okay?
+C: SAMANTHA
+D: Are you gonna move back?
+C: DAD
+D: Uh... I'm plannin' on it. You know, I gotta find a job.
+C: MASON
+D: Are you and mom gonna get back together?
+C: DAD
+D: I don't know. That's not, uh... entirely up to me, you know?
+C: SAMANTHA
+D: I remember when I was six, you and mom were fighting like mad. You were yelling so loud and she was crying.
+C: DAD
+D: That's what you remember, huh?
+C: SAMANTHA
+D: Yep.
+C: DAD
+D: You don't remember the trips to Galveston, camping in Big Bend, all the fun we had?
+C: SAMANTHA
+D: Nope.
+C: DAD
+D: You ever get mad at your mother?
+C: SAMANTHA
+D: Yeah.
+C: DAD
+D: You ever get mad at your brother?
+E: O.S.
+C: SAMANTHA
+D: Yeah.
+C: DAD
+D: Yeah. You ever yell at him?
+C: SAMANTHA
+D: Oh yeah.
+C: DAD
+D: Yeah. Doesn't mean you don't love him, right?
+C: SAMANTHA
+D: Mmm...
+C: DAD
+D: Look, the same thing happens when you're grown up, alright? You... You know, you get mad at people. You know, it's not a big deal.
+C: MASON
+D: What'd you do in Alaska?
+C: DAD
+D: I worked on a boat for a while. Um, I tried to write some music.
+C: MASON
+D: Did you see any polar bears?
+C: DAD
+D: No, but I saw a Kodiak bear. It was fuckin' huge.
+E: O.S.
+C: SAMAMTHA
+D: Dad! That's fifty cents for the F- word! Dad reaches into his wallet.
+E: O.S.
+C: DAD
+D: I'm sorry. Here, take a dollar, alright? Keep the change.
+E: MORE
+C: DAD
+D: You guys are gonna be seein' a lot more of me. Okay? I missed you two real bad, while I was gone. Okay, I want you to know that. I just needed to take some time. You know, to... Just... Your mom and me, okay... Well, your mother, okay, is a piece of work. Alright, I think, I think you know that by now. Alright? And I'm just, I'm so happy to be with the two of you. Okay. And I'm sorry about that bumper business. Alright. I'm gonna get better at stuff like that, okay? As a token of reconciliation, Dad high fives them both, smiling. INT. MASON'S BEDROOM - NIGHT Mason shows Dad his collection of arrowheads and a long feather, all laid out on top of a skateboard. Mason describes each of the pieces to his Dad.
+E: CONT'D
+C: MASON
+D: I got that one at Dripping Springs...
+C: DAD
+D: Mmhmm.
+E: O.S.
+C: MASON
+D: And um, my friend Rodney gave me that one.
+C: DAD
+D: Yeah?
+E: O.S.
+C: MASON
+D: And I bought that one.
+C: DAD
+D: You bought this one?
+C: MASON
+D: Yeah.
+C: DAD
+D: You found this at Dripping Springs?
+C: MASON
+D: Uh-huh!
+C: DAD
+D: Wow! What else do you got?
+C: MASON
+D: Well, um, these are snake vertebrae.
+C: DAD
+D: Snake vertebrae? That's disgusting. Huh? Mason, I don't want you collecting snake vertebrae anymore. They both share a laugh.
+C: DAD
+D: Is this the feather I sent you?
+E: CONT'D
+C: MASON
+D: Yeah! Yeah, yeah, yeah, it is. Samantha enters the room carrying photos and a stuffed animal. She sits down next to Dad, interrupting Mason.
+C: SAMAMTHA
+D: Oh, Dad! Um, I forgot to show you these, um, these basketball pictures.
+C: DAD
+D: You're on a basketball team?
+C: SAMAMTHA
+D: Yeah!
+C: DAD
+D: Wow! Check you out!
+C: MASON
+D: Yeah, and these are-- these are beaver claws.
+C: DAD
+D: Beaver claws?
+C: SAMANTHA
+D: I know. That's me.
+E: O.S.
+C: DAD
+D: What, you hunting beaver, huh?
+E: O.S.
+C: MASON
+D: No.
+E: O.S. laughs
+C: SAMANTHA
+D: You see, that's McKinney, that's Meg, and that Gem. They're all my friends --
+C: MASON
+D: ...And this is dried Canadian grass...
+C: DAD
+D: Uh-huh. What position do you play?
+C: SAMANTHA
+D: Um, guard.
+C: MASON
+D: This is dried Canadian grass... And, and uh...
+C: DAD
+D: Uh-huh. Wait, you scoring any points?
+C: SAMANTHA
+D: Well, about eight or ten a game.
+C: DAD
+D: Eight or ten a game? That is awesome!
+C: SAMANTHA
+D: Yeah!
+C: MASON
+D: Once she didn't score any and she cried!
+C: DAD
+D: You cried?
+C: SAMANTHA
+D: Well, only a little bit.
+C: DAD
+D: Awww. Dad kisses Samantha's forehead. INT. FRONT ENTRY - MOMENTS LATER
+C: MOM
+D: Hello!
+C: SAMANTHA
+D: Oh, Mason, Mom's home!
+C: MASON
+D: Mom's home! Dad quickly shifts from playful to nervous.
+C: DAD
+D: Hey, Mom's home.
+C: SAMANTHA
+D: Mom, hi!
+C: MOM
+D: Hey.
+C: SAMANTHA
+D: Oh, look at this owl Daddy gave me! Isn't it cool? See, its head spins! And look at this bracelet! It was made by Indians in Alaska.
+C: MASON
+D: And Mom, Daddy made this cool hand carved grizzly bear and this tiki.
+C: MOM
+D: It's a totem. Wow.
+C: SAMANTHA
+D: And guess what else? We went bowling and I made four strikes!
+C: MASON
+D: Yeah, and we got to ride around in Dad's car!
+C: MOM
+D: Wow.
+E: O.S.
+C: DAD
+D: Hey, Liv.
+C: MOM
+D: Hey.
+C: DAD
+D: I know you wanted me to drop them off at your mom's. I just thought it'd be easier if I brought 'em over here.
+C: MOM
+D: Well, it really screwed up my plans.
+C: MASON
+D: Well, we just wanted to show him our rooms.
+C: SAMANTHA
+D: Yeah.
+C: MOM
+D: Did you guys eat anything?
+C: SAMANTHA
+D: Well, we had some french fries at the bowling alley.
+C: MOM
+D: Did you do your homework or...
+C: MASON
+D: No.
+C: SAMANTHA
+D: Not yet.
+C: MOM
+D: Okay. Can I talk to you outside for a second?
+C: DAD
+D: Yeah. Sure. They had more than french fries. The children scramble to find a suitable spot for eavesdropping but their parents are inaudible. INT. UPSTAIRS BEDROOM - MOMENTS LATER Samantha and Mason look out the window, down at their parents having an argument below.
+E: as he exits
+C: MASON
+D: Do you think he's gonna spend the night?
+C: SAMANTHA
+D: Doesn't look like it. Mom walks away from Dad. He stands there for a beat, then saunters off. The kids are visibly disappointed. EXT. COLLEGE - DAY Mason and Mom walk across the campus lawn. INT. COLLEGE CLASSROOM - DAY A professor, BILL, lectures to the class. Mason and Mom are seated in the classroom audience.
+E: O.S.
+C: BILL
+D: Okay. An unconditioned stimulus, something that produces an unlearned, involuntary, unconditioned response.
+E: V.O. MORE
+C: BILL
+D: Now in Pavlov's experiment, what was the stimulus, that he used? Come on now, people! Tough weekend? What's the deal, here? Meat. Right? Meat. Meat powder, actually. Whatever meat powder is, it worked on this dog. Okay. He put the meat powder in there and it produced an unconditioned response in the dog, which was? Salivation. Alright. Now, who can give me another example of an unconditioned stimulus-response pair that happens to you everyday. It's probably happening to some of you right now. How about sex? Sure, you know. You see an attractive member of the opposite gender, you have an automatic response. You don't have to think about it. Mick Jagger wrote a song about... Oh, when they call your name, I salivate like a Pavlov dog. Class laughs.
+E: V.O. CONT'D pause
+C: BILL
+D: Thank you very much. Class dismissed. Students leave, as Mason and Mom approach the professor.
+E: CONT'D
+C: MOM
+D: Doctor Welbrock, this is my son Mason.
+E: O.S.
+C: BILL
+D: Ohh.
+C: MOM
+D: Mason, this is Dr. Welbrock.
+C: BILL
+D: Your son. Now see, I thought this was a boy genius who was taking my college course. Mason laughs. He and Bill shake hands.
+C: MOM
+D: He wasn't feeling well today, so I thought I'd bring him with me. Bill touches Mason's forehead.
+C: BILL
+D: Ah! No fever. It's a con job. I can tell because I have a nine year old son, he pulls this all the time. Same kind of deal. Hey, you play soccer?
+C: MASON
+D: Mm, no.
+C: BILL
+D: Neither does my boy. He hates soccer. He likes computers. My 11-year-old daughter, loves soccer. Who can figure? Hey, maybe we can get all you guys together sometime, huh?
+C: MOM
+D: Maybe, yeah. Well, you ready to go?
+C: MASON
+D: Yeah.
+C: BILL
+D: Nice to meet you, Mason.
+C: MASON
+D: Nice to meet you, too.
+C: BILL
+D: And thanks for coming to my class. Mason walks ahead of them as Olivia and Bill speak a little more intimately. It's clear that they have more than just a professor-student relationship. Mason notices a bit of this and looks on, confused.
+C: BILL
+D: Olivia.
+E: CONT'D
+C: MOM
+D: Hm?
+C: BILL
+D: Nice kid.
+C: MOM
+D: Thanks.
+C: BILL
+D: So you think, uh, Grandma might be available for a little baby-sitting?
+C: MOM
+D: Maybe.
+E: O.S. giggles
+C: BILL
+D: Really? Well, great. EXT. BACKYARD - DAY Mason and Samantha play an outdoor trampoline game with Randy and Mindy, their new stepbrother and stepsister. They are in the big backyard of their new home, where Dr. Welbrock and his children have lived.
+C: GRANDMA
+D: Hey kids, they're here!
+C: KIDS
+D: Oh, they're home, they're home!
+C: GRANDMA
+D: Hurry! Hurry! They all scramble inside and quickly assemble for a big welcome home ceremony in the front entryway. A sign reads, "Welcome Home Honeymooners, We Love You Mom & Dad". Olivia and Bill open the door to enter the house.
+C: MOM
+D: Hey!
+C: KIDS
+D: Mom! Daddy!
+C: BILL
+D: Oh! We're here! Hey, we've returned! Hugs all around. The family talks over one another. Bill notices the "Welcome Home" sign the kids made.
+C: SAMANTHA AND MASON
+D: Hi Dad!
+C: BILL
+D: Samantha, Mason, look -- Thank you. That's very nice.
+C: MOM
+D: Hey guys! The group all speaks at once.
+E: to Randy and Mindy
+C: BILL
+D: Hi, Mom. How are you?
+E: To Grandma
+C: SAMANTHA
+D: Mom, Mom, Mom, Mom! Look at the sign we made!
+E: O.S.
+C: BILL
+D: They give you any trouble?
+E: To Grandma
+C: MINDY
+D: Samantha and I made it all ourselves.
+C: BILL
+D: I know the boys helped you with that a lot.
+E: O.S.
+C: MINDY
+D: No, not at all! The group continues to speak at once.
+C: BILL
+D: That's good... Oh, pass out the goodies. Mom passes out a bag of presents to each of the kids.
+C: MOM
+D: This is for the girls, this is for the girls...
+C: BILL
+D: Don't worry, we got you some absinthe or something.
+E: to Grandma
+C: GRANDMA
+D: Oh, let's pour it. INT. RESTAURANT - NIGHT The family sits around the table, swapping fun stories and pictures from their time apart.
+C: MOM
+D: You take this big elevator up, and when we got to the top, we flew a paper airplane off.
+C: RANDY
+D: And what happened?
+E: O.S.
+C: MOM
+D: It flew!
+E: O.S.
+C: BILL
+D: It flew away. It went for miles. Went onto the Arctic Trail. They laugh.
+E: O.S.
+C: SAMANTHA
+D: Oh, did you guys kiss under the Bridge of Sighs?
+C: MOM
+D: Yes.
+C: BILL
+D: Yes, we did. Bill leans in to kiss Olivia.
+C: MINDY
+D: Hey, Mom, can we see your wedding ring?
+C: MOM
+D: Oh, sure. Mom hands over her wedding ring. The boys look at a 20 Questions game.
+E: O.S.
+C: MINDY
+D: Wow.
+E: O.S. Eyeing the ring
+C: SAMANTHA
+D: Technically that's a fancy step cut surrounded by miniature brilliant.
+E: O.S. Holding the ring
+C: MASON
+D: I wish we could've gone to Europe.
+C: RANDY
+D: Yeah.
+C: BILL
+D: Yeah, we'll go as a family next time. But you didn't miss much, really. We just stayed in the hotel room the whole time playing video games. Mom laughs.
+C: MASON
+D: Really?
+C: BILL
+D: And the hotels are really small and really old. Squeaky. The WAITER comes over.
+C: WAITER
+D: Can I get you anything else? Would you like to see a dessert menu?
+C: BILL
+D: Listen, I told you to put that away. Would you put that in your purse, please? Computer games at the table. Yes, uh, please, another bottle of wine.
+E: To Randy To Mom To Waiter
+C: MASON
+D: Um, Coke.
+E: to Waiter
+C: MOM
+D: Um, you know what? Mason, you're okay with water. No more Cokes. Thank you.
+E: to Waiter
+C: BILL
+D: Now how 'bout you? Did you finish your science project?
+E: O.S. To Randy
+C: RANDY
+D: Not quite yet.
+C: BILL
+D: Well, did you work on it? I mean, did you build anything, or plan anything, or..?
+C: RANDY
+D: A little.
+C: BILL
+D: Did he work on it at all, Mindy?
+E: to Mindy
+C: MINDY
+D: No.
+C: BILL
+D: Did he sit around playing video games with Mason the whole time?
+E: to Mindy
+C: MINDY
+D: Yeah.
+E: laughs
+C: BILL
+D: Mm. You were supposed to finish that by the time I got back. Remember? Hey. EXT. NEIGHBORHOOD STREET - DAY Our gang of kids, plus two more walk home from school together. The boys walk in a pack slightly in front of the girls.
+E: NEIGHBORHOOD BOY and NEIGHBORHOOD GIRL
+C: NEIGHBORHOOD BOY
+D: Grievous is the best, man.
+C: MASON
+D: Yoda! Yoda, man.
+C: RANDY
+D: No, Yoda is!
+C: MASON AND RANDY
+D: Yoda!
+C: NEIGHBORHOOD BOY
+D: He has four arms.
+C: MASON
+D: Yoda! Represent.
+C: MINDY
+D: I hate Ms. Billingsly. Everybody's been saying she's lesbian.
+C: NEIGHBORHOOD GIRL
+D: She is. She hit on Stacy.
+C: MINDY
+D: Man, that's gross.
+C: SAMANTHA
+D: Think it's true?
+C: NEIGHBORHOOD GIRL
+D: She's always walking in the locker room.
+C: RANDY
+D: I think I still have a couple of those-- PAUL, overly large/mentally impaired neighborhood teen they seem familiar with, walks by awkwardly bouncing a basketball.
+C: NEIGHBORHOOD BOY
+D: Hey, Paul. Tell us a joke.
+E: O.S.
+C: PAUL
+D: Damn. Fuck. Go to hell. Ass. The kids look at him quizzically and keep walking. INT. BEDROOM - LATER Mason and Randy are playing a video game.
+C: MASON
+D: Uh! Blew you up.
+C: RANDY
+D: Aw heck, man. That was not fair.
+C: MASON
+D: No, actually it was. That's like the fairest thing ever.
+C: RANDY
+D: Ugh.
+C: MASON
+D: Oh, once again I take you down. INT. FAMILY ROOM - DAY Samantha and Mindy sit with Mom on the sofa, laughing, while Mason and Randy sit opposite them. Bill is up first, as the whole family plays charades.
+C: MASON
+D: Three Musketeers?
+C: RANDY
+D: First word.
+E: O.S.
+C: MASON AND RANDY
+D: Chicken? Bird? Mom and the girls laugh.
+C: BOYS
+D: Second word.
+C: RANDY
+D: Um... hood?
+C: MASON
+D: Big hair? Uh. Robin Hood!
+C: BILL
+D: Ah! Mom applauds.
+E: tapping his nose
+C: BILL
+D: Brilliant child! Samantha stands to take her turn.
+E: CONT'D
+C: MOM AND MINDY
+D: Second word.
+E: O.S.
+C: MINDY
+D: Blanket?
+E: O.S.
+C: MASON
+D: Hey, you can't use props! Samantha turns to smack mason with the blanket.
+C: BILL
+D: Hey, hey, hey, hey. Cut it out. Hey, uh-- Judges speak: No props. No props. Can't use props. You can do it without that. Think, think, think.
+C: MOM
+D: Um, bunch!
+E: O.S.
+C: MINDY
+D: Folding? Is it like...
+E: O.S.
+C: MOM
+D: The gathered? Folded.
+C: MINDY
+D: Uh... The boys laugh.
+C: MINDY
+D: Messing around with a blanket... Wrinkling it, uh...
+E: CONT'D
+C: MOM
+D: Wrinkling clothes... A Wrinkle In Time! Mom and Mindy clap and cheer at their victory. INT. BOOK RELEASE PARTY - NIGHT Sign reads: "7-15: Harry Potter and the Half-blood Prince. Magical Midnight Release Party 9PM." The kids are all present, dressed in Harry Potter costumes. They participate in a variety of Harry Potter festivities, beginning with a trivia contest.
+C: BOOK TRIVIA JUDGE
+D: What are the guards at Azkaban? Samantha rings the bell first, as Mason fumbles for the correct answer.
+C: SAMANTHA
+D: Dementors! Samantha got it right.
+C: EMCEE
+D: Front of the line, are you ready? All four kids cheer.
+E: into a microphone
+C: EMCEE
+D: Count down with me, ladies and gentleman! The rest of the crowd joins in.
+E: CONT'D
+C: EMCEE AND GROUP
+D: Ten! Nine! Eight! Seven! Six! Five! Four! Three! Two! One!
+C: EMCEE
+D: Let's go! Whoo!! The kids each pass through the long line, all smiles as they receive their books.
+C: MINDY
+D: Thank you.
+C: MAN
+D: Next.
+C: SAMANTHA
+D: Thanks. EXT. GOLF COURSE - DAY Mason, Randy, and Bill are practicing at a golf course. Bill is advising the boys on their stances and golf swings.
+C: BILL
+D: Oh no, no, no, no. Back up and take a practice swing first, remember? Nice and easy. Sweep the floor. Sweep the floor. That's good. Don't swing too hard, Randy. He always swings too hard. Randy takes a swing.
+E: to Randy to Mason
+C: BILL
+D: Hey, alright! Very good. It's Mason's turn to take a swing.
+E: CONT'D
+C: BILL
+D: Back your feet up a little bit. Yeah, like that. Now you're gonna hit it straighter. Okay. Alright, go up and hit it. That's good. Nice slow swing is going to be better for you. Mason swings.
+E: CONT'D to Mason
+C: BILL
+D: Alright! Later, Randy putts the ball and misses.
+E: CONT'D
+C: BILL
+D: I don't know man, you must've been... See, your feet are too open, Randy. Mason sets up to take his putt.
+E: CONT'D to Randy
+C: BILL
+D: Nice and natural. Mason hits the ball into the hole. Bill high fives him.
+E: CONT'D to Mason
+C: BILL
+D: Yes! Go! Alright! Give me five. Good putt, son, good putt.
+E: CONT'D MORE
+C: BILL
+D: Did you see that, Randy? That's the way to do it! Alright, birdie putt. Bill misses the easy putt.
+E: CONT'D to self
+C: BILL
+D: Goddamn it. Son of a bitch. Get my clubs, would you? Get the ball. EXT. LIQUOR STORE - DAY Bill and the boys drive up to the local liquor store.
+E: CONT'D to Mason and Randy
+C: BILL
+D: This is just in case we have guests this weekend. Bill gets out of the car.
+C: RANDY
+D: He always says that. But we never have guests. The boys are chewing green bubble gum. Randy blows a big bubble and Mason pops it with his hand. INT. LAUNDRY ROOM - DAY Bill pours a generous amount of vodka into a large, opaque cup. He then hides the vodka bottle behind some detergent in the laundry cupboard. INT. KITCHEN - MOMENTS LATER Samantha and Mindy are busy loading the dishwasher. Bill enters the room, drink in hand.
+C: BILL
+D: Samantha, I think I heard your dad pull up.
+C: SAMANTHA
+D: Oh, alright.
+C: BILL
+D: You guys finish your chores?
+C: MINDY
+D: Not quite.
+C: SAMANTHA
+D: Just about.
+C: BILL
+D: How 'bout the dusting, Sam?
+C: SAMANTHA
+D: I haven't done that yet.
+C: BILL
+D: Well, I saw you working on your art project. You mean you had time to finish your little art project but you didn't have time to finish your chores? I thought we talked about that.
+C: MINDY
+D: Dad, it's fine. I can finish the dusting. I have all day here.
+C: BILL
+D: No, it's not fine, Mindy. You have your own chores to do and Sam has hers to do. Huh? It's simple! Poor choice there, Sam. Hurry up. EXT. BACKYARD - DAY Mason is pulling weeds, while Randy rakes the lawn.
+C: BILL
+D: Mason! Your dad's here... As the boys approach...
+E: yelling from the porch
+C: BILL
+D: You guys aren't settin' any speed records, are you? What'd you do, get about half done? Hey, hey, hey, hey, hey. So did you finish?
+E: CONT'D
+C: MASON
+D: No.
+C: BILL
+D: Is the job complete? Mason shakes his head "No".
+C: BILL
+D: So, what are you going to be doing tomorrow? Same thing, right?
+E: CONT'D
+C: MASON AND RANDY
+D: Yeah.
+C: BILL
+D: Okay. Go. INT. KITCHEN - MOMENTS LATER Mom is doing work at the kitchen table, as Samantha and Mason kiss her goodbye.
+C: MASON
+D: Bye, Mom.
+C: MOM
+D: Bye, baby. I love you.
+E: to Mason
+C: SAMANTHA
+D: Bye, Mama.
+C: MOM
+D: Bye, honey. Have fun with your dad.
+E: to Samantha
+C: BILL
+D: Just a minute, Mason. The boys didn't finish raking the leaves. Samantha did not finish dusting. So tomorrow, when they come home, instead of swimming and all the other little stuff that they want to do, they're gonna do their chores. Right?
+E: O.S. to Mom
+C: MOM
+D: Right! Okay, guys, you had this conversation, you understand? The boys nod.
+C: MOM
+D: Tomorrow? The girls nod.
+E: CONT'D
+C: MOM
+D: Okay.
+E: CONT'D
+C: BILL
+D: Thank you. I just wanted you to back me up on that so I'm not the only one yelling at them all the time.
+C: MOM
+D: Okay, I back you up. You guys got that? Mason nods.
+C: MOM
+D: We all agree, everybody agrees, right? Tomorrow, chores? Samantha nods.
+E: CONT'D
+C: BILL
+D: Well, they don't hear it, you know. It goes in one ear and out the other.
+C: SAMANTHA
+D: But Dad, I mean, dusting is pointless.
+C: BILL
+D: It's not pointless, you just don't like to do it.
+C: SAMANTHA
+D: But I mean, who dusts anymore?
+C: BILL
+D: You do when we ask you to! And don't -- Olivia, don't let her back-talk me in front of the other kids, please. Thank you.
+C: MOM
+D: Samantha, please...
+C: SAMANTHA
+D: Whatever! Samantha turns to walk away from the conversation.
+C: BILL
+D: Bye-bye, have a wonderful weekend.
+E: O.S.
+C: MOM
+D: Mm. Okay. Bye, guys. Love you. The other kids follow Samantha as she exits. Bill sits down at the table with Mom.
+E: O.S.
+C: BILL
+D: I'm sorry, but I thought we talked about it. You have to draw a line, you have to back it up.
+C: MOM
+D: Okay. It's just... you have so many lines Bill. Everything's a line. EXT. HOUSE - DAY Dad is parked in the drive way. He gets out of the car to greet the kids.
+C: DAD
+D: Hey, Randy!
+C: RANDY
+D: Hey!
+C: SAMANTHA AND MASON
+D: Bye.
+C: RANDY AND MINDY
+D: Bye.
+C: DAD
+D: Hey, you two. How you doin'? Oh.
+C: MASON
+D: Shotgun.
+C: DAD
+D: Here, let me get this bag here. You doin' okay, darlin'?
+C: SAMANTHA
+D: Yeah.
+C: DAD
+D: Yeah? Ah. What about you, cowboy?
+C: MASON
+D: Pretty good. Dad throws the kids' bags in the trunk.
+C: DAD
+D: Yeah? Alright. Let's roll! EXT. CITY STREET - DAY They drive down the street in Dad's car.
+C: DAD
+D: You guys ready for the big game?
+C: SAMANTHA
+D: Yeah.
+C: DAD
+D: Sam, who are the Astros playing tonight?
+C: SAMANTHA
+D: I don't know.
+C: DAD
+D: Milwaukee Brewers. Alright, get to know 'em, get to hate 'em. Mase! How you been, huh? How was your week?
+C: MASON
+D: Pretty good.
+C: DAD
+D: Yeah? What you been up to?
+C: MASON
+D: Not much.
+C: DAD
+D: No? You still hangin' with that kid Joe?
+E: O.S.
+C: MASON
+D: Yeah.
+C: DAD
+D: Yeah, he's still your best friend?
+C: MASON
+D: Yeah, I guess.
+C: DAD
+D: Okay. How 'bout you? How was your week?
+E: To Samantha
+C: SAMANTHA
+D: Fine.
+C: DAD
+D: What you been up to?
+E: O.S.
+C: SAMANTHA
+D: Nothin' really.
+C: DAD
+D: You um, you still working on that sculpture project?
+C: SAMANTHA
+D: Yeah.
+E: O.S.
+C: DAD
+D: Yeah?
+E: O.S.
+C: SAMANTHA
+D: Almost finished.
+C: DAD
+D: What's it of?
+E: O.S.
+C: SAMANTHA
+D: Nothing. Dad pulls the car over and parks.
+C: DAD
+D: Alright, no-no-no-no-no. Nope, that is not how we're going to talk to one another. Alright? Now, I will not be that guy. You can not put me in that category, alright? The biological father who I spend every other week with and I make polite conversation, you know, while he drives me places and buys me shit. No! Talk to me. He turns to Samantha in the passenger seat.
+C: DAD
+D: Samantha, how was your week? Uh, I don't know Dad, it was kind of tough. Billy and Ellen broke up, and Ellen's kind of mad at me because she saw me talking to Billy in the cafeteria. And you remember that sculpture I was working on? Well, it was a unicorn and the horn broke off. So, now it's zebra. Okay? But I still think I'm going to get an 'A'. Alright? Dad turns around to address Mason in the back seat.
+E: CONT'D
+C: DAD
+D: Mason, uh, how was your week? Well Dad, you know it was kind of tough. Joe, he's kind of a jerk, actually. He stole some cigarettes from his mom and he wanted me to smoke 'em. But I said no, cause I knew what a hard time you had quittin' smokin', Dad. How 'bout that? Is that so hard?
+E: CONT'D
+C: SAMANTHA
+D: Dad, these questions are kind of hard to answer.
+C: DAD
+D: What is so hard to answer about what sculpture are you making?
+C: SAMANTHA
+D: It's abstract.
+C: DAD
+D: Okay. Okay, that's good. See, that's, I didn't know that. I didn't know you were even interested in abstract art.
+C: SAMANTHA
+D: I'm not. They make us do it.
+C: MASON
+D: But Dad, I mean why is it all on us though? You know, what about you? How was your week? You know, who do hang out with? Do you have a girlfriend? What have you been up to?
+C: DAD
+D: I see your point. Mason smiles.
+C: DAD
+D: So we should just let it happen more natural, right? That's what you're sayin', right? Mason nods.
+E: CONT'D
+C: DAD
+D: Okay. That's what we'll do. Starting now. EXT. BUTTERFLY MUSEUM - DAY Dad, Samantha, and Mason are pointing out different butterflies they find, using a nature chart. A butterfly lands on Mason's shoulder.
+E: CONT'D
+C: MASON
+D: Hey, check this out.
+C: SAMANTHA
+D: That would be a... That would be a Magnificent Owl. Caligo Atreus.
+C: DAD
+D: What's that one? Look at this. Dad opens his hands and shows them a butterfly in his palms.
+C: SAMANTHA
+D: Whoa.
+E: O.S.
+C: DAD
+D: What kind is that?
+C: SAMANTHA
+D: That looks like a Zebra Longwing.
+C: DAD
+D: Alright.
+C: SAMANTHA
+D: Cool.
+C: DAD
+D: This one's incredible. That's the owl one, right?
+C: SAMANTHA
+D: Yeah. Magnificent Owl.
+C: DAD
+D: I think he went pee-pee on you, bud. Dad laughs. EXT. SCULPTURE GARDEN - DAY Dad, Samantha, and Mason play tag around a large outdoor sculpture.
+C: MASON
+D: One, two, three, four, five... Soon they are running in circles around it.
+C: DAD
+D: Ahaa! Ahh! Get away from me! Get away from me! Get your sister -- Ahh! EXT. PARK - DAY Dad is tossing a football with Mason and Samantha.
+C: DAD
+D: Yo, Mase, look at me here. Make a diamond with your hands, alright? Fingers and thumbs. Keep your hands soft. Hey, Sam. Samantha throws the football to Dad.
+C: DAD
+D: Very nice. That's how you want to catch it, just like that. Even when you're runnin', that's what you're thinkin' about, that diamond. That diamond, and soft hands. Dad throws the ball to Mason.
+E: CONT'D
+C: DAD
+D: There it is. Mason throws the ball back to Samantha. EXT. PARK - MOMENTS LATER Dad, Samantha, and Mason crouch down into starting line positions.
+E: CONT'D
+C: DAD
+D: Down! Set! Hut! Ahhhh! Dad releases the ball down the hill and the three of them chase after it.
+C: DAD
+D: No no no no no! The ball kicks up and into Samantha's hands. They are now chasing after her.
+E: CONT'D
+C: SAMANTHA
+D: Yes!
+C: DAD
+D: Don't let her get -- No no no no no! INT. BASEBALL STADIUM - NIGHT Dad, Samantha, and Mason watch a live baseball game.
+C: DAD
+D: Let's go, Roger! The crowd reacts to the game.
+E: O.S.
+C: DAD
+D: Guy's incredible. He's unhittable this year! Now just so you know, what we're watching here, is history. Now you see this guy out here? This dude is like forty-three years old and he's strikin' out guys half his age. This guy's ERA is 1.47, alright, can you believe that? Now if the Astros could just get a few runs maybe we'd win a game.
+E: CONT'D
+C: MASON
+D: Dad, do you have a job?
+C: DAD
+D: Ha! Why would you ask me that?
+C: MASON
+D: I don't know. Mom wanted to know and I didn't know what the answer was.
+C: DAD
+D: Mom wanted to know. Alright. Well, you can tell mom that I just happen to have passed my second actuarial exam, alright? So... you tell her that. How's she doing?
+C: SAMANTHA
+D: Great.
+C: DAD
+D: She finishing school?
+C: SAMANTHA
+D: Yep, all 'A's.
+C: DAD
+D: All 'A's huh? Like mother, like daughter, right? The kids leave to get hot dogs, etc. Mason puts mustard on his. They return to the game. A clutch Astros home run and the crowd is cheering. Our guys celebrate with high fives, etc.
+C: DAD
+D: You got this! That's outta here! That's out-- Oh! Oh! Fireworks go off. The crowd stands to their feet.
+E: O.S. CONT'D
+C: DAD
+D: Yeah!! Fuckin' A! INT. DAD'S LIVING ROOM - NIGHT The TV is playing the horror film HOSTEL. JIMMY sits on the couch watching the movie, as Dad and the kids enter.
+E: CONT'D
+C: SAMANTHA
+D: Hi, Jimmy.
+C: JIMMY
+D: Hey, Samantha!
+C: MASON
+D: Hey, what's up, Jimmy?
+C: JIMMY
+D: What's goin' on, Mason, man? Mason and Jimmy fist bump.
+C: MASON
+D: Astros won.
+C: JIMMY
+D: You went to the game? Dad enters the room.
+C: DAD
+D: What, I'm the only one with any arms around here? Nobody else can carry anything, huh? Help their old man out?
+C: MASON
+D: What you watching? Jimmy gestures for silence.
+C: DAD
+D: Aw, come on Jimmy, man! You knew the kids were comin' this weekend. Dad clears dirty dishes and paraphernalia from the table.
+C: DAD
+D: Can't you just help me out a little bit, just --
+E: CONT'D
+C: JIMMY
+D: I'm sorry, muffin.
+C: DAD
+D: Yeah, don't "muffin" me, alright? Don't put me in that position. Alright, I'm not your fuckin' Tony Randall.
+C: SAMANTHA
+D: Dad, it's always a mess.
+C: DAD
+D: It was not a mess this morning. Okay?
+C: JIMMY
+D: I mowed the lawn.
+C: DAD
+D: Oh yeah, great. Dad stretches out beside Samantha on the couch.
+C: DAD
+D: Oh, come on man! Turn this shit off. Come on, give me that thing. Dad takes the remote control away from Jimmy.
+E: CONT'D
+C: DAD
+D: Did you watch the game?
+E: CONT'D
+C: JIMMY
+D: No.
+E: laughs
+C: DAD
+D: Lane won it with a three-run homer. It was beautiful, wasn't it? Samantha shrugs.
+E: O.S.
+C: DAD
+D: Sam lost her mind! She's a huge Astros fan.
+E: CONT'D
+C: SAMANTHA
+D: Sure. INT. MUSIC ROOM - LATER Dad plays the piano and sings, while Jimmy plays guitar. The kids sit at the kitchen table, listening intently.
+C: DAD
+D: "Well Saturday night was a lunar eclipse, I sang 'em a song, went somethin' like this: Well go to sleep, my weary babies, Let the sounds roll on by, Tonight we're safe here in Houston, With this, your daddy's lullaby. Your mother's got a new husband now, He seems alright, I wonder if he's readin' them stories, And kissin' them goodnight? Well babysitters say they miss me, I know I shouldn't hope it's true, The teacher says my son paints pictures of a family all in blue, She says she caught him whispering to the window, Will Daddy please come home? I know I could call him up, but what if his mother answers the phone? INT. BEDROOM - NIGHT Samantha is lying in her bed, listening to her iPod.
+C: DAD
+D: You brush your teeth? She removes her ear buds.
+C: SAMANTHA
+D: What?
+C: DAD
+D: Did you brush your teeth?
+E: O.S.
+C: SAMANTHA
+D: Oh. Yeah. Yeah.
+C: DAD
+D: You gonna fall asleep with those things in your head?
+C: SAMANTHA
+D: Maybe.
+C: DAD
+D: Yeah well, try not to, alright?
+C: SAMANTHA
+D: Okay.
+E: O.S.
+C: DAD
+D: You want me to turn off the light?
+C: SAMANTHA
+D: Sure.
+C: DAD
+D: Okay, goodnight Sam.
+C: SAMANTHA
+D: 'Night, dad.
+C: JIMMY
+D: Goodnight, Sam.
+E: leaning in doorway
+C: SAMANTHA
+D: Goodnight, Jimmy.
+C: DAD
+D: Hey... that was a fun day, right?
+C: SAMANTHA
+D: Yeah it was. Sorry.
+C: DAD
+D: Why?
+C: SAMANTHA
+D: That Mason had to be there, you know.
+C: DAD
+D: Goodnight. INT. LIVING ROOM - MOMENTS LATER Mason is lying on the couch in the dark, trying to sleep. Dad is lying on the other couch, reading a book.
+E: laughs
+C: MASON
+D: Dad? There's no like... real magic in the world, right?
+C: DAD
+D: What do you mean?
+C: MASON
+D: You know, like elves and stuff. People just made that up.
+C: DAD
+D: Well, I don't know. I mean what makes you thinks that, that elves are any more magical than something like... like a whale?
+E: MORE
+C: DAD
+D: You know, I mean, what if I told you a story about how underneath the ocean, there was this giant sea mammal that used sonar, and sang songs, and it was so big that its heart was the size of a car? And you could crawl through the arteries? I mean, you'd think that's pretty magical, right?
+E: CONT'D
+C: MASON
+D: Yeah. But like... right this second, there's like no... elves in the world, right?
+C: DAD
+D: No. Technically no elves. EXT. NEIGHBORHOOD STREET - DAY Dad, Samantha, and Mason pull up in the GTO. They sit in Mom's driveway, saying their goodbyes.
+C: DAD
+D: Love you guys.
+C: MASON
+D: See you, Dad.
+C: DAD
+D: Alright. Be well. Okay. Have a great week. Sam, I'll see you next weekend?
+C: SAMANTHA
+D: Alright. Oh yeah, that's right.
+C: DAD
+D: What?
+C: SAMANTHA
+D: Susie has a birthday party next Saturday.
+C: DAD
+D: A sleepover?
+C: SAMANTHA
+D: Yeah.
+C: DAD
+D: Alright. I'll talk to your mom about it.
+C: SAMANTHA
+D: Bye, dad.
+C: DAD
+D: Don't worry about it, okay? Have a great week.
+C: SAMANTHA
+D: Had a great time.
+C: DAD
+D: Okay. INT. BEDROOM - DAY Mason, Randy, and the Neighborhood Boy sit around a computer screen. They appear to be looking at something illicit.
+C: NEIGHBORHOOD BOY
+D: Aw, man. How do you guys not know how to do this? I'll make you some bookmarks. Just a second. Shit, guys. A knock on the door interrupts them. They close the laptop immediately and turn around, trying not to look guilty.
+C: MINDY
+D: Randy, and Mason, Dad wants you guys downstairs.
+C: RANDY
+D: Why?
+C: MINDY
+D: You're getting haircuts. The boys stand to exit. INT. BARBER SHOP - DAY Mason sits for his haircut, while Randy and Bill wait to the side. Mason is clearly distressed as the barber glides an electric razor over his head.
+C: BILL
+D: This is gonna look so much better. You're gonna look like a man instead of like a little girl. You're takin' the eyebrows off next, right, Byron? Bill nudges Randy, and laughs. Mason does not find it funny. INT. UPSTAIRS HALLWAY - MORNING The kids wander down the hallway, filing into Mason's bedroom. INT. BEDROOM - CONTINUOUS Randy, Samantha, and Mindy enter one at a time, to let Mason know they are leaving for school.
+C: RANDY
+D: Mason, we're leavin'.
+C: SAMANTHA
+D: You're not sick. Mindy is the last to leave the room, shaking her head in disbelief. INT. FRONT ENTRY - CONTINUOUS The kids file down the stairs. Mom is getting ready to go.
+C: MOM
+D: Bye, guys.
+C: KIDS
+D: Bye, mom.
+C: MOM
+D: Where is Mason?
+C: RANDY
+D: He doesn't feel too good. I don't think he's going to school.
+C: SAMANTHA
+D: He's totally faking it.
+C: MOM
+D: Bye. INT. BEDROOM - CONTINUOUS Mom knocks on Mason's door, then enters the room.
+C: MOM
+D: Mason, what's goin' on?
+C: MASON
+D: I don't feel good.
+C: MOM
+D: Yeah? Well your head feels fine. So get your ass out of bed.
+E: MORE
+C: MOM
+D: I'm gonna drive you to school, you got five minutes and don't make me late. EXT. SCHOOL - DAY Mom is dropping Mason off at school.
+E: CONT'D
+C: MASON
+D: I mean, he didn't even ask! He just cut it. I mean, it's my hair!
+C: MOM
+D: Well, no wonder you were angry. I'd be angry too.
+C: MASON
+D: I look like a martian now.
+C: MOM
+D: Honey, you know what? I'm gonna talk to him about it later, okay?
+C: MASON
+D: Yeah, I tried to call you but you didn't answer your phone.
+C: MOM
+D: I'm so sorry. I've been so busy with school... Hey. She touches his hair, lovingly.
+C: MOM
+D: For what it's worth, it's hair and it will grow back. Now I can see your pretty eyes and your foxy face.
+E: CONT'D
+C: MASON
+D: Why'd you even marry him? He's such a jerk.
+C: MOM
+D: Well, Bill has his good qualities. You know, nobody's perfect. And now we have a family.
+C: MASON
+D: We already had a family. With this, Mason turns and exits the car. INT. SCHOOL HALLWAY - DAY Mason walks down the hall, towards his classroom door. INT. CLASSROOM - DAY Mason enters the classroom, just as his class begins reciting the Pledge of Allegiance.
+C: STUDENTS
+D: I pledge allegiance to the flag of the United States of America, and to the Republic for which it stands, one nation, under God, indivisible, with liberty and justice for all. Students snicker at Mason's new haircut.
+C: TEACHER
+D: Please join me in the Texas pledge.
+E: O.S.
+C: STUDENTS
+D: Honor the Texas flag, I pledge allegiance to thee, Texas, one and indivisible.
+C: TEACHER
+D: Thank you. You may be seated. The students continue laughing at Mason.
+E: O.S.
+C: TEACHER
+D: Alright! Alright class, as you know, we've been working on our mythology projects. And we're going to be writing papers about gods and goddesses. We've listed those gods and goddesses here on the board. We added a couple of monsters, for some of you who might be interested in that. And you're going to write your essay about your god or goddess, and to make sure that you cover everything, let's make sure that we do all of these things right here... Mason is handed a note from across the room.
+E: CONT'D
+C: TEACHER
+D: First of all, we need to name your god or goddess, and you need to include who, what, when, where, why, and how... The note reads: Mason, I think your hair looks kewl! - Nicole
+E: CONT'D
+C: TEACHER
+D: So make sure that you cover all those things when writing your essay. EXT. NEIGHBORHOOD STREET - DAY Mason and Randy ride their bikes, while the Neighborhood Boy skateboards alongside them.
+E: CONT'D
+C: NEIGHBORHOOD BOY
+D: There's a bump right there. Neighborhood Boy skates off in a different direction.
+C: NEIGHBORHOOD BOY
+D: Alright, I'll see y'all later, guys.
+E: CONT'D
+C: RANDY
+D: Yeah. INT. GARAGE - DAY Mason and Randy pull up to a half open garage and drop their bikes outside. Mom can be seen laying on the floor of the garage, crying.
+C: MASON
+D: Mom, are you okay?
+C: RANDY
+D: What happened?
+C: MOM
+D: No -- Go in the house! Go! Go in the house! Go in the house!
+C: BILL
+D: Your mother had a little accident. Now she's being dramatic. Mom is still crying as the boys exit. Bill enters the garage with a drink in his hand.
+C: BILL
+D: Get off the fucking floor Olivia, for Christ's sake! Mom continues to cry. INT. DINING AREA - MOMENTS LATER Bill walks in angrily, carrying a bottle. He loudly bangs things on the table, and pours himself a drink.
+E: CONT'D
+C: BILL
+D: I'm having a drink with my dinner. Anybody else have a problem with that? Hm? Samantha? The family is seated at the dinner table, practically frozen.
+C: SAMANTHA
+D: No.
+C: BILL
+D: Mindy?
+C: MINDY
+D: No.
+C: BILL
+D: I didn't think so. He drinks the entire glass, and slowly zeros in on Mason.
+C: BILL
+D: You don't like me much, do you Mason? That's okay, I don't like me either. Think that's funny, huh? You think that's fuckin' funny? Bill throws his empty glass at Mason's plate, shattering it.
+E: CONT'D
+C: MOM
+D: Oh!
+C: BILL
+D: What's the matter, you feeling a little left out? Bill throws the empty whiskey bottle past Randy. It shatters on the floor.
+E: O.S. to Randy
+C: MOM
+D: Oh!
+C: BILL
+D: Clean it up, goddamnit! Clean it up!
+C: MOM
+D: Bill! Bill!
+C: BILL
+D: Clean it up, goddamnit! I hate squash! Bill walks away, leaving the shocked family at the table. INT. BEDROOM - NIGHT Mason watches THE LANDLORD web video on his laptop. The other kids lounge about the room, listening to the audio.
+C: SAMANTHA
+D: How many times can you watch that, Mason?
+C: MASON
+D: It's funny. A moment passes as Mason watches his video.
+C: MASON
+D: Has he ever gotten this bad before?
+E: CONT'D
+C: RANDY
+D: No, but he's yelled a lot.
+C: MINDY
+D: Yeah, but he hasn't thrown and broken stuff. INT. LIVING ROOM - DAY Bill sits on the coffee table, facing all four kids in a row on the sofa.
+C: BILL
+D: Give me your cell phones. So nobody talked to her, huh? The girls shake their heads no. Bill is checking their phone call histories.
+C: BILL
+D: Mason?
+E: CONT'D
+C: MASON
+D: No.
+C: BILL
+D: Mindy?
+C: MINDY
+D: No.
+C: BILL
+D: I'll believe you... Samantha?
+C: SAMANTHA
+D: No. Bill holds her phone screen out, as if to prove her wrong.
+C: SAMANTHA
+D: I didn't talk to her. She left a message.
+E: CONT'D
+C: BILL
+D: What'd she say?
+C: SAMANTHA
+D: Nothing much.
+C: BILL
+D: What did she say?
+C: SAMANTHA
+D: She said she'd be back later.
+C: BILL
+D: And that's all? "I'll be back later," click?
+C: SAMANTHA
+D: She said, "Stay in your rooms. I'll be back later."
+C: BILL
+D: I'll be back later, stay in your rooms. And that's all? Hm?
+E: O.S.
+C: SAMANTHA
+D: Yeah.
+C: BILL
+D: Where is she?
+C: SAMANTHA
+D: I don't know.
+C: BILL
+D: Where is she?
+C: SAMANTHA
+D: She didn't say!
+C: BILL
+D: Alright, everybody get in the car. Hurry up! Get in the car! EXT. LIQUOR STORE PARKING LOT - DAY Mindy stands at the ATM. The screen first reads: PLEASE TAKE YOUR RECEIPT. Then: INSUFFICIENT FUNDS. She walks over to Bill's car window.
+C: MINDY
+D: It's still not working.
+C: BILL
+D: Ohh, bullshit. She took it all. INT. DRIVER'S SEAT - CONTINUOUS Bill sloppily writes out a check. It's obvious that he has been drinking.
+C: BILL
+D: Alright, Randy, go cash this. Uh... Tell him I'm not feeling well or something. I don't know. Mason, go with him. Here. Here's my ID. Mindy gets back into the car, as Mason and Randy exit. INT. LIQUOR STORE - CONTINUOUS Mason and Randy enter the liquor store.
+C: CLERK
+D: Hi, good afternoon, fellas. What can I do for you today? Randy lays the check and driver's license down on the counter, for the Clerk to examine.
+C: CLERK
+D: Now what's this? Can't read this. Hey! This isn't you, who is this?
+E: O.S. CONT'D
+C: RANDY
+D: It's our... dad. Bill waves from the car.
+E: pointing outside
+C: RANDY
+D: He's not feeling well.
+E: CONT'D
+C: CLERK
+D: Oh! Hey! Yeah, I know him. Okay, here we go. Five hundred bucks. One, two, three, four... Five hundred bucks. Alright? Don't forget your dad's ID. The boys leave the store, while the Clerk calls after them.
+C: CLERK
+D: Alright, take care of your dad now, son. You've only got the one. INT. CAR - DAY Bill is impatiently stuck behind a slow-moving car.
+E: CONT'D
+C: BILL
+D: Damnit. Get outta the way! Jesus Christ. God! The children SCREAM as Bill weaves in and out of traffic trying to pass the car.
+C: BILL
+D: Calm down!
+E: CONT'D
+C: MASON
+D: What the hell?! INT. HOUSE - DAY Mom walks into the front entry, but stops there. She has a friend, CAROL, waiting behind her.
+C: MOM
+D: Samantha! Mason! Samantha! Samantha is a the top of the stairs observing the scene. Bill approaches the front entry.
+E: shouting
+C: BILL
+D: Where the hell have you been?
+C: MOM
+D: I'm leaving you, Bill. We're moving out.
+C: BILL
+D: I doubt that.
+C: MOM
+D: Samantha and Mason! Come down!
+C: BILL
+D: No, mm-mm, don't think so. Oh, who's this?
+C: CAROL
+D: I'm not here for you!
+C: BILL
+D: Oh, really? Oh, I know, you're here to protect my wife from me. Well, thank you so much, you two. He reaches towards her.
+C: MOM
+D: Okay, stay back! Now behave!
+C: BILL
+D: Why don't you come inside here, huh? Come inside here. Where the hell are you goin'? Get your ass upstairs, you're not goin' anywhere.
+E: To Samantha and Mason
+C: MOM
+D: Stop! Come on!
+E: to Samantha and Mason
+C: BILL
+D: Where the hell do you think you're going? Bill notices Randy and Mindy listening.
+C: BILL
+D: Get upstairs! What the hell--
+E: CONT'D
+C: MOM
+D: Hey!
+C: BILL
+D: Nobody's going anywhere, goddamnit.
+C: MOM
+D: Stop it!
+C: BILL
+D: No, goddamnit! Bill moves to block them from leaving the house with his arm.
+C: MOM
+D: Don't touch my kids!
+C: BILL
+D: Alright, take 'em. Go on, go on.
+C: MOM
+D: Don't touch them!
+C: BILL
+D: Take 'em!
+C: CAROL
+D: Come on. It's okay, it's okay, it's okay.
+C: BILL
+D: Well take 'em then, just take 'em! Go! Bill turns back to Mindy and Randy.
+C: BILL
+D: Get upstairs! Olivia!
+E: CONT'D to Randy and Mindy calling down the street
+C: MOM
+D: Seat belts! Put your seat belts on. The car backs out of the driveway and leaves. INT. VAN - CONTINUOUS
+C: SAMANTHA
+D: Where are we going?
+C: MOM
+D: We're going to stay with Carol and her family for a while. Samantha and Mason look around.
+C: MOM
+D: Don't look back.
+E: CONT'D
+C: CAROL
+D: It's gonna be okay. INT. CAROL'S HOUSE - MOMENTS LATER Mason and Carol's son, LEE, play a boxing game on Nintendo Wii, while her daughter, ABBY, sings in the background. Mom brings the boys a snack.
+E: O.S.
+C: MOM
+D: Hey, Lee and Mason. Take a break. Here's a snack. Abby continues to sing. The room is tense.
+C: CAROL
+D: Hey, Abby, why don't you come help me with this, huh?
+C: SAMANTHA
+D: Why couldn't Randy and Mindy come with us?
+C: MOM
+D: I'm not their legal guardian, honey. That would be kidnapping. I can't just...
+C: SAMANTHA
+D: Well, what's gonna happen to them? What happens when their legal guardian is dangerous and abusive?
+C: MOM
+D: You know, I don't know honey. I called their mom. I called the Child Protective Services. You know, I have you and your brother. We were in a dangerous situation. You're my responsibility.
+C: SAMANTHA
+D: Are we ever gonna see them again?
+C: MOM
+D: I don't know. And I hope so.
+C: SAMANTHA
+D: How much longer are we gonna be here? Mom fights back tears.
+C: MOM
+D: Not long. We're... Oh, I don't -- I don't know. I don't have the answer to everything.
+E: starts crying
+C: CAROL
+D: Hey, listen. We are happy to have you here as long as you want. As long as you need. This is fun for us, isn't it?
+C: ABBY
+D: Mm-hmm.
+C: CAROL
+D: Yeah, it's like having a big sister? Like having a brother.
+C: MOM
+D: We're gonna help out, right? You're not even gonna know we're here.
+C: CAROL
+D: Okay. EXT. SCHOOL - DAY Mom pulls up to drop Samantha off at the front doors of her new Junior High School.
+C: SAMANTHA
+D: Mom, this is awful. You're dumping me in some parking lot of this school where I don't even know anyone! I'm leaving all my friends and I didn't even get to say goodbye! I don't know where to go!
+C: MOM
+D: Okay, Samantha. You go right through that door. The office is right there. They're expecting you, they're gonna give you your schedule. Here's your lunch money. I will pick you up right here at 3:30.
+C: SAMANTHA
+D: I'm wearing dirty clothes! Because you wouldn't even let us get our stuff! We don't even have a place to live! This sucks! Samantha gets out of the car, slamming the door behind her. Mom screams out of the window as she walks away.
+C: MOM
+D: Samantha... I'm doing the best I can! And you're right, it sucks! But it doesn't suck half as much as having a drunk fool slam your head against a wall! So cut your horseshit attitude. Mom turns to Mason in the back as he climbs toward the front seat.
+C: MOM
+D: Put your seat belt on! INT. SCHOOL HALLWAY - DAY Mom is walking Mason to his class.
+E: CONT'D
+C: MOM
+D: You know if you need anything I'm in room 112, right? Mason nods.
+C: MOM
+D: Okay. This is Mrs. Darby's room. Oh, honey, it's gonna be okay. Okay? Mom leans in to kiss him.
+E: CONT'D
+C: MASON
+D: Mom... Mason walks away, embarrassed at her public affection. INT. SCHOOL CLASSROOM - CONTINUOUS The students all make small talk as they wait for class to begin. Mason enters and looks to MRS. DARBY for instruction.
+C: MRS. DARBY
+D: Hi! Are you Mason?
+C: MASON
+D: Yeah.
+C: MRS. DARBY
+D: Hi. I'm Mrs. Darby. I'm glad to meet you. Why don't you sit here? Kenny! Off! Kenny climbs down from on top of his desk and takes his seat.
+E: to Kenny
+C: KENNY
+D: Yes ma'am.
+C: MRS. DARBY
+D: Kenny. This is Mason and I want you to show him around today, okay?
+C: KENNY
+D: Got it.
+C: MRS. DARBY
+D: Okay.
+C: KENNY
+D: Hey dude. Welcome to the suck. The boys trade a casual low five and exchange a smile.
+C: MRS. DARBY
+D: Everybody, listen up. We have a new student joining us today. His name is Mason, he's sitting in the back row.
+E: O.S. MORE
+C: MRS. DARBY
+D: Kenny's gonna be his buddy, but I want each one of you to take the time today, to introduce yourselves, and welcome him to school. Okay? Alright? Let's get started. EXT. NEIGHBORHOOD STREET - DAY Mason pushes an Obama/Biden campaign sign into the ground, before he and Samantha walk across the street. Samantha waits in the street with more signs, while Mason knocks on the RESIDENT's front door.
+E: O.S. CONT'D
+C: RESIDENT
+D: What? The white-haired Resident is standing to Mason's right, beneath his carport.
+E: O.S.
+C: MASON
+D: Oh, hi. Can I put an Obama sign in your yard?
+C: RESIDENT
+D: Do I look like a Barack Hussein Obama supporter? Mason shrugs.
+C: RESIDENT
+D: No. Mason turns to leave.
+E: CONT'D
+C: RESIDENT
+D: This is private property. Get off. I could shoot you! He rejoins Samantha at the street.
+E: CONT'D
+C: MASON
+D: What a dick.
+C: SAMANTHA
+D: He had a Confederate flag on his house. EXT. NEIGHBORHOOD STREET - MOMENTS LATER Samantha is now talking to a young, BLONDE HOUSEWIFE.
+C: BLONDE HOUSEWIFE
+D: I love it!
+E: MORE
+C: BLONDE HOUSEWIFE
+D: Young Obama supporters out on the trail. This is great! Are you doing this through your school?
+E: CONT'D
+C: SAMANTHA
+D: Um. Our dad's a big supporter.
+C: BLONDE HOUSEWIFE
+D: Oh, that's great. I mean, we've just got to pull together to get this win, right?
+C: SAMANTHA
+D: Yeah.
+C: BLONDE HOUSEWIFE
+D: Oh, I just love him so much. I mean I have these dreams where I'm just kissing him because I just love him so much! He's so cute, isn't he?
+C: SAMANTHA
+D: Yeah.
+E: laughs
+C: BLONDE HOUSEWIFE
+D: Do you know, I made these t-shirts for my kids. "My Momma's for Obama!" Do you like it? It's good, right? Yeah. Samantha turns to walk towards the street.
+C: BLONDE HOUSEWIFE
+D: Thanks for the sign!
+E: O.S. CONT'D
+C: SAMANTHA
+D: No problem. Dad pulls up in his car, arriving to pick them up.
+E: O.S.
+C: DAD
+D: Hey, alright! Looks good! How many you got left, two? Alright, alright, we're done. Let's get out of here. Come on, Sam. Dad spots a McCain sign in the front yard across the street.
+C: DAD
+D: Go get that McCain sign, would you?
+E: CONT'D to Mason
+C: MASON
+D: What?
+E: hesitating
+C: DAD
+D: Get the McCain sign! Go rip it up, come on! Get it, get it, get it... Go! Go! Go! Mason runs across the street to grab the sign.
+C: DAD
+D: Good job, buddy. Yeah. Proud of you, son. Dad closes the stolen sign into the trunk of his car, before the three of them drive off down the street.
+E: CONT'D
+C: SAMANTHA
+D: You guys are gonna get us arrested.
+C: DAD
+D: Hey, look. I'm a patriot, alright? Sometimes in this life, you gotta fight. INT. BOWLING ALLEY CAFE - EVENING They sit around a table talking.
+C: DAD
+D: And what is it that you do at these parties?
+E: O.S.
+C: SAMANTHA
+D: I don't know... talk, dance, listen to music.
+C: DAD
+D: Uh-huh. And that's more fun to you than going camping with your brother and your father who love you?
+C: SAMANTHA
+D: Yes. Sorry.
+C: DAD
+D: Wow. Is there gonna be alcohol there?
+C: SAMANTHA
+D: Probably not. Maybe some of the seniors.
+C: DAD
+D: Mm-hmm. I know what this party is. The parents are out of town, right? Somebody's uh, scored a keg, right... You guys are gonna have a good time, trash the whole house... Right? Am I right?
+C: SAMANTHA
+D: No.
+C: DAD
+D: No? No?
+E: O.S.
+C: SAMANTHA
+D: No, Dad. Amy's really responsible.
+C: DAD
+D: Mm-hmm. Who's gonna be there?
+C: SAMANTHA
+D: Marie, Christine, Amy... Everyone.
+C: DAD
+D: Is uh, is that guy on your Facebook page, is he gonna be there? Hm?
+C: SAMANTHA
+D: Who?
+C: DAD
+D: Come on, the guy that has got his arm wrapped around you with his hair over his eyes and --
+C: SAMANTHA
+D: Garrett?
+C: DAD
+D: Garrett, is that his name? Alright, is Garrett gonna be there?
+C: SAMANTHA
+D: Probably?
+C: DAD
+D: Probably. Uh-huh, you see? I learn more about her from her Facebook page than I do from our scintillating conversation. Is he your boyfriend?
+E: to Mason to Samantha
+C: SAMANTHA
+D: Kind of. Dad turns to Mason for further information.
+C: DAD
+D: Have you met him? Has he been around the house?
+C: MASON
+D: Sometimes.
+C: DAD
+D: Sometime-zz? Zzz? Dad turns his attention back to Samantha.
+C: DAD
+D: You have a boyfriend... Wow. Have you heard of Sarah Palin?
+E: CONT'D
+C: SAMANTHA
+D: Yes.
+C: DAD
+D: What's the one thing that you know about Sarah Palin's seventeen year old daughter?
+C: SAMANTHA
+D: She's pregnant?
+C: DAD
+D: That's right. And what is the one thing that you are not going to be in a couple of years when you turn seventeen?
+C: SAMANTHA
+D: Pregnant?
+C: DAD
+D: That's right! Alright, now what are the, the two ways that you can achieve that goal? The first is... not have any sex. Okay? That's the first way. Okay? Just not engage in that. That did not work out very well for your mother and me. And what's the second way? Mason stands to leave the table.
+C: DAD
+D: Where are you going?
+E: CONT'D
+C: MASON
+D: Bathroom.
+C: DAD
+D: You don't have to go to the bathroom. Sit down, Mason. Just... Just sit down. What's the second way? Alright? Has your mother talked to you guys about this stuff?
+C: SAMANTHA
+D: Oh, Dad. Dad.
+C: DAD
+D: No, come on. Has she talked to you about... contraception? The kids are visibly uncomfortable with the conversation.
+C: DAD
+D: Huh? What has she -- condoms? Has she talked about that?
+E: CONT'D
+C: SAMANTHA
+D: Oh, Dad. Please!
+E: O.S.
+C: DAD
+D: What? What?
+C: SAMANTHA
+D: That's enough.
+C: DAD
+D: Well. Does Garret have a condom?
+C: SAMANTHA
+D: Ohh! God! Dad!
+C: DAD
+D: What? What, come on Sam. We have to be able to talk about this. Alright? Come on, we do. We can do it. We can do it. Just stay with me here. Alright? It's as hard for me as it is for you. But, seriously though, alright, I read an article in the paper the other day... that said that although U.S. teenagers are not the most sexually active, we have the highest rate of teenage pregnancy. Okay? A woman, TAMMY, walks up to the table, interrupting their conversation.
+C: TAMMY
+D: Hey. What's goin' on?
+C: DAD
+D: Oh, hey. Hey, Tammy. How you doin'? Dad stands to greet Tammy.
+C: TAMMY
+D: Nice to see you.
+C: DAD
+D: Wow, yeah, good to see you. Um, Tammy, this is my daughter Samantha.
+C: TAMMY
+D: Hey.
+C: DAD
+D: And this is Mason Junior right here. Tammy.
+C: TAMMY
+D: Mason Junior.
+E: O.S.
+C: DAD
+D: Say hi.
+E: O.S.
+C: MASON
+D: Hi.
+C: TAMMY
+D: Hi, Mason. Nice to meet you. Heard a lot about you guys.
+C: DAD
+D: Yeah, yeah. What're you doin' here? You uh...
+C: TAMMY
+D: Oh, I'm just here with some friends.
+C: DAD
+D: Oh, well, uh....
+C: TAMMY
+D: Yeah. What are you guys up to? Dad sits back down at the table.
+C: DAD
+D: Um, we're going camping. Well no, this one is not going camping. This one is going to a party.
+C: TAMMY
+D: Ohh... Fun.
+E: to Samantha
+C: DAD
+D: We, the men, are going camping.
+C: TAMMY
+D: Boys are going camping. Alright, very nice. Well uh, we still on for tomorrow or...?
+C: DAD
+D: Yeah --
+E: O.S.
+C: TAMMY
+D: Yeah?
+C: DAD
+D: Yeah, yeah, yeah. No, I'll drop him off at seven and then I'll just call you, alright?
+C: TAMMY
+D: Okay. Great. It was really nice meeting you both. Take care.
+C: DAD
+D: I'll see you.
+C: TAMMY
+D: Talk to you soon. Bye. Tammy walks away. Mason smirks at his dad.
+C: DAD
+D: Don't -- don't, don't look at me like that, alright? I just -- look, just to finish the point -- okay? I was twenty-three when your mom had you, alright? So was she, alright? And we didn't put ourselves in the best position to be great parents, and I wish that -- I wish I were a better parent to you guys. Alright? And I, I hope that you can learn from my mistakes. Okay? So, wear a condom. Or get Garrett to -- I don't know. Whatever. Samantha cringes, as Dad laughs. Mason can't help but smile. INT. MOVING CAR - DAY Dad and Mason are driving along the open road, listening to a song by Wilco.
+C: DAD
+D: Now... listen to this song, alright? Sings along:
+C: DAD
+D: "I try to stay busy" It's just straight up, the lyrics... it's a straight up old school country song.
+E: CONT'D
+C: SONG
+D: "I do the dishes, I mow the lawn..."
+C: DAD
+D: Listen to the production of this. Production's like uh, like "Abbey Road" or something.
+C: SONG
+D: "I try to keep myself occupied" Dad sings along.
+C: DAD
+D: "Even though I know you're not comin' home." You know, his old woman's gone... straight up. Nothin' fancy.
+C: DAD AND SONG
+D: "I try to keep the house nice and neat. Make my bed. I change the sheets." EXT. RIVERBED - DAY Mason and Dad walk along the rocks, mid-conversation. They sit down near the water and begin taking off socks and shoes.
+C: MASON
+D: Yeah, I think she's about to get her master's degree.
+C: DAD
+D: Well, then she's gonna start applying for teaching jobs?
+C: MASON
+D: I think she already has.
+C: DAD
+D: Really? Where?
+C: MASON
+D: All over.
+E: shrugs
+C: DAD
+D: All over Texas?
+C: MASON
+D: Yeah.
+C: DAD
+D: Well, if you gotta move, you gotta move, you know? It's no big deal. We can handle that. I'll still come get you every other weekend. I mean, unless she moves 500 miles away or something, it'll just be a little more car time. No big deal.
+C: MASON
+D: I'm just kinda sick of moving.
+C: DAD
+D: Well, I bet you are. But you know, you never know. I mean, I might have to move, right? I'm working for this insurance company now. These places get bought and sold all the time. You know? We'll just roll with it. They take off pants, walk up to the water in boxer shorts.
+C: MASON
+D: I thought you were a musician?
+C: DAD
+D: I am but... life is expensive, you know. Guy's got to be responsible. What do you think? Mason pushes his Dad into the water, then dives in himself.
+C: DAD
+D: Hey, hey, you bast -- Oh you, punk kid! You got no respect! Dad splashes his son and they both begin to swim. CUT TO: EXT. FOREST - DAY Mason and Dad are now hiking through the woods.
+E: CONT'D
+C: MASON
+D: You know that redhead at the bowling alley?
+C: DAD
+D: Sure. What about her?
+C: MASON
+D: Do you know her well?
+C: DAD
+D: Ahhh, you know, we've hung out a little bit.
+C: MASON
+D: Is she your girlfriend?
+C: DAD
+D: How do you mean?
+C: MASON
+D: Like... have you kissed her?
+C: DAD
+D: Um... Yeah. Yeah. I've kissed her. What about you? You got a girlfriend?
+C: MASON
+D: Sort of.
+C: DAD
+D: Really. Have you uh, have you kissed her?
+C: MASON
+D: Not really.
+C: DAD
+D: Yeah. Well, what have you done?
+C: MASON
+D: Well, we talked on the phone.
+C: DAD
+D: Oh yeah? How'd that go?
+C: MASON
+D: Pretty terrible.
+C: DAD
+D: Oh yeah?
+E: MORE
+C: DAD
+D: Why?
+E: CONT'D Laughs
+C: MASON
+D: Well, when we're at school, we got plenty to talk about, but when we're alone or on the phone, it's like we have nothing in common.
+C: DAD
+D: Nothing?
+C: MASON
+D: Uh, she's not interested in music or video games or... the three best movies this summer...
+C: DAD
+D: All right. What?
+C: MASON
+D: Tropic Thunder, Dark Knight and Pineapple Express.
+C: DAD
+D: Yeah, what about 'em?
+C: MASON
+D: She said they all sucked.
+C: DAD
+D: Okay, well what's she interested in?
+C: MASON
+D: I don't know. Goin' to the mall with her stupid friends.
+C: DAD
+D: Alright. Well, is she cute? Watch your step there.
+C: MASON
+D: Yeah.
+C: DAD
+D: Yeah? Alright. Well, here's what you do. Alright. First off, you gotta ask her a lot of questions. Then you have to listen to the answers, alright, actually be interested in her. Alright, if you can do those things, you're gonna be light years ahead of all the other guys. EXT. CAMPSITE - NIGHT Dad and Mason sit around the campfire, making s'mores.
+C: DAD
+D: Okay, this is the best s'more I ever made in my life, alright.
+C: MASON
+D: Dad...
+C: DAD
+D: This is absolute peak. Look at this.
+C: MASON
+D: Ah, that's just perfect.
+C: DAD
+D: Honey brown, no burn... look at that, huh? Mason laughs.
+C: DAD
+D: Sell that in the store. Mmm.
+E: CONT'D
+C: MASON
+D: That's like advertisement worthy.
+C: DAD
+D: Mm-hm. Advertisement quality.
+C: MASON
+D: Yeah. Dad laughs.
+C: DAD
+D: You think they ever will make another "Star Wars"?
+C: MASON
+D: I don't know. I mean, I think if they were to make another one that the period where the game is set is where it would have to be, 'cause there's nothin' after, really. At the end --
+C: DAD
+D: Yeah, no, "Return of the Jedi" it's over. There's nothin' --
+C: MASON
+D: Yeah, there's nothing else to do there. But --
+C: DAD
+D: You know, you can turn Han Solo into a Sith lord. I mean --
+C: MASON
+D: Yeah, what are you gonna do? They share a laugh. EXT. CAMPSITE - LATER Dad is singing and playing guitar -- "L.A. Freeway." -- from inside the tent. EXT. CAMPSITE - DAY Dad is standing over the campfire, peeing on it. Mason steps out of the tent.
+C: DAD
+D: Good mornin'.
+C: MASON
+D: Mornin'.
+C: DAD
+D: You gotta pee?
+C: MASON
+D: Sure.
+C: DAD
+D: Ah. Hit the campfire. Ancient, uh, Native American custom. You're gonna give back to the Earth what you take from it and you don't burn the forest down. Mason pees onto the fire. EXT. SCHOOL - DAY Mom pulls up to drop the kids off at school.
+C: MOM
+D: Okay guys, you have a good day. Mason, don't forget, I have to teach late today. Sam's gonna pick you up. Right, Sam?
+C: SAMANTHA
+D: Yeah.
+C: MASON
+D: Alright.
+C: MOM
+D: Okay. Bye, guys.
+C: MASON
+D: See ya. Mason exits the car and walks toward the school building. INT. SCHOOL - DAY Mason walks down the hall with his classmate TONY.
+C: TONY
+D: Hey. That's who I was talking to you about.
+C: MASON
+D: Yeah. Good luck with that.
+C: TONY
+D: See you, man. Mason stops to get new books out of his locker. INT. REST ROOM - DAY Mason fixes his hair in the mirror. Two BULLIES are vandalizing the walls. Bully #1 turns and wanders over to Mason, suddenly bumping into him. BULLY #1 Don't bump into me! Little bitch!
+C: MASON
+D: I didn't! BULLY #1 You callin' me a liar?
+C: MASON
+D: No. BULLY #1 Don't act like you're tough shit, motherfucker. Bully #2 walks over to join the altercation. BULLY #2 I don't think pretty boy's hair's good enough. Bully #2 tries to mess with Mason's hair. Mason blocks his hand. BULLY #2 Hey! Don't touch me, faggot! Another student enters. The two bullies start to walk away. Bully #1 shoves Mason and flips him off, as they exit. BULLY #1 You're a fuckin' asshole. EXT. SCHOOL - AFTERNOON Mason leans against the wall of the school, waiting for Samantha to pick him up. When he realizes she isn't coming, he starts to walk away. EXT. DOWNTOWN SAN MARCOS - MOMENTS LATER Mason is now passing through an alley with JILL, who walks her bike alongside him.
+E: CONT'D
+C: JILL
+D: Hey, Mason!
+E: O.S.
+C: MASON
+D: Hi Jill.
+C: JILL
+D: So, where are you going?
+C: MASON
+D: Over to the college.
+C: JILL
+D: What's going on there?
+C: MASON
+D: My mom's a teacher.
+C: JILL
+D: Oh, cool! What does she teach?
+C: MASON
+D: Psychology... I think. What are you up to?
+C: JILL
+D: Oh, my mom owns Needleworks.
+E: MORE
+C: JILL
+D: The arts and crafts store over there? So I'm just kind of hanging out. But I'm supposed to be going to the hospital soon.
+E: CONT'D
+C: MASON
+D: How come?
+C: JILL
+D: You know Courtney? Girl with the dyed black hair and the nose ring? Wears Hot Topic every day?
+C: MASON
+D: I... think so.
+C: JILL
+D: We used to be best friends growing up, but we've kinda grown apart. She sorta got all emo. She thinks I'm a prep. But, I still consider her a friend! Anyway, she cut one of her wrists. I don't know how bad, but I think I should go visit. Jill glances down at the book in Mason's hand.
+C: JILL
+D: So what are you reading?
+E: CONT'D
+C: MASON
+D: Oh, it's uh, "Breakfast of Champions". Kurt Vonnegut.
+C: JILL
+D: I think my older brother likes him. I'm reading "To Kill a Mockingbird" for the third time. My friends make fun of me. I think I'm the only girl in the whole school who doesn't like the "Twilight" books. Have you read them?
+C: MASON
+D: Sure haven't.
+C: JILL
+D: I tried... but it was so cheesy! So how do you like San Marcos?
+C: MASON
+D: I like it alright. It's a lot smaller than Houston, but it seems pretty cool. Have you always lived here?
+C: JILL
+D: Yeah. If you want the big city around here, you have to drive to San Antonio or Austin. Have you been there yet?
+C: MASON
+D: I went to San Antonio for a day, but... I haven't been to Austin yet.
+C: JILL
+D: That's where all the high school kids go, on weekends, for shows and stuff.
+C: MASON
+D: That's what I've heard.
+C: JILL
+D: So are you going to Shauna's party next weekend?
+C: MASON
+D: Um... I think I heard about it. I'm not really sure, though.
+C: JILL
+D: Well you should!
+C: MASON
+D: Why's that?
+C: JILL
+D: Well -- LeeAnn has a big crush on you and I know she was hoping you would go. You don't have a girlfriend, do you?
+C: MASON
+D: Not currently.
+C: JILL
+D: Well then, you should come. I'll tell Chase to make sure you're there.
+C: MASON
+D: Okay.
+C: JILL
+D: But don't tell LeeAnn I told you that. She'd kill me.
+C: MASON
+D: I won't.
+C: JILL
+D: Well, I better get going. See you later.
+C: MASON
+D: Bye. INT. COLLEGE CLASSROOM - DAY Mason walks into his mother's classroom. He takes a seat to observe from the back, while she lectures.
+C: MOM
+D: His cognitive series, his interviews with orphans, Ethology theorists' work... And then he in turn was supported strongly by Harry Harlow's rhesus monkey study. Now you guys, you gotta think, this is the 1950's, this was radical! This flew in the face of traditional learning theory, of B.F. Skinner's classical and instrumental conditioning. Now, Bowlby is going to argue that human survival depends on us falling in love. It depends on me falling in love with my mother, and my mother falling in love with me. And if that doesn't happen, we're pretty much doomed. Now think about it. A tiger chases our tribe out of a cave. Now an ideal mother goes, "Huh! My baby! I love you! I'll protect you!" Or... "Well you, why am I going to pick you up? You're going to slow me down. You... are... tiger kibble!" The class laughs.
+E: O.S.
+C: MOM
+D: So next week we are gonna get into Bowlby's four stages of attachment -- oh oh, uh, Professor Douglas and I -- some of you might have classes with Elena -- she and I are hosting a little pre-Thanksgiving get-together at my place, so if anyone wants to come, please stop by. I'm not the greatest cook... The class laughs again. INT. APARTMENT - DAY Mason opens the door as he and his mother enter the house.
+E: CONT'D pause
+C: MOM
+D: Thanks. Mom drops her purse on the table and then walks down the hallway to Samantha's bedroom. She knocks on the door before walking inside.
+C: MOM
+D: Samantha! Samantha is sitting on her bed, listening to music with a friend, GABY.
+E: CONT'D
+C: SAMANTHA
+D: Okay! Mom...
+C: MOM
+D: Why in the hell didn't you pick up your brother like you said you would?
+C: SAMANTHA
+D: Mom, I know what you're gonna say. She was running late and we couldn't turn around.
+C: MOM
+D: No, no! No excuses! The bottom line is you didn't do what you said you were gonna do. You stranded your brother!
+C: SAMANTHA
+D: It's embarrassing to ask my friend to turn around and go get some kid at the middle school.
+C: MOM
+D: What do you mean "some kid"? He's your brother! And you know what? We've helped Janie out before. I mean, she lives right around the corner. It's no big deal.
+C: SAMANTHA
+D: Sorry.
+C: MOM
+D: You know what, Samantha? You need to start thinking long and hard about who you want to be.
+E: MORE
+C: MOM
+D: Do you want to be a cooperative person, who is compassionate and helps people out? Or do you want to be a self-centered narcissist?
+E: CONT'D
+C: SAMANTHA
+D: You know what? You're right. I am this horrible person... But honestly, he's not a baby anymore. You don't have to treat him like one. He's in eighth grade and he can find his way home if he wants to.
+C: MOM
+D: You know what? When Gaby leaves, you and me are gonna have a chat. Mom leaves the room.
+C: SAMANTHA
+D: Awkward... Gaby and Samantha laugh together.
+E: to Gaby
+C: GABY
+D: Dude, that sucks. EXT. APARTMENT - DAY CHASE approaches Mason's front door and knocks. Mason answers the door.
+C: MASON
+D: Hey man. What's up?
+C: CHASE
+D: Hey, we're going camping tonight. You in?
+C: MASON
+D: Uh, who's goin'?
+C: CHASE
+D: My brother, one of his friends, and Tony... Maybe.
+C: MASON
+D: Yeah, let me check with my mom. INT. MOM'S BEDROOM - MOMENTS LATER Mom is sitting on her bed grading papers.
+C: MASON
+D: Hey, Mom. Can I go camping with Chase tonight?
+C: MOM
+D: Camping? Where?
+C: MASON
+D: Uh, at that house that his family's building. It's pretty much finished.
+C: MOM
+D: Well, will any adults be there?
+C: MASON
+D: His brother's a senior.
+E: shrugs
+C: MOM
+D: You have your cell phone?
+C: MASON
+D: Yeah.
+C: MOM
+D: Is it charged?
+E: O.S.
+C: MASON
+D: Mm-hmm.
+C: MOM
+D: Okay, do me a favor. Leave his parents' number and the address on the counter.
+C: MASON
+D: Okay. INT. CAMPING HOUSE - NIGHT Mason, Chase, and Tony are now with two older guys, CHARLIE and his friend . The boys are drinking beer and breaking wooden boards with their feet.
+E: Chase's older brother SENIOR GUY
+C: SENIOR GUY
+D: Yeah! That's what I'm talkin' about! The boys murmur indistinctly.
+C: SENIOR GUY
+D: You ready? Check this shit out. That was alright, but this is gonna be badass.
+E: CONT'D
+C: CHARLIE
+D: Alright, let me see, let me see what you can do.
+C: SENIOR GUY
+D: Alright. This -- is your face. I'm about to break his face, right here... Senior Guy kicks through the wooden board.
+C: BOYS
+D: Ohh shit, alright. Nice.
+C: CHARLIE
+D: Alright, alright.
+C: CHASE
+D: Alright, alright. Now check this out. You might want to move. Chase picks up a circular saw blade and throws it into a large piece of sheet-rock with the outline of a body on it.
+C: CHASE
+D: Oww, that'd be painful. That's like the liver, stomach, something --
+E: CONT'D
+C: TONY
+D: That's like the belly button --
+C: MASON
+D: Check this out, man. Mason also heaves the blade into the human outline.
+C: TONY
+D: Whoa! Pancreas!
+C: MASON
+D: That shit's lethal.
+C: CHASE
+D: Yeah, that would be painful.
+C: CHARLIE
+D: Man, have a beer, man. That was awesome. Here. Mason takes the beer and opens it, winning the boys' approval.
+E: To Mason
+C: SENIOR GUY
+D: It's beer-30, children.
+C: CHASE
+D: Nice. Chase offers a beer to Tony.
+C: TONY
+D: Aw, no thanks.
+C: CHASE
+D: Come on, man.
+C: CHARLIE
+D: What, are you a pussy?
+C: TONY
+D: No, I just don't feel like drinking a beer right now.
+C: CHARLIE
+D: Man, if you're too chicken shit to even have a beer, I know for a fact that you have never gotten any pussy.
+C: TONY
+D: Like you guys have.
+C: CHASE
+D: Sure have.
+C: TONY
+D: When?
+C: CHASE
+D: Last summer.
+C: MASON
+D: With who?
+C: CHARLIE
+D: It was awesome. Chase went down easy street and fucked this whore Nancy. At least that's what he said.
+C: CHASE
+D: I did. Would I lie?
+C: SENIOR GUY
+D: Bullshit. Quick, where were you?
+C: CHASE
+D: At Tobler's house. And, she fucked a couple other guys, too.
+C: CHARLIE
+D: Oh man, his first piece of ass was sloppy seconds. The boys all laugh.
+C: CHARLIE
+D: What about you, Mason? You ever got any?
+E: CONT'D
+C: SENIOR GUY
+D: Yeah, you ever made her, uh, howl into the night?
+C: MASON
+D: A few times.
+C: TONY
+D: Really?
+E: skeptical
+C: SENIOR GUY
+D: Yeah, right. What was her name, Lucky?
+C: MASON
+D: Nooo. Jennifer. She doesn't live here, though. She's back in Houston.
+C: CHARLIE
+D: You're fucking lying.
+C: MASON
+D: I don't care if you assholes believe me or not.
+C: SENIOR GUY
+D: Let me guess -- you were pulling all kinds of ass back home, but once you got down here... lefty. Senior Guy motions with his left hand.
+C: MASON
+D: Hey, fuck you. I would, but none of the girls here want to.
+C: CHARLIE
+D: Dude, it's not what they want, man. It's what you want.
+C: SENIOR GUY
+D: True dat. Senior Guy toasts, as Mason rolls his eyes.
+C: CHARLIE
+D: You know what you should do? Join a band. That's all it takes, man.
+C: MASON
+D: Oh yeah?
+C: CHARLIE
+D: Fuck yeah, dude. You don't even have to play that well. I mean, you start playing your instrument, and they line up to give you blow jobs. Except for you. It doesn't impress the ladies so much when you play flute for the marching band.
+E: Points to Tony
+C: TONY
+D: I'm not in the fucking marching band.
+C: SENIOR GUY
+D: Ah dude, you sure? I heard you play the skin flute.
+C: TONY
+D: Alright, I got a question for you guys. If you think you're so cool, why are you hanging out with a bunch of eighth graders on a Friday night?
+C: SENIOR GUY
+D: Hey, fuck you, you little penis wrinkle. You know, you're lucky to even be here. This is our camp out. The only reason you little cum gums are here is because fucking Charlie's mom made him bring his little asshole brother, and then he drags along you little dice danglers. Fucking fuzz nut, talking shit! Senior Guy throws a beer just past Tony.
+C: CHARLIE
+D: It's all good, man. These little fuzz nuts are going to get their chance soon enough. We got some whores coming by later.
+C: CHASE
+D: Yeah?
+C: SENIOR GUY
+D: Hell yeah!
+C: CHARLIE
+D: Now, I know Chase will fuck anything. I mean, I've seen this kid mount boulders before. But what about you guys? You in?
+C: MASON
+D: Whatever.
+C: CHARLIE
+D: Alright.
+C: SENIOR GUY
+D: Alright, good man. What about you, Peter Puffer?
+C: TONY
+D: I don't know. Maybe.
+C: SENIOR GUY
+D: Dude, it's okay to be gay. We understand. Just, you know, sleep over there.
+C: TONY
+D: I'm not gay.
+C: CHARLIE
+D: Give it some time, man. You'll realize.
+C: TONY
+D: Fuck y'all.
+C: CHARLIE
+D: See, that's exactly my point, man. Nah, but we don't have whores coming over, we were just fucking with you to see what you'd say.
+C: SENIOR GUY
+D: Yeah, and you just earned your Vag Badge.
+C: CHARLIE
+D: Put it next to your bitch card.
+C: SENIOR GUY
+D: Yeah, 'cause you know, you're a bitch. Now hold this, like the bitch you are, bitch. The boys return to breaking boards.
+C: SENIOR GUY
+D: Alright, this shit is called the Death Punch. Senior Guy breaks the board in half with one direct punch.
+E: CONT'D
+C: BOYS
+D: Ohh! Jesus! INT. MOM'S HOUSE - DAY Mom is hosting a pre-Thanksgiving get-together with 10-15 people all drinking wine and talking
+C: MOM
+D: Hey, you guys made it! Good. Mom places a cheese plate on the living room table.
+E: to Mason and Samantha
+C: MOM
+D: Oh, there you are. PROFESSOR DOUGLAS hands Olivia a glass of wine.
+E: CONT'D
+C: PROFESSOR DOUGLAS
+D: And here you go, hostess.
+C: MOM
+D: Oh, thank you. Hey, can I get you a bite? INT. MASON'S BEDROOM - CONTINUOUS Mason sits on his bed, chatting with a COLLEGE GIRL, who looks around his room. There is a large graffiti mural on the wall behind him.
+C: COLLEGE GIRL
+D: Oh, that's cool.
+E: points to the mural
+C: MASON
+D: Thanks.
+C: COLLEGE GIRL
+D: You did that?
+C: MASON
+D: Yeah.
+C: COLLEGE GIRL
+D: Wow. How long have you been doing that for?
+C: MASON
+D: Not very long. Um, I went to this camp thing just this past summer.
+C: COLLEGE GIRL
+D: They have a camp for graffiti?
+C: MASON
+D: Well, they call it "urban art".
+C: COLLEGE GIRL
+D: Oh.
+C: MASON
+D: So it sounds, you know, less illegal, but... it was really just a way to get free spray paint.
+C: COLLEGE GIRL
+D: Cool. So is this your tag? Is that -- do they still call it...?
+C: MASON
+D: Yeah, but you know, it's just letters that I'm good at writing.
+C: COLLEGE GIRL
+D: Oh. K...
+C: MASON E. COLLEGE GIRL
+D: E. Z. J. O. Kezjo. That's cool.
+C: MASON
+D: It doesn't really mean anything, though. The College Girl notices a picture of Mason and his Dad leaning against the GTO.
+C: COLLEGE GIRL
+D: Is that your dad?
+C: MASON
+D: Yeah.
+C: COLLEGE GIRL
+D: Where's he live?
+C: MASON
+D: In Houston.
+C: COLLEGE GIRL
+D: Get to see him much?
+C: MASON
+D: Yeah, yeah. Some weekends, and over the summer.
+C: COLLEGE GIRL
+D: Cool.
+C: MASON
+D: So you're a student of my mom's, right?
+C: COLLEGE GIRL
+D: Mm-hm. Yeah, she's uh, I got one class with her. Yeah, she's cool.
+C: MASON
+D: How's she doing? You know, is she -- is she a good teacher and everything?
+C: COLLEGE GIRL
+D: Yeah! She's great. She's super smart and she cares, you know, she makes it interesting. She's probably even my favorite teacher. Mason nods. INT. DINING AREA - MOMENTS LATER One of Mom's students, JIM, tells a story while the group sits around the table eating.
+C: JIM
+D: ...So anyway, we figured out a way to rig up our iPods to the external speakers on the ASV. So every time we come rolling into town, you knew the 456 was there, 'cause we were bumping House of Pain. It was like, "Jump around, Jump around." And the whole family's coming outside, and you got the kids and the mom and the dad, and they're all bouncing up and down. We're throwing out candies for the kids, and soccer balls, and Beanie Babies, and Frisbees... Um, like, smokes for the adults. And they loved, they absolutely loved, Gatorade. But for some reason, you know, they hated the lemon-lime flavor. I don't know what it was. Yeah. Couldn't give it away. The group laughs.
+C: MOM
+D: How long were you over there?
+C: JIM
+D: Uhh... I did two tours in Iraq and one in Bosnia.
+C: MOM
+D: Wow.
+C: MASON
+D: Did you enlist?
+C: JIM
+D: Mm-hmm. Yeah. I was, um, Army National Guard. And, uh, you know coming straight out of high school. Needed money for college. Seemed like a decent paying job. And, uh, did my tour. And whenever I got done, I told them if there's, you know, a world-changing event, I'll come back. And, uh, 3 months later 9/11 happened. And I was back 9/12. And I'm proud to say the 456, the whole time we were there, we never lost a guy. Not one casualty.
+C: MOM
+D: But is that odd? Is that unusual?
+C: JIM
+D: Yeah. Almost impossible. Like the guys that came along after us and replaced us, they didn't listen to any of our advice. They, you know, did basically the polar opposite of what we did, and they lost seven guys in the first month.
+C: MOM
+D: Wow. What did you guys do differently?
+C: JIM
+D: Well, I'd like to think it's just a matter of mutual respect, you know. I mean, all the time we spent over there building trust, I mean these guys basically destroyed it in three days.
+C: PROFESSOR DOUGLAS
+D: So, what did the locals think about why we were there?
+C: JIM
+D: Oil. Plain and simple. INT. LIVING ROOM - MOMENTS LATER The College Girl is now playing guitar and singing "Wish You Were Here" along with others in the living room. At some point, Mason notices Mom talking with Jim outside on the porch. EXT. CAR - NIGHT A station wagon pulls up in front of Mason's house. The teenagers inside are listening to music, about to drop Mason off at home. INT. CAR - NIGHT Mason is in the far back of the station wagon, making out with a BLONDE GIRL.
+C: CHASE
+D: Hey, Mason. One last hit. Mason takes a hit of the joint.
+E: hands Mason a joint
+C: CHARLIE
+D: Hey! Mickey Mouse Club. Get the fuck out of my car. Just crawl out the back window or something, man. Mason climbs out the back window of the station wagon.
+E: in the driver's seat
+C: BLONDE GIRL
+D: I'm gonna miss you.
+C: MASON
+D: I'll see you on Sunday night.
+C: BLONDE GIRL
+D: Alright. You better text me.
+C: MASON
+D: Mm. Do you have any gum?
+C: BLONDE GIRL
+D: Um... yeah, I do, actually. Here you go.
+C: MASON
+D: Thanks. See ya. Mason kisses her good-night. INT. JIM'S HOUSE - NIGHT Mom is hosting a small get-together, and is currently talking with Professor Douglas.
+C: MOM
+D: ...And they're buying this party line that they're supposed to feel bad and trade off their own pension, as if that's what's corrupting this nation.
+C: PROFESSOR DOUGLAS
+D: Yeah, because those who hear Fox, in my opinion, are being lied to.
+C: MOM
+D: Yeah, thank God for Wisconsin. I mean, we have to follow that example.
+C: PROFESSOR DOUGLAS
+D: You're right. Mason enters the front door.
+C: JIM
+D: Hey, Mason. What time is it?
+C: MASON
+D: Uh, like 12:15.
+C: JIM
+D: Happy birthday. Mason smiles.
+C: MOM
+D: Huh! Happy birthday! Mom kisses Mason. Professor Douglas walks over to join them, taking an interest.
+C: PROFESSOR DOUGLAS
+D: Mason, it's your birthday?
+C: MASON
+D: Uh, just now, I guess.
+C: PROFESSOR DOUGLAS
+D: Yeah, how old are you?
+C: MASON
+D: Fifteen.
+C: PROFESSOR DOUGLAS
+D: Fifteen! Give me a hug. Professor Douglas hugs Mason.
+C: PROFESSOR DOUGLAS
+D: Happy birthday. Oh my goodness! Professor Douglas rejoins the party.
+E: CONT'D
+C: MOM
+D: Have you been drinking?
+E: to Mason
+C: MASON
+D: Have you?
+C: MOM
+D: Yeah, a little. Have you?
+C: MASON
+D: A little bit.
+C: MOM
+D: Have you been...? Mom mimes smoking reefer.
+C: MASON
+D: A little bit.
+C: MOM
+D: Oh... okay.
+C: MASON
+D: I'm gonna go to sleep.
+C: MOM
+D: Talk in the morning, huh? EXT. JIM'S FRONT YARD - DAY Dad and Jim stand around in front of the house. ANNIE opens the doors to the new mini-van, so the kids can load their overnight bags.
+C: SAMANTHA
+D: Hey, Dad!
+C: DAD
+D: Hey! How you doing? Dad kisses Samantha on the cheek.
+C: SAMANTHA
+D: Good! Whose car is that?
+C: DAD
+D: That's our car. Hop on in there.
+C: SAMANTHA
+D: Hey!
+E: to Annie
+C: ANNIE
+D: Hey, sweetie. Annie give Samantha a hug. Samantha peeks in the side door of the mini-van, finding baby COOPER in a car seat.
+C: SAMANTHA
+D: Hey Cooper! Hey, how's it goin'? Hello little brother! He's so cute. EXT. JIM'S SIDE YARD - CONTINUOUS Mom talks with two workers about an exposed pipe in the yard.
+E: to Annie
+C: MOM
+D: Can we just replace that part of the pipe?
+C: WORKER
+D: No, no it's no good. Everything is no good.
+C: MOM
+D: Todo... Total?
+E: attempting Spanish
+C: WORKER
+D: Everything, yes... Mira. He shows the broken pipe with his shovel. He asks the other worker to demonstrate the strength of the replacement pipe by standing on it.
+C: WORKER
+D: See this one is...
+E: CONT'D
+C: MOM
+D: Gusto... it's stronger?
+C: WORKER
+D: Yes. It's better. Yes, yes, yes. EXT. JIM'S FRONT YARD - CONTINUOUS
+C: DAD
+D: Hey listen, uh, thanks for that camera you got Mason.
+E: to Jim
+C: JIM
+D: Oh, yeah... Mason's --
+C: DAD
+D: He's loving that thing.
+C: JIM
+D: He's all into the photography thing right now.
+C: DAD
+D: Yeah, I know.
+C: JIM
+D: He's actually talking about turning his, uh, his closet into a dark room. The red light and developing, the whole nine...
+C: DAD
+D: Yeah? You alright with that?
+C: JIM
+D: I probably won't see him for a week...
+C: DAD
+D: Yeah... Right... Well...
+C: JIM
+D: But, you know. He's having a good time.
+C: DAD
+D: At least he's focusing on something.
+C: JIM
+D: Yeah, yeah.
+C: DAD
+D: You know? That's what I like.
+C: JIM
+D: Yeah, he's all about it. EXT. JIM'S SIDE YARD - CONTINUOUS
+C: MOM
+D: Okay... Let's go grande.
+E: pointing to the pipe
+C: WORKER
+D: It's good?
+C: MOM
+D: It's good.
+C: WORKER
+D: It's good. It's better. Yes. He instructs the other worker on how to get started. Mom turns to join the others in front yard.
+C: MOM
+D: Hey, you know, you're smart. You should be in school.
+C: WORKER
+D: I like school, I need school, but it's hard. I work all day...
+C: MOM
+D: Go to night school. At community college. It's -- It's pretty affordable. EXT. JIM'S FRONT YARD - CONTINUOUS
+C: DAD
+D: You're doing a nice job with the house though, it's looking great... really great.
+C: JIM
+D: Thanks. Yeah, you know, some fix- its here and there, you know. We got a good deal on the foreclosure... So, now I'm finding out why. You know?
+C: DAD
+D: Yeah. Right? Mason walks outside, carrying a duffel bag.
+E: laughs
+C: DAD
+D: Hey bud! Hey, Happy Birthday! The mini-van catches Mason's attention.
+E: CONT'D
+C: MASON
+D: What's that?
+C: DAD
+D: What's that? That's our new car! Get in it. Dad gives Mason a hug. Jim shakes Mason's hand.
+C: JIM
+D: Alright, have a good weekend. Mom arrives at the front yard and greets Dad with a hug.
+C: MOM
+D: Hi.
+C: DAD
+D: Hey, how you doing? Good to see you.
+C: MOM
+D: You too. Hey!
+E: to Annie
+C: ANNIE
+D: Hey, how are you? Mom gives Annie a hug.
+C: MOM
+D: You look great.
+C: ANNIE
+D: Oh, thanks.
+C: MOM
+D: Aww, look at him! Ooh. He's got Mason's nose.
+C: SAMANTHA
+D: Yeah, isn't he cute?
+C: MOM
+D: Yeah. Dad gets into the van, as the family closes all the doors.
+C: DAD
+D: Alright!
+C: MASON
+D: Love you guys.
+C: DAD
+D: We got a big drive ahead of us.
+C: MOM
+D: Bye, Sam.
+C: JIM
+D: You guys drive safe.
+C: DAD
+D: Alright. Well, we'll be back tomorrow night.
+C: MOM
+D: Bye, honey. I'm so glad you were born! Dad, Annie, and the kids drive off for Houston. Mom and Jim are left standing in the front yard, as they watch the van drive away. INT. MINI-VAN - DAY
+C: MASON
+D: So, this is like Annie's car and... and you drive the GTO? I guess you can't really put a baby seat in that thing.
+C: DAD
+D: Yeah, no... But I had to sell that anyway.
+C: MASON
+D: You what?
+C: DAD
+D: Yeah, I had to sell that.
+C: MASON
+D: So... so it's gone?
+C: DAD
+D: Yeah, some sucker collector from California paid twenty-two grand for it, which is great 'cause I basically got to pay for this in cash. I only paid eighty-five hundred for that thing way back when. I mean, you know, cars are generally a terrible investment. You know? Soon as you drive them off the lot you got a used car on your hands, and the value's only dropping from there.
+E: MORE
+C: DAD
+D: But... if you take care of it, you know, and you get lucky and it's a classic, you know, the value starts going up again. I mean shit, you got guys paying hundreds of thousands of dollars for some Shelby Cobra. After a long silence, Dad notices Mason is unusually quiet.
+E: CONT'D
+C: DAD
+D: What?
+E: CONT'D
+C: MASON
+D: You don't remember?
+C: DAD
+D: Remember what?
+C: MASON
+D: Really? You said that was going to be my car when I turned sixteen.
+C: DAD
+D: What? No, I didn't. I never said that.
+E: laughs
+C: MASON
+D: I remember. I was in third grade and you were taking me over to Anthony Nagar's house for his birthday... and we were there early, so we gave him a ride around the block. And he was talking about how much he loved your car and so you were all like "Oh. This is going to be Mason's when he turns 16."
+C: DAD
+D: What are you..? Alright, first off, I have no memory of that, alright? Second of all, I would never say that. Never.
+C: MASON
+D: Yeah. You did though.
+C: DAD
+D: What? Mason. Come on, what about your sister? I'm just gonna forget about her? Come on, how's that fair? Huh? Anthony Nagar, what the?
+E: MORE
+C: DAD
+D: Are you...? Oh, come on! I mean, you're not... Ughh. Look, you can sit there like there's a death in the family, alright, but bottom line is that was my car. Alright? I paid for it, I took care of it, and I can do whatever I want with it. Alright? I'm sorry if you had other ideas about it but when you get older you can save up and buy a car of your own. And be cool like I used to be. Or... you can get a mini-van. Annie and Samantha watch a Lady Gaga music video on Samantha's cell phone in the back seat.
+E: CONT'D laughs
+C: ANNIE
+D: Does your mom actually let you watch this?
+C: SAMANTHA
+D: Yeah. She likes it too.
+C: ANNIE
+D: Oh, my god... Okay, well.
+E: laughing
+C: SAMANTHA
+D: Yeah.
+C: ANNIE
+D: Have you ever seen her in concert?
+C: SAMANTHA
+D: No. But she's coming to Houston in April.
+C: ANNIE
+D: She's coming to Houston?
+C: SAMANTHA
+D: Mm-hmm.
+C: ANNIE
+D: Oh you know, your dad and I could get you tickets, and you could stay with us.
+C: SAMANTHA
+D: That'd be great.
+C: ANNIE
+D: Yeah.
+C: DAD
+D: Hey, hey, Annie? Will you get me the, the little birthday present for Mason?
+C: ANNIE
+D: Yeah, babe. Annie hands a small wrapped present to Dad. Mason unwraps the gift to reveal a CD set.
+C: DAD
+D: Alright. This one, this one needs a little explanation, okay? Open it up. I call that "The Beatles' Black Album". Alright, what it is, is the best of John, Paul, George, and Ringo solo, post-break up.
+C: MASON
+D: Thanks.
+C: DAD
+D: Yeah, basically, I put the band back together for you. Annie Laughs.
+C: DAD
+D: You know, whenever you listen to too much of the solo stuff, it kind of becomes a drag, you know? But you put 'em next to each other, alright, and they start to elevate each other... and then you can hear it. Huh! It's The Beatles. You know?
+E: CONT'D
+C: MASON
+D: I don't know. I think I always just liked Paul the best.
+C: DAD
+D: It doesn't matter, you know, you're missing the point. There is no favorite Beatle! That's what I'm saying. It's in the balance. That's what made them the greatest fucking rock band in the world. Okay? You know, and there's this decade of music out there that's been scattered. Alright?
+E: MORE
+C: DAD
+D: And now it has been carefully found, arranged, and ordered for you, by your loving father.
+E: CONT'D
+C: ANNIE
+D: Very arranged and very organized, over and over again by your loving father.
+C: DAD
+D: Yes, yes, yes. So, I mean, look at that-- look at that, uh, top of Volume II, first four tracks... You've got "Band on the Run" into "My Sweet Lord", into "Jealous Guy", into "Photograph". I mean, come on. It's like the perfect segue. You got Paul, who takes you to the party, George who talks to you about God, John who says no, it's about love and pain, and then Ringo who just says hey, can't we enjoy what we have while we have it? It's a good record. I shit you not.
+C: MASON
+D: Cool. EXT. RANCH HOUSE - DAY The mini-van drives along a dirt road lined with trees and parks outside of a small ranch home. GRANDPA CLIFF and NANA come outside to greet their guests.
+C: DAD
+D: Hey there, Cliff.
+C: GRANDPA CLIFF
+D: Hey, how you doin'?
+C: DAD
+D: Oh, good. How you doin'?
+C: NANA
+D: Oh, hi, birthday boy! It's good to see you.
+E: to Mason
+C: GRANDPA CLIFF
+D: Good. Good to see you.
+C: DAD
+D: Ah, it's great to see you.
+C: GRANDPA CLIFF
+D: You made it alright, huh?
+C: DAD
+D: Yeah, we sure did. We sure did.
+C: GRANDPA CLIFF
+D: How are you, darling? INT. KITCHEN - DAY Annie and Nana quietly light the candles on Mason's birthday cake.
+E: to Annie
+C: DAD
+D: Alright, we ready?
+C: ANNIE
+D: Yeah, yeah, get started --
+C: NANA
+D: Wait, wait, wait... INT. LIVING ROOM - DAY
+C: DAD
+D: Hey, Sam. He subtly indicates for her to get off her laptop and join the family. They take their seats in the living room.
+C: DAD
+D: Hey, still sleeping here?
+E: CONT'D
+C: GRANDPA CLIFF
+D: Oh, yeah, sawin' logs.
+C: DAD
+D: You ready? The family sings happy birthday to Mason. Nana brings in the birthday cake, complete with lit candles.
+C: ALL
+D: Happy birthday to you. Happy birthday to you. Happy birthday, dear Mason... Happy birthday to you!
+E: singing
+C: DAD
+D: Make a wish, make a wish. Mason blows out the candles. The family cheers.
+C: NANA
+D: Real good! Presents! Wait, wait, wait. Here, sweetie. Nana hands Mason a wrapped gift.
+C: DAD
+D: Hey Sam, would you get us a knife so we can cut this up? Hey? Alright. Sam walks into the kitchen to grab a knife.
+C: NANA
+D: I hope you like it. I heard you didn't have one, so. He unwraps the gift.
+C: NANA
+D: It's a Bible. Is this your first Bible? Look, there's your name...
+E: CONT'D
+C: MASON
+D: Wow.
+C: NANA
+D: ...In gold. And wait-wait-wait-wait. Look at this. It's a Red Letter edition, and that means that everything Jesus said is in red.
+C: MASON
+D: Thank you.
+C: NANA
+D: Like it? Alright. I love you, sweetie. Happy Birthday.
+C: ANNIE
+D: And this one's from us. Annie hands Mason a large gift box.
+C: DAD
+D: It's not going to make all your dreams come true, here, you know. Just keep your expectations low. No, no, no, no, you need it. It's... Dad pulls a blue dress shirt, blazer, and tie out of the box.
+C: DAD
+D: It's -- hey! Come, on right? You gotta have it. You need this.
+E: CONT'D
+C: NANA
+D: Wow!
+C: DAD
+D: You've got life ahead of you. You know --
+C: ANNIE
+D: And the shirt is blue, and I know you like blue.
+C: DAD
+D: You've got dances --
+C: NANA
+D: It's beautiful!
+C: DAD
+D: -- And job interviews. Here, I'm going to get it all wrinkled here. Grandpa comes out of the kitchen with a covered gun.
+C: GRANDPA CLIFF
+D: Mason?
+C: DAD
+D: The Black Album was from me.
+E: whispers
+C: NANA
+D: Uh-oh.
+C: GRANDPA CLIFF
+D: Come here, son. Pull that off. Mason walks over and pulls the case off to reveal a shotgun.
+C: GRANDPA CLIFF
+D: There's a 20 gauge shotgun.
+E: CONT'D
+C: MASON
+D: Wow.
+C: GRANDPA CLIFF
+D: Yeah. My dad gave it to me when I was a little younger than you, and his dad gave it to him, and well, you're fifteen and I'd like for you to have it. Alright? Here, you hold it. Yeah.
+C: MASON
+D: Thank you.
+E: taking the gun
+C: GRANDPA CLIFF
+D: Congratulations, son. I'll teach you how to clean it, teach you how to fire it. I'll teach you a little bit of safety. The family laughs, as Mason holds the gun pointing precariously across the room. EXT. RANCH HOUSE - DAY Samantha holds a pistol, ready to shoot. Dad is helping her aim. There are bottles and cans lined up as targets.
+C: DAD
+D: Now cock it. Alright, there you go. Now, what you want to do is line up the front sight with the back sight, here, you see this little V right here --
+C: SAMANTHA
+D: Mm-hm.
+C: DAD
+D: Now which one you aiming at?
+C: SAMANTHA
+D: Ah, the middle can.
+C: DAD
+D: The middle can? Alright, alright. Now fire at will, alright?
+C: SAMANTHA
+D: Okay. Samantha shoots the can.
+C: DAD
+D: Ho. Whoa! Dad claps as Samantha lowers the pistol.
+C: SAMANTHA
+D: Yeah!
+C: GRANDPA CLIFF
+D: Howdy!
+C: DAD
+D: Alright, watch out, watch out. Whoa. Be careful. Alright. Mason holds the shotgun, taking aim. Grandpa Cliff throws a chunk of wood up into the air as a target.
+C: GRANDPA CLIFF
+D: Ready? Pull! Mason misses the fist shot.
+C: GRANDPA CLIFF
+D: You uh, you uh, hit a little low. Wait until it gets up high and then shoot. Alright? Cause then it's a better aim coming down. Remember, second trigger.
+E: CONT'D
+C: MASON
+D: Mm-hm.
+C: GRANDPA CLIFF
+D: Ready?
+C: MASON
+D: Mm-hm.
+C: GRANDPA CLIFF
+D: Pull! Grandpa Cliff throws another piece of wood into the air. This time, Mason hits it.
+C: GRANDPA CLIFF
+D: Hah! Hah! Look what you did! Well, you nailed it, didn't you? How's that feel?
+E: CONT'D
+C: MASON
+D: Felt good.
+C: GRANDPA CLIFF
+D: Yeah, it felt good. Good. EXT. RANCH HOUSE - NIGHT The family sits out on the porch in a circle. Dad plays guitar as the family sings along.
+C: DAD
+D: Well, I want for us to be together forever.
+E: singing
+C: ANNIE
+D: But to wander wherever I may.
+E: singing
+C: DAD
+D: I want you to be easy and casual.
+E: singing
+C: ANNIE
+D: But still demand I stay.
+E: singing
+C: SAMANTHA
+D: I want for you to know me completely, but still remain mysterious.
+E: singing
+C: MASON
+D: Consider everything deeply, but still remain fearless.
+E: singing
+C: DAD AND ANNIE
+D: Climb to the top, look over the ledge. Dance barefoot on a razor's edge. Reach for the stars, grab the tiger by the tail.
+E: singing
+C: MASON
+D: If I don't try, I'll never fail.
+E: singing
+C: DAD
+D: Good!
+C: DAD AND ANNIE
+D: If you go home, you're rolling the dice. Can't step in the same river twice. If you love too much it'll turn to hate. If you never leave home you'll never be late. If you eat too much, you're gonna get fat. If you buy a dog, you'll piss off your cat. Grandpa Cliff and Nana both laugh.
+E: singing
+C: DAD AND ANNIE
+D: Take a deep breath, and enjoy the ride. Cause arrivals and departures run side by side... Annie's parents cheer as the song concludes.
+E: CONT'D
+C: DAD
+D: Alright, you're our first audience, you know? Mason demanded we work on it the whole drive.
+E: O.S.
+C: GRANDPA CLIFF
+D: It was really wonderful. That's sweet. Sweet.
+C: NANA
+D: Thank you, thank you, thank you.
+C: GRANDPA CLIFF
+D: Impressive.
+C: DAD
+D: It's a work in progress. EXT. CHURCH - DAY A small country church.
+C: PREACHER
+D: A week later -- we don't know why Thomas wasn't there the first time -- but a week later, Thomas comes back and joins the other disciples. They say, "Hey, the Lord's alive, we saw him!" INT. CHURCH - DAY The preacher stands at the front of the church holding an open bible. The family sits among the congregation. Mason is wearing his new suit.
+E: O.S.
+C: PREACHER
+D: "I won't believe it until I put my finger into his side and I'm gonna see those nail prints in his hands." Poof! About that time, here comes Jesus, standing right next to him. Okay? And he turns to Thomas. Don't you know Thomas felt some shame? And he turns to Thomas and says, "Thomas, here, stick your finger in my side. Look at these nail prints. It's me." And Thomas says, "My Lord, and my God, I believe." Annie's parents nod in agreement.
+C: PREACHER
+D: And Jesus said, "Well, that's good.
+E: CONT'D MORE
+C: PREACHER
+D: But blessed are those who can believe without seeing." It's a lot easier when you can see, and feel, and touch. But like us, we haven't seen him in the flesh. We haven't felt him in the flesh. But we have experienced him in the spirit. At least I have, and I hope y'all have too. EXT. WOODS - DAY The family walks through the woods. Annie holds Cooper to her chest in a cloth carrier. Mason has his camera in hand. Dad chews on a piece of straw.
+E: CONT'D
+C: ANNIE
+D: The pond's right up here. Ooh, it's low.
+C: DAD
+D: Yeah.
+C: ANNIE
+D: You know, my dad could take you fishing next time you're here if you want.
+C: MASON
+D: Nice.
+C: ANNIE
+D: Hi, baby. What's goin' on? Mason and Samantha walk down to the pond. Annie sits on a picnic bench with Cooper.
+E: to Cooper
+C: ANNIE
+D: You know, I think we're just gonna hang out here for a minute.
+E: CONT'D
+C: DAD
+D: Want me to stay with you?
+C: ANNIE
+D: No, it's okay.
+C: DAD
+D: You sure?
+C: ANNIE
+D: Yeah, thanks. Samantha pushes a stick into the mud. Mason photographs pond.
+C: SAMANTHA
+D: Mason, why are you such a stick-in- the-mud?
+C: MASON
+D: What are you even talking about?
+C: DAD
+D: Hey, you guys don't mind coming back here on the 20th, do you, for Cooper's baptism?
+C: MASON
+D: No, it's fine.
+C: DAD
+D: Sam?
+C: SAMANTHA
+D: Okay.
+C: DAD
+D: I appreciate it. It means a lot to Annie and her folks, you know.
+C: MASON
+D: Were we baptized? They share a look and laugh.
+C: DAD
+D: I wasn't the least bit concerned with the state of your soul. We can do it now, though, if you want.
+C: MASON
+D: No, nah, I think I'm alright.
+C: DAD
+D: You and Cooper together, you know. Dunk your heads.
+C: SAMANTHA
+D: You're not becoming one of those God people, are you, Dad?
+C: DAD
+D: And what's that supposed to mean, hm?
+C: ANNIE
+D: I can hear you!
+C: DAD
+D: Well, I think that shotgun should live at my house, huh. I don't think your mom would love that. Dad picks up a rock.
+C: DAD
+D: Hey, look out, Sam. Let me show you how it's done. Dad skips the rock across the pond. Mason photographs it.
+E: CONT'D
+C: SAMANTHA
+D: Nice, Dad. She laughs.
+C: DAD
+D: Still got the goods, hmm? INT. DARKROOM - DAY Mason is developing a picture in the darkroom. His teacher, MR. TURLINGTON, wanders in.
+C: TURLINGTON
+D: How long you been in here, Mason?
+C: MASON
+D: I'm not sure.
+C: TURLINGTON
+D: I'm sure. All class. Did you complete your image diary?
+C: MASON
+D: Not yet.
+C: TURLINGTON
+D: Completed your, uh, digital contact sheet?
+C: MASON
+D: Not quite, but... I mean, it's not gonna take me long.
+C: TURLINGTON
+D: Not yet. Not quite. Darkroom time is extra-curricular. I mean technically, you don't ever have to be in here these days, and certainly not until you've completed your assignments. That's the deal.
+C: MASON
+D: Sorry.
+C: TURLINGTON
+D: I'm worried about you, Mason.
+C: MASON
+D: Why is that?
+C: TURLINGTON
+D: I'll tell you why. The images you're turning in, they're cool. You're looking at things in a really unique way. Got a lot of natural talent.
+C: MASON
+D: Thanks.
+C: TURLINGTON
+D: Yeah, but, that and fifty cents will just get you a cup of coffee in this old world. I've met a lot of talented people over the years. How many of them made it professionally without discipline, commitment, and a really good work ethic? Mason shrugs and shakes his head, unsure.
+C: TURLINGTON
+D: I can tell you. I can count it on two fingers. Zero. It's not gonna happen for you, Mason. The world is too competitive. There are too many talented people who are willing to work hard. And a butt-load of morons who are untalented, who are more than willing to surpass you. As a matter of fact, a lot of them are sitting in that classroom out there right now. Hm? You know what they're doing? They're doing their assignments, which is what you're supposed to be doing, but you're not. You're in here. Why is that? Are you special, Mason?
+E: CONT'D
+C: MASON
+D: No, but I mean the things you're talking about, like work ethic or whatever, I feel like I do work pretty hard. I spend the whole weekend taking pictures a lot of times.
+C: TURLINGTON
+D: You like football, Mason?
+C: MASON
+D: Not really.
+C: TURLINGTON
+D: Yeah, I know you don't. That's why I've just assigned you to shoot the football game tonight. Okay? It starts at 7:30. I want you to get there early. I want you to shoot a full card, three hundred images, and I want 'em downloaded, I want 'em sorted, and I want to see them very first thing Monday. Okay? You want to know why I'm doing this?
+C: MASON
+D: I guess.
+C: TURLINGTON
+D: Who do you want to be, Mason? What do you want to do?
+C: MASON
+D: I want to take pictures. Make art.
+C: TURLINGTON
+D: Any dip-shit can take pictures, Mason. Art, that's special. What can you bring to it that nobody else can?
+C: MASON
+D: That's what I'm trying to find out.
+C: TURLINGTON
+D: Try harder. Hey, maybe in twenty years you can call old Mr. Turlington and you can say, "Thank you, sir, for that terrific dark room chat we had that day." Get back to class and do your work. INT. CLASSROOM - MOMENTS LATER Mason walks back to his computer. NICK sits at the neighboring computer.
+E: walking away
+C: NICK
+D: Hey man. You're walkin' a little funny.
+C: MASON
+D: Fuck you.
+C: NICK
+D: I'm just saying, you guys were in there for a long time. Just hope he bought you dinner first. Mason playfully jabs Nick in the arm. INT. JIM'S HOUSE - DAY Jim sits at the kitchen table, opening a beer. Mom and Samantha prepare dinner in the kitchen. Mom walks over to the stairs to call up to Mason.
+C: MOM
+D: Mason! Honey, come down for dinner. On her way back to the kitchen, Mom notices the screen on an open laptop.
+C: MOM
+D: Samantha! You didn't post these pictures and their descriptions? Come on, this auction is going to end on Sunday, honey. You've got to get those posted.
+E: CONT'D
+C: SAMANTHA
+D: Why are we even doing this? It's like an online junk shop. I thought you had a good job?
+C: MOM
+D: I do. We're what you call house poor. Everyone's got to do their part. Your brother took the pictures. You have to help.
+C: SAMANTHA
+D: Who even buys this shit?
+C: JIM
+D: Hey, Sam, watch your mouth, alright? Don't disrespect your mother. You like a roof over your head, don't you?
+C: MOM
+D: Yeah, and you like having electricity so that you can charge your cell phone?
+C: SAMANTHA
+D: I'm not even gonna be here next year. I'm a senior. I should be having fun. Mason enters. He sits down at the table. He has blue nail polish on his fingernails.
+C: JIM
+D: Nice nails.
+C: MASON
+D: Yeah, some girl did that in sixth period.
+C: JIM
+D: You planning on keeping them?
+C: MASON
+D: Until it comes off, I guess.
+C: JIM
+D: Last summer it was the earrings, and now the nails. You got a, uh, you got a purse to go with all that?
+C: SAMANTHA
+D: A lot of guys do that. He's just trying to be cool.
+C: JIM
+D: When I was in high school, having a job, being responsible, being able to afford a car, that was cool.
+C: MOM
+D: Mason, honey, why don't you get you and your sister some water. Mason gets up to help set the table. EXT. FOOTBALL GAME - NIGHT An announcer comments on the game over the loud speaker. The crowd cheers and the band plays. Mason is on the sidelines, photographing details he finds interesting. He scrolls through the images on his camera.
+C: NICK
+D: Hey man, Turlington says to cut the artsy crap and shoot the game. So take your lens and point it that way.
+C: MASON
+D: Jesus Christ.
+C: NICK
+D: Also, we got a ride tonight.
+C: CHASE
+D: McCormick gonna take us to the party. We're gonna head out after the game. You're goin', okay?
+C: MASON
+D: Okay.
+C: NICK
+D: Shoot the game. A player catches the ball and is tackled. EXT. PARTY - NIGHT "She's Long Gone" by the Black Keys plays over the party. Mason fills a cup at the keg. Samantha takes a shot with a boy. Kids play beer bong.
+C: BEER PONG GUY
+D: Kobe... It goes in - guests react.
+C: GABY
+D: Oh! First one. What was that? What was that? What is up? Nick plays drums with teen band. Mason approaches SHEENA. He nudges her shoulder.
+C: SHEENA
+D: Hey, what's up?
+C: MASON
+D: Hey. How's it goin'?
+C: SHEENA
+D: Pretty good. How long have you been here?
+C: MASON
+D: I don't know. Awhile, I guess.
+C: SHEENA
+D: Awhile? Yeah. EXT. QUIET SPOT - MOMENTS LATER Mason and Sheena sit and talk.
+C: MASON
+D: I just feel like there are so many things that I could be doing and probably want to be doing that I'm just not.
+C: SHEENA
+D: Why aren't you?
+C: MASON
+D: I mean, I guess it's... just being afraid of what people would think. You know, judgment.
+C: SHEENA
+D: Yeah. I guess it's really easy to say, like, I don't care what anyone else thinks, but, everyone does, you know? Deep down.
+C: MASON
+D: Exactly. I find myself so furious at all these people that I'm in contact with just for controlling me or whatever, but you know, they're not even aware they're doing it.
+C: SHEENA
+D: Yeah. So... in this perfect world where no one's controlling you, what's different? What changes?
+C: MASON
+D: Everything. I mean, I just wanna be able to do anything I want, because it makes me feel alive. As opposed to giving me the appearance of normality.
+C: SHEENA
+D: Whatever that means.
+C: MASON
+D: I don't think it means much.
+C: SHEENA
+D: You're kinda weird, you know that?
+C: MASON
+D: Yeah?
+E: MORE
+C: MASON
+D: Is that a compliment?
+E: CONT'D Laughing
+C: SHEENA
+D: I don't know. Do you wanna be weird?
+C: MASON
+D: I mean, I don't want to like... scare kids at the park, or anything like that. Sheena laughs.
+C: MASON
+D: I really like talking with you. I don't usually even try to like vocalize my thoughts or feelings or anything. Just, I don't know, it just never sounds right. Words are stupid.
+E: CONT'D
+C: SHEENA
+D: So, why're you trying with me?
+C: MASON
+D: I don't know. I guess I feel comfortable.
+C: SHEENA
+D: I'm glad. EXT. JIM'S HOUSE - LATER Mason comes home late. Jim sits outside on a chair surrounded by empty beer cans and one in hand.
+C: MASON
+D: Hey, Jim. I'm sorry I'm so late.
+C: JIM
+D: What time were you supposed to be home?
+C: MASON
+D: I don't know. Awhile ago.
+C: JIM
+D: Awhile ago like, thirty minutes ago, an hour ago? Cause, truthfully, nobody even knew where you were until your sister told us. She's been home for awhile.
+C: MASON
+D: I'm sorry.
+C: JIM
+D: Yeah, been hearin' a lot of that lately. See, but you don't actually care. You just kinda... kinda come and go as you please and you don't care if your mom's upset or what time you gotta be home... Is that what's up?
+C: MASON
+D: I don't know what to tell you.
+C: JIM
+D: Stop mumbling! You know, speak up! I can't understand a word comin' outta your mouth. It's just like, "uh uhh nuhh" and I ask you questions and you just--
+C: MASON
+D: Man, can I just have one day where everyone isn't all over my ass!? Jim gets up abruptly and advances on Mason.
+C: JIM
+D: I'm up your ass? This is my house. Now, if you wanna live in my house then you get home when you say you're gonna be home.
+C: MASON
+D: You know, Jim, you're not my dad.
+C: JIM
+D: No, I'm not your dad! You know how I know that? Cause I'm actually here. I'm the guy with the job, paying the bills, taking care of you, your mom, your sister... Huh?! Huh?! Mason goes inside.
+C: JIM
+D: I'm that guy... Jim sits down. INT. MOM'S HOUSE - DAY Mom sits at the kitchen table surrounded by bills and papers. Mason comes down the stairs.
+E: CONT'D
+C: MASON
+D: Morning.
+C: MOM
+D: Morning. Hey, which one of you guys used the downstairs bathroom last night?
+C: MASON
+D: I don't know. I didn't.
+C: MOM
+D: That tall guy, what's his name?
+C: MASON
+D: Phillip?
+C: MOM
+D: Yeah, Phillip. He did it. Can Phillip read? I mean, there's a big sign on the door, it says, "Do not use this bathroom, it's broken." I mean, how difficult is that?
+C: MASON
+D: I don't know. I'm sorry. Mason prepares cereal.
+C: MOM
+D: I think I'm gonna put the house on the market.
+C: MASON
+D: Why?
+C: MOM
+D: This house is too big for us. I mean, you're going to school eventually... It's too expensive. I'm done.
+C: MASON
+D: Well why did you even buy it in the first place, then?
+C: MOM
+D: Because I really enjoy making poor life decisions, keeping us on the
+E: MORE
+C: MOM
+D: brink of poverty. I mean, I've spent the first half of my life acquiring all this crap and now I'm gonna spend the second half of my life getting rid of all this stuff.
+E: CONT'D
+C: MASON
+D: Really? Like what?
+C: MOM
+D: Like - Well, I got rid of a couple husbands, now I'm gonna get rid of a mortgage, some maintenance, the tchotchkes, the, the homeowner's insurance, the property tax, the plumbing... Ahhh. You know what? From now on I am gonna be Mommy Monk. Simple. Celibate.
+C: MASON
+D: Don't be gross, Mom.
+C: MOM
+D: Fine. I'll be a poor whore with a big house. Is that better?
+E: Laughs
+C: MASON
+D: Okay. Mason starts to walk away.
+C: MOM
+D: Mason -- Mason, please, don't leave me that dirty dish to wash.
+C: MASON
+D: I do dishes all day.
+C: MOM
+D: Well, great honey, then you're a professional. Come on, you could do one or two more for you poor old mom. Mason walks over to the sink.
+C: MASON
+D: Okay.
+C: MOM
+D: Thank you. EXT. MOM'S HOUSE Mason gets in truck, drives away. INT. RESTAURANT KITCHEN Music plays in the background. Mason is in uniform, he carries in a bus tub of dirty dishes, one with uneaten battered shrimp on it. He sticks one in his mouth and flirts with APRIL, a waitress.
+C: MASON
+D: You want one?
+C: APRIL
+D: Ugh. God --
+C: MASON
+D: She didn't even touch them, seriously. I watched her the whole time. April takes one.
+E: Laughing
+C: APRIL
+D: Yeah, I bet you did watch her, you little pervert. It's like we're on a date. Cheers. They clink battered shrimp.
+E: Laughing
+C: MASON
+D: It's a night of romance.
+C: APRIL
+D: Yeah, except I'm not gonna kiss you. She heads back out to the restaurant floor.
+C: APRIL
+D: I will blow you, though. Mason brings the dishes over to the industrial washers. His boss, MR. WOOD, storms in.
+E: CONT'D
+C: MR. WOOD
+D: Mason! We are in the weeds out here!
+C: MASON
+D: I'm goin' as fast as I can.
+C: MR. WOOD
+D: Oh!
+E: MORE
+C: MR. WOOD
+D: Then I must be confused then, cause I just saw you chattin it up with April when I gotta salad bar that needs a refill, I gotta six top, two four tops I can't use, because they haven't been bused.
+E: CONT'D
+C: MASON
+D: Enrique is not here. I'm tryin'.
+C: MR. WOOD
+D: Well, while you're tryin', we're dyin'! What am I supposed to tell my customers? "Oh, I'm sorry that your table's got dirty plates on it, but Mason's tryin'. Least that's what he told me, after he was flirtin' with April and eatin' your leftover shrimp." Now it is a challenge out there today, I know, but I wanna share somethin' with you, I got you pegged for fry cook this summer, now that's a lot more responsibility. It's also more money. How's that sound?
+C: MASON
+D: Good.
+C: MR. WOOD
+D: I know you can handle that money... but can you take the responsibility? I think you can, because I believe in you. But I need you on the floor. Now leave the dishes. Giddyup. Right, come on, don't let me down! Mason exits. INT. MOM'S HOUSE - DAY Mason sits on the stairs video chatting with Dad on his phone.
+C: DAD
+D: Well, so it's -- it's runnin' okay? That alternator's not messin' up anymore?
+C: MASON
+D: No , it's fine. It's up for the trip.
+E: Holding Phone
+C: DAD
+D: Well, you gonna see your sister when you guys are in Austin?
+E: Laughing
+C: MASON
+D: Yeah, she said I can stay at her dorm, which is cool, and I guess her roommate's out of town so it's no big deal.
+C: DAD
+D: Alright, well, did you apply there yet? Did you get that application in to UT?
+C: MASON
+D: Not yet, but Sheena's pretty much in, though.
+C: DAD
+D: Yeah, right. Well, if you know that's where you wanna go, you should probably do that early acceptance thing. You know? I mean seriously, let 'em know you're a man who knows what he wants.
+C: MASON
+D: Yeah.
+C: DAD
+D: A bit of decisiveness goes a long way in this life, alright?
+C: MASON
+D: Yeah.
+C: DAD
+D: Great. And uh, what about work? How's that goin'?
+C: MASON
+D: Uh, I don't know. It's, it's alright. Today kind of sucked, this guy didn't show up. But it's definitely an interesting perspective on the world. People are slobs.
+C: DAD
+D: Well, when people ask me about you I say, "Oh, Mason, he's doing great. He's got a job, he's really cleanin' up." Mason laughs.
+E: Laughing
+C: DAD
+D: Alright, hey, hey, say hi to Annie and Cooper, will you? Dad pans the phone to Annie and baby.
+E: CONT'D From Phone
+C: ANNIE
+D: Say hi to your big brother. Hey, big brother.
+C: MASON
+D: Hey, Annie. Hey, kiddo.
+C: ANNIE
+D: Can you say bye-bye?
+C: BABY
+D: Bye-buh!
+C: ANNIE
+D: We'll see you soon.
+E: Laughs
+C: DAD
+D: Alright, alright, well, be careful when you're driving, alright? Don't be texting, don't be doing any of that. Alright? Just, you're Obi Wan. You're centered, patient, right? You watch three cars ahead, two behind. It takes two bad drivers to have an accident okay?
+E: From phone
+C: MASON
+D: Okay.
+C: DAD
+D: Right, and listen, tell your sister to pick up her phone or call me back or something. Mom comes down the stairs and drops a bag at Mason's feet.
+E: From phone
+C: MASON
+D: Okay.
+C: DAD
+D: Alright, buddy! You have a good one.
+C: MASON
+D: Bye, Dad.
+C: MOM
+D: Hey, honey, take this to your sister. Throw it in the truck, okay?
+E: Motioning to the bag
+C: MASON
+D: Okay, I will.
+C: MOM
+D: So where is Sheena staying?
+C: MASON
+D: At her friend Emily's.
+C: MOM
+D: Is Emily a real person?
+C: MASON
+D: Yeah. Yeah, she's a sophomore. She has an apartment.
+E: Laughing
+C: MOM
+D: Okay, this is in case of emergency. Don't spend it. I want it back.
+E: Holding out money
+C: MASON
+D: Okay. Thanks.
+C: MOM
+D: Did you do your homework?
+C: MASON
+D: Most of it, but... I can finish tomorrow night.
+C: MOM
+D: Honey! Eleventh grade is really important for college. Don't blow it.
+C: MASON
+D: I know! I know. I mean, we're going to UT and everything.
+C: MOM
+D: I know, and don't you want me to come? Come on, Sheena, road trip with Mom! I'll pay for gas.
+C: MASON
+D: Umm...
+C: MOM
+D: I'm just kidding. I have work. She kisses his forehead.
+C: MOM
+D: Call me when you get there.
+E: CONT'D
+C: MASON
+D: I will.
+C: MOM
+D: Have fun! Mason exits. EXT. HIGHWAY - DAY/ INT. TRUCK "Suburban Wars" plays. Mason drives, Sheena is in the passenger seat.
+C: SHEENA
+D: ... That sounds to me like just another extreme Mason view of everything.
+C: MASON
+D: Not at all! I finally figured it out. It's like when they realized it was gonna be too expensive to actually build cyborgs and robots... I mean, the costs of that were impossible. They decided to just let humans turn themselves into robots. That's what's going on right now.
+C: SHEENA
+D: Oh, right now?
+C: MASON
+D: Yeah! I mean, why not? There are billions of us just laying around, not really doing anything. We don't cost anything. I mean we're even pretty good at self-maintenance and reproducing constantly. And as it turns out, we're already biologically programmed for our little cyborg upgrades.
+C: SHEENA
+D: How?
+C: MASON
+D: Seriously. I read this thing other day about how, like, when you hear that ding on your inbox you get a, like a dopamine rush in your brain. It's like we're being chemically rewarded for allowing ourselves to be brainwashed. How evil is that? We're fucked.
+C: SHEENA
+D: So you deleting your Facebook page is gonna change all that? Remember when Trevor deleted his Facebook page last year and everyone just hated him? You made more fun of him than anyone.
+C: MASON
+D: I still make fun of Trevor, though.
+C: SHEENA
+D: But it looked like he was so pathetically desperate for attention. Or to be different, or something.
+C: MASON
+D: That's just 'cause they did that lame story about it in the school paper.
+C: SHEENA
+D: And then he had to make a big announcement about it when he came back a month later.
+C: MASON
+D: That's the thing though, I'm not doing it for attention. I just want to try and not live my life through a screen. I want, like, some kind of actual interaction. A real person, not just the profile they put up. Sheena's looking at her phone.
+C: SHEENA
+D: Oh, I'm sorry. Were you saying something? She laughs.
+C: MASON
+D: Yeah, okay, I know you're joking, but, I mean, it's kinda true you have been, you know, checking your phone this whole time, and so what are you really doing? You don't care what your friends are up to on Saturday afternoon but you're also obviously not fully experiencing my profound bitching so... it's like everyone's just stuck in, like, an in-between state. Not really experiencing anything.
+C: SHEENA
+D: It's not an experience, it's just information. Look, for example, I just got the address of the club where we're meeting them later, so we won't be wandering the streets of Austin lost for an hour tonight. Thank you very much, Facebook. And I just texted my mom back.
+C: MASON
+D: Oh, that's -- that's groundbreaking. She hasn't seen you in, like, 55 minutes?
+C: SHEENA
+D: Oh! Oh my god, most importantly, Meg's family just got a miniature pet pig. Sheena hands him the phone.
+C: MASON
+D: Hm! Okay, you're right. That is a --
+E: looks at phone photo Laughs
+C: SHEENA
+D: Right?
+C: MASON
+D: That is a really cute, tiny pig. Our lives can go on.
+C: SHEENA
+D: I want one. INT. POOL HALL Gotye's "Somebody That I Used To Know" plays. Patrons chatter. Mason plays pool with Samantha's BOYFRIEND. Samantha and Sheena sit and talk.
+C: BOYFRIEND
+D: Nice shot.
+C: SAMANTHA
+D: Yeah, just give the lady at the front y'all's I.D.s and, uh, she should let you in.
+C: SHEENA
+D: I see. Cool.
+C: SAMANTHA
+D: Yeah.
+C: SHEENA
+D: It's room 2-0-6, right?
+C: SAMANTHA
+D: Mm-hm.
+C: SHEENA
+D: Awesome. It's not like weird that we're staying there?
+C: SAMANTHA
+D: No, it's fine. Have fun.
+E: Laughs
+C: SHEENA
+D: Thank you. So how long have you guys been dating?
+E: O.S.
+C: SAMANTHA
+D: About three months. Yeah, we met at a party and it's been, ya know, chill.
+C: SHEENA
+D: Yeah, he seems cool.
+C: SAMANTHA
+D: Yeah. He is. The guys are shooting pool.
+C: SHEENA
+D: Does he go to UT too?
+E: O.S.
+C: SAMANTHA
+D: Yeah.
+E: O.S.
+C: SHEENA
+D: Cool. What is he studying?
+C: SAMANTHA
+D: He's studying history and uh, Italian, I think? The girls laugh.
+C: SAMANTHA
+D: His minor, yeah.
+E: CONT'D
+C: SHEENA
+D: Does he wanna... does he wanna teach?
+C: SAMANTHA
+D: I don't know, I think, I think he's still figuring stuff out. Yeah, he'll figure it out, he's smart, he's smart. So where are you thinking about living when you come here?
+C: SHEENA
+D: Um, I'm not really sure yet. We're gonna look at apartments tomorrow, um, but I know my parents sorta were expecting me to live in a dorm.
+C: SAMANTHA
+D: Yeah.
+C: SHEENA
+D: Yeah. But I mean, I'm paying my way through college, so it doesn't really matter that much.
+C: SAMANTHA
+D: Yeah, you don't have to listen to your parents after you turn eighteen. I mean, especially if they're not helping you financially. They laugh.
+C: SHEENA
+D: That's what I figured.
+C: SAMANTHA
+D: But I mean, living in a dorm isn't so bad.
+C: SHEENA
+D: Yeah.
+C: SAMANTHA
+D: I mean especially if it's a coed dorm. I mean, I've never been around like, so many cute guys at once. Like, college is really fun. They laugh.
+C: SHEENA
+D: I'm excited.
+C: SAMANTHA
+D: It's great, yeah. EXT. SIDEWALK - NIGHT The sidewalk is populated with college students. The teens walk together in couples and pass a street musician and a woman hoola-hooping.
+C: BOYFRIEND
+D: Watch out.
+C: SAMANTHA
+D: Oh! They laugh. INT. CONTINENTAL CLUB - NIGHT A four man band plays as our guys watch from the audience.
+C: MUSICIANS
+D: "On the day that I was born I started growin' old. No one told you life would be so lonesome and cold. I had a grey hair by the age of 23, this hard-luck livin's gonna be the end of me. The old black crow leaving tracks all across my face, and everywhere I go I seem to be in the same damn place. Hard livin's gonna be the end of me." EXT. CONTINENTAL CLUB - NIGHT Sheena and Mason wander out of the club and walk up the street. INT. CAFE - NIGHT Sheena and Mason are seated at a table at a late-night diner, full of a variety of people.
+E: singing
+C: MAN ALONE IN BOOTH
+D: The last death at the Hoover Dam construction site was his son, Patrick Tierny, who died on December 20th, 1935, exactly thirteen years to the day. Sheena notices a table of sorority girls and practically whispers to Mason.
+C: SHEENA
+D: See those sorority girls over there? I've just decided, if you delete your Facebook page, I'm pledging.
+C: MASON
+D: Yeah, in just a few years that's you And that's gonna be me. He subtly indicates the Man Alone guy, still sitting at his booth, giving a lecture of some kind, with data, etc.
+E: Indicates Girls
+C: MAN ALONE IN BOOTH
+D: ...Also inlaid into the terrazzo floors was a star map, a celestial map of heavenly bodies so accurately displayed that one could chart the procession of the Pole Star fourteen thousand years into the future, such that future generations upon...
+E: Continuing Indistinct Under
+C: SHEENA
+D: I wonder what his deal is. I mean, he obviously has money to eat here.
+E: O.S.
+C: MASON
+D: He just said. He's a UT professor, tenure and everything.
+E: O.S.
+C: SHEENA
+D: Look at all these people. What are they even doing here at 3:00 in the morning?
+C: MASON
+D: What are WE even doing here at 3:00 in the morning?
+C: SHEENA
+D: We know what we're doing here. She dips a chip into a bowl of queso.
+C: SHEENA
+D: Queso. We have a purpose.
+E: CONT'D
+C: MASON
+D: Hell yeah.
+C: SHEENA
+D: HELL yeah.
+C: MASON
+D: You know, by, like, next summer this'll just be our lives.
+C: SHEENA
+D: Mm-hm.
+C: MASON
+D: Stayin' out all night and goin' to shows... whatever we want.
+C: SHEENA
+D: We ever gonna go to class?
+C: MASON
+D: Sometimes.
+C: SHEENA
+D: When it feels right. When the inspiration hits.
+C: MASON
+D: Only then. A WAITRESS comes by their table.
+C: WAITRESS
+D: Anything else?
+C: SHEENA
+D: Uhhh... more queso?
+C: MASON
+D: Yeah.
+E: nodding
+C: WAITRESS
+D: Mm-hm. She leaves, and Mason just takes it all in.
+C: MASON
+D: Ah, Jesus.
+C: SHEENA
+D: What?
+C: MASON
+D: I don't know, doesn't it all seem a little overwhelming? I mean, college? I mean, I like the idea of being away from home and gaining skills and getting better at photography. I just, I don't know, I'm not counting on it being some big transformative experience.
+C: SHEENA
+D: I don't think it's that transformative. I just see it as the next step.
+C: MASON
+D: But it's like a pre-ordained slot that's already got your name and number on it. I don't think it's the key to my future. Cause, like, I mean, look at my mom. She got her degree, and got a pretty good job, she can pay her bills...
+C: SHEENA
+D: Well, I like your mom.
+C: MASON
+D: Well, I like my mom, too. I just mean, basically, she's still just as fucking confused as I am. Waitress drops off more queso.
+C: SHEENA
+D: Thank you.
+E: to Waitress
+C: MASON
+D: Thanks. Mason and Sheena dip chips into the bowl of queso. EXT. SIDEWALK - NIGHT Mason and Sheena walk on the sidewalk. EXT. PARKING GARAGE - SUNRISE Mason and Sheena walk across a parking garage rooftop. They watch the sunrise. Mason stands behind her and wraps his arms around her. She turns to him and they kiss. INT. DORM ROOM - DAY Mason and Sheena lie in bed under the sheets. Sam's roommate comes in.
+C: ROOMMATE
+D: Hello?
+C: MASON
+D: Hey. Um, did uh, did Sam tell you we were gonna stay here?
+C: ROOMMATE
+D: Uh -- no.
+E: laughs
+C: MASON
+D: Sorry. Um, she uh, she said you were out of town for the weekend.
+E: laughs
+C: ROOMMATE
+D: Yeah, I was. I just got back. Are you her... brother?
+C: MASON
+D: Yeah, I'm, I'm Mason. Awkward laugh.
+C: ROOMMATE
+D: Right.
+C: MASON
+D: Um, this is Sheena.
+C: ROOMMATE
+D: Hello. Uh, great. Alright. I'm... gonna leave my stuff here, if it's okay, and get something to eat and...
+C: MASON
+D: Okay.
+C: ROOMMATE
+D: ... I'll just come back in a little bit...
+C: MASON
+D: Yeah, yeah we have to, we have to get outta here soon anyway, so...
+C: ROOMMATE
+D: Alright. It's nice meeting you. She turns to go.
+C: MASON
+D: Yeah. You, too.
+C: SHEENA
+D: Sorry! The roommate exits. Sheena and Mason hide under the sheets.
+E: under sheet
+C: MASON
+D: That was so awkward. INT. SCHOOL PHOTO EXHIBIT - DAY There is an exhibit of various art works set up. Mason enters and walks over to a series of photographs he took of Sheena. He starts to take them down. One of the school's teachers comes over.
+C: TEACHER
+D: Mason... silver medal winner. Congratulations!
+C: MASON
+D: Thank you.
+C: TEACHER
+D: Heard you got a scholarship.
+C: MASON
+D: Yeah. Yeah, every little bit helps, you know.
+C: TEACHER
+D: Yeah. When you gonna go out there?
+C: MASON
+D: End of the summer I think. You know, work some more before then, try to save up some money, at least.
+C: TEACHER
+D: Yeah, before you have to fend for yourself.
+C: MASON
+D: Yeah, yeah, that's the idea.
+C: TEACHER
+D: Yeah. Well how're feeling about it?
+C: MASON
+D: Excited, you know. But kind of half- excited, half-terrified.
+C: TEACHER
+D: Yeah, kind of that voluptuous panic.
+C: MASON
+D: Yeah. Exactly.
+C: TEACHER
+D: Well, it's gonna be good. It's gonna be crazy good. I liked college a lot better than high school. You kinda find your people in college, you know?
+C: MASON
+D: Exactly.
+C: TEACHER
+D: Well you'll be fine, you've got a good heart. Just follow your heart, yeah?
+C: MASON
+D: Thanks.
+C: TEACHER
+D: Good luck. Don't forget to floss. Mason's phone dings. He takes it out. Cell phone text message graphic: Mason - Can't, I'll just see you tomorrow. Sheena - What's your deal? Meet me at the tree. EXT. HIGH SCHOOL - DAY Sheena and Mason are sitting on bleachers outside the school, under a tree overlooking a practice field. They are in mid- argument.
+C: SHEENA
+D: I just don't get why you're being so fucking childish.
+C: MASON
+D: I'm not being childish. You're the one who made it into this big thing by telling everyone.
+C: SHEENA
+D: I haven't told anyone.
+C: MASON
+D: So Cynthia just magically knows you're going to the prom with this loser even though you're not dating him anymore?
+C: SHEENA
+D: She's my best friend.
+C: MASON
+D: Well, your best friend has a big fucking mouth.
+C: SHEENA
+D: Take it up with her, then.
+C: MASON
+D: Why don't you just tell Miss Fuckin' Rubber Jaws she can keep on talking as long as she includes the truth, which is that we wouldn't be having this conversation if your college boyfriend weren't out of town this weekend.
+C: SHEENA
+D: You had already bought the tickets. It's just prom, it's not like it matters. I'm just tryin' to be friends with you.
+C: MASON
+D: Now it's just humiliating. I can't... I can't do that.
+C: SHEENA
+D: Mister I-Don't-Care-What-Anyone-Else- Thinks-Of-Me.
+C: MASON
+D: Fuck anyone else. I care what I think of me. Which isn't much right now. King of the Pity Prom.
+C: SHEENA
+D: Fine. We're not going.
+C: MASON
+D: Great. A long pause.
+C: SHEENA
+D: Why are we even... I mean, we both knew this was coming. I'm just the one who did something about it.
+C: MASON
+D: Yeah, fucking some college guy...
+C: SHEENA
+D: Oh, fuck you! I don't regret anything.
+E: a beat
+C: MASON
+D: Of course you don't.
+E: Bitter Laugh
+C: SHEENA
+D: You know, it's actually kind of a relief not to have to be around someone who's so gloomy all the time. The world's not so horrible. Not everything's some big conspiracy against humanity.
+C: MASON
+D: It's great that you can think that way. And you know, I'm sure dating a jock really helps to clear the mind.
+E: O.S.
+C: SHEENA
+D: He's not a jock, okay? He just happens to be on the lacrosse team. We're all going to other schools next year anyway, it's not some super serious relationship.
+C: MASON
+D: Great. I feel so much better now.
+C: SHEENA
+D: We're just having fun.
+C: MASON
+D: I bet he's having fun.
+C: SHEENA
+D: Grow up, Mason.
+C: MASON
+D: It's not like I haven't been with anyone else.
+C: SHEENA
+D: Who?
+C: MASON
+D: What do you care?
+C: SHEENA
+D: Who?
+C: MASON
+D: Does it matter?
+C: SHEENA
+D: You're the one who brought it up. A pause.
+C: SHEENA
+D: This is pointless. She gets up and starts to walk away.
+E: CONT'D
+C: SHEENA
+D: Now you're just trying to be an asshole. EXT./INT. NICK'S CAR Nick drives Mason home from graduation.
+E: CONT'D
+C: NICK
+D: Holy Crap, I would rather have my balls clawed off than ever sit through anything like that ever again!
+C: MASON
+D: Well, we never, ever have to.
+C: NICK
+D: Oh my god, thank you.
+C: MASON
+D: Gimme that. Nick hands him a flask.
+C: NICK
+D: Dude, it's all you. Drink up. So you coming out with me tonight, brother? Should be some pretty awesome stuff happening.
+C: MASON
+D: Naw, dude, I'm goin' to this like, show with my dad in Austin. His friend's playing.
+C: NICK
+D: Gosh, have fun with that, I guess. Nick pulls into Mason's driveway and parks.
+C: MASON
+D: Fuck, there's so many cars here. I don't wanna go in there.
+C: NICK
+D: Dude, you will have so much fun. Your family loves you. You'll have a swell time.
+E: sarcastic
+C: MASON
+D: Fuck you. You're coming in with me.
+C: NICK
+D: Oh, no. Shit no. No.
+C: MASON
+D: Yes! Yes, you are. My mom loves you. You have to say hi.
+C: NICK
+D: Just --
+C: MASON
+D: Do you want to hurt her feelings?
+C: NICK
+D: Mm-mm.
+E: Shakes head slightly
+C: MASON
+D: Well then, let's go get 'em.
+C: NICK
+D: Just for a second. Just a second, seriously. Nick "tests" his breath in his hand. They get out of the car. INT. MOM'S HOUSE - GRADUATION PARTY - DAY Family and friends chit chat throughout the house. Mom prepares snacks, while Dad and Annie talk with UNCLE STEVE.
+C: UNCLE STEVE
+D: You know you're in sort of in enemy territory here.
+C: DAD
+D: We're aware. INT. KITCHEN - GRADUATION PARTY - CONTINUOUS Cake graphic: "Congratulations Mason!" Olivia and Carol prep food. Nick and Mason come in the front door. INT. LIVING ROOM - GRADUATION PARTY - CONTINUOUS
+E: laughing
+C: DAD
+D: Uh, look who's here!
+C: ALL
+D: ...Whooo!
+E: cheer, applause
+C: MOM
+D: Hey! She hugs Mason.
+C: UNCLE STEVE
+D: Get a job! Mason takes off his graduation cap.
+C: MOM
+D: No-no-no-no, wait. We're gonna take pictures. Put it back on. Hey, can you get a camera? Hey Nick! Grandma comes over and hugs Mason.
+E: To Carol To Nick
+C: GRANDMA
+D: Oh! Back on. Oh... Congratulations, baby. I don't know you, but congratulations! She hugs him too.
+E: to Nick
+C: GRANDMA
+D: Oh, pictures, pictures, Carol.
+E: CONT'D
+C: MOM
+D: Quick, put your hat on.
+E: O.S.
+C: CAROL
+D: Alright, look here... They pose and Carol takes the picture with a phone.
+C: MOM
+D: Smile.
+C: CAROL
+D: Here we go. Oh, that's a good one. And... good! Got it.
+C: GRANDMA
+D: Oh, we need -- Sam, where are you? Samantha!
+E: O.S.
+C: MOM
+D: Sam!
+C: GRANDMA
+D: And where's Mason senior? I'm feeling generous. Come here. Another picture is taken.
+E: to Dad
+C: CAROL
+D: Great. And... beautiful! I'll email these to everyone. Uncle Steve stands up and points his finger at Dad.
+C: DAD
+D: No, don't even start, don't start, don't start. INT. LIVING ROOM - GRADUATION PARTY - CONTINUOUS The guests help themselves to the array of dishes and appetizers on the table. Buffet style. Mason drifts into a conversation with Carol and her daughter Abbey.
+E: to Uncle Steve
+C: MASON
+D: Can't believe you guys came all this way. It means a lot to me.
+C: CAROL
+D: We wouldn't have missed it for anything! I'm so proud of you.
+E: MORE
+C: CAROL
+D: Congratulations. I'm really sorry that Lee couldn't be here. He's on his Senior Trip.
+E: CONT'D
+C: MASON
+D: No, no. Tell him I said hi.
+C: CAROL
+D: I will.
+C: SAMANTHA
+D: Abby, I didn't even recognize you. How old are you now?
+C: ABBY
+D: I'm thirteen.
+C: SAMANTHA
+D: Wow. Mason's boss, Mr. Wood, enters. INT. KITCHEN - GRADUATION PARTY - CONTINUOUS Across the room, Professor Douglas has her ever-present wine glass.
+C: PROFESSOR DOUGLAS
+D: Alright, let's top her off. You want some, doll?
+E: Pouring wine
+C: WOMAN AT PARTY
+D: Um... Sure, whatever. Yeah, totally.
+C: PROFESSOR DOUGLAS
+D: Yeah, sure why not.
+C: MR. WOOD
+D: I got you something.
+E: To Mason
+C: MASON
+D: What is it?
+C: MR. WOOD
+D: That is a savings bond. That is worth something. It's better than money - you'd just spend that.
+C: MASON
+D: Yeah.
+C: MR. WOOD
+D: God - is that your mom?
+C: MASON
+D: Yeah, yeah. That's her.
+C: MR. WOOD
+D: Wow. One of the little cousins drops fruit.
+C: UNCLE STEVE
+D: It'll be -- three second rule. Put it on your plate.
+C: WOMAN AT PARTY
+D: Such a good dad. Really.
+E: laughing
+C: UNCLE STEVE
+D: I know, I'm trying to help.
+C: MOM
+D: Come here, you guys. I want to make a little toast to Mason. She holds up her glass of wine.
+E: O.S.
+C: GUESTS
+D: Whoo! Yeah! Alright!
+E: reacting
+C: MOM
+D: Now Mason, I know you really didn't want to have a party today but... we did. Laughter.
+C: MOM
+D: And you only graduate high school once in your life... So I want to celebrate you and this next phase. And you're going to learn so much in college. You're going to have so much fun. You're going to have inspiring teachers. You're going to learn more about your art. I love you babe. I'm so proud of you... To Mason.
+E: CONT'D
+C: ALL
+D: To Mason!
+E: MORE
+C: ALL
+D: Hear! Hear!
+E: CONT'D indistinguishable chatter
+C: UNCLE STEVE
+D: Alright, you're up, kid.
+E: to Dad
+C: DAD
+D: Oh, uh... Alright, uh, well... Mason, I'll make a toast to the future. To your future. You know, it's been a little sketchy this... end of the school year here, trying to figure out what school to go to. Mason told me that, uh, he wanted...to get as far away from home as possible. But still honor our agreement that we pay in-state tuition, which I do appreciate. He's a prudent man, and uh, he's going to have a great future. So, here's to you buddy.
+C: GUESTS
+D: Whoo! Future!
+E: reacting
+C: DAD
+D: Congratulations.
+C: UNCLE STEVE
+D: Mason Junior! High school graduate, eighteen and straight! Ha-ha-ha! Dad subtly puts his hand over his brother's mouth and pats his chest.
+C: DAD
+D: Alright, that's enough. Just ignore him. My brother needs to learn to pace himself.
+C: MR. WOOD
+D: Well, I've not known you as long as everybody here, but uh, since I have known you, you've grown a lot. And uh, I don't know, I'm proud of you. So if this photography thing doesn't work out, you know you always got a job. Lose that earring. But, uh, you know, maybe I can get you in front of house. Alright, to you buddy!
+C: MOM
+D: Sam, say something!
+C: DAD
+D: Come on, Samantha.
+E: O.S.
+C: GRANDMA
+D: Come on, darlin'.
+C: SAMANTHA
+D: Good luck? Mom and Mason embrace. A little later, Professor Douglas has Mason cornered.
+E: hesitating
+C: PROFESSOR DOUGLAS
+D: So you broke up with your girlfriend?
+C: MASON
+D: Yeah, yeah, just recently.
+C: PROFESSOR DOUGLAS
+D: What was her name?
+C: MASON
+D: Sheena.
+C: PROFESSOR DOUGLAS
+D: Sheena. She's... gonna go to college with you?
+C: MASON
+D: No.
+C: PROFESSOR DOUGLAS
+D: No, oh.
+C: MASON
+D: She's staying in this part of Texas.
+C: PROFESSOR DOUGLAS
+D: Oh, okay. You need a ride to college? INT. LIVING ROOM - GRADUATION PARTY - CONTINUOUS Dad and Annie talk to Grandma.
+C: GRANDMA
+D: I just wanted to say hello before you got out of here. I haven't gotten a chance --
+C: DAD
+D: You guys met before, haven't you? Annie, Catherine...
+C: ANNIE
+D: Yeah, yeah, we met at uh--
+C: GRANDMA
+D: Sam's graduation.
+C: DAD
+D: Oh yeah.
+C: ANNIE
+D: Yes, that's right.
+C: GRANDMA
+D: And with your little one. Where is he?
+C: ANNIE
+D: Oh, he's at home.
+C: DAD
+D: Yeah, yeah. Remember, he was such a pain at Sam's thing that, you know...
+C: GRANDMA
+D: Oh, I would love to see him.
+C: ANNIE
+D: Well, we have a special weekend this weekend, so...
+C: GRANDMA
+D: I'm so glad you found her. I really am. You, you've got him at a good time, I think.
+E: to Annie
+C: ANNIE
+D: I think so, too.
+C: GRANDMA
+D: Yeah. It's good to see you two.
+C: DAD
+D: Nice to see you, too, Catherine.
+C: GRANDMA
+D: I'm so proud of your boy.
+C: DAD
+D: Yeah, yeah we all are. Grandma walks off. Dad whispers to Annie.
+C: DAD
+D: If you think she's a bitch now, you should have seen her fucking twenty years ago. They laugh. INT. DEN - GRADUATION PARTY - CONTINUOUS Later, Uncle Steve, Dad, and Mason have a manly discussion.
+E: CONT'D
+C: UNCLE STEVE
+D: You got to remember, you're going to college, though, alright? And if you're anything like me or your old man, you're gonna be pulling down some serious wool. You're gonna be tapping some masterful gap.
+C: DAD
+D: Steven...
+C: UNCLE STEVE
+D: You're gonna be doing some good work out there. Think about it, awful lot of flowers in that bouquet. But, you gotta do me a favor. You're going to be vulnerable this summer, alright. Remember to use protection during breakup sex. He puts his hand on Dad.
+C: UNCLE STEVE
+D: This guy knows exactly of which I speak. Look what happened to him. Viola'. Uncle Steve gestures to Mason.
+E: CONT'D
+C: DAD
+D: Steven...
+C: UNCLE STEVE
+D: Cheers.
+E: laughing
+C: DAD
+D: It's not that simple.
+C: UNCLE STEVE
+D: Four more years. Four more years. I'm just saying. INT. KITCHEN - GRADUATION PARTY - CONTINUOUS Later Dad enters the kitchen where Mom happens to be.
+E: chanting
+C: DAD
+D: Do y'all recycle? Should I --
+C: MOM
+D: I have one started there.
+C: DAD
+D: Oh, yeah, right. Okay, great. Okay. Am I, uh, am I your only ex at this party?
+C: MOM
+D: Yes, but I'm not your only wife here, though.
+C: DAD
+D: Yeah.
+C: MOM
+D: Can you believe they're both out of high school?
+C: DAD
+D: No. No, I can't. You did a great job with both of them, by the way.
+E: a beat
+C: MOM
+D: Thanks for saying that. I never thought I'd hear you say that.
+C: DAD
+D: Well, it's true. Thank you.
+C: MOM
+D: And you're doing it all over again, huh?
+C: DAD
+D: I know, I know, right? It's gonna be uh, fifteen years till I have an empty nest. But hey, I'd love to pitch in, help with this, if I could.
+E: MORE
+C: DAD
+D: I mean, it's so great that you did this. I was just going to give you a little. I'd appreciate it if I could. He pulls out his wallet.
+E: CONT'D
+C: MOM
+D: Sure. Yeah.
+C: DAD
+D: Yeah. But I don't have any cash. It's in Annie's purse. I'll be right back. INT. ANTONE'S - EVENING Mason and Dad are wandering through the green room area while the band is doing a sound check.
+C: DAD
+D: ...So it sucks. I mean, the guy's a college lacrosse player. I mean, what are you gonna do?
+C: MASON
+D: She didn't even like sports. An iced-down bucket of drinks beckons.
+C: DAD
+D: You want a beer?
+C: MASON
+D: No, that's alright.
+C: DAD
+D: You can have one.
+C: MASON
+D: It's okay. They continue their conversation out of the green room to a little area overlooking the stage.
+C: DAD
+D: Yeah, well, for what it's worth, we've all been through the exact same thing, at one point or another.
+C: MASON
+D: It's not the same, though. I mean, you never got to know her.
+C: DAD
+D: No, I know, I know. It's not the same.
+C: MASON
+D: I just don't know what I did wrong. At this point Dad yells down to Jimmy, his roommate from years before, briefly interrupting the sound check.
+C: DAD
+D: Hey, Jimmy. Hey, man. Hey --
+C: JIMMY
+D: Hey, Mason.
+C: DAD
+D: We're up here raiding the green room. Hope that's okay.
+C: JIMMY
+D: That's totally cool.
+C: DAD
+D: Alright.
+C: JIMMY
+D: Wow! Is that M.J.?
+C: DAD
+D: Uh-huh. Right?
+C: JIMMY
+D: Unbelievable.
+C: DAD
+D: Well, we just decided to come a little early, check you out.
+C: JIMMY
+D: That's cool man, let me finish up, I'll be up in a minute.
+C: DAD
+D: Alright, alright. He and Mason slowly start to drift around the venue.
+C: DAD
+D: I guarantee you, you didn't do anything wrong. These high school love things, they never work out. Here, come here.
+E: CONT'D back to Mason MORE
+C: DAD
+D: I mean, everyone's just changing so much. The odds of two young people staying on the same wavelength are...
+E: CONT'D
+C: MASON
+D: Yeah, but still --
+C: DAD
+D: Look, and I also guarantee you that every day of your life that you spend crying over some silly girl is a complete waste of time.
+C: MASON
+D: She wasn't a silly girl, though. I mean, she's a serious person. I really thought we were --
+C: DAD
+D: What?
+C: MASON
+D: I don't know.
+C: DAD
+D: Here's the truth. Women are never satisfied. Ok? They're always looking to potentially trade up and that's, I'm sorry to say, what I think has happened to you my fine feathered friend.
+C: MASON
+D: What does that even mean?
+C: DAD
+D: It means don't hand over the controls to your self-esteem to Sheila.
+C: MASON
+D: Sheena.
+C: DAD
+D: Alright. It means you are responsible for you, not your girlfriend, not your mom, not me. You. And if you truly take care of you, you will be amazed at how much girls like Sheena start lining up at your front door.
+C: MASON
+D: Great.
+C: DAD
+D: Yeah, you know, you just gotta separate yourself from the pack in some way. Excel at something, you know, and then you have your pick of the litter when them front-running hussies start sniffing around.
+C: MASON
+D: So what you're saying is, I should take up lacrosse.
+C: DAD
+D: Exactly. Or you could, you know, start a band. Worked for me a long time ago. I think it's still working for Jimmy. Or you just keep taking pictures.
+C: MASON
+D: She hated the pictures I took of her.
+C: DAD
+D: Alright. I'm sick to death of her, okay? I only met her a few times and yes she was cute, alright. But, truth be told I always thought she was a little bit, you know, a little bit too square for you. Y'know, not quite the same vibe.
+C: MASON
+D: You really thought that?
+C: DAD
+D: On some subtle, lower level. I mean, uh, I wasn't surprised when it turned out she was interested in some knucklehead lacrosse player, okay? I mean, bottom line is, it's all timing with these things. Y'know. I mean, uh, take your mom and me. Y'know I think I probably turned into the boring castrated guy she wanted me to be fifteen or twenty years ago, y'know? And man I'm not saying she was wrong to be pissed. I'm not, I'm just saying that, y'know, she could have been a little more patient... a little more forgiving.
+C: MASON
+D: Would've saved me that parade of drunken assholes. Dad gestures zipping his lip, saying nothing.
+C: MASON
+D: So what's the point?
+E: CONT'D
+C: DAD
+D: Of what?
+C: MASON
+D: I don't know, any of this. Everything.
+C: DAD
+D: Everything? What's the point? I mean I sure as shit don't know. I mean, but, neither does anybody else. Okay, we're all just winging it, you know? I mean the good news is you're feeling stuff. You know? And you got to hold onto that. You do. I mean you get older and you don't feel as much. You're skin gets tougher. The point is those pictures you took. Thousands of submissions from all over the state and you won.
+C: MASON
+D: Well, I got silver. And nine other people did, too.
+C: DAD
+D: I'm gonna kill you. I'm tryin' to tell you that I believe in you, Mason. I think you're really special, and if some girl doesn't see that, then fuck her, y'know? Jimmy's at the mic.
+C: JIMMY
+D: Hey, this next one goes out to a young man in the house --
+E: O.S.
+C: DAD
+D: Woo-oho!
+C: JIMMY
+D: Known him since he was just a small boy, now he's all graduated from high school, making me feel old. Happy high school graduation, Mason. He plays his guitar, and the band kicks in... sounding pretty great. INT. CAFE - DAY Mom, Mason and Samantha sit down at a table. A waitress places menus.
+C: MOM
+D: Thank you. Okay guys, let's be clear. I'm going to break this into four categories. One. Anything you wanna keep from your childhood and your taking with you. Two. Throwing away. Three. Donating. Four. Whatever you wanna try to sell at the garage sell next weekend, whatever we don't sell, we're donating.
+C: MASON
+D: Doesn't the apartment have like an attic, or storage or something?
+C: MOM
+D: No. You're missing the point. We're not going to drag a bunch of crap to mom's tiny apartment.
+C: SAMANTHA
+D: Can't believe we're moving again.
+C: MOM
+D: No, I'm moving! You moved two years ago. You have an apartment in Austin. Mason is moving the fall. I'm done. This will be great for me. I'll have all these options. I could take a sabbatical. I could get some writing done and try to get published.
+C: MASON
+D: What about Christmas, though? What are we gonna do?
+C: SAMANTHA
+D: I'm not sharing a room with him.
+C: MOM
+D: One of you will sleep on the couch, and we'll use that blow-up mattress.
+C: SAMANTHA
+D: How am I supposed to do my laundry?
+C: MOM
+D: Sam, I'm gently pushing you out of the nest.
+E: MORE
+C: MOM
+D: And on your way down you may magically find some quarters that you use to do laundry in your own apartment. Come on! You guys are adults. You need to take some responsibility! And what do you want? Mom puts her glasses on.
+E: CONT'D
+C: MASON
+D: I'm gonna get the veggie burger.
+C: SAMANTHA
+D: I'm not having anything, not hungry. Mom takes her glasses off.
+C: MOM
+D: What's wrong with you?
+C: SAMANTHA
+D: I'm sick.
+C: MOM
+D: What is it, your head? Do you have a fever?
+C: MASON
+D: She's pregnant.
+C: SAMANTHA
+D: No. To be honest, I drank way too much last night.
+E: weak laugh
+C: MOM
+D: You weren't driving, were you?
+C: SAMANTHA
+D: No. No. Carrie's back home, too, and we just hung out. You know, peach Smirnoffs, they just go down so easy.
+C: MOM
+D: No, no. Hey - that's not an excuse. You can still pack boxes. These people want to move in as soon as possible. The assistant restaurant manager, who'll we'll come to know as ERNESTO, approaches the table.
+C: ERNESTO
+D: Hi guys. I'm Ernesto, how are you? Uh, you probably don't remember me, but I worked on your septic line years ago.
+E: to Mom
+C: MOM
+D: Oh, yeah.
+C: ERNESTO
+D: Believe it or not, you changed my life. Yeah, you told me that day that I was smart and that I should go to school. I took your advice! I signed up for English classes and then a year later I went to community college and I got my associates degree. And I'm working on my bachelors now at Texas State. And I'm also one of the managers here.
+C: MOM
+D: That's great.
+C: ERNESTO
+D: Uh, it's good to see you. Because I really wanted a chance to thank you for that. Gracias. It really meant a lot to me. Don't worry about lunch. It's on me. It's the least I can do.
+C: MOM
+D: Thanks.
+C: ERNESTO
+D: You guys should listen to her. She's a smart lady.
+C: MOM
+D: Thank you. Ernesto walks back toward the kitchen, leaving the three seated at the table. EXT. APARTMENT - MORNING Mason, now with a scruffy beard, is wedging a duffel bag and bin into the bed of his truck. He walks back toward Mom's new apartment. INT. APARTMENT - MORNING Mason is packing a box, in mid-conversation with Mom, who is seated in another room.
+C: MASON
+D: ...Isn't that kind of crazy though, that a computer knows who you are from just twenty questions off a form? I guess there are really only like eight types of people in the world. Mom goes to the kitchen and pours coffee into a mug.
+C: MASON
+D: I mean there are subsets, like male and female, but apparently we're not as unique as we want to think we are.
+E: CONT'D
+C: MOM
+D: Have you even talked to this guy yet?
+C: MASON
+D: No, but we've been trading emails. He seems pretty cool. He's studying literature, and uh, anthropology, and he's way into Bright Eyes... so that's not so bad. But anyways, he was telling me about how the system they use for assigning roommates is kind of spooky. Like, the Freshmen satisfaction rate for new roommates used to be like 60%, and now it's 100%. Just cause of the computer.
+C: MOM
+D: Well. Sounds like he'll be a good roommate, then.
+C: MASON
+D: Yeah. But we've pretty much decided that soon they won't even need a questionnaire. Because they'll just let the NSA scan your digital ghost, and they'll tell you who your roommate is, based on everything you've ever said, written, or clicked. Mason walks back into the living room, carrying a box. He holds up a framed picture.
+C: MASON
+D: Did you -- Did you put this in here again? Mom laughs.
+E: CONT'D
+C: MASON
+D: I don't want it.
+E: CONT'D
+C: MOM
+D: Come on, it's the first picture you ever took.
+C: MASON
+D: Well, I mean, all the more reason to leave it behind, right? Mason goes to put the picture back in his room, while Mom suddenly breaks into quiet sobs. He comes back out, wearing a backpack, and notices Mom crying.
+C: MASON
+D: What?
+E: CONT'D
+C: MOM
+D: Nothing.
+E: crying
+C: MASON
+D: No, what is it?
+C: MOM
+D: Nothing!
+C: MASON
+D: Mom...
+C: MOM
+D: This is the worst day of my life.
+C: MASON
+D: What are you talking about?
+C: MOM
+D: I knew this day was coming. I just -- I didn't know you were gonna be so fuckin' happy to be leaving.
+C: MASON
+D: I mean, it's not that I'm that happy. What do you, what do you expect?
+C: MOM
+D: You know what I'm realizing? My life is just gonna go, like that! This series of milestones. Getting married, having kids, getting divorced, the time that we thought you were dyslexic, when I taught you how to ride a bike, getting divorced AGAIN, getting my masters degree, finally getting the job I wanted, sending Samantha off to college, sending YOU off the college... You know what's next? Huh? It's my fuckin' funeral! A beat.
+C: MOM
+D: Just go, and leave my picture! Stunned, Mason doesn't know what to say.
+E: CONT'D
+C: MASON
+D: Aren't you jumping ahead by like, forty years or something?
+C: MOM
+D: I just thought there would be more. Mom sits at the table crying. Mason does not know how to comfort her. EXT. HIGHWAY - DAY Mason drives his pick-up truck through the open roads and mountains of West Texas. EXT. GAS STATION - DAY Mason stops at a gas station to fill up. While he waits, he takes pictures. EXT. UNIVERSITY - DAY Mason pulls into the parking lot of his University and parks. INT. DORM - AFTERNOON Mason walks through a hallway area and finds his dorm room. He enters to find it half decorated with music going. He throws his bag up on the available bed and starts to unpack and get situated. DALTON enters.
+C: DALTON
+D: Hey, you must be Mason.
+C: MASON
+D: Yeah. Dalton, right?
+C: DALTON
+D: Yeah, man, it's nice to finally meet you.
+C: MASON
+D: Definitely.
+C: DALTON
+D: Are you cool with this side of the room?
+C: MASON
+D: Yeah.
+C: DALTON
+D: Got in this morning, just moved my shit in, man.
+C: MASON
+D: Well, yeah. I don't- I don't care. No worries. He unzips his bag, but keeps the conversation going.
+E: laughs
+C: DALTON
+D: Cool. Can I help with anything, man? Any bags? Any last stuff you need brought in?
+C: MASON
+D: I just got like one... box left, I packed pretty light. But I appreciate it.
+C: DALTON
+D: My pleasure, man. Of course.
+C: MASON
+D: Um, are you goin' to the orientation mixer thing?
+C: DALTON
+D: Orientation mixer thing? Fuck no, man! I'm not goin' to that and neither are you, by the way. We got way better stuff to be doin', dude. BARB, Dalton's girlfriend, drifts into the room.
+C: BARB
+D: You ready?
+C: DALTON
+D: Yeah. Hey, Barb, this' my roommate Mason. Mason, Barb. They shake.
+C: MASON
+D: Hi.
+C: BARB
+D: Hey. You comin' with us?
+C: MASON
+D: Where're you going?
+C: BARB
+D: Hiking.
+C: DALTON
+D: Yeah, man, you should come. If we leave now we can catch the late afternoon at Big Bend. You ever been before, man?
+C: MASON
+D: Yeah. But not since I was really little.
+C: DALTON
+D: Oh, well then all the more reason to come now, man. That's why we're here, dude. Barb's roommate, NICOLE, is now hanging out by the door.
+C: DALTON
+D: Oh, Mason. This is Nicole, Barb's roommate.
+E: CONT'D
+C: NICOLE
+D: Hey, what's up?
+C: MASON
+D: Hi. Barb is reaching in her bag for something.
+C: DALTON
+D: Mason, Nicole.
+C: BARB
+D: So, you game?
+E: to Mason
+C: MASON
+D: Sure. She has produced a chunk of brownie that she hands to Mason.
+C: BARB
+D: Here. Have the rest of this. Got it timed perfectly. It'll kick in when we get to the mountains. Mason takes it, a little amused, looks at the others , then starts to consume.
+E: confirmation
+C: MASON
+D: Awesome.
+C: DALTON
+D: Let's go. They roll out of there. EXT. BIG BEND - LATE AFTERNOON Mason, Nicole, Dalton and Barb hike through a BIG canyon. Nicole talks to Mason about teaching dance.
+E: O.S.
+C: MASON
+D: Do they let you major in that here?
+C: NICOLE
+D: Well, it's not that serious here, so I kinda like train outside the university, but I'm taking all my basics like History of Dance and all that.
+C: MASON
+D: Nice.
+C: NICOLE
+D: Yeah.
+C: MASON
+D: What do you teach?
+C: NICOLE
+D: Oh, gosh. Ballet, tap, jazz, lyrical, hip-hop...
+C: MASON
+D: Wow. Which one's your favorite?
+C: NICOLE
+D: Tap.
+C: MASON
+D: Yeah?
+C: NICOLE
+D: Yeah. You can make up all your own sounds and there's no rules.
+C: MASON
+D: Right...
+C: NICOLE
+D: Just, like, creative freedom.
+C: MASON
+D: That's great.
+C: NICOLE
+D: Yeah.
+C: MASON
+D: Right.
+C: NICOLE
+D: ... So to be a part of bringing it back to the kids...
+C: MASON
+D: Right, keep it going.
+C: NICOLE
+D: ... Is really rewarding. Yeah.
+C: MASON
+D: How old are they?
+C: NICOLE
+D: Six to eight.
+C: MASON
+D: Wow.
+E: laughs
+C: NICOLE
+D: Yeah. They have like no fear, and they're not self-conscious at all.
+E: laughing
+C: MASON
+D: They haven't reached the awkward years yet.
+C: NICOLE
+D: Yeah, not yet. It's coming. The group continues walking over a ridge as the sun is setting. EXT. HIKE - LATER As Barb and Dalton coyote call on the rocks, Mason joins Nicole sitting on a rock overlooking the river and sunset.
+C: NICOLE
+D: Hey. Dalton and Barb continue like coyotes, much to Nicole and Mason's amusement.
+C: NICOLE
+D: Dalton can be crazy sometimes.
+E: CONT'D
+C: MASON
+D: He seems cool, though.
+C: NICOLE
+D: Yeah. Yeah, they're both really cool. How are you feeling? They both laugh.
+C: MASON
+D: Great. Really great, to be honest.
+C: NICOLE
+D: Good. I'm really happy that you're hangin' out with us.
+C: MASON
+D: Yeah. Me too. Meanwhile, over on a big rock, the coyotes are now yelling words.
+C: DALTON
+D: This moment's having a multiple orgasm! It's like as if all of time has unfolded before us so we can stand here and look out and scream - Fuck yea!! Wooo! Back with Nicole and Mason laughing.
+E: O.S.
+C: NICOLE
+D: You know how everyone's always saying, "Seize the moment"? Mason nods yes.
+C: NICOLE
+D: I don't know, I'm kinda thinkin' it's the other way around. You know, like, the moment seizes us.
+E: CONT'D
+C: MASON
+D: Yeah. Yeah, I know. It's constant, the moments, it's just... it's like always right now, you know?
+C: NICOLE
+D: Yeah. They trade smiles.
+T: FADE OUT

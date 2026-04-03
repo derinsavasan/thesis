@@ -1,0 +1,3984 @@
+M: BEING THE RICARDOS
+M: Written by
+M: Aaron Sorkin
+T: FADE IN:
+N: We meet--individually--three people who are the older versions of three characters we’ll meet shortly. They’re speaking to an off-camera interviewer in three different locations that have been chosen, dressed and lit for a documentary.
+S: INT. SOUNDSTAGE BLEACHERS - DAY1 1
+N: JESS is sitting in the bleachers of a television soundstage.
+C: OLDER JESS
+D: It was a scary week, ‘cause here’s what you gotta understand. You gotta understand a hit television show--today--a big hit television show, what does it get? Ten-million viewers. We ID the man with a chyron-- Jess Oppenheimer Executive Producer and Head Writer
+C: OLDER JESS
+D: Let’s go crazy and say fifteen. Fifteen-million viewers ‘cause this is a big, giant hit. Here’s what you gotta understand. I Love Lucy? Sixty-million. Households. INT. NIGHTCLUB - DAY2 2 The tables are all set for dinner but the place is empty. BOB is sitting at a table near where a small orchestra would play.
+E: CONT'D
+C: OLDER BOB
+D: Oh yeah. It’s been a long time, but I remember that week. Bob Carroll Writer
+C: OLDER BOB
+D: That was a scary week. It was a very scary week. Continued: 3 EXT. HOTEL POOL - DAY3 3
+E: CONT'D
+C: OLDER MADELYN
+D: Those guys scare too easy. I’m from the Midwest. I lived through the depression and the dust bowl so I don’t scare that easy. Madelyn Pugh Writer
+C: OLDER MADELYN
+D: But yeah, it was a scary goddamn week. INT. SOUNDSTAGE BLEACHERS - DAY4 4
+E: CONT'D
+C: OLDER JESS
+D: Now here’s what you gotta understand. Audience share. That’s the percentage of television sets that are turned on--what percentage are tuned to you. That’s audience share. INT. NIGHTCLUB - DAY5 5
+C: OLDER BOB
+D: Out of the blue. EXT. HOTEL POOL - DAY6 6
+C: OLDER MADELYN
+D: Everyone almost lost their jobs. And Lucy and Desi, they almost lost their lives. No exaggeration. INT. NIGHTCLUB - DAY7 7
+E: beat
+C: OLDER BOB
+D: Out of thin air. Continued: 3 Continued: 8 INT. SOUNDSTAGE BLEACHERS - DAY8 8
+E: MORE
+C: OLDER JESS
+D: So we’re getting our 60-million households at a time when the population of the United States was 155-million, many of whom did not own television sets. Our audience share was consistently in the 70’s. Today? Population 330-million. Your big hit show with the 15-million viewers, maybe 20 if someone’s getting married or killed, audience share? EIGHT! INT. NIGHTCLUB - DAY9 9
+C: OLDER BOB
+D: Just like that. EXT. HOTEL POOL - DAY10 10
+C: OLDER MADELYN
+D: You’re asking when did they find out? At the same time as everyone else, they were listening to Walter Winchell. INT. NIGHTCLUB - DAY11 11
+C: OLDER BOB
+D: I’m minding my own business, listening to Walter Winchell, and bam-- EXT. HOTEL POOL - DAY12 12
+C: OLDER MADELYN
+D: At the end of the broadcast-- INT. SOUNDSTAGE BLEACHERS - DAY13 13
+C: OLDER JESS
+D: Department stores used to be open late Monday nights, then they switched to Thursday nights, you know why? ‘Cause nobody was leaving home during I Love Lucy on Mondays. Continued: 8
+E: MORE
+C: OLDER JESS
+D: Continued: 13 There was a significant drop-off in the number of people using water between 9 and 9:30 on Monday nights. My point is, and this is what you gotta understand, it wasn’t small potatoes when Winchell ended his broadcast by saying-- INT. NIGHTCLUB - DAY14 14
+E: CONT'D
+C: OLDER BOB
+D: Lucille Ball is a communist. Just like that. Lucille Ball is a member of the Communist Party. INT. SOUNDSTAGE BLEACHERS - DAY15 15
+E: pause
+C: OLDER JESS
+D: Yeah. EXT. HOTEL POOL - DAY16 16
+C: OLDER MADELYN
+D: And she’d already seen the magazine story about Desi when Winchell came on. The magazine came out on Mondays but her publicist brought her a copy Sunday night. INT. NIGHTCLUB - DAY17 17
+C: OLDER BOB
+D: What were they doing when they first heard the news? INT. SOUNDSTAGE BLEACHERS - DAY18 18
+C: OLDER JESS
+D: What were they doing?
+C: OLDER JESS
+D: Continued: 13 Continued: 19 EXT. HOTEL POOL - DAY19 19
+E: CONT'D
+C: OLDER MADELYN
+D: I don’t know what Lucy and Desi were doing, but it was Lucy and Desi, so they were either tearing each other’s heads off or tearing each other’s clothes off. CUT TO: INT. ARNAZ HOME/LIVING ROOM - NIGHT20 20 In the foreground--though out of focus--is the back of LUCILLE BALL, sitting on a couch with her bare feet up on a coffee table. She has a drink next to her and lights a cigarette. In the background--in clear focus-is an RCA RADIO/TURNTABLE CONSOLE as we HEAR an announcer--
+C: ANNOUNCER
+D: It’s time America...time for Walter Winchell. Presented to you by Gruen, the precision watch. Gruen, the finest watch you can wear. Gruen, the finest watch you can give, brings you the man who gives America the news...Walter Winchell of the New York Daily Mirror and the Washington Post. The broadcast continues as we HEAR the front door open. For the next minute or so we’ll see no faces--just out-of-focus arms and legs and other shards of the moment as they pass through the frame, which remains on the radio--the only thing in focus.
+E: FROM THE RADIO
+C: DESI
+D: Lucy, I’m home!
+E: O.S. calling
+C: LUCY
+D: Where the hell have you been ya Cuban dimwit?
+E: O.S.
+C: DESI
+D: Whoa, easy does it.
+E: O.S.
+C: LUCY
+D: You philandering bongo player. Continued: 19 Continued: 20
+E: O.S.
+C: DESI
+D: I was playing cards with-- We HEAR his face being SLAPPED--
+E: O.S.
+C: DESI
+D: Ow! Hey! I was playing cards with--
+E: O.S. CONT'D
+C: SLAP-- DESI
+D: Ow, Goddammit!
+E: O.S. CONT'D
+C: LUCY
+D: Tell me when it starts to hurt. A FEW MINUTES LATER--20A 20A We’re on the radio again but from a different angle as the Winchell broadcast continues. Again, we won’t see faces--just the occasional slice of someone coming into or out of the frame. WALTER WINCHELL William L. Markey, Jr., Eisenhower’s top backer in Buffalo, is being divorced very quietly. His wife--
+E: O.S. FROM THE RADIO
+C: LUCY
+D: The boat?
+E: O.S.
+C: DESI
+D: We were playing cards on the boat.
+E: O.S.
+C: LUCY
+D: Since last night?! Since 27 hours ago?!
+E: O.S.
+C: DESI
+D: Yes!
+E: O.S.
+C: LUCY
+D: And you couldn’t get to a phone?
+E: O.S.
+C: DESI
+D: No.
+E: O.S.
+C: LUCY
+D: Why? Continued: 20 Continued: 20A
+E: O.S.
+C: DESI
+D: I was passed out a lot of that time! A FEW MINUTES LATER--20B 20B We’re on the radio but from still a different angle and still no faces. The Winchell broadcast continues-- WALTER WINCHELL The Vice President, in a magnificent speech this week, told the American Legion why we-- A copy of a magazine flies across the room and lands on the radio console. It’s Confidential Magazine. There’s a photo of Desi with a woman. “Desi’s Wild Night Out” reads the headline.
+E: O.S. FROM THE RADIO
+C: LUCY
+D: That’s tomorrow’s Confidential.
+E: O.S.
+C: DESI
+D: Why do you even read that magazine?
+E: O.S.
+C: LUCY
+D: Why do I even--In this case it’s ‘cause my husband’s on the cover with another woman so it caught my eye. The story chronicles a night on the town with you and--
+E: O.S.
+C: DESI
+D: That’s somebody’s niece.
+E: O.S.
+C: LUCY
+D: What the hell do I care if--
+E: O.S.
+C: DESI
+D: From Westinghouse. That’s the Westinghouse corporate--you were there--that’s the guy’s niece. That picture was taken last summer.
+E: O.S.
+C: LUCY
+D: The story’s about last Wednesday night.
+E: O.S.
+C: DESI
+D: Last Wednesday night I was on the boat. Continued: 20A Continued: 20A
+E: O.S.
+C: LUCY
+D: Like last night?
+E: O.S.
+C: DESI
+D: Yes! WALTER WINCHELL --with the hall coming to its feet at the conclusion of his address. We see LUCY’s hand pick up the magazine...
+E: O.S. FROM THE RADIO
+C: LUCY
+D: You’re right. This was taken at the Westinghouse corporate retreat.
+E: O.S. pause
+C: DESI
+D: Yes.
+E: O.S.
+C: LUCY
+D: I apologize.
+E: O.S. beat
+C: DESI
+D: Say, “Desi, I apologize for doubting you.”
+E: O.S.
+C: LUCY
+D: No.
+E: O.S.
+C: DESI
+D: “For I see now that this picture was taken--not last Wednesday night- -but six months ago at the Westinghouse corporate retreat and I’ll never doubt your love for me again.” Say that.
+E: O.S.
+C: LUCY
+D: No. And you’re doing it again. You’re pronouncing it Westin-gouse.
+E: O.S.
+C: DESI
+D: It is Westin-gouse.
+E: O.S.
+C: LUCY
+D: Westinghouse.
+E: O.S.
+C: DESI
+D: Say g-h-o-s-t.
+E: O.S.
+C: LUCY
+D: Ghost. Continued: 20A Continued: 20A
+E: O.S.
+C: DESI
+D: You don’t pronounce an “H’ after a “G”. Westin-gouse. A FEW MINUTES LATER--20C 20C We’re on the radio from still a different angle. DESI and LUCY are pulling and tugging at each other’s clothes on the couch.
+E: O.S.
+C: WALTER WINCHELL
+D: When the G-Men captured the fugitives in the High Sierras last week--
+E: FROM RADIO
+C: LUCY
+D: So everything in the magazine was made up?
+E: O.S.
+C: DESI
+D: I haven’t read the magazine, but unless the story’s about me playing cards on the boat--
+E: O.S.
+C: LUCY
+D: It’s not.
+E: O.S.
+C: DESI
+D: --then yes, it’s made up. Get it through your head--you’re the only thing I want.
+E: O.S.
+C: LUCY
+D: Well then you’re an idiot.
+E: O.S.
+C: DESI
+D: I’m trying to get this off but I think it’s been welded.
+E: O.S.
+C: WALTER WINCHELL
+D: The House Committee on Un-American Activities is holding secret sessions in California. The most popular of all television stars was confronted with her membership in the Communist Party. And that, Mr. And Mrs. 48, winds up another edition until next Sunday night at the very same--
+E: FROM RADIO
+C: LUCY
+D: Wait. Continued: 20A Continued: 20A
+E: O.S.
+C: DESI
+D: Wait.
+E: O.S.
+C: LUCY
+D: Wait. And now we finally move up to see their faces--LUCILLE BALL and DESI ARNAZ like we’ve never seen them. LUCY, half-dressed with her red hair down and flying around her face and shoulders, DESI with his shirt ripped open, both of their faces flush and glistening with sweat. Their breathing is still heavy...
+E: O.S.
+C: LUCY
+D: What did he say?
+E: CONT'D pause
+C: DESI
+D: He said the most popular of all television stars was--
+C: LUCY
+D: --was confronted with her membership in the Communist Party. The two of them just stare at the radio...
+C: DESI
+D: Yeah. He coulda been talkin’ about Imogene Coca.
+E: pause pause
+C: LUCY
+D: Fuck you, he was not talking about Imogene Coca. OMITTED21 21
+C: BLACK TITLE:
+D: Being the Ricardos DISSOLVE TO: Monday Continued: 20A Table Read CUT TO: FADE IN: INT. SOUNDSTAGE - DAY22 22 20-odd people sit at a horseshoe of folding tables. They’re the cast and staff of I Love Lucy and behind them is the iconic set from the show. The group is largely silent. They smoke their cigarettes, tap their scripts or just wait quietly and nervously. Two seats at the head of the table-- reserved with a card for Lucille Ball and Desi Arnaz, are conspicuously empty. A woman finally speaks up. The card in front of her reads “Vivian Vance”. We may notice that Vivian is considerably more attractive in real life than she is when she’s playing Ethel Mertz.
+C: VIVIAN
+D: This is nonsense. She lights a cigarette.
+C: VIVIAN
+D: It’s nonsense and it will get worse before it gets better. Little Rusty Hamer? When he signed his contract-- or the guardian, whoever signs the contract for him--he had to sign a loyalty pledge. Did anyone know that? Nobody answers...
+E: CONT'D
+C: VIVIAN
+D: Bill? She’s talking to WILLIAM FRAWLEY.
+E: CONT'D
+C: VIVIAN
+D: Bill.
+E: CONT'D
+C: FRAWLEY
+D: Is she talking to me? Two of the elderly witnesses we saw in the opening, BOB and MADELYN, are now in their 20’s.
+C: MADELYN
+D: Yes. Continued: 22
+C: FRAWLEY
+D: So she knows I’m here, she can see me?
+C: MADELYN
+D: Yeah.
+C: VIVIAN
+D: Did you know little Rusty had to sign a loyalty pledge?
+C: FRAWLEY
+D: I don’t know who the fuck little Rusty is.
+C: VIVIAN
+D: Rusty Hamer from The Danny Thomas Show.
+C: FRAWLEY
+D: That’s not his name.
+C: VIVIAN
+D: It is his name.
+C: FRAWLEY
+D: The littlest kid on Danny’s show?
+C: VIVIAN
+D: Yes.
+C: FRAWLEY
+D: The character’s named Rusty, not the actor.
+C: VIVIAN
+D: They’re both named Rusty. Rusty Williams is played by Rusty Hamer.
+C: FRAWLEY
+D: And Hamer’s a Communist?
+C: VIVIAN
+D: He’s 7-years old.
+C: FRAWLEY
+D: And he’s interested in politics?
+C: VIVIAN
+D: No imbecile! I’m saying he’s 7- years old and they made him sign a loyalty pledge. Continued: 22 Continued: 22
+C: FRAWLEY
+D: Uh-huh.
+C: VIVIAN
+D: This is getting out of hand was my point.
+C: FRAWLEY
+D: Why isn’t Danny Thomas’s kid named Rusty Thomas?
+C: VIVIAN
+D: Are you drunk?
+C: FRAWLEY
+D: It’s 10am, Vivian, so...you know...of course.
+C: MADELYN
+D: Bob and Jess and I were up all weekend working on the script you’re about to read and on behalf of all of us I want to say how much we appreciate your respect.
+C: FRAWLEY
+D: Believe me, you do not want me to read this sober.
+C: BOB
+D: I’m starting to get a little tired of your casual insults.
+C: FRAWLEY
+D: Well my insults don’t feel like putting on a fuckin’ tuxedo for you, kid. Jess, why don’t you tell your young writers that I don’t work for them.
+C: MADELYN
+D: Jess, why don’t you tell your supporting cast that we don’t work for him either. And now we finally hear from the younger version of JESS--
+C: JESS
+D: You all work for me! Look, what you all have to understand is this. Here’s what you have to understand. We’re all tense. Continued: 22 Yellow Rev. 14. Continued: 22 There’s a long silence in the room before--
+E: pause 03/28/21
+C: MADELYN
+D: Seriously, that was it?
+E: pause
+C: JESS
+D: We’re all tense, and the cure for that is to just do the show. Normal production week.
+C: FRAWLEY
+D: We’re going to need someone to play Lucy and Ricky, those are critical roles.
+C: JESS
+D: The two of them are in Desi’s office meeting with the network and the sponsor right now. I’m sure there’s an explanation and that this’ll be over by show night.
+C: FRAWLEY
+D: One way or the other.
+C: JESS
+D: Yeah. No. I mean--let me be clear-- I said this’ll all be over by show night and Bill said, “One way or the other.” Gallows humor. I said, “Yeah”, but I didn’t mean--
+C: MADELYN
+D: The sooner you stop talking--
+C: JESS
+D: Yeah. INT. DESI’S OFFICE - DAY23 23 It’s an office befitting the president of Desilu and right now it’s filled with a half-dozen men plus Lucy and Desi. DESI’s sitting at his desk and LUCY’s leaning against it.
+C: DESI
+D: I think everyone’s acquainted but let’s go around. Joe?
+C: JOE
+D: Joe Strickland, CBS. Yellow Rev. 14. Continued: 22 Yellow Rev. 15. Continued: 23
+E: 03/28/21 03/28/21
+C: HOWARD
+D: Howard Wenke, also CBS.
+C: ROGER
+D: Roger Otter, Philip Morris.
+C: IRWIN
+D: Irwin Gotlieb, attorney for Desilu.
+C: SAM
+D: Sam Stein, attorney for Lucille Ball.
+C: TIP
+D: Tip Tribby, V.P. of Public Relations for Phillip Morris.
+C: DESI
+D: Tip? If Winchell had it cold he’d have used her name, it woulda been at the top of the show and not the bottom and this morning we’d be reading about it on the front page of every paper, am I right?
+C: TIP
+D: Yes.
+C: DESI
+D: They don’t have it.
+C: HOWARD
+D: Can you see where CBS might be concerned that there’s an “it” to “have”, do you see that?
+C: DESI
+D: Couldn’t follow you.
+C: HOWARD
+D: Lucy, you need to tell me right here and now what the hell is going on.
+C: DESI
+D: You don’t want to talk to my wife like that, amigo.
+C: HOWARD
+D: Or what, Des, you’re gonna beat me up?
+C: DESI
+D: She will. Yellow Rev. 15. Continued: 23 Yellow Rev. 15A. Continued: 23
+E: 03/28/21 03/28/21
+C: LUCY
+D: So we’re done with the introductions? LUCY’s quieted the room...
+C: LUCY
+D: I’m not a Communist, I’ve never been a Communist except technically, yeah I am.
+E: CONT'D
+C: JOE
+D: Jesus Christ, do you get what’s happening and do you know that this isn’t funny?
+C: LUCY
+D: Yes, I do get what’s happening and yes, I know that it isn’t funny.
+C: HOWARD
+D: Lucy-- Yellow Rev. 15A. Continued: 23 Continued: 23
+E: 03/28/21
+C: LUCY
+D: My father died when I was very young and I was raised by my mother and my grandfather, a man named Fred C. Hunt.
+C: DESI
+D: I’d like everyone but Howard to leave the room.
+C: ROGER
+D: Philip Morris pays for this show.
+C: DESI
+D: And they get their money’s worth so give us a minute, would you? LUCY’s taken a cigarette out--
+C: ROGER
+D: She’s smoking a Chesterfield, could she at least smoke one of the seven brands that Philip-Morris--
+C: DESI
+D: Got it. Everyone’s gone but LUCY, DESI and HOWARD...
+C: LUCY
+D: Fred C. Hunt, my grandfather, was a member of the party. This was in the early 30’s and I was in my early 20’s. He never used the word “communist” but he cared about workers, the working man. He raised my little brother and me and I wanted to please him so I checked the box. Back then it wasn’t considered much worse than being a Republican.
+C: HOWARD
+D: Have you been to a meeting?
+C: LUCY
+D: No.
+C: HOWARD
+D: Never.
+C: LUCY
+D: No. Continued: 23 Continued: 23
+C: HOWARD
+D: You were at a cocktail party and later you found out--
+C: LUCY
+D: No.
+C: HOWARD
+D: Have you ever--
+C: LUCY
+D: My entire relationship with communism is twenty years ago I checked a box.
+C: HOWARD
+D: Why is this coming out now?
+C: DESI
+D: The committee investigated her and cleared her. But then last week William Wheeler convened a special session out here--a private session- -called her in again and that’s why we’re sitting here.
+C: HOWARD
+D: And nobody’s picked it up.
+E: pause
+C: DESI
+D: Nobody’s picked up the story, not a single paper. Not a single news network, including your own.
+C: HOWARD
+D: Maybe. Maybe we’re outa this. We just don’t know yet.
+C: LUCY
+D: When will we?
+C: HOWARD
+D: If you tape a show Friday night it means you still have a show. Continued: 23 Yellow Rev. 18. Continued: 23
+E: 03/28/21
+C: LUCY
+D: Okay.
+E: pause
+C: HOWARD
+D: Okay. HOWARD exits...
+E: pause
+C: DESI
+D: You and me, we’ve been through worse than this.
+C: LUCY
+D: We have?
+E: beat
+C: DESI
+D: No.
+C: LUCY
+D: That’s what I thought.
+C: LUCY
+D: Hey. The whole piece was invented out of thin air?
+E: CONT'D beat
+C: DESI
+D: Huh?
+E: beat
+C: LUCY
+D: Four pages, fifteen-hundred words--
+C: DESI
+D: Are you being funny right now?
+C: LUCY
+D: That’s the second time someone’s asked me that this morning. I’m Lucille Ball, when I’m being funny you’ll know it. They invented the whole thing?
+C: DESI
+D: You don’t think we got bigger fish to fry? Yellow Rev. 18. Continued: 23 Continued: 23
+E: 03/28/21
+C: LUCY
+D: They invented--
+C: DESI
+D: Yes, they invented the whole thing! I was on the boat playing cards. They invented the whole thing and I’m angry at them and I’ll do something about it but right now--
+E: over
+C: LUCY
+D: Yeah. Got it. Priorities. You’re right.
+C: DESI
+D: Say that again. “Desi, you’re right.”
+C: LUCY
+D: No. DESI takes LUCY in his arms--
+C: DESI
+D: Everything’s gonna be fine. Nothing’s gonna happen to you. I won’t allow it. I just won’t. LUCY kisses DESI...then she takes the handkerchief from Desi’s jacket pocket and wipes the lipstick off his lips...
+C: DESI
+D: You’ve never done that before.
+E: CONT'D
+C: LUCY
+D: I know. I’ve seen other people do it in movies I’ve been in. INT. SOUNDSTAGE - DAY24 24 The group is still waiting at the shoehorn of tables.
+C: VIVIAN
+D: For the love of God, old man, this isn’t hard! Rusty Hamer plays Rusty Williams on the Danny Thomas show. He’s in second grade and he had to sign a loyalty oath when he signed his contract which I think is ugly. That’s it. I don’t know why this is tripping you up. It wasn’t confusing. Continued: 23 Continued: 24
+C: FRAWLEY
+D: There’s no such thing as the Danny Thomas show, it’s called “Make Room for Daddy”, don’t tell me comedy, and if Rusty is a communist then I’m going to beat the shit out of a 7-year old, I have no problem with that.
+E: pause
+C: VIVIAN
+D: I’m done.
+C: MADELYN
+D: That? Right there? Was funnier than anything you’ve written so far this year.
+E: to BOB
+C: BOB
+D: That’s not--I’ve written plenty of--
+C: MADELYN
+D: No. A heavy door opens and LUCY and DESI walk in--
+C: DESI
+D: Good morning! LUCY sees someone at the table--DONALD GLASS, this week’s director--and stops DESI to whisper--
+E: calling out
+C: LUCY
+D: Don Glass is directing this week? DESI knows it’s the wrong week for a director Lucy doesn’t like...
+E: quietly
+C: DESI
+D: We’ll be fine. You’re wondering what’s goin’ on.
+E: beat to the GROUP
+C: JESS
+D: No matter what’s going on, we all support you a thousand percent.
+C: FRAWLEY
+D: I’d like to find out what’s going on before I make that commitment. Continued: 24 Continued: 24
+C: DESI
+D: Here it is. A long time ago Lucy accidentally checked the wrong box on her voter registration. That’s the first act of a new episode right there.
+C: BOB
+D: “Lucy Gets Blacklisted”.
+C: DESI
+D: That’s not a joke, Bob.
+C: BOB
+D: You made the joke, I just put the button--
+E: chastised
+C: DESI
+D: Last week she testified in a closed session. She was cleared. Yeah? She was cleared. I don’t know where Winchell got his information but it was wrong. And as you can see, it was not picked up by any newspaper. So let’s do our show. Yeah? Let’s just do our show. Jess, it’s your stage.
+E: over BOB
+C: JESS
+D: I Love Lucy, Episode two-oh-four. Season 2, Episode 4. “Ethel and Fred Fight”. Teleplay by Bob Carroll, Madelyn Pugh and myself.
+C: FRAWLEY
+D: It took three of you to write this one?
+C: JESS
+D: And directing this week, Donald Glass is back with us so let’s give him a hand. Everyone CLAPS...
+C: DONALD
+D: It’s good to be back.
+C: JESS
+D: Act I, “Interior, the Ricardo’s living room, night.” Continued: 24 Continued: 24
+C: LUCY
+D: Excuse me. Donald?
+C: DONALD
+D: Yes.
+C: LUCY
+D: Good morning, I’m Lucille Ball.
+C: DONALD
+D: I sure know that, Lucy.
+C: LUCY
+D: I wanted to make sure ‘cause you haven’t been here in a while. Is it because you’ve been going through puberty?
+C: DONALD
+D: I look young, yes, but I went through it a long time ago and I haven’t been here because I’ve been directing at Danny Thomas.
+C: FRAWLEY
+D: With the communist kid? Fuck off.
+C: VIVIAN
+D: Jesus Christ.
+C: LUCY
+D: You don’t have to fuck off, but you do have to know that Danny does jokes and few people do it better. I do physical comedy.
+C: DONALD
+D: I’ve seen every episode of the show.
+C: LUCY
+D: So have 60-million other people-- --are none of them professional television directors?!
+E: to JESS
+C: DESI
+D: She’s kidding.
+C: DONALD
+D: I can tell. Continued: 24
+C: 22A.
+D: Continued: 24
+C: LUCY
+D: I’m hazing you a little, Donald. It’s just my way of saying I have no confidence in you at all.
+C: 22A.
+D: Continued: 24 Continued: 24
+C: DESI
+D: Alright, we haven’t gotten off to a great start this morning I think-- and I have no idea what the fuck you were talkin’ about, Bill--
+C: VIVIAN
+D: Ah, Des, I’m beggin’ you, don’t ask.
+C: DESI
+D: No problem. I just wanted to say that this show is made by Desilu Productions, whose president is speaking to you right now. And for the next 30 minutes I don’t want to hear a word that isn’t in this script. It’s your stage.
+E: to JESS
+C: JESS
+D: Thank you. “Lucy’s putting the finishing touches on a fancy dinner table--good china, silver, etc.”
+C: MADELYN
+D: The table’s set for four but there are only three chairs, I should’ve put that in the stage direction.
+C: BOB
+D: It’s two chairs and a piano bench.
+C: MADELYN
+D: For a total of?
+C: BOB
+D: Three chairs. We’re going to start to go in and out of LUCY’s head as the reading goes on. She’s imagining what each beat will be like in its final form the way a chess master can see the board twelve moves ahead. She can also see and hear what the audience is going to laugh at.
+C: JESS
+D: Table’s set for four but there are only three chairs. “The door opens and Ricky enters. Lucy doesn’t hear him. Ricky puts his coat down quietly and tip-toes in back of--”’ QUICK CUT TO: Continued: 24
+C: 23A.
+D: Continued: 25 INT. I LOVE LUCY SET/LIVING ROOM - NIGHT 25 25 LUCY RICARDO is setting the table as RICKY RICARDO enters, puts his coat down and tip-toes up to LUCY-- CUT BACK TO:
+E: BLACK AND WHITE
+C: 23A.
+D: Continued: 25 Continued: 26 INT. SOUNDSTAGE - SAME TIME26 26
+C: LUCY
+D: Why not?
+C: JESS
+D: Sorry?
+C: LUCY
+D: Why doesn’t Lucy hear him?
+C: JESS
+D: Well he’s about to do the thing where you cover someone’s eyes and say “Guess who?”
+C: LUCY
+D: I understand that it’s a set-up, I understand why we need Lucy to not hear him, I just don’t understand why--in an apartment this size-- Lucy doesn’t hear--or for that matter, see--the front door open when she’s standing 12-feet from it.
+C: JESS
+D: We’ll work on that.
+C: LUCY
+D: Thanks.
+C: JESS
+D: “Ricky puts his coat down quietly, tip-toes in back of her and reaches around and covers her eyes with his hands.” *NOTE: All dialogue for I LOVE LUCY will be in italics.
+C: RICKY
+D: Guess who it is?
+C: LUCY
+D: Bill--Sam--Pat--Ralph?
+C: JESS
+D: “Ricky reacts to this” QUICK CUT TO: Continued: 26 Continued: 27 INT. I LOVE LUCY SET/LIVING ROOM - NIGHT 27 27
+E: BLACK AND WHITE
+C: RICKY
+D: No!
+C: LUCY
+D: George--Julius--Stephen-- CUT BACK TO: INT. SOUNDSTAGE - SAME TIME28 28
+C: LUCY
+D: Hang on. Are we supposed to believe that Ricky believes that Lucy really doesn’t know it’s him? That Ricky believes that Lucy is not only unfamiliar with his voice-- which let’s not forget has a Cuban accent--but that he really believes there are at least seven other men who routinely walk into their apartment?
+C: DESI
+D: She has a pretty good point. She has four or five pretty good points.
+C: JESS
+D: We’ll write a better joke or Ricky will know that Lucy is joking.
+C: BOB
+D: We can change the names. Pedro, Pablo, Jose. Because they’re Spanish names. I mean Latin names. They’re Cuban names.
+E: beat
+C: MADELYN
+D: Thanks for clearin’ that up, professor.
+C: BOB
+D: I’m just, you know--
+C: JESS
+D: “Ricky takes his hands away and turns her around.” Continued: 27 Continued: 28
+C: DESI
+D: No! It’s me.
+C: LUCY
+D: Oh yes of course. Uh...uh...
+C: JESS
+D: “She snaps her fingers and pretends she can’t remember his name.”
+C: DESI
+D: Very funny.
+C: JESS
+D: “Ricky kisses her and then notices the table set-up.” QUICK CUT TO: INT. I LOVE LUCY SET/LIVING ROOM - NIGHT 29 29
+E: BLACK AND WHITE
+C: RICKY
+D: Hey--company for dinner?
+C: LUCY
+D: Uh-huh.
+C: RICKY
+D: Who is it? INT. SOUNDSTAGE - SAME TIME30 30
+C: JESS
+D: “Lucy elaborately ignores him.” INT. I LOVE LUCY SET/LIVING ROOM - NIGHT 31 31
+E: BLACK AND WHITE
+C: LUCY
+D: How do you like the water glasses?
+C: RICKY
+D: Who’s coming to dinner, Lucy?
+C: LUCY
+D: Doesn’t the table look beautiful tonight? Continued: 28 Continued: 32 INT. SOUNDSTAGE - SAME TIME32 32
+C: JESS
+D: “She tries to make her way past him on her way to the kitchen but he holds out his hands and blocks the way.” INT. I LOVE LUCY SET/LIVING ROOM -NIGHT 33 33
+E: BLACK AND WHITE
+C: RICKY
+D: Lucy, who is it?
+C: LUCY
+D: Some people.
+C: RICKY
+D: Whom--whom is coming for dinner here tonight?
+C: LUCY
+D: Whom? You mean besides meem and youm?
+C: RICKY
+D: Never mind that. What are their names?
+C: LUCY
+D: Fred and Ethel Mertz.
+C: RICKY
+D: Wait a minute. What about that big fight Fred and Ethel had? I thought they were mad at each other.
+C: LUCY
+D: They are.
+C: RICKY
+D: I thought they weren’t speaking to each other.
+C: LUCY
+D: They aren’t.
+C: RICKY
+D: I thought he was staying at the Y.
+C: LUCY
+D: He is. Continued: 32 Continued: 33
+C: RICKY
+D: And she wouldn’t let him in the house.
+C: LUCY
+D: She won’t.
+C: RICKY
+D: Well if they are and they aren’t and he is and she won’t--how come? INT. SOUNDSTAGE - SAME TIME34 34
+C: LUCY
+D: Well--
+E: guilty
+C: DESI
+D: Lucy McGillicuddy Ricardo.
+E: scolding
+C: LUCY
+D: Ooooooh. That’s nice, but was the rhythm getting old too early?
+C: JESS
+D: We’ll work on it.
+C: MADELYN
+D: Because we want to live up to the quality of the writing you were used to at RKO. There’s an awkward silence in the room...
+C: DESI
+D: That was gutsy.
+E: pause
+C: MADELYN
+D: That was--it was a joke about the writing at RKO and--
+E: pause
+C: DESI
+D: Yeah?
+C: MADELYN
+D: --not--obviously not an insult aimed at Lucy. Continued: 33 Continued: 34 LUCY takes a moment before she laughs a little and we CUT TO: EXT. HOTEL POOL - DAY35 35
+E: MORE
+C: OLDER MADELYN
+D: Looking back it may have been an insult aimed at Lucy. Which was very unusual, Lucy and I were close. But Jesus...we always did notes after the table read, after the CBS execs and sponsors had left. Let us hear the whole script, we’re hearing the same things you are, we have a week, we’ll fix it. INT. NIGHTCLUB - DAY36 36
+C: OLDER BOB
+D: There was a Broadway show called Too Many Girls and it was terrible. EXT. HOTEL POOL - DAY36A 36A
+C: OLDER MADELYN
+D: Look, she was always tough on the writing, she pressed down hard on each beat, but that week it was like her life depended on whether a joke was a “B” or “B-plus”. INT. SOUNDSTAGE BLEACHERS - DAY37 37
+C: OLDER JESS
+D: One of the stars of Too Many Girls was Desi. He sang a big rumba number with a drum strapped over his shoulder. EXT. HOTEL POOL - DAY38 38
+C: OLDER MADELYN
+D: Too Many Girls. RKO decided to make this very bad Broadway show into-- and I still can’t believe it--an even worse movie. Continued: 34
+E: shaking her head MORE
+C: OLDER MADELYN
+D: Continued: 38 They kept Desi in the cast but the second female lead was replaced by the queen of the “B” movies-- Lucille Ball. INT. SOUNDSTAGE BLEACHERS - DAY39 39
+E: CONT'D
+C: OLDER JESS
+D: A couple of days before shooting started, Desi was on a soundstage working with a piano and a drum and Ann Miller. Here’s what you have to understand--A more handsome and charming man than Desi you’ve never met. So all the chorus girls were standing around gawking. EXT. HOTEL POOL - DAY40 40
+C: OLDER MADELYN
+D: And standing off away from the pack of chorus girls is Lucy, who was unrecognizable because she was still in the middle of shooting Dance, Girl, Dance where she was playing a burlesque girl who’d just been beaten up by her pimp. INT. NIGHT CLUB - DAY41 41
+C: OLDER BOB
+D: So she was unrecognizable. INT. SOUNDSTAGE BLEACHERS - DAY42 42
+C: OLDER JESS
+D: That’s how they met. INT. A DIFFERENT SOUNDSTAGE - DAY43 43 DESI is standing by the piano singing “She Could Shake the Maracas” as ANN MILLER improvises some steps and then builds on it. CHORUS GIRLS are standing around watching and in the back is LUCY--her face beaten and her hair all over the place. Unrecognizable. The music stops and there’s a smattering of applause from the group. A few CHORUS GIRLS step up to say hello to Desi.
+C: OLDER MADELYN
+D: Continued: 38 Continued: 43
+E: CONT'D
+C: ANGIE
+D: Mr. Arnaz?
+C: DESI
+D: My name’s Desidorio Alberto Arnaz y de Acha III, but just my mother calls me that. Desi.
+C: ANGIE
+D: I’m Angie, I’m in the chorus and I wanted to say I’m looking forward to working with you.
+C: DESI
+D: I’m looking forward too, Angie.
+C: PATTY
+D: Patty.
+C: DESI
+D: Short for Patricia?
+C: PATTY
+D: Yes.
+C: DESI
+D: Also in the chorus?
+C: PATTY
+D: Dancing chorus. LUCY steps in...
+C: DESI
+D: And who’s this?
+C: LUCY
+D: “Do you remember the first time we met? You were rudely attentive but now you’re obnoxiously indifferent.”
+C: DESI
+D: What?
+E: pause
+C: LUCY
+D: It’s a line from our movie, dumb- dumb.
+C: DESI
+D: Do we know each other? Continued: 43 Continued: 43
+C: LUCY
+D: No. Another chorus girl steps in--
+C: DAISY
+D: Desi--I’m Daisy. People are gonna get confused.
+C: DESI
+D: I don’t see no one confusing you with anyone, Daisy. The schmoozing continues as LUCY disappears... INT. SOUNDSTAGE - LATER44 44 The stage is empty except for DESI and the PIANIST. DESI’s playing a lullaby on his guitar and singing in Spanish. LUCY’s standing in the giant doorway, framed by the setting sunlight. She looks beautiful now. She enjoys the song for a moment before DESI looks up and immediately stops--stunned by this woman.
+C: LUCY
+D: “Do you remember the first time we met?”
+C: DESI
+D: If we’d met, I’d remember.
+C: LUCY
+D: “You were rudely attentive but now you’re obnoxiously--
+C: DESI
+D: Wait! That was you?!
+C: LUCY
+D: --indifferent”, that was me, yeah.
+C: DESI
+D: This studio has talented make-up artists. Continued: 43 Continued: 44
+C: LUCY
+D: “I’m Angie, I’m in the chorus, and I just wanted to say that when I drink I take my clothes off.” I’m so curious I have to ask--how did you know that Patty was short for Patricia?
+C: DESI
+D: I’m Desidorio Alberto--
+C: LUCY
+D: I don’t have that kinda time.
+C: DESI
+D: And you’re Lucille Ball.
+C: LUCY
+D: Use a line on me you’ve never road- tested on anyone else. I dare you.
+C: DESI
+D: Would you like to learn how to rumba?
+C: LUCY
+D: Alright nice, and yes I would, but there’s absolutely no chance you haven’t used that before. INT. CIRO’S - NIGHT45 45 A small Latin band is blaring away, the dance floor is packed and DESI’s showing LUCY how to rumba, which she’s pretty good at.
+E: pause
+C: DESI
+D: I want you to know I’m not trying to be forward. I’m showing you this because it’ll come in handy for your rumba number in the movie.
+E: talking over the noise
+C: LUCY
+D: I don’t have a rumba number in the movie.
+C: DESI
+D: No rumba?
+C: LUCY
+D: No. Continued: 44 Continued: 45
+C: DESI
+D: That’s a sign of a poorly written screenplay.
+C: LUCY
+D: Well we should dance to something else. INT. CIRO’S - LATER46 46 The band is playing a slow number and LUCY and DESI are dancing close.
+C: DESI
+D: Why did you come to Hollywood?
+C: LUCY
+D: I got kicked out of New York.
+C: DESI
+D: Seriously.
+C: LUCY
+D: I mean it. I got kicked out of my acting school for not being good enough.
+C: DESI
+D: Get outa here.
+C: LUCY
+D: I won’t. I got some modeling work, I was hired and fired as a Ziegfeld Girl but hired as a Goldwyn Girl and that’s what took me out here. Why did you come to Hollywood?
+C: DESI
+D: The Bolsheviks burned my house down.
+C: LUCY
+D: So...a different reason.
+E: pause
+C: DESI
+D: Yeah. INT. CIRO’S - LATER47 47 The place is almost empty. LUCY and DESI are sitting at a table. Continued: 45 Continued: 47
+C: LUCY
+D: I’m older than you are.
+C: DESI
+D: How do you know?
+C: LUCY
+D: I asked. Please don’t do the same. But I’m a full-grown woman. I’m not married. I don’t have children. On my best days I get cast as the second female lead in forgettable pictures. I don’t mean to insult you, I know this one’s your Hollywood debut, but Too Many Girls is not...going to be part of the Oscar conversation.
+C: DESI
+D: You never know.
+C: LUCY
+D: No, plenty of times you do. Anyway...I’m several years older than you are. INT. DESI’S HOTEL SUITE/LIVING ROOM - NIGHT48 48 The doors to the terrace are open and we can see the lights of Hollywood in the distance. DESI’s sitting in a chair in the room with a guitar on his lap. He’s trying unsuccessfully to write a song.
+C: DESI
+D: “Lucille... ...there’s not much that rhymes with Lucille... Bastille...but who’d write a song about that?” LUCY comes out of the bathroom wearing Desi’s white dinner jacket over her bra and underwear. She walks by DESI without looking at him--
+E: singing and playing beat--singing beat--singing
+C: LUCY
+D: I borrowed part of your tuxedo. --and steps out on the terrace. Continued: 47 Yellow Rev. 36. Continued: 48 DESI stares as she walks by, then stands up, sending the guitar clanging to the floor. DESI joins LUCY out on the-- INT. DESI’S HOTEL SUITE/TERRACE - CONTINUOUS49 49
+E: 03/28/21
+C: DESI
+D: It comes with pants, but I’m wearing them.
+C: LUCY
+D: Not for long, pal.
+C: DESI
+D: So...
+C: LUCY
+D: Yes.
+C: DESI
+D: Can I call you Lucy?
+C: LUCY
+D: No, I think we should keep this professional, don’t you? I was kidding.
+E: beat beat
+C: DESI
+D: So was I.
+C: LUCY
+D: Oh. That was a nice, dry delivery.
+C: DESI
+D: What’s your ambition?
+C: LUCY
+D: My ambition? For tonight? I wasn’t making that clear?
+C: DESI
+D: I don’t mean ambition. What do I mean?
+C: LUCY
+D: Goals?
+C: DESI
+D: No. Future. Dreams. Yellow Rev. 36. Continued: 48 Yellow Rev. 36A. Continued: 49
+E: 03/28/21 03/28/21
+C: LUCY
+D: What are my future dreams?
+C: DESI
+D: I should’ve stuck with ambition.
+C: LUCY
+D: Are you interviewing me?
+C: DESI
+D: Yeah.
+C: LUCY
+D: Okay. I live in a small house.
+E: pause
+C: DESI
+D: And your ambition is to live in a bigger house.
+C: LUCY
+D: My ambition is to live in a home.
+C: DESI
+D: Like for old folks?
+E: pause
+C: LUCY
+D: Not a home, not an institution, a home. With a family and dinner time.
+C: DESI
+D: Can I ask an impertinent question?
+C: LUCY
+D: Are you going to ask me why I’m not married? Yellow Rev. 36A. Continued: 49 Continued: 49
+E: 03/28/21
+C: DESI
+D: No, I was going to ask you why you’re not a movie star. Why are you playing the second female lead in Too Many Girls?
+C: LUCY
+D: I’m a contract player at RKO. I play the roles I’m told to play. My career’s gone as far as it’s gonna go, it’s hit its cruising altitude. I’m at peace with that. So I’d like to be at peace. I want a home.
+C: DESI
+D: You have a lot more talent than the roles you play have allowed you to exhibit.
+C: LUCY
+D: Now how would you know I have talent?
+C: DESI
+D: Because I have talent. You could be a serious actress, you should be a star by now. But--
+C: LUCY
+D: But what?
+E: beat
+C: DESI
+D: There’s also something about your physicality. You’re--
+C: LUCY
+D: --half naked?
+C: DESI
+D: Sure, but...
+C: LUCY
+D: But?
+C: DESI
+D: There isn’t an English word. Dotada cineticamente.
+E: in Spanish
+C: LUCY
+D: What does that mean? Continued: 49 Continued: 49
+C: DESI
+D: It means you’re “kinetically gifted.” No one’s noticed that? INT. DESI'S HOTEL SUITE/BEDROOM - LATER50 50 LUCY and DESI are drenched in sweat as they devour each other on the bed. INT. DESI’S HOTEL ROOM - MORNING51 51 DESI’s in bed asleep. LUCY’s standing on the terrace thinking. She comes back inside and taps DESI on the shoulder to wake him up.
+E: beat
+C: LUCY
+D: Hi. Sorry. I need to use the phone to call my fiance.
+E: quietly
+C: DESI
+D: Sure. Wait, what?
+E: beat
+C: LUCY
+D: It’ll just take a second. LUCY dials the operator--
+C: DESI
+D: Your fiance?
+C: LUCY
+D: Outside line please.
+E: into the phone
+C: DESI
+D: Not that I haven’t--it’s just that I got the sense that we--
+C: LUCY
+D: One sec.
+E: to DESI
+C: DESI
+D: I thought last night-- Continued: 49 Buff Rev. 39. Continued: 51
+E: 04/12/21
+C: LUCY
+D: It’s me. Hey, you don’t love me, I don’t love you, you cheat on me every chance you get and I pretend I’m stupid. So I’m moving out. I’ll send someone to pick up my clothes. Okay? Love you. But, you know, not really. She hangs up the phone.
+E: into phone
+C: LUCY
+D: I interrupted you, what were you saying? INT. SOUNDSTAGE - DAY52 52 The table read is ending--
+E: CONT'D
+C: JESS
+D: And we fade to black. End of show. There’s light applause around the table--
+C: JESS
+D: Thank you. Notes upstairs.
+E: CONT'D
+C: ASSISTANT DIRECTOR
+D: Back on stage in an hour. Everyone gets up and exits except DESI and FRAWLEY, who stay sitting at the table...
+C: FRAWLEY
+D: It’s madness.
+E: pause
+C: DESI
+D: Yeah? I thought you’d be the first one to refuse to work with her. DESI gets up to leave--
+C: FRAWLEY
+D: You mean that?
+C: DESI
+D: You’re not fond of Communists.
+C: FRAWLEY
+D: I’m less fond of the Committee. Buff Rev. 39. Continued: 51 Buff Rev. 39aA. Continued: 52 DESI nods and starts to go on his way... Buff Rev. 39aA. Continued: 52 Yellow Rev. 39A. Continued: 52
+E: 04/12/21 04/12/21 04/12/21 MORE 03/28/21
+C: FRAWLEY
+D: Des. When the soldiers came. For your family. How scary was it? You’re giving me that look that says, “I don’t get scared a nothin’.”
+E: CONT'D pause
+C: DESI
+D: They killed all the animals. Not for food, they just killed all the animals. I still don’t know why they did that. Yellow Rev. 39A. Continued: 52
+E: pause beat MORE 03/28/21
+C: DESI
+D: Yellow Rev. 40. Continued: 52 It’s six-to-five and pick-em we’ve already done the last episode of this show. This show, everyone who works here, Desilu, Lucy’s whole career--mine too--it may have ended Sunday night and we just don’t know it yet. Are you outa your mind, I get plenty scared. DESI heads off...
+E: CONT'D 03/28/21
+C: FRAWLEY
+D: Fuckin’ madness. INT. LUCY’S DRESSING ROOM - DAY53 53 LUCY’s sitting in silence on the couch, looking at a newspaper. There’s a KNOCK at the door--
+E: more to himself
+C: DESI
+D: Lucy?
+E: O.S.
+C: LUCY
+D: Yeah. DESI steps in.
+C: DESI
+D: Madelyn was way outa line and I’ll talk to Jess.
+C: LUCY
+D: No, I don’t care about that.
+C: DESI
+D: I care about it.
+C: LUCY
+D: You told them I checked the wrong box?
+C: DESI
+D: Who?
+C: LUCY
+D: Before the table read. You told them I checked the wrong box.
+C: DESI
+D: It takes fewer words to say that than the truth.
+E: pause
+C: DESI
+D: Yellow Rev. 40. Continued: 52 Yellow Rev. 40A. Continued: 53
+E: CONT'D 03/28/21 03/28/21
+C: LUCY
+D: But it makes me sound like a simpleton who’s ill-equipped to participate in democracy. Yellow Rev. 40A. Continued: 53 Continued: 53
+E: 03/28/21
+C: DESI
+D: It was simpler and it’s nobody’s goddam business.
+C: LUCY
+D: Well, no, pretty obviously it’s everybody’s goddam business.
+C: DESI
+D: You don’t have to keep checking the papers. I’ve got people who’ll let me know the moment an editor thinks about it. There’s something wrong with the story, they know it, and that’s why no one’s reporting on Winchell.
+C: LUCY
+D: No. The Confidential story. That’s getting picked up. LUCY puts the newspaper in DESI’s hands as she walks out of the room. DESI looks at the gossip column headline-- “Does Desi Really Love Lucy?”
+C: BLACK TITLE:
+D: Tuesday Blocking Rehearsal INT. WARDROBE ROOM - DAY54 54 VIVIAN’s being fitted for a dress. It’s more flattering than what we’re used to seeing Ethel in.
+C: VIVIAN
+D: I like this a lot, Tommy.
+C: TOMMY
+D: It’s a great color for you.
+C: VIVIAN
+D: I really like this.
+C: TOMMY
+D: And I can cinch the back a little. I can lower the neckline. Continued: 53 Continued: 54
+E: MORE
+C: VIVIAN
+D: Not on CBS you can’t, but still, now we’re talkin’. Now we’re cookin’ with gas.
+C: TOMMY
+D: Should I bring out some shoes?
+C: VIVIAN
+D: Yes please. TOMMY disappears. VIVIAN checks herself out in the full- length mirror. LUCY appears in the reflection. She whistles her approval.
+C: VIVIAN
+D: Yeah?
+E: CONT'D
+C: LUCY
+D: That’s a nice dress.
+C: VIVIAN
+D: I thought so too.
+C: LUCY
+D: Are you borrowing it from wardrobe for a cocktail party?
+C: VIVIAN
+D: A dinner party.
+E: beat
+C: LUCY
+D: Where?
+C: VIVIAN
+D: The apartment of Ricky and Lucy Ricardo.
+C: LUCY
+D: This is for the show?
+C: VIVIAN
+D: Lucy’s invited--
+C: LUCY
+D: Viv--
+C: VIVIAN
+D: I know, but listen. I’m thinking Lucy’s invited her to dinner, she thinks she’s being fixed up with an eligible guy. Continued: 54
+E: MORE
+C: VIVIAN
+D: Continued: 54 She’d want to look nice, it’s something new for the character.
+E: CONT'D
+C: LUCY
+D: But the character’s still Ethel Mertz, right?
+C: VIVIAN
+D: Yeah. TOMMY’s come back in with the shoes but heads right to where a newspaper’s sitting on a table. LUCY’s hand casually gets there first.
+E: pause
+C: VIVIAN
+D: Hey. Don’t. LUCY looks at the paper and shows it to VIVIAN--
+E: CONT'D
+C: LUCY
+D: “Does Desi Love Lucy Loosely?” They took time on that.
+C: VIVIAN
+D: Isn’t there enough going on with-- I’d be more concerned about--
+C: LUCY
+D: “If neighbors hear screams of rage followed by the sound of breaking crockery coming from the Arnaz house this month, they’ll know what is happening without having to investigate. The red-haired Missus has just finished reading Confidential’s report on--”
+E: reading
+C: VIVIAN
+D: In your life have you ever taken this stuff seriously?
+C: LUCY
+D: I take my marriage seriously.
+C: VIVIAN
+D: And Desi said?
+C: LUCY
+D: “Lucy, I ain’t been with no girls since the moment I saw you.”
+E: in DESI’s voice
+C: VIVIAN
+D: Continued: 54 Continued: 54
+E: CONT'D
+C: VIVIAN
+D: Then believe him.
+C: LUCY
+D: I do believe him. It’s an old picture, we were there together and he was playing cards on the boat Wednesday. You’d be more concerned with what?
+C: VIVIAN
+D: What?
+C: LUCY
+D: You said, “I’d be more concerned with--” and I cut you off. The Winchell broadcast.
+C: VIVIAN
+D: Yeah.
+C: LUCY
+D: I don’t get to choose just one, I’m concerned with both.
+C: VIVIAN
+D: Understood. What about the third? What’d they say?
+C: LUCY
+D: We didn’t think yesterday was the best day to tell ‘em about the third.
+C: VIVIAN
+D: Right.
+C: LUCY
+D: We’re doing it now. Jess first, then the network and Philip Morris.
+C: VIVIAN
+D: Could be worse.
+C: LUCY
+D: How?
+C: VIVIAN
+D: You could be playing Ethel.
+C: LUCY
+D: Got it. Continued: 54 Salmon Rev. 45. Continued: 54 LUCY exits and we CUT TO: OMITTED55 55 INT. WRITER’S ROOM - DAY56 56 JESS, MADELYN and BOB are working at a large table with a writer’s assistant, MARY PAT, taking notes. On the wall are ideas for future episodes.
+E: 04/28/21
+C: MADELYN
+D: Is Lucy on the phone too long at the top? We only hear one side of the call, are we staying too long at the fair?
+C: BOB
+D: You don’t need to write down everything we say in here. MARY PAT writes that down.
+E: to MARY PAT
+C: JESS
+D: We’ll know when it’s on its feet. DESI knocks on the open door and he and LUCY walk in--
+C: DESI
+D: Good morning.
+C: JESS
+D: ‘Morning guys.
+C: DESI
+D: Mary Pat, would you mind giving us the room for a moment?
+E: to the Writers’ Assistant
+C: MARY PAT
+D: Of course, Mr. Arnaz. She closes up her notebook, exits and closes the door behind her.
+C: MADELYN
+D: “Of course, Mr. Arnaz.” Salmon Rev. 45. Continued: 54 Salmon Rev. 45A. Continued: 56
+E: 04/28/21 04/28/21
+C: BOB
+D: She’s nice.
+E: to MADELYN
+C: DESI
+D: You’re in enough trouble.
+E: to MADELYN
+C: LUCY
+D: You’re not in trouble. Salmon Rev. 45A. Continued: 56 Continued: 56
+E: 04/28/21
+C: DESI
+D: We need to talk.
+C: BOB
+D: No, don’t tell me--
+C: DESI
+D: No, we’re still okay. No one’s picked up the story.
+C: JESS
+D: Alright. Looking at Lucy’s face I thought for sure--
+C: LUCY
+D: I’m pregnant.
+C: JESS
+D: That’s not at all what I was gonna say.
+E: pause
+C: DESI
+D: That’s what we came to talk about. We were gonna have this conversation yesterday but other things--
+C: JESS
+D: Sure.
+C: BOB
+D: Well this is a one-two punch.
+C: LUCY
+D: It’s not a punch, I’m having a baby.
+C: MADELYN
+D: What do we do now? There’s a long silence before LUCY turns to DESI...
+C: LUCY
+D: I know it seems like no one said congratulations, but that can not be, as these are three of our closest friends and colleagues.
+E: pause
+C: JESS
+D: Of course. Mazel Tov. And they all begin congratulating Lucy and Desi at once-- Continued: 56 Continued: 56
+C: ALL
+D: Congratulations, Des./That’s wonderful news./ Congratulations./etc. The congratulating quiets down into silence...
+C: JESS
+D: So---
+C: LUCY
+D: Yeah. With Lucie I was the size of a phone booth. You’ve got about seven weeks before you have to start hiding me behind boxes and chairs and another seven weeks after that before I won’t fit in the frame.
+C: JESS
+D: What do you want to do?
+C: LUCY
+D: Do? Whatever there was to do we’ve done it.
+C: JESS
+D: Where does that leave us?
+C: DESI
+D: Without a choice. Lucy Ricardo’s gonna have a baby on television.
+C: JESS
+D: Des--
+E: pause
+C: DESI
+D: How many scripts in the bank?
+C: JESS
+D: We’re five ahead of production. We’re shooting 4 and writing 9.
+C: DESI
+D: Four. No harm done. But whatever script you’re working on now, Episode 9, scratch it. Episode 9 is now “Lucy Tells Desi She’s Pregnant” and we work from there. What’s that one? Continued: 56 Salmon Rev. 48. Continued: 56
+E: pointing to a story idea on the wall 04/28/21
+C: JESS
+D: Which one?
+C: LUCY
+D: “Lucy Goes to Italy”.
+C: JESS
+D: We want to send the four of you to Italy.
+C: LUCY
+D: Why?
+C: MADELYN
+D: We think it’d be nice to get off our set.
+C: LUCY
+D: No, why do the Ricardos and Mertzes go to Italy?
+C: JESS
+D: A vacation.
+C: DESI
+D: They don’t vacation in Europe, they go to the Grand Canyon, they go to Niagara Falls.
+C: BOB
+D: Work. Ricky’s got a gig at a club in Rome.
+C: DESI
+D: And what does Lucy do?
+C: MADELYN
+D: She stomps grapes. Lucy and Ethel go to an Italian Vineyard--
+C: DESI
+D: Why?
+C: MADELYN
+D: We don’t know yet--and they stomp grapes. We start to SLOWLY PUSH-IN on LUCY who’s thinking about how that might work and be funny...
+C: DESI
+D: This vineyard is located in the 19th Century? Salmon Rev. 48. Continued: 56 Continued: 56
+E: O.S. 04/28/21
+C: JESS
+D: They don’t stomp grapes anymore?
+E: O.S.
+C: DESI
+D: No.
+E: O.S.
+C: MADELYN
+D: Okay, so they find the one vineyard where they still stomp grapes. In LUCY’s head, we CUT TO: INT. ITALIAN HOTEL ROOM SET - DAY 57 57
+E: O.S. BLACK AND WHITE
+C: LUCY
+D: Come in. An ITALIAN BELLMAN opens the door--
+C: BELLMAN
+D: Si, signora, you sent for me.
+C: LUCY
+D: Yes, I’d like some information please. Are there any grape vineyards around here? I want to see how they make the wine. How they pick the grapes--you know-- press the juice out with their feet.
+C: BELLMAN
+D: There is one little town called Turo where they still make the wine that way. CUT BACK TO: INT. WRITERS’ ROOM - DAY58 58
+C: MADELYN
+D: Easy.
+C: DESI
+D: And why does she want to go to a vineyard?
+C: MADELYN
+D: We don’t know yet. Continued: 56 Continued: 58
+C: BOB
+D: She has an audition for an Italian movie.
+C: MADELYN
+D: What does that have to do with stomping grapes?
+C: BOB
+D: The part. CUT TO: INT. EUROPEAN TRAIN COMPARTMENT SET - DAY 59 59 An Italian director is talking to the two couples--
+E: BLACK AND WHITE
+C: VITTORIO
+D: I should not have been staring at Mrs. Ricardo, but she happens to be just the type I need for a part in my new picture.
+C: LUCY
+D: Who me?!
+C: VITTORIO
+D: Yes. The role of a beautiful Italian red head who--como si dice-- steps on the grapes. CUT BACK TO: INT. WRITERS’ ROOM - DAY60 60
+C: JESS
+D: We’ll get there. The point is, Lucy in a vat of grapes for five minutes.
+C: LUCY
+D: I can see it. INT. VINEYARD SET - DAY 61 61 And we see LUCY, dressed in Italian peasant clothing, performing the famous grape-stomping scene and it’s accompanied by AUDIENCE LAUGHTER-- First a WOMAN climbs into the vat and starts stomping on grapes. Continued: 58 Continued: 61 LUCY looks over the edge and gives us her squeamish face. The WOMAN indicates with a wave of her arm that LUCY should come in. LUCY cautiously climbs in and gingerly puts her foot on the grapes. Her face reflects that this is a very weird sensation. The Italian WOMAN is stomping vigorously and LUCY looks like she’s walking on eggs. And now we see LUCY’s POV--the bright lights, the cameras and crew and the STUDIO AUDIENCE LAUGHING... CUT BACK TO: INT. WRITERS’ ROOM - DAY62 62
+E: BLACK AND WHITE
+C: BOB
+D: What can happen in the vat of grapes, what can she do?
+C: JESS
+D: It doesn’t matter right now, we need to get back to--Des, the network isn’t gonna allow it and neither will Phillip Morris. LUCY’s still thinking about the grapes--
+C: JESS
+D: Lucy--
+E: CONT'D
+C: LUCY
+D: Just hang on. INT. ITALIAN VINEYARD SET - DAY 63 63 But now LUCY’s standing in the vat of grapes by herself, breathing heavy. She’s out of ideas. The AUDIENCE IS SILENT. CUT BACK TO: INT. WRITERS’ ROOM - DAY64 64
+E: BLACK AND WHITE
+C: LUCY
+D: She loses her earring.
+C: BOB
+D: Yes.
+C: MADELYN
+D: There it is. Continued: 61 Continued: 64
+C: JESS
+D: What are you talking about?!
+C: LUCY
+D: In the grapes. INT. ITALIAN VINEYARD SET - DAY 65 65 LUCY reaches up to check her earring, which is loose, and she tightens it. Then she checks the other ear and feels that her earring’s missing. She looks alarmed as she realizes it’s down in the grapes. The AUDIENCE HOWLS-- CUT BACK TO: INT. WRITERS’ ROOM - DAY66 66
+E: BLACK AND WHITE
+C: DESI
+D: Push it to next year, they’re not going to Italy while she’s pregnant.
+C: JESS
+D: I’ll bet you my next paycheck against your next paycheck that CBS won’t even allow us to use the word pregnant.
+C: LUCY
+D: “Lucy Tells the Truth”
+E: pointing to another card
+C: BOB
+D: That one’s Madelyn’s idea. She got it just seconds after I pitched it.
+C: JESS
+D: Folks?
+C: MADELYN
+D: Ricky bets Lucy that she can’t go two days without lying and we put her in situations where it’s hard not to lie. In LUCY’s head, we CUT TO: Continued: 64 Yellow Rev. 53. Continued: 67 INT. RICARDO'S LIVING ROOM - NIGHT 67 67
+E: 03/28/21 BLACK AND WHITE
+C: LUCY
+D: There! It’s started. For the next 48 hours.
+C: ETHEL
+D: I can hardly wait to hear you tomorrow afternoon, Lucy.
+C: LUCY
+D: Why?
+C: ETHEL
+D: We’re going over to Carolyn’s to play bridge, remember?
+C: LUCY
+D: Oh no! Oh no! I can’t spend the afternoon with three women and tell the truth. I’ll call Carolyn and tell her I’m sick. INT. WRITERS’ ROOM - SAME TIME68 68
+C: MADELYN
+D: After 41 hours she’s winning, but in the final hour--
+C: BOB
+D: Here it is.
+C: MADELYN
+D: --Ricky gets a visit from the IRS and the guy wants to ask about some questionable things Ricky’s claiming on his deductions. Lucy’s sitting in the living room too and of course when she’s asked by the IRS agent to corroborate, she can’t tell a lie, so--
+C: LUCY
+D: That’s a funny premise.
+C: JESS
+D: Yes it is.
+C: DESI
+D: But lose the IRS scene.
+C: BOB
+D: It could be a good scene. Yellow Rev. 53. Continued: 67 Continued: 68
+E: 03/28/21
+C: MADELYN
+D: He’s correct. Once I write it it could be good.
+C: DESI
+D: Ricky Ricardo loves America. He loves being an American. He’s grateful to this country and he’d never cheat on his taxes.
+C: BOB
+D: It’s very relatable. Everyone does.
+C: DESI
+D: I don’t. Neither does Ricky. Especially when his wife is accused of being un-American. Look for something else and start working on the first pregnancy show.
+C: JESS
+D: Listen to me! They’re not going to let us do it.
+E: pause
+C: DESI
+D: Let that be my problem.
+C: JESS
+D: I wish I could, Des, but it’s very much my problem. So instead of talking about goddamn grapes--Look, what you got to understand is--
+C: LUCY
+D: Jess? They’re free to take us off the air for the rest of the year while continuing to pay our contracts and answering questions about why motherhood is too salacious to put on CBS, but something tells me they’re not gonna go that route. Instead, I think Broadcast Standards and Practices will give you a list of insane restrictions, which might even include you winning your bet with Desi, and which I have no doubt the three of you will navigate beautifully. You told me to be nice. Good? Continued: 68 Continued: 68
+E: to DESI
+C: DESI
+D: Yeah. LUCY exits...
+C: DESI
+D: I don’t care what your first thoughts out of the gate were, but your first words out of the gate were no good. And what was with you at the table read?
+E: CONT'D to MADELYN
+C: MADELYN
+D: I’m sorry, she was jumping on every stage direction.
+C: DESI
+D: It’s her process.
+C: MADELYN
+D: But that process usually happens in private. And following your advice, maybe every once in a while, the first words out of her mouth could be “good script.”
+C: DESI
+D: Is this the right week for this shit?
+C: JESS
+D: Hey--
+C: MADELYN
+D: We do seem to be having some success, no?
+C: JESS
+D: Look, we’re all tired from working on this week’s script.
+E: to DESI
+C: DESI
+D: Are you sleepy? You need a nap?
+C: JESS
+D: Can I talk to you a second, boss?
+C: DESI
+D: Sure. They step into-- Continued: 68 Continued: 69 INT. CORRIDOR - CONTINUOUS69 69 --where JESS closes the office door. They speak quietly.
+C: JESS
+D: I’m the executive producer of this show. You can’t manhandle me like that in front of people, you just can’t do it. My show. And Madelyn was a hundred percent right.
+C: DESI
+D: Ricky pays his taxes.
+C: JESS
+D: I get it.
+C: DESI
+D: And we’re having the baby on the show.
+C: JESS
+D: There’s no chance they say yes.
+C: DESI
+D: There’s no chance they say yes to you. DESI heads off and we CUT TO: INT. SOUNDSTAGE/I LOVE LUCY SET - DAY70 70 We’re in the Ricardo’s living room set where the cast and DONALD the director are in the middle of rehearsal. The actors hold their scripts.
+C: DONALD
+D: Back to right before Vivian’s entrance. “When do we eat?” Settle, and action.
+C: FRAWLEY
+D: When do we eat? I’ve been living on peanut butter sandwiches.
+C: DONALD
+D: Bill, that line’s gotta take you over to the table.
+C: FRAWLEY
+D: Hm? Continued: 69 Continued: 70
+C: DONALD
+D: You need to cross to the table on that.
+C: FRAWLEY
+D: Why?
+C: LUCY
+D: So you can see the table, notice that a fourth place is set and say your next line.
+C: FRAWLEY
+D: Somebody else coming?
+C: LUCY
+D: Well Fred, I took the liberty of asking a young lady to be your dinner companion.
+C: FRAWLEY
+D: A young lady?
+C: LUCY
+D: A cute young chick.
+C: FRAWLEY
+D: Oh boy, bring her on.
+C: LUCY
+D: Hang on, let’s go back. After I say “I took the liberty of asking a young lady to be your dinner companion”, Ricky should take a sip from a glass of water on the table to keep from laughing. Then when I say, “A cute young chick”, Ricky can choke on his water a little.
+C: DESI
+D: I like that.
+C: VIVIAN
+D: I like it too. The very idea that Ethel’s a cute young chick should make Desi choke.
+C: ASSISTANT DIRECTOR
+D: That’s 15.
+E: to the DIRECTOR
+C: DONALD
+D: Okay. Continued: 70 Continued: 70
+C: ASSISTANT DIRECTOR
+D: That’s 15 minutes!
+E: calling out
+C: LUCY
+D: I’ll be funny by Friday.
+C: FRAWLEY
+D: And when can we expect you to be funny? VIVIAN says nothing as we CUT TO: INT. LUCY’S DRESSING ROOM - DAY71 71 LUCY and DESI walk in and DESI closes the door behind him and LUCY starts in right away with an opening paragraph she’s committed to memory--
+E: to VIVIAN
+C: LUCY
+D: “Exactly what makes a husband leave home is something that has been baffling wives since Adam and Eve--
+C: DESI
+D: Enough.
+C: LUCY
+D: “For an outstanding example, let’s take one of the nation’s most famous husbands--”
+C: DESI
+D: You’ve memorized it?
+C: LUCY
+D: I’ve memorized worse writing than this.
+C: DESI
+D: Yes, it’s a tabloid.
+C: LUCY
+D: “With a curvy, red-haired tidbit like Lucy waiting for him at home, would Desi--”
+C: DESI
+D: Stop it. Continued: 70 Continued: 71
+C: LUCY
+D: “--be foolish enough to prowl Hollywood like a bachelor wolf and, if so, why?”
+C: DESI
+D: It’s made--
+C: LUCY
+D: Twenty-million readers want to know.
+C: DESI
+D: Lucy--
+C: LUCY
+D: Twenty-million and one.
+C: DESI
+D: How many times I gotta ‘splain where I was and what I was doing?
+C: LUCY
+D: How many times you gotta ‘splain?
+C: DESI
+D: I can’t get enough of that joke.
+C: LUCY
+D: They document an entire night. Someone in your gang’s a rat.
+C: DESI
+D: My gang. The night they’re talkin’ about I was with Red Skelton and Xavier Cugat. Which one of ‘em you think squealed?
+C: LUCY
+D: They made it up from nothing.
+C: DESI
+D: I heard on Winchell the other night that you were a Communist.
+C: LUCY
+D: That was true, you idiot!
+E: pause
+C: DESI
+D: Yeah. That was a bad example.
+C: LUCY
+D: And I didn’t check the wrong box. Continued: 71 Continued: 71
+E: MORE
+C: DESI
+D: Okay, I’m sorry about that.
+C: LUCY
+D: I believe you, I was just messin’ around.
+C: DESI
+D: Good.
+C: LUCY
+D: No, that gets you outa the woods but it puts you into other woods.
+C: DESI
+D: What are the other woods.
+C: LUCY
+D: You don’t come home anymore, did you know that?
+C: DESI
+D: You change subjects faster than--
+C: LUCY
+D: Keep up, it’s not hard. I asked did you know you don’t come home anymore?
+C: DESI
+D: Of course I come home. Sometimes I go to the boat and play cards. We drink, it goes late, it’s easier to sleep on the boat.
+C: LUCY
+D: That used to be once a week. Then twice and now it’s four or five times. I go home after work and you go to the boat. You once asked me what my ambition was, you remember? And you liked my answer. EXT. HOTEL POOL - DAY72 72
+E: beat
+C: OLDER MADELYN
+D: She used the word “home” a lot. She talked about having a home. Lucy owned three houses, but sometimes, when she fell into a funk, she’d say she didn’t have a home. Continued: 71
+E: MORE
+C: OLDER MADELYN
+D: Continued: 72 But she wasn’t in a funk that week. She was on fire. INT. NIGHT CLUB - DAY73 73
+E: CONT'D
+C: OLDER BOB
+D: They eloped, they bought a ranch in Chatsworth, they were deeply in love and deliriously happy. INT. SOUNDSTAGE BLEACHERS - DAY74 74
+C: OLDER JESS
+D: What you gotta understand is, they weren’t very happy. EXT. HOTEL POOL - DAY75 75
+C: OLDER MADELYN
+D: They never saw each other. Desi and his orchestra were booked at Ciro’s and Lucy was under contract at RKO, playing the same role in every movie--none of which left much of a footprint on American cinema. Desi would be done with work around 4AM and Lucy needed to be in hair and make-up at 5AM so they’d meet at the top of Mulholland. CUT TO: INT. CIRO’S - NIGHT76 76 DESI’s singing “Babalu”, backed up by his orchestra. The women are particularly enjoying it. He finishes with a flourish and to healthy applause. EXT. CIRO’S/BACK ENTRANCE - NIGHT77 77 A group of ATTRACTIVE WOMEN are waiting at the back door, sitting on the hoods of their cars and passing around a few bottles of champagne with a few of the musicians. DESI comes out and they start cheering--
+C: DESI
+D: What do we have here?
+C: OLDER MADELYN
+D: Continued: 72 Continued: 77
+E: CONT'D
+C: MUSICIAN
+D: A lot of choices.
+C: DESI
+D: There’s only one choice for me and she’s got a powerful right hook. DESI’s handed a bottle of champagne--
+C: WOMAN
+D: My friend and I saw the midnight show and the 2AM. EXT. MULHOLLAND DRIVE - DAWN78 78 LUCY’s leaning against her car, waiting with the engine running and the headlights on. After a moment a pair of headlights appear from the opposite direction. DESI pulls up and gets out in his white dinner jacket and untied bow-tie.
+C: DESI
+D: Good morning.
+C: LUCY
+D: I did the calculation. In the course of one week, I see you 1/20th as much as your second trombone player.
+C: DESI
+D: Learn to play the trombone and I’ll give you his job.
+C: LUCY
+D: Well...how hard is the trombone?
+C: DESI
+D: Maybe it’d be better if we didn’t spend the little time we have arguing about why we don’t have more time.
+C: LUCY
+D: Don’t make me feel like a bitch because I want to see my husband.
+C: DESI
+D: I could stay home and be kept by my wife. That’d really complete the picture Americans have of Cuban men. Continued: 77 Continued: 78
+C: LUCY
+D: What home are you talking about?
+C: DESI
+D: Or you could quit the film business and just be my wife, but you ain’t gonna do that, right?
+C: LUCY
+D: No.
+C: DESI
+D: How ‘bout you come to the club more to watch the show?
+C: LUCY
+D: I had a new picture open five days ago--you really want me to come down to the club?
+C: DESI
+D: Why not?
+C: LUCY
+D: Okay. INT. CIRO’S - NIGHT79 79 DESI’s back on stage performing “Cuban Pete” this time. LUCY’s sitting at a ringside table and DESI can see that PHOTOGRAPHERS keep coming and kneeling in front of her to get her picture. EXT. CIRO’S/BACK ENTRANCE - NIGHT80 80 The fans are waiting. After a moment, DESI comes out the door with LUCY and all the fans immediately react to LUCY. They want her autograph and LUCY hands her purse to DESI. DESI clocks this turn of events as we go to
+E: pause
+C: BLACK TITLE:
+D: Wednesday Camera Blocking Continued: 78 Continued: 81 INT. VIVIAN'S DRESSING ROOM - DAY81 81 VIVIAN, a dancer by training, is stretching on the floor. There’s a knock on the door--
+C: VIVIAN
+D: Come on in. MADELYN enters with a plate of food on a tray.
+C: MADELYN
+D: Good morning.
+C: VIVIAN
+D: Hey Maddy.
+C: MADELYN
+D: Some week, huh? Lucille Ball’s a threat to the American way of life? She’s a threat to writers, camera operators and Desi, but it really stops there. Have you ever had a week like this?
+C: VIVIAN
+D: No. But we work in Hollywood and something tells me we’re all gonna have weeks like this before that committee’s done.
+C: MADELYN
+D: Look what you can still do.
+E: meaning the stretch
+C: VIVIAN
+D: Still?
+C: MADELYN
+D: I regretted it even before I said it. I can’t do that and I’m just impressed.
+C: VIVIAN
+D: What’s in your hand?
+C: MADELYN
+D: I brought you some breakfast from the commissary. They told me you didn’t have any.
+C: VIVIAN
+D: I did. I had a cup of coffee and half a grapefruit. Continued: 81 Continued: 81
+C: MADELYN
+D: Well I have French toast, bacon, eggs and potatoes.
+C: VIVIAN
+D: Enjoy it.
+C: MADELYN
+D: It’s for you.
+C: VIVIAN
+D: That was very sweet but no thank you.
+C: MADELYN
+D: Is it me or have you lost a little weight?
+C: VIVIAN
+D: I have.
+C: MADELYN
+D: Well you look great.
+C: VIVIAN
+D: Thank you.
+C: MADELYN
+D: I’ll see you on stage.
+C: VIVIAN
+D: Madelyn?
+C: MADELYN
+D: Yeah.
+C: VIVIAN
+D: Who told you I didn’t have any breakfast?
+C: MADELYN
+D: I’m sorry?
+C: VIVIAN
+D: You said, “They told me you didn’t have any.”
+C: MADELYN
+D: I don’t know. I think-- It was Tino. The tall waiter. Continued: 81 Continued: 81
+E: beat--shakes her head
+C: VIVIAN
+D: Okay. MADELYN leaves. VIVIAN sits a moment before--
+E: pause
+C: VIVIAN
+D: Jesus Christ. CUT TO: INT. DESI’S OFFICE - DAY82 82 JOE, HOWARD, ROGER, TIP--the CBS and Philip Morris executives we met earlier, are seated where they were before with DESI leaning against the edge of his desk and LUCY sitting in his chair.
+E: CONT'D pause--to herself
+C: JOE
+D: Day 3 and still no pick-up on the Winchell story. Fellas, I think we might be outta this.
+C: ROGER
+D: Might be.
+C: TIP
+D: Might be. Howard?
+C: HOWARD
+D: There’s another shoe and none of us are getting outa this alive.
+C: JOE
+D: Howard--
+C: HOWARD
+D: They’re uncovering something new, they’re chasing the original testimony, something, but there’s another shoe.
+C: LUCY
+D: There’s nothing to uncover, there are no more shoes.
+C: DESI
+D: Lucy’s pregnant.
+C: LUCY
+D: Well that. Continued: 81
+C: 66A.
+D: Continued: 82 There’s a long silence...
+C: 66A.
+D: Continued: 82 Continued: 82
+C: JOE
+D: What?
+E: pause
+C: DESI
+D: Lucy’s pregnant.
+C: JOE
+D: With a baby?
+E: pause--then to LUCY
+C: LUCY
+D: Mm-hm.
+E: pause
+C: ROGER
+D: How, uh...I’m not sure what words to use...how much pregnant are you?
+C: LUCY
+D: Why did you think you didn’t know what words to use?
+E: pause
+C: HOWARD
+D: He means how far...as a percentage of nine months--where are we on the timeline of--
+C: LUCY
+D: Someone should point a goddam camera at this.
+C: DESI
+D: She’s twelve weeks pregnant.
+C: JOE
+D: So that means...
+E: trying to do the math
+C: LUCY
+D: Twelve weeks ago I fucked my husband.
+C: JOE/HOWARD/ROGER/TIP
+D: No, no, no, etc./That’s not what we were asking, etc./We don’t need to talk about the details of, etc.
+E: simultaneously
+C: DESI
+D: She’ll start showing in about six weeks and a month after that there won’t be any hiding it. Continued: 82 Continued: 82
+C: ROGER
+D: This isn’t a problem.
+C: DESI
+D: It’s not.
+C: ROGER
+D: This has happened before, I won’t say names, but it’s been dealt with.
+C: LUCY
+D: Is he talking about having me killed?
+E: to DESI
+C: ROGER
+D: No. You carry a basket of laundry, stand behind chairs, sit with a pillow on your lap--
+C: DESI
+D: And those are great ideas-- especially having Lucy carry a basket of laundry in every scene--
+C: ROGER
+D: Or stand behind chairs.
+C: DESI
+D: Where in the Ricardo’s living room are the giant chairs you’re talking about?
+C: JOE
+D: Lucy and Ricky redecorate. The writers can get some fun out of it. And maybe they also get some large ficus trees.
+C: LUCY
+D: They would have to be California Redwoods and I’d have to stand behind them anytime I wasn’t doing the wash.
+C: HOWARD
+D: Well what do you propose?
+C: DESI
+D: That the Ricardos have a baby. Continued: 82 Continued: 82
+C: HOWARD
+D: What do you mean?
+E: beat
+C: LUCY
+D: I told you it was gonna be like this.
+E: to DESI
+C: DESI
+D: Lucy Ricardo will be pregnant on the show. An 8-episode arc starting with Lucy telling Ricky the happy news and ending with the birth of the baby.
+C: ROGER
+D: Noooo, no, no, no.
+C: HOWARD
+D: We can’t have a pregnant woman on television.
+C: DESI
+D: Why not?
+C: HOWARD
+D: Because it’s television. We come into people’s homes.
+C: JOE
+D: Pregnant women often vomit.
+C: LUCY
+D: I know I could any second.
+C: ROGER
+D: May I say something?
+C: LUCY
+D: Frankly, I can’t wait.
+C: ROGER
+D: If Lucy Ricardo’s pregnant, the audience’s mind immediately goes to how did she get that way. Lucy and Ricky sleep in separate beds.
+C: DESI
+D: We’ll be pushing the beds together too.
+C: ROGER
+D: Oh noooo, no, no. Continued: 82 Continued: 82
+C: HOWARD
+D: I’m sorry, Des, we’ve gotta put our foot down on this one. You can’t do it. End of discussion. DESI pushes the intercom button on his desk--
+C: DESI
+D: Miss Rosen, would you come in please with a pad and pen. My secretary. MISS ROSEN steps in with a pad and pen--
+E: into intercom to the others
+C: HOWARD
+D: What are you doing?
+C: DESI
+D: To Mr. Alfred Lyons, Chairman of the Board of Philip Morris.
+E: to MISS ROSEN
+C: HOWARD
+D: We don’t want to bring Mr. Lyons into this.
+C: DESI
+D: “Mr. Lyons, I guess it all comes down to you. You are the man who is paying the money for this show and I will do whatever you decide.”
+C: HOWARD
+D: Mr. Lyons doesn’t get involved at this level.
+C: DESI
+D: “There’s only one thing I want to make certain that you understand.”
+C: HOWARD
+D: Desi--
+C: DESI
+D: “We’ve given you the number one show on television and up until now the creative decisions have been in our hands. They are now telling us that Lucy and Ricky can’t have a baby on the show.” Continued: 82 Continued: 82
+C: HOWARD
+D: That’s not exactly what we said.
+C: DESI
+D: “All I ask from you, if you agree with them, is that you inform them that we will not accept them telling us what not to do unless, beginning with our next episode, they also tell us what to do. Sincerely, etc. Thank you and send it by telegram please.
+E: beat
+C: MISS ROSEN
+D: Yes sir. MISS ROSEN exits.
+C: LUCY
+D: And that wasn’t even why I married him. LUCY gets up and before she walks out the door with DESI, she pulls him to her and gives him a passionate kiss for the benefit of the executives.
+C: LUCY
+D: That was. LUCY exits and DESI gives a small “What can I say?” shrug to the execs before heading out the door and we CUT TO: INT. “I LOVE LUCY” SET/RICARDO’S LIVING ROOM - DAY83 83 FRAWLEY and VIVIAN are locked in a coat. Each has one arm in a sleeve and Lucy’s tied the coat closed with a scarf. We’re in the middle of camera rehearsal.
+E: CONT'D ”FRED” and “ETHEL”
+C: ETHEL
+D: Lucy, let me out of here!
+C: FRAWLEY
+D: Untie this coat!
+C: LUCY
+D: I’m not letting you out until you kiss and make up. Continued: 82 Continued: 83
+C: ETHEL
+D: I’ll never make up with him after the things he said.
+C: FRAWLEY
+D: How about the things you said to me? You said my mother looked like a weasel.
+C: LUCY
+D: Apologize, Ethel. Tell him you’re sorry.
+C: ETHEL
+D: Alright. I’m sorry your mother looks like a weasel.
+C: LUCY
+D: Now Ethel.
+C: ETHEL
+D: Well I can’t help it. He should have more consideration. After all, I gave him the best years of my life.
+C: FRAWLEY
+D: These were the best?
+C: DESI
+D: Alright, now you’re even. What are your conditions for making up?
+E: to “ETHEL”
+C: LUCY
+D: We should really go back to the dinner table.
+C: DONALD
+D: What was that?
+C: LUCY
+D: We should go back to the dinner table.
+C: DONALD
+D: I think given the time we should move on. It was good.
+C: LUCY
+D: Yeah, except no it wasn’t. Continued: 83 Continued: 83
+C: DONALD
+D: What.
+C: LUCY
+D: Good. It wasn’t good.
+C: DESI
+D: Let’s go back.
+C: FRAWLEY
+D: What’s happening?
+C: VIVIAN
+D: She wants to go back.
+C: FRAWLEY
+D: To where?
+C: VIVIAN
+D: The dinner scene.
+C: FRAWLEY
+D: What?
+C: VIVIAN
+D: The dinner scene, ya drunken yontz!
+E: shouting
+C: FRAWLEY
+D: Have we hired someone to play Ethel yet?
+C: DESI
+D: Alright, let’s go.
+C: DONALD
+D: Go forward or go back to the dinner scene?
+C: LUCY
+D: Back.
+C: DONALD
+D: Page 15. This is still Scene A. From, “You’re right, he’s not going to do me out of dinner.” Cameras re- set. Props re-set. As the cameras re-set and some crew members re-set props over to a beautifully laid-out dinner table-- Continued: 83
+C: 73A.
+D: Continued: 83
+C: VIVIAN
+D: Someone’s going to need to tell us what was wrong with the scene in the first place.
+C: FRAWLEY
+D: You were in it.
+C: 73A.
+D: Continued: 83 Continued: 83
+C: DESI
+D: Bill.
+E: knock it off
+C: LUCY
+D: Something fundamental was wrong and I’ll figure out what.
+C: DONALD
+D: I can figure out what, let’s all do our individual jobs. LUCY speaks to DESI quietly and confidentially for a moment...
+C: LUCY
+D: I hit him in the face till he’s bleeding, does our insurance cover that?
+E: whispering
+C: DESI
+D: Yeah, I got the platinum plan.
+E: whispering
+C: LUCY
+D: Good job.
+E: whispering
+C: DONALD
+D: Ready, ready.
+C: ASSISTANT DIRECTOR
+D: Quiet please, reahearsal’s up.
+C: DONALD
+D: From “You’re right, he’s not going to do me out of dinner.” Settle and...Action.
+C: VIVIAN
+D: You’re right. He’s not going to do me out of dinner.
+C: LUCY
+D: Good. LUCY puts a roast down on the table, then takes a small piano bench and puts it on the downstage side of the table. The table now has four place settings but three chairs--one on each end and one in the middle with its back to the audience. LUCY sits at one end and motions “RICKY” to quickly sit at the other end. Continued: 83
+C: 74A.
+D: Continued: 83
+C: LUCY
+D: Well sit down everyone. “FRED” and “ETHEL” both come over and start to take the one chair.
+E: CONT'D
+C: 74A.
+D: Continued: 83 Continued: 83
+C: LUCY
+D: Oh, we don’t have anymore chairs. You don’t mind sharing that one do you? They both sit down gingerly on the piano bench. They indulge in a little jockeying for position. “RICKY” cuts a slice of roast beef--
+E: CONT'D
+C: LUCY
+D: The roast beef should be pre-cut.
+E: CONT'D
+C: DONALD
+D: It will be dear.
+C: DESI
+D: How is that, Ethel? Not too much fat, is there, Ethel? “ETHEL” looks at “FRED’S” behind--
+C: ETHEL
+D: There sure is.
+C: LUCY
+D: He means the meat.
+C: ETHEL
+D: Oh no, the meat is fine. “RICKY” gives “FRED” a serving and “FRED” and “ETHEL” start to eat while “RICKY” serves LUCY’s plate and his own. “ETHEL” and “FRED” are having trouble eating in such close quarters and that’s where the comedy is supposed to come from. They jab each other with their elbows and vie for more room on the chair until they both fall off.
+C: DONALD
+D: Perfect.
+C: LUCY
+D: Yeah?
+C: DONALD
+D: Moving on.
+C: LUCY
+D: Staying put.
+C: DONALD
+D: Why? Continued: 83 Yellow Rev. 76. Continued: 83
+E: 03/28/21
+C: LUCY
+D: We need to work out the moves at the table.
+C: VIVIAN
+D: Bill and I can work out the moves.
+C: LUCY
+D: Viv, it’s not that I’m not confident that you can--
+C: DONALD
+D: This is camera blocking. We can work out the stage business during tomorrow’s run-throughs.
+C: LUCY
+D: I’d strongly prefer we do it now.
+C: DONALD
+D: I have to exercise my directorial authority.
+C: LUCY
+D: You have to do what?!
+E: beat
+C: DESI
+D: Let’s take a break.
+C: DONALD
+D: It’s not time for a break.
+C: DESI
+D: Good then, that’s 10 minutes.
+C: ASSISTANT DIRECTOR
+D: 10 minutes, we come back to Scene
+E: calling out
+C: A. DONALD
+D: No we don’t.
+C: ASSISTANT DIRECTOR
+D: Maybe we don’t, it’s hard to say People start to scatter...DESI speaks privately to LUCY.
+C: DESI
+D: Tell me what’s happening?
+C: LUCY
+D: Hm? Yellow Rev. 76. Continued: 83 Yellow Rev. 76A. Continued: 83
+E: 03/28/21 03/28/21
+C: DESI
+D: What’s happening right now?
+C: LUCY
+D: You know what occurs to me? At the top, it should be clear that I’m setting a nice table, right? There should be flowers in a vase. QUICK CUT TO: Yellow Rev. 76A. Continued: 83 Continued: 84 INT. I LOVE LUCY SET/LIVING ROOM - NIGHT 84 84 LUCY arranges flowers in a vase that’s sitting on a well-set table with three chairs. CUT BACK TO: INT. I LOVE LUCY SET/LIVING ROOM - DAY85 85
+E: 03/28/21 BLACK AND WHITE
+C: LUCY
+D: And I’m trying to get them just right. And I cut one of the stems but now it’s too short-- INT. I LOVE LUCY SET/LIVING ROOM - NIGHT 86 86 LUCY cuts a stem but now it’s too short, so she cuts the others-- CUT BACK TO: INT. I LOVE LUCY SET/LIVING ROOM - DAY87 87
+E: BLACK AND WHITE
+C: LUCY
+D: --so I cut the others but now they’re too short and--
+C: DESI
+D: I get it.
+C: LUCY
+D: What do you think?
+C: DESI
+D: I think you’re having a little bit of a breakdown.
+C: LUCY
+D: I meant about the flowers.
+C: DESI
+D: Tell me what’s happening?
+C: LUCY
+D: Why is this hard to understand? The dinner table isn’t working and we need it to. Right there are the building blocks of drama. LUCY heads off. We FOLLOW her backstage and into-- Continued: 84
+C: 77A.
+D: Continued: 88 INT. DRESSING ROOM CORRIDOR - CONTINUOUS88 88 LUCY walks down the corridor toward her dressing room and walks past Vivian’s open dressing room door. She stops, thinks, turns around and sticks her head in the door.
+C: 77A.
+D: Continued: 88 Continued: 88
+C: LUCY
+D: Viv. VIVIAN looks up from her dressing table.
+C: LUCY
+D: It’s not you or Bill. The dinner scene. It’s Donald Glass.
+E: CONT'D
+C: VIVIAN
+D: Well...it’ll be funny.
+C: LUCY
+D: I’m sure of that.
+C: VIVIAN
+D: Can’t get better till it gets bad.
+C: LUCY
+D: Cross Step One off the list.
+C: VIVIAN
+D: Yeah.
+E: laughing a little
+C: LUCY
+D: Okay.
+C: VIVIAN
+D: You hangin’ in there?
+C: LUCY
+D: Look, we’ve made 37 episodes. You do 37 of anything and one of ‘em’s gonna be your 37th best. Ours was directed by Donald Glass.
+C: VIVIAN
+D: Honey...the committee...they’re not gonna base their findings on how this week’s show--
+C: LUCY
+D: Fuck the committee. I said that. I’m talkin’ about the show. And unless you count his wardrobe, Don Glass doesn’t understand the moving parts of physical comedy. That’s all. My point is, you’re not the problem. LUCY starts to leave-- Continued: 88 Continued: 88
+E: beat
+C: VIVIAN
+D: Luce? LUCY turns back.
+C: LUCY
+D: Yeah.
+C: VIVIAN
+D: Madelyn brought me breakfast this morning. French toast, bacon and potatoes. She said someone noticed I hadn’t had breakfast. She said it looked like I’d lost some weight.
+C: LUCY
+D: She’s right, you look great.
+C: VIVIAN
+D: Madelyn’s a staff writer. She doesn’t bring people their breakfast.
+C: LUCY
+D: I’m not sure what you’re asking. It sounds like she was just--
+E: pause
+C: VIVIAN
+D: How would she know I hadn’t had breakfast?
+C: LUCY
+D: I really don’t know.
+E: beat
+C: VIVIAN
+D: It was you, right?
+C: LUCY
+D: Yes. You have to give me credit. When I lie, I give up on it pretty quick.
+C: VIVIAN
+D: It’s admirable.
+C: LUCY
+D: Thanks.
+C: VIVIAN
+D: You told her to bring me breakfast and remark on my weight loss. Continued: 88
+C: 79A.
+D: Continued: 88
+C: LUCY
+D: Let me explain why.
+C: VIVIAN
+D: Why?
+C: 79A.
+D: Continued: 88 Continued: 88
+C: LUCY
+D: Because I think you should get off this looney diet you’re on.
+C: VIVIAN
+D: It’s working.
+C: LUCY
+D: It’s not good for you.
+C: VIVIAN
+D: I feel great.
+C: LUCY
+D: It’s not good for Ethel.
+C: VIVIAN
+D: It’s not.
+C: LUCY
+D: We’re best friends, Viv, I don’t want to fight. I just sent over some breakfast.
+C: VIVIAN
+D: You didn’t just send it over, you sent it over with Madelyn and a message. And now a new message, which is that I look too good.
+C: LUCY
+D: We just want you at the weight you were when we cast you.
+C: VIVIAN
+D: Otherwise it’ll be bad for Ethel?
+C: LUCY
+D: Yes.
+C: VIVIAN
+D: Or bad for you?
+C: LUCY
+D: Alright--
+C: VIVIAN
+D: No one’s gonna stop loving Lucy when you’re pregnant. GI’s don’t have your picture in their barracks.
+C: LUCY
+D: Thanks for that, Viv. Continued: 88
+C: 80A.
+D: Continued: 88
+C: VIVIAN
+D: I’m saying take it easy, that’s all. Everyone here stands shoulder to shoulder with you and no one feels funny ‘cause we’re scared to death and you’re not helping by jumping up and down on everyone who works here and doing it in front of-
+C: 80A.
+D: Continued: 88 Continued: 88
+C: LUCY
+D: Goddamit, Viv, most American women look like you, not me, and they want to see themselves on television! There’s a tense silence before FRAWLEY opens his dressing room door--
+C: FRAWLEY
+D: What the hell are the two of you screaming about?!
+C: LUCY
+D: Nothing.
+C: VIVIAN
+D: Nothing.
+C: FRAWLEY
+D: I’m in my room taking my mid- morning nap.
+C: VIVIAN
+D: Don’t you usually do that while we’re rehearsing?
+C: FRAWLEY
+D: I’d love to see more of that Moss Hart wit on the show.
+C: VIVIAN
+D: Don’t worry about it. The weight always comes back. I can’t keep it off anymore.
+E: to LUCY
+C: LUCY
+D: This conversation went poorly.
+E: beat
+C: VIVIAN
+D: I thought it was great. I definitely feel like performing for tens of millions of people now.
+C: LUCY
+D: Alright, so...okay. LUCY steps out into-- Continued: 88 Yellow Rev. 82. Continued: 88A INT. CORRIDOR - CONTINUOUS88A 88A LUCY starts to head down the hall--
+E: 03/28/21
+C: FRAWLEY
+D: Lucille.
+C: LUCY
+D: Yeah.
+C: FRAWLEY
+D: Come with me for a drink.
+C: LUCY
+D: It’s 10am.
+C: FRAWLEY
+D: I’m sure it’s 10:15 somewhere.
+C: LUCY
+D: We have to be back on stage.
+C: FRAWLEY
+D: I wonder if they’ll wait for you.
+C: LUCY
+D: Bill-- A young P.A., Scott, is walking by--
+C: FRAWLEY
+D: Kid. Tell the stage Mrs. Arnaz is taking some personal time and she’ll be back when she’s back.
+C: SCOTT
+D: Copy that.
+C: LUCY
+D: Probably 15 minutes.
+E: to Scott
+C: SCOTT
+D: Yes ma’am.
+C: LUCY
+D: And you should remind props that I’ll need garden shears for the opening scene.
+C: SCOTT
+D: Copy. Yellow Rev. 82. Continued: 88A Yellow Rev. 82A. Continued: 88A
+E: 03/28/21 03/28/21
+C: FRAWLEY
+D: Let’s go. Yellow Rev. 82A. Continued: 88A Continued: 88A
+E: 03/28/21
+C: LUCY
+D: We have to establish right away that I’m setting a fancy table.
+E: still to Scott
+C: FRAWLEY
+D: You don’t need to explain it to him.
+C: LUCY
+D: We’ll have flowers in a vase and I’ll cut one of the flowers--
+E: still to Scott
+C: FRAWLEY
+D: He doesn’t care.
+C: LUCY
+D: --it’ll be too short. So I’ll cut the other flowers and then they’ll be too short and so on.
+C: SCOTT
+D: Got it.
+C: LUCY
+D: So I need garden shears.
+C: SCOTT
+D: Copy.
+C: LUCY
+D: Regular scissors aren’t strong enough to cut through the stems.
+C: FRAWLEY
+D: He’s thinking a lot about killing you now.
+C: LUCY
+D: Fine.
+C: FRAWLEY
+D: Go.
+E: to Scott
+C: SCOTT
+D: Yep. SCOTT takes off.
+C: LUCY
+D: Where are we drinking? Continued: 88A
+C: 83A.
+D: Continued: 88A
+C: FRAWLEY
+D: Across the street.
+C: 83A.
+D: Continued: 88A Continued: 89 EXT. ALLEY/STREET - DAY89 89 LUCY and FRAWLEY walk through the alley and across the street.
+C: FRAWLEY
+D: It’s raining. Is your hair gonna be alright?
+C: LUCY
+D: I’m fine. Since I started doing this show, rain bounces off my hair.
+C: FRAWLEY
+D: That’s helpful.
+C: LUCY
+D: I honestly had no idea this place was here.
+C: FRAWLEY
+D: They like to keep a low profile.
+C: LUCY
+D: It’s hard to imagine why.
+C: FRAWLEY
+D: After you.
+C: LUCY
+D: What kind of people go to a bar on a Wednesday morning?
+C: FRAWLEY
+D: It’s an eclectic group. They walk into-- INT. DIVE BAR - CONTINUOUS90 90 The place is empty except for maybe three people scattered around. LUCY and FRAWLEY head to the bar where they’re met by a BARTENDER.
+C: FRAWLEY
+D: What are you having?
+C: LUCY
+D: I’ll take a tetanus shot.
+C: FRAWLEY
+D: Jim Beam. Two times. Continued: 89 Continued: 90
+C: LUCY
+D: I thought you and Desi had a deal. You don’t drink at work.
+C: FRAWLEY
+D: Desi and I have a deal that I won’t be drunk at work. Have you ever seen me drunk at work?
+C: LUCY
+D: Would I know?
+C: FRAWLEY
+D: No. Here’s to your new baby.
+E: raising his glass
+C: LUCY
+D: Alright then. They drink.
+C: LUCY
+D: Are they being polite or do they not recognize us?
+E: CONT'D
+C: FRAWLEY
+D: They don’t own television sets.
+C: LUCY
+D: Why didn’t I think of that?
+C: FRAWLEY
+D: Honey, I read seven newspapers every day.
+C: LUCY
+D: Seven?
+C: FRAWLEY
+D: Yeah.
+C: LUCY
+D: When do you have time to do that?
+C: FRAWLEY
+D: It’s 30 minutes between races at Santa Anita, it takes me a minute and a half to pick a horse.
+C: LUCY
+D: Aren’t you at work? Continued: 90 Continued: 90
+C: FRAWLEY
+D: Yeah we have bookies now and telephones.
+C: LUCY
+D: Know all about that. Did a Damon Runyon picture.
+C: FRAWLEY
+D: In none of those seven newspapers have I read anything about Lucille Ball being a Communist. I don’t hear anyone talking about it.
+C: LUCY
+D: Since when do you talk to anyone?
+C: FRAWLEY
+D: I got news for you, the less you talk, the more things you hear and I haven’t heard anything. So...problems at home?
+C: LUCY
+D: Problems at home?
+C: FRAWLEY
+D: Yeah.
+C: LUCY
+D: No, I’d like very much to have problems at home but my problem’s not home that much. A few times a week.
+C: FRAWLEY
+D: He was playing cards on the boat Wednesday night.
+C: LUCY
+D: I know. The picture’s six months old and I was there when it was taken. I’m saying why wasn’t he home? Where I and our daughter were?
+C: FRAWLEY
+D: Your husband, Ricky--
+C: LUCY
+D: Desi. Continued: 90
+C: 86A.
+D: Continued: 90
+C: FRAWLEY
+D: Desi--is in love with America like no man I’ve ever known since George M. Cohan, who loved America so much he wrote the same song five times. Okay? Desi loves America as much as that guy. But that doesn’t mean he’s not Cuban.
+C: 86A.
+D: Continued: 90 Continued: 90
+C: LUCY
+D: I know that.
+C: FRAWLEY
+D: The world he’s from has a very narrow definition of manhood.
+C: LUCY
+D: I know that too.
+C: FRAWLEY
+D: The man is the man.
+C: LUCY
+D: Mm.
+C: FRAWLEY
+D: And you know what? Not for nothin’, but the women are happy.
+C: LUCY
+D: You’ve asked them?
+C: FRAWLEY
+D: They look happy.
+C: LUCY
+D: I see.
+C: FRAWLEY
+D: But that’s neither here nor there.
+C: LUCY
+D: It really isn’t.
+C: FRAWLEY
+D: He’s mesmerized by you, Lucille. And he misses you when you’re in two different places, he does, I’m a witness.
+C: LUCY
+D: He doesn’t have to, we live in the same house.
+C: FRAWLEY
+D: He does have to, that’s what I’m saying. He has to spend time away from you so that he can feel like he’s not--
+C: LUCY
+D: --second banana. I navigate male egos for a living, bud. Continued: 90 Continued: 90
+C: FRAWLEY
+D: Then why are you running the set? Why are you running rehearsals? You’re doing it right in front of him.
+E: beat
+C: LUCY
+D: I can’t prioritize the director’s feelings over the health of the show.
+C: FRAWLEY
+D: No, not--I couldn’t care any less about Donald’s feelings if I tried hard. He’s a hack but we’ll overcome that because, frankly, we’re not doing Uncle Vanya.
+C: LUCY
+D: Got it. But the business at the dinner table has to be precise.
+E: beat
+C: FRAWLEY
+D: Really? I was only in vaudeville 40 years so I wouldn’t know about these things of which you speak.
+C: LUCY
+D: I know you know! So why do you care if--
+C: FRAWLEY
+D: You did it in front of Desi...is my point.
+E: over
+C: LUCY
+D: Lemme tell you something about Desi. He runs this show. Every creative decision goes through him. Every business decision--the network, Philip Morris--and if that wasn’t enough, he’s camera ready on Monday. It takes me five days to get a laugh and he’s killing at the table read and that man, believe me, is nobody’s second banana.
+E: pause
+C: FRAWLEY
+D: How many people know that? Continued: 90 Continued: 90
+C: LUCY
+D: Know what?
+C: FRAWLEY
+D: That Desi runs the show. How many people know that?
+C: LUCY
+D: There’s me. And I just told you.
+E: pause
+C: FRAWLEY
+D: You get the picture? EXT. HOTEL POOL - DAY91 91
+C: OLDER MADELYN
+D: There was a minute there when Lucy was gonna be a serious actress in serious movies. She was gonna compete for roles with Crawford and Hayworth. It might’ve been Lucy in All About Eve and you know what-- she’d have blown the doors off the place. It was almost like that. For a minute there. OMITTED92 92 EXT. LUCY AND DESI'S BACKYARD/POOL - DAY93 93 DESI’s sitting by the pool reading a book, and, after a moment, the back door flies open and LUCY runs out with her shoes in one hand and a bottle of champagne in the other. She’s disheveled desperately gasping for breath.
+C: DESI
+D: Lucy? LUCY tries to say something but doesn’t have the air yet.
+C: DESI
+D: What happened?
+E: CONT'D
+C: LUCY
+D: Flat tire. ‘Bout a quarter mile back. Continued: 90 Continued: 93
+E: barely audible--breathing heavy
+C: DESI
+D: You abandoned the car there?
+C: LUCY
+D: Sprinted the last five-hundred yards.
+C: DESI
+D: What’s going on? Also you ran with a bottle of champagne in your hand?
+C: LUCY
+D: Bringing it...more festive. I got it. I got the part.
+C: DESI
+D: Which part?
+C: LUCY
+D: I got the part, Des. The Big Street.
+C: DESI
+D: You said it was going to Rita Hayworth.
+E: pause
+C: LUCY
+D: Scheduling problems. Then they went to Judy Holliday. Scheduling problems. I’ve got the female lead in The Big Street.
+C: DESI
+D: That’s tremedous. That’s tremendous.
+E: beat
+C: LUCY
+D: I’m opposite Henry Fonda.
+E: pause
+C: DESI
+D: When does it start photography?
+C: LUCY
+D: Two weeks. Still can’t catch my breath. It’s Damon Runyon. Continued: 93
+E: pause
+C: 90A.
+D: Continued: 93
+C: DESI
+D: I know, I read the script and I’m very--I’m very happy, I was just looking forward to you coming out on tour.
+C: LUCY
+D: Rita Hayworth had scheduling problems.
+C: 90A.
+D: Continued: 93 Continued: 93
+C: DESI
+D: So did you. LUCY takes a moment...then tosses her shoes aside--
+C: LUCY
+D: You don’t think I want to be in the same city at the same time as my husband? What do I talk about every-
+C: DESI
+D: I know, I know that.
+C: LUCY
+D: Every decision I make is based on being near you. Every single decision.
+C: DESI
+D: Well, yeah. But obviously not every single decision.
+C: LUCY
+D: You know how many years I’ve spent sticking my head in the frame, saying something bitchy and going away? Crappy little roles in pictures I wouldn’t pay a nickel to see if the theater had the only available air conditioning. If The Big Street is a hit I’ll be getting the roles that go to Rita and Judy and Betty.
+C: DESI
+D: Which Judy?
+C: LUCY
+D: Holiday. Who’s the baseball player you talk about? The one that sat down and let Lou Gehrig--
+C: DESI
+D: Wally Pipp.
+C: LUCY
+D: --start that streak? Gehrig was his understudy.
+C: DESI
+D: Backup. Continued: 93 Continued: 93
+C: LUCY
+D: And the guy took a rest one day and Gehrig came in and didn’t come out for forty years?
+C: DESI
+D: Fourteen years and it was Wally Pipp.
+C: LUCY
+D: Okay, well, imagine if Wally Pipp had scheduling problems and Lou Gehrig, instead of grabbing his glove, toured with his husband’s Latin orchestra. It would’ve changed the course of baseball.
+C: DESI
+D: And the course of Latin music.
+C: LUCY
+D: Rita Hayworth is Wally Pipp. I’m Lou Gehrig. The Big Street is the Yankees.
+C: DESI
+D: I understood the metaphor so long ago.
+C: LUCY
+D: You don’t have to tour. You could stay in town.
+C: DESI
+D: And do what?
+C: LUCY
+D: Sell out Ciro’s every night.
+C: DESI
+D: We’re not a house band. I’d like to sell out New York, Chicago and Miami too.
+C: LUCY
+D: I know. Eight weeks. I’ll come to wherever you are on the weekends. So it’ll be important that you not fall in love with someone else Mondays thru Fridays. Continued: 93
+C: 92A.
+D: Continued: 93
+C: DESI
+D: Agreed. And it’ll be helpful if you don’t sleep with Henry Fonda or Joseph Cotton.
+C: LUCY
+D: How did Joseph Cotton get into the conversation?
+C: 92A.
+D: Continued: 93 Continued: 93
+C: DESI
+D: I’ve heard rumors.
+C: LUCY
+D: You really want to compare rumors?
+C: DESI
+D: No.
+C: LUCY
+D: Yeah.
+C: DESI
+D: Hey, look at me.
+C: LUCY
+D: I already am.
+C: DESI
+D: They’re rumors. I have never, and will never, have an interest in being with anyone but you.
+C: LUCY
+D: Should we open the champagne, take our clothes off and go skinny dipping in the pool?
+C: DESI
+D: That bottle of champagne is basically a grenade now but all your other ideas were good. Lucy, Jesus. You’re gonna be a movie star.
+E: beat
+C: LUCY
+D: You comfortable with that? DESI takes LUCY by the shoulders...
+C: DESI
+D: Am I comfortable with that? And the champagne bottle, which is laying on its side, EXPLODES, with the cork shattering a wine glass. LUCY and DESI stare at it...
+C: LUCY
+D: That bottle has comic timing. Continued: 93
+C: 93A.
+D: Continued: 94 INT. CHARLES KOERNER’S OFFICE - DAY94 94 LUCY sits on a couch in the waiting area. She takes in the framed posters of classy hit movies and smiles a little to herself. The SECRETARY notices.
+C: 93A.
+D: Continued: 94 Continued: 94
+C: LUCY
+D: I’ve been at the studio for almost ten years and I’ve never been in the president’s office.
+C: SECRETARY
+D: Mr. Koerner isn’t the president, he’s the head of production.
+C: LUCY
+D: Second in command. Still. Higher than I’ve ever gotten. The SECRETARY’s phone buzzes and she picks it up--
+C: SECRETARY
+D: Yes sir. You can go on in. LUCY gets up, straightens herself out and walks into INT. CHARLES KOERNER’S OFFICE - CONTINUOUS95 95
+E: to LUCY
+C: KOERNER
+D: Lucille. Charles Koerner.
+C: LUCY
+D: Lucille Ball.
+C: KOERNER
+D: Do you like Lucille or Lucy?
+C: LUCY
+D: Lucy’s fine. I mean either’s fine. Lucy.
+C: KOERNER
+D: Alright.
+C: LUCY
+D: And do I call you Charlie?
+C: KOERNER
+D: Anyone as brilliant as you were in The Big Street can call me Betsy and I wouldn’t care.
+C: LUCY
+D: Thank you.
+C: KOERNER
+D: Sit. Please. Right there. Continued: 94 Continued: 95
+C: LUCY
+D: Thank you. They sit.
+C: KOERNER
+D: That was a whole new side of you we’ve never seen. Where has that been?
+C: LUCY
+D: It’s been buried under bad movies.
+C: KOERNER
+D: I’ve heard you make some form of that joke before.
+C: LUCY
+D: Keep putting me in pictures like Big Street and you won’t hear it again.
+C: KOERNER
+D: We’re dropping your contract, Lucy. LUCY laughs...
+C: KOERNER
+D: No, it’s not a joke. RKO’s dropping your contract.
+E: CONT'D
+C: LUCY
+D: I don’t understand.
+E: pause
+C: KOERNER
+D: We don’t have anything for you.
+C: LUCY
+D: I don’t--This is happening fast. The Big Street was a hit.
+E: pause
+C: KOERNER
+D: It was a critical hit.
+C: LUCY
+D: I get there wasn’t a stampede to the box office, but you didn’t lose money, did you?
+C: KOERNER
+D: No. Continued: 95 Continued: 95
+C: LUCY
+D: Do you understand the conditions under which this picture was finished?
+C: KOERNER
+D: It has nothing to do with--
+C: LUCY
+D: Damon Runyon left town before principal photography, our director joined the army during post- production and our editor died. He just flat-out died.
+C: KOERNER
+D: There were a number of obstacles.
+C: LUCY
+D: That’s accurate. Did you read the reviews?
+C: KOERNER
+D: They were very impressive.
+C: LUCY
+D: They were more than impressive.
+C: KOERNER
+D: Lucy--
+C: LUCY
+D: I blew Henry Fonda off the screen.
+C: KOERNER
+D: This has nothing--
+C: LUCY
+D: Henry Fonda, who is very much under contract here at RKO.
+C: KOERNER
+D: As a matter of fact you blew him off the screen ‘cause it was his last picture he owed at RKO and your director couldn’t get him to give a damn.
+C: LUCY
+D: Making my job that much harder.
+C: KOERNER
+D: This has nothing to do with your performance in The Big Street. Continued: 95 Continued: 95
+C: LUCY
+D: But it should have everything to do with my performance in The Big Street. I showed what I can do and that’s just the beginning of what I can do. That’s just the beginning of it. I can do comedy too. Are you sure this isn’t a joke?
+C: KOERNER
+D: It’s a tough business.
+C: LUCY
+D: I know that! I’ve been in it since I was fourteen!
+C: KOERNER
+D: But you’re 35 now.
+C: LUCY
+D: And that’s the problem?
+E: pause
+C: KOERNER
+D: No, the problem is that you’re really 39, aren’t you?
+C: LUCY
+D: Mm-hm. 39-year olds don’t go to your movies? They don’t like seeing stories about themselves?
+E: pause
+C: KOERNER
+D: You came through for us when Judy Holliday and Rita Hayworth were on other pictures and we didn’t want to lose Fonda. This studio has a handshake understanding with Metro and Warner and they’ll loan us Holliday or Hayworth so we just don’t have enough for you that would warrant keeping you under contract.
+C: LUCY
+D: Judy Holliday does one thing very well but it’s just one thing.
+C: KOERNER
+D: I know how you’re feeling right now, I’ve had to have this conversation a hundred times. Continued: 95 Continued: 95
+C: LUCY
+D: I’m surprised, ‘cause you’re terrible at it.
+C: KOERNER
+D: Can I make a suggestion?
+C: LUCY
+D: Be younger?
+C: KOERNER
+D: Radio.
+C: LUCY
+D: The hell did you just say to me?
+E: pause
+C: KOERNER
+D: You’ve got the voice for it. I’ve noticed there’s a lot you can do with your voice. You should think about radio.
+C: LUCY
+D: You should go fuck yourself, Betsy. LUCY gets up to leave and we CUT TO: EXT. LUCY AND DESI’S BACKYARD - NIGHT96 96 LUCY’s sitting by the pool, reading a script by a hanging lantern and smoking a cigarette. She has a glass of wine and there’s an almost-empty bottle sitting next to her. After a moment, DESI appears at the door...
+C: DESI
+D: Lucy?
+C: LUCY
+D: Yep?
+C: DESI
+D: What are you doing?
+C: LUCY
+D: I’m reading scripts.
+C: DESI
+D: It’s three o’clock in the morning. Continued: 95 Continued: 96
+C: LUCY
+D: I know. I’m drunk too. DESI walks over to her...
+C: LUCY
+D: I know why you like drinking. I didn’t get it until about two hours ago.
+E: CONT'D
+C: DESI
+D: You read any good movies?
+C: LUCY
+D: These are radio pilots.
+C: DESI
+D: Oh yeah?
+C: LUCY
+D: Yeah.
+C: DESI
+D: You know there’s nothing wrong with radio. I do it all the time.
+E: pause
+C: LUCY
+D: You’re a bandleader. DESI takes that in, nods, gets up and heads back to the house. He turns and calls back--
+C: DESI
+D: You know Bataan was a hit too.
+C: LUCY
+D: I didn’t hear you.
+C: DESI
+D: Bataan was a hit. And I was good. The reviews were Valentines. I didn’t bang a drum. It would’ve led to better parts except I had to go-- what do you call it--fight World War II. Now those crappy little parts in pictures you wouldn’t pay a nickel to see if it was the only available air conditioning in the
+C: LUCY
+D: Des-- Continued: 96
+C: 99A.
+D: Continued: 96
+C: DESI
+D: I can’t get ‘em. DESI heads into the house. We stay on LUCY a moment before we
+C: BLACKOUT TITLE: 99A.
+D: Continued: 96 Continued: 96 Thursday Run Throughs INT. RICRADO’S LIVING ROOM SET - DAY97 97 We’re in the middle of a dress rehearsal. JESS, MADELYN, BOB and others are sitting in the bleachers. “RICKY” is helping “LUCY” through the front door. “LUCY” is wrapped in bandages.
+C: DESI
+D: Honey--are you sure you’re alright? Are the bandages really fake?
+C: LUCY
+D: Oh I’m fine. Thank goodness the Mertz’s had their awnings up.
+C: DESI
+D: The whole thing was my fault.
+C: LUCY
+D: No, it was my fault. Weren’t we silly?
+C: DESI
+D: Yeah. We’ll never fight again. They kiss. “FRED” comes in the door looking very sad.
+C: FRAWLEY
+D: You okay, Lucy?
+C: LUCY
+D: Oh, I’m fine.
+C: FRAWLEY
+D: Are you sure?
+C: LUCY
+D: Yeah. Don’t look so sad. I’m really alright.
+C: FRAWLEY
+D: I wasn’t sad about that. I just saw Ethel and she’s so mad about what we did, she’s gone home to her mother!
+C: LUCY
+D: Oh no! Continued: 96 Green Rev. 101. Continued: 97
+E: 03/31/21
+C: DONALD
+D: And we cut. Good. Is that lunch?
+C: ASSISTANT DIRECTOR
+D: That’s one hour for lunch.
+E: calling out
+C: DONALD
+D: We’ll do notes on stage after and go again. Everyone starts to leave--
+C: LUCY
+D: One quick thing? Everyone stops...
+E: stopping everyone
+C: DONALD
+D: The table scene’s getting good.
+E: beat
+C: LUCY
+D: Yeah, it’s not, but I wanted to circle back and express again my serious concern about Ricky’s entrance at the top. I brought it up at the table read Monday and there haven’t been new pages.
+C: JESS
+D: Because it’s gonna work.
+C: LUCY
+D: Hear me out.
+C: JESS
+D: Okay.
+C: LUCY
+D: Right now Lucy’s trimming the flowers on the table when the front door opens and Ricky comes in.
+C: JESS
+D: We’re gonna have to cut the flowers. I don’t mean “cut the flowers”, I mean cut the flowers. Green Rev. 101. Continued: 97 Green Rev. 101A. Continued: 97
+E: 03/31/21 03/31/21
+C: LUCY
+D: I couldn’t understand the difference between those two line readings.
+E: pause
+C: JESS
+D: We’re running long. We have to cut the bit with the flowers. Green Rev. 101A. Continued: 97 Green Rev. 102. Continued: 97
+E: 03/31/21 03/31/21
+C: DESI
+D: How long?
+C: JESS
+D: About a minute.
+C: LUCY
+D: Alright, we’ll get back to the flowers. The door opens, Ricky comes in and Lucy doesn’t see or hear him, which is unusual because the front door is--you know--right there, and in previous episodes we’ve established that Lucy’s eyes and ears are connected to her brain.
+C: JESS
+D: We buy the conceit.
+C: LUCY
+D: I’m sorry?
+C: JESS
+D: We buy it. Lucy’s so focused on making the table nice she doesn’t even notice Ricky coming in the door.
+C: LUCY
+D: Okay, I’ll run with that. Ricky walks up to her quietly, puts his hands over her eyes and says-- She points to DESI--
+C: DESI
+D: “Guess who it is.”
+C: LUCY
+D: And Lucy says, “Bill?, Sam?, Pat?, Ralph?”
+C: JESS
+D: She’s teasing him.
+C: LUCY
+D: Yes. She’s teasing him. That’s clear. But then Ricky responds-- She points to DESI-- Green Rev. 102. Continued: 97 Green Rev. 103. Continued: 97
+E: 03/31/21 03/31/21
+C: DESI
+D: “No!”
+C: LUCY
+D: No! And there’s a stage direction for Ricky that says, “Burning”. No! He’s upset. Lucy continues the teasing--George, Julius, Stephen, Ivan?
+C: BOB
+D: We changed that to “Pedro? Julio? Juan? Guillermo?”
+C: MADELYN
+D: “Because those are Spanish names. I mean Mexican. Cuban. Latin. They’re Brazilian names! Turkish!”
+E: imitating BOB
+C: BOB
+D: You good?
+C: MADELYN
+D: Yeah.
+C: ASSISTANT DIRECTOR
+D: We’re moving into a meal penalty.
+C: LUCY
+D: Lucy guesses some names.
+C: JESS
+D: Teasingly.
+C: LUCY
+D: And the script indicates that Ricky then takes his hands away from Lucy’s eyes, turns her around and says-- She points to DESI--
+C: DESI
+D: “No! It’s me!”
+C: LUCY
+D: So my question again, Jess, is does Ricky honestly, truly believe that there might be eight different men who routinely walk into their apartment--all of whom sound exactly like Desi Arnaz? Green Rev. 103. Continued: 97 Green Rev. 104. Continued: 97
+E: 03/31/21 03/31/21
+C: JESS
+D: You think we’re saying Ricky’s stupid?
+C: LUCY
+D: I think we’re saying the audience is. And that’s something for which they won’t soon forgive you.
+C: JESS
+D: Do you charge for these lessons?
+C: LUCY
+D: A ton.
+C: JESS
+D: For the sake of the joke, the audience will take the leap with us.
+C: LUCY
+D: They will, but they’ll need a busload of orthopedists when they land.
+C: ASSISTANT DIRECTOR
+D: Jess--
+C: JESS
+D: Let’s talk about it after lunch.
+C: LUCY
+D: I have an idea.
+C: JESS
+D: I’ve got a crew here. We’re about to run into a penalty.
+C: LUCY
+D: Lucy’s working on the flowers.
+C: JESS
+D: We’re cutting the flowers for time. I don’t mean literally cutting the flowers--
+C: LUCY
+D: I can not go through that again. Ricky opens the door, comes in, shuts the door the way we’ve seen him do in thirty-seven episodes. Lucy doesn’t acknowledge him. Green Rev. 104. Continued: 97 Green Rev. 104A. Continued: 97
+E: 03/31/21 MORE 03/31/21
+C: JESS
+D: So far you’re describing the script.
+C: LUCY
+D: Right. But instead of playing the hands-over-the-eyes guessing game, Ricky just stands there. Green Rev. 104A. Continued: 97
+E: MORE 03/31/21
+C: LUCY
+D: Green Rev. 105. Continued: 97 He can’t understand why Lucy didn’t notice him come home anymore than we can. He stands there for a full beat, and then another, and then merrily and in a slightly exaggerated manner says--as we’ve seen him say a hundred times-- She points to DESI--
+E: CONT'D 03/31/21
+C: DESI
+D: “Lucy, I’m home!” Everyone LAUGHS, and once the laughter dies down...
+C: LUCY
+D: For Ricky is funny.
+C: JESS
+D: Luce? Let’s talk about it after lunch. Scott.
+E: to the A.D.
+C: ASSISTANT DIRECTOR
+D: That’s lunch. One hour. Back on stage for notes. People begin to head off their separate ways. FRAWLEY catches LUCY’s eye and shrugs his shoulders as if to say, “What did we just talk about yesterday?”
+E: calling out
+C: LUCY
+D: Hang on! Everyone stops...
+E: calling out
+C: LUCY
+D: Des. Did that work for you?
+E: CONT'D
+C: DESI
+D: Works perfect.
+C: LUCY
+D: We’ll talk about it after lunch. People start leaving again. As LUCY walks past FRAWLEY she quietly says--
+E: to JESS
+C: LUCY
+D: It needed to be fixed.
+E: CONT'D
+C: LUCY
+D: Green Rev. 105. Continued: 97 Continued: 98 INT. WRITERS’ ROOM - DAY98 98 JESS, MADELYN, BOB and MARY PAT are sitting around the table.
+E: CONT'D 03/31/21
+C: BOB
+D: I think we can get more out of “hypocrite”.
+C: MADELYN
+D: Yeah.
+C: JESS
+D: Like what?
+C: BOB
+D: Like Lucy says, “Well it’s nice to know I’m married to a hypocrite” and Desi gets his back up and says--
+C: MADELYN
+D: “Hypocrite!” then turns to Fred and says, “What’s a hypocrite?”
+C: BOB
+D: Fred tells him-- “It’s a person who says one thing but does another” and Desi says, “Thank you” and turns back to Lucy and says--
+C: MADELYN
+D: “Oh yeah?!”
+C: JESS
+D: Good.
+C: BOB
+D: Yeah, that’s exactly what I was going to pitch.
+C: MADELYN
+D: But I pitched it faster.
+C: BOB
+D: By interrupting me.
+C: MADELYN
+D: How do you think I got to be a woman in a comedy room? There’s a KNOCK on the door and LUCY sticks her head in-- Continued: 98
+C: 106A.
+D: Continued: 98
+C: LUCY
+D: Hey. Is now a good time?
+E: to JESS
+C: 106A.
+D: Continued: 98 Continued: 98
+C: JESS
+D: Madelyn had a good idea. We shoot it both ways and see which one gets the bigger laugh.
+C: BOB
+D: That was my idea.
+C: LUCY
+D: It’s a bad idea.
+C: MADELYN
+D: It’s just not your day.
+E: to BOB
+C: LUCY
+D: Can I have a minute in your office?
+E: to JESS
+C: JESS
+D: Sure. JESS gets up and walks out into-- INT. CORRIDOR - CONTINUOUS99 99
+C: JESS
+D: What’s wrong with shooting it both ways?
+C: LUCY
+D: Well you’ll be on the floor during the show, right?
+C: JESS
+D: I’ll be where I always am. They step across the hall into-- INT. JESS’S OFFICE - CONTINUOUS100 100
+C: LUCY
+D: In full view of the audience.
+C: JESS
+D: I suppose.
+C: LUCY
+D: Since we’re doing it both ways, how about we do it once with your pants on and once with your pants off? Continued: 98 Continued: 100
+C: JESS
+D: It’s not the same.
+C: LUCY
+D: It is, and I don’t want to do the version with my pants off in front of two-hundred people. But I need to talk to you about something else. LUCY closes the door.
+C: JESS
+D: You’re not gonna tell me you’re pregnant again, are you?
+C: LUCY
+D: No. I’m still pregnant from before, but no. Jess, you know how much I value you.
+C: JESS
+D: I think I do.
+C: LUCY
+D: You know you do.
+C: JESS
+D: Okay.
+C: LUCY
+D: And you also know what it is Desi does around here.
+C: JESS
+D: Sure.
+C: LUCY
+D: I mean every business decision goes through Desi. In fact most business decisions are made by Desi.
+C: JESS
+D: You married a very bright man.
+C: LUCY
+D: I did. He also makes a lot of creative decisions.
+C: JESS
+D: I’m not sure I’d say a lot. Continued: 100 Continued: 100
+E: pause
+C: LUCY
+D: Well...I would. I’d say a lot. He devised the camera system we use. He’s the reason the east coast isn’t seeing the show on a foggy kinescope.
+C: JESS
+D: Yeah.
+C: LUCY
+D: And even though we use three cameras, the studio audience can see every scene, that’s him too. And the cast, the four of us, we can see the audience.
+C: JESS
+D: I give him a lot of credit for that.
+C: LUCY
+D: He’s the one who thought up Lucy being pregnant on the show.
+C: JESS
+D: That’s never gonna happen ‘cause no matter what CBS says, Philip Morris is never gonna let it happen, but, like I said, I give him credit.
+C: LUCY
+D: That’s the thing though. You don’t.
+C: JESS
+D: What do you mean?
+C: LUCY
+D: He doesn’t get credit as an executive producer, which, let’s face it, is what he is. You get sole credit.
+C: JESS
+D: I didn’t win my credit in a raffle, I earn it. I’m the show runner, not to mention being the creator of the show.
+C: LUCY
+D: I don’t see how we could do the show without you. Continued: 100
+C: 109A.
+D: Continued: 100
+C: JESS
+D: You absolutely could not.
+C: 109A.
+D: Continued: 100 Continued: 100
+C: LUCY
+D: I don’t see how we could do it without Desi either.
+C: JESS
+D: Because he plays Ricky which he does get a screen credit for.
+C: LUCY
+D: Jess--
+C: JESS
+D: Is this something our agents should be talking about?
+C: LUCY
+D: No.
+C: JESS
+D: Because I’m not at all comfortable with this conversation.
+C: LUCY
+D: I’m about to make you less comfortable. I need you to help me save my marriage. I need you to help me save my marriage. INT. WRITERS’ ROOM - DAY101 101 MADELYN and BOB are waiting along with MARY PAT...
+E: pause
+C: BOB
+D: What do you think they’re talking about in there?
+E: pause
+C: MADELYN
+D: I think they’re talking about you. I think they want to pay you less because you’re not as funny as I am. JESS and LUCY step out of JESS’s office--
+C: JESS
+D: Mary Pat, would you ask Desi if I can come see him?
+C: MARY PAT
+D: Sure. Continued: 100 Continued: 101 LUCY starts to head off and JESS slams his office door behind him a lttle too hard. LUCY clocks that and then calls into the writers room--
+C: LUCY
+D: Madelyn? LUCY motions for MADELYN to step outside.
+C: MADELYN
+D: Yeah. MADELYN steps into-- INT. CORRIDOR - CONTINUOUS102 102 --and she and LUCY take a few steps away for privacy. They speak quietly.
+C: MADELYN
+D: Was everything alright in there?
+C: LUCY
+D: Yeah. So listen, it has to be coherent. If it’s anything goes then nothing’s funny
+C: MADELYN
+D: Anything Goes was a hit.
+C: LUCY
+D: Not Cole Porter’s Anything Goes, I mean--
+C: MADELYN
+D: I know. Why are you telling me?
+C: LUCY
+D: The opening, Ricky’s entrance with his hands over my eyes, that was Jess, right? MADELYN takes a moment before--
+C: MADELYN
+D: Outside of that room we make it a point not to talk about who wrote what.
+C: LUCY
+D: It wasn’t Jess? Continued: 101 Continued: 102
+C: MADELYN
+D: Again--
+E: beat
+C: LUCY
+D: You know I’m right about the logic. Why aren’t you backing me up instead of endorsing some plan to shoot it both ways.
+C: MADELYN
+D: Listen, why don’t we get together for a drink or a swim this weekend and we can put it on the agenda.
+C: LUCY
+D: The show’s tomorrow and I’m fine talking about it now.
+C: MADELYN
+D: By all means, let’s unnecessarily add more to what you’re worried about this week.
+C: LUCY
+D: I’m not worried--
+C: MADELYN
+D: Shhh.
+C: LUCY
+D: I’m not worried. I’m saying that I count on you to be the firewall--to be--to make sure--just--logic, okay?
+E: quieter
+C: MADELYN
+D: I won’t say who wrote what, but I can tell you that I’m the lady in there trying to make Lucy smarter.
+C: LUCY
+D: ‘Scuse me?
+E: beat
+C: MADELYN
+D: I’m the one trying, every week, to make--
+C: LUCY
+D: Lucy’s dumb? Continued: 102
+C: 112A.
+D: Continued: 102
+C: MADELYN
+D: I didn’t say that.
+E: beat
+C: 112A.
+D: Continued: 102 Continued: 102
+C: LUCY
+D: But you’re trying--struggling, it sounds like--to make Lucy smarter.
+C: MADELYN
+D: I created this character with you.
+C: LUCY
+D: And she needs to be smarter.
+C: MADELYN
+D: She sometimes, for the sake of comedy, is infantilized. LUCY says nothing...
+C: MADELYN
+D: This is a crazy week, time and place to be having this conversation. This is important to--
+E: CONT'D
+C: LUCY
+D: How is she infant--
+C: MADELYN
+D: She literally says “Waaah”.
+C: LUCY
+D: ‘Cause when she does, 60-million people laugh--just like for Lou Costello and Stan Laurel--and you get paid.
+C: MADELYN
+D: When those two grown men play slow- witted five-year olds, I cringe.
+C: LUCY
+D: Then I question your comedy IQ.
+C: MADELYN
+D: No you don’t, you think I’m the funniest writer in the room and that’s why you’re talking to me and not Jess.
+C: LUCY
+D: Many people regard Lucy as clever. She always has a plan to overcome an obstacle.
+C: MADELYN
+D: Yeah, but oftentimes that obstacle is her husband’s permission. Continued: 102 Continued: 102
+C: LUCY
+D: You really think this week, right now, is the best time to talk about this?
+C: MADELYN
+D: No! I specifically said that 30- seconds ago. Look, it’s just a female perspective from another generation.
+E: pause
+C: LUCY
+D: Another generation? You’re on a roll.
+C: MADELYN
+D: Bette Davis, Bacall, Hepburn--
+C: LUCY
+D: Funny women.
+C: MADELYN
+D: --Judy Holliday--
+C: LUCY
+D: Judy Holliday? Go to hell.
+C: MADELYN
+D: They are funny women and they’re smart and tough and they outsmart the men. Why do you and Gracie Allen feel like you have to--
+C: LUCY
+D: Okay, stop. Stop stop stop. Maddie, I love you. You’re like, I guess, a great-granddaughter to me from another generation. And it’s my fervent wish for you that one day you’re half as funny as Gracie Allen. In the meantime, please remember that Lucy and Ricky and Fred and Ethel, if they live past tomorrow, have to live in a reality that accepts the physical laws of the universe. Ricky knows that Lucy doesn’t think there are possibly eight other men in the apartment.
+C: MADELYN
+D: Understood. Continued: 102
+C: 114A.
+D: Continued: 102 JESS comes out of his office and calls into the writers room--
+C: 114A.
+D: Continued: 102 Continued: 102
+C: JESS
+D: Let’s go.
+C: MADELYN
+D: But I don’t make that decision.
+E: to LUCY
+C: JESS
+D: Mary Pat, cut the flowers. And to be clear, by “cut the flowers”--
+C: BOB
+D: She knows exactly what you mean. MARY PAT nods that she does. As JESS and BOB walk past MADELYN--
+C: JESS
+D: Let’s go. LUCY’s left standing there...
+E: to MADELYN
+C: LUCY
+D: Judy Holliday. This isn’t happening. INT. DESI’S OFFICE ROOM - DAY103 103 DESI’s pacing a little with a script in his hands, going through his lines. He tosses the script on the couch and lights a cigarette. Then paces a little bit. There’s a knock on the door--
+E: under her breath
+C: DESI
+D: Come on in. MISS ROSEN opens the door--
+C: MISS ROSEN
+D: Mr. Oppenheimer is here to see you with Mr. Carroll and Miss Pugh.
+C: DESI
+D: Nothing from Mr. Lyons yet?
+C: MISS ROSEN
+D: No. Continued: 102 Continued: 103
+C: DESI
+D: Anyone at Philip Morris?
+C: MISS ROSEN
+D: No.
+C: DESI
+D: You think they know something we don’t know yet?
+C: MISS ROSEN
+D: I think if they did, our offices would be empty by now.
+C: DESI
+D: Okay. DESI calls out--
+C: DESI
+D: Camina conmigo al escenario! --as he heads out into-- INT. CORRIDOR - CONTINUOUS103A 103A
+E: CONT'D
+C: DESI
+D: Walk me to the stage. We’re an hour behind.
+C: JESS
+D: Madelyn’s got a new joke for the second act.
+C: MADELYN
+D: I just this minute told Lucy that we don’t talk about who wrote what.
+C: BOB
+D: And Madelyn came up with the joke only seconds after I did.
+C: MADELYN
+D: Isn’t it possible that two comedy writers working on the same script came up with the same joke at the same time?
+C: BOB
+D: It’s possible.
+C: MADELYN
+D: Thank you. Continued: 103 Continued: 103A
+C: BOB
+D: It’s just not what happened.
+C: DESI
+D: Do I need to be here for any of this? JESS hands DESI a piece of paper. DESI looks it over...
+C: DESI
+D: “Hypocrite?! What’s a hypocrite?” They turn onto-- INT. NEW CORRIDOR - CONTINUOUS103B 103B
+E: CONT'D
+C: MADELYN
+D: That’s to Fred. DESI reads the rest of the new joke...
+C: DESI
+D: Got it. Good. Was that what you wanted me for?
+C: JESS
+D: The hypocrite joke is for Episode 9, that’s the script we’re working on. If Lucy’s going to be pregnant-- Lucy Ricardo--we have to introduce it in 9 according to your timetable.
+C: DESI
+D: Yeah.
+C: JESS
+D: So I just wanted to confirm with you that there’s no chance we’re doing that.
+C: DESI
+D: We are doing that. They walk through a door and onto-- INT. STAGE - CONTINUOUS103C 103C --where a piece of the set is being worked on by a couple of of stagehands, lights are being re-focused and a camera is being built. Continued: 103A Continued: 103C
+C: JESS
+D: You know Phillip Morris won’t let us and even if they did--
+C: DESI
+D: What.
+C: JESS
+D: We don’t want to see this girl pregnant. We don’t want to know that she’s pregnant. We don’t want to know how she got pregnant.
+C: DESI
+D: Do we have viewers who don’t know how women get pregnant?
+C: JESS
+D: Yes, they’re called children.
+C: DESI
+D: Do any of these children have younger brothers or sisters?
+C: JESS
+D: You know what else a lot of our viewers are? Christian.
+C: DESI
+D: I’m way ahead of you. I’m gonna have a priest, a minister and a rabbi review every script.
+C: MADELYN
+D: I’m gonna be re-written by a priest, a minister and a rabbi?
+C: BOB
+D: There’s a joke in there somewhere.
+C: MADELYN
+D: Good, because after being re- written by a priest, a minister and a rabbi there aren’t gonna be many left in the script.
+C: DESI
+D: Good one.
+C: JESS
+D: Des-- Continued: 103C Continued: 103C
+C: DESI
+D: Enough. I sent a telegram Tuesday to Alfred Lyons.
+C: JESS
+D: You did.
+C: DESI
+D: I’ve put the decision is his hands.
+C: JESS
+D: Okay. Okay good. Okay.
+C: DESI
+D: You’re that sure he’s gonna say no.
+C: JESS
+D: I am.
+C: DESI
+D: That it?
+C: JESS
+D: Yeah. But everyone stands there awkwardly for a moment...
+C: JESS
+D: Oh, Bob, tell Desi that thing you were saying before. BOB’s now on the spot. He doesn’t want to do this.
+E: CONT'D
+C: BOB
+D: Me?
+E: pause
+C: JESS
+D: Yeah.
+C: BOB
+D: Really?
+C: DESI
+D: Guys?
+C: JESS
+D: It was interesting. Bob was saying that you’re really the title character of the show. Because you’re the “I” in I Love Lucy. Continued: 103C Continued: 103C
+C: DESI
+D: Hm.
+E: pause
+C: JESS
+D: So strictly speaking, you have top billing.
+C: DESI
+D: I’m the “I” in I Love Lucy.
+E: pause
+C: JESS
+D: Yeah.
+C: DESI
+D: I never thought of it that way.
+C: JESS
+D: You like that?
+C: DESI
+D: I like that.
+C: JESS
+D: Alright.
+C: DESI
+D: Jess?
+C: JESS
+D: Yeah.
+C: DESI
+D: Patronize me again and I’ll stick my hand down your throat and pull your fuckin’ lungs out.
+E: confidentially
+C: JESS
+D: Look-- MISS ROSEN, Desi’s secretary, comes in with a telegram.
+E: pause
+C: MISS ROSEN
+D: Excuse me.
+C: JESS
+D: What is it?
+C: MISS ROSEN
+D: It’s a telegram for Mr. Arnaz. It’s from Mr. Lyons and Philip Morris. Continued: 103C Continued: 103C
+C: DESI
+D: Thank you. DESI opens the telegram, reads it and hands it to JESS. DESI walks away as he calls out--
+C: DESI
+D: Let’s go, please, we’re an hour behind!
+E: CONT'D calling out
+C: MADELYN
+D: What does it say?
+C: JESS
+D: “To all Philip Morris and CBS employees: Don’t fuck with the Cuban.” EXT./EST. LUCY AND DESI’S HOUSE - NIGHT104 104 The house is mostly dark with only a few lights on. INT. LAUNDRY ROOM - NIGHT105 105 LUCY has a basket of laundry in front of her. She’s separating whites and colors while working on her lines.
+C: LUCY
+D: “Well he didn’t come home and he hasn’t called... ...not that it makes any difference to me.” “Oh I can see that it doesn’t make any difference to you. Why don’t you call Ricky and tell him you’re sorry.” “What?! You think I’d allow my pride--” LUCY checks her script--
+E: as “LUCY” ”choking up” as “ETHEL” as “LUCY”
+C: LUCY
+D: “Do you think I’d swallow-- “What?! Do you think I’d swallow my pride like that?” Continued: 103C Continued: 105 DESI appears in the doorway, holding their sleeping TWO YEAR- OLD GIRL on his shoulders.
+E: CONT'D reading as “LUCY”
+C: DESI
+D: Never.
+E: quietly
+C: LUCY
+D: Oh, what are you doing up?
+C: DESI
+D: I woke up and you weren’t there. So I went to the nursery to see if everything was okay. She’d kicked her blanket off so I fixed it. That woke her up.
+C: LUCY
+D: Yeah.
+C: DESI
+D: But as you can see, I got her back to sleep and we went searching for mama. You know we pay a housekeeper to do the laundry.
+C: LUCY
+D: I like doing laundry and I never get a chance. Don’t you love the smell?
+C: DESI
+D: I do. They should make a cologne that smells like soap.
+C: LUCY
+D: They do. It’s soap.
+C: DESI
+D: I’m gonna put her back in her little apartment now. You should come to bed.
+C: LUCY
+D: I will. This was a nice date. DESI smiles and nods...
+E: beat
+C: DESI
+D: Come back to bed soon. DESI exits. Continued: 105 Continued: 105 LUCY resumes sorting the laundry and running lines...
+C: LUCY
+D: “Do you think I’d call him and go crawling back?” “What?! Do you think I’d swallow my pride?! Do you think I’d call him and go crawling--” LUCY notices something in the laundry basket...
+E: again
+C: LUCY
+D: “What? Do you think I’d swallow my pride like that?” She’s looking at a handkerchief that was in the laundry basket. We can’t see what’s caught her attention but something’s bothering her. EXT. LUCY AND DESI’S HOUSE - NIGHT106 106 It’s raining. LUCY walks out the back door, down past the pool and leans against the gate, looking back at her house. She stares. INT. SOUNDSTAGE - NIGHT107 107 A cigarette is lit and from the light of the flame we see LUCY sitting in the Ricardo’s living room. After a moment, the heavy elephant door opens and headlights from a car stream into the soundstage. We can see from the headlights that it’s still raining. The headlights are turned off and we hear a car door open and then close.
+E: CONT'D mindlessly, as “LUCY”
+C: FRAWLEY
+D: Lucy?!
+E: calling
+C: LUCY
+D: Over here.
+C: FRAWLEY
+D: Thanks, Bobby.
+E: to the SECURITY GUARD
+C: SECURITY GUARD
+D: Everything alright in there? Continued: 105 Continued: 107
+E: BOBBY
+C: FRAWLEY
+D: We’re fine, thanks. The SECURITY GUARD takes off as FRAWLEY makes his way to the set.
+C: FRAWLEY
+D: What the hell?
+E: CONT'D
+C: LUCY
+D: Thanks for coming down.
+C: FRAWLEY
+D: It’s two in the morning.
+C: LUCY
+D: Sorry about that.
+C: FRAWLEY
+D: Kid, what’s goin’ on?
+C: LUCY
+D: I’m gonna re-stage the dinner scene.
+C: FRAWLEY
+D: Let’s go to my dressing room and call Desi.
+C: LUCY
+D: No, Desi’s home with the baby, we can do this.
+C: FRAWLEY
+D: Does he know you’re here?
+C: LUCY
+D: He’s sleeping.
+C: FRAWLEY
+D: Let me take you home. Another pair of headlights pull up to the open elephant door.
+C: FRAWLEY
+D: Is that him?
+E: CONT'D
+C: LUCY
+D: That’s Viv.
+C: FRAWLEY
+D: You called her too? Continued: 107 Continued: 107
+C: LUCY
+D: I’m re-staging the dinner scene. This isn’t for beginners, you know, this isn’t school.
+C: FRAWLEY
+D: I don’t hire the directors.
+C: LUCY
+D: I know, I’m just sayin’.
+C: VIVIAN
+D: What’s happening here?
+C: LUCY
+D: Thanks for coming, Viv.
+C: VIVIAN
+D: Is everything alright?
+C: FRAWLEY
+D: The three of us are on an empty soundstage at two in the morning, she’s drunk, I’m not, so, yeah, everything’s good, why do you ask?
+C: VIVIAN
+D: Your call just said to come to the stage, that it was an emergency. So I thought--
+C: LUCY
+D: We need to re-block the dinner scene, it’s not gonna take long.
+C: VIVIAN
+D: What?
+C: FRAWLEY
+D: You heard her right.
+C: LUCY
+D: It won’t take long, we’re just gonna make an adjustment. LUCY pulls the drop cloth off the dining table.
+C: LUCY
+D: Two people who are fighting have to share a seat at a dinner table. LUCY grabs the downstage piano bench-- Continued: 107 Continued: 107
+E: CONT'D
+C: LUCY
+D: First thing, why don’t we take this and move it upstage so the camera can see you.
+E: CONT'D
+C: VIVIAN
+D: Are we really doing this?
+C: FRAWLEY
+D: As a matter of fact, putting the chair upstage makes sense.
+C: LUCY
+D: Sit please.
+C: VIVIAN
+D: Which one of us?
+C: LUCY
+D: Both of you. In the chair. VIVIAN and FRAWLEY each take half the piano bench.
+C: LUCY
+D: Now it can’t just be a mish-mash of pushing, it can’t just be a scrum, each move has to be articulate. So Ethel elbows Fred. Elbow him. QUICK CUT TO: INT. I LOVE LUCY SET/LIVING ROOM - NIGHT 108 108 “ETHEL” elbows “FRED” as the AUDIENCE LAUGHS. CUT BACK TO: INT. SOUNDSTAGE/I LOVE LUCY SET - SAME TIME109 109
+E: CONT'D beat BLACK AND WHITE
+C: LUCY
+D: Fred elbows Ethel a little harder. QUICK CUT TO: INT. I LOVE LUCY SET/LIVING ROOM - NIGHT 110 110 “FRED” elbows “ETHEL” back. Continued: 107 Continued: 110
+E: BLACK AND WHITE MORE
+C: VIVIAN
+D: Ow. CUT BACK TO: INT. SOUNDSTAGE/I LOVE LUCY SET - SAME TIME111 111
+C: LUCY
+D: Ethel elbows Fred harder-- She does--
+C: FRAWLEY
+D: Hey--
+C: LUCY
+D: Then Fred-- He does--
+C: LUCY
+D: Now hit each other at the same time and fall off the piano bench. QUICK CUT TO: INT. I LOVE LUCY SET/LIVING ROOM - NIGHT 112 112 “FRED” AND “ETHEL” elbow each other and fall to the floor as the AUDIENCE HOWLS WITH LAUGHTER. CUT BACK TO: INT. SOUNDSTAGE/I LOVE LUCY SET - SAME TIME113 113
+E: CONT'D BLACK AND WHITE
+C: LUCY
+D: And that’s that. Let’s run it a couple of times at speed.
+C: VIVIAN
+D: Did something happen?
+C: LUCY
+D: I’m sorry?
+C: VIVIAN
+D: At home. Did something just happen?
+C: LUCY
+D: No. I was--no. I was doing some laundry and--no. Continued: 110
+E: MORE
+C: LUCY
+D: Continued: 113 Yeah, I just wanted to fix this beat. I couldn’t sleep. It’s like when you’re not sure if you left the oven unlocked. Door unlocked. Nothing, I wanted to fix this beat. Let’s do it again. FRAWLEY and VIVIAN stand there quietly...
+E: CONT'D
+C: LUCY
+D: You know I did this show so Desi and I could be together? I had no idea it was gonna be a hit. I just thought...well, the construction department’s gonna build us a little apartment and that’s where we’ll live most of the time. You know? And it worked out. This is where-- LUCY draws the set in the air with her finger...
+E: CONT'D pause
+C: LUCY
+D: It’s like a story you’d read a little girl. A witch puts a curse on a woman. She’ll be adored by the man she loves, but only as long as she stays on this patch of ground. It’s still a lot more than most people get. Let’s run it at speed.
+E: CONT'D beat
+C: FRAWLEY
+D: I’m gonna drive you home.
+C: LUCY
+D: I’m the biggest asset in the portfolio of the Columbia Broadcasting System. The biggest asset in the portfolio of Philip Morris Tobacco, Westinghouse...I get paid a fortune to do exactly what I love doing, I work side by side with my husband who’s genuinely impressed by me, and all I have to do to keep it is kill every week for thirty-six weeks in a row. And then do it again the next year. Kill. So let’s do it again.
+C: LUCY
+D: Continued: 113 Continued: 114 INT. SOUNDSTAGE BLEACHERS - DAY114 114
+E: CONT'D
+C: OLDER JESS
+D: I thought he’d like the idea that he was the title character. That he was the “I” in I Love Lucy. I thought he’d get a kick out of it. INT. NIGHT CLUB - DAY115 115
+C: OLDER BOB
+D: No, I knew that wasn’t gonna go well. None of us heard what Desi said to Jess. I still don’t know what he said. EXT. HOTEL POOL - DAY116 116
+C: OLDER MADELYN
+D: After RKO dropped Lucy’s contract, MGM had her in for a Technicolor test, which she didn’t know yet would be one of the most important moments in her life. A man named Sydney Guilaroff was Metro’s chief hair stylist. He looked at Lucy and said, “The hair is brown but the soul is on fire” and he dyed her hair a new color. INT. RADIO STUDIO - NIGHT117 117 A live studio audience is watching the radio broadcast of My Favorite Husband. An “On the Air” light flicks to red.
+C: ANNOUNCER
+D: It’s time for My Favorite Husband, starring Lucille Ball. And for the first time, LUCY’s hair is red.
+C: LUCY
+D: Jell-O, everybody!
+E: as “LIZ”
+C: APPLAUSE THEME MUSIC
+D: Continued: 114 Cherry Rev. 130. Continued: 117
+E: 05/02/21
+C: ANNOUNCER
+D: Yes, it’s the gay family series, starring Lucille Ball, with Richard Denning, transcribed and brought to you by the Jell-O family of desserts.
+C: SINGERS
+D: J-E-L-L-Ooooh! The big red letters stand for the Jell-O family. Oh, the big red letters stand for the Jell-o family. That’s Jell-O!
+C: WOMAN
+D: Yum, yum, yum.
+C: SINGERS
+D: Jell-O puddings!
+C: MAN
+D: Yum, yum, yum.
+C: ANNOUNCER
+D: And now, Lucille Ball with Richard Denning as Liz and George Cooper-- two people who live together and like it. As we look in on the Coopers, it’s a beautiful spring day and Liz is just going to the kitchen to talk to Katy, the maid.
+C: LUCY
+D: Oh Katy?
+E: as “LIZ”
+C: KATY
+D: Yes, Mrs. Cooper?
+C: LUCY
+D: Katy, I’ve got some good news for you.
+E: as “LIZ”
+C: KATY
+D: Uh-oh.
+C: LUCY
+D: “Uh-oh”. What do you mean, “Uh-oh.” I say I’ve got good news and you say, “Uh-oh”?
+E: as “LIZ”
+C: THE AUDIENCE LAUGHS--
+D: Cherry Rev. 130. Continued: 117 Cherry Rev. 131. Continued: 117
+E: 05/02/21 05/02/21
+C: KATY
+D: Everytime you say you’ve got good news it’s usually good for you and bad for me.
+C: LUCY
+D: Oooooh well...maybe that’s a little true. ANOTHER LAUGH, and we CUT TO: INT. LUCY’S RADIO DRESSING ROOM - NIGHT118 118 LUCY’s changing into street clothes. There’s a knock on the door.`
+E: as “LIZ”
+C: LUCY
+D: Come on in. JESS sticks his head in the door--
+C: LUCY
+D: That was a good show.
+E: CONT'D
+C: JESS
+D: I thought so too.
+C: LUCY
+D: Pass it on to Maddie and Bob, would you? Great job this week.
+C: JESS
+D: I’ve got two gentlemen out here who’d like to see you and you’re gonna want to hear what they have to say.
+C: LUCY
+D: Did it need to sound ominous, can’t they just come in? JESS walks in with two executives--LEVY and HART.
+E: beat
+C: LEVY
+D: Lucille Ball.
+C: LUCY
+D: Yes sir. Cherry Rev. 131. Continued: 117 Continued: 118
+E: 05/02/21
+C: LEVY
+D: David Levy, head of comedy development, CBS.
+C: HART
+D: David Hart, head of current programming, CBS.
+C: LUCY
+D: Uhh, well, David...and David, I’ve been working here at CBS for a year and I’ve never heard of either of you.
+C: LEVY
+D: CBS Television.
+C: LUCY
+D: CBS does television? The two executives look at each other...
+E: beat
+C: HART
+D: Yeah. Edward R. Murrow--
+C: LUCY
+D: I’m kidding.
+C: HART
+D: Understood.
+C: LEVY
+D: That was funny.
+C: LUCY
+D: Thank you.
+C: JESS
+D: These men have an interesting idea.
+C: LUCY
+D: Would you like to sit?
+C: HART
+D: Thank you.
+C: LEVY
+D: Lucy, we’ve been here to the show a few times now, and we noticed-- well, David noticed--
+C: HART
+D: You noticed too. Continued: 118 2nd Blue Rev. 133. Continued: 118
+E: 05/17/21
+C: LEVY
+D: We both noticed. We noticed that when you do the show, you use gestures and expressions.
+C: LUCY
+D: You mean the acting?
+E: pause
+C: LEVY
+D: Yeah.
+C: LUCY
+D: My face, my body and my voice, that’s all I get to work with.
+C: HART
+D: It’s just unusual because it’s radio.
+C: LUCY
+D: I watched Jack Benny. He plays it for the studio audience and it works pretty well for him.
+C: LEVY
+D: It does, and it works pretty well for you too. Very well. And we think it’s a shame that no one gets to see it.
+C: LUCY
+D: Invent a way to see what’s on the radio.
+C: HART
+D: We did, it’s television.
+C: LUCY
+D: Are you here to sell me one?
+C: JESS
+D: Lucy--they want to put My Favorite Husband on TV. INT. CBS COMMISSARY - DAY119 119 LUCY’s having lunch with LEVY, HART and JESS, along with HOWARD and ROGER, the two executives we met earlier. *
+C: LUCY
+D: I’m very interested. 2nd Blue Rev. 133. Continued: 118 2nd Blue Rev. 134. Continued: 119
+E: 05/17/21 05/17/21
+C: ROGER
+D: That’s great. LEVY * Is it too early to raise a glass?
+C: HOWARD
+D: To My Favorite Husband.
+C: LUCY
+D: Yes! Except I don’t want to do My * Favorite Husband. HOWARD * I’m confused.
+E: pause
+C: JESS
+D: Yeah, me too.
+C: LUCY
+D: Don’t panic. It’s simple. I’m interested in your idea of doing My Favorite Husband on television, I just want it to be a different show.
+C: JESS
+D: What show do you want it to be?
+C: LUCY
+D: One where Desi plays my husband. INT. CBS CONFERENCE ROOM - DAY120 120 LUCY, JESS and the executives from lunch have now been joined by more executives, including MACY, an even bigger wig than the big-wigs she’s been meeting with. They’re all sitting around a very long table with LUCY at one end and MACY on the other.
+C: MACY
+D: I understand there’s a casting issue.
+C: LUCY
+D: Was that to me?
+E: pause
+C: MACY
+D: Yes. 2nd Blue Rev. 134. Continued: 119 2nd Blue Rev. 135. Continued: 120
+E: 05/17/21 05/17/21
+C: LUCY
+D: I wasn’t sure, you’re quite a ways away.
+C: HART
+D: Our casting department has come up with a list of very exciting names we think you’ll like. Could you pass this down to Lucy.
+C: LEVY
+D: These are all very funny men.
+C: HART
+D: I think we have mimeos for everyone. The casting list starts getting handed out--
+C: LEVY
+D: It’s one of the best lists I’ve seen in a while.
+C: LUCY
+D: Number 12 died last week.
+C: HART
+D: That’s my fault.
+C: LUCY
+D: There’s no issue.
+C: HOWARD
+D: What was that?
+C: LUCY
+D: I was answering Mr. Macy. There’s no casting issue. I am ready and eager to do a half-hour domestic comedy for CBS if the role of my husband--let’s call him Shmezy--is played by Desi. HOWARD * Can I remark on this? *
+E: louder
+C: ROGER
+D: Please. HOWARD * On My Favorite Husband, your husband is the 5th Vice President of a bank. 2nd Blue Rev. 135. Continued: 120 2nd Blue Rev. 136. Continued: 120
+E: 05/17/21 05/17/21
+C: LUCY
+D: Yes. HOWARD * Can I ask you, in all candor, do you see Desi as the 5th Vice President of a bank?
+C: LUCY
+D: I can’t see him being the 5th Vice President of anything. I can see him owning the bank.
+C: ROGER
+D: You see the problem?
+C: LUCY
+D: I see what you think is the problem.
+C: MACY
+D: Lucy.
+C: LUCY
+D: Yes.
+C: MACY
+D: I don’t ordinarily come to meetings like this. I don’t pay attention to casting issues. This meeting is several floors below my general interest. I’m here to deliver a hard truth. We can’t have an all- American girl married to a man who isn’t American.
+C: LUCY
+D: He is American. He was a sergeant in the U.S. Army and he served in the war.
+C: MACY
+D: You know exactly what I mean, Lucy, he’s Spanish.
+C: LUCY
+D: Still no. He’s never been to Spain in his life. He speaks Spanish. He was born in Cuba. His father was the Mayor of Santiago, Cuba’s second largest city.
+C: MACY
+D: You know exactly-- 2nd Blue Rev. 136. Continued: 120 Continued: 120
+E: 05/17/21
+C: LUCY
+D: --what you mean, yes I do. Look, I’m not here trying to get a job for my nephew. Desi Arnaz is a phenomenally talented man. Not just a world-class musician but a very good actor who would be a movie star if there was such a thing as a Cuban movie star. Moreover we work very well together. I go out and meet him when he’s touring and he brings me up for some sketches and it works. Jess?
+C: JESS
+D: It works.
+C: LUCY
+D: Any cultural differences will make for good comedy, am I right Jess?
+C: JESS
+D: You’re not wrong.
+C: LUCY
+D: Now I don’t want to have another meeting like this because I don’t know how many more people will fit around a table. My position’s not going to change. You want me on television and there’s only one television show I’m willing to do, so what’s it gonna be? There’s silence around the table for a moment, and then-- The I LOVE LUCY THEME MUSIC crashes in.
+C: TITLE:
+D: Friday Show Night INT. I LOVE LUCY SET - NIGHT121 121 A live orchestra is playing the theme music. The bleachers are filled with an excited audience and there’s pre-show activity from the crew. Continued: 120 Yellow Rev. 138. Continued: 121 We see eight empty seats in the back row with reserved signs being taped on them. INT. LUCY'S DRESSING ROOM - SAME TIME122 122 LUCY, who’s hair and make-up are now done up as “Lucy”, is finishing putting her costume on with the help of a dresser. P.A. SCOTT pops his head in--
+E: MORE 03/28/21
+C: SCOTT
+D: We think it’s about 15 minutes.
+C: LUCY
+D: We think?
+C: SCOTT
+D: We’re holding for something, I’m not sure what.
+C: LUCY
+D: Okay, thanks. P.A. SCOTT pops back out.
+C: LUCY
+D: Holding? JESS taps on the open door.
+E: CONT'D
+C: LUCY
+D: Yeah, come in. Can I have a second?
+E: CONT'D to the DRESSER
+C: DRESSER
+D: Sure. The DRESSER exits.
+C: JESS
+D: I think I know why you want to see me.
+C: LUCY
+D: Do you?
+C: JESS
+D: Hear me out.
+C: LUCY
+D: I asked you a favor, Jess. I asked you to give him an E.P. credit. Yellow Rev. 138. Continued: 121
+E: MORE 03/28/21
+C: LUCY
+D: Continued: 122 Instead, you tried to convince him he was the title character or some--
+E: CONT'D
+C: JESS
+D: Listen--
+C: LUCY
+D: --bullshit. What the hell was that?
+C: JESS
+D: I’m sorry if he was insulted. I mean, I know he’s insulted so I’m sorry.
+C: LUCY
+D: He wasn’t insulted, he was laughing about it. But yeah, he’s insulted. No, he’s offended, I’m insulted. I asked you to do a small favor--
+C: JESS
+D: Yeah.
+C: LUCY
+D: --and it’s not like you don’t owe me a couple. JESS takes a deep breath before--
+C: JESS
+D: It wasn’t a small favor and I don’t know what you think I owe you.
+C: LUCY
+D: Really?
+C: JESS
+D: It wasn’t a small favor, you asked me to save your marriage.
+C: LUCY
+D: No, I--
+C: JESS
+D: And it’s not the first time you’ve asked me to do that, is it?
+C: LUCY
+D: I asked you to give him an E.P. credit, that’s all.
+C: JESS
+D: No problem. Can my wife play Lucy once in a while?
+C: LUCY
+D: Continued: 122 Buff Rev. 140. Continued: 122
+E: CONT'D 04/12/21
+C: LUCY
+D: If your wife played Lucy once in a while, I’d think it would be appropriate that she be so credited. And what do you mean it’s not the first time I asked you to save--
+C: JESS
+D: “Jess, Jessie, we’ll have Desi play my husband. It’ll save my marriage.”
+C: LUCY
+D: Was that supposed to be me?
+C: JESS
+D: Yes.
+C: LUCY
+D: Don’t do voices.
+C: JESS
+D: You’re insulted? Desi’s offended? You asked me to give away my job title like it was a parking spot.
+C: LUCY
+D: You’re right, I’m sorry.
+C: JESS
+D: Jesus Christ, Lucy, sometimes I think, wait, what?
+C: LUCY
+D: You’re right. And I’m sorry. I was dead wrong.
+C: JESS
+D: I wasn’t expecting that.
+E: pause
+C: LUCY
+D: I know.
+C: JESS
+D: Have you ever said that to me before?
+C: LUCY
+D: I doubt it. But I’ve thought it if that means anything. Buff Rev. 140. Continued: 122 Buff Rev. 141. Continued: 122
+E: 04/12/21 04/12/21
+C: JESS
+D: It does.
+C: LUCY
+D: It’s just been a compound fracture of a week.
+C: JESS
+D: You want to hear something stupid? I think I’ve been mad at you this week because you’re not Jewish. If it had been me, I’d have been fired two minutes after the words came out of Winchell’s mouth. I told you it was stupid. LUCY takes that in...and then decides to make a joke...
+E: beat
+C: LUCY
+D: And you didn’t disappoint. JESS smiles--
+C: JESS
+D: Good show tonight.
+C: LUCY
+D: Good show. Hey, why are we holding?
+E: then
+C: JESS
+D: I’m not sure.
+C: LUCY
+D: We’re holding, someone must know why. There’s a KNOCK on the door.
+C: LUCY
+D: Come in. P.A. SCOTT sticks his head in--
+E: CONT'D
+C: SCOTT
+D: Desi’s asking to see you in his office.
+C: LUCY
+D: You mean his dressing room? Buff Rev. 141. Continued: 122 Buff Rev. 142. Continued: 122
+E: 04/12/21 04/12/21
+C: SCOTT
+D: No, he’s in his office with some CBS executives and some men from Philip-Morris. SCOTT exits...
+C: JESS
+D: Why’s he in his office at show time?
+C: LUCY
+D: Because the evening editions just came out. LUCY looks at JESS...They both know this can only mean trouble.
+E: pause
+C: JESS
+D: Listen to me. Memorize this. “It’s none of your fuckin’ business.” There. Let that be the best thing I ever wrote. LUCY smiles...nods...then says--
+E: pause beat
+C: LUCY
+D: Nah. It’s still “vitameatavegamin.” LUCY heads out and JESS follows her. INT. DESI'S OFFICE - NIGHT123 123 DESI stands behind his desk and the men are all silent. LUCY and JESS come in.
+E: pause
+C: DESI
+D: The evening edition. DESI shows LUCY the front page of the Los Angeles Herald- Express. There’s a four-inch headline in red ink: LUCILLE
+C: BALL A RED.
+D: LUCY let’s it sink in and then has an involuntary sharp intake of breath. DESI takes her hand--
+C: DESI
+D: It’s alright. Buff Rev. 142. Continued: 122 Buff Rev. 142A. Continued: 123
+E: CONT'D 04/12/21 04/12/21
+C: LUCY
+D: It’s in four-inch type.
+C: DESI
+D: I’m gonna fix this.
+C: LUCY
+D: That’s Hindenburg type.
+C: DESI
+D: I’ve already made the calls.
+C: LUCY
+D: And they used red ink.
+C: DESI
+D: Yeah. Buff Rev. 142A. Continued: 123 Continued: 123
+E: 04/12/21
+C: LUCY
+D: I didn’t even know newspapers had red ink.
+C: DESI
+D: I guess they do.
+C: LUCY
+D: I was cleared.
+C: DESI
+D: Somehow the city editor, a woman named Agnes Underwood, has a photostatic copy of the affidavit showing you registered in 1936 as a voter intending to affiliate with the Communist Party.
+C: LUCY
+D: But I was cleared. After the testimony they stamped “canceled” on the card, I saw the card.
+C: DESI
+D: Other papers are showing the canceled card and they’re running a caption that says, “Note the cancellation at left”, but the Herald-Express took the word “canceled” out of the document altogether.
+C: LUCY
+D: Other papers?
+C: DESI
+D: Yes, but I’ve made calls and we’re taking care of this. Miss Rosen!
+E: calling
+C: LUCY
+D: Calls to who?
+C: DESI
+D: Every reporter within 20 minutes of this soundstage. That’s why we’re holding.
+C: LUCY
+D: You’re saying the reporters are coming here? MISS ROSEN steps in and waits for instructions. Continued: 123 Continued: 123
+C: DESI
+D: We’ll seat them in the back of the bleachers.
+C: LUCY
+D: You think we’re still filming a show? Why are none of you talking?
+E: to the EXECUTIVES
+C: ROGER
+D: It’s Desi’s idea.
+C: DESI
+D: I’m gonna warm up the audience the way I always do, except instead of Cuban Pete and the joke about the turtle, I’m going to tell them what happened. I’m going to explain that you checked the wrong box, I’m going to show them the cancelled document, and then I’m going to bring you out so the press sees them give you a round of applause.
+C: LUCY
+D: Fellas, could we have the room for just a moment? Everyone steps out but LUCY and DESI. They’re silent for a moment before...
+C: LUCY
+D: You’re not telling these people I checked the wrong box.
+E: CONT'D
+C: DESI
+D: This is a critical moment.
+C: LUCY
+D: If I’m gonna die--
+C: DESI
+D: You’re not.
+C: LUCY
+D: I’d rather die standing up.
+C: DESI
+D: I don’t have any idea what that--
+C: LUCY
+D: I’m not an idiot, I didn’t check the wrong-- Continued: 123 Cherry Rev. 145. Continued: 123
+E: 05/02/21
+C: DESI
+D: You saw the headline.
+C: LUCY
+D: You can see that headline from outer space.
+C: DESI
+D: Then please--
+C: LUCY
+D: Grandpa Fred raised me from age eleven. He cared about the little guy, he cared about workers’ rights. It was a tribute to him and to say I checked the wrong--
+C: DESI
+D: Grandpa Fred, Grandpa Fred, Grandpa Fred was wrong, Lucy! ‘Cause he didn’t tell you the part where they throw your father in prison for the crime of being the mayor of a city. I was chased to this country! Believe me, you checked the wrong box. LUCY takes a long moment...
+C: LUCY
+D: And what if they don’t applaud?
+C: DESI
+D: They will. And the press will write that they did.
+C: LUCY
+D: You’re going to tell them that I was accused of--sixteen years ago--
+C: DESI
+D: They’re going to read it in the morning anyway. We have a sample population of two-hundred people on our stage. Miss Rosen!
+E: calling out
+C: LUCY
+D: If they boo me-- Cherry Rev. 145. Continued: 123 Continued: 123
+E: 05/02/21
+C: DESI
+D: If they boo you we’re done here tonight. MISS ROSEN comes back in-- DESI’s gotten a small black address book out of his desk and opened to a page. He shows it to his secretary and points to a name--
+C: DESI
+D: Call this man. Tell them it’s for me, they’ll find him, he’s expecting my call. Tell me when you have him. MISS ROSEN takes the phone book and walks out. EXT. ALLEY BEHIND THE SOUNDSTAGE - NIGHT124 124 LUCY is leaning against a wall in a private spot, smoking a cigarette. We can see the lit “Desilu” sign in the distance. She takes a deep breath to settle herself. After a moment, a heavy steel door opens. VIVIAN looks in one direction and then the other and sees LUCY. She steps out--
+E: CONT'D
+C: VIVIAN
+D: Someone said they spotted you going out here.
+C: LUCY
+D: This was our pre-show spot, you and me. All last season, you remember?
+C: VIVIAN
+D: Yeah. We should do that again, I liked that tradition. LUCY nods...
+C: VIVIAN
+D: I was just told. Jesus, Lulu. Four- inch type?
+E: CONT'D
+C: LUCY
+D: Red ink.
+C: VIVIAN
+D: How did they get it wrong? Continued: 123 Continued: 124
+C: LUCY
+D: Well...I mean...they didn’t.
+C: VIVIAN
+D: Grandpa Fred? LUCY nods...
+C: VIVIAN
+D: You’re the most beloved woman in America. You’re not gonna get blacklisted.
+E: CONT'D
+C: LUCY
+D: Aww, Viv. You know how many brands Philip Morris owns? All it takes is someone calling for a boycott of Marlboros.
+C: VIVIAN
+D: I shouldn’t have piled on this week. It just-- VIVIAN shakes her head and waves it off...
+E: pause
+C: LUCY
+D: What?
+C: VIVIAN
+D: None of that matters right now.
+C: LUCY
+D: It may be the last time we’re out here. Say it.
+C: VIVIAN
+D: Lucy Ricardo’s married to a man six years younger than she is and Ethel’s married to her grandfather. And it’s understood, as the underlying premise for a running joke, that I’m not pretty enough for him. It got to me and at the world’s worst time. LUCY nods her head, she understands...
+C: LUCY
+D: That was a knockout dress. The heavy steel door opens and FRAWLEY steps out with
+E: pause
+C: MADELYN...
+D: Continued: 124 Yellow Rev. 148. Continued: 124
+E: 03/28/21
+C: FRAWLEY
+D: Oh. You two wanna be alone?
+C: VIVIAN/LUCY
+D: Yes./No. MADELYN hurries over to LUCY and speaks to her privately.
+C: MADELYN
+D: You’re my hero.
+E: quietly
+C: LUCY
+D: I care about what works, Maddie. I care about what’s funny. I don’t see myself caring about a woman’s perspective from a new generation. I care about you. After a moment...
+E: pause
+C: FRAWLEY
+D: I’d love for someone to bring me breakfast.
+C: MADELYN
+D: That’s not what we were talking about.
+C: LUCY
+D: Doesn’t a P.A. bring you breakfast every day?
+C: FRAWLEY
+D: Yes.
+C: LUCY
+D: Okay.
+C: FRAWLEY
+D: Never French toast.
+C: LUCY
+D: We’ll look into that.
+C: FRAWLEY
+D: I came out to try to distract you with nonsense but I assume these two beat me to it.
+C: LUCY
+D: Viv doesn’t like the jokes about Ethel being unappealing. Yellow Rev. 148. Continued: 124 Yellow Rev. 149. Continued: 124
+E: 03/28/21 03/28/21
+C: FRAWLEY
+D: Yeah, there’s no one within the sound of her voice who doesn’t know that.
+C: VIVIAN
+D: I said what I felt.
+C: FRAWLEY
+D: You’ve been saying what you felt since the first day of work, it’s not like you’ve finally given voice to your feelings. You know what, sweet ladies? Something dies inside a man--it just dies--the first time he hears a girl call him old. So on the subject of Jess, Bob and Madelyn writing “Ethel” jokes, I’m indifferent.
+C: LUCY
+D: The two of you... ...are good actors. It’s a privilege doing this show with you. There’s a long silence before...
+E: beat
+C: FRAWLEY
+D: Now you’re scaring the shit outa me.
+C: VIVIAN
+D: I was just gonna say.
+E: over
+C: LUCY
+D: Desi’s gonna tell the audience. He’s invited press. He’s betting the audience will accept the truth, give their approval and the press will write about it. I’d take the other side of that bet. The steel door opens and P.A. SCOTT sticks his head out--
+E: beat
+C: SCOTT
+D: Excuse me. Sorry. Mr. Arnaz is ready to do the warm-up. They told me you wanted to know. Yellow Rev. 149. Continued: 124 Yellow Rev. 149A. Continued: 124
+E: 03/28/21 03/28/21
+C: LUCY
+D: Thank you. Yellow Rev. 149A. Continued: 124 Continued: 124
+E: 03/28/21
+C: VIVIAN
+D: Alright, I’ll see you out there. Good show.
+E: pause
+C: FRAWLEY
+D: Good show.
+C: MADELYN
+D: Good show. VIVIAN and MADELYN go inside. LUCY starts to head in but FRAWLEY puts a hand out to stop her...
+C: FRAWLEY
+D: The dinner scene is inarguably better. LUCY smiles...then heads inside. INT. SOUNDSTAGE/I LOVE LUCY SET - NIGHT125 125 The orchestra’s finishing a number as we see an USHER seating a few members of the press in the last row where other members of the press are sitting. DESI watches the press being seated from backstage. The audience APPLAUDS at the end of the number...
+E: pause
+C: ANNOUNCER
+D: Now ladies and gentlemen, give a warm welcome to one of the stars of I Love Lucy. You know him as Ricky Ricardo--here’s Desi Arnaz! A healthy round of applause greets DESI as he walks onto the set carrying a folded newspaper.
+C: DESI
+D: Thank you, thank you very much. Usually, right now, I’d be doing the final audience warm-up. I’d tell you an old joke about a turtle. I’d point out our groundbreaking camera system that allows the studio audience to watch the show unobstructed and I’d introduce you to the rest of the cast. Continued: 124 Goldenrod Rev. 151. Continued: 125 We see LUCY watching from an off-stage vantage point. At various times we’ll see FRAWLEY or VIVIAN, JESS, MADELYN, BOB, MARY PAT, the network guys or A P.A. watching from various places around the stage.
+E: pause 04/10/21
+C: DESI
+D: I’m not doing that tonight and here’s why. Last week, my wife, Lucille Ball, was asked to testify in front of a closed session of the House Un-American Activities Committee. There’s a murmur in the audience...
+E: CONT'D
+C: DESI
+D: Yeah, the congressmen who investigate Communism. After hours of testimony, the committee concluded, unambiguously, that Lucy was and is in no way involved with the Communist Party. So everything’s swell, right? No. Because this is the evening edition headline in the Herald-Express. DESI opens the paper and shows them the headline. The
+E: CONT'D
+C: AUDIENCE GASPS... DESI
+D: So I made some phone calls. I called the editor of the Herald- Express. I called the chairman of the committee. I called all the members of the committee. And I made one more call to someone and I believe he’s still on the line. DESI is handed a phone by MISS ROSEN. He’ll speak into the phone and then hold the receiver up to the microphone so the audience can hear.
+E: CONT'D
+C: DESI
+D: Are you still with me, sir?
+E: CONT'D into the phone
+C: MAN
+D: Yes. Goldenrod Rev. 151. Continued: 125 Yellow Rev. 151A. Continued: 125
+E: V.O. 04/10/21 03/28/21
+C: DESI
+D: I’m now standing in front of a studio audience in Hollywood, California, and we’re joined by a number of members of the press. Yellow Rev. 151A. Continued: 125 Continued: 125
+E: into the phone 03/28/21
+C: MAN
+D: That’s fine.
+E: V.O.
+C: DESI
+D: We want to know, sir, does the FBI have any case against Lucy? Does the FBI have any evidence of wrongdoing? Does the FBI have any reason to believe that Lucille Ball is a Communist?
+E: into the phone
+C: MAN
+D: No. Absolutely nothing. She is one- hundred percent clear.
+E: V.O.
+C: DESI
+D: Thank you, sir. One more question. Would you tell us your name please?
+E: into phone
+C: MAN
+D: This is J. Edgar Hoover. An impressed reaction from the AUDIENCE...
+E: V.O.
+C: DESI
+D: Thank you, sir, enjoy your evening. Ladies and gentlemen, please welcome my wife and the star of I Love Lucy, Lucille Ball. The audience breaks into THUNDEROUS APPLAUSE and CHEERING. Backstage, LUCY breathes a sigh of relief, takes a moment, and walks onto the set. The audience gives her a STANDING OVATION. DESI looks up to the last row where he sees the reporters feverishly writing all this down. He cathes the eye of one reporter who’s taking it all in but not writing it down and he pantomimes, “Write it the hell down.” Backstage, people are shaking hands. LUCY gives a final wave to the audience and walks off. DESI shouts over the SUSTAINED APPLAUSE
+E: he hangs up
+C: DESI
+D: So enjoy the show. Continued: 125 Continued: 125 The orchestra crashes into a new number as DESI heads offstage a moment later and takes us-- INT. BEHIND THE SET - CONTINUOUS126 126 --where he takes LUCY in his arms. They have to speak up to be heard over the orchestra--
+E: CONT'D shouting
+C: DESI
+D: It’s all over.
+C: LUCY
+D: Thank you.
+C: DESI
+D: It’s over now.
+C: LUCY
+D: Thank you.
+C: DESI
+D: They love you.
+C: LUCY
+D: I love you.
+C: DESI
+D: No one’s gonna mess with you. Ever.
+C: LUCY
+D: I thought they were gonna boo.
+C: DESI
+D: You wanna do a show?
+C: LUCY
+D: Have you been cheating on me?
+E: louder
+C: DESI
+D: What?
+E: pause
+C: LUCY
+D: Have you been cheating on me?
+C: DESI
+D: Is this a bit?
+C: LUCY
+D: No. Continued: 125 Goldenrod Rev. 154. Continued: 126
+E: 04/10/21
+C: DESI
+D: No, I haven’t been.
+E: pause
+C: LUCY
+D: When you stay out all night you’re on the boat playing cards?
+C: DESI
+D: Yes.
+C: LUCY
+D: You haven’t been with anyone else?
+C: DESI
+D: What’s going on with you?
+C: LUCY
+D: Don’t gaslight me.
+C: DESI
+D: Where did this come from? They just cheered for you.
+C: LUCY
+D: They got it right, didn’t they?
+C: DESI
+D: Lucy--
+C: LUCY
+D: They only got the picture wrong. Did they get it right? Did they get it exactly right?
+C: DESI
+D: Jesus Christ, I just proved that the Herald-Express got it wrong, you think Confidential Magazine-- we’re about to do a show.
+C: LUCY
+D: Just tell me.
+C: DESI
+D: Tell me why you think--other than this garbage--tell me why you think I’ve-- LUCY takes out a white handkerchief that has a lipstick smudge on it. DESI takes a long moment... Goldenrod Rev. 154. Continued: 126 Continued: 126
+E: 04/10/21
+C: DESI
+D: That’s your lipstick. Remember? At the beginning of the week you kissed me, then took my handkerchief and wiped the lipstick off and put it back in my pocket. And you said you’d never done that before.
+E: CONT'D pause
+C: LUCY
+D: I hadn’t.
+C: DESI
+D: Then what the hell are we talking about? LUCY takes out another handkerchief that also has a lipstick smudge...
+C: LUCY
+D: This is my lipstick. There’s a long silence while DESI makes up his mind...
+C: DESI
+D: They were just call girls. They’re hookers. It doesn’t mean anything. LUCY nods...
+E: pause
+C: DESI
+D: Look--
+E: CONT'D
+C: LUCY
+D: Let’s do the show. Yeah? We’ll just forget this for a half-hour. Yeah? Let’s do the show. LUCY turns to a stagehand with a walkie-talkie--
+E: beat
+C: LUCY
+D: Jim, let’s go. It’s not gonna get better than this. We see and/or hear the show revving up--”Quiet Please!” “Picture’s Up!” “Roll Sound!” “Camera’s Rolling!” “Sound speed!” The three camera’s slate.
+E: CONT'D
+C: DONALD
+D: And...action. Continued: 126 Goldenrod Rev. 155A. Continued: 127 EXT. HOTEL POOL - DAY127 127
+E: 04/10/21
+C: OLDER MADELYN
+D: It ended up being a good show that night. We did both versions of the opening but it was the original version that made it on the air. The one with the names. You must’ve gotten a hold of the B-negative ‘cause your original question-- INT. SOUNDSTAGE BLEACHERS - DAY127A 127A
+C: OLDER JESS
+D: For the record, I won my bet with Desi. CBS wouldn’t let us use the word “pregnant”. But more people watched the birth of Little Ricky than had ever watched a television program before. Your original question-- Goldenrod Rev. 155A. Continued: 127 Continued: 128 INT. NIGHT CLUB - DAY128 128
+E: 04/10/21
+C: OLDER BOB
+D: You asked about why Lucy stopped when we were doing the alt. The alternate version. EXT. HOTEL POOL - DAY129 129
+C: OLDER MADELYN
+D: We were doing Lucy’s version of Ricky’s entrance first, but Lucy stopped and now I can’t remember why. INT. SOUNDSTAGE BLEACHERS - DAY130 130
+C: OLDER JESS
+D: Honestly, I’m not sure. In all the excitement, with all that drama, I never asked. INT. NIGHT CLUB - DAY131 131
+C: OLDER BOB
+D: What happened--she went out, she was cutting the flowers-- INT. SOUNDSTAGE BLEACHERS- DAY132 132
+C: OLDER JESS
+D: She was doing the bit with the flowers, which we couldn’t use ‘cause we were running long-- EXT. HOTEL POOL - DAY133 133
+C: OLDER MADELYN
+D: It seemed like she just got lost in her own head for second. INT. I LOVE LUCY SET/- NIGHT 134 134 LUCY trims the stem of one of the flowers. Continued: 128 Continued: 135 EXT. HOTEL POOL - DAY135 135
+E: BACK AND WHITE
+C: OLDER MADELYN
+D: It may have been the only time she went up on a line. INT. I LOVE LUCY SET - NIGHT 136 136 LUCY clips another stem, puts it back and now all the flowers disappear into the vase to a HUGE LAUGH. INT. NIGHT CLUB - DAY137 137
+E: BLACK AND WHITE
+C: OLDER BOB
+D: She takes the water glass and pours more water into the vase-- INT. SOUNDSTAGE BLEACHERS - DAY138 138
+C: OLDER JESS
+D: --which makes all of the flowers come up to the surface-- INT. I LOVE LUCY SET - NIGHT 139 139 The flowers come up to the surface which gets a big LAUGH from the audience. INT. NIGHT CLUB - DAY140 140
+E: BLACK AND WHITE
+C: OLDER BOB
+D: And then--I can’t remember the first line but we had to stop and go again. INT. SOUNDSTAGE BLEACHERS - DAY141 141
+C: OLDER JESS
+D: I can’t remember what her cue was, only that Lucy had her back to the audience and from where I was standing I thought I saw her--it was a long time ago, but I thought I saw her smile or even laugh a little and then just get lost. Continued: 135 Buff Rev. 158. Continued: 142 EXT. HOTEL POOL - DAY142 142
+E: 04/12/21
+C: OLDER MADELYN
+D: It was Desi’s line. It was the new bit Lucy put in but that version never made it into the show. What was his line? INT. I LOVE LUCY SET - NIGHT 143 143 DESI enters. He stands there, unnoticed by Lucy...then--
+E: remembering trying to remember
+C: DESI
+D: Lucy, I’m home! And LUCY hears that, smiles and revels in it for a quick moment and laughs a little...there’s an awkward silence.
+C: LUCY
+D: Sorry about that, I got lost for a second. EXT. HOTEL POOL - DAY143A 143A
+C: OLDER MADELYN
+D: We never went back to do another take of the alternate opening. Lucy just wanted to move on. INT. I LOVE LUCY SET/LIVING ROOM143B 143B As the show re-starts, with the audience loving every moment, we start to slowly PULL BACK and PULL UP. The show continues semi-MOS as we pull back further and higher, so that what we’re looking at is obviously a set. A small set. Three flats and no ceiling. Stagehands are smoking and talking to each other backstage with LUCY commanding her small, fictional world. We’re up above the light grid now-- OMITTED144 144 Buff Rev. 158. Continued: 142 Buff Rev. 158A. Continued: 143B DISSOLVE TO: TITLE: 145 145 The morning after Lucy and Desi shot their final show together, Lucy filed for divorce. Buff Rev. 158A. Continued: 143B Continued: 145 The show plays for a moment longer before we
+E: 04/12/21 04/12/21 04/12/21
+C: SNAP TO BLACK
+N: Continued: 145

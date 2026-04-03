@@ -1,0 +1,1604 @@
+M: HACKERS
+M: Written by
+M: Rafael Moreu
+M: SEATTLE 1988
+S: EXT. FRONT YARD. DAY.
+N: Slow motion. Armed troops in black uniforms pour out of unmarked vans and swarm across a lawn in a middle class residential neighborhood. Yuppie neighbors look on in shock, confused. Two of the troops carry a battering ram to the front door of a white two-story house. A leashed Rottweiler snarls and barks. In position, their comrades point M-16s into first-floor windows, ready to be ambushed. Pan into a window in the kitchen. An attractive woman in her thirties is making breakfast. Now, in regular motion, the battering ram breaks open the front door. The woman, startled, drops her spatula.
+S: INT. MURPHY RESIDENCE. DAY.
+C: WOMAN
+D: Oough! Ahhh!
+E: screams
+C: SECRET SERVICE AGENT
+D: Upstairs. Troops pour into the house.
+E: to others
+C: WOMAN
+D: What's going on? What's the matter? Who are you? The troops, and one or two trenchcoated agents, continue entering the house and heading upstairs, still with rifles ready.
+C: WOMAN
+D: Hey! Upstairs, crowded in the narrow hallway, the troops descend on a bedroom.
+E: CONT’D
+C: WOMAN
+D: Dade! Dade!
+E: CONT’D off camera
+C: AGENT
+D: Knock it down. The battering ram knocks down a bedroom door. INT. COURTROOM. The prosecutor, a woman of about forty, gives her closing argument blandly. She'd rather be somewhere else. PROSECUTOR The defendant, Dade Murphy, who calls himself "Zero Cool", has repeatedly committed criminal acts of a malicious nature. This defendant possesses a superior intelligence, which he uses to a destructive and antisocial end. His computer virus crashed one thousand five hundred and seven computer systems, including Wall Street trading systems, single handedly causing a seven point drop in the New York Stock Market. As she speaks, the camera pans across the court, panning down and stopping on the defendant: eleven year old Dade Murphy. Fast forward to the sentencing.
+C: JUDGE
+D: Dade Murphy, I hereby fine your family forty-five thousand dollars... The court gasps, Dade's father winces
+C: JUDGE
+D: ...and sentence you to probation, under which you are forbidden to own or operate a computer or touch tone telephone, until the day of your eighteenth birthday. Now Dade winces, in fact we almost expect him to cry. Opening credits roll to a backdrop of Dade and his family and lawyer fighting through a gaggle of journalists and photographers, in slow motion, and driving away.
+E: CONT’D
+C: SEVEN YEARS LATER.
+D: Aboard a jetliner, Dade Murphy is staring blankly out the window, wearing headphones. Exterior view from the aircraft of approaching New York City. The view becomes a direct overhead of the buildings and streets of the city, which then metamorphoses into chips and digital signals on a stylised computer board. The title logo. INT. DADE'S ROOM. Segue to Dade Murphy, now 18, wearing mirrorshades indoors and at night, working on his new computer. His mother calls him.
+E: through animation
+C: MRS. MURPHY
+D: Dade?
+E: off camera
+C: DADE
+D: Yeah, mom?
+C: MRS. MURPHY
+D: What are you doing?
+C: DADE
+D: I'm taking over a TV network.
+E: after a semi-pregnant pause
+C: MRS. MURPHY
+D: Finish up, honey, and get to sleep. And happy birthday. INT. OTV STUDIOS. In the OTV Studios security department, a phone rings, a man answers nervously.
+C: NORM
+D: Security, uh Norm, Norm speaking.
+C: DADE
+D: Norman? This is Mr. Eddie Vedder, from Accounting. I just had a power surge here at home that wiped out a file I was working on. Listen, I'm in big trouble, do you know anything about computers?
+C: NORM
+D: Uhhmmm... uh gee, uh...
+C: DADE
+D: Right, well my BLT drive on my computer just went AWOL, and I've got this big project due tomorrow for Mr. Kawasaki, and if I don't get it in, he's gonna ask me to commit Hari Kari...
+C: NORM
+D: Uhhh.. ahahaha...
+C: DADE
+D: Yeah, well, you know these Japanese management techniques. Could you, uh, read me the number on the modem?
+E: pause
+C: NORM
+D: Uhhhmm...
+C: DADE
+D: It's a little boxy thing, Norm, with switches on it... lets my computer talk to the one there...
+C: NORM
+D: 212-555-4240. Dade goes to work on OTV. He closes his eyes and a flurry of half-second video clips from old TV shows flashes by. He opens his eyes. His screen says ENTERING ARPS 331 and then wipes to another screen. Automated Record Playback System. There is a graphic representation of the station's automatic videotape changer. Dade turns on his TV set and turns to OTV. It is running a Rush-Limbaugh type TV show.
+C: COMMENTATOR
+D: ...so-called American Indians, Latinos and Blacks come from a genetically mediocre stock...
+E: on TV
+C: DADE
+D: Yak yak yak. Get a job! Dade presses a key on his keyboard. The Video Changer diagram lights up in red. At the station, a robotic arm selects a videotape from a huge rack of thousands of tapes. The "America First" tape slides out of the VTR and is replaced by an episode of "The Outer Limits" as Dade watches, drinks Coke and smiles, full of himself.
+C: TV
+D: You are about to experience the awe and mystery, which reaches from the inner mind, to... The Outer Limits.
+C: DADE
+D: Yesssss! Suddenly, the ARPS screen is replaced by an ominous message:
+C: U HAVE TREAD
+D: UPON MY DOMAIN &
+C: MUST NOW SUFFER WHO R U? DADE
+D: Hey! What? He starts to type ZERO...
+C: DADE
+D: No, wait. Dade types: CRASH OVERRIDE. WHO WANTS TO KNOW? Dade's screen dissolves into:
+C: ACID BURN DADE
+D: Unbelievable. A hacker! Then the screen changes again:
+C: ACID BURN
+D: SEZ LEAVE B 4 U R EXPUNGED "The Outer Limits" suddenly flashes off.
+C: DADE
+D: Yeah, okay "Acid Burn", that's enough. Dade starts hacking. Apparently so does Acid Burn. The tape changer machines at OTV are swamped, sometimes fighting over the same tape. The program on TV keeps changing. The message comes up on Dade's computer screen:
+C: I WILL SWAT U LIKE THE FLY U R
+D: More dueling tape changers, more half second video clips. Another message.
+C: I WILL SNAP YOUR BACK LIKE A TOOTHPICK
+D: As the duel continues, Dade types back a taunt of his own:
+C: MESS WITH THE BEST DIE LIKE THE REST
+D: One last from Acid Burn:
+C: YOU ARE TERMINATED
+D: Then his own computer confirms for him that the connection is terminated.
+C: DADE
+D: Shit on me! Next morning. Mrs. Murphy is unpacking. Dade emerges from his room in a housecoat. He makes a beeline for the fridge.
+E: dodging moving boxes
+C: MRS. MURPHY
+D: Good morning. You unpack your stuff yet?
+C: DADE
+D: Mm-hmm.
+C: MRS. MURPHY
+D: Up all night again, huh?
+C: DADE
+D: Can this wait until both my eyes are open, please? Dade's mom picks up the phone, mocking a call to the building superintendent.
+C: MRS. MURPHY
+D: Can I cut the electricity to his room so he'll sleep normal hours? He's been playing with his computer all night for a solid week. Well yes, he could be playing with himself. Mmm hmm. Yes I'll ask. Dade, you like girls, don't you?
+E: pause
+C: DADE
+D: Well, yeah, I just haven't found one as charming as you yet.
+C: MRS. MURPHY
+D: You haven't been doing anything stupid, right, Dade? Right, Dade?!
+E: louder
+C: DADE
+D: Right, mom. And I'm still a virgin! Dade slams the bathroom door. Mrs. Murphy quickly checks his room. Dade is showering.
+C: MRS. MURPHY
+D: You hooked it up to the phone, didn't you? Dade! Turn the shower off! You screw up again and you won't get into college! She pauses and regains some of her cool.
+E: angry, through the bathroom door
+C: MRS. MURPHY
+D: I'm sorry we had to move in your senior year. I didn't want to sell the house but I had to take this new job, you know that. You're going to love New York, it's the city that never sleeps! EXT. NEW YORK CITY. We enjoy several views of New York, the morning sun shining between skyscrapers, neon signs that stay lit day and night. Dade emerges from the ground-floor apartment on rollerblades and skates down the street to school. INT. HIGH SCHOOL. At school, hundreds of teenagers converse, move around, head to class. Dade looks lost among them. He walks up to a skinny latino kid in a faux leopard-skin muscle shirt. The kid is on a pay-phone, speaking in Spanish.
+C: DADE
+D: Excuse me.
+C: KID
+D: Yo, chill man, I'm talking to Venezuela.
+C: DADE
+D: Yeah, I'm sorry, I was just looking for the principal's office.
+C: KID
+D: Sorry, I can't help you, okay? Now Dade really looks lost. He heads off in search of the office. INT. OFFICE. Dade is filling out a form.
+C: GIRL
+D: Do you have your transfer forms? Dade stares at her, stunned. The girl has a decidedly unconventional appearance, yet is a first-rate beauty.
+C: GIRL
+D: It's a relatively straightforward question. Dade notices her lips, and in his imagination launches into a flurry of half-second video clips and art bites, all involving lips and kissing.
+C: GIRL
+D: Do you speak English?
+C: DADE
+D: Sorry, you wanted...?
+C: GIRL
+D: I wanted transfer forms. He gives them to her.
+C: GIRL
+D: Thank you. She starts leaving. He doesn't.
+C: GIRL
+D: Are you coming? Dade clues in, gets up and follows her. She takes him on a brief tour. INT. HIGH SCHOOL CORRIDOR.
+C: GIRL
+D: The gym is through there, and the cafeteria is through there.
+C: DADE
+D: Great. Cool. What's your name?
+E: pause
+C: GIRL
+D: Kate. Kate Libby. They arrive at a classroom.
+C: KATE
+D: Here's your class.
+C: DADE
+D: My... class. You mean I'm not in your class?
+C: KATE
+D: No, you're not in my class. Kate starts away.
+C: DADE
+D: Give me time! A guy in the halls notices Dade.
+C: GUY
+D: Hey, you new?
+C: DADE
+D: Yeah.
+C: GUY
+D: Tell him about the pool, Kate.
+C: DADE
+D: Pool?
+C: KATE
+D: Yeah, there's an Olympic size swimming pool up on the roof. Take the stairs over there.
+C: DADE
+D: Yeah! Sure. Kate starts away again.
+C: DADE
+D: Thanks! EXT. SCHOOL ROOFTOP. Dade enters, and lets the door slam behind him. Across the roof, a dozen or so geeky looking kids are looking over the edge, apparently trying to get someone's attention. One of them notices Dade.
+C: GEEK
+D: Hey! Hold the door! He's too late. The geeks look pretty angry. There is no pool. Dade No pool. Dade tries the door but it's locked. He hammers it with his palm, furious. Above, thunder roars and it begins raining. INT. SCHOOL CORRIDOR. Dade is soaking wet, and trudges among his classmates leaving a muddy trail. A three-second video clip rolls through his mind: it is a screaming woman being strangled in an old movie. He walks past Kate, who giggles.
+E: realizing he's been had
+C: KATE
+D: Oh my God! He found the pool. INT. SCHOOL COMPUTER LAB. The kids are all seated at computer workstations. Dade is hacking, the latino kid who was on the phone to Venezuela is running a demo involving dirty-dancing skeletons.
+C: TEACHER
+D: I'm Mr. Simpson. And I'm subbing for Ms. Bayliss who was arrested at the anti-fur rally. I know some of you kids got computers at home. But these are school property, people, and I don't want to see any gum stuck to 'em. Chapter 1. Designing graphical interface... Meanwhile, the latino kid notices that Dade has been looking up Kate Libby's school records. And hacking himself into her advanced English class. EXT. SCHOOL QUAD. It's after school, kids are heading home, Dade too. The latino kid notices Dade and catches up with him.
+C: KID
+D: So, um, what's your interest in Kate Libby, eh? Academic? Purely sexual?
+C: DADE
+D: Homicidal?
+C: KID
+D: What's up, man? I'm the Phreak! The name rings no bells with Dade.
+C: PHREAK
+D: The Phantom Phreak? The king of Nynex? I know you play the game. Another kid, younger and a little geeky looking, runs up to Dade and The Phantom Phreak.
+C: JOEY
+D: Phreakphreakphreakphreakphreak, dudedudedudedudedudedude... I gotta...
+C: PHREAK
+D: Joey, Joey...
+E: slaps Joey
+C: JOEY
+D: What? whatwhatwhat?
+C: PHREAK
+D: One more "dude" out of you and I'm gonna slap the shit outa you, okay? Now I'm trying to save you from yourself but you gotta stop letting your mama dress you, man! : Check it... Phreak starts to hand Dade a flyer.
+E: To Dade
+C: JOEY
+D: I need a handle, man. I don't have an identity until I have a handle.
+E: interrupting
+C: PHREAK
+D: You know, you're right about that. Check it, Friday. Phreak hands Dade a flyer for Cyberdelia.
+E: to Dade
+C: JOEY
+D: Alright. How about the Master of Disaster, huh?
+C: PHREAK
+D: You're hopeless, man, utterly hopeless. Phreak walks away.
+C: JOEY
+D: Ultra Laser. Doctor Doom! EXT. NEW YORK CITY STREET VILLAGE. NIGHT. Dade rolls in on rollerblades. Street vendors hawk computer parts and bootleg software. A bootleg music vendor catches Dade's attention.
+E: desperate
+C: CEREAL
+D: Check this out, each and every one of you. Compilation tape, of my own making. I call this the "Greatest Zooks Album". Featuring artists like, well I got some Hendrix on there, some Joplin, Mama Cass, Belushi... all great artists that asphyxiated on their own vomit! The small crowd around him finally gets the joke.
+C: CEREAL
+D: Can't get this in stores, man, I made it! Dade wheels into Cyberdelia, which just happens to be equipped with a ramp down to its main floor for the benefit of skaters. The place pounds with loud, bassy techno music and coloured light. Video monitors with psychedelic patterns complete the atmopshere. There is a video game with a huge screen. Phreak is at a pay phone.
+C: OPERATOR
+D: Please deposit five dollars for the first minute. Phreak holds a small box up to the receiver, presses a button, and the box emits a series of tones.
+E: on phone
+C: OPERATOR
+D: Thank you.
+C: PHREAK
+D: Nonono, thank YOU! Dade checks out the scene. Kate is playing the big video game. Dade skates up to her. She loses her last man. She's got the high score, in fact her name dominates the top-10 list.
+C: DADE
+D: That's a nice score for a girl.
+C: KATE
+D: Think you can do better?
+E: irritated by Dade's presence
+C: DADE
+D: I'll give it a shot. Kate yields the controls to Dade, who begins playing. Kate's boyfriend looks on from a mezzanine several feet above.
+C: CURTIS
+D: Is this kid bothering you, Kate?
+C: DADE
+D: Sorry, can I get some room here?
+C: CURTIS
+D: Yeah. Why don't you come up here? Kate obliges and joins Curtis. Dade continues playing. He plays brilliantly. The game is a flashy 3-D high-speed chase game with lots of surprises. Dade loses, but his high score is about to come up.
+E: to Kate
+C: CURTIS
+D: He's good! Dade's score comes up. He's in the #1 position. Phreak is amazed.
+C: DADE
+D: Well, it looks like I'm on top. Kate, defeated, leaves. Curtis follows.
+E: to Kate
+C: PHREAK
+D: Congratulations. No one's ever beat her before. You just made an enemy for life. Boy meets world. Let's go? EXT. OUTSIDE CYBERDELIA. NIGHT. Kate and Curtis are sucking face, oblivious to the busy world around them. Dade and Phreak watch, more than a little disgusted.
+E: to someone else
+C: DADE
+D: Who's that?
+C: PHREAK
+D: Curtis.
+C: DADE
+D: And what's he do?
+C: PHREAK
+D: That's it, you're looking at it, he just looks slick all day. Kate and Curtis start to take off on Curtis' motorcycle. Kate and Dade make eye contact briefly. The motorcycle speeds off into the night. INT. DADE'S ROOM. The clock says it's 4:16. As the camera pans up to Dade, it changes to 4:17. Dade is hacking again. It's the school's administration system. Dade schedules a test of the school sprinkler system for 9:30am. INT. HIGH SCHOOL CORRIDIR. Dade stands alone in the hall, watching the time closely. Phreak rounds a corner and meets Dade.
+C: PHREAK
+D: What's up? Dade doesn't answer. He watches the time a couple of more seconds, then opens an umbrella. Immediately the fire sprinklers turn on. Phreak starts getting drenched. He realizes what is happening.
+C: PHREAK
+D: Oh my God. You... A bell rings and students pour out into the halls by the hundreds. They're all being showered on. A tall cheerleader bounces by Phreak, pushing her pom-pom in his face.
+E: amused and highly impressed
+C: PHREAK
+D: Way cool! You saw that? Dade nods in the affirmative. Kate walks up to Dade, also understanding what has happened.
+E: to Dade
+C: KATE
+D: What the hell is going on?
+C: DADE
+D: Pool on the roof must have a leak. Kate gives Dade a look that could kill and skulks away. Dade walks away under his umbrella, smug and dry.
+C: PHREAK
+D: Man, oh man, this is gonna be good. INT. HIGH SCHOOL CLASSROOM. Dade, Kate, and a couple of other students are writing on the chalkboard. Kate finishes first.
+C: KATE
+D: If God gave men brains bigger than dogs', they wouldn't hump womens' legs at cocktail parties. The class giggles.
+C: KATE
+D: Ruth Libby.
+C: TEACHER
+D: I'm not so sure your mother qualifies as a significant author of the twentieth century.
+C: KATE
+D: Her last book sold two million copies.
+C: CLASS
+D: Woooooo! The teacher reads Dade's quotation.
+E: almost in unison
+C: TEACHER
+D: "Angel-headed hipsters burning for the ancient heavenly connection to the starry dynamo in the machinery of the night."
+C: DADE
+D: That's Ginsburg.
+C: TEACHER
+D: Nice. Very nice.
+C: KATE
+D: He's not in this class.
+C: DADE
+D: I said give me time.
+C: KATE
+D: He's not enrolled in this class.
+C: TEACHER
+D: Well, he's on my list. Kate leaps across a desk and snatches the list from the teacher. Dade is on it. She gives Dade another filthy look, both Dade and the teacher just shrug. The teacher moves on to Cereal.
+C: TEACHER
+D: "Of all the things I've lost, I miss my mind the most?"
+C: CEREAL
+D: Ozzy Osbourne!
+C: TEACHER
+D: You. What is your name? The teacher grabs the list back from Kate.
+C: CEREAL
+D: Uh, Emmanuel Goldstein, sir?
+C: TEACHER
+D: You, however, are not on my list.
+C: CEREAL
+D: Whoa, this isn't wood shop class? The class cracks up. Kate and Dade exchange looks as the teacher escorts Cereal to the door. INT. DADE'S PLACE.
+E: in mock shock
+C: MRS. MURPHY
+D: How was school?
+C: DADE
+D: Hmmm.
+E: eating
+C: MRS. MURPHY
+D: What did we learn in school today?
+C: DADE
+D: Revenge.
+C: MRS. MURPHY
+D: Aaaah. Did we meet someone special?
+C: DADE
+D: No. No one special.
+C: MRS. MURPHY
+D: Okay, I gotta get back to work. I'm gonna be home late. And would you try and please fill these out? She indicates a pile of college applications.
+C: MRS. MURPHY
+D: Oh don't worry, it's only the rest of your life. She starts to the door.
+C: DADE
+D: Right. Anything else, you want me to mow the lawn? Oops, forgot. New York. No grass.
+C: MRS. MURPHY
+D: And unpack. She leaves. Dade looks over the college applications for a second, and pushes them away. He'd rather not do this now. INT. CYBERDELIA. Dade, Phreak and Joey are sitting at a table. Joey is giving a dull account of his hacking adventures. Enter Cereal.
+C: CEREAL
+D: FYI, alright man, you can sit at home, and do like absolutely nothing and... Cereal pauses, notices Dade, whom he has never met formally but seen around, and then continues.
+C: CEREAL
+D: ...and your name goes through like seventeen computers a day. 1984, yeah right man, that's a typo. Orwell's here and now, he's living large. We have no names, man, no names. We are nameless. Can I score a fry? Thanks.
+C: PHREAK
+D: Meet Cereal Killer. As in Froot Loops? But he does know things. Dade and Cereal acknowledge each other.
+C: JOEY
+D: Anyways, guys, guys, listen, listen to me. I'm in this computer right? So I'm looking around...
+C: PHREAK
+D: D'you bring those Crayola books?
+E: to Cereal
+C: CEREAL
+D: Oh yeah, technicolor rainbow. Cereal brings a book out of his bag.
+C: CEREAL
+D: Green one.
+C: JOEY
+D: What is that, what is that? Lemmie see. What are these?
+C: DADE
+D: International Unix Environments. Cereal pulls out another book.
+C: CEREAL
+D: Luscious orange? Cereal hands the orange book to Phreak.
+C: DADE
+D: Computer security criteria, DOD standards. Another book comes out.
+C: DADE
+D: The Pink Shirt Book, Guide to IBM PCs. So called due to the nasty pink shirt the guy wears on the cover. Another one.
+C: CEREAL
+D: What's that?
+C: DADE
+D: Devil book. The Unix Bible. Another one.
+C: CEREAL
+D: What's that?
+C: DADE
+D: Dragon book. Compiler design. Cereal brings out a large red book.
+C: CEREAL
+D: Oh yeah? What's that?
+C: DADE
+D: The Red Book. NSA Trusted Networks. Otherwise known as the Ugly Red Book that won't fit on a shelf. By now Phreak has made a pile of the books, and the Red Book looks wholly out of place on the top of the pile.
+C: JOEY
+D: Anyway, anyway, guys guys guys, come on. I'm in this computer, right. So I'm looking around, looking around, you know, throwing commands at it, I don't know where it is or what it does or anything. It's like, it's like choice, it's just beautiful, okay. Like four hours I'm just messing around in there. Finally I figure out, that it's a bank. Right, okay wait, okay, so it's a bank. So, this morning, I look in the paper, some cash machine in like Bumsville Idaho, spits out seven hundred dollars into the middle of the street.
+C: CEREAL
+D: That's kinda cool.
+C: JOEY
+D: That was me. That was me. I did that.
+C: DADE
+D: You did this from your house. Joey takes a drag from his cigarette and just nods, with a big grin on his face.
+C: PHREAK
+D: What are you, stoned or stupid? You don't hack a bank across state lines from your house, you'll get nailed by the FBI. Where are your brains, in your ass? Don't you know anything?
+C: CEREAL
+D: Stupid, man. It's universally stupid.
+C: JOEY
+D: You guys always think I should know everything, and you never tell me anything. Am I right?
+C: PHREAK
+D: Alright, what are the three most commonly used passwords?
+C: JOEY
+D: Love, secret, and uh, sex. But not in that order, necessarily, right?
+C: CEREAL
+D: Yeah but don't forget God. System operators love to use God. It's that whole male ego thing.
+C: PHREAK
+D: Look, you wanna be elite? You gotta do a righteous hack. None of this accidental shit.
+C: CEREAL
+D: Oh yeah, you want a seriously righteous hack, you score one of those Gibsons man. You know, supercomputers they use to like, do physics, and look for oil and stuff?
+C: PHREAK
+D: Ain't no way, man, security's too tight. The big iron?
+C: DADE
+D: Maybe. But, if I were gonna hack some heavy metal, I'd, uh, work my way back through some low security, and try the back door.
+C: CEREAL
+D: Yeah but oh man, wouldn't you just love to get one of those Gibsons, baby? Ooooh!
+E: starts rubbing one of his own nipples in mock sexual excitement
+C: PHREAK
+D: Yo, who ate all of my fries? Cereal pauses a second.
+C: CEREAL
+D: Joey?!
+E: pretending to be enraged
+C: JOEY
+D: What, no, nonononono, I didn't touch your fries. I did not touch your fries.
+C: PHREAK
+D: Cereal, man, you owe me a pack.
+C: CEREAL
+D: It was him, man!
+C: PHREAK
+D: You're psyched. You need to lay off of that shit.
+C: CEREAL
+D: I'm gonna hit you! INT. JOEY'S ROOM. NIGHT. Joey is hacking. A Gibson. He gets in. Using GOD as a password. Nice graphics represent the machine's vast systems.
+E: to Joey
+C: JOEY
+D: YES! Home run, home run. You and me Lucy. We're gonna show em baby. INT. COMPUTER ROOM, ELLINGSON MINERAL. A system operator at Ellingson Mineral Corporation, a large oil company, notices the intrusion. He gets on the phone. INT. PLAGUE'S LOFT. The place is a mess, typical of the hacker bachelor pad. Empty chinese food boxes and Jolt Cola cans litter the place. Plague's phone is ringing, waking him.
+C: HAL
+D: Mr. Belford?
+E: on phone
+C: PLAGUE
+D: My name is the Plague.
+E: sleepily
+C: HAL
+D: Uh, Mr. The Plague, uh, something weird's happening on the net.
+C: PLAGUE
+D: As in what, you hapless techno- weenie?
+C: HAL
+D: Uh, the accounting subdirectory in the Gibson is working really hard. We got one person online, the workload is enough for like ten users. I think we've got a hacker. INT. JOEY'S ROOM.
+C: JOEY
+D: Okay, okay, we need proof that we were here. Right, uh... Joey starts looking for something to download as proof he was there.
+C: JOEY
+D: Yeah, Garbage, okay, give me Garbage. He selects a Garbage file and starts the download. His screen becomes a psychedelic mind trip. INT. COMPUTER ROOM, ELLINGSON MINERAL. The Plague glides in on a skateboard. Short and thin, bearded, about 35 but still trying to be a teenage anarchist, yet not consciously realizing he sold out that ideal years ago.
+C: PLAGUE
+D: Never fear. I is here.
+C: HAL
+D: I've narrowed the activity to terminal 23.
+C: PLAGUE
+D: Let's echo 23, see what's up. The huge monitor lights up with the display of the Gibson's resources. Hal and the Plague watch. Plague starts "surfing" around.
+C: PLAGUE
+D: "God" wouldn't be up this late. He sees what Joey is downloading. A file called "Garbage".
+C: PLAGUE
+D: Shit! Get me the switching control center. He puts on a telephone headset. Hal dials for him.
+C: PLAGUE
+D: I need to trace a call that's in progress. INT. JOEY'S ROOM. Joey is sneaking a cigarette while his computer downloads. There is a knock at the door. It's his mother.
+E: into the headset
+C: JOEY
+D: Shit! Uh yeah... hold on, mom. Hold on one second. He puts out the cigarette and sprays the room with air freshener.
+E: whispering loudly, panicked
+C: JOEY'S MOM
+D: I mean it! Open the door, Joseph.
+C: JOEY
+D: Yeah, uh, yeah, okay. He unlocks the door. Joey's mom bursts in. He's still clambering into bed.
+C: JOEY
+D: There you go.
+C: JOEY'S MOM
+D: Bed. Sleep. Now! She turns off the computer. It wasn't finished downloading.
+C: JOEY'S MOM
+D: Sweet dreams, Joey. INT. COMPUTER ROOM, ELLINGSON MINERAL.
+C: HAL
+D: He's gone!
+C: PLAGUE
+D: Did you get a trace?
+C: OPERATOR
+D: Yeah, we got him.
+E: on phone
+C: PLAGUE
+D: Good. INT. JOEY'S ROOM. DARK. Joey takes a disk out of his computer and stashes it in an air vent in the cieling. INT. TENEMENT HALLWAY. Phreak, Dade and Cereal are rollerblading through the halls of an apartment building that is filled with graffiti. It appears that most of the spray-bomb art was created by the residents.
+E: smiling
+C: CEREAL
+D: Nice place, huh. Cereal knocks on a door spray-painted "Hackstock"
+C: DADE
+D: You heard of a hacker called Acid Burn? You know who he is?
+C: PHREAK
+D: No, don't know who he is. Do you? Cereal shrugs. A hooded black man in his early twenties answers the door.
+E: surprised to Cereal
+C: PHREAK
+D: Nikon! Lord Nikon this is... Phreak motions to Dade.
+C: DADE
+D: Crash Override.
+E: finishing
+C: NIKON
+D: Never heard of you. Done anything?
+C: DADE
+D: No. Nikon slams the door.
+C: PHREAK
+D: Come on! Phreak knocks the door again. Nikon opens again.
+C: NIKON
+D: What, your mom buy you a 'Puter for Christmas? Does he know anything?
+E: to Phreak
+C: PHREAK
+D: Sure man, he's elite.
+C: NIKON
+D: Come in.
+E: pausing, checking Dade out
+C: CEREAL
+D: Uh... Nikon, can I... can I crash at your place tonight?
+C: NIKON
+D: Again? Yeah sure. Nikon and Cereal do a fake Kung-fu move together.
+E: removing his hood pauses, then grins broadly
+C: BOTH
+D: Ooka-pow! INT. NIKON'S PLACE. Later, the four are watching TV. On TV is a secret service agent giving a news interview.
+C: GILL
+D: Hackers penetrate and ravage delicate public and privately owned computer systems, infecting them with viruses, and stealing materials for their own ends. These people, they are terrorists.
+E: on TV
+C: CEREAL
+D: Agent Richard Gill, You're hacker enemy number one, man. You're a boner!
+C: NIKON
+D: Yo, showtime, showtime!
+C: DADE
+D: What's going on?
+C: ALL BUT DADE
+D: 4...3...2...1... Cheesy music plays. Razor and Blade, androgynous asian brothers, have a community access TV show. "Wayne's World" in eye liner.
+E: in unison
+C: RAZOR
+D: Welcome to our show!
+C: BLADE
+D: Hack the Planet!
+C: ALL BUT DADE
+D: Hack the Planet!
+C: RAZOR
+D: For those late night hacks...
+C: BLADE
+D: Jolt Cola! The soft drink of the elite hacker.
+C: DADE
+D: Who are these guys?
+C: NIKON
+D: That's Razor and Blade.
+C: DADE
+D: Razor and Blade. Now Razor and Blade have a disconnected payphone in their studio.
+C: RAZOR
+D: That's right, this IS a payphone.
+C: RAZOR AND BLADE
+D: Don't ask.
+E: in unison
+C: BLADE
+D: As you can see, this is just a simple microcassette recorder. Hook it up to the phone and drop in five bucks in quarters.
+E: shows the microcassette recorder
+C: RAZOR
+D: Record the tones that the coins make. And hang up and get your money back!
+C: BLADE
+D: And never again have to pay for a service that would be dirt cheap...
+C: RAZOR
+D: ...IF it weren't run by a bunch of profiteering gluttons!
+C: BLADE
+D: Remember, hacking is more than just a crime. It's a survival trait! INT. JOEY'S PLACE. Joey is taking a shower, wearing walkman headphones, singing along with the music. Joey finishes, turns off the shower, still singing. He draws open the shower curtain to find two secret service agents with shotguns pointed at him.
+C: SS AGENT FREEZE! JOEY
+D: What? What? What did I do? What? The agents drag Joey, still naked and wet, out of the shower and into the living room. His mother is hysterical..
+C: JOEY'S MOM
+D: Joey!
+C: AGENT
+D: Get in there! Sit down!
+C: ANOTHER AGENT
+D: Stay down there. Don't move. Joey is pushed into a sofa. He sees his computer, "Lucy", being carried away.
+C: JOEY
+D: Lucy! Joey dives onto the agent carrying Lucy away, losing his towel. His mother, seeing his exposed buttocks, is shocked.
+C: JOEY'S MOM JOEY!!!
+D: EXT. OUTSIDE JOEY'S PLACE. A police-type vehicle pulls up. It's Agent Richard Gill of the Secret Service. He stops a young agent for an update.
+C: GILL
+D: How's it going, Ray?
+C: AGENT RAY
+D: It looks good, sir. We've got an uncorrupted hard drive.
+C: GILL
+D: In English, please. I didn't spend ten years protecting the president so I could finish my career feeling like an idiot.
+C: AGENT RAY
+D: I'm sorry, sir. We caught him by surprise, so we don't think he had time to erase his computer files.
+C: GILL
+D: Good. Good man. Alright, let's finish up here, and take him in for interrogation.
+C: AGENT RAY
+D: Alright sir. They split up. A reporter and her sound man run up to Gill.
+C: REPORTER
+D: Agent Gill, can you spare a moment of your time?
+C: GILL
+D: Why of course, Jennifer. While Jennifer conducts the interview, agents lead Joey into an unmarked car. His mother is behind him, still hysterical.
+C: JOEY'S MOM
+D: Joey!
+C: JOEY
+D: Mom...
+C: JENNIFER
+D: Just how dangerous are hackers?
+C: GILL
+D: Well, hackers penetrate and ravage delicate public and privately owned computer systems, infecting them with viruses...
+C: JOEY'S MOM
+D: Joey!
+C: GILL
+D: ...and stealing sensitive materials for their own ends. These people, they're terrorists...
+C: JOEY'S MOM
+D: Joey! INT. ELLINGSON MINERAL CORPORATION. A tall, impressive building. A cavernous atrium filled with busy people. INT. ELLINGSON BOARDROOM. A handsome looking woman in her late thirties walks in.
+C: MARGO
+D: Good morning, Gentlemen. Please be seated. I see we're still dressing in the dark, Eugene.
+C: PLAGUE
+D: Once again, don't call me Eugene. A recent unknown intruder penetrated, using a superuser acount, giving him access to our whole system.
+E: to Margo to the board
+C: MARGO
+D: Precisely what you're paid to prevent.
+C: PLAGUE
+D: Someone didn't bother reading my carefully prepared memo on commonly used passwords. Now, as I so meticulously pointed out, the for most used passwords are love, sex, secret and... ...God. So would your holiness care to change her password? Margo just blinks prettily.
+E: gesturing lewdly eyeing Margo
+C: PLAGUE
+D: A hacker planted the virus.
+C: MARGO
+D: Virus?
+C: PLAGUE
+D: Yesterday, the ballast program for a supertanker training model mistakenly thought the vessel was empty, and flooded its tanks.
+C: MARGO
+D: Excuse me?
+C: PLAGUE
+D: The little boat flipped over. A virus planted in the Gibson computer system claimed responsibility.
+E: as if to a child
+C: MARGO
+D: What, it left a note? Plague hits a button on a remote control, and the virus - a long haired male model - appears on a large screen, in psychedelic colors. The virus speaks in a hammy Italian accent.
+C: VIRUS
+D: Unless five million dollars are transferred to the following numbered account in seven days, I will capsize five tankers in the Ellingson fleet.
+C: BOARD MEMBER
+D: Is that...
+C: PLAGUE
+D: That is the virus. Leonardo da Vinci. The problem is we have twenty six ships at sea and we don't know which ones are infected.
+E: interrupting
+C: DUKE ELLINGSON
+D: Well then, put the ships' ballasts under manual control.
+C: PLAGUE
+D: There's no such thing anymore, Duke. These ships are totally computerized. They rely on satellite navigation, which links them to our network, and the virus, wherever they are in the world.
+C: MARGO
+D: So what are we supposed to do?
+C: PLAGUE
+D: Well luckily, you have a gifted and talented security officer. I traced the hacker's call. The secret service picked him up this morning. I'll just search his files for the original virus code, and then I can eliminate it. INT. ELLINGSON MINERAL ATRIUM. Plague, Margo and two suits from the boardroom are riding down an escalator. SUIT #1 Now look, now we expect you to get onto this right away, yeah?
+C: PLAGUE
+D: Yeah! SUIT #1 Well, how soon?
+C: PLAGUE
+D: Well, we're working on it as fast as we can. This is a very common occurrence in corporations as large as ours. You have nothing to worry about. SUIT #2 Yeah, right. SUIT #1 Now, you're sure about that, Mr. The Plague?
+C: PLAGUE
+D: Yeah, the Secret Service is helping us out 100 percent. Okay? SUIT #2 Yeah. SUIT #1 Okay.
+C: PLAGUE
+D: We'll be in touch. Talk to you later. The suits get off the escalator, Plague and Margo take the next one down.
+C: MARGO
+D: What the hell was that all about?
+C: PLAGUE
+D: I had to move fast. The hacker copied my garbage file.
+C: MARGO
+D: What?
+C: PLAGUE
+D: I created Mister da Vinci so we could call in the Secret Service. So they'd arrest the hacker, sieze his equipment, things that we can't do on our own.
+C: MARGO
+D: I don't want to go to jail for this.
+C: PLAGUE
+D: Relax. Think about the 25 million dollars.
+C: MARGO
+D: But you've created a virus that's going to cause a worldwide ecological disaster, just to arrest some hacker kid?
+C: PLAGUE
+D: Basically, uhmm, yeah. Mmm hmmm.
+C: MARGO
+D: Jesus. You know, you're sick, Eugene. You...
+C: PLAGUE
+D: Sh, sh sh sh sh. Plague stops a passing secretary and snatches a piece of paper from her hand.
+C: PLAGUE
+D: I'll take care of this.
+C: SECRETARY
+D: Alright, sir.
+C: PLAGUE
+D: I can cancel it any time. I don't need any program code. But it's the perfect cover, to confiscate the disc and find out how much of that garbage file has been copied.
+C: MARGO
+D: Get it! Why did I ever trust you? Get the file. Otherwise you'll lose all your toys. INT. SECRET SERVICE INTERROGATION ROOM. Joey is distraught over the dismantling of Lucy. Agent Ray examines the Mac's innards.
+E: walking away going back up the escalator
+C: GILL
+D: Did you find the program for the virus on any of the discs we confiscated?
+C: PLAGUE
+D: No. He's either very smart or very stupid.
+C: GILL
+D: Then he stashed it somewhere, or he has an accomplice. We'll release him until his indictment, keep tight surveillance, and see if he leads us to your disc. EXT. OUTSIDE JOEY'S PLACE. Joey's apartment building is an L-shaped skyscraper about 30 storeys high, unimpressive by New York City standards. Two Secret Service agents are staking Joey out in a car outside.
+C: SECRET SERVICE AGENT BOB
+D: Unit 3 outside suspect Joey Pardella's apartment. Nothing to report. Suspect still grounded... by his mother. His radio crackles.
+C: AGENT BOB
+D: Listen to this bullshit. "This is our world now. The world of the electron and the switch, the beauty of the baud. We exist without nationality, skin color, or religious bias. You wage wars, murder, cheat, lie to us and try to make us believe it's for our own good, yet we're the criminals. Yes, I am a criminal. My crime is that of curiosity. I am a hacker and this is my manifesto." Huh, right, manifesto? "You may stop me, but you can't stop us all."
+E: he reads
+C: AGENT RAY
+D: Now that's cool.
+C: AGENT BOB
+D: Cool?
+C: AGENT RAY
+D: Yeah, cool.
+C: AGENT BOB
+D: You think it's cool?
+C: AGENT RAY
+D: It's cool!
+E: not caring for where Bob is going with this
+C: AGENT BOB
+D: It's not cool. It's commie bullshit! INT. HIGH SCHOOL BOYS' ROOM. Dade, Cereal and Phreak check their faces. Cereal brushes his teeth.
+C: CEREAL
+D: So what do you think, can I crash at your place tonight?
+E: to Phreak
+C: DADE
+D: What is it with this guy?
+C: PHREAK
+D: His parents missed Woodstock and he's been making up for it since. Hey, you hear about Joey's bust?
+C: CEREAL
+D: Yeah. Probably had something to do with that bank in Idaho.
+C: PHREAK
+D: Do you think he could hack a Gibson?
+C: DADE
+D: Did you talk to him?
+C: PHREAK
+D: Nope. His mom said he's grounded for his next three lifetimes. He isn't to consort with his computer friends. The secret service is really out to get him. Hey there's a big party tonight, you wanna go? Dade shakes his head.
+E: imitating her himself again changes the subject
+C: PHREAK
+D: It's at Kate's... Dade just smiles.
+C: PHREAK
+D: Thought so! Cereal and Phreak leave, Cereal dancing. INT. PLAGUE'S OFFICE. Plague is wearing a VR helmet and gloves, playing some sort of action game. He is unaware that Gill has just entered the room.
+C: GILL
+D: What the hell are you doing? Plague! He thumps the VR pedestal.
+C: GILL PLAGUE!
+D: Plague finally notices, and takes off the helmet.
+C: PLAGUE
+D: Gill.
+C: GILL
+D: I think we've got something. Gill hands Plague a folder. It has the logo of Stanton High.
+C: PLAGUE
+D: Uuugh, hard copy. Plague looks it over and recognizes a name.
+C: PLAGUE
+D: Dade Murphy. INT. DADE'S PLACE. It's after school. Dade's just unlocking the front door, only to find a Secret Service agent behind it. And one behind him in the hallway. Both point pistols at him.
+C: AGENT RAY
+D: Secret Service!
+C: AGENT BOB
+D: Don't move! They slam Dade against a wall and start frisking him.
+C: DADE
+D: Christ! What is the...
+C: AGENT BOB
+D: Shut up!
+C: DADE
+D: What are you doing, man? Get off me! They lead him into his room and throw him down on the bed. Plague is there.
+C: AGENT BOB
+D: Just sit in the bed and keep your hands where we can see them.
+C: PLAGUE
+D: The year was 1988. And this nasty virus crashed fifteen hundred systems in one day. Dade has a flashback.
+C: DADE
+D: Fifteen hundred and seven.
+C: AGENT RAY
+D: Wow, huh!
+E: astounded
+C: GILL
+D: It got you seven years probation. No computer, couldn't even use a touch tone phone.
+C: PLAGUE
+D: Must have been hell, huh? Zero Cool? A virus has been planted in the Ellingson Mineral computer system. You were our prime suspect, till we trashed your stuff and found no trace of it.
+E: getting to the point
+C: GILL
+D: However, we have come to believe that one Joey Pardella is involved in this Ellingson virus. He or perhaps his accomplice has a disk that Mr. Belford needs to disable that virus. We want you to help us find it.
+C: PLAGUE
+D: Gill. The three secret service agents leave Plague and Dade alone. Plague shuts the door behind them.
+C: PLAGUE
+D: Loser. I can't believe you were only eleven when you wrote this. It's quite an impressive virus. Dade, I know how you might feel about narking on your friends, but, we're hackers. For us, there's no such thing as family and friends. We're each our own country, with temporary allies and enemies. I'd like to make a treaty with you.
+E: of Gill continues
+C: DADE
+D: I'm sorry. Who are you?
+C: PLAGUE
+D: I'm the one who understands you. Now, can we be allies?
+C: DADE
+D: Nah. I don't play well with others. Plague is holding Dade's baseball bat. He shrugs, turns around, and smashes Dade's stereo to smithereens.
+C: DADE
+D: Shit! Come on!
+C: PLAGUE
+D: Watch which friends you do play with. A record like yours could land you in jail, get you kicked out of school, no colleges would take you. No future. Exiled from everyone and everything you love. Plague replaces the baseball bat.
+C: PLAGUE
+D: I'll be in touch. Plague leaves.
+C: PLAGUE
+D: I'm fine. Oh, and Dade, try to stay out of trouble, okay?
+E: to agents to Dade
+C: DADE
+D: Blow me.
+C: PLAGUE
+D: Thank you! INT. DADE'S ROOM. LATER. Dade is lying in bed. A door opens. It's Kate. She opens her motorcycle jacket, revealing her bare breasts. Dade starts to get up, she pushes him back own on the bed and starts kissing him passionately. He responds in kind. Then, Gill, Agent Ray and Agent Bob burst into the room, handcuff him, break the two up and haul them away as Plague looks on smugly. Then Dade wakes up in a sweat. It was only a dream. He regains his composure. The sound of New York City at night surrounds him. He goes back to sleep. INT. KATE'S PLACE. The party. A large, well-furnished apartment in an elegant old skyscraper in the fashionable part of town. Teenagers dance and writhe to loud, bassy music. Dade and Phreak arrive.
+E: smiles
+C: PHREAK
+D: Her mom makes big bucks writing self-help books for women. Stuff like "Women Who Love Men Who Are Emotional Amoebae" Phreak shows Dade the book.
+C: DADE
+D: That explains a lot. Kate, the lovely and gracious hostess, mingles and greets her many guests, not noticing Dade or Phreak. Cereal offers Dade a drink from a plastic bottle. Dade, not knowing what he's in for, drinks. Nikon is the Deejay.
+C: PHREAK
+D: Yo, what's up Nikon!
+E: loudly
+C: NIKON
+D: Yo Phreak! Dade, man, you made it. Houston, we have liftoff, 3 o'clock, check it... don't look right away, what's wrong with you! Look at her man... Nikon and Cereal are checking out a truly fine babe.
+E: to Cereal
+C: NIKON
+D: Look out, man. Lisa Blair, 26 East 7th St., apartment 16, 555-4817,
+E: concentrating
+C: BOOM! DADE
+D: How did you know that?
+C: NIKON
+D: I got photographic memory. It's a curse! Lisa!
+E: Smiling Into the crowd
+C: LISA
+D: Hey, how do you know my name? Cereal and Phreak move through the crowd. Cereal notices something.
+C: CEREAL
+D: Oooo, look at that pooper man. Spandex, it's a privilege, not a right! INT. MEETING HALL. A 12-step recovery group. Addicts, including Joey Pardella, sit in a semi-circle.
+C: VICKIE
+D: Hi, my name is Vickie, and I'm an addict.
+C: HANK
+D: Hi, my name is Hank, and uh, I'm an addict.
+C: JOEY
+D: Uh, my name's Joey but, uh, I'm not an addict. Joey takes a drag. The group reacts indignantly.
+E: smoking
+C: JOEY
+D: Nono, really, really, listen, listen to this. I got in trouble with my computer, right, okay, and my lawyer told the judge that I'm an addict, but I'm not addicted to my computer! No really, really, Joey takes another drag.
+C: JOEY
+D: I'm not an addict. I'm not, I'm not. Joey downs his coffee.
+C: JOEY
+D: Can I get some more coffee? INT. KATE'S BEDROOM. Phreak is checking out Kate's computer.
+C: PHREAK
+D: Yo. Check this out guys, this is insanely great, it's got a 28.8 BPS modem!
+C: DADE
+D: Yeah? Display?
+C: CEREAL
+D: Active matrix, man. A million psychedelic colors. Man, baby, sweet, ooo!
+C: NIKON
+D: I want it.
+C: PHREAK
+D: I want it to have my children!
+C: CEREAL
+D: Yeah, I bet it looks crispy in the dark.
+C: PHREAK
+D: Yo, hit the lights. Dade hits the lights. The four ooo and ahh at its graphics. Kate and Curtis walk into the room and hit the bed, unaware of the hackers in the corner by her laptop.
+C: DADE
+D: Shit!
+E: whispering
+C: CEREAL
+D: Shh!
+C: DADE
+D: Was that her top?
+C: PHREAK
+D: One-handed!
+C: CEREAL
+D: Difficulty rating?
+C: NIKON
+D: Seven. Wow! Burn's wetware matches her software!
+C: DADE
+D: Burn! Their cover is blown.
+E: loudly
+C: NIKON
+D: What the f... Cereal hides under the desk.
+C: KATE
+D: Hey! What are you guys doing in here?
+C: PHREAK
+D: I'm sorry, we're sorry, just checking out your fly laptop!
+C: NIKON
+D: Yeah, it's hyped, you know... you're in the butter zone now, baby.
+C: PHREAK
+D: Uh-huh!
+E: smiling
+C: KATE
+D: Yeah, it is... I wanna triple the RAM...
+E: her tone changing she comes over to it
+C: CURTIS
+D: Oooh, Leopard Boy... AND the Decepticons. Uh, Kate, Kate, you're not going into that computer shit now, right? Kate barely acknowledges him.
+C: CURTIS
+D: Humm, yeah. Curtis leaves.
+E: cynically
+C: CEREAL
+D: Right.
+E: mockingly
+C: DADE
+D: The sensitive type. Kate finally notices that Dade, whom she didn't invite, is at her party and in her bedroom.
+C: KATE
+D: What is he doing in here?
+C: PHREAK
+D: Relax, Burn, he's my guest.
+C: DADE
+D: Burn. You're Acid Burn. You booted me out of OTV!
+C: KATE
+D: What?
+C: DADE
+D: I'm Crash Override.
+C: KATE
+D: You're the moron that's been invading my turf?
+C: CEREAL
+D: Whoa, whowhowhowhoa. Crash... and Burn! Cereal breaks into hysterics. INT. PLAGUE'S LOFT. Plague is hacking.
+E: motioning to Dade motioning to Kate
+C: MARGO
+D: Murphy kid turn you down?
+C: PLAGUE
+D: I disguised myself as an Alabama State Trooper and penetrated the
+E: in a hammy southern accent
+C: FBI NCIC. MARGO
+D: Pervert! What are you talking about? She turns her back to him. He does up the zipper on her dress. Their relationship becomes apparent.
+C: PLAGUE
+D: The FBI computer holds files on twenty million Americans. I just hacked into it.
+C: MARGO
+D: Congratulations.
+C: PLAGUE
+D: From here I got access to every piece of data ever stored on Dade Murphy's parents. His parents separated five years ago, reconciled two years later, filed for divorce last year, custody battle, boy chose to go with his mother. Hmm.
+C: MARGO
+D: So?
+C: PLAGUE
+D: So, we get the mother, we get the boy. INT. KATE'S ROOM. Kate's room is empty, and Dade can't resist going back in to play with her laptop, which far outclasses his own, some more. On the balcony, Kate notices and comes back in.
+C: KATE
+D: What the hell are you doing?
+C: DADE
+D: It's cool, I'm just looking.
+C: KATE
+D: It's too much machine for you.
+C: DADE
+D: Yeah? Dade starts working furiously on it.
+C: KATE
+D: I hope you don't screw like you type. Dade slows to a two-finger keypoke, not missing a beat.
+C: DADE
+D: It has a killer refresh rate.
+C: KATE
+D: P6 chip. Triple the speed of the Pentium.
+C: DADE
+D: Yeah. It's not just the chip, it has a PCI bus. But you knew that.
+C: KATE
+D: Indeed. RISC architecture is gonna change everything.
+C: DADE
+D: Yeah. RISC is good. They uncomfortably exchange glances.
+C: DADE
+D: You sure this sweet machine's not going to waste?
+C: KATE
+D: Crash Override. What was it. "Mess with the Best, Die Like the Rest?"
+C: DADE
+D: Yeah.
+C: KATE
+D: Are you challenging me?
+C: DADE
+D: Name your stakes.
+C: KATE
+D: If I win, you become my slave.
+C: DADE
+D: Your slave?
+E: intrigued
+C: KATE
+D: You wish. You'll do shit work, scan, crack copyrights, whatever I want.
+E: realizing his mind is in the gutter
+C: DADE
+D: And if I win?
+C: KATE
+D: Make it my first born.
+E: giggles
+C: DADE
+D: Make it our first date.
+C: KATE
+D: You're not gonna win.
+C: DADE
+D: And you have to smile.
+C: KATE
+D: I don't do dates. But I don't lose either, so you're on. MONTAGE: Scenes of Dade and Kate preparing for the challenge.
+C: PHREAK
+D: So here's the deal. The chosen contest: To hassle Secret Service Agent Richard Gill, and get one back for Joey. Dade spray paints camouflage onto his keyboard.
+E: voice over
+C: NIKON
+D: Our decisions are final, by a vote of 2 to 1. No appeals. Kate rifles through her address book.
+C: CEREAL
+D: The duel will last until we declare a winner. Dade plays quick-draw with disks.
+C: PHREAK
+D: Use only the dialups, access codes and passwords in your collection. Can't ask for any help from us. Dade, having mastered the quick-disk-draw in the mirror, looks satisfied.
+C: DADE
+D: Talking to me? All five are together at the beginning of the challenge.
+E: into mirror
+C: PHREAK
+D: Any questions?
+C: KATE
+D: Yeah. Whose gonna notify his next of kin? Dade and Kate shake hands and the challenge begins. EXT. NEW YORK CITY PUBLIC PHONE. At a public phone, Kate hacks into Concourse Bank, looks up Richard Gill, and has his credit card maxed out. "Destroy Card" is the final instruction. The other hackers look on. INT. RESTAURANT. A waiter runs a credit card through a validation machine, sees the message and returns to the patron's table. It is Richard Gill. Right there, the waiter chops the MasterCard in two with a pair of scissors, to Gill's horror. EXT. NEW YORK CITY PUBLIC PHONE. Dade hacks into an electronic personal ads system and changes an ad.
+C: KATE
+D: Alright, he's in the personal ads. "Disappointed white male, crossdresser, looking for discreet friend to bring dreams to reality. Leather, lace, and water sports. Transvestites welcome." INT. GILL'S OFFICE. At his office, Gill is on the speaker phone with someone responding to the ad.
+E: reading Dade's ad
+C: GILL
+D: I... I... I know where you can stick it... I know where you can stick it... Gill punches a button on the phone, another caller comes on.
+C: CALLER
+D: ...wanna lick your earlobes... I wanna lick your lips... I wanna lick your toes... I wanna lick your ankles...
+C: GILL
+D: Awww, yeah, you wanna lick something? Lick this. Gill punches another button, another caller comes on.
+C: CALLER
+D: That's why they call me Stallion...
+C: GILL
+D: Aw, that's disgusting! Gill punches another button.
+C: CALLER
+D: My heart is steaming for you... Gill punches another button. He is becoming quite flustered.
+C: CALLER
+D: ...spank you with my...
+C: GILL
+D: Aww, Spank your ass... He punches another button. Another caller comes on, and Gill hangs up the phone, disgusted, offended, and distraught. The Plague is there, witnessing the whole thing.
+C: PLAGUE
+D: Animal! EXT. EMPIRE STATE BULDING OBSERVATION DECK. It's Kate's turn. Kate is hacking into the Department of Motor Vehicles. She adds 113 traffic violations and DUI offender status to Gill's record. EXT. NEW YORK CITY, BUSY STREET. Gill is being arrested quite forcefully by a NYC police grunt. He is thrown onto the hood of his car and handcuffed.
+C: GILL
+D: Hey! Hey, ow! Do you know who I am? Do you know who I am? EXT. CHINATOWN, PUBLIC PHONE. Dade's turn. He hacks into the Secret Service's personnel file, and changes Gill's status to "Deceased." INT. GILL'S OFFICE.
+C: EMPLOYEE
+D: This is accounting, sir. You enquired about an employee of ours, an Agent Richard Gill?
+E: on phone
+C: GILL
+D: Yes.
+C: EMPLOYEE
+D: Our records indicate he's deceased.
+C: GILL
+D: I'm what? INT. CYBERDELIA. The five are playing pool.
+C: DADE
+D: Dead.
+C: PHREAK
+D: Dead?
+C: DADE
+D: Yeah. Like Rigor Mortis, Habeas Corpus.
+C: NIKON
+D: Very impressive.
+C: CEREAL
+D: Super hero like even.
+C: KATE
+D: Yeah, whatever. What's the score? Phreak clicks the pool scoreboard so it says 60 - 60.
+C: PHREAK
+D: Tie. The other four protest.
+C: PHREAK
+D: Due to Mr. Gill's untimely demise and everything, I guess you two will have to improvise the next round.
+C: DADE
+D: Right. If I win, you wear a dress on our date.
+C: KATE
+D: And if I win, so do you. Dade thinks about it a second.
+C: DADE
+D: Deal. Kate gives Dade a look that says "I'm going to hold you to that." INT. KATE'S BED. NIGHT. A shapely figure wearing a red leather legless suit with a zipper that goes all the way around the crotch. Hands caress the sultry figure as the camera pans up. The body belongs to Dade Murphy. Kate wakes up gasping. It was only a dream. She pants and regains her breath. Then she smiles. She enjoyed that dream.
+C: KATE
+D: Oooohhhh... INT. HIGH SCHOOL HALLWAY. Kate, at her locker, stops Dade.
+C: KATE
+D: Dade. I didn't know your size, so I guessed. She opens her locker to reveal a red leather bustier and bikini bottom.
+C: KATE
+D: You are man enough to stick with the deal, aren't you? Dade walks off. INT. DADE'S PLACE. Dade signs an electronic pad for a package from UPS. He takes the package.
+C: DADE
+D: Thanks. He closes the door and opens the package. It is a laptop computer, clear plastic shell, full colour screen. Very high- end, perhaps the equal to Kate's machine. He turns it on. The Plague's face, distorted, appears. It speaks.
+C: PLAGUE
+D: You wanted to know who I am, Zero Cool? Well let me explain the New World Order. Governments and corporations need people like you and me. We are samurai. The keyboard cowboys. And all those other people out there who have no idea what's going on are the cattle. Mooo! I need your help, you need my help. Let me help you earn your spurs. Ahh, think about it. Enjoy the laptop, "Cool"! Tell me where the disk is. Plague's face vanishes. INT. JOEY'S ROOM. Joey lies on his bed with a comic book, looking despondent. His mother enters.
+C: JOEY'S MOM
+D: You look pitiful. Okay, okay, you're not grounded anymore. She kisses his forehead and leaves. He springs back to life, gets up and gets the disc from where he stashed it in the air vent. EXT. PARK. Joey is nervously waiting on a park bench. Phreak arrives. Agents Ray and Bob still have Joey staked out.
+C: PHREAK
+D: Yo, what's up?
+C: JOEY
+D: Dude dude dude, I gotta talk to you a minute, listen listen listen. I copied a garbage file from...
+C: PHREAK
+D: Big deal. A garbage file's got shit in it, Joey, come on.
+C: JOEY
+D: Nono, it's like hot or something. I don't know.
+C: PHREAK
+D: Joey, a garbage file holds miscellaneous data. Junk. Bits of stuff that's been erased, man.
+C: JOEY
+D: I copied it from Ellingson, okay? They're asking me about it, alright? Will you take a look for me? Joey hands Phreak the disc. Agent Bob is taking pictures, and Phreak notices.
+C: PHREAK
+D: Oh shit, Joey, you've got a tail. Joey sees, and runs for it.
+C: JOEY
+D: Shit! The agents split up, one runs after Joey, the other after Phreak. INT. HIGH SCHOOL BOYS' ROOM. Phreak has lost his tail. He puts Joey's disc behind a condom machine in the boys' room at school, and sticks it there with gum. INT. PHREAK'S ROOM. Phreak frantically destroys all records of his hacking career. He knows he's about to be busted.
+C: DREAM SEQUENCE.
+D: The Secret Service is about to burst in on Phreak. He still hasn't destroyed any records, and starts manically going through everything. Gill is on his laptop screen.
+C: GILL
+D: I'm watching you... INT. PHREAK'S ROOM. MORNING. A knock on the door. Phreak awakes. It's his mother.
+C: PHREAK'S MOM
+D: Ramon? Wake up. Ramon! Wake up! Vamano. Time for school, come on. The secret service bursts in through the window just as Phreak's mom opens the blind. She screams, Phreak leaps to his feet.
+C: AGENT
+D: Secret Service, don't move!
+C: PHREAK
+D: Deja vu!
+C: AGENT BOB
+D: Ray Sanchez, you are under arrest, under the Computer Fraud and Abuse Act of 1986. Phreak's mom becomes very angry and starts slapping Phreak, cursing in Spanish.
+C: PHREAK
+D: What are you waiting for, arrest me already! INT. POLICE STATION LOCKUP. The undersized Phreak is just a morsel to the hardened thugs behind these bars and they taunt him viciously as he is led to his one phone call.
+C: COP
+D: You get one call. Uno. Understand? The cop locks the dial on the phone. Phreak waits for the cop to leave, and hangs up. He starts rapidly pushing the hangup hook, and he hears a ringing tone.
+C: OPERATOR
+D: Hello, operator services.
+C: PHREAK
+D: Hello, operator? I'm having trouble dialing a number.
+C: OPERATOR
+D: What number please?
+C: PHREAK
+D: 555-4202.
+C: OPERATOR
+D: Just one moment.
+C: PHREAK
+D: Thank you. Kate answers.
+C: KATE
+D: Hello?
+C: PHREAK
+D: Hey, it's me.
+C: KATE
+D: Phreak?
+C: PHREAK
+D: I'm freaking! Joey wasn't making it up! He really hacked into Ellingson! He gave me the disc with a file he copied and now I'm in jail! They're charging me with some serious shit! And there's stuff I didn't even do, like inserting some virus called Da Vinci, and they keep asking about you guys.
+C: KATE
+D: You think they're going to bust us?
+C: PHREAK
+D: Yeah! You better figure out what's on that disc, cause we're being framed. It's in that place where I put that thing that time? He hangs up just as the cop returns. INT. SCHOOL BOYS' ROOM. Kate is entirely out of place in the boys' room, as the boys look on amusedly. She finds the disc behind the condom machine and pockets it. Then she buys a condom from the machine and struts out, smiling sweetly, hot as fire. INT. DADE'S PLACE. Kate knocks. Mrs. Murphy lets Kate and Cereal in.
+C: MRS. MURPHY
+D: Hi! Well, now I see what all the fuss is about. Dade... you have company.
+E: looking Kate over she shows them to Dade's room
+C: CEREAL
+D: It's a nice room.
+C: KATE
+D: We need your help.
+C: DADE
+D: Do my ears deceive me? Kate starts to leave.
+C: CEREAL
+D: Nonononono. Truce, you guys. Listen, we got a higher purpose here, alright? A wake up call for the Nintendo Generation. We demand free access to data, well, it comes with some responsibility. When I was a child, I spake as a child, I understood as a child, I thought as a child, but when I became a man I put away childish things. What... It's Corinthians I, Chapter 13, verse 11, no duh. Come on.
+E: pause
+C: KATE
+D: Phreak and Joey are being framed. We need your help to figure out what's on this disc.
+C: DADE
+D: I can't. Everybody who touches that thing gets busted, I can't afford to get arrested, I'm sorry.
+C: CEREAL
+D: Maybe I should just go to the bathroom or something. Cereal leaves the room.
+C: KATE
+D: What is it with you? I know we've been playing games, but, we're supposed to be on the same side and we really need your help. I really need your help.
+C: DADE
+D: I'm sorry, I can't.
+C: KATE
+D: Well, could you just make a copy of the disc? And just hide it in case we get busted, so we have something to give our lawyers, something that hasn't been tampered with? Can you do that? A knock on the door. Dade's mom peeks in.
+C: MRS. MURPHY
+D: Listen you guys, help yourself to anything in the fridge. Cereal has. She leaves.
+C: KATE
+D: Thank you.
+E: to Mrs. Murphy
+C: DADE
+D: Okay. I'll copy it.
+C: KATE
+D: Okay, thank you. Later. Plague phones Dade. Plague has Lauren Murphy's records on his screen.
+C: PLAGUE
+D: The girl. The girl has the disc I need.
+C: DADE
+D: I told you, I don't play well with others.
+C: PLAGUE
+D: Turn on your laptop. Set it to receive a file. Dade does. An extensive criminal record with a strange woman's picture comes up. The strange woman transforms into Dade's mother.
+C: PLAGUE
+D: Lauren Murphy is now a wanted felon in the state of Washington. Forgery, Embezzlement, two drug convictions, plus she jumped parole. When she's arrested, she will not have a trial, she will not pass go, she will go directly to jail. Then I change this file back to the original, and your mom disappears.
+C: DADE
+D: That's bullshit.
+C: PLAGUE
+D: What can I tell you. Computers never lie, kid. Your mom will be arrested at work, she'll be handcuffed, and later, strip searched.
+C: DADE
+D: You lay a finger on her and I'll kill you.
+C: PLAGUE
+D: Kid, don't threaten me. There are worse things than death and, uh, I can do all of them! Dade emerges from his room. His exhausted, overworked mother is asleep on the couch. He pulls a blanket over her. EXT. PUBLIC PHONE, WET STREET, NIGHT. Shortly after, Dade is outside on a payphone.
+C: PLAGUE
+D: Talk to me.
+C: DADE
+D: I got it. But listen, Kate didn't know what's on it. I mean, she came to me to figure it out. She's not the one who planted the virus. You leave her alone.
+C: PLAGUE
+D: Hey, don't worry, kid. If she's innocent, she'll be fine. Your mommy's safe now, okay? Dade hangs up and waits for some time. A limousine drives by, with a skateboarder tailing. Plague grabs the disc, jumps in the limo and speeds away. Dade tries to chase but gives up quickly. INT. KATE'S ROOM. Dade shows up. Kate, Nikon, and Cereal are working on the disc.
+C: DADE
+D: Kate, listen.
+C: KATE
+D: Uh, hold on...
+C: DADE
+D: I have to tell you something.
+C: CEREAL
+D: Hold on a second!
+C: NIKON
+D: Look at this, it's so lean and clean.
+C: CEREAL
+D: Looks like a hacker wrote it.
+C: KATE
+D: Come here, look at this. This thing is dense. Nikon points out part of the code.
+C: NIKON
+D: But that's ill, man. It's incomplete. This is taking forever and a day to figure out. I'm gonna make some coffee. Dade takes Nikon's place.
+C: CEREAL
+D: Tag, you're in. Hours pass. Dade studies and reverse engineers the garbage file. The other hackers watch, and do just about anything but be hackers. Finally, over boxes of half-finished pizza, Dade makes an announcement.
+C: DADE
+D: This isn't a virus. It's a worm!
+C: NIKON
+D: What's this one eat?
+C: DADE
+D: It nibbles. You see this? Dade indicates a rapidly scrolling data display.
+C: DADE
+D: This is every financial transaction Ellingson conducts, yeah? From million dollar deals to the ten bucks some guy pays for gas.
+C: KATE
+D: The worm eats a few cents from each transaction.
+C: DADE
+D: And no one's caught it because the money isn't really gone. It's just data being shifted around.
+C: KATE
+D: Right. And when the worm's ready, it zips out with the money and erases its tracks.
+C: DADE
+D: Joey got cut off before he got to that part. Check it out. By this point, it's already running at, what, twice the speed as when it started.
+C: KATE
+D: Right, and at this rate it ends its run in...
+C: NIKON
+D: Two days.
+C: DADE
+D: And judging by this segment alone, it's already eaten about...
+C: CEREAL
+D: 21.8 million bucks, man. Nikon whistles.
+C: KATE
+D: Whoever wrote this needs somebody to take the fall. And that's Phreak, and that's Joey, and that's us. We've got to get the rest of the file, so we can find out where the money is going before the worm disappears, so we can find out WHO created it.
+C: DADE
+D: I know, I know who wrote it.
+C: KATE
+D: What?
+C: DADE
+D: This Ellingson security creep. I gave him a copy of the disc you gave me.
+C: KATE
+D: You what?
+C: DADE
+D: I didn't know what was on it.
+C: CEREAL
+D: Oh man. That's universally stupid, man!
+E: agitated
+C: NIKON
+D: Yo, man, you an amateur, man.
+C: KATE
+D: Why did he come to you?
+C: DADE
+D: I got a record. I was Zero Cool.
+C: NIKON
+D: Zero Cool? Crashed fifteen hundred and seven systems in one day? Nikon closes his eyes and access his photographic memory.
+C: NIKON
+D: Biggest crash in history, front page, New York Times, August 10th, 1988. I thought you was black, man! Yo, man, this is Zero Cool! Oh, shit!
+C: CEREAL
+D: That's far out!
+C: NIKON
+D: This is Zero Cool, man! Whooo, haha!
+C: KATE
+D: Well that's great. There goes MIT.
+E: coldly
+C: DADE
+D: I'll make it up to you!
+C: KATE
+D: How?
+C: DADE
+D: I'll hack the Gibson.
+C: NIKON
+D: They'll trace you like that man, cops are gonna find you, they're gonna find you with a smoking gun.
+E: snaps his fingers
+C: DADE
+D: Fucked if I care, man.
+C: NIKON
+D: Look, even if you had the passwords, it'll take you ten minutes to get in, and you've still gotta find the files, man, I mean, the cops will have you in... five minutes.
+C: CEREAL
+D: Oh wow, we are fried.
+C: KATE
+D: Never send a boy to do a woman's job. With me, we can do it in seven.
+E: suddenly lighter- hearted
+C: CEREAL
+D: You're both screwed. I help, we can do it in six.
+C: NIKON
+D: Jesus, I gotta save all your asses. I help, we can do it in five minutes, man.
+C: DADE
+D: Okay. Let's go shopping.
+C: CEREAL
+D: Woo hoo! Boom! EXT. OUTSIDE ELLINGSON BUILDING. Dade and Kate cut through a chain link fence and jump into a dumpster at Ellingson. Kate lands on Dade.
+C: DADE
+D: You know, if I didn't live by a strict code of honor, I might take advantage of this situation. Erotically, as it were. Kate fishes around in her pants, never breaking eye contact with Dade. She pulls out a flashlight. They start trashing. They get up to leave and are spotted by a security guard.
+C: GUARD
+D: Alright, hold it right there! Kate pulls out a flare gun and fires it at the security guard. He ducks.
+C: DADE
+D: Shit!!
+C: KATE
+D: It's my subway defense system. EXT. NEW YORK CITY STREET. Nikon is staring down a manhole, Cereal is fishing through an adjacent phone company truck.
+C: NIKON
+D: He's way down there. Cereal emerges with a beltload of equipment and a hard hat. But he forgot the most important thing.
+C: CEREAL
+D: Ta-da!
+C: NIKON
+D: Yo, brain dead, the manual! Cereal goes back to the truck and gets a thick manual. The phone company technician comes up from the manhole.
+C: PHONE COMPANY TECH
+D: Hey!
+C: CEREAL AND NIKON
+D: 
+E: in unison, pointing down the street
+C: TRUCK!!!
+D: The phone company tech jumps back in the hole, Cereal and Nikon take off. INT. SECRET SERVICE BULDING. A woman is seated at the desk. Agent Gill walks by.
+C: WOMAN
+D: Find it? Cereal emerges from the desk, between her legs. His tool belt dangles obscenely from his crotch.
+C: CEREAL
+D: Phone's alright. The problem must be somewhere else. Cereal walks away with his buttcrack seriously showing. INT. ELLINGSON MINERAL OFFICES. Nikon poses as a flower delivery boy. He winds his way through the offices of Ellingson Mineral, "shoulder surfing", watching the workers entering passwords. His photographic memory captures everything. The Plague walks past him, noticing briefly but not making the connection. INT. PLAGUE'S LOFT. The Da Vinci virus' launch/cancel prompt is up.
+C: MARGO
+D: They had a large chunk of the garbage file? How much do they know?
+E: pacing
+C: PLAGUE
+D: Not everything. But enough to implicate us.
+C: MARGO
+D: You said the worm was untreaceable!
+C: PLAGUE
+D: Yeah. To civilians. But they're hackers. But don't worry. All we have to do is launch the Da Vinci virus, and then they'll all be put away.
+C: MARGO
+D: Launch the Da Vinci virus? You can't do that!
+C: PLAGUE
+D: No one believes the guilty. Besides, by the time they realize the truth, we'll be long gone with all of our money. Margo starts to protest.
+C: PLAGUE
+D: Look, there is no right and wrong. There is only fun and boring. A thirty year prison sentence sounds pretty dull to me. Who do you prefer serves it, us? Or them? Plague clicks on "Launch". The virus repeats its demand.
+C: VIRUS
+D: Unless five million dollars are transferred to the following numbered account in seven days, I will capsize five tankers in the Ellingson fleet. EXT. OPEN SEA. As the virus speaks, a supertanker sails on a choppy sea. INT. PLAGUE'S LOFT. Plague leaves a message on Gill's answering machine.
+C: PLAGUE
+D: The virus goes off tomorrow morning at 10:30, and those hackers tried to get into our system again. At this point I insist you take more strenuous action, or Ellingson Mineral will hold the Secret Service responsible. Gill gets on the phone.
+E: sternly
+C: GILL
+D: Get me arrest warrants on Kate Libby, alias Acid Burn, Emmanuel Goldstein, alias Cereal Killer, Dade Murphy, alias Crash Override, also known as Zero Cool, and Paul Cook, alias Lord Nikon. We pick them up tomorrow morning at nine o'clock. As Gill gives the order, a mysterious device under his desk blinks. Cereal put it there. INT. NIKON'S PLACE. Nikon and Cereal taped Gill's orders.
+E: grimly
+C: CEREAL
+D: Snoop onto them...
+C: NIKON
+D: ...as they snoop onto us. Nikon calls Kate.
+C: KATE
+D: Yeah, it's Kate.
+C: NIKON
+D: Hey, Burn. We got a little problem here. INT. SUBWAY. Cereal, Nikon, Dade and Kate skate through a run down subway platform and get on the "A" Train. They go over the results of their password gathering spree.
+C: KATE
+D: Alright, so what have we got?
+C: DADE
+D: Well, we have fifty passwords, plus whatever Polaroid head here got inside Ellingson.
+C: NIKON
+D: Well, I got a lot, alright? I don't know how many but... my head hurts.
+C: CEREAL
+D: Yo, everyone check this out. Hey, what's the Da Vinci virus?
+C: DADE
+D: What?
+C: CEREAL
+D: Check this out. It's a memo about how they're gonna deal with those oil spills that happened on the fourteenth.
+C: KATE
+D: What oil spills?
+C: NIKON
+D: Whoa, whoa. Yo, brain-dead, today is the thirteenth.
+C: CEREAL
+D: Well this hasn't happened yet.
+C: KATE
+D: Wait a minute, the fourteenth, that's the same day the worm ends its run. I mean... Da Vinci virus, didn't Phreak say that's what he was being charged with? Look... "Infecting ballast programs of Ellingson tankers" - they blame hackers!
+E: quotes the memo
+C: NIKON
+D: Damn!
+E: angry
+C: CEREAL
+D: A worm AND a virus? The plot thickens. Kate gets ready to get off the subway.
+C: NIKON
+D: Whoa, whoa whoa whoa, where are you going, huh?
+C: KATE
+D: I got an idea. We've got a few hours, right, till we get arrested. So just stay low. I'm gonna go get some help. I'll beep you, okay? Are you coming? Dade gets up.
+E: to Dade
+C: CEREAL
+D: May the Force be with you, man. INT. INDUSTRIAL DANCE CLUB. Weird music plays, lots of weird people dance. Razor and Blade are on stage, dancing in front of a huge speaker.
+C: KATE
+D: There they are!
+C: DADE
+D: Razor and Blade! They're flakes!
+C: KATE
+D: They're elite! Let's get 'em. Dade and Kate push through the crowd. The song changes to a fast industrial rap number, Razor and Blade leave the stage, and Dade starts getting moshed. He climbs on the stage to follow Razor and Blade. For his trouble, he is thrown back onto the crowd, who pass him around overhead. Finally the crowd lets him go. He catches up with Kate.
+C: KATE
+D: I lost 'em. Where were you? Dade tries to explain, but is at a loss for words. They make their way to the entrance to Razor and Blade's lair. Video monitors are everywhere.
+C: DADE
+D: I don't like this. A robotic arm with a revolver swings around to point at Dade.
+C: DADE
+D: AAAAAUGH! I definitely don't like this!
+C: BLADE
+D: What do you want?
+E: through video intercom
+C: DADE
+D: Ummm... we come in peace? Dade winces at his own corniness.
+C: KATE
+D: We need your help. If you're up to it.
+C: RAZOR
+D: She's buff. Ballsy.
+C: BLADE
+D: Let's keep her.
+C: RAZOR
+D: Waste the dude. The gun goes off. It's only a cigarette lighter! No one can accuse Razor and Blade of not having a sense of humor. INT. RAZOR AND BLADE'S PLACE.
+C: KATE
+D: A virus called Da Vinci will cause oil spills at 10:30 AM Eastern Time tomorrow.
+C: DADE
+D: It's somehow connected with the worm that's stealing the money.
+C: KATE
+D: We need your help to overload the Gibson so we can kill the Da Vinci virus and download the worm program.
+C: RAZOR
+D: She's rabid, but cute.
+C: BLADE
+D: See, we're very busy. A TV network that wishes to remain nameless has expressed an interest in our show.
+C: DADE
+D: Let's go, Kate.
+E: noticing the stench of sellout
+C: RAZOR
+D: Wait. Nobody said no. But you are going to need more than just two media icons like us. You need an army.
+C: BLADE
+D: That's it! An electronic army! If I were us, I'd get on the internet, send out a major distress signal.
+C: RAZOR
+D: Hackers of the World, Unite!
+C: BLADE
+D: How are you going to take care of the cops? Dade just smiles. INT. DADE'S ROOM. Dade hacks into the city traffic light control system. Suddenly there is gridlock on the streets of New York City. EXT. CENTRAL PARK. Nikon is playing chess against two Hassidic Jews. Cereal's beeper goes off. It displays the message:
+C: GRAND CENTRAL HACK THE PLANET CEREAL
+D: Yo. I'm blowing up. It's Kate, Grand Central. Let's hit it! Nikon checkmates his opponent and the two leave. Dade, Cereal, Nikon, and Kate skate through the streets. Dade's program to freeze all the traffic lights on green, runs on schedule at 9:00:00 precisely. Picture New York City in morning rush hour, and every traffic light is green. Instant gridlock ensues. The four skate through the traffic easily, while the Secret Service, now pursuing them, is stuck. Gill punches a parked car in frustration. Its alarm goes off. INT. GRAND CENTRAL STATION. The four hackers skate into Grand Central Station and head to the lowest level. They meet up with Joey.
+C: CEREAL
+D: Hey Joey, you made it! INT. GRAND CENTRAL PUBLIC PHONES. The hackers are now setting up laptops at a bank of pay phones. Dade is wearing a "Pirate Eye" eyepiece.
+C: KATE
+D: Now listen up, use your best viruses to buy us time, we have to get into Plague's file and copy the worm. Cereal screams.
+C: CEREAL
+D: Ai! Boom boom aiaiaiaiaee! Alright, that was a little tension breaker, that had to be done, alright?
+C: KATE
+D: Cereal.
+C: CEREAL
+D: Yeah?
+C: KATE
+D: Go fix the phones.
+C: CEREAL
+D: Roger. Cereal takes off to fix the phones.
+C: KATE
+D: Joey, take his place.
+C: JOEY
+D: What, me?
+C: KATE
+D: Take his place, man, do it. You can do it. Joey takes Cereal's place.
+C: KATE
+D: Ready?
+C: DADE
+D: Yeah.
+C: KATE
+D: Alright, let's boot up. The four boot up their machines. Various vanity screens come up on the laptops. They begin to hack. We see the inside of the Gibson. Viruses of all kinds begin to pour in. In the offices and data processing rooms, the Ellingson staff are in pandemonium. Happy faces with eye patches appear on their screens. "Sit on my interface." "Shit for Brains." "Arf Arf Arf!" Cookie monsters. INT. COMPUTER ROOM, ELLINGSON MINERAL. The big monitor shows the attack in progress.
+C: MARGO
+D: What is it? What's wrong?
+C: PLAGUE
+D: Nothing, it's just a minor glitch.
+C: MARGO
+D: "Minor glitch" with you seems to turn into a major catastrophe. The main screen is filled with: I WANT A COOKIE. GIVE ME A COOKIE NOW!
+C: HAL
+D: There's a new virus in the database.
+C: MARGO
+D: What's happening?
+C: HAL
+D: It's replicating, eating up memory. What do I do?
+C: PLAGUE
+D: Type "Cookie", you idiot. I'll head 'em off at the pass. Another virus appears.
+C: HAL
+D: We have a Zero Bug attacking all the login and overlay files.
+C: PLAGUE
+D: Run anti-virus. Give me a systems display! The systems display comes up. Red flashes everywhere, signifying new attacks. Plague presses a key.
+C: PLAGUE
+D: Die, dickweeds!
+C: HAL
+D: The rabbit is in the administration system. Rabbit icons start to fill the systems display.
+C: PLAGUE
+D: Send a Flu-shot.
+C: MARGO
+D: Rabbit, Flu-shot, someone talk to me.
+C: HAL
+D: A rabbit replicates till it overloads a file, then it spreads like cancer.
+C: MARGO
+D: Cancer? The Da Vinci Virus sings "Row Row Row Your Boat". Tanker ballasts start filling - for real. INT. GRAND CENTRAL PUBLIC PHONES.
+C: KATE
+D: It's the Gibson, it's finding us too fast.
+C: DADE
+D: Man, there's too many garbage files, I need more time. INT. COMPUTER ROOM, ELLINGSON MINERAL.
+C: PLAGUE
+D: They're at Grand Central Station, lower level. Don't screw up. EXT. GRIDLOCKED STREETS. The Secret Service and NYPD are stuck. They turn around and head for Grand Central Station. INT. GRAND CENTRAL PUBLIC PHONES. The public phone next to Dade's rings. Dade answers. It's The Plague. INT. COMPUTER ROOM, ELLINGSON MINERAL.
+C: PLAGUE
+D: Game's over. Last chance to get out of this without a prison sentence. You're not good enough to beat me, you little shit. INT. GRAND CENTRAL PUBLIC PHONES.
+C: DADE
+D: Yeah, maybe I'm not. But we are, you asshole. INT. COMPUTER ROOM, ELLINGSON MINERAL.
+C: PLAGUE
+D: Give it up! Just give it up. INT. GRAND CENTRAL PUBLIC PHONES. Kate's phone rings. It's Razor.
+C: RAZOR
+D: Are we fashionably late? Hackers in England, Italy, Japan, Russia, everywhere mobilize and start attacking the Ellingson Gibson. The English hacker looks and talks suspiciously like Annie Lennox's husband. Our heroes relentlessly search for the right garbage file. INT. COMPUTER ROOM, ELLINGSON MINERAL.
+C: SYSOP
+D: We have massive infection. Multiple GPI and FSI viruses.
+C: HAL
+D: They're coming in from remote nodes. They're going after the Kernal!
+C: MARGO
+D: Colonel who?
+C: HAL
+D: The System Command Processor, it's the brain.
+C: MARGO
+D: Cancer, brain... Brain Cancer? Duke Ellingson arrives.
+C: DUKE ELLINGSON
+D: Belford, what's going on?
+C: PLAGUE
+D: In short, Duke, a shit storm. INT. GRAND CENTRAL STATION. Dozens of armed Secret Service and SWAT troops push through the crowded station looking for the hackers.
+C: INSIDE THE COMPUTER.
+D: The garbage file lights up. The familiar psychedelic swirl of equations and fractal graphics returns. INT. GRAND CENTRAL PUBLIC PHONES.
+C: DADE
+D: I found it! I found it! INT. COMPUTER ROOM, ELLINGSON MINERAL.
+C: PLAGUE
+D: This is the end, my friend. Thank you for calling! INT. GRAND CENTRAL PUBLIC PHONES. Dade is disconnected.
+E: smiling sickly
+C: DADE
+D: Oh, shit! He got me.
+C: NIKON
+D: Joey's getting stupid busy. The SS and SWAT are still closing in on the hackers.
+C: DADE
+D: Joey. I need you to drop your viruses, go after the worm. You're the closest. The SS and SWAT push through crowds.
+C: DADE
+D: It's root slash period workspace slash period garbage period. The SS are nearly there. Joey has found the file. The SS arrive. Gill himself has his .357 drawn.
+C: GILL
+D: Freeze! It's an empty bank of payphones, the receivers are linked together and taped up. No hackers. They keep going.
+C: GILL
+D: Ahhh Come on! Joey completes the download.
+E: pissed off but determined
+C: KATE
+D: Kill the Gibson.
+E: to Razor and Blade
+C: RAZOR
+D: Roger that. INT. COMPUTER ROOM, ELLINGSON MINERAL.
+C: PLAGUE
+D: Come on you son of a bitch, is that all you got, huh? Come on, let's see what else you can do! You talking to me? Huh? Hahahaha. Are you nuts? Come at me! Margo and Duke are awed by Plague's imminent failure and total unprofessionalism.
+C: HAL
+D: They're in the kernal.
+C: DA VINCI VIRUS
+D: Help... me... The Da Vinci virus dies. The tankers stop capsizing and right themselves.
+C: WOMAN
+D: The tankers have stopped capsizing.
+E: off screen
+C: SOMEONE ELSE
+D: Ballast tanks are emptying. It'll be okay. The main screen lights up:
+E: off screen
+C: ARF ARF! WE GOTCHA! MESS WITH THE BEST DIE LIKE THE REST PLAGUE
+D: Little pissant! The Gibson dies in a flash of light. INT. GRAND CENTRAL PUBLIC PHONES. The hackers cheer and congratulate each other.
+C: NIKON
+D: Yes!
+C: DADE
+D: We did it!
+C: KATE
+D: Let's get out of here!
+C: GILL FREEZE!
+D: The SS have caught up with the hackers. Agent Bob seems to be choosing which pore on which hacker's face to blow away first. Only Joey thinks to put his hands up. As they are led away, a handcuffed Dade surrreptitiously tosses the disc with the worm into a trashcan. EXT. GRAND CENTRAL STATION. Outside, he notices Cereal, who wasn't present to be arrested. He yells to the crowd, but really is addressing Cereal.
+C: DADE
+D: They're TRASHING our rights, man! They're TRASHING the flow of data! They're TRASHING! TRASHING! TRASHING! HACK THE PLANET! HACK
+C: THE PLANET! GILL
+D: Shut up and get in the car!
+C: CEREAL
+D: HACK THE PLANET! HACK THE PLANET! INT. GRAND CENTRAL STATION. Later, Cereal is trashing through the garbage cans in Grand Central Station. Eventually he finds the disc. To Cereal's disgust, it has gum stuck to it. INT. GILL'S OFFICE. Gill phones The Plague to report the successful takedown.
+E: understanding the hidden message
+C: PLAGUE
+D: Hello?
+C: GILL
+D: We caught 'em.
+C: PLAGUE
+D: Good.
+C: GILL
+D: Red handed! You won't be having any more trouble from them. INT. PLAGUE'S LOFT. At Plague's place, Plague and Margo toast with champagne, giggle, and then scurry off to bed... INT. GILL'S OFFICE. Dade and Kate are there.
+C: DADE
+D: Me, alright? I did it. She knows shit about computers. She... she's just my girlfriend.
+C: GILL
+D: I suggest you modify your attitude. Because you are floating. And I'm about to flush your ass. The intercom beeps.
+E: laughing
+C: AGENT
+D: You've got a Mrs. Murphy to see you, sir. Gill leaves.
+C: KATE
+D: Are you crazy? What are you doing?
+C: DADE
+D: I'm trying to help you. She pauses, realizing his gesture.
+C: KATE
+D: Dade.
+C: DADE
+D: What?
+C: KATE
+D: Thanks for your help. Dade turns on the intercom. Gill can be heard through it.
+C: GILL
+D: Your son is in big trouble. He has violated his probation and he has engaged in criminal activity.
+E: grimly
+C: MRS. MURPHY
+D: My son happens to be a genius. He understands something happening today that you won't comprehend if you live to be a hundred, and he would never use what he knows to harm a living soul. Agent Bob enters.
+C: AGENT BOB
+D: The news crew you requested is here.
+C: MRS. MURPHY
+D: Oh good. Cause I have a few things to tell them.
+C: GILL
+D: Your son is facing thirty felony counts in an ongoing investigation. You face possible arrest if you do that.
+C: MRS. MURPHY
+D: Mister, I don't care if I face certain death.
+C: GILL
+D: Mrs. Murphy stays right here.
+C: KATE
+D: Oh, wow, she's great.
+C: DADE
+D: Yeah. INT. SECRET SERVICE OFFICES. The news crew interviews Gill.
+C: REPORTER
+D: ...and attacked the Ellingson's computer network. Is the last we've seen of this type of high-tech espionage?
+C: GILL
+D: Well, I'm afraid not. Hackers are a grave threat to the national security. This incident just proves without a doubt that we need increased funding to stop... Nikon and Joey are led in. The monitors cut into static, then Cereal appears.
+C: SOMEONE
+D: That kid cut him off!
+C: CEREAL
+D: Hold on, boys and girls. It is I, the Cereal Killer, making my first coast to coast, world wide, global television appearance. Yes, that's right, I'm here to tell you about this heinous scheme hatched from within Ellingson Mineral. Razor and Blade busily work on keeping him on the air.
+C: CEREAL
+D: But for what, you ask? World domination? Nay. Something far more tacky. A virus called Da Vinci, that when launched, would cause Ellingson Mineral tankers to capsize was to be blamed on innocent hackers. But this virus was really the smokescreen, right. What could be so vitally important to protect that someone would create such a nasty, antisocial, very uncool virus program? Cereal is now seen and heard on the big screen in Times Square.
+C: CEREAL
+D: But why? Could it be to cover the tracks for this worm program? A worm that was to steal 25 million bucks. The password for this hungry little sucker belongs to Margo Wallace, head of public relations at Ellingson Mineral... INT. PLAGUE'S LOFT. Margo watches this and sits bolt upright in bed.
+C: MARGO
+D: Oh my God!
+C: CEREAL
+D: ...and Eugene Belford, Computer Security Officer. INT. SECRET SERVICE OFFICE
+E: continuing
+C: GILL
+D: Son of a BITCH!
+E: finally understanding what's been going on all along
+C: CEREAL
+D: What's this? Is this the unnamed account in the Bahamas where the money was to be stashed? I think so! An account number scrolls below Cereal's chin.
+E: continuing
+C: CEREAL
+D: Yo. I kinda feel like God! His voice echoes across the earth and among the satellites.
+C: MARGO
+D: Plague? Eugene? Almost supernaturally, Plague is already gone. He was right next to her, stark naked in bed a second ago. INT. SECRET SERVICE OFFICES. The hackers embrace and congratulate each other again, Lauren Murphy hugs her son. INT. POLICE STATION, WOMEN'S LOCKUP. Margo Wallace has been arrested, and is being led into the women's lockup. Some of the other women grab at her expensive Italian leather jacket as she is led to her cell.
+C: MARGO
+D: I don't even know how to work a VCR, let alone a computer! Get off! Look, listen, I'll make a deal. Eugene Belford! I know where his mother is, I promise you. Get offa me! I need a lawyer! INT. AIRLINER CABIN. IN FLIGHT.
+C: STEWARDESS
+D: Here you are, Mr. Babbage. Flight time to Tokyo should be about 14 hours today. Can I get you anything else? "Babbage" is The Plague in disguise; he now appears about 60 years old.
+C: PLAGUE
+D: Just a pillow please. The pillow slides in behind his head, he reaches up to adjust it.
+C: PLAGUE
+D: Thank you. A handcuff snaps onto his wrist. It's Gill.
+C: GILL
+D: You're welcome.
+C: PLAGUE
+D: What's going on? Let go of me! Stewardess! I'll never fly this airline again! EXT. NEW YORK CITY SIDEWALK. NIGHT. Dade and Kate are on their date. Dade is smartly, somewhat androgynously dressed. Kate is heavily made up, and yes, she is wearing a dress.
+C: DADE
+D: You look good in a dress.
+C: KATE
+D: You would have looked better.
+C: DADE
+D: Wanna go for a swim? EXT. ROOFTOP SWIMMING POOL. Dade and Kate swimming, fully clothed, in a pool on a roof.
+C: KATE
+D: I can't believe they decided you won.
+C: DADE
+D: They didn't. The guys felt it was the only way I'd get a date. Anyway, you're pretty good. You're elite.
+C: KATE
+D: Yeah? You know if you would have said so in the beginning, you would have saved yourself a whole lot of trouble. They look out at the skyline. Suddenly, the lights in three buildings change. They spell out:
+C: C B R A U A N R S D N
+D: Kate laughs, honestly impressed.
+C: DADE
+D: Beat that! Kate continues laughing.
+C: DADE
+D: You know, I've been having these really weird..
+C: KATE
+D: Dreams? They kiss passionately.
+E: finishing his sentence
+N: The credits roll.

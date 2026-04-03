@@ -1,0 +1,2252 @@
+M: MISSION: IMPOSSIBLE ROGUE NATION
+M: By
+M: Chri s t opher McQuarrie
+M: Revi s i ons by
+M: Christ opher McQuarrie
+M: Will Stap l es
+M: Drew Pear c e
+M: For Your Screenwriting Education
+M: More Titles at ScriptFly.com
+M: WHITE SHOOTING SCRI PT 24 SEPT. '1 4
+M: 4TH GOLDENROD REVISI ONS 23 MARCH '1 5
+S: EXT. FIELD - BELARUS - DAY
+N: An expanse of grass bordered by some distant trees. Hold on it for as l ong as you like - but eventually, there's the distinct buzzing of a cell phone , followed by an exasperated SIGH. BENJI, in a ghillie suit, laptop beside him , raises his camouf l aged painted face and answers his phone .
+C: BRANDT
+D: This isn't going very wel l .
+E: ON PHONE
+C: BENJI
+D: I can't talk right now .
+C: BRANDT
+D: The package is on the plane .
+C: BENJI
+D: I know. INT. MOBILE COMMAND CENTER - NIGHT Analyst WILLIAM BRANDT, at his computer screen .
+C: BRANDT
+D: It was never supposed to make it onto the airf i e ld.
+C: BENJI
+D: There were comp l ications .
+C: BRANDT
+D: Where is Ethan?
+C: BENJI
+D: Radio silence. I don't know .
+C: BRANDT
+D: That p l ane cannot take off with the package on board .
+C: LUTHER
+D: We're working on it.
+C: BRANDT
+D: Luther? What the he l l are you doing there? You have an assignment in Malaysia. 4TH GOLDENROD 23 MARCH '15 EXT. LARGE ANTENNA ARRAY - MALAYSIA - DAY Where Luther is on a laptop at the base of a massive antenna dish in a veritable field of them .
+C: LUTHER
+D: I am in Mal aysia . Benji needed help.
+C: BENJI
+D: I don't need help. Assistance. It's not the same thing.
+C: BRANDT
+D: The package is on the plane .
+C: BENJI
+D: We understand . We're trying to cripple it remotely .
+C: BRANDT
+D: You can do that?
+C: LUTHER
+D: We can if the pilot left the satellite uplink switched on .
+C: BENJI
+D: Which he has . INT. MOBILE COMMAND CENTER- NIGHT Brandt, rubbing his temp l es, eyes closed.
+C: BRANDT
+D: How do you access the uplink?
+C: LUTHER
+D: It involves hacking a Russian satellite.
+C: BRANDT
+D: I can't authorize that.
+C: LUTHER
+D: Which is why I didn ' t ask for permission . 4TH GOLDENROD 23 MARCH ' 15 EXT. FIELD/ INT. COMMAND CENTER/ EXT. ANTENNA - DAY Intercutting the following conversation, but never revealing Ethan until his sprint along the wing. Benji hears engines whine, looks through his binoculars to see the plane ' s prope l lers turning .
+C: BENJI
+D: Uh Luther .
+C: BRANDT
+D: I'm reading a heat bloom. The engines are starting.
+C: BENJI
+D: I ' m wel l aware .
+C: LUTHER
+D: Benji, you ' re connected . The plane's systems appear on Benji's screen.
+C: BRANDT
+D: The package is on that p l ane .
+C: BENJI
+D: We a l l acknow l edge the package is on the p l ane .
+C: LUTHER
+D: Shut down the fue l pump .
+C: BENJI
+D: Yeah, mechanical's on lockdown .
+C: BRANDT
+D: What about the e l ectrical system?
+C: BENJI
+D: Encrypted.
+C: LUTHER
+D: Hydraul i cs?
+C: BENJI
+D: Uhhhhh, maybe. Make that a no. The engines roar, the plane moves.
+C: BRANDT
+D: Benji , the p l ane is moving. 4TH GOLDENROD 23 MARCH ' 15
+C: BENJI
+D: I see it, I see it .
+E: typing faster
+C: BRANDT BENJI. BENJI
+D: YES. THE PACKAGE. I GET IT.
+C: ETHAN
+D: Can you open the door?
+C: BRANDT
+D: Ethan. Where are you?
+C: ETHAN
+D: I'm by the plane. Can you open the door? Benji looks to the plane through his binoculars. Sees no sign of Ethan.
+C: BENJI
+D: Of course I can open the door. That's easy.
+C: ETHAN
+D: Open the door when I tell you. EXT. A400 - WING - DAY ETHAN HUNT, wearing a dark suit, sprints across the wing of this 4- engine turboprop towards the fuselage as the plane turns, headed for the runway. He slides down the wing flap, landing on the l anding gear cowling, hauling himself up to the paratroop door by a windscreen as the plane accelerates.
+C: ETHAN
+D: I'm on the plane.
+C: BENJI
+D: How did you get in the p lane ?
+C: ETHAN
+D: Not in the plane. I'm ON the plane . The plane taxis past Benji, who sees Ethan clinging to the para door, shouting at Benji as he passes - 4TH GOLDENROD 23 MARCH '15
+C: ETHAN OPEN THE DOOR.
+D: On Benji's screen : SYSTEM OVERRIDE : FAILED
+C: BENJI
+D: Damn . EXT. A400 - PARA DOOR - DAY Ethan looks down, the tarmac flying by at 80 mph .
+C: ETHAN
+D: THIS IS NOT AN OPTION . INT. OFFICE - DAY Brandt rockets to his feet, bring i ng his f i sts down on his desk shouting -
+C: BRANDT
+D: Ethan , abort . ABORT, NOW. EXT. LARGE ANTENNA ARRAY - DAY
+C: LUTHER
+D: Oh my God EXT. FIELD - DAY 5 . Benji watches in horror as SCREAMING TURBOPROPS roar past- EXT. A400 - DAY The plane LIFTS OFF, Ethan's clothes and skin ripp l ing in the gale force wind as the wor ld falls away at 180 MPH. He ' s certainly committed . EXT. FIELD - DAY On BENJI, his fingers a blur .
+C: BRANDT
+D: BENJI , OPEN THAT DOOR. RIGHT NOW. 4TH GOLDENROD 23 MARCH '15
+C: BENJI
+D: Come on . I ' m trying He hits 'return '. On his screen : SYSTEM OVERRIDE - ENGAGED
+C: ETHAN OPEN THE DOOR! BENJI
+D: GOT IT , HA. Opening . NOW. Benji presses a key and - EXT. A400 - PARA DOOR - DAY The rear lift gate opens - far out of Ethan ' s reach. Ethan l ooks back - 'you've got to be kidding me . ' EXT. PllLD - DAY Benji's face deflates .
+C: BENJI
+D: Uh oh . INT. A400 - FLIGHT DECK - DAY A warning flashes. The PILOT sees the lift-gate is opening by itself . Confused , he hits the button. Gets nothing. EXT. PllLD - DAY Benji, typing furiously - INT. A400 - FLIGHT DECK - DAY The pil ot hits the control again . Final l y , he shouts something to the NAVIGATION OFFICER, who unharnesses and walks out . 4TH GOLDENROD 23 MARCH '15 INT. A400 - CARGO BOLD - DAY The nav officer comes down the stairs from the flight deck and looks into the cargo hold. Strapped to the floor is a pallet filled with clear l y­ marked chemical warheads. Beyond that, the open lift gate. The officer steps over to the manual controls for the l ift gate in the navigation suite . EXT. A400 - PARA DOOR - DAY On Ethan, his grip threatening to give out. LUTHER
+E: V . O.
+C: BENJI, THE OTHER DOOR.
+D: EXT. FIELD - DAY On Benji, emphatica l ly hitting ' return' .
+C: BENJI
+D: Ok - I ' m going to open the para door. INT. A400 - CARGO BOLD - DAY Behind the nav officer, the paratroop door flies open, and Ethan comes hurtling through it. The officer spins , sees - Now both the lift gate and the para door are open . But no Ethan. The officer walk down to check out the para door . Behind him, Ethan stands, having slid around the corner of the pal let. The officer turns , Ethan ducks. The officer walks around, looks at the open para door, looks down the l ength of the pal let a l ong the other side. Still no Ethan . Reveal Ethan, now crouched against the cargo on the side facing the cockpit . He flips through a couple of latches on the floor, grabs the resulting loose nyl on straps. The officer walks back to the manual controls for the l ift gate - but before he tries again, he senses something, and turns. 4TH GOLDENROD 23 MARCH ' 15 8 . There 's Ethan, hurriedly strapping himself to the pallet . He looks up . Their eyes lock for a moment before Ethan reaches up and pulls a ripcord , causing a cargo parachute to jett ison out the lift gate. The officer pulls out a handgun , but can 't squeeze off a single round before Ethan, in an i nsane l y rapid exit, rides the palle ts out the lift gate , pulled by the parachute unfurling behind them . Whooooooosh. INT. COCKPIT - DAY The nav officer walk in slack-jawed .
+C: PILOT
+D: What's going on? The pilot and co-pilot turn to him.
+C: NAV OFFICER
+D: Some guy .. in a business suit . just took all our shit. The pilot blinks .
+C: PILOT
+D: What?
+C: NAV OFFICER
+D: Yeah . EXT. BELARUS AIRSPACE - GOVERNMENT BUILDING - DAY The parachute holding the pal let deploys. CUT TO: Ethan holds on as the pal let descends rapidly towards the city . He passes a cel l tower on top of a building, floats over a government building quadrant where an official car pulls up . Ethan jumps off the pallet onto a roof . Squads of sol diers in ceremonia l dress stand to attention and salute as a dignitary steps out of the car to greet the wai ting party when the pallet smashes i nto the dign i tary's SUV, crush ing it. The soldiers dive for cover .
+N: 26 CONTINUED: 4TH GOLDENROD 23 MARCH ' 15
+C: SHOPGIRL
+D: Sax?
+C: ETHAN
+D: Coltrane.
+C: SHOPGIRL
+D: Piano?
+C: ETHAN
+D: Monk.
+C: SHOPGIRL
+D: Shadow Wilson on bass .
+C: ETHAN
+D: Shadow Wilson plays drums . Are you testing me?
+C: SHOPGIRL
+D: Maybe. Know why they call him Shadow?
+C: ETHAN
+D: Because he had a light touch . The woman's demeanor changes very so slightly . She reaches under the counter and produces a b l ank, white record sleeve.
+C: SHOPGIRL
+D: You're in luck . I have a first pressing . Ethan approaches, takes the record . She nods to a listening booth at the back of the store . As Ethan turns to walk away .
+C: SHOPGIRL
+D: It rea l ly is you . He stops, looks back . After a beat, he nods.
+C: SHOPGIRL
+D: I've heard stories . They can't all be true . He considers the question, decides it's one better l eft unanswered, and continues towards the booth .
+N: 4TH GOLDENROD 23 MARCH ' 15
+C: VOICE
+D: Norma l ly, you and your team would be tasked with infiltrating and disrupting this terrorists network . But we have taken steps to insure that this wi l l not happen. Ethan cocks his head - something is very wrong .
+E: CONT'D
+C: VOICE
+D: Because we are The Syndicate, Mr. Hunt. And now we know who you are. Ethan abruptly turns, reaches for the doorknob, finds it LOCKED. Through the glass he sees: The shopgirl. A MAN stands behind her, pistol to the back of her head, staring at Ethan not so much with malice, but confidence . This is SOLOMON LANE.
+E: CONT'D
+C: VOICE
+D: Your mission, should you choose to accept i t, is to face your fate. Pursue us, and you wil l be caught . Resist us, and you will be killed. Ethan pounds on the door with c l osed fists, the Shopgirl terrified, eyes pleading.
+E: CONT'D
+C: VOICE
+D: And your precious Secretary will disavow any knowledge of your actions. Solomon's f inger caresses the trigger - PULLS IT . He turns and casua l ly walks out .
+E: CONT'D
+C: VOICE
+D: Good luck, Mr . Hunt . This message will self -destruct in 5 seconds 5, 4, The beam simultaneously projects the countdown 3, 2 - Ethan stands back and kicks the door, over and over, as the spinning record begins smoking behind him, a toxic cloud filling the booth, overtaking him . 4TH GOLDENROD 23 MARCH '15 13. INT. THE VINYL OFFER - NIGHT Pulling back slowly from the smoke filled booth . All we can see are Ethan's hands pounding the g l ass. EXT. THE VINYL OFFER - NIGHT Lane emerges onto the street and walks away. He p l aces a cigari l lo in his teeth and runs a match along the wall, IGNITING IT , taking us to the:
+E: CONT'D
+C: CREDITS
+D: CREDITS. The fuse, the theme, f l ash-forwards that teas e the action to come, all of it ending at - EXT. WASHINGTON D.C. - DUSK The Capitol Dome. The mall. The sound of a ringing phone o.s.
+C: VOICE
+D: This is not an isolated incident. The IMF's misadventures date back to my earliest days in the CIA - when the IMF broke into the CIA to steal a list of covert operatives INT. SENATE CHAMBER - DAY
+E: HUNLEY PRELAP
+C: HUNLEY
+D: Or more recently, when a Russian warhead-
+C: BRANDT
+D: Disarmed Russian warhead-
+C: HUNLEY
+D: Russian nuclear warhead-
+C: BRANDT
+D: Rendered safe-
+C: HUNLEY
+D: -cl ipped the TransAmerica Pyram id before plunging into the San Francisco bay - Cl osed session . Reading l amps illuminate the faces of SIX MEN on the dais . 4TH GOLDENROD 23 MARCH ' 15 14. In the center is THE CHAIRMAN , a silver lion of a statesman wi th a commanding presence. They face TWO FIGURES in the gallery . One is CIA DIRECTOR ALAN HUNLEY sitting next to Brandt in the hot seat, facing the panel .
+E: 60s 50s
+C: HUNLEY
+D: - all this made possible by IMF agents who did willing l y provide the launch codes to a known terrorist . Do I have that right, Agent Brandt? The six man panel shifts it's gaze to Brandt .
+E: CONT'D
+C: BRANDT
+D: It's . . a long story .
+C: HUNLEY
+D: Perhaps now is the time to tell it.
+C: BRANDT
+D: I can neither confirm or deny details of any such operation without the Secretary's approval. Hunley stands and walks away to the TV screen, remote in hand.
+C: HUNLEY
+D: This was the same week - the same week, mind you - that IMF agents infil trated the Kremlin . He c l icks the remote. An image of the Krem l in appears.
+C: HUNLEY
+D: Here is the Kremlin before He clicks and a second image of the Kremlin appears - a pile of smoking rubble.
+E: CONT' D
+C: HUNLEY
+D: And the Krem l in after . The panel looks to Brandt again .
+E: CONT' D
+C: BRANDT
+D: I can neither confirm nor deny details of any such operation- 4TH GOLDENROD 23 MARCH '15
+C: HUNLEY
+D: - without the Secretary's approva l . We know. Until this panel appoints a new Secretary, you can't say much of anything, can you, Agent Brandt?
+C: BRANDT
+D: Well, I didn't write the rules, Mr. Hunley.
+C: HUNLEY
+D: How convenient .
+C: BRANDT
+D: Mr. Director, the Secretary was not just my mentor and superior. He was my friend. And I happened to be sitting next to him when he was k i l l ed serving his country . I don't see anything convenient about it.
+C: HUNLEY
+D: Mr. Chairman, the IMF is not just a rogue organization, it's an outdated one -
+C: BRANDT
+D: - Mr Chairman -
+E: interrupts
+C: HUNLEY
+D: - a throwback to an era without transparency or oversight .
+C: BRANDT
+D: - Mr Chairman -
+E: interrupts
+C: HUNLEY
+D: - The time has come for the IMF to be dissolved and it's sal vageab l e assets transferred to the CIA-
+C: BRANDT
+D: Mr. Cha i rman, the IMF has operated without oversight for forty years .
+C: HUNLEY
+D: - Mr Chairman -
+E: interrupts
+N: 4TH GOLDENROD 23 MARCH ' 15 17. The Woman carries a smal l tray in one hand. She p l aces it on a table, removes her jacket and puts down the tray revealing two needles and several vials of liquid . The door opens and FIVE MORE FIGURES enter. Faces we've never seen before . They stare at Ethan as if we were in a zoo - a thing to be studied. The fifth man is a SCARY BLOND we ' ll call JANIK (40s) . This guy is trouble . The Woman confronts Janik, speaking in Swedish . Ethan studies them as:
+C: THE WOMAN
+D: [What are you doing here?] JANIK closes and bolts the door .
+C: THE WOMAN
+D: [Hey - I asked you - what are you doing here?] He walks directly up to Ethan, looming over him . He takes off his jacket , rol l s up his s l eeves. Something about Janik str i kes Ethan as curious .
+E: CONT'D
+C: JANIK
+D: What does he see in you, I wonder.
+C: ETHAN
+D: Who is he? Janik punches Ethan.
+C: JANIK
+D: [I want to see what he ' s made of .] Janik walks over to the table, pul ls a box out from underneath .
+C: ETHAN
+D: Take the cuffs off and I ' ll show you, Vinter.
+C: JANIK
+D: You know who I am. Janik smiles, opens the box, revealing surgica l too l s - a saw, a hammer, etc. 4TH GOLDENROD 23 MARCH '15
+C: ETHAN
+D: You're Janik Vinter . They call you the bone doctor . Funny thing is , you were officially declared dead three years ago. Nice shoes , by the way. Janik and the Woman look at Janik ' s feet.
+C: ETHAN
+D: Not his . Yours . The Woman l ooks at her own shoes , then Ethan. She can't believe this guy . She walks up to Janik .
+E: CONT'D
+C: THE WOMAN
+D: [Our instructions were to break him down, not kill him . ] He walks away from her back to Ethan.
+C: JANIK
+D: [Some guys break different than others . ] Janik punches Ethan in the gut, twice . Ethan takes it as well as can be expected.
+C: JANIK
+D: You see . This one's a fighter. He punches Ethan again, twice .
+E: CONT'D  to the Woman
+C: JANIK
+D: He' ll die before you turn him.
+E: CONT'D to Ethan
+C: THE WOMAN
+D: Are you worried he' l l take your place?
+C: ETHAN
+D: I don't remember applying for the job. Janik looks at her. She's struck a nerve. He walks to her, looming. Janik punches Ethan in the ribs, twice.
+C: JANIK
+D: He wil l be the death of us a l l .
+E: re : Ethan
+N: 4TH GOLDENROD 23 MARCH '15 Janik punches Ethan again, in the face this time.
+C: ETHAN
+D: You should go before this gets ugly. The Woman quietly palms the rabbit-foot key-ring in her hand.
+E: to the Woman
+C: JANIK
+D: He's right. You should go. Vinter crosses the table. The Woman counters to the other side of the room, staring at Ethan. Vinter picks up any tool you like. Ethan notices an object in the Woman's hands. A rabbit's foot with a cuff key on it. From this vantage, only Ethan can see it. Vinter and the other goon are none the wiser. She gives Ethan a look that says "do something". He's not sure what she means. She does it again. Vinter approaches with the tool. Ethan braces.
+C: THE WOMAN
+D: [Du, Vinter.] Vinter turns his head to address her and: WHACK - Ethan kicks up both feet, catching Vinter in the chest and sending him flying. All eyes in the room follow the flying Swede. In an instant, the Woman throws the rabbit's foot. Ethan catches it.
+C: [FIGHT ENSUES]
+D: INT. CORRIDOR - NIGHT Staring at the steel door from the outside. Five gunshots ring out. Then silence. The Sentries exchange a confused look. INT. SUBTERRANEAN CHAMBER - NIGHT WIDE SHOT of all five men on the floor. Incredulous pause. Then:
+N: 4TH GOLDENROD 23 MARCH '15
+C: ETHAN
+D: What just happened here? A knock on the door. One of the sentries calls out. When he hears no reply, he bangs, shouts louder.
+C: THE WOMAN
+D: This way. Ethan follows her out of the chamber as Vinter slowly comes to. INT. TUNNEL - NIGHT She walks toward a cage door at the end of the hall, opens it. Ethan steps through to make sure the way is clear. To his surprise, she slams it behind him. Ethan grabs the gate, yanks it. Locked.
+C: ETHAN
+D: What are you doing?
+C: THE WOMAN
+D: I can't leave.
+C: ETHAN
+D: You can't stay here. We just killed those men.
+C: THE WOMAN
+D: We didn't kill them. You did. Right before you knocked me senseless.
+E: touching her bruised eye
+C: ETHAN
+D: Who are you? Ethan hesitates. The sentries are slamming against the door, trying to break it down. He hesitates.
+C: THE WOMAN
+D: Better hurry now. Good luck. The Woman turns and runs out. Ethan hears shouting. He backs up and races down the long corridor as Vinter and the other Sentry run round the corridor and fire at him through the locked gate. 4TH GOLDENROD 23 MARCH '15 :INT. SWITCHBOARD - DAY A hand connects a modern version of an analogue phone terminal. THE OPERATOR connects a cable and answers.
+E: OMITTED
+C: OPERATOR
+D: Satcom seven.
+C: VOICE
+D: Western Europe unsecured.
+E: ON PHONE
+C: OPERATOR
+D: Designator?
+C: VOICE
+D: Bravo, echo, one, one.
+E: ON PHONE
+C: OPERATOR
+D: Connecting. :INT. CORRIDOR - DAY A cell phone rings. A hand picks it up. REVEAL WILLIAM BRANDT .
+E: 30s
+C: BRANDT
+D: This is Brandt.
+C: ETHAN
+D: Go secure. He taps the screen on his phone. We hear three beeps.
+E: ON PHONE
+C: BRANDT
+D: Go.
+C: ETHAN
+D: London terminal is compromised. I repeat, London compromised. Agent ... Agent in place is down. Request immediate extraction.
+C: BRANDT
+D: Do you have anything to go on? Ethan closes his eyes: sees Lane walking away from him in the record store. 4TH GOLDENROD 23 MARCH '15
+C: ETHAN
+D: A face. He could have killed me but he didn't ... He wanted something ... Not information ...
+C: BRANDT
+D: What do you think it means? Ethan thinks. Remembers the record player. Realizes:
+E: OMITTED
+C: ETHAN
+D: The Syndicate is real. They know who we are, how we operate ... I think I know why they've been so hard to find. Focus operations on gathering any available intel regarding former covert operatives - it doesn't matter what country or agency - just as long as they're dead or presumed dead. Start with Janik Vinter, also known as the Bone Doctor. :INT. CORRIDOR/ EXT. STREET - J:NTERCUT Brandt is looking down the corridor at the panel members filing out of the conference room, Hunley's look to Brandt is unsettling. Brandt keeps on eye on him throughout:
+E: realizing focusing
+C: BRANDT
+D: I can't do that.
+C: ETHAN
+D: What are you talking about?
+C: BRANDT
+D: The Committee shut us down. Operations have been handed over to the CIA. Ethan ... There is no more IMF ... I'm sorry ... I've been ordered to bring everyone in.
+C: ETHAN
+D: I understand. 4TH GOLDENROD 23 MARCH '15 23. Ethan looks down to reveal he's holding a compress to his side. He's been shot.
+C: BRANDT
+D: Ethan-
+C: ETHAN
+D: I understand, Brandt. We never had this conversation. I've disappeared in London. You don't know if I'm dead or alive.
+C: BRANDT
+D: This man you saw ... Can you find him?
+C: ETHAN
+D: I have to find him ... I won't stop until I do. Brandt looks up and sees Hunley approaching. He speaks quickly.
+C: BRANDT
+D: This may very well be out last mission, Ethan. Make it count. Brandt hangs up, leaving Ethan alone in the world. He erases his phone. Looks up to see- :INT. CORRIDOR - DAY Hunley walking out of the Chamber towards him.
+E: OMITTED
+C: BRANDT
+D: Mr Director. Mr Director, sir. Hunley turns back to face Brandt.
+C: HUNLEY
+D: What is it Brandt.
+C: BRANDT
+D: With all due respect, you're making a mistake you may live to regret. 42 CONTINUED: 4TH GOLDENROD 23 MARCH '15
+C: HUNLEY
+D: My only regret is that your principal agent of chaos wasn't here to see what happened today. Now Brandt, since we're going to be working together I want you to choose your words very carefully. Where is Hunt?
+C: BRANDT
+D: I don't know.
+C: HUNLEY
+D: Of course you don't.
+C: BRANDT
+D: I have no way of contacting him. He was deep cover. The last I hears he was tracking the Syndicate.
+C: HUNLEY
+D: Let's cut the bull. You know who we are, what we are capable of. How is it that the CIA has never uncovered any actionable intelligence regarding this "Syndicate"?
+C: BRANDT
+D: Would you like a polite answer or the truth?
+C: HUNLEY
+D: Where are they based? What is their ideology? Who are their members? Who is their leader? Do you, in fact, have any Syndicate intel not furnished by Ethan Hunt himself?
+C: BRANDT
+D: What are you implying?
+C: HUNLEY
+D: Not implying. Stating. Leveling an accusation. Hunt is both an arsonist and a fireman at the same time. I believe the Syndicate is a figment of his imagination - created to justify the IMF's existence. Well, I'm going to find him, Brandt. 4TH GOLDENROD 23 MARCH '15
+E: MORE
+C: HUNLEY
+D: And when I do, he'll be called to answer for every wanton act of mayhem he's responsible for. Welcome to the CIA. As he leaves:
+E: CONT'D
+C: BRANDT
+D: You'll never find him.
+C: HUNLEY
+D: Set your watch, Brandt. Hunt is living his last day as a free man.
+C: BLACK. SILENCE. TITLES: SIX MONTHS LATER
+D: EXT. TROPICAL CITY - DAY
+C: TITLES: HAVANA, CUBA
+D: ZOOM IN SLOWLY on a coastal shanty town. The sound of intense breathing o.s. INT. GRUNGY APARTMENT - DAY The home of a laborer. A bed, a basin for washing, a hotplate, few pots and pans. The breathing continues. REVEAL Ethan, his face covered in a bears and moustache, his hair slicked back, his skin tinged by the sun. He has a recently healed scar on his side. He's doing pull-ups, breathing steadily. On the table in the center of the room we see cut up newspapers, a ball of red twine, pencils, scissors, the remnants of some project. INT. WAR ROOM - DAY The dark heart of the CIA's technology-centric universe. Low lights emphasize large monitors watched by YOUNG TECHNICIANS. TWO DRONE PILOTS prowl the skies half a world away. Hunley strides out his office past a Technician in front of a bank of screens. 4TH GOLDENROD 23 MARCH '15
+C: HUNLEY
+D: Are you sure he's there this time?
+C: TECHNICIAN
+D: Hundred percent, Sir.
+C: HUNLEY
+D: He better be. Hunley goes down the stairs as we find Brandt watching him from the balcony. He strides through the main war room.
+C: HUNLEY
+D: Right everybody, heads up. This is it. He stops next to LAUREN , his right hand and the epitome of the new CIA and leans down to a Technician sitting in front of a large monitor. On the center screen, we see that aerial shot of the shanty town. Our establisher was a CIA drone.
+E: CONT'D 20s
+C: HUNLEY
+D: Execute. A TECHNICIAN presses a button.
+E: CONT'D
+C: TECHNICIAN
+D: Langley, Brimstone. Go. I say again, we are go. On the center screen, two local vehicles, both junkers meant to avoid attention, screech to a halt in front of the building. On a second screen, we see video from inside the cars. Each is occupied with SOLDIERS . All wear civilian clothes, trying badly to look local. Half of them wear head-mounted cameras, transmitting what they see back to Hunley. They bail out and: EXT. GRUNGY APARTMENT - DAY THE DRONE P.O.V. watches the soldiers from above as they rush the front door of the grungy building. 4TH GOLDENROD 23 MARCH '15 27. INT. GRUNGY APARTMENT - DAY Ethan calmly continues his pull-ups. INT. CORRIDOR - DAY The Military men approach a door at the end of a hallway, weapons drawn. INT. WAR ROOM - DAY Hunley can hear Ethan's breathing just inside the room. With a look his men in Havana count 3, 2, 1- And crash through the door. Hunley watches as the men rush in, fan out, search the small apartment. No Ethan, no pull-up bar, no table covered with trash. INT. GRUNGY APARTMENT - DAY Just a cell phone on a chair, propped up and facing the door. The screen is blank, but we hear the sound of Ethan's breathing on the speaker. EXT. PARIS - DAY Aerial establisher of the city of light. Push in slowly on a small apartment window. Inside it, we find: INT. GRUNGY APARTMENT - DAY Ethan Hunt, half a world away, watching via cell phone as the CIA searches an apartment in Cuba. He drops to the floor, shuts off the phone. INT. WAR ROOM - DAY Brandt joins Hunley.
+E: based on their haircuts
+C: SOLDIER
+D: Brimstone, Langley. There's no one here. Something catches Brandt's eye. 4TH GOLDENROD 23 MARCH '15
+E: ON SCREEN
+C: BRANDT
+D: Langley, Brimstone. Face the North wall. Hundreds of miles away, a soldier faces the wall of the grungy apartment revealing: A map of the world. On one side of the map are newspaper clippings: bank collapses, assassinations, acts of sabotage such as plane crashes. On the other side of the map is a perfect grid of photographs. Dozens of them. Each is a simple dossier­ style image. Each is marked with one word, be it English, French, German, Russian ...
+C: PRESUMED DEAD, DECEASED, TERMINATED.
+D: Some of the photos have been taken from the grid and pinned to the map along with a gloomy article. Brandt hits a button. The giant center screen freezes on the collage.
+C: HUNLEY
+D: Is this a joke?
+C: BRANDT
+D: No, it's a message. Hunley shakes his head and walks back to his office. He passes the Tech.
+C: HUNLEY
+D: Hundred percent my ass, you're fired. On the next screen, a soldier picks up a lone sketch from a rickety table: a drawing of the Woman, less like a composite sketch and more like a portrait. Brandt takes notes. The sound of epic opera music takes us to: EXT. CIA CYBERDIVISION - DAY The newly minted off-shoot of the CIA's Langley HQ. 4TH GOLDENROD 23 MARCH '15 29. INT. CIA TECHNICAL CENTER - DAY Clean lines, cleaner surfaces. A place for sifting through trillions of bits of data, overlooking a massive array of data servers. Welcome to the age of big data. Here we find: BENJI DUNN , once bookish, now a bit rugged, hard at work on a keyboard, presumably crunching code with the most powerful computer on Earth. REVEAL: He's playing Halo on a three screen array. He glances up at a rear view mirror strategically placed on the screen, sees someone coming, he pulls off his headphones and the opera music instantly stops. He hits a button and the game vanishes, replaced by: Three screens: 1) email 2) streaming raw code email 2) streaming raw code streaming raw code and 3) a browser in Chinese as: A CLERK drops the day's mail on his desk and moves on. Benji picks up the mail and sifts through it, finding one piece in particular that catches his attention. He opens and removes a BROCHURE and a letter. The brochure reads:
+E: 30s which he types nonstop which he types nonstop which he types nonstop
+C: YOU'VE WON! VIENNA OPERA
+D: He smiles bitterly, almost disappointed. The phone rings, startling him. He answers:
+C: BENJI
+D: Dunn. Benji's face darkens.
+E: OMITTED
+C: BENJI
+D: Is it that time already? INT. CIA - CONFERENCE ROOM - DAY Lauren is strapping Benji to a polygraph. The process is rather intimate - blood pressure cuffs, chest straps, etc. A legal-size box sits on the center of the table. After a long silence. 4TH GOLDENROD 23 MARCH '15
+E: CONT'D
+C: BENJI
+D: You changed your hair ... It's a joke ... because you ... never change your hair. Or your expression ... Lauren doesn't answer.
+E: laughs
+C: BENJI
+D: What's in the box? I ask because it's sitting there rather ominously. Lauren doesn't answer.
+E: CONT'D
+C: BENJI
+D: Do you like opera? I love opera. I just won two tickets ...
+E: CONT'D
+C: LAUREN
+D: Are you asking me out?
+C: BENJI
+D: No, no, no.
+C: LAUREN
+D: Because department policy strictly forbids that.
+C: BENJI
+D: Yes, of course. Can't go anyway ... Can't get the time off ... I never used to think about time off. Work was always interesting. Seeing the world. Always something new every day. Stressful, sure, but ... Never felt like a job, you know? Do what you love, love what you do ... I wonder if this is just a job to you. That would explain why you never smile. Unless, of course, you love not smiling. She fastens one last strap, bringing them face to face. She stares at him expressionless.
+E: distant
+C: BENJI
+D: In which case we're having the time of our lives right now. 4TH GOLDENROD 23 MARCH '15 There is some flicker in her eyes - a hint of her guard coming down.
+E: CONT'D
+C: LAUREN
+D: I'm going to ask you a series of control questions- Lauren takes a seat at her laptop.
+C: BENJI
+D: Yes, I know. You'll ask me to answer truthfully. Then you'll ask me to intentionally lie. Let's go.
+C: LAUREN
+D: State your name.
+C: BENJI
+D: You ask me that question every week.
+C: LAUREN
+D: Your name.
+C: BENJI
+D: The King of Norway. His vitals fluctuate.
+C: BENJI
+D: That was a lie. I'm actually third in line to the throne. His vitals don't fluctuate. The door opens and Hunley enters Brandt follows. Benji is instantly nervous. Hunley walks up, staring at Benji, making him even more tense.
+E: CONT'D
+C: HUNLEY
+D: Has Ethan Hunt contacted you? Benji's vitals jump. Hunley makes note.
+C: BENJI
+D: Why would he contact me? Hunley opens the box, throws down a pile of newspaper clippings, hand-drawn images of Lane and the woman, along with photos of how it had been arranged in Havana. 4TH GOLDENROD 23 MARCH '15 We see stories of plane crashes, fires, a seemingly random mish-mash of disasters.
+C: HUNLEY
+D: He resurfaced again. This time in Cuba. He left this behind. Tell me what do you make of this?
+C: BENJI
+D: He's taken up scrapbooking? He tries to smile, but withers under Hunley's gaze.
+C: HUNLEY
+D: Look at the photographs, Dunn. Know what they have in common? Benji shrugs.
+C: HUNLEY
+D: They're all missing or dead. Every one. All of them were government agents. Russian, French, British, Israeli, you name it. These are highly classified files. Hunt has no problem collecting them? He always manages to stay one step ahead of us. I'm wondering how. Brandt and Benji exchange a look.
+E: CONT'D
+C: BENJI
+D: Are you suggesting I'm helping him?
+C: HUNLEY
+D: The thought crossed my mind.
+C: BENJI
+D: Six months I've been here. Half a year sifting through mountains of metadata, exabytes of encoded excrement. I've decrypted, processed, parsed and interlaced more data than anyone in my section. And every week you haul me in and ask me the same question in a different way.
+C: HUNLEY
+D: And today you haven't answered it.
+N: 4TH GOLDENROD 23 MARCH '15 35.
+S: INT. METRO - NIGHT
+N: Benji emerges from a train in a tuxedo, feeling pretty good about himself. He takes only a few steps when a hooded musician presses a manila envelope into his chest and walks away without saying a word. Benji opens the envelope, pulling out a program for the Vienna opera, and a pair of dark-rimmed eyeglasses. He notices metal disks on the inside of the earpiece. Realizing what they are, he puts the glasses on and his head is filled with a voice saying:
+C: ETHAN
+D: Benji, do you copy? Benji tries to contain his reaction. He sort of manages.
+E: ON COM
+C: BENJI
+D: Ethan? Where are you? Where the hell have you been?
+C: ETHAN
+D: No time for that now. Keep walking. Make sure you're not being followed. Benji does as he's told. INT. METRO TUNNEL - CONTINUOUS Benji walks as:
+E: ON COM
+C: BENJI
+D: I didn't win these opera tickets, did I?
+C: ETHAN
+D: No. Benji curses under his breath.
+C: BENJI
+D: Where do we meet?
+C: ETHAN
+D: We don't. For your sake, you can't be seen with me. You have mail. 4TH GOLDENROD 23 MARCH '15 INT. METRO - ESCALATOR - CONTINUOUS Benji mounts the escalator, looks around, growing paranoid. Benji's phone chimes in his pocket. He pulls it out and a face appears on the screen - a photo of Solomon Lane, blurry, grainy, taken at some distance.
+C: BENJI
+D: Who is he?
+C: ETHAN
+D: That's what we're here to find out. What I do know is he's out only possible link to the Syndicate. And I have reason to believe he's going to be here tonight. But I can't find him alone. Are you in? Are you in?
+E: repeats
+C: BENJI
+D: Yes, yes, of course. What's the play? INT. METRO - PLATFORM - CONTINUOUS Benji steps off the escalator onto another platform.
+C: ETHAN
+D: You find him, we tag him, I follow him wherever he goes.
+C: BENJI
+D: And after that?
+C: ETHAN
+D: After that, you're on a plane. Back at work Monday morning. No one is the wiser.
+C: BENJI
+D: Wait, you mean that's it?
+C: ETHAN
+D: You're in enough danger as it is. I didn't want to involve you this much, but I had no choice. 4TH GOLDENROD 23 MARCH '15
+C: BENJI
+D: Well - yes, but I've come all this way. I might as well. INT. ESCALATOR II - NIGHT Benji sighs as he rides up to the street.
+C: BENJI
+D: If you're going to bring me all this way, at least give me something a little more ... dramatic.
+C: ETHAN
+D: You want drama, go to the opera. And Benji emerges from the metro TO REVEAL: EXT. VIENNA OPERA HOUSE - NIGHT Scene of a fabulous gala: A command performance of Puccini's Turandot - an Italian Opera set in Ancient China. Red carpet, limos, paparazzi and flashbulbs. EXT. STAGE DOOR - SIDE OF THE OPERA HOUSE - NIGHT CLOSE ON: Hands open an instrument case containing pieces of flute. A POLICEWOMAN inspects it. CLOSE ON: the owner - A MALE FLAUTIST . We are not allowed to see his face, making us instantly suspicious of him. The Policewoman waves him on. The Flautist shuts the case and enters the stage door with other ORCHESTRA MEMBERS, all of whom are subject to search tonight. We stay outside, watching him through the open door. We notice the members of the orchestra turn right as they enter. But not the Flautist. He goes straight, vanishing into the shadows ... Up to no good. EXT. OPERA HOUSE - NIGHT CONTINUOUS TRACKING SHOT:
+E: OMITTED 30s
+N: 4TH GOLDENROD 23 MARCH '15
+C: BENJI
+D: I'm sure the two things are completely unrelated and, as you assured me, I'll be back at my desk Monday morning playing video games, no one's the wiser.
+E: CONT'D
+C: ETHAN
+D: Benji. Show's about to start. Just take your position and tell me what you see. Nice tux, by the way. Benji spins on his heels, expecting to find Ethan. But Ethan is gone. INT. OPERA HOUSE CORRIDOR - NIGHT Benji arrives at a service door marked with electronic symbols. He quickly works the lock and slips into- INT. ELECTRICAL ROOM - NIGHT A cramped space, humming with electrical conduits. He's very out of place in a tux. He finds a junction box he's looking for, opens it, studying the dense mass of wires inside. He attaches a device, opens the program to reveal a paper-thin computer screen and keyboard inside. INT. OPERA HOUSE - STAGE MANAGER'S BOOTH - NIGHT The nerve center of the opera. From here, THE STAGE MANAGER can see anything on, above or behind the stage via several monitors. Two static wide angle cameras show her the audience and the lobby. She whispers in German into a small headset.
+E: FEMALE, 30s
+C: STAGE MANAGER
+D: [Final checks are complete. Everyone on standby please.] INT. LIGHTING BOOTH - NIGHT From here, TWO TECHNICIANS control the sophisticated lighting for the entire opera. Talking quietly into their headsets, they manipulate a few controls and: 4TH GOLDENROD 23 MARCH '15 INT. OPERA HOUSE - SKYTOWER - NIGHT A trestle high above the stage - the bottom encrusted with lights - descends into place. INT. OPERA HOUSE - BACK STAGE - DRESSING ROOMS - NIGHT CAST MEMBERS rush to take their places. We see- INT. OPERA HOUSE - STAGE MANAGER'S BOOTH - NIGHT -the same image on one of the stage manager's monitors. All the screens flicker simultaneously. Before she can even react, they are back on. INT. ELECTRICAL ROOM - NIGHT Benji has wired the laptop to the junction box. The screen lights up with a glowing checkerboard. Each square is the POV of a camera. He's hacked into the stage manager's station. He can touch any square to zoom in. Three words appear:
+C: RUN FACIAL RECOGNITION
+D: Fine lines rapidly scan any face with amazing speed. In the upper right hand corner of his screen, he has the constant, grainy image of Solomon Lane.
+C: BENJI
+D: I have eyes. Searching. Great sketch by the way. Next time try a photo.
+C: ETHAN
+D: Good to have you back Benji. Benji sighs, looks at his dank surroundings.
+E: ON COM
+C: BENJI
+D: Join the IMF. See the world. On a monitor. In a closet. INT. LOBBY - NIGHT The lobby is empty apart from a lone WOMAN, ELEGANT AND LEAN IN A FETCHING YELLOW DRESS. We can't see her face.
+N: 4TH GOLDENROD 23 MARCH '15 The lobby lights dim. The show is about to begin ... The sound of a tuning orchestra takes us to:
+S: INT. OPERA HOUSE - NIGHT
+N: ANGLE ON: The magnificent chandelier in the center of the opera house ceiling as it dims ... A rapid tapping o.s. The tuning orchestra falls silent. A CONDUCTOR'S HAND, holding a baton, rises into frame, snaps down and the opera begins - the music as turns triumphant and foreboding. The orchestra renders the ominous "Tre enigmi m'hai proposto." Subtitles above the stage translate: <Three riddles have I proposed.>
+S: INT. OPERA HOUSE - BACK-STAIRS - NIGHT
+N: CONTINUOUS TRACKING SHOT: Ethan emerges through a set of glass doors. He crosses a long, brightly lit hallway where STRAGGLING LADIES AND GENTS check their coats. He slips through a side door and into-
+S: INT. OPERA HOUSE - UPPER BOX - NIGHT
+N: -an upper box with a view of the whole opera house. He can see the audience, the orchestra, the stage. REVERSE ON ETHAN TO REVEAL: In the box just below him, the Chancellor and his wife are sitting down. TWO BODYGUARDS scan the audience. (OMITTED)
+S: INT. OPERA HOUSE - VARIOUS
+N: VARIOUS ANGLES FROM AROUND THE HOUSE - from the lights high above, the box across the auditorium - each a perfect vantage of The Chancellor.
+S: INT. ELECTRICAL ROOM - NIGHT
+N: Benji bounces from camera to camera on his laptop. He stops on the cast area. The CAST AND CHORUS wear either heavy make-up or masks. His facial recognition software becomes confused, flickering: 4TH GOLDENROD 23 MARCH '15
+C: READ ERROR BENJI
+D: Dammit. An image of a backstage camera catches his eye. A Man walk away from camera with a case under his arm. THE FLAUTIST. But Benji cannot see his face. His movements are suspicious, however. He ducks out of sight to let TWO CHORUS MEMBERS pass. Then he proceeds off camera.
+C: BENJI
+D: Uh ... Ethan ... I might have something. Cannot confirm. INT. OPERA HOUSE - UPPER BOX - NIGHT
+E: CONT'D
+C: ETHAN
+D: Where?
+C: BENJI
+D: Back stage. I'll direct you. Ethan stands and rushes out of the box. INT. OPERA HOUSE - CORRIDOR - NIGHT The shadowy Officer steps out of a door and walks down a corridor. INT. OPERA HOUSE - PROPS STORAGE - NIGHT A hallway filled with props. The Woman walks through and climbs a metal ladder to platform. CLOSE ON: the Woman's hand inspects the scaffold, taps a struts, removes it. It quickly transforms into a rifle. The Woman in yellow turns, walks away from us. INT. ELECTRICAL ROOM - NIGHT Benji tracks the Flautist on one monitor, Ethan on another, approaching a door:
+E: ON COM
+C: BENJI
+D: Take the door on your left. He should be right in front of you.
+N: 4TH GOLDENROD 23 MARCH '15
+S: INT. OPERA HOUSE - BACKSTAGE DOOR - NIGHT
+N: Ethan throws the door open, turns right, finding an empty corridor.
+C: ETHAN
+D: Where is he?
+C: BENJI
+D: I lost him.
+E: ON COM
+C: ETHAN
+D: Find him.
+C: BENJI
+D: I'm looking. Hearing footsteps behind him, Ethan turns, just in time to see the Woman in the yellow dress crossing the opposite backstage area.
+C: ETHAN
+D: Benji, did you see that?
+C: BENJI
+D: See what?
+C: ETHAN
+D: That woman.
+C: BENJI
+D: What woman? Where are you? Ethan looks down, sees the Flautist climb the stairs backstage.
+C: ETHAN
+D: I'm backstage.
+C: BENJI
+D: I can't see you. INT. OPERA HOUSE - WINGS - NIGHT Extreme shadows, shafts of light streaming through the semi-transparent backdrop and the stage beyond. Hidden in the shadow, rifle in hand, the Woman moves toward a Chinese-style tower with a parapet. She slips inside just before TWO STAGE HANDS walk past.
+N: 4TH GOLDENROD 23 MARCH '15 A beat later, a stage door opens and Ethan enters. No sign of the Woman. He looks left, right, up into the fly tower high above - light trestles and back-drops suspended from cables in a cavernous space rising one hundred-plus feet above the stage. Then he see him: the Flautist on the far side of the stage, moving in silhouette, his case under one arm.
+C: BENJI
+D: Ethan I see him. Back-stage, heading east.
+E: ON COM
+C: ETHAN
+D: I see him. Ethan takes a step when the set besides him moves unexpectedly. Ethan jumps back, nearly crushed by the Chinese tower moving to the stage. We recognize it immediately. He has no idea the Woman is hidden inside. By the time he makes his way around the set, the Flautist is gone.
+C: ETHAN
+D: There's a woman back here, too. Find her. He looks up at a catwalk above him, sees a ladder. INT. CHINESE TOWER - NIGHT The Woman peers through the louvers of the tower as it slides into place, ending in a perfect vantage of the Chancellor and his wife. She assembles her weapon. INT. OPERA HOUSE - STAGE - NIGHT The lavish production continues, the light dimming dramatically, the music assuming an air of chilling suspense, the stage largely empty. Mist hangs in the air. We hear A CHORUS, but their voices are far away. They sing from back stage, creating an eerie effect. INT. ELECTRICAL ROOM - NIGHT The image on Benji's computer flickers. He bangs on the electrical box.
+E: CONT'D
+N: 4TH GOLDENROD 23 MARCH '15 45.
+S: INT. LIGHTING CONTROL BOOTH - NIGHT
+N: The lighting technicians control the lights. One of the controls moves on it's own. TECHNICIAN 2 [What was that?] TECHNICIAN 1 [No idea. I don't know.]
+S: INT. FLY-TOWER - NIGHT
+N: The trestle holding up the backstage lights moves in sections - some up, some down ...
+S: INT. FLY-TOWER CATWALK - NIGHT
+N: Ethan tracks along a catwalk high up in the fly tower, looking down at the back-stage far below. He can see the chorus, hear them clearly from here. Numerous backdrops hang like louvers - perpendicular to Ethan. He stops, steps back, spies a lighting trestle between the backdrops. He sees the Flautist kneeling, just a few yards away, opening his case, his back to Ethan. Ethan climbs over the catwalk railing, about to put his weight on the trestle when: It drops from under him. Part of the show. Ethan grabs the catwalks railing, narrowly avoiding a sixty foot fall. The Flautist is unaware that Ethan is there. But now there is a ten foot gap between Ethan and the trestle. Ethan looks around, looks up. ANGLE ON: A second catwalk some twenty feet up. Ethan grabs a hanging silk and hauls himself up toward it.
+S: INT. OPERA HOUSE - TRESTLE - NIGHT
+N: The Flautist takes out his instrument, patiently reveals its real purpose: a rifle complete with silencer and FIVE BULLETS. More than he'll need. He opens a libretto, his fingers scanning the notes, telling us where we are in the opera. He flips ahead, finding a spot circled in red. His cue. 4TH GOLDENROD 23 MARCH '15 One thing puzzles us: From here, we cannot see the audience, let alone the Chancellor. EXTREME LOW ANGLE looking up at the Flautist as he loads a single round. We sense movement above him. So does he. The Assassin moves like a cat, turning and firing upwards with his silenced rifle: POP. WHAM. Ethan lands hard. A direct hit would have crushed the Flautist. But the blow is a glancing one. Bullets scatter. The flute case falls-
+S: INT. OPERA HOUSE - BACK-STAGE - RIGHT
+N: -landing in the jagged horns of an upright dragon set­ piece.
+S: INT. ELECTRICAL ROOM - NIGHT
+N: Benji's earpiece squeals.
+C: BENJI
+D: Ethan - do you copy? Ethan - come in! INT. OPERA HOUSE - TRESTLE - NIGHT Ethan and the Flautist grapple for the gun - the Flautist ends up on top of Ethan, pressing the weapon against Ethan's throat. Ethan see the Flautist's face clearly for the first time. It's not Solomon Lane. CLOSE ON: The Flautist's face ... His eye. ECU ON: He wears a contact lens in one eye, crossed with delicate lines of circuitry. A camera. INT. OPERA HOUSE - AUDIENCE - NIGHT CLOSE ON a small screen held in a man's hand. On the screen is Ethan's face, looking directly into the Flautist's eye. REVEAL: The face of the man holding the phone. It is a calm, peaceful face. Making it all the more frightening.
+E: and we
+N: 4TH GOLDENROD 23 MARCH '15 It is Solomon Lane. He pockets the phone and exits the auditorium. ANGLE ON: A GRAY-HAIRED MAN (ATTLEE) in one of the boxes, glancing over to watch Solomon leave. Remember him ...
+S: INT. OPERA HOUSE - TRESTLE - NIGHT
+N: Ethan and the Flautist trade blows, silhouetted through the translucent backdrop behind them. A flash of steel. The Flautist has a knife. The fight intensifies with the music.
+S: INT. OPERA HOUSE - STAGE MANAGER'S BOOTH - NIGHT
+N: EXTREME LOW ANGLE: looking up at the stage manager. She is too involved in conducting her business to notice the struggle on the trestle high above her.
+S: INT. OPERA HOUSE - STAGE - NIGHT
+N: THE TENOR sings "Nessun Donna" <No One Sleeps>, the opera's passionate signature piece. THE CONDUCTOR turns the pages of his libretto, keeping perfect time.
+S: INT. OPERA HOUSE - PRESIDENT'S BOX - NIGHT
+N: The Chancellor takes his wife's hand. She smiles.
+S: INT. LIGHTING CONTROL BOOTH - NIGHT
+N: The Two Technicians are too busy to notice the door opening slowly behind them, let alone that shadowy Police Officer slipping in - tazer in one hand ...
+S: INT. OPERA HOUSE - TRESTLE - NIGHT
+N: Ethan's in trouble, struggling to dodge a knife on a narrow trestle in the dark sixty feet up. The upstage backdrop lowers as the downstage backdrop rises with the music, revealing a second backdrop - this one translucent. A bright light descends. 4TH GOLDENROD 23 MARCH '15 48.
+S: INT. OPERA HOUSE - NIGHT
+N: For the audience, the effect is breathtaking. The light creates a sunset in the misty sky. And it completely obscures the action going on behind it.
+S: INT. OPERA HOUSE - TRESTLE - NIGHT
+N: But from Ethan's P.O.V. the entire house is visible - including the Chancellor and his wife. The Flautist lunges with his knife. Ethan parries. The Flautist falls to his death, landing on the dragon's horns. Ethan turns to the house, the Chancellor. His eyes lock in horror on the lighting control booth at the back of the auditorium. No one sees the Officer but Ethan.
+S: INT. LIGHTING CONTROL BOOTH - NIGHT
+N: The Two Technicians are unconscious and bound. The Officer assembles his own weapon: A barrel extension disguised as a baton, a laser sight disguised as a flashlight. He draws the rifle's action from his holster, of course.
+S: INT. OPERA HOUSE - TRESTLE - NIGHT
+N: Ethan puts a hand to his ear, says something we cannot hear over music.
+S: INT. ELECTRICAL ROOM - NIGHT
+N: Benji puts a hand to his ear, taps the monitor and brings up the lighting booth. He sees the Officer there with his weapon. Benji rushes from the room.
+S: INT. OPERA HOUSE - TRESTLE - NIGHT
+N: Ethan grabs the Flautist's rifle at his feet. He searches frantically for a bullet, sees one resting on the edge of the unsteady trestle, threatening to fall. He has to move fast, but can't move too fast. 4TH GOLDENROD 23 MARCH '15
+S: INT. LIGHTING CONTROL BOOTH - NIGHT
+N: The Officer sets his sights on the Chancellor. He activates the laser scope, but we see nothing. The officer puts on green sunglasses. OFFICER'S P.O.V. a green beam, invisible to the naked eye, sweeps across the room. The Officer glances at the libretto - a note circled in red. He raises his weapon chest-high. His eyes sweep from the Chancellor's box to the Chinese tower and back. He waits.
+S: INT. CHINESE TOWER - NIGHT
+N: The Woman shoulders her rifle, glancing down at the orchestra, the audience beyond.
+S: INT. OPERA HOUSE - TRESTLE - NIGHT
+N: Ethan snags the bullet. He quickly loads the rifle, turns to aim and, to his renewed horror, he sees: The Woman and her rifle in the Chinese tower. Worse still, from this position, we see her face for the first time. It's the woman. That woman. Ethan is momentarily stunned. Reluctantly, he aims at the Woman, then the Officer, then back. With only one bullet - and an unthinkable emotional conflict - what can he do? The choice is impossible. As the music reaches its highest high, Ethan turns on his heels, aims at the Chancellor, and fires as:
+S: INT. CHINESE TOWER - NIGHT
+N: The Woman fires.
+S: INT. OPERA HOUSE - PRESIDENT'S BOX - NIGHT
+N: Ethan's silences bullet grazes the Chancellor's shoulder. He lurches to one side as the Woman's bullet hits the back of his chair. Shocked, his wife and bodyguards react and rush to his aid, obscuring him. The aria finishes on stage and the audience erupts into thunderous applause. 4TH GOLDENROD 23 MARCH '15 50.
+S: INT. CHINESE TOWER - NIGHT
+N: The Woman tries to see. Is he alive? Is he dead?
+S: INT. OPERA HOUSE - TRESTLE - NIGHT
+N: Ethan too.
+S: INT. OPERA HOUSE - PRESIDENT'S BOX - NIGHT
+N: The Chancellor gets to his feet, perfectly fine. He is rushed from the box by his security.
+S: INT. LIGHTING BOOTH
+N: The Officer sees this. He quickly aims his weapon. Not at the Chancellor. But at the Woman. He fires just as the door bursts open and Benji attacks. The Officer reacts. Shooting wide-
+S: INT. CHINESE TOWER - NIGHT
+N: -his bullet strikes the wood just inches from the Woman's head. She reacts, searches for where the shot came from. Her eyes find Benji grappling with the Officer in the lighting control booth. She aims as:
+S: INT. LIGHTING CONTROL BOOTH - NIGHT
+N: The Officer gets the better of Benji. They spin suddenly and: THUNK. A bullet hits the Officer square in the back.
+S: INT. CHINESE TOWER/ LIGHTING BOOTH - WOMAN
+N: THE WOMAN'S SCOPE P.O.V: The Office drops, revealing Benji's stunned expression in her cross-hairs.
+S: INT. LIGHTING CONTROL BOOTH
+N: A single stage light flashes past the Chinese tower. For one instant, Benji sees the Woman and her rifle. He wisely hits the deck and backs out. 4TH GOLDENROD 23 MARCH '15 The applaude subsides, the music resumes, frantic, matching the drama backstage.
+S: INT. CORRIDOR - NIGHT
+N: One Bodyguard tears open the Chancellor's sleeve, revealing a flesh-wound. The other gets on the radio. (OMITTED)
+S: INT. CHINESE TOWER - WOMAN
+N: The Woman turns to leave when she sees Ethan's vague silhouette moving behind the backdrop. She aims, the bright light making the shot difficult.
+S: INT. OPERA HOUSE - TRESTLE - NIGHT
+N: A bullet pierces in the backdrop, just missing Ethan's head. Then a second shot. He's trapped on the trestle. He sees the Flautist's knife at his feet. He grabs it and leaps into space, stabbing into a black upstage backdrop, gripping the knife with both hands and sliding to the floor a la Errol Flynn.
+S: INT. OPERA HOUSE - BEHIND SET- NIGHT
+N: Ethan sees The Woman's shadow slipping from the base of the tower into the winds. He goes after her.
+S: INT. AUDITORIUM - NIGHT
+N: Police and Secret Service enter from every exit.
+C: POLICE MAN
+D: [SEAL THE EXITS. SEAL ALL OF THEM
+E: O.S. in German
+C: SEAL EVERYTHING.]
+D: For the first time, the audience is aware of a problem. THE DIRECTOR crosses the orchestra pit and signals the Conductor. Confusion. The music stops.
+N: 4TH GOLDENROD 23 MARCH '15
+S: INT. OPERA HOUSE - STAIRWELL - NIGHT
+N: The Woman is making her way down the steps when she halts. She hears voices and footsteps coming up. She turns, runs directly into Ethan.
+C: ETHAN
+D: I have a way out if you're interested? She considers the alternative.
+C: THE WOMAN
+D: Lead the way. They run. INT. PARKING GARAGE - NIGHT The Chancellor and his wife are rushed to a waiting armored SUV by their security detail.
+C: CHANCELLOR
+D: [I'm all right, I tell you. I'm all right.] EXT. OPERA HOUSE - ROOFTOP - NIGHT Sirens approaching in the distance. Ethan and the Woman burst through a doorway and onto the roof.
+E: to his wife
+C: THE WOMAN
+D: What's next? Ethan looks around, sees three flagpoles jutting over the side of the building. They look down at a fountain on the side of the opera house, surrounded by grass and a low wall. He quickly wraps his necktie around his hand.
+C: ETHAN
+D: There!
+C: THE WOMAN
+D: What? There? Okay. She runs after Ethan along the roof. Ethan vaults down to the next level. The Woman sits on the ledge, and looks down expectantly at Ethan.
+N: 4TH GOLDENROD 23 MARCH '15
+C: THE WOMAN
+D: Shoes ... Ethan looks down at her high heeled shoes, at the uneven roof. He takes them off and helps her down. They run, jump and slide down to the edge of the roof. The Woman grabs the back of Ethan's jacket to stop him from shooting over the edge. Ethan loops the rope around the center flagpole, slides it out a few feet and tugs. The knot clings to the pole. Ethan jerks the rope harder. The joint holding the pole in place snaps. The pole sags.
+E: CONT'D
+C: ETHAN
+D: Did you have another plan?
+C: THE WOMAN
+D: Not a better one. The doorway opens and THREE POLICE OFFICERS emerge onto the roof. From their vantage, they don't immediately see Ethan and the Woman. She leaps up, wraps her arms and legs around Ethan.
+C: THE WOMAN
+D: Go. And he launches them both over the railing. EXT. OPERA HOUSE - NIGHT They fall like a stone. Thanks to the street performers, no one even notices. EXT. STREET - SIDE OF OPERA HOUSE - NIGHT An instant later, two black SUVs roar up the nearby ramp to the parking garage, streaking right past the BMW. FOUR POLICE MOTORCYCLES join as escort. Ethan and the Woman watch the Chancellor go. Safe. INT. SUV - NIGHT
+E: CONT'D
+C: CHANCELLOR
+D: [Everyone be calm. For God's sake, it's just a flesh wound.]
+N: 4TH GOLDENROD 23 MARCH '15 ANGLE ON: The LEAD SECURITY MAN looks down at a silver briefcase on the floor. He realizes.
+C: LEAD MAN [STOP THE C-]
+D: EXT. STREET - SIDE OF OPERA HOUSE - NIGHT An explosion. Not a large one - just a muffled blast with enough force to buckle the doors of the SUV from the inside out. The windows turn opaque. Ethan and the Woman watch the car slow, veer to one side. A larger secondary explosion, lifts the SUV off the ground, blasting the motorcycle in four different directions. The sidewalk are screaming, running. The Woman is as shocked as Ethan. Benji pulls up in a
+C: BMW. BENJI
+D: Get in! He grabs her and pushes her into the back seat of the car. Benji hits the gas and they drive away, with Ethan and the Woman looking out the back window at a pillar of fire. INT. BMW - NIGHT Benji sees the Woman, does a double take.
+C: BENJI
+D: What th- She tried to shoot me.
+C: ETHAN
+D: That doesn't make her a bad person. I'm going to have to search you. She puts her hands on her head. Ethan frisks her. She stares at him, making him a little uncomfortable.
+E: to the Woman
+C: THE WOMAN
+D: You need to let me out.
+C: BENJI
+D: Not a chance.
+N: 4TH GOLDENROD 23 MARCH '15
+C: ETHAN
+D: I assumed you were deep cover back in London. But isn't this taking the role a bit far?
+C: BENJI
+D: Hold on. You know her?
+C: ETHAN
+D: We haven't formally introduced. I'm pretty sure she's British Intelligence. He finds a knife on her thigh:
+C: THE WOMAN
+D: Ilsa Faust. And you're Ethan Hunt. Ethan finds a lipstick, pockets it.
+E: extends a hand
+C: ILSA
+D: That shade is very hard to find.
+C: ETHAN
+D: What were you doing at the opera tonight?
+C: BENJI
+D: Besides killing the Chancellor.
+C: ILSA
+D: Saving your life in London put me in a tight spot with some very dangerous people. I was sent to kill the Chancellor to regain their trust.
+C: BENJI
+D: So you admit you killed him.
+C: ILSA
+D: No, I went through the motions. That's not the same thing. Ethan finds a carbon fiber spike in her hair. Jesus.
+C: ETHAN
+D: You thought you'd put him in the hospital. Take him out of harm's way.
+N: 4TH GOLDENROD 23 MARCH '15
+C: ILSA
+D: The same thing you tried to do.
+C: BENJI
+D: You don't actually believe that. What about the rest of her team?
+C: ILSA
+D: Those other two idiots? Redundancies.
+C: ETHAN
+D: One man to kill the Chancellor if you missed, the other to kill you. A test.
+C: ILSA
+D: The second one I've failed, thanks to you.
+C: ETHAN
+D: And the car bomb was insurance.
+C: BENJI
+D: And shooting me? What was that?
+C: ILSA
+D: I had a choice of two targets. I'm beginning to regret my decision. It was never my intention to kill anyone. I certainly didn't plant that bomb in the Chancellor's motorcade.
+E: to Ethan
+C: BENJI
+D: You did, however, shoot him.
+C: ETHAN
+D: I shot him. She missed.
+C: BENJI
+D: You shot the Chancellor?
+C: ETHAN
+D: I saved his life.
+C: ILSA
+D: We merely delayed the inevitable. Now please, for your sake and your friend, let me out-
+N: 4TH GOLDENROD 23 MARCH '15
+C: BENJI
+D: We have a tail. Ethan looks back, sees a vehicle looming in the rearview mirror. Ethan produces his phone - the photo of Solomon.
+C: ETHAN
+D: Who is he?
+C: ILSA
+D: We're after the same thing. I can help you. But if you want to bring down the Syndicate, you have to let me out.
+C: BENJI
+D: Uhhh ... They're closing. She looks back at the car behind them.
+C: ILSA
+D: This should look like an escape. Just throw me out anywhere. Ethan produces the photo of Solomon.
+C: ETHAN
+D: Who is he? Her expression darkens. But before she can answer: BOOM. Bullets hit the back window - the bulletproof glass holds - men firing from the car behind them.
+C: BENJI
+D: CHANGE OF PLAN. LET HER GO.
+C: ILSA
+D: YOU HAVE EVERYTHING YOU NEED TO
+C: FIND ME.
+D: More bullets. Everyone ducks. Benji brakes, turns as: Ilsa opens the car door and jumps out. EXT. STREET - VIENNA - NIGHT Ilsa spills out onto the street in a heap. The BMW speeds away into the night. A BLACK SUV screeches to a halt. TWO GUNMEN jump from the back, shooting at the BMW.
+N: 4TH GOLDENROD 23 MARCH '15 5 8.
+S: INT. BMW - NIGHT
+N: Benji has no choice but to drive. The shooting stops and Ethan looks back as the scene behind him fades. Lost her again. Dammit.
+S: EXT. STREET - NIGHT
+N: Ilsa, a complete mess, is pulled to her feet by one of the gunmen.
+C: ILSA
+D: Your boss is going to be very upset with you.
+C: BRANDT
+D: The evidence is strictly circumstantial. INT. HUNLEY'S OFFICE - DUSK Coverage of the Chancellor's assassination on CNN. Hunley staring out the window, his back to Brandt.
+E: PRELAP
+C: HUNLEY
+D: Less than twenty-four hours after we interview Benji Dunn about Ethan Hunt, he's on a plane to Vienna with tickets to the Opera. Within six hours of his arrival, the Chancellor is dead. That might be circumstance to a public defender, but to the CIA, that is actionable intelligence.
+C: BRANDT
+D: Consider for just a moment the possibility that Hunt's investigation led him to the opera. That he's the one with actionable intelligence.
+C: HUNLEY
+D: Consider for just a moment that Hunt has taken his delusion to the next level. That his little rogues gallery is actually a trophy room.
+N: 4TH GOLDENROD 23 MARCH '15
+C: BRANDT
+D: You're not actually suggesting that he killed all those agents? You don't know Ethan at all.
+E: off Hunley's look
+C: HUNLEY
+D: On the contrary. I know him just enough. You know him too well. In any case, finding him is no longer a pet project. Special activities Division has full discretion.
+C: BRANDT
+D: You mean shoot to kill.
+C: HUNLEY
+D: Wether or not Hunt is taken alive is entirely up to him. EXT. ALLEY - NIGHT Ethan and Benji ditch the bullet riddled BMW in the shadows and walk away. EXT. CANAL - BARGE - NIGHT Ethan and Benji board a small barge in a canal. INT. BARGE - NIGHT Ethan manually bypasses a hidden lock and opens a hatch in the floor- INT. SAFE HOUSE - NIGHT - and drops down into a hidden safe-room in the bow. Vintage IMF - bunks, medical kit, spare equipment and weapons. Ethan opens a drawer, produces a bag containing:
+C: ETHAN
+D: Your new identity - passport, cash, move map, change of clothes in that bag - everything you need to make it back to D.C. Undetected. Once you're there, you'll have to inform on me.
+N: 4TH GOLDENROD 23 MARCH '15
+C: BENJI
+D: What?
+C: ETHAN
+D: Tell the truth. You came to Vienna believing you won two tickets to the opera. I attempted to recruit you into assassinating the Chancellor. You refused.
+C: BENJI
+D: That's not the truth-
+C: ETHAN
+D: Your life depends on them believing you, Benji. It'll be easier if you tell them what they want to hear. When Hunley asks, you sell me down to the river. It won't make my situation any worse.
+E: before Benji can argue
+C: BENJI
+D: Ethan ... At least tell me what is going on here ...
+C: ETHAN
+D: Ever have a crises of faith, Benji?
+C: BENJI
+D: More than once. Am I fighting for the right side? Should I really risk my life for a world that doesn't seem to care?
+C: ETHAN
+D: And sometimes the answer is no. Beat. Benji nods, yes. He's not proud of it.
+C: ETHAN
+D: It happens to the best of us. Of course, most of us come back from that place. But not all. Ethan clicks on the TV with a remote control. Photos of faces we have seen before in Havana and again with Brandt and Hunley.
+E: CONT'D
+N: 4TH GOLDENROD 23 MARCH '15
+C: ETHAN
+D: Recognize anyone? Benji finds a face we know. The Cop from the opera. Benji points at the photo.
+E: CONT'D
+C: BENJI
+D: Him.
+C: ETHAN
+D: He's former KSA. German intelligence. Missing, presumed dead.
+C: BENJI
+D: He was at the opera tonight. Ethan produces a photo of the flautist.
+C: ETHAN
+D: This one, too. Former Mossad.
+C: BENJI
+D: Let me guess. Presumed dead.
+C: ETHAN
+D: Tonight I made it official. Benji looks at the image that started the night. Solomon Lane.
+C: ETHAN
+D: I was looking for him in the Bosphorus, the same day a car accident killed the visiting President of Malawi. He slipped away again in Jakarta, just before a passenger plane vanished over the Pacific with two hundred and thirty six passengers. I just missed him in the Philippines ... right before a fire at a petrochemical plant gassed a village of two thousand people.
+E: CONT'D
+C: BENJI
+D: You're not saying these accidents are connected.
+E: a little unsure
+N: 4TH GOLDENROD 23 MARCH '15
+C: ETHAN
+D: That fire bankrupted a global arms corporation. That missing plane was carrying the Secretary of the World Bank. This wreck triggered a civil war. These are no accidents. They're links in a chain. The work of a single organization: the Syndicate. An army of lost souls trained to do what we do. Only now they have a sense of purpose. Benji looks at the photos with new eyes.
+E: to chemical plant pointing to plane crash to car accident
+C: BENJI
+D: An anti-IMF.
+C: ETHAN
+D: Out to destroy civilization as we know it ... And since Hunley shut us down, they've been escalating unchecked. Out to destroy the system that created them, regardless of who's in the way. And since Hunley shut us down, they've been escalating unchecked.
+E: ALT
+C: BENJI
+D: Or ... these could all be just what they appear to be. A series of random disasters. Ethan points to the photo of Lane.
+C: ETHAN
+D: He was there, Benji. Every time. Just like he was there tonight. I'm sure of it. I don't know who he is, where he comes from or how he's funded, but I know he's the key. If I can bring him down, I can make everything like it was. Maybe even get you your life back.
+N: 4TH GOLDENROD 23 MARCH '15
+C: BENJI
+D: Ethan, I'm back. This is my life. This is what I signed up for. Let me help you find him.
+C: ETHAN
+D: That's why I brought you here, and look what happened. I gambled with your life tonight and I lost. I can't be sure how this ends. I can't protect you. That's why I need you to leave.
+C: BENJI
+D: That's not your decision to make. Ethan, I'm a field agent. I know the risks. More than that, I'm your friend - no matter what I tell the polygraph every week. You called because you needed my help. You still do. I'm staying. And that's all we're going to say about it. Ethan is moved. He nods.
+C: ETHAN
+D: Ok.
+C: BENJI
+D: Ok. Where do we start?
+C: ETHAN
+D: Ilsa.
+C: BENJI
+D: How do we find her?
+C: ETHAN
+D: She said we have everything we need. Ethan reaches into his pocket and produces the lipstick. Benji picks it up. Fiddles with it for a moment. He turns it upside down, twists it and: A USB connector pops out. The game is afoot. INT. HOTEL ROOM - VIENNA - NIGHT Solomon Lane sits at a table making notes in a small book - a glass of wine and a meal are untouched.
+N: 4TH GOLDENROD 23 MARCH '15 The door opens. Ilsa is escorted in by one of the gunmen from the car. As soon as Ilsa sees Solomon: She turns on the gunmen, punches his throat, disables and disarms him. With a pistol in her hand, she stands over Solomon. He never flinches.
+C: ILSA
+D: We had an agreement. You send me to do a job, I do it. But my way. My script. Not yours.
+C: SOLOMON
+D: And where did I deviate?
+C: ILSA
+D: You put two more gunmen at the opera tonight. One of them tried to kill me.
+C: SOLOMON
+D: You missed.
+C: ILSA
+D: I missed because Ethan Hunt was there. Looking for you. You just had to play games. You wanted him to see your face in London. Well, now it's blown back to you.
+C: SOLOMON
+D: Ethan Hunt is in Vienna because you let him in escape in London.
+C: ILSA
+D: Vinter would have killed him in London. That's not what you asked for.
+C: SOLOMON
+D: Still, that's twice you've let him slip away. Curious.
+C: ILSA
+D: Are you questioning my loyalty? Or my ability?
+C: SOLOMON
+D: I can't decide.
+N: 4TH GOLDENROD 23 MARCH '15
+C: ILSA
+D: I told you before? Trust me or kill me. But if you're going to kill me, be a man ... She tosses a gun on the table, scattering his dinner.
+C: ILSA
+D: Do it yourself. Solomon stares at the gun for a beat. He picks it up, aims and fires. Ilsa reacts. For an instant, we think she's been shot. Until the gunman she disarmed falls dead. Lane places the gun down on the table as if nothing happened.
+E: CONT'D
+C: SOLOMON
+D: Did he say anything? Ilsa looks at the dead man on the floor, collects herself.
+C: ILSA
+D: He knows about Morocco. Solomon's cool demeanor darkens.
+C: SOLOMON
+D: What does he know about Morocco?
+C: ILSA
+D: Now who's upset?
+C: SOLOMON
+D: What does he know?
+C: ILSA
+D: He knows about the power plant. He doesn't know what's in it. Solomon thinks for a moment. Then:
+C: SOLOMON
+D: Can you find him?
+C: ILSA
+D: He'll find me. I've seen to that.
+N: 4TH GOLDENROD 23 MARCH '15 66.
+S: EXT. ROOFTOP - WASHINGTON D.C. - DUSK
+N: Brandt stands with a panoramic view of the city behind him. Wind roars as a helicopter touches down. A MAN climbs out, carrying a duffle bag. REVEAL: LUTHER STICKELL, his rough exterior concealing a genuinely gentle disposition. They shout over the sound of the engine.
+C: LUTHER
+D: What couldn't you tell me over the phone? The helicopter takes off, drowning out their voices as Luther is caught up.
+C: BRANDT
+D: The Chancellor of Austria has been assassinated. We believe Ethan and Benji were there. Hunley has handed this over to Special Activities Division. We have to find Ethan before they do. As the helicopter fades away, Luther's expression hardens.
+C: LUTHER
+D: Not interested.
+C: BRANDT
+D: Luther, listen-
+C: LUTHER
+D: Man, I know Ethan Hunt. I don't know you. Except that you work for Hunley.
+C: BRANDT
+D: And I don't know you, except that you resigned. Luther just stares. Brandt backs off.
+C: BRANDT
+D: Let's be honest. Neither one of us is where he should be.
+E: CONT'D
+C: LUTHER
+D: And you think running Ethan down is the answer to that?
+N: 4TH GOLDENROD 23 MARCH '15
+C: BRANDT
+D: I'm not asking for our sake. I'm asking for his.
+C: LUTHER
+D: You don't worry about Ethan. They're never gonna catch him.
+C: BRANDT
+D: They're not out to catch him, Luther. This is Hunley, we're talking about. The CIA. That gives Luther pause.
+C: BRANDT
+D: They're going to kill him. Benji, too. Unless we can find them first. Luther chews on this. Finally:
+E: CONT'D
+C: LUTHER
+D: Understand something ... Ethan is my friend. If I doubt you for one second whose side you're really on ... I'll take you out. Brandt considers this, nods.
+C: BRANDT
+D: I believe you. Luther ponders this, then:
+C: LUTHER
+D: Arright, what have I got to go on? Brandt pulls two folded sheets of paper from his breast pocket. Luther unfolds them to reveal: Ethan's hand-drawn sketches of Solomon and Ilsa.
+C: BRANDT
+D: Not much - and not a lot of time. INT. SAFE HOUSE - VIENNA - NIGHT TIME CUT:
+N: 4TH GOLDENROD 23 MARCH '15 Benji has the lipstick USB drive plugged into a computer. As Benji decrypts, images appear on the screen: a schematic of a strange looking structure - something out of science fiction.
+C: BENJI
+D: That's interesting.
+C: ETHAN
+D: What is it?
+C: BENJI
+D: It's a skiff. A secure computer facility. Off-line, ultra contained. Impossible to hack into it from the outside. It's essentially a digital safe-deposit box. Strange thing for a lady to be carrying in her sundries.
+C: ETHAN
+D: Where is it located?
+C: BENJI
+D: Morocco.
+C: ETHAN
+D: Morocco. EXT. CASABLANCA - DAY A city by the sea, a tangle of white-washed buildings and a towering Mosque - the tallest in Africa. INT. BMW X-5 - DAY Ethan drives, directed by the GPS.
+C: ETHAN
+D: You're sure this is it?
+C: BENJI
+D: These were the coordinates in the file. EXT. VILLAGE - DAY Ethan brings the car to a stop and they climb out. They find themselves on a sunbaked dirt road, mud-brick walls on the other side, perhaps centuries old.
+N: 4TH GOLDENROD 23 MARCH '15 It's quiet except for a GOATHERD and his goats meandering by. Ethan and Benji walk, wondering where the hell they are. They come to a door in the old wall and something catches Ethan's eye. A piece of paper tacked to the door. A woman has used it to blot her lipstick, leaving a mark like a kiss. Ethan knocks. No answer. He reaches for the bolt. The door opens. With an uncertain look from Benji, they enter and walk up a flight of narrow stairs.
+S: INT. MOROCCO SAFE-HOUSE - DAY
+N: They find themselves in an unexpected oasis - a completely modern home inside, made to match the surrounding village. We notice surf boards and the associated gear along the wall. Out back, through the wide open sliding glass, is a long infinity pool, the desert and the mountains beyond. Someone is swimming. Ilsa emerges from the cool water, steps out. Dripping wet, she reaches for a towel.
+C: ILSA
+D: And what brings you gentlemen to Casablanca? She extends a hand. Ethan pulls something from his pocket - holds up her lipstick. INT. MOROCCO SAFE-HOUSE - DAY The lipstick is on a table next to Ethan's phone, showing the image of Solomon Lane.
+C: ILSA
+D: His name is Solomon Lane. He created the Syndicate.
+C: ETHAN
+D: Where does he come from?
+C: ILSA
+D: He's former British Intelligence.
+C: BENJI
+D: Well then Hunley knows about Lane-
+N: 4TH GOLDENROD 23 MARCH '15
+C: ETHAN
+D: Maybe - or maybe not.
+C: BENJI
+D: If British Intelligence knows the Syndicate exists, why don't they tell the CIA.
+C: ETHAN
+D: Because they don't want anyone knowing the Syndicate was created by one of their own.
+C: ILSA
+D: I was send undercover to earn Lane's trust and eventually identify the members of his organization. For the first time in two years I'm close to knowing who they are. She holds up the drive.
+C: ILSA
+D: Lane had a ledger. It contained the identities of his operatives, his terrorist associates, the entire inner workings of the Syndicate. One of Lane's agents stole it, hoping to blackmail him. He stored the ledger in a highly secure computer facility, for safe keeping. He died being interrogated for the access code, leaving Lane with a serious problem.
+E: CONT'D
+C: ETHAN
+D: The key to crushing Lane is sitting in that computer just waiting for someone to take it ...
+C: BENJI
+D: So why hasn't Lane just sent someone to steal it?
+C: ILSA
+D: He did. He sent me and I can tell you it's impossible. Ethan and Benji share a look. The game is afoot.
+N: 4TH GOLDENROD 23 MARCH '15 71.
+S: INT. MOROCCO SAFE-HOUSE - LATER
+N: The room is dark. A projector connected to a laptop beams images on the far wall. It shows pictures and a blueprint of the massive power plant. Benji controls the display via a tablet, zooming through photographs of the large, modernized facility. Buried deep underneath the plant's saucer-like control room is the Skiff (Secure computer facility).
+C: ILSA
+D: The facility is hidden beneath the local power plant under military guard. FLASH - What we see next is a live version of what Benji proposes. These images rush by us as he speaks: Images of soldiers and military vehicles around the compound.
+C: ILSA
+D: And the only way to access the computer room is through the central terminal located there. The image of the central computer room where information is accessed.
+E: CONT'D
+C: BENJI
+D: That's easy, we just impersonate the agent who stole the ledger in the first place - and I get to wear a mask! INT. SAFE-HOUSE BACK ROOM - DAY The mask machine makes a perfect copy of THE AGENT'S face from a photograph. Being Benji's fantasy, he wears the mask, with Ethan helping him put it on. EXT. POWER PLANT - DAY Benji, disguised as the agent, uses an ID to pass through security, to the main building and: INT. POWER PLANT - LOBBY - DAY Into the main reception area.
+N: 4TH GOLDENROD 23 MARCH '15 ILSA (V .0.) Unfortunately, to reach the off­ line computer terminal, you also need to pass the main gate, access the elevator with fingerprint recognition, and open three separate combination locks ...
+C: BENJI
+D: Yeah, but, suppose we can beat all that, we'd be home free - right? The first lock is a simple key cars to enter the lobby. The second lock is a thumb print scanner to enter the elevator. INT. SECURITY CORRIDOR - DAY TWO SECURITY GUARDS man the corridor at the far end. The corridor is curved with three glass partitions. Each partition has a different lock. In a series of jump cuts, Benji in his mask passes through three doors, each one them relying on a specific combination lock. INT. SECURE COMPUTER LAB - DAY Masked Benji enters a secure computer lab. He sits at a terminal and inserts a thumb drive. ECU on the screen: FILES COPIED INT. SAFE HOUSE - BACK ROOM - DAY Ethan and Ilsa are waiting. The agent walks in, holds up the drive and peels off his face revealing Benji, triumphant. INT. MOROCCO SAFE-HOUSE - DAY Back to Benji in front of the TV. Ilsa points at the images of several security cameras.
+E: OMITTED
+N: 4TH GOLDENROD 23 MARCH '15
+C: ILSA
+D: Even if you could make it past every other security measure, you won't beat the last one. And that's because it's protected by a gait analysis - the next step beyond facial recognition. INT. SECURITY CORRIDOR - GATE ANALYSIS - DAY REVEAL: A second corridor at a right angle from the security corridor. This one is long and straight, occupied by a large body scanner on a track. It follows disguised Benji as he walks down the hall towards the computer room. The Security Guards man a computer screen. The screen analyzes Benji's movements to determine he is really who he claims to be. ILSA These cameras actually know how our agent walks, how he talks, how he moves, and down to his facial tics. On a screen somewhere, software analyzes his move, flashing red. The gate analysis array fires tasers at disguised Benji, electrocuting him instantly. Disguised Benji is grabbed by the two guards who rip off his melting mask off. BEN JI Yes, so what you're saying is no mask can beat it. We're screwed before we even reach the vault. And I wind up in a Moroccan prison. INT. MOROCCO SAFE-HOUSE - DAY
+E: V .0. 0 . S .
+C: BENJI
+D: I don't get to wear a mask. Ethan stares at the info before him, thinking. He turns to Ilsa. She enjoys watching someone else wrestle with the problem.
+N: 4TH GOLDENROD 23 MARCH '15
+C: ETHAN
+D: And there's no other way into the computer lab?
+C: BENJI
+D: No other way in.
+C: ETHAN
+D: Air shaft?
+C: ILSA
+D: Six inch diameter pipe.
+C: ETHAN
+D: Foundation?
+C: ILSA
+D: Twelve feet of concrete, top and bottom. Ethan and Benji look at each other.
+C: ETHAN/BENJI
+D: Electrical conduit.
+C: BENJI
+D: Bottom line: there's no way into that terminal unless your profile is pre-installed in the security system. Long silence. Benji walks across the room to the projector. Ethan turns to Ilsa. She smiles: "now you've got it." Ethan turns to Benji:
+C: ETHAN
+D: Profiles? Where are the profiles stored? Ilsa studies the pair as they work. Benji searches, calls up the blue print of the torus - a water-filled tank shaped like the inside of a donut, twenty feet high. The walls are lines with hundreds and hundreds of data drives.
+C: BENJI
+D: All security data is stored off­ line in the liquid cooled array here, in the Torus-
+N: 4TH GOLDENROD 23 MARCH '15 Benji taps the screen, zooms in.
+C: ETHAN
+D: Liquid cooled. You mean that thing is under water.
+C: ILSA/BENJI
+D: Yes. Ethan takes a beat.
+C: ETHAN
+D: So to get the ledger, one of us needs to enter the torus and chance the security profile so that the other one can access the computer without being caught ... That's the only way.
+C: ILSA
+D: That's the only way. Ethan's eye catches something on the torus wall. He motions to it.
+C: ETHAN
+D: Can I get in to the torus through there? What's that?
+C: ILSA
+D: That's the service hatch. Can't be opened from the outside, and even if you could, you'd be hit with seventy thousand gallons of pressurized water. Ethan walks behind Ilsa, thinking. Takes a beat.
+C: ETHAN
+D: Where does the water come from?
+C: ILSA
+D: Desalinized sea water flows through an intake located inside the power plant. He points to large pool with a giant, gaping, steel and concrete mouth in the center - a circular waterfall.
+N: 4TH GOLDENROD 23 MARCH '15
+C: BENJI
+D: So: I have to make it past gait analysis in order to access the computer room and steal the ledger.
+C: ILSA
+D: Exactly.
+C: BENJI
+D: For me to do that, all Ethan has to do is enter the torus, install my profile into the security system and escape through the service hatch.
+C: ILSA
+D: Unfortunately, an alarm will sound automatically if any metal enters the intake.
+C: ETHAN
+D: No oxygen tanks. Not to be deterred ...
+E: realizing
+C: BENJI
+D: How long would it take to free­ swim from the intake to the surface?
+C: ILSA
+D: Two minutes with the current at full power.
+C: BENJI
+D: You just have to hold your breath for two minutes.
+E: to Ethan
+C: ILSA
+D: What about installing the security profile.
+C: BENJI
+D: Which would take like - a minute - tops.
+C: ETHAN
+D: So I have to hold my breath for three minutes.
+E: really thinking
+N: 4TH GOLDENROD 23 MARCH '15 Beat.
+C: ETHAN
+D: What aren't you telling me? What else does Lane want from you?
+E: CONT'D
+C: ILSA
+D: Deliver the ledger. Deliver you.
+C: ETHAN
+D: What do you want to do?
+C: ILSA
+D: We use the ledger to take apart the Syndicate from the ground up. We can hunt them down, one at a time. Isolate Lane ... And kill him. Ethan says nothing.
+C: ETHAN
+D: I wish I could, but that's not what I do.
+C: ILSA
+D: So what's the play?
+C: ETHAN
+D: I don't know yet. Let's just try to make it through tomorrow alive.
+C: ILSA
+D: Two and a half minutes. No longer.
+C: ETHAN
+D: That's the plan ... INT. CIA WAR ROOM - WASHINGTON - DAY A glass enclosed office overlooking the fully functioning war room. One screen is tracing flight routes in real time from all over the world. Luther sits in the center of the frame, typing furiously. Brandt stands behind him.
+C: BRANDT
+D: DNA profiling, facial recognition, gait analysis ... drone strikes. Drone surveillance.
+E: points MORE
+N: 4TH GOLDENROD 23 MARCH '15
+C: BRANDT
+D: And that guy can even read your vital signs over your home wifi? He knows you have a heart problem before your doctor does. He shakes his head as if to say: what have we become?
+E: CONT'D
+C: BRANDT
+D: So how are we going to find Ethan and Benji before they do? Screens display security camera footage from all over the world, blazing past in the blink of an eye.
+E: CONT'D turns to Luther
+C: LUTHER
+D: I'm not even looking for them. I'm looking for her.
+C: BRANDT
+D: What do you mean? Luther motions to the sketches of Ilsa and Solomon.
+C: LUTHER
+D: Look at the sketches, Ethan is telling us what he knows. What do you see? The sketch of Ilsa is undeniably more forgiving.
+C: BRANDT
+D: Well, he's not exactly sure who this guy is. But the woman ... He knows her. He's invested.
+E: picks up sketch
+C: LUTHER
+D: He trusts her. I'm betting he's already with her, or he's on his way. Find her, find Ethan.
+C: BRANDT
+D: Tell me it's possible to pull facial recognition from a sketch?
+C: LUTHER
+D: For mere mortals? No. But me ... I could'a done this from home.
+C: BRANDT
+D: How long is this going to take.
+N: 4TH GOLDENROD 23 MARCH '15 He types a few keys and a dossier opens. Luther hits a button and an image file opens. As Luther reads:
+C: LUTHER
+D: Found her.
+C: BRANDT
+D: Where?
+C: LUTHER
+D: Not where she is. It's who she is? She's bad news. On the screen, we see Ilsa's face and her file. She's British Intelligence, all right. At least she was. Her image is stamped in bright red letters:
+C: WANTED: TARGET OF OPPORTUNITY
+D: EXT. SKIFF - PRE-DAWN Establishing the fortress-like perimeter around the facility. EXT. SKIES ABOVE CASABLANCA - PRE-DAWN Looking straight down at the power plant from high above, two skydivers free-fall past camera ... EXT. POWER PLANT - ROOFTOP - PRE-DAWN ECU on a small security camera. A dart hits it. A red light on the camera dies. Two pairs of feet sail into frame from above as: Ethan and Ilsa touchdown, skid on the gravel surface and haul in their chutes. EXT. MAIN GATE - DAY Establishing as Benji pulls up to the security gate in a BMW M3.
+E: OMITTED
+N: 4TH GOLDENROD 23 MARCH '15
+S: INT. MAIN GATE GUARD HOUSE - DAY
+N: A wall with 12 monitors, each split into four windows, displaying the feed from security cameras all over the plant. The DUTY GUARD in military garb, armed with a machine gun, stands, pausing when he notices a single window on the monitor go dark. He makes a note, heads out to greet Benji.
+S: EXT. ROOFTOP SKYLIGHT - DAY
+N: Ethan approaches one of the windows and produces a small, palm sized device. It emits a high-pitched noise when activated. Ilsa covers her ears. Ethan holds the device in his palm, placing it on the glass. The device fires a shockwave of energy and: The window is pulverized into sand, revealing a gantry just ten feet below. This is suspended 100 feet off the floor of the power plant.
+S: EXT. GUARD HOUSE - DAY
+N: Benji hands the officer an ID with his picture on it. The guard swipes it as we: Focus on the BMW's GPS display. Benji presses an icon on the screen. A readout displays the car's ability to hijack the card reader. A moment later, Benji is cleared and waved through as:
+S: EXT. ROOFTOP - DAY
+N: Ilsa slips through the shattered window and onto the gantry below.
+C: BENJI
+D: I am through the front gate, heading to reception. Ethan turns back, aims a small remote at the security camera. Click.
+E: ON COMM
+N: 4TH GOLDENROD 23 MARCH '15 82.
+S: INT. GUARD HOUSE - DAY
+N: The guard comes back in, about to address that glitchy monitor when it comes back on, showing the rooftop, empty. (OMITTED)
+S: INT. POWER PLANT - GANTRY - DAY
+N: Arc welders, angle grinders, sparks and atmosphere, the deafening hum of generators. Ethan and Ilsa scale down to a lower portion of the gantry where they are hidden from the floor below. Ilsa patches in the laptop as Ethan strips off his jump suit to reveal a wet-suit underneath. He slips on a pair of fingerless gloves - the right one bearing a timer and 02 meter. When he inhales deeply, the 02 meter rises swiftly, then slowly falls. The same information shows up on Ilsa's laptop. Ethan sets his timer for three minutes. Ilsa synchronizes a timer on her laptop. Ethan removes a hard drive from his overalls. He stuffs it in a pocket on one leg of his wet-suit. In the opposite pocket he checks for a special folding tool made of carbon fiber. Ilsa opens a laptop and goes to work patching into an electrical main. The laptop screen comes alive: INTAKE VALVE CONTROL - 80% A graphic demonstrates animated water pouring into a circular intake as well as a graphic showing the torus - it's mechanical arms periodically moving. Another display indicates: <SERVICE HATCH: SECURE> 4TH GOLDENROD 23 MARCH '15 83.
+S: INT. SEDAN - DAY
+N: Luther and Brandt drive. Luther has a computer on his lap. He is checking the security cameras of every hotel in Morocco. So far, nothing ... (OMITTED)
+S: INT. INTAKE FACILITY - DAY
+N: The gantry slowly moves as: (OMITTED)
+C: ILSA
+D: One more time: You have two and a half minutes to switch the security profile. Thirty seconds to reach the surface. INT. POWER PLANT - GANTRY/INT. LOBBY - DAY Benji enters the lobby via a revolving door and moves to the first layer of security.
+C: BENJI
+D: Important note: If you haven't switched that profile before I reach the last gate, I'm dead. He nods to a SECURITY GUARD behind the reception desk and walks to a small gate. He flashes his ID and waves it over a sensor on the gate. ECU on the ID itself. We notice a wire attached to the card, running up Benji's sleeve. A green light flashes and Benji is allowed to enter.
+C: ILSA
+D: Conserve oxygen. No unnecessary physical exertion.
+C: BENJI
+D: Don't move a muscle if you don't have to.
+N: 4TH GOLDENROD 23 MARCH '15
+C: ILSA
+D: Just switch the profiles and get out.
+C: BENJI
+D: Remember. It's not over when you open the service hatch.
+C: ILSA
+D: Leave yourself enough time to reach the surface. He makes his way to the elevator at the end of the lobby and presses his thumb on the sensor there. ECU on Benji's thumb and a small wire protruding from under the false flash there, also running up his sleeve.
+C: BENJI
+D: If you're not opening that hatch in two and a half minutes, you're dead. Assuming ... you can hold your breath for three minutes, I mean. Ethan ignores this, swallowing air as he does so, his blood 02 rising. He looks down at the intake, inhaling tens of thousands of gallons of water every second. Merciless.
+C: ILSA
+D: The current will carry you to the torus. Once you're there, I'll shut it down. You'll have two minutes before it automatically restarts. The elevator opens. Benji enters.
+C: BENJI
+D: You do not want to be in the torus when that happens. Believe me.
+C: ILSA
+D: Thank you, Benji. I.E. Shut the fuck up, Benji.
+C: BENJI
+D: I'm in the elevator. Ethan is still inhaling, trying to shut out the noise.
+N: 4TH GOLDENROD 23 MARCH '15
+C: ILSA
+D: Remember ... It's at least thirty from the service hatch to the surface. If you haven't made the switch by the time your readout turns red, abort. Ethan nods, keeps breathing. Ilsa taps a few more keys and: INT. INTAKE FACILITY - ATOP GANTRY - DAY The gantry stops. A section of the floor opens, revealing the intake, one hundred feet below - a giant, gaping, steel and concrete mouth, inhaling thousands of gallons of seawater every second. The gantry is passing over it as the huge floor sections slide away. Ethan breathes deeply, in and out, oxygenating his blood. He presses the button on his watch and sets it to three minutes. A clock on Ilsa's tablet reads three minutes as well. She can also see Ethan's heart rate and his blood's 02 levels. Ethan nods, turns to leave. Ilsa grabs his arm, stops him. She cannot hide her anxiety anymore. Ethan nods to her reassuringly and goes. Ethan climbs up onto the railing and jumps. He plummets away from the camera, entering the roaring intake feet first and: INT. INTAKE - DAY The sound of the roaring intake facility is replaced by a constant, muffled thunder. We're looking up at a curtain of violently churning white. A blue light and a crystallin particles sterilize the water. Ethan plunges through it, sinking rapidly. PAN WITH HIM as he streaks past, sucked into a large steel mesh tunnel and the blue light beyond. The clock on his hand counts down:
+N: 4TH GOLDENROD 23 MARCH '15 86.
+S: INT. GANTRY - DAY
+N: Ilsa's clock corresponds. Ethan's heart rate returns to normal.
+S: INT. INTAKE TUNNEL - DAY
+N: Quieter now. Ethan descends feet first, pinching his nose to clear his ears. He looks down at his clock. Other than this, he remains perfectly still to conserve oxygen.
+S: INT. GANTRY - DAY
+N: Ilsa checks Ethan's vitals, the clock ...
+S: INT. INTAKE TUNNEL - DAY
+N: Ethan arrives at:
+S: INT. TORUS
+N: The current whips Ethan around like a sock in a washing machine. He finally manages to grab a hold of the side. The current pins him. Meanwhile:
+S: INT. GANTRY - DAY
+N: Ilsa looks down at her watch, taps controls on her laptop. After a few seconds, the display is in her control. <REBOOT> appears on screen. She presses it. The display shuts down and reboots, as expected.
+S: INT. FACILITY - MAIN CONTROL ROOM - DAY
+N: Not unlike the control room in a nuclear power plant: A large, brightly lit room with a circular console in the middle manned by SIX TECHNICIANS in white overalls. 4TH GOLDENROD 23 MARCH '15 The walls are covered floor-to-ceiling with analogue and digital gauges, colored lights and monitor screens. Every function of the facility is monitored here. A single red light comes on. This causes a chain reaction. Several more red lights flash. All six technicians look up from their work. While they are not immediately alarmed, they are not dismissive. TECHNICIAN 1 What's the problem? TECHNICIAN 2 The cooling system is rebooting. By itself. TECHNICIAN 1 Power surge maybe. Technician 2 shrugs. TECHNICIAN 2 Let me know when it's back up. They go back to their work.
+S: INT. CORRIDOR - DAY
+N: Benji emerges from the elevator into the security corridor. He moves to the first combination dial lock. Using his body to block the dial from view, Benji fixes a small device in the center of the dial. The device transmits an X-ray image of the lock itself. Benji can see the tumblers in the lock on his without even looking at the numbers.
+S: INT. TORUS
+N: Complete silence, eerie blue light. Particles in the water betray the gentle, circular current while giving the impression of being inside a giant snow globe. Hard drives line the walls, containing hundreds of numbered drives. Ethan drifts with the slowing current, conserving 02, looking for 108. He has to be careful to avoid: 4TH GOLDENROD 23 MARCH '15 The two robotic arms - one high and one low - moving elegantly through the space in their never-ending process of maintenance. Ethan notes the service hatch. His way out. His eyes track the drives on the wall, 98, 99 ... Up ahead he sees 108. He grabs hold and takes the tool from his pocket. Movement out of the corner of his eyes. He ducks as the high arm whips past, just missing his head. 2:01 and counting down. At 2 minutes the numbers on his watch turn from green to yellow.
+S: INT. GANTRY - DAY
+N: Ilsa notes Ethan's heart-rate increasing.
+S: INT. CORRIDOR - DOOR 2 - DAY
+N: Benji arrives at the second combination lock. He attaches the device and goes to work as the first.
+S: INT. TORUS
+N: ETHAN'S WATCH: 1:31 and dropping. Heart rate increasing. Ethan removes the cover. He pulls out the drive, puts it between his teeth and pulls out the replacement drive. He holds it up as: The low arm comes up behind him and knocks into him on its way past, taking him with it. The tool sinks to the bottom. Shit.
+S: INT. CORRIDOR - DAY 3 - DAY
+N: Benji approaches the final combination lock. His moves are familiar to us now as he gets to work. (OMITTED) 4TH GOLDENROD 23 MARCH '15 89.
+S: INT. GANTRY - DAY
+N: Ilsa notes Ethan's heart-rate spiking sharply. The noise of rushing water below confirm what the screen is telling her:
+C: INTAKE REBOOTING
+D: The display reads:
+C: <SERVICE HATCH: SECURE> ILSA
+D: No-no-no-no-no ... INT. INTAKE FACILITY - DAY The mouth of the intake submerges completely. Water rushes in. INT. TORUS
+C: ONE CONTINUOUS TAKE:
+D: The numbers on Ethan's watch are red. Ethan swims down, noticing the speed of the particles in the water around him is increasing ... He notices he's drifting along the bottom, gaining speed. He grips the bottom of the torus and crawls to the two drives, grabs one, but as he reaches for the second it is caught by the current and swept away. Ethan is carried with the current, chasing the drive. He struggles to reach the drive as it floats just out of reach. Finally he grabs it. He floats past the hatch and, once again, arrives at Slot 108, overshoots it. He grabs hold and slams into the side of the torus. He uses the other slots like rungs on a latter to pull himself towards 108. It takes tremendous effort. Ethan arrives at 108, looks at the two identical drives in his hand. He looks at his watch.
+N: 4TH GOLDENROD 23 MARCH '15 - then over at the service hatch, his way out for the drives in his teeth. He looks back at the two identical drives in his hand. His air is out. He puts one drive in, not knowing whether it is the right one. The hatch light turns from red to blue. Ethan starts to pass out as he is swept away toward the service hatch, coming up fast. He reaches for the lever, misses. He manages to grab hold of one of the spikes on the wall.
+S: INT. CORRIDOR - DAY 3
+N: Benji arrives at the last security barrier: gate analysis. Here, the corridor turns right to a long, straight corridor - the computer lab at the far end. He presses a button and glass doors open. At the same time, the gate analysis array slides toward him on a track. Benji's eyes lock on the tazers mounted on both sides of the array - ready to shock him. He steps inside to an uncertain fate.
+S: INT. GANTRY - DAY
+N: On Ilsa's display:
+C: SERVICE HATCH: SECURE
+D: The computer reboots. The display restored. The humming of the generators decreases. The clock reads 9 ... 8 ... 7 ... 6 ... Heart rate pounding. INT. FACILITY - MAIN CONTROL ROOM - DAY TECHNICIAN 2 The cooling system is at full power. All systems normal. A technician notices on a security camera:
+N: 4TH GOLDENROD 23 MARCH '15
+C: TECHNICIAN
+D: Why is the intake open? TECHNICIAN 3 I don't know.
+C: TECHNICIAN
+D: Well close it. Technician 3 hits a button. :INT. TORUS Ethan manages to grab the service hatch lever. His face shows the strain. He is completely out of air. He heaves the lever into position but before he can give it the final twists ... He blacks out. His hands slip from the lever and he is carried away ... :INT. :INTAKE FACILITY - DAY The intake remains submerged, sucking in water. But the giant floor begins to close. TILT UP TO REVEAL: :INT. :INTAKE FACILITY - ATOP GANTRY - DAY Ilsa, directly over the hole sees the floor is closing. No time to consider her next move. She jumps, falling toward an ever narrowing gap of steel and concrete. She drops into the gap with inches to spare. The floor slams shut. :INT. :INTAKE - DAY That curtain of violently churning white. The blue light. Ilsa plunges through it, sinking rapidly. :INT. :INTAKE TUNNEL - DAY She rockets past and is-
+E: OMITTED
+N: 4TH GOLDENROD 23 MARCH '15 92.
+S: :INT. TORUS
+N: - shot into the torus like a bullet. She sees Ethan's body orbiting around the center pedestal. She swims with the current, trying to catch him. Her face shows the strain already, this exertion consuming oxygen rapidly. She grabs Ethan's motionless, heavy form and wraps her legs around his waist, keeping her hands free. With no mask, she has to feel blindly for the service hatch. She has to hope. CLOSE ON: The extended service hatch handle. Ethan and Ilsa whip past, her hand missing by several feet. CLOSE ON: Ilsa's hand, camera following it, the handle coming up fast in the background. Her fingers find it, but her grip misses. CLOSE ON: Ilsa's face, frustration turning to panic. CLOSE ON: Ilsa's hand, camera leading it, fingertips skimming along the outer wall of the torus past drive after drive. Milk it. Then: Her hand finds the lever. She grabs it. Her eyes roll ... She's blacking out. Her body and Ethan's are slammed against the wall of the torus. Her legs strain to hold on to Ethan. With both hands she pulls them both in front of the hatch and turns. Her body goes limp and her legs release Ethan as: The hatch blows. An instantaneous implosion of air engulfs them before the pressure of the water blows them both out.
+S: :INT. CISTERN - DAY
+C: BLACK.
+D: A long, interminable silence, giving way to a high pitch whine, like a ringing in your ears, growing louder ... And then: ZZZZ-THUNK
+N: 4TH GOLDENROD 23 MARCH '15 Ethan's eyes spring open. He gasps, coughs, gags. The first thing he sees is Ilsa, wet, shivering, slightly blue. Her trembling hands told a defibrillator - charging in case she has to hit him again. When Ethan inhales a second time, she sits back, relieved. She puts down the defibrillator and looks down at Ethan. He puts his hand to her face. Benji runs down the stairs.
+C: BENJI
+D: I knew you could do it - three minutes is nothing. I have to confess, I had this terrible feeling you weren't going tom- He suddenly sees Ethan and stops.
+C: BENJI
+D: What happened? Is he ok? Benji takes in the scene - the defibrillator, Ilsa soaking wet and shivering. He realizes, pulls her clothes from the bag. As she takes them:
+E: CONT'D
+C: BENJI
+D: I misjudged you. Ilsa nods, turns her back to change. Benji steps in and takes her place beside Ethan.
+E: CONT'D
+C: BENJI
+D: Hey buddy - you ok?
+E: CONT'D
+C: ETHAN
+D: Benji - what are you doing here?
+C: BENJI
+D: You're going to be fine. Just a bit of sunshine, you'll be good as new. Benji holds up the drive.
+C: BENJI
+D: We got it. I knew we would get it. As she pulls on her dress, Ilsa looks over her shoulder and eyes the disc. Ethan tries to speak:
+E: CONT'D
+N: 4TH GOLDENROD 23 MARCH '15
+C: BENJI
+D: I really appreciate everything you've done for me but, seriously, one of these days you're going to take things too far. Benji tries to laugh. Ethan tries to say something but can't. Benji's smile gives way to sincerity.
+E: CONT'D
+C: BENJI
+D: I owe you my life, man. Thank you. We got it. We're gonna get this bastard. Ethan's eyes widen as: ZZZZ-THUNK - Ilsa shocks Benji with the defibrillator, stunning him. She grabs the drive. Ethan tries to grab it, but he can't get up. She exits. TIME CUT: Ethan staggers to his feet. Benji is coming to -
+E: CONT'D holds up the disc
+C: ETHAN
+D: Tell me you put the tracker on the disc? EXT. MEDINA - DAY Ilsa emerges through a doorway. Runs to Ethan's BMW, and tries to open the door - it's locked and she can't open it. The hand recognition system does not allow her access. She is suddenly aware of a man in biker leather approaching her.
+C: LEAD MAN
+D: Where's Hunt? She looks around. Another biker steps up, closing off her access.
+C: ILSA
+D: He's dead. She follows the LEAD MAN out.
+N: 4TH GOLDENROD 23 MARCH '15 95.
+S: EXT. ALLEY - DAY
+N: Ethan emerges from a doorway, having pulled on a change of clothes. She's gone. Benji emerges behind him. Ethan rushes to a waiting BMW, opens it. Ethan moves to get in the car. Benji stops him.
+C: BENJI
+D: Are you sure you're OK to drive? A minute ago you were dead.
+C: ETHAN
+D: What are you talking about? Ethan gets in behind the wheel. Benji sighs and gets into the passenger seat.
+C: BENJI
+D: This is not going to end well. TIME CUT: as the BMW speeds way, bumping the parked car behind as they go. INT./EXT. MEDINA - BACK ALLEY - DAY BEAT LATER: Ilsa, now changed into biker leathers, zips up her boots as she glances at the bikers surrounding her. The riders watch her as she gets on her bike, putting on her helmet and gloves. The bikers start revving their bikes. Ilsa makes her decision. She guns the throttle and speeds towards the bikers, turning 180 degrees taking out the bikes, and takes off. EXT. MEDINA - VARIOUS - DAY The walls are bone white, the streets are cobblestone. There is not a soul in sight. Ethan and Benji in the BMW drive up a narrow street, they see Ilsa riding straight towards them.
+C: BENJI
+D: There she is! Ilsa spins the bike one-eighty degrees and heads back the way she came, chased by the BMW.
+N: 4TH GOLDENROD 23 MARCH '15 The streets are narrow, but not narrow enough. Ilsa isn't going to shake Ethan in this environment. Ilsa turns a sharp left corner. The BMW drifts round the corner, chasing towards ...
+S: EXT. STEPS - MEDINA - DAY
+N: Ilsa emerges from the medina and turns down a long set of stairs. Ethan rounds the same corner, drifting down the stairs almost sideways. The stairs slope down gradually toward the busy inner city of Casablanca's marker: Jewish Quarter.
+S: EXT. STREET - JEWISH QUARTER - DAY
+N: Luther and Brandt are driving through Casablanca, looking for Ethan - a needle in a haystack. Luther and Brandt bicker.
+C: BRANDT
+D: I thought you said you could find him.
+C: LUTHER
+D: I said I was going to locate him. You have to find him. Suddenly Brandt slams on his brakes as Ilsa streaks past him out of an alley, followed by Ethan and Benji in the
+C: BMW.
+D: Ethan makes eyes contact with Brandt before gunning the engine and chasing after Ilsa.
+C: BRANDT
+D: Found him. Brandt tries give chase, as another six bikes streak round the Land Rover, slowing them down. The difficulty in turning around is hopeless. They are out of the fight before they even start.
+C: BRANDT
+D: You just had to the get the four by four, didn't you! - Look out! It's a high speed chase!
+E: CONT'D
+N: 4TH GOLDENROD 23 MARCH '15 (OMITTED)
+C: LUTHER
+D: You want me to drive? EXT. STREET - JEWISH QUARTER - DAY Ilsa on a straightaway, the BMW chasing Ilsa. All six bikers chasing behind the BMW. Ilsa looks back, flips down her visor and guns it. One biker overtakes the BMW, slipping in between the BMW and Ilsa and rises his gun - has a bead on her. Ethan accelerates and clips the back wheel of the biker chasing Ilsa, wiping him out. Now there are five Bikers chasing the BMW. Ethan closes the distance rapidly. EXT. STREET - JEWISH QUARTER - DAY The FIVE BIKERS chasing Ethan draw their guns and immediately open fire. KAKAKAKA. The back window explodes from small-arms fire. Ethan looks at his wing mirror in time to see it explode. He ducks as the bullets fly past, hitting his headrest. The main rear-view mirror explodes. Benji covers his head. Ethan has no choice. He evades, turns down a side street. Two bikes carry on forward chasing Ilsa. Three bikes turn the corner, chasing Ethan and Benji in the BMW. EXT. SIDE-STREET - JEWISH QUARTER - DAY The speed picks up and the turns are more aggressive. :INT. BMW - DAY Ethan hits a button on the dash and the GPS switches to REAR-VIEW CAMERA.
+E: OMITTED
+N: 4TH GOLDENROD 23 MARCH '15 98.
+S: EXT. SIDE STREETS - VARIOUS - JEWISH QUARTER - DAY
+N: The three bikers chasing him try to get a bead, but Ethan is too slippery. As long as he keeps moving and turning, his pursuers have to keep both hands busy while driving.
+S: EXT. NARROW STREET - DAY
+N: A tight space - just enough room for incoming cars to move past. Ethan is going like hell - no more mirrors to see how close his attackers may be.
+S: INT. BMW - DAY
+N: Up ahead, Ethan sees a garbage truck coming, taking up most of they alley, laying on the horn.
+C: BENJI
+D: We're not going to make it. We're not going to make it. PROXIMITY WARNING on the display. The bikes are approaching on either side of the car - two on his left, one on his right. Ethan gauges the proximity warning on his screen and the oncoming truck. He slams on the breaks and cranks the wheel. EXT. NARROW STREET - DAY The BMW spins count clockwise. The front two bikes are instantly crushed against the alley walls by Ethan's bumpers. One rider ends up on Ethan's hood. He aims to shoot at Ethan and Benji as: The truck hits the spinning BMW's right fender and The car snaps into full reverse. The Rider on Ethan's hood is thrown off and into the alley wall. INT. BMW - DAY One Bike remains, accelerating, leveling his weapon. Ethan is driving in reverse. He tries to hit the breaks, but they're gone. With no other choice, he keeps the BMW in reverse and punches it.
+N: 4TH GOLDENROD 23 MARCH '15 The rider opens fire. Benji hits the deck. Ethan's windshield spiderwebs and turns opaque. He ducks behind the dash.
+S: EXT. T-SECTION - DAY
+N: The BMW is going full-bore, in reverse, bashing through a guard-rail and over a steep embankment. We're airborne for an agonizing long time before: IMPACT. The BMW slams down to earth squarely on its rear bumper.
+S: INT. BMW - DAY
+N: With Ethan and Benji as the BMW flips end over end.
+S: INT. BMW - DAY
+N: Benji is out cold. Already not in the peak form before the chance, Ethan struggles to pull himself from the overturned and utterly wrecked car. The sound of an approaching motorcycle renews his focus. He tries to move faster, but he's trapped. As he struggles: Ethan's P.O.V. A low angle, upside down. Ethan sees the motorcycle come to a stop. He sees the rider's boots as he dismounts, walking this way. The rider draws his weapon. The sound of Ethan's doom. Then a screeching of tires. The rider turns and is hit by a car - his boots flying out of frame. The sound of two car doors opening. The sight of two pairs of feet approaching. Brandt kneels down, sticking his head in the window.
+C: BRANDT
+D: You good?
+C: ETHAN
+D: It kinda got out of hand. Ethan unclips his seatbelt and climbs out of the back. Brandt helps him out. Ethan emerges from the car, shaken, dazed. Brandt and Luther rush round the car to help Benji, who can't undo his belt.
+N: 4TH GOLDENROD 23 MARCH '15 Ethan looks up to see Ilsa race down the street from the Jewish Quarter, chased by two Bikers. He grabs his sunglasses, still intact after crash and heads for the bike. Meanwhile, Brandt pulls out a knife, and tries to cut Benji's seatbelt. New tension. The sound of police sirens approaching. The sound of a motorcycle revving. Brandt and Luther turn in time to see Ethan racing away on the dead man's bike. Brandt drops the knife and they turn for the car.
+C: BENJI
+D: WAIT! Where are you going? Don't leave. Benji sees them take off.
+E: OMITTED
+C: BENJI ARE YOU KIDDING ME?
+D: You could've dropped it closer! EXT. HIGHWAY - DAY Ilsa merges onto the open highway, medium traffic. She is still being followed by the two bikes. She throttles faster now, speeds exceeding 100 mph. EXT. WINDING ROAD - DAY Ilsa and her two pursuers whiz past as: Enter Ethan, gunning the bike up the highway in fast pursuit. EXT. HIGHWAY - :ILSA - DAY Ilsa looks in her rearview mirror to see Ethan behind the two riders. She shakes her head. These guys just don't stop.
+E: CONT'D tries to reach the knife
+N: 4TH GOLDENROD 23 MARCH '15 101.
+S: EXT. HIGHWAY - BLACK BIKES - DAY
+N: One rider notices Ethan in his mirror. He signals to his partner. "We have company." The second Rider nods, grabs his pistol and slows down to allow Ethan to catch up.
+S: EXT. HIGHWAY - ETHAN - DAY
+N: Ethan at max speed, catching up, threading the needle through slower cars, trucks.
+S: EXT. HIGHWAY - ETHAN/ ILSA/ RIDERS - DAY
+N: NEW HIGHWAY ACTION - Ilsa causes accident, one biker crashes and Ethan avoids.
+S: EXT. HIGHWAY - WRONG WAY - DAY
+N: Two 18 wheelers approach, side-by-side. Ethan passes between them with inches to spare.
+S: EXT. HIGHWAY - RIGHT WAY - DAY
+N: He falls in just behind the last bike just as Ilsa banks hard, just making an off-ramp - the last biker makes the turn with ease. Ethan cuts off a speeding car and makes it by a hair.
+S: EXT. MOUNTAIN ROADS - DAY
+N: Down to just two lanes. The road here is windy, treacherous, a steep drop down one side. The countryside is red and rocky, punctuated by ancient mud-brick villages. Only the occasional car passes, but on these roads, that's more than enough. Cars tend to straddle the line on the narrow turns, appearing without warning from around a sudden turn. Ethan catches up to the rear bike. They are side-by-side as they lean into a turn. Ethan's on the inside, just inches from the rider beside him. 4TH GOLDENROD 23 MARCH '15 Ethan brings his bike upright, nudging the biker beside him. At this speed, it's all you need. The last biker wobbles, struggles to regain control. He hits a guardrail at 80 MPH. The biker slams into a stone wall. His bike explodes on impact. Now it's just Ethan and Ilsa. But she's gained separation The road opens up. She pours on the speed. On his own turns, Ethan follows. CLOSE ON: Ethan, his face rippling in the wind high.
+S: EXT. MOUNTAIN ROAD - ETHAN - DAY
+N: Just Ethan now. He pushes the bike as hard as he dares, going as fast as he can. ETHAN'S P.O.V. the rocks and trees blurring into swaths of red and green. The road seems to vibrate. We expect to see Ilsa any second. What he doesn't expect ... He leans into a curve to find: An oncoming truck, straddling the line in the road. Ethan reacts. Breaks, turns, too hard. He dumps the bike and winds up sliding on his back, feet first - a human bullet. The bike hits debris in the road and suddenly flips up in the air, cart-wheeling violently, disintegrating as it spins, kicking up dust. Ethan slides into the cloud of debris a beat later and vanishes from view. We go after him, into the cloud, flying blind. Silence. The smoke clears slowly, painfully. Ethan emerges, battered and staggering. He wipes the dust from his eyes in time to see Ilsa driving past, heading back the way she came. She flips up her visor and we see the relief in her eyes. He is alive. And he's finished. She flips back her visor and accelerates. Gone. Ethan flops back in the dirt, wasted. After a moment, a car drives past, stops, backs up. The back door opens and Solomon Lane climbs out, followed by TWO MEN. Lane approaches Ethan, crouches down to come closer. 4TH GOLDENROD 23 MARCH '15
+C: LANE
+D: You need to learn to let go, my friend. Ethan tries to sit up. Lane pushes him back down gently.
+C: LANE
+D: No, you stay still. You may have broken something. Lane keeps his hand on Ethan's chest.
+E: CONT'D
+C: LANE
+D: Your mission, should you choose to accept it ... I'm curious ... Did you ever choose not to? Did you ever question who was giving the orders or why? And what is your reward for years of loyal service? When it suits them, they cast you aside. I would never do that to you Ethan. Lane walks away, looks down the road in the direction Ilsa left. Ethan sits up painfully.
+E: CONT'D off his look
+C: LANE
+D: If it's any consolation, she did it for your sake. But there's nothing out there for her now. She'll have to come back. It's inevitable. She'll keep telling herself she's playing the part. But you and I both know that's just a slippery slope. One day she'll wake up and find herself on my side. And so will you. Oh, I don't expect it to happen all at once. Volunteers are zealots. Fanatics. That sort of thinking clouds the mind. No, I want converts. People from whom there's simply nothing left. Self-radicalized. Lane crouches at Ethan's feet.
+E: CONT'D looks back to Ethan back to Ethan off Ethan's look
+N: 4TH GOLDENROD 23 MARCH '15
+C: LANE
+D: You're already on your way. I sent Ilsa to kill the Chancellor. But you shot him? You can tell yourself you were trying to save his life. But he was a bad guy, Ethan. Part of a corrupt and crumbling system. One you've had a hand in perpetuating. One you've long-since ceased to question. He had to be dealt with. And if you'd fired a few inches to the left ... he'd be just as dead. But his wife would still be alive. As Ethan processes.
+E: CONT'D
+C: LANE
+D: It hurts, I know. The first one is the hardest. But the pain you feel is your own shell breaking. He turns and walks away. His men follow.
+E: CONT'D
+C: LANE
+D: The next time we speak, I'll have a job for you. And for the sake of others, you'll do it. Deep down, you may even want to. After all, I'm not out to break you Ethan. I'm out to see you free. EXT. ROADSIDE BAR - OUTSIDE MOROCCO - DAY A beat-up truck pulls up and stops. Ethan painfully and slowly climbs from the passenger seat. A small wave to say thanks. INT. ROADSIDE BAR - OUTSIDE MOROCCO - DAY A place with some character, local color, a little live music. Ethan sits at a table and stares into space. A half drunk beer in his hand. THROUGH THE DOOR BEHIND HIM: A familiar vehicle pulls up outside.
+E: CONT'D
+N: 4TH GOLDENROD 23 MARCH '15 Luther and Brandt walk in, see Ethan and sit at the table. Ethan looks at Luther. The two old friends share a bittersweet smile.
+C: ETHAN
+D: He was right in front of me. I know who he is. Luther looks around, leans in to Ethan.
+C: BRANDT
+D: You know we gotta take you in. You ready? I'm ready.
+E: nods
+C: LUTHER ETHAN
+D: EXT. AMERICAN EMBASSY - MOROCCO - DAY Establishing America's local patch of turf. INT. AMERICAN EMBASSY - WAR ROOM - DAY A large reception area has been converted into a CIA field office. Large monitors show real-time satellite surveillance. There are even TWO DRONE PILOTS at work. In the center of this hive is Hunley, papers in one hand, a phone in the other. He hands up as Brandt and Luther escort a handcuffed Ethan into the room. CLOSE UP on hand-cuffs, Ethan drops down into a chair and we see that it is Ethan who is in cuffs. Luther and Brandt's hands guide Ethan into his chair. They move off to the side, clearly embarrassed at the awkwardness of the situation. Hunley saunters all the way down the very long corridor.
+C: HUNLEY
+D: Ethan Hunt. It's an honor to finally meet you face-to-face.
+E: MORE
+N: 4TH GOLDENROD 23 MARCH '15
+C: HUNLEY
+D: You've had a very busy weekend - participating in the assassination of the Austrian Chancellor, drafting a former colleague into an imaginary witch-hunt, breaking into a secure computer facility and streaking down a Moroccan highway doing a buck-eighty on a motorcycle with no helmet. You, sir, have single-handedly redefined the term covert operative. Ethan moves to speak, but Hunley is quicker:
+E: CONT'D
+C: HUNLEY
+D: And yet I owe you an apology. See, I was convinced the Syndicate was a ruse created entirely by you. But you know what makes the CIA great? Why we'll always win? Because we confront something no one else can: Truth. We face it, no matter how ugly. We accept it, no matter how hard. And we deal with it, no matter what it takes. And the truth is, I was wrong ... The Syndicate isn't a figment of your imagination after all. It's a figment of hers. He opens a manila file and holds up a piece of paper. Ilsa's image, along with the words:
+E: CONT'D
+C: WANTED: TARGET OF OPPORTUNITY HUNLEY
+D: Ilsa Faust. Former British Intelligence. Oh, did she not mention the former part? She was disavowed.
+E: CONT'D off Ethan's look
+C: ETHAN
+D: It's a cover.
+C: HUNLEY
+D: You don't think I made that assumption Hunt? I've been a spy since you were eating lunch out of a paper bag on the playground.
+E: MORE
+N: 4TH GOLDENROD 23 MARCH '15
+C: HUNLEY
+D: Being the courteous sort, I put in a call to my British counterpart before targeting one of his own. Seems the Brits have been just a half-step behind her since she took her skills to the open market - saboteur, assassin, you name it. In fact, the more they told me about this woman, the more familiar her story sounded ... Hunley holds up another piece of paper. A photograph of Ethan's pyramid of evidence appears. Evidence collected in places Hunley is listing ...
+E: CONT'D
+C: HUNLEY
+D: Jakarta, Manila, the Bosphorus ... Every one of the attacks you attribute to the Syndicate. She was there.
+E: CONT'D
+C: ETHAN
+D: Because she was after the same man I am. The man you should be looking for right now. Neither one of us is equipped to fight this guy alone.
+C: HUNLEY
+D: Hunt, are you familiar with the term confirmation bias?
+C: ETHAN
+D: It's the tendency of the human mind to focus only on facts that support a foregone conclusion.
+C: HUNLEY
+D: You destroyed your entire life trying to prove there's a Syndicate. But the truth ... The truth is it was just her. A woman who had your number from day one. Her own people confirmed it. And the Brits didn't just give me the green light to take her out, they signed it Tally Ho.
+C: ETHAN
+D: I came here today because I believe you're a good man-
+N: 4TH GOLDENROD 23 MARCH '15
+C: HUNLEY
+D: Came here? You must've fall off that motorbike pretty hard. You were captured and brought here. Because Brandt and Stickell were smart enough to pick the winning side .. More than I can say for your pal, Benji, when I find him. How long do you think he'll last in Leavenworth?
+C: ETHAN
+D: I need your help.
+C: HUNLEY
+D: I can help you, Hunt. I can get you twenty minutes of sunshine every weekend for the rest of your life ... Tell me where she is.
+C: ETHAN
+D: Solomon Lane - that's the former British Agent you should be looking for. Hunley turns away and addresses the two Agents.
+C: HUNLEY
+D: Shackle him. We're going to the airport. As Hunley walks away:
+C: ETHAN
+D: The Brits don't want you to know he even exists. Ask yourself why. Hunley pauses for a step, then keeps walking. As Ethan is taken away, he sees Brandt and Luther standing off to the side. All three man make eye contact. Ethan's expression is stone. Then he's gone. As Brandt and Luther walk away:
+C: BRANDT
+D: I need you to do me a favor.
+C: LUTHER
+D: It'll be my pleasure.
+N: 4TH GOLDENROD 23 MARCH '15 110.
+S: INT. SUV I - DAY
+N: Ethan, Brandt, Hunley, Luther. An awkward silence.
+S: INT. SUV II - DAY
+N: The Agents ride in bored silence. The driver periodically glances in the mirror at Hunley's SUV behind them.
+S: EXT. EMBASSY FRONT STEPS - DAY
+N: Hunley exits the building and comes down the front steps. Confused? So is he. He turns to a MARINE.
+C: HUNLEY
+D: Where is my car? The Marine looks at Hunley, perplexed. INT. SUV II - DAY Looking through the heads of the four Agents and the window behind them: We can see Hunley's SUV make a sharp turn and vanishes down a side street. A beat later, the Driver looks back, does a double take. He hits the brakes. INT. SUV I - DAY Luther turns to Hunley and nods. Hunley grabs a hold of his chin and pulls, tearing off his face. REVEAL: Benji.
+C: BENJI
+D: Admit it - I was great! Benji pulls off voice control patch on his throat. They drive in silence for a few moments. Benji pulls the cord to deflate his suit. He starts to laugh. Brandt looks across at him and starts to laugh. Luther joins in, breaking the mood. Ethan smiles. The laugh subsides. Luther tips his hat at Ethan. Ethan looks to Benji.
+E: in Hunley's voice
+N: 4TH GOLDENROD 23 MARCH '15
+C: ETHAN
+D: Please tell me you still have a copy of that disk. Benji holds up the drive.
+C: BENJI
+D: Still got it. He nods. Brandt hands the handcuff key through the glass to Ethan.
+C: BRANDT
+D: Where to now?
+C: ETHAN
+D: London. Ethan deep in thought. We go to: EXT. PARLIAMENT - LONDON - DAY Ilsa walks past Big Ben and along the embankment. A man sits on a bench looking at the Houses of Parliament, waiting. He's well dressed, a newspaper by his side. He nods politely. We recognize his face. He's the GREY­ HAIRED MAN from the opera. His name is ATTLEE. To you, anyway. Ilsa sits beside him. She places the hard drive containing the ledger on the newspaper and holds it over.
+C: ILSA
+D: A ledger - the Syndicate's entire infrastructure - who they are, they politicians they control, where their money comes from. It's everything you want to know. Attlee is silent.
+C: ATTLEE
+D: How can you be sure this so-called ledger is authentic?
+C: ILSA
+D: Why would Lane want it so badly if it wasn't authentic?
+C: ATTLEE
+D: Why would he ever let you have it if it was?
+E: MORE
+N: 4TH GOLDENROD 23 MARCH '15
+C: ATTLEE
+D: Did you stop to consider he might want me to have it? Misinformation. Manipulation. It's what he does, Ilsa. It's what he was trained to do. Lane lies to you, you sell his lie to Hunt. Together, you compromise yourselves. That's Lane's real objective. This ... It may be authentic. But the only one I trust to verify the information ... is you.
+E: CONT'D off her look
+C: ILSA
+D: No ... my orders were to deliver-
+E: realizing
+C: ATTLEE
+D: Your orders were to infiltrate the Syndicate so that we may learn more about them. First hand. This is not proof. This was a test. Like everything else. The only way to pass ... is to go back.
+E: re: disk
+C: ILSA
+D: I can't do that. I've betrayed Lane's trust once too often.
+C: ATTLEE
+D: And in every instance, you did so on your own volition.
+C: ILSA
+D: He was going to torture and kill an American agent.
+C: ATTLEE
+D: And you should have let him. Then you would still have Lane's trust. This is the trade. Hunt understands that.
+C: ILSA
+D: I wasn't going to leave him to die. He's our ally.
+C: ATTLEE
+D: There are no allies in statecraft - only common interests.
+E: MORE
+N: 4TH GOLDENROD 23 MARCH '15
+C: ATTLEE
+D: As it stands, Ethan Hunt is a man without a country. This makes killing him decidedly less complicated. Grim pause.
+E: CONT'D
+C: ILSA
+D: Are you ordering me to kill Hunt?
+C: ATTLEE
+D: That would be crude. No. Lane will give you the order. And, to regain his trust, you'll do it.
+C: ILSA
+D: You sent me to do a job, I did it. Now bring me in.
+C: ATTLEE
+D: Need I remind you, you're without a country of your own. Ilsa stands, turns to walk away. His voice stops her:
+C: ATTLEE
+D: The director of the CIA called to inquire about you personally. To protect your cover, I had to lie. To the Americans, you're a rogue assassin. A target of opportunity. Ilsa turns back, glares at him.
+E: CONT'D
+C: ATTLEE
+D: Precious few people know your true identity. It would be unfortunate if they forgot. He looks down at the drive on the newspaper. She walks back, picks it up, thrusts it in her pocket.
+E: CONT'D
+C: ATTLEE
+D: Good to know you're still with us. Ilsa turns and walks away. Attlee waits a beat before unfolding the paper yet again, revealing a cell-phone there. The screen shows the outline of the drive Ilsa laid on the paper. The screen reads: COPY COMPLETE
+E: CONT'D
+N: 4TH GOLDENROD 23 MARCH '15 Attlee collects the phone and the paper, a satisfied look on his face. (OMITTED)
+S: EXT. CEMETERY - DAY
+N: Long forgotten, grass overgrown, any potential mourners have since passed. Ilsa walks down the center drive, the main road far behind her, hands in her pocket. Up ahead, a car is parked, waiting ... The door opens and one of Lane's goons climbs out. A beat later, Lane emerges, then Vinter. Anxious pause. Lane extends a hand. She pulls a hands from her left coat pocket and produces the drive. Lane takes it.
+C: LANE
+D: All is forgiven. He hands it to his goon. The goon places a laptop on the hood of the car, plugs in the drive and enters a few keys. Meanwhile, Lane motions for her to walk.
+C: ILSA
+D: It isn't a ledger, is it?
+C: LANE
+D: You didn't look for yourself?
+C: ILSA
+D: Of course I did. But the file was encrypted.
+C: LANE
+D: Why would I lie to you?
+C: ILSA
+D: So that I would lie to Hunt.
+C: LANE
+D: If he knew what it really was, he would never have stolen it. And you wouldn't have helped him.
+C: ILSA
+D: And what exactly is it? Lane doesn't answer.
+N: 4TH GOLDENROD 23 MARCH '15
+C: LANE
+D: I'll be honest with you when you start being honest with me. You and I both know why you really came back. And you're only wondering what's on the disk because Attlee let you keep it. She glances at Vinter.
+C: LANE
+D: Relax. If I was going to kill you, I would have done it in Vienna. You're still alive because I believe in your potential. But I'm losing my patience. Why do you continue to resist?
+E: CONT'D stepping closer
+C: ILSA
+D: Because you're a terrorist.
+C: LANE
+D: That would be true if my goal was to spread fear. My methods are more ... surgical.
+C: ILSA
+D: You kill innocent people.
+C: LANE
+D: I helped my government kill many innocent people and more - killing to keep things as they were. Now I'm killing to bring about change. We're not talking about good versus evil. We're talking about the lesser of two. Which would you rather be?
+C: ILSA
+D: Neither.
+C: LANE
+D: I'm afraid there's no third choice.
+C: ILSA
+D: Ethan Hunt would disagree. Lane smiles.
+N: 4TH GOLDENROD 23 MARCH '15
+C: LANE
+D: Hunt is a gambler. One day his luck will run out. And thousands, millions of innocent people will pay the price. Which of us will be a villain then? Vinter approaches, whispers something in Lane's ear, handing him the disc. Lane turns to Ilsa, his expression darkening. He sighs.
+C: LANE
+D: I'm through playing games.
+E: CONT'D
+C: ILSA
+D: I don't know what you mean.
+C: LANE
+D: There may have been something on that disc in Morocco, but it's empty now. Lane and Vinter exchange a grim look. Then they look back at Ilsa. She pulls a pistol a pistol from her right coat pocket, but Vinter is faster. He grabs her wrist and disarms her, holding her fast.
+C: LANE
+D: I'm curious ... Who will you blame for what happens next?
+E: CONT'D
+C: BRANDT
+D: What do you mean you can't open it? INT. SAFE HOUSE - LONDON - DAY A dimly-lit room in a third floor walk-up, heavy curtains over windows. Luther's tablet lays on the table, actively searching for Ilsa. Luther and Benji are huddled over a laptop puzzling over the drive stolen from the torus. Brandt and Ethan are sorting through IMF-issue gear.
+E: PRELAP
+C: LUTHER
+D: I mean we can't open it. Ever.
+C: BENJI
+D: It's a red box.
+N: 4TH GOLDENROD 23 MARCH '15
+C: BRANDT
+D: A what?
+C: ETHAN
+D: A red box. The British government uses them for transporting state secrets.
+C: BRANDT
+D: If you mean a ministerial red box, you're talking about an actual box. Painted red.
+C: LUTHER
+D: This is a virtual red box.
+C: BENJI
+D: Triple encrypted, only accessible with a fingerprint, retina scan and a pass-phrase spoken by one specific person.
+C: ETHAN
+D: The Prime Minister of Great Britain himself. Ethan sits down, deep in thought. As he calculates:
+C: BRANDT
+D: What you're saying is, to be clear, this isn't a ledger at all. Which means we don't have proof the Syndicate even exists. We're back to square one. Only now we're all wanted by the CIA. Awesome.
+C: BENJI
+D: What I don't understand is why a red box would be sitting in a private data vault in Morocco?
+C: LUTHER
+D: And why would Lane want it if he can't open it?
+C: BENJI
+D: If Lane wants it, you can be sure he has a way to open it. We just helped him steal it.
+N: 4TH GOLDENROD 23 MARCH '15
+C: LUTHER
+D: He's going to take the Prime Minister.
+E: realizing
+C: ETHAN
+D: Yes he is. Question is how. The realization hits the team. After a beat.
+C: BENJI
+D: We have to warn the British Government.
+C: BRANDT
+D: Yeah - MI6-
+E: reaches for phone
+C: ETHAN
+D: Put down the phone. Just put the phone down. Let's just think about this for a minute. First, the British hide the existence of the Syndicate from the CIA. Next, a file we believe to be the ledger turns out to be a top secret British government document. Lane worked for the British Intelligence. We can't be sure the person you're warning doesn't work for Lane.
+E: thinking
+C: BRANDT
+D: That may all be true, it doesn't change the fact that we have a responsibility to warn the British Government, and not to gamble with the Prime Minister's life. Just so you can beat the guy who's beaten you at every turn. I'm sorry.
+C: ETHAN
+D: Is that what you think this is, Brandt? Is that what you think?
+C: BRANDT
+D: I think right now, you're incapable of seeing any other way.
+C: LUTHER
+D: Sometimes Ethan's the only one capable of seeing the only way.
+N: 4TH GOLDENROD 23 MARCH '15
+C: BRANDT
+D: And if he's wrong, it's Vienna all over again.
+C: ETHAN
+D: Brandt! You don't know this guy. If Lane wants something to happen, you can't prevent it.
+C: BRANDT
+D: Exactly. Which is why we have to warn the British.
+C: ETHAN
+D: Maybe that's exactly what he wants us to do.
+C: BRANDT
+D: Are you listening to yourself? We are going to warn the British.
+C: ETHAN
+D: No, no we're not. We are going to find Lane. We are going to get Lane before he takes the Prime Minister.
+C: BRANDT
+D: Ok. Let's get Lane. So tell me, how are we going to do what we've not been able to do thus far. Luther's tablet chimes. He glances at it.
+C: LUTHER
+D: Found her. INT. TRAIN STATION - LONDON - DAY A crowd of COMMUTERS file in and out of a door leading to the platform. Focus on one in particular: Ilsa is on the move, walking through the crowd. Just as she passes a small cafe, she stops when she sees: Ethan's face in the crowd about twenty feet away - the only face looking directly at her. She looks behind her and sees Benji's face. Two new faces are staring at her. To the left is Brandt at a news stand, to her right, Luther at a pay phone.
+N: 4TH GOLDENROD 23 MARCH '15 Ilsa is surrounded, she sidesteps to the cafe and sits at a table with two chairs. Ethan approaches, sits opposite to her. At a distance, the team watches them stare at one another for a moment. (Note: Ethan can hear them, Ilsa cannot.)
+C: BRANDT
+D: So that's her.
+E: ON COMM
+C: BENJI
+D: That's her. Luther studies the way Ethan looks at her.
+E: ON COMM
+C: LUTHER
+D: Oh boy.
+E: ON COMM
+C: ON ILSA AND ETHAN ETHAN
+D: I have to say. You sure can ride.
+C: ILSA
+D: In all fairness, you were in no condition to drive. They share a slight smile, then:
+C: ILSA
+D: Ethan-
+E: CONT'D
+C: ETHAN
+D: You were just doing your job. That's all we're ever going to say about it.
+C: ILSA
+D: Attlee said you would understand.
+C: ETHAN
+D: Attlee. Is he your handler. He didn't bring you in. Even after you gave him the disc.
+E: off her nod/ realizing she nods again
+C: ILSA
+D: You know perfectly well it was blank. Only Ethan can hear:
+N: 4TH GOLDENROD 23 MARCH '15
+C: BENJI
+D: That's a lie. The disc she took from me was an exact copy. I'm sure of it.
+E: ON COMM
+C: ETHAN
+D: Was it in your possession the entire time? FLASH - In her mind, Ilsa sees Attlee on the bench by the river, the disk on his newspaper. She picks it up and leaves. Attlee unfolds the paper and reveals his phone underneath. The screen reads:
+C: FILES DELETED
+D: BACK ON ILSA, containing her rage, humiliation.
+C: ILSA
+D: You knew I'd take it to him.
+E: realizing
+C: ETHAN
+D: I hoped you would. I hoped it would be enough to get you out.
+C: BENJI
+D: Wait. That means Lane doesn't have the disc. Only we do.
+E: ON COMM
+C: BRANDT
+D: I have a question. If the disc was blank, why is she still alive? Beat. Ethan realizes.
+E: ON COMM
+C: ETHAN
+D: So who are you working for now?
+C: ILSA
+D: Lane. Attlee. Your government, mine. They're all the same. We only think we're fighting for the right side because that's what we chose to believe.
+C: ETHAN
+D: Where does that leave us?
+C: ILSA
+D: The way I see it, you have three choices. One, you hand me and the disc over to the CIA.
+E: MORE
+N: 4TH GOLDENROD 23 MARCH '15
+C: ILSA
+D: I'm proof that the Syndicate exists. Lane becomes their problem and your work is done.
+E: CONT'D
+C: BRANDT
+D: My thoughts, exactly.
+E: ON COMM
+C: BENJI
+D: Works for me.
+E: ON COMM
+C: ILSA
+D: But you know they'll never believe you. You're all tried for treason. Lane goes free.
+C: LUTHER
+D: I'm afraid she has a point.
+C: ILSA
+D: Two, you let me walk away to an uncertain fate. You use the disc as bait to trap Lane. But some part of you suspects you've met your match. And, being a gambler, you'll end up handling Lane that disc whether you want to or not.
+C: BENJI
+D: That's ... entirely possible.
+C: ETHAN
+D: And option three?
+C: ILSA
+D: Come away with me. Right now.
+C: LUTHER
+D: Oh boy.
+C: ETHAN
+D: And what happens to Lane?
+C: ILSA
+D: Forget Lane. There will always be another Lane. And there will always be people like us to face him. We've done our part and now we've been cast aside. We can be anyone, do anything ... It's only a matter of going.
+N: 4TH GOLDENROD 23 MARCH '15 Ethan glances at the TRAVELERS walking past, on their way to ordinary lives. The look on Ethan's face says he's almost tempted. But then:
+C: ETHAN
+D: Lane sent you to deliver a message. What hope she had for him slips away.
+C: ILSA
+D: You can't beat him, Ethan. With or without your team.
+C: ETHAN
+D: What's the message?
+C: ILSA
+D: I saved your life twice. I won't be able to do it again.
+C: ETHAN
+D: I don't expect you to. Ilsa places a phone on the table, slides it across. A crackling noise and a piercing electronic squeal in Ethan's ear. ANGLE ON the pay phone. Luther hears it, too. ANGLE ON the newsstand. Brandt hears it, too. ANGLE ON Benji. Where is Benji? Ethan is on his feet in a flash. The phone rings. Ethan grabs it, running to the spot where Benji was just a moment ago. He answers the phone. The phone beeps. Ethan looks at it. To his horror he sees someone's direct POV, much like the contact lens in Vienna. He sees Benji, unconscious, a bag being thrown over his head as he is dragged away.
+C: ETHAN
+D: Parking garage. Luther, stay with her. Ethan and Brandt run for the escalator.
+E: re: Ilsa
+N: 4TH GOLDENROD 23 MARCH '15 Luther moves through the crowd towards Ilsa. She sits still, looking right at him. He loses sight of her for only an instant. But in that instant, she vanishes. Meanwhile, as Ethan runs, he watches on the phone as Benji is dragged toward a van, thrown inside. THE POV moves to the passenger-side door, calmly climbs in and adjusts the mirror TO REVEAL: Vinter, winking directly at himself and thus Ethan. He puts the van in drive. Ethan runs faster.
+S: INT. PARKING GARAGE - DAY
+N: Ethan and Brandt emerge just as the van Ethan saw on the phone roars past, down a long tunnel and out of sight. Benji is gone. A moment later, Luther rushes up from behind.
+C: LUTHER
+D: She's gone. I lost her.
+C: BRANDT
+D: She set us up.
+C: ETHAN
+D: No. She delivered a message-
+C: BRANDT
+D: She set us up. She led us here. She knew this was going to happen-
+C: ETHAN
+D: Only Lane knows what's going to happen. The phone rings again. Ethan answers. INT. HOTEL ROOM - DAY Lane on the other end of the phone. He faces a television on mute, watching a press conference in front of 10 Downing street - our first glimpse of the PRIME MINISTER OF GREAT BRITAIN.
+C: LANE
+D: As promised, I have a job for you. And for the sake of your friend, you'll do it.
+E: on phone
+N: 4TH GOLDENROD 23 MARCH '15
+C: ETHAN
+D: I'm listening.
+E: V.O.
+C: LANE
+D: Your mission, should you choose to accept it, is to bring me the unlocked disc by midnight tonight. Now say the words. Ethan is thinking ...
+C: LANE
+D: Say ... the words.
+E: CONT'D
+C: ETHAN
+D: ... I accept.
+E: V.O.
+C: LANE
+D: I knew you would. Lane clicks off the phone. INT. PARKING GARAGE - DAY
+C: ETHAN
+D: He wants the disc. Unlocked. By midnight tonight.
+C: LUTHER
+D: Ethan, only one person on Earth can unlock that disc ...
+C: ETHAN
+D: We have to take the Prime Minister ...
+C: BRANDT
+D: Think about this. For just a minute-
+C: ETHAN
+D: It's the only way to get Benji back.
+C: BRANDT
+D: Just think. It's exactly what Lane wants us to do.
+C: ETHAN
+D: WHICH IS WHY IT HAS TO HAPPEN. THIS IS HOW WE BEAT LANE.
+E: MORE
+N: 4TH GOLDENROD 23 MARCH '15
+C: ETHAN
+D: This is how we make everything right. Can't you see that ... ? Ethan walks away. Luther and Brandt share an uncertain look before Luther follows, leaving Brandt to contemplate the horrible direction this is headed. EXT. SKIES OVER THE MED - DAY A private jet streaks westward. INT. JET - DAY TWO CIA AGENTS sit at the back of the plane. Hunley is seated near the gallery, looking out the window, contemplating his next move. He thumbs a tablet, swiping images collected by Ethan - the map, the photos of dead agents, a sketch of Ilsa. The satellite phone rings. The 1st agent answers and brings the phone to Hunley.
+E: CONT'D
+C: 1ST AGENT
+D: William Brandt, sit. He says it's urgent. Hunley sets aside the tablet, snatches the phone. He thinks for a beat as to how he wants to play it.
+C: HUNLEY
+D: I had a feeling you'd come to your senses, Brandt. EXT. STREET - DAY
+C: BRANDT
+D: Let's be clear. I'm calling you because I have no other choice. I'm trying to avoid a catastrophe.
+C: HUNLEY
+D: I can understand that. Where are you?
+C: BRANDT
+D: London. Hunley covers the phone, turns to the agent -
+N: 4TH GOLDENROD 23 MARCH '15
+C: CLICK. HUNLEY
+D: Reroute us to London, now. Where in London?
+E: into phone
+C: BRANDT
+D: I'll tell you that when you land. Not before.
+C: HUNLEY
+D: I'm not interested in playing games, Brandt.
+C: BRANDT
+D: And I'm not interested on seeing you kill my friends. If I'm going to betray them, I'm going it on my terms. Not yours. Keep your phone on. Instructions to follow. INT. SAFEHOUSE - DAY Luther checks out the equipment as Ethan pores over the plans of Blenheim on the computer. Luther looks up as Brandt walks across the room to his packed bags.
+C: LUTHER
+D: You should have gone.
+C: BRANDT
+D: Yeah.
+C: LUTHER
+D: Is everything okay? He grabs his bags and turns to leave.
+C: BRANDT
+D: We're supposed to take down the Prime Minister of Great Britain tonight - so - no. Brandt starts to walk out. Ethan stops him.
+C: ETHAN
+D: Brandt - I can't see another way.
+C: BRANDT
+D: Because there isn't. We do what we have to do for our friends. Right?
+N: 4TH GOLDENROD 23 MARCH '15 Brandt walks out. Luther watches him, concerned.
+S: INT. HOTEL ROOM - DAY
+N: Benji has a hood ripped from his head to find himself seated in a chair, in a hotel room with a sweeping view of downtown London. Before him stands LANE, to his side, Vinter. As Benji glares:
+C: LANE
+D: You look like you've just seen a ghost.
+C: BENJI
+D: You're not a ghost yet ... but you will be. Lane smiles, leans in to Benji:
+C: LANE
+D: Get him ready please. Vinter picks up an explosive vest and walks over to Benji. EXT. BLENHEIM PALACE - DRIVE - NIGHT Establishing the grand residence, open this evening for a charity auction. Cars deposit ATTENDEES at the base of the grand stairway leading to the entrance. PHOTOGRAPHERS are on hand to take pictures. Shades of Vienna. One of these delivers Hunley, emerging from the vehicle with TWO CIA MEN. Hunley nods to his men. They step forward and pat Brandt down, going so far as to check his eyes, ears, pulling his face.
+C: HUNLEY
+D: You were right to call me, Brandt. Where is Hunt?
+C: BRANDT
+D: He's on his way here. You don't have a lot of time.
+C: HUNLEY
+D: What does he intend to do?
+N: 4TH GOLDENROD 23 MARCH '15
+C: BRANDT
+D: What matters is he's alive. I want assurance that he will stay that way~ Brandt nods to an arriving motorcade, complete with police escort and armored SUVs. A HANDSOME COUPLE emerges and PHOTOGRAPHERS press forward to take pictures. As they head up the palace stairs:
+C: HUNLEY
+D: Have you informed the British government that Hunt is targeting the Prime Minister?
+C: BRANDT
+D: I'll help you That's the deal. him alive. Just then, over Brandt's shoulder, Hunley spies a familiar face emerging from a limo and walking up the steps: ATTLEE.
+C: HUNLEY
+D: You've learned more bad habits from your friend, Brandt. The worst being the belief that you can control any outcome. Stay with him. EXT. BLENHEIM PALACE - FRONT STEPS - NIGHT Attlee is almost at the door when: HUNLEY Chief Attlee. Attlee turns, surprised to find Hunley.
+E: to his men, re: Brandt 0. S.
+C: ATTLEE
+D: Director Hunley. How delightful to see you here. The last time we spoke, you were hunting rogue agents in Morocco.
+C: HUNLEY
+D: Too long to explain, I'm afraid. But I have a reason to believe the Prime Minister's life is in danger.
+N: 4TH GOLDENROD 23 MARCH '15
+C: ATTLEE
+D: Really?
+C: HUNLEY
+D: Bear with me. Off Attlee's alarmed expression: EXT. BLENHEIM PALACE - DRIVE - NIGHT Brandt watches helplessly as Hunley spills the beans to Attlee - both of them glancing this way. EXT. BLENHEIM PALACE - FRONT STEPS - NIGHT
+C: ATTLEE
+D: Fascinating.
+C: HUNLEY
+D: That's one way to put it. In any case, we need to warn the Prime Minister. INT. BLENHEIM PALACE - LIBRARY - NIGHT An auction is underway. The Prime Minister is in the audience, sitting with his wife. A BODYGUARD approaches, whispers in his ear.
+C: BODYGUARD
+D: Chief Attlee from MI6 needs to speak to you. He says it's urgent. The PM looks at the bodyguard, confused, then concerned. He whispers something to his wife and excuses himself. INT. BLENHEIM PALACE - CORRIDOR - NIGHT The PM, escorted by two bodyguards, finds Attlee waiting at the door to a stateroom.
+C: PRIME MINISTER
+D: What's this all about?
+C: ATTLEE
+D: A matter of national security, Prime Minister.
+N: 4TH GOLDENROD 23 MARCH '15 He opens the door to a stateroom, revealing Hunley and Brandt inside. As the PM steps in:
+C: ATTLEE
+D: Under no circumstances is anyone to enter. Do you understand. Attlee steps in and slams the door:
+E: CONT'D to bodyguards
+C: PRIME MINISTER
+D: Fascinating. INT. BLENHEIM PALACE - STATEROOM - NIGHT The Prime Minister sits while Brandt, Hunley and Attlee stand.
+E: PRELAP
+C: PRIME MINISTER
+D: Who is this man? Why is he after me?
+C: ATTLEE
+D: I'm afraid Prime Minister, Director Hunley an I share responsibility in this.
+C: HUNLEY
+D: Hunt was part of a disgraced intelligence agency that has since been dissolved.
+C: ATTLEE
+D: He's gone rogue, unfortunately, intent on dismantling an imaginary terror network.
+C: HUNLEY
+D: At first we believed he had fabricated this network in a tragic bid to justify his agency's existence. But new intelligence suggests he has been manipulated by one of your former agents. The PM looks to Attlee who clears his throat.
+C: ATTLEE
+D: Ilsa Faust, Prime Minister. She disappeared two years ago.
+E: MORE
+N: 4TH GOLDENROD 23 MARCH '15
+C: ATTLEE
+D: Both MI6 and the CIA are working together to bring her in, along with Hunt.
+E: CONT'D
+C: PRIME MINISTER
+D: If you don't mind me asking, what do I have to do with this phantom network?
+C: HUNLEY
+D: Sir - William Brandt, a former colleague of Hunt. He came forward with first hand knowledge of the plot against you.
+C: BRANDT
+D: Sir, Hunt is in possession of a virtual red box that can only be opened by you. The PM's expression changes when he hears the words "red box." His gaze shifts to Attlee and remains there as:
+C: BRANDT
+D: He believes it's the key to bringing down the Syndicate. The word "Syndicate" strikes a cord with the PM. His eyes shift back to Brandt. Attlee is visibly nervous. Hunley senses the shift in the room immediately.
+E: CONT'D
+C: PRIME MINISTER
+D: The Syndicate, you say.
+C: BRANDT
+D: Yessir. That's what he calls it.
+C: PRIME MINISTER
+D: Attlee - he couldn't possible mean that Syndicate. Because you assured me that that Syndicate was merely an exercise.
+E: before Attlee can respond
+C: ATTLEE
+D: And it was, sir. I can assure you.
+C: PRIME MINISTER
+D: Yet here we have the Central Intelligence Agency indicating otherwise.
+N: 4TH GOLDENROD 23 MARCH '15 Hunley is confused.
+C: HUNLEY
+D: I'm sorry. I don't understand.
+C: ATTLEE
+D: Mr. Prime Minister, your life is in danger. Our main priority is to move you to a secure location-
+C: HUNLEY
+D: Sir, does the name Solomon Lane ring a bell?
+C: PRIME MINISTER
+D: Yes ... Unfortunately, it does.
+C: HUNLEY
+D: So there actually is a Syndicate. Attlee struggles for a response.
+E: to Attlee
+C: PRIME MINISTER
+D: It was the hypothetical brainchild of Chief Attlee. Recruit former agents from other nations, supply them with new identities, use them to exterminate our enemies at home and abroad. Its operating budget was to be hidden off-shore in a virtual red box which I alone would control ... It would have made me judge, jury and executioner. With zero accountability. I unequivocally rejected the proposal. Furthermore, I was given every assurance that the program never passed the planning stage ... Hunley can't believe his ears. He looks at Brandt as:
+E: focusing on Attlee
+C: ATTLEE
+D: Prime Minister, there is no Syndicate. These men have been duped by Agent Faust-
+C: PRIME MINISTER
+D: Attlee. Save your words for the Public Inquiry.
+N: 4TH GOLDENROD 23 MARCH '15 The Prime Minister moves to the door. Hunley stops him.
+C: HUNLEY
+D: I urge you not to leave this room.
+C: PRIME MINISTER
+D: Excuse me.
+C: HUNLEY
+D: Please. Hunt is uniquely trained and highly motivated - a specialist without equal and immune to any countermeasures. There is no secret he can't extract, no security he can't breach, no person he can't become. He has most likely anticipated this very conversation and is waiting to strike in whatever direction you move. Ethan Hunt is the living manifestation of destiny. And he has made you his mission. And I've unleashed him.
+E: realizing
+C: ATTLEE
+D: Prime Minister- CLACK. The PM recoils, slumps in his seat. Hunley turns to find Attlee with a pistol in his hand, swinging it from the PM to Hunley and Brandt before they can react. Then Attlee reaches under his collar of his shirt and rips off his face to reveal: Ethan. As he peels the voice synthesizer from his neck, Hunley grasps for words, managing finally to find:
+C: HUNLEY
+D: Hunt. Ethan pulls off the voice patch and motions to Hunley with the pistol.
+C: ETHAN
+D: Sir, please step away from the Prime Minister. Ethan nods at Brandt. He moves for the PM and checks his pulse.
+N: 4TH GOLDENROD 23 MARCH '15
+C: BRANDT
+D: Just relax sir - - everything's going to be alright.
+E: pulls out the dart
+C: PRIME MINISTER
+D: Attlee shot me.
+E: slurring
+C: BRANDT
+D: Yes he did sir. We're good. Brandt stands as Ethan pulls out a hand scanner. Brandt looks into the Prime Minister's right eye.
+E: nods to Ethan
+C: BRANDT
+D: Just going to look at your eye.
+C: HUNLEY
+D: Hunt, I hope you realize you've just set US-UK relations back to the declaration of independence.
+C: ETHAN
+D: Desperate times, desperate measures, sir .. Ethan pulls out a cell phone and dials. INT. LONDON SAFE HOUSE - NIGHT A cell phone rings and Luther answers.
+C: ETHAN
+D: Stand by to receive. Luther plugs the disc stolen from the torus into a laptop. On screen, a graphic appears: 1) RETINAL SCAN
+C: LUTHER
+D: Ready.
+N: 4TH GOLDENROD 23 MARCH '15
+S: EXT. BLENHEIM PALACE - FRONT STEPS - NIGHT
+N: A limo pulls up and a familiar face emerges. Attlee. The real Attlee. He addresses A BODYGUARD posted by the stairs.
+C: ATTLEE
+D: The Prime Minister's office asked me to meet him here. Where is he? INT. BLENHEIM PALACE - STATEROOM - NIGHT Brandt removes small dart from the Prime Minister's neck, checks his pulse. Brandt holds open the PM's eye-lid and holds a hand-held scanner to it. The PM's eye rolls, dazed.
+C: BRANDT
+D: Just need to look at your eye.
+C: PRIME MINISTER
+D: Of course, by all means. The scanner in Brandt's hand flashes across the PM's eye and transmits: INT. LONDON SAFE HOUSE - NIGHT The real-time image of the PM's eye to Luther computer screen which reads: 1) RETINAL SCAN: CONFIRMED
+C: LUTHER
+D: Retinal scan, confirmed. INT. BLENHEIM PALACE - FRONT HALL - NIGHT Attlee heads toward the stateroom corridor. INT. LONDON SAFE HOUSE - NIGHT Luther's screen reads: 2) BIOMETRIC SCAN:
+C: LUTHER
+D: Biometric scan, confirmed.
+N: 4TH GOLDENROD 23 MARCH '15
+S: INT. BLENHEIM PALACE - STATEROOM - NIGHT
+N: Brandt places the PM's hand on a second scanner.
+S: INT. LONDON SAFE HOUSE - NIGHT
+N: Luther computer screen reads a series of points, including fingerprints, body temperature, electrical impulse and stress levels. The screen reads: 1) RETINAL SCAN: CONFIRMED 2) BIOMETRIC SCAN: CONFIRMED 3) PASS-PHRASE:
+C: KIPLING
+D: INT. BLENHEIM PALACE - STATEROOM - NIGHT
+C: LUTHER
+D: The prompt is Kipling.
+E: ON PHONE
+C: ETHAN
+D: The prompt is Kipling. Ethan tosses the phone to Brandt who holds the phone up to the Prime Minister's face.
+C: BRANDT
+D: Mr. Prime Minister. I need the pass-phrase. The prompts is Kipling.
+C: PRIME MINISTER
+D: If you can keep your head when all about you are losing theirs. If you can trust yourself when all men doubt you ... INT. LONDON SAFE HOUSE - NIGHT 1) RETINAL SCAN: CONFIRMED 2) BIOMETRIC SCAN: CONFIRMED 3) PASS-PHRASE: CONFIRMED
+E: a little slurred
+N: 4TH GOLDENROD 23 MARCH '15 The screen flashes, Attlee appears on the screen. He talks to camera.
+C: ATTLEE
+D: Greetings, Prime Minister. If you are viewing this message, you have chosen to activate the Syndicate. This disk grants access to 2.4 Billion pounds sterling in untraceable currency - enough for the Syndicate to operate undetected for decades. For your chief operative and sole contact I have chosen my top man, Solomon Lane. He will be in charge of recruiting field agents and supplying them with new identities. I know, Prime Minister, that you've expressed doubts about Lane's methods in the past, but there is no man more loyal to Britain and British interests. I am confident that time will prove him out. The 2.4 billion in operating funds is hidden in a series of numbered accounts all over the world. Instructions for how to access these funds are as follows-
+C: LUTHER
+D: Oh my God.
+C: BRANDT
+D: You got it?
+E: ON PHONE
+C: LUTHER
+D: I got it. Oh man, do I got it. INT. BLENHEIM PALACE - STATEROOM - NIGHT
+C: ETHAN
+D: We get it?
+E: OMITTED
+C: BRANDT
+D: We get it.
+N: 4TH GOLDENROD 23 MARCH '15 139.
+S: INT. BLENHEIM PALACE - CORRIDOR - NIGHT
+N: Attlee arrives at the stateroom door, much to the confusion of the two bodyguards who've already seen him go in. They share a look.
+C: ATTLEE
+D: I'm here to see the Prime Minister.
+C: BODYGUARD
+D: Uh ... We were told not to let anyone in?
+C: ATTLEE
+D: By whom?
+C: BODYGUARD
+D: ~~~ You, sir~ INT. BLENHEIM PALACE - STATEROOM - NIGHT Attlee and the Bodyguards burst in through the double doors and, only to find Hunley standing over a semi­ conscious Prime Minister.
+C: ATTLEE
+D: Hunley? What is this? Security! Both bodyguards from the hall rush in past Attlee and toward Hunley and the PM. Ethan and Brandt step from behind the open doors. CLACK, CLACK. Both bodyguards go down without ever seeing Ethan. Attlee turns to face Ethan.
+C: ETHAN
+D: Chief Attlee. Kind of you to accept our invitation. CLACK. Attlee goes down, too. ATTLEE'S P.O.V. looking up at Ethan, Brandt and Hunley.
+C: ATTLEE
+D: What happened?
+C: ETHAN
+D: We know you secretly created the Syndicate.
+E: MORE
+N: 4TH GOLDENROD 23 MARCH '15
+C: ETHAN
+D: It was supposed to protect British interests, but Lane went rogue and turned it against you, didn't he - And you've been desperately trying to cover it up. That's why you erased the disk when she brought it to you.
+E: CONT'D
+C: ATTLEE
+D: That's ... true.
+E: confused
+C: ETHAN
+D: Now Director Hunley has some questions for you regarding Ilsa Faust ... namely how you framed her.
+C: ATTLEE
+D: That's also true. Ethan stands, faces Hunley as:
+C: ETHAN
+D: Antidote.
+E: handing over needle
+C: BRANDT
+D: When the Prime Minister found out about the Syndicate, Attlee attacked him ...
+E: motions to PM
+C: PRIME MINISTER
+D: That's true. Ethan offers the gun to Hunley.
+E: O.S.
+C: BRANDT
+D: And you saved the Prime Minister, sir.
+C: PRIME MINISTER
+D: Did he? Hunley looks to the PM.
+E: O.S.
+C: PRIME MINISTER
+D: I'm very grateful. Hunley turns back and takes the gun.
+E: CONT'D
+N: 4TH GOLDENROD 23 MARCH '15 141.
+S: INT. HOTEL ROOM - NIGHT
+N: A cell phone rings. Solomon Lane checks his watch and answers.
+C: LANE
+D: You're cutting it very close Ethan. EXT. BLENHEIM PALACE - FRONT STEPS - NIGHT Ethan and Brandt hurry down the front steps.
+C: ETHAN
+D: I have what you want. INT. LOADING DOCK - - NIGHT A car carrying Ethan and Brandt screeches to a halt by: Luther, standing by a white van. On the open tailgate is a laptop computer. We glimpse the materials in the back of the truck, but can't be entirely sure what they are. Ethan moves to open the laptop. Luther places a hand on it.
+E: INTO PHONE TRAP LOCATION
+C: LUTHER
+D: Ethan. Wait -
+C: ETHAN
+D: If I'm not there in fifteen minutes, he'll kill Benji.
+C: LUTHER
+D: Ethan ... The mission is to bring down the Syndicate. If Lane gets his hands on this money, we're unleashing a terrorist's superpower.
+C: ETHAN
+D: He'll never take me alive. I'll be sure of that. Just be ready. Luther and Brandt share a concerned look.
+C: BRANDT
+D: And if you can't make it back here?
+N: 4TH GOLDENROD 23 MARCH '15
+C: ETHAN
+D: I'll make it back. Luther steps back, taking his hand off the computer. Ethan opens the laptop. On the screen: bank accounts, each containing tens and even hundreds of millions. PUSH IN ON ETHAN, intently staring at the screen - the blues and whites of raw streaming data transmorphing - ETHAN pulls out the disk and drills a hole in it, destroying the data. EXT. TOWER BRIDGE - LONDON - NIGHT Sweeping overhead shot of the city, past the iconic landmark, finding: EXT. TRAITOR'S GATE - NIGHT A restaurant on the waterfront alongside the Tower of London. Tower Bridge looms in the background. PEDESTRIANS are everywhere. It's not the place we expected to meet. Ethan stops, noting the few FACES IN THE CROWD looking at him - some we recognize. They are LANE'S GOONS - Vinter, Saif and three others - all keeping a distance. Off. Then he sees: Benji, motionless, eyes front, a closed laptop on the table in front of him, along with two glasses of wine. Next to him sits Ilsa: also perfectly still. Ethan approaches slowly, and as comes closer he can see the beads of sweat on Benji's forehead, the neutral look on Ilsa's face. Eerie. Benji looks up:
+C: BENJI
+D: This is the end, Mr. Hunt. Ethan sees an earpiece in Benji's ear. ECU on Benji's eye - a contact lens like the one the assassin wore at the opera. Then Ethan sees it - a small light flashing under Benji's coat. Ethan reaches over.
+N: 4TH GOLDENROD 23 MARCH '15
+C: ILSA
+D: Be careful. Ethan gently pulls it open. REVEAL: Benji is wearing an explosive vest. A lighted keypad sits smack in the middle of Benji's chest. The timer is ticking down. INT. HOTEL ROOM - NIGHT Lane sits before a monitor, watching Ethan.
+C: LANE
+D: Two pounds of semtex, five hundred thirty calibre ball bearings ... Your friend is- EXT. TRAITOR'S GATE - NIGHT
+C: BENJI
+D: - sitting on a highly sensitive pressure trigger. So no sudden moves. Ethan looks down at Ilsa's hands in her lap, sees the pistol there.
+C: ETHAN
+D: Your final test.
+C: ILSA
+D: When Lane has what he wants, I kill you and Benji. If not ... Everyone dies. Ethan looks at the PEDESTRIANS and DINERS all around them. Innocent victims ... INT. HOTEL ROOM - NIGHT
+C: LANE
+D: No time to think, Ethan ... Have a seat. EXT. TRAITOR'S GATE - NIGHT
+C: BENJI
+D: - have a seat. Ethan sits down opposite Benji.
+N: 4TH GOLDENROD 23 MARCH '15 (OMITTED) (OMITTED) (OMITTED)
+C: LANE
+D: Human nature. My weapon of choice.
+C: ETHAN
+D: You never meant to recruit us. You never had to.
+E: to Benji
+C: BENJI
+D: Everything you've done is because I wanted you to do it. From the moment I killed that woman in the record shop, I knew you'd stop at nothing to catch me. And I also knew Ilsa wouldn't have a choice. Whether she broke you that night you met or let you go, whether you let her run in Morocco, whether she went to Attlee or not ...
+C: ETHAN
+D: You were certain we'd end up where we are right now ... Then again ... so was I. EXT. TRAITOR'S GATE/ :INT. HOTEL ROOM - J:NTERCUT
+C: ETHAN
+D: I know you, Lane. Somewhere along the line you had a crisis of faith. Am I fighting for the right side? Should I risk my life for a world that doesn't seem to care? One day the answer was no. Human life didn't matter anymore or maybe it never really did. Either way, you'd killed too many innocent people without ever asking who was giving the orders or why. Close on Lane, Ethan's words hitting home. The timer continues counting down ...
+N: 4TH GOLDENROD 23 MARCH '15
+C: ETHAN
+D: You blamed the system for what you are instead of yourself. You wanted revenge. But Rome wasn't destroyed in a day. You needed help. You needed money. A lot of it. And you'll stop at nothing to get it. That's how I know I'm gonna put you in a box.
+E: CONT'D
+C: BENJI
+D: Where's the disk? Ethan produces a pen, starts writing on a napkin.
+C: ETHAN
+D: You like to play games. I have a game for you. I'll give you 50 million dollars to let Benji go. With an assuring glance to Ilsa, he finishes writing and holds up the napkin to Benji's confused face. INT. HOTEL ROOM - NIGHT But not Lane. He sees a series of letters and numbers on the napkin, along with the name of a bank. Lane types on the laptop. A beat later, a familiar interface appears on the screen. ECU on the number: 50,000,000.00 GBP EXT. TRAITOR'S GATE - NIGHT Ethan puts the napkin down. The time continues ...
+E: writing
+C: LANE
+D: Where is the disk?
+C: ETHAN
+D: You're looking at it. I am the disk. I memorized it. All two point four billion in numbered accounts. If that vest goes off, you get nothing. And without this money you're nothing. Without me you're nothing.
+N: 4TH GOLDENROD 23 MARCH '15 146.
+S: INT. HOTEL ROOM - NIGHT
+N: Through the screen, Ethan stares at Lane. Waiting. Lane boils. The timer counts down.
+S: EXT. TRAITOR'S GATE - NIGHT
+C: ETHAN
+D: Right now you're thinking it's a bluff. I'd never let me friends die. I couldn't possible memorize the entire disk. There's only one way to be sure. Let Benji go. INT. HOTEL ROOM - NIGHT He stands, paces. Finally, he presses a button and: EXT. TRAITOR'S GATE - NIGHT The timer stops at :03. Benji and Ilsa exhale. Ethan glances about. INT. HOTEL ROOM - NIGHT
+C: LANE
+D: Take him. EXT. OUTSIDE TRAITOR'S GATE - NIGHT Vinter hears this in his ear. He nods to his goons. They all step closer.
+C: ETHAN
+D: If they come any closer; Shoot me. Ilsa smiles, admiring the play. She slides her seat next to Ethan, plans her gun in his ribs. INT. HOTEL ROOM - NIGHT Lane is furious. Trapped.
+E: to Ilsa
+C: LANE
+D: Stop. STOP.
+N: 4TH GOLDENROD 23 MARCH '15
+S: EXT. TRAITOR'S GATE - NIGHT
+N: Vinter and his goons halt ...
+C: BENJI
+D: Remember when I said some day you were going to take things too far ... and that's me speaking - not him.
+C: ETHAN
+D: The only way this ends is you and me, Lane. Face-to-face. Only this time I won't be locked in a glass box or half-dead on some highway. Ethan leans closer to the lens ...
+C: ETHAN
+D: You want your money ... the bone doctor's gonna have to beat it out of me ... Now let Benji go! INT. HOTEL ROOM - NIGHT Lane ponders, paces. Finally:
+E: CONT'D
+C: LANE
+D: One-three-nine .. EXT. TRAITOR'S GATE - NIGHT Benji listens, looks down at the keypad on his chest. He nervously punches in a series of numbers. The light on the timer dies and the five-point harness springs open. Benji sheds the vest as discreetly as he can. Wrapping it in his overcoat.
+C: ETHAN
+D: Go.
+C: BENJI
+D: Ethan- Ethan slides a phone across the table.
+C: ETHAN
+D: Luther and Brandt are waiting. Go. With a final look to them both, Benji walks away. He dials the phone as he goes.
+N: 4TH GOLDENROD 23 MARCH '15 (OMITTED) (OMITTED)
+S: :INT. LOADING DOCK - NIGHT
+N: The loading dock of an office building. Brandt is crouched by a glass door, rigging a hinge. His phone rings. Go.
+C: BRANDT BENJI
+D: It's Benji. Where am I going? Brandt turns to Luther seated nearby.
+E: on phone
+C: BRANDT
+D: He's coming.
+C: LUTHER
+D: We're not ready.
+C: BRANDT GET READY.
+D: Alright - listen carefully - EXT. TRAITOR'S GATE - NIGHT As he walks past Vinter:
+E: to Benji
+C: VINTER
+D: What do we do?
+C: LANE
+D: Kill the woman. I need Hunt alive. Tense pause. Vinter and Ethan make eye contact. Then: Vinter and his goons all reach for their guns as: Ethan and Ilsa stand in a single motion. Ethan spins, covering Ilsa with his body as she aims and fires with her silenced pistol. Two goons drop. The commotion draws the attention of NEARBY BYSTANDERS. As the panic starts:
+N: 4TH GOLDENROD 23 MARCH '15 The other two goons rush through the crowd behind Ilsa. Ethan spins, grabbing Ilsa's gun, takes out the other two guys. Pedestrians and patrons scramble, realizing now that something bad is going down. Ethan grabs a phone off a dead man and he and Ilsa take off into the crowd.
+C: [OMITTED] [OMITTED] ILSA
+D: Where are we going? EXT. ALLEYS - NIGHT Ethan and Ilsa round the corner, and Ethan pushes her back just as gunfire explodes across the wall above. Ethan pulls his weapon, fires, a goon taking cover. ON A GOON, reloading, getting an angle, sees Ilsa flanking him, thinks he has a bead on her when - He's blown back, Ethan taking him out.
+C: ILSA
+D: Which way? EXT. STREETS - NIGHT Ethan and Ilsa, ducking, running through some archways. A goon follows them around a corner - too close. Ethan RAMS him through a nearby window.
+C: [OMITTED]
+D: EXT. ARCHWAYS - NIGHT Ilsa round the corner, ducks below a pillar, as the goon in pursuit is close behind. She elbows his midsection, drives a knee into his solar plexus, finishing him off. She turns to head back towards Ethan, when, from behind another pillar steps - Vinter. Puffed up and looking like he's like nothing more than to strangle her with his bare hands.
+N: 4TH GOLDENROD 23 MARCH '15 She draws a knife. He draws a bigger one. Oh shit.
+S: EXT. OTHER ALLEYWAY - NIGHT
+N: Ethan runs from gunmen, grabbing cover, turning and killing one, before running down a narrow passageway. 2nd goon follows, looks down there. Sees nothing. He starts checking each doorway along the way. Ethan drop down from ABOVE him, crushing him to the pavement, Ethan's leg crumpling beneath him.
+S: EXT. ARCHWAYS - NIGHT
+N: Vinter and Ilsa circle each other. She slices him, but he's unaffected, countering with his backhanded hilt to the side of her head. She recoils, looking at him.
+C: VINTER
+D: Now we'll see what you're made of. He's the physically superior, but she's the more lithe and cunning, allowing her to parry every attack - quick and violent, no holds barred. EXT. ALLEYS - NIGHT Grimacing, Ethan checks his gun. Empty. He tosses it. Hangs his head, breathing hard. The sound of a car approaching. A car is coming from his left. He looks right, confronted by a long box alley. Nowhere to run. He looks to a glass foyer across the alley and runs for it as: The car arrives from around the corner to his left. The vehicle stops and Lane emerges, along with TWO GOONS. Ethan runs toward the glass doors as they fire. The glass shatters and Ethan throws his body through. EXT. ALLEYS - NIGHT Convinced he's going in for the kill, Vinter gets careless, allows Ilsa to swing up behind him and DRIVE her blade into his chest. He sinks to the ground, her riding him all the way to the ground. The sound of the alarm makes her look up, and she sprints away.
+N: 4TH GOLDENROD 23 MARCH '15 151.
+S: INT. BUILDING UNDER CONSTRUCTION - NIGHT
+N: Ethan, stumbling, falling forward through a pane of glass, past construction materials. He trips, falls through a square hole cut in the floor. Lane walks to the edge, looks down. He sees: Ethan's legs, dragging out of frame 10 feet below. Lane jumps down into a -
+S: INT. LOADING DOCK - NIGHT
+N: He sees Ethan, immobilized, 10 feet away. He walks forward. Bump. He hits something. Holds his hand out. A pane of glass. He turns right, hits another pane. Turns left, hits another. He's in a box. THUNK. Something above. He looks up and sees: Benji, smiling. He fires. The bullet appears to explode in mid-air. Lane turns to find Ethan standing in front of him - inches away. Lane fires. The bullet hits the tempered glass, useless. He looks to his left to see Brandt emerging from the darkness. Luther appears from the right. He looks up again and sees: Ilsa, standing beside Benji, looking down at him with contempt, and more than a little pleasure . He fires And . Nothing. He's trapped in a bulletproof glass box.
+C: ETHAN
+D: It hurts. I know. The pain you feel is your own shell breaking. Ethan nods to his friends. Benji smiles and holds up a trigger in one hand. He presses the button. The glass portico fills with gas. Lane glares at Ethan, pounding his fists on the glass, screaming noiselessly, flailing like a poisoned spider, until he is still, and disappears in the fog. Ethan steps back and shoves the case. The light flicker on to reveal the box containing Lane rests on the edge of a large loading dock.
+N: 4TH GOLDENROD 23 MARCH '15 Energy, movement, a sense of urgency. JUMP CUT as the box is slammed to the floor on it's side. JUMP CUT as a large van marked POLICE backs up to the dock. JUMP CUT as the rear doors are opened and the box is slid inside the back of the van. Luther, Brandt and Benji slip on bright police jackets and hats before climbing into the van. Ethan turns to Ilsa - both of them battered and exhausted from the night's ordeal - approach a waiting car. Beat.
+C: ETHAN
+D: You're free now.
+E: CONT'D
+C: ETHAN
+D: Where will you go?
+E: CONT'D
+C: ILSA
+D: I don't know. Ethan gives her a look. He doesn't need to say it. She shakes her head, no.
+C: ILSA
+D: I've done my part. Ethan nods, understanding. EXT. BLACK ROCK BANK - NIGHT Police cars pull up outside the building. POLICE rush in through the smashed window. INT. LOADING DOCK - NIGHT The sound of sirens above. Pressure mounting.
+E: CONT'D
+C: LUTHER
+D: Ethan, we gotta go. And in that moment, they embrace - not as lovers but as comrades. They kiss, not with passion, but with understanding - a moment that says "I'll miss you."
+E: O.S.
+N: 4TH GOLDENROD 23 MARCH '15
+C: ILSA
+D: Better hurry now.
+C: ETHAN
+D: Good luck. She climbs in the car and starts the engine.
+C: ILSA
+D: You know how to find me. And she drives away. Ethan watches her go down a long tunnel into the unknown before turning to the waiting vehicle. As Benji starts the engine: INT. BLACK ROCK BANK - NIGHT Police fill the desolate space - flashlight beams cutting the semi-darkness. ONE COP approaches a hole in the floor. He kneels down, shines his light inside.
+C: [OMITTED]
+D: EXT. STREET - NIGHT A POLICE VAN screams past, sirens wailing, lights flashing. POLICE CARS scream past in the opposite direction. That police van kills the sirens and the lights. INT. POLICE VAN - CAB - NIGHT Benji, Brandt and Luther dressed in a police uniforms. Benji drives.
+C: [OMITTED]
+D: INT. SENATE CHAMBER - DAY Closed session. SEVEN MEN on the dais. In the center is the Chairman. They face two figures in the gallery. One is Hunley. The other is Brandt.
+N: 4TH GOLDENROD 23 MARCH '15
+C: CHAIRMAN
+D: Director Hunley ... Director Hunley. Hunley snaps out of his thoughts.
+C: HUNLEY
+D: Mr. Chairman.
+C: CHAIRMAN
+D: Six months ago you stood before this panel and demanded that the IMF be dissolved.
+C: HUNLEY
+D: That is correct, sir.
+C: CHAIRMAN
+D: How do you explain your testimony today?
+C: HUNLEY
+D: It's quite simple, really. We had reason to believe the Syndicate had infiltrated our government at the highest level. For our man to infiltrate the organization, his cover needed to be absolute. The entire operation was known only to myself, Agent Brandt and a handful of IMF operatives.
+C: CHAIRMAN
+D: So ... the shuttering of the IMF was all part of an elaborate scheme to expose this so-called Syndicate.
+C: HUNLEY
+D: That is correct, sir.
+C: CHAIRMAN
+D: Which is why you're here today asking that the IMF be reinstated.
+C: HUNLEY
+D: That is correct, sir. The Chairman sits back, ponders.
+N: 4TH GOLDENROD 23 MARCH '15
+C: CHAIRMAN
+D: I'm not sure the committee approves of your methods, Director Hunley.
+C: HUNLEY
+D: Desperate time call for desperate measures, Mr. Chairman. Long, tense pause. The Chairman turns to Brandt.
+C: CHAIRMAN
+D: And you, Mr. Brandt ... How do you justify this deception.
+C: BRANDT
+D: Sir ... I can neither confirm nor deny details of any such operation without the Secretary's approval. INT. CORRIDOR OUTSIDE HEARING ROOM - DAY As Brandt and Hunley walk briskly a
+C: BRANDT
+D: Welcome to the IMF, Mr. Secretary.
+E: OMITTED
+N: (OMITTED)

@@ -1,0 +1,2231 @@
+M: 2nd Draft
+M: September 1, 1999
+M: FRAILTY
+M: by Brent Hanley
+T: FADE IN:
+S: EXT. FBI HEADQUARTERS -- NIGHT
+N: It is a plain building with a sign that reads Federal Bureau Of Investigations, Dallas Branch. There are only a few cars parked in the parking lot, including an ambulance.
+S: INT. FBI HEADQUARTERS LOBBY -- CONTINUOUS
+N: A MAN sits in the lobby flipping mindlessly through a paperback book, his face unseen. There is no one else in the lobby except for the OPERATOR behind her desk.
+C: OPERATOR
+D: This is my third double .shift this month ... I know, I know, but the only other operator is out sick ... I think she's on drugs ... Well her boyfriend is DEA you know .. . AGENT RANDY HULL comes into the lobby and motions to the man. He gets up and walks toward Hull, stopping at the operator's desk. The operator looks up at him.
+E: into the phone
+C: OPERATOR
+D: Hold on. Yes? He puts the paperback on her desk and slides it toward her. She looks at the book and then up at him.
+E: CONT'D into phone to the man
+C: MAN
+D: I found it on the seat over there. Someone must have left it behind. She nods with a smile, and picks up the book. As he walks off, she looks at the back of it and goes back to her phone call. He walks over to Agent Hull, and they shake hands. INT. DOYLE'S OFFICE -- MOMENTS LATER Hull stands in the doorway facing the man, bu~ we still don't see the his face.
+C: HULL
+D: You can wait in here. You need anything? Water? Coffee?
+E:  ':ONT INUED
+C: MAN
+D: No I'm fine. Thanks.
+C: HULL
+D: It shouldn't be long. Hull leaves, shutting the door behind him. The man looks around the small office, noticing all the details: the walls are covered with framed citations, official plaques, and several framed newspaper articles on the capture of various serial killers. There are several gory police photographs from case files taped on the side of a filing cabinet. The man wanders over to the desk which is littered with papers, pens, a few more case file photos, and one framed eight by ten glossy color photograph of a MAN in his twenties standing next to a WOMAN in/her late forties with graying brown hair. The man reaches for the photograph. EXT, FBI HEADQUARTERS -- LATER A car pulls into the parking lot, and AGENT WILLIAM DOYLE gets out. He is the man from the photograph .except he is older.now in his mid-thirties and has a hard, world-weary yet powerful look to him. He looks at the ambulance as he walks up the little concrete path to the building. Thunder rumbles off in the distance. INT. FBI HEADQUARTERS -- CONTINUOUS Doyle walks into the reception area, where the operator is reading the paperback.
+C: DOYLE
+D: What's that ambulance doing out there? The operator glances up from her book, shrugs, and goes back to reading. He frowns at her, and exits into the main office where there are several lines of cubicles that are mostly empty except for one or two. Along the walls of the room are enclosed offices with large glass windows. He strides down the hall. All of the offices are dark except for one. Doyle looks at the lit office window and sees the back of a man's head sitting inside. Hull sits .at one of the desk cubicles. He looks up at Doyle from his computer.
+C: HULL
+D: Hello sir.
+C: DOYLE
+D: Hey Randy, how you tonight?
+C: HULL
+D: Can't complain. Is it raining out yet'?
+C: DOYLE
+D: Not yet. A big storm's coming though. I can smell it in the air. That him'?
+E: nods toward the office
+C: HULL
+D: Yep. Been here about an hour. Said he'd only talk to you.
+C: DOYLE
+D: He asked for me by name'?
+C: HULL
+D: Nope. Asked for the agent in charge of the God's Hand case. Doyle nods, still staring at the back of the man's head.
+C: HULL
+D: Said he had some important info on it.
+E: CONT'D
+C: DOYLE
+D: Didn't say what?
+C: HULL
+D: Nope. Said he'd only talk to you. Might just be some crackpot but I figured I should call you anyway.
+C: DOYLE
+D: With six murders and no substantial clues, anything's worth a shot at this point.
+C: HULL
+D: Well if anyone can crack this case. it's you sir.
+C: DOYLE
+D: What's that on your nose Randy'?
+E: deadpan
+C: HULL
+D: Huh?
+E: touches his nose
+C: {CONTINUED) DOYLE
+D: Looks a little brown from here.
+C: DOYLE
+D: If you want that promotion, you give me hard work not a wet ass. You read me?
+E: CONT'D
+C: HULL
+D: Yes si:r. Doyle looks at the back of Fenton's head behind the window.
+C: DOYLE
+D: Well, I'd better get to it. Doyle walks off toward the office. Hull goes back to work. INT. DOYLE'S OFFICE -- MOMENTS LATER Doyle comes 'in. The man, FENTON MEEKS, looks up at him from his chair by the door, but doesn't get up. This is the first time we actually see his face. He is in his late twenties, with an easy smile and bright blue eyes.
+C: FENTON
+D: You the agent in charge of the God's Hand case?
+C: DOYLE
+D: Agent William Doyle. He extends his hand to Fenton, but Fenton looks down at the framed picture in his hands, ignoring Doyle's gesture.
+E: nods
+C: FENTON
+D: Is this you and your mother? Doyle sees the picture he's holding, the one of him and the woman, and snatches it out of his hands.
+E: looking at the picture
+C: DOYLE
+D: I'd appreciate it if you wouldn't take things off my desk. Doyle crosses the little office and puts the picture back on his desk facing him.
+C: I
+D: \ i
+C: FENTON
+D: Sorry about that. I've been in here for awhile. I've already read all your plaques and citations. And I didn't care to look at those. Fenton indicates the case file photos. Doyle sits down at his desk and regains his composure. FENTON Quite impressive, the plaques I mean.
+E: CONT ' D
+C: DOYLE
+D: I'm good at what I do.
+C: FENTON
+D: You must be.
+C: DOYLE
+D: So what can I do for you, Mr ...
+C: FENTON
+D: Fenton Meeks. I have some information for you. Doyle just looks at him, waiting for him to continue.
+C: FENTON
+D: This may sound crazy, but ... I know who the God's Hand killer is. Doyle stares at him flatly, but he doesn't continue. They stare at each other for a moment.
+E: CONT'D
+C: DOYLE
+D: Alright, I'll bite. Who?
+C: FENTON
+D: You haven't even heard me out yet, and already you doubt me. Why?
+C: DOYLE
+D: Because in a case like this no one just walks into your office and tells you who the killer is. It doesn't work that way.
+C: FENTON
+D: Sometimes truth defies reason Agent Doyle .
+C: DOYLE
+D: Yeah? That's pretty good. You a philosopher Mr. Meeks?
+C: FENTON
+D: No. A novelist.
+C: DOYLE
+D: That right?
+C: FENTON
+D: Well, a pulp novelist really. Crime fiction.
+C: DOYLE
+D: Uh huh, well everybody's got to have a job. So let's get back to mine for a moment. Who is it? They stare at each other for a moment.
+C: FENTON
+D: My brother. Doyle waits for him to continue, but he doesn't.
+C: DOYLE
+D: How do you know that?
+C: FENTON
+D: I got a call from him last night ... CUT TO FLASHBACK: EXT. ~.DAM'S HOUSE -- NIGHT It is a small frame house. There is a van and a car parked in the driveway. All the lights to the house are off except for a dim light in the front window. Johnny Cash's Peace in the Valley plays softly from inside the house. INT. ADAM'S HOUSE -- CONTINUOUS ADAM MEEKS, in his late twenties, sits at a small desk in the far corner of the living room with his eyes closed. The song plays on an old record player. He hums .along with it. On the desk is an old typewriter, a gun, and two stacks of paper. In one hand Adam holds a half empty bottle of Jim Beam, and in his-other hand is a picture. It is a faded color photograph of a man, DAD, and two boys, FENTON AGE TWELVE and ADAM AGE NINE. He opens his eyes and sings to it for a moment and then suddenly throws it to the floor .
+N: He takes a drink from the bottle and looks thoughtfully piece of paper taped on the wall in front of the desk. is a list of seven names with six of them crossed out. at a It Taped next to the list are newspaper clippings. One of the headlines reads: GOD'S HAND CLAIMS 6TH VICTIM. He gets up, stumbles over to the phone, picks it up, and dials.
+S: INT. FENTON'S HOUSE -- CONTINUOUS
+N: Fenton sits on the couch in the darkened living room, sipping a beer and watching television. The phone rings. Fenton reaches over and picks it up on the second ring.
+C: FENTON
+D: Hello. There is a long pause. Fenton is about to hang up when ...
+E: into phone
+C: ADAM
+D: Demons are taking over the world. INTERCUT BETWEEN FENTON AND ADAM:
+C: FENTON
+D: Adam? Is that you? What ...
+C: ADAM
+D: I can't take it anymore can't destroy them all. everywhere.
+C: FENTON
+D: Fenton. They're
+C: I
+D: Adam, we need to talk about this ...
+C: ADAM
+D: There's nothing to talk about. Whatever happens, you have to take me to the rose garden. You promised. Remember?
+C: FENTON
+D: I'm on my way over, alright? The line goes dead. FENTON (CONT' D l Adam? Adam!? Damn it! He slams the phone down and gets up . INT. ADAM'S HOUSE -- CONTINUOUS Adam goes back to his desk and sits down. He drinks the rest of the bottle and picks up the gun, holds it to his head for a moment, and then pulls the trigger. A WOMAN lets out a startled cry from down the hall. The song ends. IN!. FENTON'S HOUSE -- CONTINUOUS Fenton walks down the hall and looks into the bedroom where a woman, MARY, i~ asleep in bed with her back to him. He looks at the back of her blonde head for a moment and then sighs. He quietly goes to the dresser next to the door, opens a drawer and takes out a handgun. He stares at it for a moment, then shuts the drawer, grabs his car keys off the top of the dresser next to the door, and hurries out. INT. ADAM'S HOUSE-~ LATER Adam's corpse is laying half in the chair and half on the floor. Adam's GIRLFRIEND is on her knees, holding onto him, crying. A police officer, HENDERSON, is kneeling beside her, trying to coax her away from Adam's body.
+C: HENDERSON
+D: C'mon ma'am. He's gone. C'mon now ...
+E: softly
+C: GIRLFRIEND
+D: Oh Adaaaam ... Henderson uncomfortably looks up for help and sees the two paramedics MATT, and HUBERT come in carrying a stretcher. They wait for Henderson to take her away. Matt is clean cut in his mid-twenties. He looks around awkwardly, trying not to look at the woman. Hubert is fat and frumpy in his late thirties, and is staring straight at her. He can see her breasts dangling in her over-sized nightgown perfectly from where he stands.
+E: crying
+C: ANGLE ON HER BREASTS
+D: The image leads her Henderson stretcher over him. is broken as Henderson gets her on her feet and to another OFFICER who takes her out to the porch. nods at Matt and Hubert. They unfold their and put Adam '.s body on it. Matt pulls a sheet They all stand and regard the covered body.
+C: HUBERT
+D: Think the Cowboys'll make it to the superbowl this year?
+C: HENDERSON
+D: Well hell yeah.
+C: MATT
+D: You guys didn't chalk him?
+E: looking at the chair
+C: HENDERSON
+D: What's the point? That's for a crime scene.
+C: MATT
+D: Well isn't this a ...
+C: HENDERSON
+D: The gun was in his hand .. There's nothing to investigate. You boys take him on over to the morgue in Abilene. Tell Ed I'll be over directly to fill out the paperwork. Hubert nods.
+E: impatiently to Hubert
+C: MATT
+D: Aren't you supposed to escort us? Henderson looks at Hubert who shrugs.
+C: HUBERT
+D: He's new. INT. FENTON'S CAR - NIGHT Fenton drives down Adam's street. He sees the ambulance and police cars in front of Adam's house. He turns off his lights and parks down the street. He sees the Girlfriend on the porch, crying, and the paramedics loading the stretcher into the ambulance. He punches his steering wheel.
+C: FENTON
+D: Oh goddamnit Adam! Goddamnit! INT. AMBULANCE - NIGHT Hubert climbs into the driver's side as Matt gets in on the passenger side and buckles up. Hubert st:rts the engine and puts it in gear .
+E: upset
+C: MATT
+D: Shouldn't you buckle up? Hubert looks at him, rolls his eyes, and punches the gas. INT. FENTON'S CAR -- CONTINUOUS Fenton watches the ambulance drive off. He wipes at his tears, and pulls out after the ambulance. EXT. HIGHWAY -- MOMENTS LATER The ambulance gets on the highway, followed by Fenton's car. INT. AMBULANCE -- CONTINUOUS Hubert and Matt drive along in silence. Hubert's eyes are half glazed in thought as he drives. INSERT: INT. ADAM'S HOUSE -- NIGHT Hubert is looking at the Girlfriend's breasts. It's the same scene as before except Henderson and Matt aren't there. He walks up to her, pulls her up from Adam's corpse, and kisses her, grabbing one of her breasts. MATT Jesus look out!
+E: 0. S.
+C: BACK TO SCENE:
+D: Hubert snaps to and steers the ambulance back into the lane. A car drives by honking and the DRIVER gives them the finger.
+C: HUBERT
+D: Yeah, fuck you too buddy.
+C: MATT
+D: You almost ran him off the road! Hubert sees a big shining Texaco sign up ahead. He puts on the blinker.
+C: MATT
+D: What are you doing now? This isn't the exit.
+E: CONT'D
+C: HUBERT
+D: Gotta take a piss.
+C: MATT
+D: I don't believe this shit .
+C: I~
+D: I, '
+C: HUBERT
+D: Well believe it.
+C: MATT
+D: Man, this is against regulations.
+C: HUBERT
+D: Look we got us a dead guy back there right?
+C: MATT
+D: Yeah but ...
+C: HUBERT
+D: And that dead guy is still gonna be dead whether I stop or not right?
+C: MATT
+D: Yeah man but ...
+C: HUBERT
+D: But nothing. I'm stopping. EXT. TEXACO STATION -- MOMENTS LATER The ambulance pulls into the parking lot and parks by the pumps. Hubert kills the engine and gets out.
+C: HUBERT
+D: I'll be back in a few minutes. He leans into the window.
+C: HUBERT
+D: Lighten up kid this ain't necessarily against the rules. He walks off.
+E: CONT ID
+C: MATT
+D: Asshole.
+E: watching him go
+C: HUBERT
+D: Dipshit. .q. Hubert waves at the attendant and then disappears to the side of the gas station. Fenton's car pulls in, it's headlights shining on Hubert as he opens the bathroom door . INT. TEXACO RESTROOM -- CONTINUOUS --\ Hubert enters, locks the door behind him, walks up to the urinal and unzips his pants. He closes his eyes, and it is obvious that he is doing something other than peeing. INT. FENTON'S CAR -- CONTINUOUS He is parked right outside of the restroom doors. for a moment, thinking, then leans over, opens the compartment, and takes out the gun. He checks the and gets out of the car. INT. AMBULANCE -- CONTINUOUS He sits glove chamber 12--, Matt looks back at the shadow of the corpse, and then at the side of the Texaco and frowns. INT. TEXACO RESTROOM -- CONTINUOUS Hubert continues to "relieve" himself. EXT. TEXACO RESTROOM -- CONTINUOUS Fenton checks the restroom door: it's locked. He looks around nervously, positions his gun, and kicks the door open. He sees Hubert. Hubert sees him. They both freeze: Fenton with his gun in his hand, and Hubert with his dick in his hand. INT. AMBULANCE -- CONTINUOUS Matt lights a cigarette, and watches a pretty young GIRL pump gas into her car. INT. TEXACO RESTROOM -- CONTINUOUS Hubert faces the wall with his hands behind his head. Fenton stands behind him with the gun.
+E: walking away
+C: HUBERT
+D: I know what this must look like but ... Fenton hits him with the butt of the gun and he falls unconscious on the bathroom floor. Fenton peels off Hubert's white paramedic shirt from him. EXT. TEXACO RESTROOM -- MOMENTS LATER Fenton puts Hubert in the trunk of his car, and shuts it.
+S: INT. AMBULANCE -- MOMENTS LATER
+N: Matt watches the girl put the gas nozzle back. She notices him and smiles. As he smiles back Fenton walks up, gets into the ambulance and starts it up. Matt glances over at him, but turns back to the girl.
+C: MATT
+D: Well it's about time. You've been in there long en ... Fenton slams the ambulance into gear and hits the gas. The ambulance squeals out of the parking lot, hits the curb as it gets back on the access road, and causes a car to swerve into a telephone pole. Matt sticks his head out the window to see the MAN from the crashed car screaming and waving his arms after them.
+C: MATT
+D: Jesus Christ! Did you even see him? He pulls his head back in the ambulance and turns to Fenton.
+E: CONT'D
+C: MATT
+D: You just caused a wreck you stupid ... His speech is cut off by Fenton's face.
+E: CONT'D
+C: MATT
+D: What the ... Who the fuck ... His speech is cut off again by Fenton's gun in his face. CUT TO PRESENT: INT. DOYLE'S OFFICE -- NIGHT Doyle sits at his desk, looking at Fenton carefully. Fenton just sits, looking blankly back at Doyle.
+E: CONT'D
+C: DOYLE
+D: And where is this paramedic now?
+C: FENTON
+D: I dropped him off here in Dallas . last night on my way to Tyler. Hell of a guy. He's probably back in Meat by now.
+E: shrugs
+C: DOYLE
+D: Meat? i
+C: I
+D: r~­
+N: CONTINt.JED:
+C: FENTON
+D: Where all this took place. About 200 miles west of here. Just north of Abilene.
+C: DOYLE
+D: Why did you go to Tyler?
+C: FENTON
+D: To bury Adam in the Rose Garden.
+C: DOYLE
+D: And why would you do that?
+C: FENTON
+D: I promised him I would a long time ago. Doyle rubs the back of his neck, still looking at Fenton.
+C: DOYLE
+D: I've got~ lot of problems with what you've just told me. But I'll just lay out the two major ones for you. First of all you're describing events that you couldn't have possibly witnessed.
+C: FENTON
+D: I described the suicide and the ambulance driver's reasons for stopping as I imagine_d them to be.
+C: DOYLE
+D: You've got a pretty sick imagination.
+C: FENTON
+D: Maybe, but the facts remain that my brother did call and he did kill himself. And the ambulance driver did stop, and I did catch him going at it like a thirteen year old boy in that bathroom. I filled in the blanks with my imagination and from what Matt told me.
+E: shrugs
+C: DOYLE
+D: Matt? The paramedic? Fenton nods .
+C: DOYLE
+D: And where's your brother's body now?
+E: CONT'D
+C: FENTON
+D: Buried in the Tyler Rose Garden.
+C: DOYLE
+D: And you did all this because of some promise you made?
+C: FENTON
+D: Yep.
+C: DOYLE
+D: That's a pretty wild story Mr. Meeks.
+C: FENTON
+D: It's the truth. Doyle looks at him and frowns.
+C: DOYLE
+D: My other problem with this little tale of yours is I can't see what, if anything, it has to do with my case.
+C: FENTON
+D: Adam was the God's hand killer. He's the one you're looking for.
+C: DOYLE
+D: Uh-huh. He tell you that before he asked you to take him to Tyler? If so, you left that part out.
+C: FENTON
+D: I haven't finished.
+C: DOYLE
+D: Oh there's more?
+C: FENTON
+D: A lot more. Doyle stares at him for a long moment, and then suddenly stands and smiles coldly at him.
+C: DOYLE
+D: Excuse me for a moment.
+C: FENTON
+D: Of course .
+N: He crosses the office and exits.
+S: INT. FBI HEADQUARTERS -- CONTINUOUS
+N: Doyle shuts his office door behind him and looks back through the window at Fenton. He walks down to Hull's cubicle where he's still working on his computer. The place is even emptier and darker than before.
+C: DOYLE
+D: Hey Randy. Do me a favor and watch my office for awhile.
+C: HULL
+D: What's up? DOYLE . Might be a crackpot after all. Just keep an eye on him for me.
+C: HULL
+D: Yes sir. Doyle takes off down the hall. Hull looks over at the back of Fenton's head through the window. EXT. FBI HEADQUARTERS -- MOMENTS LATER Doyle walks out to the ambulance, puts on latex gloves, and tries the door. It's unlocked. He opens the door and looks inside. A white paramedic's shirt lays in the passenger seat. There is nothing in the back except for a stretcher. He opens the glove compartment and sees the gun. He takes it out, and checks to see if it's loaded: it is. He sniffs the barrel, puts it back in the glove, and shuts the door. A bolt of lightning lights up the sky as he walks away. INT. FBI OFFICE -- MOMENTS LATER Doyle sits in front of a computer. He picks up the phone next to him and dials a number from the screen. INT. MEAT POLICE DEPARTMENT -- CONTINUOUS A pregnant blonde WOMAN sits at the front desk, reading a magazine. The phone rings. She ignores the phone and keeps reading, but picks it up on the third ring.
+C: WOMAN
+D: Meat Police Department .
+T: INTERCUT BETWEEN WOMAN AND DOYLE.
+C: DOYLE
+D: Yes, may I speak to the chief of police there please? This is Agent William Doyle of the FBI.
+C: WOMAN
+D: He's not here right now, may I help you?
+C: DOYLE
+D: Well, I'ye got a man here in my office by the name of Fenton Meeks that ...
+C: WOMAN
+D: Fenton Meeks? What's he doing there?
+C: DOYLE
+D: You know him?
+E: confused
+C: WOMAN
+D: Yeah, he caused a bit of a ruckus here, stole an ambulance and the paramedic too.
+C: DOYLE
+D: You already know about it?
+C: WOMAN
+D: Well, yeah. Do you?
+C: DOYLE
+D: He just confessed it to me.
+C: WOMAN
+D: Hell of a thing, huh? Matt, that's the paramedic, told us all about it. Just got back into town about an hour ago. Sounds like Mr. Meeks kind of caught Hubert with his pants down. The sheriff left not twenty minutes ago to let him out of that trunk. Doyle just sits there, thinking. There is a long pause. WOMAN Hey. You still there? He snaps out of it .
+E: laughs CONT I D
+C: DOYLE
+D: Yeah. I'm going to detain him awhile here for questioning and then I'll have an agent bring him back to you.
+C: WOMAN
+D: Ah there's no need for that. Just tell him to bring the ambulance back.
+C: DOYLE
+D: What!? You're not going to charge him?
+C: WOMAN
+D: With what?
+C: DOYLE
+D: How about theft, assault, kidnapping ...
+C: WOMAN
+D: Matt doesn't want to press charges. And I doubt Hubert'll want to from what Matt told us. And it was just an ambulance, though it is our only one. As long as he brings it back the sheriff said they'll be no charges. Tell him that will you?
+C: DOYLE
+D: But he stole a corpse!
+C: WOMAN
+D: Yeah, but it was his brother Agent Doyle. We've all done some crazy things when family's involved. But he'll need to bring him back too. Make sure you tell him that, okay?
+C: DOYLE
+D: I don't believe this crap.
+C: WOMAN
+D: Excuse me?
+C: DOYLE
+D: Nothing. I'll tell him. Doyle hangs up the phone incredulously . INT. FBI HEADQUARTERS -- MOMENTS LATER /-~-, Doyle walks quickly toward his office, lost in thought. \ ; Hull sees him.
+C: HULL
+D: He's still in there, sir.
+C: DOYLE
+D: Huh? Oh, oh yeah. Thanks. He keeps walking.
+C: HULL
+D: Everything alright? Want me to come in there with you?
+C: DOYLE
+D: What? No, no. Everything's fine. He opens his office door. INT. DOYLE'S OFFICE -- CONTINUOUS Doyle comes in. Fenton is still sitting in his chair.
+C: FENTON
+D: Did my story check out? Doyle frowns at him, but nods. FENTON So am I under arrest now? Doyle crosses to his desk and sits down.
+E: CONT ' D
+C: DOYLE
+D: You should be, but apparently the sheriff there is willing to forgive and forget as long as you bring the body and the ambulance back. No one wants to press charges.
+C: FENTON
+D: You've got to love small towns.
+E: smiles
+C: DOYLE
+D: Well, I'm not so sure the authorities in Tyler will feel the same way about you burying your brother in their public garden .
+C: FENTON
+D: Probably not.
+C: DOYLE
+D: You know 1 get the distinct impression that you're playing some kind of game here with me.
+C: FENTON
+D: Why is that?
+C: DOYLE
+D: Why would you go through all that trouble and then just walk in here and confess it to me?
+C: FENTON
+D: I did it because I promised Adam I would. I'm here because I can't live with what I know anymore.
+C: DOYLE
+D: And what exactly do you know? Fenton nods to the picture of him and the woman.
+C: FENTON
+D: That is your mother, isn't it? Doyle glances at the picture and then looks at Fenton for a long moment, sizing him up.
+C: DOYLE
+D: Yes it is.
+C: FENTON
+D: I knew it. You can tell by the eyes.
+C: DOYLE
+D: Why are you so interested in my picture?
+C: FENTON
+D: Curiosity I guess. It's the only personal picture you have in here. No family portraits, no snapshots of kids, just that one. Why is that?
+C: DOYLE
+D: I don't have a wife or kid. I'm too busy for that .
+C: FENTON
+D: Why not a more recent one of your mother then? Doyle looks at the picture for a long moment, a trace of sadness in his expression.
+C: DOYLE
+D: My mother ... died just a few weeks after this picture was taken.
+C: FENTON
+D: I'm sorry. I didn't mean ...
+C: DOYLE
+D: Yeah, well why don't we get back to your story. Why do you think your brother was the God's Hand killer?
+C: FENTON
+D: I know it was him.
+C: DOYLE
+D: How?
+C: FENTON
+D: It started back in Tyler near the summer of seventy~nine ... EXT. TYLER 1979 -- DAY CUT TO FLASHBACK: It is a beautiful, sunny day. The townspeople go slowly about their business, nodding or waving at one another as they pass. A little yellow school bus goes down the street and pulls over. Children burst out of the bus door. Two boys, ADAM AGE NINE and FENTON AGE TWELVE, break away from the rest of the children and walk away from the town. The resemblance between them is apparent, though Fenton is taller.
+C: ADAM
+D: I got the joy joy joy joy down in my heart! He looks to Fenton and frowns.
+E: sings
+C: ADAM
+D: You're supposed to say where.
+E: CONT'D
+C: FENTON
+D: I don't want to sing that dumb song .
+E:  CONTINUED
+C: ADAM
+D: You don't have to sing. Just say where.
+C: FENTON
+D: Where.
+E: sighs
+C: ADAM
+D: Not now! I'll point to you when it's time. I got the joy, joy, joy, joy down in my heart!
+E: sings points
+C: FENTON
+D: Where?
+E: rolls his eyes
+C: ADAM
+D: Down in my heart!
+E: smiles points again
+C: FENTON
+D: Where?
+C: ADAM
+D: Down in my heart to staaay! And if the devil doesn't like it he can sit on a tack!
+E: points
+C: FENTON
+D: Where?
+C: ADAM
+D: No! You're supposed to say ouch now! I'll start again. I got the ... They turn down a road with a big banner hanging across it that reads, "Tyler Rose Garden". EXT. TYLER ROSE GARDEN -- MOMENTS LATER They walk down a little cement path that runs through the huge and sprawling gardens. FENTON We lived right behind the Tyler Municipal Rose Garden ...
+E: V. 0.
+N: Every rose imaginable is in bloom around them. Adam chases a butterfly as he sings his song. They walk off the path to a wire fence at the back of the garden. On the other side of the fence is a small graveled road that runs from around the garden to an old wood and brick house.
+C: FENTON
+D: ... in the house where they used to keep the gardeners back in the fifties. Dad got a good deal on it back when he and mom got married. They climb the fence and head toward the house. INT. HOUSE -- LATER Adam sits on the floor in the living room watching Banana Splits on television. FENTON (V. O. > Adam was three years younger than me. Our mom died giving birth to him so I basically took care of him ever since I can remember. Fenton is in the kitchen, preparing dinner.
+E: V.O. CONT'D
+C: FENTON
+D: Our dad worked as a mechanic over in Chandler at a Ford dealership. He usually got home around five thirty and we'd all have dinner together. DAD comes into the kitchen. It is the same man from the picture in Adam's suicide scene. He is in his mid-to-late forties with thinning dark hair. He puts his lunchbox down on the table and smiles at Fenton.
+E: V.O. CONT'D
+C: DAD
+D: Hey kiddo. good. Something sure smells INT. KITCHEN -- MOMENTS LATER Adam, Fenton, and Dad all sit around the kitchen table, putting food on their plates from various bowls and plates. Adam piles peas on his plate.
+C: DAD
+D: Whoa there tiger. Save some for us .
+E: to Adam
+C: F", ADAM
+D: I love peas!
+C: DAD
+D: You must. Dad takes the bowl from him and puts it back on the table.
+E: laughs
+C: DAD
+D: Better be careful though. You might turn into one if you're not careful. Adam giggles and puts a big spoonful of peas in his mouth.
+E: CONTI D
+C: DAD
+D: So how'd you do on that math test?
+E: CONT'D to Fenton
+C: FENTON
+D: I barely passed.
+E: looks down
+C: DAD
+D: I never was any good at math either. Shoot, I still can't do anything without a calculator.
+C: FENTON
+D: But I've got another test next week, and it's going to.be even harder.
+C: DAD
+D: Oh don't sound so gloomy about it. We'll sit down this weekend and see if we can't figure that junk out together, alright? Fenton smiles at him and nods. INT. BEDROOM -- LATER There are two single beds with a little nightstand between them. On Adam's side of the room there is a Pete's Dra.gon poster and a toy box. There is a Farah Fawcett poster and one of the Dallas Cowboy's 1978 team on Fenton's side. Adam is already laying in his bed, playing with a couple of Star Wars figures. Fenton changes into his bed clothes.
+C: ADAM
+D: Hey Fenton, can we go see Meatballs after school tomorrow?
+N: Fenton climbs into bed.
+C: FENTON
+D: You've already seen it.
+C: ADAM
+D: I want to see it again.
+C: FENTON
+D: We're going to see Alien.
+C: ADAM
+D: We can't. It's rated R. Dad comes in.
+C: DAD
+D: Teeth all brushed? They both nod.
+C: DAD
+D: You sure about that Adam? Adam nods emphatically. Dad goes to his bed and leans down.
+E: CONT'D
+C: DAD
+D: Come on. Breath test time. Adam breathes on him. He cringes dramatically and falls on the bed as if he has died. Fenton breaks up laughing. Adam shakes Dad.
+E: CONT'D
+C: ADAM
+D: I did brush them! Dad opens his eyes and laughs. He lifts up and puts an arm around Adam.
+C: DAD
+D: I'm just yolking with you egghead. He gives him a squeeze, and kisses him on the forehead. He stands and looks over at Fenton, who rolls over.
+C: DAD
+D: Don't worry Fenton. I know you're too big for a goodnight kiss. Fenton rolls back over and smiles at him. He reaches down and tousles Fenton's hair. He clicks off the lamp between the beds. A night-light still shines next to the lamp on the wall. Dad sees it . ~ I ' I DAD (CONT' Dl Aren't you too big for a nightlight too?
+E: CONT'D to Fenton
+C: FENTON
+D: Adam likes it on.
+C: ADAM
+D: No I don't. You do.
+C: FENTON
+D: (guiltily} I don't like it too dark.
+C: DAD
+D: Well goodnight boys. Sleep tight.
+E: smiles
+C: ADAM
+D: Don't let the bed bugs bite!
+C: DAD
+D: That's right. Love you.
+C: ADAM
+D: Love you too.
+C: FENTON
+D: Goodnight Dad. He walks out and shuts the door, leaving it cracked. Adam lifts up.
+C: ADAM
+D: I want to see Meatballs.
+C: FENTON
+D: You can see Meatballs and I'll see Alien.
+C: ADAM
+D: But I don't like to watch movies by myself.
+E: whines
+C: FENTON
+D: Too bad.
+C: ADAM
+D: Please.
+C: FENTON
+D: (sighs} Alright. Just go to bed. Adam smiles and lays back down. Fenton lays there staring up at the ceiling, slowly drifting off.
+C: FENTON
+D: That was our family. Just the three of us. All of Mom and Dad's relatives had died off. There was no one but us left. We didn't mind though. We didn't need anyone else. We were happy together ... He closes his eyes.
+E: V.O. CONT'D
+C: FENTON
+D: Until ... INT. BEDROOM -- LATER Fenton's eyes snap open. The lights are on. Dad is standing between their beds in his underwear.
+E: V.O. CONT'D
+C: DAD
+D: Come on, wake up. ; ' Adam lifts up, confused and tired.
+E: excited
+C: ADAM
+D: Dad?
+C: DAD
+D: Get up boys. I've got something to tell you.
+C: FENTON
+D: What's wrong? Dad sits down on Fenton's bed.
+C: DAD
+D: Come over here Adam. Adam gets up and gets on the bed with them.
+C: DAD
+D: I want you to wake up and listen to me. Are you awake? They both look sleepy, but they nod .
+E: CONT'D
+C: DAD
+D: I love you both. You know that don't you? They both look confused, but they nod again.
+E: CONT'D
+C: DAD
+D: r need you both to listen to me very carefully. INT. DAD'S BEDROOM -- NIGHT Dad is laying in bed, asleep. FENTON Re said he'd had a vision that night. The room slowly fills with light from an unseen source. Dad opens his eyes and sees the room washed with light. A figure comes out of the light, moving slowly toward Dad.
+E: CONT'D V. O.
+C: FENTON
+D: A vision from God. The figure reaches the bed and Dad sees that it is a beautiful ANGEL straight out of a Botticelli painting.
+E: V.O. CONT'D
+C: FENTON
+D: An angel came to him and told him the truth of this world ... The angel reaches out and touches Dad's forehead.
+E: V.O. CONT'D
+C: FENTON
+D: And revealed God's special purpose for our family ... The room disappears into swirling darkness. INT. BEDROOM -- CONTINUOUS Fenton and Adam sit on the bed staring at Dad with a mixture of disbelief and awe.
+E: V.O. CONT'D
+C: DAD
+D: We are near the end of the world here boys. I know it's crazy, but the angel showed me. There are demons among us. The devil has released them for the final battle. It's being fought now, but no one knows it, except us and others like us .
+C: {CONTINUED)
+D: ~ I --- ,_ \ I
+C: ADAM
+D: I'm scared Dad. Dad puts an arm around him and pulls him close.
+C: DAD
+D: There's nothing to be afraid of tiger. God has chosen us. He's given us jobs to do. We don't fear demons; we destroy them. We pick'ern out one by one and pitch'ern out of this world. This is God's purpose for us. The angel called us God's hands. Adam thinks about this. Fenton just stares at Dad.
+C: AD.AM
+D: So we're like super-heroes?
+C: DAD
+D: Exactly. A family of super-heroes. We're gonna help save the world. Dad and Adam are excited. Fenton is dumbfounded.
+C: FENTON
+D: But Dad, that's crazy.
+C: DAD
+D: I know it sounds that way, but it's the God's honest truth son. I wouldn't lie to you.
+C: AD.AM
+D: So what are our super-powers?
+C: DAD
+D: We can see the demons while others can't. Plus the angel told me God would send us three weapons to destroy the demons with.
+C: AD.AM
+D: Magical weapons!?
+C: DAD
+D: I imagine so. Adam's face lights up with excitement. Fenton just stares numbly at his father, his eyes glazing over in shock.
+C: ADAM
+D: When do we get them? 29,
+C: I~
+D: I
+C: DAD
+D: I don't know son. The angel just said soon. I don't know anymore than what I've just told you except that we can't tell anyone about this. The angel was pretty clear on that. If we tell anyone, we put them and ourselves in danger. The angel said God was watching us, that certain stars are like cameras that transmit everything we do straight to God. Isn't that neat? Adam nods enthusiastically. Fenton just stares off in space. Dad notices his expression. DAD I know it's hard to swallow Fenton. I wanted to wait to tell you once I had it all figured out myself, but the angel said I had to wake you up and tell you now. Fenton doesn't seem to hear him or see him, he is in a complete daze.
+E: CONT ' D
+C: DAD
+D: Fenton? Hey, look at me ... Fenton?
+E: CONT'D concerned
+C: ANGLE ON FENTON'S FACE FENTON
+D: I didn't know what to say or how to feel. It was too crazy and messed up to understand or even acknowledge. I didn't realize it at that moment, at least not consciously, but my happy and mostly secure world had just been flipped over and there were dark things under there. Very dark things. And my little boy's mind just couldn't take it. INT. BEDROOM -- MORNING
+E: V. O.
+C: DAD
+D: Adam! Fenton! Fenton's eyes snap open. He lifts up and looks around, registers where he is. Sunlight streams into the room. Adam is still asleep, clutching his Princess Leia figure .
+E: O.S.
+N: CONTINUED: '3 l,
+C: DAD
+D: Up and at'em boys. Fenton pulls back the covers as Dad appears in the doorway.
+E: O.S. CONT'D
+C: DAD
+D: Morning kiddo. He goes to Adam's bed and shakes his leg.
+E: CONT'D smiles at Fenton
+C: DAD
+D: C'mon lazy bones. Adam stirs and mumbles.
+E: CONT'D
+C: DAD
+D: C'mon, it's late. We overslept. Fenton just stares at Dad.
+E: CONT ID
+C: DAD
+D: Snap to it boys and get dressed. The bus has come and gone and that means I'm taking you to school. So get a move on it. He heads out the door. Fenton stares after him, and then looks over at Adam as he lifts up. Adam yawns and they look at each other for a moment.
+E: CONT'D
+C: ADAM
+D: What's wrong with you? Fenton snaps out of it.
+C: FENTON
+D: Nothing. INT. TRUCK -- LATER Dad is driving with Adam«-,n.ext to him and Fenton next to the window. The boys eat toast as Dad drives. Patsy Cline's Walking After Midnight plays softly on the radio.
+C: FENTON
+D: None of us mentioned it. It was only a dream, a nightmare. Nothing that crazy could be real. Everything was okay, just like before. The truck pulls into the school parking lot. Dad puts it in park and looks over at his sons .
+E: V. O.
+C: DAD
+D: Well, have a good day at school.
+N: ' ) Fenton opens the door to get out.
+C: DAD
+D: And remember not to tell anyone what I told you last night. Fenton freezes. Adam pushes him out, and gets out himself.
+E: CONT ID
+C: ADAM
+D: We won't Dad. Bye! He shuts the door and Dad drives away. Adam walks off toward the school, leaving Fenton standing in a daze. INT. CLASSROOM -- AFTERNOON The TEACHER talks as she writes math equations on the chalkboard. Fenton sits at his desk, watching her with heavy eyes, trying not to fall _asleep. FENTON I refused to believe it. It was just a dream. That whole next week was just a dream too ... ~- INT. HOUSE -- EVENING I . .,_~,.._.
+E: V. 0 .
+N: Fenton is in the kitchen preparing dinner. Adam sits at the table, drawing with crayons.
+C: FENTON
+D: Like when Dad started bringing home the magical weapons. Dad comes in excited, holding an ordinary wood-handle axe and an old pair of work gloves. He talks excitedly to Fenton and Adam, gesturing with the axe. INSERT: INT. TRUCK -- MORNING Dad drives down a country road. It is overcast outside.
+E: V.O.
+C: FENTON {V .O.)
+D: He was on his way to work ... There is an old broken down farmhouse ahead.
+C: FENTON
+D: When God called to him . Suddenly a beam of light appears out of the sky and shines behind the farmhouse. Dad slows down and pulls over across from it. He gets out of the truck and walks toward the side of the house. EXT. FARMHOUSE -- MOMENTS LATER Dad walks up the dirt path around the house and sees a pile of rotted wood. There stuck in the middle of one of the logs is ~n axe with a pair of old work gloves next to it. The light shines on them from the heavens above. BACK TO SCENE: INT. HOUSE -- EVENING Dad and Adam smile excitedly at one another. Adam reaches out and touches the axe blade in awe.
+E: V.O. CONT'D
+C: DAD
+D: I still don't understand what these are for though. Fenton turns away and busies himself in the kitchen. Dad notices him and looks concerned. INT. CLASSROOM -- AFTERNOON The teacher talks and writes on the chalkboard. Fenton sits 0-. at his desk, his eyes closing and opening sleepily.
+E: looks at the gloves
+N: FENTON (V. 0.) Just a long long dream ...
+S: INT. HOUSE -- NIGHT
+N: Fenton and Adam sit on the couch, watching Mork and Mindy on television. Dad comes in with a piece of lead pipe and gestures with it.
+C: DAD
+D: We got'em all! Won't be long now. The angel came again last night and told me that God will send us a list of our first seven demons soon. Adam jumps up to look at the new weapon. Fenton looks away and stares at the television set.
+E: excitedly
+C: DAD
+D: Once we finish the first list another will come, and then another and
+E: CONT ID MORE
+C: DAD
+D: another for the rest of our lives or until all the demons have been destroyed.
+E: CONT ID
+C: ADAM
+D: Yeaaa ! ! Fenton just stares at the television without emotion. FENTON It wasn't real. It couldn't be. I just had to wait it out ... INT. KITCHEN -- EVENING Fenton washes dishes. Dad sits at the table smoking a cigarette. He watches Fenton, but Fenton ignoxes him.
+E: V. 0.
+C: DAD
+D: Come over here a minute Fenton.
+C: FENTON
+D: I'm washing dishes.
+C: DAD
+D: They can wait. Come here. I want to talk to you. Fenton reluctantly stops and dries his hands on a towel. He goes to the table and sits down. He stares down at his hands. Dad looks at him and takes a deep drag off of his cigarette.
+C: DAD (CONT' DJ
+D: Fenton, I know you've had some problems adjusting to everything that's happened this week, and I'm sorry son. I really am, but God has willed it, and we have to obey God.
+E: exhales
+C: FENTON
+D: But maybe you just think He did or dreamed it.
+C: DAD
+D: He did. I wouldn't lie to you son.
+C: FENTON
+D: But maybe you're ... you're not right in the head Dad. Maybe you need help .
+C: DAD
+D: It happened Fenton. God sent an angel to me. It's true. I'm not crazy. You'll see that soon. That's what I wanted to talk to you about. I have the first list now. He pulls it out of his shirt pocket, unfolds it, and places it in front of Fenton. There are seven names on it. The first one is CYNTHIA HARBRIDGE. Fenton looks at it and then up at Dad. INSERT: INT. REPAIR GARAGE -- AFTERNOON A car is jacked up with Dad underneath it, working on it.
+E: smiles
+C: FENTON
+D: The angel came to him while he was at work. He is working when suddenly blackness washes over everything. The Angel's beautiful face floats in front of him. The Angel's hand reaches out of the darkness and touches his forehead, and then the darkness recedes and everything goes back to normal. He pushes himself out from underneath the car, lifts up, pulls a small notepad and a pen out of his breast pocket, and furiously begins to scribble names on it. He stops and looks at the names he's written. There are seven of them. BACK TO SCENE: INT. KITCHEN -- NIGHT Fenton just stares at Dad as though he's lost his mind.
+E: V. O.
+C: FENTON
+D: But these are people's names.
+E:  frightened
+C: DAD
+D: Yep and theyill look like people too, but they're really demons. Fenton looks at him with horror.
+C: DAD
+D: The angel said when I lay my hands on them, I'll reveal them for what they truly are. That's what the gloves are for.
+E: CONT'D MORE CONTI_NUED
+C: DAD
+D: I've got to get them and bring them back here with the gloves on. Once they're here, I take the gloves off and reveal them. You'll see, then you'll believe. He smiles at Fenton. Fenton just stares at him. INT. CLASSROOM -- AFTERNOON The teacher talks as she writes on the chalkboard. Fenton sits at his chair, trying not to doze off. FENTON The dream had finally ended. It was all real. My father was insane. He was going to murder someone. He had never been a violent man. I'd never seen him hit anyone, much less me or Adam. He didn't even own a gun. But I knew he was going to kill someone ... He finally rests his head on his arms and closes his eyes. INSERT: DAD SWINGS THE AXE. Fenton lifts up and screams. The whole class turns and looks at him.
+E: CONT'D V. 0.
+C: FENTON
+D: And I had to stop him. EXT. ROSE GARDEN -- AFTERNOON Fenton lays on the grass, reading the bible.
+E: V.O. CONT'D
+C: FENTON
+D: The obvious answer was to tell someone what he was planning, but I couldn't do that. I loved him even if he'd gone crazy. I had to save him from himself. If he thought it was God that told him to do this awful thing then I had to prove to him that it wasn't God. That it had to be the devil. So I studied the bible looking for something to fight him with ...
+E: V. O.
+S: INT. LIVING ROOM -- NIGHT
+N: Dad is laying in his recliner, reading a book. Adam is laying in front of the television watching The Love Boat. Fenton comes in, carrying a bible. Dad looks up at him. Fenton opens the bible and reads.
+C: FENTON
+D: There is a way that seems right to a man, but in the end it leads to death. He looks up at Dad. Dad just looks back at him for a moment.
+C: DAD
+D: Proverbs?
+C: FENTON
+D: Yep. Verse 14. Line 12.
+C: DAD
+D: Huh. Can I see that? Fenton hands him the bible. Dad takes it, looks at it for a moment, and then hands it back to him.
+C: DAD
+D: Read line 32 .. Fenton takes it, finds the line and reads it aloud.
+E: CONT'D
+C: FENTON
+D: When calamity comes, the wicked are brought down, but even in death the righteous have refuge. Adam turns away from the television and listens to them.
+C: DAD
+D: You think this is wrong and you're trying to prove it. I respect that son, I do, but calamity has come. The end of the world is near and it is our jobs to bring the wicked down. God will take care of us because we are the righteous. Do you understand?
+C: FENTON
+D: But Dad what would the Baptists say? We are still Baptists aren't we?
+C: DAD
+D: Well, before that angel came to me, I wasn't so sure I really believed in God. I just wasn't sure. God was something far away, that didn't exist everyday in my life or at least I couldn't see it. I went to church_ more or less out of habit than for spiritual reasons. But now I know, I really know that God exists. He is here with us right now. We're beyond religion. We've got a direct line to God.
+C: ADAM
+D: Does that mean we don't have to go to church anymore?
+C: DAD
+D: It sure does.
+C: ADAM
+D: Yeaaa! Fenton looks disappointed, but doesn't say anything. EXT. YARD -- AFTERNOON Dad sits on the ground, pulling weeds out of the flower bed in front of the house. Fenton walks up next to him and gets a drink of water from the hose. He wipes his mouth and looks over at Dad.
+C: FENTON
+D: What about thou shalt not kill Dad? Dad sighs and stops what he's doing.
+C: DAD
+D: This isn't killing. This is destroying demons. Now get out there and finish mowing that yard.
+C: FENTON
+D: But what about be careful battling monsters lest ye become one? Dad stops what he's doing and looks at Fenton, impressed.
+C: DAD
+D: Shoot Fenton, that's pretty good. I like that. I'm gonna keep that one in mind . He goes back to pulling weeds.
+C: DAD
+D: Now get out there and finish that lawn. INT. SCHOOL CAFETERIA DAY Fenton studies the bible while the other children eat and laugh. FENTON There wasn't much in the old testament to use. Actually there was more in there to support Dad's case than mine. All kinds of gruesome stuff going on back then in the name of God. The new testament, with the exception of Revelations of course, was where all the real ammo was. When I found Jesus back there I knew it was going to be alright. I finally had Dad beat. INT. KITCHEN -- EVENING Fenton and Dad sit at the table. Fenton looks up from the bible in front of him at Dad. They just look at each other ~. for a long moment.
+E: CONT ID V. 0.
+C: DAD
+D: Fenton. Everything you just said is absolutely right andtrue. Fenton smiles proudly and Dad smiles back at him.
+C: DAD
+D: But it only applies to humans son, not to demons. Fenton's smile falls away and Dad lights a cigarette.
+E: CONTI D
+C: DAD
+D: I'm proud of you for all this bible reading though. You've got. determination that's for sure. You get to Revelations yet? Fenton doesn't say anything .
+E: CONT ID
+C: DAD
+D: You tell me when you do cause I never could understand half of it, but I figure I should. Maybe we could figure it out together. Adam comes into the kitchen with a piece of manilla paper.
+E: CONT'D
+C: ADAM
+D: Hey Dad look. I got a list too. He hands it to Dad, who looks at it. There are seven names written on it in crayon. The first name is Billy Dobbs.
+C: DAD
+D: Where'd you get this Adam?
+C: ADAM
+D: God gave it to me.
+E: proudly
+C: DAD
+D: Isn't Billy Dobbs the kid who was picking on you last week at school?
+E: looks at the list
+C: ADAM
+D: He's a demon. Dad looks up at him.
+E: nods
+C: DAD
+D: Adam, tell the truth. You made this list up yourself didn't you?
+C: ADAM
+D: No, God ...
+C: DAD
+D: Adam. Tell the truth. Adam looks down at his shoes.
+E: sternly
+C: DAD
+D: Come here. Adam climbs into his iap .
+E: CONTI D
+C: DAD
+D: You can't just make something like that up son. We destroy demons. If we used your list, we wouldn't be destroying demons, we'd be killing people. And we must never do that. Destroying demons is a good thing, but killing people is a very bad thing. Do you understand? Adam looks ashamed, but nods his head.
+E: CONT'D
+C: ADAM
+D: I'm sorry Dad.
+C: DAD
+D: . It's alright, you've just got to be patient. God will send you your own list when you're older. Fenton looks at Adam and Dad with disbelief.
+E: hugs him
+C: FENTON
+D: I had tried to fight him with God, but God had forsaken me. The only thing left to do was to tell. 4-l. r,, EXT. POLICE STATION -- AFTERNOON '. f
+E: V. O.
+N: Fenton stands in front of the station, looking at it and pacing back and forth.
+C: FENTON (V.O.}
+D: But that was easier said than done. I stood out there for almost an hour, wrestling with myself. Could I really send my Dad to prison or an insane asylum? What if the police didn't believe me? After all it was a pretty unbelievable situation. And if they didn't, what would Dad do to me when he found out? A POLICE OFFICER comes out of the station and nods at Fenton. Fenton nods back and hurries off. INT. KITCHEN -- NIGHT It is dark outside. Fenton and Adam sit at the kitchen table, finishing dinner. There is an empty plate at the table .
+C: FENTON
+D: That was the last day of school and Dad had promised to take us to the movies that night, but he didn 1 t come home from work. Fenton gets up, takes the empty plate, fills it with food, and puts it in the oven. INT. BEDROOM -- LATER Adam lays in his bed. Fenton turns off the light and gets into his bed. Adam lifts up and looks over at Fenton.
+E: V. O.
+C: ADAM
+D: When's Dad coming home?
+C: FENTON
+D: I don't know. Adam lays back.
+C: ADAM
+D: You think he's destroying a demon?
+C: FENTON
+D: That's all make believe Adam.
+C: ADAM
+D: No it's not, it's ...
+C: FENTON
+D: Listen to me. None of that demon junk is real. Dad just made it up.
+E: lifts up
+C: ADAM
+D: No he didn 1 t.
+C: FENTON
+D: He did too. Just like Santa Claus. Adam frowns. An old wound has been exposed. FENTON You remember last Christmas when you caught Dad putting our presents under the tree don 1 t you? Adam1 s frown deepens and he nods.
+E: CONT ' D
+C: FENTON
+D: It 1 s just like that . 4-z.,
+E: CONT' D
+N: Adam looks unsure ..
+C: FENTON
+D: Adam, have I ever lied to you? 4-3, Adam thinks about this for a moment and then shakes his head.
+E: CONTI D
+C: FENTON
+D: That's right. I haven't, but Dad has. You've got to trust me now Adam. I'm telling you the truth. Dad' sick. Demons do not exist. Those names on Dad's list are real people. Do you understand?
+E: CONTI D
+C: ADAM
+D: But why would he make it up?
+C: FENTON
+D: I don't know, but I think we should leave. Adam tninks about this for a moment.
+C: ADAM
+D: You mean run away?
+C: FENTON
+D: Would you go with me?
+E: nods
+C: ADAM
+D: I don't want to leave Dad.
+C: FENTON
+D: Neither do I, but we might have to.
+C: ADAM
+D: Why? Fenton stares at the ceiling.
+C: FENTON
+D: Dad's going to kill somebody. INT. BEDROOM -- LATER Adam and Fenton are both asleep. Headlights from the window wash the room with light for a moment and then disappear. Fenton wakes up. Outside an engine IDLES for a moment and then shuts off. A truck door OPENS and then SHUTS. Fenton gets up and goes to the window. He sees Dad's silhouette, carrying something over his shoulder toward the house .
+S: INT. FRONT HALL -- MOMENTS LATER
+N: Keys RATTLE in the front door. Fenton peeks around the corner of the hallway. The door opens, revealing Dad. He reaches in and turns on the front hall light switch next to the door. He sees Fenton watching him.
+C: DAD
+D: Hey there kiddo. Come over here and help me. Dad turns back to something on the porch. Fenton walks toward him and looks past him to the porch. He sees a WOMAN laying there, her mouth covered with duct tape, her eyes wide with fear and tears streaming down her face. Fenton freezes, staring at the woman. He notices. dried blood in her hair and on her forehead. Dad bends down, picks her up, and carries her inside the house. Her hands and feet are tied.
+E: motions to him
+C: DAD
+D: Shut the door. Fenton moves forward slowly, eyeing the woman in his father's arms, and shuts the door. Dad carries her into the living room and puts her down on the couch. Fenton comes in and looks at her and then at Dad. ADAM Dad? Dad and Fenton turn and look at Adam who is standing in the hallway in his pajamas rubbing his eyes. Adam sees the woman. ADAM (CONT I Dl Who's that?
+E: CONT'D to Fenton 0. S.
+C: DAD
+D: That's a demon, Son. INT. GARAGE -- DAY Dad is standing in front of a car withan opened hood, working on it. FENTON . God came to him earlier that day at work and told him that the time had come .
+E: looks at her grimly V. 0.  CONTINUED
+N: He suddenly stops what he's doing and goes to a shelf in the corner of the garage and pulls out several phonebooks. He flips through one until he finds a name. He pulls out his list from his pocket and looks at the first name on it, CYNTHIA BARTLETT, and then over at the phonebook where her name, address, and phone number is printed. He tears the page out of the book, stuffs it in his pocket, and goes back to work on the car.
+S: INT. TRUCK -- LATER
+N: Dad drives down the highway.
+C: FENTON
+D: After work he drove down to Jacksonville, about 45 minutes or so southwest of Tyler. INT. TRUCK -- NIGHT Dad drives slowly down a run-down residential street. FENTON He said he'd never been there before, but he had no problem finding it. God was leading him. He cuts the headlights, pulls the truck over on the side of the street, and gets out. EXT. RESIDENTIAL STREET -- CONTINUOUS He looks at the house across the street. on, and there is the faint sound of music on the gloves and .pulls out the lead pipe as he walks toward the house. EXT. HOUSE -- MOMENTS LATER It's lights are playing. He puts from his back pocket Dad goes to the front door, holding the lead pipe behind his back, and is about to knock when the door opens and Cynthia comes out, carrying her purse. She shuts the door behind her and locks it, never noticing Dad standing behind her.
+E: V. O. V. O.
+C: DAD
+D: Cynthia Bartlett?
+C: CYNTHIA
+D: Yes?
+E: turns startled
+S: EXT. BACKYARD -- MOMENTS LATER
+N: Dad comes out of the backdoor carrying the woman over his shoulder, with Adam right behind him. Fenton follows after them reluctantly.
+C: DAD
+D: Come on. It's alright. He leads them to the tool shed near the back fence. It is one of those big red aluminum sheds from Sears. INT. SHED -- MOMENTS LATER Dad puts the woman down on the dirt floor of the shed. Adam stands looking at her curiously. F~nton lingers in the doorway.
+E: calls quietly to him
+C: DAD
+D: Come in and shut the door. He does as he is told. Dad goes to his work bench where there is a little shelf that holds the axe. He takes the lead pipe out of his back pocket and puts it on the shelf, and turns to his sons. Adam looks excited, but unsure. Fenton looks scared.
+E: to Fenton
+C: DAD
+D: Come here boys. Adam goes to him, but Fenton comes to him reluctantly. He puts one arm around Adam and one around Fenton, and turns them both toward the woman on the floor.
+E: CONT'D
+C: DAD
+D: That may look like a woman, but it's not. That is a demon. The woman looks up at them with tears in her eyes, and tries to say something from behind the tape on her mouth.
+E: CONT'D
+C: DAD
+D: They all look like humans, just like her. But inside they are murderous ,,,. ... beasts ... Fenton and Adam look at the woman .
+E: CONT'D
+C: 
+D: ... here to destroy the entire human race. And it is up to us, our family, to destroy them. It is God's will. When I put my hands on her, you will see the truth. Dad pulls off his gloves and take.s down the axe from the shelf. Fenton looks terrified. Adam looks mostly curious.
+E: CONTINUED} 4-'-P, DAD
+C: FENTON
+D: Dad, don't do this! Dad holds the axe and looks at Fenton.
+C: DAD
+D: I love you with all my heart Fenton. If I could spare you this I would. But this is God's will and we are His servants. Don't be afraid, Son. You'll understand when I touch her. He moves toward the terrified woman. He bends down and extends his free hand toward her. Fenton watches him, paralyzed with terror. CUT TO PRESENT: ~ INT. DOYLE'S OFFICE I '.,
+N: Doyle stares at Fenton incredulously.
+C: DOYLE
+D: Is that true?
+C: FENTON
+D: Why would I make it up?
+C: DOYLE
+D: Where's your father now?
+C: FENTON
+D: Dead. Doyle sits there, thinking about what he's just heard. The door opens and Hull sticks his head in the office. Doyle looks up at him.
+C: HULL
+D: Thinking about heading out. Unless you need me to stay .
+E: glances at Fenton
+C: DOYLE
+D: No. No. You go ahead.
+C: HULL
+D: Alright, see you later. Doyle waves and nods absentmindedly, and Hull leaves. Doyle looks at Fenton.
+C: DOYLE
+D: So he killed that woman? Right there in front of you? Fenton nods.
+C: FENTON
+D: But not to his way of thinking. He hadn't killed a woman. He had destroyed a demon. You see, he believed that when he touched her ... CUT TO FLASHBACK: INT. SHED -- NIGHT Dad reaches out and touches Cynthia. Her eyes go wide. FENTON ... he revealed her sins ...
+E: V .0.
+C: INSERT FLASH IMAGES:
+D: CYNTHIA SCREAMS IN RAGE WITH BLOOD SMEARED ON HER FACE CYNTHIA HOLDS A PLASTIC BAG OVER AN OLD WOMAN'S FACE AS SHE
+C: SUFFOCATES
+D: CYNTHIA SAVAGELY BEATS A MAN IN THE FACE WITH A BASEBALL BAT
+C: BACK TO SCENE: FENTON
+D: ... and the demon within her. Adam screams and recoils from her. Dad takes his hand off of Cynthia with disgust, and raises the axe. Fenton watches Dadin horror and screams as he brings the axe down. CUT TO PRESENT:
+E: V.O. CONT'D
+S: INT. DOYLE'S OFFICE -- NIGHT
+C: DOYLE
+D: Revealed her sins?
+C: FENTON
+D: That's what he claimed.
+C: DOYLE
+D: Believe me I've heard all kinds of crazy stuff, but that's a first. Whatdid you do?
+E: whistles softly
+C: FENTON
+D: What could I do? I watched himkill her and then I watched him bury her. CUT TO FLASHBACK: EXT. ROSE GARDEN -- NIGHT They are in the back of the garden, away from the garden proper. Dad digs a hole near a lone rosebush while Adam sits on the ground, holding the flashlight for him. There are three holes in the ground, forming a circle, and three black trash bags laying on the ground. Fenton sits next to Adam, staring at the bags, crying. Dad finishes the last hole and picks up one of the trash bags. Adam gets up and picks up one too. He throws the bag inside one of the holes.
+C: DAD
+D: No Adam. Do it like this. He reaches down and pulls the bag out of the hole, opens it, and dumps the contents into the hole.
+C: DAD
+D: We've got to do this right boys. The angel was real specific.
+E: CONT ID
+C: ADAM.
+D: Why do we have to bury them in three different holes?
+C: DAD
+D: That's the way God wants it done. We cut them at the neck and the waist and then bury'em out here. That's all I was told.
+C: ADAM
+D: Why out here?
+C: DAD
+D: God chose it just like he chose us I suppose. Dad looks over at Fenton, sees him crying. He goes to him and puts an arm around him. DAD (CONT' Dl Don't cry Fenton. It's alright. She wasn't human. Didn't you see that when I touched her? Fenton shakes his head no and tries to hold in his sobs, a few escaping him anyway.
+C: ADAM
+D: I saw it Dad. Dad smiles and winks at him and he smiles back.
+C: FENTON
+D: You ... You killed her ... He cries harder.
+C: DAD
+D: I didn't kill her son. She was a demon. I don't understand why you didn't see it. You were supposed to see the truth just like we did. Dad looks over at the black trashbags.
+C: DAD
+D: You know I wasn't so sure I could do it myself. I mean she looked like a woman to me too, but after I touched her all I cbuld see was the demon . . And I just had to destroy it. That's what seeing it did to me. I'm sorry you didn't see it. {gets up) I don't understand why though. But there's always next time.
+E: CONT'D
+C: FENTON
+D: You're going to do it again?!
+C: DAD
+D: This is our job now son. We're God's hands. You've got to accept that. We've started something we've 9ot to finish. There's thousands ...
+C: FENTON
+D: You can't! I won't let you!
+C: DAD
+D: You can't stop it. We're doing God's wor ...
+C: FENTON
+D: I'll tell! Dad's face goes dark, and he grabs Fenton by the arm.
+C: DAD
+D: If you do, someone will die. Maybe even you. The angel was clear on that. Do you understand? Fenton cries and tries to pull away~
+C: DAD
+D: Answer me! Do you understand!? Yes!
+E: CONT'D
+C: FENTON
+D: Dad lets go of him, and looks ashamed.
+E: cries
+C: DAD
+D: I'm sorry. It's just ... I love you. I don't want you to get hurt or get anyone else hurt. You'll understand soon. I promise. But until then you have to promise me you won't tell. Fenton doesn't say anything.
+C: DAD
+D: Fenton.
+E: CONT ID sternly
+C: FENTON
+D: I .. pr .. pr .. promise. He reaches down and tousles his hair, though Fenton jumps a little at his touch. Dad frowns at his reaction.
+C: DAD
+D: You'd better keep that promise. Remember, God is watching you . 5t.
+N: Dad goes back to the hole and begins to fill it with dirt as Fenton looks up at the stars fearfully.
+S: INT. DOYLE'S OFFICE -- NIGHT
+N: Doyle stares at Fenton.
+C: DOYLE
+D: So you didn't tell? Fenton shakes his head.
+C: FENTON
+D: CUT TO PRESENT: I should have, but I was afraid. I loved my father, but I was terrified of him. He was a murderer. -:fiow could I know how far it went? Doyle looks lost in thought. He glances at the picture of his mother. Fenton studies him carefully.
+C: FENTON
+D: So now do you understand why I think my brother is the God's Hand killer?
+E: CONT' D
+C: DOYLE
+D: ( rubs his eyes J I suppose. But then again what described happened to you both. it could be you just as much as
+C: FENTON
+D: you've So him. But I didn't believe Agent Doyle. Adam did. That night I saw my father kill a woman with a hand axe, but Adam saw him destroy a demon. No matter what I tried to tell him, he still believed Dad. To him we were knights of God on a holy mission to abolish evil. Doyle thinks about this for a long moment.
+C: DOYLE
+D: Do you have any physical proof?
+C: FENTON
+D: I read in the paper that only one of the bodies of the six victims had been found. Is that true?
+C: DOYLE
+D: You read it in the paper didn't you?
+C: FENTON
+D: That doesn't make it true.
+C: DOYLE
+D: Well in this case it does. The first victim was found mutilated with a note saying that God's hand had taken him. With all the others, only notes were found. No bodies.
+C: FENTON
+D: How do you know they're dead then?
+C: DOYLE
+D: We don't for sure. But the first note told us we wouldn't find any bodies from then on. It said he wanted to keep them.
+C: FENTON
+D: I've got a pretty good idea where the bodies are.
+C: DOYLE
+D: The Rose Garden?
+C: FENTON
+D: There were other holes out where I buried him. Some of them looked freshly covered.
+E: nods
+C: DOYLE
+D: Why didn't you tell me that to begin with!? He jumps up.
+C: FENTON
+D: Would you have believed me? Doyle gives him a look.
+C: DOYLE
+D: Come on. INT. FBI HEADQUARTERS -- MOMENTS LATER Doyle and Fenton walk through the lobby. The operator glances up at them from her book and then continues reading .
+S: EXT. PARKING LOT -- MOMENTS LATER
+N: It is raining lightly. Fenton and Doyle walk quickly out to Doyle's car. Doyle reaches into his back, pulls out a set of handcuffs, and tosses them to Fenton.
+C: FENTON
+D: What's this?
+C: DOYLE
+D: There's something about you I don't trust. Everything you've told me so far is screwy. It may be the truth like you say, and if it is I'll apologize later, but for now you put'em on or I'll put'em on you. Fenton puts the cuffs on as Doyle opens the backdoor of the car. Fenton starts to get in. Doyle reaches out to help him, but Fenton recoils.
+C: FENTON
+D: I've got it. Doyle backs off, lets him get in, and then shuts the door. INT. DOYLE'S CAR -- MOMENTS LATER Doyle drives. Fenton sits in the back. There is a metal cage divider between them. Doyle looks at him in the rearview mirror and then back at the road.
+C: DOYLE
+D: So tell me something. Why did you wait so long to come forth?
+C: FENTON
+D: I didn't even know about the case until three days ago.
+C: DOYLE
+D: That's impossible. It's been all over the news for the past few months.
+C: FENTON
+D: I don't watch the news or read newspapers.
+C: DOYLE
+D: You just told me that you'd read an article on it in the paper .
+C: FENTON
+D: l did. I happened to see the headline three days ago. God's hand claims sixth victim. I bought the paper and called Adam, but he wasn't there. I left a message and he called me back that next night.
+C: DOYLE
+D: You knew and you left a message?
+C: FENTON
+D: I didn't know for sure. I suspected.
+C: DOYLE
+D: No, you knew. Admit it. You knew and you didn't tell anyone.
+C: FENTON
+D: I'm telling you now. They drive in silence for a long moment.
+C: DOYLE
+D: You have to admit it's all a pretty big coincidence. I mean, the day after you just happen to notice that there is a killer on the loose, who you know is your own brother, he kills himself.
+C: FENTON
+D: I'm telling you the truth. He was the killer.
+C: DOYLE
+D: I'm just saying it's a pretty hard tale to swallow.
+C: FENTON
+D: Yeah, and so was the one I told you when I first came into your office. But it was true, wasn't it? Doyle looks at him in the rearview and then back at the road.
+C: FENTON
+D: Lies are always easy to.believe Agent Doyle. It's the truth that's hard.
+E: CONT'D  CONTINUED
+C: DOYLE
+D: I still can't understand how you could keep something like that in for so long.
+C: FENTON
+D: We all have secrets. Don't we Agent Doyle? Tell me, how did your mother die? Doyle looks up sharply at him in the rearview mirror.
+C: DOYLE
+D: What did you say to me?
+C: FENTON
+D: You told me she died after that picture was taken. But there was something about the way you ...
+C: DOYLE
+D: My mother is none of your damn ... Doyle catches himself, though he grips the wheel angrily. Fenton doesn't say anything. Doyle coldly watches the windshield wipers wiping away at the rain.
+C: DOYLE
+D: My mother was ... murdered. Senselessly butchered by some whacked out killer like your Dad.
+E: CONT'D
+C: FENTON
+D: I'm sorry. I didn't mean to pry.
+C: DOYLE
+D: I don't like to talk about it, but it's not a secret.
+C: FENTON
+D: I'm sorry.
+C: DOYLE
+D: Forget it. They drive along for a moment.
+C: FENTON
+D: Did they ever catch her killer?
+C: DOYLE
+D: Nope .
+C: FENTON
+D: ls that why you took this job?
+C: DOYLE
+D: Something like that. You know, you're pretty good at this. Ever think of becoming a cop?
+C: FENTON
+D: When I was a kid.
+C: DOYLE
+D: You've got the instincts for it. But I've got them too and mine are telling me you're hiding something from me.
+C: FENTON
+D: What do you think I'm hiding?
+C: DOYLE I
+D: m not so sure yet, but my instincts are hardly ever wrong. So why don't you finish your story and I'll. see if I can't figure it out. CUT TO FLASHBACK: ~ INT. HOUSE -- AFTERNOON { )
+N: Fenton and Adam sit in the living room watching Good Times on television. Adam laughs at the television, but Fenton just sits staring at it, lost in thought. FENTON (V. 0.) After that night, I guess you'd expect Dad to set out to teach us murder like most Texans teach their children racism. But nothing happened. Dad didn't mention it anymore, and neither did Adam. After a couple of weeks I began to think it was over.
+S: EXT. PUBLIC POOL -- AFTERNOON
+N: Fenton and Adam swim in the water with the other CHILDREN.
+C: FENTON (V. O.}
+D: I know it sounds silly and childish that I could actually think that after what I had seen, but I wanted it to be over. I wanted to go back to being a normal kid again .
+C: I I
+D: EXT. BASKETBALL COURT -- AFTERNOON Adam and Fenton play basketball with a group of BOYS. FENTON And I did. I buried the whole thing down deep, and pretended that it had. never happened. INT. BEDROOM -- NIGHT Fenton tosses and turns in his sleep.
+E: V. 0.
+C: FENTON
+D: Of course there were still the nightmares. He raises up, sweating and crying. EXT. RIVER -- AFTERNOON Fenton and Adam sit on the bank, skipping rocks on the water. Fenton lays back on the ground and looks up at the clouds.
+E: V. O.
+C: FENTON
+D: But they came less and less often after awhile. They always say children are resilient creatures and I was proof. Once a full month had gone by I had completely convinced myself that it was over and everything was going to be alright. EXT. BASKETBALL COURT -- EVENING The sun is going down. Fenton, Adam, and another boy Fenton's age, ERIC, walk away from the court to the sidewalk.
+E: V. O.
+C: ERIC
+D: You see Dukes of Hazard last night? Fenton and Adam nod.
+C: ERIC
+D: You remember when Daisy bent over!? Fenton nods, smiling, and Adam looks a little confused.
+E: CONT'D
+C: ADAM
+D: I like Boss Hogg. He's funny. Fenton and Eric pointedly ignore him.
+C: ERIC
+D: Man, I'd do anything to really see her tits.
+C: ADAM
+D: Orn! You said ...
+C: FENTON
+D: Shut-up Adam.
+E: mildly
+C: ERIC
+D: You want to spend the night tonight? We can wrap Corey's house.
+E: to Fenton
+C: FENTON
+D: I'll have to ask my dad though.
+E: smiles and nods
+C: ERIC
+D: My mom can call and ask if you want.
+C: FENTON
+D: Alright.
+C: ERIC
+D: See you in a little bit. Eric runs off to one of the houses off of the sidewalk. Adam and Fenton keep walking.
+C: ADAM
+D: What's wrap mean? Fenton looks at his little brother and laughs.
+C: FENTON
+D: Come on. I'll race you. They take off running. EXT. ROAD -- MOMENTS LATER Fenton and Adam laugh as they run downthe road by the Rose Garden. Adam turns into the drive of the Garden, and Fenton stops running and stays on the road. Adam notices that Fenton has stopped running.
+C: ADAM
+D: Come on! Fenton looks at the entrance to the Garden wearily .
+C: FENTON
+D: Nah, I'm going around on the road. 1 Adam walks back to Fenton and goes with him.
+S: EXT. HOUSE -- MOMENTS LATER
+N: Fenton and Adam walk up the road in front of their house, looking inquisitively at the new white Chevy Van parked in the driveway. The lights in the house are on.
+S: INT. HOUSE -- MOMENTS LATER
+N: Fenton and Adam walk into the house.
+C: ADAM
+D: Dad!
+C: DAD
+D: In the kitchen! Adam takes off through the house to the kitchen, with Fenton following behi~d him. INT. KITCHEN -- CONTINUOUS Dad sits at the kitchen table with a notepad and few phonebooks in front of him. He flips through one of the phonebooks. Adam comes in, followed by Fenton.
+E: O.S.
+C: ADAM
+D: Who's van is that? Fenton sees the phonebooks, and then the notepad with seven names written on it, one of them crossed out. He looks at Dad with absolute horror. Dad looks up and smiles.
+C: DAD
+D: Ours. Ain't it a beaut? Your friend's mom just told her not tonight. some work to do in the called. I We've got morning. EXT. RESIDENTIAL NEIGHBORHOOD -- DAY Dad's van is parked on the street. INT. VAN -- CONTINUOUS Dad sits behind the wheel, watching the entrance of a house down the street, while Fenton sits in the passenger seat,
+E: to Fenton
+N: wearing a Charlie's Angels t-shirt, and Adam sits in the back drinking a Dr. Pepper. FENTON (V. 0.) Dad told us that there were moments in everyone's life when they could just suddenly disappear without anyone knowing where they went or why. A man in his late thirties, EDWARD MAAS, comes out of the house, and Dad tenses up.
+C: DAD
+D: There he is. Edward goes to his car in the driveway and gets in. The car backs out of the driveway. Dad waits a moment, and then pulls the van out, and follows after him.
+C: FENTON
+D: He said those were the moments when God's hands could reach out and take you. EXT. MALL PARKING LOT -- LATER Edward's car pulls into the parking lot, parks, and he gets out. Dad's van pulls into the parking lot and takes the spot right next to Edward's car. INT. VAN -- CONTINUOUS Dad, Adam, and Fenton watch Edward disappear into the mall.
+E: V. O.
+C: ADAM
+D: What do we do now Dad? _ DAD We wait. We'll get him when he comes out. Just like I told you. Remember? Adam nods. Fenton doesn't say anything.
+C: DAD
+D: _ Fenton?
+E: CONT'D
+C: FENTON
+D: I can't do this Dad.
+C: DAD
+D: Can't never could do anything . .r--~\ \ i
+C: ADAM
+D: I can do it Dad. Dad smiles at him in the rearview mirror . . DAD You sure can tiger.
+C: FENTON
+D: But, what if someone sees us?
+C: DAD
+D: They won't.
+C: FENTON
+D: But it's daylight.
+C: DAD
+D: I told you God will blind them for us. Remember? Fenton nods, but still looks worried.
+C: DAD
+D: This is the day God chose, Son. It is His will. There's nothing to worry about. As long as we do His will, He'll protect us and help us .
+E: CONT'D
+C: FENTON
+D: But what if he doesn't? What if ...
+C: DAD
+D: You've got to have faith Fenton. You've got to just let go and trust Him or at least trust me. Fenton nods again, but without conviction.
+C: DAD
+D: I know you still don'tunderstand it Fenton, but we've got to do this. It's our job. I know you're going to see the demon this time.
+E: CONT ID
+C: FENTON
+D: But I don't want to Dad. I'm scared.
+C: DAD
+D: There's nothing to be afraid of. God will protect you. You just have to accept Him. Come on, bow your head and we'll pray together .
+N: Dad and Adam bow their heads and close their eyes. Fenton bows his head, but keeps his eyes open.
+C: DAD
+D: God please speak to Fenton and show him your will. Give him the courage to serve you and the strength to be your servant ... Fenton looks nervously over at the mall entrance. INT. VAN -- LATER Dad reads a book. Adam plays with his Star Wars .figures in the back of the van. Fenton just stares at the mall entrance. FENTON I know Dad's abductions may seem really simple, but those were simpler times. Nowadays you'd have to concoct some elaborate scheme to abduct someone. People expect psychos around every corner now. But back then they didn't expect it as much. Of course according to Dad nothing, not even a camera, could catch us anyway. We were invisible when we were God's Hands. EXT. MALL ENTRANCE -- CONTINUOUS Edward comes out of the entrance carrying a shopping bag. INT. VAN -- CONTINUOUS Fenton tenses up at the sight of Edward. He looks over at Dad, who is still reading his book, and then looks back at Edward who is walking toward them in the distance. He walks out into the parking lot. Fenton tries to breathe easy. He looks back at Dad, but Dad has looked up and is staring right at Edward.
+E: CONT'D V. 0.
+C: DAD
+D: Here he comes boys. Adam sits up and looks excitedly.
+C: DAD
+D: Now remember what I told you. Dad puts on his gloves and reaches in between the seats and grabs the lead pipe from the floorboard. Fenton stares at the pipe in Dad's gloved hand with horror .
+E: CONT'D
+C: FENTON
+D: I don't want to do this Dad .
+E:  looks up at Dad
+N: ~- } ,, Dad looks at him and the disappointment is obvious, and then F, he looks back at Edward who is getting closer by the second.
+C: DAD
+D: This isn't about what you want, Son. You just do like I told you and everything will be fine. Now c'mon. Dad opens his door, puts a leg out, but notices that Fenton isn't moving.
+E: sternly
+C: DAD
+D: Come on Fenton. He stares at Dad with tears in his eyes.
+E: CONTI D
+C: FENTON
+D: I can't.
+C: DAD
+D: Yes you can, now move. Fenton hesitates.
+C: DAD
+D: Do what I tell you. Fenton gets out of the van in tears. EXT. PARKING LOT -- CONTINUOUS Fenton sees Edward walking right toward him. He gets down on his knees and looks under Edward's car. Edward walks up and sees Fenton.
+E: CONTI D sternly
+C: FENTON
+D: C'mon ... Trixie. Get out ... from under ... there
+C: EDWARD
+D: What are you doing boy? Fenton looks up at Edward with tears streaming down his face.
+C: FENTON
+D: My ... my ... dog's under there ... and ... and ... he ... he ... won ' t ... A \~, ,,,i
+N: Edward bends down to him, revealing Dad behind him with the lead pipe raised. Fenton closes his eyes tight as Dad brings the pipe down on Edward's head. Edward crumples to the ground, falling on Fenton. The van door rolls open, revealing Adam, who hoots in delight at what he sees.
+C: ADAM
+D: You got him! You got him! Dad grabs hold of Edward's legs and pulls him off of Fenton.
+C: DAD
+D: Help me get him in the van. Fenton sits on the ground with his eyes still shut tight, shaking with sobs. Dad sighs and grabs Edward by the waist and lifts him by himself. INT. VAN -- LATER Dad drives along in silence. Fenton's crying has tapered off, but hasn't completely stopped. Adam wraps Edward's hands together with an enormous amount of duct tape as he lays unconscious on the floorboard in the back. His feet are already taped together with an even thicker wad of tape. Dad looks back at Adam in the rearview mirror.
+E: to Fenton
+C: DAD
+D: That's good Adam. Don't waste tape.
+C: ADAM
+D: You sure? What if he gets loose?
+C: DAD
+D: You've already used three rolls. I think that's enough. Adam wraps his hands one more time and then stops.
+C: DAD
+D: Don't forget to put some over his mouth like the angel said. Adam pulls off a strip of tape and covers Edward's mouth with it. He pulls off another strip of tape and puts it on top of the first.
+E: CONT'D
+C: DAD
+D: That's enough Adam .
+E: CONT ID
+C: ADAM
+D: Just one more to make sure it'll hold.
+C: DAD
+D: Give me the tape. Dad reaches his hand out behind him while he drives. Adam looks disappointed, but puts the tape in his hand.
+C: DAD
+D: Thank you.
+E: CONT'D
+C: ADAM
+D: You're welcome. Dad smiles in the rearview mirror at him, and puts the tape on the dashboard.
+E: disappointed
+C: DAD
+D: You did good tiger. Adam smiles proudly. Dad lodks over at Fenton, and frowns. Fenton just stares ahead at the road. INT. SHED -- NIGHT (~--:-~; Edward is tied to a chair with his mouth covered in duct tape and dried blood in his hair. He opens his eyes and sees Dad standing over him.
+C: DAD
+D: Edward Maas? The man shakes his head yes, his eyes wide with fear and confusion. He moans something through the tape. Dad looks at Fenton who stands against the shed wall next to Adam.
+C: DAD
+D: You think that's an innocent man there, don't you? Well, it's not. FENTON'S P.O.V. Dad walks over to Edward and puts his hand on him. Dad jerks as though he's being shocked. Edward looks up at Dad, his eyes wide with fear. DAD'S P.O.V. Edward sits in. a living room, watching a sitcom. Over the sound of the television, there is a baby crying off screen. On the couch next to him are two dead bodies, a man and a woman. He laughs hysterically at the sitcom, blending with the baby's cries .
+E: CONT'D
+N: ADAM'S P.O.V. A bright shining light illuminates the shed. Angels appear out of the light and circle Edward. Dad takes his hand off of him and steps back, seething with rage.
+C: DAD
+D: Didn't think anyone knew about that did you!? He goes to the workbench and picks up the axe.
+E: CONT'D
+C: DAD
+D: But God saw you. He moves closer to him, holding the axe with both hands.
+E: CONT ID
+C: FENTON
+D: Dad don't! Don't!
+E: moves forward
+C: DAD
+D: And you can't escape God's wrath! He swings it straight at the man's head. Blood splatters Fenton's Charlie's Angels t-shirt. EXT. ROSE GARDEN -- NIGHT Adam and Fenton dig holes while Dad sits on the ground, smoking and watching Fenton.
+C: DAD
+D: I can't believe you still didn't see it. Fenton looks up hatefully at him, but keeps digging.
+C: DAD
+D: He was a murderer Fenton. He killed little babies! He gets up from the ground and tosses his cigarette.
+E: CONT'D
+C: DAD
+D: Babies. He walks off toward the house in the distance. Fenton stops digging and takes one of the black trash bags and dumps it in one of the holes. He stands over the hole and looks down at the bloody mess .
+E: CONT ID upset  CONT HIDED
+N: ', 1' CONTINUED: y:,.i1
+C: FENTON
+D: He's the murderer. We've got to get out of here Adam. Adam looks over at him as he digs.
+C: ADAM
+D: What do you mean?
+C: FENTON
+D: We've got to run away. Remember I told you we might have to.
+C: ADAM
+D: I don't want to run away.
+C: FENTON
+D: We have to. Dad's crazy Adam. He's a murderer.
+C: ADAM
+D: No he's not. He's a demon slayer.
+C: FENTON
+D: That's all lies Adam.
+C: ADAM
+D: No it's not. I see it when he touches them . Fenton looks angrily at his brother.
+C: FENTON
+D: No you don't! Dad's brainwashed you. It's all a big lie. He's a murderer and you help him!
+C: ADAM
+D: Nuh-uh! We're serving God's will! I'm gonna tell Dad on you. Fenton charges at Adam who drops his empty bag and runs off toward the house. The wind catches the empty bag and blows it into a rose bush where it snags on the thorns. Fenton falls to his knees and cries as Adam runs off. Blood drips from the empty bag onto a rose. INT. HOUSE -- LATER Fenton comes in, looking exhausted. He enters the living room and finds Dad sitting in his recliner in the dark. They look at each other for a long moment, but neither says anything. Fenton walks off down the hall .
+S: INT. BEDROOM -- MORNING
+N: It is very early. Dad comes in fully dressed and shakes Fenton awake.
+C: DAD
+D: Get up and get dressed. And don't wake your brother. Fenton watches him leave the room. He looks over at the clock and sees that it is 5:03 AM. INT. KITCHEN -- MOMENTS LATER Fenton comes into the kitchen looking sleepy. Dad sits at the table sipping a cup of coffee. Dad looks up at him.
+C: DAD
+D: Sit down. He takes the seat across from Dad.
+C: DAD
+D: Your brother told me what you said last night. I want you to knew that I've never killed anything in my entire life Fenton.
+E: CONT'D
+C: FENTON
+D: That's a lie and you know it.
+C: DAD
+D: When God asked me to destroy demons, I had to trust God's word that they really were demons. It was a question of faith. I've heard preachers call it the leap of faith. And I took that leap. I chose to believe. And when I did that, everything flipped over. And I 'realized that it was the right thing. It was my destiny. Fenton just looks at him.
+E: sighs beat
+C: DAD {CONT, D)
+D: I did a lot of thinking and praying last night after you went to bed. I prayed for an angel to visit you.
+E: MORE
+C: DAD
+D: But instead one visited me ... and told me something I ... I don't want to believe.
+E: CONT ID
+C: FENTON
+D: What?
+C: DAD
+D: It doesn't matter because together you and I are going to prove him wrong. l love you son. I don't want anything to happen to you. Dad looks down at his coffee.
+C: DAD
+D: You just don't have any faith. That's why you can't see the truth. But we're going to change that. EXT. BACKYARD -- MOMENTS LATER The sun is barely starting to come up. Th.ere is a glaze of dew over the grass. Dad comes out of the shed with Fenton following him, carrying a shovel. Dad walks out into the yard and looks around. He walks back toward the side of the shed and stops, looking at the ground. He motions for Fenton, and points at the ground.
+E: CONTI D looks up at him
+C: DAD
+D: I want you to dig a hole here. It'll need to be about twenty feet deep and about twenty feet wide in both directions. Fenton looks at him incredulously.
+C: DAD
+D: The length and width should form a perfect square.
+E: CONTI D
+C: FENTON
+D: What!?
+C: DAD
+D: You heard me.
+C: FENTON
+D: Why!? ,r4>, . '
+C: DAD
+D: Take that tone out of your voice. Because I told you to. You might think I'm some crazed killer, but I'm. still your father and you'll do what I tell you. You understand me? Fenton doesn't respond.
+C: DAD
+D: Fenton.
+E: CONTI D in a warning tone
+C: FENTON
+D: Yes sir.
+C: DAD
+D: Now, we're going to build ourselves a little cellar out here.
+C: FENTON
+D: A cellar?
+C: DAD
+D: Yep. And until you give in to God's will and accept your place in this family, you're going to do most of the work by yourself.
+C: FENTON
+D: I can't do that by myself. I don't even know how to build a cellar.
+C: DAD
+D: I'll take care of that. All you have to do is the labor.
+C: FENTON
+D: All of it!?
+C: DAD
+D: Yep. You're going to serve God's will one way or another. And God wants us to have a cellar to help us in our mission so get to work. He walks off.
+C: DAD
+D: I want at least half that hole dug when I get home from work . 7, ~' i\ - ,
+E: CONT ID calls behind him
+C: FENTON
+D: But Dad! I can't do that!
+C: DAD
+D: Pray. Maybe God will help you. Fenton watches him disappear around the side of the house, and then looks down at the ground angrily. EXT. BACKYARD -- LATER It is late morning now. The dew is gone and the sun blazes in the sky. Fenton digs the hole. It is about five feet wide and long, but only about two feet deep. There is a small pile of dirt by the hole. He is covered in sweat. FENTON I started digging that goddamn hole, but I did not pray. I would not. I hated God. I despised Him. My hatred helped me dig. It kept me going. Dad's or God's or the angels' or whoever's plan it was would not work on me. I knew what Dad was doing was wrong and nothing was going to change that. EXT. BACKYARD -- LATER The sun beats down on Fenton as he digs diligently. His shirt is now off and tied around his head. His back is slightly sunburned. He is literally drenched in sweat. The hole is about three feet deep, and about ten feet in length and width. Fenton digs steadily, throwing dirt over his shoulder into the ever growing pile by the hole.
+E: V. 0.
+C: ADAM
+D: Hey Fenton. Fenton keeps digging, lost in thought.
+E: O.S.
+C: ADAM
+D: Fenton! Fenton stops and looks up at his brother. He is holding a big plastic cup of water. He extends it to Fenton. Fenton takes it and gulps half of it down. Adam looks at the hole.
+E: O.S. CONT'D
+C: ADAM
+D: How big does it have to be?
+E: CONTI D
+C: FENTON
+D: Twenty feet long, wide and deep . Pi
+C: AD.AM
+D: That's huge. Fenton puts the cup down and starts to shovel again. Adam watches him for a moment.
+E: eyes wide
+C: ADAM
+D: I'm sorry I told on you. He stops digging and looks at Adam.
+E: CONT'D
+C: FENTON
+D: You didn't tell him what I said about running away, did you?
+C: ADAM
+D: No.
+C: FENTON
+D: Will you go with me then?
+C: ADAM
+D: There's no reason to go.
+E: shakes his head
+C: FENTON
+D: He's a killer Adam.
+C: ADAM
+D: No, he's believe? help you not. Why can't you just Dad said we could both dig the hole if you did. Fenton looks angry, but doesn't say anything. He begins to dig again.
+C: ADAM
+D: I've been praying for you. He digs faster, his anger mounting.
+E: CONT'D
+C: ADAM
+D: Have you been praying?
+E: CONT'D
+C: FENTON
+D: _Nope. And I'm not going to.
+E:  snaps at him
+C: ADAM
+D: But Dad said that ... CONTINUED: 14-
+C: FENTON
+D: I don't care what Dad said! He might be able to make me dig this stupid /-~-,., hole, but he can't make me pray.
+C: ADAM
+D: But maybe if we both pray God will show you the truth like he did for me and Dad. Fenton stops digging and looks sharply at him.
+C: FENTON
+D: You're as crazy as Dad. Just get out of here and leave me alone. Adam looks crushed. Fenton goes back to digging. Adam turns to go, but turns back.
+C: ADAM
+D: I'll help you if you promise you won't tell Dad.
+C: FENTON
+D: I don't want your help. He keeps digging.
+C: ADAM
+D: But there's another shovel in the ...
+C: FENTON
+D: Get out of here! He throws dirt at him, and he runs off. Fenton watches him run off, and frowns regretfully.
+C: FENTON
+D: I wanted to run away, far away, but I still couldn't leave Adam no matter how crazy Dad was turning him. And besides, there was nowhere to go. Fenton goes back to digging. EXT. BACKYARD -- LATER The sun is starting to go down. Fenton still digs, but a little slower than before. The hole is considerably deeper now, about five feet deep, but still about ten feet long and wide. The dirt pile has grown considerably .
+E: V.O. CONT'D
+C: DAD
+D: Looks like you've been busy. / ',1 Fenton looks up and sees Dad standing over the side of the ; hole. DAD ( CONT ' D} Ain't exactly half, but it's impressive. Pretty smart way to do it too. I wouldn't let it get much deeper before you start the other half though. Fenton climbs out of the hole with the shovel, and starts to dig at the edge of it to make it longer.
+E: O.S.
+C: DAD
+D: Oh, I'd say that's about enough for today. Come on in and I'll make us some supper. Looks like we've both had a long hard day. Fenton ignores him and keeps digging.
+E: CONT'D
+C: DAD
+D: Fenton. I said that's enough. Fenton keeps digging. Dad watches him for a moment. DAD { CONT ' D} Well supper'll be waiting for you when you decide to come in. You did good today Fenton. He looks at Fenton for some Fenton just keeps digging. Fenton never stops digging, on his face. EXT. BACKYARD -- LATER sort of response, but gets none. Dad sighs again and walks off. an angry look of determination It is pitch dark out now. The only light is from the porch. The hole is a little longer now. Fenton stops digging and puts the shovel down. He looks at the. hole for a moment and then starts to walk toward the house. INT. HOUSE -- MOMENTS LATER Fenton enters from the backdoor in the kitchen. He looks hungrily at the plate of cold food sitting on the table, but walks past it. He walks down the hall and goes into the bathroom. The sound of the television playing and Dad and Adam laughing is heard in the background. He turns on the faucet in the. sink, wincing at the pain. His hands are a bloody mess of popped blisters. He puts them under the water and cries out softly. INT. KITCHEN -- LATER Fenton sits at the table, eating. It is hard for him to hold his fork and knife because of his blistered hands. Dad enters from the hallway and sees him at the table.
+E: CONT'D sighs
+C: DAD
+D: Finally gave up, huh kiddo?
+C: FENTON
+D: I didn't give up. I'll be out there again in the morning. Dad frowns at him and sits down across from him at the table.
+C: DAD
+D: I didn't mean it like that. Look, I don't want to fight with you son. I love you. I'm not doing this to hurt you. Fenton keeps eating, staring down at his plate.
+C: DAD
+D: I wish you could understand that. Fenton keeps eating. Dad watches him for a moment.
+E: CONT'D
+C: DAD {CONT ID)
+D: Did you pray while you were out there?
+C: FENTON
+D: Nope. Dad frowns, but doesn't say anything. Fenton keeps eating, but drops his knife loudly on the plate. He picks it up again, but it's obvious he's in pain.
+E: looks up defiantly
+C: DAD
+D: What's the matter with you?
+C: FENTON
+D: Nothing.
+C: DAD
+D: Let me see your hands.
+C: FENTON
+D: They're fine. Dad reaches out and pulls one of Fenton's hands out where he can see it.
+C: DAD
+D: Didn't you use gloves today? Fenton pulls his hand away.
+C: FENTON
+D: I didn't need them. I'm fine. Dad gets up, goes to the kitchen cabinets, and gets some aspirin. He takes a couple out of the bottle and tries to hand them to Fenton.
+C: DAD
+D: Here. It'll ease the pain.
+C: FENTON
+D: I said I'm fine.
+C: DAD
+D: Fenton, I know you're mad at me, but that's no reason to cause yourself pain. Now take them. i~) Fenton hesitates, but takes the pills and swallows them. 1___,- Dad watches him with a concerned look on his face.
+C: DAD {CONT ID}
+D: There's a pair of work gloves out in the shed.
+C: FENTON
+D: They've got blood on them. I didn't others. now on. now that but in a
+C: DAD
+D: mean those. There's some I want you to use them from They won't do you any good you've wrecked your hands, few days you'll be fine. Fenton keeps eating.
+C: DAD
+D: You did good out there today Fenton. He tries to tousle his hair, but Fenton pulls away .
+E: CONT'D
+C: DAD
+D: I'm proud of you and I know God's proud of you. So take the next few days off. Let your hands heal, and then you can get back to it. Alright? Fenton doesn't respond.
+E: CONT'D
+C: DAD
+D: Did you hear me?
+E: CONT'D
+C: FENTON
+D: I heard you.
+E: flatly
+C: DAD
+D: Well, good-night then. Fenton stares silently at his plate. Dad sighs and exits. EXT. BACKYARD -- MORNING It is extremely early. The sun is just barely starting to come out. Fenton comes out of the house, walks out to the hole, and looks down at it. He takes the shovel from where he left it the day before, and winces from the pain in his hands. He slowly starts to dig in the dew covered grass. F\ EXT. BACKYARD -- LATER
+N: The sun is out, but it is still early morning. Fenton still digs. The back screendoor creaks open and shuts in the distance. Fenton keeps digging. Dad walks up to the side of the hole and watches him for a few moments. Fenton notices him, but doesn't look up or stop. Dad walks off. After a few moments, a pair of gloves hit him in the head. He stops and looks in the direction of where the gloves came from, and sees Dad's back walking away. He looks at the gloves, and starts to dig again. FENTON {V. 0.) I kept digging. My hands hurt, but I wouldn't stop. The pain helped me keep going. It fed my hatred. I would never give in to Dad or his God.
+S: EXT. BACKYARD -- EVENING
+N: The sun is going down. Fenton keeps digging. The hole and the pile of dirt beside it are both considerably larger . FENTON (V. 0. ) I kept digging and Dad kept killing. /~-,,. Dad comes around the side of the house, carrying a person over his shoulder, with Adam following behind him. Fenton stops digging and watches them. Dad looks over at Fenton, their eyes lock for a moment, and then he disappears into the shed. Adam goes in and shuts the door behind them.
+C: FENTON
+D: But he left me alone. Fenton goes back to digging.
+E: V.O. CONT'D
+C: FENTON (CONT'D}
+D: I kept at it morning, noon, and night for five days. EXT . BACKYARD -- MORNING Fenton stands on the edge of the giant hole, looking down into it. FENTON And by the sixth day, it was as dark and deep as my hatred for Dad's God. Dad walks up from behind Fenton, and peers down at the hole.
+E: V.O. V. 0.
+C: DAD
+D: Well you finished it alright. Fenton just stares down at the hole.
+C: DAD
+D: But I bet you didn't pray once the whole time. Did you? Fenton looks up at Dad, defiant and proud.
+E: CONT'D
+C: FENTON
+D: Nope. Dad looks at him wearily and then back down at the hole. EXT. HOUSE -- DAY The van is parked way up in the driveway near the backyard. The side door of the van is open and there are stacks of wood inside of it. Adam and Fenton take wood from the van to the backyard where Dad is in the hole, using a hoe to smooth out the ground. They stack the wood next to the hole .
+C: FENTON
+D: We started the cellar after that. At least that's what Dad called it, but I knew better. We were building a dungeon down there. Fenton stacks the wood and stares down at Dad in the hole. EXT. BACKYARD -- DAY There is the beginnings of a wooden cellar in the hole. Dad, Adam, and Fenton hammer away. FENTON It wasn't much of a cellar though or even a dungeon. Dad was definitely no architect. EXT. BACKYARD -- DAY The cellar has a roof now.
+E: V. O. V. 0.
+C: FENTON
+D: We basically built a big wooden box in the ground. INT. CELLAR -- DAY There is a lantern, but it is still somewhat dark. Fenton and Adam help Dad build a stairway that leads up to the top of the hole to an opened hatch where sunlight floods in.
+E: V. O.
+C: FENTON
+D: But Dad said it would hold. God would see to it. EXT. BACKYARD -- DAY Fenton and Adam and Dad stand on the ground, shoveling dirt onto the cellar, covering it up. INT. CELLAR -- CONTINUOUS The makeshift support beams creak, but hold. EXT. BACKYARD -- LATER The cellar is completely covered up with packed dirt, except for the hatch. Fenton and Adam come in and out of the shed, taking things out of it, and putting them in the yard. Dad packs the dirt some more with the back of a shovel . \ I ____ .,,.
+E: V. O.
+S: EXT. BACKYARD -- LATER
+N: They move the shed, with Dad on one side and Fenton and Adam on the other, and position it over the cellar hatch.
+S: INT. SHED -- MOMENTS LATER
+N: Adam and Fenton and Dad put stuff back in the shed. Dad looks around, satisfied.
+C: DAD
+D: You did good boys. Especially you Fenton. Fenton ignores him and keeps arranging things. Dad frowns. INT. HOUSE -- NIGHT Fenton and Adam sit in the living room watching Happy Days on television. Dad's van is heard pulling up in the driveway. Adam jumps up and runs to the front door to greet him, but Fenton doesn't move. FENTON The next night he brought home another demon. Fenton hears Dad come in and Adam greet him.
+E: V. 0 .
+C: DAD
+D: Hey tiger. Where's your brother?
+E: O.S.
+C: ADAM
+D: Watching tv.
+E: O.S.
+C: DAD
+D: Fenton! Fenton stays where he is and doesn't say a word. He hears Dad's footsteps coming down the front hall.
+E: O.S.
+C: DAD
+D: Fenton!? Fenton looks at the entryway to the living room, and sees Dad standing there, holding a TEENAGE GUY over his shoulder, his hands and feet tied together with duct tape. DAD Fenton, you answer me when I call you. Come out to the cellar. Fenton stares at him stubbornly, and doesn't move .
+E: CONTI D CONT I D
+N: Now. DAD ( CONT ' D) (sternly) Fenton gets up angrily, and Dad turns to walk away. When he does, Fenton sees the teenager's terrified face. There are tears in his eyes and duct tape over his mouth.
+S: INT. CELLAR -- MOMENTS LATER
+N: Dad puts the teenager down on the floor. Adam holds the lantern, looking at him curiously. The teenager looks back at Adam and seems to calm down a little. Fenton hangs back on the steps. Dad notices him.
+C: DAD
+D: Get down here. Fenton does as he's told, though slowly. Dad peels off his gloves and picks up the axe from the corner of the room. He walks toward Fenton, and extends the axe to him. Fenton looks at it, but doesn't take it.
+C: DAD
+D: (sternly} It has to be done. It's God's will. He extends the axe to Fenton again.
+E: CONT'D
+C: DAD
+D: Now do it like I showed you. The neck first. The teenager squirms and moans on the floor. Fenton looks from him to Dad to the axe, and then runs back up the steps.
+E: CONT'D
+C: DAD
+D: Fenton! Get back here! Fenton! Dad hears the shed door slam.
+E: CONT'D
+C: ADAM
+D: I'll do it Dad. He looks at Adam and then at the teenager. EXT. HOUSE -- MOMENTS LATER Fenton runs away from the house quickly, and breaks into a sprint once he hits the gravel road .
+N: : j
+C: FENTON
+D: I had tried to save Adam and Dad, but they wouldn't let me. So the only thing left to do was to save myself. The stars shine down on him.
+E: V. O.
+C: FENTON
+D: I half expected angels or even God himself to come out of the night and stop me. But I had to do it. I had to put an end to the whole thing. EXT. POLICE STATION -- MOMENTS LATER Fenton runs up to the station and enters. INT. POLICE STATION -- CONTINUOUS Fenton runs in, panting. The place is empty.
+E: V.O. CONT'D
+C: FENTON
+D: Hello? No one answers. Fenton walks through the place, looking increasingly worried.
+E: looks around
+C: FENTON (CONT' D}
+D: Hello! Hello!? There is no one there.
+C: FENTON (CONT'D}
+D: Hello!!! A door opens down the hall, and DEPUTY SMALLS sticks his head out.
+E: screams in panic
+C: DEPUTY SMALLS
+D: I'm in the bathroom for christ's sake! I'll be there in a minute! INT. POLICE STATION -- LATER Deputy Smalls sits at his desk looking at Fenton who sits across from him.
+C: DEPUTY SMALLS
+D: That's the craziest shit I've ever heard . I ',
+N: He reaches for the phone.
+C: FENTON
+D: What are you doing?
+C: DEPUTY SMALLS
+D: Calling your dad.
+C: FENTON
+D: You can't!
+C: DEPUTY SMALLS
+D: Oh yes I can. You should be ashamed of yourself, making up stories like that about your own father.
+C: FENTON
+D: But it's true! I can show you. Deputy Smalls looks at him for a long moment and then hangs up the phone.
+C: DEPUTY SMALLS
+D: Come on. He gets up and Fenton follows him. EXT. HOUSE -- LATER ~"'. A patrol car pulls up to the house and parks. All the lights to the house are off. Fenton and Deputy Smalls get out.
+C: FENTON
+D: It's around back, under the shed.
+C: DEPUTY SMALLS
+D: That's enough of that boy. We're gonna put an end to this. Come on. He pulls him towards the porch.
+E: grabs Fenton's arm
+C: FENTON
+D: But he's in the back.
+C: DEPUTY SMALLS
+D: Let's see what your Dad has to say. about all this. They reach the porch and Deputy Smalls knocks on the door. They wait for a long moment, and then the door opens to reveal Dad in his underwear, looking confused .
+C: DEPUTY SMALLS
+D: Mr. Meeks, I'm sorry to bother you so late and all, but ... ; He indicates Fenton. Dad sees him and frowns.
+E: CONT'D
+S: INT. KITCHEN -- MOMENTS LATER
+N: Deputy Smalls sits at the table with Fenton next to him. Dad, now in a pair of blue-jeans, pours Deputy Smalls a glass of ice-tea and hands it to him.
+C: DAD
+D: Well, that is quite a tale alright. Makes me cringe to think he told lies like that to everyone down at the police station.
+C: FENTON
+D: They're not lies and you know it! Sm.alls looks uncomfortable at Fenton's outburst.
+C: DEPUTY SMALLS
+D: Well, you can put your mind at ease about that. I was the only one there and of course ... I don't believe a word of it, but what got me is why in the world he'd make something like that up. That's why I brought him over here myself.
+E: looks hard at Fenton
+C: DAD
+D: I don't know why he made it up. Probably to get back at me for punishing him earlier. Did you tell him about that?
+E: sighs to Fenton
+C: FENTON
+D: He's lying. Just check the shed. Smalls looks to Dad.
+E: to Smalls
+C: DAD
+D: I don't know what to do with him.
+C: DEPUTY SMALLS
+D: I know.
+E: MORE
+C: DEPUTY SMALLS
+D: They hit puberty and lose all respect for you. You ask me, you should take a switch to him. Smalls gets up from the table.
+E: CONT'D
+C: DAD
+D: I've always tried to avoid it, but ... Fenton jumps up and grabs Small's arm.
+C: FENTON
+D: Check the shed! Or the Rose Garden! I can show you where they're buried! Smalls looks to Dad. Dad shrugs.
+C: DAD
+D: Maybe you should check the shed.
+C: DEPUTY SMALLS
+D: I know there's nothing out there. And so do you.
+E: to Fenton
+C: DAD
+D: Well, it won't-hurt none. Maybe even calm him down a bit.
+C: DEPUTY SMALLS
+D: If you think we should ...
+C: DAD
+D: If it has to be done, it has to be done. What do you think kiddo? Does it have to be done? EXT. BACKYARD -- MOMENTS LATER Fenton leads Smalls to the shed with Dad following behind. INT. SHED -- CONTINUOUS Fenton throws open the door and rushes to the hatch which is unlocked, and pulls it open.
+E: looks hard at Fenton
+C: FENTON
+D: See!? Smalls looks at the hatch and then to Dad, who shrugs .
+C: DAD
+D: Figured we ought to have a storm cellar. Dad takes a lantern off of his workbench and lights it.
+C: DAD
+D: Go on down and check it out. He hands the lantern to Smalls.
+E: CONT ID
+C: DAD
+D: Just watch your step. I'm not much of a carpenter. Smalls takes the lantern and follows Fenton down into the dark cellar. INT. CELLAR -- CONTINUOUS Fenton and Smalls make it to the bottom of the steps. The lantern slowly fills the cellar with dim light.. It is empty.
+E: CONT'D
+C: DEPUTY SMALLS
+D: Just like I thought. Fenton looks around frantically.
+C: FENTON
+D: But he was here!
+C: DEPUTY SMALLS
+D: If I was your Dad I'd bust your butt good for this one.
+C: FENTON
+D: They must have moved him. He was here. Adam! Adam's got him somewhere!
+C: DEPUTY SMALLS
+D: I've had about enough of this for one night. Smalls hands Fenton the lantern and starts climbing the stairs.
+C: FENTON
+D: Wait'. I can show you where the bodies are buried! Smalls stops, looks back at him, frowns and shakes his head, and then turns back and continues up the stairs . FENTON Wait! Please! You've got to believe me!
+E: CONT I D
+N: ' 1 Smalls reaches the top of the stairs and then suddenly falls back and rolls down the steps. He lands at the bottom with a thud. Fenton runs to him and sees the blood flowing from the huge gash in his chest. He is still alive. He looks down at his wound, confused, and then up at Fenton. He tries to say something, but can't form the words. There are FOOTSTEPS on the stairs. Fenton looks up and sees Dad coming down the steps with the axe in his hand. Fenton moves back in fear. Dad reaches the bottom of the stairs and looks at the dazed Deputy who is looking right back at him. He lifts the axe, but there are tears in his eyes.
+C: DAD
+D: May God welcome you and keep you. He brings the axe down. Smalls' legs twitch a little and then stop. Dad throws the bloody axe to the floor, and then turns and vomits. Fenton watches him. EXT. ROSE GARDEN -- LATER Fenton digs a hole as Dad sits on the ground, wiping tears from his eyes. Smalls' body lays on the ground a few feet away from Dad. Adam also digs a hole a little further away from them. Beside Adam there are three black trashbags. He finishes his first hole, dumps the contents of one of the trashbags into it, and then starts to dig another hole. Fenton finishes his hole, sticks his shovel in the ground, and looks at Dad who is still crying, though silently. Dad notices Fenton, and looks away.
+C: DAD
+D: I never killed a man until tonight.
+C: FENTON
+D: I've seen you kill plenty. Dad looks up hard at Fenton, and there is hate for the first time in his eyes.
+C: DAD
+D: Those were demons you heathen! Demons! Adam stops digging and looks over at them . CONTINUED: $4
+C: DAD
+D: {points to the corpse) That was a man! Not a demon! Why -"',.._____ can't you see that?! What's wrong That was a man! Not a demon! Why -"',.._____ can't you see that?! What's wrong ( \ with you? ! Why can' t you see it? ! I,
+E: CONT'D \ with you? ! Why can' t you see it? ! I,
+C: FENTON
+D: You didn't have to kill him.
+C: DAD
+D: I had to protect our mission. I told you what would happen if you told! But you told anyway!
+C: FENTON
+D: There is no mission! You're crazy! Dad jumps up and goes for Fenton. Fenton tries to back up, but is too slow. Dad grabs him by the arms. Dad don't!
+E: cries
+C: ADAM DAD
+D: That man is dead because of you! Dead because you have no faith! Don't you understand what you've done!?
+C: FENTON
+D: I didn't do anything! He pulls him into his face.
+C: DAD
+D: You've made me a murderer Fenton! A murderer! He throws Fenton to the ground. He grabs the shovel and raises it above his head. Adam screams. Fenton covers his head, readying himself for the blow. Dad holds the shovel, his face dark with rage. He lets out a cry, throws the shovel to the ground, and collapses on the ground sobbing.
+C: DAD
+D: Oh God help me. Help me God. Please help me. Adam goes to him and puts an arm around him. Fenton watches him cry without any emotion .
+E: CONTI D
+C: ADAM
+D: It's alright Dap. Don't cry. Fenton gets up and pushes Smalls' body into the hole. Adam looks at Fenton and frowns. Fenton starts to cover him up with dirt. EXT. HOUSE -- LATER Fenton walks across the road from the garden, carrying his shovel. Dad and Adam follow behind him. The patrol car is still parked in front of the house. Fenton reaches the house before them, and starts to climb the porch steps. Dad looks at the patrol car and sighs.
+C: DAD
+D: Wait a minute Fenton. Dad and Adam walk up to him on the porch.
+E: calls to Fenton
+C: DAD
+D: (to Adam} Go on inside son. I'll be there in a minute to tuck you in. Adam looks at Dad then at Fenton.
+E: CONT'D
+C: DAD
+D: Go on. It's alright. You did good. Adam smiles weakly at Dad.
+E: CONT'D
+C: ADAM
+D: It was easy. I destroyed a demon.
+E: to Fenton
+C: DAD
+D: You sure did tiger. Adam passes Fenton on the steps and goes inside the house. Dad watches him go and then turns to Fenton.
+E:  rubs his head
+C: DAD
+D: Come on around back to the shed. He walks off, and after a -moment Fenton follows him . INT. SHED -- MOMENTS LATER The door is open. Dad stands at his workbench, cleaning off the axe blade with a rag. Fenton walks into the doorway, but lingers there when he sees Dad with the axe.
+E: CONT'D
+C: DAD
+D: Come inside and shut the door. Fenton hesitates for a moment, and then does as he is told. Dad looks up at him, sees the fear.
+E: not looking up
+C: DAD
+D: Are you afraid? Fenton nods.
+E: CONT'D
+C: DAD
+D: Of what? You.
+E: CONT'D
+C: FENTON
+E: beat
+C: DAD
+D: Only demons should f~ar me. p, He takes a step toward Fenton, holding the axe casually.
+C: DAD
+D: And you're not a demon. Are you? Fenton backs up a step, eyeing the axe.
+E: CONT ID beat
+C: DAD
+D: The angel said you were. Fenton looks at him with new terror.
+E: CONT'D
+C: DAD
+D: That night before I had you dig the hole. Said you were a demon down deep. That me and Adam couldn't see it, but that we would in time. Said it was why you wouldn't help us. They stare at each other zor a long moment. Dad tosses the axe to the side of the shed . CONTINUED: C{,z,
+E: CONT'D
+C: DAD
+D: But I don't believe that. I ... I just can't. You're my son, and I ,,,---, love you more than my own life.
+E: CONT'D
+C: A
+D: ' . .--J/ Fenton visibly relaxes.
+C: DAD
+D: You know what's funny about this situation Fenton? I'm afraid of you. He walks to the cellar hatch, bends down on his knees, and opens it. He looks down into the darkness of the cellar with a frown.
+E: CONT ID
+C: DAD {CONT'D)
+D: I don't understand you, and that scares me. I can't trust you, and that scares me even more. You're the only part of this whole thing that doesn't make sense to me. He straightens himself and looks over at Fenton.
+C: DAD
+D: Go on. Get down there. Dad nods to the steps. Fenton looks down into the dark cellar, and then at Dad.
+E: CONT'D
+C: DAD
+D: Go on.
+E: CONT'D
+C: FENTON
+D: But ...
+C: DAD
+D: I don't want to do this Fenton, but I have to after tonight. I had to kill a man because of you. I won't let that happen again.
+C: FENTON
+D: I promise I won't tell again.
+C: DAD
+D: I can't trust you. I wish I could, but I can't. Now go on.
+C: FENTON
+D: Please Dad, I'm sorry.
+C: DAD
+D: I'm sorry too, Son. Now go on before I put you down there myself.
+E: sternly
+C: FENTON
+D: But ... but it's dark down there.
+C: DAD
+D: I don't have time to argue. I've still got to clean up the mess you caused tonight. Now go on.
+C: FENTON
+D: Let me take the lantern.
+C: DAD
+D: Go. Fenton makes a run for it, but Dad grabs him by the arm, picks him up, and carries him down the opened hatch as he kicks and screams. INT. CELLAR -- CONTINUOUS Dad puts him down at the bottom of the steps. He tries to run up the steps, but Dad pushes him back.
+E: shakes his head no
+C: DAD
+D: You'll stay down here until you see the truth~ Dad walks quickly up the stairs. Fenton scrambles toward the hatch, but Dad closes it on him, leaving him in total darkness. He beats his fists on the hatch door, crying.
+C: FENTON
+D: I'm sorry! Please Dad! Please! He hears Dad put the pad lock on the hatch.
+C: DAD
+D: Pray for a vision son. Only God can show you the truth. Pray to Him Fenton. Only He can help you now .. He hears Dad walk off, and the shed door shut behind him. Fenton collapses on the steps in tears. He wraps his arms around himself, and screams . INT. SHED -- DAY Adam opens the shed door and comes in carrying a big cup. "'---...... He goes to the hatch door,. puts the cup on it, and gets on ! ; his hands and knees beside it.
+E: O.S.
+C: ADAM
+D: {to the hatch) Fenton? INT. CELLAR -- CONTINUOUS It is completely dark except for a few tiny shafts of light around the hatch door. Fenton lays underneath the hatch door, curled up on the steps.
+C: ADAM
+D: Fenton? He stirs and looks up.
+E: O.S.
+C: ADAM
+D: Fenton? You alright? Fenton moves closer to the hatch and tries to see through the cracks, but can't.
+E: O.S. CONT'D
+C: FENTON
+D: Adam. Get me out of here.
+E: rasps
+C: ADAM
+D: I can't. INTERCUT BETWEEN FENTON AND ADAM
+E: O.S.
+C: FENTON
+D: Please, Adam. I'm scared.
+C: ADAM
+D: Dad says you have to stay down there until God shows you the truth.
+C: FENTON
+D: But I'm hungry and I've got to go to the bathroom.
+C: ADAM
+D: Dad won't let me feed you. He.says it'll help you find God. He called it fasting. I brought you some water though. He said you can have a cup a day, but I'll bring more if I can . '. I .,.,.~,..,J-
+N: CONTINUED: _q5
+C: FENTON
+D: He's going to kill me Adam. You've got to let me out of here.
+C: ADAM
+D: I can't. Adam picks up the cup.
+C: ADAM
+D: Put your mouth by the crack. Here. He pours a little water on the crack. The water trickles down it and into the cellar. Fenton puts his mouth by it.
+E: CONT'D
+C: ADAM
+D: You ready? Here. He pours more of the water into the crack. Fenton drinks from the trickle, and let's it wet his face . . ADAM You want some more or you want me to save it for later?
+E: CONTI D CONT'D
+C: FENTON
+D: More. He gradually pours the rest of the cup down the crack and Fenton drinks it.
+C: FENTON
+D: You've got to let me out of here Adam. Adam doesn't respond. FENTON Adam?
+E: CONT'D CONT ' D
+C: ADAM
+D: I've been praying for you Fenton. We both have. Dad says that you'll probably be out of there by the end of the week. You just have to accept God's will.
+C: FENTON
+D: I can't stay in here that long! Let me out! (~3.,, He beats on the hatch door and Adam backs up from it, tears forming in his eyes.
+E: panicked
+C: ADAM
+D: I can't. I'm sorry. He walks away from the hatch door. Fenton hears him walking out and beats harder.
+C: FENTON
+D: Adam! Please don't go! Please! He hears the shed door shut, and breaks down into tears. CUT TO PRESENT: INT. DOYLE'S CAR -- NIGHT The rain beats down on the car. Doyle drives as Fenton sits in the backseat.
+C: FENTON
+D: The days came and went. I counted them by the cracks of light in the hatch door, and Adam's visits with water. My fear never lessened. I even pissed and shit myself because I was too afraid to leave my little spot by the stairs.
+C: DOYLE
+D: That's awful.
+C: FENTON
+D: The hunger and the stink helped me forget the fear for awhile, but it always came crashing back. You would have thought that I would have eventually gotten over my fear of the dark, but I didn't. I was terrified the entire time. I only slept when I passed out from exhaustion and fatigue.
+C: DOYLE
+D: What about your Dad? Did he ever come back to at least check on you?
+C: FENTON
+D: On the seventh day. CUT TO FLASHBACK: INT. CELLAR -- NIGHT The hatch door opens and light shines down into the darkness, /--,,. revealing Fenton laying in his spot. He lifts his head weakly ' l and squints at the figure standing above the hatch, looking down at him. Dad's face is filled with misery as he looks at his son. I~'
+C: DAD
+D: Has God spoken to you yet? Fenton tries to stand, but falls back down. He lifts his head up and looks Dad right in the eyes.
+C: FENTON
+D: There is no God. Dad stands there for a long moment, looking sadly at Fenton. He shuts the hatch and the light disappears into total darkness. The sound stops. There is no light or sound at all. There is nothing but pitch black darkness.
+E: rasps
+C: FENTON
+D: I lost count of the days after that. It felt like weeks. I finally went beyond fear into total insanity, I saw God. He had finally sent me a vision alright. It was like that line in Acts, "Immediately something like scales fell from Saul's eyes and he could see again." And it was then that I understood my destiny just like Dad had said I would. There is a SPLASH sound, and light from the opened hatch falls on Fenton. He is drenched and laughing hysterically. Dad is shaking him, and calling his name.
+E: V.O. CONT'D
+C: DAD
+D: Fenton! Fenton! Adam stands at the top of the stairs crying. Suddenly Fenton stops laughing. Dad and Adam both freeze. There is a perfect moment of silence. Fenton looks up at Dad and smiles weakly.
+E: worried
+C: FENTON
+D: I saw God Dad. Dad looks at him for a long moment, and a big smile spreads slowly over his face . He pulls Fenton to him, tears of joy in his eyes, and caresses his head.
+E: croaks
+C: DAD
+D: Oh thank you God. Thank you. Adam jumps up and down with excitement, clapping his hands. INT. KITCHEN -- LATER Fenton, now cleaned up and in fresh clothes, sits at the kitchen table eating a plate of food. Dad and Adam watch him as he devours the food.
+C: DAD
+D: Slow down there. You don't want to make yourself sick. Fenton tries to slow down a little, but can't help himself.
+E: smiles
+C: ADAM
+D: So did God tell you about the demons? Fenton nods with his mouthful. Dad smiles proudly.
+E: excited
+C: FENTON
+D: I'm sorry I doubted you Dad. Dad reaches out and tousles his hair.
+C: DAD
+D: I'm sorry too son. They smile at each other.
+C: ADAM
+D: What'd God look like?
+C: FENTON
+D: It's hard to describe.
+C: ADAM
+D: Was he big?
+C: DAD
+D: Adam, leave him alone. He can't tell you something like that. You have to see it for yourself.
+C: ADAM
+D: But I want to know.
+C: DAD
+D: Then maybe you should pray for it.
+C: ADAM
+D: It's not fair. All I've seen are angels and he gets to see God.
+E: pouting
+C: DAD
+D: Look at the price he paid for it though. Dad looks at Fenton devouring his food. He almost frowns, but forces a smile instead.
+C: DAD
+D: But that's all behind us now. This is a new day. Isn't it Fenton? Fenton smiles and nods with his mouthful.
+E: CONT'D
+C: ADAM
+D: So we gonna go get us a demon now?
+C: DAD
+D: After awhile. When Fenton's ready. INT. VAN EVENING Dad drives. A ballgame plays softly on the radio. Fenton sits in the passenger seat, looking at a map. Adam sits in the back.
+C: FENTON
+D: A week later I was ready. I remember it was a Friday night near the very end of summer. My first demon was to be Brad White from Dallas. Fenton puts down the map and looks through the windshield at the lights and buildings of downtown Dallas in the distance. EXT. STREET -- LATER The van drives slowly down the street. INT. VAN -- CONTINUOUS Dad drives. looking at the numbers on the houses. Fenton points at one.
+E: V. O.
+C: FENTON
+D: There it is . qq It is a small house with a beat-up car sitting in the driveway. Dad pulls the van down the street, turns around, and parks by the curb. They all three stare at the house. /-------._ Dad turns on his flashers and looks over at Fenton. P,. ' '
+C: DAD
+D: You sure you're ready for this?
+C: FENTON
+D: Yes sir. Dad smiles at him, and puts on his gloves. He pulls out a second pair of gloves and hands them to Fenton.
+E: solemnly
+C: DAD
+D: I've been saving them for you. You might need them now that God has spoken to you. Fenton takes them and puts them on.
+C: DAD
+D: Alright, let's go. He reaches between the seats and pulls out the lead pipe.
+E: CONTI D
+C: ADAM
+D: I want to go, too.
+C: DAD
+D: Not this time Adam. Adam looks disappointed.
+C: DAD
+D: Don't worry your time will come. Dad and Fenton open their doors and get out. EXT. HOUSE -- MOMENTS LATER Fenton and Dad walk up to the porch. The porch-light is off, but there is a light on inside, and a television can be heard. They reach the front door. Dad knocks. They hear someone moving around inside and coming to the door. Fenton looks up at Dad who smiles reassuringly. A man in his mid­ thirties, BRAD WHITE, opens the door, and looks at them.
+E: CONT'D
+C: BRAD
+D: Yeah?
+C: DAD
+D: I'm sorry to bother you, but we've got a flat tire. He points to the van with its flashers going. out andsees it.
+C: DAD
+D: I was wondering if you had a tire iron. I went off and left mine at home. Brad looks at Dad and then at Fenton.
+E: CONT'D
+C: BRAD
+D: What's with the gloves?
+C: DAD
+D: To change the tire.
+C: BRAD
+D: Don't want to get your hands dirty? WOMAN Brad! Who is it? Brad turns and shouts back into the house.
+E: smirks 0 . S .
+C: BRAD
+D: Mind your business bitch! Brad turns back to them and gives Dad a look.
+C: BRAD
+D: Goddamn women. Dad forces a smile.
+E: CONT'D
+C: BRAD
+D: Yeah, I think I got one for you. He walks out and shuts the door behind him.
+E: CONT'D
+C: BRAD
+D: Come on. It's around back. Brad looks Fenton and Dad follow him off the porch and around the house. EXT. GARAGE -- CONTINUOUS Brad walks up to the garage and opens the door. There is stuff all over the place inside of it .
+E: CONT'D
+C: BRAD
+D: Now let's see. He flicks on a light and starts to rummage through the place. Dad watches him and slowly pulls the pipe from his back. Fenton looks over and sees a hammer laying on the floor. Dad gets behind Brad and raises the pipe.
+C: BRAD
+D: Here it is. Just as Dad is about to bring it down on his head, Fenton accidentally knocks over something, and Brad looks up and sees Dad with the pipe. He dodges, and Dad misses him.
+E: CONT'D
+C: BRAD
+D: Motherfucker! Brad brings the tire iron up and hits Dad in the stomach. Dad doubles over. He raises the tire iron to hit Dad again, but cries out in pain and grabs the back of his neck. He turns and sees Fenton holding the hammer.
+E: CONT'D
+C: BRAD
+D: You little son of a bitch! He raises the tire iron, but suddenly falls forward revealing Dad with the pipe. Dad holds his stomach in pain and looks ~ at Brad unconscious on the floor. I '
+E: CONTI D
+C: DAD
+D: Grab his legs. INT. VAN -- LATER Dad drives down the highway. Fenton sits in the passenger seat staring out the window. Adam is in the back taping Brad's hands and legs. He finishes and slaps an extra piece of tape over his mouth.
+C: ADAM
+D: All done. Dad turns to look and winces. Fenton notices.
+C: DAD
+D: Is it good and tight?
+C: ADAM
+D: Yep .
+C: FENTON
+D: You alright?
+E: to Dad
+C: DAD
+D: Maybe some bruised ribs, but I'll live. If it wasn't for you, it could've been worse. We might not have got him.
+C: FENTON
+D: I thought God was supposed to protect us.
+C: DAD
+D: He did. God was working through you tonight kiddo. Fenton looks back at Brad out cold on the floorboard.
+E: smiles proudly
+C: DAD
+D: I have to admit I was a little worried earlier, but now I know everything is going to be alright. I'm proud of you Fenton. EXT. HOUSE -- LATER The van pulls up in the driveway. Fenton gets out the side door. Adam is asleep, but Brad is awake. right at Fenton. Dad comes around the side of the sees that Brad is awake. He puts on his gloves.
+E: CONT'D
+C: DAD
+D: Let's get him in the cellar. Adam, wake up. He reaches in and shakes him.
+E: to Adam
+C: DAD
+D: Come on Adam. Wake up. and opens He looks van and Adam mumbles and turns over. Dad looks at him sleeping and smiles.
+E: CONT'D
+C: DAD
+D: Might as well let him sleep. We'll get him later. Dad reaches for Brad .
+E: CONTI D
+S: INT. CELLAR -- MOMENTS LATER
+N: Dad drops Brad on the floor. Fenton hangs back on the steps, holding the lantern and the axe. Dad steps back from Brad, exhausted and holding his stomach. He looks over at Fenton.
+C: DAD
+D: You know son, I've been waiting for this moment ever since all this started. Fenton sets the lantern down and steps forward with the axe, looking at Brad.
+C: FENTON
+D: I'm ready to fulfill my destiny. Dad looks at Fenton, smiles, and walks over to Brad on the floor, peeling off his gloves. Brad watches Dad and says something muffled by the tape.
+C: DAD
+D: You ready? Fenton nods and moves forward next to Dad. Dad kneels down next to Brad and grabs him by the arm. Dad's eyes go wide and so do Brad's. Adam walks down the stairs, sees Dad with his hands on the demon, and his eyes widen. Fenton lifts the axe, a look of determination on his face. Dad lets go of Brad with disgust.
+E: looks to Fenton
+C: DAD
+D: Destroy him! Fenton swings the axe. Brad's eyes widen with shock. Dad falls back onto the floor with the axe buried in his chest. Adam screams and runs down the steps. Dad looks at Fenton with pain.
+E: CONT ID outraged
+C: DAD
+D: How ... could you ... do this? Fenton stares at him coldly. Tears fall from Dad's eyes. Adam rushes to Dad's side, crying. Dad puts an arm around Adam, pulls him close, says something to him, -and dies. Fenton watches him die, and then turns to Brad and pulls the tape off of his mouth. Brad looks past him and screams. Fenton turns to see Adam with the axe raised above his head. Fenton falls back and closes his eyes and the picture fades to black as Brad screams . i,, ~~~;
+E: CONT'D
+N: Fenton opens his eyes and sees Adam on the floor, cradling Dad's limp head, crying. Adam sees Fenton looking at him.
+C: ADAM
+D: You killed him! You killed Dadt He's dead! He's deeeeeaaaad! He cries uncontrollably as Fenton watches him without emotion. CUT TO PRESENT: INT. DOYLE'S CAR -- NIGHT Doyle drives. Fenton sits in the backseat. They drive along in silence. There are tears in Fenton's eyes. He looks out the window at the rain, and wipes at his tears. Doyle glances at Fenton in the rearview.
+E: crying
+C: DOYLE
+D: You had to do it, you know. He was a mad dog. He had to be put down. Fenton stares out the window, and doesn't say anything. DOYLE So what happened then?
+E: CONT I D
+C: FENTON
+D: I buried him in the Rose Garden. He doesn't say anymore.
+C: DOYLE
+D: You didn't tell anybody?
+C: FENTON
+D: We went to the sheriff about a week later, right before school started and told him that Dad hadn't come home one day. Doyle waits for him to continue, but he doesn't.
+C: DOYLE
+D: That's it?
+C: FENTON
+D: . The sheriff filled out a missing persons report, but never found anything. We were sent to separate orphanages after awhile . lttj
+E: sighs
+C: DOYLE
+D: He didn't suspect anything? I mean his deputy disappears a month or so before and he didn't suspect anything?
+C: FENTON
+D: Maybe he did. I don't know. He never questioned us about any of it. He looks back out the window.
+C: DOYLE
+D: So no one ever knew about any of it?
+C: FENTON
+D: Nope. Not until now.
+C: DOYLE
+D: But what about Adam ...
+C: FENTON
+D: Do you mind if we just sit here for awhile? I don't feel like talking anymore. Doyle looks frustrated, but doesn't say anything. EXT. ROAD -- MORNING The rain has stopped and the sun is beginning to come out, though it is still very early. Doyle's car drives down the empty road in front of the Rose Garden. INT. CAR -- CONTINUOUS Doyle drives as Fenton looks out the window at the garden.
+C: FENTON
+D: Pull over here. Doyle pulls the car over. Fenton yawns.
+C: DOYLE
+D: Where's the house?
+E: yawns
+C: FENTON
+D: They tore it down almost ten years ago. Let me out. Doyle gets out and opens the backdoor for him. He reaches in to give him a hand, but Fenton refuses . '. l
+N: FENTON ( CONT ' D) I've got it. He pulls himself out of the car with the handcuffs on.
+S: EXT. ROSE GARDEN -- MOMENTS LATER
+N: They enter through a narrow gap in the chain link fence near the back of the garden. Fenton walks off through the wet weeds to a small, barely noticeable path. Doyle follows.
+C: FENTON
+D: It's a little further back this way.
+E: as they walk
+C: DOYLE
+D: But this isn't even in the garden. He points to the garden in the distance where rosebushes are lined up in neat symmetrical rows in front of the Rose Muse\m\.
+C: FENTON
+D: I said it was near the back. They continue to walk, the garden proper disappearing behind them as they enter a thicket of trees.
+C: DOYLE
+D: You know, you never told me what the promise was. The one you made to your brother. Fenton looks over at him, but keeps walking.
+C: FENTON
+D: It was later that night ... DISSOLVE TO FLASHBACK: EXT. ROSE GARDEN -- NIGHT Fenton digs a hole. Adam sits on the ground next to .Dad's corpse, holding him and crying. Fenton finishes digging the hole, and walks over to the corpse. Adam looks up at him angrily with tears in his eyes. Fenton pulls Dad away from Adam and drags him into the hole. He picks up the shovel and starts to fill the hole. Adam stands over. the hole watching Dad being slowly covered with dirt. EXT. ROSE GARDEN -- MOMENTS LATER Fenton packs the dirt on the ground and then looks at Adam, who is glaring at him with hatred .
+C: FENTON
+D: If you ever destroy me Adam, promise me you 1 ll bury me here. Adam glares at him.
+C: ADAM
+D: I promise to God I'll bury you here. CUT TO PRESENT: EXT. ROSE GARDEN -- MORNING Doyle and Fenton are still walking, though the woods have become thicker.
+C: DOYLE
+D: I don't understand. He promised you that he would bury you here?
+C: FENTON
+D: That's right.
+C: DOYLE
+D: If he ever killed you?
+E: confused
+C: FENTON
+D: Not killed. Destroyed.
+C: DOYLE
+D: Wait a minute. Doyle stops walking.
+C: DOYLE
+D: That doesn't make sense. Fenton stops and turns to him.
+E: CONT' D
+C: FENTON
+D: It does if the man in front of you is Adam. Meeks and not Fenton Meeks.
+C: DOYLE
+D: What?
+E: confused
+C: ADAM
+D: You heard me. It might take you a few seconds, but you'll get it .
+N: Doyle stares at him for a moment and then goes for his gun. Adam stands calmly where he is, watching him. Doyle raises thegun and levels it on him.
+C: DOYLE
+D: So you're the killer?
+E:  still confused
+C: ADAM
+D: No. I told you before. I've never killed anyone in my life. Fenton was the killer.
+C: DOYLE
+D: Stop playing games and tell me the truth! ADAM . The game is over. You'll understand soon. Just let me show you where I buried Fenton. We're almost there. He points to a clearing up ahead. Doyle looks unsure, but nods after a moment.
+C: DOYLE
+D: You take it slow or I swear to God I'll shoot you. Adam smiles at him and starts to slowly walk in the direction of the clearing. Doyle follows, keeping the gun aimed at him. They reach the large clearing where a few giant rosebushes stand.
+C: ADAM
+D: This is it. This is the spot. There are literally dozens and dozens of spots on the ground where the grass has been uprooted and holes have been dug and filled in. The covered holes are all in little clusters of threes. Adam points to one of the fresher clusters, where a shovel lays next to it.
+C: ADAM
+D: That's where I buried him. Doyle studies the ground.
+E: CONT ID
+C: DOYLE
+D: There 1 s too many holes here. were only six victims . There
+C: ADAM
+D: God's work is never done. Fenton didn't bury his victims here. He kept them as trophies in his bas.ement. This is where I put demons. Doyle looks at him, but Adam stares at Fenton's three graves. ADAM That night I went to Fenton's house was the first time I had seen him since we were kids. I didn't even know he lived so close to me until he showed up on my list. CUT TO FLASHBACK: EXTA FENTON'S HOUSE -- NIGHT It is the same house from the very beginning. All the lights to the house are off except for a dim light in the front window. Johnny Cash's Peace in the Valley plays softly from inside the house. Adam stands in the driveway, holding a lead pipe in his gloved hand, looking at the house. INT. FENTON'S HOUSE -- CONTINUOUS Fenton sits at a small desk in the corner ~ of the living room, typing on an old typewriter. The song i. plays on an old record player on the other side of the room.
+E: CONT ' D PREVIOUSLY ADAM'S HOUSE previously Adam
+N: He hums along with it as he types. On :the desk there are two stacks of paper. Taped to the wall in front of the desk are several newspaper clippings from the God's Hand case and a single piece of paper with seven names on it, six of them crossed out. Fenton pulls the piece of paper out of the typewriter, puts it on top of one of the stacks of paper, takes another sheet from the other stack, puts it in the typewriter, and starts to type again.
+C: ADAM
+D: Fenton Meeks. Fenton whirls around barely in time to see Adam bringing the pipe down on his head. INT. FENTON'S HOUSE -- MOMENTS LATER Fenton lays on the floor with his hands and feet taped. There is a trickle of blood on his forehead. Adam leans on the desk, the axe next to him, watching him. Fenton opens his eyes, dazed, tries to move, but can't. He looks around and sees Adam. He looks at him for a long moment . I I"
+E: O.S.
+C: FENTON
+D: So you finally came for me.
+C: ADAM
+D: God finally came for you.
+C: FENTON
+D: I knew this day would come.
+C: ADAM
+D: I've prayed for the past twenty years that it wouldn't, but I guess I knew it too.
+C: FENTON
+D: Dad would be so proud of you. You always were his favorite. You even look kind of like him, you know it?
+C: ADAM
+D: Why did you leave the notes?
+E: not looking at him
+C: FENTON
+D: To lure you to me and get this whole. thing over with once and for all. I just couldn't take it anymore. I like to be the hunter not the hunted. I knew when those killings made the news, you'd track me down. I have to admit though, I didn't expect you to wait so long. Six people. You let six people die before you came after me.
+C: ADAM
+D: I came only when God put you on my list. To come before then would have been murder.
+C: FENTON
+D: You might call it something else, but you're a murderer just like me. The only difference is you kill for God and I kill because I like it. The look in their eyes as they die, the way the blood feels on my flesh. It makes me feelgood.
+C: ADAM
+D: Did killing Dad make you feel good? 0 ,,
+C: FENTON
+D: It put that joy joy joy joy down in my heart. Adam looks away from him, fighting his emotions.
+E: half sings
+C: FENTON
+D: C'mon Adam, you're supposed to say where remember? Adam pulls off one of his gloves . . FENTON I guess that's not your favorite song anymore. Fenton looks at Adam's bare hand, and smiles sadistically.
+E: CONT'D CONT ' D
+C: FENTON
+D: Remember the look in Dad's eyes that night?
+E: CONT'D
+C: ADAM
+D: Yeah, I remember. Adam takes off his other glove and tosses them both down on the desk. Fenton watches him.
+C: FENTON
+D: I should have killed you when I first got to town, but that was too easy. I had to have you come for me. I guess I forgot that God protects you. But he didn't protect all those people I killed in the past twenty years. And he sure didn't protect Dad, did he? Adam walks around Fenton, takes a roll of tape out of his pocket, and tears off a big piece.
+E: laughs bitterly
+C: ADAM
+D: God asked Dad to destroy his own son much like he asked Isaac to sacrifice his own son to test his faith. But Dad couldn't do it. He loved his son, demon or not. He reaches down and slaps the tape on Fenton's mouth . 11 '2..
+C: ADAM
+D: He simply could not do what God had asked of him.
+E: CONT'D
+N: / He walks to the desk and picks up the axe.
+C: ADAM
+D: And God didn't take pity on Dad like he did with Isaac. He walks back over to Fenton and looks him right in the eye.
+E: CONT'D
+C: ADAM
+D: But that was back at a time when God had pity. Adam reaches a hand out toward him. EXT. ROSE GARDEN -- MORNING Doyle stares at him for a long moment.
+E: CONT'D
+C: DOYLE
+D: Jesus Christ, you really do believe all that stuff.
+E: softly
+C: ADAM
+D: I've always believed.
+C: DOYLE
+D: I told you my instincts were always right. I knew there was something about you.
+C: ADAM
+D: So you think you've finally figured out what I've been hiding all this time? Do you know my secret? CUT TO PRESENT: Doyle looks at him for a long moment and shakes his head in disgust.
+C: DOYLE
+D: You're insane, you know that Fenton or Adam or whoever you are? And these little stories you've been telling me all night are just as crazy.
+E: MORE
+C: DOYLE
+D: And I honestly don't care which ones are true and which ones aren't. Maybe I'll figure that out later, maybe not. But right this minute all I need to know is that you're a sick murderer and I've got you.
+E: CONT'D
+C: ADAM
+D: Maybe, but that's not going to bring back your mother is it? She's dead and her killer got away. Didn't he? Doyle looks hard at him and he smiles.
+C: DOYLE
+D: You son of a ... He rushes at him. Adam puts out his handcuffed hands and touches Doyle right as he gets close enough. Doyle stops and both of their eyes go wide.
+C: INSERT FLASH IMAGES:
+D: DOYLE SCREAMS IN RAGE WITH BLOOD SMEARED ON HIS FACE DOYLE, IN HIS TWENTIES, SNEAKS UP ON HIS MOTHER WITH A KNIFE RAISED AS SHE HANGS SHEETS ON A LINE OUTSIDE ~,, BACK TO SCENE:
+N: Doyle drops the gun in a daze. Adam quickly reaches into Doyle's pocket, takes out his keys, and un-handcuffs himself.
+C: DOYLE
+D: How ... how did you do that? Adam reaches out and grabs his arm. INSERT: MOTHER TURNS TO SEE DOYLE RIGHT AS HE BRINGS THE
+E: CONT'D dazed
+C: KNIFE DOWN BACK TO SCENE:
+D: Adam turns him around, puts the handcuffs on him, and let's him go.
+C: DOYLE
+D: How .. how did you know?
+E: CONT'D
+C: ADAM
+D: God knew. You were on my list. That's why I brought you out here. Adam pushes him towards one of the rosebushes. INSERT: MOTHER SCREAMS AS HE VICIOUSLY PLUNGES THE KNIFE
+C: INTO HER
+D: Adam bends down and picks up the axe that is hidden under the bush, and pushes him ... INSERT: BLOOD SPLATTERS THE SHEETS ON THE LINE ... behind the bush where there is a freshly dug hole. Doyle falls into the hole. He seems to snap out of it and his eyes widen in fear when he sees Adam standing over him with the axe. He struggles to stand.
+C: DOYLE
+D: You ... You can't do this! I'm ... I'm an FBI agent. They'll come looking for me!
+C: ADAM
+D: No they won't. They'll keep looking for Fenton. You're going to be his last victim. God has willed it.
+C: DOYLE
+D: But ... but you've been seen! They'll know.it was you! Adam knocks him back down with his foot, and lifts the axe.
+C: ADAM
+D: God will protect me. He brings the axe down. INT. CAR -- LATER Adam drives Doyle's car down the highway, turning the radio dial until he finds an old country and western station. EXT. FBI HEADQUARTERS -- LATER Adam pulls into the _parking lot next to the a.Ir~ulance, and gets out of the car. He gets into the ambulance, starts it, and pulls off . ~ I ' I
+N: _INT_.. FBI .HEADQUARTERS -- LATER The operator sits at her desk still reading the novel from earlier. The phone rings, and as she reaches for it a folded piece of paper falls out of the book. She answers the phone, transfe.rs the call, and then unfolds the paper. She reads the typed words, "God's hand has taken William Doyle." Her eyes widen. She drops the paper on her desk and grabs the phone. Next to the piece of paper is the book. The cover has a picture of single red rose with the title Frailty above it, and the words by Fenton Meeks underneath it.
+S: INT. AMBULANCE -- CONTINUOUS
+N: Adam drives down the highway singing with the radio.
+S: INT. FBI OFFICE -- LATER
+N: The place is buzzing with activity now. Agents come and go down the hallway. Inside one of the offices, Agent Hull, the operator, and TWO AGENTS are gathered around a video monitor. Hull fast-forwards the tape until he sees something. He stops it and pushes play.
+C: HULL
+D: There he is. The monitor shows a man walking into the reception area, but it is impossible to make out his face. He moves out of frame. Hull fast-forwards again until the man walks back into frame. He lets it play, and the man walks to the operator, gives her the book, and then turns toward the camera.
+C: HULL
+D: We got him now. As the man turns toward the camera there is a glitch and he moves out of frame without revealing his face.
+E: CONT'D
+C: HULL
+D: What?! He rewinds, watches it again, but the glitch is still there.
+E: CONT'D
+C: HULL
+D: Goddamnit! AGENT 1 Are you sure neither one of you can remember what he looked like? The operator and Hull both shake their heads . i~) __ r
+E: CONT'D
+C: CONTI?WED: HULL
+D: I told you it's just a blur. I can't understand it. I looked right at him, shook his hand. AGENT 2 Well, we're running the name he gave you now. AGENT 1 It's got to be a fake name. AGENT 2 Maybe. Pretty weird one though. Fenton Meeks? The operator looks up.
+C: OPERATOR
+D: Fenton Meeks? That's the name on the book! The one I found the note in. All the agents look at her. EXT. FENTON'S HOUSE AFTERNOON several FBI agents position themselves around the house. Hull gives the signal and they storm the place. INT. FENTON'S HOUSE -- MOMENTS LATER Hull comes in after the other agents have secured the place, and walks through the house. He walks to the desk and looks down at the old typewriter, phonebooks, and the stacks of papers next to it. He reads the top page. It reads "God's hand has taken Karen Levy."
+C: HULL
+D: Son of a bitch. He flips through the other papers and they all have the same thing typed on them except the names are different on each one. He notices the list taped on the wall, but this time all seven names are crossed out on it. He pulls it off the wall and sees that the last name is William Doyle as one of the agents walks up to him, carrying something ..
+C: AGENT
+D: There's no one here sir. this in the basement . We found
+N: He holds it out in his plastic-gloved hand and reveals that it is a bloody wallet with Doyle's picture ID on one side and his badge on the other. There is a blood stain on the picture. Hull frowns.
+C: HULL
+D: Is ... is he down there too?
+C: AGENT
+D: Not him. INT. KITCHEN -- MOMENTS LATER The door near the far wall is opened, revealing a set of steps that lead down. Hull goes down the stairs. The other agents in the kitchen watch him.
+E: shakes his head
+C: HULL
+D: Jesus Christ! The other agents shuffle uncomfortably as they hear him vomit. INT. MEAT POLICE DEPARTMENT -- DAY Agent Hull enters and walks up to the reception desk. A woman is turned, filing something.
+E: O.S. yells in disgust
+C: HULL
+D: Excuse me. The woman turns and we see that it is the same pregnant blonde woman that Doyle spoke to earlier on the phone. She smiles.
+C: WOMAN
+D: I didn't even hear you come in. How can I help you?
+C: HULL
+D: I'm with the FBI. I need to speak to the sheriff, is he in?
+C: WOMAN
+D: Sure thing. She swivels around in her chair.
+C: WOMAN
+D: Sheriff! You want some coffee or something?
+E: CONT ID back to Hull
+C: HULL
+D: No I'm fine. Thanks. Officer Henderson comes in from the front door. Hull turns to him and they nod hello at each other. Hull turns back to the sound of a door opening and sees Adam, dressed in a police uniform, come out of the office. Surprisingly, there is absolutely no recognition in Hull's eyes or in Adam's.
+C: HULL
+D: Sheriff Meeks?
+E: CONT'D
+C: ADAM
+D: Yes? They shake hands.
+C: HULL
+D: I'm Agent Hull of the FBI. I need to ask you some questions about your brother.
+C: ADAM
+D: Fenton? ~,, Hull nods solemnly. I
+E:  taken aback
+S: EXT. MEAT POLICE DEPARTMENT LATER
+N: Hull walks out the door of the station followed by Adam.
+C: ADAM
+D: Well, I appreciate you coming by to tell me personally. I ... I don't know what to say.
+C: HULL
+D: It's got to be hard. I just wanted you to know before we go public.
+C: ADAM
+D: Well if there's anything I can do ...
+C: HULL
+D: I think we've got it pretty well covered from here. But again if you can think of where he might have gone or if he contacts you ...
+C: ADAM
+D: Of course .
+N: He extends his hand and Adam shakes it.
+C: HULL
+D: Take care sheriff. Hull tries to pull his hand away, but Adam holds it for a brief moment and looks him right in the eye.
+C: ADAM
+D: You're a good man Agent Hull. Hull looks at him strangely but smiles, and Adam lets go of his hand. Hull gets into his car, starts it, and drives off. Adam watches as he pulls away. The woman comes out.
+C: WOMAN
+D: Adam? Is everything okay? . He turns and smiles at her.
+C: ADAM
+D: Everything's fine Mary. He goes to her and kisses her.
+C: ADAM
+D: God's will has been served. She smiles at him. He reaches down and caresses her pregnant stomach.
+E: CONT'D
+C: MARY
+D: Praise God. A beam of light shines down on them from the heavens above. FADE OUT!
+N: THE END

@@ -1,0 +1,1792 @@
+M: ATOMIC BLONDE
+M: Written by
+M: Kurt Johnstad
+M: Based on the Oni Press graphic novel series "The Coldest City"
+M: written by
+M: Antony Johnston
+M: And illustrated by
+M: Sam Hart
+T: FADE UP FROM BLACKNESS:
+N: SUPER: “BERLIN, NOVEMBER 9, 1989”
+S: INT. ATTACHÉ’S OFFICE - NIGHT
+N: The room is lit by a single bare bulb and a small television. A man with “Eric Clapton” hair and moustache circa 1976 sits alone, drinking two fingers of single-malt scotch. This is DAVID PERCEVAL. INSERT - NEWS FOOTAGE MTV’s Kurt Loder reports from the Berlin Wall. We see from the MTV news footage that massive crowds are assembling. Two EAST GERMAN SOLDIERS stand on the Wall, holding an MTV umbrella, an iconic symbol of the times.
+C: BACK TO SCENE
+D: We MOVE ON a reflection of Perceval on the television. Perceval leans in, shuts off the television and stands with a clear objective. Time to go. EXT. WEST BERLIN - NIGHT The air is electric as West Germans carry hammers, chisels and pickaxes with purpose towards the Berlin wall. We see Perceval turn the corner into a dark alleyway near a parked Saab 900 Turbo. Perceval sees a figure in the shadows and slows.
+C: PERCEVAL
+D: Well, I suppose that’s it. We’ll be obsolete by morning. I’ll be back in London, and you... back to the party. We hear the faint sounds of HAMMERS STRIKING against concrete.
+C: PERCEVAL
+D: The simplicity of our struggle crumbles as that wall comes down. The lines on the map drawn by men who never faced the risk themselves will be harder to see. In the distance, the CROWDS’ CHEERS are heard.
+E: CONT’D
+C: PERCEVAL
+D: A different world is approaching. More volatile. More corrupt. There will be no ideologies to protect us. Just the brutal and cold conscience of commerce. Perceval’s eyes follow a group of West Germans with hand tools moving towards the Wall.
+E: CONT’D
+C: PERCEVAL
+D: Extortion... Whoever has the list in this new world has all power. Without it? Just a target. Perceval turns back to the wordless figure in the shadows.
+E: CONT’D
+C: PERCEVAL
+D: We played our hands. Hell, I’m just glad to see your face at this moment, as the ramparts of tyranny fall into the history books. Perceval smiles softly to himself as he looks towards the crowds.
+E: CONT’D
+C: PERCEVAL
+D: Listen to them. In the faint light, we see the flash of gunmetal. We hear a GUNSHOT BARK out! HARDCUT TO: INT. LONDON - HOTEL ROOM - BATHROOM/ROOM - DAY SUPER: “LONDON, NOVEMBER 11, 1989 - TWO DAYS LATER” A bathtub filled with ice cubes and freezing water. A woman appears from beneath the surface. This is LORRAINE BROUGHTON. Broughton’s body is athletic and strong but also patchwork of bruises and cuts from the last ten days. She pulls a towel across her body, steps from the cold water and pours two fingers of Stoli into glass. Broughton looks down at the words “Hotel Moskva” on the label and then to the mirror. She CLICKS on the dial of shitty RADIO. We hear David Bowie’s “Cat People Putting out Fire.” Broughton opens a vanity drawer. Next to the cosmetics is a framed photo of her and a handsome man in front of the Blue Mosque in Istanbul. Broughton stares down at the photo for moment, held by a memory and then reaches for a compact. Broughton covers her contusions with makeup and dresses in a Navy crepe wool skirt suit from Chanel, heels and Jackie-O sunglasses. Simple and sexy. As she opens a Kelly bag we see a Browning Hi-Power at rest next to a pack of Woodbine cigarettes. Broughton doesn’t need to chamber check the weapon. It’s always loaded, cocked, locked and awaiting her command. She pulls a cigarette from the pack, steps out of the bathroom, glances at the her empty bed and lights her Woodbine. Broughton walks out her apartment door. Bowie’s voice builds as we follow her out. EXT. LONDON - DAY The morning is crisp. A double-decker bus drives past with “Boycott Apartheid” painted on its side. EXT. CENTURY HOUSE - DAY Just across the Westminster Bridge sits a limestone and glass post-modern fortress. This is the British headquarters of MI6. Broughton walks through the busy streets and into the Century House. INT. CENTURY HOUSE - LOBBY - DAY Broughton moves through the lobby and towards a line of people waiting at the metal detectors. The SECURITY PERSONNEL wave her straight through. She belongs here; she’s a bad ass. Security walks her to a single elevator, inserts a key, and Broughton enters the elevator alone. The doors close.
+E: CONT’D
+C: ELEVATOR
+D: There is only one button, and that is an arrow down. Broughton pushes the button and rides the elevator for some time.
+C: HALLWAY
+D: As the doors open, she is meet by another two armed security personnel who nod and wave her past them. Broughton walks down a long, top lit, Kubrickian 60s hallway. We see a remote video camera track her. No one else is down here, and the two security personnel are 100 yards away by now. Broughton stops at an unmarked door. We see another video camera lens focus on her, and the electronic DEAD BOLT CLICKS the door open. INT. CENTURY HOUSE - ISO-FAC - DAY The “BIN” is a sterile ISO-FAC for the debriefing of operatives returning to England. The room is sparse. All the walls are covered in 60s acoustic sound tiles save for a two-way mirror on one wall. MR. ERIC GRAY, mid-sixties and capable, sits with EMMETT KURZFELD of the CIA at wooden table. Broughton enters and slows as she sees Kurzfeld.
+E: Isolation Facility
+C: GRAY
+D: How was your flight?
+C: BROUGHTON
+D: Uncomfortable. Broughton takes a seat across from the two men.
+C: BROUGHTON
+D: Sir, what is he doing here?
+E: CONT’D
+C: GRAY
+D: We thought it would be helpful to get Kurzfeld’s perspective. Gray leans back and sits next to Kurzfeld. OTHER SIDE OF THE TWO-WAY MIRROR We see a older man, “C,” watching. His face is reflected in the glass of the two-way mirror.
+C: GRAY
+D: Given the scale of recent world events, C will not be joining us. Broughton looks straight into the two-way mirror and nods with the confidence that C is there.
+E: V.O.
+C: BROUGHTON
+D: Yes, of course.
+E: V.O.
+C: BACK TO ISO-FAC
+D: Broughton looks at Gray and Kurzfeld.
+C: GRAY
+D: Let’s begin, for the record. Gray reaches across to a Nagra III reel-to-reel recording unit that rests on the desk. Gray CLICKS the recording DIAL.
+C: GRAY
+D: Under formal direction of the Joint Intelligence Committee: The following will serve as first contact and operational archive for Her Majesty’s Military Intelligence Section 6. Recorded on the 11th of November 1989. The voices of record are as follows, Senior Directorate Officer Eric Gray, Senior Case Officer Emmett Kurzfeld of the U.S. Central Intelligence Agency, and returning British Operational Officer Lorraine Broughton. Gray leans forward and begins the interview.
+E: CONT’D
+C: GRAY
+D: Tell us about Berlin. Were you there when Perceval was shot? Broughton calmly replies to Gray.
+E: CONT’D
+C: BROUGHTON
+D: No. Broughton looks to the two-way mirror and then to Kurzfeld. Gray scribbles down a note in a folder stamped “Top Secret” in front of him and looks up at Broughton.
+C: GRAY
+D: Let’s start from the beginning, shall we? A GRAFFITI TITLE CARD SCRAWLS OUT: “THE COLDEST CITY” EXT. LONDON - DAY SUPER: “LONDON, NOVEMBER 2, 1989 - NINE DAYS AGO” Hard rain. Broughton walks up the wide stairs of Century House. A handmade Fox umbrella shelters her from the weather. INT. CENTURY HOUSE - GRAY’S OFFICE - CONTINUOUS The office is classic British Empire. Framed conquest maps hang on the walls. A Regent desk in dark wood and oxblood leather chairs. Gray and another man, the Chief of the Secret Intelligence Service known only as “C,” sit across from one another.
+C: GRAY
+D: Broughton speaks four languages, and her Russian is excellent. What about her field craft and perishable skills?
+C: GRAY
+D: She’s an expert in Escape and Evasion, NATO and Warsaw Pact Weapons systems, and hand-to-hand combat. Knowing the reds as I do, she’ll need to use every damn one of them. There is a KNOCK on the office DOOR. Neither Gray or C stand as Broughton enters the room.
+C: GRAY
+D: Sorry to pull you in on short notice, Lorraine. You know C, of course. Broughton looks to the emotionless man who remains seated in a straight-back chair.
+C: BROUGHTON
+D: Yes, of course. C motions towards a chair, and Broughton sits at the table and opens a pack of Woodbine cigarettes.
+C: BROUGHTON
+D: Mind if I smoke, sir? Gray pulls a cadet lighter from his pocket, leans across his desk and lights Broughton’s Woodbine. Broughton takes a drag off of her cigarette and exhales.
+E: CONT’D
+C: GRAY
+D: I’ll get straight to the point. How well do you know, James Gascione?
+C: BROUGHTON
+D: Enough to say hello... We did work together several years back in Istanbul. Gray and C share a quick look, trying to decipher if she is lying to them.
+C: GRAY
+D: As of yesterday morning Gascione was reported as incommunicado. HARD CUT TO: EXT. WEST BERLIN - DAWN SUPER: “WEST BERLIN, NOVEMBER 1, 1989” 5 AM. Snow is falling. Most Berliners in the French, British and American sectors of this divided city are asleep. A dependable-looking middle-aged man runs down the empty street. This is JAMES GASCIONE.
+E: PRE-LAP The same man from the photo in Broughton’s vanity
+C: BROUGHTON
+D: Who was Gascione handling? Gascione’s shoes pound the pavement. His lungs burn. Each quick exhale leaves a ghostly trail behind him. Remember the gradation of fear in Gascione’s eyes as he glances over his shoulder.
+E: V.O.
+C: GRAY
+D: Gascione was running an agent codenamed Spyglass, a Stasi officer. Two ROUGH MEN chase after him through the snow. They are all business. They are KGB. Gascione cuts through a backyard, hurdles several fences, vaults over a brick wall and lands. He checks over his shoulder again. Nothing. Maybe he lost them.
+E: V.O.
+C: GRAY
+D: Spyglass had just delivered a list to Gascione. Gascione sprints towards the river and glances again just as... ... the ROAR of an ENGINE gets his attention. Gascione holds his hands out on instinct, headlights blinding him until he feels the front of a sedan SLAM into his legs just above the knees. Gascione’s body is lifted and then violently pinned against a parked car. Pain surges through his body as he looks down at his mangled legs. The sedan reverses a few feet, and Gascione crumples facedown onto the snowy pavement. The two rough men slowly jog up to the scene as an average- looking man, YURI BAKHTIN emerges from the car and moves towards Gascione.
+E: V.O.
+C: BAKHTIN
+D: Look at me. Gascione’s eyes tilt upward at Bakhtin.
+C: GASCIONE
+D: You... cossack... bastard! Bakhtin presses the barrel of a Makarov pistol onto Gascione’s forehead. The MAKAROV BARKS OUT, and Gasicone is consumed by the white halo of a muzzle flash. Silence. Bakhtin grabs Gascione’s wrist and removes a classic “ Carl F Bucherer ” wrist watch. Bakhtin nods towards the two rough men, who lift Gasicone’s lifeless body from the blood-soaked snow and dump it into the river Spree.
+C: C
+D: Gascione is dead. INT. CENTURY HOUSE - GRAY’S OFFICE - CONTINUOUS Broughton lowers her cigarette without a word.
+E: PRE-LAP
+C: GRAY
+D: The Jerries fished him out of the Spree River this morning. A West German coroner extracted a 9x18mm from the base of his skull.
+C: BROUGHTON
+D: Soviets. Gray sets down a black-and-white photo of an average-looking MAN in a Soviet military uniform.
+C: GRAY
+D: Our sources point to Yuri Bakhtin, a lead KGB officer who was ticketed out of Berlin on Aeroflot to Moscow.
+C: BROUGHTON
+D: You want me in Moscow? Bakhtin never arrived in Moscow. Gray picks up the photo and scans the documents within a TS folder stamped “UK eyes only.”
+E: Top Secret
+C: GRAY
+D: So either our man on the ground is wrong, or Bakhtin pulled a switch and is now lost to us. Broughton takes another drag from her cigarette.
+C: BROUGHTON
+D: Gascione was en route to where?
+C: GRAY
+D: Our Head of Berlin operations when he was assassinated.
+C: BROUGHTON
+D: How sensitive is the list?
+C: GRAY
+D: Spyglass claimed it was a complete inventory of the identities and locations of every active clandestine officer. Broughton lowers her cigarette as a thin ribbon of smoke curls up towards the low ceiling.
+C: BROUGHTON
+D: Is that even possible? The real question must be: is it wise to hope it’s not possible instead of proving it is? There is a moment of silence in the room. A challenge has just been laid down.
+C: GRAY
+D: Everyone is hunting for it: the Yanks, the Frogs, us, and the Soviets for sure. Tell her the rest of the good news.
+C: GRAY
+D: Spyglass disclosed the list would expose a double agent by the name of “Satchel” within the allied intelligence network. You find Satchel in this embarrassing mess and we’ll hang him for treason. Broughton exhales smoke from her lungs and hardens to the truth of this knowledge.
+C: C
+D: The list is the whole damn chessboard. Whoever controls it controls the Cold War.
+E: CONT’D
+C: GRAY
+D: Berlin is already on a short fuse. Hungary has dismantled hundreds of kilometers of the Iron Curtain since May. Last month, East Germans stormed the FRG’s embassies in Prague and Warsaw. They were given immunity and sent to West Germany. Gorbachev’s glasnost nonsense has his people hopeful, and there is nothing worse than a hopeful enemy.
+C: GRAY
+D: The Wall won’t last much longer. David thinks it might even fall before Christmas.
+C: BROUGHTON
+D: David, sir?
+C: GRAY
+D: David Perceval is our number one in Berlin. We are sending you to link up with him.
+C: BROUGHTON
+D: I’ve never been to Berlin, and if Bakhtin has the list, he’s on the run. Gray sits behind the Regent desk.
+C: GRAY
+D: We don’t think he does. There’s no question he would have taken it straight to Moscow. The list is still in Berlin.
+C: GRAY
+D: Perceval is searching for it, but we want another pair of hands at the tiller as it were. C leans ever so slightly forward in his chair to commit importance to his words.
+C: C
+D: Most of the allied officers have been in Berlin for years. HARDCUT: INT./EXT. EAST BERLIN UNDERGROUND CLUB - NIGHT SUPER: “EAST BERLIN, NOVEMBER 2, 1989” Perceval slams a empty shot glass of whiskey down on the bar. We hear Public Enemy’s Chuck D coming through the SPEAKERS with “Fight the Power.” Drunk East German youth fill the place. It’s a strange mix of punk, hip hop, and anti-East German establishment. Perceval takes some D-marks from a KID for a bottle of Jack Daniels and a old Penthouse magazine. Another East German hands him money, and Perceval hands over a pair of Levi’s. Perceval has a nice little side business in selling contraband.
+E: PRE-LAP
+C: C
+D: With no embassy to watch over them, they play by their only rules. Perceval sees a clean-cut East German enter and sit at a quiet table near the bar. This is SPYGLASS. He is the real reason Perceval is in the East. Perceval moves across the room and joins him at the table. Perceval hands a small brown bag of contraband to Spyglass.
+E: V.O. canned food, Jack Daniels and women’s jeans
+C: PERCEVAL
+D: The Jordache jeans were not easy.
+C: SPYGLASS
+D: They are for my wife’s birthday.
+C: PERCEVAL
+D: Let me cut right to the bone. Where is the goddamn list?
+C: SPYGLASS
+D: Is this a joke?
+C: PERCEVAL
+D: No joke.
+C: SPYGLASS
+D: I gave it to Gascione last night.
+C: PERCEVAL
+D: Gascione never showed. Spyglass looks up at Perceval with consternation settling in his brown eyes.
+C: PERCEVAL
+D: Why do you think I jumped the Wall, and I made contact with you?
+E: CONT’D
+C: SPYGLASS
+D: I don’t know. I followed all the orders. Look, I was careful. I met Gascione in Friedrichshain. He took the list from me. Spyglass’s eyes are filling with despair.
+C: SPYGLASS
+D: I did my part. I have risked everything.... You must to get me and my family across!
+E: CONT’D
+C: PERCEVAL
+D: Calm down. Perceval studies Spyglass for a moment.
+C: SPYGLASS
+D: Are you going to kill me?
+C: PERCEVAL
+D: I’ve thought about it... However, I can’t ignore the fact you are telling me the truth. Spyglass takes a breath as he controls his anxiety.
+C: PERCEVAL
+D: Did you make a copy of the list?
+E: CONT’D
+C: SPYGLASS
+D: No... I memorized it.
+C: PERCEVAL
+D: The entire list? Spyglass nods. Suddenly, the front door of the club is kicked in. We see the green-gray uniforms of the EAST GERMAN STASI OFFICERS surge into the crowd.
+C: PERCEVAL
+D: Goddamn it. Perceval scans the room. An EAST GERMAN BARTENDER quickly motions to him.
+E: CONT’D
+C: PERCEVAL
+D: Move! Perceval and Spyglass avoid the chaos of the room. The bartender pulls back a small service door to reveal a hallway. The bartender, Perceval, Spyglass, and several patrons run down the hallway to the door leading outside. Perceval opens the door to see two STASI OFFICERS standing directly in front of him.
+E: CONT’D
+C: STASI
+D: You? Your papers! Now! Spyglass and the others are in the hallway, unseen to the Stasi. Perceval reaches into his pocket and pulls out a worn leather wallet. He steps towards the Stasi and in the same motion, throws the wallet into one officer’s face as a distraction. Perceval punches one Stasi in the throat and knees the other in the family jewels. Both drop to the alley and writhe in pain. Perceval looks back through the door, still open a few inches as Spyglass and the others are witness to his burst of violence.
+E: in German
+C: PERCEVAL
+D: I’ll be in contact. Perceval steps past the two Stasi on the ground and slowly jogs away down the alley and into the night.
+C: C
+D: It seems Berlin has its way with the younger generation. It’s infectious, an epidemic really. They’re all feral and have gone native. INT. CENTURY HOUSE - GRAY’S OFFICE - CONTINUOUS Broughton exhales her Woodbine and stares at Gray and C through the smoke.
+E: PRE-LAP
+C: GRAY
+D: You have no family, no colleagues, no friends there. No history to confuse your loyalties. You don’t even know Perceval. C stands and slowly walks towards the threshold of the office door. C pauses with his back to the room.
+C: C
+D: When that bloody Wall comes crashing down, we don’t want to be under it. I want that list, Broughton. Bring it back home, and you’ll find yourself at Buckingham for tea. C moves out the door, and Broughton looks back across the desk at Gray.
+E: CONT’D
+C: GRAY
+D: I recommended you for this. So, do try and look grateful. Gray hands Broughton the TS folder.
+C: GRAY
+D: I know, it’s short notice. H/WAR suggested you use Gladys Lloyd, as she was never compromised. Commit everything to memory and then burn it all. Gray points to a large metal “burn can” for documents in the corner of the room.
+E: CONT’D
+C: GRAY
+D: A car will take you to your flat. Pack and then go straight to Heathrow. Remember, Lorraine, trust no one. Gray walks toward the office door. Broughton flips open the folder to a black-and-white photo of BER-1, David Perceval.
+E: CONT’D
+C: BROUGHTON
+D: What’s he like, sir? David Perceval. FLASH CUT TO: INT. EAST BERLIN - TUNNEL - NIGHT Perceval carries a flashlight and takes a pull off a fifth of JD. He walks briskly and makes his way through a covert tunnel network towards West Berlin.
+C: GRAY
+D: David Perceval is a royal pain in the ass. INT. CENTURY HOUSE - GRAY’S OFFICE - CONTINUOUS Gray stops and turns at his office door.
+E: V.O.
+C: GRAY
+D: However, he is arguably one of the best damn spies to ever serve the Crown. My office is yours. Gray steps out of the office, and Broughton opens the TS folder in front of her. PRE-LAP on soundtrack: “One Thing Leads to Another” by The Fixx. INT./EXT. PAN AM BOEING 707 - DAY Broughton is in a window seat. We see a couple empty mini bottles of Stoli on the tray in front of her and hardcover copy of Trevanian’s “Shibumi”. Broughton looks out the window at the bleak November sky. INT. WEST BERLIN - TEMPELHOF AIRPORT - TERMINAL - DAY Broughton walks off the Pan Am flight and towards the passport control kiosks. She hands the West German PASSPORT OFFICER her UK passport. He looks at the passport photo and then to Broughton. He flips through the pages with scrutiny, gives her another look and then stamps her passport and waves her through. We follow Broughton into the uncluttered airport terminal. A loose crowd waits for the arriving international travelers. From this crowd, a GENTLEMAN steps forward, all business, and extends his hand.
+C: GENTLEMAN
+D: Ms. Lloyd? Broughton slows to a stop. The Gentleman’s British accent is good, perhaps too good.
+C: GENTLEMAN
+D: Mr. Perceval was running late. He sent me to pick you up. Broughton scans the terminal then looks back to the Gentleman.
+E: CONT’D
+C: GENTLEMAN
+D: Checked bags?
+E: CONT’D
+C: BROUGHTON
+D: No.
+C: GENTLEMAN
+D: Please, follow me. EXT. WEST BERLIN - TEMPELHOF AIRPORT - TERMINAL - DAY Broughton eyes her surroundings as they cross into a parking lot. We see an attractive WOMAN turn from a phone booth, watching them, then methodically dial a number on the pay phone. EXT. WEST BERLIN - TEMPELHOF AIRPORT - PARKING LOT - DAY A forest green BMW 2002 sedan is isolated at the end of the parking lot. The Gentleman and Broughton climb in. INT./EXT. BMW 2002 - CONTINUOUS The Gentleman pulls out of the airport parking lot and onto the main route. They drive in silence. Broughton looks into her side mirror and notices a Saab 900 Turbo tailing them.
+C: GENTLEMAN
+D: Well... it’s a remarkable time to be in Berlin.
+C: BROUGHTON
+D: That so? Broughton looks again to her mirror and sees the Saab is still there.
+C: GENTLEMAN
+D: The music, nightlife and great restaurants.
+C: BROUGHTON
+D: You’ve got a suggestion?
+C: GENTLEMAN
+D: For the beautiful people, go to the Palm for a drink. Broughton looks back to the mirror. The Saab speeds up behind them and taps the BMW 2002 in a perfect PIT maneuver. Broughton quickly buckles her seat belt. The Gentleman is too busy controlling the car to notice Broughton reach across and depress the button to his seat belt. The BMW spins off the road, and Broughton braces for impact. The BMW slams into a metal guard rail. The WINDSHIELD SHATTERS, and the Gentleman is ejected onto the hood. Broughton relaxes and looks out at the bloody and moaning body of her driver. A figure drags the Gentleman off the hood and onto the frozen ground. We see Perceval look back through the shattered glass at Broughton.
+C: PERCEVAL
+D: Welcome to Berlin. Perceval stuffs a rag in the Gentlemen’s mouth and secures his mouth, ankles and hands with duct tape. Broughton unbuckles her seat belt and steps out of the BMW.
+C: BROUGHTON
+D: I could have handled him.
+C: PERCEVAL
+D: I have no doubt. Question is: What were you waiting for? Perceval drags the Gentleman across to his idling Saab. The boot is already open.
+C: BROUGHTON
+D: Who does he work for?
+C: PERCEVAL KGB.
+D: Perceval dumps the Gentlemen into the boot. The Gentleman starts to realize what is happening. Broughton unloads a huge right hand into his face, more as a fuck you to Perceval than anything. The Gentleman’s body goes limp. Perceval shoots her a look, impressive.
+C: BROUGHTON
+D: I am on the ground five minutes and get blown.
+C: PERCEVAL
+D: You’re not blown. Perceval slams the boot closed.
+C: BROUGHTON
+D: He knew my name.
+C: PERCEVAL
+D: Troubling.
+C: BROUGHTON
+D: And yours.
+C: PERCEVAL
+D: Not surprised. Broughton and Perceval move and get into the car. INT./EXT. PERCEVAL’S SAAB - CONTINUOUS The inside of the car is littered with Wienerwald wrappers and empty beer cans. Perceval jams the Saab into gear and speeds away.
+C: BROUGHTON
+D: How would anyone know I was on that flight? Perceval turns with a peripheral smile.
+C: PERCEVAL
+D: Those are the kinds of questions that keep us up late at night.
+C: BROUGHTON
+D: We should message the home office and let them know what happened.
+C: PERCEVAL
+D: Christ and Mother Mary. London sent you to sort this mess out?
+C: BROUGHTON
+D: I just go where I am told.
+C: PERCEVAL
+D: Story of our lives. Checkpoint Charlie, by the way. Perceval points out the windshield.
+C: BROUGHTON
+D: I’m not here to collect postcards.
+C: PERCEVAL
+D: Ahhh... You’re all business under that lipstick. Broughton ignores the remark.
+C: BROUGHTON
+D: I was told you’d be briefed.
+C: PERCEVAL
+D: Your cover is civil service? Gladys Lloyd, Cambridge-educated lawyer sent by James Gascione’s family to return the body and effects of their now-deceased son, a British subject. Perceval looks for a reaction but gets nothing from Broughton.
+C: PERCEVAL
+D: Just how in the hell the suits think that’s going to help find our damn list is beyond me. Picking up Gascione’s body won’t take much time.
+E: CONT’D
+C: BROUGHTON
+D: I’ll just have to be creative. Perceval points outside the car again.
+C: PERCEVAL
+D: Brandenburg Gate. My office is just there... I suppose HQ thinks there’s no point in replacing Gascione with the Wall coming down.
+C: BROUGHTON
+D: Seems improbable after twenty-eight years.
+C: PERCEVAL
+D: Everything is probable. And that assertion confirms to me you don’t know the first damn thing about this city, so don’t pretend you do. The tension builds within the car. Perceval SLAMS on the brakes and slides the car to stop. Perceval gets out of the car, opens the trunk, pulls the KGB driver out and drags him onto the sidewalk. We see a sign the reads: “Embassy of the Union of Soviet Socialist Republic.” Perceval leans the KGB driver against the Soviet Embassy’s wrought-iron gates. Within the compound several SOVIET GUARDS start to move towards the gates.
+C: BROUGHTON
+D: What are you doing?
+C: PERCEVAL
+D: Sending my old friend Bremovych a message. Perceval stomps his foot across the driver’s face for good measure. HARDCUT TO: INT. EAST BERLIN’S HOHENSCHONHAUSEN PRISON- NIGHT We see a man built like a Soviet T-10 battle tank. He wears a gray Soviet translation of a Brooks Brothers suit and is all business as he moves into the room. This is ALEKSANDER BREMOVYCH, KGB. A dozen STASI OFFICERS have six EAST GERMAN PUNK ROCKERS and B-BOYZ from the underground night club lined up in their underwear against the wall. There is a wooden table in the center of the room and nothing more. Bremovych sets a carton of Russian “Belomorkanal” cigarettes on the table.
+C: BREMOVYCH
+D: You’re not free to go. You may never be free to go. Unless you tell me what I want to hear? Bremovych lights a filter-less Belomorkanal from a pack of twenty five. Four Stasi officers drag a young man over and SLAM him face down onto the table. Bremoyvch holds a small B/W photo of Bakhtin.
+E: in German
+C: BREMOVYCH
+D: Have you seen this man?
+E: CONT’D in German
+C: EAST GERMAN
+D: No. Bremoyvch nods and lays down another photo of Spyglass.
+E: in German
+C: BREMOVYCH
+D: Last night at the club, did you see this man?
+E: in German
+C: EAST GERMAN
+D: No. Bremoyvch takes a long drag on the filter-less cigarette and then jams it into the young East German’s eye. The young man howls in pain and buckles under his captor’s hands. Bremovych lights another cigarette and holds up the carton for the rest of young men to witness.
+E: in German
+C: BREMOVYCH
+D: If I must, I will use all of them to get the truth from you. Bremovych turns back to the whimpering young East German.
+E: in German
+C: BACK TO:
+D: INT. PERCEVAL’S SAAB - CONTINUOUS Perceval and Broughton are driving through the streets of West Berlin. We see outside, a massive wall of graffiti-covered concrete that divides East and West.
+C: BROUGHTON
+D: I didn’t travel as a QM, so I need you to supply me with a firearm.
+C: PERCEVAL
+D: This is Berlin, not Tombstone.
+C: BROUGHTON
+D: Gascione was assassinated, and I was just set up by the KGB.
+C: PERCEVAL
+D: If the KGB wants you dead, you’ll need more than good looks and a pistol. Broughton looks out the side window.
+C: BROUGHTON
+D: Turn left here and take me to my hotel.
+C: PERCEVAL
+D: They said you’d never been to Berlin. How in the hell do you know where your hotel is?
+C: BROUGHTON
+D: I can read a map, you chauvinistic sonofabitch. Perceval SLAMS on the brakes and pulls the car to a stop.
+C: PERCEVAL
+D: You may not be declared here by Her Majesty, but I am still the head of this goddamn station, and you’ll respect me.
+C: BROUGHTON
+D: Respect is a two-way street, Mr. Perceval. Clearly, you don’t want me here. However, C himself gave me this job.
+C: PERCEVAL
+D: C is an arrogant lapdog and doesn’t know fuck all about the world past the edge of his desk! Broughton opens the door and steps out.
+C: BROUGHTON
+D: Good night, Mr. Perceval. Broughton crosses the hardscrabble street and walks towards her small hotel, never looking back. INT. WEST BERLIN - HOTEL ROOM - NIGHT A Patrick Nagel print hangs on the wall. The room is equal parts Euro-chic and Miami Vice. We hear the RUNNING WATER from the bathroom. Broughton sits on the edge of the bed watching MTV news on a color Zenith.
+C: KURT LODER
+D: The civil disobedience in East Berlin continues to build momentum. The disenfranchised youth leaders shout out their protests through the tear gas and water cannons. One eyewitness tells of police beating the peaceful demonstrators with batons. Broughton turns off the sound on the Zenith. She moves the hardcover of “Shibumi” onto the nightstand, picks up the rotary telephone, dials, and speaks.
+E: V.O.
+C: BROUGHTON
+D: Guten Abend. Ich bin Fraulen Lloyd, auf der Britische Botschaft Khan, Uh... Kann ich mit der Coroner Sprechen?
+C: MORGUE EMPLOYEE
+D: You are English? Why do you require the coroner?
+E: V.O.
+C: BROUGHTON
+D: I’ve been sent to arrange the return of a British subject, recently dead... I’m told you have the body.
+C: MORGUE EMPLOYEE
+D: Nobody works tomorrow. It’s Sunday. Call Monday, in the morning. Auf Wiedersehen. Broughton hears a CLICK and sets the phone on its cradle. Broughton walks into the bathroom and turns off the cold water filling the chipped porcelain tub. She turns to a half- dozen little ice buckets filled to the top and then dumps them into the bathtub. This is her daily ritual, the ice bath. Broughton switches off the bathroom light. The ZENITH is still PLAYING in the other room. She undresses in the faint light and steps into the freezing water without pause. Broughton sinks up to her nose with only her pale green eyes on the icy surface... then disappears below. EXT. WEST BERLIN - APARTMENT BUILDING - NEXT MORNING SUPER: “NOVEMBER 3, 1989” Broughton stands on the steps of a colorless apartment building and RINGS a call box BUZZER. Across the street, fifty feet away, is the graffiti-covered Berlin Wall snaking through the neighborhood. INT. ATTACHÉ’S OFFICE - DAY Surveillance gear and monitors sit on a small table. Contraband is everywhere: LPs, Jack Daniels, cartons of Lucky Strikes and Marlboro Reds. We hear the BUZZER, and Perceval, still in his clothes from last night, stirs and answers the call box.
+E: V.O.
+C: PERCEVAL
+D: Yeah.
+C: BROUGHTON
+D: Mr. Perceval? It’s Ms. Lloyd. You left a message at my hotel.
+E: O.C.
+C: PERCEVAL
+D: I’ll be right down. Perceval grabs his coat and moves towards the front door. EXT. WEST BERLIN - APARTMENT BUILDING - DAY Broughton waits and watches a couple of children kick a soccer ball against the Wall. We see the same WOMAN from the airport watching from a parked beige Mercedes 300D. After a few moments, Perceval exits his building.
+C: PERCEVAL
+D: Let’s take a walk. They start down the street, side by side.
+C: PERCEVAL
+D: About yesterday... in the car... the chauvinistic remarks. I shouldn’t have -- Broughton, without slowing her stride, interrupts.
+E: CONT’D
+C: BROUGHTON
+D: Apology accepted. Perceval looks at Broughton and then clears the air between them with a simple nod.
+C: PERCEVAL
+D: It’s as cold as a witch’s tit on the dark side of the moon today.
+C: BROUGHTON
+D: I like the cold.
+C: PERCEVAL
+D: No wonder they kept sending you to Moscow. Broughton looks at Perceval.
+C: PERCEVAL
+D: Don’t act surprised. We both read each other’s file. Perceval stops at a street vendor selling currywurst from a rolling cart. Perceval turns to Broughton.
+E: CONT’D
+C: PERCEVAL
+D: Buy you breakfast? Broughton doesn’t need to say no for Perceval to understand. He buys two, and they walk through a broadstone archway. We see a sign that reads “TIERGARTEN PARK.” They continue on the crushed gravel path until stopping next to a frozen duck pond. Perceval throws small pieces of his currywurst bun out onto the ice.
+E: CONT’D
+C: BROUGHTON
+D: You shouldn’t feed them bread. It’s bad for their digestion. A thin man wearing horn-rimmed glasses and a heavy winter topcoat approaches. It’s Emmett Kurzfeld.
+C: KURZFELD
+D: She is right.
+C: PERCEVAL
+D: You damned Americans will back up anything in a skirt.
+C: KURZFELD
+D: You must be Ms. Lloyd. I am Kurzfeld. Broughton extends her hand.
+C: BROUGHTON
+D: Pleased to meet you. Kurzfeld’s hand stays in the warmth of his pocket.
+C: PERCEVAL
+D: Kurzfeld here went to Princeton. Broughton slowly retracts her hand.
+C: PERCEVAL
+D: Kurzfeld thinks he knows everything... So you two should get along just fine.
+E: CONT’D
+C: KURZFELD
+D: I’ve been in Berlin almost as long as David... Nobody wants the list to fall into Soviet hands. Broughton looks to Perceval.
+C: BROUGHTON
+D: What else have you shared with him?
+C: PERCEVAL
+D: Just women and scotch.
+C: KURZFELD
+D: We watch out for one another. Broughton looks back to Kurzfeld.
+C: BROUGHTON
+D: I think Bakhtin is going to dump the list on the black market.
+C: KURZFELD
+D: What makes you so sure?
+C: BROUGHTON
+D: If one of the Allies has it, we’d already know. If Moscow had it, there’s nothing we can do. So either Bakhtin puts it up for sale, or we’ll never see it again.
+C: KURZFELD
+D: She’s smart.
+C: PERCEVAL
+D: You only say that because you had that same idea. Kurzfeld turns to Perceval.
+C: KURZFELD
+D: What’s the plan with Spyglass?
+C: PERCEVAL
+D: I haven’t decided yet.
+C: KURZFELD
+D: I should be going. Let me know if the company can help in any way. Kurzfeld nods towards Broughton.
+C: KURZFELD
+D: Good day, Ms. Lloyd. Kurzfeld walks on alone through the park covered in rags of snow and frozen grass.
+E: CONT’D
+C: BROUGHTON
+D: Is there even a plan?
+C: PERCEVAL
+D: Not yet, and if there was, I’d be damned if I’d share it with the Yanks. HARDCUT BACK TO: INT. CENTURY HOUSE - ISO-FAC - DAY The NAGRA III keeps recording. The ashtray on the table is filled with several crushed Woodbines. Gray and Kurzfeld look across at Broughton.
+C: GRAY
+D: So, how would you describe the situation on the ground those first couple of days?
+C: BROUGHTON
+D: Hostile.
+C: GRAY
+D: With Perceval?
+C: BROUGHTON
+D: With everyone.
+C: GRAY
+D: Who was in the country? Broughton pulls another Woodbine out of her pack.
+C: BROUGHTON
+D: You weren’t. EXT. WEST BERLIN - GLIENICKE BRIDGE - DAY The sky is colorless. A lone figure walks through the cold and across the “Bridge of Spies.” As the figure gets closer we see it is Bremovych. His KGB DRIVER is waits for him on the West German side.
+C: BREMOVYCH
+D: Did she get the message?
+E: in Russian
+C: GENTLEMAN
+D: I believe so. Bremovych pauses for a moment and looks at the swollen face and black eye of the driver.
+E: in Russian
+C: BREMOVYCH
+D: Did the woman do that to you?
+E: in Russian
+C: GENTLEMAN
+D: No. The Gentleman opens the side door of a black sedan.
+E: in Russian
+C: BREMOVYCH
+D: You’d look much worse if she touched you. Bremovych climbs in. INT. ATTACHÉ’S OFFICE - DAY Perceval and Broughton enter the room.
+E: in Russian
+C: PERCEVAL
+D: Can I take your coat? Broughton hands over her coat. She moves down a short hallway as Perceval hangs her coat on a hook by the front door. Less chaos than the rest of Perceval’s apartment. A plain desk and two worn-leather club chairs. A bookshelf running the length of the room. A small TELEVISION PLAYS MTV Europe in the background.
+C: BROUGHTON
+D: So this is what you get after years of service.
+C: PERCEVAL
+D: In a complicated world, I prefer things to be simple. Broughton scans the shelves filled with volumes in six foreign languages, save for the “Great Books” that are all in English.
+C: BROUGHTON
+D: You like to read.
+C: PERCEVAL
+D: Depends on the book... If I said Epictetus, I would be lying... Volume 23... Chapter 15... “He who neglects what is done for what ought to be done, sooner effects his ruin than his preservation.” Broughton’s eyes settle onto Volume 23.
+E: MORE
+C: BROUGHTON
+D: Machiavelli.
+C: PERCEVAL
+D: The prince of princes. Broughton turns back to Perceval.
+C: BROUGHTON
+D: “It’s a double pleasure to deceive the deceiver.” A hint of a smile from Perceval.
+C: PERCEVAL
+D: Ahhh. Niccolò sounds sweeter somehow, coming from you. Perceval is at his desk and reaches for an eighteen-year-old bottle of single malt from the Isle of Skye.
+C: PERCEVAL
+D: Drink?
+E: CONT’D
+C: BROUGHTON
+D: No. We hear the German version of “Major Tom” by Völlig Losgelöst PLAYING on the TELEVISION. Broughton picks up a “Penthouse” magazine from a stack on table.
+C: BROUGHTON
+D: Your library includes Larry Flint.
+E: CONT’D
+C: PERCEVAL
+D: The champion of free speech. Broughton sets the magazine back down as Perceval pours two fingers of Talisker into a heavy glass.
+C: BROUGHTON
+D: I am sorry about Gascione. Perceval raises the glass in silent tribute.
+C: PERCEVAL PERCEVAL
+D: James was a gentlemen, one hell of a spy and a true friend. I know you were close. James told me as much. Broughton remains steady and without emotion. Perceval slowly sips the scotch.
+E: CONT'D
+C: BROUGHTON
+D: I’ll need his address.
+C: PERCEVAL
+D: I’ve been there. The West Germans have been there. God only knows who else.
+C: BROUGHTON
+D: I haven’t.
+C: PERCEVAL
+D: You always get your way? The slightest smile appears at the corner of Broughton’s mouth, then disappears.
+C: BROUGHTON
+D: We’ll let that question keep you up tonight. Perceval nods and lifts his glass of scotch.
+C: PERCEVAL
+D: It’s down the street from Fehrbelliner platz. Brandenburgisher Strasse 10. It’s a walk-up. Fifth floor.
+C: BROUGHTON
+D: Gascione’s passport?
+C: PERCEVAL
+D: The police have his passport. He was carrying it.
+C: BROUGHTON
+D: Don’t you have a copy?
+C: PERCEVAL
+D: No... but don’t worry your pretty little head. The Circus called me yesterday with the number.
+C: BROUGHTON
+D: Can you write it out for me?
+C: PERCEVAL
+D: Already have. Perceval glances at his desk and hands her a piece of paper with Gascione’s passport number.
+C: PERCEVAL
+D: Anything else?
+E: CONT’D
+C: BROUGHTON
+D: Where would you recommend for dinner and a drink?
+C: PERCEVAL
+D: Is that an invitation? Broughton gives him a silent look, and that’s all Perceval needs to have his question answered. Perceval moves back to the front door and hands Broughton her coat from the hook.
+C: PERCEVAL
+D: Well then, you can’t go wrong with the Ritz off Potsdamer. The venison is marvelous. Broughton turns for the attaché office door.
+E: CONT’D
+C: BROUGHTON
+D: Thank you, Mr. Perceval.
+C: PERCEVAL
+D: You’re welcome, and feel free to drop in anytime, Ms. Lloyd. INT. WEST BERLIN - HOTEL ROOM - NIGHT Broughton pops open the back on the hardcover novel of “Shibumi” to reveal a lead lined compartment. Inside: a Narga SN mirco recording unit and thin surveillance microphone. With care Broughton tapes the wire to her lean body and then conceals the Narga SN recorder. Broughton checks herself in the mirror. Perfect. Behind her, the bathtub of ice cubes drains. Broughton steps into the room and glances at the Zenith. We see news of the German protests growing in size around both sides of the Berlin Wall. Broughton grabs her dark coat and is out the door. EXT. WATCH REPAIR SHOP - NIGHT Along a quiet street, just around the corner from Zoo Station, is a tiny watch repair shop. Broughton enters with purpose. INT. WATCH REPAIR SHOP - CONTINUOUS Broughton moves through orderly store filled with hundreds of grandfather clocks. A couple of patrons mill about the aisles. In the back of the shop, a middle-aged man known only as the WATCHMAKER stares through magnified jeweler’s glasses at the guts of a “Newman” Daytona.
+C: BROUGHTON
+D: I’d like to purchase a watch. The Watchmaker never looks up from his delicate work. With a thick German accent:
+C: WATCHMAKER
+D: I don’t sell watches. I only fix them.
+C: BROUGHTON
+D: I am looking for an East German watch.
+C: WATCHMAKER
+D: The East German watches aren’t worth wearing.
+C: BROUGHTON
+D: I am looking for a Ruhla.
+C: WATCHMAKER
+D: A Ruhla is very different.
+C: BROUGHTON
+D: I will pay a premium.
+C: WATCHMAKER
+D: I sense you’re serious. Come back tomorrow before closing.
+C: BROUGHTON
+D: Thank you. Broughton exits the shop without another word, and the Watchmaker never looks up from the precision of his work. EXT. BRANDENBURGER STRASSE 10 - NIGHT A working-class neighborhood. Broughton approaches the apartment building and deftly breaches her way inside. INT. GASCIONE’S APARTMENT BUILDING - STAIRWELL - NIGHT Broughton climbs up a dimly-light stairwell to the fifth floor landing. She quickly shims the lock and steps into apartment 5A without a sound. INT./EXT. APARTMENT 5A - CONTINUOUS Broughton moves through Gascione’s apartment and studies the details of a dead man. The CAMERA FOLLOWS her as she moves to the bedroom, examining. A closet of perfectly-folded clothes and shoes in neat rows. The bed’s made with military corners. A porthole into Gascione’s precise and orderly life. Broughton steps into the living room. She walks towards a Biedermeier Secretaire desk and picks up a framed photo. We see a young James Gascione and David Perceval in the English countryside, Holland & Holland shotguns cradled over their shoulders and freshly-killed rabbits in both of their strong hands. Broughton sets the photo down and takes in the room. Outside the window, Broughton notices the building across the street bathed in blue flashing lights. She leans towards the window for a better view. We see German polizei cars roll to a stop. A dozen OFFICERS advance towards the apartment building. INT. APARTMENT 5A/APARTMENT BUILDING HALLWAY - MOMENTS LATER Broughton moves through the hallway as she hears the polizei five floors below. Broughton pushes a sofa out of the living room and down the short hallway. She pushes the sofa out into the stairwell landing. We hear POLIZEI BOOTS four floors below. Broughton moves back to the kitchen and finds what she needs: a box of steel wool and bottle of high-proof rubbing alcohol. Broughton moves back down the hallway. We hear POLIZEI BOOTS three floors below. Broughton piles the steel wool on the sofa, soaks the sofa and steel wool in rubbing alcohol and stands back. Broughton draws a black ski mask from her jacket pocket and pulls it over her head. We hear POLIZEI BOOTS two floors below. Broughton lights a match against the wall and tosses it onto the soaked steel wool and sofa.
+C: WHOOOOM!
+D: Broughton pushes the burning sofa down the stairs at the advancing polizei and forces them to dive out of the way. The polizei push past flames and climb the stairs. Still wearing the ski mask, Broughton ducks back in the apartment and waits in the darkness. The first officer charges in with his baton in hand. Broughton slams the door and bolts it shut. As the officer turns, Broughton strikes him with blinding speed and then hanging arm throws him to the floor. The officers outside in the hallway are POUNDING on the DOOR. Broughton picks the baton and then cracks it down on the officer. He is out cold. We hear the CHAMBERING of a breaching ROUND into a shotgun, and Broughton rolls out of the way as the LOCK on the front door EXPLODES inwards. Broughton bolts through the living room as a second officer grabs her from behind. Broughton snaps her head back, crushing his nose, and then hip throws her attacker through the glass doors of the balcony. EXT. GASCIONE’S APARTMENT BUILDING - NIGHT Broughton steps over the broken glass and the officer. She quickly climbs out onto the thin features of the building. It’s not gymnastic pretty but sixty feet off the street, Broughton is strong and without fear. Broughton, now on the rooftop, quickly scans the buildings around her as she sprints across the flat roof. Three polizei officers pull themselves onto the rooftop, and the chase is on. Broughton jumps down a staggered rooftop, lands and sprints with the polizei closing in. EXT. VARIOUS ROOFTOPS - CONTINUOUS Without slowly down, Broughton jumps across onto the next rooftop and lands safely. The polizei follow her with less elegance. Broughton leaps across an open gap between the last two apartment buildings, lands on a ledge and then jumps into the void below. The three polizei run to the edge of the rooftop, only to see the human wearing a ski mask and dark winter jacket land on the thick nylon roof of a farmer’s market tent. Broughton slides down the tent roof, lands on her feet, and never looks back. The three polizei can do nothing but watch as the figure disappears into the evening crowds. PRE-LAP on the soundtrack: “Der Kommissar” by After the Fire. EXT. BERLIN STREET - NIGHT Broughton steps from a taxi and walks towards the doors of the Palm Restaurant. INT. PALM RESTAURANT - NIGHT Soundtrack shifts to a piano player behind a Bosendorfer singing a slow and sexy club version of “Der Kommissar.” Broughton walks up to an empty space at the Art Deco bar.
+C: BROUGHTON
+D: Stoli on ice. The BARTENDER nods. Broughton puts a cigarette to her lips and turns slowly to the room. A PATRON holds out a Riga metal lighter with its flame burning. Without a word, Broughton leans into the fire, lights her smoke, and only when she pulls away do... We see the Soviet KGB agent, Bremovych.
+C: BREMOVYCH
+D: Haben sie, fräulein?
+C: BROUGHTON
+D: I don’t speak German.
+C: BREMOVYCH
+D: You are British? Broughton nods her head slowly through the smoke, studying his voice.
+C: BROUGHTON
+D: And you sound Polish, with a slight affect of Slovak. Are you from the Carpathian mountains?
+C: BREMOVYCH
+D: Impressive, Miss... ?
+C: BROUGHTON
+D: Lloyd.
+C: BREMOVYCH
+D: This can’t be your only talent.
+C: BROUGHTON
+D: Talents can be overrated.
+C: BREMOVYCH
+D: Now dedication, Loyalty that is rare.
+C: BROUGHTON
+D: I agree. Broughton goes back to her Stoli.
+C: BREMOVYCH
+D: How do you like Berlin, Ms. Lloyd?
+C: BROUGHTON
+D: Exciting, so far. Mr?
+C: BREMOVYCH
+D: Bremovych. Are you on holiday?
+C: BROUGHTON
+D: On business.
+C: BREMOVYCH
+D: Aren’t we all. A woman steps to the bar behind Broughton. This is DELPHINE LASALLE. She’s a mixture of punk rock and Peter Beard muse. This the same woman who was watching Broughton at the airport and on the street.
+C: LASALLE
+D: I leave you alone for only a moment and already you are attracting admirers. Lasalle turns to Bremovych.
+C: LASALLE
+D: Monsieur, three is not always a crowd, but tonight it is.
+E: CONT’D
+C: BREMOVYCH
+D: Ahhh... French women. Bremovych looks at Broughton.
+C: BREMOVYCH
+D: What about the British? Maybe we can make some sort of arrangement?
+E: CONT’D
+C: BROUGHTON
+D: I don’t think so.
+C: BREMOVYCH
+D: My apologies. Good evening. Broughton shares a look with Bremovych, and then he exits past the restaurant tables towards the coat check.
+C: BROUGHTON
+D: Whoever you are, you have quite the high level of confidence.
+C: LASALLE
+D: No more than that communist pig. Lasalle watches Bremovych leave and then turns back to Broughton with a smile that could end the Cold War.
+C: LASALLE
+D: My name is Delphine LaSalle, and I am at your service.
+E: CONT’D
+C: BROUGHTON
+D: What makes you think I need your service, mademoiselle? Lasalle gestures to the Bartender for a drink.
+C: LASALLE
+D: A woman drinking alone is always in need of something. Allow me to be presumptuous; are you here for work or pleasure?
+C: BROUGHTON
+D: I am a lawyer for the British government. And you?
+C: LASALLE
+D: I was raised in Paris in the 18th arrondissement. My parents were teachers, and I made my way to West Berlin after studying at the Sorbonne.
+C: BROUGHTON
+D: A respectable story. And what brought you here?
+C: LASALLE
+D: The danger of course. The Bartender sets down a tumbler in front of Lasalle.
+C: LASALLE
+D: And a broken heart.
+E: CONT’D
+C: BROUGHTON
+D: I’m sure he regrets losing you. LaSalle smiles.
+C: LASALLE
+D: I am sure she does. LaSalle takes a drink and lets her sexuality hang in the air for a moment.
+C: LASALLE
+D: You must join me for a drink.
+E: CONT’D
+C: BROUGHTON
+D: What are we doing now?
+C: LASALLE
+D: This place is pretentious. My friend owns a club, and I know the city well. You’d be surprised what secrets one overhears late at night out on the town.
+C: BROUGHTON
+D: Secrets?
+C: LASALLE
+D: What every woman loves.
+C: BROUGHTON
+D: The French will never change.
+C: LASALLE
+D: It’s our charm... I’ll give you the address. Tomorrow night, around eleven. Lasalle writes out the address on a cocktail napkin. We see several paparazzi start a frenzy of STROBES by the front door.
+C: BROUGHTON
+D: What is that about?
+C: LASALLE
+D: David Hasselhoff is in town. Lasalle slides the address in front of Broughton.
+C: LASALLE
+D: Until then. Lasalle moves towards the crowd of photographers and out onto the street. We see Perceval watching from a corner table, a safe distance from being noticed by Broughton. EXT. WEST BERLIN - CITY MORGUE - DAY SUPER: “NOVEMBER 4, 1989” Broughton walks up the wide, brick steps of a government building. We see Lasalle across the street, watching Broughton enter the West Berlin City Morgue. INT. WEST BERLIN - CITY MORGUE - MOMENTS LATER The CORONER walks Broughton through the spotless corridors.
+E: CONT’D
+C: CORONER
+D: The body was identified by your attaché.
+C: BROUGHTON
+D: I believe so.
+C: CORONER
+D: This was not a question... It was a statement.
+C: BROUGHTON
+D: I am sorry. This is the first time I’ve been sent to do this. I was told you’d have his passport.
+C: CORONER
+D: It will be released with the body. After you, Ms. Lloyd. The Coroner holds the door open for Broughton. INT. CITY MORGUE - EXAMINATION ROOM - CONTINUOUS A bright, sterile world. Along the wall, stainless steel racks of cold storage hold dead bodies. The Coroner heaves a cold rack open and pulls back a thin cotton sheet from the body. Broughton stares down at James Gascione in the stillness of death. There is a moment of contemplation for a fallen friend or maybe more.
+C: CORONER
+D: He was your colleague?
+C: BROUGHTON
+D: A different department.
+C: CORONER
+D: Which department? Broughton looks at the Coroner, nice try.
+C: BROUGHTON
+D: A different one.
+C: CORONER
+D: You have the transfer papers? Broughton hands the transfer papers to him.
+C: BROUGHTON
+D: I filled them out while I was waiting downstairs. The Coroner studies the paperwork carefully.
+C: CORONER
+D: Wait one moment, please.
+C: BROUGHTON
+D: Is something the matter?
+C: CORONER
+D: The passport number is incorrect.
+C: BROUGHTON
+D: There must be some mistake. The FCO gave my attaché the number.
+C: CORONER
+D: It’s your responsibility to give me the correct papers.
+C: BROUGHTON
+D: It’s obviously the right man. The corner pulls the sheet over the body and pushes the cold rack back into the wall.
+C: CORONER
+D: I will not release this body.
+C: BROUGHTON
+D: It’s a simple clerical error.
+C: CORONER
+D: Ms. Lloyd, in Germany we don’t make clerical errors. I would advise you to talk to your embassy in Bonn. I must inform my superiors. The Coroner moves back to the door and holds it open for Broughton without another word. INT. ATTACHÉ’S OFFICE - DAY Perceval sits behind his bare desk with his dark eyes locked onto Broughton.
+C: PERCEVAL
+D: What?!
+C: BROUGHTON
+D: You gave me the wrong number.
+C: PERCEVAL
+D: The hell I did. Perceval grabs the morgue’s transfer papers from Broughton.
+C: PERCEVAL
+D: You wrote “16” where it should have been “76.” Perceval slams the paper down onto his desk.
+E: CONT’D
+C: PERCEVAL
+D: You realize the coroner will now inform the chief of police of West Berlin. They’ll probably refuse to release the body for another week while they investigate. Not to mention they’ll now suspect Gascione was an officer. Perceval pushes back from his desk and looks dead center into Broughton’s eyes.
+E: CONT’D
+C: PERCEVAL
+D: Let’s take a walk. EXT. WEST BERLIN - WALL - DAY Perceval and Broughton tread through the crisp afternoon parallel to the colorful graffiti-covered concrete of the Berlin Wall.
+E: CONT’D
+C: PERCEVAL
+D: The passport number. You’re being “creative.” Broughton’s face shows nothing.
+C: BROUGHTON
+D: You said yourself it wouldn’t take much time to pick up the body.
+C: PERCEVAL
+D: I should send you back to England.
+C: BROUGHTON
+D: I don’t think C would appreciate that very much. Perceval turns to Broughton.
+C: PERCEVAL
+D: Look... if you’re going to be here for awhile, we had better play nice with one another. Two US ARMY jeeps with SOLDIERS from the 2nd Battalion 6th Infantry patrol past. Perceval gestures towards the Brandenburg Gate.
+C: PERCEVAL
+D: How would you fancy a trip to the East tonight? I have to go check for word from Spyglass.
+E: CONT’D
+C: BROUGHTON
+D: You meeting him?
+C: PERCEVAL
+D: I never have. James turned him. Spyglass hasn’t surfaced since the exchange of the list.
+C: BROUGHTON
+D: What about Bakhtin? London said he mostly likely had it.
+C: PERCEVAL
+D: Trust your gut. If Bakhtin wanted the Russians to have it he would have given it to them. He knows the importance of that list. Bakhtin gone so deep we won’t find him until he comes up to make his move. They climb the stairs of a wooden observation platform for tourists and West Germans to see over the Wall to the East.
+C: PERCEVAL
+D: Look at it... Berlin is a city under siege, surrounded by seventy miles of barbed wire and concrete, three hundred and ten guard towers, sixty-five anti-vehicle trenches, and forty thousand heavily-armed Soviet-trained frontier troops.
+E: CONT’D
+C: BROUGHTON
+D: All that and five thousand of the GDR citizens still had the guts to escape. Perceval points and moves his hand along the ribbon of concrete. He stops at a tenebrific group of buildings on the eastern side of the Wall.
+C: PERCEVAL
+D: There’s a letter box around the back of Gantzstrasse. Terrified or not, if Spyglass knows anything, he is supposed to leave word at that dead drop.
+C: BROUGHTON
+D: Home office said Spyglass had exposed an Allied double codenamed Satchel.
+C: PERCEVAL
+D: Nonsense. I’ve heard about Satchel for years.
+C: BROUGHTON
+D: You don’t think he is real?
+C: PERCEVAL
+D: Look if he exists, which I highly doubt, he has more at stake than anyone. When this wall comes down Satchel will be ducking bullets from both sides. Perceval looks at Broughton and sizes up the moment.
+C: PERCEVAL
+D: Let’s drop the official pretense. Everything in this conversation can be off the record. Broughton nods.
+E: CONT’D
+C: PERCEVAL
+D: London sends you to gather a body and orders us both to find a list. Why?
+E: CONT’D
+C: BROUGHTON
+D: Because the KGB killed Gascione and took the list from him.
+C: PERCEVAL
+D: Partly true... Look, We are all on the damn list. You. Me. Every one of us, patriots and traitors alike.
+C: BROUGHTON
+D: That’s a bold statement.
+C: PERCEVAL
+D: You do this job long enough, you become fairly accurate.
+C: BROUGHTON
+D: Let’s not forget what we do for a living. We turn people against their closest friends, family members, and the very countries they profess to love. We exploit, corrupt, and bribe business and government officials for any scrap of advantage... Win at all costs.
+C: PERCEVAL
+D: The two World Wars in this century alone makes that rather clear.
+C: BROUGHTON
+D: To win once, you can play by the rules, but to win every time, you have to play dirty... You think London is worried for other reasons?
+C: PERCEVAL
+D: I know they are. This list is about covering the Queen’s ass not the officers that serve the Crown.
+C: BROUGHTON
+D: Welcome to Berlin. Perceval smiles at his own words being repeated to him.
+C: BROUGHTON
+D: You’re not worried Spyglass could be setting us up?
+E: CONT’D
+C: PERCEVAL
+D: It’s a possibility. Even if the Soviets knew, I doubt the KGB would try to turn Spyglass back or even pay for a train ticket to Siberia.
+C: BROUGHTON
+D: What would they pay for? Perceval calmly replies:
+C: PERCEVAL
+D: A bullet. The two stand in silence and look out over the Wall to the colorless East beyond. The stakes are clear to both of them: life or death.
+C: BROUGHTON
+D: I can’t cross tonight. I’m meeting someone.
+C: PERCEVAL
+D: The little mademoiselle from the bar last night? Broughton glances at Perceval.
+C: PERCEVAL
+D: I tell you to go to the Ritz for venison, and you go to the Palm for drinks. Perceval studies Broughton for a second.
+E: CONT’D
+C: PERCEVAL
+D: You think you’re the only one doing their job? Broughton says nothing.
+E: CONT’D
+C: PERCEVAL
+D: Just be careful. You can’t trust Frenchies. Perceval walks down the wooden stairs and leaves Broughton standing alone on the observation platform. INT. WEST BERLIN - HOTEL ROOM - NIGHT Broughton removes thin wire from her body and sets it back into the hardcover book. We see several fully recorded SN mirco tapes on the desk. Broughton stands on the bed, slides a ceiling tile back and places the novel, Narga SN and recorded tapes in the small space and slides the ceiling tile back. EXT. WEST BERLIN - ZOO STATION/WATCH REPAIR SHOP - NIGHT The night sky is without warmth. Broughton walks along the rain-soaked Kurfürstendamm. West Germans mill about the shopping district. Broughton moves into the crowds at Zoo Station and exits out the other side. She crosses the quiet street, looks over her shoulder once to confirm no one is following her and then enters the small watch repair shop. INT. WATCH REPAIR SHOP - CONTINUOUS Broughton proceeds to the back towards the workshop. The Watchmaker is hunched over another Swiss watch, never looking up from his work.
+E: CONT’D
+C: WATCHMAKER
+D: Your watch is ready. It’s on the counter in that plain envelope. Broughton picks up the plain envelope.
+C: BROUGHTON
+D: How much do I owe you?
+C: WATCHMAKER
+D: If it works to your satisfaction, we can discuss payment. Broughton puts the plain envelope inside her coat pocket without looking inside.
+C: BROUGHTON
+D: Very well. Broughton looks at the Watchmaker for a moment and then leaves. PRE-LAP on soundtrack: “The Politics of Dancing” by Re-Flex. INT. PIKE CLUB - NIGHT The smoke-heavy room is full of West Berlin’s new wave youth. Lasalle stands at the back of the room near the crowded bar as Broughton enters and approaches her.
+C: LASALLE
+D: I wasn’t certain you would show.
+C: BROUGHTON
+D: How could I resist your invitation? Broughton lights a cigarette.
+C: LASALLE
+D: You are finished with your work?
+C: BROUGHTON
+D: I may be here for a while.
+C: LASALLE
+D: Then we have to enjoy ourselves. Lasalle hands Broughton a glass of Stoli on ice.
+C: BROUGHTON
+D: You pay attention. LaSalle lifts her drink in salute.
+C: LASALLE
+D: I look for pleasure in the details.
+C: BROUGHTON
+D: I’m sure.
+C: LASALLE
+D: What is it you’d like from me? In one movement, Broughton lifts and empties her glass of vodka.
+C: BROUGHTON
+D: Another drink to start. LaSalle orders another round.
+C: LASALLE
+D: Are you enjoying the club?
+C: BROUGHTON
+D: Not really. It’s pretentious. LaSalle smiles at Broughton, leans closer and whispers in her ear.
+C: LASALLE
+D: May I take you somewhere quiet, where we can talk? Broughton looks at LaSalle and off that look -- INT. PIKE CLUB - HALLWAY - NIGHT Broughton pushes Lasalle against the hallway wall, kissing her softly, then harder and with more passion.
+C: LASALLE
+D: Ma cherie. This is how you like it?
+E: beat
+C: BROUGHTON
+D: Oh yes. Broughton pushes open the club’s bathroom door just as two young punks exit. INT. PIKE CLUB - BATHROOM - CONTINUOUS Broughton locks the bathroom door as her winter coat falls to the floor.
+C: LASALLE
+D: You like to play rough?
+C: BROUGHTON
+D: Sometimes. Broughton’s hand wraps around the small of Lasalle’s back and pulls a concealed handgun from Lasalle’s lean waist.
+C: BROUGHTON
+D: When I’m the one holding the gun.
+E: CONT’D
+C: LASALLE
+D: Wait!
+C: BROUGHTON
+D: You’ve been following me since I arrived at Tempelhof -- outside the city morgue and my colleague’s apartment.
+C: LASALLE
+D: You are mistaken. Broughton backhands Lasalle across the face, sending her to the floor.
+C: BROUGHTON
+D: Why the gun? Lasalle looks up with a thin stream of blood at the corner of her perfect mouth.
+C: LASALLE
+D: Berlin is a dangerous city.
+C: BROUGHTON
+D: Especially if you keep lying. Lasalle stares up the barrel of her own gun.
+C: LASALLE
+D: I know who you are, Miss Broughton. You’re not so well disguised as MI6 may think. You’re here, of course, because of the death of Gascione. Broughton holds the weapon steady.
+C: BROUGHTON
+D: What do you know about his death?
+C: LASALLE
+D: Only that I am interested... If someone is killing Allied officers, shouldn’t we all care?
+C: BROUGHTON
+D: You’re with DSGE? Lasalle nods her head.
+C: LASALLE
+D: Why do you think your colleague was sanctioned?
+C: BROUGHTON
+D: He was carrying a document.
+C: LASALLE
+D: That list is very sensitive. Broughton cocks the hammer back on the pistol and drops the safety off.
+C: BROUGHTON
+D: I never said list. I said document.
+C: LASALLE
+D: My colleagues in Paris were right. They informed me the “document” is very valuable. This is why you were talking to the watchmaker. Your looking for Bakhtin?
+C: BROUGHTON
+D: There is a good chance it will float onto the black market. If Bremovych is still looking for it, Bakhtin hasn’t handed it off and clearly has other plans. Lasalle leans over and picks up Broughton’s winter coat.
+C: LASALLE
+D: If it’s still in Berlin, it will surface. You must be careful. You are vulnerable. Lasalle hands Broughton her coat.
+C: BROUGHTON
+D: You’re a better liar than my station chief.
+C: LASALLE
+D: To be a spy takes a steady hand.
+C: BROUGHTON
+D: Mademoiselle. Broughton de-cocks LaSalle’s pistol and thumbs the safety on.
+C: BROUGHTON
+D: Let me show you what takes a steady hand. Broughton pulls Lasalle closer, and they fall... INT. LASALLE’S APARTMENT - NIGHT ... onto the sheets of a simple bed. Lasalle’s hand pushes back along the wall... her fingers climbing against its rough surface, finding the light switch. Broughton looks straight into Lasalle’s eyes which read equal parts temptation and fear. Broughton leans in, kisses her and gently bites her lower lip. Lasalle’s hand pulls down against the light switch and the bedroom goes dark. EXT. LASALLE’S APARTMENT BUILDING/INT. PERCEVAL’S SAAB - DAWN Broughton sits on the edge of the bed and exhales her cigarette smoke out the open window. The cold air feels good. Lasalle awakes... We see Broughton’s coat slung over the chair. RACK FOCUS... Outside the window. A beat-to-hell Saab 900 Turbo stands out among the street of parked cars. Perceval lowers a high-powered Nikon F3 and telephoto lens. We see a “Seceret Service Style” ear bud in his ear. The headlights of the Saab illuminate, and Perceval pulls out into the morning. HARDCUT BACK TO: INT. CENTURY HOUSE - ISO-FAC - DAY Broughton leans forward and taps her Woodbine in the ashtray. A dozen used cigarettes rest there now. Gray threads a fresh reel to reel onto the NAGRA III and CLICKS record.
+E: CONT’D
+C: GRAY
+D: So you made contact with the French operative.
+C: BROUGHTON
+D: Yes... You could say that.
+C: GRAY
+D: Could she be Satchel?
+C: BROUGHTON
+D: No. Gray looks at Kurzfeld and then scribbles a note into the TS folder.
+C: GRAY
+D: What was your assessment?
+C: BROUGHTON
+D: I believed she had information that I could either use or exploit. INT. WEST BERLIN - HOTEL ROOM - MORNING An etiolated morning light comes through the window. Broughton has the open plain envelope on the small desk in front of her. Broughton takes apart the back of the Ruhla wristwatch with a small screwdriver. She releases the pressure from the main spring and disassembles the watch movement using the pry points. Broughton lifts the wheel plate and turns it over with a small tweezer. We see engraved on the inside are a column of numbers. Broughton removes the escape and sweep wheels. She sets them on the desk with the rest of the internal parts. Broughton lays out a map of West and East Berlin. She looks at the column of engraved numbers. First number in the sequence is 06. Broughton finds the number 06 on the map, and it tallies with Checkpoint Charlie. Broughton looks to the next number: 7E. Broughton takes the tiny sweep wheel from the watch and rolls it on its edge 7 times in the direction of East, matching the 7E directive, and lands on the next engraved number 01. Broughton repeats this action from position 01. 3N is the next number, and Broughton rolls the sweep wheel 3 times in the direction of North. She lands on number 12 on the grid coords of her map. Broughton looks to the engraved numbers again. 2E is the last number. Broughton rolls across the map 2 times in the direction of East. She stops, lifts the sweep wheel and marks the rendezvous point on the map. Broughton commits every detail of the map to her memory and begins to reassemble the watch. EXT. CHECKPOINT CHARLIE - DAY SUPER: “NOVEMBER 5, 1989” Broughton waits to cross into East Berlin. A formidable- looking EAST GERMAN GUARD stares down at Broughton’s passport, then back into her face.
+C: EAST GERMAN GUARD
+D: You should have applied for a visitor’s permit. What kind of work do you do?
+C: BROUGHTON
+D: Legal affairs, I’m a lawyer. The East German Guard looks down again at her passport.
+C: EAST GERMAN GUARD
+D: Wait here. The East German Guard takes her papers and speaks with his SUPERIOR as Broughton waits. The East German Guard makes a phone call, then returns with Broughton’s passport and hands it back to her.
+C: EAST GERMAN GUARD
+D: If you do not return before six o’clock, you will be arrested. Do you understand?
+E: CONT’D
+C: BROUGHTON
+D: Yes. Of course. EXT. EAST BERLIN - DAY Broughton moves past an assembly of protesting EAST GERMAN YOUTH near the blank concrete Wall. Broughton walks the local streets. As she moves, she glances at her reflection in a store window. We see two young STASI OFFICERS shadowing her. Broughton steps up her pace. The two Stasi officers continue to follow her. Broughton moves through a crowded S-Bahn station and out the other side. The Stasi still follow... farther back now. Broughton moves towards a large set of shops at the base of the East Berlin TV tower. We see a government sedan pull to the curb. The Stasi officers turn to the government sedan. Bremovych and his driver are in the front seat. In the rear seat sit two KGB officers, the same two rough men from Gascione’s assassination.
+C: BREMOVYCH
+D: Bring her to me. The KGB officers step from the back of the car and join the two Stasi officers. Broughton now has double the trouble walking towards her. EXT. KINO INTERNATIONAL CINEMA - CONTINUOUS Broughton moves towards a local cinema named the Kino International. INT. KINO INTERNATIONAL CINEMA - LOBBY - CONTINUOUS Broughton moves through the doors and into the mid-century modern lobby.
+C: THEATER
+D: Broughton quickly moves into the dark and packed theater. The Stasi and KGB officers chase after her. We see Richard Attenborough’s “CRY FREEDOM” and a young Denzel Washington on the screen. Broughton egresses through the row of people, running down the aisle, then behind the aged-silk movie screen. Broughton reaches up onto the movie theater wall and pulls down hard on the FIRE ALARM! The audience jumps from their seats and floods the exits as the Stasi and KGB pursue Broughton. Broughton melts into the crowd and disappears out the back doors in the mass exodus of patrons. EXT. KINO INTERNATIONAL CINEMA - MOMENTS LATER Bremovych and his driver pull to the curb at the rear of the movie theater. The Stasi and KGB search the crowd outside for Broughton. Nothing.
+C: BREMOVYCH
+D: Keep looking for her. The two KGB officers move away from Bremovych’s sedan and back towards the crowd. EXT. EAST BERLIN - DAY Broughton moves through the bombed-out neighborhood left over from the Second World War. She enters an abandoned building on the southwest corner of Arnimplatz. INT. ABANDONED BUILDING - ROOFTOP - CONTINUOUS Broughton moves up a set of crumbling stairs towards the roof. The Berlin Radio Tower looms close. Broughton steps onto the rooftop. We see the young Bartender from the East German Club sitting in one of two lawn chairs on the roof. His newly-dyed hair and tattoos are visible from under his plain jacket. This is MERKEL.
+C: MERKEL
+D: You’re late.
+E: BARTENDER
+C: BROUGHTON
+D: I know.
+C: MERKEL
+D: And you were followed.
+C: BROUGHTON
+D: I lost them twenty minutes ago near the Palast der Republik.
+C: MERKEL
+D: You’re as good as your reputation.
+C: BROUGHTON
+D: I’m already known by reputation?
+C: MERKEL
+D: To the right people. Merkel sits in one of the lawn chairs and looks out across the drab rooftops to the West.
+C: BROUGHTON
+D: Is this the best place for a rendez- vous? Merkel points towards the Orwellian tower.
+C: MERKEL
+D: Keep your enemies close. Please have a seat.
+C: BROUGHTON
+D: No thanks.
+C: MERKEL
+D: The watchmaker told me there has been great interest in the black market over the last few days.
+C: BROUGHTON
+D: I am looking for --
+C: MERKEL
+D: A list... It is the desire of you and every foreign officer.
+C: BROUGHTON
+D: Do you know who has it?
+C: MERKEL
+D: Some say Bakhtin has it others say he doesn’t.
+C: BROUGHTON
+D: Where is he?
+C: MERKEL
+D: No one knows. All this talk of Satchel has people nervous on both sides of the wall.
+C: BROUGHTON
+D: If Bakhtin or the list surface you must let me know.
+C: MERKEL
+D: The price will be extremely high.
+C: BROUGHTON
+D: We will not be outbid. Broughton hands Merkel a fist full of Deutschmarks.
+C: BROUGHTON
+D: Five thousand marks to get you started. Broughton moves across the rooftop and down the dilapidated staircase. INT. WEST BERLIN - HOTEL ROOM Broughton laces the wire and SN mirco recording device back onto her body with flawless detail. Checks herself in the mirror, grabs her coat, and is out the door. INT. WATCH REPAIR SHOP - NIGHT The Watchmaker is busy at work, when a solitary man enters the shop and moves towards the back to speak to him. Only when the man arrives do we reveal it is Bakhtin.
+E: CONT’D
+C: BAKHTIN
+D: I am interested in selling a watch? The watchmaker continues his accurate work.
+C: WATCHMAKER
+D: Tell me what you are selling?
+C: BAKHTIN
+D: It’s extremely valuable and the finest quality. The watchmaker looks up at Bakhtin.
+C: WATCHMAKER
+D: You have my complete attention. EXT. WEST BERLIN - NIGHT The neon signs are bright. The KaDaWe department store is open late, and all is bustling along the Kurfürstendamm. INT. WEST BERLIN - ROUGH TRADE BAR - NIGHT It’s a leather bar. On the wall, a mural-sized painting of a young Ronald Reagan in biker chaps à la “Daddy and the Muscle Academy” by Tom of Finland. We hear “You Spin Me Round” by Dead or Alive PLAYING on a
+C: JUKEBOX.
+D: The room is filled with men enjoying men and women enjoying women. Save for Perceval and Broughton, who sit in a red vinyl booth against a wall.
+C: PERCEVAL
+D: Berlin is like a beautiful woman gone bad.
+C: BROUGHTON
+D: That why you like it here so much?
+C: PERCEVAL
+D: Nowhere else in the world has such a concentration of musicians, artists, filthy squatters, junkies, and hedonists. I don’t like it here. I love Berlin. Broughton looks across at two men wearing full dress whites, clearly more Village People than US military.
+C: PERCEVAL
+D: Spyglass left us a message. We guarantee safe passage, and he will cross over.
+E: CONT’D
+C: BROUGHTON
+D: Why take the risk when we can just wait until the Wall comes down? Perceval raises his beer, about to drink.
+C: PERCEVAL
+D: The entire Soviet bloc is on edge. Haven’t you seen the bloody protests on the news?
+C: BROUGHTON
+D: I saw one this morning on Unter den Linden. Perceval stares at her, his beer still as stone in front of him. He slowly lowers the glass.
+C: PERCEVAL
+D: You went to the East? What in the hell were you thinking?
+C: BROUGHTON
+D: That it was best you didn’t know.
+C: PERCEVAL
+D: Why not?
+C: BROUGHTON
+D: Deniability. Perceval leans forward for impact.
+C: PERCEVAL
+D: This isn’t a goddamn game. NATO has over ten thousand warheads, and the Russians have half that number. Perceval stares at Broughton.
+C: PERCEVAL
+D: So while you skip around the East, try and grasp the blowback if something were to happen to you.
+E: CONT’D
+C: BROUGHTON
+D: Nothing happened, and I needed to secure the trust of my contact.
+C: PERCEVAL
+D: You can’t trust the Frenchie?
+C: BROUGHTON
+D: This contact is a man.
+C: PERCEVAL
+D: Well now, you are playing all the angles.
+C: BROUGHTON
+D: We need ground truth to find that list. I won’t need to go over again.
+C: PERCEVAL
+D: On the contrary. Spyglass is in hiding and desperate to get out. Gascione’s death has everybody jumpy. Right now, the people in the Stasi don’t know if they’re going to be staring at a firing squad or freedom.
+C: BROUGHTON
+D: This is my first time in Berlin.
+C: PERCEVAL
+D: I’m not sure if I believe you. Broughton leans back into the booth slightly.
+C: BROUGHTON
+D: Believe what you want.
+C: PERCEVAL
+D: Spyglass is an asset that we can’t lose. Right now, he is scared, and scared people make mistakes.
+C: BROUGHTON
+D: We need him out before the KGB or the Stasi discover his treason. Perceval quickly scans around their table and firmly grabs Broughton’s arm to get her attention.
+C: PERCEVAL
+D: Keep your voice down. I’m still your number one, and you work for me. Broughton says nothing, only looks at Perceval’s hand on her bicep. Perceval gets the point and releases his grip.
+C: BROUGHTON
+D: Don’t ever touch me again. Now you listen. I am here on C’s direct orders. My work does concern you, but you’re mistaken to think it’s under your purview. Broughton stands and shoulders her winter coat.
+C: BROUGHTON
+D: I don’t have to take orders from you. So with all due respect, you can go fuck yourself. Broughton walks out the door without another word. EXT. WEST BERLIN - NIGHT Cold rain. Perceval steps outside as Broughton walks down the sidewalk.
+E: CONT’D
+C: BROUGHTON
+D: Come on... 3... 2... 1... Perceval jogs after her.
+E: to herself
+C: PERCEVAL
+D: Wait. Perceval catches up to Broughton at a taxi stand.
+C: PERCEVAL
+D: I can’t operate alone on this one.
+E: CONT’D
+C: BROUGHTON
+D: So get the American. Kurzfeld seems happy to share your bed.
+C: PERCEVAL
+D: Out of the question. The Americans would have Spyglass on an aircraft back to Langley without his feet ever touching the ground. I need your help. Perceval extends his hand.
+C: PERCEVAL
+D: Truce? Broughton takes a moment, and then her hand meets his.
+E: CONT’D
+C: BROUGHTON
+D: Don’t make me regret it. Broughton releases his hand, opens the taxi door and gestures for Perceval to join her. INT./EXT. TAXI - MOMENTS LATER Broughton looks to the German TAXI DRIVER and then to Perceval.
+C: BROUGHTON
+D: Kasier Whelm. Broughton glances towards the taxi driver, and Perceval knows without saying anything . Broughton speaks Arabic. Perceval replies in Bahasa.
+E: For operational security use a geminate-conversation
+C: BROUGHTON
+D: Bakhtin is a ghost.
+E: CONT’D in Arabic
+C: PERCEVAL
+D: Seems to be.
+E: in Bahasa
+C: BROUGHTON
+D: Did Spyglass photograph the list?
+E: in Arabic
+C: PERCEVAL
+D: No. He committed the entire list to memory.
+E: in Bahasa
+C: BROUGHTON
+D: Then if we have Spyglass, we won’t need the list.
+E: in Arabic
+C: PERCEVAL
+D: Precisely, We break him out. Don’t worry I can make allowances for you being unseasoned.
+E: in Bahasa
+C: BROUGHTON
+D: I’ve jumped the curtain more times than you have wished Maggie Thatcher dead.
+E: in Arabic
+C: PERCEVAL
+D: Not here... not in Berlin.
+E: in Bahasa
+C: BROUGHTON
+D: What about the tunnels? When was the last time they were used?
+E: in Arabic
+C: PERCEVAL
+D: Stay out of the tunnels. We need something out of the box. Broughton takes a moment and then replies with confidence.
+E: in Bahasa
+C: BROUGHTON
+D: The East Germans are planning a large demonstration at Alexanderplatz. The Stasi security services will be spread thin. The taxi slows to a stop. We see they’re outside the bombarded ruins of the Kasier Whelm Memorial Church. Perceval hands the driver several D-marks and exits. Broughton follows him onto the sidewalk. They now return to English.
+E: in Arabic
+C: PERCEVAL
+D: Bring him out in daylight?
+C: BROUGHTON
+D: We will use the protest as cover.
+C: PERCEVAL
+D: It’s bold. Broughton’s determination is clear to Perceval.
+C: BROUGHTON
+D: You get us in and I’ll get us out.
+C: PERCEVAL
+D: Deal... Where do you want Spyglass to meet us? I’ll drop him a message.
+C: BROUGHTON
+D: There is an abandoned building on the southwest corner of Arnimplatz. I’ll need two days with my contact to make the arrangements. Perceval nods.
+C: PERCEVAL
+D: One more thing, your Arabic is piss poor. Broughton turns, and without missing a beat, calls out over her shoulder.
+C: BROUGHTON
+D: And your Bahasa is shit. Perceval watches her go, then lifts his coat collar to the cold and moves out alone into the night. EXT. WEST BERLIN - DAY SUPER: “NOVEMBER 7, 1989” Broughton wears a jet black wig and a simple brown overcoat. She enters an S-Bahn station. EXT. S-BAHN STATION - MOMENTS LATER Broughton waits on the platform on the U6 line. The train arrives, and she steps into the matte-red train car. INT. U6 TRAIN CAR - CONTINUOUS The car is empty as Broughton sits next to Perceval. The train rolls down the tracks towards East Berlin.
+C: PERCEVAL
+D: Next stop is Friedrichstrasse. On the south side of the station there is a green service door marked “Diensteingang” for the Deutshe Reichsbahn employees. The train begins to slow for the upcoming station.
+C: PERCEVAL
+D: The Red Army terror cell and the West German communist party used it for years. On January 18, 1979, I led out the East German double Werner Stiller.
+E: CONT’D
+C: BROUGHTON
+D: That was you.
+C: PERCEVAL
+D: My first dance, and I’ve been using the breach point for the last ten years. Broughton and Perceval stand to exit.
+C: PERCEVAL
+D: Just do as I do. The doors open, and they step out into the station. INT./EXT. S-BAHN STATION #2 - CONTINUOUS They walk through the station until they reach a green metal door marked just as Perceval said: “Diensteingang.” Perceval waits a beat for several workers to pass and then produces a small key and opens the door. Broughton and Perceval slip inside without a wasted movement.
+E: CONT’D
+C: CONTROL ROOM/HALLWAYS
+D: They move through an empty control room and down several dimly-light hallways until they reach an exterior door.
+C: PERCEVAL
+D: Hold. Perceval looks out through the dirty industrial glass window at four East German guards standing at attention across the street. Perceval looks at the sweep hand of his watch.
+C: PERCEVAL
+D: They turn their backs at the changing of the guard. Outside, four more East German guards goose step towards the group standing at attention. Perceval locks eyes onto Broughton.
+E: CONT’D
+C: PERCEVAL
+D: Three seconds to get out of this door and around the building before we’re seen. Outside, the guards goose step to a stop. As their comrades step off duty, the others step forward.
+E: CONT’D
+C: PERCEVAL
+D: Now. Perceval opens the metal service door, and they exit in a steady walk. Broughton and Perceval turn the corner just as the East German guards pivot and stand at attention, never seeing them exit the station. EXT. EAST BERLIN - NEIGHBORHOOD/ABANDONED BUILDING - DAY Broughton and Perceval move through a barren neighborhood and quickly enter the door of the abandoned building. From across the street, Spyglass watches their movements with apprehension. INT. ABANDONED BUILDING - MOMENTS LATER Broughton and Perceval descend the stairs to the basement. As they turn the corner, they find Merkel waiting.
+E: CONT’D
+C: MERKEL
+D: Ms. Lloyd speaks highly of you. Perceval looks to Broughton.
+C: PERCEVAL
+D: And you as well. At the top of the stairs, Spyglass appears, and all three of them turn. Broughton motions to Merkel.
+C: BROUGHTON
+D: Watch the street to make sure he wasn’t followed. Merkel nods and moves up the stairs past Spyglass. Perceval steps forward towards Spyglass.
+C: PERCEVAL
+D: I am confident Ms. Lloyd can get you across. Broughton approaches Spyglass and holds out a small package from Perceval’s office.
+C: BROUGHTON
+D: You smell like a Stasi officer. Broughton gestures to a small adjoining room.
+C: BROUGHTON
+D: There is a bucket of water. Shave off your moustache. Use this soap and cologne, it is from the West. Spyglass takes the package and does as he is told.
+E: CONT’D
+C: PERCEVAL
+D: How big is this protest supposed to be, anyway?
+C: BROUGHTON
+D: Thousands. Merkel comes back down the stairs.
+C: MERKEL
+D: He wasn’t followed. Merkel steps to a small table and rolls out a kitchen towel. Inside the towel is a Markov pistol.
+C: MERKEL
+D: Per your request. Broughton chamber-checks the weapon and indexes the trigger perfectly to her hand. Broughton closes her eyes, feels the pistol’s weight, then finally looks down at the crisp profile of the front sight. We have just witnessed flawless muscle memory and Broughton’s mastery of a weapon.
+E: CONT’D
+C: BROUGHTON
+D: It will do. Broughton seats a loaded magazine, racks the slide and thumbs the safety. Clocked and locked, she slips the pistol into her waistband.
+C: BROUGHTON
+D: Everything else ready?
+E: CONT’D
+C: MERKEL
+D: Yes. All the details you requested. I’ll lead you around the corner towards Alexanderplatz and let you handle the crossing.
+C: SPYGLASS
+D: I am ready. Broughton turns back to a clean-shaven Spyglass.
+C: BROUGHTON
+D: What about his shirt?
+C: MERKEL
+D: I wouldn’t be caught dead in it, but for him, it’s prefect.
+C: BROUGHTON
+D: Stand over here. A 6x6 foot patch of the wall has been freshly painted pale yellow. Spyglass stands in front of the yellow patch.
+C: BROUGHTON
+D: Face him and look like a free man. Merkel steps forward and with a POLAROID LAND CAMERA -- CLICK! FLASH! -- Merkel pulls the film from the camera back, steps aside to a small folding card table and gets to work.
+E: CONT’D
+C: BROUGHTON
+D: What did you tell your commanding officer?
+E: CONT’D
+C: SPYGLASS
+D: I was going to tell him I was sick, but my family and I’ve been in hiding since the other night. Spyglass is about say more when Perceval interrupts.
+C: PERCEVAL
+D: Do you know anyone at Oberbaumbrücke?
+C: SPYGLASS
+D: No.
+C: BROUGHTON
+D: Any colleagues?
+C: SPYGLASS
+D: No. They are all at the demonstration. I checked the work rotations weeks ago. Merkel hands Perceval a forged West German passport. Perceval opens the lead page. Spyglass’s new photo is attached and stamped perfectly with the DDR-embossed seal. Perceval hands it to Spyglass.
+C: BROUGHTON
+D: You are Johann Schmidt, resident of West Berlin. I am your English wife, Mary. You are a banker, and we have a daughter.
+C: SPYGLASS
+D: What is her age? My daughter is four.
+C: BROUGHTON
+D: Then she is four. Broughton looks to Perceval.
+C: BROUGHTON
+D: We have been visiting your brother Hans on this street. Memorize all of this, because you will be doing the talking. My German is terrible.
+E: CONT’D
+C: SPYGLASS
+D: Who sends a woman who speaks no German?
+C: PERCEVAL
+D: The same people who are going to give you a cottage in the countryside with a little garden. Spyglass looks at Merkel, who says nothing.
+C: BROUGHTON
+D: Take off all your clothes. Spyglass turns around, visibly unsettled by her request.
+C: SPYGLASS
+D: I will not be treated like I am a common prisoner. Broughton glances at Perceval and then back to Spyglass.
+C: BROUGHTON
+D: Shut up... You do what I say when I say it. You have two minutes to strip naked. Everything! You will take nothing from the East to the West. Nothing. Do you understand? Spyglass stares at her silently. Broughton points at the package wrapped in brown paper sitting on the table.
+C: BROUGHTON
+D: That’s underwear, socks, clothes, shoes, belt, scarf, and coat. Merkel sets down a wallet and a set of keys next to the brown paper package of clothes.
+E: CONT’D
+C: BROUGHTON
+D: You now have a wallet, forged documents, German driver’s license, bank card, Dmarks, and house and car keys. Spyglass just stands there.
+E: CONT’D
+C: BROUGHTON
+D: Herr Schmidt, you have ninety seconds. Spyglass strips down completely naked and begins to pull on the underwear and socks. Then, we hear a NOISE and Broughton draws and levels her pistol at the top of the stairs.
+E: CONT’D
+C: SPYGLASS
+D: No!
+C: MERKEL
+D: Show yourself! From the darkness appears a plainly-dressed East German woman and a young girl of four years . Merkel looks at the woman and child.
+E: in German HELENA AUDREY
+C: MERKEL
+D: Jordache. Nice touch. Perceval turns to Spyglass.
+E: CONT’D
+C: PERCEVAL
+D: Who the hell is this?
+C: SPYGLASS
+D: My family.
+C: PERCEVAL
+D: I told you I couldn’t guarantee to get them across. Half-dressed, Spyglass moves towards his wife and child.
+C: SPYGLASS
+D: Please, you must help us. Broughton looks at Perceval.
+C: BROUGHTON
+D: You said you never met Spyglass. Perceval remains silent, and Broughton looks to Spyglass.
+C: SPYGLASS
+D: Of course we have met.
+C: PERCEVAL
+D: Enough! Spyglass stops talking. His wife and child are frightened.
+C: BROUGHTON
+D: Where?!
+C: SPYGLASS
+D: At a bar in East Berlin. Broughton turns to Perceval, who knows he has been caught. We hear the CROWDS of demonstrators outside MARCHING.
+C: MERKEL
+D: The protest is coming. Broughton doesn’t look away from Perceval.
+C: BROUGHTON
+D: You lied to me.
+C: PERCEVAL
+D: We’re all liars, and you know that. My lies are reserved for work. Now you know the truth, so that makes us friends. Perceval looks to Spyglass, the woman and the little girl.
+C: PERCEVAL
+D: So let’s drop the righteousness and get this family across. We hear the SWELL of the CROWDS outside now. Broughton looks at the scared faces of Spyglass and his family.
+E: CONT’D
+C: BROUGHTON
+D: Can you get them over?
+C: PERCEVAL
+D: Yes. Broughton turns back to group.
+C: BROUGHTON
+D: You will stay with me, Herr Schmidt. You have 60 seconds to finish getting dressed. Spyglass hugs his wife and child and pulls the rest of his clothes on. EXT. EAST BERLIN - DAY Perceval scans the streets. Merkel hands Broughton an umbrella at the doorway of the abandoned building. Spyglass and his family are at his side. We hear the distant CROWDS from Alexanderplatz.
+C: MERKEL
+D: Good luck. The PROTESTERS slowly surge around the corner and begin to march past them. Merkel steps into the loud crowd moving down the streets. Spyglass kisses his wife and daughter who have tears streaming down their faces.
+C: SPYGLASS
+D: You must listen to your mother now, and be a brave little girl. Perceval removes a East German Ushanka from his overcoat and puts it on his head. Perceval takes off his overcoat to reveal the green uniform and shoulder boards of an East German Oberst . Spyglass kisses his wife again.
+E: in German; to daughter fur-lined officer’s hat Colonel
+C: SPYGLASS
+D: You must go with him now.
+E: CONT’D in German
+C: PERCEVAL
+D: We’ll see you in West Berlin. Perceval and Spyglass’s family quickly blend into the thousands of East Germans and disappear down a side street. Broughton lifts her umbrella.
+C: BROUGHTON
+D: Let’s go. Broughton and Spyglass step into the groundswell of the protest. INT./EXT. BUILDING - 7TH FLOOR - DAY The same two KGB rough men are back, dressed in matching track suits. They occupy a gutted room. One works as a SNIPER and the other as his SPOTTER. They’re set back from the window behind a Dragunov rifle and high-powered optics. We see them scan the crowd below with precision, searching for their target. EXT. EAST BERLIN - DAY Broughton looks to Merkel in the crowd, then lifts her black umbrella. Merkel nods, and throughout the crowd, dozens of black umbrellas begin to open. INT./EXT. BUILDING - 7TH FLOOR - SAME The Sniper watches through his Dragunov scope as umbrellas begin to pop up and conceal the protesters. The Sniper glances at his spotter, who is unsure of what to do. We see a sea of a hundreds of umbrellas on the streets below. EXT. EAST BERLIN - CONTINUOUS On the street, the crowd swells in size and closes the distance to the border laced thick with concertina wire. The EAST GERMAN GUARDS watch the protesters as they advance towards the Oberbaumbrücke checkpoint. Broughton turns to Spyglass as he leans into her.
+E: from the Gascione assassination and movie theater scene
+C: SPYGLASS
+D: Ms. Lloyd. Spyglass’s face reveals distress as he takes a few weak steps and staggers to his knees. We see dark blood soaking down Spyglass’s back as the crowd of protesters comes apart. We hear a SHOT ECHO off of the tall buildings.
+C: CHAOS!
+D: Umbrellas drop to the ground. Broughton’s eyes scan through the terrified protesters as East German Guards begin running in all directions. INT./EXT. BUILDING - 7TH FLOOR - CONTINUOUS The Spotter calls distance, bullet drop, and wind. The Sniper’s trigger fires with a smooth cadence. They search the street below for their target. EXT. EAST BERLIN - CONTINUOUS Across the street, Broughton pulls Spyglass behind a parked car to safety.
+C: SPYGLASS
+D: I’ve been shot.
+C: BROUGHTON
+D: I know. Broughton scans the buildings and rooftops. Another ROUND DEFLECTS off the hood of the car and POUNDS into the wall of the building.
+C: BROUGHTON
+D: They have the high ground. Broughton grabs the side mirror of the car and angles it back towards the buildings. She is looking for the Sniper from the trajectory of the incoming rounds. We see the slight glint of a rifle’s optics.
+E: CONT’D
+C: BROUGHTON
+D: I’ve got them. Broughton pulls Spyglass’s scarf from around his neck and hands it to him.
+E: CONT’D
+C: BROUGHTON
+D: Listen to me. Apply direct pressure.
+E: CONT’D
+C: SPYGLASS
+D: I don’t want to die. Broughton slaps Spyglass’s face as hard as she can to get his complete attention.
+C: BROUGHTON
+D: You will NOT die! Say it. Spyglass puts the scarf against his wound with new resolve.
+C: SPYGLASS
+D: I will not die... I will not die...
+C: BROUGHTON
+D: Direct pressure.
+C: SPYGLASS
+D: Direct pressure... I will not die... Direct pressure...
+C: BROUGHTON
+D: Can you run?
+C: SPYGLASS
+D: If I must. Broughton grabs Spyglass, and they sprint across the street towards the base of the Sniper’s building. INT. BUILDING - 7TH FLOOR - CONTINUOUS The Spotter provides security in the doorway as the Sniper breaks down and bags his rifle. The sniper team moves out into the hallway and SLIDES the bagged weapon down a coal shoot. INT. BUILDING - VARIOUS - CONTINUOUS Broughton and Spyglass enter the lobby.
+C: BROUGHTON
+D: Stay right here. Spyglass leans against the base of the staircase. Broughton takes off her coat and reverses it, quickly changing the color from brown to green. Broughton exhales through her nose, slows her heart rate, and heads up the stairs. First floor... Second... Third... and, as she is turning the corner to the fourth floor landing, the sniper team appears, coming down two steps at a time.
+C: SNIPER
+D: Entschuldigung, fräulein. Broughton passes them on the stairs, and they pass her. We see Broughton’s pistol press against the back of the Sniper’s head.
+C: BROUGHTON
+D: That accent sounds distinctly Muscovite to me. Without hesitation, the young Sniper spins and disarms Broughton. The PISTOL SKITTERS across the tile floor. The Sniper draws and raises his own Markov when Broughton charges and disarms the weapon.
+E: in Russian
+C: FIGHT TIME!
+D: Two highly-trained men against one bad-ass woman. It is close. Brutal. And extremely violent. Punches, knees and elbows thrown from both sides. The two men are relentless with their attack on Broughton. The Sniper knees Broughton in the face, and her body crumples to the floor, broken. The Spotter picks Broughton up and is about to finish her off when... Broughton smashes her head into the Spotter and drives her thumb into the Sniper’s eye. Broughton’s body slams against the wall, sending plaster dust into the air. They fight on. We watch as three savages beat the living hell out of each other in a dingy staircase in East Berlin. The Spotter leaps for the one of the disarmed pistols, but Broughton is there to stop him. They struggle for the weapon and roll across the landing. The Spotter pounds his fists into Broughton’s body. Broughton escapes the barrage onto her back just as the Spotter raises the Markov pistol to her head. Broughton uncoils her body, thrusts her legs into his chest and launches the Spotter backwards into the dazed Sniper. They both disappear over the stair railing without so much as a whimper. Four floors of FREE FALL and then they SLAM onto the lobby floor next to Spyglass. Broughton picks up her pistol from the floor and calmly walks down the stairs. Broughton picks up the second pistol from the lobby floor and then steps past the two dead bodies.
+C: BROUGHTON
+D: Let’s go. Broughton and Spyglass move on. Broughton never looks back. EXT. EAST BERLIN - DAY Broughton and Spyglass move down the street littered with black umbrellas.
+E: CONT’D
+C: SPYGLASS
+D: I can’t.
+C: BROUGHTON
+D: Yes, you can. Two unarmed EAST GERMAN GUARDS see Broughton supporting Spyglass, who’s soaked in blood.
+C: EAST GERMAN GUARD
+D: Halt! The two East German Guards jog towards them.
+C: BROUGHTON
+D: Keep walking.
+C: EAST GERMAN GUARD
+D: Halt! Broughton turns and points her pistol directly at the two unarmed East German Guards. They back away, hands in the air, and then turn and break into a full run. Broughton sees what she wants. She takes two steps to a parked Trabant sedan.
+C: SPYGLASS
+D: How can you be so confident?
+C: BROUGHTON
+D: I allow for no other option. Broughton swings the door open and grabs a handful of wires beneath the dash. A few seconds is all Broughton needs to get the engine turned over. Broughton shifts her eyes down the street several blocks. We see a dozen East German frontier troops running up the hill toward them with their weapons drawn. INT./EXT. SEDAN - CONTINUOUS Broughton watches in the rear-view mirror.
+C: BROUGHTON
+D: Hold on. Broughton jams the sedan in drive, cuts the wheel hard and spins out across the cobblestone streets. The East Germans jump into several military cars and give chase after Broughton. This is FRENCH CONNECTION meets BULLITT but through the streets of East Berlin 1989! Broughton races the stolen sedan through featureless neighborhoods. A half-dozen East German military cars hunt her at breakneck speed. Broughton rallies down a narrow alleyway, out onto a wide street and through a gauntlet of near misses. Two East German military cars try to block her route. Broughton smashes through a crude roadblock and spins the military cars like tops. Several more East Germans’ cars join in the hot pursuit. Broughton’s side WINDOW EXPLODES and sends glass through the sedan. Broughton has had enough. Broughton slides to a stop, jams her sedan into reverse, then draws and empties the Markov pistol out the windowless hole to her side. BULLETS STRIKE into the pack of pursuing military cars. Broughton whips the sedan back around as three more East German cars pile up in a smoking heap.
+C: SPYGLASS
+D: We’ll never... make it.
+C: BROUGHTON
+D: We’ll make it. Broughton’s sedan is up on the sidewalk, flying over and through most every obstacle as the East German noose tightens around her. Out the window, the Friedrichstrasse Station can be seen a few blocks away.
+C: BROUGHTON
+D: It’s just ahead. Broughton slides the sedan around the corner and towards the station when a East German T55 tank rolls down the street at them, stops and levels its big gun at them. Broughton looks in her rear-view mirror at the military cars coming up behind her. Broughton scans her surroundings. Broughton reverses the tiny sedan.
+E: CONT’D
+C: BROUGHTON
+D: Hold on! Broughton yanks the steering wheel hard and slides the sedan onto a narrow street above the Spree River. She jams it into gear, and they race on. Without warning, an East German military truck slams into the sedan from a side street. The tiny sedan buckles on impact. Broughton and Spyglass flip end over end and plunge into Spree River. The cold water pours into car from the shattered window. The sedan quickly disappears and is consumed by the dark river. Broughton remains calm as the cold water rushes in.
+E: CONT’D
+C: SPYGLASS
+D: My foot is trapped. Spyglass pulls at his trapped leg.
+C: BROUGHTON
+D: I’ll get you out. Broughton unbuckles herself and leans across to aid Spyglass. She pulls at his leg. Nothing. Broughton dives under the rushing water and tries to release his foot. Nothing. She surfaces, and the water continues to rise past their chests.
+C: BROUGHTON
+D: I WILL get you out! Broughton is about to dive under the water again, when Spyglass grabs her.
+E: CONT’D
+C: SPYGLASS
+D: The last thing I am told can’t be another lie. Spyglass’s eyes are pure and without fear. The water fills up to both of their shoulders. Spyglass grabs Broughton’s hand.
+C: SPYGLASS
+D: My wife, Helena, and daughter, Audrey -- tell them I love them. Promise me. Broughton nods as the water reaches their necks.
+E: CONT’D
+C: BROUGHTON
+D: I promise.
+C: SPYGLASS
+D: Go... Save yourself. They each take one last breath as the cold water covers them. Broughton holds onto Spyglass’s hand until his body convulses and relaxes in death. The tiny sedan twists in the river’s current. Broughton pushes the car door open. She glances back at Spyglass’s lifeless body and then never looks back again... Broughton swims underwater through the wintry river. She doesn’t have much time. HARDCUT BACK TO: INT. CENTURY HOUSE - ISO-FAC - DAY CLOSE ON THE NARGA III DECK and the tail of the tape flapping on another full reel.
+C: KURZFELD
+D: Do you need to take a break?
+C: BROUGHTON
+D: No. Broughton lights another Woodbine and watches in silence as Gray pulls the tape archive off of the deck, drops a fresh one on and threads it.
+C: GRAY
+D: I am ready when you are. Gray CLICKS record, and the reel starts back up again.
+C: BACK TO:
+D: EXT. SPREE RIVER - MOMENTS LATER Broughton’s head breaks the surface, and she pulls herself up against the wooden pylon of a boat dock out of sight. She looks up the river to see dozens of East German soldiers searching. Broughton struggles to pull herself onto the dock as her body is quickly going hypothermic. A CAR SKIDS to a stop on the street above of her. We hear the DOOR OPEN and FOOTSTEPS approach her. Broughton is desperate, fighting to warm her body as her cold fingers fumble with her empty pistol. We see boots run up and then stop next to an exhausted Broughton.
+C: MERKEL
+D: I’m here. Merkel grabs Broughton’s hyperborean body and quickly tosses her into the warm car. Merkel speeds away with Broughton in the passenger seat. INT. EAST BERLIN - SAFE HOUSE - DAY Broughton, wrapped in wool blankets, huddles around a coal fire contained in a metal bucket. Merkel sits in the flickering light.
+C: MERKEL
+D: What happened?
+C: BROUGHTON
+D: The KGB positioned a sniper team in a building. I recognized them from several days ago.
+C: MERKEL
+D: You recognized them?
+C: BROUGHTON
+D: I caught up with them in the stairwell of the building. They had blue eyes. I killed them both. Merkel looks at Broughton who shares no emotion. Broughton stares at the fire and replays everything in her mind.
+C: BROUGHTON
+D: Perceval?
+E: CONT’D
+C: MERKEL
+D: I lost him and Spyglass’s family in the crowd. I am sure they are safe in the West.
+C: BROUGHTON
+D: Spyglass is dead.
+C: MERKEL
+D: And you are alive. Broughton’s still trying to put all the pieces together.
+C: BROUGHTON
+D: The KGB knew everything. Broughton stands, blanket wrapped around her shoulders.
+C: BROUGHTON
+D: I need to get across. I need to call in and make contact with my superiors. Merkel stares at her for a moment in silence.
+E: CONT’D
+C: MERKEL
+D: You’re a strong woman.
+C: BROUGHTON
+D: I prefer it to good-looking and useless. Merkel stands.
+C: MERKEL
+D: Follow me. Broughton follows Merkel down a faintly-lit hallway.
+C: MERKEL
+D: You must use the old tunnels. Merkel kneels and lifts a false section in the floor, revealing an opening within the tiles. Merkel hands Broughton a metal flashlight.
+E: CONT’D
+C: MERKEL
+D: Walk until you see the metal ladder, it will bring out in the West. Broughton lowers herself down into the dark hole and turns on the flashlight. INT. EAST BERLIN - SEWERS - MOMENTS LATER The flashlight’s yellow beam illuminates the damp tunnel. Broughton walks in silence towards West Berlin for several hundred yards until... We see the beam of her flashlight cut across a dead man’s body. The cold has kept the body preserved with a foxed green hue to the skin. Broughton kneels down for a closer look and identifies the face warped by death.
+E: CONT’D
+C: BROUGHTON
+D: Batkhin Broughton quickly searches his pockets and body and finds nothing of value. She stands and moves on past the KGB officer’s corpse towards the West. EXT. ATTACHÉ’S OFFICE - DAY Broughton stands in the cold and RINGS the BUZZER, which goes unanswered. She tries again, nothing. Broughton moves back out onto the streets and is on the move. INT. WEST BERLIN - HOTEL ROOM - DAY SUPER: “NOVEMBER 8, 1989” Broughton, wrapped in a towel, sits on the edge of her bed, staring at the wall. Broughton’s emotions are just below the surface of her face. She replays every detail in her mind. Crossing over. The family. The snipers. How did the KGB know? The car flooding with water. Spyglass’s death. How did the KGB know? Suddenly, Broughton stands and moves through the room. She takes apart the phone. Nothing. She looks in the lamps. Nothing. Under the beds. Nothing. Window sills. Nothing. Doors. Nothing. She searches for the device. Then, from across the room, she sees her coat, still damp from the Spree River. Broughton inspects the buttons, pockets, and liner. She feels along the collar and pulls a tiny UHF device and hard wire out of the coat. We hear POUNDING on her hotel door.
+E: to herself
+C: POLIZEI
+D: Offen sie die tur! Polizei! Broughton stuffs the device back into her coat just as... We see the hotel door BURST open. The POLIZEI enter with complete intimidation. They’re followed by an older and very severe-looking FIRST CHIEF
+E: O.S.
+C: INSPECTOR. BROUGHTON
+D: You have no right to break into my hotel room! Who in the hell are you?! The First Chief Inspector points at the four silver stars on his meticulous uniform.
+C: FIRST CHIEF INSPECTOR
+D: Ms. Lloyd. I’m First Chief Inspector of this district, and your rights here are not the same as if you were in Knightsbridge.
+C: BROUGHTON
+D: I would like to call my attaché in the British sector and see if he agrees with you. The First Chief Inspector narrows his eyes at the remark.
+C: FIRST CHIEF INSPECTOR
+D: A high ranking Stasi officer was killed yesterday in East Berlin. His body has been pulled from a submerged car in the river. The First Chief Inspector looks for a reaction but gets none from Broughton.
+C: FIRST CHIEF INSPECTOR
+D: This has caused a great deal of tension between East and West.
+E: CONT’D
+C: BROUGHTON
+D: How can I help you, Inspector?
+C: FIRST CHIEF INSPECTOR
+D: First Chief Inspector, Ms. Lloyd. We are told the Stasi officer was trying to defect.
+C: BROUGHTON
+D: There are sixteen million East Germans that to want to defect.
+C: FIRST CHIEF INSPECTOR
+D: Two Russian nationals were also killed.
+C: BROUGHTON
+D: Why are you telling me this?
+C: FIRST CHIEF INSPECTOR
+D: Witnesses say that there was a woman aiding the Stasi officer. A woman that fits your general likeness. The First Chief Inspector stares at Broughton.
+C: BROUGHTON
+D: I don’t believe you have any evidence.
+C: FIRST CHIEF INSPECTOR
+D: What makes you so sure?
+C: BROUGHTON
+D: Because if you did, I would be in your jail by now. The First Chief Inspector takes a step closer.
+C: FIRST CHIEF INSPECTOR
+D: The Britisher who was shot last week was a spy, wasn’t he?
+C: BROUGHTON
+D: How would I know?
+C: FIRST CHIEF INSPECTOR
+D: Your government sends you to replace him and stage a Stasi officer’s defection.
+C: BROUGHTON
+D: I have no idea what you are talking about. I am a British civil servant, a lawyer. The First Chief Inspector takes another step, closing the distance to Broughton’s face. Broughton remains stoic under the tension in the room.
+C: FIRST CHIEF INSPECTOR
+D: Where were you yesterday afternoon?
+C: BROUGHTON
+D: I --
+C: LASALLE
+D: ... was with me. The First Chief Inspector turns to Lasalle standing in the hotel room doorway.
+C: LASALLE
+D: There are plenty of my friends who will confirm this.
+E: CONT’D
+C: FIRST CHIEF INSPECTOR
+D: No doubt. The polizei brush past Lasalle. The First Chief Inspector strides towards the door and then turns back to Broughton.
+C: FIRST CHIEF INSPECTOR
+D: I’ll will question each and every one of them thoroughly. The polizei are gone. Lasalle looks at Broughton.
+E: CONT’D
+C: BROUGHTON
+D: You didn’t have to do that.
+C: LASALLE
+D: When I didn’t hear from you, I got worried. Broughton moves towards her clothes that hang in the closet as she lowers her towel. Lasalle looks across at her naked frame. We see deep bruises covering Broughton’s body from the punishing staircase fight and car crash. Broughton pulls on her clothes.
+C: LASALLE
+D: I fear you are in danger. Broughton grabs her coat.
+E: CONT’D
+C: BROUGHTON
+D: We’re all in danger here. You should pack and run back to Paris. Broughton pulls on her coat and moves towards the door.
+C: LASALLE
+D: What for?
+C: BROUGHTON
+D: You’ll be dead if you don’t. Now excuse me. Broughton moves past Lasalle, and the hotel room door closes. EXT. WEST BERLIN - MI6 SAFE HOUSE - DAY Broughton walks off the street and up the stairs to a drab apartment building. INT. WEST BERLIN - MI6 SAFE HOUSE - DAY Perceval looks through the peephole and opens the door for Broughton.
+C: PERCEVAL
+D: You look like shit. Broughton says nothing and enters the room.
+C: PERCEVAL
+D: You okay?
+E: CONT’D
+C: BROUGHTON
+D: Spyglass didn’t make it.
+C: PERCEVAL
+D: I know... Welcome to Berlin. Broughton starts to take her coat off.
+C: PERCEVAL
+D: Leave it on. The Americans want to talk to us.
+E: CONT’D
+C: BROUGHTON
+D: Have you told his family?
+C: PERCEVAL
+D: Not yet. I was waiting to see if you even made it. Broughton takes a breath.
+C: BROUGHTON
+D: I’ll do it. Give me a few minutes alone with them. I made a promise. Perceval steps aside, and Broughton moves towards a small bedroom door. She knocks gently and then slowly opens the door. Spyglass’s wife and daughter sit on a twin bed and stare up at her framed perfectly in the doorway.
+C: BROUGHTON
+D: I am so sorry. Helena pulls her daughter into her arms and cries out in grief. Broughton shuts the bedroom door and keeps her promise to Spyglass. EXT. TIERGARDEN PARK - DAY Perceval, Kurzfeld and Broughton stand near the frozen duck pond in the harsh light of the afternoon.
+E: CONT’D
+C: KURZFELD
+D: I expected more out of the Brits than a royal goat fuck!
+C: PERCEVAL
+D: Maybe you should’ve backed us up!
+C: KURZFELD
+D: We would’ve if we had known you were crossing him over.
+C: BROUGHTON
+D: You don’t have our own Stasi agent... do you?
+C: KURZFELD
+D: Not one with a photographic memory. Goddamn it... So, who was blown?
+C: PERCEVAL
+D: Not us... The KGB knew the EXFIL route and the best hide position for effective fire.
+C: KURZFELD
+D: That doesn’t guarantee who gave the sniper his orders.
+C: BROUGHTON
+D: Could it have been Satchel? They all look at one another for a moment knowing they don’t have an answer to that question.
+C: KURZFELD
+D: Well maybe the dead drop was compromised?
+C: PERCEVAL
+D: No... only myself and Gascione ever knew its location. Perceval turns towards Broughton.
+C: PERCEVAL
+D: What about your fixer, Merkel?
+E: CONT’D
+C: BROUGHTON
+D: If I weren’t for him, I’d have never made it back.
+C: PERCEVAL
+D: Well, you never know whom to trust. Perceval looks at Broughton.
+C: BROUGHTON
+D: That’s right. Trust does seem to be in short supply these days. Broughton holds Perceval’s eyes for a moment.
+C: KURZFELD
+D: Could you’ve been the target?
+C: BROUGHTON
+D: Me?
+C: KURZFELD
+D: That Spyglass was just collateral?
+C: BROUGHTON
+D: If the sniper wanted to shoot me first, he could have.
+C: KURZFELD
+D: Mighty convenient that they didn’t. Broughton takes a step towards the remark.
+C: BROUGHTON
+D: What are you implying? Perceval steps between them.
+C: PERCEVAL
+D: Be serious, Emmett. This was obviously about silencing Spyglass before we got to him. He must have been blown.
+C: BROUGHTON
+D: Well, whoever the target was, Moscow has sent us a message. Kurzfeld leans towards Broughton and points his finger.
+C: KURZFELD
+D: Langley is going to hang my ass in the wind for this.
+C: PERCEVAL
+D: I’m sure they’re waiting for you to file your report. I know London’s waiting on me. Kurzfeld walks away in disgust and doesn’t look back.
+C: KURZFELD
+D: Let’s all just concentrate on keeping our heads down. Perceval turns to Broughton.
+C: PERCEVAL
+D: It’s all cocked up, but I think he still likes us. They stand for a moment in silence.
+C: BROUGHTON
+D: I don’t know what to say.
+C: PERCEVAL
+D: I’ll work on a flight for you. C’s going to want whatever your side of this mess is in triplicate. INT. WEST BERLIN - HOTEL ROOM - EVENING SUPER: “NOVEMBER 9, 1989” Broughton stares out the window at the gray evening sky. A half-empty bottle of Stoli sits next to her. We hear the PHONE RING. Broughton picks it up and speaks.
+C: BROUGHTON
+D: Lloyd. INT. LASALLE’S APARTMENT - EVENING Lasalle stands in her bedroom in La Perla with the telephone pressed to her ear.
+C: LASALLE
+D: Dinner?
+C: BROUGHTON
+D: I don’t think it’s the best idea.
+E: V.O.
+C: LASALLE
+D: A drink then?
+C: BROUGHTON
+D: You’re persistent. Lasalle chamber checks her pistol, confirms it is loaded, and slides it beneath the pillow on her bed.
+E: V.O.
+C: LASALLE
+D: Another of my charms. I’ve a recipe of great interest to you.
+C: BROUGHTON
+D: What might that be?
+E: V.O.
+C: LASALLE
+D: It’s sweet as sugar. It has to do with Perceval. INT. WEST BERLIN - HOTEL ROOM - EVENING Broughton takes a sip of her Stoli and looks out around her empty hotel room.
+C: BROUGHTON
+D: All right, I’ll be by later tonight. Broughton sets the phone down, looks out the window, and then dials another number immediately.
+C: BROUGHTON
+D: Are you busy?
+E: CONT’D
+C: PERCEVAL
+D: Writing up a report for my old friend, “C.”
+E: V.O.
+C: BROUGHTON
+D: There are some legal issues with the transportation I’d like to ask you about.
+C: PERCEVAL
+D: Come by anytime.
+E: V.O.
+C: BROUGHTON
+D: I’ll get a cab and be right over. Broughton hangs up the phone. EXT. WEST BERLIN - NIGHT Broughton steps from a cab and walks up to Perceval’s building. INT. ATTACHÉ’S OFFICE - NIGHT Broughton walks through the office door and leaves her coat on this time. Perceval and Broughton are civil, however they is a cat and mouse tension to the room.
+C: PERCEVAL
+D: You look polished.
+C: BROUGHTON
+D: I’m saying goodbye to Lasalle.
+C: PERCEVAL
+D: Lucky lady... Scotch?
+C: BROUGHTON
+D: Sure. Perceval moves across to his desk and lifts a bottle.
+C: PERCEVAL
+D: There aren’t any transportation issues. So, what do you really want to talk about? Perceval sets two glasses out and lifts the bottle.
+C: BROUGHTON
+D: Failure.
+C: PERCEVAL
+D: Are you worried about how this looks in your file? How you’ll advance up the ladder at The Circus?
+C: BROUGHTON
+D: I really hadn’t thought that far. Perceval pours three fingers of a single malt and hands it across to Broughton.
+C: PERCEVAL
+D: Well, don’t.
+C: BROUGHTON
+D: Is that your official recommendation?
+C: PERCEVAL
+D: You’ve never lost a package before?
+C: BROUGHTON
+D: I’ve buried friends... enemies... and I’ve buried my emotions for a great many years... and with that, I’ve come to the conclusion that it simply doesn’t matter. Perceval offers Broughton a seat in one of the two worn- leather club chairs. Perceval lifts his highball towards Broughton. They both take a silent, smooth drink.
+C: PERCEVAL
+D: There was a lovely Italian girl who once told me, “David, you can’t unfuck what has been fucked.” Perceval smiles and leans in, serious and measured.
+C: PERCEVAL
+D: Listen carefully. At the end of a very long career of chasing shadows, the only reward you take home is to grow old. If you’re lucky, you tell some good lies to the boys down at the pub.
+E: CONT’D
+C: BROUGHTON
+D: I believed somehow the truth would lay out differently.
+C: PERCEVAL
+D: There is that beautiful word. Truth.
+C: BROUGHTON
+D: We’re in the enterprise of reshaping the truth to serve England. After all, there is no way around the datum that at times our job comes down to kill or be killed. Perceval pauses for a moment and then, upon reflection --
+C: PERCEVAL
+D: The blood on our hands will wash away with time.
+C: BROUGHTON
+D: That’s it... just let it go?
+C: PERCEVAL
+D: Unless you want it to eat a hole straight through your guts. It’s simple. Somewhere, somebody got the upper hand. Maybe you were too conspicuous when you went over to see Merkel.
+C: BROUGHTON
+D: Wait a damn minute.
+C: PERCEVAL
+D: Or maybe I was indiscreet when I picked up Spyglass’s message. As I already said, most likely, Spyglass himself was the loudmouth. The truth is we will never know.
+C: BROUGHTON
+D: And the body I found in the tunnel?
+C: PERCEVAL
+D: I told you those tunnels are history.
+C: BROUGHTON
+D: It was Bakhtin. Perceval takes a drink.
+C: PERCEVAL
+D: Did he have the list?
+C: BROUGHTON
+D: No.
+C: PERCEVAL
+D: Who the hell knows how Bakhtin ended up there? Anyone, even Bremoyvch could have killed him.
+C: BROUGHTON
+D: I suppose you’re right. Perceval sets his empty glass down on the side table.
+C: PERCEVAL
+D: I am right, and you’re damn fortunate to make it back to fight another day. Broughton holds up the UHF device and hard wire and hands it to Perceval. His smile fades.
+C: BROUGHTON
+D: It’s French made for the DSGE. I found it in hidden in my coat.
+C: PERCEVAL
+D: Never trust the Frenchies. Broughton nods and moves towards the front door followed by Perceval.
+C: PERCEVAL
+D: Can I give you a lift to Lasalle’s place.
+E: CONT’D
+C: BROUGHTON
+D: No, I am going to walk. The fresh air helps me think. Perceval opens the door for Broughton as she steps out into the hallway.
+C: PERCEVAL
+D: You’re a hell of a good officer. Now... forget I ever said that. Broughton nods and continues on without ever looking back. Perceval closes the door. He looks at the UHF device and hard wire on the table and then grabs the keys to his Saab. PRE-LAP on the soundtrack: “Voices Carry” by ‘Til Tuesday. INT. LASALLE’S APARTMENT - NIGHT We see a window of the apartment slide open. Cold air gently blows the curtains. Lasalle listens to a Sony Walkman through headphones as she pours a drink for herself in her bedroom and sets the bottle down. We reveal an INTRUDER wearing a ski mask standing behind her. Lasalle is completely unaware until the electrical cord pulls tight around her neck. Lasalle struggles to free herself. She throws the Intruder off of her and scrambles, gasping for air, towards the bed. The Intruder lunges after Lasalle as she crawls up the bed, reaching for the pillow, her concealed gun just inches away. We hear the downstairs BUZZER of the building. The Intruder climbs on Lasalle’s back, grabs the cord and pulls it tight around her neck. Lasalle’s hand is on the gun, but she doesn’t have the strength to lift it into her palm. EXT. LASALLE’S APARTMENT BUILDING - NIGHT A young couple leaves Lasalle’s building. Broughton slips through the open front door and moves down the hallway. INT. LASALLE’S APARTMENT - NIGHT Lasalle twists around and claws the ski mask off the Intruder. We reveal: Perceval as he pulls back on the cord, and the life fades from her eyes. Lasalle’s body falls to the floor. Perceval moves off of Lasalle’s dead body and begins to search through the apartment. We hear a KNOCK on the door. Perceval is out of time. He turns and climbs out the open window as Lasalle’s front door is pushed open by Broughton. Broughton enters and finds Lasalle’s strangled, warm body on the floor. She moves through the apartment, sees the open window, and looks outside. Nothing. Broughton moves back through the apartment and stops at the bathroom. She looks in and sees it has been converted to a small photo darkroom with a red blub. A clothesline hangs above the develop, fix, and stop trays. We see there are several photos of Broughton that reveal Lasalle’s fixation. Broughton closes the door and moves back into the kitchen We see large glass containers of FLOUR, SALT... and SUGAR. Broughton turns over the container, dumping the sugar onto the counter along with a package. Broughton opens the package to reveal a stack of photos. INSERT - PHOTOS Photo 1 - Perceval and Bremovych talking in a club. Photo 2 - Perceval talking to the KGB Sniper, Ivan Yerchenko. Photo 3 - KGB Agent Bakhtin handing Perceval an envelope. Photo 4 - Perceval opening the envelope. Photo 5 - Gascione’s Burcherer timepiece in Perceval’s hand. Photo 6 - Perceval standing over Bakhtin’s dead body.
+C: BACK TO SCENE
+D: Broughton takes the photos and moves out of the apartment, never looking back at Lasalle’s body on the floor. EXT. BERLIN - FRENCH SECTOR - NIGHT Broughton exits Lasalle’s apartment building and moves into the neighborhood. On the street, a sedan pulls out and follows her. Broughton can sense the sedan’s headlights and picks up her pace towards a busy intersection ahead. Broughton stops at a small newspaper stand and glances toward the street and the approaching sedan. She can now see Bremovych and his driver clearly in the sedan driving towards her. She calmly turns and walks around the corner just as the light turns red. Bremovych’s sedan pulls up just six feet away. Steady now... Broughton looks across the six busy lanes of traffic to the hotel’s taxi stand. Out of the corner of her eye, she watches Bremovych. Then, the sedan’s window starts to roll down. Against the red light, Broughton bolts out into the fray of speeding cars and cuts through the screeching traffic. We hear HORNS HONKING and SHEET METAL SMASHING. Cars slide and pile up in the intersection. Broughton escapes without a scratch. She sprints onto the median, across the next three lanes, and jumps into the waiting taxi. Broughton looks across at the wrecks of a dozen cars. Bremovych stands next to his sedan and watches her escape him once more. INT. ATTACHÉ’S OFFICE - NIGHT The room is lit by a single bare bulb and a small television. Perceval sits alone, drinking two fingers of single-malt scotch. INSERT - NEWS FOOTAGE MTV’s Kurt Loder reports from the Berlin Wall. We see from the MTV news footage that massive crowds are assembling. Two EAST GERMAN SOLDIERS stand on the Wall, holding an MTV umbrella. An iconic symbol of the times. We MOVE ON the television, and we see the reflection of Perceval. He leans in and shuts of the TV. Perceval swings a small duffle bag over his shoulder and kicks over a Jerry can. The gasoline pours out onto the hardwood floor of his apartment. Perceval stands at his front door, lights a match and throws it onto the floor. The whole room is consumed in flames. Perceval moves on. EXT. PERCEVAL’S APARTMENT BUILDING - NIGHT Perceval steps out of his building. We see the flames and smoke coming from his apartment window. Perceval walks parallel to the graffiti-covered Wall and then cuts into the alleyway towards his Saab 900 Turbo. A FIGURE steps towards him in the dark alley, and Perceval slows his steps as he approaches his car.
+C: PERCEVAL
+D: Well, I suppose that’s it. We’ll be obsolete by morning. I’ll be back in London, and you... back to the party. We hear the faint sounds of HAMMERS STRIKING against concrete.
+C: PERCEVAL
+D: The simplicity of our struggle crumbles as that wall comes down. The lines on the map drawn by men who never faced the risk themselves will be harder to see. In the distance, the CROWDS’ CHEERS are heard.
+E: CONT’D MORE
+C: PERCEVAL
+D: A different world is approaching. More volatile. More corrupt. There will be no ideologies to protect us. Just the brutal and cold conscience of commerce. Perceval eyes follow a group of West Germans with hand tools moving towards the Wall.
+E: CONT’D
+C: PERCEVAL
+D: Extortion... Whoever has the list in this new world has all power. Without it? Just a target. Perceval turns back to the wordless figure in the shadows.
+E: CONT’D
+C: PERCEVAL
+D: We played our hands. Hell, I’m just glad to see your face at this moment, as the ramparts of tyranny fall into the history books. Perceval smiles softly to himself as he looks towards the crowds.
+E: CONT’D
+C: PERCEVAL
+D: Listen to them. In the faint light, we see the flash of gunmetal. We hear a GUNSHOT BARK out! BAAAM BAAAM BAAAM! Perceval’s body falls to the cold alleyway. Broughton steps from the shadows and stands with the smoke twisting from the barrel.
+E: CONT’D
+C: BROUGHTON
+D: Lasalle was harmless?
+C: PERCEVAL
+D: No one is harmless. Lasalle was extorting me.
+C: BROUGHTON
+D: And the list?
+C: PERCEVAL PERCEVAL
+D: You’re too late. Bremovych paid me handsomely. Perceval coughs up a mouthful of blood and stares up at Broughton holding her gun in his face. She reaches down and removes the “ Carl F Bucherer “ timepiece from his wrist.
+E: CONT’D
+C: BROUGHTON
+D: You going to play out the lies until the bitter end? Perceval’s eyes struggle to focus on Broughton’s face and then, when they do, he softly grunts:
+C: PERCEVAL
+D: Would you believe Queen and country?
+C: BROUGHTON
+D: Yes, Comrade Satchel.
+C: PERCEVAL
+D: That’s how you’re going to play it? Broughton says nothing.
+C: PERCEVAL
+D: Well done... Well done. The pool of blood grows around Perceval’s body, and he relaxes in death. EXT. ENGLAND - FARNBOROUGH AIRPORT - DAY SUPER: “NOVEMBER 11, 1989” It’s raining in England. It’s always raining. A Royal Air Force C-130 Hercules aircraft parks on the hardstand. The giant props slow to a stop as the rear ramp extends down. Broughton exits the front of the aircraft. We hear the SOUND of a lone BAGPIPER. Broughton turns and watches the Royal Scots Honor Guard exit down the ramp of the C-130 with two flag-draped coffins, the bodies Gascione and Perceval. Broughton stands in silence as the coffins are loaded for ground transport. INT. CENTURY HOUSE - ISO-FAC - DAY The ashtray is full of Woodbines. The Nagra III reel to reel records on the table. Gray leans forward and then exclaims:
+E: CONT’D
+C: GRAY
+D: What happened? Broughton sits in silence for a moment.
+C: BROUGHTON
+D: I failed, sir.
+C: GRAY
+D: Your directive was to bring home one body, and you return with two. You were tasked to find the most important list of the last forty years of the Cold War, you come back empty-handed. You’re a bloody disgrace! Broughton leans across the desk. She has had enough.
+C: BROUGHTON
+D: You sent me into a hornet’s nest. From the moment I touched down, the KGB was on to me. You knew Perceval was on the bubble and he knew not to trust me. You wanted Satchel? Well here he is. Broughton sets down a manila folder. Gray looks through a stack of black-and-white photos from Lasalle’s apartment. Gray lifts a black-and-white photo and shows it to Kurzfeld.
+C: BROUGHTON
+D: These photos are damning evidence of Perceval’s involvement with the KGB. Perceval was Satchel. Gray and Kurzfeld looks across at Broughton.
+E: CONT’D
+C: BROUGHTON
+D: Three days after Gascione was killed, Bremovych arrives in Berlin. Why? Because Gascione was onto Perceval and he was going to reveal him as the double.
+E: CONT’D
+C: KURZFELD
+D: So Bremovych has Gascione killed to cover for Perceval. Broughton points to the photo of Perceval and Bakhtin.
+C: BROUGHTON
+D: And once you sent me to West Berlin. Perceval was covering his tracks.
+C: KURZFELD
+D: The sniper team was meant for you after all.
+C: BROUGHTON
+D: I think so. I found a French made UHF device in my coat after Spyglass was killed. I now believe Perceval planted it and made it look like Lasalle. FLASH CUT: INT. WEST BERLIN - HOTEL ROOM - NIGHT Broughton sits at the desk in front of the Narga SN mirco recording device. A stack of recorded reel and reel tapes sit next to her. With great precision, Broughton methodically edits sections of tape together from different recorded conversations.
+C: BACK TO:
+D: INT. CENTURY HOUSE - ISO-FAC - DAY Broughton turns to Gray.
+C: BROUGHTON
+D: Sir, you told me to “trust know one”. In case you need anymore evidence against Perceval. Broughton pulls out the Narga SN from her purse and sets it on the desk.
+C: BROUGHTON
+D: Here is a recording of Bremovych and Perceval. Broughton leans forward and CLICKS on the Narga SN and the mirco reels begin to play her masterfully edited tape. We follow the dialogue back to each scene: FLASHCUT TO: EXT. WEST BERLIN - WALL - DAY Perceval walks with Broughton. Two US ARMY jeeps with SOLDIERS from the 2nd Battalion 6th Infantry patrol past. Perceval gestures towards the Brandenburg Gate.
+E: CONT’D
+C: PERCEVAL
+D: Look... if you’re going to be here for awhile, we had better play nice with one another. FLASHCUT TO: EXT. PERCEVAL’S APARTMENT BUILDING - NIGHT Perceval is in the alleyway next to his Saab 900 turbo.
+C: PERCEVAL
+D: Whoever has the list in this new world has all the power. FLASHCUT TO: INT. PALM RESTAURANT - NIGHT Bremovych stands along the Art Deco bar next to Broughton and Lasalle.
+C: BREMOVYCH
+D: Maybe we could make some sort of arrangement? FLASHCUT TO: EXT. WEST BERLIN - NIGHT We see the bombarded ruins of the Kasier Whelm Memorial Church. Perceval stands next to Broughton.
+C: PERCEVAL
+D: Deal. FLASHCUT TO: INT. PALM RESTAURANT - NIGHT Bremovych stands turns to Broughton at the bar.
+C: BREMOVYCH
+D: What about the British? FLASHCUT TO: INT. PERCEVAL’S SAAB - NIGHT Perceval stares to Broughton in the parked car.
+C: PERCEVAL
+D: C is an arrogant lapdog and doesn’t know fuck all about the world past the edge of his desk! FLASHCUT TO: INT. CENTURY HOUSE - ISO FAC - DAY Broughton stares at the mirror of the wall and then at the two veterans of the Cold War. She calmly leans over and CLICKS off the Narga SN and the mirco reels fall silent.
+C: BROUGHTON
+D: Do you need to hear more? Gray looks at Kurzfeld and leans over, CLICKS his NAGRA reel to reel. The tape stops for the first time in hours.
+C: GRAY
+D: We are choosing to bury this one, Broughton. Your mission never took place. This conversation and the one that Emmett and I are about to have with C never happened. Broughton sits in silence.
+C: GRAY
+D: I’m putting you on leave, effective immediately. Come back fresh in the new year. We’ll start the next decade well-rested. Gray and Kurzfeld stand and exit the room. Broughton sits in the bare light. She slowly lights her last Woodbine and exhales. EXT. NEWCASTLE, ENGLAND - AIRPORT SUPER: “DECEMBER 1, 1989” A gorgeous blonde steps from a Newcastle taxicab and walks into the airport. It’s Lorraine Broughton. She carries no bags. She walks through security and boards an international flight. EXT. LONDON - DAY C and Gray stroll along the Thames River under a late afternoon sky. Thatcher is going to have a difficult time with this.
+E: CONT’D
+C: GRAY
+D: It’s never good when one of our own stumbles. C nods and squints towards the Palace of Westminster. INT./EXT. PAN AM FLIGHT - DAY On the descent, Broughton looks out the window.
+C: C
+D: Did we ever find the watchmaker? FLASH CUT: EXT. WEST BERLIN- WATCH REPAIR SHOP. We slowly move into the shop window and reveal the watch repair shop is completely empty.
+E: V.O.
+C: GRAY
+D: We sent a team to the address Broughton gave us. It was clean, nothing but an empty store front.
+E: V.O.
+C: BACK TO:
+D: EXT. PARIS - CHARLES DE GAULLE AIRPORT - DAY Broughton steps up to a waiting taxi and climbs into the backseat without hesitation. The taxi pulls out and drives towards the city of Paris. INT. FRENCH TAXI - EVENING Broughton is being driven through the City of Lights. The blonde wig is gone, and she’s wearing a new set of clothes. She looks through a small Hermès Kelly bag. Broughton exits the taxi and turns into the early evening. EXT. LONDON - DUSK The sun is nearly gone. Gray and C move their walk off the banks of the Thames and up to the Victoria Embankment. We’ll have to promote Broughton just to keep her quiet.
+C: GRAY
+D: Yes, sir. EXT. PARIS - L’HOTEL RITZ - NIGHT Broughton walks across the Place Vendome. The RITZ DOORMAN greets her as she enters the lobby. INT. PARIS - L’HOTEL RITZ - LOBBY/ELEVATORS - NIGHT Broughton moves through the grand lobby, passes the Bar Vendome and stops at the front desk. We don’t hear the conversation. Broughton smiles as she is handed the room key and moves to the elevators at the end of a gilded hallway. EXT. LONDON - NIGHT Gray and C stand outside the black door of Number 10 Downing street.
+C: GRAY
+D: It’s still hard to imagine David Perceval and Satchel were the same person. I never really trusted him. INT. PARIS - L’HOTEL RITZ - NIGHT Broughton walks down the hallway to the door of her suite. She enters and takes off her coat. A titan of man sits on the couch with his back to her. He stands and turns to reveal: Bremovych.
+C: BREMOVYCH
+D: Comrade Satchel.
+E: in Russian
+C: BROUGHTON
+D: Comrade Bremovych. Broughton moves toward Bremovych, and they embrace.
+E: in Russian
+C: BREMOVYCH
+D: I am pleased you choose to meet in Paris before we return home.
+E: in Russian
+C: BROUGHTON
+D: I ordered room service from the concierge. Broughton leans in and kisses her counterpart.
+E: in Russian
+C: BROUGHTON
+D: I could’ve done without being shot at in East Berlin with Spyglass.
+E: CONT’D in Russian
+C: BREMOVYCH
+D: The West has made you soft with ideas of individualism, comrade.
+E: in Russian
+C: BROUGHTON
+D: My hope is Moscow and the party will be pleased. We hear a KNOCK at the hotel suite door. Broughton walks to the door, and a ROOM SERVICE ATTENDANT enters with a rolling cart and bottles of Dom Perignon and Stoli sitting in silver buckets of ice. Bremovych signs for the bill and tips the attendant.
+E: in Russian
+C: ROOM SERVICE ATTENDANT
+D: Merci. Bon nuit, Monsieur. The Attendant turns to Broughton.
+C: ROOM SERVICE ATTENDANT
+D: Mademoiselle. Only in this moment do we sense something familiar about him -- he turns and leaves without another word spoken. Bremovych lifts the Dom Perignon from the ice.
+E: CONT’D
+C: BREMOVYCH
+D: 1961. Very appropriate. Broughton moves to him, takes the bottle of Dom from his hands and sets it back into the ice.
+E: in Russian
+C: BROUGHTON
+D: Let’s start with the vodka.
+E: in Russian
+C: BREMOVYCH
+D: A good Russian woman. Broughton lifts the bottle of Stoli from the second bucket and pours two glasses of vodka.
+E: in Russian
+C: BROUGHTON
+D: That you’ve been ordered to kill, haven’t you? Bremovych doesn’t react and deflects her question.
+E: in Russian
+C: BREMOVYCH
+D: Lasalle, Gascione and Perceval they were all worthy enemies. Broughton holds up her wrist and reveals the “Carl F Bucherer” timepiece.
+E: in Russian
+C: BREMOVYCH
+D: They may have won the battle for Berlin, but this... will let us win the Cold War.
+E: CONT’D in Russian
+C: BROUGHTON
+D: Let’s enjoy the night. Broughton hands Bremovych his vodka.
+E: in Russian
+C: BREMOVYCH
+D: For the memories, Comrade Satchel. Bremovych and Broughton looks at the vodka and then empty the glass. A shared moment of accomplishment between two warriors in the Parisian hotel suite. Broughton moves to the vodka bottle. Bremovych reaches to the small of his back and his strong hand makes contact with a weapon. With one swift movement, Broughton draws a suppressed handgun out of the ice and double taps the trigger before Bremovych can react. The two bullets punch through Bremovych’s cranial stem and kill him instantly.
+E: in Russian
+C: BROUGHTON
+D: For the memories, Comrade Bremovych. The Room Service Attendant appears from the hallway. This is Merkel from East Berlin. He is followed by a cleaning team that moves into the suite, lifts Bremovych into a body bag, and begins to sterilize everything. Merkel looks at Broughton.
+E: in English
+C: MERKEL
+D: He’s waiting. Broughton walks out of the suite and never looks back. EXT. PARIS - NIGHT Broughton walks out of a side door of the L’Hotel Ritz. We follow her several blocks as she cuts through the Jardin des Tuileries and along the Place de la Concorde. She descends the stone stairs to a small motor boat waiting on the Seine. EXT. PARIS - MOTOR BOAT - NIGHT A DECKHAND unties the boat and throws the line ashore. We hear the BOAT’S ENGINE cry out in the cold air. Broughton walks past the closed cockpit. At the controls of the small motor boat: We see the Watchmaker. He touches the brim of his faded New York Yankees baseball cap as he recognizes Broughton. Not a word is spoken between them. Broughton moves towards the bow of the boat. We hear a voice call out:
+C: KURZFELD
+D: Our team is clear of the Ritz and already at our Embassy. Emmett Kurzfeld steps forward.
+C: BROUGHTON
+D: Perceval was never going to defect?
+C: KURZFELD
+D: Unknown. I planted that story to safeguard you.
+C: BROUGHTON
+D: I don’t feel good about that.
+C: KURZFELD
+D: I’ve been where you are right now, where everything and everyone I got close to ended up dead. They share a moment of silence. Broughton sits down on a small bench seat against the cabin.
+C: BROUGHTON
+D: I am tired, sir.
+C: KURZFELD
+D: How many years have you given for this night?
+C: BROUGHTON
+D: More than I would have liked. Broughton hands Kurzfeld the “ Carl F Burcherer “ timepiece. Kurzfeld pries open the back plate, and within it is a secret chamber: We see the encrypted list with the name of every Cold War intelligence officer.
+C: KURZFELD
+D: It’s time you come home, Karen. Broughton smiles at the sound of her true given name.
+C: BROUGHTON
+D: I’m ready, sir. I have had enough of the cold. PRE-LAP on the soundtrack: “Home Sweet Home” by Motley Crew. On the boat’s prow, a defiant AMERICAN FLAG SNAPS in the wind. Broughton and her American counter-intelligence team speed past the Eiffel Tower under a starless night.
+C: SLAM TO BLACK.
+D: SUPER: GRAFFITI TITLE SCRAWLS OUT “THE COLDEST CITY”
+N: THE END

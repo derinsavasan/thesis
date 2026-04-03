@@ -1,0 +1,2470 @@
+M: RUST AND BONE
+M: By
+M: Jacques Audiard & Thomas Bidegain
+M: PROPERTY OF
+M: NOT TO BE DUPLICATED
+M: RUST AND BONE
+M: Director: JACQUES AUDIARD
+M: Screenplay: JACQUES AUDIARD & THOMAS BIDEGAIN
+M: Based on CRAIG DAVIDSON’s short stories « RUST & BONE »
+M: Producers: WHY NOT PRODUCTIONS
+M: PAGE 114
+M: Coproduction : LES FILMS DU FLEUVE (Belgium)
+M: Photography: STÉPHANE FONTAINE
+M: Production Designer: MICHEL BARTHELÉMY
+M: Editing: JULIETTE WELFLING
+M: Sound: BRIGITTE TAILLANDIER
+M: Costumes: VIRGINIE MONTEL
+M: Shooting : Autumn / Winter 2011
+M: French Distributor: UGC
+M: CAST
+M: MARION COTILLARD
+M: Academy Award Winner –
+M: Best Actress
+N: THE DARK NIGHT RISES by Christopher Nolan MIDNIGHT IN PARIS By Woody Allen LITTLE WHITE LIES by Guillaume Canet INCEPTION by Christopher Nolan NINE by Rob Marshall PUBLIC ENEMIES by Michael Mann LA MOME by Olivier Dahan MATTHIAS SCHOENAERTS BULLHEAD by Michael Roskam MY QUEEN KARO by Dorothée Van Den Berghe LOFT by Erik Van Looy BLACK BOOK by Paul Verhoeven CELINE SALLETTE HOUSE OF TOLERANCE by Bertrand Bonello THE NIGHT CLERCK by Raphaël Jacoulot ROOM OF DEATH by Alfred Lot MURDERERS by Patrick Grandperret BOULI LANNERS NOTHING TO DECLARE by Dany Boon MAMMUTH by Gustave de Kervern ELDORADO by Bouli Lanners LOUISE-MICHEL by Gustave de Kervern ASTERIX AT THE OLYMPIC GAMES by Frédéric Forestier RUST & BONE Screenplay by Jacques Audiard et Thomas Bidegain Based on Craig Davidson’s short story collection
+C: V.3
+D: 16th August 2011
+N: 1. THE CHILD Gradually more and more visible in the darkness, the face of a child, Sam. He is 6 years old, blond, pale and miserably thin. As we move in on his eyes, we see his lids quickly contracting. Under his eyelids: vestiges of the day’s lights and shadows, of the day’s noise.
+S: 2. EXT. – NORTHWEST LANDSCAPES. DAY
+N: A grim region where the sky hangs low and the wind can knock a man off his feet. On the side of the highway, a large, muscular man with spiked blond hair: Ali Van Versh, 25. He has a big bag in one hand and a cell phone in the other. He talks on the phone as he continues walking:
+C: ALI
+D: It's me. It's Ali... I left. I took the kid with me. She can't take care of him anymore. I got into a fight with the guy she's with. I don't know where to go. What do I do with the kid? I can't talk. I don't have any more credit... Call me back!
+N: He hangs up quickly and turns to Sam.
+C: ALI
+D: Move it!
+N: His phone rings. He immediately answers.
+C: ALI
+D: Yeah! Where is it? Shit! It's so far! How do I get there? I don't know. Today or tomorrow. Yeah...
+N: Ali lifts Sam onto his shoulders with one arm. Sam is tiny, he looks like a squirrel on his father's back.
+S: 3. INT. TRAIN.DAY
+N: There is a map of the French rail system near the toilets in a regional train. While Sam pees, Ali examines it. He follows the lines to plot out their trip. He arrives where France ends, at the Mediterranean. Sam comes out of the bathroom, straightening his pants.
+C: SAM
+D: I'm thirsty.
+C: ALI
+D: We don't have any money.
+C: SAM
+D: I'm thirsty!
+S: 4. INT. TGV. DAY
+N: A different speed, different countryside. Ali notices a half-empty bottle of Evian water left on a tray. He takes it. He searches through the garbage under other empty seats. Ali and Sam eat leftover sandwiches and fruit, and finish off abandoned bottles of water.
+S: 5. INT. TGV. DAY
+N: Another TGV. Rain evaporates off the windows. Ali has fallen asleep. He's too big for his seat. Sam watches the landscape go by and bangs his feet against his seat. Ali opens one eye.
+C: ALI
+D: Stop it.
+N: Sam’s Mickey Mouse sandals pause, then go back to their banging.
+C: ALI
+D: I said to stop it.
+N: The sandals freeze.
+T: Cut.
+N: 6. THE CHILD All of a sudden, Sam is asleep, his eyelids blinking quickly.
+S: 7. EXT. CANNES STREET. DAY
+N: Ali’s face is turned toward the orange heat of an afternoon sun. Ali and Sam look at the sea, the beaches and hotels. It’s hot and beautiful. They walk by tanned people in shorts, short skirts, sandals... In their shapeless grey track pants, they look like hoboes. Ali drags his sport bag with one hand and Sam with the other. Ali is on the phone:
+C: ALI
+D: I don't know. A big street that started at the station. Yeah, by the beach. Behind? We just came from there!
+N: Ali pulls Sam away from one of the stairways that lead to the beach...
+C: SAM
+D: I'm tired.
+C: ALI
+D: So am I. He's coming to pick us up. Come on!
+N: Sam is extenuated. Ali has to heave him up onto a shoulder.
+S: 8. EXT. CANNES STREET. DAY
+N: A four-lane avenue near the outskirts of town. Ali is walking on the shoulder of the road, with Sam piggy- back. A horn beeps. A refrigerated truck, blinking to get to the side of the road. The window rolls down to reveal a moustache and a cap: Richard.
+S: 9. INT. RICHARD’S TRUCK. DAY
+N: While driving...
+C: RICHARD
+D: ... A couple miles back I saw a blond guy. I stop short! "You Ali?" I ask. He says "No, me Kurt". Another few hundred feet, another big blond guy! I ask "You Ali?" again. This time I didn't even understand what he answered. Another few hundred feet... Ten of them! Ten! Every Kraut and Flemish guy on the coast! So I go call your sister...
+E: Southern accent Imitates screeching brakes Screech
+N: Ali is thrown for a loop.
+C: ALI
+D: You kidding?
+E: uncertain
+C: RICHARD
+D: A little.
+C: SAM
+D: Is he a little crazy?
+E: to Ali
+C: RICHARD
+D: What? You don't like my truck?
+E: to Sam
+C: SAM
+D: Yeah I do.
+C: RICHARD
+D: He doesn't like my truck!
+E: pretending to be shocked
+C: SAM
+D: I do too like it!
+N: Worked up, Sam shrieks, holding his hands over his ears:
+C: SAM
+D: I like your truck!
+E: screaming
+N: The road hugs the seashore. Ali watches beaches, homes, a railway line pass by... Voice over, we hear Richard’s distant voice.
+S: 10. EXT. SUBURBAN KITCHEN. DAY
+N: A kitchen with mismatched furnishings. China and cheesy wallpaper. Sam devours the cookies and Coke that Richard gives him.
+C: RICHARD
+D: We all got fired after some Spanish guy bought out the trucking company... Eight truckers. I thought it over, discussed it with your sister and figured I could do it on my own. So I bought this truck with my severance pay...
+N: Ali has finished his cream cheese sandwiches. He gets up and opens the old fridge.
+C: RICHARD
+D: Oops, poor man, not those! She'll kill you! Start with the expired ones, on the top shelf! They're organized by date. First the top shelf, then move down.... Anna brings it home from the supermarket where she works. As soon as they reach their expiration date, those idiots throw it all away, even if you can still eat it for a week! You want some more?
+E: to Sam
+S: 11. INT. SUBURBAN HOME. DAY
+N: Anna empties Sam’s Spiderman bag onto the table, spilling out old, dirty, crumpled clothes.
+C: ANNA
+D: Is this all you have for him?
+E: with a hint of Southern accent
+N: Anna Van Versh, Ali’s sister, is in her thirties. She is a huge woman, very tall with a pretty face. She wears leggings that make her ass look like a workhorse’s and a pair of flip flops. At the bottom of the bag, Anna finds a passport and opens it. It is Sam’s.
+C: ANNA
+D: She remembered his passport!
+C: ALI
+D: She didn't remember anything. It was already in there. She forgot about it, that's all. When they went to Amsterdam, they'd use the kid to smuggle dope...
+C: ANNA
+D: You got to be kidding!
+C: ALI
+D: That's what she told me.
+N: Anna shakes her head in disbelief. A beat.
+C: ANNA
+D: How will you tend to the kid? I won't be able to all the time. I work, and so does Richard... Was he in school there?
+C: ALI
+D: I don't know.
+C: ANNA
+D: You don't know if your kid's in school?
+C: ALI
+D: Um, no. You in school?
+E: turns to Sam
+N: No answer. Sam is watching TV.
+C: ANNA
+D: Back at your mom's place, did you go to school?
+C: SAM
+D: Yes.
+C: ANNA
+D: I can try to enroll him at the school. I'll see... We also need to get him some clothes. He can't go like that... I'll ask the neighbors. Come with me to the backyard. I have to feed my babies.
+E: gives the child her hand
+S: 12. EXT. GARDEN. EVENING
+N: Evening is falling. At the back of the garden are a home- made pen and doghouse. Four puppies come running. Sam touches them through the chicken wire.
+C: ANNA
+D: You want to pet them?
+N: She lifts Sam up over the wire mesh.
+C: ANNA
+D: Careful. Don't step on their tiny paws. They're just babies.
+N: Anna shows him how to feed puppies, then stands back up.
+C: ANNA
+D: The breeder's picking them up next month. Brings in some money. Otherwise, Richard and I were thinking 300 a month for you and the kid... That okay?
+E: to Ali
+C: ALI
+D: Yeah.
+C: ANNA
+D: "Yeah" what? Is that too much?
+C: ALI
+D: It's not too much, but I don't have it. I had to pay for the train...
+C: ANNA
+D: So what are you going to do?
+C: ALI
+D: I don't know. Find a job. Whatever.
+C: ANNA
+D: Yeah, whatever... You think there's any work around here? You think there's any more here than there? Where has that ever been the case? When you told me you were coming down, I said we couldn't afford houseguests!
+C: ALI
+D: What should I have done with the kid? Where should I have gone?
+C: ANNA
+D: I have no idea, but if you stay here you have to pay your share, or else go somewhere else. As far as we're concerned, it's easy: we can't! How long were you thinking of staying?
+C: ALI
+D: I don't know.
+N: She makes a tired gesture and goes back toward the house, calling Richard on the way. Ali hears Sam in the kennel, giggling in delight. He looks around: the seedy garden, a metal shed leaning to one side, what’s left of an engine, an old, orange Special 50 moped, plastic junk, etc. Overhead, a plane descends on Nice, its landing lights shining.
+S: 13. INT. BASEMENT. NIGHT
+N: In the cluttered basement, Sam is rolled up in a sleeping bag arranged on a pallet and watches his father repair the antique Special 50 moped by the light of a flashlight.
+S: 14. INT. ELECTRONIC GOODS SHOP. DAY
+N: Ali wanders through an electronic goods shop, pretending to be interested in cameras. Through the shop window, he can see Sam waiting outside in the sun.
+S: 15. EXT. ANTIBES STREETS. DAY
+N: Suddenly, Sam sees his father run out of the shop, trying to shake a security guard hot on his tail. Sam watches them disappear into a tiny lane. Sam looks around a bit frightened. Farther off, in a busy shopping district… Ali forces his way through hordes of tourists. The security guard grabs him by the hood and forces him up against a wall. They are both dripping with sweat and out of breath.
+C: SECURITY GUARD
+D: Unzip your jacket! Empty your pockets!
+N: Ali keeps his cool.
+C: ALI
+D: Unzip it yourself!
+N: Ali struggles free and smiles at the guy invitingly. The guard tries to punch him. Ali dodges: The guard hesitates a moment, until Ali lets fly a right hook. The guard stumbles. A kick in the face sends him flying into a stall. Ali lifts his arms in victory for the benefit of the few, stunned passersby. He kisses his own biceps, does three steps of a moonwalk and saunters off.
+S: 16. EXT. ANTIBES STREETS. DAY
+N: Sam is walking along the street by the beach amid the terraces and ice-cream stores, looking for his father. Then he sees the moped at the far side of the parking lot where they had left it chained up. He walks toward it. A voice calls out.
+C: ALI
+D: Hey! Here I am!
+N: Ali crosses the street and kneels down in front of Sam who is sniffling, tears in his eyes.
+C: A L I
+D: No need to cry. I wouldn't have left you all alone.
+N: Ali unlocks the moped.
+S: 17. EXT. ALLEYWAY. DAY
+N: In a small side street, Sam watches Ali sell a camera for a few 20 Euro notes.
+S: 18. EXT. ANTIBES – BEACH. DAY
+N: On the beach, Ali and Sam eat some McDonald’s.
+C: ALI
+D: Are you happy here?
+N: Sam nods.
+C: SAM
+D: Mm.
+C: ALI
+D: What do you like the most at Auntie's?
+C: SAM
+D: The dogs.
+C: ALI
+D: Is that all? Nothing else besides the dogs?
+C: SAM
+D: The truck.
+C: ALI
+D: The dogs and the truck. The house? Auntie? The ocean?
+C: SAM
+D: T h e d o g s a n d t h e t r u c k .
+N: Ali nods. Sam watches his Dad's fat fingers assemble the plastic toy from his Happy Meal.
+C: ALI
+D: We have it good here...
+N: Ali’s fingers stop. Sam looks up to find his father watching some girls in swimsuits go by. They go for a swim, horsing around and making noise.
+S: 19. INT. OFFICE - THE ALTA SECU COMPANY. DAY
+N: The logo is in the shape of a sheriff’s badge and hangs over some filing cabinets on the wall of a modest office: "ALTA Sécurité".
+C: OWNER
+D: No criminal record? You never fucked up?
+C: ALI
+D: No.
+N: The boss is in his fifties. He sits behind some files. His hair is short and white, it looks like he’s wearing a helmet. He is squeezed into a cheap suit and wearing a tie. He stares at Ali.
+C: OWNER
+D: Is that the truth? We'll be checking anyway...
+N: Ali nods. The owner reaches out.
+C: OWNER
+D: Your papers...
+N: Ali hands him his tattered paper ID. The owner writes down the number. Ali is 13-14 on the picture.
+C: OWNER
+D: What was your last job?
+C: ALI
+D: I worked in a slaughterhouse. Not for long. It closed.
+C: OWNER
+D: Ever work in security?
+C: ALI
+D: Yeah. I was a night watchman in a stadium for 6 months. Working for the city. In a parking lot too. I did replacements.
+C: OWNER
+D: Ever do any combat sports?
+C: ALI
+D: Karate, for 6 years. I even won Junior Division. And two years of boxing. Thai.
+C: OWNER
+D: You gave it up?
+C: ALI
+D: It was my trainer who gave up.
+C: OWNER
+D: Why?
+C: ALI
+D: He died.
+N: A beat.
+C: OWNER
+D: And how are you physically? You stay in shape?
+C: ALI
+D: Yeah.
+C: OWNER
+D: You don't smoke?
+C: ALI
+D: No.
+C: OWNER
+D: Drink?
+N: He shakes his head "no". The boss notes something in a file.
+S: 20. INT. ALTA SECURITY OFFICE. DAY.
+N: Anna and Sam are waiting outside the office. The owner kisses Anna on the cheek. He asks how Richard is doing, then shows them to the door. Anna looks proud to know him.
+S: 21. EXT. FEVER RAY. NIGHT
+N: Saturday evening. The door to the Fever Ray night club. Patrons wait, bouncers pick and choose. An imposing Caucasian maneuvers the red rope. Behind him, Ali Van Versch and Foued Latahoui, who looks like a lightweight boxer, guard the door. Ali wears a faded blue "ALTA Sécu" jacket and stiff, matching pants. Looking well-groomed, Foued is wearing a white shirt and tie. Well-groomed. A group of girls passes through the security barrier. Foued acts like he’s hesitating:
+C: FOUED
+D: Okay, I'll let you through because I'm outnumbered. Four against one, I don't stand a chance!
+N: The girls smile and disappear inside. Ali watches them vanish.
+C: FOUED
+D: You say something nice, anything. That way, when they leave, they remember you and you can hit on them. If they're a little plastered, if things didn’t go too well for them, you're there with a nice thing to say...
+C: ALI
+D: And it works?
+C: FOUED
+D: Sometimes. But you can't be dressed like that. Like a parking lot attendant...
+N: They are interrupted by the bouncer.
+C: THE CAUCASIAN
+D: Fight!
+E: pointing
+N: They go running. Three guys are fighting like savages. Ali and Foued clean house. Foued gets rid of gawkers. Ali delivers a few random punches, lifts one of the guys off his feet and grabs another by the collar. While Foued chases the rowdy men toward the parking lot, Ali helps a girl back to her feet. She’s a pretty blond, must be about 27 or 28, who has taken a punch in the face. It is Stéphanie.
+C: ALI
+D: Are you okay? Breathe out of your mouth. In and out. Put your head back. Walk a little. Walk and breathe...
+N: He demonstrates how and takes her by the arm, forcing her to walk. She looks groggy.
+C: STEPHANIE
+D: I have to go home...
+C: ALI
+D: You have friends here?
+C: STEPHANIE
+D: No, I came alone. I have my car in the lot. I'll be fine.
+C: ALI
+D: You can't drive like that.
+C: STEPHANIE
+D: I'm fine. I'm fine, I said. Thanks.
+C: ALI
+D: You can't drive like that. I'll call you a cab.
+C: STEPHANIE
+D: How do I get my car afterwards? Seriously, I'll be fine. Trust me!
+N: We hear a voice from the parking lot.
+C: ANGRY MAN
+D: Bitch!
+N: Stéphanie looks back.
+C: ANGRY MAN
+D: Yeah... you, you cunt. Bitch!
+N: She ignores him, pretending not to see him. She then notices the blood stains on her T-shirt.
+C: STEPHANIE
+D: Shit.
+C: ALI
+D: Where's your car?
+S: 22. INT. STEPHANIE’S CAR. NIGHT
+N: Ali drives. His head seems to touch the roof of the little Fiat and his thighs are too thick for the seat. He glances over at Stéphanie.
+C: ALI
+D: Still bleeding? Keep your head back. Wait...
+N: He manipulates the knob to push her seat back. He grimaces in pain.
+C: ALI
+D: Shit!
+C: STEPHANIE
+D: Did you hurt yourself?
+N: He shows her his right wrist.
+C: STEPHANIE
+D: It's swelling up.
+N: He rests his hand on the wheel. After a beat:
+C: A L I
+D: You often go to the Fever?
+C: STEPHANIE
+D: No.
+C: ALI
+D: Why do you go alone?
+N: No answer.
+C: ALI
+D: To dance?
+C: STEPHANIE
+D: Yes.
+C: ALI
+D: To find a guy?
+N: She turns and looks down her nose at him:
+C: STEPHANIE
+D: Oh yeah?
+C: ALI
+D: You're dressed like that just for dancing?
+C: STEPHANIE
+D: How am I dressed?
+C: ALI
+D: I don't know... Look.
+N: He points to her skirt, riding up her thighs.
+C: STEPHANIE
+D: Yeah, so what?
+C: ALI
+D: You look like a hooker.
+C: STEPHANIE
+D: Excuse me?
+C: ALI
+D: How would you call it?
+C: STEPHANIE
+D: I don't believe this. Pull over here!
+C: ALI
+D: What?
+C: STEPHANIE
+D: Stop this car on the double!
+N: No reaction.
+C: STEPHANIE
+D: It's MY car! If I tell you to stop, you stop!
+N: Still no reaction, as if she hadn’t said a thing. She is about to scream again, but remains silent, although open- mouthed. She finally settles back down on the back of her seat and looks elsewhere. A beat.
+C: ALI
+D: Dressed like that, it's no surprise that...
+C: STEPHANIE
+D: That's enough now!
+N: They ride in silence.
+S: 23. EXT. SIMON & STEPHANIE’S BUILDING. NIGHT
+N: The Fiat stops in front of a small building in a flowery residential neighborhood. They climb out.
+C: STEPHANIE
+D: How will you get back?
+C: ALI
+D: I don't know.
+N: She takes out her wallet.
+C: ALI
+D: No, stop!
+C: STEPHANIE
+D: For a taxi.
+C: ALI
+D: Don't worry. Got any ice at your place?
+N: He shows her his wrist.
+C: ALI
+D: Ice cubes.
+C: STEPHANIE
+D: Wait, I'll go check.
+C: ALI
+D: I can come up.
+C: STEPHANIE
+D: No!
+N: Even she is surprised by the brusqueness of her response.
+C: STEPHANIE
+D: Someone's up there.
+E: embarrassed
+C: ALI
+D: So what?
+C: STEPHANIE
+D: Wait here. I'll be right back.
+N: She takes a few steps, fumbling for her keys. She hesitates, then looks back.
+C: STEPHANIE
+D: Okay, come on up.
+S: 24. INT. SIMON & STEPHANIE’S APARTMENT. NIGHT
+N: They enter the apartment. The light is on. Simon comes out of the bedroom in his boxer shorts and a T-shirt. He’s thirty, blond, and there is something commanding about his look that could be thought to resemble Stéphanie’s. He discovers Ali and the blood stains on Stéphanie’s T- shirt:
+C: SIMON
+D: What the hell? What's going on?
+C: STEPHANIE
+D: Nothing. A fight...
+C: SIMON
+D: Are you okay?
+C: STEPHANIE
+D: Yeah, I'm fine.
+C: SIMON
+D: Who's he?
+E: pointing to Ali
+C: STEPHANIE
+D: The bouncer from the Fever. He drove me home.
+C: ALI
+D: ... Ali.
+E: introducing himself
+C: SIMON
+D: The Fever? What the hell were you doing there?
+N: Ali opens the refrigerator.
+C: SIMON
+D: What are you looking for?
+C: ALI
+D: Ice cubes.
+C: STEPHANIE
+D: He hurt his hand...
+N: Simon pulls Stéphanie into the bedroom. Ice cubes in a Plexiglas salad bowl. Ali’s hand in the bowl. He looks around. There are photos on the wall: Stéphanie surfing on the back of a killer whale, Stephanie posing with a group of young people in diving suits in front of the Marineland logo, Stéphanie rising out of the water on Niska’s rostrum, etc. From the nearby bedroom, he hears snatches of Simon’s reproaches:
+C: SIMON
+D: If you decide to go out, call me. That's all! Who were you with there?
+E: OFF
+C: STEPHANIE
+D: Philippe and Christine.
+E: OFF
+C: SIMON
+D: I thought you went out to dinner.
+E: OFF
+C: STEPHANIE
+D: We decided to go out for a drink after.
+E: OFF
+C: SIMON
+D: You get my text messages? Why didn't you answer me?
+E: OFF
+N: Stephanie comes back into the kitchen. She has changed her T-shirt. She seems tense. S T E P H A N I E F e e l i n g b e t t e r ?
+C: A L I
+D: I s t h a t y o u i n t h e p i c t u r e w i t h t h e o r c a s ?
+N: S T E P H A N I E N o t o r c a s . J u s t o n e o r c a . H e r n a m e i s N i s k a .
+C: A L I
+D: I s t h a t y o u r j o b ?
+N: S T E P H A N I E Y e p . . . Ali nods vaguely admiringly.
+C: A L I
+D: F u c k . . . I d i d n ' t t h i n k t h a t . . .
+N: S T E P H A N I E That what? A whore could train whales? Well, you see... Simon is at the door. He is wearing a jean.
+C: SIMON
+D: Okay, are you done now? Can you leave us alone?
+E: To Ali
+N: Ali stares him down.
+C: ALI
+D: You talking to me?
+N: It’s as if Ali’s calm, peremptory tone suddenly let Simon know who he was dealing with.
+C: SIMON
+D: Yes, but...
+C: ALI
+D: But what?
+C: SIMON
+D: Nothing, forget it...
+N: In one second, Stéphanie sees Simon’s face undergo a metamorphosis, his nervous authority suddenly disappear. She glances at Ali as if to say ‘Please go now.’ He gets up and wipes his hands on a dish rag.
+C: ALI
+D: Okay, I'm going. So long. I left you my number if ever you need it...
+E: pointing to a piece of paper on the table
+S: 25. INT. SIMON & STEPHANIE’S APARTMENT – BATHROOM – NIGHT
+N: She dissolves an aspirin in a toothbrush glass. She checks her lip in the medicine chest mirror. She notices Simon watching her from the bathroom doorway. S I M O N A r e y o u o k a y ? A r e y o u u p s e t ?
+C: STEPHANIE
+D: No, I'm not upset.
+N: She drinks the aspirin. S T E P H A N I E I saw your face before...
+C: SIMON
+D: Before?
+C: STEPHANIE
+D: With that guy who dropped me off. I saw your face. I saw how you piped down.
+C: SIMON
+D: I piped down? Me?
+C: STEPHANIE
+D: Yes, you piped down... Don't tell me what I should do, how I should live my life. Don't give me any more orders, Simon.
+E: pause
+C: SIMON
+D: What does that mean?
+C: STEPHANIE
+D: Don't give me any more orders, that's all.
+N: She turns on the faucet and runs her lips under the water.
+T: Cut to:
+S: 26. INT. MARINELAND. TRAINERS’ OFFICE. DAY
+N: Two rooms adjoining the locker room. Two desks, and on the walls pictures of the trainers with their orcas, laminated posters of various training methods, files for each animal. Stephanie is in her diving suit, sitting in front of Louise, a 23-year-old woman who is reading a document about her internship. A trainer leaves the locker room, his backpack slung over his shoulder. T R A I N E R Coming? No answer. Tension. He leaves without a word. Louise looks up. She has been crying. Stephanie looks at her, impassive. Louise swallows her tears. L O U I S E R e a l l y . . . t h i s i s n ' t f a i r . S T E P H A N I E No, Louise, there are lots of things you can say but not that. The pools are my responsibility and all I care about are the animals. I have to see to their environment and that starts with their trainers. Do you understand?
+C: LOUISE
+D: What are you trying to make me believe, that I wasn't up to par?
+C: STEPHANIE
+D: No, listen.
+C: LOUISE
+D: Lacking in maturity? Skills?
+C: STEPHANIE
+D: You're not consistent. We've already discussed that. The foundation of the relationship with the orcas is stability. During your internship you've had your ups and downs. It's not your competence that...
+C: LOUISE
+D: You know this has nothing to do with my internship. You couldn’t care less if I was competent or not! It has to do with that I fucked Michael. Just say so.
+C: STEPHANIE
+D: Oh, please...
+C: LOUISE
+D: And in fact what really bothers you is not that we fucked, but that he told me about you. How you think you're so... How you've become such a bitch. That's why you're firing me. That's what you should write in your report.
+C: STEPHANIE
+D: Okay, are you done? We can stop here. No need to spoil the rest of your internship.
+N: Louise stands up.
+S: 27. EXT. MARINELAND. POOL – DAY
+N: The empty stadium above the pool. The trainers walk along the gangplanks busily. In her diving suit, Stephanie leans over the "beach" of pool 3. She taps on the surface of the water. A wave forms, whirling around the pool. The whale washes up on the "beach" beside her. She performs what looks like a daily ritual. She examines the whale, caresses it. The whale responds with uncanny gurgles.
+S: 28. EXT. MARINELAND. DAY
+N: Stock shots of a show at Marineland, or images which we will film to resemble stock shots: wide-angle shots from the stadium. The sound equipment blares "Jump" by Van Halen, orcas shoot out of the water, the audience applauds… Little kids clutch electric-blue dolphin balloons, getting splashed by the orcas… Images of the show are relayed on giant video screens, orcas shoot by like torpedoes behind the plastic protective wall in front of the main pool, etc…
+T: Cut to:
+S: 29. INT. MARINELAND POOL. DAY
+N: All at once, silence. Then surface noise, but muted by the cubic meters of water… Underwater shots from pool number 3. Overhead, the surface shines like a mirror. In pool number 3, a five-ton black shadow bides its time: it is Niska. Behind the grate in pool number 3, Niska watches her mates diving and surfacing in a spray of bubbles. A mechanical creak, then the grate slowly begins to lift. It’s about to be her turn. Niska swims into the big pool, slowly at first, but then picks up speed. She surfaces, disappears for a long beat, then again reappears, churning up a whirlpool of bubbles. On the other side of the mirror, the music blares and the crowd cheers. What looks like a small black and white arrow dives into the pool. We recognize Stéphanie. She caresses Niska’s rostrum, then kisses it, hanging onto her fins, waltzing with her up to the surface. Her hands look ridiculously tiny on the huge black fins. We see her face mirrored in one of the orca’s huge black, gentle eyes. A liquid world of greens and blues whirls around them. Now, with her legs slightly arched on the rostrum, Stéphanie has Niska swim around the pool, accelerating the water pressure and speed. The plastic wall rushes by, a rush of adrenaline… clouds of sediment are lifted as if by a gust of wind. A young male, Tom, joins Niska in pool number 1. Niska immediately rushes him, as if riled by the intrusion, and flattens him against the plastic wall. In the shifting reflections at the water’s surface, we can make out Stéphanie and two other trainers’ faces on the ‘beach’. Their palms beat on the water, summoning the orcas for their next number. Tom gathers some momentum, then shoots around Niska to jump into first place. He disappears a moment, then is back into the water after a dozen meters of aquaplaning. Niska then gets into place and takes a running start, but just as she is about to shoot out of the water, Tom appears out of nowhere and forces the huge female to leap over him. We sense chaos up above. Then we see Niska crash back into the water, with, one after the other, a piece of the huge video screen that towered over the stage, bits of scenery, and all kinds of random objects, as if Niska had carried away half the platform in her wake… It all seems to fall in slow motion, like flecks of snow in a snow globe. Something sinks toward us… a body, floating weightless and disjointed in a cloud of red.
+S: 30. EXT. MARINELAND - WHALE POOL. DAY
+N: Stéphanie is on the rim of the pool. All around her: the audience panics, a loudspeaker orders evacuation, Louise leans over her.
+C: STEPHANIE
+D: What... What happened?
+C: LOUISE
+D: Tom and Niska... They got in each other's way.
+N: Then Louise sees blood spurting from the rips in her diving suit. She tries to find a pressure point. Stéphanie sees Louise’s face wet with tears:
+C: STEPHANIE
+D: Stop it, calm down. I'm fine!
+N: Her hand searches for something at thigh level, without finding it. She faints.
+S: 31. EXT. ROAD TO THE BEACH. DAY
+N: Ali is wearing his MP3 headset. He runs down the road to the beach, sweat dripping into his eyes.
+S: 32. EXT. ANNA’S HOUSE. DAY
+N: Sam’s toys are lying scattered in the garden, his half- eaten snack is on the table. Ali takes off his headset.
+C: ALI
+D: Sam!
+N: No answer. There is some noise over at the kennel. He goes and finds Sam in the kennel, talking to the puppies.
+C: ALI
+D: What are you doing here?
+N: Sam jumps and scuttles to the back of the kennel, but Ali reaches in and grabs him by the arm. Sam is covered in mud, straw and dog shit.
+C: ALI
+D: You're gross! You stink! Who's taking care of you?
+N: Ali drags him over to the garage to hose him down. The water is freezing cold. Sam hops from one foot to the other and screams.
+C: SAM
+D: Stop it, Dad! It's cold. Stop!
+N: Sam shrieks. An 18 year old tomboy wearing a skimpy tee- shirt comes out of a neighboring house: Joelle, the neighbors’ daughter.
+C: ALI
+D: Aren't you supposed to be taking care of him? What the fuck are you up to?
+C: JOELLE
+D: I was next doing the laundry.
+C: ALI
+D: Take a look at him!
+C: JOELLE
+D: I'll put him in the shower.
+C: ALI
+D: Don't go in there. It's disgusting. You hear?
+E: to Sam, crying
+N: Joelle takes Sam and disappears inside. Ali is drawn to the living room, when through the half-open door he notices the flat screen turned onto a news channel. Onscreen and behind the anchorwoman, he recognizes an inset photo of Stéphanie, the same he saw at her place, riding on the back of a killer whale. Il manque une phrase
+C: JOELLE
+D: There was an accident at Marineland.
+N: Ali answers without taking his eyes off the screen.
+C: ALI
+D: I know her.
+N: Sam pulls off his towel. He watches his father who is riveted to the screen, glued to the looping footage of the accident.
+S: 33. INT. HOSPITAL – NURSES’ LOUNGE. NIGHT
+N: Silence. The silence of an on-duty nurses’ lounge: a table, a microwave on a mini-fridge, and Louise, standing by the window sipping coffee. She is wearing a fleece jacket, her hair messily pulled back. She hasn’t had any sleep. She hears a scream. She rushes into the corridor.
+S: 34. INT. HOSPITAL ROOM. NIGHT
+N: Chaos. Louise rushes into the room. She finds Stéphanie crawling on the floor, dragging her IVs. She hesitates, overwhelmed, then calls for help.
+C: LOUISE
+D: Help! Help! Please!
+N: On the linoleum, two stumps stick out of Stéphanie’s nightshirt: two thick bandages surround her thighs that look like two wrapped hams.
+C: STEPHANIE
+D: My legs! What did you do with my legs?
+N: Two nurses arrive. Stéphanie is back in bed, the IVs in her arms. Louise rocks her gently. Stéphanie’s eyes struggle against sleep. She wants to scream again, but doesn’t have the strength. She falls asleep in Louise’s arms. She feels eight years old. Black.
+S: 35. INT. HOSPITAL ROOM. DAY/NIGHT
+N: A series of scenes, day and night, fade into one another, always from the same POV. In the foreground, looking our way, is Stéphanie’s face and, behind, the visitors who succeed one another. Stéphanie’s eyes are shut. She opens them: - The other trainers from Marineland, holding bouquets. They are silent and look devastated. They occasionally speak to each other in whispers. Stéphanie closes her eyes. Black. Stéphanie opens her eyes: - Louise is seated nearby
+C: LOUISE
+D: I stopped by your place. I saw the cleaning woman. She didn't want me to pay her. She was... in shock. She's scared to come here. She sends her regards.
+N: She closes her eyes. Black. She opens them. - A blonde, pretty woman in her fifties is sitting behind Stéphanie, her face is close to hers. It is her mother. She speaks with a slight accent.
+C: MOTHER
+D: I spoke to your brothers. They wanted to talk to you but I didn't think it was the right time. We'll all come with Hugo during the next school break... I was afraid I might lose you. I don't know what I'd have done... It may seem selfish. In any case, you've always done whatever you wanted. But this time I was so scared that I don't think I'll ever be scared again.
+N: Her eyes close. Black. Her eyes reopen. The surgeon and his assistants. The orthopedist and his assistants. Her eyes close. Black. Her eyes open. - Simon is there, looking stiff and ill at ease. He tries not to make any noise as he puts a bunch of keys on the night stand. He leans over and kisses her hair. Her eyes close. Black. It’s her mother again, but this time accompanied by a tall, uncomfortable looking blond teenage boy. She leans over to kiss her.
+C: MOTHER
+D: Hugo wanted to say goodbye to you. We're leaving tomorrow but we'll pray for you, honey.
+E: in German
+N: Her eyes remain open. Black.
+S: 36. EXT. MARINELAND. NIGHT
+N: The bluish light at the bottom the main pool at Marineland. A diver is raking its bottom, wiping away sludge composed of micro algae, paint chips and fish bones. He examines the replacement mud and then, inside the drain, the mud being replaced. He digs his hand into the sediment and feels something there. He surfaces and deposits his find on the rim of the pool: It is one of Stéphanie’s diving flippers, with her foot cut off at the ankle.
+T: Cut to:
+S: 37. INT. STEPHANIE’S NEW APARTMENT – BATHROOM. NIGHT
+N: Stéphanie wakes up with a start in her handicapped bathtub. She tries to grab the bars but can't find them. She rolls over on herself like a floating log. She panics.
+T: Cut to:
+S: 38. INT. HOSPITAL – PHYSICAL THERAPY ROOM – EVENING
+N: There are several rows of parallel bars, with amputees hanging on to them as they relearn to walk with their prosthetics. Most of them are old. Nurses help them along. From her wheelchair, Stéphanie watches, looking glum and as if at a great distance. Her hair is greasy and her face swollen by her medication and induced sleep. She looks through the big window that opens onto the exterior. Outside, amputees smoke and chat. She notices one group, livelier than the rest. At its center, a guy is smoking a cigarette he holds in a pincer in the place of his hand. His name is Gilles.
+S: 39. INT. GILLES’ CAR. EVENING
+N: Four of them are smoking a joint in Gilles’ Megane. Outside, evening is falling over the convalescent center’s parking lot. Stéphanie is sitting up front. She passes the joint to Gilles, who takes it in his chrome pincer. She notices the scar that deforms his face and one side of his mouth. There is a couple in the backseat, making out: Raphael (his arms are missing and his sleeves are pinned up at his shoulders) and Julia.
+C: GILLES
+D: Want me to tell you something?
+E: to Stéphanie
+N: STEPHANIE
+C: GILLES
+D: You haven't finished mourning, that's all!
+C: STEPHANIE
+D: Really? Mourning who?
+C: GILLES
+D: Your legs.
+C: STEPHANIE
+D: Mourning my legs?
+C: GILLES
+D: Yes.
+N: He sounds as serious as a civics teacher. She looks at him, incredulous. Raphael sticks his head up front.
+C: RAPHAEL
+D: Pass me the joint...
+N: Gilles’ pincer and joint go for Raphael’s lips. He takes a long hit.
+C: GILLES
+D: They were a part of you. When a man dies, he gets buried. There's a ceremony, a prayer... Now a piece of you ended up in a hospital trashcan without a prayer, without any time for meditation.
+N: A beat. She is dumbstruck. She cannot believe what she’s hearing. In the backseat, Raphael exhales some smoke into Julia’s open mouth. GILLES (cont’d) You have to think about it symbolically...
+C: STEPHANIE
+D: Yeah, it's really symbolic...
+C: GILLES
+D: I know where my arm is. We buried it under a nice oak tree behind my house in the scrubland. My wife and kids came and we sang...
+N: Stéphanie has a fit of the giggles.
+C: GILLES
+D: You think I'm kidding?
+E: a bit vexed
+C: STEPHANIE
+D: No, it's the grass. I'll stop...
+N: She laughs so hard she cries.
+C: RAPHAEL
+D: Shit, it's a laugh riot up there. Can you take us home?
+E: to Gilles
+N: She looks back and, between the seats, notices the girl toying with Raphael’s fly.
+C: GILLES
+D: I'm too beat. I'll take a nap, then go. How are you getting home?
+E: to Stephanie
+S: 40. EXT/INT. HYPERBRICO. NIGHT
+N: A HyperBrico DIY store in an industrial zone in Cannes. Its windows shine in the night like an aquarium.
+S: 41. INT. HYPERBRICO. NIGHT
+N: Ali and Kadhi, a huge guard accompanied by a dog, make their rounds. They open doors with a magnetic key, each time recording their passage on electronic terminals. A bit before midnight, someone knocks at the main entrance. Ali goes to look. It’s a guy in a leather jacket and baseball cap, with a backpack and a shoulder bag.
+C: ALI
+D: What do you want?
+C: MARTIAL
+D: To come in.
+N: The guy takes out a card and presses it against the glass door: it’s the business card of ALTA SECU, the security agency.
+C: ALI
+D: Hey, Kadhi, come here!
+N: Kadhi comes over and looks at the guy.
+C: KADHI
+D: Okay, okay... Are you Martial?
+C: MARTIAL
+D: Yeah.
+C: KADHI
+D: Give me your keys.
+C: ALI
+D: Who's he?
+C: KADHI
+D: It's fine. The boss told me he was coming. He works for the company.
+N: Ali hands him the bunch of keys.
+S: 42. INT. HYPERBRICO – AISLES. NIGHT
+N: Ali goes down an aisle looking for something and finally finds what he was looking for: a folding ladder.
+S: 43. INT. HYPERBRICO – STOCK ROOM. NIGHT
+N: Martial has spread out his material in a stock room at the back of the store at the end of a corridor formed by palettes: precision tools, drills, electronic mini-cameras still in their wrapping, cases equipped with antennae, packs of batteries... A small radio is playing a night program on Radio Monte Carlo. Equipped with a small headlamp, Martial carefully cuts a hole in a cardboard box with his Leatherman scissors. He conceals a tiny camera inside. Ali arrives with the ladder over his shoulder.
+C: ALI
+D: Will this do?
+C: MARTIAL
+D: Perfect. Put it down there.
+N: Martial climbs the ladder to place the box high on a shelf.
+C: MARTIAL
+D: Imagine you're the manager of a big store like this and the union reps have been busting your balls. What do you do?
+C: ALI
+D: Fire them.
+C: MARTIAL
+D: You think that's how it works? What do you do before you fire them?
+N: He checks to make sure the lens is aligned with the hole, then checks the screen and reception on a small pocket monitor.
+C: MARTIAL
+D: Well, beforehand you try to see how long they spend in the restroom, if they take extra-long coffee breaks, smoke on the premises, steal from the stockroom, rip customers off with the sales receipts... When you know all that, you put the pressure on them and you fire the ones who don't leave. Can you give me a stroll down the aisle?
+C: ALI
+D: A stroll?
+C: MARTIAL
+D: Walk down the aisle. No, further down, like you came out of that door there. Good, perfect...
+N: Ali twice passes within the camera’s field of vision. Martial climbs down his ladder.
+C: MARTIAL
+D: That's it.
+C: ALI
+D: Okay, then I'll be getting back.
+C: MARTIAL
+D: Hold on!
+N: Martial pulls a 10 Euro bill from a jacket pocket.
+C: ALI
+D: It's fine.
+C: MARTIAL
+D: Take it.
+N: Angle on the bill in Ali’s hand.
+S: 44. INT. SUPERMARKET – SECURITY ROOM. NIGHT
+N: Ali is in the security room reading a kickboxing magazine. A small radio is playing a late evening program. Outside in the parking lot, Kadhi smokes while walking his dog. The dog takes its time. Ali watches Kadhi pull on the leash. Ali’s cell phone rings. The screen reads ‘unknown’.
+C: ALI
+D: Hello?
+C: STEPHANIE
+D: It's Stéphanie. Remember me? We met at the Fever.
+E: OFF
+N: Ali is taken by surprise.
+C: ALI
+D: Yeah... How are you doing?
+N: She sniggers. Her speech sounds slow and thick.
+C: STEPHANIE
+D: You know what happened to me?
+E: OFF
+C: ALI
+D: Yeah... I saw the papers… the news on TV… How are you?
+C: STEPHANIE
+D: How do you think I am?
+E: sniggering
+N: A beat. Ali is at a loss to answer.
+C: STEPHANIE
+D: How are you?
+C: ALI
+D: Okay... normal.
+C: STEPHANIE
+D: Still a bouncer?
+C: ALI
+D: No, not really.
+C: STEPHANIE
+D: You want to get together?
+C: ALI
+D: Yeah, but nights are tough. I'm a security guard now. Three nights a week.
+C: STEPHANIE
+D: I'm... crazy busy too. Every day and every night. I don't know how to manage...
+N: A beat.
+C: STEPHANIE
+D: Now.
+C: ALI
+D: Huh?
+C: STEPHANIE
+D: Come now.
+S: 45. EXT. ANTIBES – INDUSTRIAL ZONE AND STREETS - DAWN
+N: The Spéciale 50 putt-putts in the early morning light. Ali drives through a neighborhood of chain stores, Conforama, Courtepaille, Leroy-Merlin...
+S: 46. EXT. STEPHANIE’S RESIDENCE - DAY
+N: A gated community made up of four story buildings, lawns, bougainvillea and lavender. It looks pretty as a picture and squeaky clean.
+S: 47. INT. STEPHANIE’S APARTMENT. DAY
+N: The door opens automatically. He is surprised. He hears a tired voice from inside.
+C: STEPHANIE
+D: Come in.
+E: OFF
+N: She is waiting in her wheelchair, holding the remote control. She activates it and the door closes behind Ali. Her hair is mid-length, her face has thickened and there are bags under her eyes. She is wearing a baggy Nike T- shirt with burn marks here and there and a pajama bottom whose legs hang limp.
+C: STEPHANIE
+D: Have you been waiting long?
+C: ALI
+D: No... I just got here.
+C: STEPHANIE
+D: Was that you who rang before?
+N: She looks exhausted but feverish.
+C: ALI
+D: No.
+C: STEPHANIE
+D: Come in. Sit down.
+N: He sits down on a small couch.
+C: STEPHANIE
+D: Want something to drink? A coffee?
+C: ALI
+D: Yes.
+C: STEPHANIE
+D: I only have instant.
+C: ALI
+D: That's fine.
+N: It takes two tries to activate the wheels on her wheelchair.
+C: ALI
+D: Need any help?
+N: She answers with a growl, as much for him as for her wheelchair, then goes into the kitchen. He sees her pajama legs flap like rags, he hears the noise of the tap.
+C: ALI
+D: Have you been living here long?
+C: STEPHANIE
+D: I don't know... Three or four months.
+C: ALI
+D: ... It's nice.
+E: looking around
+N: She comes back.
+C: ALI
+D: Are you alone? You got no one to help you?
+C: STEPHANIE
+D: Help me what? Walk?
+C: ALI
+D: No, for the cleaning and everything...
+C: STEPHANIE
+D: Yeah there are people. They come and go. Hold on.
+N: She manages to navigate from the living room into her bedroom. He stays in the living room. He hears a kettle whistle in the kitchen. He goes into the kitchen and pours water into the glass/mug. He finds her hunched over in her wheelchair. She is nodding off, high on her medication.
+C: ALI
+D: Hey, are you okay?
+C: STEPHANIE
+D: I'm fine.
+N: He opens the window.
+C: STEPHANIE
+D: Does it stink here?
+C: ALI
+D: Yeah, a little.
+C: STEPHANIE
+D: It's me.
+N: He opens the curtains and looks outside. It is getting hot out. The automatic sprinklers have gone on.
+C: ALI
+D: Let's go out. Hey, you hear me?
+E: No answer
+C: STEPHANIE
+D: Yes.
+C: ALI
+D: Let's go out.
+C: STEPHANIE
+D: No.
+C: ALI
+D: Get dressed.
+C: STEPHANIE
+D: Leave me alone.
+C: ALI
+D: Where are your clothes?
+N: He opens the closet.
+S: 48. EXT. STEPHANIE’S RESIDENCE - DAY
+N: When they come out of the building’s lobby, the sun hits him on the head like a bad hangover.
+C: ALI
+D: Here.
+N: Ali hands her a pair of sunglasses.
+C: ALI
+D: Where should we go?
+C: STEPHANIE
+D: I don't know. You're the one who wanted to go out...
+C: ALI
+D: Should we go to the ocean?
+C: STEPHANIE
+D: I don't care.
+N: He tries to push the wheelchair, but she stops him:
+C: STEPHANIE
+D: Stop it. I want to puke.
+N: He notices that his moped is attached in the middle of a sprinkler area. He goes to free it and gets splashed... Heavy chain, padlock... he comes back with soiled hands. When he comes back, she’s gone. He sees the wheelchair moving toward the seafront avenue. He goes to join her.
+S: 49. EXT. SIDEWALK CAFE – DAY
+N: They are sitting at a table on a terrace facing the beach. They remain silent. She looks at his huge fists, black with axle grease.
+C: ALI
+D: I want to go in.
+N: S T E P H A N I E
+C: ALI
+D: I feel like swimming!
+C: STEPHANIE
+D: Go ahead.
+C: ALI
+D: You don't want to?
+C: STEPHANIE
+D: Huh?
+C: ALI
+D: You don't feel like swimming?
+N: She looks daggers at him.
+C: ALI
+D: You don't have a bathing suit?
+C: STEPHANIE
+D: Do you realize what you're saying?
+C: ALI
+D: Who the fuck cares? There's no one here!
+C: STEPHANIE
+D: Forget it.
+N: He wavers a moment, then finally crosses the seafront avenue.
+S: 50. EXT. PRIVATE BEACH. DAY
+N: Stéphanie is at the top of the steps in her wheelchair. Ali is talking with the beach boy when he notices her. Ali and the beach boy carry her to the deck chair area. Ali rents the whole shebang: parasol, beach towel, deck chair and a small tube of sunscreen 50. Sheltered under a parasol, she pancakes her face with cream and watches him dive in, wearing his boxers, and noisily and clumsily crawl some laps. His body is pink and white. Huge and buff. Then she looks out to sea, the listless waves washing in and out. The fresh feel of it all makes her want to drink it all in. He comes back, enthusiastic and dripping wet. She looks around. The beach is deserted, other than for a far off, elderly couple broiling in the sun.
+C: STEPHANIE
+D: Actually I think I will go in.
+N: He looks at her. She covers herself with a towel and wiggles out of her pants, revealing what remains of her legs. Her stumps are white, with terrible scars at their extremities.
+C: STEPHANIE
+D: You have to carry me. Help me...
+C: ALI
+D: ... How, like this?
+E: makes a gesture
+C: STEPHANIE
+D: Yes.
+N: He lifts her up and carries her to the water. He takes her far enough in until she begins to float.
+C: ALI
+D: You okay?
+C: STEPHANIE
+D: Don't let me go! Not right away... Do it gently.
+N: She feels unsure of herself. He lets go of her gradually. She starts to sink, then crawls forward, with power and grace. She stops but has to paddle like a dog to tread water. He joins her. She grabs onto him.
+C: ALI
+D: So?
+C: STEPHANIE
+D: I can't stop. If I do, I sink. Wait...
+N: She gesticulates...
+C: STEPHANIE
+D: This is bothering me!
+N: She takes off her T-shirt and hands it to him. Her breasts press against Ali’s chest.
+C: STEPHANIE
+D: Okay, you can let go.
+N: She lets herself go and crawls like a pro. He stays put, holding her t-shirt. Twenty-five meters later, her head emerges. He hears a burst of laughter. Half asleep in a deck chair, he looks up from time to time to see how she’s doing. She calls out to him. She is sitting in the water. She motions for him to come and get her. He helps her out and takes her into his arms. She hangs on to him, still out of breath.
+C: ALI
+D: You swim like a real pro!...
+N: She shuts her eyes.
+C: STEPHANIE
+D: Fuck that's good!
+N: The beach is crowded now. Ali carries her back to the deck chairs. Some bathers watch them go by, others look away. They are stretched out in their chairs. She has wrapped her lower body in a beach towel. They sunbathe.
+C: STEPHANIE
+D: Thanks.
+C: ALI
+D: Huh?
+C: STEPHANIE
+D: Thanks.
+N: She rolls onto her back. He sees her breasts pointed heavenward.
+S: 51. INT. GYM. DAY
+N: A decrepit, simple, functional, but reasonably clean workout room. Guys of every color work the punching bags, lift weights, do chin-ups... From the gym next door, we hear the booming music of an aerobics class. In a small ring at floor level, Ali and Foued, loaded down with protective gear, pound each other. Each of their blows lands right on target. They repeat the same series of moves several times at varying speeds.
+S: 52. INT. GYM – CORRIDOR. DAY
+N: Ali and Foued are dripping wet. They have towels around their necks. They fill their small plastic bottles at a faucet in the workout room. Through a large window in the corridor, Ali watches the aerobic class going on in the gym: legs and feet moving in rhythm, red faces, sweaty underarms, butts, boobs and the braid of the instructor, who uses it to beat the measure, as she swings it from one shoulder to the other.
+C: FOUED
+D: I have to get back. I need to train.
+N: Ali nods, without actually looking at him.
+S: 53. EXT. GYM – STREET. DAY
+N: Outside, Ali has unwrapped the sandwich his sister had prepared for him. A bit farther off, the aerobics instructor is smoking in the sun. She has a short, buff body. She smokes her cigarette like someone who counts them out sparingly. They remain like that a while, he chewing ands she smoking.
+T: Cut to
+S: 54. INT. GYM – EQUIPMENT ROOM. DAY
+N: A cell phone vibrates. Through a narrow transom, a ray of sun slices through the dark equipment room. They haven’t bothered undressing. Ali and the aerobics instructor are making love on a pile of workout mats. Ali’s cell phone continues to vibrate, goes silent, vibrates again. He answers. We hear a crackling voice.
+C: ALI
+D: I'm still at the gym. I'm leaving... I said I'm leaving!
+N: He hangs up. They continue.
+S: 55. EXT. NUSERY SCHOOL - SCHOOLYARD. DAY
+N: Sam is playing alone, perched up on monkey bars in the schoolyard. Through a wide window, he sees his father racing down a corridor that runs alongside the schoolyard. The principal is waiting for him at the door. Ali spurts out some quick apologies. Sam slowly slides off the structure. We hear the noise of his hands skidding on metal.
+S: 56. EXT ANTIBES EVENING
+N: The moped wheezes and sputters. Ali and Sam are heading back home along the beach. Ali is so big, the moped looks like a kid's bike. Behind him on the luggage rack, he can feel Sam leaning into him. Sam’s hand rummages in his coat pocket for a box of Choco-BN cookies. Ali takes one too. To their left, a train noisily speeds by.
+S: 57. INT. STEPHANIE’S APARTMENT. DAY
+N: Louise has a set of keys. She enters Stéphanie’s apartment with the mail.
+C: LOUISE
+D: Steph!
+N: Made up and well-groomed, she looks older than she actually is. Stéphanie answers from the bathroom.
+C: STEPHANIE
+D: I'm in here!
+E: OFF
+N: Louise puts the mail on the living room table and enters the bedroom. Stéphanie wheels herself out of the bathroom, her hair wet and her body wrapped in a towel.
+C: LOUISE
+D: Shit, you're not ready! The appointment is in a half hour!
+C: STEPHANIE
+D: It's fine!
+C: LOUISE
+D: What do you mean? You're a freaking pain! I have to get back to work. Come on, let me help you.
+N: She grabs the arms of the wheelchair and pushes Stéphanie toward the closet.
+C: STEPHANIE
+D: Let go of me! Stop, I can manage alone.
+C: LOUISE
+D: Oh yeah? Okay, so manage then!
+N: She lets go of the wheelchair and leaves the bedroom.
+S: 58. EXT. STÉPHANIE’S RESIDENCE. DAY
+N: Louise briskly pushes Stéphanie’s wheelchair across the residence garden. The warning lights on her 205 are blinking in front of the gate. Stéphanie hangs onto Louise’s neck. Louise lifts her out of her wheelchair as best she can and into the passenger seat. Louise bends down to buckle Stéphanie’s seat belt.
+C: STEPHANIE
+D: I can do the seat belt!
+E: annoyed
+N: In front of the open trunk, Louise struggles to fold the wheelchair.
+C: LOUISE
+D: Can't you call them to tell them we're going to be late?
+S: 59. INT. PROSTHESIST’S OFFICE. DAY
+N: In CU: the brochures of prosthetic manufacturers… we see pictures of the various models go by. Stéphanie is in the doctor’s office with Doctor Vitias. He is in his fifties and is wearing a white jacket.
+C: VITIAS
+D: We'll order two pairs of prosthetic devices, one for everyday life and one for the sport you do.
+N: Stéphanie pages through the various brochures.
+C: STEPHANIE
+D: Don't you have something simpler, classier?
+C: VITIAS
+D: What do you mean by classier?
+C: STEPHANIE
+D: I don't know... like a wooden leg with a piece of rubber at the end?
+C: VITIAS
+D: No, sorry. We don't make those models anymore.
+E: smiling
+N: Louise shuts her eyes, visibly exasperated.
+C: STEPHANIE
+D: Or just a plank. A plank with wheels and straps. And irons to move forward with.
+C: LOUISE
+D: Can you cut it out?
+E: furious
+C: STEPHANIE
+D: What? If I want...
+C: LOUISE
+D: I've had enough of your schtick, you hear me?
+C: STEPHANIE
+D: Come on...
+C: LOUISE
+D: Shut up!
+N: Stéphanie shuts up. Vitias still looks patient as Job.
+S: 60. INT. PROSTHESIST’S OFFICE. DAY
+N: Sitting on an examination table, Stéphanie waits for the resin bands wrapped around her stumps to dry. Louise is sitting on a stool across from Stéphanie. Their eyes meet.
+C: STEPHANIE
+D: Go if you want… I’ll take a taxi.
+C: LOUISE
+D: I told them I was with you.
+C: STEPHANIE
+D: And that works? If you tell them you're with me, do they let you do what you want?
+C: LOUISE
+D: Well...
+C: STEPHANIE
+D: Cool. If ever you want a day off, just tell me. I'll write you a note.
+N: Louise looks at her. She’s not going to let her get on her nerves. There is a knock at the door. A nurse enters. She checks the resin bands, looks at her watch.
+C: NURSE
+D: 10 more minutes, just to make sure. Then Doctor Vitias will come for you.
+N: She smiles and closes the door. The two young women are again left alone. Stéphanie stretches out her hand. Louise takes it. And they remain like that.
+S: 61. INT. HYPERBRICO - SECURITY ROOM – NIGHT
+N: In close up on the screen of a small DVD player: amateur images of two bare-chested guys fighting in the garden of a suburban house. It looks like a wild boxing match, free- for-all vale tudo in which anything goes. In the Bricorama security room, Ali, Kadhi and Martial, excited, are bent over the screen. A few blows to the face have one of the combatants KO on the lawn.
+C: KADHI
+D: Look at the next one! Watch how he whacks him.
+N: A change of scene on the small screen: a courtyard between two tower blocks, with new combatants, but with the same amateur images and the same violence.
+C: KADHI
+D: ... I know him. I fought him twice in Nationals. He's not bad. He was at the boxing club in Marseille.
+E: pointing to the screen
+N: Martial watches Ali, fascinated by the images, as if he were sizing him up.
+S: 62. INT. PROJECTS. DAY
+N: An apartment in a Golfe Juan housing project. After-dinner time. Kids are playing, women doing the dishes. On the living room couch, under a tapestry of a lion hunt in Technicolor, Martial blows on his glass of tea. His cousin is sitting across from him. Ali is on a stool at the end of the table.
+C: MARTIAL
+D: He says he's done Thai boxing. He can fight. He's enormous. He's not afraid of taking punches, and he's white.
+C: COUSIN
+D: I see.
+N: The cousin turns to Ali. He takes his time sizing him up.
+C: COUSIN
+D: Is that true? You like to fight?
+C: ALI
+D: Yeah.
+C: COUSIN
+D: Okay, so I organize the fights. I pick the fighters. I see if the money's there. I ref. I collect the dough... I take a third of the bets. The rest goes to the winner...
+C: MARTIAL
+D: A third of how much?
+C: COUSIN
+D: We don't fight for less than 800.
+N: Ali does the division in his head.
+C: MARTIAL
+D: So?
+N: Ali hesitates.
+C: ALI
+D: There's something I don't get: how much do you take?
+E: to Martial
+C: MARTIAL
+D: I don't know. You tell me. How much do you need? I'll take 20% of what you win. How's that?
+C: ALI
+D: And how much does your cousin give you?
+C: MARTIAL
+D: Oh, I introduced you to him, didn't I? How's that?
+C: ALI
+D: Okay.
+N: The cousin stands up. They all shake on it.
+S: 63. INT. LIVING ROOM. DAY
+N: Ali is in a corner of the living room, sitting in front of Anna’s old PC and watching some fight videos he’s found. Anna rushes into the room.
+C: ANNA
+D: Keep Sam with you for 5 minutes!
+N: She hurries to find some papers in the drawer of a commode. Ali hasn’t budged.
+C: ANNA
+D: Oh! Hear me? I don't want your son in the garden.
+C: ALI
+D: Yeah, I heard.
+N: He gets up and goes to get Sam who is playing behind the house. Anna finds her papers and leaves in another direction.
+C: ALI
+D: Sam! Come here! I want to show you some stuff!
+N: He lifts Sam up with one arm and goes back to the computer.
+C: ALI
+D: Look how they fight...
+N: He clicks on an image and the fight continues... the audience’s noise as well. Sam watches, intrigued. Ali commentates, pointing to guys onscreen.
+C: ALI
+D: Look at him, in red. See how strong he is?
+C: SAM
+D: Is he the good guy?
+C: ALI
+D: No, he's the bad guy. Look how he tries to grab his legs. Wait.
+N: His phone vibrates. He takes it from his pocket. It’s Martial. He answers.
+C: ALI
+D: Hello? Yeah...
+C: SAM
+D: Why is the red one the bad guy? Daddy?
+C: ALI
+D: I don't know. Look and tell me who wins.
+N: He turns down the sound, settles Sam on the stool and gets up to go speak.
+C: ALI
+D: So? What did he say? Which others? How many?
+E: into the phone
+N: Sam watches the fight in silence. Dogs bark in the garden. Sam feels something coming. He looks out the window, then goes running. Ali hasn’t noticed a thing and continues his phone conversation.
+C: ALI
+D: What is this bullshit? What do you mean, a tournament?
+S: 64. INT. ARAB CAFÉ. DAY
+N: Martial is leaning on the bar of a noisy Arab café/betting office, talking into his phone.
+C: MARTIAL
+D: Last one standing gets the money. I know, but he says it's better that way. Do you think you're in a position to negotiate a percentage? Where did you get that idea from? He gave me a website if you want to see the others.
+N: He takes out a small spiral notebook.
+S: 65. INT. LIVING ROOM. DAY
+N: From the living room, Ali hears Sam screaming in the garden.
+C: ALI
+D: Tell him to give the website to his mother. All I see is me doing more fights and him making more dough.
+N: Ali goes to the window. Outside, near the kennel, Sam has lunged at a guy in a jumpsuit who is helping Anna get the puppies into a metal cage. Sam is screaming. Anna tries to take him into her arms. Sam clutches the bars of the cage. The puppies bark. Anna finally manages to rip Sam free and drag him back into the house.
+C: ALI
+D: He's changing the rules and so am I... I couldn't care less.
+E: into the phone
+N: Anna storms into the living room. Sam is shrieking, having a tantrum. He kicks and bites.
+C: ALI
+D: I'm on the phone!
+C: ANNA
+D: What the hell? I asked you to watch him for 5 minutes!
+C: ALI
+D: I'll call you back.
+E: into the phone
+N: Ali hangs up. Outside, the kennel keeper rolls the cage across the garden. Anna hugs Sam in her arms.
+C: ANNA
+D: He's taking them to the country. They'll be so happy there.
+E: to Sam
+C: SAM
+D: Leave me alone. They're my babies!
+N: Sam refuses to calm down. Anna looks at her brother.
+C: ANNA
+D: What are you doing? Are you his father or not?
+C: ALI
+D: You're such a pain in the ass.
+C: ANNA
+D: Don't talk to me like that!
+N: Ali rips the child from his sister’s grip. Sam struggles.
+C: ALI
+D: Stop it now! I said stop! Calm the fuck down!
+C: SAM
+D: Let go of me! Let go!
+N: Sam kicks out. Ali shakes him.
+C: ALI
+D: Cut it out, dammit! You're such a pain!
+N: He flings the child away. Sam’s head hits the coffee table. Silence. Anna rushes over and picks up Sam, who has stopped crying. He’s been knocked out. Anna is frightened. She examines his scalp, she strokes his head. She trembles. A cut on his head begins to bleed. She kisses the wound. Ali comes over, upset.
+C: ANNA
+D: Don't touch him! Don't touch him I said! You know what? You're... you're a bad person.
+N: Huddled against Anna’s breasts, Sam opens his eyes.
+S: 66. EXT. BEACH. DAY
+N: The day is over. The beach boy has already packed away most of his paraphernalia. In the water, Ali and Stéphanie are out with some of the last swimmers. Faithful to what by now seems to have become a habit, he carries her piggyback to their lounge chairs. They come out of the water in the middle of a discussion.
+C: STEPHANIE
+D: What kind of boxing? Thai? Do you use your feet?
+C: ALI
+D: No, just fists I think. We bash each other's faces and whoever's still standing at the end wins. Hey, you're strangling me!
+N: He puts her down on her chair.
+C: STEPHANIE
+D: Is it the first time you're doing this?
+C: ALI
+D: Yeah.
+C: STEPHANIE
+D: And you're not scared?
+C: ALI
+D: Of what?
+C: STEPHANIE
+D: How much do they pay you for this?
+C: ALI
+D: I don't know. About 500, 1000 maybe.
+C: STEPHANIE
+D: You're doing that for 500 euros?
+C: ALI
+D: Um, yeah.
+C: STEPHANIE
+D: You're going to get whacked on the face and risk your health for 500 euros?
+C: ALI
+D: Risk my health? What are you talking about? Why are you getting so worked up?
+C: STEPHANIE
+D: I'll give you the 500! Cancel it and I'll give it to you tomorrow.
+C: ALI
+D: You can give it to me if you have too much money, but I said I was doing it and I am. That's all.
+C: STEPHANIE
+D: If it's not for money, why then?
+C: ALI
+D: I didn't say it's not for the money!
+C: STEPHANIE
+D: Why are you doing it?
+C: ALI
+D: Oh, stop driving me crazy! I'm doing it to fight. For fun. Why did you clown around on your fish? For the fun of it, right?
+N: She grins.
+C: STEPHANIE
+D: Yeah and look how I ended up.
+C: ALI
+D: Spare me. You turn on the waterworks when you feel like it.
+N: She dries her eyes. He begins to pack things up.
+C: STEPHANIE
+D: Your fight, if you do it...
+C: ALI
+D: Mm?
+C: STEPHANIE
+D: You think I can come along?
+S: 67. EXT/INT. MARTIAL’S MERCEDES. DAY
+N: A narrow road. Down below, a town. The Mercedes Vito with the tinted windows lifts a cloud of dust. Stéphanie is in the back seat and has to hold on to the overhead strap to avoid hurting herself. At the end of the road is a gate guarded by two huge homies. They signal Martial to over. He rolls down his window and the two homies peer inside. They see Ali and Stéphanie in the back. HOMEBOY 1 Who's she?
+C: MARTIAL
+D: His girlfriend.
+N: Surprised, Stéphanie looks at Ali, watching for his reaction. He looks elsewhere. The gate opens. Martial drives in.
+S: 68. EXT / INT. MARTIAL’S MERCEDES. DAY
+N: Ali and Stéphanie are alone in the car. Through the tinted windows, they can see a concrete yard with boats dry-docked around it and buildings with satellite dishes studding every balcony. Some men are over in one corner, discussing: Martial, his cousin and some other mean looking guys. In the shade, a bit to one side and surrounded by his fans, is a bare-chested, muscle-bound North African. He warms up, wagging his head from left to right.
+C: ALI
+D: Motherfucker's acting like he's on Canal Plus.
+E: under his breath
+C: STEPHANIE
+D: Who are the other guys?
+C: ALI
+D: I don't know. Guys with money. Dealers.
+N: A beat.
+C: STEPHANIE
+D: You okay?
+C: ALI
+D: Great.
+N: Martial comes back with a wad of banknotes and slides into the passenger seat.
+C: MARTIAL
+D: It's okay. Let's go. Fall against the big one in black shorts. I told you. They're big guys.
+C: ALI
+D: Okay. And the bets? How much is there?
+C: MARTIAL
+D: A little over 2000 for the time being. But it'll go up during the final match.
+C: STEPHANIE
+D: What do I do?
+C: MARTIAL
+D: No girls. Stay in the car. You ready?
+E: To Ali
+N: Ali nods.
+S: 69. EXT. PROJECTS COURTYARD. DAY
+N: The blazing sun is melting the asphalt. A coin bounces between pairs of basketball shoes. The cousin picks it up. He points to Ali and the guy in the black shorts.
+C: COUSIN
+D: You and you.
+N: Ali pulls off his T-shirt, staring down his adversary. Martial takes the T shirt and leans over to Ali.
+C: MARTIAL
+D: If you get into trouble, don't insist, just fall.
+N: Ali doesn’t flinch. The cousin, the bettors and the other fighters move away.
+S: 70. INT. MARTIAL’S MERCEDES. DAY
+N: Stéphanie watches the faces leaning over the balconies overhead. She hears the spectators’ hostility and cheers. A circle has formed around the fighters. She sees the shadow, and only the shadow, of his opponent’s fist barely miss Ali’s face. Then things speed up. Ali uses his feet, knees and fists. When his opponent begins to totter to one side, Ali hangs onto him like a pit bull. When he falls, Ali pounds on his face with his fists and elbows. The ‘ref’ has to enlist Cousin’s help to pull Ali away. Ali returns to his place in the car. Stéphanie looks at him: he can’t sit still.
+C: ALI
+D: I have to go.
+N: Another combat begins, while Ali jogs around the hangar. Stéphanie watches other combats, whether featuring Ali or not. She sees feet dancing on the concrete. She sees the banknotes in people’s hands. She sees heads leaning over balconies. She sees an opponent’s fist hit Ali behind the ear. She sees another of Ali’s opponents get back to his feet, and Ali’s fist split open his nose like a ripe fig. She sees another opponent’s head bounce off the concrete. She sees a tooth roll across the concrete, like dice in a crap game. She sees Ali perform three steps of a moonwalk and kiss his own biceps.
+S: 71. EXT. ROAD. DAY
+N: A cloud of dust, a narrow, bumpy road. Martial’s car is headed for the town below.
+S: 72. INT. MARTIAL’S MERCEDES. DAY
+N: CU on a long cut behind Ali’s ear. Stéphanie’s fingers use a Kleenex instead of cotton. Bare-chested with a towel around his neck, Ali leans forward to make his wound more easily accessible.
+C: STEPHANIE
+D: It's nothing, just a cut. Got anything to disinfect it with?
+E: to Martial
+C: MARTIAL
+D: No.
+E: driving
+C: STEPHANIE
+D: Keep this on it. It's the only one I have.
+E: to Ali
+N: Ali looks up at her.
+C: ALI
+D: You liked it.
+C: STEPHANIE
+D: Yes.
+C: ALI
+D: Me too.
+N: He again lowers his head.
+C: STEPHANIE
+D: Put this on it. It's the only one I have.
+N: Ali straightens up, covers himself with the towel and remains like that: invisible, out of breath, clearing his throat and spitting out the window... Stéphanie observes the welts on his body. A big service station appears a bit farther down the road. Ali sits back up.
+C: ALI
+D: Pull over here. I'll go rinse off my face. Give me 50.
+E: puts out his hand
+N: Martial uses his turn signal.
+S: 73. INT. MARTIAL’S MERCEDES. DAY
+N: Behind the wheel of his stopped car, Martial counts the bills spread out on his lap.
+C: MARTIAL
+D: Have you known him for long?
+C: STEPHANIE
+D: No, not very.
+N: Alone in the back seat, Stéphanie looks out at the service station.
+C: STEPHANIE
+D: What do you want to know? If I knew him before the accident?
+N: Martial looks back.
+C: MARTIAL
+D: What?
+C: STEPHANIE
+D: You find it weird that we're together? You wonder what he’s doing with me?
+C: MARTIAL
+D: No, since you know him, I just wanted to know if you've seen him like that before?
+C: STEPHANIE
+D: No.
+N: Martial finishes counting the bills.
+C: MARTIAL
+D: He freaks me out.
+N: He takes his share and hands Stéphanie the envelope.
+C: MARTIAL
+D: 1200 for him.
+N: She looks at the envelope without taking it.
+C: STEPHANIE
+D: Why are you giving me that?
+C: MARTIAL
+D: It's for Ali.
+C: STEPHANIE
+D: Exactly. So why give it to me?
+N: He looks at her, suddenly surprised.
+C: MARTIAL
+D: Hey, you make it complicated. Either you take it or you don't. And either I talk or I keep my mouth shut.
+N: He tosses the envelope at her. She looks away. Ali finally gets back into the car with a big box. It’s a toy: a green John Deere tractor with all the accessories.
+C: ALI
+D: For my kid.
+C: STEPHANIE
+D: You have a kid?
+C: ALI
+D: Yep.
+S: 74. EXT. BEACH - ROAD. DAY
+N: The afternoon sun has the entire coast sparkling. Ali is on his moped, with the box between his knees, driving up the coastal road. He looks splendid, wearing new clothes. He finally sees what he was looking for: a group on the beach, Anna, Richard and their neighbors, having a picnic.
+T: Cut to:
+S: 75. EXT. BEACH. DAY
+N: CU Ali and Anna are off to one side, talking.
+C: ANNA
+D: You see what you're like with him? You're not around and when you are, you scream at him. Damn, you hit him! Why did you take him along if you act like that? You should have left him.
+C: ALI
+D: Cut the shit. He's not dead. I didn't do it on purpose. I'm sorry about it.
+N: Anna avoids his glance. He rummages in his pocket, pulls out the envelope of money and hands it to her.
+C: ALI
+D: Here.
+C: ANNA
+D: What's that?
+C: ALI
+D: Money. What I owe you plus the next few months. You can count it.
+N: She looks at the bills.
+C: ANNA
+D: Where did you get this? Same place?
+E: pointing to his new clothes
+C: ALI
+D: I won a fight.
+C: ANNA
+D: A fight? What kind of fight? Is that the only job you could find? Is that why you have marks on your face?
+C: ALI
+D: Hey, will you take the money or not? Why are you looking at me that way?
+C: ANNA
+D: Nothing.
+N: He leaves her with the envelope and trots over to the rest of the group. They are packing away ice chests and folding things up. Sam and his little friends are playing in the sand with the John Deere tractor. Sam has a bandage on his forehead. Ali sits down in the sand next to him.
+C: ALI
+D: You like it?
+E: pointing to the tractor
+N: Sam continues to play, ignoring him. Behind them, Richard is folding up parasols with the help of Ché, a bearded neighbor who is also there with all his family.
+C: RICHARD
+D: Have you eaten?
+C: ALI
+D: Yeah, yeah, I'm fine.
+C: CHÉ
+D: You don't want to drink something before I pack up?
+N: Ali shakes his head ‘no’. He looks at Joelle, Ché’s daughter: a tomboy with boobs.
+C: ALI
+D: You want to go for a swim?
+E: to Sam
+S: 76. EXT. BEACH. DAY
+N: Ali and Joëlle take turns tossing Sam into the waves. The child laughs so hard, he swallows water. Ali takes Sam into his arms.
+C: ALI
+D: Give me a kiss.
+C: SAM
+D: I don't want to.
+C: ALI
+D: Give Daddy a kiss!
+C: SAM
+D: No.
+C: ALI
+D: Give Daddy a kiss!
+E: using a deep voice
+C: SAM
+D: ... No!
+E: deep voice too
+N: Ali kisses him and hugs him tight.
+S: 77. INT. JOELLE’S ROOM. EVENING
+N: A nearby house. Evening is falling. Ali and Joëlle make love in her bedroom. His cell phone rings. The screen reads: "Stef". He doesn’t answer. Joëlle comes noisily. Ali puts his hand over her mouth. Through the window, we see Sam in Anna’s garden, playing with his new tractor. Richard is hanging towels and swim suits on the line to dry.
+S: 78. INT. STEPHANIE’S APARTMENT. EVENING
+N: Sitting on the couch in a T-shirt and boxers, Stéphanie finishes her dinner, watching TV distractedly. Balancing on her stumps, she puts her plate in the dishwasher. Then, supporting herself on her hands, she leaves the kitchen, wiggling her way into the bedroom. She lifts herself into bed as best she can. Evening falls over the bougainvilleas. Stéphanie watches old people coming home in their wheelchairs or hanging on to their Zimmer frames.
+S: 79. INT. FORMULE 1 - HOTEL ROOM. DAY
+N: Ali walks up a long standard hotel corridor lined with numbered doors. He stops and knocks at room 429. No answer. He knocks again. Finally, room 431 opens behind him. Martial looks out.
+C: MARTIAL
+D: Hey! I'm here.
+C: ALI
+D: They told me 429.
+N: Martial motions him in.
+C: MARTIAL
+D: Normal. This one is for the equipment.
+N: Boxes of equipment are piled up under the window and the small table has been converted into a work surface. A camera is plugged into the TV set. It shows a still picture: an empty location, one sector of an industrial site filmed from above.
+C: MARTIAL
+D: I have to watch this. Have a seat. You wanted to see me.
+N: Ali sits on the edge of the bed. Martial watches the screen out of the corner of his eye.
+C: ALI
+D: I need to find a coach. A real one. Someone who has me work on my takedowns.
+C: MARTIAL
+D: Foued?
+C: ALI
+D: Foued doesn't know jackshit. Just jiu-jitsu and rap stuff. You need to ask Cousin. His guys must train somewhere.
+C: MARTIAL
+D: Think so?
+C: ALI
+D: Yeah. And I'll need some time to train.
+C: MARTIAL
+D: I’ll talk with Alta Sécu. We'll be able to work something out.
+C: ALI
+D: Work it out how?
+C: MARTIAL
+D: I'll have my company pay you and I'll bill them what you cost me. They'll keep paying you but now you'll work directly for me. You won't have to spend your nights there.
+N: There is some movement on the screen. He interrupts himself. Gray silhouettes cross the screen, open a door and disappear before coming back to cross the screen once again.
+C: ALI
+D: Where's that?
+C: MARTIAL
+D: At the Mousquetaires.
+N: Martial rewinds and zooms in on some faces.
+C: MARTIAL
+D: I'll make a copy and you'll take it to the owner. Ask for Steve at Security. He'll tell you what to do.
+S: 80. INT. RICHARD’S TRUCK. DAY
+N: Sam is on Richard’s lap, ‘driving’ the truck. He is in seventh heaven. In front of them, a man is running down the shoulder of the road.
+C: RICHARD
+D: Look who it is! Go on, honk!
+S: 81. EXT. ROAD. DAY
+N: The horn beeps. Out of breath, in a sweat, Ali looks back and sees Richard and Sam in the truck. They slow down and pull up to him. Richard lowers his window.
+C: RICHARD
+D: We're going to school. Want to come along?
+N: Ali shakes his head and continues jogging. The truck disappears.
+S: 82. INT. NEW GYM. DAY
+N: This new gym is large, clean and light. In one corner there is a genuine ring, and on the other side, a piece of tatami. Ali is working out with Joao, a Brazilian in a kimono. They try out some foot-fist series. On the mat, Ali shadows and deconstructs Joao’s gestures.
+S: 83. EXT. ANTIBES. STREET. DAY
+N: A street near the beach. The weekend is beginning. The streets are crowded. Ali is on the phone.
+C: ALI
+D: Where are you? I can't see you. Where?
+N: He looks every which way until he sees her, a few feet away. She is standing upright, in a light pair of pants, with her canes hidden behind her back. It takes some time to register. She smiles at him.
+C: ALI
+D: That's fucking amazing! I was looking for a wheelchair...
+C: STEPHANIE
+D: Stop looking. No more wheelchairs!
+C: ALI
+D: Since when?
+C: STEPHANIE
+D: Two days.
+C: ALI
+D: You could have told me!
+C: STEPHANIE
+D: Why? Is it a problem?
+C: ALI
+D: No, I don't know. You're like before.
+C: STEPHANIE
+D: Well, not exactly.
+C: ALI
+D: Go on, let's see.
+N: She takes a few steps forward, leaning on her canes. He whistles in admiration.
+C: STEPHANIE
+D: I need to get my balance but supposedly that doesn't take long.
+C: ALI
+D: It must be like walking on stilts...
+C: STEPHANIE
+D: I don't know. I've never walked on stilts before.
+C: ALI
+D: You look taller. Does it hurt?
+C: STEPHANIE
+D: A little, but it feels good too.
+C: ALI
+D: Want to go for a swim?
+N: She stops.
+C: STEPHANIE
+D: The beach... pff, I don't know... It's different today... I don't think I want to get undressed.
+S: 84. INT. STEPHANIE’S APARTMENT – KITCHEN. DAY
+N: They are at the kitchen table, eating salad. Stéphanie is in her wheelchair. Ali has finished his plate.
+C: ALI
+D: Is this all you have?
+C: STEPHANIE
+D: Look in the fridge. There must be some cheese left.
+C: ALI
+D: You don't have any paté?
+C: STEPHANIE
+D: No, I don't have any paté.
+N: He gets up and opens the fridge. He takes the cheese, sniffs it, then takes some yoghurt too. He notices a box of cereal on a shelf and takes it. He returns to the fridge for some milk. She watches, her mouth open in suspense.
+C: STEPHANIE
+D: You're a good eater, aren't you?
+C: ALI
+D: I'm hungry.
+N: He begins with the cheese.
+C: ALI
+D: No bread?
+N: She shakes her head "no" and points to a box of biscuits on the shelf.
+C: STEPHANIE
+D: There are crackers up there. Do you have a girlfriend?
+N: He shakes his head.
+C: STEPHANIE
+D: You don't have anyone?
+C: ALI
+D: Yes, but they're not girlfriends.
+C: STEPHANIE
+D: What are they? Quick fucks?
+C: ALI
+D: Yeah.
+N: She hesitates.
+C: STEPHANIE
+D: A lot?
+N: He looks at her.
+C: STEPHANIE
+D: You mind talking about this?
+C: ALI
+D: No, I don't care. How about you? Did you have a lot of boyfriends?
+E: pause
+C: STEPHANIE
+D: When, before?
+C: ALI
+D: Yeah.
+C: STEPHANIE
+D: I was with Simon...
+C: ALI
+D: That's all?
+C: STEPHANIE
+D: No, there were others. But not a lot either. I... I wasn't very... In fact, I liked it when guys looked at me... I liked to feel that I turned them on... Afterwards, I don't know... they bored me.
+N: Ali looks at her, strangely attentive, as if he didn’t understand, or didn’t believe her.
+C: ALI
+D: And now?
+C: STEPHANIE
+D: Um, nothing. I don't even know what it looks like anymore... I don't even know if it still works...
+C: ALI
+D: You don't want to?
+C: STEPHANIE
+D: Did I say I didn't want to anymore? Of course I still want to...
+C: ALI
+D: How do you go about it?
+C: STEPHANIE
+D: How do you think I go about it? If I were a guy I'd say I jerk off to a porn video... I'm a girl.
+N: Ali is dumbstruck.
+C: STEPHANIE
+D: Okay, let's change the subject...
+N: She begins piling up plates and silverware.
+C: ALI
+D: You want to fuck?
+N: She is thrown for a loop.
+C: STEPHANIE
+D: Huh?
+C: ALI
+D: You want to know if it still works, so let's fuck and that way you'll know.
+N: He looks at her, simply, naturally. She has a nervous laugh.
+C: STEPHANIE
+D: Just like that?
+C: ALI
+D: Um, yeah. Give me that.
+N: He takes the plates, gets up and puts them in the dishwasher.
+C: STEPHANIE
+D: I... I don't know if I can like that...
+C: ALI
+D: Whatever you want... You tell me...
+N: She hesitates.
+C: STEPHANIE
+D: Wait.
+N: She wheels herself away from the table and into the bedroom. He remains alone, quickly cleaning the table.
+C: ALI
+D: What do I do?
+C: STEPHANIE
+D: Wait!
+E: OFF
+N: He waits. Then:
+C: STEPHANIE
+D: Come here.
+E: OFF
+S: 85. INT. STEPHANIE’S APARTMENT – BEDROOM. DAY
+N: He enters the room. The shutters are closed. She is in bed, under the covers. She watches him sit down on the bed, undo his pants and turn toward her.
+C: ALI
+D: Okay? Ready?
+N: Unsure of herself, she pulls a face.
+C: STEPHANIE
+D: Let's try.
+N: He slips under the covers, spontaneously tries to kiss her, but she pushes him away gently.
+C: STEPHANIE
+D: Do you mind if we don't kiss?
+E: a little nervous
+C: ALI
+D: No. Your breasts... can I?
+C: STEPHANIE
+D: Yes.
+N: He licks her breasts, then lies on top of her, covering her. She tries to wriggle herself free.
+C: STEPHANIE
+D: You're crushing me!
+C: ALI
+D: Maybe you should stop talking now...
+C: STEPHANIE
+D: Okay, I'll stop.
+N: His hands caress her, they grab onto what remains of her thighs. He enters her. She is about to scream, but lets herself go. She grabs hold of him.
+C: STEPHANIE
+D: Gently!
+S: 86. INT. STEPHANIE’S APARTMENT – KITCHEN. DAY
+N: Ali opens the fridge. He is dressed again. Stéphanie appears in a robe, sitting in her wheelchair. We can tell she feels too shy to look at him.
+C: ALI
+D: Are you okay? How was it?
+N: She blushes.
+C: ALI
+D: Is it still working?
+C: STEPHANIE
+D: Um, yes... no... I don't really know. It's different... It's hard to tell after just one try...
+C: ALI
+D: Yeah but I don't have time right now. I have to go!
+C: STEPHANIE
+D: No, no! That's not what I meant... I just meant that it's too soon to tell... like too many things are happening at once...
+E: blushing
+N: Ali doesn’t understand.
+C: ALI
+D: But did you enjoy it or not?
+C: STEPHANIE
+D: I did.
+N: A beat.
+C: ALI
+D: When you're up for it and you can't find anyone, ask me. If I'm oper, we'll do it.
+C: STEPHANIE
+D: What's "oper"?
+C: ALI
+D: Operational... If I'm available. If I can, I mean!
+C: STEPHANIE
+D: If you're "oper" we...
+C: ALI
+D: Yeah.
+N: She sketches a vague gesture.
+C: ALI
+D: What?
+N: Her throat is constricted, she is unable to answer.
+C: STEPHANIE
+D: Nothing. Great.
+S: 87. EXT. MARINELAND – STAFFROOM. DAY
+N: Stéphanie uses one of her canes to push open the door to the staff room. The room is apparently empty.
+C: STEPHANIE
+D: Louise? Louise, are you here? Is anyone here?
+N: No answer. She looks over the office she once knew so well and that hasn’t seen again since her accident: the photos on the wall, the diagrams, the case histories, the animals’ names, etc...
+S: 88. EXT. MARINELAND – BLEACHERS. DAY
+N: Up in the bleachers, Stéphanie looks over all the pools, the big one as well as the others... suddenly, in n°3, a huge but limp black dorsal fin appears.
+S: 89. EXT. POOL N3. DAY
+N: Weighed down by her prostheses, Stéphanie has to lie down on the rim of pool n°3 to reach the water. She reaches out and slaps the water with the palm of her hand. Nothing really happens, a black mass just keeps circling at the bottom of the pool... She slaps again and the black mass swims faster and faster... a wave is formed around the sides of the pool, a wave that swells higher and higher... Stéphanie’s hand again slaps the water and, suddenly, Niska emerges.
+T: Cut to:
+S: 90. EXT. POOL N3 - DAY
+N: Niska washes up. Stéphanie caresses her and weeps softly, like someone caught unawares.
+C: LOUISE
+D: Stephanie?
+E: OFF gently
+N: Stéphanie looks back to discover Louise and three other ex- colleagues. They have been there a moment, surprised, unsettled and ill at ease.
+C: STEPHANIE
+D: I stopped by the office but there wasn't anyone.
+N: Stéphanie stands up with the help of her canes. The guys rush over to help her. They hug and kiss. All four remain like that for a moment.
+S: 91. EXT. MARINELAND - CAFETERIA. DAY
+N: Sun and music. The public is beginning to invade the lanes and paths. Stéphanie, Louise and the other keepers are on the terrace of the employees’ cafeteria. They are thrilled and reassured to see her again. At times a hand touches her arm or shoulder. Sometimes an acquaintance comes over and kisses her. Under the table, Stéphanie types ‘oper?’ into her cell phone, then looks up and returns to her surroundings. We can imagine the "How are you?" "And you?" "Great". The "Let me get a look at you... You look wonderful!"...all a bit strained, but friendly. Louise, who is sitting next to her, leans over to her:
+C: LOUISE
+D: See? It wasn't hard!
+E: softly
+N: They smile at each other and return to the conversation in progress. Stéphanie’s cell phone vibrates on the table. She discreetly checks the answer, and when she looks up, exchanges a glance with Louise. From that glance, we cut to:
+S: 92. INT. SUPERMARKET. DAY
+N: Stéphanie and Louise are out shopping. Stéphanie holds herself up thanks to the shopping cart she is pushing. We join their conversation already in progress.
+C: STEPHANIE
+D: When I feel like it, I send him a text message and ask if he's oper. If he is, we hook up.
+N: Louise reacts.
+C: LOUISE
+D: What's oper?
+C: STEPHANIE
+D: If he's up for it. If he's free. If he is, we fuck.
+C: LOUISE
+D: Is that all?
+C: STEPHANIE
+D: Yes, that's all. What else do you want?
+C: LOUISE
+D: I don't know. Is that enough?
+C: STEPHANIE
+D: For me it is.
+C: LOUISE
+D: What does he do?
+N: Stéphanie hesitates a moment, as if worried about how Louise will react.
+C: STEPHANIE
+D: He fights.
+C: LOUISE
+D: What kind? MMA?
+C: STEPHANIE
+D: No. Illicit fights in the projects.
+N: Louise reacts.
+C: STEPHANIE
+D: Whatever I say, you make a face.
+C: LOUISE
+D: Just give me a second to react... Are you in love?
+N: She hesitates.
+C: STEPHANIE
+D: He does me good.
+S: 93. EXT. PARKING LOT. MARINELAND. DAY
+N: The group of trainers has accompanied Stéphanie to a taxi.
+S: 94. INT. TAXI/PARKING LOT – MARINELAND. DAY
+N: Stéphanie waves good-bye. They return her wave. The taxi drives away. The group scatters.
+T: Cut to:
+S: 95. INT. BASEMENT. DAY
+N: A dark cellar. We hear Ali and Stéphanie labor and sigh. A door suddenly opens above and we hear voices.
+C: ALI
+D: Shit!
+C: STEPHANIE
+D: Who is it?
+N: He looks for his clothes...
+S: 96. EXT. GARDEN. DAY
+N: ... then goes to the garden where he startles Anna:
+C: ANNA
+D: I didn't know you were here. You scared me. What were you up to?
+C: ALI
+D: I was talking?
+C: ANNA
+D: You're not alone?
+C: ALI
+D: I'm with a friend.
+C: ANNA
+D: You bring girls back to my place now?
+C: ALI
+D: She's a friend, I said.
+N: Just then, the basement door opens and Stéphanie appears on her crutches. Anna is dismayed. Ali motions to Stéphanie:
+C: ALI
+D: Let me introduce you to my sister! This is Stéphanie. You know the girl from Marineland.
+E: to Stéphanie to Anna
+N: Stéphanie offers her hand to Anna who takes it, then realizing what she’s doing, puts the other to her mouth:
+C: ANNA
+D: Oh, my God. Poor thing!
+N: Sam arrives with his snack. Stéphanie looks at him.
+C: STEPHANIE
+D: So that's him?
+N: They are sitting around the garden table. Anna comes carrying a tray.
+C: ANNA
+D: They were out of grapefruit. I took tropical fruit.
+N: She puts some glasses and two tetra packs of fruit juice on the table. Through a hole in the oilcloth, Stéphanie can watch Sam playing under the table.
+C: ANNA
+D: I'll make tea. I have some cookies. You drink tea, don't you?
+C: STEPHANIE
+D: Don't bother. This is perfect, I swear. Thanks.
+N: Before Stéphanie can even finish, Anna is already on the way back to the kitchen.
+C: ALI
+D: You don't want to get going?
+C: STEPH
+D: Wait, your sister...
+C: ALI
+D: You freak her out. Can't you see? She feels like a cashier with you. Pathetic with her tea and cookies. It's a pain.
+N: Stéphanie leans on a cane to stand up.
+C: ALI
+D: What are you doing?
+C: STEPH
+D: I'm going to help her.
+C: ALI
+D: No need to overdo it.
+S: 97. INT. ANNA’S HOUSE. DAY
+N: Later, Sam guides Stéphanie up the narrow stairs of the house. She has a hard time with her ‘legs’ and canes.
+S: 98. INT. SAM’S ROOM. DAY
+N: A child’s room with cheap wall paper depicting dolphins. Stéphanie is sitting on the edge of the bed.
+C: STEPHANIE
+D: So this is where you sleep? It's a nice room.
+N: Sam nods in agreement. He gives her a strange look.
+C: STEPHANIE
+D: Why are you looking at me like that? Does it scare you? You want to see them, is that it?
+N: He nods. She lifts one of her pant legs to show the prosthesis underneath. Sam looks attentively, stretches out his hand, touches it carefully.
+C: SAM
+D: Does it hurt?
+N: Stéphanie smiles at him.
+C: STEPHANIE
+D: No... Want to touch it?
+N: Sam reaches out his hand.
+S: 99. INT. MARTIAL’S CAR. DAY
+N: In CU through the tinted windows of Martial’s Mercedes Vito: the face of a boxer who is lying on the ground and being pummeled. Ali is sitting bare-chested in the back seat, a towel around his neck and a bottle of water between his knees. Ali watches the fight. Sitting next to him, Stéphanie fills a plastic bag with ice cubes. She hands it to him.
+C: STEPHANIE
+D: Here.
+N: He applies it to his eyebrow. She displaces a bloody strand of hair and replaces it with another. We see Martial return to the car and open the front door.
+C: MARTIAL
+D: You okay?
+N: He puts a wad of money in the glove compartment.
+C: MARTIAL
+D: You ready?
+N: Ali nods ‘yes’. He opens his door, gets half out and empties the bottle of water over his head. Stéphanie is left alone in the car. She hears the spectators’ cheers. She closes the window and turns on the air conditioning full blast.
+S: 100. EXT. PROJECTS - COURTYARD. DAY
+N: His opponent’s guard is up, closed tighter than a safe. Behind his fists, Ali can see the guy’s frozen stare. And then suddenly he breaks loose: a series of feints and a kick behind the ear. He hears himself growl, the light becomes electrifying. He is on the ground, protecting himself as best he can. He tries to block his opponent’s arm. He hears himself wheezing and panting like a pair of bellows. He sees his blood splatter his opponent.
+C: ALI
+D: ... All of a sudden, in your mouth, it's like it tasted like bone. A taste of rust and bone.
+E: OFF
+C: STEPHANIE
+D: Because you think bone has a taste?
+E: OFF
+C: ALI
+D: Yeah, there I did.
+E: OFF
+N: Then, through the spectators’ legs, he sees something: sunlight reflected off the Mercedes door that has just opened on a pair of shoes attached to two prostheses, a pair of shorts… He also sees the heads of the tough guys who turn back to look. He breaks free, struggles to his feet, spits up a clot of blood and returns to the task at hand. His opponent tries to get up. Ali jumps on him to finish him off…
+S: 101. INT. MARTIAL’S CAR. DAY
+N: The car is driving back into town. Martial is driving. The windows are open. Ali holds a bag of ice against his cheek bone, while Stéphanie applies her Band-Aids to a cut over his eyebrows. They are talking, but we can not hear what they say. All we hear is the noise of the wind against the open windows. Ali suddenly breaks out laughing. Martial does too in the rear view mirror. Stéphanie follows suit…
+S: 102. INT. MOUSQUETAIRES. DAY
+N: Muzak. Ali and Martial follow the head of security into the store. Some of the personnel are near the cash registers, silent, hostile and immobile. The morning customers wonder what’s happening. The head of security elbows his way through.
+C: HEAD OF SECURITY
+D: Let them through, please!
+N: The personnel reluctantly make way.
+S: 103. INT. MOUSQUETAIRES – STOCKROOM. DAY
+N: Red graffiti on the wall: "A SPYING BOSS IS A CRIMINAL BOSS!" Ali recognizes the place with the palettes up to the ceiling. In the back, he also recognizes the manager, protected by two guards and being harangued by union representatives.
+C: MARTIAL
+D: Go get the equipment. I need to see him.
+E: to Ali, pointing to the manager
+N: Ali obeys.
+C: UNION REP
+D: Don't bother. We're the ones who will call the police. The police and the press. That way they'll know you spy on your workers!
+N: The manager looks away, accompanied by his two guards.
+C: UNION REP
+D: At least have the courage to look at me when I talk to you!
+T: Cut to:
+N: The cameras, the ripped out cables, the phony boxes have been piled up on the floor. It looks more like the crime squad has been at work. Ali opens a garbage bag and bends over to retrieve the equipment.
+C: WOMAN
+D: What are you doing there?
+E: OFF
+N: She’s a young employee in the store uniform.
+C: ALI
+D: Packing up.
+E: suspicious
+C: WOMAN
+D: Is it your stuff?
+C: ALI
+D: No.
+N: He notices that she’s taken out her cell phone to take a picture.
+C: ALI
+D: Don't you take a picture!
+C: WOMAN
+D: You work for them?
+N: She continues to manipulate her phone.
+C: ALI
+D: I said no picture!
+C: WOMAN
+D: Why shouldn't I? You film us!
+N: He straightens up menacingly.
+C: ALI
+D: I'm going to slap you!
+N: A hand grabs his arm. It’s Martial.
+C: MARTIAL
+D: Forget it. Let's get out of here!
+C: ALI
+D: And the equipment?
+C: MARTIAL
+D: Forget about it. We're fucked here. The cops are going to question the managers and the managers will turn us in.
+N: They leave.
+S: 104. INT. MARTIAL’S FORMULE 1 ROOM. NIGHT
+N: Martial’s fingers slowly play with the hair on his chest. He is lying nude on the bed of his Formule 1 hotel room. He smokes and stares at the ceiling. His suitcases and bags are packed, all he has to do is close them. He hears knocks next door. He gets up with a sigh, pulls on his pants and opens the door. Stéphanie is waiting in front of room 429.
+C: MARTIAL
+D: In here.
+N: Stéphanie looks back, surprised. Martial motions her in.
+C: MARTIAL
+D: I have to go away for work. 3 or 4 months, I don't know yet... Since Ali wants to keep fighting, I thought maybe you tend to that while I'm not here...
+N: She is thunderstruck.
+C: STEPHANIE
+D: Is he okay with that?
+C: MARTIAL
+D: He's the one who asked me to call you.
+C: STEPHANIE
+D: Why me?
+C: MARTIAL
+D: I guess he trusts you.
+C: STEPHANIE
+D: Yes, sure but.... I don't know anything about that scene... I don't know those guys!
+E: laughs, thrown for a loop
+N: He hands her an old spiral notebook.
+C: MARTIAL
+D: I wrote it all down here. As for the rest, ask me your questions and I'll answer them.
+C: STEPHANIE
+D: How do I do the bets?
+C: MARTIAL
+D: You can count on your fingers, can't you?
+C: STEPHANIE
+D: Honestly, can you see me dealing with those beasts?
+C: MARTIAL
+D: Yeah.
+N: A beat.
+C: MARTIAL
+D: And you need money to cover the bets, and you have money.
+N: She looks at him.
+C: MARTIAL
+D: What? You're not rich? What did the insurance company give you for your legs? 200,000? 300,000? Those jobs must have good health plans. Am I wrong?
+C: STEPHANIE
+D: No.
+N: A shadow crosses Stéphanie’s mind. She looks at the open bags and suitcases, without really seeing them. The place looks like it’s expecting a police raid.
+C: STEPHANIE
+D: Where are you going?
+C: MARTIAL
+D: Grenoble, then Vienne.
+C: STEPHANIE
+D: Austria?
+C: MARTIAL
+D: No, in the Isère.
+C: STEPHANIE
+D: Was the insurance money your idea?
+C: MARTIAL
+D: Yes.
+N: A beat. He gives her time to wrap her head around that one. Then, since she still looks troubled, he taps her on the hand.
+C: MARTIAL
+D: It's me, I said. Don't worry. I'm the bad guy.
+S: 105. EXT. FEVER RAY. NIGHT
+N: Through the door of the club, we hear snatches of the introduction to Thunderstruck. People are sweating and trying to get into the Fever. Foued lets Martial, Ali, Stéphanie and Khadi through. Virile bear hugs and handshakes.
+C: FOUED
+D: The Cousin's waiting for you inside. Table to the left of the bar.
+N: Ali knows and greets everyone. Stéphanie is in the middle of the group. She holds herself up on the shoulders of these big, caring guys and lets herself be carried along. She feels good
+S: 106. INT. FEVER RAY. NIGHT
+N: The club is hot as a steam bath. Loud music blares out of loudspeakers. Bodies dance and eyes shine bright. At the table "left of the bar": Cousin and three friends who are with him. Another round of bear hugs and handshakes. Martial, Stéphanie and Cousin regroup face to face. Martial speaks, Cousin listens and at times looks over at Stéphanie, who looks at him too. She notices one of the tattoos on his arm: a green and red snake that seems to be slithering out his sleeve. The barman brings two bottles of champagne. Ali leans toward her:
+C: ALI
+D: Want to boogie?
+N: She doesn’t understand.
+C: ALI
+D: You want to dance?
+E: loud
+N: She looks frightened, but then smiles when she sees what he’s up to.
+C: ALI
+D: Come on!
+C: STEPHANIE
+D: No, no!
+C: ALI
+D: Whatever you say.
+N: He goes to the dance floor and begins to rock. He dances badly, clumsily. Martial pours champagne.
+S: 107. EXT. FEVER RAY. NIGHT
+N: The smoking area is located outside, and a bit farther off, the dope smoking area. Behind the smokers, we hear noise from the club. Cousin is puffing on a spliff. Stéphanie watches, holding her champagne goblet. He offers it to her. She accepts and takes a drag.
+C: COUSIN
+D: Can I talk to you?
+N: She nods "yes".
+C: COUSIN
+D: There's something I'd like to know... The fish that ate your legs...
+N: She wasn’t expecting that.
+C: STEPHANIE
+D: Yes?
+C: COUSIN
+D: Is it true it's still there?
+C: STEPHANIE
+D: Yeah... where else would it be?
+C: COUSIN
+D: They didn't shoot it? Or put it down, whatever?
+C: STEPHANIE
+D: Why would they do that?
+C: COUSIN
+D: I don't know... when a dog attacks you, they kill it. And the fish gets off. Don't you mind that the thing that ate your legs is living it up in its shitty fucking aquarium?
+C: STEPHANIE
+D: No. And I don't want anything to happen to it. Now more than ever!
+N: He looks at her, incredulous, but with admiration.
+C: COUSIN
+D: "Now more than ever". Listen to you!
+E: imitating her
+N: He takes another drag.
+C: COUSIN
+D: Tututu-tu-tutu...
+E: imitating her
+N: They laugh.
+C: STEPHANIE
+D: Do I sound like that?
+C: COUSIN
+D: Tututu...
+S: 108. INT. FEVER RAY. NIGHT
+N: We are back inside. Ali is working on a girl a bit farther off on the dance floor. Stéphanie follows Cousin through the noise and sticky heat. When she next looks at the dance floor, Ali is no longer there. Ali and the girl are on their way to the exit. Ali looks for a friendly face, meets Stéphanie’s glance and motions that he’s leaving. She waves: "Yeah, ok, I get it." Ali disappears with the girl. Stéphanie is at the bar, drinking. She types an SMS into her cell phone: "operational?" She hesitates, then puts away her cell phone. She hadn’t noticed a guy sitting next to her. She also failed to notice that he’s been speaking to her for a while now.
+C: STEPHANIE
+D: Huh? I can't hear you...
+E: loud
+C: GUY
+D: No problem. What are you drinking?
+E: loud
+C: STEPHANIE
+D: Champagne?
+E: loud
+N: The guy orders. He is blond, lean and athletic-looking. He might be thought to resemble Simon.
+C: GUY
+D: What's your name? I'm Pierre.
+C: STEPHANIE
+D: Hey there. I'm Marie.
+C: GUY
+D: Come here often?
+N: Stéphanie is on automatic pilot. When she turns to the room, she feels the blond guy’s eyes locked onto her. She can pretty much tell what he’s thinking about the breasts under her T-shirt. She answers his questions, she returns his smiles. When she finishes her glass and puts it down on the counter, he kisses her. She doesn’t push him away immediately, like a frightened virgin, she takes the time to put a good face on it.
+C: STEPHANIE
+D: No... No, please. I don't feel like it. Not tonight. I can't...
+N: The guy looks disappointed, then manages a ‘good loser’s’ smile.
+C: GUY
+D: Okay, no problem...
+C: STEPHANIE
+D: It's best I go. Good night and thanks.
+N: He sees her lean over to retrieve her canes and then hobble away.
+C: GUY
+D: Sorry. I couldn't know.
+N: Stéphanie freezes.
+C: STEPHANIE
+D: You couldn't know what?
+C: GUY
+D: Huh?
+C: STEPHANIE
+D: You couldn't know what, asshole?
+N: Foued runs to warn Martial, Khadi and Cousin that something is wrong. When Martial arrives, he sees Stéphanie collared by a bouncer three times her size. She lashes out with one of her canes, while under the bar, another bouncer tries to help the blond guy back to his feet. There’s a deep gash on his skull. Cousin comes to give the bouncer a hand.
+S: 109. EXT. ANTIBES – BEACH –CAFÉ. DAY
+N: Early morning. The shrill screech of the sea gulls and the milky light of a day that looks like it’s going to be sunless. Stéphanie drinks her coffee at the only table on the terrace. Behind her, chairs are still piled up and the waiter is slowly getting to work. A silhouette appears on the sidewalk. It’s Ali, in the same clothes as last night. He joins her and takes a seat.
+C: ALI
+D: You okay?
+C: STEPHANIE
+D: Fine.
+C: ALI
+D: Did you stay late?
+C: STEPHANIE
+D: I can't remember. Afterwards the cousin took us to a club at la Colle sur Loup... It sucked and it was 5 a.m. And you?
+C: ALI
+D: Normal. A large coffee with milk and bread with butter!
+E: to the waiter
+N: A beat.
+C: STEPHANIE
+D: You think it's good that we're having this conversation?
+C: ALI
+D: What conversation?
+C: STEPHANIE
+D: That I ask how it was with the girl last night and you answer normal.
+C: ALI
+D: What do you want me to say?
+C: STEPHANIE
+D: Nothing.
+N: He grimaces at her mood.
+C: ALI
+D: Oh la!
+C: STEPHANIE
+D: "Oh la" what? You think it's normal leaving with that bimbo in front of me? What would you say if I did the same thing?
+C: ALI
+D: Nothing.
+C: STEPHANIE
+D: Oh yeah? You wouldn't care?
+C: ALI
+D: You're pissing me off. What's your problem?
+C: STEPHANIE
+D: Wait, let me put it differently. What I am for you? A friend? A pal? Sort of a buddy, like Foued and the others?
+N: ALI
+C: STEPHANIE
+D: Tell me something: do you and your buddies fuck every now and then?
+N: He snickers.
+C: STEPHANIE
+D: No? Really? Never? That’s the difference.
+N: Her looks at her.
+C: STEPHANIE
+D: Dammit, stop looking at me that way!
+C: ALI
+D: How am I looking at you?
+N: The waiter arrives with Ali’s order. She tones her voice down a notch.
+C: STEPHANIE
+D: You wanted us to continue... Isn't that what you told Martial?
+C: ALI
+D: What are you talking about, fucking or fighting?
+C: STEPHANIE
+D: Well, we have to go about it well. We have to show each other manners, and consideration...
+C: ALI
+D: Manners?
+C: STEPHANIE
+D: Hey! Stop acting like an idiot. Do the words bother you? You know what I mean.... Tact... You've never stopped being tactful with me.
+N: A beat. He looks away.
+C: STEPHANIE
+D: So... is that a plan?
+N: She waits for his mind to come back before continuing.
+C: STEPHANIE
+D: We'll continue... but not like animals.
+N: He smirks, with a flick of the chin.
+C: STEPHANIE
+D: Cat got your tongue?
+N: Ali stirs his cup without answering. He feels her eyes on him. He smiles.
+C: ALI
+D: I'm oper now.
+C: STEPHANIE
+D: What?
+C: ALI
+D: You made me oper. It's you! It's because it's all you're talking about!
+C: STEPHANIE
+D: You are really a dog.
+E: softly
+N: He stands up.
+C: STEPHANIE
+D: What are you doing?
+C: ALI
+D: I'm getting out of here.
+C: STEPHANIE
+D: Why?
+C: ALI
+D: I'm fed up.
+C: STEPHANIE
+D: You're bored?
+C: ALI
+D: Yeah.
+C: STEPHANIE
+D: What I'm saying bores you?
+C: ALI
+D: Yeah.
+C: STEPHANIE
+D: Are you acting like a jackass on purpose?
+C: ALI
+D: Aren't you being an ass by putting words everywhere?
+N: He sits back down. She watches him eat his sandwiches.
+C: STEPHANIE
+D: I'm the one who's leaving.
+N: She gets up. Ali finishes his coffee.
+S: 110. INT. TATTOO PARLOR. DAY
+N: The buzz of a small electric compressor. In extreme close up: the needle of a tattoo machine pricking skin. Ink flows, a cotton swab wipes... a tattoo slowly appears. Lying on a table, Stéphanie is having what remains of her legs tattooed.
+T: Cut to:
+S: 111. EXT/INT. BANK. DAY
+N: Stephanie is at a teller’s window, withdrawing a rather large amount of cash. A machine counts out the bills, while the employee stuffs wads of them into an envelope.
+S: 112. EXT/INT USED CAR DEALERSHIP. DAY
+N: Pennants flap in the wind, the pennants of a used car dealership. CU: car doors opening, automatic gearboxes, Stéphanie’s "feet" testing pedals, bucket seats, backseats, tinted windows opening and closing, etc.
+S: 113. INT. PROJECTS – APARTMENT. DAY
+N: A painting of a lion hunt and, under it, Stéphanie and Cousin on a couch, talking shop. Leaning over a computer and a cell phone, they go over potential adversaries. Some kids stick their heads in to see what Stéphanie looks like.
+S: 114. INT. NEW GYM. DAY
+N: Foued, wearing protective gear, spars with a black cruiserweight. The fight is close, the sound of flesh on flesh resounds. Outside the ring, Ali cheers Foued on. He notices on the other side of the ring a young thin, bearded guy in a Lacoste polo shirt buttoned up to his neck – Leonardini – who is following the fight with the eye of a pro. When Ali and Joao are later working out on their bit of tatami, Ali sees Foued sitting on a bench, with a towel around his neck and talking with Leonardini.
+C: FOUED
+D: He saw me at la Ciotat. We spoke a few times on the phone. When he has it in for you, he never lets up. Leonardini is well-known. He was a club in Strasbourg with a training center. He's taking me on a trial basis for three months. If it works out, he'll make challenger in the nationals.
+S: 115. INT. LOCKER ROOM - NEW GYM. DAY
+N: Ali and Foued are off to one side in the locker room.
+C: ALI
+D: So are you going to Strasbourg?
+C: FOUED
+D: What do you think? I'd be an idiot...
+C: ALI
+D: And when are you leaving?
+N: Leonardini enters the locker room.
+C: FOUED
+D: Mr. Leonardini, this is my buddy Ali. Ali Van Versh.
+N: Leonardini shakes his hand.
+C: ALI
+D: Pleased to meet you.
+S: 116. EXT. PROJECTS - COURTYARD. DAY
+N: Through the tinted windshield of a Nissan Pathfinder SUV, Ali watches Stéphanie, wearing a tight T shirt and leaning on her cane, talking with Cousin and some bettors. The discussion looks intense. Stéphanie returns to the car. Below her pedal pushers, her prostheses sparkle in the sunlight. We hear salacious jibes from the surrounding buildings. She opens the car door.
+C: ALI
+D: How much is there?
+C: STEPHANIE
+D: 3400. Are you ready?
+N: Walking with a slow, deliberate sway – aware of the effect she’s having – she ceremonially opens the passenger door. The remarks cease.
+S: 117. INT. STEPHANIE’S APARTMENT. NIGHT / DAWN
+N: CU: a black and red arrow with, in industrial characters: "RIGHT". It’s the tattoo on Stéphanie’s right thigh. Ali’s hand grips and squeezes the thigh. They are making love. The room is half-lit. Ali growls and grinds his teeth in his sleep. Stéphanie slowly and noiselessly rolls over to her side of the bed. She gets up and, using her hands, drags herself toward the bathroom. Suddenly, feeling like he’s suffocating, Ali awakens. It takes a few seconds for him to realize where he is. His hand sweeps across the bed.
+C: ALI
+D: Where are you?
+C: STEPHANIE
+D: Here.
+E: OFF
+N: He sits up. She is embarrassed.
+C: STEPHANIE
+D: No, don't look!
+C: ALI
+D: What are you doing?
+C: STEPHANIE
+D: I'm going to pee.
+C: ALI
+D: Is it early?
+C: STEPHANIE
+D: Five.
+C: ALI
+D: Shit, I collapsed...
+N: Ali slips out of bed, naked, yawning and groggy. He comes and leans over her...
+C: STEPHANIE
+D: I don't like it when you see me like this...
+C: ALI
+D: Hold on.
+N: She hangs onto his neck. He lifts her up and, both naked, he carries her into the bathroom.
+S: 118. INT. STEPHANIE’S APARTMENT – BATHROOM. DAWN
+N: Stéphanie is sitting on the toilet, while Ali pees in the shower.
+C: STEPHANIE
+D: I called the numbers they gave me at the gym. I spoke to an organizer, Günther Bower.
+N: She yawns.
+C: STEPHANIE
+D: There's a gala in Turin next week. He told me that we'd have time to meet there. I'm going to go.
+C: ALI
+D: Yeah. And when do I see him?
+C: STEPHANIE
+D: Later, in his gym in Dortmund. He wants to organize a test match, to see what you're worth. To see if you've got the "Göttlicher Zorn""...
+N: Ali comes out of the shower.
+C: STEPHANIE
+D: Turn on the water.
+C: ALI
+D: Huh?
+C: STEPHANIE
+D: Turn on the water when you pee. It's disgusting.
+N: He runs some water.
+S: 119. INT. STEPHANIE’S APARTMENT. DAWN
+N: He carries her back into the bedroom. She looks at his face, the scar on his forehead, the scar over his nose.
+C: STEPHANIE
+D: How's your nose?
+C: ALI
+D: Mm.
+C: STEPHANIE
+D: It doesn't seem broken.
+C: ALI
+D: No.
+N: They look at each other. He puts her down on the bed and lies down next to her. Stéphanie slides over to him. He lifts her up and places her on her stomach. They remain like that, without moving. She looks like a mermaid lolling on a rock. She leans over and kisses him on the mouth. He pulls away, surprised.
+C: ALI
+D: Now we're allowed?
+N: No answer. They make love. In CU: the tattoo on Stéphanie’s left thigh. A red and black arrow with, in industrial characters: "LEFT".
+S: 120. EXT/INT. NISSAN SUV. DAY
+N: Music. The road speeds by. Sun. Road signs with the names of Italian cities. The landscape has changed. Wearing her baseball cap and sunglasses, Stéphanie drives with her elbow out the window. On the radio, we hear the voice of an Italian DJ.
+S: 121. EXT. COASTAL ROAD. DAY
+N: Ali jogs along the sea shore. He sweats, huffing and puffing. He stops, takes a few steps, then continues, but soon stops again. It looks as if his feet are weighing him down. Traffic speeds by. He stands still and stares into the near distance. Nothing.
+S: 122. INT. TURIN – HOTEL. EVENING
+N: A standard hotel lobby. Curious, Stéphanie looks at the crowd of fighters the day before the ‘Ultimate’ tournament: muscle-bound giants squeezed into tight jackets, with bashed in eyebrows, collapsed nostrils, cauliflower ears... Every language can be heard, some greet each other, some hug, they all size each other up...
+T: Cut to:
+N: Propped up on her cane, she heads for a table in a corner of the bar where a man is consulting his cell phone.
+C: STEPHANIE
+D: Mr. Bower?
+E: in German
+C: GÜNTHER
+D: Yes?
+E: in German
+C: STEPHANIE
+D: I'm Stéphanie Granget.
+E: in German
+N: Günther looks about fifty and has obviously spent many of those years in the ring.
+T: CUT TO:
+N: Settled in a corner in front of their open PCs, Stéphanie and Günther talk shop.
+T: CUT TO:
+N: They are about to separate.
+C: STEPHANIE
+D: Can you get me a ticket for tonight?
+E: in German
+C: GÜNTHER
+D: I don't know. I'll see what I can do. What happened to your legs?
+E: in German pointing to her legs
+C: STEPHANIE
+D: An accident. In another life. I was an animal trainer. I worked with orcas... The show took a turn for the worse.
+C: GÜNTHER
+D: Oh, of course! In France! The accident! It was you?! I'm talking to a star!
+E: it dawns on him
+N: Stéphanie makes a face.
+C: GÜNTHER
+D: Yes, I am... Amazing. What courage! Bravo! I'm very honored, really. I was an idiot before!
+C: STEPHANIE
+D: Why?
+C: GÜNTHER
+D: I acted like an arrogant business man. I'm so ashamed. Will you forgive me?
+C: STEPHANIE
+D: Of course, Mr. Bower.
+C: GÜNTHER
+D: Call me Günther. Of course you can come tonight. As my guest!
+S: 123. INT. TURIN – GYM. NIGHT
+N: Bleachers have been set up in a gym, surrounding a cage- like, fenced-in ring. Inside, combatants fight, no rules, no holds barred. On the floor, two wrestlers clasp and elbow each other. One is bleeding from the forehead. Below the ring, Stéphanie is mesmerized by this carnival of violence. Günther leans toward her:
+C: GÜNTHER
+D: Funny, huh?
+E: in German
+C: STEPHANIE
+D: What? That?
+E: in German
+C: GÜNTHER
+D: That... and you!
+S: 124. INT. HOTEL CORRIDOR. NIGHT
+N: Stéphanie walks down a corridor. She stops in front of a door and knocks. Günther opens. He looks surprised. He is barefoot, in a pair of trousers and an unbuttoned shirt. He looks at her inquisitively, and when she still doesn’t say anything: GÜNTHER (in German) Are you okay? Do you need anything? She hesitates. STEPHANIE (in German) I... I came to see if I got it wrong, or not. He knits his brow. GÜNTHER (in German) Got what wrong? STEPHANIE (in German) You don't understand? GÜNTHER (in German) Excuse me? STEPHANIE (in German) I got the impression, the way you were looking at me before... Try to understand because this is getting hard for me... GÜNTHER (in German) No, you didn't get it wrong. He smiles and opens the door. GÜNTHER (in German) I have someone in my life, you know.
+C: STEPHANIE
+D: So do I.
+N: He draws her inside. The door closes.
+S: 125. INT. SUPERMARKET. DAY
+N: Anna is about to open her cash register, when a West Indian in a security uniform whispers into her ear, apparently asking her to follow him. Another cashier is already waiting to take her place. Anna joins three other employees waiting in a corridor. They exchange a few words under their breath.
+S: 126. INT. SUPERMARKET – CORRIDOR – ADMINISTRATION. DAY
+N: Anna comes out of an office, looking distraught. She has to lean against the wall to hold herself up. A colleague comes to help.
+C: COLLEAGUE
+D: So?
+C: ANNA
+D: I got fired.
+C: COLLEAGUE
+D: Come on. There's something we want to show you.
+N: In the locker room, we recognize the girl who had photographed Ali while he was trying to reclaim Martial’s camera equipment. The girl says something to Anna. When it seems that Anna can not believe her ears, the girl takes out her cell phone and confronts her with the evidence. Anna needs to sit down.
+S: 127. EXT. HOUSE. DAY
+N: Out of breath, Ali pushes open the gate and climbs the stairs.
+S: 128. INT. KITCHEN. DAY
+N: In the kitchen, Anna and Richard are sitting at the table in front of a meal they haven’t had the appetite to start.
+C: ALI
+D: You okay?
+N: No answer.
+C: ALI
+D: You don't seem it.
+N: He goes to open the fridge.
+C: ANNA
+D: What are you doing?
+C: ALI
+D: I'm hungry.
+C: ANNA
+D: Close it! Don't eat here.
+N: Ali stares at her, stunned.
+C: ANNA
+D: Don't eat here.
+C: ALI
+D: What the hell is going on?
+C: ANNA
+D: I was fired this morning. I'm unemployed.
+C: ALI
+D: Shit... But what's the problem if I eat here?
+N: Anna stands up.
+C: ANNA
+D: They had cameras in the storeroom... They filmed us when we took the expired food. They fired us.
+N: Ali’s head spins.
+C: ANNA
+D: You had your sister fired. How does it feel? How much did you get for that? You get paid per person or a flat rate? Nothing to say? I take you in, I take care of your son and you have nothing to say?
+C: ALI
+D: I couldn't know...
+C: ANNA
+D: You couldn't know? You couldn't know what? That you were screwing us out of jobs? That you were hurting people?
+N: Ali tries to find something to say, but his sister’s hand delivers a resounding slap. He takes it like a man. A moment passes. Ali is red from the slap, red with shame… until he suddenly straightens up and knocks over the table.
+C: RICHARD
+D: Calm down. Calm down, I said!
+N: Ali looks back. He sees Richard’s grim face at the other end of a hunting rifle.
+C: RICHARD
+D: Take your stuff and get out of here. We don't want to see you around here anymore.
+N: A sudden noise draws their attention: Sam is watching from the top of the stairs.
+C: ANNA
+D: Go to your room. Go upstairs immediately.
+S: 129. INT. ANNA’S HOUSE – BASEMENT. DAY
+N: An SMS arrives from Stéphanie: “Almost there. I miss you.” Ali is lying on his mattress. He puts down the phone. He hears Anna and Richard’s voices upstairs. He sits up and begins to stuff things into a bag. A new message arrives: “I’m home. Oper?” Ali hesitates, then turns off his phone and clicks his bag closed.
+S: 130. INT. ANNA’S HOUSE – SAM’S ROOM. EVENING
+N: Night has fallen. Sam’s nose is stuck to his bedroom window. He sees his aunt sitting at the plastic table in the garden downstairs with her face in her hands. A door slams. Sam rushes to the bathroom window. He sees his father stomp down the street, never once looking back. Sam remains glued to the window pane. Ali’s silhouette moves through the halo of a streetlight before again disappearing into the dark. Sam watches him for as far as he can.
+T: Fade to black.
+S: 131. INT/ EXT. BASEMENT. DAY
+N: In the half-light of the basement, a rectangle of light has formed where the door opens onto the street. Stéphanie looks over Ali’s mess: his magazines, body building equipment, dirty T-shirts, track suits hanging over a trestle... Anna is standing against the light at the door and, a bit farther off, Sam is sitting on the stairs watching them.
+C: ANNA
+D: In his message he said he was in Strasbourg. No news since. I don't know what he's doing there, or even if he's still there. Has he called you?
+N: She shakes her head "no".
+C: ANNA
+D: Did you try the gym?
+C: STEPHANIE
+D: Yeah. They don't know.
+C: ANNA
+D: If I had an address or a number, I'd give it to you... Even if I think it's dumb. Do you believe me?
+C: STEPHANIE
+D: Yes.
+C: ANNA
+D: After what he did to me...
+N: Sam sees Stéphanie join Anna near the door. She’s about to leave.
+C: ANNA
+D: He abandoned his kid. He doesn't give a fuck about anything. All he ever cared about was himself. He's totally selfish.
+N: Sam watches the two women swallowed up by the light.
+C: STEPHANIE
+D: You don't know him.
+E: OFF
+C: ANNA
+D: Me? What did you expect with him?
+E: OFF
+C: STEPHANIE
+D: I don't know. Not this.
+E: OFF
+T: Fade to black.
+N: Black.
+S: 132. EXT. ALSATIAN COUNTRYSIDE. MORNING
+N: A frosty landscape with trees that look like they’ve been engraved in ink... A group of twelve joggers in blue track suits run across a landscape of gray sky and snow. Some shadowbox while running. Ali is wearing a wool cap pulled down around his ears. He runs alongside Foued.
+S: 133. INT. HOLIDAY VILLAGE. GYM. DAY
+N: A ring has been set up in the middle of the gym. A few guys have gathered round to watch Ali rhythmically pound on his trainer’s bear-like paws. Leonardini sets the pace.
+C: LEONARDINI
+D: 1,2... 1,2,3,4... Faster! 1,2,3. Yes. Faster! Move! You're stepping back!
+N: Ali pounds harder and harder. He times his respiration to match the movement of his fists.
+S: 134. INT. HOLIDAY VILLAGE REC ROOM. EVENING
+N: Young athletes, some tall, some short, some heavyset, some not, are sitting on refectory chairs to watch TV. Ali does too. His hair is cut short and his face is closely shaven. He looks younger. He could be a student.
+S: 135. EXT. RICHARD’S TRUCK. NIGHT/DAY
+N: A truck rushes headlong through the countryside. First it is day, then night.
+S: 136. INT. HOLIDAY VILLAGE. DAY
+N: Through the window, Ali sees a twelve-ton Scania pull to a stop at the entrance to the parking lot and beep its horn. Ali runs out to meet it.
+S: 137. EXT. HOLIDAY VILLAGE – PARKING LOT. DAY
+N: Richard lowers his window.
+C: RICHARD
+D: I can't come in any further or I won't be able to get back out!
+N: Ali checks out the huge semi.
+C: ALI
+D: Looks like you changed trucks!
+C: RICHARD
+D: Bosses, in fact. I'm back to being exploited.
+N: Ali doesn’t insist. Richard opens his door to let out Sam who is already trampling him, trying to get out.
+C: RICHARD
+D: Got everything? Your bag, your coat, your hat, your mittens? You haven't forgotten anything? Now give me a kiss.
+E: to Sam
+N: Sam gives him a kiss. Richard slips him out and into Ali’s arms.
+C: ALI
+D: How are things there?
+C: RICHARD
+D: They're okay.
+C: ALI
+D: My sister?
+C: RICHARD
+D: She found a job at a school cafeteria. She seems to enjoy it.
+C: ALI
+D: Does she know about today?
+C: RICHARD
+D: Yes. She says it's good for the kid.
+C: ALI
+D: Tell her I can't help out for the time being but that as soon as I have a little money...
+C: RICHARD
+D: Don't worry. When's your fight?
+C: ALI
+D: Next month. On the 9th.
+N: Richard smiles admiringly.
+C: RICHARD
+D: Keep us posted if you win.
+C: ALI
+D: Sure I will.
+C: RICHARD
+D: Yeah, right... Okay, I'm off. I'll deliver my load in Colmar and pick up the kid at around 7, okay?
+C: ALI
+D: Okay.
+C: RICHARD
+D: No later, because I have to be back tomorrow at 11.
+N: The two men say good-bye. Sam waves good-bye.
+S: 138. EXT. ALSATIAN COUNTRYSIDE. DAY
+N: A path runs through fields and into a clump of fir trees. Ali pulls a plastic sled with Sam on top. Whenever there is a slope, he lets Sam glide down it and runs after him. Snow falls from the trees. He looks up and sees a couple of squirrels jump from branch to branch. Sam has never seen any before. Ali neither. Sunlight filters through the branches. A group of cross- country skiers trudges by.
+C: SAM
+D: I want to skate too!
+C: ALI
+D: They're not skating. They're skiing.
+C: SAM
+D: No, they're skating.
+C: ALI
+D: They're skiing, I said!
+C: SAM
+D: Skating.
+N: A few steps on:
+C: ALI
+D: Skiing.
+C: SAM
+D: You're annoying me.
+N: They take a break at a picnic area, where they eat some sandwiches and drink orange soda.
+C: ALI
+D: Does Auntie still have dogs?
+E: his mouth full
+C: SAM
+D: No, now it's chickens.
+C: ALI
+D: In the garden?
+C: SAM
+D: Yeah, in the cage. They lay eggs.
+C: ALI
+D: That's good.
+C: SAM
+D: But Auntie doesn't want me to take the chicks in my room.
+C: ALI
+D: She's right. They're disgusting. Finished? You want some applesauce?
+E: pointing to his sandwich
+N: Afternoon. On the way back, they find a frozen pond. Ali carefully advances on the ice. He tests it. Jumps on it. Then he lets himself go and glides across the ice.
+C: ALI
+D: You can go. But not too far!
+N: Sam starts slipping and sliding. He falls down. He lies on the sled and lets it glide. Ali pees behind a tree. Sam is far away.
+C: ALI
+D: Come on, we have to head back!
+C: SAM
+D: 5 minutes.
+C: ALI
+D: Now!
+C: SAM
+D: 5 minutes!
+E: showing his fingers
+C: ALI
+D: 5 minutes.
+N: And then suddenly, instead of gliding, the child sinks. He tries to climb out and sinks again. A thin layer of ice is forming over him.
+C: SAM
+D: Daddy! Daddy!
+C: ALI
+D: Shit!
+N: Ali rushes to the pond, but Sam is already iced over. He kneels down and then crawls on his stomach toward the hole. Sam has disappeared. Ali shoves aside snow. He looks everywhere, but sees nothing. And then he hears a noise, blows like signals coming from under the ice. Ali crawls over and clears away snow as best he can. Under the ice, he sees Sam’s face, staring wide-eyed. Ali begins to pound both his fists on the ice, like pistons or pestles... As if pounding on his punching bag. 139. UNDER THE ICE. DAY Underwater, we hear the sound of dull thuds. Sam sees his father’s fists pound on the ice. He sees bloodstains. The ice cracks, a bloody fist searches the water for him. Sam closes his eyes.
+S: 140. EXT. POND. EVENING
+N: Evening is falling. Ali has stretched Sam out on the rim of the pond. The child has turned blue. He tries mouth-to- mouth resuscitation, he massages his heart and rubs him down.
+S: 141. EXT. COUNTRY ROAD. EVENING
+N: Ali’s respiration has become a grunt, then a groan. He runs. He has stowed Sam behind the front of his parka and runs as fast as he can. He slips, gets back up and runs again... he again breathes into Sam’s mouth... while still running...
+S: 142. INT. STRASBOURG – HOSPITAL – ICU. DAY
+N: Leaning against the window of the Intensive Care Unit, Ali sees Sam’s nude, tiny body being worked on by doctors... his skin is blue from the cold... there is a tube in his mouth... his ribs rise and fall to the rhythm of a respirator... his mouth spits out brackish water brutally... A door opens and a nurse appears. Ali straightens up.
+C: NURSE
+D: We'll take care of you. Come with me.
+N: He doesn’t understand. Then he notices the blood prints his hands have left on the ICU window. He looks at his scarred fingers, his broken, bloodied hands.
+S: 143. INT. SAM’S HOSPITAL ROOM. EVENING
+N: Sam is lying in a hospital bed. His eyes are closed and coils of tubes attach him to control apparatus. Ali is at his side. His hands are now wrapped in thick bandages. The disinfectant makes him look like he is wearing yellow gloves halfway up his arms. Richard is standing behind him, near the window. Ali takes Sam’s fingers, places them in the palm of his bandaged hand and looks at them. Sam’s eyes begin to dart wildly under his eyelids... his fingers quiver... his eyes open.
+S: 144. INT. HOSPITAL – CORRIDOR. NIGHT
+N: There are not many people in the corridor at this late hour. Richard is bent over a coffee machine. A cup slowly fills up. Farther off, Ali is KO, leaning against a wall. Richard brings him a coffee. Ali takes it clumsily into his damaged hands. Richard’s cell phone rings. He moves away to answer and speaks into it softly. A few moments later, he returns to Ali and hands him the phone.
+C: RICHARD
+D: Here. She wants to talk to you.
+C: ALI
+D: Anna?
+N: Richard shakes his head.
+C: ALI
+D: Hello?
+C: STEPHANIE
+D: It's me. Do you mind?
+E: OFF pause
+C: ALI
+D: No.
+C: STEPHANIE
+D: How is he?
+C: ALI
+D: Okay. He woke up an hour ago.
+C: STEPHANIE
+D: Is he injured?
+C: ALI
+D: No, I don't think so.
+C: STEPHANIE
+D: And how are you?
+C: ALI
+D: I fucked up my hands on the ice.
+C: STEPHANIE
+D: Is it serious?
+C: ALI
+D: They're broken. A beat.
+C: ALI
+D: How are you?
+C: STEPHANIE
+D: I'm okay.
+C: ALI
+D: What are you up to?
+C: STEPHANIE
+D: You mean in general? In my life?
+C: ALI
+D: I wanted to say that...
+C: STEPHANIE
+D: I'm not asking for anything. I'll be going. I'll call you back to see how Sam's doing. Give him a kiss him from me...
+C: ALI
+D: Don't hang up.
+N: STEPHANIE
+C: ALI
+D: Don't hang up!
+C: STEPHANIE
+D: I won't hang up...
+C: ALI
+D: He was in a coma for 3 hours... Three hours... For three hours he was dead... I was scared to lose him.
+N: His eyes well with tears.
+C: ALI
+D: Don't leave me.
+C: STEPHANIE
+D: I won't leave you. Black.
+C: ALI
+D: I love you.
+S: 145. INT. POLAND. HOTEL ROOM. DAY
+N: A child sleeps. His eyes are darting under his eyelids: vestiges of light and shadow, of noise. Sam opens his eyes: he is in a hotel room. At the foot of the bed, a TV with the sound turned down low is broadcasting a cartoon of mice fighting in Polish. Stéphanie comes and goes, picking up things littering the floor and packing their bags. Over these images, we hear Ali’s voice: The human hand contains 27 bones. Some monkeys have more: gorillas have 32, five in each thumb. For humans, it's 27. If you break an arm or a leg, after a while calcium gathers around the bone and joins it together. In the end, it's stronger than before. But if you break a bone in your hand, you know it'll never fully heal. You'll think about it before every fight. You'll pay attention... And even if you pay attention, the pain will come back... like needles, like broken glass... Ali is wearing a T-shirt. He still bears the marks of yesterday’s fight. His eyebrows and hands are bandaged.
+C: ALI
+D: Wake up, kiddo. It's over. We're going home.
+C: SAM
+D: Did you win?
+N: He smiles and kisses his biceps.
+S: 146. INT. POLAND. HOTEL – LOBBY. DAY
+N: The lobby of a Holiday Inn, the day after an Ultimate tournament... (much the same ambience as in Turin) The fighters, winners and losers, are about to leave. They greet each other, pose for photographers, answer interviewers, sign autographs... Ali’s hands are still bandaged. He is being interviewed along with a kind of Viking with a closed eye and broken arm. Ali goes to join Stéphanie and Sam outside the hotel, where a taxi driver is loading their luggage. A young Polish fan calls out: "Ali! Ali!" He wants a photo. Ali lifts Sam into his arms and pulls Stéphanie closer. They pose. The End

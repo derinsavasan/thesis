@@ -1,0 +1,2025 @@
+M: SHORTCOMINGS
+M: Screenplay by
+M: Adrian Tomine
+M: Based on the book by
+M: Adrian Tomine
+M: White Production Draft - June 27 2022
+M: Blue Production Draft - July 8 2022
+M: Pink Production Draft - July 26 2022
+M: Yellow Production Draft - August 1 2022
+M: Buff Production Draft - August 4 2022
+M: Salmon Production Draft - August 6 2022
+S: INT. SKYSCRAPER - NIGHT1 1
+N: MRS. WONG (glamorous, 30s) stands in the lobby of a luxury residential building. From behind a reception desk, MARTIN (a white man, 70s, suit and tie) stares at her with barely- concealed contempt.
+C: MARTIN
+D: Well, Mrs. Wong, thank you for inquiring about the availability of our penthouse suite. I’ve reviewed your application, and unfortunately... A long, dramatic PAUSE. MARTIN Me no like-ee. He stares at her, crumpling a piece of paper in his hands. The woman smiles, then turns and heads to the exit. Through the glass doors, MR. WONG , her handsome, well-dressed husband waits outside, smoking a cigarette. Mrs. Wong says something to her husband. He casually pulls out his phone and makes a brief call. He puts the phone back in his pocket and nods. They stride back into the lobby.
+E: cont’d 30s, Asian
+C: MRS. WONG
+D: I’d like to inform you that my husband has just purchased this building. An email confirming said purchase should be arriving in your inbox presently. Martin’s computer emits a gentle audio TONE. In shock, the man glances at the screen, his eyes bulging as he reads. MRS. WONG I trust you’ll see that everything is in order.
+E: to Martin cont’d
+C: MARTIN
+D: Yes, Mrs. Wong!
+C: MRS. WONG
+D: Now if you wouldn’t mind, could you please attend to the overflowing trash bin out front?
+C: MARTIN
+D: Right away, Mrs. Wong! Martin sprints out the front door. TRIUMPHANT MUSIC rises as the Asian woman and her husband make their way across the lobby, into the open elevator.
+C: MR. WONG
+D: Happy birthday, Mrs. Wong.
+C: MRS. WONG
+D: I thought you said money can’t buy happiness.
+C: MR. WONG
+D: You be the judge of that. Music swells. They kiss passionately, as the elevator doors close. EXT. SKYSCRAPER - NIGHT2 2 A massive, ultra-modern tower centered within a glittering cityscape. The surrounding sky erupts with FIREWORKS. INT. MOVIE THEATER - NIGHT3 3 PULLING BACK, we see the previous scene playing out on a screen. As the movie-within-the-movie cuts to credits and ASIAN-INFLECTED CLUB MUSIC, the audience breaks into
+C: THUNDEROUS APPLAUSE.
+D: The capacity crowd is comprised entirely of Asian people, who enthusiastically clap, cheer, wipe away tears. We zero in on MIKO and BEN , seated side by side. Miko smiles and applauds, as Ben slumps in his seat, a look of disbelief. The crowd goes into a standing ovation, obscuring Ben, who doesn’t move. INT. MOVIE THEATER - LOBBY - A FEW MINUTES LATER4 4 The audience mingles under a BANNER that reads “EAST BAY ASIAN AMERICAN FILM FESTIVAL.” A DJ spins. A woman hands out boba drinks. Ben and Miko make their way through the crowd, their discordant expressions still intact. Miko notices RAMON , an enthusiastic Filipino man in a barong tagalog, waving her over from across the room. He is surrounded by a group of Asian people of various ages.
+E: both early 30s, Japanese American 40s
+C: RAMON
+D: Everyone, I’d like you to meet one of our incredible co-organizers, Miko Higashi. Miko shakes hands and hobnobs amiably with the crowd.
+C: MIKO
+D: Oh, and this is my boyfriend Ben. As if snapping out of a daze, Ben smiles and waves.
+C: BEN
+D: Sorry, I’m just...recovering.
+C: RAMON
+D: Wasn’t that amazing?
+E: to Ben and Miko
+C: MIKO
+D: Yes! Ben grimaces and shrugs, clearly holding his tongue.
+C: RAMON
+D: Look, bruh, I know it’s a little glossy, but it’s OURS! Right? That’s US, baby! Everyone within earshot CHEERS and APPLAUDS as a dance circle breaks out. Clearly outnumbered, Ben smiles and CLAPS along. EXT. CITY STREET - BERKELEY - NIGHT5 5 Ben and Miko walk along a Berkeley street.
+E: to Ben to everyone
+C: MIKO
+D: So what did you think?
+C: BEN
+D: Well, Ms. Higashi. After some careful consideration of the film, I regret to inform you that... A long, dramatic PAUSE. BEN Me no like-ee.
+E: cont’d
+C: MIKO
+D: I know, I know. But as a community, we’ve waited a long time to see ourselves reflected in a--
+E: laughing
+C: BEN
+D: ...In a garish, mainstream rom-com that...that glorifies a capitalistic fantasy of vindication through wealth and--
+C: MIKO
+D: Okay! I know it wasn’t exactly your thing, but that’s not the point. The cultural impact--
+C: BEN
+D: That’s completely the point!
+C: MIKO
+D: I guess I thought you might be able to see the bigger picture. Like, beyond your own snobby tastes.
+C: BEN
+D: You thought I could do that? Have we just met? Miko laughs.
+C: MIKO
+D: Look, the reviews have been incredible, it’s gonna be a massive hit, and that’s what makes it great.
+C: BEN
+D: Wow. They arrive at their car, an unremarkable sedan.
+C: MIKO
+D: It’s a game-changer, okay? And now if some Asian American filmmaker wants to make a movie that’s more your style--something “cooler” or more real or whatever--and they’re suddenly able to get funding, they should get down on their knees and bow down to that garish, mainstream hit that cleared the way for them. Ben shrugs and nods, as if conceding. They get in the car. EXT. CITY STREETS - BERKELEY - NIGHT6 6 Ben and Miko’s car zips by. INT. BEN AND MIKO’S APARTMENT - NIGHT7 7 Ben and Miko enter, turning on lights, removing coats, etc. The apartment is stylish, modest, somewhat cramped.
+C: BEN
+D: I’m not criticizing you. Or the festival! I’m just expressing my opinion about this particular movie, but--
+C: MIKO
+D: Well, you could’ve at least faked it a little bit with Ramon. The way you reacted when he asked what you thought of it...god, I wanted to die.
+C: BEN
+D: It’s good for him! He should hear a range of responses, for once.
+E: laughing
+C: MIKO
+D: Well, who are you to criticize?
+C: BEN
+D: What’s that supposed to mean?
+C: MIKO
+D: Sorry. That wasn’t...Look, if you didn’t like the movie, that’s fine. I just don’t understand why you have to be so--
+C: BEN
+D: Because it’s depressing to see a room full of people lose their minds over a movie just because of ”representation” or whatever.
+C: MIKO
+D: How about the possibility that they also just really enjoyed the movie?
+C: BEN
+D: Well, that’s even more depressing!
+C: MIKO
+D: Wow. You are a piece of work... Miko shakes her head and chuckles, in spite of herself.
+C: OPENING TITLESA7 A7
+D: INT. BAY AREA RESTAURANT - DAY8 8 Ben sits across the table from his best friend, a young Korean-American woman. This is ALICE .
+E: late 20s, glasses
+C: BEN
+D: I can’t even do it justice. I’m still having like, aftershock cringes.
+C: ALICE
+D: Really? I heard it’s great--
+C: BEN
+D: The entire theater was going insane! It looked like a med school graduation ceremony.
+C: ALICE
+D: Well, I’m sure Miko really appreciated your in-depth critique.
+E: laughs
+C: BEN
+D: What am I gonna do? Suddenly act like my judgment is as clouded as hers? I mean, she didn’t give a shit about any of this... community... political...whatever when I met her, so it’s-- NINA, a waitress , arrives holding two plates.
+E: mid 20s
+C: NINA
+D: Okay, I’ve got a club with fries and a tofu scramble crepe. Ben makes a face in response to Alice’s order.
+C: ALICE
+D: That’s me. I like your hair.
+C: NINA
+D: Really? For some reason I thought it would be a good idea to get drunk and cut it myself last night. Alice laughs, a little more than warranted. NINA I should go get it fixed.
+E: cont’d
+C: BEN
+D: Can I--
+E: to waitress
+C: ALICE
+D: No way! I should get you to cut my hair sometime.
+C: BEN
+D: Sorry, but can I get some--
+C: ALICE
+D: We can get drunk first if it’ll help. Nina laughs.
+C: BEN
+D: Ketchup! Can I please get some ketchup.
+C: NINA
+D: Sure. I’ll be right back with that. Let me know if you need anything else.
+E: to Ben to Alice, warmly
+C: ALICE
+D: I will. As Nina walks away, Alice smiles proudly.
+C: BEN
+D: Do you know her?
+C: ALICE
+D: Not yet. They start eating. ALICE Okay, so she’s gotten a little more politically-minded. That’s good! I don’t get why it’s such an affront to you.
+E: cont’d MORE
+C: BEN
+D: It’s not a...It just, it gets tiresome, you know?
+C: ALICE
+D: I bet you’d change your tune if you suddenly woke up in Alabama or something.
+C: BEN
+D: I was practically the only non- Aryan in my entire high school! I showed you the yearbook. It was like a...Mormon modeling agency!
+C: ALICE
+D: And you never felt discriminated against, or--
+C: BEN
+D: I definitely did! But not because I was Asian.
+C: ALICE
+D: Just your inherent bad personality...
+C: BEN
+D: Exactly. I fucking earned that outcast status! Alice laughs and nods her head in agreement.
+C: ALICE
+D: Remember that guy from the dorms? Alvin...something?
+C: BEN
+D: Elvin! How could you forget his name? Elvin Dong!
+C: ALICE
+D: Yes! The guy who blamed all his problems on racism! You’re like the total opposite of him. You refuse to... She trails off, noticing that she’s lost his attention. She follows his eye-line to a SEXY BLONDE WOMAN who has entered the restaurant. ALICE ALICE God, you’re predictable. OMIT9 9 INT. BEN AND MIKO’S APARTMENT - KITCHEN - NIGHT10 10 Ben and Miko bustle around, preparing a meal--specifically, Japanese home-cooking.
+E: cont’d cont’d
+C: MIKO
+D: So Ramon thinks that our attendance might’ve actually tripled this year. And that’s in spite of the fact that those jerks at The Weekly refused to give us a write-up.
+C: BEN
+D: Wow.
+C: MIKO
+D: How’s Alice? Did you guys have lunch today?
+C: BEN
+D: You know...she’s her usual Alice-y self. She already broke up with that girl from Benicia. And now she’s--
+C: MIKO
+D: Oh! I forgot: remember that guy Trong? It turns out he made a mistake with the ad budget back in April, so the thing with the posters totally wasn’t my fault. They sit down with their food and begin eating.
+C: BEN
+D: Oh, well, that’s good, I guess. I mean, good and bad.
+C: MIKO
+D: Yeah. We hold on them as they eat in silence. INT. BEN AND MIKO’S APARTMENT - LIVING ROOM - NIGHT11 11 Ben sits in the darkened room, watching an old movie on a large TV. A stack of Criterion blu-ray discs sits on the coffee table. Miko enters, dressed in a tank top and panties.
+C: MIKO
+D: It’s getting late.
+C: BEN
+D: Look at this. They call this an “improved digital transfer”?
+E: eyes fixed on the TV
+C: MIKO
+D: Do you want to get to bed soon?
+C: BEN
+D: Enh...I’m not really tired yet. I slept in today.
+C: MIKO
+D: Well, we don’t have to go to sleep right away.
+C: BEN
+D: I’ll be there in a little bit. I still have a couple other discs I want to check out. Miko takes this in, then turns and exits down the hallway. EXT. UNIVERSITY CINEMA - DAY12 12 A small, slightly shabby movie theater. A young woman strides in. A “HELP WANTED” SIGN is visible in the box office window. INT. UNIVERSITY CINEMA - PROJECTOR ROOM - DAY13 13 Ben, dressed in his work uniform of black pants, white shirt and tie, sits at a desk of a makeshift office in the projector room. He’s reading a book on screenwriting.
+C: WOMAN
+D: Hello!..Ben?
+E: O.S.
+C: BEN
+D: Yeah. The young woman, AUTUMN leans her head into the room. Her choppy hair is bleached blonde, and her blue eyes are ringed with heavy black eyeliner.
+E: not looking up mid 20s, white
+C: AUTUMN
+D: Hi! The guys downstairs said to talk to you about the, uh, job? Ben closes his book and looks up, suddenly intrigued. INT. UNIVERSITY CINEMA - LOBBY - A FEW MINUTES LATER14 14 Ben and Autumn descend a staircase. Behind the refreshment counter are two employees: GENE and LAMONT . Both are dressed in the requisite white shirt, necktie, and black pants.
+E: 20s 20s
+C: BEN
+D: So the restrooms are up those stairs on the other side of the concession stand--
+E: to Autumn
+C: GENE
+D: So what are you into? Ben and Autumn look towards the refreshment counter. Gene and Lamont stare expectantly at Autumn.
+E: O.S.
+C: AUTUMN
+D: Oh, hi again! What...?
+C: BEN
+D: That’s Gene, and that’s Lamont. She smiles and waves. BEN Guys, this is Autumn. She’ll be starting this weekend, so I’m--
+E: to Autumn, reluctantly cont’d
+C: GENE
+D: Movie-wise. What are you into?
+C: AUTUMN
+D: Gee. Okay. I, uh... She pauses to think.
+C: GENE
+D: I’m into genre auteurs. In other words, singular filmmakers who choose to work within the--
+C: LAMONT
+D: He’s a Christopher Nolan fan, is what he’s trying to say.
+C: GENE
+D: Extremely reductive, but nevertheless I--
+C: LAMONT
+D: I’m more into world cinema. You know...Bong Joon-Ho, Ruben Östlund, Céline Sciamma.
+C: GENE
+D: Bullshit alert! Bullshit alert! Gene begins to make a grating SIREN SOUND with his voice.
+C: BEN
+D: Guys! Let’s try not to scare her off before she’s even started, okay? Ben ushers Autumn towards the box office.
+C: AUTUMN
+D: Yikes.
+C: BEN
+D: Yeah, sorry. You’ll be safe in here. Autumn laughs as Ben opens the door to the tiny box office. OMIT15 15 INT. UNIVERSITY CINEMA - BOX OFFICE - CONTINUOUS16 16 Ben and Autumn enter the cramped booth.
+C: BEN
+D: Well, I guess I don’t need to explain too much. You know, it’s just...selling tickets...answering questions from confused old people...
+C: AUTUMN
+D: I love it!
+C: BEN
+D: I should probably mention that we have a little video camera up there... He gestures towards a WEBCAM that’s mounted above the door. BEN We’ve had some problems in the past with the cash drawer, so--
+E: cont’d
+C: AUTUMN
+D: Who’s gonna be watching me? You?
+C: BEN
+D: Sorry. It’s just like, a rule the owners imposed.
+C: AUTUMN
+D: Well, I like being watched. My therapist says I have exhibitionistic tendencies.
+C: BEN
+D: Oh. Uh-huh?
+C: AUTUMN
+D: Actually, you should come check out one of my shows sometime.
+C: BEN
+D: What do you mean? Like an art show?
+C: AUTUMN
+D: I’m part of this collective that does performance art, spoken word, that kind of stuff. We’re pretty well-regarded.
+C: BEN
+D: Oh, cool.
+C: AUTUMN
+D: But I don’t know. It might be too weird for you!
+C: BEN
+D: What’s that supposed to mean? A car horn BEEPS twice, interrupting the conversation. EXT. UNIVERSITY CINEMA - DAY - CONTINUOUS17 17 An unremarkable sedan idles at the curb, lights on. Ben exits the box office and approaches the car as Miko steps out from the driver’s side. She holds a TAKE OUT FOOD CONTAINER.
+C: BEN
+D: Hey! What are you doing here?
+C: MIKO
+D: I was having lunch down on Fourth Street, so I got you some take-out.
+C: BEN
+D: With who? You’re all dressed up.
+C: MIKO
+D: Just...Ling and Ramon and some of the other festival people. Here... eat before the tempura gets soggy. He takes the container from her.
+C: BEN
+D: Thanks. I’ll probably be home around one.
+C: MIKO
+D: I’ll try to stay up. INT. UNIVERSITY CINEMA - BOX OFFICE - CONTINUOUS18 18 Autumn watches as Ben and Miko share a perfunctory kiss. INT. BEN AND MIKO’S APARTMENT - BEDROOM - NIGHT19 19 Miko sits in bed on her iPad, while Ben gets ready for the night.
+C: BEN
+D: No, Gene was actually right. Lamont’s real favorite movies are literally all on Disney+. Meanwhile, he’s--
+C: MIKO
+D: Are you serious?
+E: laughing
+C: BEN
+D: I mean, I guess you can’t blame him for trying, but--
+C: MIKO
+D: Boy, I guess everyone’s got the hots for the new girl!
+C: BEN
+D: What do you mean, “everyone”?
+C: MIKO
+D: Pft, come on. I know your type.
+C: BEN
+D: What? I don’t have a type. Miko smirks, holding her tongue. BEN I don’t!
+E: cont'd
+C: MIKO
+D: Then how come you didn’t introduce us?
+C: BEN
+D: Because unlike you, I spare you the pain of having to interact with my co-workers, so--
+C: MIKO
+D: Well, you’ve introduced me to Gene, Lamont, uh...that creepy projectionist guy--
+C: BEN
+D: Okay, fine! I didn’t know you’d be so interested in meeting some grubby, attention-seeking hipster, but--
+C: MIKO
+D: Oh, don’t overdo it, Ben. I know what a sucker you are for those kinds of--
+C: BEN
+D: Jesus Christ! Give me a little credit, okay? I’m--
+C: MIKO
+D: All right, fine! I’m just--
+C: BEN
+D: You wanna know my type? You. Okay? Even when you’re being an asshole. Miko laughs. Ben joins her in bed, pulls her close and gives her a kiss. As Miko rolls towards Ben, we catch a glimpse of the modern/minimalist FLOWER-PRINT PATTERN on her pillowcase. INT. ALICE’S APARTMENT - MORNING20 20 A small, collegiate studio. Ben sits on a futon, dressed in a suit and tie. Alice, in a dress and heels, fusses with her hair, applies make-up, etc.--all of which seems very out of character for her.
+C: ALICE
+D: Thanks for doing this.
+C: BEN
+D: I’m honored to play a role in your bizarre, ongoing charade.
+C: ALICE
+D: You’d think the fact that I’m getting a Ph.D would be enough to make them happy, but nope. Ben grabs a FRAMED PHOTO of Alice from the side table.
+C: BEN
+D: Why do you have a framed photo of yourself?
+C: ALICE
+D: Because I’m in love with her - Oh, one more thing... maybe don’t mention that your last name is “Tagawa”, okay? He shoots her a baffled look. ALICE My grandpa will be there.
+E: cont’d
+C: BEN
+D: So?
+C: ALICE
+D: Does the phrase “World War II” ring a bell with you?
+C: BEN
+D: Oh. That.
+C: ALICE
+D: Yeah, that. Nothing big. Just...just the raping and pillaging my people.
+C: BEN
+D: Half of your people--
+C: ALICE
+D: Your people making us bow down and change our names to--
+C: BEN
+D: That wasn’t “my people”, okay?! My people were already in America for like, two generations when that happened! My people were, you know...getting locked up in fucking internment camps!
+C: ALICE
+D: I think the preferred term is “incarceration camp”...? “Internment” is a misleading -
+C: BEN
+D: I know! I can’t defend my ancestors and be perfectly correct in my terminology at the same time, okay?
+C: ALICE
+D: C’mon, we’re gonna be late. Alice grabs her keys, as Ben pulls himself up off the couch. OMIT21 21 OMIT22 22 EXT. KOREAN CHURCH - SAN FRANCISCO - DAY23 23 Ben and Alice approach an austere, suburban building adorned with Korean signage and a large metal cross. Well dressed Asian people of all ages file in for a wedding.
+C: ALICE
+D: ...Either way, they’d still rather see me with a Japanese guy than a Korean girl.
+C: BEN
+D: Oh. So when it comes down to it, rapists and pillagers are still preferable to gays.
+C: ALICE
+D: Everything is preferable to gays...
+C: MRS. LEE
+D: Alice! You’re late! Always late! MR. and MRS. LEE approach. GRANDPA LEE follows behind.
+E: O.S. in Korean both mid 60’s 80’s, Korean
+C: ALICE
+D: Hi, Mom Hi, Dad. Hi, Grandpa! Alice hugs her family as Ben stands awkwardly.
+E: in Korean
+C: MRS. LEE
+D: So...we finally get to meet your mysterious boyfriend! So handsome!
+E: in Korean
+C: ALICE
+D: Uh, yeah. Everyone... this is Ben. Ben Park.
+C: BEN
+D: Hi there--
+C: MR. LEE
+D: Hello, Ben. Mr. Lee, elated almost to the point of tears, goes in for a warm hug.
+C: MRS. LEE
+D: Praise Jesus.
+C: BEN
+D: Yup.
+C: MRS. LEE
+D: Very nice to meet you, Ben. So Alice tells me you’re a youth pastor! Ben nods uncomfortably. He looks over at Alice, who is all smiles. Ben offers a hand to Grandpa.
+C: BEN
+D: Uh, nice to meet you, sir. But the old man doesn’t oblige. He just menacingly scowls.
+C: MRS. LEE
+D: Anyway, let’s go inside! Mr. And Mrs. Lee head inside. Grandpa stares daggers at Ben before turning around and following them in.
+C: BEN
+D: ...What’s wrong with your Grandpa?
+E: to Alice
+C: ALICE
+D: He knows. Shit. Alice drops her head, as they head into the church. OMIT24 24 INT. BEN AND MIKO’S APARTMENT - KITCHEN - NIGHT25 25 Ben is standing at the sink, washing dishes. Miko enters, holding a laptop computer.
+C: MIKO
+D: Can I talk to you for a sec?
+C: BEN
+D: Uh-huh...?
+C: MIKO
+D: So I had to use your computer today, and--
+C: BEN
+D: What’s wrong with yours?
+C: MIKO
+D: I left it at work. She sets the computer down on the counter. MIKO You left a few pages open on your desktop. Miko opens the laptop. Ben’s desktop window is littered with windows of PORN SITES.
+E: cont’d
+C: BEN
+D: ...And there goes your afternoon! Right? She glares at him, unamused. BEN Look, let’s not make a big deal out of this, okay? If it bothers you--
+E: cont’d
+C: MIKO
+D: The thing that bothers me is that all these girls are white.
+C: BEN
+D: That’s what this is about?
+C: MIKO
+D: I don’t like it to begin with, but yeah: it especially bothers me that all the girls are white.
+C: BEN
+D: Okay, first of all, that’s...that’s not true. There’s different categories, and... He starts to navigate the site, with great facility, as Miko glares at him. BEN ...so if you’re looking for something in particular, you -- She SLAMS the computer shut.
+E: cont’d
+C: MIKO
+D: It’s not funny, Ben.
+C: BEN
+D: Look, this stuff is just...it’s supposed to be different from reality! Otherwise what’s the point? I mean, if you were stranded on a desert island, you wouldn’t sit around dreaming about sand and sun, right?
+C: MIKO
+D: Is that what this feels like to you? Being stranded on a--
+C: BEN
+D: No, listen! My point is that sand and sun are great, it’s just--
+C: MIKO
+D: Do you have any idea why this might offend me? It’s like you’re obsessed with the typical, Western media beauty ideal, but you’re settling for me!
+E: MORE
+C: BEN
+D: Oh, so now it’s a whole political thing, right? Jesus. And I’m not “settling”--!
+C: MIKO
+D: Well, I notice what you gawk at when we’re out, and it’s always some white girl with--
+C: BEN
+D: Okay, maybe you’re right. Maybe I’ve been brainwashed by some insidious media conspiracy into thinking that blonde-haired, blue- eyed women are attractive. I guess I should actually find Margot Robbie disgusting, but somehow I’ve been duped into--
+C: MIKO
+D: You’re a fucking asshole. Miko turns and walks out of the room. Ben follows her. INT. BEN AND MIKO’S APARTMENT - HALLWAY - CONTINUOUS26 26 Miko makes her way down the hall, into the bedroom. Ben starts to follow her in, but she stops him at the doorway.
+C: BEN
+D: Why are you blowing this up into such a...I mean, it’s not like I’m cheating on you, or--
+C: MIKO
+D: Are you sure about that?
+C: BEN
+D: See? You are the crazy one! What the fuck is that?!
+C: MIKO
+D: This is what you always do: you act like an asshole, and then you get angry when I call you on it. MIKO
+E: cont'd
+C: BEN
+D: I’m angry because you always assume the worst about me, and you end up acting crazy over nothing!
+C: MIKO
+D: It’s not “nothing,” and I’m not acting “crazy,” so stop using that fucking word! She SLAMS the door in his face.
+C: BEN
+D: See? You’re proving my point! INT. BEN AND MIKO'S APARTMENT - KITCHEN - MORNING 27 27 Ben wakes up to find Miko’s side of the bed empty and the door ajar. He walks down the hallway to find Miko at the dining table, looking at her phone. Ben sits across from her, occasionally glancing in her direction. The room is SILENT except for the GURGLING SOUND of the coffee maker.
+E: laughing derisively
+C: BEN
+D: I’m sorry about last night...
+C: MIKO
+D: I know. Me too.
+C: BEN
+D: I think we can both-- The GURGLING SOUND tapers off, the machine BEEPS.
+C: MIKO
+D: Coffee’s ready. She hops up from her seat. Ben leaves his thought unfinished. INT. UNIVERSITY CINEMA - PROJECTOR ROOM - NIGHT28 28 Ben sits at his desk, looking at his phone. He scrolls through a grid of photos, stopping on a sultry “bathroom selfie” of Autumn. Gene abruptly opens the door and enters.
+C: GENE
+D: Excuse the interruption, but-- Startled, Ben drops his phone and spins around in his chair.
+C: BEN
+D: Jesus, Gene! You can’t just come up on me like that!
+C: GENE
+D: Well, perhaps under less urgent circumstances: fine. But right now, we have a situation. Autumn suddenly feels it’s imperative that she go get a burrito, but if I cover for her, then I’ll be leaving Lamont alone at the concession stand, and--
+C: BEN
+D: Gene! I’m sure Lamont can handle it for a few minutes.
+C: GENE
+D: Hm. Interesting. Gene closes the door as he leaves. Ben turns his attention to the computer on his desk. On the screen, we see the VIDEO FEED from the box office booth. Gene enters and speaks to Autumn. She jumps up from her seat, and Gene takes her place. Autumn looks into the camera and blows a stagy “air kiss” off the palm of her hand. EXT. CITY STREET - BERKELEY - DAY29 29 Ben and Miko walk through a bustling commercial district.
+E: a beat
+C: BEN
+D: It’s not like I have a choice. We have to let these seismic retrofit guys inspect the theater, and we have to pay for it.
+C: MIKO
+D: That’s annoying.
+C: BEN
+D: Oh, and would your Dad mind if I’m late on my rent again--
+C: MIKO
+D: It’s fine. He’s not even keeping track... Hey, do you remember that internship I applied for?
+C: BEN
+D: The what--?
+C: MIKO
+D: The Asian-American Independent Film Institute?
+C: BEN
+D: Maybe. What about it?
+C: MIKO
+D: Well, I heard back from them finally, and...I got it!
+C: BEN
+D: Really? That’s great, right?
+C: MIKO
+D: Yeah!
+C: BEN
+D: So what does that mean? Are you--
+C: MIKO
+D: Well, the thing is, it’s in New York.
+C: BEN
+D: Okay, you definitely never told me about this.
+C: MIKO
+D: I did. It’s a three month program, and I’ll get to-- Ben stops in his tracks.
+C: BEN
+D: Three months?! Are you kidding me?
+C: MIKO
+D: I know. But it’s an amazing opportunity. I’m really excited about it.
+C: BEN
+D: It just seems like an amazing opportunity because it’s in New York.
+C: MIKO
+D: Yeah! That’s part of the reason I wanted it!
+C: BEN
+D: God, I hate the way everyone in the Bay Area worships New York.
+C: MIKO
+D: Well, I don’t think--
+C: BEN
+D: Trust me: New York is over-rated. It’s so gentrified now.
+C: MIKO
+D: How many times have you even been there?
+C: BEN
+D: Counting layovers?
+C: MIKO
+D: No.
+C: BEN
+D: Okay, it doesn’t...Look: there’s no way I’m moving to New York for three months, okay?
+C: MIKO
+D: I wasn’t really asking you to. Miko walks off. INT. BAY AREA RESTAURANT - DAY30 30 Ben and Alice sit in their familiar spot, eating lunch.
+C: ALICE
+D: So what does that mean? Are you guys like, broken up?
+C: BEN
+D: We’re “taking some time off.” Those are her words.
+C: ALICE
+D: Wow. When does she leave?
+C: BEN
+D: End of the month. Now I’m supposed to be all “supportive,” but you know... I’m not.
+E: chuckling
+C: ALICE
+D: Maybe it’s like a test, and she wants you to talk her out of going.
+C: BEN
+D: Right, then I’m the one holding her back, extinguishing her dreams...
+C: ALICE
+D: Yeah, you’re fucked either way. Alice waits for Ben to laugh, but he stares off, deep in thought. ALICE Well, this has been fun! Alice gets up and takes the check over to the counter. Ben watches as she chats flirtatiously with Nina, the waitress who we recognize from the previous cafe/restaurant scene. MONTAGE31 31 A few quick shots of Berkeley/Oakland at various times of day: Telegraph Avenue, Lake Merritt, the Bay Bridge, etc. EXT. BEN AND MIKO’S APARTMENT - DAY32 32 Ben and Miko approach their car. Ben is dragging several large suitcases.
+E: cont’d
+C: MIKO
+D: You really didn’t have to drive me.
+C: BEN
+D: I wanted to. Ben unlocks the car.
+C: MIKO
+D: You’re probably excited to have a little peace and quiet.
+C: BEN
+D: Yeah, right. Ben shrugs as he loads the suitcases into the trunk.
+C: MIKO
+D: Well, I’m sure it’ll be good for you. They get in the car. Ben looks over at Miko, who clicks on her seatbelt.
+C: BEN
+D: Hey... I don’t think I ever said congratulations on the internship... I’m glad you’re happy about it but... I’m gonna miss you.
+C: MIKO
+D: It’s just a few months. You’re gonna love being a bachelor again. Ben nods, clicks on his seatbelt and starts the engine.
+C: BEN
+D: Maybe I’ll try to get back to writing.
+C: MIKO
+D: Yeah. EXT. FREEWAY - SOUTHBOUND 880 - DAY33 33 POV from inside a moving car: we pass under an illuminated SIGN indicating that we’re headed towards the OAKLAND
+C: INTERNATIONAL AIRPORT.
+D: INT. BEN AND MIKO’S CAR - DAY34 34 On a highway close to the airport, Ben drives, as Miko looks out the window.
+C: BEN
+D: ...And I’ll see about coming out for a weekend or something.
+C: MIKO
+D: That sounds great.
+C: BEN
+D: Fuck--that asshole just cut me off! You saw that, right?
+C: MIKO
+D: It’s fine, Ben--
+C: BEN
+D: It’s all these tech assholes taking over the Bay, with their piece of shit McMansions in Hayward, or wherever the fuck they live--FUCK
+C: YOU, ASSHOLE!
+D: He honks the horn several times.
+C: MIKO
+D: Relax, Ben--
+C: BEN
+D: And why are all these idiots in such a hurry to get away from their “artisinal brew pubs” and fucking apricot jams or-- HEY! YOU CUT ME
+C: OFF SHITHEAD!
+D: Ben keeps pounding on the horn, as Miko stares ahead, meditatively counting the minutes. OMIT35 35 OMIT36 36 INT. BEN AND MIKO’S APARTMENT / ALICE’S APARTMENT - NIGHT37 37 A dark apartment. The light clicks on. Ben enters and slumps on the couch, all alone. He reaches in his pocket, pulls out his phone and dials Alice.
+C: BEN
+D: Hey, it’s me. Yeah, I just got back. Alice paces around in her kitchen. We cut back and forth as they talk on the phone.
+E: pause
+C: ALICE
+D: So what’s the deal? Are you standing on a chair with a noose around your neck?
+C: BEN
+D: No, I...I’m fine.
+C: ALICE
+D: Okay, cool! Can I--
+C: BEN
+D: I mean, I’m not fine, but I’m--
+C: ALICE
+D: Listen, can I call you later? She turns a corner for more privacy. ALICE You won’t believe who’s here right now! In the background, we see Nina from the cafe/restaurant sitting on a futon, drinking a beer.
+E: cont’d whispering
+C: BEN
+D: Wow. Well, good luck. Yeah, I guess you don’t. INT. BEN AND MIKO’S APARTMENT - BEDROOM - MORNING38 38 Ben groggily awakens. He rolls onto his side and looks pensively at the empty space beside him in the bed. INT. BEN AND MIKO’S APARTMENT - KITCHEN - A FEW MINUTES LATER39 39 Ben sits down with a cup of coffee. He picks up his phone, thinks for a beat, and then begins tapping on the screen. CLOSE ON Ben’s phone as he composes a TEXT MESSAGE: “Hey Autumn, just wondering when that show of yours is happening!” He reconsiders, changing the EXCLAMATION MARK to a PERIOD. He sends the message. Almost immediately, we see the THREE PULSING DOTS of a response being typed. Autumn’s TEXT MESSAGE pops up: “sorry who’s this” Ben stares at the phone with a look of exasperation. INT. WAREHOUSE - NIGHT40 40 Autumn stands spotlit on a darkened stage, her make-up and clothing suggesting a mix of 90s grunge and Japanese anime. A battered electric guitar hangs from her neck. Behind her, we see the shadowy outlines of various other performers.
+E: pause shrug emoji
+C: AUTUMN
+D: This next piece is entitled “Asylum.” It’s about immigration. The stage suddenly explodes with light and NOISE. Accompanied by a full band, Autumn begins wailing on her guitar, creating a FEEDBACK-DRENCHED CACOPHONY. As the band performs their ATONAL, ARHYTHMIC MUSIC, a NAKED MAN appears and prances around the stage, striking theatrical poses, and dancing. We move through the enthusiastic audience, finally settling on Ben, whose face is contorted with pain and disbelief. INT. WAREHOUSE - LATER41 41 The house lights have come up, and Ben stands near the stage as Autumn packs up her various cords and pedals.
+E: into microphone dramatic pause
+C: AUTUMN
+D: Really? Oh my god! The whole time I was thinking, “He’s totally hating this!”
+C: BEN
+D: No no no! I was just...overwhelmed! It was like a combination of, of...experimental music, performance art--
+C: AUTUMN
+D: Well, we’re taking the physicality of modern dance and the improvisation of free jazz and infusing it with a punk sensibility. Ben struggles not to wince.
+C: BEN
+D: You know, I have to admit, I didn’t really know what to expect, but that was...amazing. She leaps off the stage, surprising Ben with a hug.
+C: AUTUMN
+D: That’s so cool! INT. BAY AREA RESTAURANT #2 - DAY42 42 Ben and Alice sit across from each other in a booth, eating and drinking. This is a new setting, different from where we’ve seen them having lunch before.
+C: BEN
+D: Something wrong with the usual place?
+C: ALICE
+D: I’m just kind of dodging that waitress.
+C: BEN
+D: Why? I thought you were--
+C: ALICE
+D: Enh. She started getting all attached.
+C: BEN
+D: You’ve got problems.
+C: ALICE
+D: What, just because I’m not a serial monogamist like you?
+C: BEN
+D: I’m not--that’s the old me, okay?
+C: ALICE
+D: Right.
+C: BEN
+D: You think I’m gonna sit around pining away for Miko while she’s off traipsing around New York?
+C: ALICE
+D: What does that mean? I thought you said you guys weren’t broken up.
+C: BEN
+D: I told you: we’re taking some time off. I don’t know what’s so confusing about--
+C: ALICE
+D: Okay, okay! Jeez...
+C: BEN
+D: I’m just saying...while the cat’s away, the mouse will play.
+C: ALICE
+D: Yeah, with himself, probably.
+C: BEN
+D: Ha ha.
+C: ALICE
+D: So is there a dating app for the miserable?
+C: BEN
+D: What if I told you I already went out with someone?
+C: ALICE
+D: Wait...what?
+C: BEN
+D: Yeah, Autumn. She’s--
+C: ALICE
+D: That girl from the theater? Ew, how old is she?
+C: BEN
+D: She’s like 23, 24. 25. Probably older than your waitress.
+C: ALICE
+D: Yeah, but it’s different.
+C: BEN
+D: How’s it different?
+C: ALICE
+D: Everything’s less creepy without the hetero power dynamics. Ben takes a beat to consider this. ALICE So how many times have you gone out with her?
+E: cont’d
+C: BEN
+D: Just once, really...but--
+C: ALICE
+D: You going out again?
+C: BEN
+D: Probably.
+C: ALICE
+D: You gonna make a move?
+C: BEN
+D: Why are you interrogating me--
+C: ALICE
+D: I just don’t want you to be banished to “neutered Asian friend” territory forever. I’ve seen you there, Ben, and it’s pathetic. Ben considers this for a moment, gravely. ALICE Next thing you know, she’s texting you little updates about some guy she likes...showing you pictures...asking your advice... Fuck that place. Right? Ben nods. ALICE Come on, Ben. Say it with me: ALICE
+E: cont’d cont’d cont'd
+C: FUCK THAT PLACE! BEN
+D: Fuck that place. Customers glance over in Alice’s direction. INT. BEN AND MIKO’S APARTMENT / NYC APARTMENT - NIGHT43 43 We cut back and forth as Ben and Miko talk on the phone. We see just enough of Miko’s surroundings to register them as more lavish than expected.
+E: self-consciously
+C: BEN
+D: They’re doing those inspections at the theater now, which is a total nightmare. We’ve had to cancel a few screenings because they interfered with their schedule.
+C: MIKO
+D: Jeez.
+C: BEN
+D: How’s the internship going? You haven’t told me much about it.
+C: MIKO
+D: Oh, I’ve learned not to bore you. But it’s incredible.
+C: BEN
+D: That’s great.
+C: MIKO
+D: I keep having these moments where I’ll stop and think, “Wow...I’m in New York City!”
+C: BEN
+D: Well, that is where you are...
+C: MIKO
+D: I know, Ben. You don’t have to get all sarcastic just because I’m enjoying myself.
+C: BEN
+D: I’m just kidding around! I wasn’t-- You started it with that “I’ve learned not to bore you” comment!
+C: MIKO
+D: “You started it”?
+C: BEN
+D: I’m just trying to act interested, okay? And you--
+C: MIKO
+D: Why can’t you ever just be genuinely interested?
+C: BEN
+D: You really want me to answer that?
+E: exasperated sigh
+C: MIKO
+D: You know what? Maybe we should just not talk for awhile.
+C: BEN
+D: What? Okay, well that’s up to-- The call abruptly ends with a BEEP. Ben looks at his phone in disbelief, then tosses it aside. EXT. CITY STREETS - OAKLAND - NIGHT44 44 Ben and Autumn exit a seedy bar and walk through the desolate neighborhood.
+C: BEN
+D: I probably didn’t need that last drink.
+C: AUTUMN
+D: You mean that second Amstel Light? Ben laughs at Autumn’s teasing. He stops in front of a wall covered in GRAFFITI.
+C: BEN
+D: God, look at that.
+C: AUTUMN
+D: I know. It really is like the last real folk art in America. Caught off guard, Ben nods in agreement. They move away, revealing the spray painted words on the wall: “SUCK MY DICK.” INT. AUTUMN’S APARTMENT - LIVING ROOM - NIGHT45 45 Ben and Autumn enter the dark, cramped apartment. The room is cluttered with pop culture ephemera: concert posters, records, magazines, collectibles, etc.
+C: AUTUMN
+D: Let me grab us something to drink, and we can go to my room. As he browses around, Ben notices a bunch of Japanese toys, manga, and kitschy Asian snack food packages.
+C: BEN
+D: Okay. Ben turns and sees a wall covered with hundreds of POLAROID PHOTOS, neatly arranged in a grid. BEN Wow. What’s all this?
+E: cont’d
+C: AUTUMN
+D: Oh! That’s one of my works-in- progress. I wake up every morning, go pee, and then I take a picture. In closer detail, we see that each Polaroid is a PHOTO OF A TOILET BOWL, and that there is a HAND-WRITTEN DATE scrawled beneath each image.
+E: e.g. “THURS 2/18”
+C: BEN
+D: Are you...You’re serious?
+C: AUTUMN
+D: Yeah, look: patterns start to emerge, like when I’m dehydrated, or when I get my period...
+C: BEN
+D: Yeah...
+C: AUTUMN
+D: It’ll be a huge installation someday. Right now the working title is “Epistemology.” It’s kind of a pun... Ben takes a beat to process this.
+C: BEN
+D: How about “Urine Sane”?
+C: AUTUMN
+D: Yeah, right. That wasn’t very nice.
+E: a beat
+C: BEN
+D: Sorry. I was just trying to...forget it. I think it’s really amazing. There’s so much subtext to it, and I think it’s a real commentary on--
+C: AUTUMN
+D: ...Consumption and waste!
+C: BEN
+D: Yeah.
+C: AUTUMN
+D: Let’s go in the kitchen. I think my roommate might be sleeping. INT. AUTUMN’S APARTMENT - KITCHEN - NIGHT46 46 Autumn rummages through the refrigerator. Ben stands nearby.
+C: AUTUMN
+D: Dang, I’m sure I had some soju here somewhere. She eventually finds a bottle.
+C: BEN
+D: Autumn. He steps closer, a serious look on his face.
+C: AUTUMN
+D: Yeah? They lock eyes. The tension is palpable. Finally, Ben leans in for a kiss. Autumn recoils, lurching backwards abruptly. AUTUMN Oh! Um...
+E: cont'd
+C: BEN
+D: I’m sorry. God, I...
+C: AUTUMN
+D: What about your girlfriend?
+C: BEN
+D: Oh, we’re taking some...I mean, basically, we split up. She...she moved to New York.
+C: AUTUMN
+D: Oh. I didn’t know that. They lock eyes again. AUTUMN But also...I’m just not really...into that kind of stuff. You know...germs. Ben nods. AUTUMN And...bac...teria. A horrible, awkward SILENCE descends.
+E: cont’d cont’d
+C: BEN
+D: Okay, yeah... AUTUMN I’m sorry, okay?
+E: cont'd
+C: BEN
+D: No, no. Really. I’m the one who should apolo-- JEFFERY, still naked, whom we recognize from Autumn’s stage performance, enters and opens the refrigerator.
+C: JEFFERY
+D: Hey, Autumn.
+C: AUTUMN
+D: Hi, Jeffrey. Ben, this is my roommate Jeffrey.
+C: JEFFERY
+D: Hey, man. Nice to meet you. Ben and Jeffrey shake hands. JEFFERY Ooh, soju!
+E: cont’d noticing the bottle in Autumn’s hand
+C: BEN
+D: ...Do you ever wear clothes? INT. BEN AND MIKO’S APARTMENT / EXT. COLLEGE CAMPUS - DAY47 47 We cut back and forth between Ben and Alice as they talk on the phone.
+E: wearing AirPods
+C: ALICE
+D: Ah, it’s for the best. I mean, how could you even get it up for someone who does that kind of cringey bullshit art?
+C: BEN
+D: You’d be amazed by what I can overlook.
+C: ALICE
+D: Well, it’s probably not a good look to be dating an employee anyway. Alice waves and mouths “Hi” to a young woman passing by.
+C: BEN
+D: Yeah, now you bring that up. You know, I look to you to...you’re a very unreliable moral compass.
+C: ALICE
+D: I never signed up for that job!
+C: BEN
+D: God, I’m an idiot.
+C: ALICE
+D: You’re out of practice. Come with me to this party on Saturday, and you can watch the master in action. INT. UNIVERSITY CINEMA - BOX OFFICE - NIGHT48 48 Ben approaches the booth, TAPPING on the door. Autumn, seated inside, spins around.
+C: AUTUMN
+D: Oh, hi. Autumn opens the door. Ben leans against the doorframe.
+C: BEN
+D: Hey, how was the crowd for the 7:30?
+C: AUTUMN
+D: Not bad. Maybe like, eight or nine tickets.
+C: BEN
+D: Listen, I just wanted to say...I’m really sorry about...the other night--
+C: AUTUMN
+D: It’s totally cool.
+C: BEN
+D: No, I think I misread things, and--
+C: AUTUMN
+D: No, you didn’t. It just..in the moment? It didn’t feel right. In the background, we see Gene sweeping the floor.
+C: BEN
+D: Yeah, that makes sense. I just--
+C: AUTUMN
+D: Sometimes I think the body knows better than the mind. You know, when it comes to sexual attraction. Gene looks up from sweeping, very intrigued.
+C: BEN
+D: Oh. Okay.
+C: AUTUMN
+D: And then sometimes the mind is like, “Well, maybe,” but then the body is like, “Nope.” Gene continues to sweep, a smirk on his face.
+E: slowly shakes her head
+C: BEN
+D: Right.
+C: AUTUMN
+D: I wasn’t always able to do this, but I’m really trying to be more mindful of this stuff.
+C: BEN
+D: No, that’s really great. INT. BEN AND MIKO'S APARTMENT - LIVING ROOM - NIGHT49 49 Ben is sprawled out on the couch, watching a movie. From the TV, we hear a FLATULENT SOUND EFFECT. Ben chuckles. He picks up his phone and taps the screen. CLOSE ON Ben’s phone as he composes a TEXT MESSAGE to Miko: “Watching OHAYO again.” He stares at the phone. No reply. CLOSE ON Ben’s phone again as he types: “How’s it going?” He stares at the phone for a beat, then tosses the phone back onto the coffee table. EXT. PARTY HOUSE - OAKLAND - NIGHT50 50 Alice and Ben get out of his car and walk towards a large, decrepit house.
+C: BEN
+D: Well, wish me luck.
+C: ALICE
+D: Yeah. About that...
+C: BEN
+D: What? Is this a...you brought me to a gay thing?
+C: ALICE
+D: That’s a pretty narrow, exclusionary term, Ben.
+C: BEN
+D: Shit...sorry. I meant--
+C: ALICE
+D: But basically, yeah.
+C: BEN
+D: Unbelievable.
+C: ALICE
+D: Can’t you ever just be like, a person? And enjoy a nice social experience without obsessing about hooking up or--
+C: BEN
+D: Oh my god, look who’s talking!
+C: ALICE
+D: Just because I’m a hypocrite doesn’t make me wrong! Ben laughs. EXT. PARTY HOUSE - FRONT PORCH - OAKLAND - NIGHT51 51 Ben stands behind Alice as she RINGS the doorbell. The door is opened by MAX LOUD MUSIC emanates from within the house.
+E: early 30s.
+C: MAX
+D: All right! Alice Lee has arrived!
+C: ALICE
+D: Hey! Alice and Max embrace.
+C: BEN
+D: Uh...hi.
+C: ALICE
+D: Max, this is my friend Ben.
+C: MAX
+D: Oh yeah! I heard all about you, dude!
+C: BEN
+D: Really?
+C: MAX
+D: Yeah, there’s definitely gonna be some white chicks here tonight! Max and Alice erupt into laughter. Ben smiles uncomfortably. INT. PARTY HOUSE - LIVING ROOM - CONTINUOUS52 52 Ben and Alice follow Max into the dark, crowded house. The diegetic MUSIC and general CHATTER are almost deafening.
+C: BEN
+D: This is just great. Thank you.
+E: to Alice
+C: ALICE
+D: Relax.
+C: MAX
+D: Look who’s here! The room responds with great excitement, as if a celebrity has arrived. Alice charges ahead, disappearing into the ethnically-diverse crowd. Ben, apparently the only cisgender male in the room, suddenly finds himself surrounded by strangers, all of whom appear to be younger, more stylish, and very tight-knit. He moves through the crowd, smiling and nodding awkwardly as he makes occasional, fleeting eye contact. INT. PARTY HOUSE - KITCHEN - NIGHT53 53 Ben wanders into the brighter, quieter room. A small group of people stand around, talking and drinking. Among the group, closest to where Ben stands, is ESTHER .
+E: addressing the party early 20s
+C: ESTHER
+D: Hello.
+C: BEN
+D: Hi. I was just looking for, uh...
+C: ESTHER
+D: The kitchen? Ben smirks, as if to say “Yeah, right.”
+C: BEN
+D: A beer. There they are! He pulls a bottle out of an ice chest on the floor. BEN Uh, my name’s Ben.
+E: cont’d
+C: ESTHER
+D: Okay.
+C: BEN
+D: I’m a friend of Alice’s...?
+C: ESTHER
+D: Uh-huh?
+C: BEN
+D: Do you know...is there a bottle opener...?
+C: ESTHER
+D: What for? It’s twist-off.
+C: BEN
+D: Oh, it is? He smiles as he struggles to remove the bottle cap. He doubles over, straining with all his might. BEN Unngggh! The room bursts into barely-stifled LAUGHTER. Esther hands Ben a bottle opener.
+E: cont’d
+C: ESTHER
+D: Sorry. I’m just fucking with you. Ben smiles, opens his beer and leaves. EXT. PARTY HOUSE - FRONT PORCH - NIGHT54 54 Ben sits alone on the front steps, drinking his beer. An effortlessly beautiful blonde woman exits the house and lights a cigarette. This is SASHA .
+E: late 20s, white
+C: SASHA
+D: You must be Alice’s friend. He turns to look as she sits next to him.
+C: BEN
+D: Tch...supposedly.
+C: SASHA
+D: I overheard some talk of an interloper.
+C: BEN
+D: That would probably be me.
+C: SASHA
+D: My name’s Sasha.
+C: BEN
+D: Oh, hi. Ben. She sits down nearby, but on a different step.
+C: SASHA
+D: I bet you we have something in common.
+C: BEN
+D: Yeah? What’s that?
+C: SASHA
+D: We’re probably the only two people at this party that Alice Lee hasn’t seduced. Ben, caught off guard, lets out a little SNORT.
+C: BEN
+D: Really? You’ve managed to--
+C: SASHA
+D: Oh, I dodged that bullet. No offense.
+C: BEN
+D: No, that’s...apparently that’s quite an accomplishment around here.
+C: SASHA
+D: Yeah.
+C: BEN
+D: Are you, uh...do you go to school with...?
+C: SASHA
+D: Yeah...Comp. Lit., with a focus on Latin American Marxism.
+C: BEN
+D: Oh! That’s actually my favorite... kind of Marxism, so--
+C: SASHA
+D: Seriously?
+C: BEN
+D: No. I have no idea. I’m probably the least informed person here...
+C: SASHA
+D: Hm, I doubt that. She stubs out her cigarette on the steps. SASHA So, what are you...Alice’s designated driver?
+E: cont’d
+C: BEN
+D: Maybe. I’m not even sure what I’m doing here, to be honest. Suddenly, Alice storms out of the house, onto the porch.
+C: ALICE
+D: There you are! She grabs Ben by the arm, pulling him to his feet. ALICE Let’s go. Hi Sasha.
+E: cont’d to Ben to Sasha
+C: SASHA
+D: Hi Alice.
+C: BEN
+D: I guess we’re leaving, but...I work at the University Cinema. Come see a movie for free sometime!
+C: SASHA
+D: Okay. Ben continues talking over his shoulder as Alice pulls him further down the sidewalk.
+C: BEN
+D: And popcorn, too! Free popcorn! INT. BEN’S AND MIKO’S CAR - OAKLAND/BERKELEY - NIGHT55 55 Ben and Alice enter the car.
+C: BEN
+D: Why’d we have to leave all of a sudden? I was just about to--
+C: ALICE
+D: No, you weren’t.
+C: BEN
+D: But--
+C: ALICE
+D: Trust me. You do not want to get involved with Sasha. She’s a fence- sitter, okay?
+C: BEN
+D: Weren’t you the one who was just giving me shit about “narrow, exclusionary terms” or whatever?
+C: ALICE
+D: I’m allowed. And I’m telling you, she’s total bad news... They click on their seatbelts, and Ben starts the engine. Alice bursts out laughing. ALICE “Free popcorn.”
+E: cont’d
+C: BEN
+D: Shut up. They drive off. OMIT56 56 OMIT57 57 I/E. UNIVERSITY CINEMA - BOX OFFICE - DAY58 58 Autumn sits at the ticket window as Ben, standing nearby, counts out dollar bills for the register.
+C: BEN
+D: ...fifteen...sixteen...
+C: AUTUMN
+D: So, we’ve got another show coming up pretty soon.
+C: BEN
+D: ...eighteen...nineteen...twenty. Oh yeah? That’s great.
+C: AUTUMN
+D: I know you really liked our last show, and this is kind of like...similar, but more intense.
+C: BEN
+D: Wow. What night is it? Because I might have to--
+C: AUTUMN
+D: It’s actually a month-long residency, so...
+C: BEN
+D: Oh, perfect! Well, let me-- Ben is rescued by a TAPPING on the box office window. It’s Sasha, looking more radiant than ever.
+C: SASHA
+D: Hi. Remember me? Ben haphazardly shoves the dollar bills into the register.
+C: BEN
+D: Of course! Hi!
+C: SASHA
+D: I was just passing by.
+C: BEN
+D: Wanna see a movie? She surveys the marquee, grimacing at the options.
+C: SASHA
+D: Mmm. Maybe another time.
+C: BEN
+D: Hang on a second. He exits the booth. Through the glass, Autumn watches Ben and Sasha’s inaudible conversation. Eventually, Ben and Sasha walk away together, talking animatedly. INT. MEXICAN RESTAURANT - DAY59 59 Ben and Sasha sit across from each other in the crowded, brightly-decorated restaurant.
+C: SASHA
+D: Mm, that’s good.
+E: taking a bite
+C: BEN
+D: Have you never been here before?
+C: SASHA
+D: I was in a relationship, and...she became a vegetarian, then a vegan, then a raw-food vegan...
+C: BEN
+D: And now what does she eat? Dirt?
+C: SASHA
+D: Needless to say, places like this were off limits. It still feels a little transgressive, actually.
+E: laughing
+C: BEN
+D: Yeah, my ex basically liked two kinds of food: Japanese from a restaurant or Japanese cooked at home.
+C: SASHA
+D: Sounds better than vegan cashew cheese.
+C: BEN
+D: Yeah. So how long ago did you and...?
+C: SASHA
+D: Pilar? Uh...
+C: BEN
+D: Am I prying here? I don’t want to be intrusive.
+C: SASHA
+D: No, it’s fine. We’ve been broken up a couple months. I should probably say it’s been longer, right? So it doesn’t seem like I’m just jumping from one thing to another?
+E: a beat
+C: BEN
+D: Good thought, but then if you make it too long, you start to run the risk of looking kind of--
+C: SASHA
+D: I know. Like, “Hi! I haven’t had a date in three years! Wanna meet my cats?”
+C: BEN
+D: Wait, do you actually have cats?
+C: SASHA
+D: Maybe! Ben laughs, very much charmed. SASHA So what about you? How long have you been...?
+E: covering her face cont’d
+C: BEN
+D: Oh, about ten years. Sasha freezes, mid-bite, then starts to laugh. BEN I’m kidding. Same as you: couple, uh...couple months.
+E: cont’d
+C: SASHA
+D: Do you have to get back to work, or...?
+C: BEN
+D: Yeah, unfortunately.
+C: SASHA
+D: Okay. Well--
+C: BEN
+D: But tomorrow! Tomorrow’s my day off! SASHA Oh! Ben closes his eyes and winces, sure that he’s blown it.
+E: cont'd startled
+C: BEN
+D: I’m...I’m a little out of practice with this. Sasha smiles, charmed.
+C: SASHA
+D: ...Me too.
+C: BEN
+D: But if I haven’t made it clear, I am free tomorrow. Sasha laughs. INT. BOOKSTORE - NEXT DAY60 60 From a distance, we see Ben and Sasha wander through the aisles, browsing as they chat. As we move closer, we hear:
+C: SASHA
+D: But before that, there’s a peer review, and I’m not sure I trust them to--sorry. I’m sure it’s fascinating to hear me go on and on about grad school politics. Ben pretends to nod off.
+C: BEN
+D: Huh? What?
+C: SASHA
+D: God, I always do this! It’s like, I’m living in this bubble, and--
+C: BEN
+D: No, it’s good. It kind of reminds me why I dropped out.
+C: SASHA
+D: What did you say you were studying?
+C: BEN
+D: Film. I got through two years, and then I had this epiphany, and I was like, “Academia is the enemy of art! I need to stop studying and start creating!”
+C: SASHA
+D: And...?
+C: BEN
+D: I should’ve kept studying. Sasha laughs. BEN I wrote a script, and then I did the whole “maxing out my credit cards” thing...rented a bunch of equipment, roped a bunch of friends into helping me...
+E: cont’d
+C: SASHA
+D: And what? It didn’t...?
+C: BEN
+D: It was a fucking disaster. I wanted--I was trying to be the next Eric Rohmer or something...
+E: laughs
+C: SASHA
+D: Yeah?
+C: BEN
+D: ...and eventually I had to accept that I was just...the current Ben Tagawa. Ben looks down, contemplating. She touches his shoulder.
+C: SASHA
+D: Oh god, that’s so sad.
+C: BEN
+D: Thanks for that! That’s really--
+C: SASHA
+D: No, I just mean-- INT. BEN AND MIKO’S APARTMENT - LIVING ROOM - NIGHT61 61 Ben and Sasha sit on the living room sofa. Half-empty cartons of CHINESE TAKE-OUT clutter the coffee table. Sasha pours two glasses of red wine. She hands one to Ben.
+E: laughing
+C: SASHA
+D: There you go. Ben takes a big gulp just as he notices that Sasha is delicately aerating the wine in her glass. He quickly follows suit and begins jiggling his glass awkwardly. SASHA Relax. She touches his hand. A look of surprise crosses her face. She sets down her glass, and strokes Ben’s hand. SASHA Oh my god.
+E: cont’d cont’d
+C: BEN
+D: Now what?
+C: SASHA
+D: You have the softest skin I’ve ever felt!
+C: BEN
+D: It’s a...lifetime of work avoidance... Sasha, still holding Ben’s hand, is now staring straight into his eyes. She smiles patiently. The SILENCE is unbearable. BEN Do you think we should, uh...I mean, can I...give you a kiss? Sasha lets go of his hand and winces. Ben looks like he wants to jump out the window. BEN Jesus, I’m sorry. I--
+E: cont’d cont’d
+C: SASHA
+D: No no no. Consent granted.
+E: clears throat, opens eyes
+C: BEN
+D: Really?
+C: SASHA
+D: It’s appreciated. Yes. Nice job. He finally leans in and they share a long kiss. SASHA But don’t do it next time.
+E: cont’d
+C: BEN
+D: Okay. They kiss again, with escalating intensity. Sasha moves her mouth towards Ben’s ear, seductively.
+C: SASHA
+D: The smell of that moo shu pork is killing me. They both laugh. INT. BEN AND MIKO’S APARTMENT - BEDROOM - NIGHT62 62 Ben and Sasha enter the pitch-black room. Ben stumbles around in the dark, bumping into something.
+E: whispering
+C: BEN
+D: Ow, fuck!
+C: SASHA
+D: Are you okay?
+E: laughing
+C: BEN
+D: Yeah. Let me just... He turns on a small bedside lamp.
+C: SASHA
+D: I like that lamp.
+C: BEN
+D: Oh. Thanks. In the dimly-lit room, they start kissing, as Sasha begins to matter-of-factly remove her shirt.
+C: SASHA
+D: Are you okay? I think you’re actually shaking.
+C: BEN
+D: I didn’t tell you about my, uh, Parkinson’s? It’s just a mild case... She chuckles politely, with a hint of impatience. BEN Sorry, it’s just...this is the first time I’ve ever been with...
+E: cont’d
+C: SASHA
+D: With...?
+C: BEN
+D: I mean...never mind. I just meant, it’s been awhile since--
+C: SASHA
+D: Shhhh. I know what you were gonna say. This’ll be a first for me, too.
+C: BEN
+D: Wait...what? I thought-- Bed takes off his shirt, as they kiss, landing into the bed. Sasha’s blonde hair spills across the flower-patterned pillowcase. OMIT63 63 INT. UNIVERSITY CINEMA - PROJECTOR ROOM / ALICE’S APARTMENT - 64 64
+C: DAY
+D: We cut back and forth as Ben and Alice talk on the phone.
+C: BEN
+D: So... it happened.
+C: ALICE
+D: What happened.
+C: BEN
+D: C’mon. You know.
+C: ALICE
+D: Ben, what-- Ew! Are you serious?
+C: BEN
+D: Oh my god. You’re actually jealous of me for once!
+C: ALICE
+D: Oh, please. Do you really think I give a shit about some trendy dabbler?
+C: BEN
+D: Jesus! Can I just bask in my glory for one fucking minute?
+C: ALICE
+D: Sorry. I’m in a shitty mood.
+C: BEN
+D: Yeah, I was gonna regale you with details, too--
+C: ALICE
+D: I got kicked out of school.
+C: BEN
+D: What? What do you mean?
+C: ALICE
+D: Just...can you come over after work? INT. ALICE’S APARTMENT - DAY65 65 Ben and Alice sit closely on a futon, drinking beer.
+C: ALICE
+D: Remember when I took you to that stupid party?
+C: BEN
+D: The fateful night. It all began there.
+C: ALICE
+D: Well, I got into an argument with this super annoying bitch there, and--
+C: BEN
+D: About what?
+C: ALICE
+D: Oh, I guess she’s roommates with Nina, and--
+C: BEN
+D: Who?
+C: ALICE
+D: The waitress.
+C: BEN
+D: Oh yeah. The one you ghosted because she was allowing the relationship to progress in a mature way, and--
+C: ALICE
+D: Point is...her roommate got up in my face and started giving me shit about stuff that’s none of her fucking business, and I was like, “Fuck no.” Anyway, I saw her on campus--
+C: BEN
+D: The waitress?
+C: ALICE
+D: The roommate! I saw her the other day, and it kind of...escalated.
+C: BEN
+D: What does that mean?
+C: ALICE
+D: She started talking shit again, so I kicked her in the pussy.
+C: BEN
+D: Jesus! What the fuck!
+E: nearly spitting out his beer
+C: ALICE
+D: I warned her! All she had to do was back off.
+C: BEN
+D: Okay, but was she...Did she go to the hospital, or--
+C: ALICE
+D: No! She wasn’t even--it was more like, I was sitting there, and she was coming at me, and I pushed her back with my foot. In the pussy. Ben raises his eyebrows and takes a drink. ALICE Anyway, she filed a report with campus police, so now I’m temporarily banned.
+E: cont’d
+C: BEN
+D: So you’re not really expelled.
+C: ALICE
+D: No, but I...there’s obviously something wrong with me, right?
+C: BEN
+D: I mean...
+C: ALICE
+D: I’m gonna go to New York for awhile, just to get my head together. I’ve got some friends I can stay with.
+C: BEN
+D: Unbelievable. Does everyone in Berkeley have a hard-on for New York? Why doesn’t the entire Bay Area just pack up and move to New York and get it over with?
+C: ALICE
+D: That’s your response to everything I just said?
+C: BEN
+D: Sorry.
+C: ALICE
+D: Why don’t you come with me? It’ll be good for us.
+C: BEN
+D: Tch...you’re not really going. I can tell you’re just drunk.
+C: ALICE
+D: I already booked my flight. I leave on Tuesday. EXT. FLEA MARKET - BERKELEY - DAY66 66 Ben and Sasha stroll hand-in-hand, as Sasha sips a large boba tea.
+C: SASHA
+D: Well, that sucks. I know you guys are close.
+C: BEN
+D: Yeah...
+C: SASHA
+D: But it’s not like she’s--
+C: BEN
+D: I just think she’s making a mistake, you know? She runs away from shit. That’s her thing. An Asian American COUPLE browses the tables at another aisle. The MAN stop and looks towards Ben and Sasha, briefly making eye contact with Ben, before the WOMAN calls him over. BEN Did you see that guy? The way he looked at us?
+E: cont’d
+C: SASHA
+D: Who? What’re you talking about?
+C: BEN
+D: That guy that over there. He was like, openly judging me.
+C: SASHA
+D: “Judging” you? For what?
+C: BEN
+D: You know... Ben makes a hand gesture to imply “the two of us, together.”
+C: SASHA
+D: Oh, come on. This isn’t 1949...
+C: BEN
+D: Okay, well, either that or he had white-girl envy. Maybe it was more like a... Ben raises his eyebrows and makes a “thumbs up” gesture.
+C: SASHA
+D: Ew. They walk in silence again. She lights a cigarette.
+C: BEN
+D: I’m just kidding around. Who the hell knows what--
+C: SASHA
+D: Is that what I am?
+C: BEN
+D: What?
+C: SASHA
+D: A white girl? Ben puts his arm around Sasha’s shoulder, smiling.
+C: BEN
+D: Well, not just that. Sasha looks away. BEN I’m sorry! Come on...I was just...
+E: cont’d
+C: SASHA
+D: What? He takes her hand. They stop walking.
+C: BEN
+D: You’re just so incredibly beautiful, I assume every guy we pass hates my fucking guts. She can’t help but laugh. INT. BEN AND MIKO’S APARTMENT - LIVING ROOM - NIGHT67 67 Ben lies on the couch, looking at his phone. We see that he’s looking at MIKO’S INSTAGRAM, specifically a series of artfully-composed shots of either fancy restaurant food or New York landmarks . He scrolls further, eventually arriving at pictures from a few years prior: a selfie of Ben and Miko in front of the Grand Lake Theater, Ben at the beach , Ben and Miko in their current apartment . Ben looks up from his phone wistfully. He taps on Miko’s contact and brings the phone up to his ear.
+E: no people looking annoyed bare-walled and empty except for stacks of moving boxes
+C: MIKO’S VOICEMAIL
+D: Moshi-moshi! This is Miko. Leave me a message. Ben hangs up, an irritated look on his face. INT. BEN AND MIKO’S APARTMENT - KITCHEN - DAY68 68 At the sink, Ben washes a single bowl and spoon by hand. There’s a KNOCK at the door. INT. BEN AND MIKO’S APARTMENT - LIVING ROOM - CONTINUOUS69 69 Ben approaches the front door and look through the peephole, his mood suddenly brightened. He unlocks and opens the door, excitedly, to reveal Sasha.
+E: V.O.
+C: BEN
+D: Hey! I thought you were at school today.
+C: SASHA
+D: I had an impulsive urge to see you. She steps inside, giving Ben a peck on the cheek. SASHA Also, my class was cancelled.
+E: cont’d
+C: BEN
+D: Lucky me. He abruptly kisses her on the mouth, pushing her back against the wall. As they continue to kiss, Ben takes Sasha’s purse from her shoulder and dramatically tosses it aside. The contents of the bag clatter everywhere, and a puzzled/irritated look crosses Sasha’s face. BEN Shit! Sorry... Ben squats down and begins collecting the spilled items and placing them back in the purse.
+E: cont’d phone, keys, etc.
+C: SASHA
+D: I was actually thinking maybe we could get lunch.
+C: BEN
+D: Oh. Yeah. Sorry. INT. UNIVERSITY CINEMA - MAIN THEATER - NIGHT70 70 Ben stands facing the handful of EMPLOYEES who are scattered among the first few rows of seats. Amongst them, DANNY, the creepy projectionist stares off into the middle distance, casually eating a hot dog.
+C: BEN
+D: So, uh, I’m afraid I have some disappointing news. Apparently the inspectors have deemed the building “structurally unsound,” and it looks like we have to shut down for some pretty significant retrofitting. Unfortunately, it doesn’t look like the head office wants to pay for it at this point. Ticket sales haven’t really been what they used to be, as you’ve probably noticed... we’re still sorting things, but... I’m really sorry, guys. I know this place means a lot to all of us. A few employees look at each other and shrug, as if to say, “Not really.” BEN So when we figure out when our last night is gonna be, we can talk about having a party or something. Maybe a special after-hours screening...? Gene raises his hand. Ben’s face tenses with irritation. BEN Yes, Gene.
+E: MORE emotional cont’d cont’d
+C: GENE
+D: Greetings, everyone. I just wanted to inform you that I have accepted a position as assistant manager at the E-Flix Multiplex, and, more to the point, we are currently hiring. The employees break into excited CHATTER at the news. GENE Danny, we’re even looking for another projectionist.
+E: standing up cont’d
+C: DANIEL
+D: I’m in.
+E: still eating
+C: BEN
+D: Okay, well-- BEN
+E: cont'd
+C: GENE
+D: If anyone else is interested, or if you have any further queries, I will be out in the lobby, imminently.
+C: BEN
+D: Okay, well. Thanks, everyone. The employees rise from their seats and start filing out. Ben watches as Autumn exits, deep in conversation with Lamont.
+C: AUTUMN
+D: So I saw Girlhood last night.
+C: LAMONT
+D: And?
+C: AUTUMN
+D: You were right-- I loved it! Oh my god, that ‘Diamonds’ scene will stick with me forever!
+C: LAMONT
+D: Sublime, right?! Once everyone leaves, Ben remains in the theater. He sits in a seat and looks around, taking it all in for one last time. EXT. MARINA PARK - BERKELEY - DAY71 71 Ben and Sasha sit on a grassy hill overlooking the bay. Sasha smokes a cigarette. Nearby, several families fly kites.
+C: SASHA
+D: So... I need to talk to you.
+C: BEN
+D: Whenever someone says that, it always means “I’m about to really bum you out.”
+C: SASHA
+D: Well...maybe. I don’t know. It’s about Pilar.
+C: BEN
+D: What about her?
+C: SASHA
+D: Well, she’s been in Ecuador doing research, and I didn’t really know where we stood when she left.
+C: BEN
+D: And...now she’s back?
+C: SASHA
+D: Yeah. Ben chuckles with disbelief. SASHA What?
+E: cont’d
+C: BEN
+D: It just seems kind of deceptive. I mean, you made it pretty clear that you two had broken up. It would’ve been nice to know that I was the back-up plan.
+C: SASHA
+D: It’s a problem of mine. I’m not good at being alone.
+C: BEN
+D: Oh, really? That’s strange, because I love being alone! And the only thing I love more is getting strung along by some--
+C: SASHA
+D: Come on, Ben. It’s been a few weeks. It’s not like you wasted your whole life on me.
+C: BEN
+D: Well, that’s great. Have fun back on the other side of the fence. Sasha abruptly stands up.
+C: SASHA
+D: Okay. I should go. He fans her cigarette smoke away from his face.
+C: BEN
+D: Maybe quit smoking, too. Jesus... She walks a few steps, then stops. She turns around and comes back to where Ben is sitting. He looks up, hopefully.
+C: SASHA
+D: Listen, Ben. I know you’re gonna blame this on society, or on my sexuality, or on your race, or whatever...but I want you to know that it’s really just about you. Sasha turns and walks away again, leaving Ben alone. EXT. UNIVERSITY THEATER - DAY72 72 Ben locks up the darkened theater and walks away. The marquee is blank and unlit. The whole place looks suddenly shabby. INT. BEN AND MIKO’S APARTMENT - KITCHEN - NIGHT73 73 Ben, in his pajamas, sits at the kitchen table, hunched over his laptop. Various notebooks, pens, multi-colored notecards, and screenwriting books clutter the table’s surface. Ben stares into the screen pensively, but doesn’t type. INT. BAY AREA RESTAURANT - DAY74 74 Ben sits alone at the table he usually shares with Alice. He struggles to hold a book open with one hand while eating a sandwich with the other. INT. BEN AND MIKO’S APARTMENT - LIVING ROOM - NIGHT75 75 Ben paces back and forth, holding the phone to his ear. We hear several RINGS, and then...
+C: MIKO’S VOICEMAIL
+D: Moshi-moshi! This is Miko. Leave me a message.
+E: V.O.
+C: BEN
+D: Hi, it’s me again. I don’t know if there’s a problem with your voicemail or something, but if you get this, can you just give me a call? You know, maybe...let me know you’re okay? I mean, I know you’re okay because you keep posting pictures of all the fucking delightful food you’re eating. But if you could just do me the courtesy of calling back, that would be great. He pauses, trying to recalibrate. BEN Uh, anyway, I know you’re probably really busy, so just...give me a call when you get a chance. Love you! He ends the call, wincing with regret. BEN Fuck! He tosses the phone across the room. It tumbles across the rug, and then immediately RINGS. Ben lunges onto the floor, fumbling excitedly with the phone. He glances at the screen and sees that it’s Alice calling. BEN Oh, hey. INT. BEN AND MIKO’S APARTMENT / EXT. CITY STREETS - 76 76 MANHATTAN - NIGHT Continuing their phone conversation, we cut between Ben and Alice. He’s still sprawled on the floor, she’s strolling along a bustling street wearing AirPods.
+E: cont’d cont’d cont’d into phone, disappointed
+C: ALICE
+D: Nice to hear from you too, asshole!
+C: BEN
+D: Sorry. What’s up.
+C: ALICE
+D: I had like, three minutes with absolutely nothing better to do, so I thought I’d give you a call.
+C: BEN
+D: Well...here I am.
+C: ALICE
+D: Oh my god, you sound like one of those hostage videos! “I...am...being...treated well...”
+E: flat
+C: BEN
+D: Listen, uh...if I...if I came out there, could I maybe...stay with you for a little while? Ben waits for a response. Alice looks taken aback.
+C: ALICE
+D: Holy shit. Is this your rock bottom?
+E: laughing
+C: BEN
+D: No. High school was my rock bottom.
+C: ALICE
+D: Oh, right. And you’ve gone nowhere but up! INT. AIRPLANE - DAY77 77 Ben looks up from a magazine, staring ahead pensively. EXT. SUBWAY ENTRANCE - BROOKLYN - DAY78 78 Dragging a small suitcase on wheels, Ben emerges from a subway entrance. He spots Alice, waiting nearby, looking at her phone. She glances up, and Ben’s face instantly brightens. They stride towards each other and hug. EXT. MEREDITH’S BUILDING - BROOKLYN - A FEW MINUTES LATER79 79 Ben and Alice walk through a commercial district, into a leafy residential area.
+E: still laughing pulling suitcase
+C: ALICE
+D: You’re here! In New York! What the fuck!
+C: BEN
+D: All right... Alice reaches into her tote bag and hands Ben A SET OF KEYS.
+C: ALICE
+D: Wait, before I forget: front door, apartment door. Ben takes the keys, nodding. ALICE Meredith wants you to feel free to come and go at your leisure.
+E: cont’d
+C: BEN
+D: Who?
+C: ALICE
+D: Meredith! Meredith Ames! I told you about her. It’s her apartment.
+C: BEN
+D: I thought you came out here to “clear your head.”
+C: ALICE
+D: I did. And then I went to a party and I met Meredith and I went home with her and I’ve been there ever since!
+C: BEN
+D: Unbelievable. They stop at an intersection, waiting for the light to change.
+C: ALICE
+D: So when are you gonna call her?
+C: BEN
+D: Who?
+C: ALICE
+D: “Who.” INT. MEREDITH’S APARTMENT - LIVING ROOM - DAY80 80 Alice and Ben enter the tiny but impeccably-furnished apartment.
+E: chuckling pulling his suitcase
+C: ALICE
+D: We’re home!
+C: MEREDITH
+D: Oh, hey! Meredith gets up from her cluttered writing desk, smiling warmly. MEREDITH This must be the infamous Ben Tagawa!
+E: O.S. mid 30s, half Asian/half white, stylishly bookish cont’d
+C: BEN
+D: Hi! Great to meet you. Ben extends his hand. Meredith gives him a hug.
+C: MEREDITH
+D: Please...I feel like I already know you. She talks about you incessantly!
+C: BEN
+D: Oh, god...
+C: MEREDITH
+D: She does!
+C: ALICE
+D: Sorry...
+E: to Ben
+C: MEREDITH
+D: I mean, to be honest, I probably know a lot more about you than I should!
+C: BEN
+D: Well...
+C: MEREDITH
+D: She told me that you’re--
+C: BEN
+D: I’m actually attracted to women of all races. SILENCE, then Alice bursts into laughter.
+E: abruptly
+C: MEREDITH
+D: Well, that’s...good to know.
+C: BEN
+D: Sorry, I thought that was...
+C: ALICE
+D: Isn’t this like the perfect New York lesbian apartment?
+C: BEN
+D: Yeah, it’s...it’s a great place.
+C: MEREDITH
+D: I’m sorry I don’t have a room for you, Ben, but the couch is pretty comfortable, and--
+C: BEN
+D: No, that’s fine. And listen...I could easily stay at a hotel. I don’t want to impose...
+C: MEREDITH
+D: No, the more the merrier! It’ll be like a slumber party.
+C: ALICE
+D: Well, don’t say that. He’ll think he’s gonna get some hot three-way action or something! Meredith laughs.
+C: BEN
+D: No! I...she’s...you know. The couch is great. EXT. MEREDITH’S BUILDING - ROOFTOP - NIGHT81 81 With a breathtaking view of the city behind them, Ben, Alice, and Meredith sit around a small outdoor table. MUSIC hums from a small bluetooth speaker. There’s an elegant spread of wine and cheese before them.
+C: MEREDITH
+D: So that’s a goat gouda and that’s a délice de bourgogne. Meredith pours a glass of wine for everyone.
+C: ALICE
+D: Our gracious hostess! They clink glasses.
+C: BEN
+D: Yeah, thanks. It’s nice to be here.
+C: MEREDITH
+D: So, Ben. Alice tells me you’re involved in the theater?
+C: BEN
+D: Is that what she...? I manage a crappy movie theater. Or, at least I used to...
+E: laughs
+C: MEREDITH
+D: Right! No, I knew that. I mean, not that it’s crappy, but--
+C: ALICE
+D: Meredith’s working on a novel.
+C: MEREDITH
+D: I mean, that’s what I say to avoid the very real possibility that I might just be a teacher.
+C: ALICE
+D: Well, a professor at Barnard.
+C: BEN
+D: Wow, you’re really trading up! I’m impressed!
+E: to Alice
+C: ALICE
+D: Yeah.
+C: MEREDITH
+D: So what do you guys have planned for tomorrow? I’ve gotta work, unfortunately, but--
+C: ALICE
+D: Well, Ben’s basically here to stalk his ex-girlfriend, so--
+C: BEN
+D: She’s not my “ex”-girlfriend! We’re just...taking some time off.
+C: ALICE
+D: If you were in a dysfunctional long- term relationship and--
+E: to Meredith
+C: BEN
+D: Don’t call it that!
+C: ALICE
+D: ...and your partner said she was “taking some time off” and then moved across the country--
+C: BEN
+D: For an internship!
+C: ALICE
+D: ...Wouldn’t you assume...I mean, that’s a break-up, right?
+C: MEREDITH
+D: How were things when she left?
+E: to Ben
+C: ALICE
+D: Terrible!
+C: BEN
+D: Not terrible. I mean, we were kind of drifting apart a little bit. And we were definitely fighting a lot. But, you know, otherwise... Alice and Meredith laugh.
+E: cheerfully
+C: MEREDITH
+D: I actually think the drifting is worse than the fighting. I mean, Alice and I have had our share of fights already, but I think they’ve been really productive.
+C: BEN
+D: Oh, now you’re having “productive” fights? Alice smiles proudly and leans her head on Meredith’s shoulder.
+E: to Alice
+C: ALICE
+D: It’s called “maturity.” Maybe I can give you some pointers when you’re ready. Meredith laughs and kisses Alice on the top of her head.
+C: BEN
+D: When you guys were having these “productive” fights, did she ever kick you in the pussy? Ben’s attempt at humor falls flat. STUNNED SILENCE.
+E: to Meredith
+C: MEREDITH
+D: Uh...
+C: ALICE
+D: Sorry. Just... MEREDITH I think I’d remember if she did, but...
+E: to Meredith cont'd
+C: ALICE
+D: Just ignore him.
+C: MEREDITH
+D: That’s a pretty...heavy word to throw around...
+C: BEN
+D: No, no...that’s not my phrase. That’s something that she said when she got banned from––
+E: pointing at Alice
+C: ALICE
+D: Let it go, Ben. INT. BROOKLYN DINER - MORNING82 82 Ben and Alice sit across from each other, eating breakfast.
+C: ALICE
+D: Anything you want to say? He takes a beat to formulate his answer.
+C: BEN
+D: Good bagel...? Alice glares at him. BEN Okay! I’m sorry! I guess she doesn’t really get our sense of humor, so--
+E: chewing cont’d
+C: ALICE
+D: Nope. Not about her.
+C: BEN
+D: I thought we were all...joking around, and I...went out on a limb.
+C: ALICE
+D: Let me just clarify for you, okay? About Meredith? This is different.
+C: BEN
+D: Right.
+C: ALICE
+D: She’s perfect. I mean, she’s not perfect, but she’s perfect for me.
+C: BEN
+D: So you’re still in that phase, huh?
+C: ALICE
+D: I’m serious. And it feels like it’s my chance to...I don’t know...climb out of the hole I’ve been living in, and to be like, a real...adult human. So let’s at least attempt to not fuck this up for me, okay? Ben nods his head contritely, then resumes eating.
+C: BEN
+D: You’re more fun in California.
+C: ALICE
+D: You’re about the same. INT. SUBWAY - DAY83 83 Ben and Alice sit in an uncrowded train, headed from Brooklyn to Manhattan. Ben is looking at his phone, scrolling through Miko’s Instagram.
+C: BEN
+D: See? You can’t really tell anything from this. Food...food...some clouds... Alice grabs Ben’s phone and scrolls on the screen.
+C: ALICE
+D: Who is “@leon212” and why is he liking all her pics? She taps and scrolls a bit more, eventually landing on something that makes her jaw drop. He leans over to see what Alice is looking at. He snatches the phone back out of her hand and examines the screen, scrolling with increasing agitation and disbelief.
+C: BEN
+D: Do you know where.. Orchard Street is? MONTAGE84 84 In full frame, we see a series of STILL IMAGES of an Asian woman in a variety of provocative outfits and poses. An amateurish, sexually-charged aesthetic pervades the photos. EXT. COMMERCIAL SPACE - DAY85 85 PULLING BACK, we see the above images popping on and off a large digital screen, on a loop. The screen is suspended inside the window of a spartan Lower East Side storefront. Standing side-by-side on the sidewalk, Ben and Alice stare into the window intently.
+E: looks closely at phone almost certainly Miko
+C: ALICE
+D: It’s definitely her, right? I mean, I know all Asian girls look the same to you, but--
+C: BEN
+D: Will you shut up for a minute while I try to...process this?
+C: ALICE
+D: God, I had no idea how hot she was. No offense, dude, but you have always punched above your weight--
+E: looking closer
+C: BEN
+D: I said, shut up! INT. LEON’S STORE - CONTINUOUS86 86 Ben and Alice push through a glass door, into a large, open space. A few clothing racks are positioned, seemingly at random, around the room. Ben and Alice approach the lone employee ZOA , who is seated behind a desk littered with photos of models, Miko among them.
+E: early 20s
+C: ZOA
+D: Can I help you?
+C: ALICE
+D: We were just curious about the photos in the window...?
+C: ZOA
+D: Aren’t they totally amazing? Alice smiles politely, Ben makes a face like “Not really.”
+C: ALICE
+D: Do you know anything about them? Where they came from?
+C: ZOA
+D: Oh, Leon handles all the promo himself.
+C: BEN
+D: And Leon is...?
+C: ZOA
+D: Leon Alexander? He designs the clothes. This is his boutique. The employee points to a MASSIVE BLACK AND WHITE PHOTO on the wall of a tall, confident BEARDED MAN , working on his designs at a draft table.
+E: early 40s, white
+C: ALICE
+D: Ah...humility!
+C: BEN
+D: What about the...model on the screen? Do you--
+C: ZOA
+D: Oh, I have no idea where he finds them! EXT. CITY STREETS - CHINATOWN - DAY87 87 Ben and Alice walk along a bustling Chinatown street. Ben eats a large steamed pork bun.
+C: ALICE
+D: So, is it over, or...?
+C: BEN
+D: Why would it be over?
+C: ALICE
+D: Uh, maybe because she’s been living some skanky double life out here?
+C: BEN
+D: So she wanted to try...modeling or whatever. She probably thought I wouldn’t be “supportive” if she told me about it.
+C: ALICE
+D: And she’d be wrong?
+C: BEN
+D: No, I would’ve been a total prick about it! In a way, I basically forced her to lie.
+C: ALICE
+D: It’s just so weird to think of her doing that. It’s like if I found out you were a mime or something.
+C: BEN
+D: Look, it’s embarrassing, but, you know...I acted like I was Autumn’s biggest fan. Do I have to remind you of the pee photos?
+C: ALICE
+D: Nope.
+C: BEN
+D: And I sat there and listened intently while Sasha droned on and on about grad school. So I have to be supportive of some stupid shit. That’s just what you do in a relationship.
+C: ALICE
+D: Uh, those weren’t “relationships--”
+C: BEN
+D: You know what I mean.
+C: ALICE
+D: But also, you were horny for those other girls. That’s like the ultimate motivator.
+C: BEN
+D: I never said I wasn’t horny for-- A passerby turns and looks in Ben’s direction. Alice laughs, as they descend into a Brooklyn-bound subway station. EXT. CITY STREETS - BROOKLYN - NIGHT88 88 A few quick shots at dusk: The Fulton Mall, Prospect Park, Greenwood Cemetery, skyline from DUMBO, etc. EXT. ASIAN-AMERICAN INDEPENDENT FILM INSTITUTE - MANHATTAN - 89 89
+E: loudly
+C: DAY
+D: Ben and Alice walk through a crowded business district. Ben, holding a BOUQUET OF FLOWERS, glances up from his phone as they arrive at a nondescript doorway.
+C: ALICE
+D: This is so unlike you.
+C: BEN
+D: That’s the point. He examines the building directory, eventually finding what he’s looking for. He shoots Alice a nervous look. He enters the building while Alice waits out front, scrolling on her phone. INT. ASIAN-AMERICAN INDEPENDENT FILM INSTITUTE - DAY90 90 Ben enters the office through a door emblazoned with the organization’s logo and name. An intern named JASON sits at the front desk, looking at his phone.
+E: Asian, mid-20s
+C: JASON
+D: You shouldn’t have.
+E: referencing the flowers
+C: BEN
+D: I’m here to see Miko?
+C: JASON
+D: Who?
+C: BEN
+D: Miko Higashi? She’s an intern here.
+C: JASON
+D: Actually, I’m the only intern here right now.
+C: BEN
+D: Okay, do you know when she’ll be back?
+C: JASON
+D: Try listening: there’s exactly one intern working here at this point in time, and you’re looking at him. Ben takes a moment to absorb this.
+C: BEN
+D: Can you check to see if maybe she worked here before you?
+C: JASON
+D: I’m not supposed to give out that kind of information, but... actually, what the fuck do I care? He turns to his computer, typing and clicking. JASON Nope. EXT. ASIAN-AMERICAN INDEPENDENT FILM INSTITUTE - DAY91 91 Ben strides out of the building. Alice catches up with him as he shoves the bouquet of flowers into a trash can. EXT. MADISON SQUARE PARK - DAY92 92 Ben and Alice sit on the bustling park steps. Ben stares off, simmering.
+E: cont’d
+C: BEN
+D: Well, so much for my big move.
+C: ALICE
+D: Fucking lying bitch--
+C: BEN
+D: Hey, watch it!
+C: ALICE
+D: Just kidding. So now what?
+C: BEN
+D: Can I use your phone? She hands him her phone.
+C: ALICE
+D: What’s wrong with yours?
+C: BEN
+D: I tried that. He dials Miko’s number. It RINGS three times, and then... EXT. MADISON SQUARE / INT. NYC APARTMENT - DAY93 93 We cut back and forth as Ben and Miko talk on the phone. Miko is in a spacious, modern bathroom, drying her hands at the sink. She is dressed casually.
+C: MIKO
+D: Hello?
+C: BEN
+D: Hey, it’s me.
+C: MIKO
+D: Oh, hi! What’s this number you’re calling from?
+C: BEN
+D: Oh, sorry...I’m out with Alice and I forgot my phone at home.
+C: MIKO
+D: I’m surprised you still want to talk to me after that last message.
+C: BEN
+D: I know. I’m sorry. I was having a bad day, and--
+C: MIKO
+D: No, I should’ve called. I just felt like we weren’t communicating very well over the phone, and--
+C: BEN
+D: No, it’s fine. I know you’re busy.
+C: MIKO
+D: Well, we should talk. I’m in the middle of something at work right now, but...
+C: BEN
+D: You mean the internship?
+C: MIKO
+D: Uh-huh. But let me call you later tonight.
+C: BEN
+D: Okay, but wait. The reason I called is ‘cause we’re at the post office. You got some mail that looks kind of important...tax stuff or something. I was gonna forward it to you, but I...I wasn’t sure where to send it...Hang on...let me get a pen. Instead, he shoots Alice a raised-eyebrow look. INT. DAILY PROVISIONS CAFE - DAY94 94 Ben and Alice sit at a table next to a huge window, which looks out onto a beautiful West Village street.
+C: ALICE
+D: I can’t believe she can afford to live around here!
+C: BEN
+D: Yeah, she must be really dipping into the ol’ trust fund.
+C: ALICE
+D: God, I’d give anything to have a rich, absent alcoholic dad who tries to buy my love.
+C: BEN
+D: Can you see the door? She cranes her neck to look behind Ben, out the window.
+C: ALICE
+D: Relax. I’ve got it all staked out. Ben nods, taking this very seriously. ALICE So listen...I’m thinking about maybe not going back to school.
+E: cont’d
+C: BEN
+D: What?
+C: ALICE
+D: Well, when I’m honest with myself, there’s really only one reason I even went to grad school in the first place.
+C: BEN
+D: Sex.
+C: ALICE
+D: No. My parents, idiot. I’ve been living my whole life under the delusion that it’s possible to placate them, and it’s obviously not--
+C: BEN
+D: Okay, so your solution is to just give up, hide out in New York, and--
+C: ALICE
+D: Maybe. At least I’d be happy.
+C: BEN
+D: You could also...just be honest with them. Alice laughs, as if that was the most absurd idea in the world.
+C: ALICE
+D: Right.
+C: BEN
+D: I don’t know. I mean - Alice is suddenly distracted. She cranes her neck again, looking past Ben out the window.
+C: ALICE
+D: Oh shit.
+C: BEN
+D: What? Are you fucking with me? From BEN’S POV we see a doorway across the street where Miko is exiting a building arm-in-arm with a tall, bearded man. This is LEON, . BEN What do we do? What do we do? Alice is already on her feet.
+E: turning to look early 40s, white cont’d
+C: ALICE
+D: Come on. EXT. CITY STREETS - MANHATTAN - DAY95 95 Ben and Alice follow Miko and Leon, occasionally ducking into doorways, behind cars, etc. to avoid being spotted. From BEN AND ALICE’S POV, we get quick glimpses of Leon and Miko’s sweet interaction: They talk animatedly as they walk to a street market. She poses at a sunglass stand as he takes a snapshot of her. She makes him laugh, as they look at knick knacks, his arm around her. They stop at a stall that sells movie posters, where Miko gestures towards the poster displayed out front. She describes the obscure movie to Leon, who listens intently. INT. ART AND DESIGN STORE - DAY96 96 Miko and Leon stroll through the store, browsing the furniture.
+C: LEON
+D: So where do you want to eat?
+E: in Japanese
+C: MIKO
+D: Can we go to that Japanese place that’s upstairs? Near St. Mark’s?
+E: in Japanese
+C: LEON)
+D: Yeah, let’s get a drink at the bar first. They continue to chat as they head towards the exit, arms around each other. Ben and Alice, their backs turned, lurk a few displays down.
+E: in Japanese
+C: ALICE
+D: What did they say?
+E: whispering
+C: BEN
+D: How the fuck would I know? INT. O’DALY’S BAR - NIGHT97 97 Ben, Alice, and Meredith stand near the bar, waiting for drinks.
+E: whispering
+C: BEN
+D: I can’t believe she’s with a fucking rice king.
+C: ALICE
+D: Well, we don’t know that he’s necessarily a--
+C: BEN
+D: He was speaking Japanese! He’s a white guy with big beard who was speaking Japanese!
+C: ALICE
+D: Wait, what does a big beard have to do with it?
+C: BEN
+D: I don’t know!
+C: MEREDITH
+D: Well, I can see why you’re upset, but there’s nothing inherently wrong with someone having a type. If there’s real love between two people, then--
+C: BEN
+D: Yeah yeah yeah. But let’s be honest, okay? Just between us? I mean, you see a white guy with an Asian girl....you just assume “rice king.” Right?
+E: quietly
+C: ALICE
+D: Oh boy... Meredith blanches.
+C: MEREDITH
+D: And when you see an Asian man with a white woman, you think...?
+C: BEN
+D: Good for him! Good for both of them! And you know...you never second-guess that relationship, right? It’s like, “Wow, he must be a really cool guy! And she’s so evolved!” The bartender places the drinks on the bar: bottled beer for Ben and Alice, a vodka soda for Meredith.
+C: ALICE
+D: I know for a fact that he actually agrees with you. He’s just in his over-the-top provocative mode. INT. O’DALY’S BAR - A FEW MINUTES LATER98 98 Ben, Alice, and Meredith are now seated in a booth.
+E: to Meredith
+C: BEN
+D: Come on. You know there’s something kinda creepy about a big, older white guy who’s horny for skinny Asian girls. I mean, what do you think that’s about?
+C: MEREDITH
+D: I actually don’t think it’s “about” anything. Ben laughs incredulously. MEREDITH If you’re implying an undercurrent of--what? fetishism? pedophilia?-- then what’s the flip-side to that line of thinking?
+E: cont’d
+C: BEN
+D: I don’t know. What--?
+C: MEREDITH
+D: Is your attraction to white women a sublimated form of assimilation? Are you trying to elevate yourself in society’s eyes by--
+C: BEN
+D: What are you...where’d that come from?
+C: ALICE
+D: Sorry...
+E: to Ben
+C: BEN
+D: Jesus...you don’t have to turn this into a personal attack on me! I’m just...
+C: MEREDITH
+D: No, no...it’s not an attack. I just think it gets a little tricky when you start making moralistic generalizations based on your own wounded ego.
+C: BEN
+D: Wow.
+C: ALICE
+D: He’s had a hard day.
+E: to Meredith
+C: MEREDITH
+D: I know, and I’m sorry. I just don’t know if it’s appropriate for someone--particularly a cishet male--to ascribe negative psychological implications to other people’s sexuality. I mean, it’s a slippery slope when you start to--
+C: BEN
+D: It’s not a...I’m 100% just talking about rice kings, okay? I’m not--
+C: MEREDITH
+D: Also, I know you think you’re being funny or whatever, but there’s a long history of pejorative slang used to demean the sexuality of “the other,” and to me it’s completely retrograde.
+C: BEN
+D: I can’t say “rice king”? I’m not allowed to--
+C: ALICE
+D: Ben. Um...Meredith’s dad is British... So...
+C: MEREDITH
+D: But that’s beside the point.
+C: BEN
+D: How is that beside the point? That totally is the point. You don’t want to have to think of your parents “gettin’ it on”, and so you--
+E: he makes an awkward thrusting gesture
+C: MEREDITH
+D: I’m very close to throwing this drink in your face. She grabs her glass, suddenly.
+E: simmering
+C: BEN
+D: Jesus christ!
+C: ALICE
+D: What the fuck? Alice grabs Meredith’s hand and removes the glass.
+C: MEREDITH
+D: I’m sorry. They all sit in SILENCE for a beat.
+C: BEN
+D: You know, some people say that lesbians can be kinda...humorless, but I...I disagree, you know? Alice stifles a laugh. Meredith looks at her with disbelief, then abruptly rises and storms away.
+E: to Alice
+C: ALICE
+D: Meredith! Alice shoots Ben an angry look, then gets up and chases after Meredith. Ben, now alone in the booth, takes another drink. INT. MEREDITH'S APARTMENT - LIVING ROOM - NIGHT99 99 In the darkened room, Ben lies on his makeshift bed. He glances over at the closed bedroom door, a faint glow of light beneath it. MUTED VOICES emanate from that direction.
+C: MEREDITH
+D: I guess I just don’t understand why it’s funny. At all.
+E: O.S.
+C: ALICE
+D: Just because I laugh at something doesn’t mean I endorse it. I mean, I hate to say it, but you are kind of rigid about--
+E: O.S.
+C: MEREDITH
+D: Oh, so it’s my problem? He can--
+E: O.S.
+C: ALICE
+D: That’s not what I said.
+E: O.S.
+C: MEREDITH
+D: He can rant and spew all that toxic bullshit, and I’m too rigid?
+E: O.S.
+C: ALICE
+D: Well, you’re not very sympathetic...
+E: O.S.
+C: MEREDITH
+D: Are you fucking kidding me? Ben pulls the pillow up around his head, covering his ears. INT. MEREDITH’S APARTMENT - KITCHEN - MORNING100 100 Early morning. A pot of coffee in a metal percolator is on the stove. As he waits for it to boil, he looks at his phone. We see that Ben is looking at @leon212’s pictures of Miko again. He focuses on one image in particular: Miko staring up from a messy bed, one bra strap off her shoulder. Ben “unpinches” to zoom in, revealing a familiar FLOWER-PATTERNED PILLOWCASE beneath Miko’s tousled hair. Ben looks up from the phone, a stunned, fuming expression on his face, as the percolator starts to GURGLE. EXT. MEREDITH’S BUILDING - BROOKLYN - MOMENTS LATER101 101 Ben exits Meredith’s building, gets his bearings, then sprints in the direction of the subway. INT. DAILY PROVISIONS CAFE - DAY102 102 Ben sits in the chair where Alice sat previously, his gaze fixed out the window. Eventually, something out the window catches his attention. He springs to his feet. EXT. LEON’S BUILDING - MANHATTAN - CONTINUOUS103 103 Ben exits the cafe, walking with determination. He crosses the street towards Leon and Miko, who are talking amiably.
+E: O.S.
+C: BEN
+D: Did you fuck her in my bed?
+E: to Leon
+C: MIKO
+D: Oh my god, Ben! Are you crazy?
+E: startled
+C: BEN
+D: Did you take the shitty photos first, and then fuck her, or...?
+C: LEON
+D: Ben, let’s just calm down.
+E: in Japanese, to Ben
+C: MIKO
+D: No--he doesn’t understand--
+C: LEON
+D: Sorry, I shouldn’t have assumed--
+E: kicking himself
+C: MIKO
+D: What the hell is this, Ben? Did you come all the way here to spy on me? Are you that much of an asshole?
+C: BEN
+D: Absolutely, I am a giant asshole! But I think it’s warranted in this case-- Leon protectively pushes himself between Ben and Miko.
+C: LEON
+D: Now, I appreciate that this is an awkward situation for all of us. We’re not meeting on the best of terms here.
+C: BEN
+D: Yeah, I generally prefer a more formal introduction to the guy who’s fucking my girlfriend.
+C: LEON
+D: Okay. Let’s all just take a deep breath...Ben, look-- He gently puts his hand on Ben’s shoulder.
+C: BEN
+D: Don’t fucking touch me! Ben angrily swats Leon’s hand away. Leon springs into a “kung fu” pose, crouching down with his hands raised, a fierce expression on his face. He holds the pose, as if expecting Ben to attack. Ben and Miko both look at Leon, perplexed. BEN What? You gonna do some tai chi on me? Or... Leon chuckles, dropping his pose.
+E: cont’d
+C: LEON
+D: Okay, yeah, that was absurd... I’m sorry, it’s just a reflex from decades of training.
+C: BEN
+D: Of course he’s a martial arts guy.
+E: to Miko
+C: MIKO
+D: That’s enough, Ben--
+C: BEN
+D: No, come on. You wanna go, let’s go, man. I know you’re dying to do your version of that Tarantino movie.
+E: to Leon
+C: LEON
+D: What?
+C: BEN
+D: Oh, you know the scene where Brad Pitt kicks Bruce Lee’s ass. I bet that’s like your fantasy, isn’t it-- Miko looks exasperated, like she’s heard Ben rant about this a million times.
+C: LEON
+D: Actually, no, no, it is not. Ben looks intrigued. LEON I mean, overall, I thought it was a great film, but I despised the idea of aggrandizing a fictional white protagonist by denigrating a real Asian American icon. Now, I know there’s some theories out there that it was actually--
+E: cont’d
+C: BEN
+D: All right, shut the fuck up! Miko rubs her eyes, wearily. Leon takes a breath.
+C: LEON
+D: Ben... I just want to say, I’m sorry for this. I understand your anger, and-- Leon puts his hand on Ben’s shoulder again.
+C: BEN
+D: I said don’t! Ben swats it away, and Leon once again, jumps into a fighting pose. Again, he catches himself, laughing.
+C: LEON
+D: Ha! I did it again!..Okay, you know what, I’m making things worse. You two need to talk.
+C: MIKO
+D: Yeah.
+C: LEON
+D: Why don’t you two go my place-- Have a drink, the kitchen’s yours. Take all the time you need. Call me if you need anything. Miko nods. Leon makes brief eye contact with Ben, nods, and then turns and walks away.
+E: to Miko
+C: BEN
+D: Sayonara! INT. LEON’S APARTMENT - DAY104 104 Ben follows Miko into a massive duplex loft. The decor is sleekly modern, accented with Japanese lamps, furniture, and artwork.
+E: shouting, to Leon
+C: BEN
+D: So I’m guessing this is his place?
+C: MIKO
+D: Yes.
+C: BEN
+D: Nice. I can see he really likes his Oriental accessories. Miko glares at Ben, unamused by his quip. BEN So you never even had your own place out here, did you? Does he make you pay rent, or do you just...walk on his back and--
+E: cont’d
+C: MIKO
+D: Come on, Ben. What the hell are you doing here?
+C: BEN
+D: Just...trying to get my head around all this. So you basically came out here to be with him, right?
+C: MIKO
+D: Look. I owe you an apology, and--
+C: BEN
+D: Oh, we’ll get to that. But just...clear things up a little for me. How does one cross paths with a...Leon Alexander?
+C: MIKO
+D: ...visiting a friend...
+E: quietly
+C: BEN
+D: What?
+C: MIKO
+D: He was visiting someone who had a film in the festival.
+C: BEN
+D: Ah.
+C: MIKO
+D: We met for coffee a few times while he was in town, but it was nothing.
+C: BEN
+D: You’ve gotta stop bullshitting, Miko. I saw the photos. I think I can recognize our own fucking bed, okay?
+C: MIKO
+D: We took a few pictures, but that’s it. We agreed to wait until I’d resolved things with you.
+C: BEN
+D: Oh. So, are you still “waiting”? Because I don’t feel resolved, do you? Holy shit, the blue-balls on poor Leon...
+C: MIKO
+D: Ben, we were taking some time off. You knew that.
+C: BEN
+D: I guess I didn’t realize that “taking some time off” meant “fucking other people.”
+C: MIKO
+D: Tch...are you sure about that?
+C: BEN
+D: What’s that supposed to mean?
+C: MIKO
+D: It means my friend Koji saw you holding hands with someone at the flea market. She sounded like just your type, too.
+C: BEN
+D: Okay, that’s bullshit. Don’t try to turn this around on me, Miko.
+C: MIKO
+D: Look, it’s fine. I think it’s obvious that this has been a good change for both of us. I mean, we went about it in a totally stupid way, but somehow it all worked out for the best.
+C: BEN
+D: But of all the people to...I mean, a white guy is one thing, but he’s such an obvious Asian fetishist!
+C: MIKO
+D: Do you realize how insulting that is to me? That the only reason someone could possibly be attracted to me is because of some objectifying abnormality?
+C: BEN
+D: I didn’t say that’s the only reason!
+C: MIKO
+D: I think that says a lot more about you than it does about me. That’s--
+C: BEN
+D: I’m criticizing him, not you! So don’t--
+C: MIKO
+D: I know you think you’re in a position to always be judging people, but you don’t know anything about him, okay? And if it really matters to you, he’s not white.
+C: BEN
+D: What? Are we talking about the same guy?
+C: MIKO
+D: He’s Jewish and Indigenous American.
+C: BEN
+D: Oh, that’s hilarious! Is that what he put on his college application? Or wait...do they even have affirmative action in fashion school?
+C: MIKO
+D: You should probably go. Miko opens the front door. Ben walks slowly through the doorway.
+C: BEN
+D: Oh, how’s the internship, by the way?
+C: MIKO
+D: It’s great.
+C: BEN
+D: Sticking with your story. Nice. Miko looks caught off guard.
+C: MIKO
+D: Ben...wait. He stops and turns, a hopeful look on his face. MIKO I should’ve been more direct with you a long time ago, and I apologize for not doing that. But even at my most frustrated, I felt a lot of...pity for you, and I realize that’s how you kept me trapped.
+E: cont’d
+C: BEN
+D: “Trapped”? Don’t try to play the victim now, Miko. It’s fucking embarrassing.
+C: MIKO
+D: You know what’s embarrassing? Trying to hold onto something just because you’re pathologically afraid of change. That’s what you do, and it...it felt like fucking death to me!
+C: BEN
+D: So that’s my big crime, huh? I don’t just give up? Ooh...what a monster I am!
+C: MIKO
+D: No, I think you also have a problem with depression and anger...weird self-hatred issues...and just the relentless negativity--
+C: BEN
+D: You know, you could benefit from a little self-hatred!
+C: MIKO
+D: It’s passive-aggressive, Ben. Your refusal to grow, to change...the way you just gave up on any kind of career...it’s hostile.
+C: BEN
+D: So, it’s all me doing stuff to you! You’re not at all self-centered or entitled or deceptive--
+C: MIKO
+D: Listen to me, Ben. You never did anything to make me want to stay. You never even asked me not to go. You just did nothing, and then resented me for--
+C: BEN
+D: Are you done? Are you done with the fucking rationalizing? Or are you gonna finally-- Ben’s voice trails off as he notices a hint of a smile on Miko’s face. BEN What?
+E: yelling cont’d
+C: MIKO
+D: I just had the best thought.
+C: BEN
+D: What?
+C: MIKO
+D: I never have to listen to this shit again. She starts to close the door. Ben holds it open.
+C: BEN
+D: Okay, wait wait wait. This is what happens. We get caught up in the moment, and--
+C: MIKO
+D: No. You need to--
+C: BEN
+D: Let’s just give it some time, and--
+C: MIKO
+D: You need to go now. BEN Miko... BEN Don’t do this to me.
+E: cont'd cont’d quietly
+C: MIKO
+D: You need to go now. She pushes Ben out and closes the door. INT. SUBWAY - DAY105 105 A nearly-empty train, headed from Manhattan to Brooklyn. Ben sits slumped near a window. He stares ahead solemnly, barely holding back tears. EXT. MEREDITH’S BUILDING - BROOKLYN - DAY106 106 Ben arrives at Meredith’s building. He unlocks the door and enters. INT. MEREDITH'S BUILDING - CONTINUOUS107 107 Ben enters the lobby and gets into the elevator. As the elevator doors open, he hears voices coming from inside the apartment. He steps up to Meredith’s door and listens.
+C: MEREDITH
+D: I don’t need to! Because everything is about him and his opinions and his grievances and--
+E: O.S.
+C: ALICE
+D: Well, he sticks to what he knows! I mean, you’ve gotta give him credit for--
+E: O.S.
+C: MEREDITH
+D: But there’s no insight! He has an amazing ability to judge all the people that have somehow offended him--the people he thinks he’s better than--but he’s absolutely incapable of turning that critical gaze on himself! Ben turns around presses the elevator. It opens, and he gets back inside. The sound of Alice’s voice fades as the elevator doors close. Then just as it’s about to shut, Ben stops it with his hand. He approaches Meredith’s door. MEREDITH I couldn’t care less about his stupid opinions! I’m talking about what he’s doing to us.
+E: O.S. O.S. cont’d
+C: ALICE
+D: Just ignore him. He’s going through a rough time, and--
+E: O.S.
+C: MEREDITH
+D: And he wants to blow us up so you’ll go back home with him!
+E: O.S.
+C: ALICE
+D: Yeah, I don’t think he’s quite as possessive as you.
+E: O.S.
+C: MEREDITH
+D: Well, maybe not consciously. And maybe you’re not aware of his influence on you.
+E: O.S.
+C: ALICE
+D: Are you fucking serious? Ben takes a deep breath and unlocks the door. INT. MEREDITH'S APARTMENT - LIVING ROOM - CONTINUOUS108 108 SILENCE as Ben enters. Alice is on her feet, clearly agitated, and Meredith sits on the couch. Uncomfortable glances all around.
+E: O.S.
+C: BEN
+D: She’s right.
+E: pointing at Meredith
+C: ALICE
+D: What?
+C: BEN
+D: She’s right, and I’m gonna do the most helpful thing I can think of... I’m gonna go home. Ben pulls out his phone and taps on the screen. BEN Okay. Gonna take the next flight I could get. He taps and swipes, deep in concentration.
+E: cont’d
+C: ALICE
+D: What? No...
+C: MEREDITH
+D: Ben, I don’t want you to misunderstand--
+C: BEN
+D: Definitely no misunderstanding. Ben continues to tap on his phone, and then looks up. BEN Meredith. I’m sorry you had to meet me at this point in my life. I mean, I’m sure you would’ve hated me anyway, but--
+E: cont’d to Meredith chuckles
+C: MEREDITH
+D: No...
+C: BEN
+D: Yes you would’ve -
+C: ALICE
+D: It’s true.
+C: BEN
+D: ...but the fact is, you happened to catch me at my absolute... Alice and Meredith wait as Ben struggles to find the word. BEN ...uh...
+E: cont’d
+C: MEREDITH
+D: Nadir? BEN Nadir! I’m always afraid I’m gonna mispronounce it. Meredith smiles, unsure what else to say.
+E: cont'd
+C: ALICE
+D: Did you see her? Ben nods, solemnly. The room falls SILENT. At last, Ben notices something that we’ve already seen in the background: several dozen pastel-colored HELIUM BALLOONS, bundled together and tied by ribbons to a chair.
+E: to Ben, cautiously
+C: BEN
+D: What’s with all the fucking balloons? INT. O’DALY’S BAR - NIGHT109 109 A diverse group of friends fills the dark, neon-lit room, talking and drinking. The helium balloons from the previous scene decorate the space. Meredith stands up on a stool as the CHATTER and MUSIC die down.
+C: MEREDITH
+D: Uh, I just wanted to say thanks for being here. I don’t know if getting another year older is really something to celebrate at this point, but I will still allow you to buy me drinks. LIGHT LAUGHTER from the crowd. MEREDITH Um, so last month I got dragged to a party I didn’t really want to go to, and I got introduced to a friend of a friend from California even though I didn’t really want to be introduced to anyone, least of all someone from California. Sorry... ANGLE ON: the crowd. People reacting with LAUGHTER. MEREDITH Now I’m gonna say something that I don’t say very often: I was wrong. I was wrong about the party, I was wrong about getting introduced. I might still be right about California, but anyway...that’s how I met Alice, and, as most of you know, I’ve since fallen head-over- heels for her.
+E: cont’d cont’d
+C: ALICE
+D: She’s falling down drunk! ANGLE ON: the crowd. People reacting with HOOTS and LAUGHTER.
+C: MEREDITH
+D: But listen...she just told me that she’s moving here, and that’s honestly the best present I could imagine. So...YOUR LOSS,
+C: CALIFORNIA!
+D: LAUGHTER and APPLAUSE. MEREDITH So keep buying me drinks, but buy Alice a drink, too, and welcome her to her new home! Meredith climbs down from her chair, into Alice’s arms. They kiss and the APPLAUSE grows louder. We move through the exuberant crowd, finally arriving on Ben. Once again, he seems to be the only person not clapping. Eventually, he sets his beer down and joins in the applause. INT. O’DALY’S BAR - A FEW MINUTES LATER110 110 The diegetic MUSIC is now louder than ever. Surrounded by jubilant well-wishers, Ben taps Alice on the shoulder. They embrace. Ben extends his hand to Meredith, who instead pulls Ben in for a hug. EXT. O’DALY’S BAR - A FEW MINUTES LATER111 111 Ben exits the bar and begins walking up the street. Alice follows him out and catches up.
+E: cont’d
+C: ALICE
+D: Hey, where you going?
+C: BEN
+D: I’m gonna go back to the apartment and get packed up.
+C: ALICE
+D: I’m not moving just for her, you know. I mean, whatever happens, I’ll still be in like, the best city in the world.
+C: BEN
+D: Okay. I mean, I disagree...
+C: ALICE
+D: Yes, you do. They both laugh.
+C: BEN
+D: Look, I...I’m glad you’re giving it a shot.
+C: ALICE
+D: I’ll be back next month to get my stuff. Start planning now! We can get a U-Haul, and--
+C: BEN
+D: I can’t move 3,000 miles for someone I’m not having intercourse with.
+C: ALICE
+D: Speaking of someone you’re not having intercourse with. Ben laughs. ALICE So... is it officially over?
+E: cont’d
+C: BEN
+D: Yeah.
+E: shrugs
+C: ALICE
+D: So you’re not gonna do the thing where you run through the city to make one last heartfelt attempt to win her back and--
+C: BEN
+D: What? No. They stand in SILENCE for a beat. BEN Anyway--
+E: laughs cont’d
+C: ALICE
+D: I should get back in there. He nods and watches as she goes back into the bar. His forced smile quickly melts into a look of sadness. INT. MEREDITH’S APARTMENT - MORNING112 112 The room cast in pre-dawn light. Ben lies on the couch, wide awake. He sits up, notices a FRAMED PHOTO sitting on the side table. It’s a photo of Alice and Meredith staring back at him. Alice radiates joy, happier than he’s ever known her to be. He mulls something over. Inspired, checks the time on his phone, then comes to a decision. INT. MEREDITH’S APARTMENT - A FEW MINUTES LATER113 113 Ben, now fully dressed and moving with a rising sense of urgency, walks across the apartment and approaches the bedroom door. He’s about to knock, then reconsiders. He grabs a pencil and paper from the kitchen counter. He cogitates--as if composing the perfect, heartfelt good-bye-- then hastily scrawls “THANKS SORRY BEN.” He drops the apartment keys on top of the note and dashes off with his suitcase. EXT. SUBWAY ENTRANCE - BROOKLYN - DAY114 114 Ben exits Meredith’s building, pulling his suitcase, and walks briskly in the direction of the subway. EXT. SUBWAY ENTRANCE - MANHATTAN - DAY115 115 Ben exits the subway station, suitcase in tow. EXT. CITY STREETS - MANHATTAN - DAYA115 A115 Ben runs with increasing speed through the city streets. EXT. LEON'S BUILDING - DAY116 116 Ben arrives at Leon’s apartment, out of breath. With great urgency, Ben presses a button on the buzzer repeatedly. No answer. He presses the buzzer again and again. Finally, he gives up. He turns to leave, but suddenly stops in his tracks. He looks across the street. ANGLE ON: Miko and Leon seated side-by-side in the cafe window. Miko is drinking coffee while Leon fusses with an elaborate pot of green tea. Their interaction is warm and comfortable, and a radiant smile breaks across Miko’s face. Ben takes a last look, nodding his head. The reality of the situation sinks in, and at last, he seems at peace. He turns and walks off, dragging his suitcase. OMIT117 117 OMIT118 118 INT. TAXI - MANHATTAN - DAY119 119 As the sun sets, Ben sits in the back of a taxi.
+C: CAB DRIVER
+D: Which terminal, sir? INT. AIRPORT - FOOD COURT - NIGHT120 120 Ben sits surrounded by cheerful, chatty groups of travelers. In the background, we see the garish neon of a Panda Express- style establishment. Chopsticks in hand, Ben hunches forward and starts to eat from a styrofoam box.
+E: O.S.
+C: TAM
+D: Is anyone sitting here? Ben looks up, startled, his mouth full of food. He stares into the eyes of an unbelievably beautiful woman named TAM . She smiles sweetly at Ben, waiting for his reply.
+E: O.S. Asian, early 30s
+C: BEN
+D: No! He wipes his mouth with a napkin, gesturing towards the empty chair. Tam smiles again.
+E: cheerfully
+C: TAM
+D: Thanks. Then she abruptly drags the chair to a nearby table, where she settles in with her happy Asian-American family . Ben’s face falls, and he returns to his meal. INT. AIRPLANE - NIGHT121 121 The cabin lights are dim. Ben sits, pensive. He glances over at an ELDERLY ASIAN WOMAN sitting in the row ahead From his POV, her profile is illuminated by the SEAT BACK SCREEN in front of her. She smiles, wiping a tear from her eye. Ben leans over to get a look at what she’s watching. CLOSE ON: the screen, again from Ben’s POV. It’s the movie that Ben and Miko saw at the Asian Film Festival. Ben sits back, his mind suddenly awash in thoughts. EXT. MEXICAN RESTAURANT - BAR - OAKLAND - NIGHT122 122 Sasha sits at a bar with PILAR , while surrounded by a group of friends. They laugh and talk warmly, as they both casually swirl and sniff their glasses of wine. INT. ART GALLERY - OAKLAND - NIGHT123 123 A mix of scuzzy bohemians and elite art collectors fill the glowing, white-walled space. Within the crowd, we spot Autumn, who greets a group of friends enthusiastically. She gestures to the gallery wall behind her, where we see a massive INSTALLATION OF POLAROIDS. INT. CITY STREET - MANHATTAN - NIGHT124 124 Miko, more stylish and fashionable than ever, strolls confidently down a picturesque West Village street. She ducks into an unassuming doorway. INT. RESTAURANT - MANHATTAN - NIGHT 125 125 Miko enters a tiny, austere sushi bar. Leon is the only customer, and he greets Miko with a kiss. The wizened JAPANESE CHEF places two astonishingly perfect pieces of sushi in front of them. Miko and Leon each take a bite of sushi, responding with eye-rolling ecstasy. INT. MEREDITH'S BUILDING - HALLWAY - BROOKLYN - NIGHT126 126 In the hallway, Meredith adjusts the nameplate frame of her apartment door, with Alice standing by. They admire it, embrace and kiss sweetly. As they head into the apartment, we push in to reveal the new strip of paper in the frame, which reads: “LEE/AMES.” INT. AIRPLANE - MORNING A126 A126 Ben has dozed off.
+E: husband, two kids 28 including Lamont, Gene and Jeffery, now fully clothed POSSIBLE ALT ENDING
+C: FLIGHT ATTENDANT’S VOICE
+D: Ladies and gentlemen, we are beginning our descent into Oakland International Airport, where the local time is 6:14am. The cabin lights come on, as Ben’s eyes slowly open. We hear various lights blink on in the cabin. A passenger opens a window, and the morning sunlights pours in. FLIGHT ATTENDANT’S VOICE As we prepare for landing, please ensure that your seat backs are up and your tray tables are secured. Ben brings his seat upright, as the surrounding passengers get ready for landing. FLIGHT ATTENDANT’S VOICE Remain seated with your seatbelt fastened until we’ve come to a full and complete stop. Ben tightens his seatbelt, and looks ahead, as we slowly move in on his face, pensive, thinking about what happens from here on out. FLIGHT ATTENDANT’S VOICE Prepare for landing. The camera lands in a CLOSE UP on Ben, as he is suddenly jostled amidst the turbulence of the plane touching ground. As he rattles in his seat, we register a brief look of hope, as Ben steels himself for all that’s ahead. INT. CAR - OAKLAND - MORNING - CONTINUOUS127 127 Sunrise. Ben sits in the back of an Uber, which speeds along the freeway in peak “blue hour” light. He checks his * voicemail and sees one from Alice. He puts on his Airpods and * presses play. *
+E: over intercom cont’d over intercom cont’d over intercom cont’d over intercom
+C: ALICE’S VOICEMAIL
+D: Hey. I think you’re still up in the air, so I just wanted to leave you a message and let you know that you will die out there without me-- I’m kidding! Learn to take a joke, Ben! OMIT128 128 OMIT129 129 EXT. MARINA PARK - LATER IN THE DAY130 130 Ben walks up to the shore and sits on a rock, staring out, pensive.
+C: ALICE’S VOICEMAIL
+D: But seriously, know that even though I’m across the country living my best life, I’m always here for you, pal. And who knows, * maybe some change will be good for you...Love you. Bye. * Ben sits up, and we move in on his face. He notices, perhaps for the first time, the breathtaking Bay and its infinite possibilities.
+E: CONT'D
+T: CUT TO CREDITS

@@ -1,0 +1,2173 @@
+M: Chef
+M: by
+M: Jon Favreau
+M: 1/31/13
+S: INT. KITCHEN
+N: A seasoned leather pouch unrolls revealing gleaming Japanese chefs knives. Large hands slide an onion onto a cutting board. Forearms with impressive tattoos. Photo-real vegetables and cooking accoutrements. A razor sharp chefs knife deftly reduces the onion to confetti. CARL CASPER is a large man in his forties. He wears a short sleeve chef’s coat. He is in a commercial kitchen alone. Morning rays of sunlight burn through the cloudy glass and kick off the sharp stainless corners surrounding him. And in the peace of the morning light, Carl does the meditative dance of preparing his mis en place. Ingredient after ingredient is prepared and organized around his station. Jump cuts follow the rhythm of the nostalgic Afro-Cuban soundtrack as his knives dance through the produce. The MUSIC is now “scource” and it rises sharply in volume.
+C: MARTIN
+D: Turn it up, Jefe! Today’s the big day. In dances MARTIN, the portly black, Cuban grill chef. He dances in to the salsa beat with an entire pig hoisted onto one shoulder.
+E: o.c.
+C: CARL
+D: Break it down.
+C: MARTIN
+D: I’ll break it down... Martin dances the salsa in place balancing the pig.
+C: CARL
+D: This isn’t just a Yelp review. This one could make or break me.
+C: MARTIN
+D: That’s what you always say and then you always get love.
+C: CARL
+D: I have no idea who they’re sending. Martin has begun breaking down the pig while they talk.
+C: MARTIN
+D: You shouldn’t even be thinking about that, bro. Just cook.
+C: CARL
+D: I gotta hit the Farmer’s Market. What time is it?
+C: MARTIN
+D: Ten?
+C: CARL
+D: I’m going to go pick up Percy. Where’s Tony?
+C: MARTIN
+D: We were out late. He knows it’s the big day. He’ll be here.
+C: CARL
+D: I’ll be back. Brine the head. We’ll do a terrine tomorrow. EXT. GAULOISE - BRENTWOOD - DAY Carl, still sporting chef’s coat and clogs, hustles to his eighties Mercedes. He spots a MAN sleeping reclined behind the wheel of a filthy Beemer. He knocks the glass. The man is startled. It’s TONY, the latino Sous Chef. He is very hung over.
+C: CARL
+D: Up! Vamonos, Cabron!
+C: TONY
+D: Sorry! Am I late?
+C: CARL
+D: Get in there. We’re getting reviewed today.
+C: TONY
+D: Why do you think I slept here?
+C: CARL
+D: I’m going to the market. Start the soup. Are you still shitfaced?
+C: TONY
+D: I’m good, Chef. Carl hustles to the car. EXT. MC MANSION - BRENTWOOD - DAY Carl’s seasoned Mercedes pulls up to a fat house. He hustles to the door that opens before he arrives. PERCY comes out. He’s nine. Just in this brief glimpse we see a NANNY, a GARDENER, a HOUSEKEEPER and a HANDYMAN.
+C: PERCY
+D: Hi dad.
+C: CARL
+D: How’s mom?
+C: PERCY
+D: Good. INT. CARL’S CAR - DAY He drives aggressively.
+C: CARL
+D: School?
+C: PERCY
+D: Good.
+C: CARL
+D: Good?
+C: PERCY
+D: Fine.
+C: CARL
+D: Is it good or fine?
+C: PERCY
+D: What’s the difference?
+C: CARL
+D: I don’t know.
+C: PERCY
+D: You getting reviewed today?
+C: CARL
+D: Yes.
+C: PERCY
+D: Mom said you might be weird.
+C: CARL
+D: I’m not weird. I don’t care what they write. As long as I like what I cook.
+C: PERCY
+D: That’s what she said you’d say.
+C: CARL
+D: Listen. I haven’t been married to your mom for five years. She doesn’t know me any more.
+C: PERCY
+D: I thought you said you were still friends and always will be.
+C: CARL
+D: We are. But that doesn’t mean we know each other.
+C: PERCY
+D: She’s usually pretty spot on about you.
+C: CARL
+D: Really? You know what she thinks I should do? Open a food truck.
+C: PERCY
+D: I like food trucks.
+C: CARL
+D: So do I. Who doesn’t like food trucks? That doesn’t mean I should drive one around like a Fisher Price figure.
+C: PERCY
+D: What’s that?
+C: CARL
+D: The toy. You had them. The little wooden guys. Like Weebles.
+C: PERCY
+D: What’s a Weeble?
+C: CARL
+D: You never had Weebles?
+C: PERCY
+D: I never had any of the stuff you’re talking about.
+C: CARL
+D: Like a Minecraft guy.
+C: PERCY
+D: There are no vehicles in Minecraft.
+C: CARL
+D: Here we are. EXT. FARMERS MARKET - SANTA MONICA - DAY Carl and Percy weave through the aisles of the Farmers Market. Carl paws at the produce. He talks to a VENDOR.
+C: CARL
+D: So basically all you carry now is kale. Is that what you’re telling me?
+C: VENDOR
+D: Everyone wants kale.
+C: PERCY
+D: Can I get kettle corn?
+E: interrupts
+C: CARL
+D: It’s not even eleven.
+C: PERCY
+D: So?
+C: CARL
+D: I’m here for work. You want a piece of fruit? Let’s get you a piece of fruit.
+C: PERCY
+D: I don’t want fruit.
+C: CARL
+D: You said you wanted me to help you lose weight. Listen... I’m not putting any pressure on you. It’s something that I’ve struggled with and my parents struggled with and I think it’s really great that you’re listening to your body at your age. But remember. It’s up to you. I’m not putting any pressure on you.
+E: stops MORE
+C: SMASH TO:
+D: EXT. FARMERS MARKET - MOMENTS LATER Percy and Carl are pounding fistfuls of steaming kettle corn.
+C: CARL
+D: ... and I have no idea which reviewer they’re sending. Most of them like me but there are some that have it in for me because I got featured in the other magazine.
+C: PERCY
+D: They’re haters.
+C: CARL
+D: Exactly. We didn’t have that word when I was your age. There was no word for hater. You would say someone was jealous, but it doesn’t really capture it. Oh, look, the sausage guy is here. You ever try andouille sausage?
+C: PERCY
+D: No.
+C: CARL
+D: It’s spicy. You like spicy?
+C: PERCY
+D: No.
+C: CARL
+D: It’s not too spicy. CUT TO: EXT. FARMERS MARKET - MOMENTS LATER The father and son are eating sausage.
+C: CARL
+D: It’s good, right? This is Cajun food. You know what Cajun means?
+C: PERCY
+D: Spicy?
+C: CARL CARL
+D: It’s from New Orleans. Have you ever heard of New Orleans?
+E: CONT'D
+C: PERCY
+D: Yes. It became part of the United States as part of the Louisiana Purchase from Napoleon.
+C: CARL
+D: Wow. Yes. I mean do you know about it now. That was a long time ago.
+C: PERCY CARL
+D: If you say so. I mean the culture. The food.
+C: PERCY
+D: We can get it here.
+E: lifts sausage
+C: CARL
+D: That’s just a reminder. It tastes good because it reminds you of a whole world. Of memories.
+C: PERCY
+D: Sounds cool.
+C: CARL
+D: Yes. If there’s one thing New Orleans is, it’s cool. We should go there together.
+C: PERCY
+D: You’re not too busy?
+C: CARL
+D: I mean, not now...
+C: PERCY
+D: When?
+C: CARL
+D: I got a lot going on right now, with this critic coming in--
+C: PERCY
+D: After the review.
+C: CARL
+D: After? Sure.
+C: PERCY
+D: I’ve got a three day weekend next month.
+C: CARL
+D: Next month? Sure.
+C: PERCY
+D: Awesome.
+C: CARL
+D: I’ll have to ask mom.
+C: PERCY
+D: I already did. She’s cool with it.
+E: holds up text
+C: CARL
+D: Great.
+C: PERCY
+D: Can I get a funnel cake?
+C: CARL
+D: Why would you want a funnel cake? It’s just fried dough. CUT TO: EXT. FARMERS MARKET - MOMENTS LATER Carl and Percy are both stuffing their faces with funnel cakes.
+C: CARL
+D: I mean, if they like it then I got real job security. People come to restaurants for the chef.
+C: PERCY
+D: I thought you said they come for the food.
+C: CARL
+D: Same thing.
+C: PERCY
+D: No. If you make a killer menu and teach the cooks how to make the stuff, can’t they make it without you?
+C: CARL
+D: It’s not the same.
+C: PERCY
+D: Sure it is. Like on the days you’re not working. They still make the food, right?
+C: CARL
+D: Yeah. But then they’re stuck with the same menu.
+C: PERCY
+D: But when they like it, they don’t want to change the menu. Isn’t that why they fired you from the last place?
+C: CARL
+D: They didn’t fire me. I quit because they didn’t share my vision.
+C: PERCY
+D: Which was to change the menu. Right? CUT TO: EXT. MC MANSION - BRENTWOOD - DAY Carl’s car pulls away, leaving Percy out in front of his house. Percy has an ice cream cone.
+C: PERCY
+D: Bye dad! INT. GAULOISE - BRENTWOOD - DAY Carl bursts in as the WAIT STAFF prepares the dining room for service. Carl inspects as he briskly passes through.
+E: waving, happy
+C: CARL
+D: This is the big one. Let me know when he gets here. Get everyone around him drunk and happy. Paper the tables around him with any sexy friends you got who like to laugh. Tickets are on me. A cheer of approval rises from the young servers. He scurries into the kitchen. INT. KITCHEN - CONTINUOUS Salsa music is blasting. The kitchen staff is choreographed in coordinated harmony as steam billows from pots and stations are arranged. Carl sets down several bags of farmers market purchases.
+E: MORE
+C: CARL
+D: What’s happening here? Fill me in.
+C: TONY
+D: Stock’s working.
+C: MARTIN
+D: Pig’s broken down.
+C: TONY
+D: Ribs are braising. Anything good from the market? MOLLY, a very attractive floor manager in her 30s, pops into the kitchen.
+C: CARL
+D: Not now, Molly. I’m about to lay out the menu.
+C: MOLLY
+D: I’ve got--
+C: CARL
+D: I really can’t do this now. This is a big day.
+C: MOLLY
+D: Riva’s here. Everything stops.
+C: CARL
+D: What the hell is Riva doing here?
+C: MOLLY
+D: He was heading back here. I flirted and got him an espresso.
+C: CARL
+D: I bought you maybe five minutes if you want to meet him out there on the floor.
+E: CONT'D MORE
+C: CARL
+D: I can’t talk to him right now.
+C: MOLLY
+D: Fine. Expect him to come back here. As she leaves.
+C: CARL
+D: Tell him to stay the fuck out of my kitchen.
+C: MARTIN
+D: You know he’s coming back here.
+C: CARL
+D: How the fuck can he do this today?
+C: TONY
+D: It’s his restaurant.
+C: CARL
+D: But it’s my fucking kitchen! He made me a promise when he hired me. In walks RIVA, a cool customer in his sixties, sipping an espresso. He wears the clothes of a wealthy man. He is not shaken in the least by the tirade he just caught the tail end of.
+C: RIVA
+D: And you promised me a Michelin star. So we’re both disappointed.
+C: CARL
+D: Not today. Please.
+C: RIVA
+D: A lot is on the line today.
+C: CARL
+D: Exactly! I need to come up with a menu.
+C: RIVA
+D: That’s why I’m here. I’m here to help you.
+C: CARL
+D: This is my thing, Riva.
+C: MOLLY RIVA
+D: You’ve been off your game.
+E: CONT'D
+C: CARL
+D: I need some room. Tonight’s menu has to be perfect.
+C: RIVA
+D: And I can help you plan it.
+C: CARL
+D: That’s not how it works.
+C: RIVA
+D: I’ve done this before. I can help guide you.
+C: CARL
+D: I don’t need guidance. I need space.
+C: RIVA
+D: Can we have a little privacy. The staff leaves the kitchen. Carl erupts.
+E: to staff
+C: CARL
+D: What the fuck is that!?! You don’t tell my staff what to do! This is my kitchen! You see this line? Everything on that side of the line is yours and everything on this side of the line is mine. That was our agreement. That is how it’s going to be.
+C: RIVA
+D: Listen to me. I have ideas. My ideas work. I don’t care what awards you won or what magazine says you’re the next big thing. The fact is you work for me. In my restaurant. I’ve had chefs before you in this kitchen and I will have chefs after you. We are being reviewed by perhaps the most influential food magazine in the country. Not to mention this guy’s online presence. His blog just got bought by AOL. This restaurant is my life and I own it. It is mine. All of the freedom you have to chase your culinary muse and the money you have to support your child and pay alimony comes because I know what I am doing and I can afford to pay you well above market value. Carl just listens. He has been subdued and humbled. Riva produces a handwritten note.
+E: MORE
+C: RIVA
+D: This is the menu for tonight. I welcome your thoughts. Carl takes the menu and reads it. Riva exits, leaving an empty demitasse on the stainless counter top. The staff cautiously filter back in. They wait. Finally...
+E: CONT’D
+C: CARL
+D: We’re doing the egg caviar. The Hawaiian abalone again. The beef cheek with tamarind... All energy leaves the room. All of the electricity is gone. EXT. THIRD STREET PROMENADE - DAY CLOSE UP on a little marionette of a skeleton dancing and singing along with a recording of Al Green’s Tired of Being Alone. Carl stares at it. He is standing next to his son who is eating Wetzel’s Pretzel bits. He tries to attract his father’s attention.
+E: reads
+C: PERCY
+D: Dad? Dad..? INT. CLOSED BAR - VENICE - NIGHT Carl and his staff slam shots after work. Everyone is smoking and the bar is closed to all but other restaurant staffs. The mood is very festive. Like they’re celebrating. Carl reads from an iPhone:
+C: CARL
+D: “... What was reputed to be a reinterpretation of French gastrophilia rapidly degraded to a hackneyed rehash of derivative cliches.
+E: reading
+C: RIVA
+D: Gauloises has proven to be the birthing suite of yet another stillborn “Chef to Watch.” If Chef de Cuisine Carl Casper has something to say, he should say it somewhere else. Gauloises is still the best restaurant in Brentwood. But there is little pride in being declared the skinniest kid in fat camp. Three stars.”
+E: CONT'D MORE
+C: TONY
+D: Three stars!?!
+C: MARTIN
+D: What the fuck!?!
+C: CARL
+D: He pulverizes my asshole then he gives the restaurant three stars.
+C: MARTIN
+D: He’s fucking with you, dude.
+C: CARL
+D: That motherfucker.
+C: MARTIN
+D: He’s fucking with you.
+C: TONY
+D: Did you fuck his wife?
+C: CARL
+D: I fucking should.
+C: MARTIN
+D: He’ll fuckin do it.
+C: TONY
+D: Fuck him.
+C: MARTIN
+D: Three stars.
+C: CARL
+D: Riva paid him off or some shit.
+C: MOLLY
+D: He liked the food.
+C: CARL
+D: Wait, what?
+C: CARL MOLLY
+D: I watched him the whole time. He liked everything. I told you that that night.
+E: CONT'D
+C: CARL
+D: You always say they like the food.
+C: MOLLY
+D: I don’t lie to you, Carl.
+C: CARL
+D: How do you know?
+C: MOLLY
+D: I would ask him. He said everything was perfectly cooked and delicious. Beat.
+C: MARTIN
+D: Some shit’s fucked up.
+C: TONY
+D: Something’s going on here. EXT. ELECTRIC AVENUE - VENICE - NIGHT Carl and Molly smoke a joint on the hood of a parked car behind the bar.
+C: CARL
+D: I don’t get it. I don’t fucking get it.
+C: MOLLY
+D: He’s an asshole.
+C: CARL
+D: I try so fucking hard.
+C: MOLLY
+D: You’re the best chef I’ve ever worked with. He turns. Touched and vulnerable.
+C: CARL
+D: Really?
+C: MOLLY
+D: Really. Just watching you work. It makes me excited to come in every day. To do it right. To not let you down. After a pause of emotional warmth Carl goes to kiss her. She politely retreats.
+C: MOLLY
+D: I can’t
+E: CONT’D
+C: CARL
+D: Why?
+E: sweetly
+C: MOLLY
+D: I just can’t.
+C: CARL
+D: You liked it last time.
+C: MOLLY
+D: That’s not the point. We work together.
+C: CARL
+D: We did it before and it didn’t change anything.
+C: MOLLY
+D: Exactly. It didn’t change anything. He starts kissing her again. She gives in.
+C: MOLLY
+D: Oh, fuck it.
+E: CONT’D
+C: SMASH TO:
+D: INT. BEDROOM - CARL’S APARTMENT - VENICE - NIGHT SILHOUETTE of four thrusts of them unceremoniously pounding the shit out of one another.
+C: SMASH TO:
+D: INT. CARL’S APARTMENT - NIGHT - LATER Molly smokes naked in bed. Alone.
+C: MOLLY
+D: We shouldn’t have done that. Carl call back from the kitchen. He is meticulously preparing a charcuterie board and tiny runny grilled cheddar sandwiches on farmers sourdough.
+C: CARL
+D: Why?
+C: MOLLY
+D: It’s no good. You’re married.
+C: CARL
+D: I’ve been divorced for five years.
+C: MOLLY
+D: Point is, you’re not emotionally available. He brings in the late night snack.
+C: CARL
+D: Taste this and you tell me who’s not emotionally available. She bites into it. Ecstacy.
+C: MOLLY
+D: Oh my Gawd... This is amazing.
+C: CARL
+D: I told you I’d give you an orgasm by the end of the night. EXT. MC MANSION - BRENTWOOD - DAY Carl waits in his old Mercedes out front of his ex-wife’s mini mansion. He listens to vintage Latin music. Percy runs up to his window.
+C: CARL
+D: Let’s go. We’re going to be late.
+C: PERCY
+D: Mom wants to talk to you. CUT TO: INT. MC MANSION - BRENTWOOD - DAY Carl walks past an endless parade of domestic employees. A handyman is painting. A cleaning lady is cleaning. A cook is cooking. Percy leads him to an office in the back where a gardener gardens and a CAR WASHER washes the car. Carl’s beautiful Cuban ex-wife, INEZ, sits wearing a bluetooth headset. She smiles and holds up a finger as she trills on in Spanish.
+C: INEZ
+D: It’s being delivered in the morning. It may even get there tonight... Hi, Papi. Yes. It will all be there. I have to go. Bye. The headset comes off.
+E: into phone/Spanish then to Carl then into phone/Spanish
+C: INEZ
+D: Are you okay?
+E: CONT’D
+C: CARL
+D: About what? The review? What the hell does it mean anyway? I cooked what they wanted me to cook. And I got three stars. I mean, three stars is good. I don’t know why he was saying all that negative--
+C: INEZ
+D: Are you happy there?
+C: CARL
+D: Sure. I mean, we’re packed every night. I get to cook whatever I want. I mean usually... He pays me well.
+C: INEZ
+D: Since when does that matter?
+C: CARL
+D: Since you keep a staff of fifty people to keep the compound up to snuff.
+C: INEZ
+D: Don’t start.
+C: CARL
+D: You have literally fifty people working here. Percy’s nine. Does he really need a nanny?
+C: INEZ
+D: You want to talk about it? Let’s talk about it.
+C: CARL
+D: Just to be clear, you believe a nanny is a lifetime position. Even when you don’t have kids anymore.
+C: INEZ
+D: This isn’t why I invited you in.
+C: CARL
+D: He’s in school all day. What does she even do here? Hi Guadalupe.
+E: then
+C: INEZ
+D: Could we not talk about this now? I just wanted to make sure you’re okay.
+C: CARL
+D: Thank you. I am. Nice moment. Then.
+C: CARL
+D: You need money?
+E: CONT’D
+C: INEZ
+D: I’m good.
+C: PERCY
+D: We’re going to be late.
+C: SMASH TO:
+D: INT. MOVIE THEATER - DAY Carl and Percy sit side by side eating popcorn and watching a loud action movie. Abrupt CUT TO: EXT. SANTA MONICA PIER - DAY Carl and Percy sit side by on a racing rollercoaster. Abrupt CUT TO: EXT. MC MANSION - BRENTWOOD - NIGHT Carl pulls away leaving Percy in front of his house waving.
+C: PERCY
+D: Bye, dad. INT. KITCHEN - GAULOISES - NIGHT Tight, impressionistic SHOTS of Carl preparing a dish. He is alone and experimenting. Each ingredient, and cooking surface, and knife stroke and gas flame fills the SCREEN unexpectedly, each gesture imbued with a wisp of life. Cooking is a transcendent dance for Carl, and time bends as he enters the flow. A dish emerges as if sculpted with time and temperature. And many other beautiful creations now surround him. Martin enters. It is clear that it is now... INT. KITCHEN - GAULOISES - MORNING
+C: MARTIN
+D: You been here all night?
+C: CARL
+D: I need a new menu.
+C: MARTIN
+D: You got to get some sleep, dude. Fuck Twitter.
+C: CARL
+D: What do you mean fuck Twitter?
+C: MARTIN
+D: I mean fuck em. Who even reads that shit anyway.
+C: CARL
+D: I’m not on Twitter. I don’t know what you’re talking about.
+C: MARTIN
+D: Nothing. It’s just some bullshit.
+C: CARL
+D: Taste this. Carl feeds him a spoon like a baby.
+C: MARTIN
+D: Woooo hoo! You gotta serve that shit tonight.
+C: CARL
+D: I’m going to make it the special. Tony walks in, arriving at work.
+C: TONY
+D: You were cooking all night, you sick fuck?
+C: MARTIN
+D: Taste this shit. Martin feeds Tony like a baby.
+C: TONY
+D: Fuck, that’s good.
+C: CARL
+D: Tonight’s special.
+C: TONY
+D: Yo, fuck Twitter.
+C: CARL
+D: Again with the Twitter. Show me this Twitter thing.
+C: TONY
+D: You’re not on Twitter?
+C: CARL
+D: No.
+C: TONY
+D: Are you getting too much pussy? Is that the problem?
+C: CARL
+D: What’s Twitter got to do with pussy?
+C: TONY
+D: Have you ever heard the term social networking?
+C: CARL
+D: Yes.
+C: TONY
+D: That’s what it means.
+C: CARL
+D: It means pussy?
+C: MARTIN
+D: Yeah.
+C: TONY
+D: Or ticket sales, or getting people to show up to see a band. Anything that requires a data base.
+C: CARL
+D: And you’re saying pussy requires a data base.
+C: MARTIN
+D: Uh... Yeah.
+C: TONY
+D: Not for “The Most Promising Chef” of Food and Wine magazine.
+C: CARL
+D: So show me your Twitter. What’s it say that’s so bad?
+C: MARTIN
+D: Nothing, Jefe. I want to hear your new menu.
+E: covering
+C: CARL
+D: I’m thinking we switch things up more. Why limit ourselves to the French classics? Let’s bring in other flavor profiles.
+C: TONY
+D: But it’s a French restaurant.
+C: CARL
+D: Riva has us cooking the same exact menu for the last five years.
+C: TONY
+D: It’s a good menu.
+C: CARL
+D: I know. I came up with it five years ago. We have to switch it up.
+C: TONY
+D: We do switch it up. Every few months.
+C: CARL
+D: Please. We swap out one dish for a dish we already served. I feel like a robot.
+C: TONY
+D: You should check with Riva first.
+C: CARL
+D: You’re my sous chef. Don’t worry about Riva. Worry about me.
+C: TONY
+D: I worry about you all the time. That’s why I’m telling you.
+C: CARL
+D: Thank you for your concern. Now. Here’s tonight’s menu and how I want it prepared... INT. CARL’S APARTMENT - VENICE - DAY Carl and Percy stare at a TV and eat hero sandwiches from Bay City Deli.
+C: CARL
+D: How does Twitter work?
+C: PERCY
+D: It’s cool.
+C: CARL
+D: That’s how it works? It’s cool?
+C: PERCY
+D: You tweet on it.
+C: CARL
+D: Is it like texting?
+C: PERCY
+D: No.
+C: CARL
+D: Can you sign me up? CUT TO: INT. CARL’S APARTMENT - VENICE - MOMENTS LATER Percy is punching numbers into Carl’s iPhone at the breakfast table.
+C: CARL
+D: Is it for sex?
+C: PERCY
+D: Ew! No! Is that what you’re doing this for?
+C: CARL
+D: No!
+C: PERCY
+D: What do you want your user name to be?
+C: CARL
+D: Carl.
+C: PERCY
+D: You can’t just put “Carl.” It has to be “at” something.
+C: CARL
+D: At Carl.
+C: PERCY
+D: It’s gonna be taken.
+C: CARL
+D: At Carl Casper.
+C: PERCY
+D: Taken.
+E: types
+C: CARL
+D: Someone took my name?
+C: PERCY
+D: There. Carl Casper with K’s.
+C: CARL
+D: Carl Casper with K’s.
+C: PERCY
+D: What do you want this for?
+C: CARL
+D: Someone said there’s something bad on there.
+C: PERCY
+D: Wait. Here. Hang on. Oh, shit.
+C: CARL
+D: Don’t say that.
+C: PERCY
+D: That review is viral.
+C: CARL
+D: What’s viral?
+C: PERCY
+D: It got picked up and retweeted everywhere.
+C: CARL
+D: Is that bad?
+C: PERCY
+D: Not really. It just means a really lot of people are reading it reposting it so all of their followers can read it.
+C: CARL
+D: Oh shit.
+C: PERCY
+D: I think it’s cool.
+C: CARL
+D: I don’t.
+C: PERCY
+D: No, I mean us doing this.
+C: CARL
+D: Doing what?
+C: PERCY
+D: You know, hanging out.
+C: CARL
+D: We always hang out.
+C: PERCY
+D: I mean, like, hanging out and doing something.
+C: CARL
+D: We do lots of things.
+C: PERCY
+D: No, like learning things from each other. And talking. Not just watching something or doing something. Wow...
+C: CARL
+D: I guess I just figured with you living with mom and me working so much you would want to have fun when we’re together.
+C: PERCY
+D: Well, I think this is fun. Just, like, figuring stuff out. Like when you lived at home.
+C: CARL
+D: I miss it too.
+C: PERCY
+D: Then why don’t you move back home.
+C: CARL
+D: Percy, listen, you’re not the reason your mom and I are separated.
+C: PERCY
+D: I know.
+C: CARL
+D: Good. Cause it’s true.
+C: PERCY
+D: Then why?
+C: CARL
+D: It’s hard to explain. We grew apart.
+C: PERCY
+D: Oh.
+C: CARL
+D: Understand?
+C: PERCY
+D: No.
+C: CARL
+D: It’s hard to explain. Can we twitter each other? Like when we’re not together.
+E: then
+C: PERCY
+D: Yeah.
+E: smiles
+C: CARL
+D: Will you show me how? The father and son hunker down. Quality time as we trail off in a WIDE SHOT.
+C: PERCY
+D: Ok. First, you gotta enter my user name here. You can also log in on your iPad. If you click this button it posts it on your feed, where everyone who follows you can read it and since I follow you, you can direct message me...
+C: CARL
+D: How did you get so smart? DISSOLVE TO: INT. CARL’S APARTMENT - VENICE - NIGHT Percy is sleeping in a foldaway bed in Carl’s modest apartment. The lights are all off but for a bright fixture pointed down at the table where Carl sits peering and poking at his iPad mini. We see the iPad in both INSERTS and as CHYRONS on the SCREEN showing the TWITTER FEED. He does a search for his own name and, sure enough, a headline pops up: “Carl Casper - Stillborn Chef” He clicks the link and it’s the scathing review. He scrolls through the search results and there are endless RETWEETS of the repeated article. He clicks the link of who originally posted the review. It’s @RamseyMichel A profile page shows other review headlines and a link to... A HOMEPAGE, sponsered by AOL. Ramsey Michel is clearly a passionate food critic and blogger who not only writes, but provides a digital nexus for discerning food culture. His page boasts a meticulous design and a photographic portrait of Ramsey Michel sitting at a white linen tablecloth about to eat a plate of Zeros and Ones. The blog is called “The Digital Palate” and he also seems to review for a larger established food magazine in which the bad review had also appeared. Carl can’t help but reread the lashing of words, now with a press photo of himself repurposed for the blog. He clicks the link of his photo and it takes him to the original article in FOOD & WINE MAGAZINE from almost a decade ago that touted Carl Casper: MOST PROMISING CHEFS. Carl Casper stands in a chefs coat with arms crossed sporting his culinary forearm tattoos. “THE MAVERICK WITH MUSCLE” is engraved below the artistic portrait in tattoo lettering. The deco architecture of SOUTH BEACH, MIAMI looms behind him. JUMP TO Carl eating cold leftovers as he reads Ramsey Michel’s blog again and clicks links to other pages. JUMP TO Carl eating a bowl of cereal as he looks at Ramsey Michel’s twitter profile and CLICKS THE BUTTON to REPLY to @RamseyMichel...
+E: impressed ten years younger
+C: TWITTER
+D: @RamseyMichel Is Gauloises a three star restaurant or a “hackneyed rehash?” You can’t even write a consistent review. Carl hits send and crashes to bed. Hitchcock shot pushing in on his phone... The twitter feed starts to fill rapidly... INT. KITCHEN - CARL’S APARTMENT - VENICE - MORNING Magical CLOSE CUTS of: eggs being broken. Whisked. Crackling in a seasoned iron skillet. Bacon curling. Biscuits rolled and floured. Steaming as they’re pulled from an outdated oven in a humble kitchen. Espresso made in an old aluminum stovetop Primula. Home fries perfectly browned. Oranges hand juiced. As Carl toils in the kitchen, his sleepy nine year old son zombie walks to the breakfast table and waits for breakfast and clearheadedness. He checks out dad’s phone and is puzzled.
+C: PERCY
+D: Dad. You got over three thousand followers since last night.
+C: CARL
+D: Is that good?
+C: PERCY
+D: It’s amazing.
+C: CARL
+D: What does that mean?
+C: PERCY
+D: It means three thousand people are reading your twitter feed.
+C: CARL
+D: I thought it was like texting. Percy, curious, checks his feed and @ mentions. He is concerned.
+C: PERCY
+D: Did you post anything?
+C: CARL
+D: No.
+C: PERCY
+D: Are you sure?
+C: CARL
+D: Yes. I just sent a private message.
+C: PERCY
+D: To who?
+C: CARL
+D: That a-hole food critic.
+C: PERCY
+D: You could only send a private message to someone who is following you. I think you posted it publicly.
+C: CARL
+D: No. He wrote a nasty message about me and I hit “reply” and it let me send him a message.
+C: PERCY
+D: Dad. Replies are public. Everyone can read them. And it looks like he retweeted it to all of his... three million followers. And he wrote back.
+C: CARL
+D: What’s it say?
+E: uh oh
+C: PERCY
+D: “@KarlKasper If you worried more about your cooking and less about my writing you might not be such a disappointment.”
+C: CARL
+D: What? He wrote that to me?
+C: PERCY
+D: He wrote that to everybody.
+C: SMASH TO:
+D: INT. KITCHEN - GAULOISES - MORNING Carl reads his iPhone. He has now fully discovered the dark side of the social networking. Tony and Martin are gathered in looking at their phones too.
+C: TONY
+D: You gotta be fisting me.
+C: CARL
+D: Do you realize how many people have read this? Look. I’m up to ten thousand followers. And they’re sending me messages. They’re goading me into responding.
+C: MARTIN
+D: Leave it alone, dude.
+C: CARL
+D: But half the people are saying he’s right.
+C: TONY
+D: And half the people are saying he’s wrong. Welcome to the fucking internet. Carl starts typing.
+C: MARTIN
+D: Don’t do it, Jefe.
+C: TONY
+D: Fuck him. “Why don’t you come by again tonight. I got a whole new menu just for you asshole.”
+E: types reads
+C: TONY
+D: Don’t do it... Carl clicks SEND. There is a stillness in the air. Such a quiet little gesture is now being read by thousands of people.
+E: CONT’D
+C: TONY
+D: That’s out there now. There’s no way to take that back.
+E: CONT’D
+C: CARL
+D: Good. I don’t want to take that back. I threw down the gauntlet, so let’s get ready for a fight. I’m gonna drop off Percy and when I come back I’ll have a whole new menu written for tonight. You know what? I’m fucking happy this happened. We’re going to really cook again! Carl hustles out leaving Martin and Tony quietly behind. A foreboding moment hangs in Carl’s wake. Carl scoops up Percy who sits with Molly in the empty dining area.
+C: MOLLY
+D: Oh look. Daddy’s done.
+C: CARL
+D: Let’s go, champ. Prep the staff. Whole new menu tonight. Keep it quiet from Riva. I don’t need the aggravation tonight.
+E: to Molly
+C: MOLLY
+D: You should really take a minute to--
+C: CARL
+D: I’ll prepare every dish for everyone to taste before we open. INT. CARL’S CAR - MORNING Carl drives Percy home.
+C: PERCY
+D: So where we going today.
+C: CARL
+D: I’m sorry, buddy. I’ve got to drop you off at home. Percy is disappointed.
+C: PERCY
+D: Why do I always have to stay out of the kitchen?
+C: CARL
+D: I just needed to talk to the guys for a minute.
+C: PERCY
+D: I mean when you’re working.
+C: CARL
+D: It’s loud and hot and there’s a lot of bad language.
+C: PERCY
+D: I hear bad language all the time.
+C: CARL
+D: Where?
+C: PERCY
+D: Online.
+C: CARL
+D: What kind of sites can a nine year old get on that has cursing?
+C: PERCY
+D: YouTube.
+C: CARL
+D: Besides, I thought you like to talk to pretty Molly.
+C: PERCY
+D: I’d rather hang out in the kitchen.
+C: CARL
+D: When you’re older.
+C: PERCY
+D: Can I come shopping with you?
+C: CARL
+D: No. I have a lot to do and a lot on my mind.
+C: PERCY
+D: Why was that man so mean to you?
+C: CARL
+D: The food critic?
+C: PERCY
+D: Yeah.
+C: CARL
+D: It’s his job.
+C: PERCY
+D: To write bad things about people?
+C: CARL
+D: To write bad things. To write good things.
+C: PERCY
+D: But they write bad about you.
+C: CARL
+D: They wrote good things about me too. Back when I worked in Miami they wrote really nice things about me.
+C: PERCY
+D: That’s where you met mommy.
+C: CARL
+D: And where you were born. And where your Abuelito lives.
+C: PERCY
+D: Are you going to marry Molly.
+C: CARL
+D: What? What did she say to you?
+E: shocked
+C: PERCY
+D: About what?
+C: CARL
+D: About getting married?
+C: PERCY
+D: Nothing.
+C: CARL
+D: Oh, God. Don’t scare me like that.
+C: PERCY
+D: Are you?
+C: CARL
+D: No. No I’m not. Not that she’s not a great person. I’m just not... The answer is I’m not getting married to anyone. Not for a long time.
+C: PERCY
+D: Oh.
+C: CARL
+D: Why? Don’t you like her?
+C: PERCY
+D: She’s cool.
+C: CARL
+D: You just don’t want me getting married.
+C: PERCY
+D: Right.
+C: CARL
+D: Because she’s not mom.
+C: PERCY
+D: Right.
+C: CARL
+D: I totally get it. I do. But one of these days I might get into a relationship and as much as I love mom and as good of friends as we are, you may have to open yourself up to the idea of me with someone other than mom.
+C: PERCY
+D: It’s hard.
+C: CARL
+D: I know. I know it is. That’s why I’m bringing it up now.
+C: PERCY
+D: I can only picture you with mom.
+C: CARL
+D: That’s totally understandable. And, to be clear, I don’t foresee any of this happening soon.
+C: PERCY
+D: Good.
+C: CARL
+D: But I’m asking you to keep an open mind.
+C: PERCY
+D: I’ll try. EXT. MC MANSION - BRENTWOOD - DAY Carl pulls up and Inez is waiting by the curb.
+C: INEZ
+D: Papi, are you okay?
+C: CARL
+D: Yeah. I’m fine.
+C: INEZ
+D: You want to talk. My publicist says she would talk to you if you want.
+C: CARL
+D: About what? I twittered one thing.
+C: INEZ
+D: Papi, it’s going viral. He’s been blogging all day about you challenging him.
+C: CARL
+D: What?
+C: INEZ
+D: Just talk to Jen. Come inside. We could call her.
+C: CARL
+D: I really have to go. I have to go to the market and prep an entire new menu for tonight.
+C: INEZ
+D: Please. INT. MC MANSION - BRENTWOOD - DAY Carl and Inez sit in her home office as she leaves a message.
+C: INEZ
+D: Hi Jen. Give me a call at home. I got Carl here. He needs to hear what you were telling me about digital publicity. Ciao.
+E: leaves voicemail
+C: CARL
+D: I’m going to go.
+C: INEZ
+D: She’ll call right back she’s on the other line.
+E: pointing to text
+C: CARL
+D: I think you’re making more of this than it is.
+C: INEZ
+D: I know why you’re upset. You should be. I think the problem is not the twitter. It’s where you are working.
+C: CARL
+D: I don’t want to hear about the food truck idea again.
+C: INEZ
+D: Why? I can get you one for nothing. You can be your own boss. Cook your food.
+C: CARL
+D: I’m not becoming a hot dog vendor.
+C: INEZ
+D: That’s your ego talking. Getting written up was the worst thing that happened to you.
+C: CARL
+D: It’s one bad review.
+C: INEZ
+D: No. I mean the good reviews. Eight years ago.
+C: CARL
+D: What?
+C: INEZ
+D: You used to take chances. You were happy. Now you play it safe. You’re miserable.
+C: CARL
+D: I gotta go.
+C: INEZ
+D: You know the food truck is a good idea. I could book you for all the parties I’m doing.
+C: CARL
+D: I’m not a caterer, okay? And I don’t need any charity from you or your ex-husband.
+C: INEZ
+D: He offered. And he was your friend too.
+C: CARL
+D: I don’t want any kind of trendy bullshit food truck. Especially from him. I have a job in one of the top restaurants on the West Side. We do consistent business and people like the food.
+C: INEZ
+D: I know you. And I know you’re not happy.
+C: CARL
+D: I’m starting to remember why things didn’t work out with us. That biting comment ends the conversation. We reveal that Percy was listening from outside the room unbeknownst to his parents. This is the last thing he wanted to hear.
+C: CARL
+D: Now I’ve got to go and cook my food at my restaurant, despite what you might think. I have complete freedom and I like my life. As far as your publicist goes, if she calls back, tell her I had to go but she can call me on my cell, but I already understand that shit on the internet never goes away and I won’t tweet any pictures of my dick. Beyond that, I would appreciate being left alone and any career advice for me should be kept to oneself. INT. GAULOISE - BRENTWOOD - DAY Carl bursts in with arms full of groceries. There is a buzz in the kitchen.
+E: CONT’D exit
+C: CARL
+D: Chingale. Gather the whole kitchen staff. I got the whole menu. All local. Farm to table. All simple to prepare. How much beef stock is left?
+E: pulls a scribbled page
+C: TONY
+D: Enough.
+C: CARL
+D: Demi glace? Molly heads in as Carl lays out ingredients.
+C: MOLLY
+D: Carl. We need to talk about tonight.
+C: CARL
+D: How many covers are we expecting?
+C: MOLLY
+D: We’re overbooked. But--
+C: CARL
+D: I can get used to this twitter thing. I want a table for one with a “reserved” sign sitting on it. In script. Like in a fucking movie, waiting for that prick Ramsey Michel so everyone can see if he never shows up.
+C: MOLLY
+D: I think you should go out front--
+C: CARL
+D: I got a whole new menu. Tell the front of the house I want them to sample every dish. I want them to really understand what’s going on with the new menu, not just push out the specials. The whole menu’s special. And there’s no paper menu tonight. I’ll write it out on a fucking board like a bistro... Riva walks in. The Grim Reaper.
+C: RIVA
+D: The menu is staying the same. You may slot in one special that I have the right to approve.
+C: CARL
+D: Riva. I’ve got a whole new thing for tonight.
+C: RIVA
+D: That may be true, but this is the most reservations we’ve had for a weeknight since we opened.
+C: CARL
+D: That’s because I got on twitter.
+C: RIVA
+D: That’s another thing. From now on I will approve anything you post online.
+C: CARL
+D: That’s the whole reason people are coming. I called out Ramsey Michel and they want to see me stick it up his ass.
+C: RIVA
+D: You attacked one of the most influential critics in the city and you will tweet an apology.
+C: CARL
+D: You’re fucking crazy--
+C: RIVA
+D: I am fucking crazy. That’s why either you keep the same menu our customers have come to expect--
+C: CARL
+D: The same food?
+C: RIVA
+D: The same exact menu with one daily special that I have approval over--
+C: CARL
+D: Our deal is the kitchen is my domain--
+C: RIVA
+D: The deal changed. Fuck. Everyone is uncomfortable.
+C: RIVA
+D: Now you can stay or you can go. It’s up to you.
+E: CONT’D
+C: CARL
+D: These people are here for my food.
+C: RIVA
+D: No they’re here for my food.
+C: CARL
+D: I created these dishes.
+C: RIVA
+D: For my restaurant. Either you can cook them or Tony can. He does half the time anyway.
+C: CARL
+D: So your firing me and promoting my Sous Chef.
+C: RIVA
+D: I’m not firing anyone. I’m telling you what I’m prepared to do if you get all artsy on me.
+C: CARL
+D: And this is okay with you?
+E: to Tony
+C: RIVA
+D: We already discussed it. He’s ready to run a kitchen. Wow. This hurts.
+C: CARL
+D: I see. I see. No outburst. He removes his apron and grabs his knife bag.
+C: CARL
+D: Good luck. He leaves. No one takes this lightly. The air is heavy. INT. CARL’S APARTMENT - VENICE - DAY/NIGHT Carl unpacks the mountain of groceries and, through a tapestry of images set to Cuban acoustic folk guitar and vocals, we see him assemble the menu he had planned for that night at Gauloises restaurant. CROSS CUT WITH: INT. GAULOISE - BRENTWOOD - NIGHT We follow Molly, dressed to the nines, as she seats guests. The bar is full. Diners are cued at the hostess stand. Tables are full. Molly looks up as the camera evolves into an OVER of a GUEST who has entered. Molly looks up and visibly tenses as she recognizes the DINER. She leads him to a two top that is set and waiting with a “reserved” sign on it. He sits and we dramatically reveal it to be RAMSEY MICHEL from the blog photo. He politely accepts a menu. His confusion reading the selections available is INTERCUT with Carl’s solitary preparations in his home kitchen. Ramsey Michel waves over Molly.
+E: CONT’D
+C: MOLLY
+D: How can I help you?
+C: RAMSEY MICHEL
+D: Is this is the same menu as last time I was here?
+C: MOLLY
+D: I believe it is, yes.
+C: RAMSEY MICHEL
+D: I was under the impression that tonight was to be more of an “event.”
+C: MOLLY
+D: I understand.
+C: RAMSEY MICHEL
+D: Is there any way that I may have a word with Chef Casper?
+C: MOLLY
+D: I’m afraid-- Riva interrupts, gladhanding the VIP.
+C: RIVA
+D: Unfortunately Chef was called away.
+C: RAMSEY MICHEL
+D: I see. Has he left word as to when he plans to return?
+C: RIVA
+D: I’m afraid that was left ambiguous. Why don’t I bring you a drink and an order of the caviar egg while you wait. Have you ever tried the caviar egg? It’s one of our signature dishes.
+C: RAMSEY MICHEL
+D: I have.
+C: RIVA
+D: Molly, I’d like you to see to it that Monsieur Michel is served a caviar egg without delay. Molly seems queasy and conflicted as she attends to the request. INT. CARL’S APARTMENT - VENICE - NIGHT He meticulously plates each dish. He sits surrounded by the feast. A lonely party with no guests. Night has fallen. Then the eating begins. A taste from each plate. He logs on to twitter and sees there are a staggering amount of mentions. He attempts to compose a tweet. It appears on screen as a Chyron as he types:
+C: TWITTER
+D: It is with great sadness that I announce that I have left... He then DELETES the post before ever hitting send. He surfs. GOOGLES himself. Never a good idea. A page of search results come up. Snippets of his history. Pics of him posing outside a MIAMI FRENCH RESTAURANT. Features of him as a promising new chef from the Miami Herald. Time Out. New York Times. LA Times. New head chef of Gauloises. Lots of hype. Good reviews from years ago celebrating the fresh new menu at Gauloises. A promise of great things to come. Then he checks the twitter feed. There is a fresh post by @RamseyMichel:
+C: TWITTER
+D: It’s official. Stillborn Chef @KarlKasper was a no show. Perhaps the lack of heart is what I tasted in his food. Carl is afraid, shocked, disgusted and infuriated. At his table in Gauloises, Ramsey Michel puts away his cell phone as he ambiguously pecks at a caviar egg. INT. KITCHEN - GAULOISES - NIGHT - LATER Molly is on the house phone. The kitchen is slammed. Martin sweats at the grill. Dishes stack at the washing station. Tony struggles in his new role as Chef de Cuisine. Riva storms in, totally flustered...
+E: CONT’D
+C: RIVA
+D: Table eleven is still waiting for apps! Molly, I need you to help expedite!
+C: MOLLY
+D: I’ll be right there. I got a res cancelling. We’re in deep weeds, Carl, I can’t talk.
+E: into phone
+C: CARL
+D: What did we serve?
+E: o.c.
+C: MOLLY
+D: The same shit. He refused dessert.
+C: CARL
+D: Keep him there.
+E: o.c.
+C: MOLLY
+D: What!?!
+C: CARL
+D: I said keep him there! CAMERA SLAMS into Molly’s face as she realizes... She looks through the porthole to the front of house. The front door flies open. Carl charges in like a Brahma bull. SLAM into Carl as he looks around. Then he sees Ramsey Michel preoccupied with postprandular texting. Riva sees and gets in Carl’s face to intercept the confrontation. Afro- Cuban percussion swells the SCORE as blood rises.
+C: RIVA
+D: Back of the house! Work your way through the stacked tickets and we’ll talk reinstatement. On my terms.
+E: hushed intimidation
+C: CARL
+D: Fuck you. Carl pushes past him and calls to Ramsey Michel’s table. The restaurant falls silent. Ramsey looks up as we PUSH IN to his bemused expression.
+C: CARL
+D: No heart!?! Is that what you tasted?
+E: CONT’D holds up phone
+C: RAMSEY MICHEL
+D: I wrote the truth.
+C: CARL
+D: You wouldn’t know good food if your face was smashed into it! Cell phone cameras start popping up like prairie dogs.
+C: RAMSEY MICHEL
+D: At first I was surprised that you didn’t show. Then it made sense. You’ve got nothing left to say.
+C: CARL
+D: Nothing to say? How’s this, asshole? You’re a self-satisfied judgemental--- HATER! You make nothing. You live to tear others down who are trying. Ramsey calmly rises, leaves a generous tip and evenly and quietly offers to Carl...
+C: RAMSEY MICHEL
+D: I was talking about your cooking. You have nothing left to say with your cooking. And if you were “trying” we wouldn’t even be having this conversation.
+E: measured then quietly
+C: CARL
+D: You’re a fucking asshole! You know that? Go ahead! Walk out! You pompous fuck! Go! Ramsey walks out, unfazed. Carl is left alone in a forest of staring video phones and flashing cameras. Martin, Molly, Tony, and Riva all watch as Carl is frozen with numb fog. CUT TO: Tight on a laptop screen featuring a TMZ.com article. It is a video clip of Carl’s outburst in Gauloises the night before with the headline “HOLLYWOOD CHEF GOES POSTAL ON FOOD CRITIC.” Reveal we are in... INT. CARL’S APARTMENT - VENICE - DAY Carl is on the phone with Inez’s publicist JEN, who we CROSS CUT with in her... INT. PUBLICISTS OFFICE - LOS ANGELES - DAY - CONTINUOUS Jen is dressed very smart behind her desk in a sandblasted brick loft space.
+C: JEN
+D: I don’t think you understand how this works. This is exactly the type of thing that website lives for.
+C: CARL
+D: But you’re a publicist. Don’t you have relationships with these people. I mean, isn’t that what you are hired to do?
+C: JEN
+D: I do have relationships, but it’s out there. Even if I could persuade one site to pull down one clip there are a dozen others from other cell phones.
+C: CARL
+D: Can we at least lawyer up and threaten them with legal action?
+C: JEN
+D: Then that becomes another story. That you’re threatening them. Do you get what I’m saying?
+C: CARL
+D: No.
+C: JEN
+D: Because there’s so much footage it’s become a hot story. And it’s of you threatening someone.
+C: CARL
+D: I didn’t threaten him--
+C: JEN
+D: You said you would smash his face in the food--
+C: CARL
+D: I said he wouldn’t know good food if I smashed his face in it. That’s different--
+C: JEN
+D: So then you threatening them with lawyers builds on the story that’s already getting a lot of play. And then you get another week of headlines. And this critic has been posting fresh blogs about you nonstop and they’re all getting picked up. And the picked up headlines are getting picked up by each other. I’ve never seen anything like it.
+C: CARL
+D: So you’re telling me there’s nothing I can do.
+C: JEN
+D: To get the footage down, no. That lives forever.
+C: CARL
+D: Great. Awesome.
+C: JEN
+D: But there might be an opportunity here.
+C: CARL
+D: How can this possibly be an opportunity?
+C: JEN
+D: I was holding off until we spoke, but I’m fairly certain we have a good shot at Hell’s Kitchen.
+C: CARL
+D: Wait, what?
+C: JEN
+D: The reality show.
+C: CARL
+D: I don’t think you understand what the fuck is going on right here. I am a real chef and I need a real job. I am not a clown or a circus performer. I need to find a job and none of this is helping. I was featured as Most Promising Chef in--
+C: JEN
+D: Yes. Inez sent the press packet. It’s very impressive. But that was then and this is now.
+C: CARL
+D: I need a job.
+C: JEN
+D: You’re profile says you’re up to two hundred thousand followers on Twitter.
+C: CARL
+D: I’m about to cancel the account.
+C: JEN
+D: Don’t! I can get you money to mention products.
+C: CARL
+D: What the fuck do you think I’m about? Aren’t you listening to me?
+C: JEN
+D: You said you needed money.
+C: CARL
+D: A job. I need a job. Like I had.
+C: JEN
+D: Look. I don’t know how the whole culinary thing works, but in Hollywood when you get caught up on the wrong side of the publicity machine you got two choices: You either lean into it and work it for all it’s worth...
+C: CARL
+D: The Honey Boo Boo approach.
+C: JEN
+D: For lack of a better example. By the way, do you have any idea how much money she pulls down--
+C: CARL
+D: Let’s move on.
+C: JEN
+D: Or you go underground until the storm passes.
+C: CARL
+D: I thought this shit lives forever online.
+C: JEN
+D: It does. But the news cycle is fast and there’s so much white noise nobody remembers anything. At least not the specifics. Just a faint glimmer of familiarity. Example: Nobody remembers exactly what OJ was in trouble for.
+C: CARL
+D: Yes they do.
+C: JEN
+D: Okay. That’s not the best example. It’s the exception that proves the rule.
+C: CARL
+D: Okay. Thanks for your time.
+E: gives up
+C: JEN
+D: Call anytime.
+C: CARL
+D: Thank you. And thank Inez for me.
+C: JEN
+D: And as far as Hell’s Kitchen?
+C: CARL
+D: What about it?
+C: JEN
+D: Do you want me to pursue it?
+C: CARL
+D: No I don’t want you to pursue it.
+C: JEN
+D: Good. Fine. I was just checking.
+C: CARL
+D: Goodbye. My other line’s ringing.
+C: JEN
+D: Bye. He switches over and it’s Inez. We CROSS CUT the call with her... INT. MC MANSION - BRENTWOOD - DAY - CONTINUOUS Inez sits in her home office on the phone with Carl.
+C: CARL
+D: Hi.
+C: INEZ
+D: Hi, Papi. Did Jen call you?
+C: CARL
+D: Just got off with her.
+C: INEZ
+D: And?
+C: CARL
+D: It’s a mess. I just want to cook.
+C: INEZ
+D: It will all work out.
+C: CARL
+D: I have a couple leads on head chef positions.
+C: INEZ
+D: Good.
+C: CARL
+D: A half dozen places tried to poach me when I was working at Gauloises. I have some appointments lined up this week.
+C: INEZ
+D: They would be lucky to have you.
+C: CARL
+D: Listen. Until this job situation is sorted out, I need you to keep Percy.
+C: INEZ
+D: You’re still taking him to New Orleans, right?
+E: concerned
+C: CARL
+D: Is he there? She looks over to Percy who sits on the couch playing on an iPad. He is half listening and knows it’s not good from the half of the call he can hear.
+C: INEZ
+D: I’ll tell him.
+C: CARL
+D: Put him on. She does.
+C: PERCY
+D: Hi dad. I understand if we can’t go to New Orleans.
+C: CARL
+D: Really? You’re the best. I’m just really busy right now. No one can see, but Inez is holding back tears.
+C: PERCY
+D: Some other time.
+C: CARL
+D: Definitely. Some other time. Inez looks down to Percy’s iPad. He was watching father’s outburst on TMZ. He knows what’s happening. INT. THE OTHER ROOM - ABBOT KINNEY - VENICE - LATE NIGHT Camera pushes into the bar revealing Martin, Tony, Molly and other Gauloises staff drinking after closing. The drinkers each stop talking and look towards camera. Carl steps in to what we realize is a moving OVER. They all seem both embarrassed and happy to see him. Silence is broken by...
+C: MARTIN
+D: Jefe needs a drink! They all gather in around him, clapping him on the shoulder. JUMP CUTS of interactions lubricated by shots of aged RUM: Martin and Carl are pressed into the rail
+C: MARTIN
+D: I don’t like it. It’s fucked up. The energy is fucked up.
+E: CONT’D
+C: CARL
+D: Do the diners care?
+C: MARTIN
+D: To be honest, most people don’t notice. Or they think you’re still back there cooking. I can tell the food’s different. And the regulars know.
+C: CARL
+D: But they still come.
+C: MARTIN
+D: Sure. It’s still your food. You set the menu. The whole thing stinks.
+C: CARL
+D: That’s the game, though. I knew when I signed up. I’ll be good once I get my next gig.
+C: MARTIN
+D: I mean, in the beginning, we were breaking new ground. Trying new ideas. Now it’s all safe. Repeating everything we came up with when we started.
+C: CARL
+D: Of course they play it safe. They’re making money.
+C: MARTIN
+D: One of these places you’re talking to will hire you and when they do, I will leave Gauloises in a heartbeat.
+C: CARL
+D: Thanks man. Tony joins them at the bar.
+C: TONY
+D: Set us up. Three more. I’m in too.
+E: to bartender to Carl
+C: CARL
+D: Seriously?
+C: TONY
+D: I’m still your Sous Chef. I wouldn’t have ever been hired there if you didn’t bring us from Miami.
+C: CARL
+D: They promoted you. You’re a Chef de Cuisine now.
+C: TONY
+D: You really think they wanted me as their head chef? It was the only thing they could do to cut your throat and make the transition seamless. I mean, I feel bad.
+C: CARL
+D: You shouldn’t.
+C: TONY
+D: No. It’s weird without you. It’s like, We’re cooking your food. And Riva’s acting like it’s his menu--
+C: MARTIN
+D: And he fought you on every single idea back when you came up with them.
+C: TONY
+D: That’s what I’m saying--
+C: MARTIN
+D: They fought you on hiring us, for Christ’s sake!
+C: CARL
+D: Enough. That’s not why I’m here. I just missed you guys and wanted to make sure everyone was okay. Carl waves for another round and his smile fades and SOUND drops out as he locks eyes with the sad smiling face of Molly. CUT TO: EXT. ELECTRIC AVENUE - VENICE - NIGHT - LATER Carl and Molly smoke a joint. The mood is much different from last time they did this. Molly is a bit gloomy and Carl is out of fight.
+C: MOLLY
+D: I guess I didn’t realize I would miss you so much. I mean, as a friend. Just seeing you every day. Everyone feels your energy is missing.
+C: CARL
+D: They all cancelled.
+C: MOLLY
+D: What?
+C: CARL
+D: The job interviews for executive chef. All of them cancelled.
+C: MOLLY
+D: Shit. Because of all the online nonsense?
+C: CARL
+D: They don’t say it, but it’s gotta be.
+C: MOLLY
+D: Wow.
+C: CARL
+D: Inez’s publicist says I just gotta wait it out. That people will forget.
+C: MOLLY
+D: Well. She’s the expert.
+C: CARL
+D: You don’t sound convinced.
+C: MOLLY
+D: I see it different.
+C: CARL
+D: How?
+C: MOLLY
+D: I don’t think anyone forgets anything. I think people take cues from how the individual reacts. How much shame you decide to carry. Like Obama with the weed. He doesn’t care so nobody else does.
+C: CARL
+D: That’s all well and good, but the public doesn’t vote for who gets to be a chef. The suits have to hire me or I can’t cook.
+C: MOLLY
+D: Nobody can stop you from cooking. Carl takes a last hit.
+C: CARL
+D: It’s late. I think we should probably go our separate ways tonight.
+C: MOLLY
+D: That’s presumptuous of you.
+C: CARL
+D: What?
+C: MOLLY
+D: You assume I want to sleep with you.
+C: CARL
+D: I assume you won’t sleep with me. You only sleep with chefs.
+C: MOLLY
+D: Wow, you managed to insult both of us with one unfunny biting comment.
+C: CARL
+D: I’m sorry. You’re right. Say goodnight to everyone for me. Tell them I had an early interview tomorrow.
+E: kisses goodbye
+C: MOLLY
+D: You don’t have to lie to them. They all look up to you.
+C: CARL
+D: Say whatever you want. Before he leaves...
+C: MOLLY
+D: How’s Percy?
+C: CARL
+D: Fine. Busy with school.
+C: MOLLY
+D: Have you seen him?
+C: CARL
+D: Inez has taken him lately. Until I figure things out.
+C: MOLLY
+D: Listen to me. I don’t think you’re going to figure anything out any time soon. Give yourself some room.
+E: lock eyes
+C: CARL
+D: Yeah.
+C: MOLLY
+D: But that boy of yours. The last thing he needs is room. He needs his dad back. I/E. MC MANSION - BRENTWOOD - DAY Carl knocks on the door. A cleaning lady answers.
+C: CARL
+D: Hi Flora. Is Percy here? Es Percy Aqui?
+C: FLORA
+D: He’s upstairs.
+C: CARL
+D: Can you tell him I’m here? Flora goes to get him. Inez has spotted Carl at the door and approaches.
+C: INEZ
+D: Is everything okay?
+C: CARL
+D: Yeah.
+C: INEZ
+D: Why are you here?
+C: CARL
+D: To see Percy.
+C: INEZ
+D: I’m glad you’re here, but why didn’t you tell us you were coming?
+C: FLORA
+D: He says he’s sleeping.
+E: appears
+C: CARL
+D: I’ll go up there.
+C: INEZ
+D: Wait.
+C: CARL
+D: He’s clearly not sleeping. You don’t tell someone you’re sleeping. She would’ve just said he’s sleeping, not “He says he’s sleeping.”
+C: INEZ
+D: Please. Come sit for one second.
+C: CARL
+D: I don’t understand why--
+C: INEZ
+D: One second. Please, Papi. EXT. BACKYARD GARDEN - INEZ’S HOUSE - BRENTWOOD - DAY -
+C: MOMENTS LATER
+D: Carl and Inez sit in her meticulously groomed backyard garden. Two gardeners primp at the foliage.
+C: CARL
+D: How do you not lose your mind with all of these people around constantly? She politely waves them off for privacy.
+C: CARL
+D: It’s the one thing I don’t miss about living here.
+E: CONT’D
+C: INEZ
+D: He was really upset about not going to New Orleans with you.
+C: CARL
+D: He said he understood.
+C: INEZ
+D: He did understand. It still hurt him. He misses you even when things are normal. He wants you around more. His grades are dropping in school.
+C: CARL
+D: I’ll talk to him.
+C: INEZ
+D: Wait.
+C: CARL
+D: What?
+C: INEZ
+D: Look at me.
+C: CARL
+D: What?
+E: stops shifting
+C: INEZ
+D: I’m worried about you.
+C: CARL
+D: Don’t be. I’m fine. I just have to wait.
+C: INEZ
+D: Why wait?
+C: CARL
+D: I can’t get a job until all this blows over.
+C: INEZ
+D: Why do you still think that someone needs to give you a job?
+C: CARL
+D: Because I don’t have a restaurant.
+C: INEZ
+D: Please listen to me. I know you don’t like when I--
+C: CARL
+D: Is this about the food truck again?
+C: INEZ
+D: Just listen.
+C: CARL
+D: You don’t plan enough parties to keep me in business. I don’t have any money saved.
+C: INEZ
+D: I can--
+C: CARL
+D: And I can’t take any money from you. I can’t. I just can’t.
+C: INEZ
+D: I know. Listen to me. Percy and I are going to Miami to visit my father. Marvin has a whole--
+C: CARL
+D: I’m not taking charity from your ex- husband.
+C: INEZ
+D: It’s not charity. Will you shut up? You’re falling apart and it’s destroying the whole family.
+C: CARL
+D: We’re not a family anymore. Remember.
+C: INEZ
+D: What the fuck are you talking about? Are you that self centered? We may not live together and we may not be married anymore, but we are parents and we will always be a family.
+E: calm and strong
+C: CARL
+D: I’m sorry.
+E: hits him
+C: INEZ
+D: Marvin has a whole fleet of catering trucks. He leases them out to caterers for construction sites.
+C: CARL
+D: I thought he was a developer.
+C: INEZ
+D: He is. He saw all the business they were doing on his sites and saw an opportunity.
+C: CARL
+D: I can’t. I was one of the top new chefs in the country. I can’t drive a roach coach for construction sites. For your ex-husband.
+C: INEZ
+D: You can sell the food wherever you want. How about this. Come with us to Miami.
+C: CARL
+D: I don’t know. I don’t have the money...
+C: INEZ
+D: None of the nannies want to travel. Come and watch Percy. It would be a favor for me.
+C: CARL
+D: Okay.
+C: INEZ
+D: Plus it’s where it all started for you. Your first job as a chef. Where we met. Where Percy was born. It might clear your mind.
+C: CARL
+D: And things might blow over here.
+C: INEZ
+D: Thank you. I think it will be good. They sit quietly in the idyllic garden. We see that Percy was watching the whole thing from his second story window. He seems pleased. SCORE BUILDS with PIANO, CLAPPING and CONGAS into BANG BANG by Joe Cuba and prelaps us into the jet- wash of... EXT. MIAMI AIRPORT - DAY A beautifully golden backlit shot of a 777 landing with a swirl of exhaust. EXT. MIAMI - DAY A limo weaves its way toward SOUTH BEACH. Pastel architectural icons pass set against the azure waves. The limo eventually arrives at the.. EXT. FONTAINBLEU HOTEL - SOUTH BEACH - DAY Inez, Percy and Carl all enter the hotel dressed for Miami. INT. FONTAINBLEU HOTEL - LOBBY - DAY They walk through the retro lobby. INT. FONTAINBLEU HOTEL - SUITE - DAY They arrive in the opulent suite with soaring views of South Beach.
+C: CARL
+D: Nice. If you guys are set, I’ll go check into my room.
+C: INEZ
+D: Stay here.
+C: CARL
+D: I need a minute to myself.
+C: INEZ
+D: I thought the deal was you were my nanny.
+C: CARL
+D: Yes.
+C: INEZ
+D: I have to run out for a quick meeting. Call downstairs and have them press the clothes for tonight. I want you to order food for Percy and get him a nap and a bath and ready to go out and visit his Abuelito when I get back.
+E: MORE
+C: PERCY
+D: A nap!?! I’m nine.
+C: INEZ
+D: It’s going to be a late night. We’re seeing Abuelito at the club.
+C: CARL
+D: Hoy Como Ayer?
+E: surprised
+C: INEZ
+D: Si.
+C: CARL
+D: He’s too young.
+C: PERCY
+D: Too young for what?
+C: INEZ
+D: He’s not going to perform forever. He wants his grandson to see him play.
+C: CARL
+D: Just keep an eye on him. That place can get pretty crazy.
+C: INEZ
+D: Me keep an eye? That’s why you’re coming.
+C: OFF LOOK:
+D: EXT. LITTLE HAVANA - NIGHT A MERCEDES drives through the streets of Little Havana. Carl, Inez, and Percy sit in the back. They are all dressed up Miami style. Percy looks out the window.
+C: PERCY
+D: Where are we going?
+C: INEZ
+D: This is Little Havana.
+C: INEZ PERCY
+D: Like in Grand Theft Auto?
+E: CONT'D concerned
+C: INEZ
+D: This where I grew up.
+C: PERCY
+D: You?
+C: INEZ
+D: Yes. And where Abuelito lives and works.
+C: PERCY
+D: Grandpa still works? What does he do? CUT TO: INT. HOY COMO AYER NIGHTCLUB - LITTLE HAVANA - NIGHT The three of them sit in a packed black box nightclub no larger than a storefront restaurant. The walls are lined with black and white photos of Cuban entertainers from the past. The decor is pre-Castro Cuba. The family sits at a tiny cocktail table on a riser and there is not one square inch free in the entire club. The tiny stage is packed with MUSICIANS, but none play. An old Cuban man in a white hat and guayabera sits at the piano. This is Percy’s ABUELITO . He breaks the silence by playing the simple line of a salsa melody. A huge cheer rises from the crowd. Percy is confused. His mom cheers and yells.
+E: grandfather
+C: PERCY
+D: Grandpa plays piano?
+C: CARL
+D: Wait. Watch. The other band members begin to join in along with three drummers. The place erupts into a huge dance floor as everyone dances at their tables including Inez.
+E: excited
+C: PERCY
+D: I can’t see. Carl stands him up on the chair and Carl starts to dance too. He shows Percy how to salsa.
+C: CARL
+D: Like this. Look.
+C: PERCY
+D: I’ll just watch. Then Abuelito starts to sing. His deep woody voice is still powerful and full of soul. The backup singers dance and sing in call and response. It is a carnival. Inez and Carl are now dancing together, as a couple, and Percy seems very happy to watch them. He begins to dance how his father showed him. EXT. CUBA OCHO RESTAURANT - LITTLE HAVANA - LATE NIGHT -
+C: LATER
+D: Establishing shot of a colorful restaurant in Little Havana. INT. CUBA OCHO RESTAURANT - LITTLE HAVANA - NIGHT Abuelito holds court as Percy sleeps with his head in his grandfather’s lap. The bar is closed and the guests smoke Cuban cigars and sip aged Bacardi. The decor is a colorful melange of paintings, folk art and a repurposed bar salvaged from Sinatra’s South Beach nightclub from the sixties. A few of the musicians sit informally at tables and play an acoustic guitar and drums. Abuelo sits, speaking in Spanish to Inez and Carl. She translates for Carl. He calls out to the HOST.
+C: ABUELO
+D: Where’s the food?
+E: Spanish
+C: HOST
+D: Kitchen’s closed. Food is coming.
+C: INEZ
+D: What did the tests say?
+E: Spanish
+C: ABUELO
+D: I don’t want to talk about the tests. My music will keep me alive. He got fat.
+E: Spanish
+C: CARL
+D: What’s he saying?
+C: INEZ
+D: He said you might’ve put on a little weight since the last time he saw you.
+C: CARL
+D: Tell him I’ve been busy.
+C: ABUELO
+D: Too busy to not eat? He’s making the baby fat too.
+E: in English Spanish
+C: INEZ
+D: Percy’s fine. He’s healthy.
+E: Spanish
+C: ABUELO
+D: Are you two back together?
+E: Spanish
+C: INEZ
+D: No.
+C: CARL
+D: What’s he saying?
+C: INEZ
+D: He wanted to know if we were back together.
+C: CARL
+D: Tell him watching him play brought back memories of when we first met. As she translates, a sack of wrapped CUBAN SANDWICHES arrives. Carl’s eyes light up as he unwraps one.
+C: CARL
+D: Oh my God. I haven’t had one of these since we moved. Nez, wake up Percy.
+E: CONT’D
+C: ABUELO
+D: Let the baby sleep.
+E: Spanish
+C: INEZ
+D: He says he should sleep. It’s late.
+C: CARL
+D: But he never tasted a Cuban sandwich. He should try a real one.
+C: ABUELO
+D: You cook him one.
+E: English
+C: CARL
+D: I want him to have a real one. From here.
+C: ABUELO
+D: His are better than these. He cooks pretty good Cuban food for a gringo.
+E: Spanish
+C: INEZ
+D: He says you cook the best Cuban food he’s ever tasted.
+C: CARL
+D: Really?
+E: touched
+C: ABUELO
+D: Sure. Abuelo starts to sing, joining the musicians at the other table. He crosses to the jam session. Carl and Inez help hold the sleeping boy as Abuelo gets up. They are now sitting together, their son sharing their laps. Carl offers her a bite. Her hands are full.
+C: CARL
+D: Delicious, right?
+C: INEZ
+D: These are okay. Carl thinks. She knows what he’s thinking.
+C: CARL
+D: It’s worth at least hearing Marvin out. About the trucks. Is he in town? EXT. MARVIN’S YARDS - MIAMI - DAY A cab drops Carl off at a construction yard outside of Miami. Rows of construction vehicles and cranes are lined up poised to build things. INT. MARVIN’S YARDS - MIAMI - DAY Carl enters and speaks to a RECEPTIONIST who sits before a bustling bullpen of cubicles.
+C: CARL
+D: I’m here to see Marvin. My name is Carl Casper.
+C: RECEPTIONIST
+D: The chef? He’s expecting you. INT. MARVIN’S OFFICE - MIAMI - DAY MARVIN sits in a large office adorned with photos of construction and development projects and sports memorabilia. A golden shovel hangs on the wall. Carl walks in with reticence. Marvin bear hugs him.
+C: MARVIN
+D: Chef Casper!
+C: CARL
+D: Marv. How are you?
+C: MARVIN
+D: Better than you. You’re a big hit on YouTube.
+C: CARL
+D: They say it’s blowing over.
+C: MARVIN
+D: Really? I thought that shit lived forever online. Remember Star Wars kid? He had to leave his school.
+C: CARL
+D: That’s what they’re telling me.
+C: MARVIN
+D: Inez says you want to lease a lunch truck, sell food at my construction sites.
+C: CARL
+D: That’s what she said?
+C: MARVIN
+D: No?
+C: CARL
+D: Not that I don’t appreciate the offer...
+C: MARVIN
+D: I get it. It’s beneath you.
+C: CARL
+D: It’s not that.
+C: MARVIN
+D: What is it then? You know what one of my trucks pulls down?
+C: CARL
+D: I got no idea.
+C: MARVIN
+D: Take a guess... Three large. A week.
+C: CARL
+D: That’s great.
+C: MARVIN
+D: And most of that goes to the operator.
+C: CARL
+D: No. I think that’s great. It’s just... Maybe this wasn’t a good idea. He starts to leave.
+C: MARVIN
+D: Hang on, Carl. Stop. Inez said you hit rock bottom.
+C: CARL
+D: She said that?
+C: MARVIN
+D: It takes a man to admit it. I mean, I was never there myself, but I can see how it could happen.
+C: CARL
+D: Look. I fucked up. Okay. I’m all over the internet. I’m out of money. I got no job prospects. I’m old. But I’m not at rock bottom.
+C: MARVIN
+D: Aside from being strung out or in a fucking wheelchair, how many rungs do you think you have left.
+C: CARL
+D: And I’m divorced.
+C: MARVIN
+D: Which I still can’t wrap my head around for the life of me.
+C: CARL
+D: I mean, she’s the best.
+C: MARVIN
+D: The best...
+C: CARL
+D: But when something is over...
+C: MARVIN
+D: In my case, yes. Not with you two.
+C: CARL
+D: How’s that?
+C: MARVIN
+D: With us I thought it was love, but I think we were just really good together sexually.
+C: CARL
+D: Well...
+C: MARVIN
+D: It’s gotta be weird for you on some level to know that we both slept with the same woman.
+C: CARL
+D: I’m okay with it, actually. Maybe because I slept with her after you two were done.
+C: MARVIN
+D: MMmmmm. Not so much.
+C: CARL
+D: You slept with her when we were married?
+C: MARVIN
+D: No, no. God no.
+C: CARL
+D: You had me for a minute.
+C: MARVIN
+D: I slept with her after you two split.
+C: CARL
+D: What?
+C: MARVIN
+D: Once. I didn’t even finish. We stopped. It was a bad Idea. The point is you were the one for her. I can see it clear as day. If you two don’t, then whatever. And about the truck, you can have it.
+C: CARL
+D: I can?
+C: MARVIN
+D: I know you didn’t want to sell lunch to my guys. You want a shee shee gourmet thing. Fine. Lease to buy. I’ll give you a good deal and you don’t have to pay me until you’re in the black.
+C: CARL
+D: Thank you.
+C: MARVIN
+D: Don’t thank me yet. The only truck not spoken for needs some work. EXT. MARVIN’S YARDS - MIAMI - DAY A busted white roach coach chugs up to Carl, howling and whining. EXT. MARVIN’S YARDS - MIAMI Carl is on the phone with Martin as he pulls apart the truck’s interior.
+C: CARL
+D: No. No. None of the job prospects panned out... No pal, sorry. Guess you gotta stay there... Sous Chef? That’s great, Martin. Congratulations on the promotion... Me? I’m out of the game... I don’t know, a while? The foreseeable future... You’re gonna laugh. I got a food truck... I don’t know, Cuban sandwiches, arroz con pollo, platanos. Simple shit like we used to cook when the restaurant was closed... Yeah, it’s great being back here.., Anyway, congrats on the promotion and I’ll see you when I head back that way. Inez pulls up in an SUV with Percy.
+E: phone MORE
+C: INEZ
+D: It’s beautiful.
+C: CARL
+D: It needs a lot of work.
+C: INEZ
+D: What doesn’t?
+C: CARL
+D: Percy, you want to check out the inside? I’m redoing the interior.
+C: PERCY
+D: Hell yeah!
+C: INEZ
+D: Language! Percy jumps into the truck like a play structure. Carl pulls her aside.
+C: INEZ
+D: What’s wrong?
+E: CONT’D
+C: CARL
+D: Did you sleep with him?
+C: INEZ
+D: Who?
+C: CARL
+D: Marvin.
+C: INEZ
+D: Of course I did. He was my husband.
+C: CARL
+D: After we were married.
+C: CARL INEZ
+D: Oh, that?
+E: CONT'D
+C: CARL
+D: Yes. “That.”
+C: INEZ
+D: First of all. It is none of your business what I do after we are divorced. I don’t ask you about your cute little hostess with the mostess.
+C: CARL
+D: Fair enough.
+C: INEZ
+D: Second, I was lonely and sad and we had a few drinks...
+C: CARL
+D: Okay. That’s enough.
+E: cringes
+C: INEZ
+D: But we couldn’t go through with it. We both knew we were just friends and always would be.
+C: CARL
+D: Like us? Pregnant pause is interrupted by Percy popping out the roof vent.
+C: PERCY
+D: Can I help?
+C: INEZ
+D: That is a great idea. Mommy has plans. You can stay and help daddy. She gets into the SUV.
+C: CARL
+D: But it’s dangerous. There are tools..
+C: INEZ
+D: Don’t worry. He’s half Latin. She pulls away. They look at each other.
+C: CARL
+D: What the hell. Let’s get to work. EXT. MARVIN’S YARDS - MIAMI - DAY - LATER Carl is under the hood, changing belts. Percy flushes out the interior with a hose. Father and son remove the burners.
+C: CARL
+D: See, now this isn’t even really a stove. It only puts out enough heat to keep soup warm. We need a proper griddle and burner set up. INT. COMMERCIAL KITCHEN SUPPLY - MIAMI - DAY Father and son walk down the aisles of majestic stainless steel.
+C: CARL
+D: Now this here is what I’m talking about. Six spider burners and a four burner griddle with a grease trap. Double convection ovens.
+C: PERCY
+D: Will it fit?
+C: CARL
+D: We’ll make it fit. Carl holds up a Sawzall. CUT TO another aisle.
+C: CARL
+D: And this is the piece de resistance.
+E: CONT’D
+C: PERCY
+D: A George Foreman grill?
+C: CARL
+D: Bite your tongue. This what you call a plancha. It is the key to my entire livelihood from this day forward. CUT TO check out. Carl swipes his credit card.
+C: CARL
+D: I just spent all your Quinceañera money.
+E: CONT’D
+C: PERCY
+D: Girls have Quinceañeras, not boys.
+C: CARL
+D: Then we better sell a lot of sandwiches. EXT. MARVIN’S YARDS - MIAMI - DAY A pallet with the new stove sits on the tarmac next to the dilapidated food truck. It looks huge and heavy.
+C: PERCY
+D: How are we going to get it in?
+C: CARL
+D: Marvin said I could use some of his laborers if I needed them. He calls out to some Latino LABORERS who are lounging around on some parked equipment.
+C: CARL
+D: Hey guys. Can you give me a hand for a second. Marvin said you would help me? I guess we’ll have to lift it ourselves somehow. They push it. It’s huge. He goes over to a rolling jack.
+E: CONT’D he’s ignored nothing
+C: CARL
+D: Mind if I use this? They ignore him. He slides it under the palette, but it only goes up a few inches.
+E: CONT’D to workers
+C: CARL
+D: Shit. He is interrupted by a familiar voice off screen.
+E: CONT’D
+C: MARTIN
+D: Need some help, Jefe?
+E: o.c.
+C: PERCY
+D: Martin!
+E: runs over
+C: CARL
+D: What the hell are you doing here?
+C: MARTIN
+D: I told you if you got another gig, I’d drop everything to work the line for you.
+C: CARL
+D: But it’s a food truck. And you’re a Sous Chef now.
+C: MARTIN
+D: So? Food trucks don’t need a Sous Chef.
+C: CARL
+D: Fine. You’re hired. It pays nothing.
+C: MARTIN
+D: I’ll take it.
+C: CARL
+D: And I can’t get the stove in the damn truck. Martin whistles loudly and chirps some spirited pleasantries to the Latino workers who all hustle over to help. TIME CUT as it is slid into place.
+C: MARTIN
+D: I’ll get the propane tanks filled. When you go to the market fetch us a case of cerveza.
+C: CARL
+D: Why am I going to the market?
+C: MARTIN
+D: Because by the time you get back, we’ll have the interior buttoned up and ready for you to get to work on the menu. I promised these guys the best meal of their life. EXT. FOOD MARKET - LITTLE HAVANA - DAY Carl and Percy select meats and produce.
+C: CARL
+D: See this? You know what this is?
+C: PERCY
+D: Bananas?
+C: CARL
+D: Platanos. Here, smell. Different, right? This one is a maduro. We don’t want that kind. We want green. Like this. All green. For frying... Then the baked goods...
+C: CARL
+D: I’m going to bake these myself when I have time. I need this bread for Cubanos and this bread for Medianoches. INT. FOOD TRUCK - MARVIN’S YARD - DAY Cuban music plays as Carl and Martin work side by side assembling the sandwiches. Martin pulls the roast pork out of the oven. Percy watches, perched on the counter.
+E: CONT’D
+C: PERCY
+D: We could’ve just bought that at the store. They sold it there.
+C: MARTIN
+D: Are you sure this is your kid, Jefe.
+E: what?
+C: CARL
+D: That’s slow roasted in Martin’s special mojo.
+C: MARTIN
+D: With casava. Here, smell.
+C: CARL
+D: He don’t want to learn about casava.
+C: PERCY
+D: I do! CUTS OF them cooking like a four handed machine. Tight shots of the culinary ballet. The food comes alive to the music.
+C: MARTIN
+D: Is the placha hot?
+C: PERCY
+D: Me?
+C: MARTIN
+D: Yeah, you.
+C: PERCY
+D: Do I touch it?
+C: MARTIN
+D: What the hell do you think?
+C: PERCY
+D: No.
+C: MARTIN
+D: Right, no.
+C: PERCY
+D: Then..?
+C: CARL
+D: Flick water on it. It sizzles.
+C: CARL
+D: It’s ready. Watch. Brush the butter on like this. Press it down. See? When the cheese looks like that and the bread gets that gold edge it’s done. A line cook is like a robot. You gotta do it exactly like I show you. Every time. He whacks it into three bites.
+E: CONT’D
+C: CARL
+D: Taste. All three eat.
+E: CONT’D
+C: MARTIN
+D: Woooo Hoooo! I am home!
+C: CARL
+D: Good?
+C: PERCY
+D: Delicious.
+C: CARL
+D: Okay. Then we’re open.
+C: PERCY
+D: Open? They throw open the awning and call out to the workers sipping the beer they got for helping with the stove. It is now... EXT. MARVIN’S YARDS - MIAMI - DUSK - CONTINUOUS
+C: CARL
+D: Cubanos are ready. CUTS OF the assembly line chugging along. Percy sweats it out as he works the plancha. The workers call out in enthusiasm. They approve of the meal.
+C: MARTIN
+D: We need a better sound system. I know a guy out here.
+C: CARL
+D: My cards are maxed out and we aren’t charging for food yet.
+C: MARTIN
+D: But you look happy as hell.
+C: CARL
+D: So happy. The sandwiches fly out the window and the line grows. Other workers gather. No one is turned away. Carl rejects a sandwich. Into the bin.
+C: CARL
+D: Bread’s overdone.
+E: CONT’D
+C: PERCY
+D: So? It’s free. Martin and Carl share a dour look. Carl beckons Percy to follow him out the back of the truck. A quiet moment.
+C: CARL
+D: Is this boring to you?
+C: PERCY
+D: No. I like it.
+C: CARL
+D: Well, I love it. Everything good that has come to me in my life came from this. Do you understand?
+C: PERCY
+D: Yes.
+C: CARL
+D: This is my livelihood. I met your mother because of this. You would never have been born. Do you understand?
+C: PERCY
+D: Yes.
+C: CARL
+D: God gives you many gifts. Passion. Beauty. Love. These are special things. Why not share these things with others? I mean when you can.
+C: PERCY
+D: Yes.
+C: CARL
+D: Now, should we have served that sandwich?
+C: PERCY
+D: No. He gives his son a big kiss.
+C: CARL
+D: Now get back in there. These people are hungry. EXT. MARVIN’S YARDS - MIAMI - NIGHT Christmas lights hang from the awning. The three cooks sit in folding chairs basking in the afterglow of a good service. They sip beers. Martin smokes a cigar. He hands Percy a beer.
+C: PERCY
+D: Is that a beer.
+C: MARTIN
+D: No. It’s cerveza.
+C: PERCY
+D: I’m nine. I can’t drink beer.
+C: MARTIN
+D: You’re kitchen staff.
+C: PERCY
+D: Dad?
+C: CARL
+D: Just a sip. I figure we shake it out in South Beach a couple of days then head back to LA.
+C: MARTIN
+D: Hit a few cities on the way back?
+C: CARL
+D: May as well.
+C: MARTIN
+D: Will she make the trip.
+C: CARL
+D: She’s pretty clean under the hood. All I needed to do was change the belts, filters and fluids.
+C: PERCY
+D: Can I come?
+C: CARL
+D: Come where?
+C: PERCY
+D: On the trip.
+C: CARL
+D: We’re just driving home. You get to go home first class on a plane with mommy and all her divorce money.
+C: PERCY
+D: I want to go with you. You said you were stopping in cities.
+C: CARL
+D: You have school.
+C: PERCY
+D: I’m on break.
+C: CARL
+D: I don’t know...
+C: PERCY
+D: Martin?
+C: MARTIN
+D: I was nine when I started working a kitchen.
+C: PERCY
+D: Please.
+C: CARL
+D: I’ll ask your mom.
+C: PERCY
+D: I already did. She says yes. He smiles and holds up a text.
+C: MARTIN
+D: I’ll drop you guys off at the hotel. You stock up on ingredients in the morning. I’ll get a fresh coat of paint on this thing.
+C: CARL
+D: We can paint it when we get back.
+C: MARTIN
+D: It’s on me. I know a guy. EXT. FONTAINBLEU HOTEL - SOUTH BEACH - DAY The valet stand is hopping with guests and cars. Hip lounge electronica bleeds out from the hip lobby. Carl is in his cooking whites. Percy is dressed like a miniature line cook. They have their bags piled up for the cross-country journey. Inez stands before them, admiring her two men.
+C: INEZ
+D: Now, you have all my numbers.
+C: CARL
+D: Yes.
+C: INEZ
+D: And this truck has seat belts.
+C: CARL
+D: It does.
+C: INEZ
+D: And you have your cell phone and your kidnapping tracker.
+C: PERCY
+D: Yes, mom.
+C: INEZ
+D: And if you change your mind you can always... Their conversation is slowly drowned out by an annoyingly loud passing CAR STEREO. It gets louder and louder until everyone looks over from the valet area.
+C: PERCY
+D: Holy shit... CLOSE CUTS over details of the customized FOOD TRUCK: Throbbing exterior SPEAKERS, CHROMED RIMS and CURB FEELERS, A Cuban/graffiti/tattoo inspired paint job that occupies every square inch of the vehicle’s exterior. Above the windscreen, engraved in Olde English tattoo lettering “EL JEFE” with two crossed pirate blades, except one is a chef’s knife and ones a two-tonged meat fork. Martin pulls up to the curb. Percy lights up.
+C: MARTIN
+D: Get in. The Beach is packed. CUT TO: EXT. SOUTH BEACH - OCEAN DRIVE - DAY The truck cruises past the Scarface “Chainsaw Hotel” as everyone watches them pass and hears the Cuban rhythms ringing out from the PA. They land at a open stretch of the crowded strip. They pop open and Carl scratches out a short and simple menu on a chalkboard: CUBANOS, MIDNIGHT SANDWICHES, MENUDO, ARROZ CON POLLO, FRIED
+E: 728 Ocean
+C: PLANTAINS.
+D: Boom. That’s it. Simple. He hangs the sign. A crowd forms immediately. The music blasts and the three guys dance as they work. Martin jumps on the PA mic.
+C: MARTIN
+D: Mira mira mira. The best Cuban food on South Beach. Cubanos, Medianoches, platanos, arroz con pollo, menudo! Some are there to try the food, some to video the tourist spectacle of this painted monstrosity. People like the food. Everyone is at least curious. Of course, the COPS come.
+E: PA
+C: COP
+D: You can’t park here. You got a license?
+C: CARL
+D: Try one.
+E: shows permit
+C: COP
+D: What?
+C: CARL
+D: Try a sandwich.
+C: COP
+D: You’re going to have to move on. This street isn’t zoned for vendors. People start booing the cops. Percy jumps out and videos with his phone. Martin gets on the PA.
+C: MARTIN
+D: Take it easy. He’s just doing his job, people. El Jefe has to move on down the road...
+C: COP
+D: Hey, you’re the chef from the video.
+C: CARL
+D: Yes.
+C: COP
+D: You were on Tosh.0.
+C: CARL
+D: Great.
+C: COP
+D: Can you take a picture with me for my kid?
+C: CARL
+D: If you stand up here next to me. The cop climbs into the truck and stands in the window with him. The crowd cheers as they pose together. Everyone is dancing to the music. Percy videos and takes pictures, as does the entire crowd. JUMP TO them pulling away with people following and waving like kids behind an ice cream truck.
+C: PERCY
+D: That was amazing.
+C: CARL
+D: I think they like the food. EXT. I95 NORTH - ORLANDO - DAY Carl drives. Percy pecks away at his cell phone. Posting Instagram pix and videos.
+C: CARL
+D: You sending pics to mom?
+C: PERCY
+D: Among other things. You mind if I create an Instagram account for you?
+C: CARL
+D: What is it?
+C: PERCY
+D: A place to share pictures online.
+C: CARL
+D: “Share” sounds like such a nice word. I remember when everyone was “sharing” my video.
+C: PERCY
+D: The internet’s not bad, dad. It just makes good things better and bad things worse.
+C: CARL
+D: Enough with the virtual world let’s do something real. Want to stop at Disneyworld?
+C: PERCY
+D: Disneyworld? That’s real? We shouldn’t stop til we hit New Orleans. I can’t wait to try a Beignet.
+C: MARTIN
+D: Now that’s your son, Jefe. They proudly drive past the Disneyworld exit. EXT. 10 WEST - NIGHT Martin drives as the other two sleep. EXT. NEW ORLEANS - FRENCHMAN STREET - FRENCH QUARTER - DAY The food truck pulls into the French Quarter and park. Music bleeds out from the bars. The music shares a common lineage with the Afro-Cuban sound of Little Havana. Martin starts the burners. Carl and Percy hop out the back.
+E: stirring from nap
+C: PERCY
+D: Where are we?
+C: CARL
+D: The French Quarter.
+C: PERCY
+D: Bourbon Street?
+C: CARL
+D: Frenchman. Bourbon’s for tourists. Percy takes a digital picture. He types on his phone. They walk into a bakery and eat Beignets.
+C: CARL
+D: Eat it slow. You’ll never have your first beignet ever again.
+E: CONT’D
+C: PERCY
+D: Pretty cool.
+E: eats
+C: CARL
+D: Not bad, right? It doesn’t taste like that anywhere else.
+C: PERCY
+D: I thought the whole city was under water.
+C: CARL
+D: It was. But now it’s back. Pretty cool, huh?
+C: PERCY
+D: Pretty cool. They walk back and there’s a huge crowd gathered around, waiting for the truck to open.
+C: CARL
+D: What the hell? He loads up in the back and the crowd CHEERS for him. Carl waves. People take pictures. They duck inside.
+C: MARTIN
+D: What the hell’s going on out there? They ain’t never seen a food truck?
+C: PERCY
+D: I tweeted it.
+C: CARL
+D: What?
+C: PERCY
+D: I tweeted a picture on your account and geotagged it.
+C: CARL
+D: What the hell are you talking about.
+C: PERCY
+D: Look... He holds up his phone. An Instagram pic of the truck in the French Quarter. “Now you see us now you don’t. El Jefe cruising Frenchman Street #NOLA #ElJefe”
+C: PERCY
+D: I tagged it so they could mark us on their maps.
+E: CONT’D
+C: MARTIN
+D: Smart kid. Carl writes the menu on the chalkboard. Martin throws open the window. The crowd clamors for sandwiches, Fists full of cash. MONTAGE of the three men cooking in tandem. The crowd is slamming them. Percy is having problems keeping up.
+C: PERCY
+D: I can’t keep up.
+C: CARL
+D: It’s called being in the weeds.
+C: PERCY
+D: What do I do?
+C: CARL
+D: Turn and burn.
+C: MARTIN
+D: Turn and burn, baby! They share a smile of comraderie. The kid is picking up moves. The crowd slowly peels away from the truck. Something down the street is distracting them. They head towards it.
+C: PERCY
+D: What happened? They all step out. They see a parade heading their way. Martin looks out as the crowd comes toward them.
+C: MARTIN
+D: It’s a funeral.
+C: PERCY
+D: With a dead person?
+C: MARTIN
+D: They cut the body loose. That’s the Second Line. They all watch as the Second Line passes. The impromptu marching band plays a Dixieland version on I’LL FLY AWAY. SIDEWALK STEPPERS dance behind the band.
+C: PERCY
+D: Why are they so happy?
+C: CARL
+D: Just because your sad doesn’t mean you can’t be happy. Percy watches intensely. His dad hoists him onto his shoulders. They sway to the music. The music carries us over the... DISSOLVE TO: EXT. HIGHWAY 10 WEST - DAY El Jefe chugs down the highway. INT. MC MANSION - BRENTWOOD - DAY Inez picks up her phone in her house.
+C: INEZ
+D: Mijo?
+E: phone
+C: PERCY
+D: Hi mom.
+E: on phone
+C: INEZ
+D: Where are you? CROSS CUT WITH: EXT. AUSTIN TEXAS - DAY The truck is parked near Sixth Street and the crowd is even bigger than New Orleans. A STEVIE RAY VAUGHAN cover rattles out from a blues club.
+C: PERCY
+D: We’re in Austin.
+E: phone
+C: INEZ
+D: Are you okay?
+E: phone
+C: PERCY
+D: I’m great!
+C: INEZ
+D: How’s daddy?
+C: PERCY
+D: Here. Talk to him. He slides the phone into Carl’s nape as he smiles for a camera flash and serves a Medianoche.
+C: CARL
+D: Hi, Nez.
+C: INEZ
+D: Do you want me to come pick him up?
+C: CARL
+D: You’re a thousand miles away.
+C: INEZ
+D: I’ll fly out there.
+C: CARL
+D: He’s fine. A couple of burns and two stitches from a paring knife.
+C: INEZ
+D: Send him home. I’m serious.
+C: CARL
+D: He’s a cook now.
+C: PERCY
+D: I’m a line cook!
+E: yelling at phone
+C: INEZ
+D: Please be careful.
+C: CARL
+D: I’ll have him home in time for school.
+C: INEZ
+D: Are you okay?
+C: CARL
+D: I’m amazing.
+C: INEZ
+D: You look like you’re having fun. She clicks through Yelp and Pinterest pages of the food truck posted by fans. The user ratings are very high. It clearly has a growing following.
+C: CARL
+D: Did you know your son could work a grill?
+C: PERCY
+D: I had beer!
+E: yelling at phone
+C: INEZ
+D: What did he say?
+C: CARL
+D: He said he can’t wait to see you.
+C: INEZ
+D: Tell him I love him.
+C: CARL
+D: He says I love you.
+C: INEZ
+D: What?
+C: CARL
+D: I love you!
+C: INEZ
+D: I love you too. Tell him that.
+E: then
+C: CARL
+D: Bye. Martin and Percy both are surprised but pleased by what appeared to be an ambiguous show of affection. The crowd calls out for more. EXT. AUSTIN TEXAS - NIGHT - LATER Carl scrawls “SOLD OUT” over the menu on the chalkboard. Martin slams closed the gate. Carl and Martin sip beers on the truck and watch a street corner BLUES BAND Percy clicks strings of letters into his phone, documenting everything. The electric blues guitar cries through its pignose into the night as we... FADE TO: EXT. ABBOT KINNEY - VENICE, CALIFORNIA - DAY FADE UP on SHOTS of VENICE and LA. El Jefe is parked in a lot on Abbot Kinney Boulevard. Martin works the stoves inside. Carl pulls fresh baked bread out of the oven. He then sits at a small round table with two folding chairs. Jen, the publicist, is waiting there for him overdressed for the informal setting. Carl scribbles the menu on a chalkboard. Soothing Cuban folk music quietly croons from the
+C: PA. JEN
+D: I love this.
+C: CARL
+D: What?
+E: preoccupied with menu
+C: JEN
+D: This whole thing. I love it.
+C: CARL
+D: The truck?
+C: JEN
+D: The truck. The music. The branding. It looks like you’re not trying.
+C: CARL
+D: We’re not trying.
+C: JEN
+D: Exactly. So, I was able to talk to some of my connections in New Media and I can secure some primo placement in the digital space. I think the time is finally ripe to bring you on as a client.
+C: CARL
+D: A client?
+C: JEN
+D: I’m confident I can make the whole viral video a non-factor. I got a firm offer from the Hell’s Kitchen people which might be worth looking at.
+C: CARL
+D: I’m not interested.
+C: JEN
+D: Neither am I. I think I can get you your own reality show on Bravo.
+C: CARL
+D: I really don’t--
+C: JEN
+D: Or the Food Network. I get it. I have no problem trading ratings for credibility.
+C: CARL
+D: Jen. I’m not signing up for your services.
+C: JEN
+D: As a friend, can I tell you? You need someone with their finger on the pulse of the online culture.
+C: CARL
+D: I do. My nine year old son.
+C: JEN
+D: He’s a great kid--
+C: CARL
+D: And he built me up to seven hundred thousand followers on twitter, compiled a direct marketing email list indexed by market, and has me represented in every social media community.
+C: JEN
+D: I think you’re making a huge mistake.
+C: CARL
+D: Betting on my family? I’ve done worse. Want a sandwich?
+C: JEN
+D: Do you have anything gluten free? EXT. ABBOT KINNEY - VENICE - NIGHT The Boulevard is packed. It is FIRST FRIDAYS, when the vendors and food trucks rule the night. The entire area is packed with people and closed to traffic. Percy works the griddle. Carl presses cubanos and Martin serves. The truck’s music makes the whole crowd bounce, and the line stretches down the street. Inez even helps by taking orders.
+C: INEZ
+D: Two cubanos, one medianoche, three platanos.
+C: PERCY
+D: Two cubanos, one midnight, three plantains!
+C: INEZ
+D: Next. She looks down and sees it is Ramsey Michel, the critic whose review and accompanying outburst video went viral and ruined Carl’s life.
+C: INEZ
+D: No food for you.
+E: CONT’D
+C: RAMSEY MICHEL
+D: I’d like to speak to the chef.
+C: INEZ
+D: The hell you will.
+C: CARL
+D: I got this. What did you come here for?
+E: relieves her. steps down
+C: RAMSEY MICHEL
+D: To taste your food.
+C: CARL
+D: I thought I didn’t have the heart to cook.
+C: RAMSEY MICHEL
+D: I didn’t expect you to serve me. I sent someone to buy it for me.
+C: CARL
+D: And?
+C: RAMSEY MICHEL
+D: It’s amazing. But I will not write about it.
+C: CARL
+D: Can I share something with you? What happened between us, it really did a number on me. It robbed me of my pride, my career, my dignity. Part of me died. I know people who do what you do don’t care about such things...
+E: MORE
+C: RAMSEY MICHEL
+D: That’s not true.
+C: CARL
+D: Please. Let me finish. What you do, it hurts people. People who are trying. How can you live with yourself?
+C: RAMSEY MICHEL
+D: May I?
+C: CARL
+D: Please.
+C: RAMSEY MICHEL
+D: You made one mistake. You picked a fight with someone who buys ink by the barrel. I wouldn’t challenge you to a cook off. Why in hell would you start a flame war with me?
+C: CARL
+D: I thought I was private messaging you.
+C: RAMSEY MICHEL
+D: Regardless. The reason I wrote what I did was I loved your menu. But you stopped growing. You seemed lazy. Or scared.
+C: CARL
+D: They wouldn’t let me do anything.
+C: RAMSEY MICHEL
+D: All I know is what you serve me. And what you’re serving here... This has heart. I taste your passion. I am not going to write about it. I’m not going to write about it because I am going to back you.
+E: gestures
+C: CARL
+D: I don’t understand.
+C: CARL RAMSEY MICHEL
+D: I want to bankroll you. If you’ll have me.
+E: CONT'D
+C: CARL
+D: I don’t know.
+C: RAMSEY MICHEL
+D: I have a lot of resources from selling my site last year. I can’t write about something I have a vested interest in. Despite what you might think, journalists have a code they stick by and I like to think our passions run as deep as chefs’.
+C: CARL
+D: I don’t know. I’m happy how it is.
+C: RAMSEY MICHEL
+D: As well you should be. And who would blame you if you had a few trust issues? But I have a bid in on a property on Rose that’s zoned and permitted and I would let you build it out and run it as you see fit. You could cook whatever you want. Take your time. Consider it. I would put everything in writing. And the two of us burying the hatchet would be a story in itself. Reservations out the door. If not, I’ll still eat your food whenever you tweet. It’s pretty fucking good. He pulls out a wrapped sandwich and goes. Carl is dumbstruck. Martin steps down.
+C: MARTIN
+D: What the hell did that asshole want?
+C: CARL
+D: I think I found my new partner. FADE TO: I/E. ROSE AVENUE - VENICE - NIGHT A HORN RUSH blares into the night air as we see the newly opened restaurant “EL JEFE.” It’s built into an old house on the residential block of Rose Avenue in Venice. White Christmas lights sparkle along the gables. A sign reads “Closed For Private Event.” We enter and push past a bustling interior, rustic Cuban decor, and CAMERA weaves through wedding decorations and cake. Countless platters of Cuban cuisine. We TRACK out into the backyard to see a churning dance floor as Percy’s grandfather, Abuelito sings before a giant salsa band. We see Inez in a wedding dress and Carl is her groom once again. A banner congratulates Carl and Inez on their nuptials. Tony, Molly, and the staff of Gauloises are all guests. So is Ramsey Michel. Martin, in a suit, fights his way to the microphone. Abuelo signals the band to play quiet so Martin can make his toast.
+C: MARTIN
+D: To second chances! Everyone cheers. Especially Percy. He dances with his parents as the band kicks into overdrive. We PULL BACK to a rooftop shot of the glowing backyard in a sparkling city.
+T: FADE TO BLACK.

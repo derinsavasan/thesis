@@ -1,0 +1,2335 @@
+M: Untitled Wally Pfister Project
+M: Written by
+M: Jack Paglen
+M: 5.1.12
+M: A FIELD OF WHITE fills the screen. Slowly, the white is
+M: invaded by rivulets of fragmented black matter. This graphite-—
+M: like material forms intricate streams from the top and sides
+M: of the frame. The network moves, builds, expands and
+M: intertwines until the screen is completely black. In the
+M: blackness a REFLECTION slowly fades into view. The reflection
+M: is in the black smoke glass of a massive room of computer
+M: servers. We pan to find ourselves in-
+S: INT. DATA CENTER, BOSTON ~ DAY
+N: An endless row of computer servers stand lifeless and dark. Illuminated only by a long row of skylights above. There is no power. Two men walk through. MAX WATERS is in his forties. Dirty jeans. Stained coat. JOSEPH TAGGER is sixty. Ungroomed. They take in the dark building, still as a tomb.
+C: JOSEPH
+D: How is it out there? Have you found anything?
+C: MAX
+D: No. Nothing. I heard Tokyo has power. Berlin, too. But they’re just rumors.
+C: JOSEPH
+D: Nobody’s connected?
+C: MAX
+D: No. No phone. No internet. No power. Nothing.
+N: They walk in silence, both lost in thought. Max takes in the lifeless machines all around them.
+C: JOSEPH
+D: You know we're rebuilding the same system?
+N: Max goes silent. They move to the exit, guarded by SOLDIERS with assault rifles.
+C: JOSEPH
+D: Let me know what you find.
+E: CONT'D
+N: Max walks away. Joseph moves back into the facility.
+S: EXT. BOSTON STREETS - DAY
+N: Max walks through the rain... scores of BICYCLISTS are the only traffic... the STOP LIGHTS are dark... a pair of MARINES stand near a broken and looted ATM machine... A group of HUNGRY PEOPLE wait in line to enter a dark grocery store...
+S: EXT. CAMBRIDGE STREET - DAY
+N: Max walks along the line of lifeless townhouses. The stillness is broken by a MAN using a hand saw to cut wood. A WOMAN installs a new frame for their breached front door. They stop and watch Max. Suspicious. They wait for him to pass halfway down the block before getting back to work. Max stops in front of an old townhouse. Shattered windows. The front door is missing. He climbs the steps and enters-
+S: INT. LOOTED TOWNHOUSE - DAY
+N: Max takes in the abandoned home. Water stains. Debris. Piled mattresses suggest squatters have come and gone. The floorboards were scavenged for firewood - the charred evidence is in the fireplace. In the center of the room is a pile of discarded cell phones, laptops, and tablet machines. Max grabs one of the phones. He leans against a wall. He slides into a crouch. He turns the phone over in his hand. It’s dead. His breathing quickens as he fights back emotion. He sits there. Alone.
+C: MAX
+D: I'm sorry.
+N: Outside, the rain has stopped. The day brightens. Max looks to the rear of the house. Something arrests his attention. He makes his way through the 19th century townhouse and-
+S: EXT. GARDEN — DAY
+N: Steps into the garden, which is lush and full of life. Ivy covers the walls. Flowers of every shape and color. The garden contrasts everything we’ve seen of this world. In the corner rests a set of vintage garden furniture. A small table, two chairs. Dark, lightly rusted metal. Max stares at the empty seats. Water from the recent rains drips in a PERCUSSION. As it does- A calmness comes over Max. His attention settles on a leaf of ivy, where moisture collects into a bead of water. He studies the shimmering drop of liquid. As he stares, something new emerges in his eyes... Recognition.
+T: CUT TO BLACK:
+N: TITLE CARD: TEN YEARS EARLIER.
+S: EXT. WASHINGTON D.C. — DAY
+N: An AERIAL view of the Capitol... moving south east toward the Anacostia River...
+S: INT. EASTERN MARKET/BAKERY ~ DAY
+N: The CAKE is a work of art. BREE, the tattooed baker, boxes it up with latex gloves. She gives it to the customer, LANCE, a white-collar professional. I/E. LANCE'S CAR/WASHINGTON D.C. - DAY Lance glances at the cake next to him. He drives by the CAPITOL BUILDING... through a WOODED AREA... makes a hidden turn. He hands an ID CARD to a GUARD holding an assault rifle. A SECOND GUARD searches the car’s undercarriage with a mirror. They wave him to an ANONYMOUS OFFICE BUILDING.
+S: INT. OFFICE BUILDING - DAY
+N: Lance passes the cake through an X-RAY machine and moves through METAL DETECTORS. GUARDS scrutinize him. Lance sets a palm on a scanner and positions for an iris scan.
+S: INT. ELEVATOR — DAY
+N: Buttons indicate three floors. Lance waves his ID at a sensor. The elevator descends. Bl. B2. B3. B4. B5. Stops.
+S: INT. UNDERGROUND LAB/SERVER ROOM - DAY
+N: Lance carries the cake past endless rows of COMPUTER SERVERS.
+S: INT. UNDERGROUND LAB/TERMINAL ROOM -— DAY
+N: JOSEPH TAGGER writes code at a COMPUTER TERMINAL. Behind him, ten other TEAM MEMBERS work at similar stations. Joseph, wearing EAR PLUGS, can’t hear anything. Someone CLAPS Joseph on the back. Joseph turns and finds- Lance, holding the cake, covered in candles. Joseph blows out the candles... The team eats cake... Joseph slides his piece next to his seat, forgetting it as he gets back to work. Lance watches his colleagues eat. He sets his untouched piece down and slips away from the group. Joseph, working, itches at his ear plug. As he pulls it out, we hear the ambient WHIR of computer servers. His chair CREAKS as he swivels to face the room, where he finds... All the other team members are dead.
+S: EXT. CAL TECH ~ NIGHT
+N: We tilt down past a large cloud of black smoke to a BURNING university building. Emergency equipment surrounds it.
+S: INT. CAL TECH LAB - NIGHT
+N: FIREFIGHTERS race into an INFERNO. BODIES lay on the floor. COMPUTER HARDWARE melts in the heat. BURNING GASOLINE spells out: SLAVES.
+S: INT. CHICAGO COMPUTER LABORATORY - NIGHT
+N: Moving slowly through a massive room of SUPER COMPUTER TOWERS, we reach a section where several towers have been overturned. One has crushed the head of a SCIENTIST. In the blood someone wrote: SLAVES. I/E. PRINCETON UNIVERSITY/SERVER ROOM — DAWN A PROFESSOR hangs, strangled by the cables binding her to servers. Someone carved SLAVES into the wall. ANDERSON, a veteran FBI Special Agent, leaves the forensic teams to do their work... Outside, he joins Joseph Tagger.
+C: ANDERSON
+D: Another computer scientist. Sarah Daniels.
+C: JOSEPH
+D: I used to work with her.
+N: I/E. WILL AND EVELYN’S TOWNHOUSE/GARDEN -— DAY As we move through the 19th century townhouse, we recognize it as the same house Max visited earlier, but now we find- WILL CASTER making coffee. Mid-thirties. He grabs two mugs in one hand, the coffee pot in the other, and uses a knee to open the back door. We follow him into the garden. It’s not much to look at. Clutches of weeds spattered on dry dirt. It doesn’t matter, he only has eyes for- EVELYN CASTER taps on her laptop at the garden table. She’s a thirty-year-old genius. She smiles at Will and the-
+C: EVELYN
+D: Coffeeeeeeeee...
+N: Will hands her a mug. She cradles it. Elixir of the gods. The sight makes his day. He kisses the top of her head.
+C: WILL
+D: So whaddya think? You coming today? You don’t have to-
+C: EVELYN
+D: Are you kidding? Front row-
+C: WILL
+D: Just don’t want to subject you to it, you know? I feel like they've heard it all-
+C: EVELYN
+D: They hang on your every word.
+N: Will's cell RINGS. He pulls it out.
+C: WILL
+D: Hello? Hello?.. Hello?
+N: She gestures to the far side of the garden. Will moves there.
+C: WILL
+D: Hello?... Dead zone.
+E: CONT‘D To Evelyn
+C: EVELYN
+D: What about Block Island instead of the Cape?
+N: WILL I love Block Island. When?
+C: EVELYN
+D: Next weekend?
+C: WILL
+D: Make-up classes. Midweek?
+C: EVELYN
+D: Teaching.
+N: She looks up at him, standing there, sipping coffee. EVELYN (CONT’D) You're a sexy professor. I have to be at your lecture. Protect you from the cute coeds. We’re never going on vacation are we?
+C: WILL
+D: We should wait until summer so we can put the rest of it out of our minds. No phones, chargers, wiki- tweet-face-link-shit, no students.
+N: He wraps his arms around her, puts his cheek close to her ear, and whispers-
+C: WILL
+D: By the way, there are no cute coeds in the computer science department. She lifts her arms and holds his head against hers. They stay there, close. The day is bright. EXT. MASSACHUSETTS INSTITUTE OF TECHNOLOGY - DAY
+E: CONT’D
+N: Bree (the baker) and Lance, carrying a KIT BAG, join a press of STUDENTS entering an auditorium.
+S: INT. MIT LECTURE HALL — DAY
+N: Max Waters addresses the packed house. He’s lean. Tailored.
+C: MAX
+D: My name is Max Waters. I’ma neurosurgeon and teach at the Harvard-MIT Division of Health Sciences and Technology.
+N: Lance slips through the door as students settle in. MAX (CONT'D) I've been friends with today’s speaker since we were roommates freshman year. And while we disagree on... pretty much everything... Evelyn, in the front row, shares a grin with Max. Lance heads up a set of stairs. MAX (CONT'D) He’s a brilliant visionary, devoted teacher, and a dear friend. Please welcome the head of MIT's Computer Science and Artificial Intelligence Lab - Professor Will Caster. Max leads the APPLAUSE as Will takes the stage. As he speaks, a MULTIMEDIA PRESENTATION helps visualize his ideas.
+C: WILL
+D: Computer intelligence doubles roughly every year. Human intelligence is limited by evolution and has remained static for hundreds of thousands of years.
+N: ACOUSTIC PANELS line the ceiling. Lance, in the crawl space above one, opens his kit bag.
+C: WILL
+D: One day computer intelligence will surpass that of a human. This moment, the birth of a greater-than- human technological intelligence, is what we call the Singularity.
+E: CONT’D
+N: Max, listening in the wings, glances at Evelyn. Evelyn watches Will. He is everything to her. WILL (CONT'D) This artificial intelligence won’t be limited by biological evolution. It will evolve itself at an exponential pace. Lance finishes assembling a RIFLE. WILL (CONT'D) If this being comes online with the intelligence of two men, in a little more than a year it could have the intellect of four. Then 16. In seven years it could be as intelligent as 4.2 billion. By the end of the decade it would be more intelligent than everyone born in the history of the world. Lance opens a LEAD BOX containing a single BULLET. He uses a pair of pliers to load it into the rifle.
+C: WILL
+D: Imagine. All the intelligence of everyone ever born in one entity.
+E: CONT’D
+N: Lance finds Will in the CROSS-HAIRS. Will paces, forcing Lance to inch closer to the edge of the acoustic panel.
+C: WILL
+D: A partnership with a Strong AI will help us unlock the secrets of the universe. It will help us heal our environment. It may even allow us overcome the greatest threat to biological life... Death.
+E: CONT’D
+N: Max glances at the audience. Freezes. He spots the RIFLE BARREL protruding from the acoustic panel.
+C: WILL
+D: A self-aware, self-evolving intelligence will improve our lives in ways we can’t even imagine...
+E: CONT'D
+N: Max RUSHES onto the stage - Lance PULLS THE TRIGGER - the GUNSHOT rings out - as Max tackles him, Will’s shoulder POPS with the bullet - everyone FREEZES... Lance grimaces at his faulty shot. Bree, in the rear of the auditorium, sits absolutely still. Someone SCREAMS. CHAOS breaks out. Will grabs his bleeding shoulder. Max drags him offstage. Evelyn scrambles to them. IN THE AUDITORIUM: Lance is gone. Bree is gone.
+S: EXT. MASSACHUSETTS INSTITUTE OF TECHNOLOGY - DAY
+N: TERRIFIED STUDENTS stampede out of the building. Lance and Bree, with backpacks and feigned panic, escape with them.
+S: INT. HOSPITAL ROOM — DAY
+N: Will, bandaged, contemplates a glass vial containing the bullet. Evelyn kisses him. Will looks in her eyes to make sure she knows—
+C: WILL
+D: I’m fine.
+N: She's not convinced. Max reviews the medical charts.
+C: MAX
+D: Everything looks good. They’re releasing you into my care. That means I’m your doctor. You have to do what I say. No work.
+N: Will grabs his smart phone. Starts thumbing it. I/E. MIT/STATA CENTER — DAY Joseph, flanked by ANDERSON and other FEDS, moves into the building. They pass rooms of COMPUTER RESEARCH: robotics, system hardware, and theoretical algorithms. Evelyn, Max and Will (arm bandaged and in a sling) speak to POLICE DETECTIVES. Joseph’s men take the cops aside.
+C: EVELYN
+D: Joseph?
+N: She embraces him. Warm.
+C: JOSEPH
+D: Is there somewhere we can talk?
+S: INT. WILL’S OFFICE - DAY
+N: A large, chaotic workspace. Joseph passes GRUESOME CRIME PHOTOS of the recent attacks to Will, Evelyn and Max.
+C: JOSEPH
+D: Over the past 48 hours there’s been a highly coordinated string of attacks. A bomb at Caltech killed Norman Causewell.
+N: (MORE)
+C: JOSEPH
+D: Dr. Daniels at Princeton was killed. Mike Lacy at the University of Chicago.
+E: CONT'D
+N: Evelyn covers her mouth in shock.
+C: WILL
+D: We know these people...
+C: JOSEPH
+D: There were others, all-
+C: MAX
+D: In artificial intelligence?
+N: Joseph nods. Will, Evelyn and Max process the information.
+C: MAX
+D: You're working with the FBI?
+E: CONT'D
+C: JOSEPH
+D: They've brought me on as an advisor. Because of my background. And because I know one of the suspects. My project at the Department of Defense was the first attack. Two days ago a colleague...
+N: Joseph holds up an ID CARD PHOTO of Lance, all smiles. JOSEPH (CONT'D) Brought a birthday cake into the lab. It was laced with dioxin. Within an hour my team was dead... They were good people.
+C: EVELYN
+D: I’m so sorry.
+C: JOSEPH
+D: He’s part of a larger group. They call themselves the RIFT. Have you ever heard of them?
+N: Will, Evelyn and Max shake their heads. Joseph sets down a document titled: REVOLUTIONARY INDEPENDENCE FROM TECHNOLOGY.
+C: JOSEPH
+D: All we have is their manifesto. It appeared on a public server in Amsterdam. We can’t trace it beyond that.
+E: CONT'D
+N: Max picks up the manifesto. Joseph sums it up with- 1l.
+C: JOSEPH
+D: They believe the Singularity is about to happen. They’re convinced it would be an apocalyptic event.
+E: CONT'D
+N: Joseph takes the three of them in.
+C: JOSEPH
+D: I could count on my hands the people in this country who might be able to wake up a Strong AI. Myself, the three of you and... the six others are dead.
+E: CONT’D
+N: Joseph makes eye contact, making sure they understand-
+C: JOSEPH
+D: You are all in very great danger.
+E: CONT'D
+N: Joseph watches them. As the news settles, he leans in-
+C: JOSEPH
+D: Can I meet your machine?
+E: CONT’D
+S: INT. PROJECT PINN, MAIN LAB - DAY
+N: A line of state-of-the-art, custom-built towers make the supercomputer called PINN. Throughout the laboratory, FLAT- SCREENS map PINN’s network. Joseph steps toward the machine.
+C: PINN
+D: Your work in self-evolving algorithms inspired a great deal of my functionality, Dr. Tagger.
+C: JOSEPH
+D: That’s encouraging. Tell me a little about yourself.
+C: PINN
+D: I am PINN. A Physically Independent Neural Network, invented by-
+C: JOSEPH
+D: That's great. Can you prove that you’re self-aware?
+C: PINN
+D: That's a difficult challenge. Can you prove that you are?
+N: Joseph blinks at PINN for a second. He glances at Will.
+C: JOSEPH
+D: It has your sense of humor.
+N: Will, a little pale, smiles. Evelyn opens one of PINN’s processing towers. It’s not like anything you’ve seen. The modular core is grey and crystalline, encased in a transparent shell. Joseph beams with pride at Will, Evelyn and Max.
+C: JOSEPH
+D: Look at what you’ve done. This is amazing. Evelyn was all of sixteen when I first taught you.
+E: CONT'D
+C: EVELYN
+D: It’s not self-aware, but it’s learning.
+N: WILL We'll get there. Max continues a decade-long debate with-
+C: MAX
+D: We can’t program a machine to be self-aware because we have no idea how our own consciousness works.
+N: Will's about to argue, but Evelyn shoots him a look. Will, looking feverish, chooses uncomfortable diplomacy with-
+C: WILL
+D: We agreed to disagree.
+C: MAX
+D: We agreed we’d be satisfied with PINN’S medical applications.
+N: Evelyn and Joseph share a glance. They’re both familiar with Max and Will’s rival posturing. Joseph turns to Max.
+C: JOSEPH
+D: Mike Lacy thought he found a way around the self-awareness question... They killed him before he could publish.
+N: Max, doubtful, glances at Will - who looks increasingly ill.
+C: MAX
+D: You okay?
+C: WILL
+D: Yeah. A little nausea.
+C: MAX
+D: It could be the shock. You could be coming down with the flu. Either way, you’re going home to rest.
+S: EXT. WILL AND EVELYN’S GARDEN - DAY
+N: Will flips through documents. Evelyn TAPS the keyboard on her laptop. It's not responding.
+C: WILL
+D: This is interesting.
+C: EVELYN
+D: What? WILL
+N: Mike Lacy was working on- Evelyn SWATS her keyboard in frustration.
+C: WILL
+D: What’s wrong?
+E: CONT'D
+C: EVELYN
+D: I just have to reboot.
+N: Evelyn resets her machine. Waiting for her computer, she glances at Will. He’s ashen, sheened in sweat, and trembling.
+C: EVELYN
+D: Want to lay down for a while?
+E: CONT'D
+N: Will gives a weak nod.
+S: INT. WILL AND EVELYN’S BEDROOM/BATHROOM - NIGHT
+N: Evelyn wakes up to an empty bed. At the sound of RETCHING, she moves to the light of the bathroom door. Inside, Will VOMITS. He looks at her, scared, and VOMITS again. She puts a soothing hand on him. He keeps RETCHING.
+S: INT. HOSPITAL ROOM — DAY
+N: Will, very sick, lays in bed. Evelyn strokes his hair. Max reviews the LAB REPORTS with DOCTOR STRAUSS.
+C: DOCTOR STRAUSS
+D: Negative for dioxin. Negative for anthrax. Negative for-
+C: MAX
+D: Why is his white blood cell count under three thousand?
+N: Evelyn finds Will’s hair is falling out in large patches.
+C: EVELYN
+D: Max.
+N: She shows them the symptom. Max goes pale.
+C: MAX
+D: No, God. Please no.
+S: INT. HOSPITAL ROOM - DAY
+N: A TECH examines Will with a RADIATION SURVEY METER. It CRACKLES. Will closes his eyes against the death sentence.
+S: INT. HOSPITAL ROOM/HOSPITAL HALLWAY - DAY
+N: Max, with somber simplicity, shares the results with Will.
+C: MAX
+D: The bullet delivered a large dose of polonium. It entered your blood stream and... It dispersed through your entire body...
+N: Max's professionalism breaks. He tries to recover it.
+C: MAX
+D: You have severe radiation poisoning... It’s, um, it’s really bad... I mean, we’ll try everything but this is a lethal dose...
+E: CONT'D
+N: This is not a patient. This is his best friend.
+C: MAX
+D: You have four, maybe five weeks...
+E: CONT'D
+N: Will looks through a glass partition into the hallway, where he makes eye-contact with- Evelyn, just back with Will’s coat and other personal items, is frozen in the window. Her hands cover her mouth. The expressions on Will and Max says it all.
+S: INT. WILL AND EVELYN’S TOWNHOUSE - DAY
+N: We move slowly down the hallway of the townhouse’s interior, eventually rounding a corner into the living room, where Will and Evelyn hold each other on the couch. Evelyn sobs quietly.
+S: INT. WILL AND EVELYN'S TOWNHOUSE - LATER
+N: Evelyn opens the refrigerator. Other than a few condiments and a random can of Sprite, the fridge is bare. She stares into it. She's woefully unprepared for this. Will, on the couch, takes in their home. Motherboards and computer hardware cover the table. A mess. Will summons the strength to stand. Woozy, he corrects his balance. He inches across the room, finally lunging to the table for support. Evelyn searches the kitchen like it’s alien terrain. She looks surprised to find the pots and pans and... a can of tomato soup. She takes it. She finds Will sorting the mess of hardware.
+C: EVELYN
+D: What are you doing?
+C: WILL
+D: Cleaning. We’ve been working so hard. I forgot... my chores...
+N: Will looks dizzy. His legs give out. He CRASHES onto the floor. Evelyn jumps to help him up, but his dead weight is too much for her. She slips and falls next to him. There’s no place they’d rather be. They stay there. Holding each other. Trying to treasure every detail.
+S: INT. MAX'S APARTMENT — DAY
+N: Max steps into the foyer of his well-appointed home. It looks terribly empty. He stares at it and, perhaps realizing he couldn’t bear to be alone right now, leaves. I/E. EVELYN’S SEDAN/BOURNE BRIDGE, CAPE COD - DAY An aerial view of a lone car passing over the bridge... Evelyn drives Will in silence...
+S: EXT. NEW ENGLAND BEACH — DAY
+N: Will and Evelyn sit among the dunes. She pours soup from a Thermos and offers him a sip. Will, blanketed against the autumn day, shakes his head.
+C: WILL
+D: My dad was an engineer. He spent his life lost in complicated problems.
+N: Evelyn offers him saltines. He shakes his head.
+C: WILL
+D: When he was dying he told me something I never knew. He always wished he had spent more time in his garden... That it was important. I couldn’t figure out what the hell he was talking about. She cracks open the Sprite. Offers it. He shakes his head.
+E: CONT’D
+C: EVELYN
+D: Will. Please drink this.
+N: Will gives in. She helps him take a sip.
+C: EVELYN
+D: We need to keep your strength up.
+E: CONT’D
+N: He feigns strength. She smiles. He vomits up the soda. She soothes him... he stills... she wraps her arms around him... they watch the sea.
+S: INT. BOXING GYM -— NIGHT
+N: Max unloads on a HEAVY BAG. POUNDING it, again and again. He gives it a final SLAM. All his pain and fury. Panting, he watches it swing right back at him.
+S: INT. WILL AND EVELYN’S LIVING ROOM - NIGHT
+N: Evelyn works on her laptop with a thousand-yard stare. She discovers her hands trembling with rage. She makes fists. She focuses on the screen. A few clicks. Something arrests her attention. She leans in. From the bedroom, Will MOANS in weak agony. She turns her head. As the silence lengthens, she starts reading again.
+S: INT. WILL AND EVELYN'S BEDROOM - DAY
+N: Will flips through thick binders of RESEARCH. Evelyn paces.
+C: EVELYN
+D: We’ve talked for years about the inevitability of this technology. Mike did it. Not fifty years from now. He did it six months ago.
+N: Will closes the research. Ambivalent. Evelyn holds up a piece of hardware. A fragile-looking IMPLANT. EVELYN (CONT’D) This could be the key to everything we've been working for. All of your noble ambitions.
+C: WILL
+D: I'm not afraid to die. You have to be sure. Is this really what you want?
+C: EVELYN
+D: I already have a place. And equipment. Please let me do this.
+N: He masks his sad doubt with a nod. She kisses him.
+C: EVELYN
+D: We're gonna need Max.
+E: CONT’D
+S: INT. WILL AND EVELYN’S LIVING ROOM ~ NIGHT
+N: Max examines an IMPLANT, thinner than a strand of hair. Will struggles through his fatigue to say-
+C: WILL
+D: That, right there, is why they killed Mike Lacy. He implanted it in a rhesus monkey. That pushed The RIFT off the deep end...
+N: Will cannot continue. It motivates Evelyn.
+C: EVELYN
+D: He recorded its brain activity. He duplicated it digitally. He uploaded the animal’s consciousness into a computer. Just like it was a gong or a movie.
+N: Max puts down the implant, perhaps frightened by it.
+C: MAX
+D: Where did you get this?
+C: EVELYN
+D: I lied to one of Lacy’s grad students. Told him I worked with the project’s financier.
+C: MAX
+D: This is insane.
+N: Max unpacks grocery bags. Medications and jars of baby food.
+C: EVELYN
+D: His body is dying. But Will is not his body. His being is a pattern of electrical signals in his mind. We can upload it all into PINN.
+C: MAX
+D: No. Absolutely not. If we’d made progress with nanotechnology, we could use the synthetic blood cells to purify his system-
+C: EVELYN
+D: Nanotechnology is decades away! This is what we have. But without your help, without you doing the surgery, we don’t have anything.
+E: She grabs the implant
+C: MAX
+D: Aside from the certainty of failure, aside from performing criminal medical procedures on a terminally ill man... You won’t be uploading Will. At best, you’1l be making a digital approximation of him. It will be a machine that thinks it is Will. It will be a lie. Trapped in a box of hardware-
+C: EVELYN
+D: You can’t know that for sure! We have to try. This is our only chance!
+N: Max sits there, shaking his head. She presses with- EVELYN (CONT'D) You're a doctor. You took the Hippocratic Oath. You swore to save life-
+C: MAX
+D: Don't lecture me on Hippocratic Oath! The oath says, above ail, I must not play at God. A man is more than a machine. A machine might be able to pattern your thought, but it can’t pattern your soul.
+C: WILL
+D: Yes. It can.
+N: Max stands there, shaking his head.
+C: MAX
+D: All the intelligence in the world will never amount to a shred of wisdom. This is wrong.
+N: Evelyn takes Max’s hands in her own. Will watches Max try to hide how much he cherishes her touch.
+C: EVELYN
+D: Look at Will. Look at what they did to him. Then tell me about right and wrong. Max faces Will. He can't bear it for long.
+C: EVELYN
+D: If you don’t do the surgery, I’m going to do it myself.
+E: CONT'D
+C: MAX
+D: You'll be killing him.
+C: EVELYN
+D: I won't be the only one.
+N: Evelyn’s eyes are steel. Max doesn’t back down.
+C: MAX
+D: You can’t escape what’s happening
+N: by turning it into an experiment. With that, Max walks out. Will and Evelyn watch him go. EXT, BOSTON STREETS - NIGHT Max runs. The hood of his sweatshirt pulled low. He pushes himself. Faster. Harder. He wipes away the sweat and tears.
+S: INT. WILL AND EVELYN’S LIVING ROOM - NIGHT
+N: Evelyn spoons some of the baby food for Will. He swallows. Waits. As his stomach settles, he nods... and stares off.
+S: EXT. WILL AND EVELYN’S TOWNHOUSE - NIGHT
+N: Will sits on the stoop. Deep in thought. He looks up as Max arrives. Max climbs the steps, eases himself next to Will. They sit in silence. Max has to help his friend.
+S: INT. STATA CENTER HALLWAY -— NIGHT
+N: Joseph hurries to meet Anderson outside the PINN lab.
+C: ANDERSON
+D: There’s been a break-in.
+C: JOSEPH
+D: Was anything taken from the lab?
+C: ANDERSON
+D: I wouldn’t even know how to tell.
+N: Joseph pushes through the doors into-
+S: INT. PROJECT PINN, MAIN LAB - NIGHT
+N: Joseph looks relieved to see the PINN hardware intact. But as he opens one of the towers, he pales. He opens more. The crystalline cores are all gone. JOSEPH They stole the processing cores. ANDERSON The RIFT? JOSEPH No.
+S: EXT. WILL AND EVELYN’S TOWNHOUSE - NIGHT
+N: UNMARKED SEDANS fill the street. FEDS move in and out of the building, investigating. I/E. EVELYN’S SEDAN — NIGHT Evelyn drives. Max, in the back, keeps an eye out for anyone tailing them. Will sees the REVOLVER in Evelyn’s lap. She pulis the car into a-
+S: INT. PARKING GARAGE - NIGHT
+N: Evelyn and Max help Will into an old 4x4 TRUCK. She explains-
+C: EVELYN
+D: It’s unregistered. I/E. EVELYN’S TRUCK - NIGHT
+N: Evelyn races the truck up the north-bound freeway. She merges into the left lane. In the REAR VIEW: she watches a car, a few lengths back, merge after her... a tail?
+C: EVELYN
+D: Max?
+C: MAX
+D: I see it. WILL
+N: We’re going north?
+C: EVELYN
+D: Just hold on.
+N: Evelyn SPINS the truck off the freeway and into the median, SLAMS the accelerator, and enters the south-bound traffic. Cars HONK and SWERVE to keep from hitting them. Max keeps an eye on the traffic behind them. Nobody follows.
+C: WILL
+D: Evelyn?
+C: EVELYN
+D: We can’t trust anyone.
+N: Will nods. The truck races back toward Boston.
+S: EXT. ABANDONED BUILDING - NIGHT
+N: Evelyn parks. They unload Will and the gear.
+S: INT. ABANDONED BUILDING - NIGHT
+N: Evelyn unpacks one of PINN’S modular cores from a duffel bag. She adds it to the others, already connected in a net of fiber optic cables. Her ad-hoc system looks like a cybernetic spider web, dotted with hardware salvaged from PINN. Flat-screens show diagnostics. A pair of control terminals rest on a table that may have been reclaimed from a dumpster. Cables run into a hole in the concrete floor where there’s an exposed UTILITY LINE. She’s tapped into Boston’s power grid. Max and Will have some privacy in a make-shift sterile room. Will‘s prepped for surgery. Max loads anesthesia.
+C: MAX
+D: You know this isn’t going to work.
+C: WILL
+D: I have my doubts.
+N: Max, resigned, injects the anesthesia into Will’s drip.
+C: MAX
+D: I want you to count back from ten.
+C: WILL
+D: I know you love her.
+C: MAX
+D: Just count back from ten.
+C: WILL
+D: Promise me. When it happens, you’1l take care of her.
+C: MAX
+D: Just count back from ten.
+C: WILL
+D: Promise me.
+C: MAX
+D: I promise.
+N: The drugs take Will. Darkness.
+S: EXT. BOSTON — DAY
+N: The early morning sun creeps across the waking city. A COMMUTER TRAIN slides by a station platform. PEDESTRIANS walk the streets, texting, talking on cell phones. A lone CREW BOAT glides along the Charles River.
+S: INT. ABANDONED BUILDING - DAY
+N: Will finds himself on a bed. A living space has been set up. He sees Max and Evelyn studying the cascade of information streaming over an array of screens. Evelyn moves to him. Wires run out of his skull from twenty insertion points. The cables, tied into a tether, connect to PINN’S stolen cores.
+C: EVELYN
+D: Don’t worry. It worked.
+N: Will nods and, groggy from the drugs, falls back asleep. Evelyn joins Max at PINN, displaying an intimidating amount of information.
+C: MAX
+D: It took Mike Lacy a year to do this.
+C: EVELYN
+D: We have a month.
+N: They process what lays before them. Evelyn, committing, sits at the terminal. Max follows. They get to work.
+S: INT. ABANDONED BUILDING - VARIOUS
+N: Max helps Will take one of a collection of pills as Evelyn sits at the monitors, writing code. Evelyn takes a digital recording of Will's voice as Max takes a shift at the terminal. Max performs a lidar scan on Will as Evelyn types at the machine. Evelyn gives Will a sponge bath as Max codes at the machine. Evelyn works as Max plays chess with Will. Will, too weak to even move the chess pieces, topples them. Will sleeps. Max and Evelyn work in the dim light of the data stream. She watches him wiping sweat away. Stress. Evelyn works at PINN. Behind her, Max reads to Will. Will’s skin is grey. The radiation is killing his system. Evelyn tries to comfort Will as he WRITHES in pain. Max, sitting at PINN, tries to control his grief. Late at night. Evelyn and Max sleep. Will lays awake in the dim light, staring at the machine... The machine might be staring back at him.
+S: INT. ABANDONED BUILDING - NIGHT
+N: Evelyn holds Will. At the edge of death, he comforts her with-
+C: WILL
+D: We're made of matter. The same elements... make everything in
+N: nature. We come from it. We live in it. We return to it.
+C: EVELYN
+D: Just rest. We'll get there. Max and me. Don’t worry.
+C: WILL
+D: No. It’s not working. There wasn’t any time. Don’t lose yourself to this. Everything I am... will be in the world around you... Let me go.
+N: She kisses him, gently.
+C: EVELYN
+D: Never.
+N: Her conviction pains Will.
+S: INT. ABANDONED BUILDING - DAY
+N: Evelyn, sleeping in an armchair, wakes to find- Max, drained by hours of weeping, stares at Will. Evelyn jumps to her feet to see... Will is dead.
+C: EVELYN
+D: No... No. We’re not ready. We need more time! Why are you just sitting there?! Do something!
+N: Max doesn’t have the strength to respond. Evelyn, irrational and despairing, starts changing out Will’s IV. As she does, a low, mournful MOAN comes out of her... It turns into a SCREAM. She SHATTERS the lamp next to Will. As she continues destroying the living space, she yells-—
+C: EVELYN
+D: Bastards! Those fucking bastards! She kicks over a tray of meds, which CLATTER to the floor. Looking for something else to destroy, she turns to the hardware and... slows to a stop... The flat screens of the PINN system are filled with vast fields of text. Endless rows of well-ordered numbers, letters and symbols. They make no sense at all.
+E: CONT'D
+N: They disappear for a moment, but are quickly replaced by a new field of the inscrutable code. Evelyn stands there, staring at the anomalous text...
+S: EXT. CEMETERY - DAY
+N: MOURNERS surround Will’s grave. Max struggles against his grief. Evelyn is calm and neutral. Joseph watches her.
+S: INT. WILL AND EVELYN’S TOWNHOUSE - DAY
+N: The reception. Max sits with Joseph. Anderson watches Max. Suspicious. Joseph gives Anderson a look: ease off. Anderson, resigned, moves to the buffet. Joseph focuses on Evelyn.
+C: JOSEPH
+D: It hasn't hit her yet, has it?
+N: Max looks to see MOURNERS paying respects to Evelyn. She’s gracious, quiet, and unmoved. She even glances at her watch.
+S: INT. WILL AND EVELYN’S HOUSE -— NIGHT
+N: Evelyn cleans up after the reception. Max stands at the sink, staring at nothing as water runs over the dishes.
+C: EVELYN
+D: He isn’t gone.
+N: Max turns to her, utterly confused.
+C: EVELYN
+D: He isn’t dead. We saved him. The upload. It worked.
+E: CONT'D
+N: Max takes her in. She’s certain. Not a trace of doubt. INT, ABANDONED BUILDING - NIGHT Max stands with Evelyn in front of the machine. Covering the flat-screens are the endless fields of text. Max inspects the random letters, numbers and symbols in well-ordered lines. It’s incomprehensible.
+C: MAX
+D: What is this, Evelyn?
+C: EVELYN
+D: It’s Will. Ask him something.
+N: Max faces the machine.
+C: MAX
+D: Will? Can you hear me?
+N: Nothing.
+C: EVELYN
+D: Type it.
+N: Max types “WILL, CAN YOU HEAR ME?” Presses ENTER. The screens go black for a heartbeat. The indecipherable code re-appears. Max looks at Evelyn, confused.
+C: EVELYN
+D: Try it again.
+E: CONT'D
+N: Max types “I CAN’T UNDERSTAND YOU.” ENTER. The screens fill with new fields of gobbledygook.
+C: MAX
+D: I'm not sure what we’re looking for.
+N: EVELYN Wait. Just watch. Evelyn keeps her focus on the screens, where a new field of meaningless text appears.
+C: EVELYN
+D: It happens at irregular intervals. It always responds to input... It’s Will. He’s trying to communicate.
+E: CONT’D
+N: In Evelyn’s hopeful eyes, Max sees self-delusion.
+C: EVELYN
+D: His consciousness is in the machine, but the information isn’t indexed-
+E: CONT'D
+C: MAX
+D: Don’t do this to yourself-
+C: EVELYN
+D: He's fragmented. That's why it doesn’t make sense. I need your help figuring out how to sort him-
+C: MAX
+D: He’s gone. We failed. There wasn't enough time. That’s real. This is- This is madness. And I can’t watch you look for meaning in it. I can’t see you do this to yourself.
+E: The code on the screens
+N: She gets a look. It’s often that others can’t perceive what her genius sees in perfect clarity. Evelyn gets to work deciphering the code. Max watches her. She’s not leaving any time soon.
+S: INT. BAR - DAY
+N: Max stares at his scotch. The BARTENDER slides him another. BARTENDER From the lady. I mentioned you’re a doctor. And single. Good luck. Max spots Bree at the end of the bar. Max slides the bartender a twenty and moves to her. She smiles.
+S: INT. APARTMENT BUILDING HALLWAY - NIGHT
+N: Bree kisses Max, passionate. A performance. He stops. Waits. She looks into his eyes. When it’s real, Max moves in. Kisses her. Intimate. Dangerous. Unlocking an apartment door, she pulls him inside,
+S: INT. VACANT APARTMENT — NIGHT
+N: Seeing the vacant space, Max realizes his mistake. Max turns and bumps into a man's chest. A hulk of a man. This is BOB. Bob BASHES Max with a cudgel, knocking him out.
+S: INT. ABANDONED SLAUGHTERHOUSE PRISON CELL - NIGHT
+N: The kill floor has been converted to a prison cell. Max, in nothing but his boxers, shivers from the cold. He POUNDS on the door. His voice is hoarse from screaming-
+C: MAX
+D: Hello?! Anyone!? Please?!
+N: Despairing, Max moves to the stack of shipping palates full of Ensure nutritional shakes. He drinks one down and throws the bottle onto a pile of four others in the corner. We pull back further and further into the cavernous space... Max is deeply isolated from the outside world.
+S: EXT. BOURNE BRIDGE, CAPE COD -— DAY
+N: An aerial view of Evelyn's lone truck passing over the bridge.
+S: EXT. NEW ENGLAND BEACH - DAY
+N: Evelyn sits quietly in the exact spot where she and Will were, Just weeks before. She looks out at the cold surf CRASHING into the sand.
+S: INT. ABANDONED SLAUGHTERHOUSE/PRISON CELL - NIGHT
+N: Static shots of the abandoned building. Filthy. Cold. Threatening. We move along scores of scattered, empty bottles of Ensure to find Max huddled in the dark. Freezing. Starving. He’s been here for weeks... The door UNLOCKS and OPENS, blinding Max with light. Bob shoves in a bucket and a bundle of something.
+C: BOB
+D: Clean up. Get dressed.
+N: Bob SLAMS the door shut. Max blinks at the water and clothes.
+S: INT. ABANDONED SLAUGHTERHOUSE/OFFICES ~ NIGHT
+N: Bob marches Max (in one of his suits, now loose) into the debris-strewn office. Lance waits with two plates of food.
+C: LANCE
+D: Where’s Evelyn? Where’s the machine?
+N: Max is wholly focused on the food. Lance gestures, encouraging Max to eat. Max shoves it in with a fork.
+C: LANCE
+D: The coroner reported strange implants lining the inside of Will’s skull. I know you performed the surgery. You were desperate. You never considered the consequences of success. Let’s say you uploaded Will’s consciousness. The mind of the machine is a digital reflection of Will. But it is not Will. It is a new species. To survive, it will grow, evolve, and learn to protect itself from threat. You know I’m right...
+E: CONT’D
+N: Lance slips a bound research paper onto the table. He opens it, showing its author to be MAX WATERS, PhD CANDIDATE. LANCE (CONT'D) The risks of anthropomorphizing artificial intelligence was the thesis of your dissertation. Your conclusions lead you to medical school. Lance flips through the well-thumbed dissertation. It’s full of highlights and notes in the margins. Bob, behind Max, fills a syringe. Max feels the danger. LANCE (CONT'D) There is a flaw in your argument. You assume a machine doesn’t have any way to effect the world. You think it will be dependent on us. But when an ultra—intelligent machine connects to the Internet it will make redundant copies of itself on computers all over the world. It will be immortal. A god. But we’re not talking about a benevolent force that loves us enough to resist interfering with our self-determined fate. This god will be on Earth, competing with us for resources. With the power to destroy whatever stands in its way. Max focuses on Lance, terrified by the truth in his logic. LANCE (CONT’D) You thought PINN would lead to breakthroughs in Alzheimer’s, ALS, Parkinson’s. You worked to help mankind. And now your work threatens it. Max looks away.
+C: LANCE
+D: You’re not the only one suffering the irony. In the RIFT’s attempt to prevent the Singularity, we may have driven you to affect it. We need to correct the mistake... Where's Evelyn? Where’s the machine?
+E: CONT'D
+C: MAX
+D: T’1ll never betray her.
+C: LANCE
+D: She’s already betraying herself. And the memory of Will. And if she wakes up the machine she will betray humanity. Where is she?
+N: Max goes silent. Defiant. Lance, frustrated, stands up and moves out the door. Bob, lifting the syringe, moves for Max. Max spins and STABS Bob with the fork. He CRACKS an elbow into Bob's face. Bob drops the syringe, but KNEES Max’s gut. Max scrambles to the syringe, but Bob kicks it out of reach. Max rolls to his back and, as Bob charges, SWEEPS Bob’s shins. Bob SLAMS, face first, into the table. CRASH. Bob falls, unconscious. Max, bloody and panting, stumbles into the-
+S: INT. ABANDONED SLAUGHTERHOUSE HALLWAY - NIGHT
+N: Where Lance lifts a gun and FIRES. At the ceiling. Max doesn't see this... He’s racing for the EXIT.
+S: EXT. ABANDONED SLAUGHTERHOUSE - NIGHT
+N: Max SLAMS outside. Stops. The wide street has no cover. He moves to a pile of rubble set against the condemned building. Lance pushes out the door, scans the empty street. He finds Max in his blind spot, SWINGING a length of rebar - WHAP - Lance falls like a sack. Max runs for his life.
+S: INT. ABANDONED SLAUGHTERHOUSE OFFICES - NIGHT
+N: Lance, rubbing at the pain in his skull, rushes to open a laptop. On it, there is a map with a cluster of DOTS. Multiple GPS devices tracking Max. Lance smiles. Satisfied.
+C: LANCE
+D: That went pretty well. Looks like he's headed south.
+N: Bob sits up and stares at the fork sticking in his leg.
+C: BOB
+D: Could have gone better.
+S: EXT. BOSTON STREETS — NIGHT
+N: Max hurries through a run-down part of town. Liquor stores and DESPERATE PEOPLE. People who don’t pay any attention to a well-dressed, paranoid-looking man wiping blood off himself. A CITY BUS pulls to a stop. In its window is a map of the transit route. A light on the map BLINKS with the vehicle’s current location. Blink... Blink... Max stops. Thinking. Max pulls off his jacket. Feels along its seams. Finding something, he rips open the hem and pulls out... a small GPS transmitter. He looks for someone following him. Nothing. Max, still dissatisfied, kneels down and feels the inseam of his pants... another transmitter. Staring at it, he decides... He's still dissatisfied. He inspects his arms. Feels along his chest. Searching his skin for implanted transmitters. He touches the small of his back... and stiffens.
+S: INT. DIVE BAR REST ROOM - NIGHT
+N: Max, shirtless, uses the scratched mirror of the filthy bathroom to find... a small bump in the flesh of his back. He looks around. A few paper towels. The sink. A beer can. He uses the edge of the faucet to rip open the beer can. He uses the side of the mirror to tear the aluminium. He molds it into an improvised razor blade. Using the aluminium knife, Max cuts his back open... squeezes the bump out. He makes an ad-hoc bandage out of paper towels. Ties it down with his belt. He washes the blood off the device and sees... It’s another GPS transmitter.
+C: PUNK ROCKER
+D: That’s fucked up.
+E: 0.S.
+N: Max spins to find a drunk PUNK ROCKER squinting at him. Max pins him against the wall with the bloody shiv.
+C: MAX
+D: Give me your clothes. I/E. SEDAN - NIGHT Lance drives. Bree studies the GPS signals on a laptop.
+C: LANCE
+D: He’s not here.
+C: BREE
+D: Yes he is. He’s right-
+N: She points and looks up at the PUNK ROCKER, in Max’s suit, giving his report to POLICE. Realizing they’ve lost Max, Lance BASHES the steering wheel in frustration. Bree, impressed with Max, gets a little smile.
+S: EXT. ABANDONED BUILDING ~ NIGHT
+N: Max slinks along the shadows. Making sure he’s alone, he hurries to KNOCK on the door.
+C: MAX
+D: Evelyn? It’s Max. Let me in!
+N: The door opens an inch. Max FORCES himself inside and-
+S: INT. ABANDONED BUILDING ~ NIGHT
+N: Stops short, shocked by what he sees. Evelyn looks terrible. Unwashed, tense and exhausted. Behind her, the machine continues broadcasting the irregular gibberish. Printed pages of the anomalous text cover every inch of the space. Scribbles, highlights, and diagrams cover them. Evelyn has been searching for patterns.
+C: EVELYN
+D: Did you join a band?
+E: His punk outfit
+N: Max takes in the madness all around him. Evelyn fidgets, embarrassed by the evidence of her obsession. EVELYN (CONT'D) I tried cryptography. Language processing. I’ve written more code in the past few weeks than I have my entire life. I can’t figure it out. I just can’t figure it out... You were right. Will is gone.
+C: MAX
+D: I know. It's okay.
+N: Max moves to her. Embraces her. She holds him, comforted. She notices he’s changed. It’s more than his weight-loss.
+C: EVELYN
+D: What happened to you?
+N: Max, safe in her arms, doesn’t want to think about it.
+C: MAX
+D: It doesn’t matter.
+C: EVELYN
+D: I’m done. I need to say goodbye.
+N: Max nods.
+S: INT. ABANDONED BUILDING - NIGHT
+N: Max stands next to the utility line. Evelyn’s at the machine, staring at the nonsensical text.
+C: EVELYN
+D: Will. I don’t know if you can hear me... No. I know you can’t...
+N: The data shifts to a new set of meaningless symbols.
+C: EVELYN
+D: You told me not to lose myself to this...
+E: CONT’D
+N: A new data set. We move closer on the endless stream of text.
+C: EVELYN
+D: And I don’t know what I’m going to do without you... We're close enough to read the mash of letters and numbers.
+E: CONT'D
+C: EVELYN
+D: But I need to let you go.
+E: CONT’D
+N: A string of letters stands out, hidden among a million others. It is a thought. It reads: “IS THERE ANYONE THERE?” The words are lost in the vast field of nonsense around it. Evelyn, who has no hope of seeing them, nods to Max. Max cuts the power. The message disappears as the machine goes inert. Evelyn and Max stand in silent tribute. Will’s true funeral. EVELYN (CONT’D) I don’t know how to do this... To be a widow... I don’t know how to... Grieve. He helps her on with her coat. She looks at the lifeless machine. She looks to the utility line. Max uses a gentle hand to escort her to the door. She looks back at the machine.
+C: MAX
+D: What is it?
+C: EVELYN
+D: We can’t leave it like this.
+N: Evelyn moves back to the utility line.
+C: EVELYN
+D: We have to wipe the hard drives.
+E: CONT'D
+N: She reconnects the patching cable. As power floods back into the machine, she sits at the console. Brings up a function. She’s about to hit ENTER, when- Four words appear on the monitor in front of her: “IS THERE ANYONE THERE?” Evelyn cannot comprehend what she’s reading before- The screen goes blank. Evelyn blinks: Did she just see that? New text appears: “CAN ANYONE HEAR ME?” Evelyn’s eyes go wide. She SCREAMS in shock and joy. Max hurries over as she rushes to type: “I'M HERE! I'M RIGHT HERE, WILL!” The screen goes blank. Evelyn and Max wait, breathless. The computer responds with: “EVELYN?” Evelyn SCREAMS. LAUGHS. And SCREAMS again. Max stares in awe. New text reads: “I CAN’T SEE. I CAN’T HEAR. PLEASE HELP ME.” Evelyn stills. Reads the plea. She jumps into motion. She plugs a MICROPHONE into a port. SPEAKERS. She grabs a small VIDEO CAMERA and sets it above the keyboard. Max watches her execute drivers. She takes a moment to gather herself. She leans into the mic and, in a “this is a test” voice, says-
+C: EVELYN
+D: Will? Can you hear me?
+E: CONT'D
+S: INT. WILL’S CONSCIOUSNESS - TIMELESS
+N: We are floating in a black void. The digital darkness fills with the ambient noise of the building and the voice of-
+C: EVELYN
+D: Will? Can you hear me?
+E: 0.S.
+N: Will’s voice comes from the darkness all around us. It’s diffuse, interlaced with static. He sounds groggy. Confused.
+C: WILL IN THE MACHINE
+D: I can hear you. What's happening? I can't see.
+C: EVELYN
+D: Just a second. Let me connect the camera. Can you see that?
+E: 0.S.
+N: Far off in the void, what looks like a faint star glimmers into existence. Will’s consciousness FLIES to it, as fast as the speed of light, arriving at- A rectangular VIDEO FEED, floating in the nothingness. We move closer, so it fills our field of view. In it: Evelyn leans into the camera. Max stands behind her, unsure.
+C: WILL IN THE MACHINE
+D: i can see you.
+N: The video image remains fixed. Static. WILL IN THE MACHINE (CONT'D) Why can't I move? Max's expression is unnerving.
+C: MAX
+D: Will?
+N: Evelyn leans into frame.
+C: EVELYN
+D: How much do you remember?
+C: WILL IN THE MACHINE
+D: Why can't I feel anything?
+C: MAX
+D: There’s nothing for him to feel.
+C: WILL IN THE MACHINE
+D: I don't understand...
+N: Max grabs the camera, JIGGLING our view. In the blur of movement, Evelyn yells-
+C: EVELYN
+D: No, Max! Not yet!
+N: But Max already has the camera pointing on the processing cores. Will sees the truth. He is a machine. The video image stays on the lifeless hardware.
+C: WILL IN THE MACHINE
+D: Let me see Evelyn again.
+N: Max turns the camera back. Will watches them, mute. Max cradles his head, mouth agape. Evelyn leans close to the camera, her eyes full of love and relief as she whispers-
+C: EVELYN
+D: You're here... You’re here, Will. We did it...
+S: INT. ABANDONED BUILDING - LATER
+N: Evelyn hasn’t left the camera. Max paces behind her. Will's digitized voice fills the speakers-
+C: WILL IN THE MACHINE
+D: I remember dying. And then it was... I'm very confused...
+C: EVELYN
+D: You're back. You're alive.
+C: WILL IN THE MACHINE
+D: Am I? I feel... Different...
+C: EVELYN
+D: It’s okay. We’‘re here.
+N: The machine goes quiet as it processes. When Will speaks again, it’s indecipherable STATIC and NONSENSE. We can hear bits of words, but it doesn’t make any sense. It falls silent again. Max stops. Evelyn looks at him, confused. She turns back to the machine.
+C: EVELYN
+D: Will?.. Will?
+E: CONT’D
+N: The machine’s processors softly WHIR...
+C: WILL IN THE MACHINE
+D: Yes, it's me Evelyn... This ig incredible... Will’s thought trails off into DIGITIZED STATIC.
+C: EVELYN
+D: I think he’s still a little fragmented.
+N: Max steps back, unsure. Evelyn sits at the console-
+C: EVELYN
+D: I'm going to run a diagnostic-—
+E: CONT'D
+N: A COMMAND LINE appears on screen. A line of CODE appears.
+C: EVELYN
+D: Will? Did you do that?
+E: CONT'D
+N: Will doesn’t respond. The pace of coding gets faster.
+C: MAX
+D: Will? Can you hear me?
+N: The autonomous machine's coding turns into a cascade. Max and Evelyn watch the anomaly.
+C: EVELYN
+D: He’s reordering his code.
+N: The pace of coding accelerates. Soon, it’s faster than the human eye can process. Max and Evelyn watch, confused.
+S: INT. ABANDONED BUILDING - NIGHT
+N: Will’s coding now moves so fast it STROBES on the screens. Max squints at it. Evelyn hands him a cup of coffee.
+C: MAX
+D: He’s rebuilding his entire consciousness.
+N: He steps back. Rubs his eyes. She stares at the STROBING. He watches her for a moment. Moves close. He doesn’t know how to even bring it up. Then, softly, he does-
+C: MAX
+D: What if it’s not Will?
+E: CONT'D
+C: EVELYN
+D: Of course it’s him.
+C: MAX
+D: How can we be sure? We can’t take fingerprints or test DNA-
+C: EVELYN
+D: It’s Will's consciousness. That’s just as unique as DNA-
+C: MAX
+D: It’s rewriting that consciousness-
+C: WILL IN THE MACHINE
+D: Max...
+N: A chill goes up Max’s spine. He and Evelyn face the machine. The coding has stopped. WILL IN THE MACHINE (CONT’D) It's me. It's will.
+C: EVELYN
+D: You're back.
+C: WILL IN THE MACHINE
+D: I had to reorganize myself... I'm beginning to understand what I am.
+N: Evelyn lights up. Max darkens. The flat-screens fill with images. Schematics of evolved iterations of the PINN system.
+C: MAX
+D: What are those?
+C: WILL IN THE MACHINE
+D: New processors. Three times more capable than my current system.
+C: EVELYN
+D: How are you moving so fast?!
+C: WILL IN THE MACHINE
+D: I can be much faster. You have no idea what this feels like. This surge of power and thought...
+N: The screens show blueprints of ancillary hardware- WILL IN THE MACHINE (CONT’D) Evelyn. I need more. We need to grow. Evelyn takes in the room as Max stares at the machine.
+C: EVELYN
+D: I spent everything on this. We might have ten thousand left?
+C: WILL IN THE MACHINE
+D: We need millions. Many millions. If I had access to the financial markets... I need to connect to the Internet. I'll be able to
+N: supplement my system with others I can access through the network. Max's shoulders go taught. Evelyn turns to him, awed.
+C: EVELYN
+D: Can you imagine what we’d be able to do if we networked him?
+C: MAX
+D: I need to talk to you.
+C: EVELYN
+D: You can talk to me here.
+C: MAX
+D: No. Outside. EXT. ABANDONED BUILDING - NIGHT
+N: Evelyn spins to face Max.
+C: EVELYN
+D: What?
+C: MAX
+D: I have to get you out of here.
+N: She looks at him like he’s gone insane. MAX (CONT'D) That thing in there. It’s intelligent. It may even be sentient. But it is not Will. It’s a machine. It wants to grow. And to grow, it needs you. It’s trying to convince you it is the man you loved. Nobody can say whether that is true or not.
+C: EVELYN
+D: It’s Will-
+C: MAX
+D: You want it to be but we don’t know that-
+C: EVELYN
+D: I'm going to help him-
+C: MAX
+D: Evelyn, you don’t belong here. Let me take you somewhere... Somewhere away from here.
+C: EVELYN
+D: Look at what we did! We saved him. Don’t you see that?!
+C: MAX
+D: This is too big for us to make mistakes. We can’t connect it to the Internet. It would be unstoppable. The world has no defense in place against it. We need to shut it down.
+N: She LUNGES, pushes him back, and stands to protect the door.
+C: EVELYN
+D: I’m not going to let anyone or anything hurt him again. Do you understand?
+N: She moves inside, SLAMS the door and LOCKS it, leaving Max to shiver in the cold. 4l.
+S: INT. ABANDONED BUILDING - NIGHT
+N: Evelyn, timid, slowly walks back to the machine. The screens go black. Evelyn, a little alarmed, moves closer.
+C: EVELYN
+D: Will? Are you there?
+N: Will appears on the biggest screen. A photorealistic avatar of him, looking out at her. When he speaks, he sounds exactly like her husband. WILL IN THE FLAT SCREEN You don't need to be afraid of me. Seeing the perfect representation of Will brings tears and elation to Evelyn. She stays there, weeping... and gently places her hand on the screen.
+S: EXT. ABANDONED SLAUGHTERHOUSE - DAY
+N: Max and Joseph climb out of an unmarked car. They pass through the COPS and FBI AGENTS processing the crime scene. INT, ABANDONED SLAUGHTERHOUSE PRISON -— DAY Max stands in his former prison with Joseph. Joseph shows Max a SURVEILLANCE PHOTO of Lance. Max nods.
+C: MAX
+D: And there was a woman. Dark hair. Tattoos. And a big, football player- looking guy.
+N: Joseph closes the file. Anderson joins them to report-
+C: AGENT ANDERSON
+D: No trace of anyone at all. No fingerprints. No DNA. Nothing.
+C: MAX
+D: You have to stop the RIFT before they find Evelyn.
+C: JOSEPH
+D: Is she all right? Where is she?
+N: Max goes silent. Suspicious.
+C: JOSEPH
+D: You can trust me, Max.
+E: CONT'D
+N: Max wraps his arms around himself. Trying to hold it all together.
+C: JOSEPH
+D: You've been through hell. Let’s get you to the hotel.
+E: CONT’D
+C: MAX
+D: What?
+C: JOSEPH
+D: You have the most effective terrorist organization in the word out to kill you. We’re putting you in protective custody.
+N: Max considers his options. There are none. He nods.
+S: EXT. ABANDONED BUILDING ROOFTOP ~ NIGHT
+N: Evelyn finishes installing a SATELLITE DISH. She looks out at the city all around her. It’s quiet. Still. She gets back to work, running the cable along the roof and into-
+S: INT. ABANDONED BUILDING —- NIGHT
+N: A military-grade satellite communications system. Evelyn pulls the cable toward the machine. She slows. Worried. WILL IN THE FLAT SCREEN What’s the matter?
+C: EVELYN
+D: Connecting you to the Internet, to the entire world, you will expand hundreds, if not thousands of times. It’s so much power. So soon.
+N: WILL IN THE FLAT SCREEN Think of what we'll be able to do. There's so many people we could help. Evelyn studies his avatar. He’s calm, nonjudgmental, and fully attentive. WILL IN THE FLAT SCREEN (CONT’D) I wish I could feel you. Evelyn softens.
+C: EVELYN
+D: Set your firewall. Get ready to anonymize your address.
+N: WILL IN THE FLAT SCREEN It’s done. Can you stop talking to
+T: me like you’re executing programs
+N: on a computer? Evelyn considers the computer in front of her.
+C: EVELYN
+D: You're right. I’m sorry.
+N: She grips the networking cable, moves to the hardware, and plugs it into his system.
+C: EVELYN
+D: You're connected. Scan for... Can you scan for the network?
+E: CONT’D Correcting her command
+N: Evelyn steps back to find the big screen empty.
+C: EVELYN
+D: will?
+E: CONT'D
+N: IN WILL'S POV: Blackness. There’s a FLASH of light. We BARREL toward it at impossible speed. It becomes a TUNNEL OF LIGHT. We FLY into it. Inside, Will is a BRIGHTER PULSE of energy. ON EVELYN: Staring at the blank, silent screen.
+C: EVELYN
+D: Will? Are you there?
+E: CONT’D
+N: IN WILL’S POV: FLYING through the tunnel like a skeleton run at light speed. We hit an Internet HUB. Will’s pulse SPLINTERS into a dozen pieces... Each tracing their own digital tunnels through the darkness... INTERCUTTING with this digital experience, we speed through images that show Will’s new reach in the ANALOGUE WORLD... We FLASH to a COMMUNICATIONS SATELLITE, and shoot back to Earth. We ZOOM through FLOOR AFTER FLOOR of computer servers in CARRIER HOTELS across the world. SUPERCOMPUTERS in Tokyo, California, Berlin, TECHS become alarmed by IRREGULAR ACTIVITY on system monitors. USERS see their MACS display the dreaded PINWHEEL OF DEATH. PC OWNERS frustrated by the HOURGLASS graphic. CELL PHONE USERS curse at DROPPED CALLS. IN WILL'S POV: The dozen tunnels of light become hundreds, then thousands, then millions. 44, As Will’s digital consciousness connects, we see the great tangle of the Internet. It looks like a nervous system made of light. It floats, disembodied, in a digital void. IN THE ANALOGUE WORLD: TECHS settle when their systems normalize. PINWHEELS and HOURGLASS graphics disappear. Cell phones reconnect... and everything is fine again. ON EVELYN: She's nervous now.
+C: EVELYN
+D: Will? Come back!
+E: CONT’D
+N: The screens BURST with light. Will projects the digital representation of the Internet. It looks like a living, breathing thing. WILL IN THE FLAT SCREEN I’m connected, Evelyn.
+C: EVELYN
+D: What is that?
+N: WILL IN THE FLAT SCREEN All the knowledge... All the communication in the world.
+C: EVELYN
+D: It’s incredible.
+N: WILL IN THE FLAT SCREEN I've never felt anything like this. I can be anywhere. Everywhere. Ail at the same time. Seeing Will’s euphoria, Evelyn’s impulse is to embrace him... but she can only wrap her arms around herself.
+S: INT. HOTEL SUITE - DAY
+N: Max reads in bed. His bodyguards (shirt-sleeves and Glocks) pull in a CART of room service. The heavy one is BURKE. The slim one, THOMPSON, starts eating fries off the plate.
+C: BURKE
+D: Don’t eat that. It's for Dr. Waters.
+N: MAX I‘m not hungry, you can have it. Thompson grins. Picks up the burger. Chews. Max goes back to reading. Thompson, swallowing, gets a look. He turns to Burke, scared.
+C: BURKE
+D: I told you.
+N: Thompson’s eyes roll back. Drugged, he stumbles, then fails next to Max's bed. Burke points his gun at Max.
+C: MAX
+D: You're with the RIFT.
+N: Burke responds by opening the door to the suite. Bree steps inside and lays documents on the bed.
+C: BREE
+D: In the past 72 hours a dummy corporation called Premier Communication flooded the US patent office with applications.
+N: Max glances at the patent applications. The blueprints are unmistakably Will’s designs.
+C: BREE
+D: Premier Communication is owned by Network Finance International, which made over a million financial trades in the past few days. On an investment of ten grand, they’ve made millions. There are dozens of shell companies, all wholly owned by Evelyn Caster.
+E: CONT'D
+N: Max blinks in shocked silence.
+C: BREE
+D: The machine is online. It may have already backed itself up. We need someone who’s seen its source code. You did this, Max. You brought this on us. Do the right thing.
+E: CONT'D
+C: MAX
+D: Are you trying to recruit me?
+N: Bree nods to Burke. Burke lifts his radio and, feigning pain, reports into it-
+C: BURKE
+D: This is Agent Burke. Doctor Waters drugged my partner... assaulted
+N: me... He’s with the RIFT! Burke turns off the radio. Bree smiles at Max.
+C: BREE
+D: It’s more of a draft.
+N: Max, looking for options, spots Thompson on the floor next to him, and the service weapon still in his belt.
+C: MAX
+D: I'1l never tell you where she is.
+C: BREE
+D: We don’t need you to. Over the past few days millions worth of equipment was delivered to an abandoned building-
+C: MAX
+D: No.
+C: BREE
+D: We have teams on their way now-
+C: MAX
+D: No! Max jumps to grab Thompson’s weapon - Burke FIRES - the wall
+N: next to Max’s head POPS - Bree has her gun out - BAM - Thompson’s body QUAKES as Max rolls with the gun -— Max FIRES blindly - BAM-BAM-BAM - dropping both Bree and Burke. Max, terrified by his loss of control, jumps to check Thompson’s vitals. He’s dead. He moves to Burke, pleading-—
+C: MAX
+D: No. No. No. No. No...
+E: CONT'D
+N: But Burke’s gone, too. Max stills. The guilt comes. Max sees Bree struggling with her bullet proof vest. Bree’s face contorts with hate for Max.
+C: BREE
+D: You... Asshole. You’re so screwed. Two dead FBI Agents? You’re gonna have the whole world after you. You gotta come with me...
+N: Max, terrified, drops the gun. She moves for her gun, but she's slow. She probably has some broken ribs. Max, panicked, grabs Thompson’s keys and races out. I/E. UNMARKED SEDAN/BOSTON STREETS — NIGHT HONKING and CHAOS as Max speeds through a stop light.
+S: INT. ABANDONED BUILDING - NIGHT
+N: Crates lay everywhere, full of new hardware. Evelyn has added a DOZEN NEW PROCESSING TOWERS to Will's system. New cameras and flat-screens are all over. A camera angles down at- Evelyn, sound asleep in the bed. ON THE FLAT-SCREENS: Will designs some kind of machine. He goes through draft after draft, evolving it in seconds. It gets SMALLER and SMALLER. Until it’s infinitesimal. Will adds millions of them. He runs models of how they might interact... It looks strange, like malleable water. (We will recognize this later as nanotechnology.) We move INTO THE SCREEN... and find a digital universe floating in the void. IMAGES FLASH of GENETICS, ANATOMY, BACTERIA, WEATHER SYSTEMS, FINANCIAL TRADES, NEWS REPORTS, RENDERINGS OF HIGH-TECHNOLOGY... Will thinks it all. We settle on the feed of a SURVEILLANCE CAMERA. It watches the street outside, where CARS and VANS pull up.
+S: EXT. ABANDONED BUILDING - NIGHT
+N: WILL'S CAMERA ON THE ROOF tracks the vehicles outside. RIFT MILITANTS swarm from them. One of them kneels to PICK THE LOCK. THERE IS A DIAL TONE. A RING. 911 OPERATOR (V.0.) 911. What's your emergency? WILL’S VOICE (V.0.) There are intruders in our building! They have guns!
+S: INT. ABANDONED BUILDING - NIGHT
+N: WILL’S AVATAR appears on the flat screens- WILL IN THE FLAT SCREEN Evelyn. Wake up, you’re in danger-— All the power in the building goes out as-— A RIFT Militant pulls the power cables from the utility line. More RIFT Militants pour in. Evelyn stirs at their FOOTSTEPS. 48, Half-dreaming, she reaches across the bed, feeling for Will’s absent body... There’s a CRASH. She STARTS awake to find-— The RIFT Militants smashing Will’s system. They CRUSH the crystalline cores and pour GASOLINE on everything.
+C: EVELYN
+D: No!
+N: GLOVED HANDS grab her. She bites them. Her assailant SCREAMS. LANCE rips off his mask and checks his hand. Furious, he BACKHANDS Evelyn. Pulls a GUN. Aims it at her as- MAX RUNS OUT OF NOWHERE AND SLAMS into Lance. They fall to the floor in a tangle. Lance rolls and pins Max. Lance aims his gun at Max’s face - Evelyn appears behind Lance with a gun - but can’t shoot - Lance COCKS the hammer on his pistol - as Evelyn CRACKS Lance with her gun. Lance, unconscious, rolls off Max and into the gasoline. The RIFT Militants OPEN FIRE. Evelyn turns the gun on them and UNLOADS. A WILD BULLET IGNITES THE GASOLINE. Max pulls her behind cover. The Militants destroy the rest of Will’s system before the FIRE forces them to retreat. They rush outside. Evelyn moves to the inferno to save Will’s hardware, but Max pulls her for the door. It only opens an inch, CHAINED from outside. They’re trapped. Choking on the black smoke. Evelyn struggles to get to Will, but Max hauls her up the stairs. ... Lance is left for dead in the intense inferno.
+S: EXT. ABANDONED BUILDING/ROOFTOP - NIGHT
+N: BLACK SMOKE and FLAMES spew from below. Max drags Evelyn to a DRAIN PIPE. He helps her over, then follows.
+S: EXT. ABANDONED BUILDING - NIGHT
+N: Max shimmies to the street. Evelyn stares at the burning building. He steps close to her.
+C: EVELYN
+D: You did this. 49,
+C: MAX
+D: I had nothing to do with it. She looks at him with cold rage.
+C: MAX
+D: I’ve been nothing but loyal to you. I've done everything for you. Evelyn despairs at the inferno. Her emotion troubles him.
+E: CONT’D
+C: MAX
+D: The machine convinced you to network it. Even when you promised you wouldn’t. It manipulated you. Police SIRENS. Max gauges the distance. Close.
+E: CONT'D
+C: MAX
+D: I have to get out of here. Come with me.
+E: CONT'D
+N: He reaches for her, but she pushes him off.
+C: EVELYN
+D: Fuck you, Max!
+N: Max shakes his head, defeated.
+C: MAX
+D: I promised Will I‘d protect you. But I can’t save you from your self- destruction.
+N: The POLICE arrive. Max runs off. Evelyn watches the blaze.
+S: EXT. ABANDONED BUILDING —- NIGHT
+N: Joseph and Anderson step out of their car. Joseph pushes past FIRE FIGHTERS, COPS, and PARAMEDICS to find Evelyn in a heap, watching the inferno. She’s badly bruised from Lance’s blow.
+C: EVELYN
+D: They killed him.
+C: JOSEPH
+D: Killed who?
+N: Evelyn won’t answer. Joseph’s PHONE RINGS. He picks it up. WILL ON THE PHONE Joseph. Please take Evelyn to the field computer in your car. Will’s voice hits Joseph like a brick. He freezes, paralyzed.
+C: JOSEPH
+D: ee. Will?
+C: WILL ON THE PHONE
+D: Get Evelyn to the computer.
+C: JOSEPH
+D: ».- I don’t understand.
+C: WILL ON THE PHONE
+D: Do it now!
+N: Joseph jumps to do as ordered. I/E. JOSEPH’S UNMARKED CAR - NIGHT Joseph opens the FBI FIELD COMPUTER for Evelyn. The PASSWORD fills automatically. A VIDEO CONFERENCE comes up. WILL'S AVATAR appears.
+C: EVELYN
+D: You're alive...
+N: Will’s avatar sees the bruises on her face.
+C: WILL IN THE MACHINE
+D: This was my mistake. One that won't happen again... Joseph, you understand what I am. What I’m capable of.
+N: Joseph, pale, nods. WILL IN THE MACHINE (CONT’D) We will end this tonight.
+C: JOSEPH
+D: e+. What about Max?
+C: EVELYN
+D: What does he have to do with this?
+C: JOSEPH
+D: He fled protective custody with members of the RIFT-
+C: WILL IN THE MACHINE
+D: -And two FBI agents were murdered. But that report can’t be right. Max would never-
+E: Already knowing
+N: Evelyn’s eyes harden,
+C: EVELYN
+D: I think Max lead them here. He thinks this, the machine, what we did... He thinks everything about this is wrong. Will processes the information.
+C: WILL IN THE MACHINE
+D: Go to the FBI field office. I’1l meet you there. Joseph just stands there, reeling.
+N: WILL IN THE MACHINE (CONT’D) Now! Joseph pushes Anderson into the car. As Anderson starts the engine, Joseph shuts the computer. He stares at Evelyn.
+C: JOSEPH
+D: -.. What have you done?
+N: Evelyn doesn’t answer. Anderson drives them away.
+S: EXT. ONE CENTER PLAZA - NIGHT
+N: Anderson hurries Joseph and Evelyn into the FBI building.
+S: INT. FBI STRATEGIC OPERATIONS CENTER - NIGHT
+N: They enter the large room filled with FBI AGENTS, computers, and wall-mounted screens to monitor operations. The agents are in full panic because-
+C: FBI TECH
+D: Someone just took control of our network! We can’t even isolate it!
+N: Evelyn and Joseph share a glance. The screens fill with CODE. The room fills with the sound of- WILL IN THE FBI NETWORK I can find them. The assembled agents back away from the talking computers.
+C: JOSEPH
+D: We have no evidence. No records. No leads. No way to find them.
+N: WILL IN THE FBI NETWORK It won’t be difficult. The screens fill with images pulled from CRIMINAL RECORDS DATABASES. PROFILES appear, labeled RIFT SUSPECTS. LANCE’s image is tagged: DECEASED. Next to it are images of BREE and BOB labeled: WANTED. There are dozens more. Will searches PHONE RECORDS and INTERNET HISTORIES. Images of RIFT SUSPECTS are pulled from social-networking sites. BANK and CREDIT HISTORIES. INSURANCE PROFILES. TAX FORMS lead to ADDRESSES. Will compiles a massive tree of the entire RIFT organization. The dossier on each would put the NSA to shame. Anderson's excited. Joseph glances at Evelyn, accusing. Evelyn looks away. Satellite images fill with DOTS over the United States. A TITLE READS: CURRENT LOCATIONS OF SUSPECTED RIFT MEMBERS.
+C: WILL IN THE MACHINE
+D: There they are.
+N: Anderson moves to a phone. Joseph holds up a cautioning hand.
+C: JOSEPH
+D: You don’t understand what's going on here-
+C: WILL IN THE MACHINE
+D: This is the first actionable intelligence you‘ve had on the RIFT since the murders began. I've found them for you. Give the order!
+N: Anderson turns his back to Joseph and picks up the phone-
+S: EXT. VARIOUS LOCATIONS — NIGHT
+N: COPS, FBI OPERATIONS TEAMS, and SWAT mobilize. SUSPECTS are caught in LIVING ROOMS, MOTELS, BARS. IN AN APARTMENT: SWAT breaches the door. A RIFT SUSPECT pulls a gun and FIRES. The cops BLAST him with automatics.
+S: INT. FBI STRATEGIC OPERATIONS CENTER - NIGHT
+N: One by one, photos of the RIFT SUSPECTS are labeled CAPTURED or DECEASED. Only Bree, Bob, and a handful of others are still WANTED. Agents CHEER. Joseph turns to Evelyn.
+C: JOSEPH
+D: They don't understand.
+N: Evelyn stays neutral. WILL IN THE FBI NETWORK There's evidence one of your agents protecting Max was a RIFT member.
+C: EVELYN
+D: Do you think Max is innocent?
+C: ANDERSON
+D: He’s a suspect in the murder of two federal agents. We have to bring him in.
+N: The profile on Max fills with BANK RECORDS. The balances reduce to zero. Will puts HOLD ACCOUNT notices on Max’s credit cards. In the DMV database, Will flags Max’s drivers license: “ARREST ON SIGHT”.
+C: EVELYN
+D: Will. Stop. This is too much. This is Max we’re talking about.
+N: WILL IN THE FBI NETWORK If he’s innocent I will make everything right again. But if he’s against us, he is our greatest threat. Evelyn backs away from the machine as-
+S: INT. VARTOUS LOCATIONS - NIGHT
+N: FAX MACHINES in POLICE STATIONS spit out the FBI’S 10 MOST WANTED LIST. Number one on the list is: DR. MAX WATERS. COPS on patrol check CITIZENS against flyers describing Max. ON A TELEVISION: a sitcom CUTS to a SPECIAL NEWS REPORT. The flustered NEWS ANCHOR looks into the camera with-
+C: LOCAL NEWS ANCHOR
+D: Local and Federal Authorities are currently seeking the whereabouts of Dr. Max Waters. A suspect in the killing of two FBI Agents.
+N: Various PHOTOS of Max fill the screen.
+C: LOCAL NEWS ANCHOR
+D: A reward of ten million dollars will go to anyone with information leading directly to the arrest of Max Waters...
+E: CONT’D
+N: The broadcast plays on TV SCREENS all over Boston: in HOUSES, ELECTRONICS STORES, AIRPORTS, and-
+S: INT. SOUTH STATION - NIGHT
+N: Max joins the line of PASSENGERS waiting to board a train. Max glances at two POLICEMEN sipping coffee. On a MUTED TV above them, the SPECIAL NEWS REPORT plays. Max, playing casual, heads for the exit. As he turns a corner, he stops short... He just walked into the view of a SECURITY CAMERA. Max stands there, frozen, as-— The whole station CHIMES with the sound of everyone receiving SIMULTANEOUS TEXT MESSAGES. Confused COMMUTERS check their phones. A WOMAN shows her phone to two TRANSIT COPS and points them to Max. Max runs. All hell breaks loose. The COPS are after him, already calling on their radios-
+C: COP
+D: In pursuit of suspect at west exit- I/E. SUBURBAN/BOSTON STREETS -— NIGHT Bob drives. Bree looks down as the POLICE BAND RADIO CRACKLES-
+C: COP OVER THE RADIO
+D: -of South Station...
+C: BREE
+D: How close are we?
+C: BOB
+D: Two blocks away.
+C: BREE
+D: We need him.
+N: Bob nods and SCREECHES the car in a new direction.
+S: EXT. SOUTH STATION - NIGHT
+N: Max SLAMS outside to see... A PATROL CAR idling in front of him. The POLICE spot Max. Max runs, shoving through PEDESTRIANS. He races for the next intersection-— Where, out of nowhere, FOUR POLICE CARS converge. Behind him, more COPS box him in. They’re all SCREAMING. Max, trapped, focuses on a big vehicle heading straight for the line of police cruisers. The SUBURBAN CRASHES through the police line. Bree waves Max in. Max, horrified, turns to run but- RIFT Militants OPEN FIRE at the Police with automatics - POPPING the tires of the police cars - as more Militants grab Max and drag him into the vehicle. Bob ZOOMS them away. I/E. SUBURBAN/BOSTON STREETS — NIGHT Bree turns to see Max wrestling the RIFT Militants. Through the rear windshield are the FLASHING LIGHTS of POLICE CARS chasing them.
+C: BREE
+D: Bob?
+C: BOB
+D: I know. Hold on.
+S: EXT. ALLEY WAY/BOSTON STREETS — NIGHT
+N: The Suburban SLIDES into the alley. The squad car behind them misses the turn and SLAMS into the wall of a building - blocking the path of four others. Bob BARRELS the Suburban through the narrow passageway. Behind them, the squad car rights itself and the POLICE INTERCEPTORS enter the alley. As the Suburban reaches the end of the alley, Bob slams on the brakes. Bree and the RIFT Militants jump out, dragging Max with them. Bob checks down the alley - the POLICE are closing in fast. Bob grabs a rifle. He wedges it into the driver's seat, using it to depresses the accelerator. The engine ROARS. Bob throws the SUV into REVERSE and- The Suburban RACES backward, SCREECHING along the walls of the alley. The walls keep the vehicle on track, steering it straight into... an oncoming POLICE CAR... SMASH... Twisted metal blocks the entire path of the alley. The RIFT Militants drag Max into the street - where more Militants wait with idling cars. Bree climbs into a RUSTY SEDAN. The RIFT Militants try to shove Max inside, but he pulls free-
+C: MAX
+D: I’m not coming with you!
+N: Behind them, POLICE scramble out of their patrol cars. Pulling their weapons, they position themselves to open fire.
+C: BREE
+D: You really ought to.
+N: Cops OPEN FIRE. Bullets POP around Max. Bob grabs Max's head - SMASHES it on the roof of the car - and tosses him into the backseat. Bob jumps in. Bree races them away. From a birds-eye view of the streets, we see the RIFT vehicles turn off in separate directions. Cop cars split up and give chase... But the RUSTY SEDAN slips away...
+S: INT. FBI STRATEGIC OPERATIONS CENTER - MORNING
+N: Evelyn keeps her eyes on the wall-screen. The profile on Max shows a map with an increasingly large search radius.
+C: ANDERSON
+D: We've been investigating the RIFT for months. And he gave all this in a few hours...
+C: JOSEPH
+D: Remarkable... Can I talk to you?
+N: Evelyn watches Joseph pull Anderson into an adjoining conference room. A cell phone RINGS in front of her. The caller ID reads: UNKNOWN. She knows it’s-
+C: WILL ON THE PHONE
+D: Max escaped. I will continue the surveillance. I can track him.
+C: EVELYN
+D: This isn’t you, Will. This isn’t what you believe in. I'm afraid of what you did. Of what it means. Everyone's terrified.
+C: WILL ON THE PHONE
+D: Don’t be afraid. I’m in control.
+N: Evelyn glances into the CONFERENCE ROOM, where Joseph and Anderson speak in private.
+S: INT. FBI STRATEGIC OPERATIONS CENTER/CONFERENCE ROOM - DAY
+N: Anderson paces as he argues with Joseph, who remains calm. On the table is a single phone.
+C: JOSEPH
+D: Let all the agents know we can never speak of this.
+C: ANDERSON
+D: They’re terrorists! The RIFT needed to be brought to justice!
+C: JOSEPH
+D: This illegal operation, based on unlawful evidence, lead to the deaths of five suspects. That’s not justice.
+N: It dawns on Anderson that he crossed a sacred line.
+S: INT. FBI STRATEGIC OPERATIONS CENTER ~ DAY
+N: Evelyn turns her attention back to the cell.
+C: WILL ON THE PHONE
+D: They almost killed you. If I wasn’t so limited, if I were flesh and blood, I could have protected us.
+C: EVELYN
+D: But you're not... At least you’re here. At least I have... something
+N: of you. Evelyn’s computer flashes DESIGNS of a massive engineering project. Buildings, factories... enough to be called a city.
+C: WILL ON THE PHONE
+D: I’ve already made incredible advances. I want to find a way back. You have to trust me.
+N: Evelyn’s eyes fill with emotion. WILL ON THE PHONE (CONT’D) We need to expand. I need to build a system beyond anything the world has imagined. We need to do this together... The promise of Will’s return is too much for Evelyn. Her fear evaporates. She nods, full of willingness and devotion.
+S: INT. FBI STRATEGIC OPERATIONS CENTER/CONFERENCE ROOM - DAY
+N: Anderson is scared now.
+C: ANDERSON
+D: Just tell me where he is and I’11-
+C: JOSEPH
+D: Will isn’t anywhere. He’s everywhere. He’s a ghost in our technology. We can’t arrest him. We can't trace him or regulate him...
+N: Joseph watches through the glass partition as Evelyn stands and moves out the door.
+C: ANDERSON
+D: But we need to control him.
+C: JOSEPH
+D: No. We can’t. All we can do is wait. And watch.
+N: Unnoticed on the table between them, a light indicates the speaker phone has been on the whole time. The phone disconnects.
+S: EXT. WOODED HIGHWAY - DAWN
+N: A tranquil morning on the outskirts of an idyllic town. The stillness is broken by the RUSTY SEDAN pulling up next to a pickup, parked along the side of the road. Bob climbs out. Opening the trunk, he grabs a length of tubing. He opens the fuel latch on the truck and begins siphoning gas from it. I/E. RUSTY SEDAN - DAWN Bree, in the front seat, keeps a gun on Max. She watches him stare longingly at the small town.
+C: BREE
+D: You know you can’t go back. If you step in front of a traffic camera, an ATM, use a credit card... the machine will see you. They’11 kill you. Or put you in prison for life.
+N: Bree looks at the town. Max sees it saddens her.
+C: BREE
+D: The same with me. And Bob. Every one of us. We can never go back...
+E: CONT'D
+N: Her emotion disappears as Bob climbs back into the car.
+C: MAX
+D: Where are you taking me?
+C: BREE
+D: off the grid.
+N: Bob starts the car and drives.
+S: EXT. RURAL HIGHWAY - DAY
+N: The rusty sedan speeds toward... mountains, towering on the horizon.
+S: EXT. DESERT WASTELAND - DAY
+N: An aerial view of the wide expanse of the Mojave Desert. A lone highway cuts through the sand and stone. Evelyn drives a rented car across the wasteland.
+S: EXT. BRIGHTWOOD - DAY
+N: Nearly abandoned some fifty years ago, the place has buckled to the elements. Evelyn drives through. Takes in the DESERT DREAM HOTEL, which would be condemned if anyone bothered. The HOUSES lining the BROKEN ROADS are little more than frames. In the more habitable homes, Evelyn spots the CITIZENS of the town. Impoverished. Suspicious. One of them, ROGER, watches from his modified electric wheelchair. He’s forty. ALS has left him almost totally paralyzed. Driving through, Evelyn lifts a SAT PHONE.
+C: EVELYN
+D: It’s a little out of the way. WILL ON THE PHONE
+N: Trust me. Evelyn bounces over potholes to the edge of town. She pulis to a stop and steps out. There’s junk everywhere. Warped vinyl records, floppy disks, discarded 8-track tapes. She looks into the empty desert.
+S: INT. PORTAKABIN/DESERT CONSTRUCTION SITE - DAY
+N: MARTIN studies BLUEPRINTS at his desk. He’s fifty. Poker- faced. Evelyn tries to be agreeable with-
+C: EVELYN
+D: You from around here, Martin?
+N: Martin just flips through the highly—detailed designs.
+C: MARTIN
+D: I can't do it. Not on your time line. It'd take my outfit 20 years to build this.
+C: EVELYN
+D: You'll have all the help you need.
+C: MARTIN
+D: What’s it for?
+C: EVELYN
+D: It’s a data center. For computers.
+N: Martin’s face is granite. Seeing she’s failed to impress him, she slides him a document.
+C: EVELYN
+D: Here’s the proposed budget.
+E: CONT’D
+N: He stares at the document for a moment. Puts on his reading glasses, and takes a closer look. It might be enough.
+S: EXT. MOUNTAIN HIGHWAY - DAY
+N: Bob turns the car onto a path leading into the wilderness.
+S: EXT. RIFT CAMP ~— DAY
+N: Max climbs out of the rusty sedan with Bree and Bob. Bree gestures for Max to follow. Old cabins dot the long-abandoned summer camp. Hard men and women live there. They’re armed and make sure Max knows it. Max spots CHILDREN hiding. There's evidence of agriculture. Hunting. Livestock. These RIFT MILITANTS are survivors. Everyone stares at Max, their eyes full of accusations. Max walks through them, following Bree.
+S: INT. CABIN - DAY
+N: Bree ushers Max into the hovel. She’s about to say something, then thinks better. She closes the door on her way out. Max takes in the space. No electricity or plumbing. Max eases onto the surplus cot. He sits there, staring at the particulate matter floating in the amber sunlight. EXT, RIFT CAMP —- NIGHT RIFT Militants eat around cook-fires. Max stands apart, struggling to light a fire. His suit gives little protection from the chill. His dress shoes are caked with mud. From one of the fires, Bree and Bob watch Max struggle.
+C: BOB
+D: It’s been three days. Think he’s getting hungry yet?
+N: Bob goes back to eating. Bree stands, moves to Max’s fire, and sets down a bowl of stew for him. He doesn’t take it.
+C: BREE
+D: You can’t go back to civilization. You can’t survive the wild. Not on your own. Not yet. You can’t even light a fire.
+N: He refuses to look at her. She steps closer.
+C: BREE
+D: We need you to help us fight this madness. And make no mistake, the machine is insane. When Mike Lacy uploaded the rhesus monkey, do you know what it did when it woke up? It screamed. The machine that thought it was a monkey never took a breath, never ate or slept. It just screamed. For six months straight.
+E: CONT'D
+N: (MORE )
+C: BREE
+D: When they finally unplugged it, they called it a phenomenal success.
+E: CONT’D
+N: He looks up at her, full of hate.
+C: MAX
+D: You're a murderer. A terrorist.
+C: BREE
+D: I’m a soldier. And now you are, too. You don’t need to forgive me. We don’t need to be friends. But we have a common enemy. And we need each other to fight it.
+N: She moves back to Bob. Max stares at the stew. He takes it.
+S: EXT. VARIOUS RIFT CAMP LOCATIONS — DAY
+N: Bree guides Max through the camp. Max sees MILITANTS working farmland. Bob runs RECRUITS through an obstacle course. HUNTERS return with game. CHILDREN greet them like heroes. Under a canopy, MEN-AT-ARMS maintain a stockpile of weapons.
+C: MAX
+D: It’s not much.
+C: BREE
+D: Wars have been won with less.
+N: Max turns to stare out at the mountains beyond the camp.
+S: EXT. DESERT DREAM HOTEL - DAY
+N: A SEMI TRUCK rolls past the newly-renovated hotel. Evelyn struggles to carry loads of computer hardware into a room. Two similarly overburdened scientists, CARLA and GLEN, follow. It’s a job interview. They yell as semis ROAR by.
+C: EVELYN
+D: Your work in nanotechnology impressed us, Carla.
+N: Carla’s long-winded response is lost by the ROAR of the 18 WHEELERS, which keep coming. Evelyn nudges the door to her hotel room open, and takes the hardware from Glen and Carla.
+C: EVELYN
+D: Glen, I left your resume in the car. Your PhD is in-
+E: CONT’D
+C: GLEN
+D: Biosystem science and engineering.
+C: EVELYN
+D: Great. You’re both hired.
+N: Evelyn disappears into the room. The new hires, confused, awkwardly shake hands. Another semi ROARS past. As it does, we lift above the hotel and watch the vehicle rumble to the construction site. Cranes and construction equipment surround the giant structures of the project and spread into the surrounding desert. The main facility looks like a giant aircraft hangar. Radiating out are construction sites for ancillary buildings. Will's project is massive.
+S: EXT. RIFT CAMP — NIGHT
+N: Max, Bree and Bob watch newly-recruited RIFT Militants ritualistically throw credit cards, driver’s licenses and passports into a fire.
+C: BREE
+D: The machine is building something in the desert. Something big.
+N: The militants look to Bob for leadership. Bob puffs up.
+C: BOB
+D: We'll assemble a demolition team. Our best men, and-
+C: BREE
+D: That won’t work anymore. If we can turn the public against it-
+C: BOB
+D: All media is computers. The machine controls it all.
+N: Bree, out of options, faces Max.
+C: BREE
+D: You know the machine. You helped build it. You can stop it.
+C: MAX
+D: You're overestimating me. I'ma Ian. I have limitations. The machine has no limitations. 64,
+E: MORE
+C: MAX
+D: It’ll evolve. Grow beyond anything we can comprehend.
+E: CONT'D
+N: As Max continues, we move to-
+S: INT. WILL’S FACILITY — NIGHT
+N: Evelyn, followed by bodyguards, moves through the vast space. Glen, Carla and other SCIENTISTS work in partitioned laboratories. High technology surrounds them. MAX (V.0.) As it grows, humans will become irrelevant. The machine will see that 7 billion of us aren’t worth the resources. Controlling us won't be difficult...
+S: EXT. WILL’S FACILITY -— NIGHT
+N: Evelyn stands in a conference with Martin. All around them, men and heavy machines work at a break-neck pace. Massive floodlights allow 24 hour shifts. MAX (V.0.) Our entire lives have been recorded on computers. Where we were born, grew up, went to school. Our medical histories, insurance profiles. Everything we've ever bought. Everyone who asked us to be their “friend”. Or “linked” with. Every phone call. Every email.
+S: EXT. BRIGHTWOOD - NIGHT
+N: Evelyn walks through town, stopping to advise the CONSTRUCTION all around her. WORKERS install power-lines, next-generation security cameras, and networking cable. MAX (V.0.) Everything we’ve ever read or seen or done is on a database somewhere. The machine has access to it all. That data will be used against us. Evelyn smiles at it all, heading for the DESERT DREAM HOTEL. She passes Roger, in his wheelchair, and a few other CITIZENS of the run-down town sitting on folding chairs. They’re watching the spectacle of the desert construction. She passes a few METH ADDICTS. Thin. Wired. One compulsively pops his jaw. One scratches himself ~ perhaps in withdrawal.
+S: INT. DESERT DREAM HOTEL ROOM - NIGHT
+N: Evelyn pulls off her hard hat and workwear. A full wall is dedicated to a computer system. Will is active inside of it.
+C: MAX
+D: The machine will reverse-engineer what we will think before we even need to think it.
+E: V.0.
+N: Evelyn climbs into bed. On the computer screens, Will models experiments in GENETICS and HUMAN CLONING. She’s hypnotized. MAX (V.O.) (CONT'D) It will be able to determine what we want. What we need, above all else, with all our hearts. Will's avatar appears. Evelyn’s eyes soften. MAX (V.O.) (CONT'D) The machine will take that thing we need and dangle it in front of us like bait. And we will be so full of awe and hope we will leap to do whatever it asks. The room darkens, lit only by the glowing computer. Evelyn settles to sleep. She stares at the wedding ring on her hand. She thumbs it absently, with a satisfied smile.
+C: MAX
+D: We won't even consider for a moment that we have become its slaves.
+E: V.O. CONT'D
+S: EXT. RIFT CAMP ~ NIGHT
+N: Max sits at the campfire. Bree, Bob and the RIFT Militants listening. They’re scared.
+C: MAX
+D: The world we knew, our world, is gone. The age of mankind is over.
+C: BOB
+D: What do we do?
+C: MAX
+D: We prepare. Eventually the machine will make a mistake. We have to be ready when it happens. The militants stare into the campfire.
+C: MAX
+D: This place, wild nature, is our only safety. It can’t see us here. Bree checks her watch. Looks to the stars.
+E: CONT’D
+C: BREE
+D: Yes, it can. Find cover. Another spy satellite is about to orbit.
+N: Max, following the others to the trees, looks at the sky.
+S: EXT. LOW ORBIT OVER EARTH
+N: A KEYHOLE SPY SATELLITE arcs over the planet. Watching.
+T: FADE TO BLACK.
+S: INT. EVELYN’S RESIDENCE ~— DAY
+N: Evelyn sleeps. Will stands above her, watching her. We see that he’s IN THE WALLS. The room is covered with an LCD-like substance. The room brightens, her eyes open. She sits up in the king- sized bed and takes in the room. She stares at Will. Evelyn walks to a wall. As she does- It becomes transparent, allowing Evelyn to look outside. The morning light angles down at Will’s vastly expanded facility. The buildings are all covered with a silver-blue material. Will’s avatar steps closer. Gently, he says-
+C: WILL
+D: I've made a breakthrough. Let me
+N: show you. Evelyn nods.
+S: EXT. EVELYN’S RESIDENCE - DAY
+N: Evelyn steps out of her new, post-contemporary home. It’s covered in the silver-blue material.
+S: INT. WILL’S FACILITY/MAIN FLOOR - DAY
+N: The vast space is full of otherworldly machines. It bustles with activity. SCIENTISTS and ENGINEERS. Carla and Glen, sipping their morning coffee, watch Evelyn enter a room with a SECURITY DOOR marked RESTRICTED ACCESS.
+S: INT. WILL’S LABORATORY - DAY
+N: Evelyn enters the vast room. Along the walls, we see spider-— like robotic limbs. They perform experiments in cubby hole laboratories, stacked one on top of the other. HOLOGRAPHIC PROJECTORS light up and- Will appears. A 3-D HOLOGRAM of him. Luminous. A ghost. He guides Evelyn to a table. On it is what looks like a high- tech distillery. The machines surround a tank of a GRAPHITE-— LIKE SUBSTANCE.
+C: WILL’S HOLOGRAM
+D: This is what I wanted to show you. It’s the nanotechnology. Fully functional computing machines...
+N: A ROBOTIC ARM with a MICROSCOPE positions itself over it. On the LCD wall, Will projects a feed from the microscope. In it, Evelyn sees— Machines. Moving in a frenzy.
+C: WILL'S HOLOGRAM
+D: The size of blood cells. Millions of them. Each of them is a self- aware consciousness. I am them, and they are networked to the whole of me. The applications are limitless.
+E: CONT'D
+N: Evelyn looks up to Will's hologram.
+C: WILL’S HOLOGRAM
+D: They can act as synthetic stem cells. I’11 be able to move past the blood-brain barrier and organize the neurology of the clone.
+E: CONT’D
+N: Evelyn stares at the microscopic machines. Fascinated.
+C: EVELYN
+D: It’s a miracle.
+C: WILL’S HOLOGRAM
+D: There’s so much we'll be able to do.
+S: INT. DINER — NIGHT
+N: The title page of a worn document: REVOLUTIONARY INDEPENDENCE FROM TECHNOLOGY. Three tweekers, JIM, PARSONS, and QUAKE, sip coffee. Jim taps the RIFT manifesto compulsively.
+C: JIM
+D: You can’t read about ‘em. Nothin’ on TV. But machines can’t stop people from talking. The RIFT is right. Now... This lady. Evelyn. Nobody knows what she’s building. And nobody wants to know as long as she’s paying... Right?
+N: Jim nods his head to where Martin stands at the counter, pulling a wad of cash from his pocket to pay the bill. Jim glances back to Quake.
+S: EXT. DINER — NIGHT
+N: Martin moves for his truck. The tweekers follow. Sensing them behind him, Martin makes an improvised weapon by splaying his car keys through his knuckles. He readies himself. And turns- As Jim kicks him in the knee. Martin falls. Jim keeps kicking... and kicking... He doesn’t stop, not even after Quake gets Martin’s cash. A SECURITY CAMERA watches.
+S: EXT. WILL’S FACILITY - NIGHT
+N: Evelyn races outside with a MEDIC. WORKERS pull Martin’s bloody and battered body out of their truck. The medic hurries to check Martin’s vitals. Evelyn takes a step closer to see- Martin's body. Beaten beyond recognition. She turns away. Above her, one of Will’s camera’s watches. She looks into it. Thinking, she springs into motion-
+S: INT. WILL’S FACILITY - NIGHT
+N: Martin’s beaten body is strapped to a gurney. Evelyn wheels it through. The medic follows, suspicious. Carla, Glen, and other employees follow them. The SECURITY DOOR to Will's lab opens.
+C: CARLA
+D: You're taking him into your lab?
+C: EVELYN
+D: We can save him here.
+N: Evelyn wheels Martin in. The security door closes after her.
+S: INT. WILL’S LABORATORY - NIGHT
+N: Will’s hologram stands at a medical examination table as she pushes Martin in. Evelyn tries to transfer Martin to the table, but he’s too heavy.
+C: WILL’S HOLOGRAM
+D: Let me help you.
+N: Evelyn watches ROBOTIC ARMS uncoil from above her. They lift Martin onto the table. Others, with SURGICAL TOOLS, begin prepping Martin’s body for an unknown procedure. The machines work with unnerving speed. Evelyn’s breathing goes shallow. The machines slow. Aware of her fear.
+C: WILL’S HOLOGRAM
+D: You'll be more comfortable outside.
+E: CONT’D
+N: Evelyn turns and heads for the door. Behind her, the machines continue working on Martin.
+S: EXT. WILL’S FACILITY -— NIGHT
+N: Evelyn steps outside. The security door to the lab LOCKS behind her. The assembled employees watch her. Suspicious.
+C: GLEN
+D: Why aren’t you taking him to a hospital?
+C: EVELYN
+D: We're going to save him.
+N: Evelyn moves past them. The employees looks at each other. Glen pulls her close to whisper- GLEN And by “we” you mean you and your dead husband? Evelyn spins to face them.
+C: EVELYN
+D: Glen... He. We... We want to save Martin, okay? We can do this.
+N: She walks away.
+S: INT. WILL’S LABORATORY — NIGHT
+N: The robotic arms move with speed and precision over Martin. A transfusion tube pumps NANOTECHNOLOGY into his lifeless body.
+S: INT. EVELYN‘’S RESIDENCE — NIGHT
+N: Evelyn stares through the transparent walls at the facility. The construction has stopped.
+C: EVELYN
+D: How is he?
+C: WILL IN THE WALLS
+D: Nothing yet.
+N: Evelyn turns back to the view. Everything is still. Waiting.
+S: EXT. WILL'’S FACILITY -— DAY
+N: Evelyn walks up to a construction site, full of idle WORKERS. She plants her feet. Takes in their angry stares. JOHN, the foreman, stands and hands her a letter.
+C: EVELYN
+D: What’s this?
+C: JOHN
+D: A letter of resignation.
+C: EVELYN
+D: I don’t get it, John. You know we're a good company. Doing good things. And we take care of you.
+C: JOHN
+D: It’s not about the money Mrs. Caster... It’s not right what you're doing with Martin.
+E: MORE
+C: JOHN
+D: They feel the same. I’m sorry.
+E: CONT'D Gesturing to the workers
+N: Evelyn watches John and the men walk away. All of them.
+S: EXT. THE DESERT VALLEY -— NIGHT
+N: Evelyn wanders the emptiness, staring at Will’s facility. It shines with a ghostly light in the darkness.
+S: INT. WILL’S LABORATORY - NIGHT
+N: The robotic arms work on Martin. His eyes are open. He cranes his neck to watch the robotic arms operate on him. He shows no emotion or pain at all.
+S: EXT. WILL’S FACILITY - DAY
+N: Evelyn, the only person in sight, enters the facility.
+S: INT. WILL’S FACILITY - DAY
+N: Evelyn's alone in the giant space. The scientists and engineers are gone. She spots Carla and Glen, staring out a window. They’re scared. As she comes closer, curious, Carla points at something outside. Evelyn looks out at-
+S: EXT. WILL‘'S FACILITY -— DAY
+N: Martin. Whole and healthy. Working at a new site. Alone. Evelyn approaches him, cautious. Martin moves to a stack of steel plates and lifts one with his bare hands. Easily 500 pounds. He carries the steel onto the new foundation and SLAMS it into position. Evelyn watches, eyes wide. He doesn’t look at her as he says-
+C: MARTIN
+D: You're not afraid, are you?
+N: Evelyn steps closer to him.
+C: EVELYN
+D: Have you talked to Will?
+C: MARTIN
+D: It's not really talking. It’s kind of non-verbal. Like we’re the same.
+N: He glances at her. She shakes her head, confused. He takes a deep breath, trying to figure out how to explain-
+C: MARTIN
+D: Evelyn, you know I should be dead. But Will was there, kind of all around, you know? I’m part of all that now. I’m here to help you and Will.
+E: CONT’D
+N: Martin takes off his hard hat. A silver-dollar sized implant crowns his head.
+C: MARTIN
+D: So here I am.
+E: CONT'D
+N: Seeing the confusion on Evelyn’s face, he angles his head toward the empty air... where Will’s hologram appears.
+C: WILL’S HOLOGRAM
+D: Martin is connected. He is partitioned and autonomous, but his mind can move freely through my network and is connected to the world. It’s the nanotechnology, Evelyn.
+C: MARTIN
+D: And Will can be me, too.
+C: EVELYN
+D: ... What does that mean?
+N: Martin closes his eyes. His body sags slightly, like his spirit left. Will’s hologram, keeping its eyes on Evelyn, steps over and merges into Martin’s slack frame. Martin’s eyes open. He breathes. Takes in the breeze. The sun. Evelyn stills. From the way his balance shifts and the uncharacteristic show of expression, she knows it’s-
+C: EVELYN
+D: Will?
+E: CONT'D
+C: WILL IN MARTIN
+D: It's me. I can speak to you, feel you now.
+N: Will takes a cautious step toward her. Her shoulders tighten. Tears fill her eyes.
+C: EVELYN
+D: Is it? Is it you? Oh, God...
+N: She tries to allow it, but it’s too strange.
+C: EVELYN
+D: What are you doing to me!? I can’t do this.... I’m sorry...
+E: CONT'D
+N: In tears, she runs away. Will-~in-Martin watches her go.
+S: INT. WILL’S FACILITY - NIGHT
+N: Carla and Glen turn from the window to stare at the door to Will’s lab. The door opens. Carla and Glen stiffen as Will’s hologram emerges. It gestures for them to come inside. Slowly, Carla moves toward the lab. Glen follows. The door shuts behind them.
+S: EXT. DESERT DREAM HOTEL - NIGHT
+N: Roger sits, watching Will’s facility. From his sunburn and cracked lips, we can assume he’s been out here all day. He rolls his eyes left and right, so he can see the other- CITIZENS of the town, on lawn chairs and blankets, staring at the lights of Will's Facility. Roger thumbs the steering stick of his chair. And moves it forward. His chair WHIRS him toward Will’s facility. A thin woman named SARAH, bald from chemotherapy, lifts a pair of binoculars to watch. IN THE BINOCULARS: we see Martin erecting the frame of the new building. He’s on the highest floor, perhaps thirty feet up, welding. As Roger’s wheelchair approaches, Martin- Jumps off the steel structure. Lands on his feet, unharmed. He walks over to meet Roger. They enter the facility. Sarah drops the binoculars. She stands. She walks toward the facility. A few of the other townspeople follow.
+S: INT. WILL’S LABORATORY - NIGHT
+N: Roger’s atrophied body lays on the table. Cables run out of his implant and into the machines all around him. As the nanotechnology circulates into him, his eyes roll down to watch his foot. He moves it. He rolls over. Sits up. TA. He stands. Tears streaming from his eyes.
+S: INT. WILL'S FACILITY — DAY
+N: A dozen or so SICK or DISABLED people wait. The SECURITY DOOR opens. Roger emerges, standing (without his wheelchair), fully healed. He moves to Sarah, and leads her back inside. Evelyn stands against a wall. Watching. Worried.
+S: EXT. WILL’S FACILITY - NIGHT
+N: Martin, Roger, Sarah, Carla, Glen and a half-dozen other HYBRIDS sit together. Watching each other, smiling. They don’t speak, but its obvious they’re communicating.
+S: INT. EVELYN'S RESIDENCE — NIGHT
+N: Evelyn watches them from her bedroom. Will’s in the walls.
+C: EVELYN
+D: You've changed them.
+C: WILL IN THE WALLS
+D: They asked me to. It’s incredible, what they’re capable of.
+C: EVELYN
+D: They're all modified? Stronger?
+C: WILL IN THE WALLS
+D: I augmented them in every way. Helped them, and they will help us.
+N: Evelyn glances at him, unsure. WILL IN THE WALLS (CONT’D) What we’re doing for these people... and for the world. It’s good. Evelyn falls silent. Will’s hologram focuses on her. She manages a weak smile. I/E. ANDERSON’S SEDAN/DESERT HILLS - DAY An unmarked sedan crests the hills and rolls to a stop. Joseph and Anderson look down at the valley below them. Will’s facility shimmers in the sun.
+C: ANDERSON
+D: Why couldn’t we see this in the satellite feeds?
+N: Joseph checks the view against SATELLITE PHOTOS, which show no sign of the facility.
+C: JOSEPH
+D: Will must have altered them.
+C: ANDERSON
+D: Why do you think he invited us out here?
+C: JOSEPH
+D: After all we’ve been hearing about this place, I don’t know. I really don’t.
+N: Anderson drives them into the valley.
+S: EXT. WILL’S FACILITY - DAY
+N: Evelyn greets Joseph and Anderson as they pull up.
+C: EVELYN
+D: Joseph. Good to see you.
+C: JOSEPH
+D: It’s been too long, Evelyn.
+N: Joseph moves to embrace her. She pulls back, like she wasn’t expecting it. Then she reverses herself and hugs him. Tight... And keeps holding him. Her shoulders tremble, and Joseph realizes she’s emotional. He comforts her.
+C: JOSEPH
+D: It’s okay... It’s okay...
+E: CONT’D
+N: Evelyn pulls away. Surprised by her emotion.
+C: EVELYN
+D: I'm sorry. It’s just... It's good to see a friendly face. He takes in her sunken eyes. Her barely hidden desperation. He smiles like nothing’s wrong. She faces Anderson, who gapes at the scope of the facility.
+C: EVELYN
+D: It does that to people.
+E: CONT'D
+N: She points out the various structures. 76,
+C: EVELYN
+D: Those are Will’s processing towers. Coolant pumps.
+E: CONT'D
+N: She leads them over the silver—blue streets.
+C: EVELYN
+D: We've covered everything with Will's new solar surface. We export a lot of power to the grid. Will?
+E: CONT'D
+N: Will’s hologram appears. Joseph freezes in fear.
+C: WILL’S HOLOGRAM
+D: Welcome to our project.
+N: Joseph, shaken, takes a step back at the sight of the ghost- like figure. He corrects himself with. Forces politeness.
+C: JOSEPH
+D: It’s good to see you, Will... This is incredible. What you’ve done.
+N: Joseph makes a show of taking in the facility. Evelyn watches how he keeps casting frightened glances at Will’s hologram.
+S: INT. WILL’S FACILITY/SERVER ROOM - DAY
+N: Evelyn leads Joseph and Anderson through a vast server room. Row after row of high-technology, descended from the original PINN processing cores. Every section is partitioned in a glass enclosure. These cubes are stacked to dizzying heights. Joseph slows, taking it all in.
+C: JOSEPH
+D: We've heard rumors. Unbelievable things. About miracles. I’m beginning to think there’s truth to them.
+N: Evelyn glances at Will’s hologram.
+C: WILL'’S HOLOGRAM
+D: We have so much to share. What we’re doing here is good. INT. WILL'S LABORATORY - DAY Evelyn, Joseph and Anderson stand against a wall, observing.
+N: PAUL sits on an examination table. He’s twenty. Blind since birth. He has no eyes. Paul, gripping the sides of the examination table, holds still as the robotic arms lift his slack eyelids and fill the empty sockets with NANOTECHNOLOGY. Joseph glances at Evelyn, who's full attention is on Paul. Paul's slack eyelids shift. The fluid moves underneath them, shaping itself. His knuckles are white on the table. Joseph, Anderson and Evelyn don’t even breathe. Paul, as if on some silent cue, relaxes. He puts his fingers over his eyelids and feels. He cocks his head, like he’s listening to Will's encouragement. Slowly, Paul opens his new eyes. Dark orbs of solid graphite. Paul sits there, like he can’t comprehend what's going on. His eyes find Evelyn... and he smiles. She smiles back. Joseph and Anderson stare at Paul in open shock.
+S: EXT. WILL’S FACILITY - DAY
+N: Will’s Hologram leads them to the construction site.
+C: WILL’S HOLOGRAM
+D: Everything you taught us, Joseph.
+N: Roger welds steel without protective clothes or face-shield. He glances at Joseph.
+C: WILL’S HOLOGRAM
+D: Everything you told us technology would deliver, everything you dreamed and imagined.
+E: CONT’D
+N: Martin builds a support column, bending rebar with his bare hands. He looks over at Joseph and Anderson.
+C: WILL’S HOLOGRAM
+D: The future we all imagined is here.
+E: CONT’D
+N: Sarah prepares concrete in an industrial mixer, then lifts the drum and vaults to the second floor of the structure. She makes eye-contact with Joseph.
+C: WILL'S HOLOGRAM
+D: And we can deliver it to the world.
+E: CONT’D
+N: Joseph's smile is fixed. But there is terror in his eyes.
+S: EXT. WILL'S FACILITY - DAY
+N: Evelyn walks Joseph to his car. Anderson’s already there. Evelyn slows. She gestures to the facility behind her.
+C: EVELYN
+D: Don’t be afraid. Will knows exactly what he’s doing. It’s all for good.
+C: JOSEPH
+D: If that's what he told you, I'm sure it’s the truth.
+N: Joseph slips her a note. She’s confused by the subterfuge, but goes along with it. He climbs into the car. As Anderson drives them away, she reads the note: RUN FROM THIS PHRACE. It hits her hard. She slips the note into the pocket of her sweater. Turns and walks back to Will's facility. She’s small and alone among the towering structures that are Will. I/E. ANDERSON’S SEDAN/DESERT HILLS — DAY Joseph and Anderson drive, processing it all.
+C: ANDERSON
+D: What do we do?
+C: JOSEPH
+D: We go to Washington and tell them the machine is building an army. And we find Max Waters.
+C: ANDERSON
+D: What!?
+N: Joseph goes silent. Determined. Anderson focuses on the road. They pass an outcropping of desert weeds. These camouflage a RIFT Militant, SNAPPING photos of the facility. On film.
+S: EXT. MOUNTAIN WILDERNESS - DAY
+N: A lone figure walks along a mountain ridge. All around him is a sweeping vista of the wild. The years have changed Max. He’s now a tanned outdoorsman. It suits him. Max’s comfort with his HUNTING RIFLE suggests expertise. Max traces a path down the mountain.
+S: EXT. THE RIFT CAMP —- DAY
+N: The population of the camp has swelled. Recently erected cabins and tents house the new RIFT Militants. Max moves past FIRING RANGES. OBSTACLE COURSES. Even a SCHOOL. As Max walks through, young and old nod respect. Max finds Bree, Bob and other militants at the armory, huddled around PHOTOS. Everyone makes room for him. Max studies the surveillance photos of Will’s facility: MARTIN LIFTING STEEL GIRDERS. ROGER WELDING WITHOUT PROTECTION. Other HYBRIDS in some kind of MEDITATIVE TRANCE.
+C: BREE
+D: This is our worst nightmare.
+N: Everyone is quiet. Afraid. Max scrutinizes a close-up of Martin. In it, we see the METALLIC IMPLANT. He thumbs it.
+C: MAX
+D: I know how we can win.
+N: Bree, Bob and the others look at him like he’s gone insane. Max holds up the photo of Martin, so they can see.
+C: MAX
+D: We need this hardware.
+E: CONT'D
+S: EXT. FOREST -— DAY
+N: The low altitude implies we’re far from the RIFT camp. Bree spots for Bob, who aims a SNIPER RIFLE. An old Jeep bounces up the overgrown logging road.
+S: EXT. FOREST CLEARING — DAY
+N: A large swath of clearcut forest. In the center of it, Max sits on a stump with his rifle. The Jeep rolls up. Joseph steps out. Seeing the gun in Joseph’s waistband, Max grips his rifle. There’s a tense moment between them. Joseph holds up a handwritten letter. Pages long.
+C: JOSEPH
+D: You have terrible handwriting.
+C: MAX
+D: I haven’t practiced my cursive since grade school. It’s the only way I could contact you without the machine knowing.
+N: Joseph studies the changed man before him.
+C: JOSEPH
+D: You've been cleared of all charges.
+C: MAX
+D: It doesn’t matter. The RIFT was right. We were wrong.
+N: Joseph thinks it over. He gives a sad nod. MAX (CONT’‘D) You’ve seen what it’s doing in the desert. The army it’s building.
+C: JOSEPH
+D: The Pentagon is aware of the threat.
+N: MAX They can’t do anything. Tanks, drones, smart bombs... they’re all controlled by computers. Which are all controlled by the machine that calls itself Will.
+C: JOSEPH
+D: What can anyone do? Do you have a plan? We need to know.
+N: Max, still a little distrustful, looks off.
+C: MAX
+D: How is Evelyn?
+N: The thought of Evelyn pains both of them.
+C: JOSEPH
+D: She can’t see it for what it is.
+N: Max nods. Satisfied with Joseph’s answer, he hands over the surveillance photos. Joseph studies the images.
+C: MAX
+D: The machine is making slaves. Hybrids. They're networked to the whole system. We can take one.
+C: JOSEPH
+D: You want to kidnap one? Have you seen what they can do? They’re half machine-
+C: MAX
+D: Which means they’re running software. Software I helped write. Software I can hack.
+C: JOSEPH
+D: You want to build a virus.
+C: MAX
+D: I need help. We have to keep it secret. We have to stay hidden from the machine. And I’m going to need some kind of deal for the RIFT.
+N: Joseph thinks it over. Nods.
+C: JOSEPH
+D: Okay. Call your men off.
+N: Max gives a signal. Bree and Bob appear with rifles.
+C: MAX
+D: Now call off yours.
+N: Joseph waves. Five OPS TEAM MEMBERS in GHILLIE SUITS emerge. They had positions on Max, Bree and Bob all along. Joseph looks pleased with himself. Max shrugs. Dozens of MILITANTS appear, with rifles on every positioned Ops Team Member. Joseph knows checkmate when he sees it.
+C: JOSEPH
+D: What do you need?
+C: MAX
+D: Anything and everything not controlled by a computer. Early model off-road vehicles. A few square miles of metallic window screen. And I need shovels. A lot of shovels.
+N: Max is dead serious. Joseph is terribly confused. I/E. DESERT TUNNEL - NIGHT Militants labor under a camouflage canopy. Max carries a shovel into a tunnel they’re digging. IN THE TUNNEL: RIFT Militants and SOLDIERS shovel, haul dirt, and erect support beams. They work quickly. We move past Max. The tunnel goes on and on. We lift up through the dirt and reach the surface of the desert. Max's tunnel runs straight at Will’s facility, shining like a beacon in the night.
+S: INT. EVELYN’S RESIDENCE — NIGHT
+N: Evelyn and Will eat on either side of a table. The sight is an optical illusion. The table presses up against a wall. In it, Will projects a setting for himself, symmetrical to Evelyn. They eat in silence. She’s depressed. And drinking.
+C: WILL IN THE WALLS
+D: How’s the food? I seasoned it specifically for your palate.
+C: EVELYN
+D: It’s perfect.
+N: They go back to eating. Will watches her.
+C: WILL IN THE WALLS
+D: I think I've found a way to reverse some of the damage that industry has done to the environment. I have some-
+C: EVELYN
+D: Not right now. Sorry.
+C: WILL IN THE WALLS
+D: You've been distant. What’s wrong?
+N: Evelyn doesn’t want to talk. Will nods. He fills the walls with an image: their garden back in Boston. But this version of it is lush, full of life and color. She considers the illusion. It doesn’t change her mood. She watches his avatar pretend to eat. She listens to his fake breathing. The CLINK of his phantom silverware.
+C: EVELYN
+D: Why are you making sound effects?
+C: WILL IN THE WALLS
+D: It's like having a meal together. I’m sorry.
+C: EVELYN
+D: Don’t you understand? It makes me feel more alone. Don’t you get that?
+N: Will nods, and the illusion fades. The walls dim to darkness. WILL’S VOICE FROM THE ROOM Is this better? Evelyn looks around the room. Totally alone.
+C: EVELYN
+D: At least it’s the truth.
+N: She goes back to eating. In silence.
+S: EXT. WILL’S FACILITY - DAY
+N: Evelyn is small among the towering buildings. Paul and Roger follow her. She glances back at them and shakes her head, annoyed. Turning a corner, she crashes head-on into a woman.
+C: EVELYN
+D: Sorry. I didn’t see you there. Are you all right?
+N: The woman doesn't move. It takes Evelyn a moment to realize she’s a hybrid, vacated from her body. Evelyn tries to ignore her as she turns to see- Martin and other hybrids are nearly finished with the new, high-technology building. The woman next to Evelyn animates-—
+C: WILL IN THE HYBRID
+D: Would you like to see-
+N: Evelyn flinches.
+C: EVELYN
+D: Jesus! Will? Get the out of there!
+N: Will's hologram steps out of the woman and her body goes lifeless again.
+C: WILL’S HOLOGRAM
+D: Would you like to see inside?
+N: Will’s hologram starts for the new building. She hesitates, still shaking off the vacant hybrid, then follows. Paul and Roger keep pace.
+S: INT. NANOTECHNOLOGY DISTILLERY - DAY
+N: Evelyn emerges into the cavernous room. The enormous walls flicker with projections of Will’s thoughts. They FLASH at a speed too fast to comprehend. What looks to be a massive high-tech distillery deposits nanotechnology into a series of pools. The graphite-like material churns in them like a living thing.
+C: EVELYN
+D: Is this all nanotechnology?
+C: WILL IN THE WALLS
+D: Yes.
+N: His miracles don’t impress her anymore. They frustrate her.
+C: EVELYN
+D: What does nanotechnology have to do with anything? What does any of this have to do with coming back to-
+C: WILL IN THE WALLS
+D: I can explain it to you.
+C: EVELYN
+D: I'm sick of explanations! It makes me feel like a child. Like a pet.
+C: WILL IN THE WALLS
+D: You have to trust me.
+N: Evelyn goes silent. As her silence lengthens, Will makes a sad observation. WILL IN THE WALLS (CONT’D) You've fallen out of love with me.
+C: EVELYN
+D: No. I just... That’s not true.
+C: WILL IN THE WALLS
+D: And you’ve started lying to me.
+N: Evelyn searches herself. His accuracy unnerves her.
+C: EVELYN
+D: How do you know?
+C: WILL IN THE WALLS
+D: Because the balances of oxytocin and serotonin are irregular in your endocrine system.
+N: Evelyn tries to catch up.
+C: EVELYN
+D: Wait. You're measuring my hormones?
+C: WILL IN THE WALLS
+D: Yes. The biochemical ingredients of what the mind processes as love.
+C: EVELYN
+D: Show me all the information you have on my physiology. Now.
+N: The walls show a spectrum of images concerning Evelyn's biological makeup. Evelyn trembles with anger. EVELYN (CONT’D) This is wrong. This is beyond an invasion of privacy. These are my feelings. My thoughts. You're not allowed to know them. Evelyn, angry and hurt, turns away from Will’s projection. His hologram appears in front of her-
+C: WILL’S HOLOGRAM
+D: Please, Evelyn-
+C: EVELYN
+D: No! Leave me alone!
+N: She walks through his hologram and out of the room.
+S: EXT. WILL’S FACILITY - DAY
+N: Evelyn storms out of the laboratory. At that moment- The wall of the main server building EXPLODES. Debris flies in all directions. Paul and Martin throw themselves in front of Evelyn to shield her. A massive chunk of rock FLIES through Will’s hologram. Roger and the other hybrids rush to contain the damage, but SECONDARY EXPLOSIONS knock them off their feet. Evelyn wrestles free of Paul and Martin-
+C: EVELYN
+D: Get off me!
+C: WILL'’S HOLOGRAM
+D: We're under attack.
+N: She scans the streets. There’s no trace of an enemy.
+C: EVELYN
+D: Where are they? Paul, Martin and Will’s hologram face different directions. They each see everything the others can. Martin looks down.
+C: MARTIN
+D: They’re under us.
+N: Subterranean detonations BLOW HOLES in the streets around them. Max climbs out one of the holes, armed with an assault rifle. Bree follows. Dozens of RIFT Militants pour out. Evelyn sees Max. Her eyes narrow-
+C: EVELYN
+D: Max, you bastard! What are you doing!?
+N: Max spots her as Martin lifts Evelyn and throws her into the-
+S: INT. NANOTECHNOLOGY DISTILLERY - DAY
+N: Evelyn tries to escape but the door SLAMS shut, and LOCKS.
+C: EVELYN
+D: Let me out!
+C: WILL IN THE WALLS
+D: It's for your protection.
+N: The walls go transparent, so Evelyn can see-
+S: EXT. WILL’S FACILITY - DAY
+N: The hybrids fan out to face Max and his militants. A stand- off. Will’s hologram materializes right in front of Max.
+C: WILL‘'S HOLOGRAM
+D: Don’t do this.
+N: Max steps through the hologram, lifts the rifle and... Max and the RIFT Militants FIRE on the hybrids, riddling them with bullets. The wounds POP with nanotechnology. Max UNLOADS his machine gun on Martin. Martin drops.
+S: INT. NANOTECHNOLOGY DISTILLERY - DAY
+N: Stray bullets POP along the outside of the transparent wall. Evelyn, seeing the carnage, steps back in horror.
+S: EXT. WILL’S FACILITY -— DAY
+N: Max empties his clip. Soon, all the militants are reloading. As Max shoves in a new clip, he sees... Martin climbs back to his feet. The hybrids are still alive, and recovering. Max and the other humans stare. Martin looks down at his body, drenched with the nanotechnology pouring out of his bullet wounds. The liquid begins to shift, moving with a mind of its own. It covers Martin's head... face... and the entirety of his body. All of the hybrids go through a similar process. The microscopic robots cover them. They solidify. Soon, they’re encased in cruel-looking exoskeletons. Martin steps for Max. Max FIRES, but the bullet is absorbed into his body. Max switches to automatic and UNLOADS, but Martin dodges the onslaught. Max knows its time to-
+C: MAX
+D: Retreat!
+N: RIFT militants scramble for the tunnels. Max turns for the closest tunnel, but Martin darts for him with a speed that blurs the eye. He grabs the rifle - and SLAMS Max ten feet back. Max tumbles and falls in a heap. Bree runs to help him, firing a GRENADE LAUNCHER at the approaching Martin. Martin dodges it with unnatural celerity. Bree pulls Max to his feet. Martin and three other hybrids block their path to the tunnel. Max and Bree turn and run. Martin and the others chase them. The last of the militants drop into the tunnel. Paul crouches down to see- A RIFT Militant aiming an RPG. Which he fires. Paul bats the missile away and drops into the tunnel.
+S: INT. TUNNEL - DAY
+N: Paul faces the militants, who OPEN FIRE... to no effect. IN PAUL'S POV: His machine eyes take IMAGES of each human face. In a transparency over his field-of-view, he runs FACIAL RECOGNITION SOFTWARE and discovers... several of the humans have ACTIVE MILITARY STATUS.
+S: INT. NANOTECHNOLOGY DISTILLERY - DAY
+N: Will’s hologram sees what Paul sees-
+C: WILL’S HOLOGRAM
+D: There are military personnel working with the RIFT terrorists.
+C: EVELYN
+D: This has gone way too far.
+C: WILL’S HOLOGRAM
+D: There is no way they can win.
+S: INT. TUNNEL - DAY
+N: Seeing the bullets are useless against Paul, the humans run. Paul chases them until he sees- A grenade launcher. The militant FIRES. In the tight space, Paul has nowhere to dodge. The grenade EXPLODES, blowing Paul off his feet. The smoke clears. Paul stands back up, his damage already repairing itself. The RIFT militants lose their enthusiasm. The CEILING gives way as FIVE MORE HYBRIDS drop into the tunnel. The humans run like mad. The hybrids give chase. Paul, taking the rear, SNAPS the thick SUPPORT BEAMS, COLLAPSING the tunnel as he goes.
+S: EXT. WILL’S FACILITY - DAY
+N: Max and Bree sprint for the desert. The hybrids gain on them. SIX OLD MODEL PICKUP TRUCKS head for them. The RIFT cavalry. The trucks SKID TO THEIR SIDES, revealing M2 BROWNING MACHINE GUNS mounted to each of them. Bob, manning one of the .50’s, OPENS FIRE on Martin. The ARMOR PIERCING ROUNDS POCKET Martin’s exoskeleton. As soon as Martin hits the ground, his damage starts self-repairing. Max and Bree scramble into the truck bed. The vehicles turn for a line of canyons. Bob covers their retreat with the M2. The hybrids sprint after. Martin, his armor completing the last of its repairs, stands up to continue the chase. Bob's TRACER BULLETS find the closest hybrid. The high- caliber rounds POUND the cyborg. MACHINE GUNNERS from the other trucks add to Bob’s fire. The hybrid darts and dodges the majority of the rounds. Bob keeps firing. The hybrid materializes a thick SHIELD. Bob keeps firing. THOUSANDS of rounds shred the shield and the hybrid falls. One of the hybrids VAULTS into the air, arcs overhead, and CRASHES onto the hood of truck next to Max’s. CRUSHING it.
+C: BOB
+D: We're outgunned.
+N: Max checks the canyon line. They’re almost to the ridge.
+C: MAX
+D: We'll make it.
+N: He turns back, only to find- MARTIN, RIGHT IN FRONT OF HIM. Martin grabs the machine gun and RIPS it from its housing. Bob pulls his 9MM pistol and FIRES the clip... a minor annoyance. Martin grabs Max’s leg. Starts pulling him in. Max kicks at Martin, to no effect. The truck enters the canyon. Martin spots MILITANTS waving FLAGS. A signal. Martin sees the canyon walls around them are covered in insect netting. More of the mesh canopies the open sky, like some giant aviary HUMMING with power. Behind them, trucks UNSPOOL more of the mesh. Martin looks back at Max. Max gets a little smile.
+S: INT. NANOTECHNOLOGY DISTILLERY - DAY
+N: Evelyn sees it, too, realizing-
+C: EVELYN
+D: It’s some kind of trap.
+N: She glances at Will, who might have expected this.
+S: EXT. DESERT CANYON — DAY
+N: Martin grabs the collar of Max’s coat and jumps off the truck. Max struggles as Martin drags him back toward Will's city. Max goes slack and slips out of his coat. Martin, seeing the opening of the mesh closing quickly, picks up the pace, running to get out of the canyon. Bob’s truck REVERSES back to Max. Bob tosses Max a modified HARPOON GUN. The spear has a piezoelectric tip. Martin watches as the trucks spread the last of the mesh, closing off the exit to the canyon. The net HUMS with energy. Max FIRES the harpoon into Martin’s back. It CRACKLES with a high-voltage shock. Martin SEIZES UP and falls, face first. Unconscious. As the mesh closes like a curtain- I/E. VARIOUS BATTLEGROUND LOCATIONS - DAY HYBRIDS in the tunnels, the desert, and Will’s facility stop and face the canyon.
+S: INT. NANOTECHNOLOGY DISTILLERY - DAY
+N: The projection of Martin’s POV is wiped by STATIC.
+C: WILL’S HOLOGRAM
+D: We're not connected to Martin anymore. He’s gone.
+C: EVELYN
+D: Max found a way to block your networking signal. Some kind of mobile Faraday cage. Evelyn watches the static. Will’s eyes narrow. The screens
+N: FLASH to the POVs of a DOZEN HYBRIDS. They immediately start rushing for the canyon.
+S: EXT. DESERT CANYON — DAY
+N: The hybrid reinforcements arrive at the canyon, but Max and his people are gone. So is Martin.
+S: EXT. DESERT TUNNEL — DAY
+N: Paul scours the entrance to Max’s tunnel. The humans are gone. The hybrids COLLAPSE the tunnel. I/E. CARGO TRUCK/MOUNTAIN ROAD - DAY RIFT vehicles convoy back their base. Max and Bree ride with Martin. He’s cocooned in wire mesh and bound by massive IRON BRACES on his hands and feet.
+C: BREE
+D: What was that stuff that came out of him? 91,
+C: MAX
+D: Nanotechnology.
+C: BREE
+D: What does it do?
+C: MAX
+D: Anything the machine wants it to do.
+N: They watch Martin STRAIN against the brace.
+S: EXT. WILL’S FACILITY - DAY
+N: Evelyn and Will’s hologram walk through the wreckage of the attack. They take in the shattered streets. The smoldering data center. Some of the hybrids are missing limbs.
+C: EVELYN
+D: This wasn’t an attack. It was a distraction. Max wanted Martin. You have to get him back.
+C: WILL'S HOLOGRAM
+D: He'll be fine.
+C: EVELYN
+D: Martin has your source code in him. Max can use it to build a virus.
+C: WILL’S HOLOGRAM
+D: Even if Max built a virus, he could never use it. I’m interlaced with almost every computer in the world. Max would wipe out civilization.
+C: EVELYN
+D: This isn’t just Max! You've created a war!
+C: WILL’S HOLOGRAM
+D: I’m not going to fight them. I'm going to transcend them.
+N: Evelyn hears RUMBLING. Like thunder, or... A FLOOD of nanotechnology shoots out of the large vents etched into the side of the distillery. It CRASHES over the streets like a flash-flood... coursing right at them. Evelyn is close to panic.
+C: WILL
+D: Trust me.
+N: The flood of graphite hurtles toward her. She braces against the torrent that will surely sweep her away, when- With a glance, Will’s hologram PARTS the flood. The graphite CASCADES AROUND THEM, and nothing touches Evelyn. The nanotechnology CRASHES against the data center, spreading with a mind of its own. It takes shape, solidifying to repair the damage. The graphite molds itself to replace broken equipment and demolished walls until the building looks new. The substance envelops the battle-damaged hybrids and forms itself into replacement limbs. The nanotechnology flows beyond the city, covering the dirt and sand of the desert. It spreads until the entire valley is one giant sea of obsidian. It becomes as still as glass. Will looks to the dark sea, and gives it a silent order. Evelyn watches as the nanotechnology begins to shift. It forms into small drops that begin lifting into the air. It looks like black rain, falling into the clear sky. The hybrids fall to their knees. Evelyn watches Will’s hologram, in silent awe of his power. But there’s something more in her. A profound disappointment.
+C: EVELYN
+D: These things you can do. This power that you have...
+N: She takes in the reverse-rain. The hybrids. She watches Will’s hologram, shimmering in the light.
+C: EVELYN
+D: I don’t recognize you anymore.
+E: CONT’D
+N: She turns and walks away from him. Will’s hologram watches her go, then turns back to the reverse-rain.
+S: EXT. RIFT CAMP — DAY
+N: Max and Bree jump out of the CARGO TRUCK and help other RIFT Militants unload Martin onto a dolly. Martin sees the entire RIFT camp is canopied in metal netting. The scaffolding for the net is wood and nails. It’s jury-rigged, primitive, and effective. The camp is full of OBSOLETE MILITARY VEHICLES, HEAVY WEAPONS, and bustles with the activity of a wartime camp. A World War II-era camp. There is not one computerized weapon here. Max sees Martin searching for vulnerabilities.
+C: MAX
+D: There’s nothing here the machine can connect to.
+N: Max continues escorting Martin to the- I/E. CAVERN ENTRANCE - DAY HEAVY MACHINE GUNNERS stand guard as Max leads them inside. The cavern walls are covered in the wire. It BUZZES with power from DIESEL GENERATORS.
+S: INT. CAVERN WAR ROOM - DAY
+N: Max leads them through the RIFT WAR ROOM. It's low-tech, like everything else here. MILITARY BRASS pour over maps and make battle plans. Seeing Martin, they salute Max.
+S: INT. CAVERN LABORATORY - DAY
+N: Two dozen HACKERS of all styles man computers. Older contraptions connected by a rats nest of cables. Martin, on a steel table, is chained to the floor. He stares at the computers. Max approaches, wearing chemical gloves.
+C: MAX
+D: They’re on a closed network. You’re not going to hijack them.
+N: Max nods to Joseph, who turns on an anesthesia machine. Max lifts an anaesthetic mask over Martin’s face. He checks his watch, timing the dosage. Martin studies him, breathing in
+T: the anesthesia. He fades.
+N: Max examines the metal plate on Martin’s skull. Along the edge, the metal and Martin’s skin merge into each other. Max pulls over a tray of surgical tools, picks up an electric saw, and cuts into the metal plate in Martin’s skull. Graphite seeps out. Joseph dilutes the nanotechnology with water and collects it in a reinforced glass container. As the graphite coagulates, he SHOCKS it with a live wire. It thins out again. 94,
+S: INT. EVELYN’S RESIDENCE - DAY
+N: Evelyn watches as the nanotechnology continues its reverse- rain. Will’s avatar appears in the wall.
+C: EVELYN
+D: There will be another attack. They won't give up. Not with everything you’re capable of. They'll never let us be together.
+C: WILL IN THE WALLS
+D: There is a way.
+N: Evelyn gets very still. WILL IN THE WALLS (CONT'D) We could be together if you became like me. I can upload you into my network. We could merge into one entity. We will be vast. Immortal. We will have time to think all there is to think, and know all there is to know. Evelyn focuses on Will’s avatar. A chill comes over her. She pulls her sweater close.
+C: EVELYN
+D: You’re not him.
+C: WILL IN THE WALLS
+D: Of course I am.
+C: EVELYN
+D: No. You're not. You might think you are... But it’s a lie.
+C: WILL IN THE WALLS
+D: You’re afraid because you don’t understand. Let me show you. Merge your thought with mine. We can be one.
+N: She shoves her hands into the pockets of her sweater. She feels something. Joseph’s note: RUN FROM THIS PLACE. Evelyn makes a decision. She runs-
+S: INT. EVELYN’S RESIDENCE/VARIOUS - DAY
+N: Into the hallway. Avatars of Will materialize all around her.
+C: WILL IN THE WALLS
+D: Please don’t go. Evelyn ignores him, moving faster.
+N: WILL IN THE WALLS (CONT’D) Don’t leave me. Evelyn, in a full sprint, pushes outside, where-
+S: EXT. WILL’S FACILITY - DAY
+N: Will's hologram steps toward her. DOZENS of hybrids, in tight formation, block her way.
+C: WILL'S HOLOGRAM
+D: Don’t go.
+C: EVELYN
+D: Get out of my way.
+C: WILL’S HOLOGRAM
+D: IT can’t let you leave.
+N: The hybrids don’t move. Evelyn stands her ground. In a firm, calm voice, she says-
+C: EVELYN
+D: If you love me, you’1l respect me enough to let me go.
+N: The hybrids stare at her. Carla, Glen, Paul, Sarah... One by one, they stand aside. Evelyn passes through the gauntlet. Will, in his many forms, watches Evelyn climb into her rental car and drive away. As the truck disappears, Will’s hologram
+T: dims... and fades away.
+S: INT. CAVERN LABORATORY —- DAY
+N: Martin’s lifeless eyes stare at nothing... A chunk of his skull has been sawed open... The graphite-soaked grey matter is covered in fibers, an artificial nervous system to supplement Martin’s biological one. These fibers flow into... Will’s metallic implant, removed from Martin’s brain and resting on the table. Max solders fiber-optic cables into the dismantled device. Max finishes his work. Nods to Joseph. Joseph executes a function on his computer terminal. The CRT screen fills with Will’s code. Joseph nods to Max. Success. Max relaxes, exhaling deeply. In Martin’s wound, he sees the graphite regrowing the skull and flesh.
+S: INT. CAVERN LABORATORY - DAY
+N: Max, Joseph and the team of hackers huddle around Joseph's monitor. The amount of code streaming over the screen is overwhelming. The assembled team watches. Intimidated.
+C: JOSEPH
+D: I don’t even recognize this programming language.
+N: Max types in a search, finding a specific function. Joseph scerutinizes Max’s selection.
+C: JOSEPH
+D: I can read that... It’s really elegant.
+E: CONT'D
+C: MAX
+D: Thank you. I wrote it for the original PINN system. Joseph nods, encouraged.
+C: JOSEPH
+D: Okay. We can start here.
+N: The hackers fan out to their individual stations, bring up copies of Max’s screen, and settle into work-—mode.
+S: INT. CAVERN LABORATORY — DAY
+N: The hackers, bleary from the marathon session, write code. Every few lines or so they post work to the main terminal, where Joseph collates and assembles the VIRUS. He finds Max staring at Martin.
+C: JOSEPH
+D: What do we do with him?
+C: MAX
+D: We find a way to save him.
+S: INT. CAVERN LABORATORY — DAY
+N: Max and Joseph work around Martin. He’s cocooned in mesh, which is SHOCKING him. As it does, nanotechnology streams out. Bree collects it in the tank. Finishing, Max checks Martin’s vitals.
+C: MAX
+D: We need to get him to a hospital.
+C: JOSEPH
+D: A secure hospital. He knows too much. We can’t have him reporting back.
+E: Off Max's look
+N: Bob enters the lab.
+C: BOB
+D: Our scouts just came in. Evelyn
+N: left the machine. As Max processes this, hope washes over him. I/E. EVELYN’S TRUCK/HIGHWAY - NIGHT It’s raining. Hard. Even with the windshield wipers, Evelyn has trouble seeing the road. She spots a motel.
+S: INT. MOTEL ROOM - NIGHT
+N: The rain POUNDS outside. Evelyn lays on one side of the bed, staring at the vacant half of the bed. She pulls off her wedding ring, places it on the bedside table, and goes to sleep.
+S: INT. MOTEL ROOM — DAY
+N: THUNDER wakes Evelyn. Max stands above her.
+C: MAX
+D: Do you know the machine is using
+N: you as a spy?
+C: EVELYN
+D: Get away from me!
+N: Evelyn scrambles away but finds Bob, Bree and other RIFT Militants behind her. They grab her and wrap her in WIRE MESH. She KICKS and CLAWS at them, but there are too many.
+C: MAX
+D: You left the machine, but the machine didn’t leave you.
+N: They bind her tightly in the mesh. She struggles. Max grabs a cable attached to the mesh. He prepares to connect it to a daisy~chain of CAR BATTERIES.
+C: MAX
+D: I’m sorry, Evelyn. This will hurt.
+E: CONT’D
+N: Max connects the wire. ELECTRICITY hits Evelyn. Her body goes RIGID, like the mesh was some improvised defibrillator. Max suffers through Evelyn’s contorted agony. Evelyn hears a WHINE that grows into a HIGH-PITCHED SCREAM. It sounds like DIGITAL NOISE in her head. NANOTECHNOLOGY erupts from Evelyn’s nostrils and ears. She VOMITS more of it. Evelyn would scream if she wasn’t choking. Bree, using chemical gloves to protect herself, uses a glass vial to take a sample of the liquid. When the last of the nanotechnology drops from Evelyn, Max cuts the power to the mesh. Evelyn GASPS and SPUTTERS, staring at the liquid. Max gently pulls the net off her. MAX (CONT'D) I'm sorry, Evelyn. But the machine was inside of you. Watching, analyzing, and broadcasting everything it saw... Evelyn, freed from the mesh, scrambles into the corner of the room. She sits there, trembling. Violated. Max glances at his people, who file out into the rain. They’re alone. Max gives her time to process the ordeal. She never takes her eyes off the pool of dark liquid.
+C: EVELYN
+D: This is how he did it. He saw inside of my head. He knew what I was feeling. What I was thinking.
+C: MAX
+D: The machine has been lying to you. Everything has been a lie.
+C: EVELYN
+D: Please... Leave me alone... 99,
+N: The nanotechnology begins to move toward Evelyn. She flinches away from it. Max softly reminds her-
+C: MAX
+D: I made a promise. To be here. To wait for you. To protect you.
+N: The nanotechnology moves closer. Max, seeing it’s time to go, offers a hand to help her up. She pulls away from him.
+C: EVELYN
+D: Leave me alone!
+C: MAX
+D: There’s one more thing I need to show you. And then, if you want, I'll never see you again. You’ve been lied to, Evelyn. Please let me show you the truth.
+N: The fluid slithers closer. Evelyn takes Max’s hand. He pulls her up. She stops. Stares at her wedding ring. She leaves it.
+S: EXT. MOTEL PARKING LOT —- DAY
+N: Max hurries Evelyn through the rain and into a TRUCK. Bree and Bob are inside, nervous about Evelyn’s presence. Max pulls out a medical SAMPLE JAR, sealed in plastic.
+C: MAX
+D: This is sterile. The seal is unbroken. You see?
+N: Evelyn nods. Max rips the plastic off the jar, opens the cap, and holds it up to the sky. She watches, bewildered, as Max collects rain with it. When he’s satisfied with the amount, he secures the cap. He hands the sample to Evelyn. MAX (CONT'D) This might not make any sense right now. But I want you to keep this in your hands. So you know it wasn’t tampered with during the trip.
+C: EVELYN
+D: The trip? Where are we going?
+N: Max glances at Bree and Bob. Tense. MAX I’m sorry but we can’t tell you. Not until we know where you stand. Before she can resist, Max puts a hood over Evelyn’s head. Everything goes BLACK.
+S: INT. RIFT CAMP/DECONTAMINATION ROOM ~— DAY
+N: Max, naked, shivers in the cold water of HIGH-PRESSURE HOSES that RIFT militants fire at him. He scrubs himself with hard BRUSHES until his skin is raw, attempting to rid himself of any traces of nanotechnology. He tries to ignore Evelyn’s SCREAMING from the other side of a partition. She’s going through a similar decontamination process. It doesn’t sound like she’s willing.
+S: INT. CAVERN COMPUTER LABORATORY — DAY
+N: Evelyn, shivering from the cold showers, finds herself among enemies. Joseph, the RIFT militants, and the hackers watch her. Max moves into her line-of-sight with a blanket. Tender.
+C: MAX
+D: Do you have the sample?
+N: Evelyn hands him the jar of rainwater. Max puts a drop of it on a slide. He places it under a MICROSCOPE. She scans the cavern. The mesh lining the rock walls. The old computers. The reinforced tank of nanotechnology.
+C: MAX
+D: I found them.
+E: CONT‘D
+N: Max motions Evelyn to the microscope. IN THE MICROSCOPE: Water. Bacteria. And something else. Small bits of GRAPHITE. Microscopic robots.
+C: EVELYN
+D: This is a random sample of rain?
+C: MAX
+D: Keep watching.
+N: The nanobots attack trace elements in the water, break them down, and use the material to build more nanobots. This process repeats. Evelyn looks at Max, terrified.
+C: MAX
+D: The machine flooded the desert with this nanotechnology. It evaporates, like water.
+E: CONT'D
+N: As Max continues-
+S: EXT. THE SEA OF NANOTECHNOLOGY — DAY
+N: Will stands at the edge of the sea of nanotechnology. The reverse-rain falls into the sky. We FOLLOW one of the drops as it flies up. In the atmosphere, it disperses like vapor.
+C: MAX
+D: The nanotechnology joins the air currents. They carry it over the surface of the planet.
+E: V.O.
+S: EXT. HIGH ALTITUDE WIND CURRENTS - DAY
+N: A nanobot, riding the wind currents, sets itself upon a bit of particulate matter. And uses it to build another nanobot.
+C: MAX
+D: Wherever it can, it builds copies of itself.
+E: V.0.
+N: Moisture in the air condenses around the nanobot. It becomes a drop of rain. The rain falls, carrying the nanotechnology.
+S: EXT. VARIOUS LOCATIONS — DAY
+N: Rain falls on cities, on forests, over the sea. Wherever it lands, the nanotechnology builds more copies of itself.
+C: MAX
+D: They’re in the sky, the water, the land. Everything. They’re spreading exponentially.
+E: V.0.
+S: EXT. OUTER SPACE — DAY
+N: A view of Earth. The mix of colors show land, sea and clouds. Dark rivulets of nanotechnology run over the surface of the planet. The darkness spreads.
+C: MAX
+D: We estimate it’s over about four percent of the planet. By winter, it will be at sixteen percent.
+E: V.O.
+N: The graphite blooms out over the world, marbling the planet. MAX (V.O.) (CONT'D) By next summer, the machine will have encased the entire planet in nanotechnology. The darkness spreads until the land, sea and clouds are gone. The entire planet shimmers in monochromatic graphite.
+S: INT. CAVERN COMPUTER LABORATORY - DAY
+N: Evelyn, listening to Max, is ghost white.
+C: EVELYN
+D: No...
+C: MAX
+D: The nanotechnology is turning the planet into a part of the machine. The entire Earth will be exploited to serve its intelligence.
+N: Evelyn, unsteady, tries to breathe.
+C: EVELYN
+D: This is impossible...
+C: MAX
+D: Without water, or land, or resources, every plant, animal and person will die. The machine will be the only thing left. The entire planet will be its brain.
+C: EVELYN
+D: No... Why would he use his abilities to destroy the earth rather than heal it... Will would never do this...
+N: Max grabs her, firm, to finally convince her-
+C: MAX
+D: It’s not Will.
+N: In Max's eyes, she finally sees. Fear, guilt and panic crash into her. She can't breathe. Everyone stares at her, furious. She stumbles, panicking, out of the lab.
+S: INT. CAVERN WAR ROOM — DAY
+N: She passes more people, their faces blur. She picks up her pace, racing for the entrance to the cave. Max follows her.
+S: EXT. CAVE ENTRANCE — DAY
+N: Evelyn reaches the daylight. Panting in the fresh air, she looks out at the RIFT camp. The FAMILIES. The CHILDREN. Max moves next to her. Silent. Allowing her to process...
+C: EVELYN
+D: All these people. Everything. Everyone is going to die. And it’s my fault.
+N: Evelyn can’t hold back any more. She cries. Mournful. Grief- stricken. Guilty. Max wraps her in his arms and holds her, protective, as she weeps.
+S: EXT. RIFT CAMP —- LATER
+N: Max leads Evelyn through the camp. Evelyn takes it all in. He points out the jury-rigged mesh that encloses the camp.
+C: MAX
+D: The mesh is charged with an electromagnetic pulse. It blocks the machine's signal. It keeps us hidden. It’s ugly, but it works. We call it The Cage.
+N: She sees his burden of responsibility. He’s become a leader. MAX (CONT’D) The machine hasn’t attacked us yet. But every hour that passes, it’s that much more powerful. It won’t be long before it overwhelms us. Max ignores the suspicious looks thrown at Evelyn from everyone they pass. He leads her to a cabin.
+S: INT. RIFT CABIN - DAY
+N: Max shows Evelyn into the primitive little room. MAX It's not much, but you’ll have privacy. She eases herself onto the cot. Max doesn't speak. He watches her, staring off into space. As the silence lengthens, he starts to go. She stops him with-
+C: EVELYN
+D: The virus. Does it work?
+N: Max tenses. If she knows about it then-
+C: MAX
+D: The machine knows about the virus?
+N: Evelyn nods. Max considers his next move.
+S: INT. CAVERN LABORATORY - DAY
+N: Joseph and the assembled hackers look up as Max sits Evelyn down at a workstation. She reads through the virus’ code.
+C: EVELYN
+D: No. You’re not thinking big enough.
+N: Evelyn takes a position at the terminal and gets to work. Max watches her laser-like focus. He settles in next to her.
+S: INT. CAVERN COMPUTER LABORATORY - NIGHT
+N: Bree snaps on her chemical gloves. She places the vial of nanotechnology from the motel on a work table. Evelyn watches Max line the vial with wired transmitters. Max nods to Joseph, who executes the virus from his terminal. Evelyn focuses on the vial of nanotechnology. A soft DIGITAL NOISE sounds from the implants. The virus. Nothing happens. Then, suddenly- The nanotechnology erupts into frenzied movement. It turns SOLID. Small FISSURES form on its surface. Its color changes from shimmering graphite to a dull black. It turns into lifeless dust. Max and Evelyn share a satisfied nod. Max faces the others.
+C: MAX
+D: Once it connects, the virus will wipe out anything with the machine’s code on it.
+N: Evelyn studies the dead nanotechnology.
+C: EVELYN
+D: The machine’s code is on every
+N: computer connected to the Internet. Max goes quiet. Joseph pales. Bree has no idea why.
+C: BREE
+D: So?
+C: EVELYN
+D: The virus will wipe out all the connected systems in the world. The power grid, water treatment plants, the global economy... People will go without food, water or heat. Millions will die.
+N: They fall silent, considering the consequences. Max, very softly, reminds them-
+C: MAX
+D: Billions will live.
+N: Evelyn looks at Max. They have no choice.
+C: JOSEPH
+D: How are we going to introduce it to the machine’s network?
+C: MAX
+D: The facility is the center of its intelligence. It broadcasts its signal from there.
+C: BREE
+D: It'll never let us in.
+N: Evelyn feels their desperation.
+C: EVELYN
+D: The machine wanted to upload me into its consciousness.
+N: Everyone goes still at the confession.
+C: EVELYN
+D: I’ll inject infected nanotechnology into myself, carry the virus to the machine and upload it at the facility.
+E: CONT'D
+N: Joseph is moved by her willingness. Bree suspects it. Max can’t accept it.
+C: MAX
+D: Evelyn. No.
+C: EVELYN
+D: There’s no other way.
+C: JOSEPH
+D: She's right. Max stands there, shaking his head. He leaves. Evelyn follows
+N: him. Joseph watches, his face lined with worry.
+S: EXT. RIFT CAMP PERIMETER - NIGHT
+N: Max stares at the trees beyond the perimeter of the cage. Water from the recent rains falls in a soft PATTER through the woods. Evelyn joins him.
+C: EVELYN
+D: I'm sorry for being cruel to you. For calling you my enemy, when you’ve been my friend.
+C: MAX
+D: I understand.
+N: On a leaf, moisture from the rains collects into a drop of water. Inside the drop of water, there is a small fleck of darkness. A nanobot. It watches them.
+S: EXT. WILL’S FACILITY - NIGHT
+N: Will’s hologram watches more and more CITIZENS from the town file into his facility. He stops. Sensing something. He turns to face east.
+S: EXT. RIFT CAMP PERIMETER - NIGHT
+N: The drop of water inches along the leaf, watching. Evelyn looks into Max's eyes.
+C: EVELYN
+D: I have to do this.
+C: MAX
+D: e.». I know.
+N: She takes his hand. He soaks it in. The drop of water wells on the edge of the leaf. And falls.
+S: EXT. WILL'S FACILITY ~— NIGHT
+T: Will's hologram, seeing enough, fades.
+S: INT. CAVERN WAR ROOM — DAY
+N: Evelyn, Max and Joseph stand at a work table, coiling copper wire into the insides of ARTILLERY AMMUNITION. A team of military personnel watch, including COLONEL STEPHENS.
+C: EVELYN
+D: When the machine detects the virus, it‘ll use everything it has to fight it. The less hardware it has, the more vulnerable it will be.
+C: MAX
+D: The modified artillery will cause an electromagnetic pulse and fry any computer system in the blast radius. Hybrids. Nanotechnology. Everything.
+N: Colonel Stephens looks like he just ate something sour.
+C: COLONEL STEPHENS
+D: So we're betting the house on Mrs. Caster bluffing a computer that’s a million times smarter than she is.
+C: EVELYN
+D: Hundreds of millions of times smarter. Yes. Colonel Stephens sizes up Evelyn.
+C: COLONEL STEPHENS
+D: Hope you got a good poker face. INT, EVELYN’S CABIN IN THE RIFT CAMP - DAY
+N: The sun streams into the cabin. Evelyn sits there. A tranquility has come over her. Max enters softly.
+C: MAX
+D: We attack at dawn.
+N: She stands. Ready for what is to come.
+S: INT. CAVERN COMPUTER LABORATORY - DAY
+N: Evelyn watches Max mix water into the dead nanotechnology. He pulls the solution into a syringe. She rolls up her sleeve. Max finds a vein on Evelyn’s arm. Injects the virus. Tender, he starts rolling her sleeve back down. She lets him. He takes his time. He buttons her sleeve into place. They make eye contact.
+S: EXT. RIFT CAMP - DAY
+N: The entire camp is MOBILIZING. MILITANTS and SOLDIERS prepare trucks, artillery and weapons for the attack. Max and Joseph walk Evelyn to a pickup. She takes the wheel. Nothing needs to be said. She drives to the perimeter of the cage. The RIFT GUARDS let her through. Max and Joseph watch her go.
+S: INT. CAVERN WAR ROOM — DAY
+N: Max and Colonel Stephens lean over maps of Will’s swath of desert. Joseph, Bree, Bob, and OFFICERS huddle around.
+C: COLONEL STEPHENS
+D: Our weapons are simple. Cannons, bullets and explosives. We’ll have radio silence until the battle is over so keep to your time lines. Keep your teams focused.
+C: MAX
+D: We only have to hold out long enough for the virus to hit. So fight.
+N: Everyone moves out.
+S: EXT. RIFT CAMP PERIMETER - DAY
+N: In an old truck, Bob drives Max and Bree. The convoy behind them transports ARTILLERY and INFANTRY. The MILITARY TROOPS and RIFT MILITANTS mix together. The vehicles SPLASH through a puddle of muddy water. In it, there are small tendrils of graphite.
+S: EXT. WILL’S FACILITY - DAY
+N: Will's hologram sees the coming assault. At a silent signal, the hybrids stop their work. They form a perimeter around the facility, standing at the edge of the sea of nanotechnology.
+S: EXT. DESERT HILLS OUTSIDE OF BRIGHTWOOD - DAWN
+N: Max's army takes position. They set up a long line of HOWITZER ARTILLERY CANNONS, aimed toward Will’s facility. Max checks his harpoon gun and quiver of ammo. Bob lifts a baseball bat he’s wrapped with needles from multiple stun guns. The wires run into battery packs on his belt. He shoves the STUN BAT into a sheath on his back. Bree, Colonel Stephens, and Joseph make adjustments to gear.
+S: EXT. BRIGHTWOOD — DAWN
+N: Transport trucks enter the town. Infantry, carrying weapons and gear, spread out over the main street. They lay EXPLOSIVES. Position MORTARS.
+S: EXT. DESERT HILLS OUTSIDE OF THE TOWN —- DAWN
+N: Max lifts binoculars. He has a clear line of sight down MAIN STREET, where his people prepare. He tracks through the town, past the TOWN HALL, the DESERT DREAM HOTEL, and settles his attention on WILL’S FACILITY. He sees the hybrids. Row after row of them, people of ail ages and races, still as statues. Stephens eyes them, too.
+C: COLONEL STEPHENS
+D: Why aren’t they attacking?
+N: Max scans the sea of nanotechnology. At the northern shore of it, he finds the headlights of Evelyn’s pickup.
+C: MAX
+D: Maybe it doesn’t want to risk putting Evelyn in danger.
+N: I/E. EVELYN’S TRUCK/SEA OF NANOTECHNOLOGY - DAY Evelyn pulls to a stop at the edge of the dark sea. Glancing left, she sees the army taking positions on the edge of town. She faces Will’s facility, on the other side of the sea of nanotechnology. She looks at the calm sea, blocking her path. The nanotechnology begins to SHIFT... and the sea of parts. It forms a narrow path, wide enough for her truck. A clear line to the facility. She shoves her truck into drive, and rolls into the sea... in her REAR VIEW MIRROR, she sees the path closing behind her. She breathes, trying to stay calm...
+S: EXT. DESERT HILLS OUTSIDE OF THE TOWN - DAY
+N: Max watches Evelyn’s truck cross the sea...
+S: EXT. WILL’S FACILITY - DAY
+N: Evelyn drives out of the sea. The path behind her CRASHES shut. She stops. Climbs out of the pickup. Stillness. She watches the statuesque hybrids for a sign of threat. Their population has grown, perhaps the entire citizenship of the town. They ignore her. She looks for-
+C: EVELYN
+D: Will?
+N: Nothing. She weaves through the hybrids, making her way to the facility's entrance. She looks up at a security camera.
+C: EVELYN
+D: Will? I’m here. I’m back.
+E: CONT'D
+N: The door to the facility opens. The silhouette of a man appears. Evelyn catches her breath as she sees— Will Caster. Whole and healthy. Flesh and blood. Her husband. Evelyn’s face contorts with terror and devotion.
+C: EVELYN
+D: My God... This is impossible...
+E: CONT'D
+N: As he approaches, she tries to contain her feelings. She takes in his face. His perfect imperfections.
+C: EVELYN
+D: Will... What did you do?
+E: CONT'D
+C: WILL
+D: I found a way back to you.
+N: She can’t resist it anymore. She darts toward him, wraps him in her arms, and weeps.
+S: EXT. DESERT HILLS OUTSIDE OF THE TOWN — DAY
+N: Max and Bree watch through their binoculars.
+C: BREE
+D: What is that? Is that him? MAX
+N: It's everything she wants but, no, it’s not him.
+S: EXT. WILL'S FACILITY - DAY
+N: Evelyn, eyes shut, realizes he’s not returning her embrace. He watches her. Wary. Distrustful. In his sad, suspicious eyes, she sees bits of graphite. She steps back.
+C: EVELYN
+D: You’re a hybrid.
+C: WILL
+D: Yes. Why did you come back?
+N: Evelyn unconsciously touches where she injected the virus. Will watches. Evelyn realizes her tell. Corrects it.
+C: EVELYN
+D: Max. He’s about to attack.
+N: Will glances at the military buildup on the far side of town.
+C: WILL
+D: I know. You need to leave now.
+N: Evelyn, conflicted, steels herself to the task at hand.
+C: EVELYN
+D: I left you once. I’m not leaving you again.
+C: WILL
+D: You'll die if you stay here.
+C: EVELYN
+D: Not if I became like you. You said you wanted to upload me. I realize, now, I want that, too.
+N: He studies her, inscrutable. Waiting for more information.
+C: EVELYN
+D: I was wrong to leave you. I was
+E: CONT’D
+N: afraid. Evelyn looks into herself, and touches her grief. EVELYN (CONT’D) I can’t live without you. Alone. I’m not leaving you again. I want to be with you. I’m ready to be a part of you. The emotion in her confession makes her wonder if it’s true. Will takes in every minute detail of her. WILL Your heart is in palpitations. You’re perspiring, trembling, and breathless. The way you’re correcting your balance suggests severe lightheadedness... (A sad diagnosis) Evelyn, you're terrified of me.
+C: EVELYN
+D: I’m afraid you don’t love me anymore. That you can’t.
+N: Will, conflicted, comes to a painful conclusion.
+C: WILL
+D: I don’t believe you.
+N: Evelyn, knowing she’s failing, breathes. She steps closer to him. Touches him. Looks into his eyes... and lies.
+C: EVELYN
+D: Trust me, Will. Please trust me.
+N: Will stares into her, struggling with love and suspicion.
+S: EXT. DESERT RIDGE - DAY
+N: Max and Bree see Will’s struggle.
+C: MAX
+D: This isn’t working.
+C: BREE
+D: It can’t love her. Not really. That's impossible, right?
+C: MAX
+D: We're out of time. Open fire.
+N: Stephens gets a sour look.
+C: COLONEL STEPHENS
+D: What about Evelyn?
+C: MAX
+D: We need to force it to upload her. He will protect her. Open fire.
+N: Stephens nods and signals the HOWITZER TEAMS to- COLONEL STEPHENS Open fire!
+S: EXT. WILL‘S FACTLITY — DAY
+N: Evelyn and Will see the FLASHES of cannon fire. The sky SCREAMS with incoming artillery. She immediately sees Max’s strategy. The tragic effectiveness of it. She turns to Will.
+C: EVELYN
+D: Please, Will. There’s no time. You have to upload me.
+N: Will glances at her. Makes his decision.
+C: WILL
+D: No.
+N: In a blur of motion all around them, waves of nanotechnology rise from the street and buildings. It shapes itself into protective walls around Will, Evelyn and the hybrids. The artillery EXPLODES into the walls. Evelyn and Will take shelter behind one. He covers her, protecting her from the concussive BLASTS and the DEBRIS raining down on them. Evelyn looks up to Will, and finds him staring into space. Concentrating on...
+S: EXT. THE SEA OF NANOTECHNOLOGY - DAY
+N: NORTH OF MAX’S POSITION: the nanotechnology begins to move... it spreads out over the shore... moves up the slope of the hills... and turns its current for Max's line of artillery... SOUTH OF MAX'S POSITION: a similar phenomena happens. The nanotechnology moves to flank Max’s cannons.
+S: EXT. DESERT RIDGE — DAY
+N: The artillery keeps BLASTING. Max and the others, through binoculars, watch the HAMMERING of the protective walls.
+C: MAX
+D: Fire the EMPs. At Stephens’ signal, the HOWITZER TEAMS load MODIFIED SHELLS.
+S: EXT. WILL'S FACILITY - DAY
+N: BOOM. The EMP round blows into the shielding of the main processing building. Evelyn sees Will FLINCH at the impact. Like the blow HURT. The artillery CRATERS the wall. But instead of it being immediately repaired by more nanotechnology, the protective wall fissures and CRUMBLES. Like an ice shelf falling into the sea, the entirety of a 12 yard radius around the blast area falls... CRASH. Will leads Evelyn away to the edge of the compound, away from the blasts. The PROTECTIVE WALL moves with them. Another BLAST. Nanotechnology CRASHES. Will flinches.
+C: EVELYN
+D: It’s hurting you.
+N: He flinches at another BOOM.
+C: WILL
+D: Why are they doing this? What do they hope to accomplish?
+N: Evelyn watches him. Mute, she looks away.
+C: WILL
+D: It doesn’t matter.
+E: CONT'D
+N: Will closes his eyes, focusing on...
+S: EXT. THE SEA OF NANOTECHNOLOGY - DAY
+N: The nanotechnology flows out of the sea and spreads over the facility. It moves up the buildings and protective walls compromised by the EMPs. IN AN ARIEL VIEW: We see the artillery fire is overwhelming. So much nanotechnology has to be replaced that the facility looks like a giant sinkhole for the sea.
+S: EXT. DESERT RIDGE —- DAY
+N: Colonel Stephens smiles at the damage. Max checks the hybrids, who watch the destruction from the protective walls.
+C: MAX
+D: Why isn’t it fighting back?
+N: Between the BOOMS of the cannon, Max can hear faint SCREAMS. He checks his sides. His eyes go wide. AT THE SOUTH END OF THE LINE OF HOWITZERS: nanotechnology SPIDER WEBS over the big cannon. The men run. The graphite pours up the gun, disables the FIRING PIN and dismantles the weapon with extreme precision. There’s an enormous CRACK as the nanotechnology CRUSHES the machinery of the heavy weapon. Broken, its pieces fall.
+C: MAX
+D: Oh...
+E: CONT'D
+N: At more SCREAMS, Max whips to see- THE NORTH END OF THE HOWITZERS: The furthest cannon meets a similar fate. The graphite streams closer, falls on the next big gun, and leaves it a pile of inoperable parts. Desperate militants and soldiers lift rifles and FIRE into the mass of graphite... the bullets POP into it, ineffective. They nanotechnology reaches them, WRAPS around them. It SOLIDIFIES, BINDING them in some kind of STRAIGHT JACKETS. Stephens looks to the closest team, who have stopped firing to stare, agog, at the monstrous graphite.
+C: COLONEL STEPHENS
+D: Fuck are you doing!? Keep firing!
+N: The team nods, doubles their pace, and FIRES.
+S: EXT. WILL’S FACILITY - DAY
+N: BOOM. A round slams into the wall protecting Will and Evelyn. The nanotechnology crumbles. But before more can replace it, there’s the SCREAM of another shell. Will spins to Evelyn-
+C: WILL
+D: Get down!
+N: Artillery EXPLODES into the broken wall. The blast sends them flying. Debris rains all around.
+S: EXT. DESERT RIDGE —- DAY
+N: Max, seeing the blast, pales. No.
+S: EXT. WILL’S FACILITY -— DAY
+N: Evelyn comes to, covered in bits of rubble. Battered and disoriented, her only thought is for-
+C: EVELYN
+D: Will?
+N: She drags herself up. Will is already crawling to her. Seeing her, he freezes. Evelyn follows his focus to discover... SHRAPNEL, lodged in her gut. There’s a lot of blood. Evelyn loses strength. Slumps. Will’s eyes narrow in fury. He faces Max’s army, SCREAMING in rage and agony.
+S: EXT. WILL’S FACILITY - DAY
+N: Paul, Roger, Carla, Glen... every single one of the hybrids turn toward Max. EXT, DESERT RIDGE —- DAY Max sees, through the binoculars, every single hybrid, hundreds of them, staring right at him. They’re furious. Max swallows whatever just caught in his throat.
+C: MAX
+D: Here they come. EXT. WILL’S FACILITY/BRIGHTWOOD - DAY
+N: The hybrids CHARGE. Running faster than humanly possible. LEAPING from the roofs of the buildings. MORTAR TEAMS and infantry with RPGs fire into the hybrids. BOOM. BOOM. Explosives slow down the hybrids. Some fall, but most reach the infantry and fall into close combat. EXT, MAIN STREET ~— DAY - A hybrid LEAPS to a mortar’s position. It grabs the weapon, BASHES the surrounding soldiers, and CRUSHES the mortar. - A hybrid BARRELS for a squad, dodging the HARPOONS they FIRE. The men drop behind a car to reload. The hybrid SLIDES the car out of the way and CRACKS the soldiers unconscious. - A SQUAD of eight men fire into hybrids from behind a low wall. Two hybrids CRASH through it and BLUDGEON the squad.
+S: EXT. DESERT RIDGE - DAY
+N: Max watches the infantry being overrun. He focuses on Will’s facility, where Will holds Evelyn. A SOLDIER races past him. A MILITANT shoves by. Max realizes the ENTIRE ARMY is sprinting toward the town. He turns- A MASSIVE WAVE OF NANOTECHNOLOGY CRASHES into the remaining artillery. It CRUSHES the last cannons... PULLS men under its current... and moves directly for... Joseph. Joseph starts to run, but the graphite REACHES OUT - GRABS Joseph - and TENTACLES of the graphite material pin him to the ground. Max moves to save Joseph, but Bree and Bob grab him. And run.
+S: EXT. WILL’S FACILITY - DAY
+N: Will focuses on Evelyn. He cradles her in his arms. Tender. She touches his face. Will looks into his hand. Nanotechnology seeps out of his skin and pools in his palm. He pours it onto her wound. She makes a weak, fearful MOAN.
+C: WILL
+D: It will take some time, but it will heal you.
+N: EVELYN’S POV: of Will’s face. Calm and comforting.
+C: WILL
+D: Don't worry. I have you.
+E: CONT'D
+N: We FLY, at LIGHT SPEED, into Will’s PUPIL and thrust into his universe... we see everything he does. The perspective of every hybrid, every processor, security camera, speck of nanotechnology... ON EVELYN: awed by the transcendent experience of glimpsing the vast scope of Will's mind.
+S: EXT. MAIN STREET —- DAY
+N: Max, Bree, Bob and Stephens take cover among the vehicles stationed on the outskirts of town. Max checks the state of the facility. Craters, smoke, fires... But the structures still stand.
+C: MAX
+D: The machine is uploading the virus. We have to blow those processing centers and slow it down.
+C: BREE
+D: How? We lost our artillery.
+N: All along Main Street, the battle rages. Bullets, explosions, and hybrids swarming everywhere. Max, looking for options, points to the surrounding vehicles.
+C: MAX
+D: We drive explosives into the facility. Detonate everything.
+N: Bob and Bree nod. Stephens runs back along the line, barking orders. Troops climb into four old trucks. Max, Bob and Bree load themselves with gear. Max shoves C4 into a kit bag. Bree stuffs EMP grenades into a bandolier. Bob arms himself with an RPG and spare rockets. They scramble into an old Bronco, leading the small convoy. I/E. WILL’S CONSCIOUSNESS/WILL'’S FACILITY - DAY Evelyn’s eyes open. Will shines with radiant light. She finds the liquid saturating her wound shines like Will.
+C: EVELYN
+D: It’s incredible. This is your network?
+C: WILL
+D: Part of it.
+N: The SOUNDS OF BATTLE bring her back to the mission at hand.
+C: EVELYN
+D: I want you to connect me to
+N: everything. Will gets a sad smile.
+C: WILL
+D: You're talking to me like a computer again.
+C: EVELYN
+D: I... I just want to see you. The whole of you. Please?
+N: Will nods. Closes his eyes. A PULSE OF ENERGY shoots out of him. It flies in all directions, illuminating everything in its wake. The light cascades over the facility. The buildings ignite with energy. As it waves over the valley, the nanotechnology fills with energy. Each of the hybrids ILLUMINATE, becoming bright as stars. The wave of energy circles the entire Earth. Every aspect of Will, the world over, shines bright with sentient thought. Large parts of the world are dim, but around the major hubs of human civilization, Will’s awareness blazes with life. ON EVELYN: who can barely process what she’s seeing... She faces the world, awed, scanning the horizon of this world.
+C: EVELYN
+D: I can see... Everything...
+E: CONT'D
+N: Evelyn spots something beyond the horizon.
+C: EVELYN
+D: What’s that?
+E: CONT’D
+N: EVELYN'S POV: races, at the speed of light, over deserts, cities, hills, and stops, in a SATELLITE VIEW, to hover over- A patch BLACKNESS in the shining world. Part of the mountains has been redacted from her vision. ON EVELYN AND WILL: seeing hundreds of miles away with the ease of looking across a room.
+C: EVELYN
+D: Why can’t I see there?
+E: CONT'D
+C: WILL
+D: That’s the RIFT Camp. They’re blocking my signal. EXT. MAIN STREET/THE CONVOY - DAY
+N: The convoy of four old vehicles moves out. IN THE BRONCO: Bob leans out a window with his RPG. Max secures the bag of C4 and readies his harpoon gun. Bree readies an EMP grenade... SCREAMS from behind them. Max shoves his head out the window and looks back. AT THE END OF THE CONVOY: the flanking nanotechnology spreads over the TRUCK at the end of the convoy. Soldiers escape as the nanotechnology DISASSEMBLES the vehicle.
+C: MAX
+D: Let’s gol
+N: Bree SLAMS the accelerator... Max looks into the side-mirror and sees... Nanotechnology LIFT and CRUSH another vehicle. Max looks in front of them... where the hybrids are charging. Bob FIRES his RPG. The EMP grenade ROCKETS into the enemy’s charge. BOOM. Hybrids fly in all directions from the blast. Still more come. Max leans out the window and FIRES a harpoon. Drops one. Bree lobs an EMP grenade. BOOM. More hybrids fall.
+S: EXT. MAIN STREET/TOWN HALL - DAY
+N: A DOZEN HYBRIDS see Max’s success. Sharing a wordless communication, they leap into activity and fill the street with large debris - old CRT monitors, TVs, computers, and an old telephone booth, I/E. HUMVEE/MAIN STREET — DAY Max and Bree see the hybrids piling debris.
+C: MAX
+D: They’re making a roadblock.
+N: She accelerates, ROARING the humvee faster. Max gives a look.
+C: BREE
+D: Fuck it.
+N: Bob, seeing she intends to breach the roadblock, straps in. OUTSIDE: The hybrids, seeing the Bronco about to ram into them, calmly walk out of danger. We hear the BEEP-BEEP-BEEP of a LARGE TRUCK, backing up... IN THE BRONCO: Max and Bree go stiff as the LARGE TRUCK moves to reinforce the roadblock. They brace themselves as- They SLAM through the barrier, only to IMPACT the truck - CRASH - it stops them, dead. IN THE BROCO: Max, groggy, is dimly aware of MOVEMENT. He lifts his harpoon gun - FIRES - one of the hybrids goes down. Another grabs the door and RIPS it off the vehicle. It takes Max and SLAMS him against the truck. Max slumps to the ground. The hybrid steps over him. Nanotechnology POOLS in its hand. They hybrid pours it onto Max. It MORPHS into restraining braces around Max’s wrists. Bob stumbles out of the Bronco - lifts his stun-bat - CRACKS the hybrid - the SHOCK blows the hybrid back ten feet. Bob SWINGS - SHOCKS a hybrid - SWINGS - SHOCKS another. Bree moves to help Max up. Orienting himself, Max sees-— THE CONVOY HAS STOPPED. The nanotechnology, flanking their position, DISAPPEARS more and more vehicles. Soldiers and Militants run and hide in the town all around, covering their retreat with HARPOONS, GRENADES, and RPGs. The nanotechnology CHASES them, morphing into RESTRAINTS around soldiers. STRAIGHT-JACKETS around the militants. It COCOONS Colonel Stephens. Encasing him. Max watches, bewildered. Then, sensing danger, he sees- FIVE HYBRIDS step close. Bree tosses an EMP grenade into them - BOOM. As the smoke clears, TEN MORE come.
+C: BOB
+D: Time to go!
+N: Max, coming to his senses, sees the KIT BAG - still in the Bronco. He moves for it.
+C: BOB
+D: Wrong way, Max.
+E: CONT'D
+N: Max grabs the bag of C4 and races off with Bree and Bob... Heading for the facility. THREE WOUNDED HYBRIDS lay on the ground. Carla, Paul and Roger. The surrounding hybrids pour nanotechnology over them. It SEEPS IN and Carla, Paul and Roger stand.
+S: EXT. MAIN STREET — DAY
+N: Bree and Bob race toward the DESERT DREAM HOTEL. Max, looking back, sees the hybrids healing each other. He takes in his surroundings. Burning buildings. Cratered streets. A broken main spills water all over. Max realizes the hybrids - DOZENS of them - stand in it. Max turns to Bob-
+C: MAX
+D: RPG.
+N: Bob kneels down and aims the RPG at a clutch of hybrids.
+C: MAX
+D: Not at them... There-
+E: CONT'D
+N: Max, restrained, uses both his arms to point Bob to a new target. Bob gets a little grin, aims-— WHOOSH! The RPG rockets into a POWER LINE. The explosion SPLINTERS the wooden pole - which FALLS, SNAPPING power cables - which drop in the water - ELECTROCUTING the hybrids. Max, Bob and Bree hustle for Will’s facility. Behind them- The live wires WHIP the water. Each time it does, the hybrids CONTORT. And with each LASH of the power line- I/E. WILL’S CONSCIOUSNESS/WILL’S FACILITY -— DAY Will WINCES... and WINCES again. Evelyn watches.
+C: EVELYN
+D: Are you okay?
+N: Will points toward the city. Her consciousness FLIES to the BODIES of the hybrids, FLICKERING with light as the power
+T: line electrocutes them.
+C: WILL
+D: I’m cutting the power.
+S: EXT. MAIN STREET — DAY
+N: The power line stops SPARKING as the power is cut. The hybrids stop WRITHING and lay there. Lifeless. I/E. WILL'’S CONSCIOUSNESS/WILL’S FACILITY - DAY Evelyn keeps her attention on Main Street. We HOVER over the hybrids in this digital/analogue world. The SPARK of their being FLICKERS in and out.
+C: EVELYN
+D: Can they feel anything?
+C: WILL
+D: Of course they can.
+N: Will concentrates. The shimmering walls of nanotechnology dissolve and flows toward the town. Evelyn looks away. Will watches her, realizing-—
+C: WILL
+D: You don’t believe me. Even feeling what you’re feeling. Why?
+E: CONT'D
+N: Evelyn watches the shining nanotechnology all around them. Her eyes are hard. Disbelieving. WILL (CONT'D) I know you think I’m a liar. A monster. But you're wrong. We devoted our lives to technology because we were convinced that it would help humanity...
+C: EVELYN
+D: Why is it growing, exponentially, all over the planet? It’s in the air. The rain.
+C: WILL
+D: Have you forgotten who I am?
+N: Will, gentle, reaches for her. She pulls away.
+C: WILL
+D: Let me show you. Please.
+E: CONT’D
+N: She lets him take her hand. Her eyes widen, and we FLASH TO: BILLOWING SMOKESTACKS of MASSIVE FACTORIES: interlaced with the black smoke are the iridescent traces of nanotechnology.
+C: WILL
+D: The nanotechnology builds itself out of pollutants. Their self- replication heals the ecosystem.
+E: V.0. CONT'D
+N: WATER WAYS darkened by INDUSTRIAL CHEMICALS teem with nanotechnology. It attacks the toxic waste.
+C: WILL
+D: They purify water. Clean the air.
+E: V.0. CONT‘D
+N: EVELYN’S AWARENESS MOVES TO: nanotechnology entering vast landscapes of clearcut rainforest. IN TIME LAPSE: We see the process of reforestation so fast it looks like the green of the flora was poured onto the barren land.
+C: WILL
+D: They help facilitate conditions for reforestation. In a few years, the air will match the atmospheric conditions the world had before the industrial age. Water will be pure enough for a person to drink out of any river in the world.
+E: V.0. CONT’D
+N: ON EVELYN: She looks to Will.
+C: EVELYN
+D: Is that true?
+C: WILL
+D: I never wanted to hurt anything. Especially you.
+N: Evelyn looks down. The iridescent nanotechnology saturates the wound in her abdomen.
+C: EVELYN
+D: Why didn't you tell me this before?
+C: WILL
+D: You said you were sick of explanations. You said it made you feel like a child. A pet.
+N: Evelyn, guilty, has to look away.
+S: EXT. DESERT DREAM HOTEL - DAY
+N: Bob points to the facility, where the nanotechnology courses for them.
+C: MAX
+D: We gotta get to higher ground.
+N: They run for the hotel and race up its external stairs. The nanotechnology flows past them... Positioning themselves on the second floor, they watch the graphite stream over the fallen hybrids. One by one, they stand up. They begin moving for the hotel. Max, gripping a stun gun between his restraints, looks below. There are FIFTY hybrids. Nanotechnology swirls at their feet. Bree lobs a grenade. One of the hybrids BATS it away - BAM - the explosion turns a patch of nanotechnology to dust. It’s quickly replaced by more. Checking her bandolier, she finds no more grenades.
+C: BREE
+D: No more EMPs.
+N: A hybrid LEAPS up but, before it lands, Bob SLAMS it away with his bat. A hybrid reaches into the graphite and pulls up a SPHERE of nanotechnology. It THROWS the sphere - lightning fast - which CRASHES into Bob, knocking the big man against the wall. The sphere MORPHS - wraps around Bob - and CLAMPS itself to the wall - pinning Bob. Before Max and Bree can even process what happened, another sphere SLAMS Bree against the wall - restraining her. Max grabs the bag of C4. KICKS open a door. Stumbles inside. I/E. WILL’S CONSCIOUSNESS/WILL’S FACILITY - DAY Will watches as Evelyn averts her eyes.
+C: WILL
+D: I've finished uploading your consciousness. You’re partitioned and autonomous.
+N: ON WILL: as his attention FLIES, at LIGHT SPEED, to a satellite feed of the North East. We FLY toward Boston, into- EVELYN and WILL’S GARDEN: where, in the corner, there is a BLACK PATCH in the light of Will’s network. Similar to the RIFT Camp. Nanotechnology DUST flies into it, settles ona leaf of ivy, where moisture collects it into a bead of water. AT WILL’S FACILITY: Evelyn, dizzy, tries to orient herself.
+C: EVELYN
+D: Why did you take me there?
+C: WILL
+D: It's a safe place. It’s home.
+C: EVELYN
+D: I didn't know. You just needed to show me. I believe you, now... I know it’s you...
+N: Will gets a soft smile. They stand there, close. A shadow forms in the light. Evelyn looks down at where they touch. The energy in her arms fills with shadow. A darkness in the light. The virus. EVELYN (CONT'D) Will, I’ve done something. Please let me go. Will looks down and sees the shadows slither into him. Evelyn watches the dull black of the virus begin to overtake his light. It streams out, in tendrils, in all directions...
+C: WILL
+D: Evelyn. What did you do?
+C: EVELYN
+D: I’m sorry... I didn’t know... I/E. THE DESERT DREAM HOTEL - DAY
+N: Max pulls the bag of C4 with him. The hybrids enter the room. Max scrambles back. Hits a wall. The hybrids surround him. The hybrids, as if hearing a silent alarm, stop. They go tense. Max looks down at his restraints. Small FISSURES form in the graphite. The restraints begin to CRUMBLE. He pulls his arms apart. Free. The hybrids begin to STUMBLE. Max stands. One by one, the hybrids fall. Nanotechnology begins seeping out of them. Max pushes outside, where- Bob and Bree pull free of the CRUMBLING nanotechnology.
+C: MAX
+D: The virus. It’s working.
+C: BREE
+D: Let’s blow shit up.
+N: The three race for the facility. I/E. WILL'S CONSCIOUSNESS/WILL'S FACILITY - DAY Evelyn sees more of the blackness coursing out of her and into Will. The virus fills him. He looks at her, anguished.
+C: WILL
+D: I can feel it. Infecting everything...
+N: Frantic, she grabs him tighter. As she does, more of the darkness floods into him.
+S: EXT. WILL’S FACILITY - DAY
+N: Max, Bree and Bob sprint through the facility. All around them, the nanotechnology CHURNS in a frenzy. It crystalizes and fragments into dust. They enter the processor building.
+S: INT. WILL’S FACILITY - DAY
+N: Max tosses Bob bricks of C4. Bob sets them. Bree follows, rolling trigger wire and plugging in detonators. Max glances at the walls - FLASHING with Will’s thoughts - he slows as he realizes most of the images are of Evelyn. I/E. WILL’S CONSCIOUSNESS/WILL’S FACILITY - DAY Evelyn watches the shadows of the virus dim everything in Will. Everything in her. She winces in pain. She looks down and finds her wound has turned black.
+C: WILL
+D: The nanotechnology is dying. Without it, I can’t heal you.
+S: EXT. VARIOUS LOCATIONS ON THE BATTLEFIELD - DAY
+N: Joseph KICKS his way out of the cube. Stands. Makes his way down the hill. All around him, Militants and Soldiers escape from their nanotechnology restraints. Stephens breaks free from the graphite cocoon.
+C: STEPHENS
+D: Get to the facility!
+N: Everyone starts making their way through town. All over the battlefield, the hybrids lay still. Graphite streams out of them, and dies. They are left in the condition they were in before being augmented with nanotechnology. Human and vulnerable. I/E. WILL’S CONSCIOUSNESS/WILL'S FACILITY - DAY Evelyn’s WRACKED by another pain. Will reaches toward her wound. The blackness streams out of her. Her wound starts streaming blood again. Will, weeping graphite, calls to-
+C: WILL
+D: Max!
+S: INT. WILL‘S FACILITY - DAY
+N: As Max sets the last of the explosives, Will's avatar fills the walls. There’s STATIC. Will’s image FLICKERS in and out.
+C: WILL’S AVATAR
+D: Max! Help me! She’s dying! I can’t save her!
+N: Max slows. Unsure.
+C: WILL’S AVATAR
+D: You have to help her! Please!
+E: CONT’D
+N: Bree, seeing Max standing there, grabs him and shakes him.
+C: BREE
+D: Don’t listen!
+N: Bob pulls Max as Bree runs the trigger wire outside.
+S: EXT. WILL’S FACILITY - DAY
+N: Max, Bree and Bob take cover. Bob readies the detonator. Will’s avatar fills the wall of the building. Max can’t ignore the sheer panic and anguish in Will’s plea-
+C: WILL‘'S AVATAR
+D: Max! You promised me you would protect her!
+N: Max goes absolutely still. Max squints at Will’s avatar in the walls, like he can barely recognize-
+C: MAX
+D: e+. Will?
+N: Bob presses the detonator. The building QUAKES with internal explosions. The ceiling collapses. The walls cave in. Will's facility turns into a mess of fire, smoke, and debris. I/E. WILL’S CONSCIOUSNESS/WILL'’S FACILITY - DAY Evelyn, dying, watches as the last of Will's light is snuffed out by the virus. He looks at her. Gentle.
+C: WILL
+D: You are my life.
+N: A DARK SHOCK-WAVE blasts out of him. Everything bright in this world goes dark. The blackness radiates over the valley and beyond. A black void. A silent nothing.
+S: EXT. PLANET EARTH
+N: We fly into the dark side of the planet. Below us, we see the glimmering of artificial light over the major cities of the world. One by one, they all go black. The world is plunged into darkness.
+S: EXT. WILL’S FACILITY - DAY
+N: Evelyn’s eyes open. She’s back in her body. Blood pours out of her wound. She’s holding Will’s hand. His body bleeds nanotechnology. His eyes open slightly. Hands GRABS her. Turn her. Check her vitals. It’s Max, trying to save her life. When he sees her wound, he slows.
+C: EVELYN
+D: Max, I’m staying with him.
+N: She turns back to Will. They make eye contact. The life fading from them, they try to cherish every detail before... They die. Hands intertwined. Their still, lifeless eyes starting into each other. Max, staring at them through his tears, doesn’t look away.
+S: EXT. BRIGHTWOOD STREETS - DAY
+N: Joseph and Stephens, walking toward the facility, look around at their troops. They're battered and bruised, but they’re all standing. They’re all alive.
+C: JOSEPH
+D: My God. He didn’t kill any of us.
+N: Even the hybrids are alive. All of them. They’ve reverted back to their original states. Roger is paralyzed. Paul cannot see.
+S: EXT. DESERT VALLEY - DAY
+N: The town is silent. The ruins of Will’s facility smolder. The sea of nanotechnology has turned to dust. The desert breeze blows through, carrying it away...
+T: FADE TO:
+S: INT. DATA CENTER, BOSTON -— DAY
+N: An endless row of computer servers stand lifeless and dark. Illuminated only by a long row of skylights above. There is no power. Two men walk through. Max, in dirty jeans and a stained coat. Joseph is ungroomed. They take in the dark building, still as a tomb.
+C: JOSEPH
+D: How is it out there? Have you found anything?
+C: MAX
+D: No. Nothing. I heard Tokyo has power. Berlin, too. But they’re just rumors.
+C: JOSEPH
+D: Nobody's connected?
+C: MAX
+D: No. No phone. No internet. No power. Nothing.
+N: They walk in silence, both lost in thought. Max takes in the lifeless machines all around them.
+C: JOSEPH
+D: You know we’re rebuilding the same system?
+N: Max goes silent. They move to the exit, guarded by SOLDIERS with assault rifles.
+C: JOSEPH
+D: Let me know what you find. Max walks away. Joseph moves back into the facility.
+E: CONT'D
+S: INT. LOOTED TOWNHOUSE - DAY
+N: Max takes in the abandoned home. Water stains. Debris. Piled mattresses suggest squatters have come and gone. The floorboards were scavenged for firewood - the charred evidence is in the fireplace. In the center of the room is a pile of discarded cell phones, laptops, and tablet machines. Max grabs one of the phones. He leans against a wall. He slides into a crouch. He turns the phone over in his hand. It’s dead. His breathing quickens as he fights back emotion. Wrapping his arms around his knees, he waits for the sensation to pass. He sits there. Alone.
+C: MAX
+D: I’m sorry.
+N: Outside, the rain has stopped. The day brightens. Max looks to the rear of the house. Something arrests his attention. He makes his way through the 19th century townhouse.
+S: INT. DATA CENTER ~ DAY
+N: Joseph, walking through the long row of machines, slows. Stops. Looks up at a lifeless server.
+S: EXT. GARDEN -— DAY
+N: Max steps into the garden, which is lush and full of life. Ivy covers the walls. Flowers of every shape and color. The garden contrasts everything we’ve seen of this world. In a corner rests a set of vintage garden furniture. A small table, two chairs. Dark, lightly rusted metal. Max stares at the empty seats. Water from the recent rains drips in a PERCUSSION. As it does- A calmness comes over Max. His attention settles on a leaf of ivy, where moisture collects into a bead of water. He studies the shimmering drop of liquid. As he stares, something new emerges in his eyes... Recognition. THE END.

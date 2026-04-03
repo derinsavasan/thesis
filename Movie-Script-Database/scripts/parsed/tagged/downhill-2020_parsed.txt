@@ -1,0 +1,1764 @@
+M: DOWNHILL
+M: Written by
+M: Jesse Armstrong
+M: Current Revisions by
+M: Jim Rash & Nat Faxon
+M: Based on "Force Majeure," by Ruben Ostlund
+M: October 5th, 2018 DRAFT
+M: IN BLACK:
+M: The distant sound of a car engine, revving intermittently.
+T: FADE IN:
+S: EXT. AUTO-ROUTE - DAY
+N: LOCKED FRAME of a road winding its way, side to side, up a * steep, snow-covered wall of the Alps. Eventually, a black Mercedes SUV breaks the bottom of FRAME, ascending.
+S: INT. SUV - DAY
+N: At the wheel, PETE STANTON, confidently shifting gears. Riding shotgun, his wife, BILLIE. She’s busy in her phone. Their twin sons, EMERSON and FINN (10), are in the back. Finn is focused on the scenery. Em is buried in a book. Yep. An actual book. Pete takes a hard curve, dropping into the wrong gear.
+C: BILLIE
+D: We got it, Pete. You’re a man. Slow down.
+E: amused
+C: PETE
+D: This is how they drive. *
+C: BILLIE
+D: You’re not “they.”
+C: PETE
+D: There’s no speed limit here.
+C: BILLIE
+D: That’s Germany. This is Austria.
+C: PETE
+D: It’s the Autobahn. This is a couple who love to give each other shit. It makes * things work. *
+C: BILLIE
+D: Tell you what, I’ll look it up.
+E: on phone
+C: PETE
+D: I looked it up. I read it.
+C: BILLIE
+D: Great. Now, I’ll read it. Pete concedes. Slows down.
+E: calling bluff
+C: PETE
+D: I just want to get out on the mountain.
+C: BILLIE
+D: I’m very aware of what you want. He glances in the rearview mirror.
+E: amused
+C: PETE
+D: Em, you’re missing it, buddy. Em looks up, gets a quick glance, and returns to his book.
+C: FINN
+D: Are we going to ski this?
+E: off incline
+C: PETE
+D: Maybe.
+C: BILLIE
+D: What? No. Why would you say...? PETE * I’m saying there will be * steep stuff... * BILLIE * He said “this.” Will we ski * “this?” *
+C: PETE
+D: He knows what I meant...
+C: FINN
+D: We’re going to ski this. Em doesn’t even look up from his book. He could care less.
+E: to Em
+C: PETE
+D: Like this, buddy. Like this. Pete gives a playful “Oops” look.
+C: BILLIE
+D: Be. Clear. She glances out the window. JA 1st 2. BILLIE’S POV of a passing sign/billboard for “Ischgl Ski Resort.” A mixture of German and English, but their slogan is undeniable: “Relax. If You Can...” BACK TO SCENE, as...
+C: BILLIE
+D: Kind of feels like a threat... Just then, a LARGE BUS rounds the bend in Pete’s lane. Pete slams the brakes. Everyone freaks a bit. The BUS DRIVER, clearly annoyed, HONKS.
+E: CONT’D scoffing, amused
+C: PETE
+D: ... Am I on the wrong side?
+C: BILLIE
+D: This is the side we’ve been on. * We’ve always been on this side... The Bus Driver HONKS, again, and waves Peter to back up.
+C: PETE
+D: He wants me to back up. *
+C: BILLIE
+D: You can’t back up. *
+C: PETE
+D: Am I on the wrong side?
+C: BILLIE
+D: Have him back up. You back up. You back up.
+E: to Driver
+C: PETE
+D: It’s a bus. He can’t back up.
+C: BILLIE
+D: Buses can back up.
+C: PETE
+D: Am I in the wrong...?
+C: BILLIE
+D: Just go around. Peter navigates to the other lane, BUT NOPE - there’s a number of cars trailing the Bus in that lane.
+C: PETE
+D: Do we even get a lane? JA 1st 3. HONK. The Bus Driver waves Peter back, even more insistent. * In fact, he drives FORWARD.
+C: PETE
+D: He’s coming at us. BILLIE * Okay, back up. * PETE * Yeah, we have to back up. * Back to our LOCKED FRAME from the opening, as Pete slowly * backs up and the bus inches forward. It’s a long, awkward process. Superimposed over this image, our title:
+E: CONT’D
+C: “DOWNHILL”
+D: EXT. SKI MOUNTAIN - DAY A still photo of our family: Twins center, flanked by Billie * and Peter. Mountains in the background, sun in their faces. Snow blows across, the family shuffle. It’s not a still, it’s live action.
+C: PHOTOGRAPHER
+D: Danke! Danke schon! Thank you - yes. Ja. Next one. The family moves around to pose for a series of photos. The poised classical framing is all wonky. We struggle to see our * family, to focus on individuals, as Peter and Billie arrange * themselves and their kids until:
+E: O.S.
+C: PHOTOGRAPHER
+D: Jetzt mache schneeballe und wirf sie. Ja? Billie looks nonplussed. Peter doesn’t get it, either. But * then the photographer makes a snowball and they understand. As other families pass by, we see the Stantons through their eyes: looking good. Cavorting for the cameras and for each other. Peter rough-housing the laughing boys, with just a hint of an eye on the camera. Click click click.
+E: CONT’D
+C: PHOTOGRAPHER
+D: Wunderbar! Happy days. Good times. EXT. MOUNTAINS/SLOPES - DAY Sun plays across the snow. The peaks are beautiful, but terrifyingly, overwhelmingly massive. JA 1st 4. Closer in: A blank white screen of snow. Billie, Pete, and the Twins come down the mountain. All decent skiers, carving * long S shapes. They make a pretty pattern as they slip in- between one another. A family in sync. EXT. MID-MOUNTAIN - DAY Peter and Billie stop. They breathe and just take in that * first run. Below them, the Austrian resort.
+E: CONT’D
+C: PETER
+D: Wow. That was not too shitty. *
+E: facetious
+C: BILLIE
+D: Yeah, right? Better than I imagined. Billie glances at her boot, shaking it out a bit, as the Twins arrive by their sides. Finn, all smiles. Emerson kicks snow off his skis.
+C: PETER
+D: How about that, huh?
+C: FINN
+D: Awesome. Em doesn’t pipe up.
+C: BILLIE
+D: Em? Pretty cool, huh?
+C: EMERSON
+D: Uh-huh? Sure.
+E: going along
+C: PETER
+D: “Sure?” It’s more than “sure.” Peter nudges/play-punches Emerson until he cracks a smile.
+C: PETER
+D: Alright, everyone follow me.
+E: CONT’D
+C: BILLIE
+D: Yeah, keep an eye on daddy.
+C: PETER
+D: We good? Billie is back with her boot, shaking it. JA 1st 5.
+C: BILLIE
+D: Yeah, let me just... But, Pete is already off down the mountain. The Twins follow. * As Billie scrambles a bit to gather herself and “catch up,” we... INT. SKI RENTAL SHOP - DAY Peter and the Twins are gathered around a terminal where the photos taken up at the top of the mountain can be viewed. They point, laugh and argue over which ones to ‘tick’ and print out. Billie sits with a young SKI RENTAL KID, considering her boot.
+C: BILLIE
+D: I think they’re good. I just felt that they might be a little tight here? It’s a little tight here but * felt kind of loose there? ON YOUNG SNOWBOARDER bursting in from outside, letting out a piercing WHISTLE to get the Ski Rental Kid’s attention. * Clearly, the Snowboarder wants to hit the mountain and is getting impatient. A slightly heated German exchange for which we receive no subtitles. Billie coughs to get the attention back.
+C: BILLIE
+D: So, here it’s tight. But, there it’s loose. Is that good? * The Kid gives a cursory, meaningless touch of the boot.
+E: CONT’D
+C: SKI RENTAL KID
+D: Is good. Peter approaches.
+C: PETER
+D: She just felt a little sliding of the foot and a little, too much grip on the ankle.
+C: SKI RENTAL KID
+D: Is good.
+C: PETER
+D: Is good? JA 1st 6.
+C: SKI RENTAL KID
+D: Is good.
+C: PETER
+D: Is good?
+E: to Billie
+C: BILLIE
+D: Is good? Billie considers.
+C: PETER
+D: We all got moulded boots but she decided hers weren’t right, so?
+E: to the Kid
+C: BILLIE
+D: I mean, they’re tight? Maybe I have * weird feet? No. Good. Yeah? Peter nods. Yes. Enough. E/I. HOTEL - DAY The family approach the front entrance. A whirlwind of activity as the ski day comes to a close. SKIERS whisk by, taking advantage of the “ski in/ski out.” The family enters the...
+E: conceding
+C: LOBBY.
+D: Billie clocks the GREGARIOUS GROUPS passing them, heading out towards town, beers/cocktails in hand. The whole lobby is a madhouse. SKIERS/GUESTS of all nationalities mill about, gather at the bar, etc.. A cacophony of different languages echo throughout the space. The Twins take off running.
+E: all adults
+C: BILLIE
+D: Stay where I can see you. DING! From Pete’s phone. A text. He checks.
+E: calling after
+C: BILLIE
+D: Have you noticed there are no other kids? Seems weird, right? JA 1st 7.
+E: CONT’D to Pete
+C: PETE
+D: School schedules are different? Billie hands an ATTENDANT a ticket for their luggage at BAGGAGE CHECK. They had left them there in the urgency to get on the mountain.
+E: shrugging, lost in phone
+C: BILLIE
+D: Still. You’d see some kids.
+C: EMERSON/FINN
+D: Mom! ON TWINS, by a table decked out with an array of sweets and coffee. They are pleading to “dive in,” hands in “prayer mode.”
+E: O.S.
+C: BILLIE
+D: One thing each. They scoop up two things each and immediately take a bite.
+C: BILLIE
+D: I said one. Deer in headlights. Both put the “bitten choices” back. *
+E: CONT’D
+C: BILLIE
+D: No, don’t... Take them back. They do. Again, deer. Now, what?
+E: CONT’D
+C: BILLIE
+D: Now, put the uneaten ones back. Still deer.
+E: CONT’D
+C: BILLIE
+D: Okay. You get two. Two. They take off running. Billie notices Pete, still in phone.
+E: CONT’D
+C: BILLIE
+D: Who are you texting?
+E: CONT’D
+C: PETE
+D: It’s Zach. He and Rosie are in Amsterdam, apparently. ON PHONE SCREEN. “HIGH from Amsterdam!” There’s a series of selfies of ZACH and ROSIE, a very youthful and free-spirited couple. They are sporting backpacks. JA 1st 8.
+C: BILLIE
+D: And, they’re backpacking?
+C: PETE
+D: Yeah, travelling wherever. No real agenda. See, I know this because it says right here. ON SCREEN. Below the photos, more text: ”#NoAgenda #LiveYourBestLife”
+C: PETE
+D: Hashtag no agenda. Hashtag live your best life. *
+E: CONT’D reading jokingly
+C: BILLIE
+D: Hashtag get better hashtags. They both laugh. The ATTENDANT brings out their bags.
+C: BILLIE
+D: Okay, let’s not be in our phones.
+E: CONT’D
+C: PETE
+D: No, totally. I’m just finishing it.
+C: BILLIE
+D: This is a family vacation, so let’s be here. Not texting. Playing games...
+C: PETE
+D: Absolutely. He texted me. I’m just... I mean, you’ve been on your phone... If ever Billie gets adamant, it is with this.
+C: BILLIE
+D: Yeah. To deal with work stuff. And, family stuff. I’m doing both.
+C: PETE
+D: No, totally...
+C: BILLIE
+D: And, now I’m done and I’m here.
+C: PETE
+D: I’m done, too. Great. Pete puts away his phone. They nod to one another and steal a quick kiss. All good. JA 1st 9. INT. HOTEL LOBBY - DAY - MOMENTS LATER Pete and Billie approach RECEPTION as a group of MIDDLE-AGED GUYS on a men-only weekend are laughing/flirting with the FEMALE RECEPTIONIST. The GUYS depart, laughing. The receptionist is momentarily called away. CHARLOTTE , a worldly Scandinavian woman, approaches. She has packets of documents under her arm and an air of someone very happy.
+E: 50s NOTE: She’s on the same side of the counter as Billie/Pete.
+C: CHARLOTTE
+D: Hello. I’m Charlotte. So. The flight was okay? What time did you check in?
+C: BILLIE
+D: Oh, uh, hi. Midday. Yes. All good.
+C: PETE
+D: I wanted us to get right out on the mountain. Billie and Peter, confused by Charlotte’s role, glance back * in the direction of where the Receptionist had been. *
+C: CHARLOTTE
+D: Well, sorry I wasn’t there to meet you. Now, what the fuck have I got for you? Billie and Peter clock one another. However, there’s little time to process as Charlotte is a whirlwind of peculiarities. She gives them envelopes, key cards and maps.
+C: CHARLOTTE
+D: Okay. Resort map. Key cards. Um, ski passes you got, right? * With the pack? * Finn and Emerson run up, grabbing onto Billie. She settles them.
+E: CONT’D
+C: CHARLOTTE
+D: Well, hello, handsome ones.
+E: CONT’D
+C: BILLIE
+D: This is Finn and Emerson. Our sons.
+C: CHARLOTTE
+D: Hello tiny men, yes? JA 1st 10.
+C: BILLIE
+D: So, I’m curious. Are there more * kids around?
+C: CHARLOTTE
+D: Oh yes. Many. Pete glances at Billie: “See?”
+C: CHARLOTTE
+D: Not here. The town of Fiss-- Maybe, minutes of 20 from here-- Yes, there is all families. Billie looks at Pete: “Did you know this?” But, Pete shrugs and shakes his head. It seems genuine, at least.
+E: CONT’D
+C: CHARLOTTE
+D: But, here better, yes? Is lively. The Ibiza of the Alps. Ski hard. Then, party as hardest. Yes? But, she offers no time for them to answer or process...
+E: CONT’D
+C: CHARLOTTE
+D: Yes! Okay. Now. Restaurant recommendations. Around the centre you will find quite fine dining, quite upmarket. And in the sauna. She pronounces it Scandinavian style ‘sow-nah’.
+E: CONT’D
+C: CHARLOTTE
+D: In Europe it’s considered unhygienic to sauna in your swim suits. So, please, the body is not to be ashamed of, yes?
+E: CONT’D
+C: BILLIE
+D: Well, speak for yourself.
+C: CHARLOTTE
+D: No. Your body is good. Celebrate it. Both. Charlotte stays locked on them, waiting for confirmation. PETE * ... Thank you. * BILLIE * No, yeah. Celebrate. Thank * you. ** JA 1st 11.
+E: dead serious nod to Pete
+C: CHARLOTTE
+D: For your skiing, there are the easy runs on the Austrian side. Over the other, if you like, you can go crazy in Switzerland.
+E: CONT’D pleased, back to business
+C: BILLIE
+D: Switzerland?
+C: CHARLOTTE
+D: Over the top is Switzerland and everything is different. And so any questions? Maybe they do, but Charlotte doesn’t wait for them...
+C: CHARLOTTE
+D: Okay, so. We are finished. I’m here as friend, yes? Do you want to be my friend? The slightly odd phrasing and European directness throws them * off. She holds their gaze. * PETE * Um-- *
+E: CONT’D
+C: BILLIE
+D: ... Yes? **
+C: CHARLOTTE
+D: Good. Then, we are friends. * Charlotte laughs. So, naturally Billie and Peter laugh. Charlotte gives them her card.
+E: CONT’D
+C: CHARLOTTE
+D: Please call me. You are American. You have paid, so you must have everything! As they make “good-byes,” Billie and Peter fumble with their * bags. They speak in hushed tones during the following: *
+E: CONT’D
+C: BILLIE
+D: Should you tip her? PETE * I don’t - Who the fuck is she? Peter presses a 20 Euro note into Charlotte’s hand. It wasn’t quite expected. It’s hard to understand her expression: BILLIE * Nope. You weren’t supposed to. * JA 1st 12. PETE * Is she offended? * BILLIE * I don’t know... * PETE * Take it back? * BILLIE * No, you can’t... * PETE * Maybe, it wasn’t enough? * BILLIE * No, don’t add... * But, he does add tip. Charlotte is still hard to read, * staring. * PETE * She’s still there. BILLIE * So, let’s not be, anymore. They start off with their bags.
+C: CHARLOTTE
+D: No, silly friends. We bring bags. You do nothing!
+C: BILLIE
+D: No, yes. Of course. That’s what we * were just discussing. * Okay. As they shuttle to the elevator,... INT. HOTEL SUITE - DAY CAMERA FOLLOWS Billie through the nice spacious arrangement, complete with two bedrooms, two bathrooms, and a common area with a full kitchen and dining table. She passes the Twins’ room. They are tossing clothes out of their bags, haphazardly. JA 1st 13.
+E: can’t get away fast enough
+C: BILLIE
+D: All that stuff in drawers, please. And, hang up your ski stuff to dry. We continue with Billie into...
+C: THE MASTER BEDROOM. BILLIE
+D: Them sharing a queen will be a disaster... ON PETE, immediately tossing his phone on the bed as if it’s on fire. Clearly, he was on it.
+E: CONT’D
+C: PETE
+D: Now, I’m done. Billie just playfully slaps his ass. They start to unpack.
+C: PETE
+D: Zach kept texting. Asking questions about Ischgl. Wondering where we were staying... *
+E: CONT’D
+C: BILLIE
+D: We’re not looking for them to “No agenda” their way here, are we? *
+C: PETE
+D: No, no, no. That’s why I was * finishing the conversation. No. I see him enough at work. Billie nods, “Good.” Pete pulls a vintage-looking, knit ski * hat out of his bag. Tad tacky. Very old school.
+C: PETE
+D: Look. I found my Dad’s old hat. * Thought I’d bring it. Wear it on * the slopes. Have him here with me. The moment catches Pete off guard. A little swell of emotion. She rubs his back.
+E: CONT’D
+C: BILLIE
+D: I love that. She kisses him.
+C: PETE
+D: Sorry, if I’ve been... JA 1st 14.
+C: BILLIE
+D: It’s okay. She pats his heart.
+C: BILLIE
+D: That’s why we’re here.
+E: CONT’D
+C: FINN
+D: Dad! Come look! Pete collects himself.
+E: O.S.
+C: FINN/EMERSON
+D: Dad!
+E: O.S.
+C: PETE
+D: I heard “Mom.”
+C: BILLIE
+D: * I know you did. * She pushes him toward the door, as we... INT. BATHROOM/COMMON AREA - DAY CLOSE ON a BIDET. REVEAL Em, Finn and Pete hovered around it.
+E: amused
+C: FINN
+D: What is it?
+C: PETE
+D: It’s European.
+C: EMERSON
+D: What’s it for?
+C: PETE
+D: ... For washing. ON BILLIE, in COMMON AREA. She’s stacking and laying out ski clothes for everyone for the next day.
+C: EMERSON
+D: For washing, what? Curious, Billie approaches the bathroom door, as Pete continue to struggle with what to say. JA 1st 15.
+E: O.S.
+C: PETE
+D: For washing your, uh...
+C: BILLIE
+D: Feet. But, let’s not use it for that. Or, anything. * Billie nods toward Pete to follow her. He complies as they get a safe distance from the twins.
+C: BILLIE
+D: If we tell them what it’s really for, we’ll never get them off of it.
+E: CONT’D
+C: PETE
+D: So,... Don’t be clear. Pete smirks, giving her shit. Billie’s not connecting the dots from the previous conversation.
+C: PETE
+D: Here, we don’t be clear. Now, she’s “up to speed.”
+E: CONT’D
+C: BILLIE
+D: Yes. Because there will be hijinx.
+C: PETE
+D: So, don’t be clear when there’s a possibility of hijinx. Billie swats him away and walks off as... * PETE * * No chance of hijinx means full * clarity. Chance of hijinx, lie. * INT. HOTEL ROOM, MASTER - NIGHT * Pete and Billie are on their bed, watching TV. There is a tray with leftover room service between them. They pick at the scraps which is mostly just fries and wine.
+E: CONT’D as if committing to * memory
+C: PETER
+D: Okay, we should stop, yes?
+C: BILLIE
+D: Yes. JA 1st 16. Yet, they each take more fries.
+C: BILLIE
+D: Okay, stop. We’re going to want to eat a big breakfast. Pete complies, pushing the tray away.
+E: CONT’D
+C: BILLIE
+D: I’m going to grab a shower.
+E: CONT’D
+C: PETER
+D: I’m going to want to get out first thing.... As she heads into the BATHROOM,...
+C: BILLIE
+D: I know you will.
+C: PETER
+D: Just so we account for that big breakfast. Off screen, the SHOWER starts. Now safe, Pete pulls a handful of fries and downs them with great speed. He considers, clears the fry debris with his tongue, takes a gulp of water and heads into the bathroom. CAMERA HOLDS outside during the following: We HEAR the shower door, opening.
+C: BILLIE
+D: ... No. We’re not doing it in here.
+E: O.S. half laughing/half adamant
+C: PETE
+D: It will be fast.
+E: O.S.
+C: BILLIE
+D: It never works.
+E: O.S.
+C: PETE
+D: There’s a bench...
+E: O.S.
+C: BILLIE
+D: No. Pete. This is my time... Clearly, Pete is teasing and grabbing at her trying to win her over. It works: JA 1st 17.
+E: O.S.
+C: BILLIE
+D: Okay, we can do a quickie on the bed when I’m out. During the following, CAMERA slowly dollies back and PANS to the bedroom window.
+E: O.S. CONT’D
+C: BILLIE
+D: But, go figure out what we’ll watch on TV afterwards. I don’t want you sitting there and scrolling around for half an hour.... CAMERA lands on the window and PUSHES IN. In the distance, bright, white lights illuminate the mountain. Three SNOWCATS ascend the slopes, grooming. We RACK FOCUS into the window, giving us the reflection of Pete turning on the TV and scrolling for show options.
+E: O.S. CONT’D
+C: THE SCREEN GOES BLACK
+D: SKI DAY 2 * INT. HOTEL ROOM, MASTER - THE NEXT MORNING * Billie and Pete are in bed, dead sleep. An alarm goes off. QUICK CUTS OF: - Pete slamming the alarm off. - Pete and Billie swing out of bed. Second day excitement. - The curtains part. Early dawn frames the dazzling, white vista. - Billie and Pete grab their stacks of ski clothes. Em grabs his, somewhat unenthusiastically. And Finn? He’s already at the door, dressed to go. - BATHROOM. Despite back-to-back dual sinks, with a two-sided mirror dividing them, Billie and Pete choose to share the * space, brushing their teeth on the same side. * - Billie tapes identifiable stickers to all the helmets. Pete * passes by, carrying his dad’s knit hat. *
+C: BILLIE
+D: So, we don’t lose each other. * * Under your helmet, yes? * JA 1st 18. PETE * No, yeah. For under. * - Pete puts on his dad’s knit hat, and then attempts to add his helmet. Clearly, it’s not going to work. A bit bummed, he * goes with just the helmet. EXT. SKI LIFT - DAY Our first real taste of the madhouse that is the lift line. It’s hovering just between order and chaos. Our family navigates and attempts to figure out “how the system operates.” Pete powers ahead, confident that he can figure it out. Billie keeping tabs on the boys. LATER - They are just shy of the front of the lift line. A LIFT ATTENDANT is there checking everyone gets on safely. He chunters away in German as people pass. Before our family, there’s a GROUP OF THREE. The Lift Attendant calls for someone from the SINGLES LINE to join them to make it four. The SINGLE GUY scoots up past Pete. He can’t help but notice that the Guy is skiing in a knit hat. * Old school. In fact, there’s a fair number of “non helmet” skiers. It’s the family’s turn. The scoot into position. As Billie and Peter pass the Lift Attendant, he raps his knuckles on their helmets.
+E: re: stickers, ”good idea, * huh?” noticing dad’s hat
+C: LIFT ATTENDANT
+D: Helme für die Kinder! Helme für die Kinder! Pete and Billie don’t know what to make of what he said. Billie and Pete assume, incorrectly... *
+E: NOTE: We won’t get subtitles on this. Or, at all, throughout.
+C: BILLIE
+D: I think he just wants to know that * they’re on secure?
+C: PETE
+D: All good! EXT. PISTE - DAY The family descends. Not as compact as “day one.” Finn is out in front, eager to show his parents what he can do. JA 1st 19.
+E: knocking, cheery
+C: PETE
+D: Slow up, Finn! But, he doesn’t hear. He just keeps plowing ahead. Pete * pursues. Billie hangs back with Em, who makes a more * tentative descent. EXT. SKI RESTAURANT - DAY Finn stops just outside the agreed restaurant. Pete arrives. *
+E: calling out
+C: PETE
+D: We need to stick with the group. Alright, buddy? Finn nods. Pete pats Finn’s helmet. They both look up the slope at Billie making wide curves ahead of an increasingly slow Emerson. Finally, Billie and Em join them. Finn looks at his brother like: come on man, stop hamming it up. Emerson makes a fuck- you face. Billie raises her eyebrows at Peter, meaning: Jesus he took his time. As they start to unclip their boots, we... EXT. SKI RESTAURANT - DAY An outside terrace. Blue sky. Waiters come and go. The family are looking at menus.
+C: BILLIE
+D: I’m thinking... How about if we just have soup? Then, we can have * pastries at four and also be hungry for a dinner? Is that a plan? Peter is looking at a piste map.
+C: PETER
+D: Should we do this black after lunch?
+C: FINN
+D: I’ll do that Dad.
+C: BILLIE
+D: Umm? JA 1st 20. Peter takes her lack of engagement as skepticism.
+C: PETER
+D: Oh, I don’t think it will be that * challening. It looks black, but * skis red. American blue. Several of these blacks are really American blues - European reds - but they want them to be black for the glamour? Billie looks at the map.
+C: BILLIE
+D: Unless... Should we go find some good powder? Get in some practice in case we want to blow it out and go for a-- She mimes ‘helicopter’ - not well. Rotors over her head --
+C: PETER
+D: Rodeo? Off on the opposite hillside: a loud BANG! BANG! Everyone on the terrace looks over to the mountain side. A controlled explosion rumbles.
+C: BILLIE
+D: Whoa. Look at ...
+C: PETER
+D: Okay! And, on a distant piste, an avalanche starts to roll. A low rumble that soon grows, exponentially. The mass of snow builds. It’s A BIG AVALANCHE. Suddenly, snow is filling the whole valley.
+C: BILLIE
+D: Is that okay? Peter, the man of the world, smiles but it’s billowing and ADVANCING FAST. PANIC RISES. There’s a scream on the restaurant terrace. It’s that moment when NORMALITY FADES and you have to judge whether this is a life or death scenario. THE AVALANCHE is going to be upon them in a second -- What the fuck?! Billie PUTS HER ARM AROUND the kids. Cries out in FEAR. JA 1st 21. Without time to think Peter STANDS, and FUMBLES A RETREAT. He grabs his phone and STUMBLES FAST out of the shot just as * people SCREAM and the terrace is TOTALLY ENVELOPED IN SNOW.
+C: SILENCE. EVERYTHING IS WHITE.
+D: Then:
+C: BILLIE
+D: Pete!
+E: CONT’D
+C: FINN/EM
+D: Dad!! Confusion and PANIC reign. Muted shouts and screams. Then - after the moment of maximum noise and panic, the shouts calm down. And SLOWLY, the snow starts to settle. It was just a plume of SLOWLY SETTLING POWDER. Not a mass of snow. * Everyone begins to realize that this was not a life or death moment. There are even a couple of muffled LAUGHS, mild mannered exclamations. The Waiters and Waitresses move into action, to clear the DUSTING OF SNOW from the tables.
+C: BILLIE
+D: Are you okay? Kids? Are you okay?
+C: EMERSON
+D: Yep.
+C: FINN
+D: Yes.
+C: BILLIE
+D: We’re okay. We’re okay. Then, clomping back in his ski boots, comes Peter.
+C: PETER
+D: Whoa. The family are silent. They look at him. He rejoins them.
+C: PETER
+D: Wow. Huh? Billie doesn’t know what to say.
+E: CONT’D
+C: BILLIE
+D: Uh-huh. JA 1st 22.
+C: PETER
+D: Are you all okay? They nod, mutely.
+C: PETER
+D: That was -- wasn’t it?
+E: CONT’D
+C: BILLIE
+D: ... Yeah. More silence. Finally, a Waitress comes to their table to dust off the snow.
+C: PETER
+D: Okay. Here we go. Pete has an air of “back to normal.” Almost defiantly “not fazed.”
+C: PETE
+D: So, we’re all doing soup? The kids and Billie look at him. He’s claiming it’s all over. EXT. SLOPES - DAY The family are out skiing again. Peter at the front. He carves off ahead, unaware or unconcerned that behind him Billie and the kids hang back. Even Finn is taking it easy. He looks behind him for Emerson, who looks behind him for Billie, who looks behind herself at * the mountain to assure that everything is safe. Just then, a * YOUNG SKIER flies past them all at full speed. They flinch. * INT. SKI RENTAL SHOP - DAY The family is putting their gear away for the day in lockers * and racks. The atmosphere is chaotic as many SKIERS jostle to * do the same. At one end of the shop are a series of floor-to-ceiling movable racks for boots on runners. The racks can be shifted, * and different aisles created, to get to the boots. * Emerson is dawdling in one of the aisles, as he looks for the * spot to put his boots. A DUTCH SKIER on the next aisle pushes the racks along their rails unaware that Emerson is in the next aisle looking the other way. The big metal unit nears his back -- JA 1st 23. ON PETER, nearby, noticing.
+C: PETER
+D: Hey? The Dutch Skier doesn’t hear, slides on. *
+C: PETER
+D: Hey! Hey! Stop! ON BILLIE, across the room, pulling off her boots. She looks up as, Pete rushes over to put his hand up against the rack. *
+E: CONT’D
+C: PETER
+D: Watch what you’re doing! The Dutch Skier steps out. *
+E: CONT’D
+C: DUTCH SKIIER
+D: Ontspannen. Ontspannen. Okay? Cool, yeah? Everything’s cool. *
+E: what?
+C: PETE
+D: It’s not cool. You could have crushed my son? Pete’s reaction to this feels a bit heightened. Overcompensating?
+C: PETE
+D: You alright?
+E: CONT’D to Em
+C: EMERSON
+D: Yeah. The Dutch Skiier touches the big set of racks with a finger.
+C: DUTCH SKIIER
+D: They stop easy, yeah? Billie has arrives, puts her attention on Em, too.
+C: BILLIE
+D: You okay?
+C: EMERSON
+D: Yeah, I’m fine.
+C: PETE
+D: This guy wasn’t looking. But, I took care of it. * JA 1st 24. I don’t want trouble. The Dutch Skier doesn’t either. He’s still not sure what all * the fuss was about. *
+E: MORE then to Skier
+C: DUTCH SKIIER
+D: Yes. I don’t... * Billie watches as Pete shuttles Em away, consoling. She’s still lost in this residual fog: What happened? Where was * this Pete on the mountain? Does she believe this Pete? * INT. HOTEL SUITE, COMMON AREA - NIGHT The Twins are on the couch, dressed for bedtime, watching television. It’s The Loud House or Spongebob Squarepants. That said, it’s all in German with no subtitles. The Twins don’t seem to mind. INT. HOTEL SUITE, BATHROOM - SAME TIME Billie stands at the dual sink, finishing her make-up. She’s quite dressed up and very much still playing back the day in her head. Pete enters. *
+E: Basically, whatever is popular for boys and is “cleared.”
+C: PETE
+D: You look pretty. He kisses her neck.
+C: BILLIE
+D: ... Thank you. Pete reaches over her to grab his toothbrush. Billie zigs when she should have zagged. The “ballet” at the sink before is “out of sync” here. Eventually, Pete gets his toothpaste and begins brushing. They stay on the same side of the sink despite the “vibe.” Billie takes a moment. It’s clear she wants to ask about today. But, just as she opens her mouth... *
+C: EMERSON
+D: Stop!
+E: O.S.
+C: FINN
+D: Give it to me!
+E: O.S.
+C: EMERSON
+D: No! JA 1st 25.
+E: O.S.
+C: PETE
+D: Pete heeds the call and heads out to investigate. He might have welcomed it. From the other room, Pete and the boys: *
+E: CONT'D
+C: FINN
+D: He won’t give me the remote.
+E: O.S.
+C: EMERSON
+D: It’s my turn to choose. INT. HOTEL SUITE - A LITTLE LATER Pete is scrolling movie options on the television, while Billie preps the twins. She’s holding the cordless hotel phone.
+E: O.S.
+C: BILLIE
+D: Okay, this is the phone. You can call us at any point from this on our cell phones. Numbers are here. Okay? They work. We checked. OFF SCREEN, a soft KNOCK at the door. Pete heads to answer. [During the following, we’ll hear the faint sound of Pete conversing with Room Service.]
+C: BILLIE
+D: Or, call reception. Or, the restaurant. Or, one of you can even come down. We’re right downstairs at the restaurant off the lobby. You saw where that was, remember? Pete returns with a tray, complete with TWO covered plates.
+E: CONT’D lays out a piece of paper
+C: PETE
+D: Mom ordered a couple burgers and fries. How cool is that? And, they have movies in English. So, we can pick one of those. The boys seems a little wary. Perhaps residual feelings from today.
+C: BILLIE
+D: And, we’ll be back by the time the movie ends to tuck you in, okay? She smiles. As does Pete. The boys seem consoled. JA 1st 26. INT. HOTEL CORRIDOR - NIGHT Billie and Peter walk down to dinner. Glances exchanged. Smiles, flashed. Billie grapples. A need to start a talk. * Just as she’s about to speak-- An enthusiastic ITALIAN COUPLE exit their room up ahead, mid- conversation. They continue down the corridor just ahead of Billie and Peter. Peter lets the back of his hand brush Billie’s. He offers a hand-hold. Billie doesn’t take it right away, but eventually gives in and they walk interlinked. The Italian Couple peels off down a different corridor. Back to silence. Billie lets her hand go passive, letting Pete’s fingers ride interlinked with hers, but with no grip between them. They slip away. INT. HOTEL RESTAURANT - NIGHT Peter and Billie are waiting to be seated. She glances at Pete, a desire to start. Pete stays focused ahead. He feels * her gaze but chooses to be oblivious. *
+C: BILLIE
+D: ... So,...
+C: CHARLOTTE
+D: Yay! My good friends! Yes! * ON CHARLOTTE in a banquette, waving. Her dinner companion, CHARLIE, a slightly older British fellow, is excusing himself to the restroom. ON BILLIE/PETE, waving back.
+E: O.S.
+C: PETE
+D: I think she wants us to...
+E: aside
+C: BILLIE
+D: She’s just waving... Charlotte’s wave becomes a “waving over.” She gestures for * them to “join.”
+E: aside
+C: BILLIE
+D: Let’s just make an excuse... There’s NO WAY she heard that, but... JA 1st 27.
+E: CONT’D
+C: CHARLOTTE
+D: There is no reason I take! Off Pete, giving a “What are we going to do?” to Billie, * we... * INT. HOTEL RESTAURANT - NIGHT - A LITTLE LATER Peter and Billie are opposite Charlotte. A WAITER delivers “first” drinks for Billie and Pete and “another round” for Charlotte and her companion
+E: calling over still in bathroom.
+C: CHARLOTTE
+D: And, bring another for my friends.
+E: to Waiter
+C: BILLIE
+D: Oh, I’m not sure I’ll... * PETE * Yeah, I’m good for... *
+C: CHARLOTTE
+D: No smart to get now. Bar is crazy. The Ibiza of the Alps, yes? The Waiter heads off.
+E: CONT’D
+C: CHARLOTTE
+D: I drink if you not. Going to clubs. Charlotte does a small “dance groove.” Pete attempts to fish out her precise role.
+E: CONT’D
+C: PETE
+D: That’s nice. So, a night off from-- Do you find you get enough time off from your duties as a... ? But, still no such luck--
+E: off Charlotte, not clicking in
+C: CHARLOTTE
+D: Oh sure. Enough to catch a dick whenever I want! Billie swallows with a gulp.
+C: PETER
+D: That’s... great.
+C: BILLIE
+D: ... Time is nice. * Charlie returns to the table. He slides next to Charlotte. JA 1st 28.
+C: CHARLOTTE
+D: Charlie, this is Billie and Pete. * I was just talking about you?
+E: CONT’D introducing then
+C: CHARLIE
+D: All good, I hope? *
+C: BILLIE
+D: Uh-huh, sure. Charlie is gossipy and pally. *
+E: with meaning
+C: CHARLIE
+D: What did she say?
+C: BILLIE
+D: Oh. Um?
+C: CHARLOTTE
+D: I said I can always catch a dick when I like. She smiles. Playful. But he’s not quite up to the challenge of being so comic-casual about their liaison.
+C: CHARLIE
+D: Oh. Oh, right? Charlie takes a swig of his drink. Smiles.
+C: CHARLOTTE
+D: Yeah?
+C: CHARLIE
+D: I mean. Okay, I just thought -- *
+C: CHARLOTTE
+D: I was kidding! Why, you think we’re getting married?
+E: off his slightly hurt look
+C: CHARLIE
+D: No! God. No. I just thought. I had a nice time today? This afternoon?
+E: beat, then
+C: CHARLOTTE
+D: Uh-huh. JA 1st 29. Charlie looks at her - aren’t you going to give me more? Weird beat. Pete tries to break it...
+C: PETER
+D: And, you two know each other from...?
+C: CHARLIE
+D: Here. I got in on Sunday? She showed me around.
+C: CHARLOTTE
+D: Yeah, but you’re a quick learner. * Charlotte licks her lips. Charlie smiles, flattered but also discombobulated. The Waiter returns for more drinks, loading up Billie and Pete. He starts to offer menus, but...
+C: CHARLOTTE
+D: No, I order for table. You’ll love. You know what I’d say. All that and bread. Yes? The Waiter does know what she’d order and walks off.
+E: CONT’D to Waiter
+C: CHARLOTTE
+D: So, what do you do?
+E: CONT’D to Billie/Pete
+C: BILLIE
+D: Well, I’m a lawyer. Trademark law. So, yeah. Riveting.
+E: joking
+C: CHARLOTTE
+D: No. Billie is thrown.
+E: dead serious
+C: CHARLOTTE
+D: Love it. Or, no do it.
+E: CONT’D
+C: BILLIE
+D: Oh, no. I love it. For me. Yes. Charlotte smiles. “Good.” She looks at Pete, cueing up.
+C: PETE
+D: I’m in real estate. And, I love it. JA 1st 30.
+E: then, quickly
+C: CHARLOTTE
+D: And you guys have a good day on the mountain?
+C: PETER
+D: Great day. Great conditions. Real alpine experience. Billie can’t let that fly--
+E: diving in
+C: BILLIE
+D: I mean, we almost all died in an avalanche but... Yeah, great.
+C: CHARLOTTE
+D: What?
+C: PETER
+D: * Come on, Billie... There was a moment...
+E: ”don’t exaggerate” to Charlotte/Charlie
+C: BILLIE
+D: There was an avalanche. CHARLIE * Good Lord. *
+C: CHARLOTTE
+D: Good fuck. Were you okay? *
+C: PETER
+D: There was a - For a moment, it could have felt dicey.
+C: BILLIE
+D: For more than a moment it did feel dicey.
+C: PETER
+D: Okay. And, then it was over. And, it was fine. We were fine...
+C: BILLIE
+D: The kids were scared...
+C: PETER
+D: Of course...
+C: BILLIE
+D: Pete. What they saw was... Does Pete know where this sentence is going? About him? Regardless, he wants to end this. JA 1st 31.
+C: PETER
+D: Yes. Scary. For them, for sure. It was. But, now we’re here. And, the boys are upstairs watching a movie. So, I guess I just... Emotionally, we’ve already been through a lot lately... My dad died eight months ago. And, our sons adored him. We all did. And, it’s been hard. More so than certainly I thought it would be. It’s all been a lot. So, we came here. That’s why we’re here. Pete glances at Billie. That’s for her. As she said earlier: “That’s why we’re here.”
+E: to Charlotte/Charlie
+C: PETER
+D: So, let’s just be here. Billie nods, conceding in her mind to let go of the conversation. She does know he’s been hurting. Pete reflects on a memory.
+E: CONT’D
+C: PETER
+D: My dad was a travel agent for * thirty years. Not that he ever went anywhere. What he knew of the world was based on research. Anyway, when he retired-- alongside one of his good buddies-- They received these beautiful, cut glasses. A set. Billie has heard this story way too more times. *
+E: CONT’D
+C: PETER
+D: Well, they were precious to my Dad. He just kept them up on a shelf. Even when we went to visit, he wouldn’t get them down. He was * saving them for... Who knows? Maybe * nothing. Well, when we were back home for his funeral, I went to see Hughie. That was his buddy from work. And, we had a little drink to toast my Dad in those cut glasses. And, later, he tossed them right into the dishwasher. And I asked, “You use these for everyday?” And, do you know what he said? Charlie and Charlotte shake their heads. JA 1st 32.
+E: CONT’D
+C: BILLIE
+D: “Every day is all we have.” *
+E: under her breath
+C: PETER
+D: “Every day is all we have.” * He just nods, letting his profundity lie there. While * respectful of the “sentiment,” Charlie and Charlotte choose * their words/reactions, carefully. * CHARLIE * * ... Very powerful. * CHARLOTTE * Today might be it. Yes. **
+E: bone dry
+C: PETER
+D: * Yeah. So, to me. Today was today. * Charlotte clocks Billie, who seems to be “conceding” her * feelings about the avalanche/today. * CHARLOTTE * Even so. Maybe you report to resort * safety, yes? If only to give you * ease? * Pete knows to agree here. * PETER * ... No, yeah. For sure. * INT. HOTEL ROOM, BATHROOM - NIGHT Billie is on her side of the dual sink, getting ready for * bed. Pete enters, choosing to use the other * sink. A moment of silence, then... *
+E: CONT’D not picking up on probably wisely
+C: PETER
+D: It was an avalanche. And, it was scary. We experienced an avalanche. And, look... You suffered some shock. Billie could bust up over this, but--
+C: BILLIE
+D: We did suffer some shock. More bubbles underneath, but for now a couple comes to an agreement of facts.
+C: PETER
+D: I don’t know why I said we had a great day. JA 1st 33.
+C: BILLIE
+D: It was scary.
+C: PETER
+D: It was scary. INT. HOTEL ROOM, MASTER - NIGHT ON PETE, in bed. His eyes are closed, but it’s doubtful he’s * asleep. After a beat, he opens his eyes, sensing. He turns to see Billie’s side of the bed is vacant. * From the BATHROOM, the faintest sound of TINNY MUSIC. INT. HOTEL ROOM, BATHROOM - SAME TIME Billie sits on the toilet, with the top lid down. Her face illuminated by her iphone. She’s playing an addictive, mind- numbing game. Candy Crush or Tetris. The “candy” or “blocks” tumble much like an “avalanche.”
+C: THE SCREEN GOES BLACK
+D: SKI DAY 3 INT. HOTEL ROOM, MAIN BEDROOM - DAY Billie and Peter are dead asleep. The clock radio cuts the silence. An aggressive German morning show blares. Peter hits the clock radio, but it slides behind the side table, still blaring. Billie stirs awake as Peter fumbles to retrieve the clock radio. Finally, success. Silence, again. Peter and Billie sit up on the edges of their sides of the bed, backs to one another. QUICK CUTS OF: - Pete parts the curtains. Bright sun reflects off the white vista. Pete squints a little. It’s a lot. - All the ski gear is in messy piles. Billie, Pete and Em pick through it all. Everyone with bedheads, looking exhausted. But, true to form: Finn is dressed at the door. EXT. RESORT SAFETY OFFICE - DAY A semi-municipal, semi-commercial set of low wooden buildings. There is a red cross on one of the windows. JA 1st 34. Out front, a couple of snow-mobiles and an official yellow * jeep with a resort logo. * INT. RESORT SAFETY OFFICE, ALL PURPOSE AREA - DAY Snow melts on the institutional carpet of the common area, complete with small break room/kitchenette. On four chairs: Billie, Peter, Finn and Emerson in their ski outfits. Two RESCUE TEAM MEMBERS sit at the break table on their phones. The only sound in the space: The twins banging their ski boots together. Clack, clack, clack. After a beat, Billie gently silences them for everyone’s sanity. Suddenly, the door to the outside bursts open. In steps MICHEL , the resort safety chief. He’s an old mountain goat of a man. A bit intimidating. Unshaven. Wind-burnt face, complete with an outline of his sunglasses/goggles. It’s doubtful he believes in sunscreen. He stomps the snow off his boots, staring at our family. Michel has a soft, hushed German exchange with the Team Members. Clearly, they are “filling Michel in” as to the * reason for our family’s presence. ON BILLIE/PETE, having their own hushed English exchange:
+E: 60s
+C: PETE
+D: Please don’t let that be who we have to... Michel looks back over at the family. PETE * Yep. Okay... * BILLIE * Yep. This is our guy. * INT. RESORT SAFETY OFFICE - DAY Michel sits behind his desk. Peter and Billie, opposite him.
+E: CONT’D
+C: PETE
+D: So, we wish to make a complaint.
+C: MICHEL
+D: Yes. Peter stalls a beat. Billie picks up the baton.
+C: BILLIE
+D: About an avalanche that we... That caused alarm yesterday. JA 1st 35.
+C: MICHEL
+D: Yes.
+C: PETER
+D: It was around one fifteen on the-- We were at the, uh...
+C: BILLIE
+D: We were eating outside Wonnealm...
+C: MICHEL
+D: Wonnealm.
+E: pronouncing it correctly
+C: BILLIE
+D: Yes. Wonne-- MICHEL * Wonnealm. * BILLIE * That place. *
+E: not getting it right
+C: PETE
+D: And, there was an avalanche.
+C: MICHEL
+D: The controlled avalanche from Zwolferkoph. Yes. *
+C: BILLIE
+D: Well, you say it was ‘controlled’ but people freaked out. Peter plays the ‘reasonable man’:
+C: PETER
+D: It caused alarm. For sure.
+C: BILLIE
+D: Considerable alarm.
+C: MICHEL
+D: So, you are coming to say you were alarmed?
+C: BILLIE
+D: Considerably. Pete knows he needs agree here.
+C: PETE
+D: ... Considerable. Yes.
+C: MICHEL
+D: But, everyone was safe? JA 1st 36.
+C: BILLIE
+D: Well, we don’t know?
+C: MICHEL
+D: Yes, I can tell you, obviously. Everyone was safe.
+C: PETER
+D: Okay. That’s good. That helps...
+C: BILLIE
+D: Why wasn’t there a warning?
+C: MICHEL
+D: There was a warning, posted at lifts and at hotel receptions.
+C: BILLIE
+D: Well, we didn’t see it. Against his better judgement,...
+C: PETE
+D: ... Well...
+C: BILLIE
+D: No? Is that not correct?
+E: to Pete
+C: PETE
+D: Maybe? I mean, I think... I may have seen something about snow conditions?
+C: MICHEL
+D: Yes. They were everywhere.
+C: BILLIE
+D: So, you saw it? Pete realizes he shouldn’t have gone down this road.
+E: still on Pete
+C: PETE
+D: I don’t... I’m just saying... My point is. The point I’m making... Warning or no warning. Seen it or not. What happened was scary. Pete locks in with Billie: “Correct? Scary?” Pete is trying desperately to get back on the same page. Back to what they already “agreed upon.” Billie “returns” to the task. * JA 1st 37.
+E: Off Billie, confused
+C: BILLIE
+D: Yes, it was scary.
+C: PETE
+D: Right. And, we’d like an acknowledgment that it was handled poorly.
+E: with authority to Michel
+C: MICHEL
+D: It was handled perfectly.
+C: BILLIE
+D: No. No it was not. You can’t tell me that was supposed to go like * that. Snow came and it just -- Snow went over all the plates! Michel lets that hang there a moment.
+C: MICHEL
+D: ‘Snow went over the plates’?
+C: PETER
+D: It was everywhere.
+C: MICHEL
+D: So, you are here alarmed, considerably, about the matter of the snow on your plates?
+C: BILLIE
+D: You know what, this was a big event that traumatized the family. I don’t want to make this a legal matter but,... *
+C: MICHEL
+D: We are not in America where you sue because your coffee is hot, madame...
+C: BILLIE
+D: Screw you. I’m a lawyer. Pete gets up, hoping to calm the situation/end it and shuffle Billie out the door.
+C: PETE
+D: Okay, look, you’ve heard our complaint...
+C: BILLIE
+D: Someone needs to hear it.. JA 1st 38. PETE * And, we’d like a record kept * of it. * I assure you that we’re not * ugly Americans. But, obviously, my wife was shaken- - I had a feeling it was under control-- But, we both wanted to bring this to your attention. And, now we have. BILLIE * And, know I could see you in * court. I mean, I do trademark * law-- And, I love it-- But, * know that there are litagators at my firm. And, * you better believe they will not hesitate to have my back...
+E: then
+C: PETE
+D: Thank you for your time...
+C: BILLIE
+D: A “no thank you” for your time from me. EXT. SKI LIFT - DAY Our family is in line. Billie is still processing what happened in the office. Pete is searching his mind for the right place to start here.
+C: PETE
+D: What a jackass, huh?
+C: BILLIE
+D: ... Yeah.
+C: FINN
+D: Who’s a jackass?
+C: PETE
+D: The man supposedly in charge, that’s who. Billie can’t help but side glance at her husband: “A man supposedly in charge.” Beat of silence.
+C: PETE
+D: ... Yeah. Big jackass. As they scoot up, Billie notices a SIGN near the front of the LIFT LINE. It’s a posting/warning for snow conditions and “controlled avalanche” alert.
+E: CONT’D
+C: BILLIE
+D: Is that the sign you may have seen? JA 1st 39. She doesn’t wait for Pete’s reply. She can guess it. She just scoots up ahead, as we... INT. HOTEL ROOM, MASTER - THAT NIGHT * Billie is asleep. Pete’s side is empty. Through the cracks of * the closed door BATHROOM, we see that the lights are on. INT. BATHROOM - NIGHT - CONTINUOUS This time, Pete is sitting on the toilet on his phone. ON SCREEN. He scrolls through Instagram, liking various people’s photos. He passes by a post for ZACHATTACKSLIFE. * It’s a photo of them on a train. * “Zurich Bound with @RealRosie1” #Switzerland #Train #NoAgenda #LiveYourBestLife #KeepingItRealWithRosie Pete scrolls through the subsequent photos on the same post * that show them having arrived in Zurich, eating outside a cafe, etc.. As Pete “likes” the post,... * THE SCREEN GOES BLACK * SKI DAY 4 INT. HOTEL ROOM - THE NEXT MORNING Billie and Peter are in bed. Both dead asleep. The clock radio reads: “10:27 AM.” Was the clock not set? Sleeping in? ON BILLIE as her eyes, slowly, peel open. Is she sensing * something? She jolts back at the sight of... ON FINN, dressed to go, watching her sleep. She looks at the time. Instant panic.
+E: loaded lid down Yep. Zach’s “handle.”
+C: BILLIE
+D: ... Shit. She rolls over to nudge Pete, noticing that he feel asleep with his phone on his chest. As she gives him a shove awake, we... JA 1st 40. EXT. HOTEL - DAY The family waits out front in ski-gear. Silent and grumpy. *
+C: EMERSON
+D: Where are we going?
+C: PETER
+D: It’s a treat. It’s a Daddy surprise. Should I tell them? Billie is thinking about practicalities. The kids are hungry, whiney.
+C: BILLIE
+D: Should I get us something from the buffet? Peter checks his watch.
+C: PETE
+D: ... We are late...
+C: BILLIE
+D: Maybe fruit? Something? Their CAR is pulled around by a VALET. * PETE * It’ll be fine. Let’s go. * Billie grapples, but goes with no buffet... * EXT. HELICOPTER LANDING AREA - DAY At a small airfield. The SUV arrives, pulling up next to a Heli-Ski company jeep. Another YOUNG COUPLE are waiting in a small helicopter. There’s a PILOT hanging by the chopper. A young HELI SKI * EMPLOYEE approaches with her clipboard.
+C: PETER
+D: Okay, we’re here! Sorry. *
+E: jumping out, eager
+C: HELI SKI EMPLOYEE
+D: The Stantons?
+C: PETER
+D: Uh-huh. Yup. Yes. That’s us. Peter unloads all the equipment. JA 1st 41.
+C: PETE
+D: It’s heli-skiing, guys! Sweet, right?
+E: to Twins
+C: FINN
+D: Yeah! Em seems less enthused.
+C: PETE
+D: Yeah, it’s Daddy’s treat!
+C: EMERSON
+D: ... I’m hungry.
+C: PETE
+D: Once you get in that powder, buddy, you’ll forget about that!
+C: BILLIE
+D: Maybe, they have a protein bar or something.
+E: to Em
+C: HELI SKI EMPLOYEE
+D: They were just about to go.
+C: PETE
+D: Yep. Sorry. We overslept. The chopper blades start going.
+C: BILLIE
+D: Do you have a bar? The Employee does not understand “a bar.” She takes a stab at * an understanding. * HELI SKI EMPLOYEE * ... Uh, yes. This is a seatbelt. * BILLIE * ... What? * HELI SKI EMPLOYEE * What? * With the chopper going, it’s loud. Everyone has to shout. *
+C: HELI SKI EMPLOYEE
+D: We should climb on... JA 1st 42. Pete’s gathering all the equipment up. She doesn’t have to say that twice.
+E: CONT’D
+C: BILLIE
+D: Oh. Okay. Is there a briefing now? * Things we should know...? *
+C: HELI SKI EMPLOYEE
+D: We can do it on the way. *
+C: PETER
+D: Are we good?
+C: EMERSON
+D: ... Where’s my glove? But, no one hears him.
+C: BILLIE
+D: So, we’re just going to...? Is * there not more information? *
+E: to Employee
+C: HELI SKI EMPLOYEE
+D: As in?
+C: BILLIE
+D: What’s going to happen? *
+C: PETE
+D: We’ll get all that on board. *
+C: EMERSON
+D: Mom! I can’t find my glove. *
+E: louder
+C: FINN
+D: Why are you so stupid?
+C: BILLIE
+D: Hey. Uh-uh. No. Come here. * Despite the “urgency,” Billie takes time for a “teachable * moment.” Finn steps over, face-to-face with Em. * BILLIE * * What don’t we do? * FINN * Call people names. * JA 1st 43. BILLIE * Why? * FINN * It’s mean. * BILLIE * So, what do you say now? * Finn looks down at his feet, and utters a soft: * FINN * I’m sorry. * BILLIE * No, you need to look him in the * eye, Finn. Say it loudly and * clearly so that he can hear it. * FINN * * I’m sorry. * Billie is satisfied. The Heli Ski Employee ushers them toward * the chopper. *
+E: mom mode CONT’D to Finn he does
+C: HELI SKI EMPLOYEE
+D: We should go. The weather may change. *
+C: BILLIE
+D: Yeah, hold on. We lost a -- Wait. * Change? To what?
+C: PETE
+D: Let’s do this! “Every day is all we ha--”
+E: an excited child
+C: BILLIE
+D: We lost a glove, Pete. He needs a glove. Change to, what?
+E: to Employee
+C: PETER
+D: There’ll be a spare.
+C: BILLIE
+D: Are there spares?
+E: to Employee
+C: HELI SKI EMPLOYEE
+D: ... I don’t know... JA 1st 44.
+C: PETER
+D: There will be spares, let’s go.
+C: BILLIE
+D: She said she didn’t know...
+C: PETER
+D: He can wear yours.
+C: BILLIE
+D: I’ll get cold Peter. Pete rectifies, immediately. He needs to.
+E: ”what?”
+C: PETER
+D: He can wear mine, we should --
+C: BILLIE
+D: It won’t stay on, Pete-- He motions to the helicopter. The Pilot is motioning them over.
+C: PETER
+D: We can figure it out...
+C: BILLIE
+D: We need gloves. We needed breakfast. * Pete shouts to the Pilot.
+C: PETER
+D: Do you have gloves?! Protein bars?! The Pilot can’t hear. He just holds his hand up to his ear. *
+C: PETE
+D: Billie, this cost a couple of * grand. It’ll be fine, okay? This is * going to be the best, yeah? Pete starts to walk away from them. That visual gets a * visceral reaction from her. She snaps. *
+E: beyond frustrated
+C: BILLIE
+D: No. No Pete. We’re missing a glove, we haven’t had breakfast and there’s something about the weather changing! JA 1st 45. HOLD ON Pete, looking at the family, imploringly. CUT TO: EXT. HELICOPTER LANDING AREA - DAY - MOMENTS LATER The helicopter takes off, leaving a blizzard of snow in its * wake. As the snow settles, we see Peter, Billie, Em and Finn * standing there, watching it leave. * Billie and the kids walk back to the car, as Peter watches the helicopter disappear up, up and away. ON CAR, as they round the back. Billie spots the glove in the snow and just gives it to Emerson. INT. HOTEL RESTAURANT - DAY * The family has a very late breakfast/lunch. Billie * lugs more loaded-up plates from the buffet to the booth. * PETE * Okay! So we still have a whole * afternoon. What do we feel up for? * EMERSON * The beach? * Billie has to laugh. Her son is clever. Pete does, too, but * he stays determined to rescue this day. * PETE * If we gobble all this down, we * could still get in an hour, hour * and a half, on the mountain? * BILLIE * I think we should cut our losses * for today. Maybe, we hunker down * for the afternoon? Build a fire? * S’mores? Play Uno? * Finn and Em approve. * FINN/EM * Yeah! * BILLIE * And, later, you guys can watch a * movie and,... * Her eyes lock in on Pete. * JA 1st 46. BILLIE * We can have some time. * It’s clear what the “time” will be: To talk. Pete puts on a * good face. * PETE * Love that idea. * INT. HOTEL SUITE, COMMON AREA - DAY - LATER * Billie and the Twins are playing Uno. But, no Pete, at the * moment. * INT. BATHROOM - SAME TIME * Pete is back on the toilet on his phone. * ON SCREEN. He’s texting with ZACH: “You sure? Is it cool?” * Pete hovers over the keys, pondering. * As he starts to type: “Totally. Billie would love...” * WE HEAR an OVEN DOOR SLAMMING and... * SMASH CUT TO: * INT. HOTEL ROOM - THAT NIGHT * Billie and Pete are in the KITCHEN, having a very hushed conversation. The stove top is active with a few things cooking.
+E: finally CONT’D lid down
+C: BILLIE
+D: So, they just showed up?
+C: PETE
+D: No, they were nearby. And, actually called...
+C: BILLIE
+D: * They just happened to call? * PETE * * Billie. Yes. They called and... I * didn’t know how to play it on the phone. JA 1st 47.
+E: very suspicious ”why would I lie?”
+C: IN COMMON AREA:
+D: ZACH and ROSIE, sit on the couch, having cocktails. From the KITCHEN, the words are inaudible, but the tone is obvious. And, it’s certainly not fooling Rosie.
+C: ROSIE
+D: Can we help?
+E: pleasant, calling out
+C: IN KITCHEN AREA: PETE
+D: No, we’re good! You guys relax! Billie pops over to the MASTER BEDROOM to shut the door. Inside, we get a glimpse of the Twins sitting on the bed watching a movie. [NOTE: They both have on headphones, listening to the movie.]
+E: overly pleasant
+C: BILLIE
+D: Well, I hope they like garlic bread and kids spaghetti because that’s what I have.
+E: hushed
+C: PETER
+D: I’m sorry. I should have--
+C: BILLIE
+D: Yep. But, now you can’t. So, let’s go offer them gold fish and baby carrots. Billie, in fact, grabs two bowls of those very items. The “appetizers.” * INT. HOTEL ROOM, COMMON AREA - NIGHT - MOMENTS LATER * Billie and Pete join Zach and Rosie.
+C: PETE
+D: So, let’s hear about this trip!
+E: maybe too much
+C: ZACH
+D: From what we remember...? It’s been pretty epic.
+E: laughing
+C: PETE
+D: From what I’ve seen, yeah! JA 1st 48. Pete keeps chiming in, hoping it all stays light.
+C: ROSIE
+D: We’ve hit three countries in four days. It’s insane. Just Tuesday, we were having morning strudel in Dusseldorf and by that afternoon, we’re hiking along the Rhine River in France.
+C: ZACH
+D: And, there may have been some shrooms on one or all of those days.
+C: PETE
+D: You have to. Billie can’t help but furrow her brow: “Really, Pete?”
+C: ZACH
+D: Yeah, there’s something about sporting backpacks-- Strangers just want to give you things...
+C: ROSIE
+D: And, talk to you. They’re all about your business. Where you came from. Where you’re headed. Who you are * and what you do. * It’s been fun to fuck with people. * Make up shit about ourselves. *
+E: laughs
+C: ZACH
+D: * Did you know I’m an archeologist? Heading on a dig?
+E: to Pete, jokingly
+C: PETE
+D: You didn’t. Billie’s eyes can’t roll back far enough. *
+C: ZACH
+D: We just made a decision. Our lives at home are complicated enough. This doesn’t need to be.
+C: PETE
+D: Hashtag no agenda. Yeah, we love that. JA 1st 49.
+C: ZACH
+D: We didn’t even know what tonight would be. Then, you texted. Now we’re here. Shit. Billie shoots a glance at Pete. “Unbelievable.” Why should she be surprised?
+C: ZACH
+D: We don’t even have return tickets? Who knows what’s next?
+E: CONT’D
+C: BILLIE
+D: You kind of do. Work on Monday.
+C: ZACH
+D: No, yeah. We’ll get flights home.
+C: BILLIE
+D: That’s going to be an expensive “What’s next?” Swigs wine. Air out of fun.
+C: ROSIE
+D: ... So, you guys been getting in some good ski days?
+C: PETE
+D: Oh, yeah. Good. Great days. Pete can feel Billie’s expression. “Are you telling them or am I?” Pete attempts to get a head of it. *
+E: and see
+C: PETER
+D: I mean, we did have one incident * that was unnerving. But, we got * over that and now we’re having a great time. Zach wants to nod past the difficulty, but... *
+C: ROSIE
+D: Oh, okay? Was it...? * Zach looks like, “Shall we leave it?” *
+C: PETER
+D: It was just an event we came through was all. Zach can feel the social temperature change and tries to ease things along. JA 1st 50.
+C: ZACH
+D: It’s good to come through events, isn’t it?
+C: PETER
+D: That’s right. We’re good now. It was nothing. Peter’s pushed it too far for Billie.
+C: BILLIE
+D: It wasn’t nothing.
+C: PETER
+D: Oh sure. No, that’s the wrong word.
+C: BILLIE
+D: It was something.
+C: PETER
+D: No, yeah. Billie locks in with Zach and Rosie. She tells the story. In complete control.
+C: BILLIE
+D: We were outside at a restaurant and there was a bang. And, suddenly this wall of snow was rumbling down the mountain. And, it did not look like it was going to stop. It looked like it going to kill us...
+C: ROSIE
+D: Jesus...
+C: PETE
+D: For a moment,...
+C: BILLIE
+D: No. No. Billie is not asking to tell this story together. Pete concedes the floor. For now.
+C: BILLIE
+D: And, it wasn’t just us that felt this way. People were getting up, screaming. And, I screamed. And the kids screamed. And, it felt like this was it. We were going to die. I looked at Peter. And, he had jumped up and grabbed his phone. Gone. Pete ran. Pete left us. JA 1st 51. I guess in his mind he left us there to get buried because he could make it away and we’re too far away or on the other side or... * I don’t know. And so, we just * stayed there and I put my arm * around our sons and I waited for a * moment. I waited for us to die * together. And then, bang. * I’m still there. And the kids stop screaming. And we realize, we’re * okay. And then, Peter comes back * and we just... we just have soup. * Silence. Billie and Pete just stay locked on each other. Who * goes next? There’s an air to Pete. A man holding strong. In his head, spinning for sure. A man who knows he’s on trial. His manhood, questioned. Rosie doesn’t hesitate to support and recognize Billie’s experience.
+E: CONT’D MORE beat
+C: ROSIE
+D: That’s intense.
+C: BILLIE
+D: Yeah. Rosie joins Billie in her look to Pete. She’s curious how Pete could have done that. Zach, on the other hand, is trying to defuse.
+C: ZACH
+D: Wow. Yeah, that’s... I guess, there * are... You know, when something like that happens, it can be, it can be like a survival reaction? Zach looks to Peter: “Yeah?” But, Pete is focused on Billie still. Is he plotting a defense? Zach answers his own question.
+C: ZACH
+D: It’s almost like... You know when a snail or something goes into it’s shell? It’s an instinct...? Pete settles on his next move:
+E: CONT’D
+C: PETER
+D: How could I even have possibly run away?
+C: BILLIE
+D: ... What? JA 1st 52.
+C: BILLIE PETER
+D: In ski boots? It’s not even credible. Can you run in ski boots?
+E: CONT’D
+C: BILLIE
+D: ... What?
+C: PETER
+D: Zach, can you run in ski boots?
+C: ZACH
+D: ... Um... ?
+C: BILLIE
+D: Fine. “Clomp away.” “Walk, briskly...”
+C: PETER
+D: You said “run.” Rosie, can you run in ski boots?
+C: ROSIE
+D: I don’t... Not very...?
+C: PETER
+D: Boom. Exactly...
+C: ROSIE
+D: Regardless-- I wouldn’t, like, leave my family to die?
+C: BILLIE
+D: * That’s “boom exactly...” *
+E: pointing at Rosie
+C: PETER
+D: No, nor would I. And, I * didn’t. *
+C: ROSIE
+D: It’s just she said you did?
+E: CONT’D
+C: BILLIE
+D: He did.
+C: PETER
+D: Oh, for fuck’s sake, Billie. Why are you..? And, I didn’t leave you to be buried...
+C: BILLIE
+D: I don’t know...
+C: PETER
+D: I do! I was there. And, I saw it differently. JA 1st 53.
+C: BILLIE
+D: Great. Tell me what happened, differently!
+C: PETER
+D: There was the snow coming. Almost * like an avalanche... *
+C: BILLIE
+D: Oh my-- Now, it’s not even a avalanche?! Pete powers on.
+C: PETE
+D: I checked you guys, visually. And, once it was clear that it was going to be okay, I went to get help. For the aftermath.
+C: BILLIE
+D: That doesn’t even make sense! You knew it was okay? So, you went to get help?
+C: PETER
+D: It was all very confusing. Everything happened fast. BUT, I checked you were going to be okay and I went to get help.
+C: BILLIE
+D: That’s not what happened.
+C: PETER
+D: I can accept your version of the truth Billie, why can’t you accept mine?
+C: BILLIE
+D: Simple. Mine is true. And, not dumb.
+C: PETER
+D: Well, you weren’t there with me.
+C: BILLIE
+D: No! I was at the table. With our sons!
+C: PETER
+D: I love that you are making me say that what happened for you, happened for me. JA 1st 54. Billie is beside herself. She heads out of the room. Focus falls on Zach, who is looking for a way to say something. He * comes up with: *
+C: ZACH
+D: ... This is very difficult. Met with silence.
+C: ZACH
+D: You know a lot of times people * involved in road traffic accidents get things totally wrong...
+E: CONT’D
+C: ROSIE
+D: Stop pitching theories. Billie returns, holding the hands of the twins, who have * their headphones round their necks. *
+C: BILLIE
+D: I’m sorry kids, but just one question.
+C: PETER
+D: Billie? No, no. The kids are surprised to be in the adult arena, on show.
+C: BILLIE
+D: We were just telling our friends about how we were having lunch, remember? And, there was the avalanche coming? What did Mom and Dad do? The Twins hesitate.
+C: BILLIE
+D: You can say. It’s for the story. They wanted to hear. They can say right, Peter? Peter is acting as if she’s gone over the edge: “I give up.” *
+E: CONT’D
+C: PETER
+D: Sure.
+C: BILLIE
+D: The truth. Emerson looks at the floor. JA 1st 55.
+C: EMERSON
+D: -- Um, -- Dad ran away. Billie acts lightly, jolly, like this is all a game:
+C: BILLIE
+D: Heheh. Yeah, okay, is that how you remember it Finn?
+C: FINN
+D: Uh-huh.
+C: BILLIE
+D: Okay, well let’s get you back to the movie! Peter just sits there as Rosie and Zach look uncomfortable. Painful beat. Zach tries to ease.
+C: ZACH
+D: ... They’re such great kids. Billie returns.
+C: PETER
+D: Are they okay?
+C: BILLIE
+D: Of course, they’re okay.
+C: PETER
+D: You might have traumatised them, you know that?
+C: BILLIE
+D: Oh, I traumatised them?
+C: PETER
+D: You care about being right so fucking much, don’t you? *
+C: BILLIE
+D: I just want to get things straight.
+C: PETER
+D: No, you want to get them “right.” You’re “right.” Well, I guess, Billie’s right. So, congratulations, Billie! You win. Come on, everyone, give her a round of fucking applause. Billie’s won, again!! JA 1st 56. Peter starts to clap and stands up. Zach smiles, tightly. He * can think of literally nothing to try to make things better. HOWEVER, he opens his mouth, as if to speak and... *
+C: ROSIE
+D: There is nothing you need to say here. INT. HOTEL SUITE, TWINS’ ROOM - NIGHT Billie sleeps, cuddled up to Em and Finn. WE HEAR the muffled sound of TV emanating from another part of the suite. INT. HOTEL SUITE, MASTER - NIGHT - SAME TIME Peter is drinking a beer, cross legged, mindlessly watching an episode of “Murder, She Wrote” in German. SKI DAY 4 INT. HOTEL SUITE, MASTER - THE NEXT MORNING CLOSE ON ALARM. It turns from 6:59 to 7:00. BUZZZZ! A HAND * comes into frame, shutting it off. * REVEAL Billie, her hand on the alarm, standing by Pete’s side * of the bed. Pete wakes up. * BILLIE * I’m going to take a solo day.
+E: under breath Or, some other * cleared show, current or old. Whatever it is, it’s dubbed * over.
+C: PETE
+D: ... Oh okay...
+C: BILLIE
+D: You and the boys can have an * adventure.
+C: PETE
+D: Yeah. Great. Maybe, we’ll cross * paths on the mountain? * BILLIE * Actually, I saw a leaflet for those alpine rail slides. The boys might * enjoy them. They have them over at * the family resort. The one just * “minutes of 20” from here? * JA 1st 57. Billie has a shit-eating grin focused on Pete. Does she suspect he knew of the family resort’s existence? * PETE * ... Yeah. Love that idea. * As she crosses off, we... * INT. SKI HIRE SHOP, LOCKERS - DAY Billie is starting her “solo day,” putting on her uncomfortable boots. She snaps them into place, wincing, as she watches a couple of YOUNG GUYS renting out equipment. One well-built SKI SHOP EMPLOYEE is grabbing a couple snowboards from up-high, exposing his wash-board stomach.
+C: CHARLOTTE
+D: Getting an eyeful? Charlotte is there, smiling insinuatingly. [NOTE: Charlotte looks dressed for skiing, but there will be no presence of actual ski equipment throughout the following exchange.]
+E: O.S.
+C: BILLIE
+D: Oh. No, I was just-- No. Billie grabs her stuff and heads to the exit. Charlotte follows.
+C: CHARLOTTE
+D: So. Where is your team?
+C: BILLIE
+D: Oh, I just felt like a solo day.
+C: CHARLOTTE
+D: Yes. Good. Adventure just for you.
+C: BILLIE
+D: ... Yes. Okay. Adventure. Charlotte smiles, knowingly.
+C: CHARLOTTE
+D: And, fun. Yes? Fun just for you. Charlotte nods, as if they are definitely on the same page. Billie has no idea what page that is, but she nods if only to complete the moment.
+C: BILLIE
+D: ... Okay, well... JA 1st 58. Charlotte holds the door open for Billie and continues with her. Guess the moment is not “completed.” EXT. TUNNEL - DAY Billie steps onto the MOVING WALKWAY. Charlotte follows, studying Billie. Once again, Billie tries to get a precise fix on this woman:
+C: BILLIE
+D: Are you heading this way to get to your job as...?
+C: CHARLOTTE
+D: I’m interested, your boys: naturally conceived, or in vitro fertilization?
+C: BILLIE
+D: Oh - um. Okay.
+C: CHARLOTTE
+D: I have a friend and she was thinking about it. I apologize if for you it’s very --
+C: BILLIE
+D: No. No. It’s personal, yes. But, I don’t actually mind talking about it.
+C: CHARLOTTE
+D: Because they’re twins and you are very old, yes?
+C: BILLIE
+D: Well, at the time--
+C: CHARLOTTE
+D: They are ten, no? So, still--
+C: BILLIE
+D: Yes. Okay. Yes, correct. We * considered a surrogate but in the end, yeah, it worked out with the help of a clinic. So, yeah... This seems slow. Billie opts to walk on the walkway and pick up the pace of all of this. Charlotte stays right with her. JA 1st 59.
+E: off walkway
+C: CHARLOTTE
+D: And was it okay? Or, lots of heartbreak?
+C: BILLIE
+D: Oh, you know, okay. Then, heartbreak. Then okay. It was everything. It was hard. But, I kind of just gritted my teeth.
+C: CHARLOTTE
+D: Yes. You’re strong.
+C: BILLIE
+D: ... Maybe.
+C: CHARLOTTE
+D: No. Charlotte actually grabs Billie’s arm and gazes right at her.
+C: CHARLOTTE
+D: You are strong. Billie nods. But, Charlotte just holds her stare. Relentless.
+E: CONT’D
+C: BILLIE
+D: Yeah, no, I know that... I am strong. Charlotte smiles. Approving. Billie: “Wtf?” * EXT. SKI LIFT - DAY Billie plops her skis down in the snow, just shy of the long line for the lift.
+E: conceding
+C: BILLIE
+D: Okay, well, I’m where I wanted to get to, so thank you...
+C: CHARLOTTE
+D: No, no. This wait is not for you. Charlotte holds up the divider rope, indicating to Billie to skip the line. Billie picks her skis back up, as we... EXT. SKI GONDOLA - DAY Billie places her skis in the gondola holders herself. JA 1st 60.
+C: BILLIE
+D: Okay, well, now I’m where I wanted-- Thank you for... Charlotte shuttles Billie on...
+C: CHARLOTTE
+D: Adventure, yes? Now. Fun? Jeez. She will not let this go.
+C: BILLIE
+D: Yes. All that. Just for me. Unbeknownst to Billie, Charlotte waves to a young ski instructor, MAROUANE. He waves back and steps onto the gondola behind them. Then, Charlotte boards with Billie. What is happening? INT. GONDOLA - DAY Billie and Charlotte ride up. There’s a decent-sized group of SENIOR SKIERS on board. From the sound of them, they are all Austrian.
+C: CHARLOTTE
+D: So, can I ask you... Have you had a varied life of sexual experience?
+C: BILLIE
+D: ... I’m sorry? Have I--? CHARLOTTE * Have you had a varied life of * sexual---? * BILLIE * No, I’m not asking so you’ll * repeat it--- * Billie glances at the Senior Skiers, self-conscious.
+C: CHARLOTTE
+D: At that age, they rarely bother with English. It seems true, at this moment. None of them are paying attention, involved in their own conversations. And, all in German. *
+E: re: Skiers
+C: BILLIE
+D: Boy, you just get right in there, don’t you? JA 1st 61.
+E: scoffing, “unbelievable”
+C: CHARLOTTE
+D: I’m sorry, it’s just - I don’t like so much bullshit all the time. For the first time, Billie really hears something from Charlotte that resonates for her.
+C: CHARLOTTE
+D: I don’t see the point of bullshit.
+E: CONT’D
+C: BILLIE
+D: ... No yeah. I don’t like so much bullshit. No, that’s good.
+C: CHARLOTTE
+D: You just seem to me, like...
+C: BILLIE
+D: What? A “one man” woman? Charlotte’s silence tells her the answer:
+C: BILLIE
+D: Well, you’d be surprised. I know my way around the - She gestures a “dick.” Charlotte doesn’t seem convinced. Yet.
+E: CONT’D
+C: BILLIE
+D: In college, I did my fair share of, you know,... A bad gesture of a “blow job.” A short, BURST OF LAUGHTER * emanates from somewhere in the gondola. Billie glances over * wondering if someone caught that/understood. But, nope. All * of them are still in their own German worlds. *
+E: CONT’D
+C: CHARLOTTE
+D: I don’t like to perform that.
+C: BILLIE
+D: Well, no one likes it. *
+C: CHARLOTTE
+D: So, why do you do it? *
+E: dead serious
+C: BILLIE
+D: No, I’m kidding. I like it. I mean, * I don’t LOVE it. It’s fine. JA 1st 62.
+C: CHARLOTTE
+D: I just tend to only do what I like. I masturbate. Every day. Because, that’s for me...
+C: BILLIE
+D: And, having sex with guests, I guess...?
+E: half joking/half wondering
+C: CHARLOTTE
+D: Yes. That is very for me. *
+C: BILLIE
+D: But, you’re married, right? * Charlotte’s ring is there on her finger. She nods.
+C: BILLIE
+D: So, how does that work for you? * With everything? With Mr. Charlie and other “guy friends?” *
+E: CONT’D
+C: CHARLOTTE
+D: Easy. I work the winters here. In the summer, my husband and I have our farm. What I eat, doesn’t make him shit.
+C: BILLIE
+D: Oh, okay?
+C: CHARLOTTE
+D: I think that is a beautiful phrase.
+C: BILLIE
+D: ... No, yeah. Absolutely. * * But, will you tell your husband about...?
+E: ”Is it?” then
+C: CHARLOTTE
+D: Can we shake hands? Charlotte holds out her hand. Billie, apprehensive, shakes.
+C: CHARLOTTE
+D: Now, will I tell my husband about that? Will you? Should we? Our bodies touched. We have a little intimacy. JA 1st 63.
+E: CONT’D
+C: BILLIE
+D: Well, that’s not exactly... *
+C: CHARLOTTE
+D: Why is there this absurdity if * these two parts of our bodies touch? No big deal. But, the other ones. * No! The bodies touched! The special * parts! Oh my goodness, what shall we do! God is angry in his heaven! The marriage must be over, the special parts have rubbed! It’s superstition.
+E: waves hand she mimics huge shock the slightly alarming act is over
+C: BILLIE
+D: Well, shaking hands can’t make babies, whereas --
+C: CHARLOTTE
+D: Oh please. Sex doesn’t need to make babies and you don’t need sex to make babies. So. Shall we all move on now? Please? They’re approaching the top of the gondola.
+C: BILLIE
+D: No. Sure. I’m just not convinced it’s as easy as you make it out. Isn’t your arrangement, complicated?
+C: CHARLOTTE
+D: Isn’t everything?
+C: BILLIE
+D: I guess I just feel, a relationship, it’s-- What is it, but kind of a story? And, it’s important you’re both in the same one, right?
+C: CHARLOTTE
+D: I guess I make my own story.
+C: BILLIE
+D: ... But, are you happy? JA 1st 64.
+C: CHARLOTTE
+D: Yes. Very. Are you?
+C: BILLIE
+D: ... Yes. Yeah. Yeah. Yes. I’d say yes.
+C: CHARLOTTE
+D: So, good. You have your story the * way you want it. And, I have mine. Yes? Billie thinks a little too long about this. Which, might surprise her, too.
+C: BILLIE
+D: ... Yes. They have arrived at the top. The Senior Skiers and Billie step off, grabbing their skis. But, Charlotte stays on. ON MAROUNE, getting off the next gondola.
+C: CHARLOTTE
+D: Okay. Now. Maroune will be your instructor. *
+E: waving him over
+C: BILLIE
+D: --Wait. Who will be my what--? Charlotte just winks as she travels away in the gondola.
+C: SENIOR FEMALE SKIER
+D: * I like to perform it. And, on him, * I would. * Yep. At least, she understood everything. As Maroune * approaches, all sexy smile, we... * EXT. ALPINE RAIL SLIDE - DAY The SUV pulls into the lot. Unlike where the family has been staying, this place is flooded with FAMILIES WITH KIDS. The whole vibe feels different. Definitely, with kids in mind. In fact, all the signage includes, “Berta the Cow,” the resort mascot. Yep. A cow. JA 1st 65. EXT. ALPINE RAIL SLIDE - DAY Em, Finn and Pete are all in their individual slide cars. An ALPINE SLIDE EMPLOYEE works her way along them, checking that they each know how to operate the hand brake.
+E: to Billie, Austrian * accent in that order
+C: ALPINE SLIDE EMPLOYEE
+D: Forward to go. Em pushes the handle forward to show he understands.
+E: to Em
+C: ALPINE SLIDE EMPLOYEE
+D: Back to brake. Em shows her that. The Alpine Slide Employee gives Em a “thumbs up” and points to a security camera pointed at them. Clearly, for confirmation that they understood about safety. Em gives a “thumbs up.” The Alpine Slide Employee moves back to Finn and goes through the same instructions, then to Pete.
+E: CONT’D
+C: ALPINE SLIDE EMPLOYEE
+D: Forward to go. Pete does.
+E: CONT’D to Pete
+C: ALPINE SLIDE EMPLOYEE
+D: Back to brake.
+E: CONT’D
+C: PETE
+D: Won’t be needing to.
+E: jokingly
+C: ALPINE SLIDE EMPLOYEE
+D: Back to brake. Pete eats crow and shows that he understands, as we... EXT. TOP OF MOUNTAIN - DAY We’re back with Billie and Marouane, who it turns out, is very French. They stand at the precipice of a slope.
+E: not having it
+C: MAROUANE
+D: So, first thing of instruction. * Coffee! JA 1st 66.
+C: BILLIE
+D: To be honest,... Ma-ROON-ON
+E: pronounced wrong
+C: MAROUANE
+D: Marouane.
+C: BILLIE
+D: Mar-OO-NON
+C: MAROUANE
+D: Marouane. Like, marijuana, without the ‘a’. Marijuan-a. Marouane? Billie carefully says “Marijuana” and conscientiously stops before the “a.”
+C: BILLIE
+D: To be honest, Marijuan... I didn’t ask for a, uh-- I’m actually a pretty decent skier.
+C: MAROUANE
+D: Why stop at decent? There’s better than decent? He pulls a thermos from his knapsack.
+C: MAROUANE
+D: See? Coffee. Decent. Then, he pulls out a flask.
+E: CONT’D displaying
+C: MAROUANE
+D: Alpine coffee. Better, no? Billie considers. *
+E: CONT’D
+C: BILLIE
+D: Okay, yeah. Why not? I can be more than decent. He adds a healthy pour of the flask into her coffee.
+C: BILLIE
+D: Oh. Okay. A lot more than decent. He winks at her, as she “bottom’s ups.” JA 1st 67. EXT. ALPINE RAIL SLIDE - DAY Finn, Em, and Pete ascend the mountain, spaced a good * distance apart. ON PETE, as we watches SKIERS whisk by. A hint of “I wish I was doing that” is undeniable. LATER - They make it to the top and, one by one, descend. ON EM. Contrary to skiing, Em appears not to be afraid of speed on the slide. He’s an expert at navigating the curves. This is his thing. ON FINN. He’s more hesitant, riding the brake. His pace is much slower. ON PETE. True to form, he’s all speed. PETE’S POV of Finn, up ahead. He’s gaining on him.
+E: CONT’D It operates much like a “roller coaster,” pulling you up to the top on the track.
+C: BACK TO SCENE. PETE
+D: I’m coming for you, Finn! As he gets closer,...
+E: joking
+C: PETE
+D: Ease up on the break, buddy. It’s fun! ON FINN. He does, speeding up a little.
+E: CONT’D
+C: PETE
+D: There you go! BACK WITH EM, having the time of his life. While fast, Em is being responsible about his brake. Safe. He passes a CAMERA BOX that snaps photos for purchase as you pass by. BACK WITH FINN. He’s coming up on a sharp curve. He brakes a good bit. ON PETE, pulling his brake, but fast approaching.
+E: CONT’D
+C: PETE
+D: Alright, I’m gonna tap you!
+E: CONT’D jokingly
+C: FINN
+D: Don’t. JA 1st 68.
+C: PETE
+D: What?
+E: doesn’t hear him
+C: FINN
+D: Don’t! But, he does. Not a slam, by any means. Truly a tap, but it does jolt Finn. ON CAMERA BOX, flashing a photo of that moment. EXT. ALPINE RAIL SLIDE - DAY - A LITTLE LATER Post ride. CAMERA HOLDS ON Finn and Em, standing near the entrance. Each has a PHOTO. Em’s photo is of him beaming on * the ride. Finn’s is of Pete bumping into him. Behind them, in the distance and out of earshot, is Pete with an ALPINE SLIDE EMPLOYEE. We can’t hear them, but it’s pretty * clear Pete is being reprimanded. After the “reprimand,” Pete approaches.
+C: EMERSON
+D: Did you get kicked out?
+C: PETE
+D: No. I just thought we’d, you * know,... do other things. *
+E: ”yes”
+C: EMERSON
+D: Because, you got kicked out? EXT. SLOPES - DAY Billie is having a great run. She seems very relaxed. Marouane follows closely behind, encouraging and instructing. They get to a stopping point.
+C: MAROUANE
+D: Nice!
+C: BILLIE
+D: Whoa. That felt so different.
+C: MAROUANE
+D: Yes because you leaned into it. With confidence. Just flow. No need to work so hard. JA 1st 69. Billie likes that. “No need to work so hard.”
+C: MAROUANE
+D: Now, you tackle this. Below, a good stretch of pronounced moguls.
+E: CONT’D pointing down slope
+C: BILLIE
+D: Oh, I can’t do moguls. I know that. Marouane is not having it. Presents her with the flask.
+C: BILLIE
+D: So, just “alpine” now. No coffee?
+E: CONT’D laughing
+C: MAROUANE
+D: Decent. Better. Best. Billie takes a huge swig off the flask.
+E: sexy fucking smile indicating flask
+C: MAROUANE
+D: Do like faster? Or slower? Billie is confused.
+E: CONT’D
+C: MAROUANE
+D: Do you want to go faster or slower?
+E: CONT’D re: moguls/slope
+C: BILLIE
+D: ... Faster. Maroune steps up behind Billie, perhaps a bit too close, but not invasive.
+C: MAROUANE
+D: Hands out in front. Find a line and narrow your stance and go around each bump. Not over. Maintain a steady rhythm.
+E: pointing at slope
+C: BILLIE
+D: Maybe, I just follow you...?
+E: little overwhelmed
+C: MAROUANE
+D: No. Find a line. Steady rhythm. Do not look back. I will be there. JA 1st 70. Billie exhales, prepares. She takes off. It’s wonky, but she finds a line. As Marouane follows, shouting instructions, we... INT. FAMILY RESORT RESTAURANT - DAY The Twins are having hot cocoa and snacks. Again, the vibe is different. FAMILIES everywhere. A costumed version of “Berta The Cow” roams the room, taking photos with guests. Pete approaches with a resort pamphlet.
+C: PETE
+D: Alright, let’s see what we can get into here. Ski, obviously. Right? We can ski. Ski park. Pete glances up, slightly. He’s hoping the boys perked up to those options. Nope. He keeps reading. *
+C: PETE
+D: What else? There’s a toboggan run. * Arcade. Indoor mini golf. Indoor waterpark? Pete starts perusing options, silently. Probably, to avoid * the evidence that this place is awesome.
+E: CONT’D actually surprised
+C: PETE
+D: Okay. Yeah. A good amount of stuff. What are we thinking? But, the boys are silent.
+E: CONT’D
+C: PETE
+D: What’s wrong? Something on your minds? Em and Finn stall, looking at one another.
+E: CONT’D
+C: PETE
+D: You can tell me anything.
+E: CONT’D
+C: EMERSON
+D: You don’t seem like you’re having fun? A dagger to his heart. Riddled with a guilty feeling.
+C: PETE
+D: ... What? Why would you think--? JA 1st 71. FINN * Do you want to be here? * PETE * What? Of course-- Guys. Listen to * me. I love being with you. More than anything. You know that, right? The boys are give nothing at first. And then, just shrugs. They aren’t sure. Brutal.
+C: PETE
+D: Is this about the slide? Daddy did * get kicked off. But, because Daddy * was having too much fun. * Nope. That doesn’t seem to be it. * PETE * Is this about yesterday? The * helicopter? I just wanted that for all of us. I messed that up. I overslept. And, we should have had food. Is that what makes you think that I’m not having fun? * Em and Finn look at each other, again. Clearly, it’s because of something else. But, maybe they don’t want to say? Pete * fears the worst: the avalanche.
+E: CONT’D CONT’D
+C: PETE
+D: I love you two. So much. I’ve just been-- Pete avoids “an excuse.”
+E: CONT’D
+C: PETE
+D: Let’s finish this day, right. Just us boys. What are you thinking? Pete slides the resort pamphlet in front of them. They glance for a beat. But, then...
+E: CONT’D
+C: FINN
+D: Can we have screen time? Back at our hotel? Pete flashes a big smile, hiding his stress.
+C: PETE
+D: ... Yeah. Absolutely. JA 1st 72. EXT. SKI WARMING HUT - DAY Billie descends more moguls, pretty expertly. Marouane right behind. She comes to a stop, exuberant. She’s breathing pretty hard.
+C: BILLIE
+D: That’s a lot of work.
+C: MAROUANE
+D: But, good, yes?
+C: BILLIE
+D: No, yeah. Worth it. Billie is definitely winded.
+C: MAROUANE
+D: Let us rest, yes? Warm up? And then, go again? Off Billie’s nod, Marouane skis toward the WARMING HUT, as we... INT. SKI WARMING HUT - DAY - MOMENTS LATER Marouane lights an oil heater. Billie can’t help but eye the smooth back of Marouane’s neck. His back is spectacular, too. A specimen. The light is flattering and cozy over the bare room: Water; supplies; sleeping bags rolled up; emergency equipment; table and chairs.
+C: MAROUANE
+D: How do your calves feel?
+C: BILLIE
+D: Oh, I can feel them alright.
+C: MAROUANE
+D: You might want to... For ten minutes or so? He’s taking his ski boots off. Billie starts to pull her feet out of her boots.
+C: MAROUANE
+D: It can burn here, no?
+E: CONT’D slapping his thighs
+C: BILLIE
+D: Oh yeah. Yup. JA 1st 73.
+C: MAROUANE
+D: Sometimes I can give people, just on the calves or something, a rub?
+C: BILLIE
+D: Oh. Sometimes you can do that, can you?
+E: wry
+C: MAROUANE
+D: Yeah. That’s something I do. Marouane kneels to rub her calf.
+C: MAROUANE
+D: Yes? Just to relax out those muscles a little. It’s recommended.
+E: CONT’D
+C: BILLIE
+D: Oh well, if it’s “recommended.” He rubs gently, but firmly. More sports massage than sensual * come-on. Not too much.
+C: MAROUANE
+D: Uh-huh?
+C: BILLIE
+D: Uh-huh. Um. That’s. Yeah. Uh-huh. As he rubs, keeping his hand below her knee, Marouane seems to be studying her.
+C: MAROUANE
+D: So, I’m curious. Who is Billie? Billie scoffs. Is that a line?
+C: BILLIE
+D: ... What?
+C: MAROUANE
+D: Why is that silly? To want to know?
+C: BILLIE
+D: It just sounds like a, uh... I mean, “Who?” How do you even answer...?
+C: MAROUANE
+D: I am very confident, but never afraid to admit when I am wrong. I tend to fall in love too fast. JA 1st 74. And, heal too slow. I love to paint. And, I’m good at it. However, I cannot sing. But, that does not stop me from doing it everyday. He heads up a bit higher, up above the knee, massaging the front of her thighs. She shifts her body subtly to let him know it’s okay.
+E: without missing a beat MORE
+C: MAROUANE
+D: Skiing is a passion, yes, but teaching feeds my soul. To witness someone surprise themselves. I live for that. And, I am the only child of a single mom and she is my hero. He lets that sit, then...
+E: CONT’D
+C: MAROUANE
+D: That is how I answer. Billie is flush. Her heart racing. He moves up higher, massaging with his thumbs, up towards her inner thighs. It feels good.
+E: CONT’D
+C: MAROUANE
+D: Uh-huh?
+E: CONT’D
+C: BILLIE
+D: Uh-huh.
+C: MAROUANE
+D: You do not need to share with me who you are, Billie. But, you must promise me. Marouane locks in, holding Billie’s gaze. His eyes stare right at her lips.
+C: MAROUANE
+D: You must promise that you will * never find it silly when people want to make it about you. And, with that, a kiss. A perfect kiss, but not lustful. The kiss breaks. Marouane holds his gaze and slides his hand up her body. But, Billie stops him.
+E: CONT’D
+C: BILLIE
+D: Thank you. But, that’s where this ends. Marouane does not hesitate. He respects that. Backs off. JA 1st 75.
+C: MAROUANE MAROUANE
+D: I apologize if I...
+E: CONT'D
+C: BILLIE
+D: No. I did what I wanted to do. And now, I want to ski. She starts to collect her things.
+C: BILLIE
+D: But, make no mistake, I could fuck you right through that wall. If I wanted. But, I don’t. And, I wouldn’t. That much I know about me. INT. SUV - DAY Pete drives in silence. The boys in the back. Pete glances in * the rearview, pondering. He needs to get back some “love.”
+E: CONT’D
+C: PETE
+D: Hey, guys. The bidet-- The European thing-- You know what that’s really for? The shake their heads.
+C: PETE
+D: Cleaning your butt. They perk up, looking at one another. Is he kidding?
+E: CONT’D
+C: PETE
+D: Yeah. It sprays water up and, uh... Pete decides to double down on “cool points.”
+E: CONT’D
+C: PETE
+D: Yeah. It cleans the shit out of your butthole. The boys are a mixture of shock and joy.
+E: CONT’D
+C: FINN
+D: Are you serious?
+C: PETE
+D: Yep. Mom said “feet,” but after you take a dump, it’s to clean your butthole. JA 1st 76. A giggle fit begins. The mood shifts. Pete feels better, but * thinks to be smart and safe... * PETE * But, no hijinx now that you know. * EXT. WOODS - DAY Billie squats in a little copse of fir trees, taking a piss. She looks through the trees to where Marouane waits, leaning on his poles, staring the other way out and down into the valley. She’s happy. Proud. Relaxed. Over this image, WE HEAR: CLOMP CLOMP CLOMP, as we... INT. HOTEL RECEPTION - DAY Billie heads across reception. Clomping in her ski boots. A woman on a mission. She heads into the...
+E: CONT’D
+C: RESTROOM.
+D: INT. REST ROOM - DAY - CONTINUOUS She clomps straight into a STALL. From the looks of it, she’s alone. Even if she wasn’t, she wouldn’t seem to mind. IN STALL. She has it in mind to masturbate. What starts as confidence slowly evolves into awkwardness as: - She pulls off her gloves and lowers the zipper on her ski suit. But, her jacket is bulky. Need to lose that. - Her goggles and helmet clatter to the floor. - She tries sitting on the toilet, trying to get her hand in her pants. But, still too many layers. - She stands, navigating zippers and straps. Tangled. OFF SCREEN, “someone” enters. More CLOMPING boots. Billie freezes. The FAUCET comes on. Whoever it is, is washing her hands. Then, the powerful AIR DRYER comes on. Nice cover for Billie. - She leans back against the door, putting a foot up on the toilet. Success. An angle. Just as she “begins,...” JA 1st 77. THE LATCH GIVES. She falls back onto the floor. Disheveled but not indecent. Our BATHROOM WOMAN stands at the air dryer, perplexed. Billie starts to collect herself and things, as...
+C: BILLIE
+D: I, uh, had a problem in there. I think I just... I think it was just one of those classic times when your contact pops out and, uh... Yeah I bent over and blacked out when I stood up too fast. So,... She trails off. The moment lingers a bit until...
+C: BILLIE
+D: Yeah, we don’t have to... This doesn’t need to continue... The Bathroom Woman goes back to air drying her hands. * INT. HOTEL SUITE, BATHROOM - THAT NIGHT * Billie and Pete are at the dual sinks, separated by the * mirror. Plenty of tension. Mostly, felt by Pete. * PETE * ... How was your solo day? * BILLIE * Great. Yeah. It was great. * PETE * That’s awesome. * Pete assumes she will reciprocate. Long beat. Nope. So,... * PETE * Me and the boys had fun. * BILLIE * Good. * PETE * Yeah, we hit the slide for a good * while. * BILLIE * Until you got kicked off? * Doh. As she heads out, we... * JA 1st 78. INT. HOTEL SUITE, MASTER - NIGHT - MOMENTS LATER * Pete emerges from the bathroom. No Billie. Guess she’s not * sleeping there, again. Resigned, Pete heads to his side of * the bed, as... * THE SCREEN GOES BLACK * SKI DAY 5 * INT. HOTEL SUITE, MASTER - MORNING
+E: CONT’D clears throat CONT’D
+C: QUICK IMAGES OF:
+D: - Alarm goes off. “Pete’s” hand shuts it off. - The room is dark. Pete sits on the side of his bed. - Pete picks his ski stuff out of the piles. INT. HOTEL SUITE - DAY - MOMENTS LATER Pete stands just outside the TWINS’ ROOM. The door is slightly ajar. PETE’S POV of Billie and the boys on bed, watching something on an iPad together. Billie is holding it up so they can all see as they lie on their backs. BACK TO SCENE, as Pete lightly taps and opens the door.
+C: PETE
+D: Good morning.
+C: EM/FINN
+D: Morning, dad.
+E: staring at iPad
+C: BILLIE
+D: ... Morning.
+C: PETE
+D: Are we...?
+C: BILLIE
+D: I think we’re going to do this for now.
+C: PETE
+D: ... Okay. Zach texted about joining us. I think Rosie is sleeping in. * JA 1st 79.
+C: BILLIE
+D: Great. You guys have fun. Beat.
+C: PETE
+D: Should we meet up for dinner? Do the restaurant?
+C: BILLIE
+D: Sure. Beat.
+C: PETE
+D: You guys have fun. But, the three are lost in the iPad. INT. HOTEL LOBBY - DAY Pete steps off the elevator. Zach, dressed to ski, is there. And, he’s wearing a knit cap.
+C: ZACH
+D: Let’s do this. Pete considers.
+C: PETER
+D: Hold up. As Pete heads back onto the elevator,... CUT TO: EXT. LIFT - DAY Pete and Zach are in line. And yes, Pete is now wearing his dad’s old hat. No helmet for this cool motherfucker. Zach, * discreetly, takes a hit on his vape pen. He hands it to Pete * with a wink.
+C: ZACH
+D: A little Amsterdam in Austria. Pete considers: “Why not?” Zach snaps a quick selfie with * Pete.
+C: ZACH
+D: Hashtag it begins! JA 1st 80. LATER - Zach and Pete are at the front of the lift line. They * shuffle into place. The same Lift Operator is there. Pete * waits, but the Operator says nothing. He beams. He’s “cool.” EXT. PISTE - DAY Zach and Peter are at the top of a run. Pete can’t help it. * This feels good. To be standing here now. Free.
+E: CONT’D
+C: PETE
+D: How great is this?
+C: ZACH
+D: So great.
+C: PETE
+D: All I have to do, right now. My * only obligation? Go down.
+C: ZACH
+D: Yeah. Live your best life.
+C: PETE
+D: Yeah. Every day is all we have. They fist bump. And, with that, push off. Confident. Free. * EXT. SLOPE - DAY - MOMENTS LATER Pete’s having a great run. Maybe, a little loose from the vape, but in control. A SNOWBOARDER cuts across his path, nearly colliding. * Pete loses his balance, struggles. He can’t stay up and bites * it hard. His momentum carries him, sliding down the slope, in * a direct path with a SNOW GUN MACHINE. He skids to a halt, hitting his head on the machine. Not too hard, but he feels it. He sits up and checks the back of his * head for blood. But, luckily, none. EXT. SKI LIFT - DAY Billie and the kids are in line for the lift. [NOTE: This a two seater.] Rosie skis up into line.
+C: ROSIE
+D: Well, hello there. Going up? Mind if I...? JA 1st 81. Billie doesn’t object. Rosie joins them as they approach the front of the line.
+C: BILLIE
+D: You getting a late start, too?
+C: ROSIE
+D: Yeah, I got a massage. Billie’s face, jealous. “Good for you.” They are next up.
+C: BILLIE
+D: Em, Finn, you go together. But, wait at the top, okay? The Twins shift into position and the lift takes them up. As Billie passes the Ski Lift Operator, he raps his knuckles on Billie’s head.
+C: LIFT OPERATIVE
+D: Helme sind fur Kinder!
+C: ROSIE
+D: Hallo...!
+C: BILLIE
+D: Oh, he’s just checking that it’s secure...
+C: ROSIE
+D: Ein wenig Respekt bitte! The Lift Operator switches to Italian:
+C: LIFT OPERATIVE
+D: li Vaffanculo, non capiscono.
+C: ROSIE
+D: Si lavora in fatto di ospitalità, essere ospitali, cazzo! Then, she switches to Spanish:
+E: Italian
+C: ROSIE
+D: Folla a tu madre y tu existencia! The Lift Operator does not know Spanish. That was her hope. * Billie is surprised by Rosie’s multi-lingual assertiveness. They shift into position, as... BILLIE * What was all that? JA 1st 82.
+E: CONT’D
+C: ROSIE
+D: Basically, I told him he was a piece of shit in three languages. Rosie can’t leave it at that. One more scolding:
+C: ROSIE
+D: Je bent een imbeciel! Four. The lift scoops them up, as we... EXT. LIFT CHAIR - DAY Billie and Rosie ride up.
+E: CONT’D in Dutch winking at Billie
+C: ROSIE
+D: So, how are you doing today?
+C: BILLIE
+D: Better. I guess? I don’t know. I’m * sorry that you were there for all of that the other night. *
+C: ROSIE
+D: Why are you apologizing?
+C: BILLIE
+D: I shouldn’t have involved the kids.
+C: ROSIE
+D: Okay. But, you have nothing to apologize about. What he did was * fucked up.
+C: BILLIE
+D: Well, I shouldn’t have attacked * him. His dad died eight months * ago...
+C: ROSIE
+D: Yeah, well, people die. It sucks. It happens. But, that doesn’t excuse why he ran away like a fucking pussy. Billie lets that sink. Someone is validating her.
+C: ROSIE
+D: You don’t owe him anything. You have a right to be angry. JA 1st 83. Emotion swells up for Billie. All the shock. All the confusion. She can’t hold it in anymore. Rosie lets her have * the moment. Eventually, Billie collects herself.
+E: CONT’D
+C: BILLIE
+D: ... Thank you.
+C: ROSIE
+D: I’ll tell you this much, if Zach ever did that to me, I’d kick him in the nuts and he’d never see me again. It’s black and white. Billie glances ahead. This part she may not agree with: “Is it black and white?” * EXT. TOP OF THE MOUNTAIN BAR/RESTAURANT - DAY Outside at a table, Zach and Peter are drinking lagers. Pete is still feeling his head.
+C: PETER
+D: Do I seem okay?
+C: ZACH
+D: Yeah. I think. *
+C: PETER
+D: Should you run through the * concussion protocol things? * He points to his phone.
+C: ZACH
+D: Uh-uh, I think you’re fine. *
+C: PETER
+D: I haven’t been repeating myself, * have I?
+C: ZACH
+D: I don’t know? Like, you asked if * you seemed okay a few times? A BAR WOMAN, who might be a bit tipsy, approaches. She * addresses Peter over the loud music: *
+C: BAR WOMAN
+D: Hi?
+C: PETER
+D: Hi. JA 1st 84.
+C: BAR WOMAN
+D: Hi, yeah. My friend just wanted to * say hi.
+C: PETER
+D: Oh. Oh, okay? *
+C: BAR WOMAN
+D: Yeah, she thinks... She likes the * way you carry yourself.
+C: PETER
+D: Oh, well that’s kind. Which * [woman]...? * He looks over to a group of YOUNG WOMEN in their twenties, * early thirties. *
+C: PETER
+D: That’s nice.
+E: CONT’D
+C: BAR WOMAN
+D: She thinks you’re the best groomed * man in this bar.
+C: PETER
+D: Well, thank you. * She retreats. *
+C: ZACH
+D: Nice!
+C: PETER
+D: Oh man. That’s embarrassing! Do you wanna...? Should we send * them a drink? Or you want to [go * over]... ? *
+E: beat
+C: ZACH
+D: Oh, um, I don’t... *
+C: PETER
+D: No. Sure. I mean, it just doesn’t happen to me all the time. Not like you. * Right?
+E: then
+C: ZACH
+D: Oh, well. You know! * JA 1st 85.
+C: PETER
+D: Yeah. Come on. *
+C: ZACH
+D: * Well, me and Rosie... It’s been * pretty steady for a while, now! *
+E: laughing
+C: PETER
+D: Oh sure. But, still. It’s fun to flirt, right? Pete thinks about that. “Good times.”
+C: PETER
+D: Yeah. I was good at that. The Bar Woman returns. *
+E: CONT’D
+C: BAR WOMAN
+D: Hi. Sorry.
+C: PETER
+D: Hi. *
+C: BAR WOMAN
+D: It wasn’t you.
+C: PETER
+D: ... What’s that? *
+C: BAR WOMAN
+D: It wasn’t you. She didn’t like the way you carried yourself. It was him. She points behind them to a GOOD-LOOKING BAR GUY.
+C: PETER
+D: Oh. Cool.
+C: BAR WOMAN
+D: Uh-huh. Sorry.
+C: PETER
+D: So, what’s your name?
+E: trying to flirt
+C: BAR WOMAN
+D: Bye. She walks off. Peter is a bit drunk. He looks at the Good Looking Guy. JA 1st 86.
+C: PETER
+D: He is. He is a catch. * You’re a catch my friend! Zach takes a shot at making it bettet for Pete. *
+E: shouts over
+C: ZACH
+D: I can see a resemblance...
+C: PETER
+D: It’s okay, man. I’m not... Yeah. * All good. So much so. * EXT. VILLAGE STREET - LATE AFTERNOON An active party scene, already. People have moved straight * from the slopes into the bars. * Pete and Zach, a bit drunk, are in line for a “Club. ” But, * as of now, they are just waiting outside an “elevator.” * [NOTE: Most clubs in the village are below ground.] PETE * This place is the Ibiza of the * Alps! * ZACH * Who says that? * PETE * I say that! * Zach and Pete “high five.” Eww. As they step onto the * elevator, we... INT. CLUB - DAY - MOMENTS LATER The elevator door opens and our senses are in overload with loud euro pop. It’s quite a scene. * LATER - Pete is on the packed dance floor, uninhibited and quite drunk. Zach approaches with two more steins of lager. Pete drinks down some more beer, noticing the... GOOD-LOOKING GUY from the top of the mountain. Pete stumbles over. He smiles at him. Then, out of nowhere he makes a lunge. It’s a half hug, half wrestle. The weight of Pete sends them to the floor. * JA 1st 87. The Guy gets up and actually tries to help Pete off the floor. But, Pete swats his hand away. It’s hard for the Guy, * or us, to understand what’s going on in Pete’s head. His mood * and behavior is erratic and all over of the place. * Zach shuffles Pete out of there, as... EXT. VILLAGE STREET - DUSK The guys stumble along.
+C: ZACH
+D: Maybe we should get you some coffee? Pizza?
+C: PETER
+D: Nope. No. I need to stay hungry. For dinner. With my family.
+C: ZACH
+D: Some food might be smart...
+C: PETER
+D: I love my family.
+C: ZACH
+D: I know.
+C: PETER
+D: Billie and I didn’t even do it for * the longest time. Kids. But, then we said if science says we’re parents, then we’ll be parents. That’s awesome. If not, that’s okay. And, science made us parents. It’s hard to tell where he stands with that.
+E: beat
+C: PETER
+D: I just... You lose a parent and the ticking gets louder. Time is... Want to know how old you are? Look at your kids. Every day they change.
+E: CONT’D
+C: ZACH
+D: Yeah. We get older. Pete grabs for the last tangible excuse in his mind? JA 1st 88.
+C: PETER
+D: But, you can’t forget about you. It happens. You think about yourself. That’s all I did. That’s all that was... I didn’t mean... Pete stops. “To run away?” Was that what he was going to say? Pete clams up, shaking off whatever he was thinking.
+C: ZACH
+D: I think coffee might be a good thing.
+C: PETER
+D: I know that’s what I said. INT. HOTEL RESTAURANT - NIGHT Billie and the kids are already at the table, waiting. I/E. HOTEL CORRIDOR/SUITE - SAME TIME Peter walks down the hotel corridor towards his room with a cup of coffee. Far from sober. At the suite door, Pete breathes. Steadies himself. He opens the door. It’s empty.
+C: PETER
+D: Hi? Hello? People? INT. HOTEL RESTAURANT - NIGHT - A LITTLE LATER Billie and the Twins are now eating. ON PETE with them at the table, showered and in his regular clothes. Pete flashes a smile at his family trying to look as sober as possible. He drops his knife. CLANK! He regains himself and tries to cut a crostini in two with a * knife and fork. It crumbles and he tries to gather it up with his finger tips as he imagines a sober man might. He pops it * into his mouth.
+C: PETER
+D: Mmm! Yum. Yours?
+E: he looks at Billie
+C: BILLIE
+D: I’m not that hungry. JA 1st 89.
+C: PETER
+D: Oh, did you eat? I didn’t eat. To * stay hungry. So, I’m hungry. *
+C: BILLIE
+D: Yeah I ate. We ate a little. Peter sees an opportunity to be magnanimous, an example to Billie and the world. *
+C: PETER
+D: Oh, okay. I don’t mind. * That appears to be it for the dinner chat. Back to silence. * INT. HOTEL CORRIDOR - NIGHT Peter and Billie walk behind the Twins, who rush ahead with * the key card. Peter has sobered up some, but his reactions are still a bit off. Billie walks ahead of him. The Twins head into the room.
+C: PETER
+D: Billie? Billie stops outside the door.
+C: PETER
+D: I just want to say I’m sorry.
+E: CONT’D
+C: BILLIE
+D: You don’t need to do this now.
+C: PETER
+D: I want to. What happened is what you said happened. I ran. And, I don’t know how to make sense of that. I was just afraid to... If I said it out loud, then it’s true. And then, what? That’s who I am? I’m this selfish, terrible person capable of... Emotion starts to bubble up...
+E: exhales
+C: PETER
+D: Which is, I guess, what I am. A coward. But, it doesn’t mean that I don’t love you. And, that I don’t love the kids. I don’t know... JA 1st 90. Tears come.
+E: CONT’D
+C: PETER
+D: I’m so sorry. I didn’t know how to make this better for you and the boys. Or, for me. And, I still don’t. I can’t stop an avalanche, Billie. His cry grows, odd and all-encompassing. His body shakes. Billie regards this, somewhat cooly. After a beat:
+E: CONT’D
+C: BILLIE
+D: This is what you say four days ago. Instead, you made me feel like an idiot. Like it was my fault. I didn’t ask you to stop an avalanche, Pete. I just want you to want to survive one... with us. As she heads into the room,... * THE SCREEN GOES BLACK * SKI DAY 6 INT. HOTEL SUITE - THE NEXT MORNING * QUICK FLASHES OF THE STATE OF THE ROOM: * - Multiple pairs of shriveled-up gloves on the radiator. * - BATHROOM. Almost-dry socks draped along the shower curtain * rod. * - Piles of ski clothes. A collective heap. * QUICK FLASHES OF OUR FAMILY: * - The Twins in their ROOM, asleep. * - Pete in bed, on his side. His eyes, open. Lost in thought. * - Billie sits on the couch, drinking coffee. The drapes still * closed. She looks over at the... * Pile of ski clothes. * QUICK FLASHES OF BILLIE: * - Pulling some dry socks down from the curtain rod. * - Collecting some dry gloves from the radiator. * JA 1st 91. - Folding/stacking some of the ski clothes into piles. * QUICK FLASHES OF PETE: * - He stares at the alarm, waiting for 6:59 to become 7:00. It * does. And, as if a game show buzzer, he turns it off before * it even barely makes a sound. * - Pete opens the curtains. A wall of snow blankets most of * the window. Clearly, there was a huge dump last night. * Despite his low energy, Pete’s eyes can’t help but go wide. * His wet dream of conditions. * INT. HOTEL SUITE, COMMON AREA - DAY - MOMENTS LATER * Pete emerges from the Master. The Twins [still in pajamas] * are seated at the dining table. Billie brings them each a * bowl of oatmeal. * PETE * ... Morning. * FINN/EM * Morning. * And, a bit delayed. * BILLIE * ... Morning. * PETE * Looks like we got hit with a big * dump of snow. * Pete might be regretting his choice of words and the timing. * “We got hit with... snow.” Billie just glances up at Pete. * Not an angry glance. Not a forced smile. Just a look that * seems to “study her husband.” * Pete goes to grab his ski clothes, noticing that Billie * folded and stacked the Twins’ stuff. His stuff remains in a * pile. * INT. SKI-SHOP - DAY * CLOSE ON BOOTS, slammed down on a counter. REVEAL Billie, standing with the Ski Rental Kid. The rest of the family hang back, within earshot.
+C: BILLIE
+D: These are too tight. They pinch. JA 1st 92.
+C: SKI RENTAL KID
+D: ... Huh?
+C: BILLIE
+D: Okay, look, maybe you can’t understand me. But, the safer bet is you’re pretending. These boots are too fucking tight.
+C: SKI RENTAL KID
+D: It’s good to be tight. The Kid looks over at Peter. Can you help me here?
+C: BILLIE
+D: He’s not in my body. And, you’re not in my body. These hurt. I want some that don’t. He looks at the receipt she presents.
+C: SKI RENTAL KID
+D: You leave today?
+C: BILLIE
+D: Yeah, I put up with them for longer than I should have. But, I deserve * to be comfortable. * EXT. LIFT - DAY The family is at the front of the line.
+C: LIFT OPERATOR
+D: Smart to get out early. Fresh foot of powder at the top. Blue skies. * Can’t get better than that. * PETE * Oh yeah, great way to end our * family vacation, for sure. * Billie can’t help but offer up “side eye” to Peter. Really? * Now, he calls it a “family vacation?” The family scoots into * place for their chair, as... * PETER * Should we hit The Beast for a final run? Cut the first tracks? Finn? *
+C: FINN
+D: Yeah! JA 1st 93.
+C: PETER
+D: Em? Em just shuffles along. Peter knows better than to ask, but he knows he had to. He moves on quickly to...
+C: PETER
+D: Sound good? The Beast?
+E: CONT’D aside to Billie
+C: BILLIE
+D: Sure. Unless, I decide to go to Switzerland. Peter laughs a bit. Hoping it’s a joke. But, Billie does not.
+E: aside back
+C: PETER
+D: ... Yeah... The chair scoops them up, and we... EXT. LIFT - DAY The family ascends. No one is speaking. After a beat: EMERSON * I hate skiing. FINN * No, he doesn’t. BILLIE * Finn,... * EMERSON * * You’re not in my body. **
+E: stealing mom’s line
+C: EMERSON
+D: It’s cold and dumb. And, you’re * always wet and it hurts when you * fall and it takes forever if you * have to go to the bathroom. And, * people are stupid. They don’t look * where they’re going. So, you’re * always scared you’re going to die. * What’s fun about that? * * And, I have to go to the bathroom. * Smartly, no one protests or chimes in. Billie just puts her * hand on Em’s knee, letting him know he has been heard. JA 1st 94. EXT. TOP OF THE MOUNTAIN - DAY * We’re back where the photo was taken in the beginning. The * family stands at the edge of The Beast, staring down the steep incline. FEARLESS SKIERS swish right past them. * For some reason, no one is initiating a dissent. Not even Pete. Em’s words still haunting? * Suddenly, BANG! BANG! BANG! From a far distance, an avalanche is being set off. Despite the faintness, the whole family - even Pete - flinch. Finn grabs his dad. Is he holding on for comfort or is he afraid his dad will flee again? A moment of clarity for Pete. A decision. * PETE * You know what I’m thinking I might need. Some hot cocoa. Maybe, we wait this out? Warm up? I’m not sure I’m feeling this. The boys nod. Billie glances at Pete. A hint of smile. It’s * about time. They start for the lift, but... PETE * You should take the run. If you want. We’ll wait for you at the bottom. Billie considers, as we... LATER - Billie watches from the top of The Beast as Pete and the boys descend on the lift. BILLIE’S POV of the boys, leaning onto their dad. Pete puts his arms around them to get them warm. BACK TO SCENE, as she looks down at the slope ahead of her: * The way back to her family. Then, she glances behind her: * Switzerland. As she ponders, we... * EXT. BASE OF MOUNTAIN - DAY Peter and the boys wait at the base of the run, looking out for Billie. An “avalanche” of skiers descend. But, no sign of * Billie. Long beat until,...
+E: beat CONT’D to Billie
+C: EMERSON
+D: ... Where is she? JA 1st 95. PETE * It’s okay. Your mom’s better than all of us. They scroll the area, but still no Billie. After another * beat,... A faint “Pete!” emanates from somewhere distant. * Peter listens intently until it’s clear... “Pete! Pete!” * Billie is calling out from up high. Without hesitation, Pete * pops off his skis. PETE * Stay right here...
+E: a bit worried CONT’D
+C: EMERSON/FINN
+D: Dad. PETE * Everything’s fine. Stay right here. Pete runs up the slope, disappearing into the crowd of * skiers. We stay with Em and Finn, waiting. Long beat plays * out. Finally,... Through the crowd, we see Peter appear, carrying Billie in * his arms. He sets her down.
+C: EMERSON/FINN
+D: Are you okay?
+C: BILLIE
+D: I am now. She shares a glance with Pete. An understanding of what this was: Letting their sons see their dad as a “hero for a * moment,” instead of “the coward they had witnessed.” Peter * seems grateful. Then,...
+C: BILLIE
+D: I should get my skis. With that, she just walks back up. But, not before... *
+E: CONT’D very casual
+C: BILLIE
+D: * By the way, knee deep powder. Best run of my life. And, you’re not going back up there. She flashes a smile. And, Peter smiles back. He understands. JA 1st 96. INT. HOTEL SUITE/HALL CORRIDOR - DAY - LATER * The family is preparing to leave. All the roller suitcases * are packed and stationed by the door. Pete opens the door to * the room. The Twins chase one another out. * PETE * Hold up. You guys are more than * capable of taking your own bags. * The Twins return, grabbing their suitcases and head back out. * As Billie passes by Pete in the doorway, he stops her. * PETE * I’ll give you more reasons not go * to Switzerland. * A promise to be there. Shared smiles. Two people committing * to the story they want to be a part of. They kiss. * BILLIE * I hope you do. Because, I will kick * you in the nuts. * Pete seems confused, trying to decipher her words, but goes * with: * PETE * * ... Sounds good to me. * With that, she heads out, as we... * INT. HOTEL LOBBY - DAY * Pete, Billie and the Twins step off the elevator. The Twins * run ahead. * CHARLOTTE * No, this is not truth! * Charlotte approaches. * CHARLOTTE * You must stay forever! * Pete, again, tries to pinpoint Charlotte’s “role.” * PETE * Thank you, Charlotte, for * everything you’ve done for us as * a... * JA 1st 97. CHARLOTTE * Friend! This is of course! What the * fuck good am I if I’m not that?! * Charlotte laughs and hugs them, whether they want a hug or * not. “Good-byes” all around. Billie and Pete start to peel * off... * PETE * * Well, I tried... * BILLIE * * Yep. Still don’t know who the fuck * she is? * Charlotte did not hear that, but she reaches out and lightly * grabs Billie’s arm. Stopping her. Pete heads over to the * Twins, as... * CHARLOTTE * So,... Your “lesson” good, yes? * Billie considers her answer. * BILLIE’S POV of Pete rough-housing with the Twins. A man * attentive. At this moment, a dad. * BACK TO SCENE. Billie, warmed by the image. * BILLIE * * This story works for me. * Charlotte beams, approving. As Billie walks away, Charlotte * hones in on a group of YOUNG MALE SKIERS, passing by. * CHARLOTTE * My friends! I’m sorry I was not * here to meet you earlier! But, you * must have everything. And, you will * want everything from me! * EXT. HOTEL - DAY - MOMENTS LATER * The family make their way out to VALET. Nearby, Zach and * Rosie are handing their backpacks over to a SHUTTLE DRIVER. * ZACH * * Hashtag we don’t want to leave! * JA 1st 98. They approach. Hugs all around. * ROSIE * Thanks for letting us crash your * vacation. * BILLIE * Glad you did. * A genuine sentiment. A “thank you” to Rosie for hearing her. * ZACH * We’ll see you back in the States. * PETE * What’s next for you guys before * that? * ZACH * Who knows...? * ROSIE * Oh my-- What is wrong with you? * * What’s next is a shuttle to Zurich. * Layover in London. On standby in * Dallas. With hopes to be in LA by * midnight on Monday to be up for * work seven hours later. * ZACH * * Hey. Live your best life, right? * PETE * You know it. * BILLIE * Oh, yeah. ** Zach and Rosie head onto the shuttle. Pete and Billie’s * smiles fade just a tad as, individually in their own * “worlds/heads,” they seem to be reflecting on that sentiment * differently, now. “Live you best lives.” * DISSOLVE TO: * EXT. AUTO-ROUTE - DAY * LOCKED FRAME of the same winding road from the beginning, but this time our SUV is descending. JA 1st 99. INT. SUV - DAY Our family is in their same positions. As they round a * curve,... * POV of a LARGE BUS ascending from the opposite direction. It * and our SUV are on a path to intersect at the next curve. BACK TO SCENE, as Pete and Billie glance at one another. A * sly smile comes to Billie’s face. Pete reciprocates. A mutual decision. Pete lays on the gas, booking it to beat the Bus to the * curve. The Twins’ excitement grows as, with finesse, Pete * smoothly navigates and dodges the Bus, successfully. * The whole family cheers the success! * BILLIE * Nice. * EMERSON/FINN * Awesome, Dad!/So cool! ** A shared thrill. We watch as, slowly, this feeling dissipates * and things go “back to normal.” Back to silence. And, * gradually, the family returns to the tableau we met them in. * - Billie goes to her phone. * - Pete focuses on the drive. * - Finn looks out the window. * - Em goes back to his book. * BEAT. * ON PETE, glancing at Billie, on her phone Then, he glances in the rearview at his sons in their * own worlds. Then, his eyes go back to the road. * ON BILLIE, looking up from her phone. She glances at Pete, * lost in the road. She studies him for a beat. * ON BILLIE/PETE as they stare out at the road ahead, lost in * their own thought: “Is this my best life?” * As they simultaneously glance out their side windows, we... * EXT. AUTO-ROUTE - DAY - CONTINUOUS * HOLD ON the SUV as it continues down the winding road. * JA 1st 100. PAN to the back side of the same sign/billboard we passed in * the beginning. Again, an advertisement for Ischgl Ski Resort. * And, again, a mix up of German and English. And, the slogan: * “Come Again! If You Can...” * THE SCREEN GOES BLACK *
+E: CONT’D whispering to Pete CONT’D ”understood” O.S. CONT’D to Billie, hushed hushed nodding calling over then, to Billie/Pete smirks, shrugs She won’t notice * it.
+N: JA 1st 101.

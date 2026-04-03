@@ -1,0 +1,2030 @@
+M: RED DRAGON
+M: Screenplay
+M: by
+M: Ted Tally
+M: Based on the Novel
+M: by
+M: Thomas Harris
+M: Gray Revised: April 25, 2002
+M: Tan Revised: April 18, 2002
+M: Cherry Revised: March 26, 2002
+M: Salmon Revised : March 12, 2002
+M: Buff Revised : February 21, 2002
+M: Goldenrod Revised: February 1, 2002
+M: Green Revised: January 22, 2002
+M: Yellow Revised: January 14, 2002
+M: Pink Revised: January, 2, 2002
+M: Blue Revised: Novemb er 20 1 2001
+M: White Locked : July 10, 2001
+M: GRAY REVISED PAGES 4/25/02
+M: GRAY
+M: 102. 103, 103A, 104, 105, 105A
+M: TAN
+M: 11, 12, 12A
+M: CHERRY
+M: 35, 36, 37, 37A, 38, 38A, 65, 66, 67, 68, 69, 69A, 95
+M: SALMON
+M: 13, 13A
+M: BUFF
+M: GOLDENROD
+M: 4, 4A, 5
+M: GREEN
+M: 20, 97, 98,'ll l, 1 llA, 115, 117
+M: YELLOW
+M: 6. 16 , 16A, 25, 30, 30A, 32, 38, 38A, 39, 40, 40A, 41A, 45A, 47, 48, 51, 55, SSA, 57, 59,
+M: 76, 77, 78, 81, 90, 91, 92, 96, 101, 101A, 112, 118A
+M: PINK:
+M: 1, 3, SA, 7, 8, 10, l0A, 13B, 14, 15, 17, 18, 23, 23A, 24, 2SA, 26, 27, 27A, 28, 29, 31,
+M: 31A, 32A, 33, 34, 35A, 41, 42, 43, 43A, 99, 100, 108, ll0A, 117A, 118
+M: BLUE:
+M: IA, 2, 2A, 6A, 21, 33A, 50, 53, 54, 54A, 58, 59A, 60, 60A, 62, 64, 70, 72, 73, 73A, 74,
+M: 7S, 79, 80, 84, 85, SSA, 86, 87, 88, 90A, 93, 94, 9SA,106, 107, 107A, 110,116
+M: WIDTE :
+M: 9, 19, 22, 46, 49,5 21 56, 61, 63, 71, 82, 83, 89, 109, 113, J 14, 119
+M: 2A
+M: PINK Revision 1-2-02 1 .
+T: FADE IN:
+N: OMITTED 1
+S: INT. CONCERT HALL. NIGHT.
+N: On a brilliantly lit stage, the Baltimore Symphony Orchestra is struggling through the 3rd movement of Boccherini's Concerto in D Major ("Ailegro piacere . ") At center, a CELLO
+C: SOLOIST.
+D: SUPER TITLE: BALTIMORE, MD, 1986, The CONDUCTOR frowns. Something's amiss in the wind sectio n . As the SOLOIST nears the end of her passage, he jabs his baton with grim emphasis, indicating the winds' next entrance. THREE of the FOUR FLAUTISTS, instruments already po i sed by their lips, come in precisely on cue. But the . .. FOURTH FLAUTIST is daydreaming. Catching himself with a start, he lifts his flute, but now is hopelessly off the, beat. He eye s his fellow players, hoping no one noticed . WE BACK AWAY FROM THE STAGE, wafting out with the MUSIC, PASSING OVER velvet seats, carpeted aisles, a stir of programs, WELL-DRESSED CONCERTGOERS ... PASSING BY, without pause, one especially discerning face, wh ose owner is quite anonymous in the crowd ... Then we return to that face , a few moments later, for a CLOSER LOOX. HANNIBAL LECTER, M.D. - noted psychiatrist, arts patron, connoisseur - is trim, very neat, with a quality of coiled stillness. His eyes are blue, strangely pale. CLOSER on him, CLOSER STILL, until ... The Fourth Flautist comes in late, yet again. From Lecter's hyper-acute perspective, the hap less man's playing is physically excruciating, like a nail scoring glass . Lecters eyelids close, ever so briefly, in distaste . When they reopen, the pale irises are as fixed as a hawk's. LECTER "Think to yourself that every day is your last; ... M EXT. LECTER'S TOWNHOUSE. NIGHT.
+E: V. 0.
+C: 2A
+D: An elegant Georgian home, red brick, on a co bblestoned street. ~ Lights glo w warmly through its windows.
+C: I I
+D: BLUE Revis ion - 11-20-01 LECTER .. th e hour to which you do not looK forward will come as a velc ome su rpr is e . . . " lNT. DINING ROOM. LECTER' S TOWNHOUSE. NIGHT. A cand lelit tabl e, exquisitely set . Around this are the ten very cultured MEMBERS OF THE SYMPHONY BOARD. lA.
+E: V .O.
+N: seated BLUE Revision 11-20-01 Lecter circles the table, pouring wine tor his guests.
+C: LECTER
+D: " . . . As for me, when you want a good laugh, you will find me, in a fine state, fat and sleek, a true hog of Epicurus herd." Laughter at this, plus some mock-distressed "ooohs."
+C: RED BOW TIE
+D: And we find you cribbing lines from Horace, as well. Plea sant la ,ugh ter . The Doctor smiles politely : touche.
+C: RED BOW TIE
+D: I must say, Hannibal, speaking for the rest of the herd - I'm sorry, for the Symphony Board - - that these little soirees of yours are always the highlight of our year.
+E: CONT'D the others laugh more laughter
+C: OTHER VOICES
+D: Just so. Hear hear. Bravo!
+C: LECTER
+D: You're too kind. Reverend - more Montrachet?
+C: REVEREND
+D: Yes, please. It's drinking nicely.
+C: TROPHY WIFE
+D: I do feel a bit guilty, enjoying such a lovely evening while one of our musicians is still listed as a missing person. Grave frowns at this, polite murmurs of concern.
+C: TWEEDY BANKER
+D: Yes, poor fellow. Sad thing.
+C: RED BOW TIE
+D: Shall I confess something wicked? I can 't help feeling just the tiniest bit - wel l, relieved. That sounds awful, I know. But let's face it. So does the man's playing.
+C: CHAIRWOMAN
+D: His family's given a fortune to the endowment. It woul d've been almost impossib l e to fire him.
+N: SLOE Revis i on 11-20 - 01
+C: BLUFF CEO
+D: Oh, he'll turn up somewhere. Coun~ on it.
+C: 2A.
+D: PINK Revision 1-2-0 2
+C: TWEEDY BANKER
+D: He's probably not missing at all . Just late again. Chuckles, laughter, one or two happy groans.
+C: CHAIRWOMAN
+D: Hanni bal, confess. What is this divine-looking amuse-bouche ?
+C: LECTER
+D: If I tell you, I'm af raid you won ' t try it. 3 . More chuckles, hearty laughter. Taking his seat at the head of the table, Lecter snaps loose his napkin . Looking around at his eager, e xpectant guests , he smiles.
+C: LECTER
+D: Bon appeti t. INT. DINING ROOM . LECTER ' S TOWNHOUSE. NIGHT . Lecter , now in a cashmere cardigan, clears the dessert and coffee plates off the dining room table . We hear the doorbell ring. Lecter considers this. Looks down at his stack of dishes, then turns, heads towards ~he door. INT./EXT. FRONT DOOR. NIGHT. His opening front door reveals a~ in a dark overcoat and scarf. his breath steami n g in the cold. WILL GRAHAM is pale , with dark watchful eyes. He's exhausted and never got a chance to shave this morning .
+E: CONT'D
+C: LECTER
+D: Special Agent Graham. What an unexpected pleasure.
+C: GRAHAM
+D: Sorry to bother you again, Doctor. I know it's late .
+C: LECTER
+D: No bother . We're both ni ght owls, I think. Come in , please. Let me tak e your coa t . As Graham enters , he passes a brass plaque that reads "HANNIBAL LECTER, M. D. / Psychiatric Consultations.
+N: GOLDENROD Revision - 2-1-02
+S: INT . LECTER'S STUDY. NIGHT.
+N: A handsome pane lled room , decorated with primitive art, fragments of Greek sculpture, man y book s. To one s ide is a leath e r chaise. A f ire blaz es, its lig h t f lickering over the men 's faces . Lecter watches as Graham paces restlessly.
+C: LECTER
+D: You look tired Will . You ought to get more sleep. Onde r his navy jacket, we catch a glimpse of Graham's shoulder holster and Bulld og .44 Special . He gest ur es irritably.
+C: GRAHAM
+D: I'll sleep after this bastard is behind bars.
+C: LECTER
+D: You're part of a three-hundred mari task force . No one expects you to catch him all by yourself . Have a ~ . Will. Graham drops into a chair. Lecter, who's been waiting pol it ely , sits behind his de sk. Graham leans fo rward urgentl y. Despite h i s weariness, his face is alive with fierce excitemen t.
+C: GRAHAM
+D: We' ve been on the wrong t r ack this whole time , Doctor . You and I. Our whole profile is wrong. Lecter is very still; there i s not a flicker of emotion; he just watches Graham, like someone studying an insect .
+C: GRAHAM
+D: We've been looking for somebody with a crazy grudge. Some kind of anatomi ca l knowled ge, decertified doctors, med school dropouts , lai d­ off mortuary workers -
+E: CONT'D
+C: LECTER
+D: From the precision of the cu ts, yes . And his choice of - souvenirs.
+C: GRAHAM
+D: But t hat ' s where we'r e off target . He 1 s not collecting body parts.
+C: LECTER
+D: The n why keep them?
+C: GRAHAM
+D: He ' s not keeping them. He's eatin g them.
+N: GOLDENROD Revision 2-1 - 02 4A. Lecter just watches and listens. GOLDENROD Revision 2-1-02 Pause. GRAHAM ( CONT D) We were at Molly's parents for New Year's. Her dad was showing Josh how to carve a roasted chicken. And he said to my son, The tenderest part of a chicken is the oysters, here, on either side of the back . I'd never heard that expression before. oysters. *
+C: GRAHAM {CONT'D)
+D: I had a sudden flash of the third victim, Darcy Chambers. She was missing flesh from her back. And then it hit me ... Liver. Kidneys. Tongue . Thymus. Every single victim lost some body part used in cooking . Everything is very quiet in the room. After a moment's cons iderat ion, Lecter, slowly leans forward on his desk., He gently tou ches the Venetian stiletto, and lines i t up with his blotter .
+C: LECTER
+D: Have you shared this with the Bureau, Will?
+C: GRAHAM
+D: I needed to see you first. But I'm right. I know I'm right. Somehow I'm starting to be able to think like this guy.
+C: LECTER
+D: And how does that make you feel ?
+C: GRAHAM
+D: It's unpleasant. It frightens me a little.
+C: LECTER
+D: Why?
+C: GRAHAM
+D: Because it's not scientific, it ' s emotional.
+N: PINI< Revision 1-2 -02
+C: LECTER
+D: Fascinating. I'd always suspected as much. You're an eideteker. Someone with a remarkable visual memory. Combined , in your case, with pure empathy. That's quite rare ... How I'd love to get you on my couch.
+E: pause Graham is puzzled 
+C: GRAHAM
+D: I'm not psychic, Doctor . SA.
+N: YELLOW Revis i on 1-14-02
+C: LECTER
+D: No, no, this is different. More akin to artistic imagination. You're able to assume the emotional point of view of other people - even those that might scare or sicken you .. . A troubling gift, I should think. Perception's a tool that ' s pointed at b oth ends.
+C: GRAHAM
+D: Maybe that sounds right , but it still doesn't make sense to me . You're the best forensic psychiatrist I know. And yet somehow, in all our time together, this possibility never occurred to you. A quiet moment , the two of them staring at each other.
+C: LECTER
+D: I ' m only human, Will. Perhaps I"ve made a mistake.
+C: GRAHAM
+D: You don't strike me as a man who makes very many.
+C: LECTER
+D: I'm sorry to think I might no longer en j oy your full confidence. Lecter's eyes gleam in the firelight. Graham sighs .
+C: GRAHAM
+D: I didn't say that. I don't know what I'm saying. I almost had it . . . I'm very tired.
+C: LECTER
+D: It ' ll come to you. Look. Why don't you come back in the morning? I ' ll clear some time on my schedule , and we ' l l get started on revising our profile. Sound good? Graham hesitates , then nods wearily . Lecter smiles.
+C: LECTER
+D: You rest here, then. I'll get your coa t . Won't be a tick. Lecter goes o ut. 6 . After a moment Graham rises , s t retches his ba ck . As he waits , he turns , g l an ci ng i dly around. Something on a s helf catches hi s eye. H e moves closer . A Dagon tribal MASK. features contorted in rage or pain . BLUE Revision - 11-20-01 6A. Graham i s a bit disturbed. Not his idea of art. His gaze wanders .. PINK Revision 1- 2-02 7. A framed DAGUERREOTYPE of Edgar Allan Poe . A block of SHINY AMBER, with a SCORPION suspended inside. A beaded SIOUX QUIVER, with feathered arrows still protruding. And BOOKS . . . so many books. Some leather - bound, with worn, cracked spines, and very old. Some much newer . Graham is interested. Looks closer at the titles ... Recettes Des Provinces De France ... La cuisine du Sacrifice en Pays Gree ... Larousse Gastronornigue. This last volume isn't pushed all the way back into place. And it has a red satin boolanark, noting a particular page. Graham pulls out the Larousse, opens it to the marked page. A recipe titled "Fantaisie de Ris de Veaµ . Beside which someone has written the word sweetbreads . Graham stares at this . .. VERY CLOSE ANGLE - "SWEETBREADS - Just the single word, inked in a fine, elegant hand . Graham's eyes widen in a horrified leap of understanding. He drops the book, turning, already pulling his gun free, only to find himself ... Face to face with Lecter, the pale eyes regarding him calmly. The Doctor's hand flicks out, quick as a striking snake . Graham gasps, looks down .. . The Venetian stiletto is buried to its hilt i n his abdomen. Its handle is gripped by Lecter s right hand , while the Doctor's left hand now flashes up to seize Graham's gun, plucking it from his nerveless fingers. Lecter tosses the gun aside and Graham's hands fumble at the knife, trying to push it away . But Lecter is immensely strong and has him pinned against the bookcase. His face looms close beside Graham ' s as the yoW1ger man struggles, gasping in this obscene embrace . The Doctor's voice is calm, soothing.
+E: CONT'D
+C: LECTER
+D: Shh, shhh - don't mo ve. You're in shock now. I don't want you to feel any pain. Graham writhes, though he's getting weaker by the moment. Le cter presses against him harder. Obj ects tumble from the shelves, SHATTER. The Doctor ignores the mess.
+E: CONT'D
+C: LECTER
+D: In a moment you'll begin to be l i ght­ headed. Then drowsy . Don't res ist. It's so gentle. Like slipping into a warm bach ... PINK Revision 1-2-02 Graham jerks against him. Cries out.
+E: CONT'D
+C: LECTER
+D: Shh, shh ... I regret that it came to this, Will. But every game must have its ending. Shh ... Graham 's eyes roll up. He's very close to passing out.
+E: CONT'D
+C: LECTER
+D: Remarkable boy . I do admire your courage. His lip s are close t o Graham's ear . A lov i ng whisper.
+E: CONT'D
+C: LECTER
+D: I think I'll eat your heart. Graham's eyes glaze over. He goes limp . Lecter grips him in both arms a few moments longer, making sure he's still, then eases his body to the floor, where it slumps like a rag doll's. Graham's eyes stare sightlessly, unblinking. Lecter kneels . He leans over Graham , tilts his chin back, ready to slash his throat, when suddenly the Doctor himself emits a soft grunt. He looks down , surprised . . . Half a dozen Sioux arrows, gripped in Graham's bloody f i st, have been punched into his abdomen. Graham ' s eyes re-focus , staring directly into his. His face - sweat - drenched, contorted with pain - is very close to Lecter' s.
+E: CONT' D
+C: GRAHAM
+D: Eat that. Lecter rises, shocked, lurching backwards as h e tries to pluck out the arrowheads. But they ' re deeply imbedded, and his stiletto interferes with his grip . Graham pulls a second gun. a small .38 revolver , from an ankle holster, aims unsteadily , squeezes the trigger . The BOOM o f the explosions, in this small room, is deafening . NEW ANGLE - SLOW MOTION As most of the slugs mi ss , smashing into the walls, but at least one catches Lecter in the upper chest. spinning him around , hurling him away . The Doctor topples over his desk, knocking the phone off, before coming to re st o n the floor . on his si de , unconscious. Graham, holding h is spilling guts in with one hand , keeps squeezi ng the trigger even after h is gun is empty . Fin al ly his hand drops weakly, the gun CLATTERING on the floor . Re stares at ... Lect: er' s unmoving body. WHITE Locked - 9. Graham, through his faintness, becomes aware of a strange new SOUND. Dully he turns his head,,. Lecter's phone is lying on the floor, its receiver uneradled, humming a DIAL TONE. Just a few feet away, but it seems like a mile . Graham grits his teeth, then, with a supreme effort, manages to topple slowly over in the direction of the phone. Very weakly he reaches out one bloody finger, smearing the o button. After a pause, we hear a VOICE.
+E: whispers
+C: VOICE
+D: Operator.
+C: GRAHAM
+D: Seventeen . Chandler's Square . .. Officer down .. Help me Please help me. His eyes roll up in his head. Se faints .. EXT. NEWSPAPER CLIPPINGS FADE TO: A MONTAGE of NEWSPAPER HEADLINES and PHOTOS, seen in GRAINY CLOSEUPS. Some soberly journalistic, others in the screaming tabloid style of The National Tattler. They are yellowed wi~h age, and have been carefully taped onto the pages of a huge ledger: worn black leather with brass corners. Spidery, obsessive handwriting surrounds the photos. From time to time the lMAGES BLOR as a page ia turned "Local Doctor Wounded, Under Arrest/ FBI Agent 'Extremely Critical'/ Details Ounclear in 'B izarre Bloodbath' .. "Dr. Hannibal Lecter is Chesapeake Ripper/ Chamber of Borrora Revealed" . "HANNIBAL THE CANNIBALII! ... "FBl Agent's Condition Now 'Guarded' / Chance of Recovery ... "HERO COP'S GHASTLY WOUNDS/ EXCLUSIVE HOSPITAL PIX! ... "TRIAL OF THE CENTURY BEGINS !/ FIEND SERVED HUMAN ORGANS TO GUESTS! ! !" ... "Symphony Chairwoman Faints in Court . .. "Lector ' s Capto r Released From Hospital / FBI Agent W ill Testify ... "
+E: whispers File photos of Lecter at a charity event, then Will Graham's Bureau 1.D. photo. A photo of JACK CRAWFORD, Will Graham's FBl mentor, briefing a swarm of REPORTERS outside Lecters townhouse. A photo of Graham, unconscious, in his hospital bed, his body a mass of tubes and bandages. The accompanying story has a byl ine , "BY FREDDY LOUNDS," with a smaller photo of the reporter 's gr i nning face . .
+C: 8A
+D: PINK Revision 1-2-02 10 . "HANNIBAL GUILTY!! ! ... " Lecter Sentenced to Nine Consecutive Life Terms . .. "CANNIBAL TO BE CAGED FOREVER!!!" "TOP COP TO LOONY BIN!/ ' STRESS' CITED .. . "Hero Fed Quits Bureau .. . " A POWERFUL MALE HAND comes INTO FRAME , turning all the way back to the first page of the great l edger. Across this, in hand - illuminated letters, it reads "BeHold A GrEat RED DRAGON ... ReVelAtions 12:3 . The thick fingers rest for a moment on this title page , lightly. Lov i ngly ... FADE TO: EXT. GRAHAM HOUSE AND BOATYARD. FLORIDA. DAY. A cluttered boatyard, adjacent to a weathered gray two-story beach house. Worksheds, trailered boats . SUPER TITLES: MARATHON, FL , /THREE YEARS LATER. MOLLY GRAHAM, in spattered jeans and a painter's mask, is brushing varnish on the teak trim of a sloop. She looks up. A white Ford rental car pulls into the yard, stops . JACK CRAWFORD gets out, stands lo ,oking up at her . His gray D.C. suit and office pallor look out of place here.
+E: Graham in a wheelchair , being pushed by his w.ife, MOLLY, as Crawford and other AGENTS hold their hands up, trying to shield them from flashbulbs and shouted questions. Photo of Lecter , heavily shackled and closely guarded, being frog-marched out of the courthouse.
+C: CRAWFORD
+D: Hello , Molly. Long time. She pulls her mask off, staring down at him. see him, then angry. Then scared .
+C: MOLLY
+D: Are you here from the Bureau or are you here as a friend?
+C: CRAWFORD
+D: A little of both . She stares back at him, her face taut.
+C: MOLLY
+D: You can't have it both ways, Jack. Not anymore. EXT . WORKSHED . DAY. Surprised to Crawford comes around a sandy corner , pau s es as he sees . . . Graham, his forearms greasy, t inkering with a partially
+C: 8A*
+D: ft
+N: PINK Revis io n 1-2-02 1 0A. di sas s embled boat motor, mounted on a sawhorse. When JOSH GRAHAM, ag e 8 , proud l y slaps the c orrect wren ch int o his dad s han d, G raham rewards him with a smile . Crawford , an i ntruder , feels a tiny jab of gui l t.
+S: EXT. BEACH . DAY.
+N: Minutes later , Crawford and Graham sit at a picnic table with glasses of iced tea. Beyond them , high dunes , dense with sea oats . In the distance, Graham's house . The small talk is winding down; an uneasy silence.
+C: CRAWFORD
+D: You know why I'm here?
+C: GRAHAM
+D: I can guess. a
+N: TAN Revision 4-1 8-0 2
+C: CRAWFORD
+D: How much d o you know ?
+C: GRAHAM
+D: Just what was in th e Miami Herald and the Ti.mes .. FROM CLOSER UP, we see that Graham is now darkly tanned, thin b ut fit. He's wary of Cra wford .
+E: reluctan tl y
+C: GRAHAM
+D: Two families killed in their houses a month apart. Binningham and Atlanta. The circumstances were similar.
+E: CONT'D
+C: CRAWFORD
+D: Not similar. The same .
+C: GRAHAM
+D: What've you kept out of the papers?
+C: CRAWFORD
+D: Brown hair , right-handed, really strong. He smashes mirrors and uses the pieces. Wears latex gloves, so we've got no prints. Oh, and bis blood ' s AB positive.
+C: GRAHAM
+D: Somebody hurt him?
+C: CRAWFORD
+D: No . We typed him from semen and sali va . He's a secretor . A brief si len ce. Graham looks away, down the beach.
+N: TAN Revision 4-18-02 12. In the distance , Josh is casti ng a surf rod . Molly scands watching him, hand on her hip, with spent waves creaming around her ankles. Crawford studies Graham's profile.
+C: GRAHAM
+D: I don ' t think I ' d be all that useful to you, Jack. I never think about i t anymore.
+C: CRAWFORD
+D: Really? You caught two. The last two we had, you caught .
+C: GRAHAM
+D: How? By doing the same things you and the rest of them are doing .
+C: CRAWFORD
+D: That's not entirely true, Will . It's the way you think.
+C: GRAHAM
+D: I think there's been a lot of bullshit about the way I think .
+C: CRAWFORD
+D: I ' ve got technicians that can examine evidence. But you've got that other thing, too . Imagination , projection , whatever. I know you don ' t like that part of it.
+C: GRAHAM
+D: You wouldn't. like it either . He takes a sip of tea, then looks at his glass. A beat.
+N: TAN Revision 4-11-02 GRAHAM ( CONT ' D) You get so you can function anyway, as long as they're dead. The survivors are the worst . Parents. Kids ... You have t o shake it off and keep on thinking. I couldn 1 t do that now.
+C: CRAWFORD
+D: These are all dead, Will.
+C: 12A.
+D: He dips i nto his jacket pocket with two fingers. Flips two photographs across the table. Graham g oes very still. With his fingertips, Crawford reaches out, nudges the photos straight, l i ke a gambler displaying a winning pair of aces.
+C: LO
+D: SALMON Revision 3-12-02
+C: CRAWFORD
+D: All dead. Graham looks at him a moment before picking them up . Two snapshots. A prett y woman followed by three children and a dog, carrying picnic items up a pond bank. Her husband waits on a blanket. Another family st ands happily behind a cake. Graham stares at the faces, a long beat. A shadow passes ov er h i s he ar t . He turns his head, looking down the beach again, tow ards .. . Molly and Jos h, as she adjusts the boy's backswing. His son nods, then strides forward, frowning with concentration, and casts again. When she glances this way, her smile fades.
+E: CONT'D g e ntly MRS.LEEDS MR. LEEDS th e JACOBIS
+C: CRAWFORD
+D: Will, th i s freak seem s to be in phase with the moon. He killed the Jacobis in Birmingham on Saturday night; February 25, full moon. He killed the Leeds family in Atlanta night before last, March 28. That's one day short of a l un ar month. So if we're lucky we may have a little over three weeks before he does it a gain ... Hell, I'm not the Pope, I can't tell you what t o do. But Will , do you respect my judgment?
+E: CONT'D
+C: GRAHAM
+D: Yes.
+C: CRAWFORD
+D: I think we have a better chance to catch him fast if you help. Saddle up and help us, Will. Go to Atlanta and Birmingham and look . Just lo ok. Then help me brief the locals. That's it. I NT. GRAHAM HOUSE. MASTER BEDROOM {2ND FLOOR). NIGHT. Graham sits on th e side of his bed, staring out to war ds the moon. Still almost full. Moll y watches from nearby. A * s ilence. PINK Revis ion 1-2-02
+C: MOLLY
+D: That'll last about as long as Taps. Then I get to come home to an empty bed .
+E: CONT' D
+C: GRAHAM
+D: This one will never see me or know my name. I'll help them to find him, but the cops will have to take him down . Not me. 13B.
+N: 1 0A
+C: 10B
+D: PINK Revision 1-2-02 14. For a terrible in stant her face crumples. Graham hugs h er . She hugs him back fiercely. GRAHAM Molly, I'll be at the back of t he pack. I promise.
+E: CONT ' b
+C: MOLLY
+D: Never i n your life. I kn ow you. INT . JOSH ' S BEDROOM. NIGHT. In moonlight, Graham stands looking down at his sweetly sleeping son . Reaches gently to smooth his hair. EXT. GRAHAM'S YARD. DAY Graham embraces Molly , then Josh , a quick , awkward farewell . Then he p i cks up his overnight bag, tru dges across the sandy yard towards a waiting taxi . Watching him go, Molly hugs Josh tightly to her side, as if a cold wind were rising., . EXT. SUBURBAN STREET. ATLANTA. NIGHT. A two-story brick home, set back from the street on a wooded lot. The windows are dark . One yard light burns . A patrol car waits at the cu rb , 'TWO COPS dimly silho uett ed inside. SUPER TITLE : LEEDS HOUSE. ATLANTA, GA. EXT. BACK PORCH. NIGHT. Grahams flashlight beam shows a long porch, with lattice screening giving privacy to the back door . lOA 10
+E: t r i es to smile
+N: lOB PINK Revision 1-2-02 15. The beam picks out deck furniture, kids' bikes, a coiled hose. It passes over, then returns to ... a wicker dog bed and plastic bowl. Graham looks at these. Then takes a rnicrocassette recorder from his pocket, holds it to his lips. Flicks it on.
+C: GRAHAM
+D: Where's the dog? Nobody heard barking. There's nothing about it in the case file. He turns, aims his flash at the back door. Sees an Atlanta PD seal across it . Above this, the single glass pane is missing, replaced by a plywood patch. INT . KITCHEN. NIGHT. Night lights glow on the counters as Graham unlocks door. comes in. He removes his set of keys, softly the door. Stands very still, taking in the house. madness like a bloodhound sniffs a shirt ... the shuts Sensing Finally he trusts himself to move . Crosses to the stove, turns on its hood light: cold neon bathes him. He turns . Gleaming copper bowls. Fr amed samplers. Kids' art under fridge magnets. Happy snaps of the five dead. All-American smiles. Mrs . µeeds was very beautiful . There's a SUDDEN LOUD RmG behind him . Graham starts at the noise. Turns quickly, eyes darting in fear .. . A phone. After a SECOND RING , the answering machine CLICKS ON, and we hear a WOMAN'S RECORDED VOICE.
+C: WOMAN'S VOICE
+D: Hi, this is Valerie Leeds. We can't come to the phone right now, but you're really important to us. So tell us who you are! The machine BEEPS, but there's only a DIAL TONE. Graham stares at the answering machine. INT. STAIRCASE. NIGHT. Slowly, quietly, Graham climbs the stairs. Hang-up.
+C: 15A 15B
+D: YELI..OW Revision 1-14-02 16. EXT. UPSTAIRS HALL. NIGHT. 15 Graham stands in the dark hall outside t he master bedroom. The door is ajar. He hesitates, then softly pushes it open wider. Steps onto the jamb. A long beat. He has to stee l himself to reach in beside the door, turn on the wall switch ... Bloodstains shout at him from the walls, the mattress. the carpeted floor. The very air has screams smeared on it. Graham jerks back out into the hall , turning away from the terrible sight. With his back against the wall, he fumbles out his tape reco rder , keys it.
+C: GRAHAM
+D: The intruder cuts ... cuts Charles Leeds' throat. Then shoots Valerie Leeds as she's rising. She 1 s disabled but not .. . not killed outright. Then he goes down the hall. Towards the children's rooms . . . Light from the open door shows great dark stains on the hall carpet. Matted slide marks join in a wide trail that leads from other bedrooms towards the master. INT. DAUGHTERS' ROOM. NIGHT. Graham 's eyes travel over twin beds with bloodstained pillows. Scattered toys, rows of dolls, stuffed animals .. . He is puzzled , keys bis mike.
+C: GRAHAM
+D: He drags the bodies into the master. But why bothe r? They were already dead. And none of them got the same - extra attention as Mrs . Leeds. INT. MASTER BEDROOM. NIGHT. He stands over Mrs. Leeds ' position in the grownup's double bed , where the bloodst ains are thickest.
+C: GRAHAM
+D: Valerie Leeds was raped after she finally died ... She was beautiful, wasn't she? It was maddening to have to wear gloves when you touched her. His eyes squeeze shut, his head sags onto his re cor der. INT. MASTER BATHROOM. NIGHT. Graham swallows three Bufferin , scooping up water in his hand from the fa ucet. Splashes more water on his face.
+C: 1.SB*
+D: 1r YELLOW Revision 1-14-02 16A . When he straightens, he ' s lo oking at himself in the shattered mirror of the medicine cabinet. Traces of red fingerprint po wder. several shards are missing. He reaches t o the sink for his litcle recorder . Gathers himself again .
+C: GRAHAM
+D: Small pieces of mirror were inserted into t he orbital sockets of the victims . This occurred post-mortem. He lowers the recorder. Stares for a few moments at his own distorted image. Standing right where the killer stood.
+C: GRAHAM
+D: Why did you put mirrors in their eyes? lBA
+E: CONT' D
+C: 18B
+D: PINK Revis i on 1- 2-02 17 . EXT. OMNI HOTEL. ATLANTA. NIGHT. 17 A h i gh-rise hotel, downtown. Stars twinkle beyond the glass to wers. Only a few windows are still lit . INT . HOTEL ROOM. NIGHT. Graham hunches over a coffee table in his room, studying the case file. A binder is open and photos, lab reports , sketches and charts have all been removed, spread out. He rubs his eyes, exhausted. Reaches for a miniature bourbon. Empty . He rises, starting for the minibar, then a thought freezes him. He turns back, looks at the table . Then he kneels, searching quickly for a parti c ular photo. Finds the one he wants ... The daughter's bedroom . Atop the bureau , a row of dolls. in various sizes, sitting lined up in a neat row. Their glass irises seem to look at Graham . Graham starts to tremble. Seeing, in his mind's eye .. . , GRAHAM'S IMAGINATION - KILLER'S POV - The mirrored eyes of Charles Leeds, who"s propped up, head canted, jaw slack. They seem to gleam with life. Next to him - BELOW OS - is Valerie Leeds, her dead face on her pillow. In her upturned eyes, also mirrored, we catch, just fo r an instant, the reflection of a shadowy male face .
+C: BACK TO HOTEL ROOM
+D: Graham is stunned and exhilarated, both at once, by this imagined glimpse. He grabs his microcassette recorder.
+C: GRAHAM
+D: The pieces of mirror made their eyes look alive. He wanted an audience . For him and Mrs . Leeds . He wanted them all to be watching when he touched her ... Touch. Touch. He rises , pacing, on fire. His recorder is forgotten.
+C: GRAHAM
+D: Touch. Ta lcum ... Talc um powder ... He stops. Turns. Sta res down at the photos. He drops to his knees , scrambling through the reports till he find the on he needs . lBA 18B*
+E: CONTI D
+C: 18C 18D
+D: PINK Revisio n 1-2-02
+C: GRAHAM
+D: Traces of talc um f ound on her ri ght i nn e r thigh . .. But none was found in the house. None was found in - 18 . Graham stops. St are s i nto some dark inner distance , seeing ... GRAHAM'S IMAGINATION - KILLER'S POV - The killer's left hand , still gloved , peeling the plastic glove off his right hand. A puff of powder drifts down onto the pale bare skin ot Mrs . Leeds' leg . ..
+E: CONT'D
+C: BACK TO HOTEL ROOM
+D: Graham is sho ck ed , exultant. And furious .
+C: GRAHAM
+D: You took off your gloves , didn't you ? DIDN'T YOU, YOU SON OF A BITCH ! You touched her with your bare hands and then you put the gloves back on and you wiped her down. But while the gloves were off, DID YOU OPEN
+C: HER EYES?
+D: INT. DIFFER,filfr BEDROOM. OMNI HOTEL. NIGHT. In another semi-darkened bedroom, Crawford is also working late, s i tting at a desk while he studies reports with his reading glasses on . When his PHONE RINGS, he glances at the red digits of his alarm clock. 4 :12. He p ick s up the ph one . GRJlJiAM Jack, this is Wi l l . Wbo do we have down here who's really good wi t h latent pr i nts?
+E: V. 0.
+C: CRAWFORD
+D: Atlanta PD is good. yourself. But they the whole house . INTERCUTTING -
+C: GRAHAM
+D: You said so already printed Not the house. The corneas of h er eyes .. . I think he took his glove s off, Jack . I think he had to touch her . Crawford's breath catches. He stares into the darknes s.
+C: CRAWFORD
+D: Jesus, Will.
+C: 18C*
+D: 18D*
+N: WHITE Locked 19.
+S: EXT. ATLANTA POLICE HEADQUARTERS. DA'X.
+N: In the early morning light, TV vans are double-parked, with CAME.RA CREWS and REPORTERS setting up shots, starting their remotes. A huge story unfolding.
+C: DR. PR.INCI
+D: Gentlemen. Ladies. This is what the subject's teeth look like .. . INT . SQUAD ROOM. DAY. A large frontal view of a set of teeth, upper and lower, is tacked to a bulletin board. DR. PRINCI, the chief medical examiner , moves in front of this photo enlargement . He holds up a white dental cast which matches the photo.
+E: V.O.
+C: DR. PRI.NCI
+D: The impressions caae from bite marks on Mrs. Leeds. This reconstruction was done at the Smithsonian in Washington, courtesy of our friends at tbe FBI. There are about THIRTY DETECTIVES assembled here , aitting at schoolroom desks. Several heada now turn as ther look back curiou s ly, or with a hint of territorial bostil ty, at Crawford, sitting at the back . His fa ce remains studiedly neutral . Graham, beside him , is uncomfortable in this very public, emotionally charged setting . DR. PRINCI This degree of crookedness, plus the groove on this central incisor, make bis bite signature unique.
+E: O . S. CONT'D
+C: SOMEBODY'S VOICE
+D: Fuckin' shark. Some nervous LAUGHTER at this, MUTTERS among the cops.
+C: SPRINGFIELO
+D: Kno c k it off. Si tting to one side down front are B UDDY S PRINGFIELD, Chief o f Po l i ce, a burly man in sh i rtsleeves, the COMMISS IONER, a t ough-lo oki ng bla ck man, and some city government SUITS . SPRlNGFIBLD We 're grateful for the Bureau's i nv olvement. They ' ve go t a l ot o f expert i se in this area. In part i cular, Investigator Graham doe s. Is n' t th at right, Jack ?
+E: O.S. CONT'D
+C: CRAWFORD
+D: Yes , s i r . GREEN Revision 1-22-02 20 .
+C: COMMISSIONER
+D: Anything you want t o add, Mr. Graham ? Crawford raises his eyebrows at Gr~. who looks uneasy.
+C: COMMISSIONER
+D: would you come up to the front? Graham stands, walks fon(ard reluctantly. It seems a long way. As he passes the seated detectives, he hears their whispers - "Lecter . . . . Guy that caught Lecter ... Thought he ~- .. Nah , but the sumbitch ' bout gutted him . .. When he turns to face them , something in his eyes makes the detectives go very sti l l.
+E: CONT'D
+C: GRAHAM
+D: Mrs. Leeds and Mrs. J acobi were the primary targets. The others were killed just t o complete his fantasy. I know that might be hard to accept .. . given what you saw. But this wasn't random. It wasn't some killing frenzy. He was never out of control. The detectives watch him intently. The killer"s enlarged teeth grin behind Graham, like those of a jack-o' - lantern. GRAHAM These attacks are highly organized . The women carefully chosen. . . We don ' t know how he's choosing them, or why. They lived in different states and never met. But there"s some connection. Some common factor. That ' s the key . Find out what that is, and we'll sav.e lives ... Because this one is going to go on and on until we either get smart or get lucky . He won't stop. A WOMAN DETECTIVE in the front row speaks up quietly .
+E: CONT I D
+C: WOMAN DETECTIVE
+D: Why not?
+C: GRAHAM
+D: It makes him God. Would you g i ve that up? She's disturbed by his intimacy with the killer's feelings.
+C: GRAHAM
+D: That ' s all I have. A brief, unea sy silence, as he head s back to his seat. Springfiel d replaces him at the front of the room. BLOE Revision 11-20-01
+E: CONT' D pause
+C: SPRINGFIELD
+D: Okay. Airport and hotel details will make the rounds again today. Yes, again. The rest of you, your assignments are on the sheets. The detectives all start noisily rising, grabbing geaz .
+C: COMMISSIONER
+D: One last thing . His stern bass voice sinks them back into their seats.
+E: O.S.
+C: COMMISSIONER
+D: l have heard members of this command referring to the killer as the "Tooth Fairy . " I had better not hear any police officer usi ng that term in public. It sounds flippant. That is all. SOUND UPCOT - the many NOISES of a busy police department, on full alert. RINGING PHONES, WHIRRING COPIERS, VOICES.
+E: CONT'D pause
+C: SPRINGFIELD
+D: You asked about the dog .. INT. CHIEF SPRINGFIELD'S OFFICE. DAY. Springfield, behind his crowded desk, searches through papers, finds a field report. Graham sits in front of him, exhausted from his sleepless night. He takes the sheet, scans it.
+E: V. O.
+C: SPRINGFIELD
+D: Last night a vet called us. Leeds and his oldest boy brought the dog in the afternoon before they were killed. Had a puncture wound to its abdomen. Vet had to put it down. Graham exchanges a glance with Crawford, who stands off to one side, MURMURING into a phone, jotti ng down his messages. Other COPS pass by in the hall outside.
+C: GRAHAM
+D: Was the dog wearing a collar with the Leeds's address on it?
+C: SPRINGFIELD
+D: No .
+C: GRAHAM
+D: Did the J acobis in Birmingham have a dog ?
+C: SPRINGFIELD
+D: No dog .
+E: MORE
+N: WHITE Locked 22,
+C: SPRINGFIELD (CONT'D}
+D: They found a 1itter box in the basement with cat droppings in it. Didn't find any cat . Crawfo rd hangs up in time to see Graham consider this. His voice, when it comes, is soft, his mind ranging far away.
+C: GRAHAM
+D: If the cat was attac ked, too, the Jacobi~ may h,ve buried it. Ask Birmingham to check the backyard .. . Tell them to use a methane probe, it's faster. Springfield looks at him a moment, impressed, before his attention is pulled away by his RINGING phone. SPRINGFIELD Yeah, what ? He listens . Looks at Crawford . SPRlNGFIELD For you. Crawford comes over, takes the phone .
+E: punches a button CONT'D
+C: CRAWFORD
+D: Crawford. Re listens , bis expression changing. Then looks at Grabam .
+C: CRAWFORD
+D: Carl, you're the light of my life. Would it hold up in court? Graham turns, ga%es out the window . His face is blank, closed like a lifer's. Springfield glances at him curiously. CRAWFORD Okay. Yeah . .. Great work. Copies to Atlanta and Birmingham PD's, and Washingto n. Crawford hangs up. Springfield looks at him, wai~ing.
+E: CONT'D into phone CONT' 0
+C: CRAWFORD
+D: They found a print on Mrs. Leed's left eye. A partial thumb. Springfield turns, staring at Graham with amazement, but also something very close to aversion. Graham can feel it.
+E: CONT'D
+C: SPRINGFIELD
+D: That is by God spooky. PINK Revision 1-2-02 23. After a moment Graham rises abruptly, walks out. The big cop's troubled s tare follows h im all the way out the door. EXT. SIDEWALK. DAY. Graham slips out a side door. In the distance. on the fron t steps, REPO RTERS, PHOTOGRAPHERS, and TV CREWS, held back by manned barricades, SHOUT questions at the Commissioner. Graham turns, striding away from all this fuss , when a SMALL MAN darts out of an alley ahead of him, SNAPS his picture. His face pops up from behind his camera.
+C: LOUNDS
+D: Will Graham! Remember me - Freddy Lounds? I covered the Lecter case for the Tattler. I did the paperback.
+C: GRAHAM
+D: I remember . Graham keeps going. Lounds scuttles sideways ahead of him.
+C: LOUNDS
+D: When did they call you in, Will? Whatta ya got? Think maybe the Tooth Fairy will be an even bigger story than Lecter? Hell, he's already beaten Lecter ' s score - Graham moves swiftly, forcing Lounds up against the wall. His face i s scary, but his voice stays low, very intense.
+C: GRAHAM
+D: Lounds, you write lying shit and~ National Tattler is an asswipe. Keep away from me. A hand grabs Graham ' s shoulder from behind. It's Crawford . He pulls Graham, with some effort , away from the reporter.
+C: CRAWFORD
+D: Get away, Lounds. Go on. let's get some breakfast. Will. Will, Corne on, They move away , down the sidewalk , walking swiftly. Lounds in undaunted. Hovers cockily , shouting after them.
+C: LOUNDS
+D: How 'bout an exclusive ... ? H.eY! I can hw you guys! PINK Revision 1-2-02 23A. INT . COFFEE SHOP. DAY. A MOTHER tries to soothe her restless TODDLER. At another table , A FAMILY eats pancakes. WAITERS come and go . Nonnal people , far from the world of slaughter . GRAHAM I'm sorry about that, Jack . . . Crawford and Graham sit nearby, in a booth. Graham is watching the mother and child. He' s still upse t .
+E: 0 . S
+C: GRAHAM
+D: But that bastard sn u ck into the hospital and took a picture of me with tubes hanging out -
+E: CONT'D
+C: CRAWFORD
+D: I know, I know .
+C: GRAHAM
+D: - and Josh saw it. My son saw me like that.
+N: PINK Rev ision 1- 2-02
+C: CRAWFORD
+D: Forget Lounds . And give yourself some credit. When we catch the Tooth Fa i ry, that print plus his teeth will burn him. You did that, Will .
+C: GRAHAM
+D: The evidence was there . It was right there for anybody to see.
+C: CRAWFORD
+D: But nobody else did . All I m saying is, that was very good work .
+E: off Graham's look
+C: GRAHAM
+D: Good police work would be seeing it all the way through and catching this guy, and I can't do that . It would take me at least four weeks to work up a real profile. I did what you asked me to do. I'm going home .
+E: shakes his head
+C: CRAWFORD
+D: Now? You can't stop now. 24.*
+N: 1r YELLOW Revision 1-14-02
+C: GRAHAM
+D: I'm sorry , Jack, I can't be your good luck charm; I don't know who this guy is, he's got no face to me.
+C: CRAWFORD
+D: That's exactly what you said to me in Minnesota about Garrett Hobbs . Remember? And you figured him out.
+C: GRAHAM
+D: No I didn't, I was stuck on Hobbs and I got some help. A beat. They look at each other.
+C: CRAWFORD
+D: From Lecter. Graham looks down at his untouched plate. When he looks back up Crawford is sti ll staring at him.
+C: CRAWFORD
+D: Well. .. ?
+E: CONT'D
+C: GRAHAM
+D: Don't play me, Jack. to do something then say it..
+C: CRAWFORD
+D: If you want me come out and I'm just saying maybe we've got a resource we ought to look into, explore it. His insights are unique , they can't possibly be duplicated .
+C: GRAHAM
+D: Fuck you, Jack. Is that what this was all about?
+C: CRAWFORD
+D: Don t get mad at me, I'm just doing my job. If you know a better short cut, let's take it. If you think there 's any chance he'll talk to me, I'll go myself. If you tell me you can't handle it , God knows I'd understand that, too. It 's your call. 25 . Graham glances again at the family eating pancakes. Then back at Crawford, his face pale and tense. PINK Revision 1-2-02 25A. EXT. INSANE ASYLUM. DAY. A grim Victorian pile of a building looms out of misty rain. Meshed and barred windows, razor wire - topped fencing, and a security checkpoint, manned by uniformed GUARDS. SUPER TITLE : BALTIMORE STATE HOSPITAL FOR THE CRIMINALLY INSANE. CHILTON As a research subject, Lecter has proven most disappointing . . . INT . DR. CHiLTON'S OFFICE. DAY. Pe rch ed behind his ornate desk, eyeing Graham greedily, is DR. FREDERICK CHILTON, the hospital's Chief of Staff .
+E: V .0.
+C: CHILTON
+D: He's simply impenetrable to psychological testing. Rohrshach, Thematic Apperception - he folds them into origamis . As you see. Graham glances politely at an elaborate paper swan. CHILTON So you can imagine the stir Y.QY£ little visit is causing among my staff, Mr. Graham. If you'd care to share some insights -
+E: CONT 'D
+C: GRAHAM
+D: Dr. Chilton, I m sorry . But I "ve got a 4:17 flight back to Atlanta.
+C: CHILTON
+D: Of course. INT. ASYLUM CORRIDOR. UPPER FLOOR. DAY. A heavy steel gate CLANGS shut behind Graham, the BOLT shooting home . He ' s carrying a thick manila file. Chilton walks ahead, still peevish. He glances back at the file.
+E: sniffs
+C: CHILTON
+D: No paperclips in there? No staples, brads, or ring binders?
+N: PINK Revision 1-2-02
+C: GRAHAM
+D: I've read the security protocols , Dr. Ch il t on. CfflLTON Then see that you observe them . Though perhaps it's gratuitous to warn YQM, o f all people , about how dangerous he can be . INT. ASYLUM CORRIDOR. LOWER FLOOR. DAY. They ' re descending into darker , danker regions. Sweating stone walls. Distant BANGING$, forlorn, echoing CRIES .
+E: a thin smile 
+C: CHILTON
+D: Tell me , when you saw Lecter ' s murders , their scyle, so to speak , were you able perhaps t o recon st ruct his fantasies ? And if so, did you jo t down any impressions? Graham doesn't reply . Another steel gate CREAKS open and he goe s through. Chilton follows, irritated . INT. SECURITY STRONGHOLD. DAY. Graham hands his . 44 to a GUARD, as ANOTHER passe s a wand over him, while a THIRD examines the contents of his manila folder. A FOURTH GUARD watches monitors. In locked cases are guns , mouthpieces, Mace , restrain ts, and padded gloves.
+C: CHILTON
+D: Let me be frank , Mr . Graham. The first definitive analysis of Lecter will be a publisher 's wet dream. I'd give you full credit , of course. One guard nods to another, who pushes a button. A final , massive steel door WHOOSHES open, and Graham, after t ak ing back his manila file , walks through into a dark corridor. Chilton can no longer contain himself.
+E: lowers his voice
+C: CHTLTON
+D: Damn it, man, you must have~ ad vice. You caught him . What was your trick?
+E: CONT'D
+C: GRAHAM
+D: I le t him kill me. The cl osin g door erase s Chilton's bewildered re ac ti on. INT. LECTE R' S CORRIDOR, THEN CELL. DAY. Graham t urns , l ooks down the corridor. The cells to either side are da rk; only at t h e fa r end is one lit . PINK Revision 1-2-02 27. Graham takes a breath, gathers himself. This is the hardest thing he's ever done. Then walks quietly in that direction . Shadowy FIGURES. low MUTTERINGS in the barred cells he is passing . .. Lecter's is different: higher security. A thick barrier of plastic. with a pass-through tray . Inside, a bolted-down sink, toilet, table and bookcase, with many softcover books . The . Doctor lies on a cot, turned to the wall , apparently asleep . An issue of Italian Vogue lies open beside him. Graham is looking at Lecter's back, trying to master his dread, when he's startled by the soft. abrupt VOICE.
+C: LECTER
+D: That's the same atrocious aftersha ve you wore in court.
+C: GRAHAM
+D: I keep getting it for Christmas.
+C: LECTER
+D: Christmas, yes . He rolls over, opens his eyes. The pale irises rake Graham.
+C: LECTER (CONT'D}
+D: Did you get my card?
+C: GRAHAM
+D: I got it. Thank you.
+C: LECTER
+D: So nice of the Bureau's crime lab to forward that. They wouldn't give me your home address .
+C: GRAHAM
+D: Dr. Bloom sent me your article on surgical addiction in The Journal of Clinical Psychiatry.
+C: LECTER
+D: And?
+C: GRAHAM
+D: Very interesting, even to a layman . Lecter picks up h is magazine , then rises politely.
+C: LECTER
+D: A layman. Lay-man ... Interesting term. So many learned fellows going about. So many experts with government grants. And you say you're a layman. But it was you who caught me, wasn't it. Will? Do you know how you did it ?
+N: PINK Revision 1-2-02 27A. Lecter crosses, returning his magazine to its tidy shelf.
+C: GRAHAM
+D: I got luc ky.
+C: LECTER
+D: I don 't think you believe that.
+C: GRAHAM
+D: It's in the transcript. What does it matter now?
+C: LECTER
+D: It doesn"t matter to~. Will.
+C: GRAHAM
+D: l need your advice, Dr. Lecter.
+N: PINK Revision 1- 2-02
+C: LECTER
+D: Ye s , I thought so . Birmingham and Atlanta. You want to know how he' s choosing them, don't you ?
+C: GRAHAM
+D: I thought you'd have some ideas . I'm asking you to tell roe what they are.
+C: LECTER
+D: Why should I?
+C: GRAHAM
+D: There are thi ngs you don't have. Research materials. Maybe even computer access. I'd speak to the Chief of Staff.
+C: LECTER
+D: Ah yes . ~. Chilton. Gruesome, isn't he? Fumbles at your head l ike a freshman pulling at a panty girdle . If you recall1 Will, our last collaboration ended rather messily.
+C: GRAHAM
+D: You'd get to see the file on this case . And there 's another reason .
+E: pause
+C: LECTER
+D: I 1 m all ears .
+C: GRAHAM
+D: I thought you might be curious to find out if you're smart er than the person I'm looking for. Lecter turns. Comes closer, staring into Graham's eyes.
+C: LECTER
+D: Then , by implication, you think you're smarter than I am, since you caught me.
+C: GRAHAM
+D: No. I know I'm not smarter than you .
+C: LECTER
+D: Then how did you catch me, Will?
+C: GRAHAM
+D: You ha d - disadvantages .
+C: LECTER
+D: What disadvantages ? 28 .
+N: PINK Revision 1-2-02 29.
+C: GRAHAM
+D: You're insane. Something flickers and dies behind the strange pale eyes.
+C: LECTER
+D: You're very tan, Will. Your hands are rough. They don't look like a cop's hands anymore. That shaving l otion is something a child would select. It has a ship on the bottle, doesn't it? How .i§ young Josh? And the lovely Molly ... ? They're always in my thoughts, you know. Graham doesn't flinch, though Lecter's eyes claw his.
+C: LECTER
+D: You won't persuade me with appeals to my inte lle ctua l vanity.
+E: CONTI D
+C: GRAHAM
+D: I don't think I'll persuade you at all. You'll do it o r you won't.
+C: LECTER
+D: Is that the file?
+C: GRAHAM
+D: Yes.
+C: LECTER
+D: With photos? Let me keep them. and I might consider i t. Graham is sickened by his sudden avidity.
+C: GRAHAM
+D: No.
+C: LECTER
+D: Do you dream much, Will?
+C: GRAHAM
+D: Good-bye, Dr. Lecter .
+C: LECTER
+D: You haven't threatened to take away my books yet. Graham wal ks away. Lecter raises his voice.
+C: LECTER
+D: Give me the file. then. I'll tell you what I think. Graham pauses. Then returns, looks at him.
+E: CONT'D
+C: 30A
+D: YELLOW Revision 1-14 -02 30 .
+C: LECTER
+D: I'll nee d an ho u r. And privacy . After a moment Graham stuf fs his file into the pass-through, SLAMS it in . Lecter looks at the folder a moment, then runs a finger lovingly across its co ver . He smiles brightly.
+E: CONT'D
+C: LECTER
+D: Just like old times , eh, Will ? INT . WAITING ROOM. DAY Graham paces next to a soda machine. He pulls o f f his suit jacket revealing that his sh i rt is soaked with sweat. He sits down on a bench nearby , waiting. INT. LECTER'S CORRIDOR AND CELL. AN HOUR LATER. The file lies open on Lecter's table. pages, his eyes filmed with thought.
+E: CONT'D
+C: LECTER
+D: He stares down at the A pause. This is a very shy boy, Will. I ' d love to meet him ... Have you c ons id ered the possibility that he ' s disfigured? Or that he may believe he's disfigured? Graham, in the corridor, sits in a folding chair. Wearing his suit jacket again.
+C: GRAHAM
+D: The mirrors .
+C: LECTER
+D: Yes . You notice he smashes all the mirrors in the houses , not just enough to get the pieces he wants. And of course those shards in their eyes - so he can see himself there .
+C: GRAHAM
+D: That's interes ting .
+C: LECTER
+D: It's not interesting. You'd thought of th at before.
+C: GRAHAM
+D: I had considered it. What about the women?
+C: LECTER
+D: Dead? Mer e puppets. You need to see them l iving . Will. The way they caug ht his eye .
+C: GRAHAM
+D: That's impossible.
+C: 30A*
+D: 31*
+N: YELLOW Revision 1-14-02
+C: LECTER
+D: Almost. Not quite. What were the yards like?
+C: 30A.
+D: PINK Rev i s io n 1-2- 02
+C: GRAHAM
+D: Big ba c kyar ds , fenced , with so me hedge s. Why?
+C: LECTER
+D: Because , my dear Will , if this p i lgrim fee ls a special relationship with the m oon, he might like to go outside and l ook at it. Have you seen blood in the moonlight, Will ? It appears quite black. If one were nude , say , it would be better to have outdoor privacy for that sort of thing.
+C: GRAHAM
+D: You think the yard might be a factor when he selects victims? LECTER . Oh yes. And there will be more of them, of course. You'll be wanting ~ o f little chin-wags.
+C: GRAHAM
+D: I may not have time.
+C: LECTER
+D: I do. I have oodles .
+C: GRAHAM
+D: I need your opinion now .
+C: LECTER
+D: Yes? Then here's one. You stink of fear . Under that cheap lotion .
+C: GRAHAM
+D: Good-bye, Dr. Lecter.
+C: LECTER
+D: Chis voice rising) You stink of fear , Will ... Graham gets up abruptly , starting away .
+C: LECTER {CONT' D)
+D: But you're not a coward . His words pin Graham in place. Each one drill i ng into his back , l i ke t i ny , precise darts . LECTER You f e ar me , but still came here . Fea r this shy boy , yet st i ll yo u seek him ou t . . . Don 't y ou under s tand , Wil l? You caught me becau s e we're very much alike. Wit hout our ima gi nations , we ' d b e l ike all those other dullards.
+E: CONT ' D MORE 
+N: YELLOW Revision 1-14-02 Graham turns, looks at him. Tries to steady his voice.
+C: GRAHAM
+D: Are you never afraid of anything, or. Lecter?
+C: LECTER
+D: Yesj I fear being bored. In that context you are less frightening than I expected . . . And no~ if you'll excuse me, good day . He returns to his cot, reclines, shuts his eyes , and instantly transports himself to Caravaggio ' s Rome. Graham, staring, feels like his skin has been peeled off. EXT. INSANE ASYLUM. DAY. Hurrying out of the madhouse, Graham stops, shakes his head, trying to clear his brain. Lecter still crawls in there like a fly. TELEPHOTO ANGLE on him, and the rapid WHIRR of a motordrive, as a SERIES OF PHOTOS are SNAPPED: Graham regaining his composure, then heading towards a pay phone on the corner.
+C: LOUNDS
+D: Whoa, stop the presses! The little reporter is staked ou t behind a van in the parking lot, studying Graham intent ly. LOUNDS I always wanted to say that. C'mon, we're outta here. He's with a PHOTOGRAPHER, who looks up from hi s camera. EXT. PAY PHONE. DAY. Graham stands at a pay phone; we hear Crawford's voice.
+E: O.S. CONT'D
+C: CRAWFORD
+D: You sure you're okay . . . ?
+E: V.O.
+C: GRAHAM
+D: I'm okay, Jac k . CRAWFORD What do you think he meant by see them living?
+E: V. 0.
+C: GRAHAM
+D: I'm not sure. Maybe nothing. It's hard to separate his bullshit ... PINK Re v i sion 1-2-02 32A . INT . LEEDS HOUSE. DEN. NIGHT. Graham , frustrated , shuts a drawer in Charles Leeds ' desk. Looks around this cozy panelled room . . .
+C: GRAHAM
+D: But I'm taking another pass at the Leeds house. PINK Revision 1-2-02 33. Plaid sofas, hooked rugs, bookcases. a model ship ... and a big TV set , in a fancy wooden cabinet. Drawers beneath. Interested, Graham wa1ks over. Kneels to open a drawer. Sees a jumble of videos - kids' movies, grownup classics - and a bulky padded mailer. When he tips this, small loose VHS-C tapes spill out. He flips through the handwritten titles ... "POOL PARTY 6/2/86 .. . SUSIE'S DANCE RECITAL 2/9/86 . . . BOBBY'S BIRTHDAY BASH 12/4/85 . " There's also a full -s ized VHS tape , in a handsome plastic container , mocked-up to look like a Hollywood movie. Graham lifts this for a closer look ... The title is THE DEEDS OF THE LEEDS!!,. Glossy photos of the family meuu:,ers, with each face outlined by a star. The dog, a gray Scotty, gets his own star, too. Lettering at the bottom reads: A FEATURE-L ENGTH VHS COMPILATION! INT. SAME. LATER. On the TV screen, the tape's opening credits are just ending. Bouncy CANNED MUSIC underneath. The opening shot is the little Scotty, asleep in a big leather chair . . Graham glances down . He's sitting in the same chair - the dead man's chair. He touches its arm. Then looks back at the TV screen .. . SOUND of a door opening. The dog jumps up , tail wagging, trots towards the kitchen. VIDEO CAMERA FOLLOWS him, UNSTEADILY. The back door opens and Mrs . Leeds comes in with groceries. The lattice, behind her 1 hides the yard.
+E: V.O.
+C: CHARLES LEEDS
+D: Annnd . . . action! She blinks, laughs in surprise, as the three children rush in past her, in a noisy, squabbling tangle , and disappear. She sets her bag down on a counter.
+E: O.S.
+C: VALERIE LEEDS
+D: I am !lQ.t. ready for my closeup, Mr. DeMille. She leans over, shakes out her tousled hair, combing with her fingers , then straightens , striking a mock-glamorous pose. The gesture is touching , oddly intimate. BLUE Revision - 11 - 20-01 33A. Graham, watching, feels his heart pierced. PINK Revision 1-2-02 34. INT, GRAHAM HOUSE, FLORIDA. BEDROOM. NIGHT. Molly wakens to her RINGING phone. Picks it up, glancing at her clock. 12:34. Outside her window, distant surf. GRAHAM Hello, hotshot.
+E: V .0.
+C: MOLLY
+D: Hey, baby! Where are you? INTERCUTTING - As Graham watches his TV screen, with the SOUND MOTED.
+C: GRAHAM
+D: Atlanta. Birmingham tomorrow. Sorry if I woke you.
+C: MOLLY
+D: No, no, are you okay?
+C: GRAHAM
+D: Yeah, I'm fine. I just needed to hear your voice .. How's Josh? On the TV, a new scene, a pool party with family and GUESTS.
+C: MOLLY
+D: He's good. We found some turtle eggs on the beach this morning. Wanna have phone sex? The VIDEO CAMERA SNEAKS UP on Mrs. Leeds, very sexy in a floral bathing suit, as she chats with a WOMAN FRIEND . ..
+C: GRAHAM
+D: I don 't think I could stand it. r think maybe we better not do that.
+C: MOLLY
+D: Okay. You don't mind if we think about it, though? CAMERA ZOOMS IN on Mrs. Leeds' cleavage, BLURRING a bit. She laughs, getting up, blocks the lens with her hand, saying something in protest.
+C: MOLLY
+D: Baby? You still there ... ?
+E: CONT'D after a pause
+C: GRAHAM
+D: Absolutely not. I mean, yeah . .. I don't mind.
+C: MOLLY
+D: You're tired.
+E: MORE
+N: CHERRY Rev i sion 3-26-02
+C: MOLLY
+D: Will, you want to talk about it?
+E: CONT' D
+C: GRAHAM
+D: I don't think I do.
+C: MOLLY
+D: OK. But I ' m here. Always. You know that.
+C: GRAHAM
+D: I love you, Molly.
+C: MOLLY
+D: I love you too, sweetheart. Graham gently hangs up the phone. O~ THE TV SCREEN, the ANGLE SHIFTS , BLURS a moment, then AUTO- FOCUSES, as Leeds extends the camera i n one hand, pointed backwards, to catch himself and his wife kissing. Their guests silently laugh and applaud Graham stares at the TV screen, haunted by this image . .. EXT. JACOBI HOUSE. BIRMINGHAM. DAY. 37 Graham, at the wheel of a rented Buick, CRUNCHES past a Realtor's FOR SALB sign, then stops. He's looking at . . . A big split-level, with sma l l outbuildings, flanked, by a white-fenced pasture. Behind the house , thick woods. A red . van marked sAFESHIELD is parked in the gravel drive. SUPER TITLE: JACOBI HOUSE, BIRMINGHAM.AL, WORKMAN Won"t nobody get in through~ again . . . EXT. SIDE PATIO. DAY. Graham, on a flagged patio, stands by a kne~ling WORKMAN who is insta ll ing a wrought-iron security gate over a set of shiny new aluminum-framed sliding glass doors. WORl<MAN I'll guaran-darnn-tee it . Graham glances towards the front yard . Se es another big house, with good sightlines . He turns back, puzzled.
+E: V . 0.
+C: GRAHAM
+D: Why didn t he break in down there?
+N: 1t PINK Revision 1-2-02 35A. The workman follows his gaze past some shrubbery to a set of concrete steps , leading down to a basement door well.
+C: AND
+D: CHERRY Revision 3-26-02
+C: GRAHAM
+D: It's more hidden.
+E: CONT'D
+C: WORKMAN
+D: Hell, that door's got deadbolts. Reckin he was in too big a hurry.
+C: GRAHAM
+D: No. This one doesn ' t hurry. The man gives him a curious glance .
+E: softly
+C: WORKMAN
+D: Helluva thing. EXT. BACK YARD. DAY 36 . 39*
+C: AND
+D: 41* A small , shallow depression . The location is marked by a fresh triangle of yellow crime-scene tape, tied to sticks. Graham kneels, touches the earth. To one side he finds a childlike bouquet of flowers, dried and withered. It crumbles in his band. His expression changes as a new thought comes to him. He pulls out his recorder , flicks it ' on.
+C: GRAHAM
+D: The pets are like - like foreplay to him . He killed the cat, then waited for the ehildren to find it. He had to see that if he possibly could . But that meant waiting# maybe even a few hours. Where . .. ? He turns slowly . Stares. fence about thirty yards. Head-high brush runs out from the To where the woods begin ... 4 3A CHERRY Revision 3-26-02 37. EXT . DENSE W OODS. DlW . 42 Graham has taken off his blazer. His shirt. under the leather shoulder rig , i s drenched with sweat. He's on his hands and knees, exploring the dense carpet of pine needles and dead l.eaves , when something catches his eye . . . The pop-top fr om a soda can. Near this is a thumb-sized branch. neatly severed. Brown withered leaves amid the bright green undergrowth. Slowl y, slowly , Graham' s eyes travel from the pop-top and the c li pped branch t o the tree behind it . Then up its trunk ... EXT. ELM TREE. DAY. Climbing, already well up in the tree, Graham rea ches for a thick limb just above him. Pulls himself up by it , panting, then leans around the trunk ... He stares at something OUT OF SHOT, a long beat. Then he hauls himself into a sitting position on the big limb , which juts out at a right angle. He turns his head: the branch was cut off to improve t he view . He looks across the open air. ~ . A clear view of the back and side of the Jacobi house. The cat's grave . .. the flagstoned patio , sliding doors . .. and then , on the second floor, the master bedroom window.
+C: GRAHAM
+D: You watched the children bury the cat . You waited for darkness . . . As Graham looks at this, he is seeing, in his mind's eye ... GRAHAM'S IMIGINATION - KILLER'S POV - Night. The moonlit house. A bright square of window . MRS. JACOBI, hair wet from her shower, walks across the room. Passing the window, she starts to slip off her bathrobe . . .
+E: into his recorder
+C: 43A 43B
+D: CHERRY Revision - 3-26-02
+C: BACK TO ELM TREE 37A.
+D: Graham, staring at the same window in daylight, whispers.
+C: GRAHAM
+D: To pass the time, you carved that. He turns his head, looking at the tree trunk again.
+C: 43B
+D: CHERRY Revision 3-26-02 38. on the trunk, a patch of outer bark has been shaved away, exp osing green inner bark. centered in this is a curious carving; it looks like a stake piercing a hollow rectangle .
+C: GRAHAM
+D: You're proud , aren't you? You had to sign your work . .. That's how I ' ll get you. CLOSER on the strange carving , until it FIL LS THE SCREEN . EXT. GRAVEL ROAD. DAY. A weathered sign CREAKS in the wind. A jagged crack down its middle ,makes it resemble the tree c~rving. Its peeling letters read oot--HYDE/ NUR--ING/ H-ME. Beyond this, a gravel road slithers up a low rise to an old country-Gothic house.
+E: CONT'D
+C: SUPER TITLE: ST.CHARLES, MO.
+D: EXT. DOLARHYDE' S ROOSE. VERANDAH. DAY . A verandah surrounds the tall , once-grand house. Down its crumbling length , ancient rocking chairs stir in the breeze, ridden by ghosts. MOVING ANGLE, past these , approaching the front door, as we hear a LITTLE BOY'S VOICE , oddly muffled, wet- sounding . And tearfully scared.
+C: LITTLE BOY {V.O.)
+D: Granmaw. Granmaw. Pleeease, Granmaw . .. l INT, FRONT HALL. DAY . MOVING ANGLE, down the long dark ball , passing a LOODLY TICKING tallcase clock . Ahead of us , an archway , opening off to the right. At the end of the hall, a grand staircase. GRANDMOTHER ( V . 0. } Oh! Oh! I"ve never~ a child as dirty and disgusting as you. Look at you. You're soaking wet . . . ! WE PASS an oil portrait of a stern , gray-haired old woman - GRANDMOTHER DOLARHYDE - wearing a 1940 1 s dre ss and holding a dyspeptic-looking Pekingese. Her features and ha ir style make her resemble George Washington on the dollar bill. Her crooked teeth, revealed in a grim smile, match the dental rnolq we saw in Atlanta.
+C: GRANDMOTHER
+D: Get .mi.t., get out of my bed. Go back up to your room ... ! THROUGH THE ARCHWAY, we catch a glimpse of a former ballroom , later converted to a downstairs ward . Rows of dusty-sheeted cots, each with its bedpan. CHERRY Revision 3-26-02 38A . A big TV set, a couch, and some armchairs are down at one end, along with two or three old-fashioned wooden wheelchairs. One alcove of this ballroom, formerly a dining room , was converted at some point to Grandmother Dolarhyde's bedroom LITTLE BOY Gran.maw . You're hurtin' me . YELLOW Rev i sion Shut up. should've Grandson 1- 14-02
+E: V.O. CONT'D V.O .
+C: GRANDMOTHER
+D: Filthy little put you in an or not. beast. I orphanage. AS WE START UP the staircase, we are becoming aware of a new SOUND - a RHYTHMIC THUMPING, accompanied by LOW GASPS . . . INT . A'M'IC HALLWAY. DAY. MOVING ANGLE. down a lo ng hall , towards the open doorway of a garret room. The room is lit reddish. with swirling points of light , as if it were in flames. T h e THUDS and GASPS are LOUDER, accompa nied by a kind of FRENZIED WHIMPERING ... GRANDMOTHER Into th e bathroom. 'l'ake off your nightshirt and wipe yourself off . Hurry up ... ! INT . GARRET ROOM. DAY. MOVING ANGLE, past a lon e ly twin bed and n i ghtstand . Then a shadowy alcove with a tall steel gun safe, and the doorway to a bathroom. Overhead, a mirror ball spins. firing off refl e ctions from a red spotlight ...
+E: V .O .  V. 0.
+C: GRANDMOTHER
+D: Now give m e my scissors from the medicine chest ... WE COME AT LAST to a workout area - barbells and a weight bench, where a thickly-muscled MAN, wearing gym shorts, is fl at on his back , pumping iron. He GASPS, punishing himself to some new standard of perfection . He wears a stocking mask, rolled down ov er his fa c e. His sculpted phys i que is r efl ected from tall standing mirrors. GRANDMOTHER Take that filthy thing in your hand and stretch it out. Do it~ . boy. Look s;l,QE . Do you want me to cut it off? The man on the bench WHIMPERS. remembering. GRANDMOTHER (CONT 'D} QQ you?
+E: V.O. V. O. CONT' D V. O.
+C: MAN ON BENCH
+D: No, Granma w. N o, G ranmaw . GRANDMOTHER I pledge you my word , Francis , if you ever make your bed dirty a gain I'll cut it of f. Do you und e rs tan d? YELLOW Rev i sion 1-14-02 40 .
+E: whisp ers  V . 0 .
+C: MAN ON BENCH
+D: Yeah, Granmaw. Pleeeease .. . ! The man CRIES OUT, then drops his barbell onto the uprights with a CLANK. He lies there trerobling , drenched with sweat. On his nightstand, two squat glasses , each holding a set of dentures. One set is normal. The second set is the crooked yellow teeth that were once Grandmother's . They match the dental mold we saw in Atlanta. Powerful fingers REACH INTO FRAME, scoop this second set from its glass. INT. GARRET BATHROOM. DAY. CLOSE ON a shattered mirror, over a medicine chest, with many shards missing. GRANDMOTHER took in this mirror. I said l,QQk! SOUND of SHATTERING GLASS. The BOY'S VOICE CRIES OUT. After a moment, the GROWNUP MAN steps in front of the mirror. He has rolled the stocking mask up to his nose ; we see only his lower face, weirdly fragmented by the mirror's missing pieces. His cheeks look strangely hollow . Be has a surgically repaired cleft palette.
+E: V. 0 .
+C: GRANDMOTHER
+D: See that ugly mouth? That's the devil's mark ... His big hand covers his mouth for a moment. We hear a MOIST CLACKETY SOUND. When it comes away, he has inserted his Grandmother's stained dentures.
+E: CONT'D
+C: GRANDMOTHER
+D: That's why no woman will ever love you. Except for me, Francis . Only me. Never forget that . The crooked yellow teeth gleam, just for an instant, in an awful rictus of a smile.
+E: CONT D
+N: INT. GARRET ALCOVE. DAY. so A semi-human pragon, on an art poster, looms over a reclining woman. In its niche beside the gun safe , lit by candles, this poster forms the centerpiece of a shrine. As we look at the fiercely - muscled Dragon , the GRANDMOTHER'S VOICE morphs slowly into a DIFFERENT VOICE - the deeper, more spectral, MALE VOICE of the DRAGON Himself.
+C: DRAGON'S VOICE
+D: NOW GO BACK TO BED. AND NO MORE
+C: SNIVELLING.
+D: YELLOW Revis ion - 1-i4-02 MAN I' 11 be a good boy. I promise . ..
+E: O.S . whispers
+C: 40A.
+D: YELLOW Revision 1-14-02 41. crouching below the poster, hi s back to us, is the muscular man. He has close-cropped brown hair and is now wearing a silk komono . He spi ns the combi na tion l ock on his gun safe, then opens it, REVEALING camera equipment. a 9 mm. Glock with a homemade silencer, a sawed - off shotgun . .. and his huge black ledger . Carefully , reverently , he opens this , rest ing it on a small table. The safe is large enough for him to s tand upright . He switches on a gooseneck lamp . Across c:be first page, in hand-illuminated le tters , we see again the w ords BeHold A GrEat RED DRAGON . . . The man lean s over, his face in shadows, and picks up a new clipping from a loose pile of newspapers on the floor. Caref ully he presses this into place on a blank page .. . Will Graham. in the photo snapped outside the asylum . Above this , Freddy Lounds . grinning in his by-line portrait , and th e screaming Tattler headline , INSANE FIEND CONSULTED IN ' TOOTH FAIRY' MURDERS/ BY SAME COP HE TRIED TO KILL!! ! " A red marker pen appears, angrily slashes out the words :TOOTH FAIRY, M then circles Lounds' face. The offending page is turned , then a co~ple more, before the thick fingers pause ... Hannibal Lecter. tuxedoed and suave, from an o ld pre - arrest society ph oto. There are many Lecter photos. He ' s an idol. The man's thick f i ngers hover over this page for a moment , then touch the Doctor's face admiringly .. . EXT. INSANE ASYLUM. CORRIDOR/ THEN EXERCISE PEN. DAY. Graham walks down a narrow corridor as a GOARD opens a barred door ahead of him , then crosses through a checkpoint cage as a SECOND GUARD opens another barred door . He ' s carrying an 8xl0 color photo of the curious tree carving . Emerging into a two~story gymnasium, he sees ... Hannibal Lecter walking directly towards bim. Smiling brightly. No bars between them, no security glass . .. ! Graham pauses , unable to keep his heart from pounding . At the last moment , just six feet away, Lecter is brought to a halt ; there's a rattle overh ead. Graham glances up, sees the metal track , suspended from a grid below the ceiling, that holds Lec ter's sturdy le ash­ restraint system . GUARDS with slung rifles watch his every move from the second-floor j ogging track . The Doctor is harnessed a nd handcuffed , though not muzz led. His eyes are bright and curious, like a bird's.
+C: LECTER
+D: Good morning, Will! So nice of you to visit aga in.
+N: YELLOW Revision 1-1 4- 02 Graham holds up the photo.
+C: GRAHAM
+D: He carved this on a tree, near the Jaco b i house. With a buck knife . Lecte r s tudies the image briefly .
+C: LECTER
+D: Ah. The same one later used on Charles Leeds.
+C: GRAHAM
+D: Yes . 41A . Lecter turns, moves in the other direction. His leash allows him to walk in an oblong oval, which is painted on the floor. Graham walks along beside him , careful not to stray inside a second, larger ring that marks the safety perimeter. He has to move quickly to keep up with the Doctor's pace . GRAHAM He had a second tool, too. A bolt­ cutter. He used that to clear his view.
+E: CONT 0
+C: LECTER
+D: But ... ?
+N: PINK Revision 1-2-02
+C: GRAHAM
+D: But I don ' t think that's what he brought it for. It ' s too heavy. Too awkward. And be had to carry it a long way.
+C: LECTER
+D: Mm. And what do we make of that? Still striding , he nods towards the photo.
+C: GRAHAM
+D: I don't like to admit it, but we're stumped. Any thoughts?
+C: LECTER
+D: Do you take me for a child, Will? Do you think I'm simple?
+C: GRAHAM
+D: All right. Asian Studies at Langley identified it as a Chinese character. It appears on a Mah-Jongg piece . It marks the Red Dragon.
+C: LECTER
+D: Red Dragon. Correct. This boy begins to interest me.
+C: GRAHAM
+D: Doctor, we don't know what greater meaning th is symbol might have for him . If you could -
+C: LECTER
+D: Do you like my little exercise cage, Will? My so-called lawyer is always nagging Chilton for better accomodations. I don't know which is the greater fool.
+C: GRAHAM
+D: We thought perhaps , with your insight -
+C: LECTER
+D: A robin redbreast in a cage/ Puts all Heaven in a rage . Ever~ a redbreast , Will? Of course you have. I'm only allowed thirty minutes in here, once a week. Get to the point. He stops abruptly, turning towards Graham.
+C: GRAHAM
+D: I think he meant to use the bolt cutter t o enter the house . But he didn ' t . Instead he broke in through the patio doors. PINK Revision 1-2-02 GRAHAM The noise woke Jacobi and he had to shoot him on the stairs. That wasn't planned. It was sloppy. It's DQt; 1.ike him.
+E: MORE CONT ID
+C: LECTER
+D: We mustn ' t judge too harshly , Will . It was his first time. Have you never felt a sudden rush of panic? He takes a sudden step towards Graham, lightning quick. Graham steps back involuntarily . Lecter smiles.
+C: LECTER
+D: That ' s the fear we talked about . It takes experience to master it ... You sensed who I was, back when I was committing what you call my crimes.
+E: CONT'D
+C: GRAHAM
+D: Yes.
+C: LECTER
+D: So you were hurt not by a fault in your perception or your instincts, but because you failed to act on them until it was too late.
+C: GRAHAM
+D: You could say that.
+C: LECTER
+D: But you're wiser now.
+C: GRAHAM
+D: Yes.
+C: LECTER
+D: Then you wouldn't make that same mistake again. In the unlikely event, let us say, that you should ever encounter our pilgrim.
+C: GRAHAM
+D: Probably not . I think not.
+C: LECTER
+D: Imagine what you would do, if you could go back.
+C: GRAHAM
+D: Put two in your head, before you could ever palm that stiletto .
+C: LECTER
+D: Ummm. Very good, Will. 43 .
+E: MORE
+N: PINK Revision 1-2-02
+C: LECTER
+D: I believe .we"re making progress . . . And tha t 's what our pilgrim is doing, h e's refining his methods . Re is evolving. The case file mentioned videos of the Leeds family. l'd like to see those.
+E: CONTI D
+C: GRAHAM
+D: No. 43A.
+N: BUFF Revi sion 2-21-02
+C: LECTER
+D: Why not?
+C: GRAHAM
+D: It would be obscene.
+C: LECTER
+D: You don ' t make it easy, do you? Still, one aims to please. I'll call you if I think of anything else. Would you like to give me your home number? 44 . In the background, an air-horn sounds briefly. Graham turns his head, sees a caged red light flashing on the wall. He turns back at Lecter, whose pale eyes have never left his.
+C: GRAHAM
+D: End of our session, I think, Doctor .
+C: LECTER
+D: For now. He points his cuffed hands at the photo. . LECTER This was only his first time. Already in Atlanta he did much better. Rest assured, my dear Will, thia one will give you plenty of exercise . As Graham stares at him, we hear a SOUND UPCUT: a clanging of steel. then BARNEY' S VOICE.
+E: CONT'D
+C: BARNEY
+D: Go to the back of the cell, Dr. Lecter . Face the wall .. . INT . LECTER'S CELL. DAY. Lecter does as commanded, quite meekly, while behind him BARNEY and a TENSE SECURITY GUARD open his door and enter the cell . The security guard levels a large-bore air rifle, while Barney has a can of Mace and a phone, its long cord trailing down the corridor.
+E: V .O.
+C: BARNEY
+D: If you turn around before you hear the lock snap, you ' ll get a dart. Understood?
+C: LECTER
+D: Oh, yes indeed . BARNEY sets down the phone, __ then they both back out quickly, eyes always on Lecter, and SLAM his door.
+N: BUFF Rev isio n 2 -21-0 2
+C: BARNEY
+D: You'v e got ten minutes to talk t o yo ur la wyer . Star t i ng now .
+C: LECTER
+D: Than ks so much, Barney . 45 . He waits , bearing their footsteps recede . He ' s l ooking at t he phone. Its' rotary dial has been replaced by a blank metal plate. A red light blinks . When he ' s sure the guards are gone, he picks up the receiver .
+C: LAWYER'S VOICE
+D: Hello? Dr . Lecter ... ? Lecter presses down the phone's hook , one quick tap . Then, before the line can go dead , he taps it again, in a quick, intricate rhythm: one tap, pause , then three , pause, then more r as the phone reads his clicks as dialing . .. BOOKSELLER Robes . . . R obesp i erre ... Robin. INT . BOOKSTORE. DAY. Graham is at an information desk , where a p retty young BOOKSELLER with a flash of green hair i s study i ng a copy of Bartlett's . She runs her much-ringed fingers down a page .
+E: on phone V.O.
+C: BOOKSELLER
+D: Robin , ~ for ... Robin , fainting ... Ta-da! Redbreast in a ~- Four-oh-six point nine. She flips pages quickly, finds the r ight quotation .
+C: BOOKSELLER
+D: A robin redbreast in a cage / Puts all Heaven in a rage. William Blak e. Auguries of Inn ocence.
+E: CONT' D
+C: GRAHAM
+D: Do y ou have that?
+C: BOOKSELLER
+D: Should have . We' v e got a book o f Blak e ' s pai n tings , to o. Want to see it? INT . LECTER' S CELL. DAY. Lect er l oun ge s on his cot , cradling his receiver . We hear a WOMAN'S VOICE on the o ther end o f h i s lin e.
+C: WOMAN'S VOICE
+D: Psyc holo gy Departmen t , Univers ity of Chica g o . Dr. Blo om's off i ce . YELLOW Revision 1-14-0 2
+C: LECTER
+D: Oh, hi, this is Bob Greer at Blaine and Edwards Publishing?
+E: on phone
+C: LECTER
+D: or. Bloom asked me to send a copy o f The Psychiatrist and the Law to Will Graham, and his secretary was supposed to give me the address and phone number, but darn it, she never did.
+E: CONT'D
+C: WOMAN ON PHONE
+D: I'm just a graduate assistant, Linda will be in on Monday -
+C: 45A.
+D: ss WHITE Locked 46 .
+C: LECTER
+D: Gosh, I have to catch FedEx in about five minutes, and I hate to bother Dr. Bloom about it at home because be told Linda to send it and I don't want to get her in hot water. It's right there in her Rolodex or whatever . I'll dance at your wedding if you'll read it to me .
+C: WOMAN ON PHONE
+D: I don't know, I'm really not -
+C: LECTER
+D: Be a darling and flip tha t little rascal and I won't take up any more of your time. Graham comma William?
+C: WOMAN ON PHONE
+D: All right, just a minute . It doesn't give the address of his house.
+C: LECTER
+D: What does it have, dear?
+C: WOMAN ON PHONE
+D: Federal Bureau of Investigation, Tenth and Pennsylvania, Washington, D.C. Oh, and let's see .. . P.O. Box 3680, Marathon, Florida.
+C: LECTER
+D: That's fine, you're an angel.
+C: WOMAN OH PHONE
+D: You're wel co me. The Doctor hangs up. Smiles thoughtfully . INT. BOOKSTORE. DAY. Strange, ethereal images slip past our eyes - angels and devils, feverish colors - as Graham sit s at a table, flipping th rough a large book of Blake's watercolors . Ontil one especially startling image makes him stop , look closer . . The same pain tin g as i n Dolarhyde's shrine. A horned, winged, thickly-muscled man-dragon, with human legs and a tail. He's poised in sexual menace above a reclining, helpless woman; she is apparently wrapped in flames. Graham's eyes travel down to the caption ... ffThe Red Dr agon and the Woman Clothed with the Sun, c.1803 - 05 / Brooklyn Museum of Art.w As Graham stares at this, struck by its eer i e power, the c ute bookseller comes up, gla nces over his shoulder . ss YELLOW Revision weird. 1-14-02
+C: BOOKSELLER GRAHAM
+D: Yeah.
+C: BOOKSELLER
+D: Looks like a pretty hot date, though. $he smiles, flirting a bit. Graham smiles back. EXT. CHROMA-LUX INC. DAY. 47 . A large, flat-roofed, dun-colored building , nearly identical to all the others in this vast industrial park . SUPER TITLE: ST. LOUIS. MO. INT. CHROMA-LUX INC. DAY. A HUM of MACHINERY as WE FOLLOW a MAN with cropped brown hair, broad shoulders i n a white lab coat, thro ugh a labyrinth of corridors; we catch glimpses of rooms dense with some sort of hi-tech equipment. Other WORKERS, passing in the hall, glance briefly at the man's face, then away, out of respect or perhaps uneasiness. INT. INFRARED LAB. DAY . A sign beside a door reads : INFRARED SENSITIVE MATERIALS IN USE. NQ SAFELIGHTS. NQ SMOKING. NQ HOT BEVERAGES." The red light is on above this sign. A THICK FOREFINGER reaches out, pushes a button. After a moment, the li ght turns green, and the brown-haired man OPENS the door, ENTERS the light trap, then RAPS on an inner door.
+C: WOMAN'S VOICE
+D: Come. WE ENTER into cool, almost absolute darkness. A GURGLE OF WATER, the slight CREAK of a desk CHAIR. The man's voice is shy, cautious . Every word is carefully weighed.
+C: OOLARHYDE
+D: I'm Francis Dolarhyde . I came for that package of infrared .
+C: WOMAN' S VOICE
+D: Oh, right. Put your back against the door, come forward three steps , until you feel the tile under your feet , and there'll be a stool just to your left. Dolarhyde moves through the dark . SQUEAK of the stool as he sits. The RUSTLE of her LAB APRON. Very close to him.
+N: YELLOW Revision 1 - 14-02
+C: WOMAN'S VOICE
+D: The same "Mister D." who ' s head of Tech Serv i ces over in tbe main plant . Am I right?
+E: CONT'D
+C: OOLARHYDE
+D: The very one.
+C: WOMAN'S VOICE
+D: I ' m Reba Mcclane. Just a second more and we'll get you some light . .. ( a timer RINGS} There we go . Okay. Lemme just put this stuff in the Blac k Hole ... A DOOR CLOSES on RUBBER SEALS. The HISS of a VACUUM LOCK . Then the slight SQUEAK of her SNEAKERS as she passes him. After a moment the lights come on. REBA MCCLANE stands by the door, smiling in his approximate direction. She has a hand.some prairie face, a page boy, freckles. Her eyes make small , random, unseeing movemen~s. DOLARHYDE stares at her, surprised . we see his face clearly for the first time, even a s Reba cannot. A white scar line runs from his upper lip to his n ose, but his features are otherwise unremarkable, even attractive, except for his wary , predatory eyes. They flash towards .. . Her white cane , propped in a corner .. . Then back to the woman herself . He can stare at her all he wants. A strange and wonder ful freedom.
+C: REBA
+D: What do you need the IR for?
+C: OOLARHYDE
+D: It' s for the zoo ... The World of Darkness. They want to photograph the nocturna l animals.
+C: REBA
+D: That's great. I love animals. She crosses the lab unerringly, stops by a refrigerator, opens it without fumb ling , bends over to reach for somethi ng on the back of a shel f . REBA {CONT'D ) I gotta warn you, though, this stuff is pretty sensitive. It can be mean to handle. She tu rns around with a small shrink-wrapped package. holds it out in his general direction.
+N: WHITE Locked 49. REBA (CONT' 0) But I guess I don't have to te1l you that. Dolarhyde takes the package. Disturbed and aroused to be alone with her. Almost touching . SOUND of the DOO~, behind them. They both turn as a co-worker, RALPH HANDY, pokes his head in with a breezy smile. Spots of
+C: RALPH
+D: Hi, Reba. Yo, Mr. D. Whoa! I'm not interrupting anything, am I?
+C: REBA
+D: No, Ralph.
+C: RALPH
+D: Listen, Reeb, it's startin' to spritz out there. How 'bout I give you a lift home?
+C: REBA
+D: You ride a motorcycle, Ralph. How does that help me with the rain?
+C: RALPH
+D: Yeah, well , I thought maybe we'd stop off somewhere for a little sundowner. color appear in her cheeks. REBA I've already got a ride.
+E: winks at Dolarhyde
+C: RALPH
+D: Sure I can't change your mind?
+C: REBA
+D: I can manage very well, thank you.
+C: RALPH
+D: Hey, that's cool. No problemo! Before going, he leers at Dolarhyde, tilts his head towards Reba, then pumps his forearm lewdly. Hot stuff, huh? The door BANGS shut behind him. Reba crosses angrily, starting to collect her handbag, raincoat, headscarf and cane.
+C: REBA
+D: If there's anything I hate worse than pity, it's fake pity. Especially from a walking hard-on like Ralph Mandy. Sorry . Dolarhyde is startled, uncertain how to respond . BLUE. Revision 11- 20-01 50.
+C: DOLARHYDE
+D: I have no pity . Reba pauses, looks in his direction. Smiles gratefully. EXT. PARKING LOT. NIGHT. ~9 POV AUGLE, through a rain-streaked window, as Reba follows a concrete di vider across the parking lot, tapping the edge with her cane, until she reaches a bus stop. She stands under the shelter waiting. Dolarhyde, a hundred feet away, watches her from behind the closed window of his van . After a moment he makes an unprecedented, imp ulsive decision. Sta r ts his van. EXT. BUS STOP. NIGHT. Reba looks up at the SOUND of the VAN as it splashes up beside her, then idles . The window WHOOSHES dovn. DOLARH'fDE Ride with me.
+C: REBA
+D: Thanks, but I take the bus all the time.
+C: OOLARHYOE
+D: Mandy ia a fool. Ride with me .. . .. for my pleasure. She is surprised, then pleased by his unexpected chivalry. EXT. DOLARHYDE' S VAN. DRIVING. NIGHT. Dolarhyde eases up to the curb in front of a duplex in a quiet neighborhood. Glances at her mailbox to be sure he's got the right address . Then, gripping his steering wheel tensely, he stares straight ahead through his wipers. Reba, beside him, measures his quiet as shyness.
+E: what do men s~y? 
+C: REBA
+D: Want to come in? I'll fix us a drink . He turns, looks at her. Her pretty face. Her unseeing eyes, glowing like mirror shards in the dashboard lights. After a moment his silence makes her smile falter a bit .
+C: REBA
+D: Maybe a nother time .
+E: CONT'D
+C: OOLARHYOE
+D: I wi ll - come in. YELLOW Revision 1-14-02 51. INT. REBA'S APARTMENT. LIVING ROOM. NIGHT. Reba stands her cane in a co r ner and is suddenly free. She moves about with a.mazing e ase , han ging her coat in a closet , ~r opping her bag on a chair, switching on lights. She's nervous , exc ited , not muc h used to men in here .
+C: REBA
+D: How 'bout a gin and tonic? tte wa tc hes closely, fascinated by her physical assurance.
+C: DOLARHYDE
+D: Tonic will be fine.
+C: REBA
+D: You 1 re not a drinker?
+C: DOLARHYDE
+D: No .
+C: REBA
+D: I'll make us some coffee, then. And maybe a piece of pie? Karo pecan, it's dynamite .
+C: DOLARHYDE
+D: Fine. INT. KITCHEN . NIGHT . Reba turns away from her refrigerator w i th a whole pie, sets it down on her center island, where Dolarhyde sits stiffly upright , on a stool . Nearb y , she has started coffee.
+C: REBA
+D: When is the zoo project?
+C: DOLARHYDE
+D: Maybe next week. They'll call . She goes to a woo d block, removes a knife, testing its sharpness with her finger. She sets it down near D ol arhyde. He looks at the gleaming blade.
+C: REBA
+D: I l ove zoos. In fac t, one of my earliest memories is seeing a cougar , when I was about five. He st ares at her with renew ed wariness . She misreads his silence as t ac t, smiles appreciatively. REBA I didn't lo se my si ght till I wa s se ve n. Diptheria. WHITE Locked - 52. She spans the pie with her fingers, bringing her thumbs together to locate its center, then marks this with a tooth pick. She puts the middle finger of ber left hand on the toothpi ck, her thumb on the edge of the tin.
+E: CONT ID
+C: REBA
+D: Could you hand me that kni£e? He picks up the knife, feeling its power. Looks at her. She smiles. Extends her palm. He makes himself reverse the blade , placing the handle gently on her outstretched palm. She cuts him a piece of pie, guiding the knife with her ieft index finger. He watches her handle the bright blade. Snick snick. She sets hi s piece out on a plate.
+E: CONT'D
+C: REBA
+D: Anyway, I've always tried to hang on to what that co ugar looked like . Although by now, to tell you the truth, what I see in my head is probably not the least~ like a cougar . More like a donkey, or a goat . She finds him a fork in a drawer, sets that by his plate.
+E: CONT'D laughs
+C: REBA
+D: Sometimes I'm not so sure anymore I really saw him . . You know? Like maybe he's just something I dreamed up. . She stops, suddenly self-conscious. Looks his way.
+E: CONT'D
+C: REBA
+D: You okay?
+E: CONT'D
+C: DOLARHYDE
+D: Um-hmmm.
+C: REBA
+D: You don't say much, do you?
+C: DOLARHYDE
+D: Mrn-mmm.
+C: REBA
+D: Let's talk about something for a minute and get it .out of the way, okay? Silence. She moves closer to him. He's barely breathing. BLUE Revision 11-20-01
+E: hesitates
+C: REBA
+D: I can hear you've had some kind of soft palate repair. But I understand you fine because you speak very well. If you don't want to talk to me, that's cool. But I hope you will .. . 'Cause I know what it's like to have people always thinki ng you're different.
+E: CONT'D
+C: DOLARHYDE
+D: Ummm. That's good.
+C: REBA
+D: Hay I touch your face? know if you're smiling I want to know whether up or not. I want to or frowning. to just shut She holds her hand out, waiting . He stares at her, astounded. Then takes her wrist between his thumb and forefinger. A living woman, strange feeling ... He brings her fingers close to his teeth . How easy it would be to snap them off. Snick snick. He can't let her touch his mouth. He cannot. But by a great effort of will, he spares her life .
+E: wryly, now
+C: DOLARHYDE
+D: Take my word that I'm smiling. He holds her wrist away and releases it. Her hand settles to the counter top, fingers trailing like an averted glance.
+C: DOLARHYDE
+D: I have to go. She nod s, sadly. He rises, heads to the kitchen doorway.
+E: CONT'D
+C: REBA
+D: If I offended you, I didn't mean to. He turns, looking at her . Still furiously aroused, at war with himself. But his voice is soft.
+C: DOLARHYDE
+D: No. He goes out into the living room, and she listens for the CLICK of the LOCK as he pulls her front door closed behind him. She shakes her head wryly - what an idiot I arn! Then, after a moment, puts her fingertips gently on the stool where he was sitting. Still warm. She smiles.
+C: GRAHAM
+D: I ' ve been to their house, yeah . . . BL0E Revision 11-20-01 54. EXT. FBI BUILDING. DAY. The massive headquarters of the FBl looms over Pennsylvania Avenue as cars and ~axis stream by. We hear OFFICE SOUNDS . SUPER TITLE: J,EDGAR HOOVER BUILDING, WASHINGTON. D,C, GRAHAM But I still don't have much sense of what the Jacobis were really like ... INT. TASK FORCE OFFICE. DAY. Graham is using a borrowed desk in a . far corner of the special task force office. Walls and bulletin boards are covered with case photos, maps, lists, assignments. In the b.g., other AGENTS are also working phones or conferring.
+E: V.O. V . 0.
+C: GRAHAM
+D: It would help if I could see some of their personal effects. Diaries, letters ... Do you have those things , Mr. Metcalf? INT. LAW OFFICE. BIRMINGHAM. DAY. BYRON METCALF, an overweight good ol' boy, leans back in his leather desk chair, looking out his window.
+E: on phone
+C: METCALF
+D: Sure do. Other than one or two little keepsakes that Niles Jacobi got. rNTERCUTTING - As Graham glances down a file, ticking off the name.
+E: on phone.
+C: GRAHAM
+D: That would be . . . Mr. Jacobi's surviving son, by his first wife?
+C: METCALF
+D: That's right. As their executor, I keep all that stuff here in the office, along with the small valuables. Just till after probate . But Birmingham P.D.'s been all through it. Crawford enters the task force room, ,spots Graham, hurries ~awards him, looking unusually tense and excited .
+C: GRAHAM
+D: Can you pack those effects and ship them up here?
+E: MORE
+N: BLUE Revision - 11-20- 01
+C: GRAHAM
+D: I hate to ask. It s a pain in the butt.
+E: CONT'D no response 
+C: 54A.
+D: YELLOW Revi s ion 1-14-02
+C: METCALF
+D: Ah , hell. The probate judge is a golf buddy of mine. Just tell me you're gonna nail this sumbitch . Crawford twirls a finger. Hang up , it ' s urgent.
+C: GRAHAM
+D: We're doing our best , Mr. Metcalf. Thanks . . . Thanks so much. He hangs up . Looks at Crawford expectantly.
+C: CRAWFORD
+D: Will . . . a note, hidden in Lecter ' s cell. Sounds like a fan let ter . It might have been mailed by the Tooth Fairy. Graham stares at him. His mind already racing .. .
+C: CRAWFORD
+D: He wants Lecter's approval. He's curious about you. He's asking questions. I've already scrambled a chopper ... Will?
+E: CONT'D
+C: GRAHAM
+D: Does Lecter know we have the note ? INT. ASYLUM . LECTER' S CELL. DAY. A uniformed CLEANING MAN is wip1.ng down the sink with a wad of toilet paper . As he spins a new handful off the roll, two loose pi eces of tissue come loose, settling to the tiles. He stares at the dense, spidery handwriting on them .. . CRAWFORD Not yet . It was found during a routine cleanup. GRAHAM They don ' t open his mail ? CRAWFORD Can ' t, need a warrant. X-rays only . GRAHAM Where's Lecter now? INT. HOLDING CAGE. DAY. Lecter s its on a metal bench , h i.s back aga i nst a cinderblock wall . Qui te relaxed , eyes shut, apparently daydreaming. His wrists are cuffed behind hi s back . CRAWFORD (V . 0 . l St ill in the holding cage.
+E: V . 0. V. 0 V .O. V. 0 .
+N: YELLOW Revision 1-14-02 SSA. GRAHAM (V . 0.) Can he see his cell fr om there? Lecter s eyes open. Across from him , chrough the steel bars. is see a narrow band of corridor. WHITE Locked - 56.
+C: CRAWFORD
+D: No, but he's already been the~e almost half an hoar. Pretty soon he'll start to wonder what's wrong. INT. TASK FORCE OFFICE. DAY. The other agents fall silent, looking towards the huddled Graham and Crawford, picking up_on their excitement. Three of them - BAKER, RANKIN, and WILLINGHAM -drift this way.
+E: V. O.
+C: GRAHAM
+D: We've gotta buy some time, Jack . Create a diversion ... Crawford looks at him a mo~ent, then grabs up a phone receiver . Punches one of the blinking orange buttons.
+C: CRAWFORD
+D: Dr. Chilton? Call your building superintendent or engineer, whoevers in charge. Tell him to pull the circuit breakers on Lecter's hall. Have the super walk down the hall past the holding cell carrying tools. Re'll be i n a hurry, pissed off, too busy to answer any questions - got it? And don't touch the note, okay? Graham's on his way. He hangs up. Looks at the tense fa ces of his gathering team.
+C: CRAWFORD
+D: We've got a note coming in on the fly, possibly from the Tooth Fairy. Num.ber One Priority. It has to go back to Lecters cell within the hour, unmarked. We'll need Hair end Fiber, Latent Prints, then Documents . I'll walk it through myself. Let's g£, people! EXT. WASHINGTON LANDSCAPE. DAY. An FBI helicopter tlashes by, with the Potomac below and the Washington monument in the distance. DOLARHYOE "My dear Dr. Lecter. I wanted to tell you I'm delighted that you have taken an interest in me . " EXT. ROOFTOP HELIPAD. DAY, Graham climbs out the door of the helicopter, ducking his head against the heavy wash of air from the still whir li ng blades. He's carrying a document case. YELLOW Rev is ion 1- 14- 02 OOLARHYDE ~And when I learned of your va s t correspondence I thought Dare I? Of course I do . . . 57 . He hurries to wards Crawford and Baker , who's propping a doo r open . As Crawford grabs the case, Baker says something into his walkie - taikie. INT. HAIR AND FI BER LAB. DAY. The note , on two pieces of t oi let paper, is n ow within a plasti c sheath , clipped atop a light box. The top piece has a ragged hole where part of the text has been torn out. More of the text, near the tattered edge, has been inked DOLA.RHYDE r don't believe you'd teli them who I am .. . On the second piece of the note, below the signature , are two deeply indented semi-circles: bite marks.
+E: CONT'D V. 0. V . 0. V . 0 . AVID FAN
+C: DOLARHYDE (CONT' D}
+D: "Besides, what particular body I currently occupy is trivial . .. A white-gloved technician, BEVERLY KATZ, squeezes a remote as her tripod-mounted camera FLASHES motordrive photos. DOLARHYDE "The important thing is what I am Becoming. I know that you alone can understand this ... " Under a powerful magnifier, she reaches inside the plastic sheath with fine tweezers, removing a tiny piece of brown Mil from the paper fiber. Carefully , with maddening precision , she places this hair in a glassine envel ope . Crawford , beside her , glances at his wat ch .
+E: V.O. CONT ' D
+C: DOLARHYDE
+D: "I have some things I ' d love to show you. I f circumstances permit , I hope we can corresp ond .. . Graham hands Katz a copy of the killer ' s dental mold. She holds th is up to the impressi ons on the note. They match exactly. She looks at Graham an d Crawford , excited . I NT. ASYLUM. HOLDING CAGE. DAY . The holdin g cage and the corridor outs id e it suddenly 9..Q. ~- Lecter l oo ks up, interested. SLOE Revision - ll-20-01 DOLARHYDE "I have admired you for yeari, and have a complete collection of your press notices. Actually, I think of them as unfair reviews. As unfair as mine . .. " INT. LATENT FINGERPRINTS LAB. DAY. 74 Crotchety old JIMMY PRICE stares unh appily at the porous toilet paper as a TECHNICIAN scans it with a helium-cac:lmiwn laser. As the paper fluoresces. glowing smudges appear on it: oily stains, perspiration. No readable prints . OOLARHYOE .. They do like to sling demeaning nicknames, don't they? The Tooth Fairy. What could be more inappropriate . . ?" The old man, frustrated, turns to Crawford and Graham, shakes his head. Nothing he can do for them. INT. ASYLUM CORRIDOR. DAY. 75 The BUILDING SOPER, in overalls, strides do~n the shadowy corridor, carrying a toolbox and muttering irritably to himself, as instr ucted .
+E: CONT' D V. 0. V . 0.
+C: OOLARHYDE
+D: ~1t would shame me for you to see that if I didn't know you had suffered the same distortions in the press .. " As the super passes the holding cage, keeping well clear of the bars, Lecter's eyes follow hi~. The man's giving a pretty good performance, not overplaying it. CRAWFORD The main thing, the first thing, is how Lecter was meant to reply . INT. DOCUMENT LAB. DAY. A text analyst, LLOYD BOWMAN, a thin, bespectacled chinese man, places the two parts of the note, with tveezers, between pieces of glass. Crawford and Graham hover nearby.
+E: V .O. V. 0.
+C: BOWMAN
+D: How much longer do we have?
+C: CRAWFORD
+D: Ten minutes, max. Bowman focuses a small TV camera on the note, then darkens the room till there's only the dµil red glow of a lamp and the blue-green of his monitor screen.
+N: YELLOW Revision 1-14 - 02 59.
+C: BOWMAN
+D: Instructions for answering we r e probably in the section Lecter tore out. But I don't get it. WhY not just chrow the whole note away?
+C: GRAHAM
+D: It's full of compliments. He couldn't bear to part with them. Bowman glances at him, intrigued. Graham rubs his temples.
+C: BOWMAN
+D: Now we can mash, just a little. The tattered edges, smeared with ink, appear MAGNIFIED on his monitor . As he mashes the glass gently, these edges flatten. becoming less jagged. He's muttering to himself.
+C: BOWMAN {CONT'D)
+D: You're so sly, but so am I . . . Below the words ~r HOPE WE CAN CORRESPOND ... we can now make out, through the vermilion ink smears, fragments of writing. The tops of letters.
+C: BOWMAN
+D: Aniline dyes in colored inks are transparent to infrared. These could be the tips of T's here and here ... On the end, that's a P, or possibly an R ... I think this is the part where he's telling Lecter how to answer him.
+E: CONT'D pointing
+C: GRAHAM
+D: Jack, there"s only one safe way of carrying on a communication tha t's one-way blind.
+C: CRAWFORD
+D: Publication?
+E: MORE
+N: BLUE Re vision 11-20 -01
+C: CRAWFORD
+D: OK, Let's think . Let 's think . Wait a minute. OK. We know this sweetheart reads the Tattle, . That's in his note, right ? "The Tooth Fairy ? " They made that up . They too . have
+E: CONT'D Gra ham nods
+C: GRAHAM
+D: made up "Hannibal the Cannibal," So Lecter and this guy both the Tattle{ in common.
+C: BOWMAN
+D: Three T's and an R in Tattler. 59A.
+N: Crawford and Graham stare at him. ~. They're both really j az~ed now, their thoughts racing .
+C: CRAWFORD
+D: So how do you communicate through a tabloid? You've got, what, news stories? Letters to the ed i tor .. . adverti semen t s ... Holy shit . You've go t ...
+C: GRAHAM
+D: Personals. Bowman and Crawford look at him.
+C: GRAHAM
+D: What if the killer wants Lecter ~o answer hirn through the personal co l UIUns?
+E: CONT'D
+N: t 78 BLUE Revision 11-20-01
+C: CRAWFORD
+D: Damn! That could be it.
+C: GRAHAM
+D: We'll need proofs of those pages, before the next Tattler is published.
+C: CRAWFORD
+D: I'm on it . Will, you better hustle. Great work, Lloyd . Graham snatches up the two pieces of the note, still sandwiched in glass, and puts them in the document case.
+C: GRAHAM
+D: Tell Chilton I'm on my way. INT. HELICOPTER. FLYING. DAY. Graham sits looking out a window at the Washington landscape as it flashes by below him. He holds the case on his lap . DOLARHYDE "Investigator Graham interests me. Not your standard ,gumshoe, is he? More alert. Purposeful-looking. You should have taught him not to meddle .. " INT. ASYLUM. LECTER'S CELL. DAY. Special Agent Rankin, whose face we recognize from the Task Force Office, kneels by Lecter's toile~. He wears the borrowed overalls of a maintenance worker, but with white cotton gloves. Very carefully he's replacing the two pieces of the note back onto Lecter's toilet roll, exactly as they were. DOLARHYDE "Forgive the stationery. I chose it because it will dissolve very quickly if you should have to swallow it ... " INT. ASYLUM CORRIDOR. DAY. Rankin slips out of the open cell door, slams it, peels off his gloves, then quickly grabs a mop from a bucket, just as Lecter appears at the end of the corridor, being wheeled back towards his cell on a hand truck, under full restraints. The Doctor's masked face glides closer and closer, moving with eerie smoothness, as if he can fly ... DOLARHYDE ( V 0. } "If I hear from you, next time I might send you something wet . . . " As Lecter passes him, Rankin averts his gaze. Lecter's eyes rake over him briefly .
+E: V. 0. V. 0.
+N: BLUE Revision - 11-20-01 60A.
+S: INT. SECURITY STRONGHOLD. DAY.
+N: Graham, Willingham, and Chilton watch on a MONITOR as Lecter's guards push him back into his cell, stand him up right, and Bl WHITE Locked 61. begi n the careful unstrapping process . Rankin continues to mop nea rby , moving gradually away from tbe cell . DOLARH~DE (V. 0. ) "Until then, dear Doctor, I remain your most ... Avid Fan." Graham and Willingham exchange a tense glance. Did it work? CRAWFORD (V. 0. ) The Tattler got an ad order that's signed "666." Baltimore postmark on the envelope .
+S: INT. TASK FORCE OFFICE. DAY.
+N: Crawford, on a phone, swivels towards Graham, who is just returning, accompanied by BoWJnan. Nearby, a fax machine is starting to CLATTER.
+C: CRAWFORD
+D: It's set to run this afternoon. Chicago field office is sending the text through now. He hangs up and the three of them gather impatiently around the incoming fax. Finally Crawford rips it from the machine . He spreads the flimsy out on a desk. They huddle over it.
+C: CRAWFORD
+D: "Dear Pi1grim, You honor me . .
+E: CONT'D reads
+C: GRAB.AM
+D: That's it. That's it . Lecter called him a pilgrim when we talked.
+C: CRAWFORD
+D: " . you're very beautiful." Christ. "I offer 100 prayers for your safety. Find help in John 6:22, 8:16, 9:1; Luke 1: 7 "
+C: GRAHAM
+D: Code.
+C: BOWMAN
+D: Has to be.
+C: CRAWFORD
+D: We've got - - nineteen minutes to get a message in if we can break this. The Tattler c an 't hold its presses any longer. Bowman sits down, aligns the fax precisely with the corners of the blotter. He studies i t intently as Crawford calls ove r Baker, one of the other agents . SLOE Revisi on 11-20-01
+E: looks at his wa tch
+C: CRAWFORD
+D: Tell Chicago to fax a se c ond copy of th is to the cryptography section at Langley. Then get on the horn with them and coordinate. As Baker rushes to a phone, Crawford looks at Bowman.
+E: CONT'D
+C: CRAWFORD
+D: Eighteen minutes.
+E: CONT' D
+C: BOWMAN
+D: I unders tan d . It's something simple. They only needed cover against casual readers . . 1m guessing it's a book code.
+E: paus e 
+C: GRAHAM
+D: Book code?
+C: BOWMAN
+D: The first numeral , "100 prayer$," coul.d be the page number. The paired numbers after that could be line and letter . But what book ?
+C: CRAWFORD
+D: Not the Bible?
+C: BOWMAN
+D: No. He's got "Galatians 15:2'" here. Galatians has only six chapters. Same with "Jonah 6:8" - Jonah has four chapters. He wasn't using a Bible.
+C: GRAHAM
+D: Then the Tooth Fairy named the book to use . He specified it his note . In the part Lecter tore out.
+C: BOWMAN
+D: It would appear so. What about sweating Lecter? In a mental hospital 1 would think drugs -
+C: CRAWFORD
+D: They tried sodium amytal on him thre e years ago trying to find out wheLe he buried a Princeton student . He gave them a recipe for dip. Besides, if we sweat him we lo se th e connection .
+C: GRAHAM
+D: If the Tooth fairy picked the book, th en it 1 s something he knew Lecter would have in his cel l.
+N: WHITE Locked - 63.
+C: BOWMAN
+D: Can we get a liat of his books?
+C: GP.A.BAM
+D: From Chilton, maybe . No, wait. Rankin and Willingham, when they tossed his cell, took Polaroids so they could get everything back in place. Bowman is already stuffing the fa.x into bis briefcase.
+C: BOWMAN
+D: Ask them to meet me with pictures of his bookshelves.
+C: CRAWFORD
+D: Where?
+C: BOWMAN
+D: The Library of Congress. Be hurries out . Crawford looks at his watch, shakes hie head.
+C: CRAWFORD
+D: Will, we're left with three choices and we've got to decide right now . We can pull Lecter's message out of the paper and run nothing.
+C: GRAHAM
+D: That might trigger a timing alarm.
+C: CRAWFORD
+D: Yeah . Or we can substitute our own message in plain language, inviting the Tooth Fairy to some mail drop where we've set up a stakeout. Or -
+C: GRAHAM
+D: Or we can let Lecter's ad run as it is . I hate to put in a plain-language message, Jack. Lecter would probably never hear from him again.
+E: Crawford nods
+C: CRAWFORD
+D: Yeah, but I'm leery of letting Lecter's message run without knowing what it says . They look at one another unhappily. A beat.
+C: GRAHAM
+D: I say, let this one run . Meanwhile , we keep working on the code. At least it'll en cou rage the Tooth Fairy to contact him again. BLUE Revision 11-20-01
+C: CRAWFORD
+D: What if i~ encourages him 't:o do something besides write?
+C: GRAHAM
+D: 1 don't like this any better than you do. But Jack - it's our best shot. Crawford finally nods. Reaches for his phone. INT. TATTLER PRESSROOM. CHICAGO. DAY. Copies of the tabloid RATTLE down a metal conveyor belt, dropping into open racks, where other machines bundle and wire them, then roll them along. Dust rises as PRESSMEN move about . The NOISE is THUNDEROUS. SUPER TITLE: NATIONAL TATTLER BUILDING. CHICAGO. IL, A hand reaches into the stream of descending newspapers, pulls out a copy. A PAIR of FBI AGENTS, wearing headsets against the din, ignore the front page news , flipping instead 'to the back pages, the classifieds, till they find . Lecter's small boxed message. beginning oEAR PILGIM .. . " The ROAR of the PR£SSROOM now CROSSFAOES to the RINGING of ... INT. CRAWFORD'S HOOSE. BEDROOM. NIGHT . ... a TELEPHONE on Crawford's bedside table, waking him . He grabs the receiver, then takes a quick glance at his WIFE: still sleeping. He rolls away from her, murmurs.
+E: KEAo TRANSPLANT!", "ASTRONOMERS GLIMPSE GOO!!t
+C: CRAWFORD
+D: Crawford. INT. LIBRARY OF CONGRESS. STUDY CARREL. NIGHT. Bowman, exhausted, sits amidst books, scrawled legal pads, wadded paper s, and propped-up Polaroids of Lecter's cell. He's staring at a copy of The Joy of Cooking.
+E: on phone
+C: BOWMAN
+D: (on phone } Jack, this is Lloyd Bowman. I solved the code. You need to know what i t says, right now. INTE RCUTTING- CHERRY Revision 3-26-02
+C: CRAWFORD
+D: Okay, Lloyd. It says: Florida, 21,l .
+C: BOWMAN
+D: Graham home Marathon, Saye yourself. Kill them
+C: CRAWFORD
+D: Goddammit. EXT. JW MARRIOTI' HOTEL. WASHINGTON. NIGHT. In the distance, beyond Graham's hotel , the White House is illuminated. Fountains splash on the Mall. CRAWFORD Will, Bowman just broke the code . INT. GRAHAM' S HOTEL ROOM. NIGHT. Graham, in a tee shirt and boxers, sits up on the edge of his bed. He turns on a lamp, glancing at his clock: 1:23.
+E: V. 0.
+C: GRAHAM
+D: What did it say? INT. CRAWFORD'S HOUSE. BEDROOM. NIGHT. Crawford, still in pajamas and slippers, is now sitting on the edge of the bed . He's got on his reading glasses.
+E: on phone
+C: CRAWFORD
+D: I'll tell you in a second. Now listen to me. Everything is okay . I've taken care of it, so stay on the phone when I tell you. INTERCUTTING - As Graham is abruptly on his feet. Staring, with horrified prescience, at his own face in the bedroom mirror.
+E: on phone
+C: GRAHAM
+D: Tell me now.
+C: CRAWFORD
+D: It's your home address. Lecter gave the bastard your home address. w.ai.t_ , Will. Graham's receiver dangles, abandoned ...
+N: ,-. 88
+C: AND
+D: CHERRY Revisio n - 3-26 -0 2 EXT. GRAHAM HOUSE. NIGHT. A SWAT TEAM, sh otguns propped on their hips , has formeo a defensive cordon around the yard , as DEPUTIES emerge from the house , shepherding the fr i ghtened Molly and Josh . Still in pajamas and r ob es, they look stunned, more like prisoners than people who've just been rescued . .. EXT. ISOLATED AIRSTRIP. VIRGINIA. DAWN. Preceeded by a PAIR OF FBI AGENTS, and trailed by TWO OTHERS carrying their bags, Molly and Josh emerge from a private jet, climbing down its steps to a runway. Graham is waiting for them on the tannac. His eyes meet Molly's . She stops . He steps forward, a bit tentatively. She looks him up and down, then comes to him with a light kiss. Josh walks up beside his dad, a bit uncertainly. , Graham drops to one knee to hug his son. THE FBI AGENTS ease a discreet distance away , their eyes scanning the small hangars nearby, the fringes of the airfield ... INT. LECTER'S CELL. BALTIMORE. DAY. THREE BIG ORDERLIES are methodically stripping Lecter's cell of books, drawings, mattress , clothes - everything that isn't bolted down - and dumping these into a laundry cart . Lecter, unmasked but strapped on his hand truck , is forced to watch from a corner. There's a curious grace about him, a calmness, even in restraints . At his desk, Chilton stirs some personal papers with his gold pen. Smirks at the Doctor, enjoying his humiliation .
+C: LECTER
+D: Beneath the yellow folder you'll find your latest re j ection slip from the Archiyes . It was brought to me by mistake with some of my Archives mail , and I'm afraid I opened it wi thout looking. Sorry.
+E: quietly
+C: AND
+D: CHERRY Revision 3-26-02 67. Ch i lton reddens, staring at him . Then snaps at an orderly.
+C: CHILTON
+D: I think we'll remove Dr . Lecter's toilet seat, as well. EXT . FARMHOUSE . V.IRGINA . DAY 93 AERIAL VIEW of an old white clapboard farmhouse, bordered by a barn, split-rail fences . Beyond these, wide fields, distant woods . Two unmarked SUVs are parked out front . Golden light, almost dusk.
+C: MOLLY
+D: Is he after you now ... ? EXT. BACK PORCH. DAY. Graham and Molly sit on a glider. A silence.
+E: V.O.
+C: GRAHAM
+D: We've had no reason to think so . Lecter just suggested it to him. I hate this, Molly. I ' m sorry.
+E: pause
+C: MOLLY
+D: It's a sick feeling. I know here . place. you ' re
+C: GRAHAM
+D: it is. Bu~ you 'l l be safe Crawford's brother owns this Nobody in the world knows here.
+C: MOLLY
+D: I'd just as soon not talk about Crawford. CHERRY Revision - 3-26-02 INT. GUEST BEDROOM. NIGHT. Graham is helping Josh unpack his duffel , as the boy lines up his fe~ sal vaged treasures on a bureau.
+C: JOSH
+D: Why would be want me to be dead when he doesn't even know me? Graham is immeasurably saddened. Looks for words .
+C: GRAHAM
+D: He's sick in the head, sweetheart. He can '.t help himself . Josh digests this silently for a moment.
+C: JOSH
+D: My friend Tommy says you were sick too. He read it in the newspaper.
+C: GRAHAM
+D: Maybe we should talk about that. What happened with Lecter. it bothered me a lot, Josh ... -Not just that he hurt me. That he fooled me so badly. I kept thinking there must be some way I should ' ve known sooner. That maybe I could ' ve saved lives. And then I quit feeling anything. . . I couldn't eat and I stopped talking to anybody. I got really depressed . So a doctor asked me to go into a special hospital, and I did. After awhile I got some distance on it.
+E: pause MORE
+N: lit
+C: 95A
+D: CHERRY Revision 3-26-02
+C: GRAHAM
+D: And finally I put it aside and I crone back to you and your mom. {pause} He's locked up forever, Josh. He's never going to hurt you, or Mommy, or me. Ever again. You believe me? Josh nods. Graham is moved by his son's courage . Scoops him into bis arms. Josh returns the hug gratefully. CRAWFORD {V .0.) Atlanta PD nailed him, Will. He had a fake Bureau ID and was trying to get the Leeds family autopsy photos ... EXT . BARNYARD. DAY 95A Bullet holes punch into bales of hay , kicking up dust and straw as they miss their target: a large milking can. Molly, the shooter, stands holding Graham's .44 in both hands . When she pauses, Graham reaches out, steadies her grip. They're both wearing earmuffs. The gun is heavy, its recoil hard to handle, but she keeps on -gamely trying. Finally one bullet punches a hole in the can, low and to one side . When the gun finally ciicks empty, he gently takes it away from her . She looks at him, tries to smile. But his expression is that of a man who has witnessed an irrevocable loss. CRAWFORD Atlanta PD nailed him, Will. He had a fake Bureau ID and was trying to get the Leeds family autopsy photos ... EXT . BARNYARD. DAY 95A Bullet holes punch into bales of hay , kicking up dust and straw as they miss their target: a large milking can. Molly, the shooter, stands holding Graham's .44 in both hands . When she pauses, Graham reaches out, steadies her grip. They're both wearing earmuffs. The gun is heavy, its recoil hard to handle, but she keeps on -gamely trying. Finally one bullet punches a hole in the can, low and to one side . When the gun finally ciicks empty, he gently takes it away from her . She looks at him, tries to smile. But his expression is that of a man who has witnessed an irrevocable loss. CRAWFORD Atlanta PD nailed him, Will. He had a fake Bureau ID and was trying to get the Leeds family autopsy photos . . INT. INTERROGATION ROOM. FBI BUILDING. DAY. 96 Freddy Lounds, seen through a two-way mirror, slouches at a bare Formica table, smoking nonchalantly. Graham and Crawford stare in at him through the glass.
+E: CONT'D V . 0. V . 0.
+C: CRAWFORD
+D: When they busted him, he tried an outright bribe. Said he'd pay extra for the children. It's a Federal beef , so Atlanta kicked him back to us. Personally, I'd like nothing better than to see this dirt sandwich pulling five at Leavenworth . But maybe there's a better way to play this.
+E: Graham is silent
+C: GRAHAM
+D: Yeah? CHERRY Revision 3- 19-02 69A. EXT . APARTMENT BUILDING. WASHINGTON . DAY. An old brick apartment building, in a mixed , partly commercial neighborhood . We FOCUS on the third - floor corner unit. GRAHAM (V. 0.} The Tooth Fairy is ugly, and impotent with persons of the opposite sex ... BLUE Revision 11-20-01 70. INT. fBl SAFEHOUSE, W~SHINGTON. DAY, Graham sits at a desk in a blandly furnished efficiency. Propped beside him is a brutish "artist's rendition" of the killer . Lounds, notepad at the ready, interviews him while a Tattler photographer records the event. Crawford watches laconically from the sidelines.
+C: GRAHAM
+D: Also, he, ah, sexually molests his male victims .
+C: LOUNDS
+D: While they ' re alive?
+C: GRAHAM
+D: Sorry, I can't go into details. We also speculate that he's the product of an incestuous home. No wonder this creep is such a loser. He catches Crawford's eye. Crawford mouths: "Lecter . " GRAHAM That ' s one of the tips we got from Dr. Lecter, by the way.
+E: CONT ' D
+C: LOUNDS
+D: So it's true that Lecter is actually helping your investigation?
+C: GRAHAM
+D: Yes, he is. The Doctor is offended that such a bottom-feeding lowlife as the Tooth Fairy would consider himself in his same league. Crawford drifts behind the photographer, craning his neck to study what . he's framing. Lounds catches this move.
+C: LOUNDS
+D: Mm-hm, mrn-hm. So, tell me about this place you've got here, Will. Your Washington hideaway .
+C: GRAHAM
+D: This? It's just an apartment I'm borrowing until this creep goes down in flames. I keep copies of all the evidence here so I can study it late at night.
+C: CRAWFORD
+D: Make sure the signs are in focus . The photographer nods, FLASHING away . . . PHOTO ANGLES: Behind Graham 1 down in the corner of the window, a restaurant sign WHITE Locked - 71. and street sign clearly in dicate out location. Graham and the telltale sign6 are caught together, FRAME after FRAME. GRAHAM This is the only place I can find solitude in the the, .. LOUNDS " .. ca rnival atmosphere of this investigation." How's that? Crawford catches Graham's eye. Nods: the photos look good.
+E: "HONG FAT NOODLE CO." ffJlst STREET NW," 0 S 0 S .
+C: GRAHAM
+D: That 's great, Freddy. Just great.
+C: LOUNDS
+D: Okay . I got enough . He waves for his photographer to pack up. Smirks at Crawfo~d.
+C: LOUNDS
+D: Just remember, I scratch your back, you scratch mine . If my story draws the Fairy into some kind of attack on Graham, and you nail the scumbag, I get an exclusive .
+E: CONT'D
+C: CRAWFORD
+D: Fuck you, Lounds. When we see the story in print, then we'll consider quashing your sei!ed indictment . No further deals.
+C: LOUNDS
+D: Yeah, yeah . Pleasure doin' business with you chumps. He breezes out, followed by his photographer . Graham rises, looking sourly at the artist's rendering. Shakes bis bead.
+E: grins, unimpressed
+C: CRAWFORD
+D: You okay with this ?
+C: GRAHAM
+D: I feel like I need a shower .
+C: CRAWFORD
+D: I wish we had something better . But there's only ten days til l the next full moon. We've got to rattle his cage . So I'll ask you again: are you okay with this? BLUE Revision - 11-20-01
+C: GRAHAM
+D: Better he comes after me tha n keeps hi s mi nd on Molly and Josh . So yeah, Jack . . I'm okay with it . Crawf ord loo ks at him searchingly. CRAWFORD We'll stake out this apartment and put snipers on the nearby rooftops ...
+E: V. 0 .
+S: EXT. NEWSSTAND. DOWNTOWN ST. LOUIS. NIGHT.
+N: 99* At a sidewalk stand, bundled newspapers have been dwuped in to a pile. The NEWSIE, in his apron, is sorting and checking off h i s del i veries . His kiosk is still dark, shuttered. Late night, not much street activity.
+C: CRAWFORD (V.O.}
+D: Als o , you'll have a moving box ta il , 24/7, in your car, on the street, wherever you go . You'll wear the Kevlar at all times. No exceptions . . MOVING ANGLE on a pair of black zippered boots as they approach the squatting newsie, then s top behind him . The boots' owner stares down at .. The front page of the Tattler. quartered by twine : "TOOTH FAIRY I MPOTENT!!!/ TOP SLEOT,H REVEALS HIS LURID SECRETS," above a smiling photo of Lounds and Graham . G raham's arm is around the reporter's shoulders: best of buds. This silent, loo ming presence makes the newsie uneasy.
+C: NEWSIE
+D: What is it? A Tattler. DOLARHYDE
+E: 0 . S .
+C: N£WSIE
+D: You again . How many times I gotta tell ya, pal, you'll have to wait till I open? Come back 4 a . m. A swi tchblade bloo ms in Oolarhyde's hand. Flas hes down. The dealer stares , alarmed, as the twine on the bundle parts with a POP. A cl ean copy is plu c ked from the center, spilling the rest. Then Dolarhyde walks away, as his silver dollar RINGS on the side walk . The newsie r is es, flushed .
+E: t wist s , looks up 
+N: SLOE Revision 11-20-01
+C: NEWS IE (CONT ID}
+D: Hey. Hey, you! I .t.2l.Q. you - In three strides Dolarhyde is back. Right in his face.
+C: OOLARHYOE
+D: What. You tol d me what?
+C: NEWSIE
+D: You got - a quarter coming back. Dolarhyde turns disdainfully, strides avay, as the man's frightened gaze follows him. GRAHAM What about Loun d s ? 100A EXT. TATTLER BUILDING, CHlCAGO. DAY ~ black 280ZX comes down a city street, makes a fast, cocky~ turn into the entrance of an underground parking lot.
+E: pause V . 0.
+C: CRAWFORD
+D: Chicago's been given instr uct ions . .. INT. UNDERGROUND GARAGE. DAY. Lounds, behind the wheel, swoops down a ramp, then through the vast underground lot. He's evidently early; the lot is almost empty. He SCREECHES to a stop, staring in annoyance ... A big black van is in his parking space . Lounds cli.robs out of his car, leaves it idling, and stalks over to the van. A shadovv figure can be seen inside. CRAWFORD They' ll cover his apartment, his office at the ne wspaper , any,.,here he's known to hang out .. . Lounds bangs rudely on the van's window, then points at the painted words on the wall: "MR. FREDERICK LOUNDS." The van's dark window powers down with a soft WHOOSH.
+E: V.O. V. 0 .
+C: LOONDS
+D: ~isten, d.ickhead - A powerful left hand fires out, grabs the back of Lound's neck, jerks his face forward into a soaked rag held by the right hand. He struggles a few moments, then goes limp. EXT. TATTLER BUILDING. DAY. Th e black van emerges from the garage, turns sedately right, passing a fat SECURITY GUARD, smoking under the paper's big front sign.
+N: BLOE Revision - 11-20- 01 73A. As the van starts up the long hilly block, away from the bu ildi ng, a gray s edan is approaching f rom the other di re ction .. . BLUE Revision 11-20-01 CRAWFORD (V. 0. ) By Tuesday morning, when this issue becomes nationally available, we'll have all our people in place. The sedan pauses as the fat guard crosses the sidewalk to greet its occupants: TWO FBI AGENTS in dark suits. One of them flashes ID. Impressed, the guard points helpfully towards the garage's entrance, and the sedan continues that way.
+T: FADE TO:
+S: INT. DOLARHYDE'S HOUSE. BALLROOM. DAY.
+N: Lounds is semi-concious but oddly upright. His eyes flutter, then open . He's disoriented. Stares woozily .. The dusty old ballroom SWIMS INTO VIEW. Sheeted cots and bedpans. Tall draped windows darken the room .. . Lounds tries to turn his head, cannot. Cries out softly as something tugs his hair. His eyes strain downwards . . . He's wearing only underpants. When he tries to lift h.is right arm, we see his skin stretch. From the soles of his bare feet to the back of his head, he has been glued into one of the old wooden armchaix;~. He's fighting panic, even before he hears SOFT FOOTFALLS, approaching from behind.
+C: LOUNDS
+D: Who's there ? Where am I? The FOOTSTEPS STOP. Ominous silence. Lounds becomes shrill. LOUNDS What am l doing here? OOLARHYOE Atoning, Mr. Lounds. Lounds is confused, thinking fast. Tries to s tea dy his voice .
+E: CONT' 0 0. S .
+C: LOUNDS
+D: I haven't seen your face. I couldn't possibly identify you. The Tattler, I work for The National Tattler . would pay a reward ... a big reward for me. Half a million, am-million maybe. A million dollars. DOLARHYDE Do you know Who I am, Hr. Lounds?
+E: 0. S .
+C: LOUNDS
+D: No. And I don't want to know, believ~ me.
+N: BLUE Revision 11-20-01 DOLARHYDE { 0. S. ) According to you, I'm a vicious, perverted sexual failure. A "bottom­ feeding lowlife" who's about to "go down in flames." (pause) You know now, don't you?
+C: LOUNDS
+D: Yes.
+E: whispers
+C: DOLARHYDE
+D: Why do you write lies, Mr. Lounds? Why do you say I'm crazy?
+E: O.S.
+C: LOUNDS
+D: When a person . . . when a person does things that most people c -can' t understand, they call him ... Crazy .
+C: DOLARHYOE LOONDS
+D: They called, like. . . the Wright brothers. All, all through history - DOLARHYDE History . Do you understand what I'm doing, Mr. Lounds?
+E: O.S. 0. S.
+C: LOONDS
+D: No, but I want to, and then, then all my readers could understand, too. But, but I have to tell you, man to man, that I ' m scared. It's, it's hard to concentrate when you're scared. DOLARHYDE Man to man. Man to man. You use that expression to imply frankness. I appreciate that, Mr. Lounds. But you see, I am not a man . I began as one but now I am Becoming Other and More than a man. As you will witness. The old chair CREAKS as it begins to turn.
+E: 0. S.
+C: LOUNDS
+D: No! I don't want to see you. He squeezes his eyes shut as he slowly revolves .
+C: DOLARHYDE
+D: Oh, but you must, Hr. Lounds. You're a reporter. Youre here to report. YELLOW Rev i sion 1-14-02
+E: O.S. MORE
+C: DOLARHYDE {O. S.)
+D: Open your eyes and look at me . If you won't open them yourself, I'll staple your eyelids to your forehead. Lounds opens his eyes, very reluctantly , and finds himself blinking i nto a glow of white radiance .. . Dolarhyde stands before him, starkly lit by the beam of a slide projector, with his "normal " teeth inserted. Now he slowly turns his back on Lounds, dropping his kimono ... His great back muscles flex, rippling the fantastic tattoo that reproduces Blake's monster. Wing roots flare over his ribs. The brilliant tail drops along one leg, curling about bis calf. The Dragon turns his head slowly, looks over his shoulder at Lounds, with his awful rictus of a smile.
+E: CONT'D CONT'D
+C: LOUNDS
+D: Oh my dear God Jesus .. . Dolarhyde pulls the robe back on as he moves OUT OF LOUN'D'S VIEW. A blank square of wall is left as a screen. POLARHYDE Do you want to know What I Arn?
+E: 0 S
+C: LOUNDS
+D: M-more than anything. I was afraid to ask. Dolarhyde raises a remote control, CLICKS it. Blake 's Red Dragon fills the wall, beamed from a projector on a table near Lounds . Dolarhyde stands behind him.
+C: DOLA.RHYDE
+D: Do you see now?
+C: LOUNDS
+D: I see. Oh God. Dolarhyde begins to rapidly run through his other slides. CLICK . Mrs, Jacobi alive. One of his own surveillance photos.
+C: DOLARHYDE
+D: Mrs . Jacobi, in human form. Do you see?
+C: LOUNDS
+D: Yes. CLICK . Mrs. Leeds alive . Another distant surveillance shot.
+C: DOLARHYDE
+D: Mrs. Leed s , in human form . Do you s ee ?
+N: YELLOW Rev ision Yes. 1-14-02
+C: LOUNDS
+D: 77 . CLOSE ON Lounds horrified gaze, as more slides CLICK on, one aft er another. He is near tears.
+C: OOLARHYDE
+D: Mrs. Jacobi, Changing. Do you see?
+C: LOUNDS
+D: Yes.
+C: DOLARJNDE
+D: Mrs. Leeds , Changing. Do you see ?
+C: LOUNDS
+D: Oh my God. Do you see ?
+C: DOLARHYDE
+D: Mrs . Jaco bi, Reborn. Mrs . Leeds, Reborn. Do you see ?
+C: LOUNDS
+D: Please no .
+C: OOLARHYDE
+D: No what?
+C: LOUNDS
+D: Not me .
+C: DOLARRYDE
+D: Why did you write 1ies, Mr. Lounds?
+C: LOUNDS
+D: Graham told me the lies. Graham.
+C: DOLARHYDE
+D: Will you tell the t ruth now? About Me? My Work. My Becoming ?
+C: LOUNDS
+D: Yes. Oh yes. Yes. Dolarhyde comes closer , hovers over h i m. Eyes flashing in co ld fury .
+C: DOLARHYDE
+D: I am the Dragon and y ou call me i nsane? You are privy to a Great Becoming and you rec ognize n o th i ng. You are an ant in the afterbirth. It is i n your nature to do one thing correctly: before Me you rightly t remble. A tape re co rder sits bes ide the pro jec tor . Dolarhyde lifts its micropho ne , clips it onto the chair near L ounds ' head. l.05 YELLOW Revision 1-14-02
+C: DOLARHYDE
+D: But fear is not what you owe Me, Mr. Lounds, You and the other pismires ... He squats, bringing his terri fying face very close.
+E: CONT'D
+C: DOLARHYDE
+D: You owe Me awe. Lounds is near fainting. Dolarhyde switches the recorder ON, then looks at him again.
+E: CONT'D
+C: OOLARHYDE
+D: Now. Repeat after me ... EXT. DOLARHYDE'S HOUSE. NIGHT. Sunset ; the sky over the old house is now a purple bruise. DOLARHYDE That's all , Mr. Lounds. You did very well. . . INT. DOLARHYDE'S HOUSE. BALLROOM. NIGHT. Close by Lounds, the tape recorder is still running. He looks drained, but more hopeful. He always was a good taiker.
+E: CONT'D V . 0.
+C: LOUNDS
+D: You'll let me go now?
+C: OOLARHYDE
+D: Soon . There's one more way I can help you to better understand.
+E: O.S.
+C: LOUNDS
+D: I want to understand. I do. And I'm really going to be fair from now on, you know that. No respons e, except for an odd NOISE. We've heard it before . The MOIST CLACKETY SOUND of dentures being ins erted ...
+C: LOUNDS
+D: ... Hello? The old wheelchair is abruptly spun about, and Lounds finds himself staring directly into the face of Dolarhyde. The brown-stained, crooked smile of the Dragon. Who now lunges forward, his fangs parting to rip off Lounds's lips .. EXT . TATTLER BUILDING. CHICAGO. DAY. 106 The fat security guard is out front again , at his sidewalk post, munching a donut. It 's very early , no traffic. He hears a STRANGE SQUEAKING NOISE. Looks up the hilly block ... It seems to be coming from up there, over the brow of the hill. Getting LOUDER . Then shrill, high - pitched SCREAMING ... BLUE Revision 11- 20 - 01 79. The guard's head cocks in puiilement, What the,.,? A human fireball appears, rolling down the middle of the s treet, t r ail ing smoke and fla mes. It veer s, str i kes a parked car, overturns, o ne wheel spinning while flames envelope the blackening figure of Freddy Lo unds.
+E: CONT'D
+C: LOUNDS' VOICE
+D: l have had a great privi le ge . I have seen .. I have seen with wonder and awe . .. the strength of the G­ Great Red Dragon ... . INT. TASK FORCE OFFICE. WASHINGTON. DAY. 107 The spools of a cassette tap~ turn slowly, next to a padded mailer . The mailer, sealed in a clear evidence bag, is addressed to "Will Graham, c/o FBI Headquarters, Washin gton."
+C: LOUNDS' VOICE
+D: He . .. has helped me to understand .. . His splendor and now ... now I want to serve Him. Cr awford, his face dark, sits at the head of the table . Around i t: Bowman, Katz , Price, Rankin, Willingham, and Baker.
+C: LOUNDS' VOICE
+D: He knows you made me lie, Will Graham. Because I was forced to lie, He will be more ... m-more merciful to me than to you, Will Graham. No one wants t o look at Graham . He sits a little apa rt from t he othe rs , staring at his hands on the table, as if they bel onged to someone else . There's Graham . back ... from my more to
+E: CONT'D
+C: LOUNDS' VOICE
+D: much for you to dread, Will The Dragon wil l snap your like a twig . From my .. . own lips you 'll learn a little dread . Cr awf or d reaches out, punches the~ butt on.
+E: CONT'D
+C: CRAWFORD
+D: That's enough.
+C: GRAHAM
+D: No. Let it play. Cr awford looks at him. Graham sta r es at the table. Crawford , expressionless, pushes fast fo rward, th en after a moment punches Q.!s.y again.
+N: BLUE Revision 11-20-01
+C: LOUNDS' VOICE
+D: ... be fair from now on, you know that. Hello . . ? SOUND of the wheelchair CREAKING, then horrible, part-mu~fled SCREAMING. After a few seconds Price reaches out, turns it 2.f..!. Even the old man, forty years on the job, looks shaken. A long, awful silence. Finally Crawford clears his throat.
+E: pause
+C: CRAWFORD
+D: This was my operation and it went to shit. I know th at. So . We can let this tie us up in knots. Or we can learn from it. Maybe even use it to catch the bastard. A glance at Graham, still far away. The others shift uneasily .
+C: BOWMAN
+D: He had to have a van or a panel truck to move Lounds around in that big old wheelchair .
+E: quietly
+C: CRAWFORD
+D: Go on. Anybody.
+C: KATZ
+D: Had to already have the wheelchair, too. Or else know where he could get it, fast .. . It's an antique. Not the kind of thing you ' d find around the ho use.
+C: CRAWFORD
+D: Exactly . Does it strike anybody that he set this up in one hell of a hurry? They look at him. He rises, crosses to a wall map.
+C: CRAWFORD (CONT'D}
+D: The Tattler comes off the press Monday ni~ht. By Tuesday morning he's in Chicago, snatching Lounds. Either he lives in the Chicago area, or he's within a driving radius of - call it si~ hours . He draws a big circle, in red marker, with Chi cago at its center. Looks at Rankin, Willingham, and Baker .
+C: CRAWFORD (CONT' D}
+D: Find out, within this area, where the Tattler was available for ea rl y distribution Monday night .
+E: MORE
+N: YELLOW Revision 1-14-02
+C: CRAWFORD
+D: Start with the airports and all- n ight newsstands . Maybe some newsie remembers an odd customer. They nod, jotting notes. Craw f ord's energy , his ruthless determination, are lifting everyone's spirits a bit. CRAWFORD Lloyd, this cassette. Enhance the audio, maybe you can pick up something in the background. Beverly, Jimmy, that wheelchair. I want the maker , date, possib le sources. Think about nursing homes, the VA. Graham and I will coordi na te from Chicago . You all know the drill; let's hustle. The others rise, with Bowman taking the evidence bag and tape player. Crawford and Graham are left alone. A beat . CRAWFORD You okay?
+E: CONT'D CONT'D CONT ' D
+C: GRAHAM
+D: Sure, what the hell. MY cover was on time. Crawford waits . Graham shakes his head. Frustrated , bitter.
+C: GRAHAM
+D: This doesn't fit his pattern, Jack. Lounds was a bonus. A chance to show off ... But the Leedses and the Jacobis are what he needs. The answers won't be in Chicago. But they might be in Baltimore.
+E: CONT'D
+C: CRAWFORD
+D: After what he tried to pull? Will, you can't trust one word out of his fucking mouth.
+E: surprised 
+C: GRAHAM
+D: I think Lecter picked up something in that missing part of the note. Maybe not a name , but something. Enough to narrow the search.
+C: CRAWFORD
+D: Even if he did , he won ' t tell you.
+C: GRAHAM
+D: No t unless I can deal. But I don ' t have the pull for that. I have to be able to cut through Chilton's bullshit. WHITE Locked - 82. Crawford looks at him unhappily. A long beat. LECTER Congratulations, Will .. INT. LECTER'S CELL AND CORRIDOR. DAY. Leete :: smiles up through the plastic barrier. Be s sitting on th e floor, his back to the wall of his denuded cell.
+E: V.O .
+C: LECTER
+D: That was most artistic, the way you disposed of the annoying Mr. Lounds. What a cunning boy you are. Graham sits on the corridor floor, close to the barrier. Your cell looks bigger with no books in it.
+C: LECTER
+D: Does it? I hadn't noticed.
+C: GRAHAM
+D: You will.
+C: LECTER
+D: I have other resources . Tell me, did you enjoy it? Your first murder ? Of course you did. And wny shouldn't it feel good? It does to God. Re dropped a church roof on thirty-four of His worshippers in Texas last week, just as they were grovelling through a hymn. He won't begrudge you one journalist.
+E: Graham is silent
+C: GRAHAM
+D: Put me next to him, Doctor. The Red Dragon ... You have the power to do that.
+C: LECTER
+D: You and some SWAT team ? Will .. . Where's the fun in that?
+C: GRAHAM
+D: He'll have to take his chances, too. Roofs can fall on anyb od y .
+C: LECTER
+D: But not on Molly and Josh, I take it . Not yet, anyway . First he kills the pet, then the family. Freddy was your pet. Graham's v oic e tightens. An enormous effort of co ntr ol. WRITE Locked - 83.
+C: GRAHAM
+D: They're safe now .
+C: LECTER
+D: Don't you know yet? No one will ever be safe around you. Clever work on his note, by the way. That blackout was an especially nice touch.
+E: Graham is silent
+C: GRAHAM
+D: What else was in it, Doctor?
+C: LECTER
+D: This and that.
+C: GRAHAM
+D: Put me next to him. That's what you've always wanted, isn't it? Give him the chance to succeed where you failed. Not once but twice ... The chance to kill me. Something moves be~ind the pale eyes, l i ke sparks in a eave.
+C: LECTER
+D: Go on, then. Seduce me with your wares.
+C: GRAHAM
+D: Full restoration of your privileges . Plus computer access to the M!A archives. One hour per week. Under supervision, of course. This is a one-time offer. It expires the minute I walk out of here.
+C: LECTER
+D: Bit measly, don't you think?
+C: GRAHAM
+D: Turn it down, then. See what kind of terms you get from Chilton.
+C: LECTER
+D: Threats, Will?
+C: GRAHAM
+D: Choices. You owe the Dragon nothing. He failed to d o what you want ed . I ' m waiting, Doctor. Or maybe you ' ve got nothing left to sell .
+E: pause
+C: LECTER
+D: A little sample, then. Why not ? See n t he Blake, have you? 8LUE Revision Yes. 11-20 -01
+C: GRAHAM LECTER
+D: No. ~ouve looked, but not seen. Transformation is the key. The rnan­ dragon, his ugliness transfox:med by power. He11 be a body-builder, of course . Look for a military record, with combat training. Look for extensive tattooing, and corrective surgery, most likely to the face. And the woman, recwnbent, clothed in flames .. Look for childhood episodes of arson . He's a great believer, our Dragon, in the transformng powers of fire. Just ask Freddy.
+C: GRAHAM
+D: Thrift-shop material, Doctor. I want ~he real goods. How is he choosing the women?
+C: LECTER
+D: I've already suggested how. The answer was right in front of you. You looked, but didn't~-
+C: GRAHAM
+D: Or . Lecter, just tell me -
+C: LECTER
+D: ?!2- It's your turn. I asked you before for a small courtesy, and you resp onded rudely. Before I tell you anything more, :£QY. will make certain arrangements for~-
+C: GRAHAM
+D: What "arrangements?"
+C: LECTER
+D: Oh, nothing much. Shall we say .. . dinner and a show? INT. DOLARHYOE'S VAN. DRIVING. DAY. Reba sits next to Dolarhyde as he drives. His fingers tap playfully on the steering wheel . He's still high from Freddy .
+C: REBA
+D: Ready to tell me what kind of an "outing " this is?
+C: DOLARHYDE
+D: Nope. She hears the smile in his voice. She's happy too .
+N: BLUE Revision 11-2 0-01
+C: REBA
+D: You're just full of surprises, aren't you, D.?
+C: DOLARHYDE
+D: Yep . INT. ZOO INFIRMARY. DAY. DR. WARFIELD, a middle-aged black veterinarian, guides Reba across a tiled floor by one elbow. Dolarbyde is behind them.
+C: WARFIELD
+D: He's six feet away, can you smell him?
+C: REBA
+D: Yes.
+C: WARFIELD
+D: He's ' sound asleep, I assure you. Dr. Hassler is about to fix his broken tooth. OR. HASSLER, in a l a b coat and head mirror, turns away from his patient to smile at Reba.
+C: HASSLER
+D: Glad you could come, Ms. McClane. We appreciate the infr a-red film, by the way .
+C: WARFIELD
+D: Two more steps . . I'll put your left hand on the edge of the table. There . He's right in front of you . . Take your ti.me. She is excited, nervous. Turns her face, searching.
+C: REBA
+D: O. ?
+C: DOLARHYDE
+D: I 'm here . You go ahead. Gripping the edge of a steel work table with her left hand, she reaches out slowly with her right till it encounters£ thick coat of fur . She flattens her hand, then moves it gently, tentat i vely at first , across an orange- and black­ striped pelt . . . Reba's face makes quick, jerky movements - blindisms - that she has spent years schooling herself against. Warfield and Hassler see her forget herself and are glad. She moves on, ci rcl i ng the table. Under hot lights , a drugge d , sleep i ng Bengal tiger lies on his r i ght s i de .
+N: BLUE Revisi on - 11-20- 01 85A. Ten feet l ong, 815 pounds. Reba looks tiny beside him, and so vulnerable . SLOE Revision 11-20-0 1 86. Her hand trails down the tail, then over the furry testicles . Briefly she cups thern, then moves on .. Oolarhyde, watching from the shadows, is tense with his own excitement. A bead of sweat trickles down his face. The t iger's eyes are open. His tongue lolls wetly from his mouth , where we see a broken fang. Reba feels his ears, the width of the head, and then, very carefully, touches one of the incisors. She is flushed, elated . .. Dr. Warfield puts his stethoscope in her ears, then guides her fingers downward with the diaphragm. Dolarhyde stares, transfixed, aroused by the great beast, the woman's living proximity to such power .. Her hands on the rhythmic chest, her shining, joyfu l face upturned, Reba is filled wi th the tiger heart's BRIGHT THUNDER ...
+S: INT. DOLARHYOE'S HOOSE. FRONT HALL. NIGHT.
+N: . .. which now CROSSFADES INTO the LOUD TICKING of a CLOCK, as Reba's cane, exploring, taps along the hall . It passes the base of the tall clock, finds the edge of the ballroom's archway, then open air beyond. She mutters to herself.
+C: REBA
+D: Nine steps from the front door to the clock. Three more to this room ... She pauses, turning her face back towards Oolarhyde.
+C: REBA
+D: Sorry, force of habit. He looks at her from inside the front door. Astounded at himself that he ' s brought her here. The CLOCK ECHOES a bit.
+E: CONT'D
+C: REBA
+D: It feels cool and tall ... It's a big house, isn't it? How many rooms?
+E: CONT'D
+C: OOLARHYDE
+D: Fourteen. She brushes against a fringed lampshade, touches it.
+C: REBA
+D: It's old. The things in here are old. He g la nces up uneasily at Grandmother's portrait.
+C: OOLARHYDE
+D: Old people were here. BLOE Revi s ion ll-20-01 REBA Not now, though .
+C: DOLARHYDE
+D: No. SOUND OPCUT - Bix Beiderbecke ' s "Bockin' Chair." ECHOING slightly, as it is played on . INT . BALLROOM. NIGHT. .. a wind-up gra.maphone , to one side of the vast room . Outside the tall windows, the light is fading. Almost dark. Reba, in a big chair, sips beer from a bottle, listening to the old-timey jazz. Dol a rhyde si t s on a couch nearby, uneasily upright, facing the TV. His palms rub s weat on his thighs.
+C: REBA
+D: That beautiful tiger, this house ... this music. I don t think anybody knows you at all, 0 . Everybody wonders about you, though . He looks at her, his predator's eyes suddenly wary .
+C: DOLARHYDE
+D: Who?
+C: REBA
+D: Oh, you know. The whole gang down at Chroma-Lux. Especially the women .
+C: DOLARHYOE
+D: What do they want to know? She catches the edge in his voice; it puzzles her .
+C: REBA
+D: They find you very mysterious and interesting. Come on, D, it's a compliment. He looks away. His reflection stares back at him from the blank TV screen. This disturbs him.
+C: DOLARKYOE
+D: Did they tell you how I look ?
+C: REBA
+D: I didn't ask thern. But yeah, they told me anyway. Want t o hear? Hi s face darkens; he's danger o usly silent. She senses it. REBA They sai d you have a remarkable body ... That you ' re very sensitive BLUE Revision 11-20-01
+E: CONT'D MORE
+C: REBA
+D: about your faoe but you shouldn't be . That you're different from most guys, ne ver a bullshitter. But I already knew that ... Oh, and they asked me if you're as strong as you look.
+E: CONT'D
+C: OOLARHYDE
+D: And? The MUSIC has STOPPED; the NEEDLE SCRATCHES. A tense pause.
+C: REBA
+D: I said I didn't know. He rises uncertainly, starts towards the record player. She drains her bottle, then rises, too.
+C: REBA
+D: Where the hell are you, 0.? She steps forward, brushing against him. He freezes, alarmed.
+E: CONT'D
+C: REBA
+D: Aha . Here you are. Want to know what I think about it? She finds his mouth with her fingers and kisses him, quickly, ligh tly, before he can stop her . Then pulls away as he stares at her, astonished.
+E: CONT'D
+C: REBA
+D: Now, would you show me where the bathroom is? INT. BATHROOM. NIGHT. As the toilet FLUSHES, Reba turns away from the sink, lo cates a towel. Then she pats her hair, primping a bit. She can't see that the medicine cabinet's mirror has been removed. She can 't see Grandmother's teeth, waiting in th ei r squat glass. Blackened by dried blood ... INT. BALLROOM. NIGHT. As Reba navigates back into the room, the Beiderbecke is PLAYING AGAIN. Dolarhyde kneels by the TV, feeding a t ape into the VCR. He rises, holding the remote, crosses to Reba. His voice sounds thick, almost frightened.
+E: CONT'D
+C: DOLARHYDE
+D: I have to do a little work.
+C: REBA
+D: Sure ... If I'm keeping you from ~orking, I ' ll go. Will a cab come out here? 113* 114* WHITE Locked - 89.
+E: disappointed
+C: DOLARBYDE
+D: No. I wa.nt you to be here. I do . It's just a tape I need to watch. It won' t take long. He's steering her towards the big chair. Instead she releases bis arm, goes to the couch, sits. This unsettles him a bit.
+C: REBA
+D: Do you need to hear it, too?
+C: DOLARHYOE
+D: No.
+C: REBA
+D: May l keep the music ?
+C: DOLARHYDE
+D: He sits on the other end of the couch. Looks at her warily. , Then switches ON his VCR remote. Be MUTES THE TV SOUND, aa the Beiderbecke CONTINUES TO PLAY ... On the TV, a home vid~o. KIDS in a big hedged back yard having a water battle, circling and laughing. TWO BOYS and a YOO'NGER GI.RI.. This family (the SHER.MANS} is new to us. Behind them, a large handsome house. A dog runs about, barking silently. CAMERA MOVES SHAKILY to catch MRS. SHERMAN as she comes outside, through a screen door, carrying soda towards a picnic table. CAMERA ZOOMS IN ON HER . a beautiful woman in cutoff shorts and a skimpy halter top. Reba slides closer to Oolarhyde on the couch. Their thighs brush together. He tenses. She smiles, snuggling closer.
+C: RERA
+D: What's it about?
+C: DOLARHTI>E
+D: Some people I'm going to meet . Reba leans her soft weight against Dolarhyde's shoulder. Re glances at her uncertainly, then back at the screen.
+C: REBA
+D: So, then - it's what? - a corporate promo? Some kind of homework?
+C: OOLARHYDE
+D: Homework. Yeah. I n the video, another day. DAD on the rec room sofa with a beer, looking a bit drunk. Rain outside the transom window. CAMERA PANS to Mo m and the ~wo younger kids, rummaging through an old trun k. Dress-up fun in front of a tall mirror. Boas, big shoes, a cowboy hat . The oldest boy must now be the cam'.!raman .. . YELLOW Revisio n 1-14-02 90. Reba stre t ches up to nuzzle Dolarhyde ' s cheek , th e side of his neck. Whispers into his ear.
+C: REBA
+D: Good idea. It's so i mportant ... to be prepared ... Her han d is movi ng , down below. She smiles wickedly.
+C: REBA
+D: And my goodness .. . are you ever . He ' s ten s e , incredibly aroused. Sits very still, forcing all his attention on the screen, as slowly, carefully , Reba's lips brush down his chest, then his abdomen, until her head moves OUT OF FRAME ... In the yideo . Mrs. Sherman , in a big garden-party hat, turns , striking a pose f or the CAMERA, her hand at the back of her neck. There ' s a cameo at her throat . Dolarhyde FREEZE-FRAMES this mornen t . . . Staring at th e TV, Dolarhyde trembles. Sweat trickles down his t emple. After a few moments his jaw tenses, his head arches back ... On the arm of the couch, his clenched fingertips pop through the upholstery . ANGLE ON Mrs . Sherman's beautiful, frozen fac e, as the scratchy JAZZ CONTINUES, and WE MOVE CLOSER AND CLOSER on her rad i ant, doomed smile ... FADE TO: INT . GRANDMOTHER'S BEDROOM/FORMER DINING ROOM. DAY. 115 Dolarhyde wakes up, puzzled for an instant because he's not in his garret bed. His eyes widen as he remembers. He smile s shyly . Turns his head to the pillow beside him . No Reba. He sits up , naked under the twisted sheets of Grandmother's old four-poster . Her clothe s are strewn acr oss the floor , but she ' s gone. His smile fades. INT. FRONT HALL . DAY . I n a rising panic, wearing only underpants, Dolarhyde rushes out into the hall, looks up and down it. No Reba .
+E: CONT' D
+C: DRAGON'S VOICE
+D: Francis. He turns with a start , looks at the old woman in the portrait .
+C: DRAGON'S V OICE
+D: What have vou done ... ?
+E: CONT'D
+N: BLUE Revision - 11 -20-01 90A. He backs away from her, frightened, and then has a terrible thought. He turns, racing towar ds the stairs. YELLOW Revision 1-14- 02 91.
+S: INT. STAIRCASE. DAY. 111
+N: Dolarbyde pounds up the steps, whimperi ng a little as be fl i ngs himse l f around the turns .
+C: DRAGON1 S VOICE
+D: I "ve never seen a child as dirty and disgusting as you ... INT . GARRET ROOM. DAY. 118 He s teps into the doorway , panting a bit . . . She's not up here, either. His frightened face stares back at him from the workout mirrors . He rushes across the garret to his gun safe, hastily works the co .mbination lock , yanks open the door. His great ledger, camera equipment, shotgun and Glock are all neatly arranged, undisturbed. He backs away from the safe, wild-eyed, confused.
+C: DRAGON'S VOICE
+D: Do you want me to cut it off? Oolarhyde looks up, wailing at the Dragon in the poster.
+C: OOLARHYDE
+D: Noooooo! Covering hi s ears against the awful sound, he spins a~ay, towards the window . Then he spots Reba , through the panes. She's down in the yard, wandering about.
+C: DRAGON'S VOICE
+D: YOU WANT HER TO BE YOUR LITTLE BUDDY, DON' T YOU? YOU WANT HER TO BE
+C: 'FRIENDS.' OOLARHYDE
+D: Pleeease! Just for a little while !
+C: DRAGON'S VOICE
+D: YOU SNIVELLING HARELIP, WHO WOULD BE FRIENDS WITH XQll? EXT. DOLARHYDE'S YARD. DAY. Reba turns around and around , trailing her hands on the silks of t he tall meadow grasses. Enjoying the sun ' s warmth on her smi ling, upturned face. She wears Dolarhyde's kimono.
+C: DRAGON' S VOICE
+D: SHE WILL BETRAY YOU. KILL HER . OOLARHYDE No! You're hurting me!
+E: V . O.
+N: YELLOW Rev is ion 1-14-02 92.
+C: DRAGON'S VOICE
+D: SHE IS MIJm . .. ! INT . GARRET ROOM. DAY. Dolarhyde stares at Reba, the Dragon roaring i n his head .
+C: DRAGON'S VOICE
+D: THEY ' RE ALL MINE . LEEDS . JACOBI . NOW THIS ONE. TAKE YOUR GUN AND~ HER !
+C: DOLARHYDE
+D: No ! She's niiiiicel Dolarhyde lurches to the safe, grabs the sawed-off shotgun, sticks the muzzle into his own mouth. DRAGON'S vorcE WEAKLING . COWARD. YOU WOULD STOP THE BECOMING? NOW, WHEN WE' RE SO
+C: CI.OSE?
+D: He squeezes his eyes shut. His finger tightens on the trigger. The Dragon's voice softens a bit , cunningly .
+C: DRAGON'S VOICE
+D: NO ONE WILL EVER LOVE YOU, FRANCIS.
+E: CONT'D
+C: EXCEPT FOR ME.
+D: Dolarhyde l owers the shotgun, trembling .
+C: DRAGON'S VOICE
+D: ONLY ME. . . NEVER FORGET THAT . Still terrified , he finds himself staring at the printed words across the bottom of his poster ... ... BROOKLYN MUSEUM OF ART. INT . DOLARHYDE'S VAN. DAY. Dola rh yde pull s up in front of Reba's duplex. His frenzy has passed but he's still tense, darkly brood i ng. Reba sits beside hirn i n a hu rt, puzzled silence. Finally she breaks i t.
+E: CONT'D
+C: REBA
+D: I ha d a really terr i fic time last night , D. But this morn i ng , you seem like a di fferent person ... I don~ understand. Is something wrong ? BLUE Revi sion - 11-20-01
+C: DOLARHYDE
+D: I have to go now. I have to go away .
+C: REBA
+D: Where ? DOLARJiYOE On a trip .
+E:  surprised
+C: REBA
+D: When will I see you again ?
+C: OOLARHYDE
+D: Don't know. He looks at her yearningly, as fear strai ns his voice .
+C: DOLARHYOE
+D: Reba, you have to get out. Get out .llQ!!. Her jaw clenches. Angrily she opens her door, climbs out with her cane. As he drives away quickly, she stands on the sidewalk, her face turned after him, tears in her eyes .
+E: CONT'D
+C: METCALF (V .O.}
+D: "Dear Mr. Graham ... " INT. FBI BOI LDING. CONFERENCE ROOM. DAY. Resting on a long table are four: big FedEx cartons, already opened . Some of the unpacked contents are spread out: letters, photo albums, kids' school notebooks. We catch a glimpse of a silver-framed photo : the Jacobi family. METCALF "Here are the Jacobis' personal effects, as d1scue3ed ... " Graham, hunched over the table, searches obsessively through the last carton. Something near the bottom catches his eye . His expression changes.
+E: V . O.
+C: METCALF
+D: "Hope these things might help you . Good hunting .. . Byron Metcalf." He lifts out of the carton a pla stic ziplock bag. Holds t hi s up, star in g at the loose VHS-c tapes inside it . . . SOUND UPCUT: Bach's Keyboard Concerto in F Minor. which CONTINUES UNDER the following . . . INT. LECTER'S CELL. BALTIMORE. DAY. Lecter c arefully caresses so me pear sauce onto a sliver of foie qras, th en lifts this from its plate with a silver fork. BLUE Revision 11-20-01 94. Lets it hesitat~ by his lips, an exquisite self-torment, before his tongue emerges pinkly to savor it. WIDER ANGLE REVEALS that his cell has been fully restored. The Doctor is din i ng calmly at his table, which is covered by fine cloth and exquisitely set with bone china, a glass of wine, even a vase of f~esh-cut roses . . . EXT. EASTERN PARKWAY. NEW YORK CITY. DAY. Dolarhyde gets out of a taxi, then leans down, pays the CABBIE, who drives away, leaving him on a sidew a lk. JOGGERS pass him, DOGWALKERS. He has a knapsack over one shoulder. He turns, staring up at ... A massive Greek Revival building, with botanical gardens . SUPER TITLE: BROOKLYN MOSEOM OF ART. NYC. CRAWFORD Will - how many more times are we going to watch this . .. ? INT. FBI BUILDING. CONF,ERENCE ROOM. DAY. A videotape plays. with its SOUND MUTED . In the tape, 9- year old DONALD JACOBI blows out the candles on a birthday cake, as his family watches. A time/date sta mp .reads "1/18/89 . " GRAHAM "See them living,n he said ... Graham grips a remote control, very intense, utterly focusse d on the TV screen. Crawford is impatient.
+E: CONT'D V .0. 0 . S.
+C: GRAHAM
+D: "Right in front of yo u," he said. "Looked but didn't~- " Jack, it's something about these home movies. Lecter keeps saying that, just not directly.
+E: CONT'D
+C: CRAWFORD
+D: Lecter says a lot of things. On the TV. the SCENE ABRUPTLY SHIFTS. Now the whole family is outside; Mom has the camera. The outside basement door swings open, and MR. JACOBI comes up the steps carrying a new ten-speed bicycle, festooned with balloons and ribbons. Donald rushes over gleefully, hugging his Dad then wiggling the handlebars.
+C: CRAWFORD
+D: Sad damn thing. But we already knew that. Will , we can't afford -
+E: CONT'D
+C: GRAHAM
+D: No. Again. 12S
+N: CHERRY Revision 3-26-02 95 . Stubbornly h e stabs the remote, rewinding. Crawford sighs . MS. HARPER (V .o. } Your dissertation must be near1y finished by now , Mr. Crane ..
+S: INT. CORRIDOR. BROOKLYN MUSEUM OF ART. DAY.
+N: Dolarhyde walks down a corridor, past massive American oils. He's carrying a notebook, a hardback biography of William Blake, and has a special pass clipped to his shirt . No sign of his knapsack . He1 s accompanied by a docent, MS. HARPER, a sensible-looking woman, severely pretty .
+C: OOLARHYDE
+D: Nearly.
+C: MS. HARPER
+D: It's so nice to finally be able to connect a face with a name , after all our correspondence. But you know , you dont look at all like I imagined you would.
+E: smiles
+C: DOLARHYDE
+D: What did you think I'd look like? Something in his piercing gaze unsettles her, just a bit.
+C: MISS HARPER
+D: Older. INT. LECTER1 S CELL AND CORRIDOR. DAY. Outside Lecter's cell are a PAIR OF CATERERS, in chef's starched whites, with a stainless steel cart. Both very nervous . one man warms veal on a chafing dish , while the other cautiously lowers the soup course into Lecters pa ss ­ through. The BACH IS PLAYING from a portable ste re o on a second cart . This also holds a TV set and VCR . . . The Doctor, as he rises to take the covered bowl, comes fa -ce ­ to-face for a moment with the frightened chef . Nods to him politely: Thank you. GRAHAM (excited} There. Right there ... BLUE Revision - 11-20-01 95A. 128 INT. fBI BUILDING. CONFERENCE ROOM. DAY. On the TY screen, Jacobi again brings the bicycle up the steps of the basement stainiell. The door s~ings closed behind him. A padlock hangs from it. Graham FREEZES THIS fRAME, then rises, crossing to point at the screen. YELLOW Revision 1-14-02
+E: V .0.
+C: GRAHAM
+D: That's what he wanted the bolt cutter for, Jack - to cut that padlock and go in through the basement ... Crawford looks ove r his glasses at the screen. He's got the case files spread open in front of him.
+C: GRAHAM
+D: But that's a different door ... I don"t get it. The one I saw was flush st eel, with deadbolts.
+E: CONT'D
+C: CRAWFORD
+D: Jacobi had a new door installed, begining of January, I think. It's in here somewhere. Graham looks at him. Crawford's expression changes.
+C: CRAWFORD
+D: You think he cased the Jacobi hous e while the old door with the padlock was still there?
+E: CONTI D
+C: GRAHAM
+D: He brought a bolt cutter, didn't he? He was sure he'd need it.
+C: CRAWFORD
+D: Why would he case it almost two months in advance? And then not check it again?
+C: GRAHAM
+D: I don ' t know. But be was ready with the bolt cutter . .. Just like at the Leeds house - only there he was ready with a glass cutter.
+C: CRAWFORD
+D: He must've seen the pane of glass in the Leedses' kitchen door when he was walking through that neighborhood. Graham's mind races. Something teasingly out of reach .. .
+C: GRAHAM
+D: No, wait .. . You can't see that do or from the yard. There's a porch lattice in the way. They stare at each other, as it hits them both at once. GRAHAM Jack. He knew the inside of the houses. GREEN Rev i sion 1-22-02 97. INT. BROOKLYN MUSEUM. PAINTING STUDY AND STORAGE. DAY. 129 Dolarhyde stands at a counter-height work table as Ms . Harper reverently opens a flat black case in front of him.
+E: CONT I D
+C: MS. HARPER
+D: Remarkable, i sn 't it ? Dolarhyde is tense, almost trembling. They both look down at the case ' s contents . Ms. Harper smiles. MS . HARPER Two hundred years old. And yet so fresh , so vivid ... The original Blake .watercolor rests on black cloth. The Red Dragon and the woman Clothed With' the sun. Small but powerful. Stunning in its color and detail. Like a glowing jewel. .. Dolarhyde leans closer, transfixed. Ms. Harper glances a t him, pleased by his passion. Then back at the painting. '
+E: CONTI D
+C: MS. HARPER
+D: He almost looks alive , doesn ' t he? INT. LECTER'S CELL. DAY. With intense pleasure , Lecter takes a sip of blood-red wine . He glances up, over the rim of his crystal goblet .. . A se curity camera , high in the corner . Its light is on. The Doctor raises his glass in a silent toast .. . INT. SECURITY STRONGHOLD. DAY. ON A MONITOR.in the security stronghold , Chilton watches as Lecter smilingly mocks him. He turns away, furious, then storms out , as the gµards try to stifle their smiles . The BACH SOARS LOUDER AND LOUDER, MIXING n ow with .. . INT . BROOKLYN MUSEUM. PAINTING STUDY AND STORAGE. DAY . . .. the SPECTRAL ROAR of the DRAGON, inside Dolarhyde's head as he stares, sweaty and trembling, at the Blake watercolor.
+E: CONT'D
+C: DRAGON'S VOICE
+D: FILTHY LITTLE BEAST. WHAT HAVE YOU DONE .. ? Dolarhyde's hand slips inside his shirt ...
+C: DRAGON'S VOICE
+D: SHE WILL BETRAY YOU .. . Ms. Harper ' s whole attention is on the painting . ..
+E: CONT' D
+C: AND
+D: GREEN Revision 1- 22-02
+C: DRAGON'S VOICE
+D: DO YOU WANT ME TO CUT IT OFF? Ql'.r ... l,T . .. Qil:! ! ! 98 . Dolarhyde pulls out a blackja ck, slugs Ms. Harper over her filU:. As she goes l i mp he catches her in his arms, eases her with surprising gentleness to the floor . For a moment suspended in time , _he is alone with the Red Dragon, al one and staring . .. Then he snatches up the watercolor , stuffs -it into his mouth. chewing hard . A door open s as a SECRETARY enters from the next off i ce, glanci n g over a letter .
+E: CONT'D
+C: SECRETARY
+D: Jeannie, we've just gotten a request from - She glances up in time to see Dolarhyde poking the last bit of pape r inside his cheek. Looking back at her with eerie calm, he swallows. Ms . Harper is crumpled at his fe et . As the secretary freezes, eyes widen i ng with fear, be lunges towards her ... I NT. BROOI<I.:.YN MUS$UM. CORRIDOR. DAY. Dolarhyde walks briskly down a corridor, past ambling, unsuspecting TOURISTS . He is exhilarated, joyous, invu lnerable. He vanishes amidst the crowd .. . CRAWFORD (V. 0 . l Mr . Metcalf , do you still have the Jacobis' check stubs and credit card statements . . . ? INT. FBI BUILDING. CONFERENCE.ROOM. DAY. Craw-ford is on the phone, over in the corner of the room, whil e Graham conti nues to stare at the TV screen. The we~ds videotape i s now playing .
+C: CRAWFORD
+D: We'r e lookin g for any k in d o f service call or purchase that might ve requ ired a stranger to come into the house . A rep ai rman , a del i very guy ... On the TV. the Leeds' gray Scotty perks up his ears , run s to the kit chen door. Valerie Le eds and th e chi ldren come i n carrying grocer i es.
+E: o n phone
+N: It
+C: AND
+D: PINK Re v i s io n 1- 2 -02
+C: CRAWFORD
+D: Yeah, I~ we alread y checked that. But now we've gotta go back much further. All the way to January . . . Yeah, but p l ease hurry, it's urgent. Graham is muttering obsessively to himself.
+E: O.S. CONT'D
+C: GRAHAM
+D: No collar . .. no collar . . .
+C: CRAWFORD
+D: Metcalf says -
+E: covers the phone
+C: GRAHAM
+D: Don't talk to me! 99 . Crawford isn't offended. Senses that Graham is very close to some breakthrough. He is rocking slightly in his seat.
+C: GRAHAM
+D: Dog had no collar . . . Neighborhood full of dogs, but he knew which one was theirs .. . Same with the Jacobis' cat. No collar, but he knew. Graham reverses the tape for a few seconds, starts it forward again. Mrs. Leeds and the children enter. The door is behind them . Latticework hides the back yard.
+E: CONT'D
+C: GRAHAM
+D: He knew about the padlock ... knew about the pane of glass ... knew the layouts, how to get in .. . every goddamn thing he needed to know was right in . .. right in ... He picks up the plastic container that held the videotape : ftTHE DEEDS OF THE LEEDS! The family mocked up as Hollywood stars. GRAHAM Oh Jesus . .. Crawford stares at him.
+E: CONT'D almost feverish CONT ' D
+C: GRAHAM
+D: You still have Metcalf on the phone? Crawford holds out the receiver . Graham rises, grabs it . GRAHAM Byr on, it 's Graham . You said Niles Jacobi took a few keepsake s . Do you ha ve a l ist ... ?
+E: CONTI D CONT ' D on phone MORE
+N: PINK Revision 1-2-02 GRAHAM {CONT ID ) r' need to know if one of the things he took was a home video. A full ­ length VHS tape, compiled from shorter tapes ... Yes ... ? "Meet the Jacobis ... ? As Crawford follows Graham's thoughts, picking up on his excitement, his eyes grow narrow and bright.
+C: GRAHAM
+D: Listen. Their credit card statements - look at May, or June. Who did they pay for that tape? Where was it
+E: CONT' D on phone
+N: Crawford picks up the plastic container. THE DEEDS OF THE LEEDS! Turns it over to read the manufacturer's label on the back: CHROMA-LUX, INC. / FILM & VIDEOTAPE SERVICES/ ST. LOUIS, MO. Graham looks up from the receiver. Stares at Crawford like a roan who ' s seen a ghost. His voice is hushed, awed. GRAHAM ( CONT I D) It's Chroma-Lux.
+S: INT . LECTER' S CELL. DAY .
+N: Lecter, in his cell, is like a spider at the center of his web, keen to every distant vibration . Now he watches as .. On the TY screen in his corridor, Valerie Leeds leans over, shakes out her tousled hair, then straightens, striking her mock-glamorous pose: that touching, oddly intimate moment that fatally caught Dolarhyde ' s eye. Lecter takes a tiny, delicious sip of her doom, s~eeter than any sauterne. His eyes close slowly in ecstasy ...
+S: EXT. FBI LEARJET . FLYING. DAY.
+N: A small jet races west, towards the setting sun . CRAWFORD (V . 0. ) We've got a problem ...
+S: INT. FBI LEARJET. FLYING. DAY.
+N: Crawford, looking worried, comes down the jet ' s aisle, drops into a seat next to Graham. Shows him a fax.
+C: CRAWFORD
+D: An incident at the Brooklyn Museum . Guy attacked two employees, and get this - ~ the Blake painting.
+N: YELLOW Revision 1-14-02 Graham looks at him, sta rtled , then takes the sheet .
+C: GRAHAM
+D: That's him, that's got to be him.
+C: CRAWFORD
+D: If it was , he was in New York, today ... We could still turn this thing around .
+C: GRAHAM
+D: No. He lives in St. Louis. He's got to come'back there. I say we keep going. A long, uncertain beat. Then Crawford nods. He takes back the fax , looks at it . Shakes his head.
+C: CRAWFORD
+D: If that picture meant so much to him, why destroy it? Or is he trying to get closer to it? And why didn 't he kill those two women at the museum? They both got a good look at him.
+C: GRAHAM
+D: Maybe he's trying to stop. Crawford looks at him, surprised. EXT. CHROMA-LUX. NIGHT. In the parking lot of the factory corrq,lex, under sodi um lights, Dolarhyde pays a TAXI DRIVER, who departs . He 's back in everyday clothes, carries his knapsack. Freed of the Dragon, he looks happier, more relaxed than we've ever seen him. He sta rt s towards his parked van . Then stops. The buildings are mostly dark, just a scattering of cars in the lot. And yet . . . five or six of these ar e clustered near
+N: the loading dock, by the delivery vans. A woman - a SECRETARY - gets out of her car, hurries inside. Summoned here hastily - her hair is in curlers under a scarf. Dolarhyde hesitates, sensing some disturbance. Cautiously h e follows the woman into the bu il ding ...
+S: INT . CHROMA-LUX . 2ND FLOOR CORRU>OR. NIGHT.
+N: Dolarhyde edges around a stairwell corner, looks down ... A long corridor . Lights on in one of the offices, behind a frosted glass door that reads "PERSONNEL DEPT. Inside this room, SHADOWY FIGURES. INDISTINCT VOICES. As he's puzzling over this, another noise, nearby - RAPIDLY APPROACHING FOOTSTEPS - makes him pull back, out of sight. YELLOW Revision 1-14-02 101A. The se c retary from the parking lot c omes by him , in a hurry. carrying a heavy armload of ledgers . She reaches the door of the personnel department , pecks on it with her toe . ~ill Graham opens the door for her. GRAY Rev isio n 4-25-02 102. Dola rhyde freezes, stunned ... The woman goes in . the door closes behind her. Dolarhyde back s away, then t urns , his running sho es guiec as he rushes back downstairs towards the exit. INT . D)LARHYDE I s VAN. NIGHT . Dolarhyde races across the parking lot , leaps into the driver 's seat, shuts h is door , yanks his valise from under the seat , claws it open. Pulls out his Glock, jacks a round into the chamber. He's panting, a l most frantic. Looks out his window . No on e coming ... He forces himself to take deep breaths. Then he lays his pistol on the console, covers it with a T - shirt . He starts his engine, then drives slowly and quietly away.
+S: INT . CHROMA-LUX. PERSONNEL OFFICE. NIGHT.
+N: The Personnel Manager. MR . FISK, looks worriedly at Crawford. 142* 'Ir 144* GRAY Revision 4-25-02
+C: FI SK
+D: Mr. Crawford , all you' ve got is a hunch. But I've got 382 employees. And they have a union. I don't see how I c an just turn you loose on their files. His secretary is grimly guarding the pile of ledgers and time sheets. Graham hovers nearby, frustrated .
+C: FISK (CONT' D}
+D: There are privacy issues here. The company's exposure -
+C: CRAWFORD
+D: One of those employees has already killed eleven people . That we know of. If he gets away tonight, what's the company's exposure on that?
+C: FISK
+D: Let me get our lawyers down here . I'm sure you can work something out with them.
+C: CRJ\,WFORD
+D: We don't have time for that. Fisk looks back at him unhappily.
+C: REBA
+D: Thanks for dinner, Ralph. And thanks for letting me vent. EXT. REBA'S DUPLEX. FRONT STEPS . NIGHT. Reba's standing outside her front door~ saying good night to Ralph Mandy. His red motorcycle is parked at the curb.
+E: V.O.
+C: RALPH
+D: Bey , no problerno ... Reba , listen . It's not my place to say this ...
+C: REBA
+D: Go on .
+C: RALPH
+D: If Dolarhyde 1 s really as moody as you say, maybe you oughta keep a little distance . I mean, what do you really know about the guy ? Or any of us know?
+C: REBA
+D: I appreciate your concern, Ralph . Reall y . And I promise I 1 ll give it so me thought .. . Hey. have a great vacat io n.
+N: GRAY Revision 4-25-02 103A.
+C: RALPH
+D: G ' night , Reeb. See you in a week. GRAY Revision 4-25-02 104. Impulsively he leans forward, gives her a quick kiss on the cheek. Reba accepts this. INT. OOLARF!YDE' S VAN. NIGHT. POV ANGLE, through a windshield, as they separate. Reba smiles. She turns, unlocks her door , as Ralph stands by ... Dolarhyde stares at the two of them from his parked van, his eyes turning hard. A grim new resolve is flooding into him. EXT. REBA'S DUPLEX. FRONT STEPS. NIGHT. Ralph waits gallantly while Reba closes her door, bolts it from inside. Then he turns, starting towards his bike . .. but Dolarhyde is blocking his way .
+C: RALPH
+D: Mr. D. ! What're you - Dolarhyde shoots him in the face, two quick little PHUTTS from the silenced Glock. Ralph's body tumbles behind the shrubbery. Then Dolarhyde turns , calmly rings the doorbell. He waits. After a moment, SOUNDS of the door being UNLOCKED again. Reba opens it, annoyed.
+C: REBA
+D: Ralph, j us t because I'm feeling a little vulnerable - Dolarhyde claps a chloroformed cloth over her face. She struggles briefly, trying to cry out, then goes limp. He catches her as she sags. Crouching with Reba, his feverish gaze darts up and down the street. No witness . His eyes linger for a moment on Ralph's red motorcycle, then shift to his corpse, crumpled behind the hedge. His mind races . What now ... ? INT. PERSONNEL OFFICE. NIGHT. Fisk looks tensely at Graham, as he breaks into the standoff.
+C: GRAHAM
+D: Look, forget the files, the man we're looking for is very strong . A body­ builder. He's right-handed, has short brown hair. He drives a van, or a panel truck. And he missed work today . He called in sick, or left early. Fisk and his secretary exchange a worried glance.
+C: FISK
+D: That sounds like Mr. o. GRAY Revision 4-25-02
+C: CRAWFORD
+D: Who is Mr. D?
+C: FISK
+D: Francis Dolarhyde, our manager of technical services. He maintains the equipment we use for tape transfers .. . all our home videos go through his hands.
+C: GRAHAM
+D: Was he at work today?
+C: SECRETARY
+D: Yes. No. He came in early, but he went home sick. Graham and Crawford exchange a glance. Got him.
+C: GRAHAM
+D: That's him, we've got him.
+C: CRAWFORD
+D: We've got to scramble St. Louis PD, the Sheriff's department, and the State Highway Patrol . Let's go. INT. OOLARHYDE'S HOOSE. BALLROOM. NIGHT. lOS . A dripping towel rubs across Reba's unconscious face, which stirs, the n shakes from side to side to escape the wetness. DOLARHYDE Reba ... Reba, wake up. Her eyelids flutter open . She 's slumped on the couch, dazed, disoriented. Dolarhyd e sits beside her , very distraught.
+E: 0 . S .
+C: DOLARHYDE
+D: You wandered around in the house while 1 was asleep, didn't you?
+E: CONT'D
+C: REBA
+D: What .. . ?
+C: DOLARHYDE
+D: The other night. Did you find something odd? Did you take it and show it to somebody? Did you do that, Reba?
+C: REBA
+D: D.? What is it? What's happen ing? Abruptly she struggles to rise, but his big hands on her shoulders push her back. He hisses.
+C: DOLARHYDE
+D: Shhhh ! Sit still, or He'll hear us !
+N: GRAY R evisio n 4-25 -02
+C: REBA
+D: Who will ?
+C: OOLARRYDE
+D: He ' s right upst ai rs . I thoug ht He was gone , but now He ' s back.
+C: REBA
+D: D ., y ou ' re scaring m e - His p a lm covers her rising shriek .
+C: 105A.
+D: BLOE Revision 11-20-0 1
+C: DOLARHYDE
+D: Sbbbbb . . . ! EXT. STATE ROAD 370. NIGHT . 106 . A caravan of cars and vans streams across a Missouri River bridge, speeding west quickly but silently. St. Louis PD, St . Louis SWAT, FBI. Mars lights flashing to clear traffic, but no sirens. Once across the bridge, the caravan swings right onto North River Road .. .
+C: DOLARHYDE
+D: Reba, some remarkable events have happened in Birmingham and Atlanta .. INT. DOLARHYDE'S HOUSE. BALLROOM. NIGHT. Dolarhyde still grips her mouth. He leans closer to her, his eyes bla~ing. Their faces almost touching.
+E: V.O.
+C: OOLARHYDE
+D: Do you know what I'm talking about? She shakes her head, very scared.
+C: DOLARHYDE
+D: It's been on the news a lot. Two groups of people were Changed. Leeds. And Jacobi. The police think they were murdered. Do you know now? She starts to shake her head again. Then she does know. Slowly she nods . He uncovers her mouth.
+E: CONT'D
+C: OOLARHYDE
+D: Do you know what they call the Being that visited those people? You can say .
+E: CONT'D
+C: REBA
+D: The Tooth - He grips her face again, shutting off the sound.
+C: DOLARHYOE
+D: Think carefully and answer correctly.
+C: REBA
+D: It's Dragon something . Dragon .. . Red Dragon.
+C: OOLARHYDE
+D: He's right upstairs. He wants you, Reba. He always has . I didn't want to give you to Him. I did a thing for you today so He cou l dn't have you. But 1 was wrong , Reba ... You made me weak and then you hurt me. BLUE Revision - 11-20-01 101. INT. LEAD CAR, POLICE CARAVAN. DRIVING. NIGHT. In the lead car, TWO DEPUTIES are in the front seat; one driving and one consulting a map. The radio CRACKLES with low, urgent VOICES, coordinating the racing task force . In the backseat, Graham is checking the load in his .44 Special . He looks at his fingers, d i scovers they are remarkably steady. He glances beside him at ... Crawford, who has caught this moment. Their eyes meet, briefly, then Crawford nods: You'll be okay . I NT. DOLAR.HYDE'S HOUSE. BALLROOM. NIGHT. 1S3 A row of gasoline cans, their caps already removed. One by one, Dolarhyde's sneaker is kicking them over, as the liquid spil l s out, spreading over tbe floorboar~ ..
+E: a feverish whisper
+C: DRAGON'S VOICE SHE IS MINE!
+D: Oolarhyde pauses, looking up sharply at his ceiling.
+C: DOLARHYOE
+D: No!
+C: DRAGON'S VOICE
+D: GIVE HER TO HE H.Q!!
+C: DOLARHYDE
+D: No! You can't have her! He picks up a can, frantically splashing the cots, the drapes. Reba's head turns sharply, reacting to the smeil.
+C: REBA
+D: Please, D. Please don't let Him have me. You won't, please don't - I'm for you . Let's just be friends and fuck and forget about this. You like me, I kn ow you do. Take me with you.
+C: OOLARHYOE
+D: Take you with me. Yes. Suddenly he's beside her again, holding his shotgun.
+C: DOLARHYDE
+D: Put out you r hand. Feel this. Don 't grab it , feel it. She touches the muzzle.
+E: CONT'D
+C: OOLARHYDE
+D: That's a shotgun, Reba. A t we lve­ gauge magnum. Do you know what it will do?
+E: CONT'D
+N: BLUE Revision - 11-20-01 101A. She nods. Tears streaming dovn her cheeks. PINK Revision 1-2-02 DOLARHYDE (CONT'D ) Take your hand down . The cold muzzle now rests in the hollow of her throat.
+C: DOLARHYDE
+D: Reba, I wish I could have trusted you. I wanted to trust you ... You felt so good.
+E: CONT1 D crying
+C: REBA
+D: So did you , D. I love it. Please don ' t hurt me now .
+C: DOLARHYDE
+D: It's all over for me ! He sobs helplessly, great spasms racking his body. Then he's up again, lurching away , still gripping the shotgun as he fumbles with a pack of matches. Strik es one, tosses it . It lands with a WHOOSH as flames rise instantly. Thick black smoke begins to fill the air ... Reba, terrified, gets to her feet.
+C: REBA
+D: {screams) D . ! Where are you?
+C: DOLARHYDE
+D: I can't leave you to Him. Do you know what He' ll do? {bawling now) He'll bite you to death. He'll hurt you so bad . .. I can't let that happen. I can't! Better if you go with m e.
+C: REBA
+D: Yes , God, get us Sll.!t of here! Dolarhyde sways in front of her , backlit by flames, in hellish torment. Slowly he raises the shotgun.
+C: OOLARHYDE
+D: I ' ll s ho ot you, and then myself. I have to shoot you!
+C: REBA
+D: D., no, pleeeease ! The muzzle trembles in his hands. He hesitates, stricken.
+C: DOLARHYDE
+D: Oh, Reba! I can 't do it ... I CLOSE ON Reba's face, as she extends her hands pleadingly . 1S 5 WHITE Locked - 109.
+E: howls
+C: REBA
+D: Oeeeee, nooooo . . ! BOTH BARRELS of the shotgun EXPLODE at once. Blood spatters her face. She staggers back, stunned. Then hears the HEAVY THUMP of a BODY hitting the floor. She turns to run, but stumbles choking into the couch. Smoke everywhere . She claws her bands through it, gasping. B.acks away from the couch, t urni ng helplessly. Which way? She takes a few tent ative steps , arms e>ttended, then stumbles over something, falls to her hands and knees. Her fingers trail across the floor till they encounter a dead hand, gripping the shotgun . . then travel up the arm, the shoulder finally sinking into the horrible mush of the face: pulp, bone splinters, a loose eye. Gaggin9, chokii,g, abe falls backwards, then scrambles up again . Flames rise behind her, CRACKLING, shooting up tbe drapes. Flames and smoke everywhere. She turns desperately" Which way? Then a new sound : th BONG of the hall clock Ber head turns. BONG BONG. Where ie it . ? There. That way. BONG BONG .. crouching l ow, under the smoke, she feels her way across the ballroom, bWllping into cots, righting herself, ■oving towards the archway, towards the sound. BONG BONG. Under her breath, a desperate chant .. REBA Left at the arch, three steps to the clock . clock to the door, nine more . . . Oh God. Oh God ! INT. LEAD CAR, POLICE CARAVAN. DRIVING. NIGHT. Through the windshield, passing fields, patches of woods - then a red glow in t he distance, flickering against low clouds . The deputy with the map points excitedly.
+E: CONT' 0
+C: DEPUTY
+D: That's .!,1! That's where it is! The driver stomps his accelerator; the car ROARS forward. The other deputy hits the SIREN. Crawford grabs their microphone from the center console. CRAWFOJtO All units, that's his house burning. Watch i t now, he may be coming out . Sheriff, we need a roadblock here . Graham leans forward, between the two deputies, staring aa the glow brightens and swells, coming closer . . EXT. GRAVEL ROAD. NIGHT. The lead car ROARS past the nursing home sign, SIREN SCREAMING, a s the other cars and vans follow. ~ 156 BLUE RevisJ.on 11-20-01 110. The whole s cene is eerily lit by their flashing mars lights, as well as by the ris i ng flames . . . INT. LEAO CAR, POLICE CARAVAN. DRIVING. NIGHT. Suddenly a, WOMAN lo oms in front of them, bathed in their headligh ts, lurching bl i ndly into the car's path .. . The dr i ver, cursing, slams on his brakes as ... EXT. GRAVEL ROAD. NIGHT. . .. the car skids to a stop, fishtailing, slewing gravel, and just misses smashing into Rebe. The following cars and vans veer quickly into the fields, bouncing and swaying over the rough ground. Then Graham and Crawford are out of their car, racing towards Reba. Graham gets there first, holds her arms, his face c l ose to hers, both their faces red in the firelight.
+C: GRAHAM
+D: Francis Dolarhyde. She's bloody, sooty , half-deafened. Her mouth is working, but nothing will come out. He shakes her gently.
+C: GRAHAM
+D: Francis Dolarhyde, where is he?
+E: CONTI D
+C: REBA
+D: He's in there . He's dead in there . Deputies and SWAT cops are racing by them with drawn weapons . Graham and Crawford look at the burning house, then back at Reba, at her sightless eyes.
+C: CRAWFORD
+D: You~ that'?
+C: REBA
+D: He shot himself in the face. I put my hand in it. He set fire to the house. Graham run s on impatiently . Cr awford takes her arm .
+C: REBA
+D: He shot himself . l put my hand i n it . He was on the floor. I put my hand in it c an I, can I, can I sit down, please.
+E: CONT'D
+C: CRAWFORD
+D: Yes. He ease s her onto the bumper o f a police c ar , sits beside he r , h is arms around her, whi le she sobs int o his ne ck.
+N: PIN1< Revision 1-2 -02 110A. Graham rac e s up the s teps to the front porch. The front door is a mass of flames. He hurries along the porch, despite the searing heat. almost frantic to get inside. Which way? Which way? Windows are shattering, more fire leaping out, boiling black smoke . A deputy hurries up, shouts at him.
+C: DEPUTY
+D: G~t Back! Graham shakes him off, staring into the inferno in a trance of frustration, of unspent fury. Only when the man grabs his arm, physically yanking him backwards , does he finally start to come to his senses. As Graham and the deputy stumble back down the steps and into the yard ... Th~ top of the house explodes. the garret and center roof disintegrati ng in a vast fireball, as the ground shudders and the WHUMP of the shockwave rocks the police cars . . . And knocks down Graham and the deputy. Crawford, still with Reba, rises, watching anxiously .. . But Graham and the deputy scramble to their feet again; they're okay. Sparks and debris rain down around them.
+N: GREEN Revision 1-22 -02 The deputy moves off, but Graham turns back, transfixed, staring at ... 111 . The rocki ng chairs on the porch , moving eerily as flames take them. One last ride for the ghosts . Dolarhyde's van i s ablaze; now its windows shatter as the gas tank EXPLODES. Trees burn , shrubs; the en tire hilltop is a raging bell . He stands there, a long time, watching the house burn .. . GRAHAM (V . 0 . ) That's all I need . But if it's OK, I'd l i ke to come by ~gain before I leave town . ..
+S: INT . A HOSPITAL. DAY.
+N: Reba Mcclane , in a hospital gown, sits up against a pillow . Bo th arms and one hand are bandaged from burns . Ber face looks pale, still troubled. Graham is beside her.
+C: GRAHAM
+D: Just to say hi, see how you're doing .
+C: REBA
+D: Sure, why not . Who eould resist a charmer like me? He sees tears glinting in her eyes . Le .ans cl o ser .
+C: GRAHAM
+D: Whatever was still human in him was only kept alive because of you . You probably saved some lives ... You didn't draw a freak . You drew a man with a freak on his back.
+C: REBA
+D: I should have known .
+E: shakes her head
+C: GRAHAM
+D: Sometimes we don't. I've been there myself. She looks towards him curiously . Gently he tak es her hand. GRAHAM Listen t o me. There was plenty wrong with Dolarhyde, but there's nothing wrong with you . Except your hair . Your hai.t: is a train wre ck. Can we please d.o -something about that? She shakes her head , wav e s him t owards the door . But she can't completely hid e, at the end, a very Reba-like grin.
+E: CONT ' D
+N: 11! GREEN Revision 1-22-02 lllA.
+S: 158A INT. HOSPITAL . HALLWAY. DAY
+N: As Graham leaves Reba's ro om. he sees Crawford sitting in the hall. He 's holding something , a thick black book : Dolarhyde ' s great ledger . Crawford rises.
+C: CRAWFORD
+D: We found this in his safe. Thought you might want to take the first look. He gives the ledger to Graham. For a moment their eyes meet .
+C: CRAWFORD
+D: Will? You've earned it. Graham nods : Thanks. Crawford smiles, walks away, leaving Graham alone . He sits , the ledger on his lap. Hesitates, then finally opens it, meeting the Red Dragon at last . . . Graham ' s POV, as he turns the pages: news clippings, scrawled handwriting ... and th~ ; loose between two pages, a yellowed oho-to of a little boy . shyly hiding his mouth as he clings to the skirt of his stem-looking Grandmother on the porch . of the old house . .. Graham stares at this image. GRAHAM When I read his journal, it was just . . . I don't know. Just so sad . . . FADE TO: 158B EXT. BEACH, FLORIDA. NIGHT . A WEEK LATER. Molly and Graham sit together on the dunes below their house. They're in shorts, barefoot. A driftwood fire , built in the sand, flickers before them . He stares pensively at the flames .
+E: CONT D V . 0.
+C: GRAHAM
+D: When I read some of his journal , it was so .. . I don't know. Just so sad . I couldn ' t help feeling sorry for him ... He wasn't born a monster . He was made one . It took years of abuse. 158A . YELLOW Revision 1-14-02 112. Molly looks at him a moment, then kisses him. Josh c omes up from the surf li ne , happy to see them sm oochin g .
+C: JOSH
+D: Hey , can we make smores?
+C: MOLLY
+D: I t's a deal . Go look in the pantry. INT . GRAHAM HOUSE. KITCHEN. NIGHT . Josh, inside the walk-in pantry, rwnmages until he finds a Hershey bar , a box of Graham crackers, and a bag of marshmallows. He rips this open, chewing one , as he exits the pantry, reaching for the door. When he swings i t closed, Francis Dolarhyde is revealed . standing behind it . Josh freezes, speechless, staring into the crazed yellow eyes . Dolarhyde's voice is soft.
+C: DOLARHYDE
+D: Hi. I ' m a friend of your father's . EXT . BEACH . NIGHT . Graham looks up t owards the house .
+C: GRAHAM
+D: Wonder what's taking him so long ?
+C: MOLLY
+D: Are you kidding ? It takes him twenty minutes to get out of bed in the morning .
+C: GRAHAM
+D: Yeah, but now I've got a serious marshmallow jones . She laughs as he rises , starting up toward s the house. She t os ses more wood on the fire . INT. CAAWFORD'S OFFICE. FBI BUILDING , WASHINGTON. NIGHT . Crawford , i n bis reading g lasses, is taking down his task force maps and photos, putt i ng them away i n archival cartons. His PHONE RINGS and he picks it up.
+C: CRAWFORD
+D: Crawford. INT . LATENT FINGERPRINTS LAB. NIGHT. Jircuny Price , looking upset , clutches a receiver . Behind him , on a steel table , charred bone fragments . WHITE Locked - 113.
+C: PRICE
+D: Jack, those remains you found in the rubble. They're not Dolarhyde's. INTERCUTT ING - As Crawford, startled, looks down at his desk. Resting there are Grandmother Dolarhyde's shattered, blackened dentures.
+E: on phone
+C: CRAWFORD
+D: What are you talking about? His goddamn dentures were there.
+C: PRICE
+D: But not his bones. Wrong DNA.
+C: C.UWFORD
+D: Then whose are they? Price grabs for a fax, scans it.
+C: PRICE
+D: st. Louis PD is looking for a Chroma­ Lux employee named Ralph Mandy. Be was supposed to be on vacation, so nobody missed him for a week. And Jack - his motorcycle ia missing, too. Crawford turns, staring into the distance out bis window.
+C: CRAWFORD
+D: Oh Jesus . EXT. GRAHAM HOOSE. LIVING ROOM. NIGHT. As Graham pads barefoot through his living room, he pauses. Something is tugging at the edge of his eideteker's consciousness. He stops, turns, scanning the room more closely. Something is subtly different .. Graham's gaie travels across the couch, co ,ffee table, the foyer, seen through its archway, then bookcases, framed pictures . . ~- ~eturna to the foyer. Rug, coat rack, and an antique console, with a glass bowl of seaahella resting on it. A mirror, seen at an oblique angle, hangs above the console ... The mirror is cracked. One long shard is missing. Graham stares, stunned, his mind racing. Barely a.ble to accept what this could mean . Suddenly the phone rings, close by his side, making him start. He reaches for It, t.hen stops . Cant give away his poaition. As the phone continues to ring, ins i stently, Graham stares fearfully towards the stairs, leading up to the se co nd floor. WHITE Locked - 114. A light is on up there. The answering machine clicks on.
+C: MOLLY'S VOICE
+D: Hi, this is Holly. We can't come to the phone right now , but you know the deal . Wait for the beep. I~T . KITCHEN. NIGHT. A wooden block of knives. Graham quietly slides a butcher knife from its slot. In the distance, the machine beeps.
+C: CRAWFORD'S VOICE
+D: Will, it's Jack. Get out of the house. Get Holly and Josh and drive into town, call me from there .. INT. STAIRCASE. NIGHT. As quietly as he can, Graham mounts the steps, the butcher , knife gripped in his right fist. Crawford's desperate voice can still be heard from downstairs.
+E: on machine
+C: CRAWFORD'S VOICE
+D: It's Oolarhyde, Will. He's still alive. I'm scrambling everything that will roll or fly, but it'a gonna take time to get them out there . Aw Christ , Will Where are you? INT. UPSTAIRS HALLWAY. NIGHT. Graham's head edges into view at the top of the stairs. He looks down the hall, bis eyes at floor level . Five doors. Tvo per side - Josh's bedroom, bathroom, guest room, closet - in a gallery around the railed staircase. Master bedroom down at the end. Each door a potential aml>uah. Graham climbs higher, standing in a half crouch, then follows his blade's point, edging down the hall . His heart pounding. Every sense tortured to a razor's edge . His bare feet slip quietly over worn floorboards, carefully skirting the known loud spots .. Stand i ng by Josh's door, he takes a deep breath. Tightens his grip on the knife. Then quietly pushes the door open further ... INT. JOSH' S ROOM. NIGHT. Dolarhyde stands by the bed, gripping Josh by one powerful forearm. His knapsack lies on the bed . The shard of mirror is poised by the boy's right eye. The handle end ia wrapped with a dish towel. Oolarhyde's mad gaze meet Graham's. GREEN Revision Drop it . 1-22-02
+C: DOLAJUIYDE
+D: Graham hes itat es, looking into his son's terrified eyes . His mind racing frantically . ..
+C: DOLARHYDE
+D: Do it~, gumshoe . Graham tosses his knife to one side: - Dolarhyde smiles .
+E: CONT' D
+C: DOLARHYDE {CONT'D)
+D: Your son is about to Change. Th~ your wife. You_ can watch. 115 . Josh, in his fear, has wet his pants. Graham sees this, and something clicks in his mind. One last, desperate chance. He stares into his son's eyes , willing him to understand, even as his voice becomes harsh and grating , very loud.
+C: GRAHAM
+D: Look at you! I "ve never Ji.em a child as disgusting as yout Josh , confused, begins to whimper. But the effect on Dolarhyde is amazing. He freezes, startled, his eyes going wide . . .
+C: GRAHAM
+D: You re soaking wet! Row dare you . Dirty little be&st l -Dolarhyde' s mouth is agape, working sound _lessly .
+E: CONT' D
+C: GRAHAM
+D: Freak! Harelip! Who could ever love :i2ll . . ? Josh is sobbing. Oolarhyde looks down at him, upset by the boy's crying . Disoriented, he begins to whimper too. The shard's point drops a few inches, trembling in his hand.
+E: CONTI D
+C: GRAHAM
+D: Get out . Get out of here, right this minute! Go to my room! Do you want me to cut it off? Do you?! po YOU?!! 00 YOU? I ! Dolarhyde roars with fury. releasing Josh in order to attack Graham. He swings the shard in a wide arc but misses as Graham steps backwards. Dolarhyde is left momentarily off-balance. GRAHAM ( CONT ' D} Josh. run! Josh darts around Oolarhyde and out the door . Dolarhyde, r ecovering his balance , starts after him, but Graham ste-ps in to his path, blocking him. Low, hands spread ...
+E: CONT' D shouts
+N: BLUE Revision - ll-20-01 116. Anot her slash. This ti.me, Graham's chest is lightly scored The third slash, a huge swin ,g, another m:iss, leaves Dolarhyde momentarily off balance ... Graham plucks a second, smaller knife from behind his back, p l unges it t o the hilt in polarhyde~ thigh. Dolarhyde screams. Graham runs out in 't o the hall . Dolarhyde starts after him, staggers, rights himself. Tossing away the shard , he turns back to the bed, snatches up his knapsack .
+S: INT. HALLWAY. NIGHT.
+N: As Graham runs down the hall, Dolarhyde lurches into view behind him, the knife still waggling in his thigh. He's fumbling in his knapsack . Be pulls out his Glock as Graham runs into the master bed.room_, slamming the door.
+S: INT. MASTER BEDROOM/THEN HALLWAY. NIGHT.
+N: Graham locks the door, just as Oolarhyde smashes against it . The panels seem to bulge inwards. Graham pushes back, with all his veight . He turns, sees ... Josh, hiding under the bed , wide-eyed.
+C: GRAHAM
+D: {gasping) You OK? Are you cut? Josh shakes his head. Staring at his father's torn chest.
+C: GRAHAM
+D: Stay there . Another smash against the door . Then another. Another. The trim around the hinges is starting to splinter Graham runs to his closet, flings open the door, pulls dovn a shoebox from a high shelf. Takes out his Bulldog .44 and flips off the safety. But when he turns back towards the door, ever yt~i ng has suddenly gone silent. Not a sound out there. And then , after a few moments, a distant, female voice, calling out . HOLLY Will ... ? Josh . . . ? Graham's eyes meet Josh's. Pierced by a new fear.
+E: CONT'D O . S .
+C: MOLLY' S VOICE
+D: Where~ you guys . . ? Gra ham drop s prone, staring out thr ough the crack between the door and the jamb. He sees . . Molly's head appearing as she comes up the stairs. Puzzled, she looks do wn the hall. It ' s empty.
+N: GREEN Revision - 1-22- 02
+C: MOLLY
+D: Thought I h eard some kind o f . . . She stops. Looki ng his way . Her expression ch anges as she sees the battered d oor . Then she approaches, moving down the hall more warily . From his low angle. he can now see only her bare feet. They come closer, then stop , ju st outside the door . Inch es fro~ his eyes.
+C: MOLLY
+D: Will. . . ? At the end of the hall, nolarhyde's running shoes appear. behind her. slipping out of the bathroom. They come closer and closer. silently, one shoe leaving bloody prints . ..
+E: CONT'D
+C: GRAHAM
+D: Molly, .dQml GET DOWN! t Molly drops , flattening herself on the floorboards, as .. , Graham rises to one knee, aims the . 44 .at the door , at waist level, squeezing the trigger .. . Dol arhyde is firing the Glock. his bullets punching through the door at chest height, over Molly's prone figure . .. _ The BOOMS are DEAFENING, the entire hallway becoming a smoky, flaming hell as the door is shredded, SHOT after SHOT ... And Dolarbyde is hit in the chest, the thigh, smashed backwards and falling to the floor . .. While Graham also rocks backwards, hit in the sh ou lder, and "11i th his cheek sliced open by a flying splinter . . . And then , abruptly , the guns fall silent. Smoke is everywhe re. Molly turns, terrified, looking behind her at Dolarhyde . .
+E: suddenly shouting
+N: PINK Revision 1-2-02 117A. His body lies still in a pool of blood. Rising , she looks through the shattered door at Graham, who ' s lying on his back. She reaches in through a gaping hole, unlocks the door, rushes inside . Kneeling, she cradles his head. He's barely conscious, his eyes trying to focus on her . Then they look past her. He struggles to speak through a mouth filled with blood.
+C: GRAHAM
+D: Shub .. . shuh .. . Molly leans closer, trying to , understand. Graham whispers urgently.
+E: CONT'D
+C: GRAHAM
+D: Shoo him ... PINK Revision 1-2-02 118.* A moment of stunned comprehension. Then she reaches down, grabs the .44, spinning around on her knees , her arms already rising with the muzzle as . . . Dolarbyde ' s crazed eyes meet hers . A bloody wraith, trying to rise. It takes all his last strength to lift the Glock, but before he can squeeze the trigger again, Molly shoots him three times in the face . He's punched backwards, dead. Molly is gasping, making soft inarticulate cries. She tu.ms, looks at Josh, still hiding under the bed. Then at Graham. He -1ooks at her weakly , then his head sags back . Stops. He may be dead. LECTER My Dear Will. You must be healed by now. On the outside, at least. I hope your not too ugly. What a collection of scars you have . . . ! INT . LECTER'S CELL. DAY. Lecter sits at his desk, writing a letter. His cell has been restored to its former appearance: books and drawings, bedding and toilet seat; no trace of his fine meal remains. LECTER Never forget you have you the best of them. And be grateful. our scars have the power to remind us that the past was real. In fact, it ' s not even really the past, is it. He looks up thoughtfully, into some far distance.
+E: CONT'D V . 0. V . 0 .
+C: LECTER
+D: We live in a primitive time - don't we, Will? - neither savage n or wise . Half measures are the curse of it. Any rational .society would either kill me or put me to some use .. EXT. SAILBOAT. DAY. AERIAL VIEW of a sloop, under easy sail, somewhere in the Caribbean. SUPER TITLE: ONE YEAR LATER. CLOSER ANGLE - Graham stands by the lifeline, near the bow. He's bearded now, his hair longeri he looks older. He's reading Lecter's letter. LECTER no you dream much, Will ... ? I think of you often.
+E: V.O. CONT'D V. 0. MORE
+N: YELLOW Revision 1-14-02 LECTER (V .O. ) (CONT'D) I think of you often .. . {pause) Hannibal Lecter.
+C: 118A.
+D: Graham drops the letter overboard , watching for a few moments as it swirls away in the boat's wake. Then he turns, walking back along the deck to rejoin Molly and Josh at the wheel, as the sloop sails gracefully away, over perfect gin-clear wa1:.ers . . WHITE Locked - 119. CHILTON Rannibal? There's aomeone here to ae you . INT. LECTER'S CELL. DAY. Lecter, still composinv his letter, ignores Dr. Chilton, who ho~ere gloatingly out in the corridor.
+E: V. 0.
+C: CHILTON
+D: Wants to ask you a few questions. I said you'd probably refuse. She's cooling her heels up in my office. Lecter becomes very still. Ria back remains turned.
+C: CHILTON
+D: Yea, I thought that might get your attention. A young woman, eaya ■he's from the FBI. Though she's far too pretty, if you aak me. Ca cruel aigb) What fun it would've been, to see you writhing while abe was just out of reach! Still, we can't get everything we want. 1'11 tell her you said no. Be starts away. Lecter considers. Behind the strange pale eyes, something moves, the first quickening of wondrous new possibilities.
+E: CONT'D
+C: LECTER
+D: What is her name?
+N: THE END.

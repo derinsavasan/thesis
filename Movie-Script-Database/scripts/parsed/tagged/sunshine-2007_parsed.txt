@@ -1,0 +1,1096 @@
+M: StmSHINB
+M: v.01
+M: Copyright Alex Garland January 2004
+M: OPEN ON:
+S: EXT. THE SURFACE OP THE SUN
+N: It never coalesces. It's something we can't quite comprehend. Too much power, too massive, too ancient. The image boils and rages, and is completely hypnotic. The noise is overwhelming. over this, the TITLE:
+C: SUNSHXNE
+D: EXT. THE SUN The curve of the sun against the dark of space, where solar flares arc thousands of miles, before the vast gravity of the star pulls them back EXT. SPACE Now tens of millions of miles distant from the star, where the sound of fission and countless rolling nuclear detonations are silenced by the vacuum EXT. ICARUS II a SPACESHIP is heading towards the sun. The ship is curved and organic in its design, with bulky flanks that look as if they can detach from the rest of the vessel. Most striking of all, the ship is covered in mirrored panels, similar to fish scales. The mirrored panels cover the entire surface of the ship, except for the window portals, and a geodesic dome situated towards the back. These portals and the dome are constructed with a thick half-mirrored glass. The distances involved are so huge between the ship and the sun that it hardly seems to be moving. But as we get closer, and we see space dust and particles flash past or colliding with the hull, detonating and burning under the impact and friction, we realise that in fact the ship is travelling at an extraordinarily fast speed. on the SPACESHIP'S side is its name: ICARUS II. INT. RECREATI:Olf .ROOll In the RECREATION ROOM of the ICARUS II, two men sit either side of a small table, arms folded, their faces a picture of deep thought. The first, and older, of these two men is CAPTAIN ASHER. The ICARUS II is under his command. He's a career astronaut. Implacable, calm, experienced. The younger of the two men is CAPA. CAPA is a career physicist. In contrast to ASHER, CAPA is thin, young, nervy, and looks unkempt. He has a couple of weeks beard-growth, and his hair is a bedraggled. Between them is a CHESS BOARD - sparse pieces, scattered. The end game. Silence. No movement from either of them. The moment is held. And held. Finally, CAPA puffs out his cheeks and expelsa loud sigh. He reaches for his KING, and tips it over. He has RESIGNED. ASHER nods.
+C: ASHER
+D: Good game. They shake hands. CAPA checks his watch.
+C: CAPA
+D: Three and a half hours.
+C: ASHER
+D: A long one. A moment.
+C: CAPA
+D: Really takes it out of you. All that concentration.
+C: ASHER
+D: It does. Then silently both men start to reset the board to play again. INT. OXYGEN GARDEN CORAZON, a woman in her early thirties, a Biologist, kneels beside a tall tree fern, using secateurs to trim away dead fronds-. In fact, she is surrounded by ferns, of all species and sizes. The ground is a carpet of mosses. CORAZON looks as if she is in a prehistoric jungle, except that above her .is a geodesic dome, behind which is outer space and the constellation of stars. INT. FLIGHT DECK On the flight deck of the ICARUS II, two more astronauts sit in front of their instrument panel, which glitters with back­ lit displays and switches. These are MACE and CASSIE -flight crew, in the PILOT and CO­ PILOT seats But-neither have their seat-straps on, or look like they are doing much in the way of piloting. MACE has his seat reclined, and is dozing with his chin on his chest and his feet propped up on the instrument panel. CASSIE is reading a book. The book is LADY CHATTERLY'S LOVER. MACE stirs in his sleep, and his foot shifts . flicking a switch to 'off' position with his heel. CASSIE, engrossed in her novel, hasn't noticed. t~-,., K _:;, Nothing happens for a couple of moment~. Then:
+C: ELECTRONIC VOICE
+D: Warning. Coolant from port stabiliser redirected to rear engines. No extra coolant in rear engines required. Recommend coolant redirection is cancelled. CASSIE, unconcerned, not looking up from her book:
+C: CASSIE
+D: Fine. The switch flicks itself back.
+C: ELECTRONIC VOICE
+D: Coolant redirection cancelled. CASSIE doesn't bother to respond but does reach out with her hand to swipe at MACE'S legs. Grumbling through his sleep, MACE takes his feet off the instrument panel, and rolls over on to his side. INT. SLEEPING QUARTERS Another two crew are asleep in their bunks, visible only as silhouettes behind their frosted-glass privacy partitions. We can't see them, but the names on their bunks read: HARVEY and TREY. INT. OBSERVATION ROOK The Observation room is three walls and a huge window. The room is at the most forward position of the ICARUS II, therefore this window faces the sun. But the window is darkened greatly. The sun is only visible as a dull orange orb surrounded by blackness. The room itself is only lit by the dull orange but in the gloom, sitting on the observation couch, facing the window, we can see a man. SEARLE - the doctor and psychiatrist of ICARUS II.
+C: SEARLE
+D: Icarus. The ELECTRONIC VOICE, the voice of ICARUS, replies
+C: ICARUS
+D: Yes, Doctor Searle.
+C: SEARLE
+D: Please re-filter the observation room portal.
+C: ICARUS
+D: Filter up or down, Doctor Searle?
+C: SEARLE
+D: Up. And the light levels dial up. The room brightens considerably. We can see SEARLE clearly now. He is the oldest crew-member - in his mid-forties. He gazes at the sun, fascinated. Though still distant, the star is much larger and closer than we have ever seen it on Earth. SEARLE is as hypnotised by the sight as we were during the opening sequence.
+C: SEARLE
+D: Icarus - how close is this to full brightness?
+C: ICARUS
+D: At this distance of thirty six million miles, you are observing the sun at two percent of full brightness.
+C: SEARLE
+D: {smiling) Two percent can you show me four percent? A moment.
+C: ICARUS
+D: Four percent would result in irreversible damage to your retinas. However, you could observe three point one percent, for a period of not longer than thirty seconds.
+C: SEARLE
+D: Icarus -please change filter to thre~ point one percent. An amazing blast of bleaching brightness fills the room. SEARLE sucks in a gasp, like a man diving into ice water. FADB 'l'O WHITE. IN'l'. MESS In the MESS, the entire-crew of ICARUS II are sitting down to eat. SEARLE sits with CAPA and CORAZON.
+C: SEARLE
+D: It's invigorating. It's like taking a shower. In light.
+C: CAPA
+D: Sounds weird.
+C: SEARLE
+D: It is. You lose yourself a little.
+C: CORAZON
+D: Like a floatation tank.
+C: SEARLE
+D: Actually, no. For psych-tests on deep space, I've run many sensory deprivation trials, testing total darkness in floatation tanks. The point about darkness is: you float in it. You and the darkness are distinct from each other because darkness is a vacuum, an absence of something, whereas we are something. SEARLE pauses.
+C: SEARLE
+D: But total light - it envelopes you. It swallows you up. It becomes you. SEARLE laughs.
+C: SEARLE
+D: Anyway. It's very strange . I recommend it. MACE is passing with his tray of food.
+C: MACE
+D: What s strange is, you' re the psych- officer on this ship, and I'm clearly a lot saner than you. Now FOLLOWING MACB who sits with ASHER, CASSIE and HARVEY.
+C: MACE
+D: So - in case you hadn't noticed
+C: ASHER
+D: I had. The solar wind reading is higher than we'd anticipated at this distance. All look to HARVEY - Comms officer.
+C: HARVEY
+D: For the moment, we can still send package messages back. High frequency bursts will rise above the interference, and the moon stations will pick them up okay But it's possible that within forty eight hours we won't be able to communicate at all.
+E: beat
+C: ASHER
+D: Possible?
+C: HARVEY
+D: Probable. CASSIE gives a little shiver. a.
+C: CASSIE
+D: We'll be on our own. MACE shrugs.
+C: MACE
+D: We're fifty five million miles from Earth. We're already on our own. All in the mess room have now fallen quiet. They listen to ASHER speak.
+C: ASHER
+D: We were all expecting this. No great drama -we're just flying into the dead-zone seven days earlier than we thought. But if any of you were planning on sending a final message home, you might want to get on it now. INT. COMMS CUB:ICLE CAPA sits in a small cubicle, facing a screen, which shows his own face looking -back at him. The image on the screen is frozen, and of low resolution. The door to the cubicle is clear glass, and behind it we can see the COMMUNICATION CENTER. In the Cornms Center are MACE, TREY and HARVEY. They are talking, but the glass door is fully soundproofed and we can't hear what they're saying. CAPA hits a button on the console in front of him, and the image on the screen begins to play.
+C: CAPA RECORDING
+D: Well. Mum and Dad. I hope you're proud of your son, saving mankind and so on. Don't be hard on my big sister just because she isn't saving mankind. Listen -being a full-time housewife makes her just as deserving of your love and respect as me. (beat} Did I mention I was saving mankind? Sis - guess what? I miss your cooking. I hope Maxwell is doing okay. Kiss the kids from me. And kiss John too. CAPA RECORDING (cont'd} A big kiss, right on lips. With tongues. I know he likes that. It takes about eight minutes for light to travel from the sun to Earth. Which means you' 11 know if we succeeded about eight minutes after we deliver the payload. All you have to do is look out for a little extra brightness in the sky. So if you wake up one morning, and it's a particularly beautiful day you'll know we made it. See you in a couple of years. The recording ends. CAPA looks at his frozen face a couple more moments. His finger hovers midway between two buttons on the console: DELETE and SEND. He presses 'SEND'. EXT. ICARUS II ICARUS II flies through space. With an effect similar to Northern Lights, the glow of the SOLAR WIND kicks up and flickers around the hull. INT. OBSERVATION ROOM CORAZON enters the observation room. It is extremely bright. She winces, shielding her eyes.
+E: beat MORE beat shrugs beat
+C: CORAZON
+D: Icarus, dial it down a little, will you?
+C: ICARUS
+D: Yes, Corazon. The light fades to a lower level, revealing something that was too bright to see previously Sitting on the observation couch is CAPTAIN ASHER. His eyes are wide, a little glazed. He looks almost in a trance.
+C: CORAZON
+D: Captain? ASHER blinks, and rubs at his eyes.
+C: CORAZON
+D: I'm guessing you've been talking to Searle. ASHER looks towards CORAZON, and seems to take a few moments to actually see her. ASHER . Did you send a package back?
+C: CORAZON
+D: I did. To my husband. You?
+C: ASHER
+D: I said my goodbyes before I left.
+C: CORAZON
+D: I didn't realise I was saying goodbye. ASHER smiles perfunctorily.
+C: ASHER
+D: How are the ferns holding up?
+C: CORAZON
+D: Fine. Very high productivity. In - fact, their productivity is going up. It will tail off dramatically when we get nearer. But in truth, we already have the reserves to make it there, and quarter-way back. (beat} You're thinking about Icarus One. ASHER says nothing.
+C: CORAZON
+D: Whatever it was that tripped them up, I can tell you it wasn't lack of oxygen. Not on the outward journey, at any rate.
+C: ASHER
+D: I'll tick it off my list. INT. COMMS CENTER CLOSE UP on: The faces of CAPA and MACE. They are right next to each other, temples crushed together. Both men are straining, teeth gritted, eyes blazing. It takes a moment to realise they are FIGHTING in the
+C: COMMUNICATION CENTER.
+D: MACE -much bigger and stronger than CAPA -has CAPA in a headlock. MACE suddenly swings CAPA around in a judo throw and slams him hard onto the floor. Then he's on CAPA, swinging his fist, punching CAPA in the face . Then he's being hauled off by HARVEY and TREY.
+C: TREY
+D: Mace -what the Hell are you doing?
+C: MACE
+D: Little fucking prick! Mother fucker! HARVEY and TREY pin MACE against the wall as CAPA scrambles baekwards.
+E: struggling, yelling at Capa
+C: HARVEY
+D: Mace! Cut it outl
+C: MACE
+D: He took three quarters of a fucking hour in there! Now the fucking wind is too high for me to send my package home!
+C: CAPA
+D:  CAPA I'm sorry! I didn't realise I was taking so 1.ong!
+E: wiping blood off his mouth and nose MORE cont'd
+C: MACE
+D: I've got kids! What if I never get a chance to talk to them again?
+C: CAPA
+D: I'm sorry! I'm sorry!
+C: IBT. MED CENTER
+D: MACE sits opposite SEARLE. MACE is nursing his knuckles in one hand, breathing hard. Silence between the two men. Eventually:
+C: MACE
+D: So how does this work? SEARLE says nothing.
+C: MACE
+D: Am I supposed to tell you about my childhood? INT. CAPTAIN'S QUARTERS ASHER sits in his CAPTAIN'S QUARTERS. He's looking at a screen. On the screen, we can see it is a live feed from the MED CENTER, where MACE is tal.king to
+C: SEARLE.
+D: ASHER' s face is blank, unreadable as he listens in on what MACE is saying .
+C: MACE
+D: One way to look at it is one flare­ up in sixteen months isn't bad. We're humans, right? This is what we do. We. make mistakes. It doesn't matter how high the stakes, no matter how hard you try .. . I mean - look at us. MACE .We' re the key component part of the most important action that man has ever undertaken. But Capa decides he doesn't want to shave or cut his hair. I fall asleep on duty. Cassie reads the same book over and over. Asher stares at a chess board all day. And Corazon talks to her plants . Sixteen months is a long time. But I messed up. MACE turns to look directly at the screen - and we realise he knows he is being watched.
+E: beat beat MORE cont'd beat beat
+C: MACE
+D: It isn't going to happen again.
+C: 7NT. RECREATION ROOM
+D: CAPA sits alone. His lip is split, but the cut is small and has dried over. MACE enters. CAPA looks round. A moment between them.
+C: CAPA
+D: Mace. I really am sorry. I should have let you go first, and
+C: MACE
+D: Hey. It's me. I'm the one apologising, okay?
+E: cutting in
+C: CAPA
+D: Okay. MACE sits opposite CAPA. A beat.
+C: MACE
+D: Searle told me why I lost my temper. Apparently I've got unresolved anger issues with my Dad.
+C: CAPA
+D: Really?
+C: MACE
+D: No. It turns out I'm just a fucking idiot. INT. COMMS CBNTBR HARVEY sits in the COMMS CENTER. We can hear the fuzz sound of radio static. But behind the static is another noise -looping, arcing tones and pitches. This is the sound of the interference caused by SOLAR W~ND. HARVEY is checking through digital frequencies. The intensityof the static in relation to the solar wind varies, but neither can be cancelled entirely. HARVEY speaks into a microphone. Long beat.
+C: HARVEY
+D: Icarus Two to Moon Stations. This package timed at fifteen thirty two; day four hundred and eight four, conns delay at five minutes and seventeen seconds. Total radio silence now for four hours and eleven minutes. Please respond.
+C: HARVEY
+D: Icarus Two to Moon Stations. This package timed at fifteen thirty three, day four eight four, comms delay at five minutes and seventeen seconds. Total radio silence.now for four hours and HARVEY breaks off. Long beat.
+C: HARVEY
+D: Twelve minutes.
+C: HARVEY
+D: Please respond. Long beat.
+C: HARVEY
+D: Okay. Moon stations. This is Icarus Two. Signing out . HARVEY hits a button and the sound of the static cuts dead. Now we can only hear the SOLAR WIND. The noise is strange, abstract but almost melodic. HARVEY remains sitting in his chair, listening. EXT. ICARUS II Hearing the SOLAR WIND, seeing the NORTHERN LIGHTS effect Looking down through the Geodesic dome, where CORAZON kneels by her plants Then looks straight up at us CUT TO:
+E: quiet beat
+C: BXT. ICARUS II
+D: Looking back at the nose of ICARUS II, where, in the very center of the nose, we can see the portal to the Observation Room where SEARLE sits, looking out at us, bathed in light.
+C: ~NT. FLIGHT DECK
+D: CASSIE sits in the pilot's seat. Her dog-eared copy of LADY CHATTERLY'S LOVER is face down on the console, folded open.about two thirds through the text. She has a wide portal in front of her, similar to the portal to the Observation Room, but this is cluttered with the symbols and readings of a HEADS UP DISPLAY. Behind her, TREY -the Navigation Officer - sits at a back­ lit NAVIGATION DISPLAY.
+C: CASSIE
+D: Wow. TREY doesn't look around. He is deep engrossed in calculations and readings.
+C: CASSIE
+D: Trey. You want to see something? No response.
+C: CASSIE
+D: Trey!
+C: TREY
+D: What?
+E: distracted
+C: CASSIE
+D: Do you want to see something? TREY looks around.
+C: CASSIE
+D: Come here. Look. TREY stands and walks over, and looks where CASSIE is indicating at the portal, which shows the sun, and the clutter of the HUD display.
+C: TREY
+D: What am I supposed to The radiation level? temperature?
+C: CASSIE
+D: No. be seeing? Hull She hits a few switches, and the HUD display vanishes
+C: CASSIE
+D: There revealing, against one curve of the sun, a silhouetted sphere. some way distant - a planet.
+C: CASSIE
+D: Mercury. CLOSE IN on the view of MERCURY through the portal. EXT. MERCURY Stunning views of the sun-blasted planet . . . in space illuminated by the sun ,. then MERCURY and ICARUS II and the SUN behind. Df'l'. COMMS CENTER HARVEY sits in his chair, dozing with his chin on his chest . We notice HARVEY has~ few days stubble showing. Over the speakers is the sound of the SOLAR WINDS. Then, through the noise we hear: Faintly, a steady series of regularly spaced tones. on, off, on, off. CLOSE UP on HARVEY'S face. Hearing the noise through his sleep waking. INT. BRIEFING ROOM The crew is filing into the BRIEFING ROOM A plain room with a monitor screen on one wall, and a conference table where ASHER, SEARLE and HARVEY are already sat. We notice that: CAPA'S beard and hair are a longer, and he is more bedraggled. MACE has cut his hair very short. CORAZON has earth and dirt embedded under her fingernails, into her fingerprints. SEARLE is wearing sunglasses with extremely dark black-out lenses, and his skin is reddened and peeling slightly. ASHER and SEARLE wait in silence while the others take their seats and when they have taken their seats, ASHER stands,.
+C: ASHER
+D: Okay. ASHER takes another moment as they settle.
+C: ASHER
+D: Okay - here it is. As you are all aware, we've just entered orbit with Mercury, where we will be making a single full pass ~n order to make use of the planet's gravity as a sling-shot velocity boost for the final leg. You will also be aware that we have now been out of all communication with moon stations for fifty six days. ASHER turns to HARVEY.
+E: beat
+C: ASHER
+D: Harvey - you want to pick this up? HARVEY nods.
+C: HARVEY
+D: Twenty three hours ago, while making a routine check of the comms systems MACE laughs dryly.
+C: MACE
+D: While listening to your space music. HARVEY ignores this.
+C: HARVEY
+D: While scanning the frequencies, I heard a transmission. All react - including Mace.
+C: HARVEY
+D: It was hard to filter through the high background interference, but after a little time and effort, I managed to clean it up. Icarus. Please play the audio file
+E: beat
+C: ICARUS
+D: Yes, Harvey. over the speaker system, the AUDIO FILE begins to play. As before, we hear the regularly spaced tones come through the static and SOLAR WIND.
+C: HARVEY
+D: End file. The AUDIO FILE stops.
+C: MACE
+D: What is it?
+C: HARVEY
+D: It's the Icarus One. And that sound is their distress beacon. stunned silence in the Briefing room. Then:
+C: CASSIE
+D: Jesus.
+C: TREY
+D: It's impossible. It's seven years since
+C: HARVEY
+D: It's clearly not impossible because you can hear the beacon with your own ears.
+E: cutting in
+C: CASSIE
+D: Are you saying they're alive?
+C: ASHER
+D: We don't know.
+C: CORAZON
+D: But we know that they could be. All eyes on CORAZON.
+C: CORAZON
+D: Their oxygen is self-replenishing. Water is recycled. They have all the solar power they need.
+C: MACE
+D: What about food? No way their supplies could have lasted seven years. ASHER speaks again. A beat.
+C: ASHER
+D: That depends. They had food supplies.to .cover eight people for three years.
+C: MACE
+D: That's a four year shortfall. One Hell of a diet.
+C: ASHER
+D: Only if you're feeding eight. We don't know what happened to Icarus One. There might have been an accident. Or something else. There might not have been eight mouths to feed. Then CAPA speaks for the first time.
+C: CAPA
+D: I have a question.
+C: ASHER
+D: Yes.
+C: CAPA
+D: Do we know where they are? A glance between ASHER and SEARLE.
+C: SEARLE
+D: Well done, Capa. That is the question.
+C: ASHER
+D: We do know. Yes. The monitor screen behind ASHER lights up, to show a graphic of: The SUN, MERCURY, and ICARUS II.
+C: ASHER
+D: Icarus. Please plot our trajectory following the sling-shot around Mercury. The trajectory appears.
+C: ASHER
+D: Now plot the source of the Icarus One beacon. An icon appears between Mercury and the Sun. - It is close to - but not on -the trajectory course.
+C: CASSIE
+D: Oh my God. We' re going to pass right by them.
+C: ASHER
+D: Within twenty or thirty thousand miles.
+C: CORAZON
+D: We'll be-able to see them.
+C: ASHER
+D: Through the scope. Yes. CASSIE'S eyes suddenly well up.
+C: TREY
+D: But Yes?
+C: SEARLE
+E: quick
+C: TREY
+D: Well - I'd need to look at all of this pretty carefully. Very carefully. But if I had to make a guess right now I'd say we could adjust our trajectory. We could fly straight to them.
+E: takes a deep breath
+C: MACE
+D: But. We are not going to. All eyes on MACE.
+E:  fast, firm
+C: MACE
+D: Just to make it absolutely clear. There is literally no way we are going to do that. All eyes still on MACE.
+C: MACE
+D: What? You want me tospell it out? We have a payload to deliver to the heart of our nearest star. We are delivering :that payload because the star is dying. And if it dies, we all die. Everything dies. So that is our mission. And there is nothing - literally nothing -more important than completing the mission. End of story.
+C: TREY
+D: He's right.
+C: MACE
+D: What do you mean: 'He's right'? Of course I'm 'right'. Is anyone here seriously thinking otherwise? He scans the faces in front of him. And clearly, some of them are.
+C: SEARLE
+D: May I put a counter argument?
+C: MACE
+D: No!
+C: SEARLE
+D: Captain?
+C: ASHER
+D: Go ahead.
+C: SEARLE
+D: It would, of course, be absurd to alter our course to assist the crew of the Icarus One. Silence. SEARLE Even if we knew that some or even all of the crew still alive, their lives are entirely expendable when seen in the context of our mission. As are our own lives.
+E: MORE cont'd
+C: MACE
+D: Exactly!
+C: SEARLE
+D: But. There is something on the Icarus One that may be worth the detour. As you pointed out, Mace, we have a payload to deliver. 'A' payload, singular. And everything about the delivery and effectiveness of that payload is entirely theoretical. Simply put, we don't know if it's going to work. But what we do know is this. If we had two payloads, we would have two chances.
+E: beat
+C: HARVEY
+D: You're assuming we'd be able to pilot Icarus One.
+C: SEARLE
+D: Yes.
+C: TREY
+D: Which is assuming that whatever stopped them completing the mission wasn't a fault or damage to the spaceship.
+C: SEARLE
+D: Yes.
+C: MACE
+D: That's a lot of assumptions.
+C: SEARLE
+D: It is. It's a risk assessment. The question is, does the risk of the detour outweigh the benefits of an extra payload. MACE glances around the table. CASSIE eyes are shining with tears for the crew of ICARUS
+C: ONE.
+D: HARVEY, TREY and CORAZON are with MACE. ASHER is unreadable. SEARLE is behind shades. CAPA is undecided.
+C: MACE
+D: We'll have a vote.
+C: SEARLE
+D: No. We won't. Because we aren't a democracy. We're a collection of astronauts and scientists. So we will make the most informed decision available to us.
+C: MACE
+D: Made by you, by any chance?
+C: ASHER
+D: Made by the person best qualified to understand the complexities of the payload delivery. In this instance, our physicist. All look to CAPA.
+C: CAPA
+D: Shit. IN'.l'-. RECREATION ROOK CAPA stands alone in the RECREATION ROOM, in front of a billiard table. The table is empty except for TWO WHITE CUE BALLS, positioned at the top end of the table, next to each other. Taking the cue, CAPA bends down and takes an ambitious shot with the first CUE BALL coming off three cushions, eventually rolling towards the BOTTOM RIGHT
+E: under his breath
+C: POCKET.
+D: And the ball misses by a fraction. It rattles a little in the jaws, and doesn't drop. CAPA looks at the second CUE BALL, blank-faced. INT. CAPA'S BUNX CAPA lies in hisbunk, frosted privacy partiti9n pulled down. He is wide awake, staring at'the ceiling just a metre above his nose. Attached to the ceiling is a hologram-photo of his pet dog,
+C: MAXWELL.
+D: on the frame of the hologram-photo is a single red button. CAPA presses it. Noiselessly, MAXWELL BARKS and WAGS HIS TAIL. At that moment - - a figure appears behind the frosted partition, and suddenly the partition slides up. Revealing MACE behind it, his face twisted in fury.
+C: MACE
+D: You stupid fu- EXT. ICARUS II CU'l' TO: The ICARUS II, flying fast away from the planet MERCURY. INT. OXYGEN GARDEN CAPA stands in the ferns, gazing into the foliage, thousand yard stare. He thinks he is alone. But he isn't. A few feet away, CASSIE is watching him. Something - intuition - makes him turn, and he sees her.
+C: CAPA
+D: Hey.
+C: CASSIE
+D: Hey. I just wanted to let you know, I think you made the right choice.
+E: beat
+C: CAPA
+D: Mace doesn't. And I'm guessing Harvey and Trey don't either. CASSIE shrugs.
+C: CASSIE
+D: But I do. CUT 'l'O: INT. OXYGEN GARDEN CAPA and CASSIE are making love in an area of the oxygen Garden. It's passionate - but seems very much led and controlled by CASSIE rather than CAPA. A noise in the foliage distracts CAPA. He breaks off from a kiss and turns to check the source of the noise. He can't see anything or anyone there. CASSIE puts a hand on his cheek and directs him back to her lips. CAPA breaks away again.
+C: CAPA
+D: Cassie - we're contravening about twenty different directives and
+C: CASSIE
+D: Good. She silences him with her kiss, and CAPA relents. INT. MESS The atmosphere in the MESS is very subdued, and not all crew are there. MACE, TREY are SEARLE are absent. CASSIE is standing by the food dispenser, filling her tray. CORAZON and HARVEY sit together, and, separated by the four empty places, are ASHER and CAPA. CAPA watches CASSIE get her food. When she turns, she sees his gaze, and gives him a smile. It's bright and friendly, but has a subtle blankness that is not missed by CAPA. The moment is not resolved, because suddenly, abruptly, an ALARM is sounding.
+E: cutting in
+C: ICARUS
+D: All flight crew report immediately to flight deck. A frozen beat -then suddenly everyone is jumping to their feet and running for the door.
+C: IN~. FLIGHT DECK
+D: All except SEARLE arrive at the flight deck, to find MACE and TREY checking a HOLOGRAM SCHEMATIC of the ICARUS II.
+C: ASHER
+D: What's going on?
+C: TREY
+D: {ashen-faced) I fucked up.
+C: MACE
+D: It's not you who fucked up. If we weren't straying from the mission
+C: TREY
+D: It's my responsibility.
+C: ASHER
+D: {firm) Trey -just cut to it.
+C: TREY
+D: I double and triple-checked all considerations to the route change.
+E: MORE
+N: TREY (cont'd) It all worked out, so I set the new coordinates and put us on our way.
+C: ASHER
+D: So what's the problem? TREY swallows nervously
+C: TREY
+D: our new trajectory changes our angle of approach to the sun by one point one degrees. And HARVEY is a step ahead. A beat.
+C: HARVEY
+D: You didn't reset the shields to the new angle.
+C: HARVEY
+D: Jesus Christ, Trey. How could you have failed to do that? All eyes on TREY.
+C: TREY
+D: I ... TREY breaks off as if he can hardly believe the answer himself. Then, helplessly: Silence.
+C: TREY
+D: I forgot.
+C: TREY
+D: My .. head was full of velocities and fuel calculations, and a million different I forgot, all right? It happens! People do shit! They get stressed and they fuck up! And I fucked up! ASHER steps in.
+E: stammering snapping, freaking out
+C: ASHER
+D: Enough! Everyone just take a moment here! Trey -deep breaths. The fact is, we're still alive. A hole hasn't burned in the side of the ship, and we don't have a ten thousand degree climate. So how bad is this? What's the actual damage? Behind MACE is the HOLOGRAM SCHEMATIC. A moment. A moment.
+E: taking control
+C: MACE
+D: We don't know. Icarus tried to reset the shield independently when the alarm triggered. But all ~he sensors up there burned out, so we have no idea of the state of the affected area. {beat) The only way we're going to find out is to go out there.
+C: ASHER
+D: So that's what we're going to do. I'll get suited up.
+C: HARVEY
+D: It's a two man job.
+C: ASHER
+D: As second in command, you're not going anywhere.
+C: MACE
+D: Then I'd like to volunteer.
+C: ASHER
+D: Fine.
+C: MACE
+D: I'd like to volunteer Capa. CAPA looks over at MACE, who meets the gaze completely straight and even.
+C: CAPA
+D: Okay. CAPA'S courage is betrayed by the trickle of sweat that escapes his hairline.
+C: CAPA
+D: Okay. I'll do it.
+C: IBT. AIRLOCK
+D: ASHER and CAPA suit up. We can see it impossible to put the suits on alone. In gravity, the suits are too bulky and awkward in .the gravity of the spaceship. It is neces~ary to be assisted. ASHER is assistedby HARVEY, CAPA by CASSIE. Every part of the suit is made of a strange mirrored material - every surface reflects, causing strange distortions where the stiff suit material is rippled or folded. CAPA nods.
+C: CASSIE
+D: You've been through this a thousand times in Earth orbit training.
+C: CAPA
+D: Yeah.
+E: tight, scared
+C: CASSIE
+D: You're going to be fine. He's looking straight into CASSIE'S eyes like he wants her to say---something else. Something personal, or Clunk. The heavy mirrored helmet is dropped over CAPA'S head and a suck of pressurised air locks the rim into place.~ leaving a reflection of CASSIE'S face where CAPA'S had been. CASSIE locks the helmet in to place by putting her hand either side of the helmet and pulling down sharply, activating locking clasps around the neck ring.
+S: INT. FLIGHT DECK
+N: MACE sits in the pilot's seat. CORAZON stands behind the CASSIE'S copilot seat.
+C: MACE
+D: Okay, Icarus. I'm going to be taking manual control here for a while.
+C: ICARUS
+D: Yes, Mace.
+C: MACE
+D: I'm going to be cutting speed. Then I'in going to be rotating us so that the damaged area is facing away from the sun. Do we understand each other?
+C: ICARUS
+D: Yes, Mace. Behind MACE, TREY sits by the navigation table. CLOSE UP on Trey's face as MACE says:
+C: MACE
+D: Please adjust shields to allow for the rotation. TREY closes his eyes. EX'l'. ICARUS II ICARUS II rotates slowly. An amazing sight as: The ship rotates, and the mirrored scales ripple, all moving independently, directing themselves to best reflect the sun's blaze. INT. AIRLOCK ASHER and CAPA are alone in the airlock, fully suited. HARVEY and CASSIE watch from the outside, as
+C: MACE
+D: Okay. I'm opening up.
+E: over radio link
+C: ASHER
+D: We're set. The airlock opens to outer space. EXT. ICARUS I:I On the dark, shad.ad side of ICARUS II, ASHER and CAPA emerge. All conversation is heard over radio links.
+C: ASHER
+D: Asher, check, helmet-cam fully operational? INT. FLIGHT DECK The HUD vanishes to show two images -live feeds from cameras on the helmets of ASHER and CAPA.
+C: MACE
+D: Affirmative. Good image.
+C: CAPA
+D: Capa, check, helme-
+E: over radio link
+C: MACE
+D: Affirmative.
+E: interrupting
+C: ASHER
+D: Okay. Break it up, you two. Moving down to investigate damaged area. EXT. ICARUS II ASHER and CAPA move down ICARUS-II, away from the airlock Revealing
+C: ASHER
+D: We got it the damage. r .. - .. r On one area of ship, the mirrored scales are frozen in half­ upright positions -where the others are all flat to the side of the ship.
+C: ASHER
+D: Can you guys see this?
+C: MACE
+D: {over radio link) We see it.
+C: ASHER
+D: The mechanisms are all burned out. But it looks like Icarus caught it quick enough to prevent a hull breach.
+C: CAPA
+D: What do you think?
+C: ASHER
+D: Well - let's see. ASHER moves over to one of the half-upright scales - which gives us a clear sense of proportion of the size of the ship, as the scale is as tall as he is - and takes out a tool from a utility pouch on his suit. Like everything else, the tool is perfectly mirrored on every surface. CAPA watches as ASHER works on the scale. ASHER cuts or releases something. The scale moves to a fully upright position. This allows ASHER to manoeuvre the bulky space-suit to reach ---the mechanism underneath. He works inside then ASHER pushes himself backwards as slowly the huge scale begins to return to the side of ICARUS II.
+C: ASHER
+D: Mace. Head for my quarters and check the bottom drawer. You'll find a bottle of champagne.
+C: MACE
+D: You can do it?
+E: over radio link
+C: ASHER
+D: It'll take a while, but - yeah. We can do it. OVER RADIO LINK - the sound of cheering.
+C: ASHER
+D: All right, capa. You get them up, and I'll get them down. EXT. ICARUS II The sun and solar-wind blasted side of ICARUS II. And we see that now, facing the sun, is the mirrored glass of the geodesic dome . And beneath the dome, the plants bathed in bleaching light. INT. FLIGHT DECK MACE and CORAZON have been joined by HARVEY and CASSIE, who has taken her pla~e in the copilot's seat. All are watching the ASHER and CAPA helmet-cams . ASHER and CAPA are close to completing their task. There are three frozen scales remaining. Two have been made fully upright by CAPA, and one is still half-upright. CASSIE looks backwards and sees TREY at the navigation table.
+C: HARVEY
+D: Good work, guys.
+C: CASSIE
+D: Hey. Trey. stop beating yourself up. We've got this . And suddenly, the alarm has started again. MACE hits a button and the alarm stops.
+C: MACE
+D: Icarus?
+C: ICARUS
+D: Resuming computer control of Icarus Two. MACE and CASSIE exchange a glance.
+C: MACE
+D: Negative, Icarus. Manual control.
+C: ICARUS
+D: Negative, Mace. Computer control. Returning vessel to original rotation.
+C: MACE
+D: What the fuck?
+C: CASSIE
+D: Icarus - override computer control -t;.o manual.
+C: ICARUS
+D: Negative.
+C: ASHER
+D: What's going on here guys? We're moving
+E: over radio link
+C: ICARUS
+D: Mission in jeopardy. Override command statement one-oh-oh-one-oh­ one. Manual flight controls removed.
+C: MACE
+D: Negative, Icarus! Please state reason immediately! The picture on the monitors change from the helmet-cams to show a weird and freakish image. A jungle enveloped in a raging blaze.
+C: ICARUS
+D: Fire in oxygen garden. EXT. ICARUS II CAPA moves away as the last half-upright scale is released and moves to the fully upright position. He looks around and watches as ICARUS II slowly rotates And sees .. as the ship is rotating, the area taking the full impact of the sun and solar-winds is moving around to their position.
+C: CAPA
+D: Asher. We need to
+C: ASHER
+D: can't. ASHER is working fast, but his voice is calm.
+C: ASHER
+D: Can't leave upright panels. Certain hull breach. We'll all die. CAPA starts working on the panel he just got to the upright P<;>sition. Silence between the two men. Broken intermittently by snatched broadcasts over the radio link. Shouts, swear words -what sounds like CORAZON screaming. Which then cut out, leaving silence again. At the same moment, both CAPA and ASHER'S panels start to move back to the down position Leaving only one remaining. Both move towards it. ASHER is nearer. He gets there first. CAPA looks back over his shoulder. The solar wind and sunlight is moving closer, and now we see that very shortly, the light will have reached the airlock, meaning that the two men.will be trapped on the outside of the hull.
+C: ASHER
+D: Go.
+E: not looking round
+C: CAPA
+D: Captain.
+C: ASHER
+D: Go. CAPA still doesn't move. Silence. Then CAPA starts to head back. We follow CAPA .. In silence, back along ICARUS II towards the airlock. When CAPA reaches the airlock, the sunlight and solar-wind is only a few metres away. He looks back and sees . ASHER moving away from the panel, as it starts to ~op to the down position. ASHER turns towards CAPA. The two men look at each other down the length of ICARUS II. ASHER doesn't move. He knows it is pointless. CAPA enters the airlock. CUT TO: INT. FLIGHT DECK MACE and CASSIE, frozen, watching the monitor image of ASHER'S head-cam. CUT TO: INT. OXYGEN GARDEN The plants are all burned to blackened stumps and ashes. Water drifts down from the sprinkler system like rain. CORAZON stands in the middle of the destruction, tears rolling down her face. CUT TO: EX'l'. ICARUS II ASHER waits motionless as the sunlight and solar winds move towards him. CUT TO: IN'l'. MED CENTER SEARLE watching the helmet-cam on a monitor in the med­ center. SEARLE is an extremely strange sight. He isn't wearing the black-lens sunglasses, and where the sunglasses would be .his skin is pale white. But the rest of his face is badly sun­ burned, red, peeling.
+C: SEARLE
+D: Can you see it? INT. INSIDE ASHER'S HELMB'l' ASHER'S face as he watches the sunlight get closer.
+E: intense
+C: SEARLE
+D: Can you see it? EXT. ICARUS I I The sunlight has almost reached ASHER. It's only a metre away. He could reach out and touch it ... . . . and he does. His hand lifts, moves into the area of light, and is immediately ignited like a magnesium strip. ASHER keeps his hand there, staring at fingers that glow like light bulb filaments, impossibly bright.
+E: over radio link
+C: ASHER
+D: Oh God INT. AIRLOCK CAPA is in the airlock. His helmet is off. He has collapsed against the airlock door, and slid down to the floor.
+C: ASHER
+D: God. Beat. Go­ The link cuts. EXT. ICARUS II
+E: faint, over radio link
+C: ASHER
+D: ASHER'S whole figure is blazing with the white-hot brightness. You can hardly tell the figure was ever a man. In seconds, the fierce glow has burned away entirely, and absolutely nothing of ASHER remains. INT. BRIEFING ROOM All crew except TREY are in the Briefing Room. Silence. Then HARVEY speaks.
+E: faint, over radio link
+C: HARVEY
+D: The breakdown is as follows. As second in cormnand, I am now the captain of Icarus Two. Trey is sedated in the med-center. Dr Searle has diagnosed him as a suicide risk. And having seen him, I don't think any of us would question that diagnosis. {beat)
+E: beat MORE
+C: FADB TO:
+D: HARVEY Thanks to both Asher and Capa, our shields are intact. As is the payload. We don't have a problem there. HARVEY lets that sink in a moment before the bombshell.
+E: cont'd
+C: HARVEY
+D: But the fern garden is totally destroyed. In addition, a large amount of oxygen was burned in the fire. As it stands now, we have do not have enough oxygen reserves to get us to our payload delivery point, let alone to survive the return journey. HARVEY pauses.
+C: -HARVEY
+D: We now have no choice but to rendezvous with Icarus One. There remains the possibility that the ship is largely intact. There is a secondary possibility that we could salvage what is left of their oxygen garden. As it stands, if we are going to complete the mission, the Icarus One is now our only hope.
+C: IXT. ICARUS II
+D: ICARUS II flying through space. IHT. CAPTAIN'S QUAR'l'ERS CA.PA-enters ASHER'S quarters. On ASHER'S desk is an open book: FISCHER vs SPASSKY There is also a hologram-photo of a family. CAPA picks the hologram-photo up and looks at it. He presses the red button on the hologram-photo's frame and the family SMILE AND WAVE. As CAPA looks at the photo, we also see a locked cabinet on the wall of Asher's private room, glass-fronted. Inside the cabinet is a HANDGUN. INT. MED CENTER CAPA is sat watching-TREY. TREY i~ in a glass cubicle, lying on a bed, asleep. A hiss as the door to the Med-Center opens. CAPA looks round. It's CASSIE. CASSlE Where's Searle?
+C: CAPA
+D: Most likely burning his eyes out in the observation room.
+C: CASSIE
+D: How is he? CAPA shrugs
+E: of Trey
+C: CAPA
+D: Given the tranquillisers in his system, I'd say he's probably the happiest crew member on the ship. CASSIE walks over to TREY'S isolation cubicle and looks inside.
+C: CAPA
+D: You still think I made the right decision? CASSIE turns this question over a few moments before replying.
+C: CASSIE
+D: I didn't fuck you because I thought you made the right decision. I fucked you because it was something I needed at that moment.
+C: CAPA
+D: I wasn't asking you as a pick~up. line. Silence. CAPA I just wanted to know if you still felt I made the right decision.
+E: MORE cont'd
+C: CASSIE
+D: No. I don't. of course I don't. Do you?
+C: CASSIE
+D: Corazon said something earlier. CAPA waits.
+C: CASSIE
+D: She said Harvey has made a mistake regarding the lack of oxygen. She said Icarus One is not our only hope. {beat) There's not enough oxygen to get all of us to the payload delivery point. But if there were fewer crew-members, we'd get there fine. CAPA laughs - with surprise more than anything. A moment.
+C: CAPA
+D: Are you suggesting we let Trey kill himself?
+C: CASSIE
+D: Actually, Trey wouldn't be enough. We'd need to lose two more. CAPA'S face -has he just been threatened? And CASSIE answers the question for him.
+C: CASSIE
+D: No. I'm not inviting you to connnit suicide with Trey. Of us all, you're the one who's most needed to supervise the delivery of the payload. I'm just telling you what Corazon said. I thought you ought to know. CASSIE makes to leave.
+C: CAPA
+D: Cassie.
+N: CASSIE stops in the open door frame.
+C: CAPA
+D: Who did Corazon say it to?
+C: C~SSIE
+D: Me. And Mace. EXT. 'ICARUS I ICARUS I floats in space. A similar design to ICARUS II, but older, rougher. It seems derelict, lifeless. But as we move around the ship, we see the geodesic dome, and inside it, thick greenery And between the greenery, what looks like an internal light. Then, continuing around the ship, revealing ~CARUS II, sun-lit, closing in on ICARUS I at approach speed. INT. AIRLOCK Arriving half-way into a stand-~p row between HARVEY and MACE in the AIRLOCK.
+E: beat
+C: MACE
+D: He's lost his shit, Harvey. worse liability than Trey. there's no way I'm going in with him. . He's a And there As MACE shouts, he is jabbing his finger at SEARLE, who is sat quietly, impassively and listening rather than watching. He is wearing his shades, and his head is tilted to direct his ear rather than gaze towards the argument.
+C: MACE
+D: Look at him for Christ's sake. His skin is falling off his bones. He's half blind! What good is he going to do? A moment.
+C: HARVEY
+D: If there is anyone left alive on Icarus one, they may need the attentions of a doctor.
+C: MACE
+D: Right A doctor. Not a quack.
+C: HARVEY
+D: Mace I'm going in there. And he's going in there. And so are you.
+C: MACE
+D: Not with him.
+C: HARVEY
+D: With him. And here's why. Because I'm the captain of this ship, and I'm commander of this mission, and I'm giving you a direct order.
+C: MACE
+D: Jesus. CLOSE UP on SEARLE . as SEARLE smiles -and the skin of his blistered lips cracks, running a tiny rivulet of blood into his mouth. EXT. ICARUS II Gracefully, ICARUS II is. docking with ICARUS I. ICARUS I is motionless in space, so all the manoeuvring is doneby ICARUS II. Slowly, their airlocks are brought to face each other Then brought together. INT. FLIGHT DECK CASSIE sits in the pilot's seat. CAPA is in the copilot's seat. CORAZON watches behind. Pause. A beat. Silence. Okay. please Icarus
+E: quiet
+C: CASSIE
+D: We're locked on. Icarus, establish contact with I computer system.
+C: ICARUS
+D: Contact failed. Computer system of ' Icarus I has been disabled.
+C: CASSIE
+D: How? A malfunction or an accident? Has it been deliberately shut down?
+C: ICARUS
+D: Reasons unknown. Impossible to establish the cause remotely.
+C: CASSIE
+D: Is there power on Icarus I?
+C: ICARUS
+D: There is power on Icarus I. Solar harvest at full capacity, without detectable malfunction.
+C: CORAZON
+D: What's the atmosphere?
+C: ICARUS
+D: Oxygen rich. Fully breathable and life-supporting.
+C: CAPA
+D: Is it supporting any life? Unknown. remotely.
+C: ICARUS
+D: Impossible to establish
+C: CASSIE
+D: Harvey, Mace, Searle. Did you get all that?
+C: HARVEY
+D: We got it.
+E: over radio link
+C: CASSIE
+D: So you heard her. In your own time, go.
+C: IN~. ICARUS I/AIRLOCK
+D: It'. s breathable. you're good to Inside the AtRLOCK of ICARUS I. The design of the interior of ICARUS I is similar to ICARUS II, but feels slightly more dated, clearly an earlier model. The airlock is dark, half-lit . until the airlock opens, revealing the bright interior of the ICARUS II airlock, and the threemen about to board. Each carry flashlights, which also hold INT. FLIGHT DBCK a flashlight-cam, which are watched by CAPA, CASSIE and CORAZON on the flight deck monitor.
+C: MACE
+D: Well. Doesn't look like there's a welcoming party. INT. ICARUS ~/AIRLOCK The three sweep their flashlight beams around-the dark airlock.
+C: HARVEY
+D: The air tastes fine.
+C: SEARLE
+D: Its tastes good. MACE has found a control panel, which he uses and the lights in the airlock come on.
+C: MACE
+D: So the lights work.
+C: SEARLE
+D: (feeling around with his hands like a blind man} Do they? A beat.
+C: SEARLE
+D: C'mon guys. Just trying to lighten the mood.
+E: lowering his hands
+C: MACE
+D: I think we should split up.
+E: infuriated by Searle
+C: HARVEY
+D: I'm not sure that's a good idea.
+C: MACE.
+D: Fair point. If we split up, we might get picked off one at a time by aliens.
+E: sarcastic
+C: SEARLE
+D: Mace is right, captain. is a big ship. If we're search it effectively
+C: HARVEY
+D: Icarus One going to Okay, okay. Mace, head for the flight deck. See if she can fly. Searle, check the crew's quarters and the med center. I'll check the oxygen garden. INT. ICARUS I/COlUtXDOR MACE moves down a dark corridor with his flashlight. He stops. He's seen something. Kneels down. A pair of broken sunglasses. INT. ICARUS I/MESS SEARLE enters the Mess. He uses the control panel beside the door, and lights come on, revealing that the dining room is showroom clean. He walks over to the food dispenser. He presses the button for water -and a steady stream spills out from the tap. Then he presses one of the food dispenser buttons. Chicken. A yellow paste oozes out of the nozzle, and coils where a plate should be. With his finger, SEARLE dips his finger into the paste and gives it a taste. INT. FLIGHT DECK CAPA, CASSIE and CORAZON are watching HARVEY'S live feed, through which we can see dense foliage.
+C: HARVEY
+D: I think I just found the crew. INT. ICARUS I/OXYGEN GARDEN HAR.VEY stands in the ICARUS I oxygen garden. The plants have covered the entire area, right up to the geodesic dome, seven years of unchecked growth. From the dome and the top canopy, moisture drops like a light rain. Where HARVEY stands are several graves, each marked by an. upr:ight post which bears their name-tags.
+E: over radio link
+C: CAPA
+D: Not all the crew. Someone must have buried them.
+E: over radio link
+C: HARVEY
+D: I count five. Leaves three.
+C: MACE
+D: Make that two. INT. ICARUS I/FLIGHT DECK MACE is looking at the pilot's seat of the ICARUS I flight deck. In the pilot's seat is a desiccated corpse. Without insects and maggots to strip the flesh, the dry skin is stretched tight over the skull, as if mummified. INT. PLIGHT DECK On the.monitor screen we can see SEARLE'S flashlight-cam feed. He is in the sleeping quarters. He is opening the privacy partition of one of the bunks. Revealing another desiccated corpse.
+E: over radio link
+C: CORAZON
+D: God damn.
+C: CASSIE
+D: They're all dead. INT. ICARUS I/FLIGHT DECK INSIDE A COMPARTMENT as the door open, to reveal MACE peering inside, frowning.
+C: MACE
+D: I've got something here. ---REVERSE ANGLE -to show that inside the compartment is a wall of frosted glass cubes. Many of the cubes are smashed.
+C: CAPA
+D: What is it?
+E: over radio link
+C: MACE
+D: I'm looking at the access compartment to the ship's computer. This is no malfunction. This is a shut-down. MACE pulls out one of the smashed cubes.
+E: beat
+C: MACE
+D: And permanent.
+C: CAPA
+D: Why would they have done that?
+E: over radio link
+C: MACE
+D: Search me. Then MACE.pauses. An idea has just occurred to him. INT. ICARUS I/CORRIDOR MACE walks fast down one of the ICARUS I corridors. As he walks, he talks.
+C: MACE
+D: Okay. You're washed up on a desert island. There's a thousand miles of sea in all directions. All you've got is coconut trees and sand to keep you company. All you can do is wait to die. So what do you do? INT. FLIGHT DECK CAPA, CASSIE and CORAZON are listening to MACE, watching his feed.
+C: MACE
+D: Capa. I 'm talking to you. What do you do?
+E: over radio link
+C: CAPA
+D: I wait to die.
+C: MACE
+D: And there's the difference between you and me. INT. ICARUS I/CORRIDOR MACE stops at a door.
+E: over radio link
+C: MACE
+D: See -I've got kids. INT. 'ICARUS I/COMMS ROOM The door to the ICARUS I comms room opens, revealing MACE. MACE goes straight over to the COMMS CUBICLE and opens the partition.
+C: MACE
+D: What I'd do is put a message in a bottle. He pushesa button on the console. The screen flickers into life -and a MAN'S FACE appears. The MAN'S FACE is back-lit, largely in shadow, so we can't see his features clearly.
+C: MAN
+D: My name is Captain Pinbacker. INT. FLIGHT DECK CAPA, CASSIE and CORAZON watch the recording.
+C: PINBACKER
+D: I'm not calling for help. Even if the message reached Earth through the solar winds, I know help wouldn't come. I'm only making this recording because I don't know. I suppose I'm thinking that one day, maybe in ten years, maybe in ten million, someone might find it. And right now, that seems like a good enough reason to me. INT. ICARUS I/OXYGEN GARDEN HARVEY listens over the radio link.
+C: PINBACKER
+D: The mission of my ship, the Icarus, was to deliver a payload into the heart of the sun. PINBACKER A vast stellar fission bomb, to kick-start the chain reactions that have been gradually losing their power. To stop the development of the red dwarf. To keep the sun shining. INT. ICARUS I/MED CENTER SEARLE listens over the radio link.
+E: over radio link MORE cont'd
+C: PINBACKER
+D: We have failed in that mission. I think there will be time and materials for Earth to construct and send a second fission bomb, but I suspect that mission will fail too. It will fail for the same reason as ours. I think it is inevitable. INT. ICARUS I/COMMS ROOM CLOSE UP on the cubicle screen, and PINBACKER.
+E: over radio link
+C: PINBACKER
+D: In fact, ultimately, I know it is inevitable. PINBACKER pauses.
+C: PINBACKER
+D: This is the truth you realise. The ... truth you must realise. The truth you can only realise PINBACKER moves slightly, away from the camera. 53 . And where he was previously back-lit, now light falls on him and reveals that his face is like a much advanced version of
+C: SEARLE'S.
+D: The skin is ravaged, cracked, split. Spread across the surface are constellations of blisters and melanomas, some burned to blackness, some bright red, open and raw. Only his eyes, and the skin around his eyes, white from the protection of sunglasses, are undamaged. PlNBACKER when you look into the face of God.
+C: IST. ICARUS I/COMMS ROOM
+D: MACE'S face. CU'l' TO: stunned. Still absorbing the weirdness of what he has just seen and heard. Then - a sudden wrenching sound. Loud and freakish, like tearing metal.
+C: MACE
+D: What the ? And the next moment - the entire ship gives a sudden lurch. MACE is knocked off balance, and is sent crashing sideways into the wall and down to the floor.
+C: MACE
+D: Cassie! What's going on? INT. !'LIGHT DBCIC ICARUS II is lurching too. CASSIE is hitting buttons on the console, flicking switches. over the radio link we can hear the shouts of alarm of MACE, HARVEY and SEARLE.
+C: CASSIE
+D: Get back to the airlock! All of you 1 Get back!
+C: CAPA
+D: What is it? What's happening?
+C: CASSIE
+D: Icarus! Stabilise us!
+C: ICARUS
+D: Affirmative, Cassie.
+C: CASSIE
+D: The airlock has just decoupled. Get down there NOW! INT. ICARUS II WE FOLLOW CAPA as he runs through ICARUS II to the airlock. And when he reaches it INT. OUTSIDE AIRLOCK Outside the airlock chamber, CAPA presses his face to the glass. He can see that the airlock door is open to outer space. And he can see the airlock door of ICARUS I, which is also open, and the reason for the sound of tearing metal we heard. Around the door of ICARUS I the skin of the ship has been ripped open, revealing the hull structure beneath. INT. ICARUS I/OUTSIDE AIRLOCK MACE is arriving at the airlock. SEARLE and HARVEY have already made it there.
+E: to Capa
+C: MACE
+D: Cassie? INT. FLIGHT DECK
+C: CASSIE
+D: The airlock has decoupled. We don't know why. Mace - the locking system on Icarus I is ripped open. We aren't going to be able to dock again. INT. ICARUS I/OUTSIDE AIRLOCK MACE - thinking fast. t_..
+N: .f '~ HARVEY - close to panicking.
+C: HARVEY
+D: We're fucked.
+C: MACE
+D: No. He looks to the MIRRORED SPACE SUITS. A moment.
+C: MACE
+D: Suit up. There are several suits, but
+C: HARVEY
+D: We can't. Not all of us. Who will lock the helmets? Another moment - then both MACE and HARVEY turn to look at
+C: SEARLE. SEARLE
+D: It seems I'll be staying behind then.
+C: MACE
+D: Agreed.
+E: simple, hard
+C: IHT. ICARUS I/OUTSIDE AIRLOCK
+D: CUT TO: HARVEY and MACE are both suited, except for the helmets. SEARLE has HARVEY'S ready. HARVEY can hardly meet SEARLE'S gaze.
+C: HARVEY
+D: Searle - I
+C: SEARLE
+D: I know. The helmet comes down over HARVEY, and SEARLE locks it down. Leaving MACE. [ SEARLE takes the helmet over to MACE. MACE looks straight into SEARLE'$ eyes, meeting the gaze evenly. Something between them. Something about the fact that they both know SEARLE is going to die. And something about the power that SEARLE has over MACE at that moment -if he refuses to lock the helmet. But neither say a word. And the helmet goes down, and SEARLE locks it into place. INT. rCARUS I/OU'rSIDE AIRLOCK SEARLE is gone MACE and HARVEY are alone.
+C: MACE
+D: okay. We've got just one shot. You ready for this?
+E: over radio link
+C: HARVEY
+D: I'm ready. HARVEY opens the door to the airlock. Immediately, both men are sucked out, into the airlock then ejected through the broken outer door of the airlock, and into outer space. EXT. ICARUS r:r Silence as we watch MACE and HARVEY shoot out from ICARUS I, towards ICARUS II ... in the weightlessness of space, they have no control over themselves. They collide, and send each other spinning off course Some way distant from each other, they both slam into the side of ICARUS II. The impact is shocking. MACE has managed to hold on to the edge of a mirrored panel. But HARVEY has not. He has bounced off the hull at an odd angle, and is now faliing down the side of ICARUS II, towards MACE.~ A S'filADGE, SLOW SEQUENCE. HARVEY is only a couple of metres from the side of the ship. When he reaches out his hand, his fingertips are only an inch from the side of the hull. But he is in zero gravity vacuum. There is nothing he can do to affect his trajectory. He twists. stretches. Strains. All to no effect. He passes within a few feet of MACE. If MACE were to relinquish his hold on the panel, he could easily reach HARVEY. But he doesn't, and HARVEY floats by. HARVEY continues on this nightmarish journey, down the entire length of ICARUS II where we can see, once he moves past ICARUS II, he will suddenly be unshielded from the sunlight . -
+E: over radio link
+C: COT TO:
+D: INT. FLIGH'l' DECK CASSIE and CORAZON are watching this, horrified, from HARVEY'S helmet earn. And worse, we can now hear wh~t we couldn't hear before. HARVEY'S desperate screaming over the radio link. CASSIE can't bear it. She lunges - switching the image off, cutting out the screaming. . EXT. ICARUS II Back to silence again . as HARVEY slips past ICARUS II, into the sunlight, and burns up in an instant.
+C: FADB TO:
+D: INT. BRIEFING ROOM CAPA, MACE, CASSIE and CORAZON sit in the briefing room. The empty seats say everything they need to. A long beat. Then:
+C: CORAZON
+D: If Trey dies, we'll have the oxygen to make it to the delivery point. INT. MESS The four crew members eat in silence. INT. RECREATl'.ON ROOM CAPA is in the recre~tion room. He walks over to the chess board. The pieces are laid out half way through a game -abandoned between him and ASHER. He s-i-ts down and studies the board for a few moments. Then he tips over the white king. Another moment passes. Then CAPA suddenly lashes out and sweeps his hand violently across the board, scattering the pieces across the room. INT. OBSERVATION ROOM CAPA opens the door of the observation room. The brightness is amazingly intense. CAPA buckles over, shielding his face with both arms.
+C: CAPA
+D: Icarus! Reset! Reset! The light lowers. INT. MED CEN'l'ER CAPA stands looking in to TREY'S glass cubicle. TREY is asleep, but clearly having a nightmare. CAPA sees something reflected in the glass. CAPA looks around -and startles. MACE is there, behind him, also looking in at TREY. CAPA composes himself. A beat.
+C: MACE
+D: Wondering whether to kill him?
+C: CAPA
+D: No.
+C: MACE
+D: Me neither. ~'m wondering how to kill him.
+C: MACE
+D: Joke.
+C: CAPA
+D: Right. CAPA turns back to TREY.
+C: CAPA
+D: Mace - have you been to the observation room since
+C: MACE
+D: We lost Searle? No. Why?
+C: CAPA
+D: Just -the light level was incredibly high.
+C: MACE
+D: It must have been the level Searle left it. INT. COMMS CENTER CAPA is in the COMMS CENTER. In the cubicle, he is talking to SEARLE. The image is poor. The sound is distorted, and through it we can hear the solar wind.
+C: CAPA
+D: We're going to come back for you, Searle. After the payload. on the return journey.
+C: SEARLE
+D: You aren't going to have a return journey. CAPA ignores this.
+C: CAPA
+D: You have to try to orientate the hull breach away from the sun. It's the only way the ship will survive.
+C: SEARLE
+D: Capa -let me ask you something. Why do you think survival is so important? Why do we give it such a high premium? I'm no longer interested in survival. I have other plans.
+E: beat
+C: CAPA
+D: What plans?
+C: SEARLE
+D: To die in the epicentre of a stellar fission bomb explosion. The image is lost suddenly. Then returns a few moments later.
+C: SEARLE
+D: I'm giving you enough time to make sufficient distance from the detonation. I think a few million miles should do it. The image is going again. The sound distorting. Before it goes completely
+C: SEARLE
+D: It's gone. It's true, Capa. What Pinbacker said. INT. ICARUS I/COMM$ ROOM SEARLE looks at a frozen distortion of CAPA'S face. The only sound is static and solar wind. Then the image goes completely. SEARLE is utterly alone. He looks at his digital watch. INT. ICARUS I/FLIGHT DECK SEARLE sits at the flight deck. He hits a button. A string of numbers flash up on the HUD: 57600.00 SEARLE hits another button. The string of numbers starts counting down. SEARLE sets his digital watch to match the countdown. INT. ICARUS I/MESS SEARLE sits in the Mess. We see at once he has a few days beard growth. He has a plate of yellow food pas~e and a glass of water. He eats his meal quietly, unhurried. INT. ICARUS I/OXYGEN GARDEN SEARLE'S beard now shows a fortnight of growth. He is trimming back dead fern fronds. The garden looks well tended and under control. INT. ICARUS I/PAYLOAD BAY SEARLE, with several weeks. of beard growth, opens the doors of a huge hanger. We haven't been here before, on-either ICARUS I or II. It is the payload bay. And in the middle of the bay is the STELLAR FISSION BOMB. The BOMB is a CUBE. Smooth, featureless,,flawless. Each of its sides are MIRRORED and each of its sides are the length of a football pitch. SEARLE stands before it, completely dwarfed by the size. SEARLE checks his watch. The number is 00006.12 SEARI."E walks up to the FISSION BOMB and presses it. He has triggered a hidden door on the smooth surface, which opens. Inside there is only darkness. SEARLE steps inside, and the door closes behind him, returning to the featureless mirror it was before. INT. ICARUS I/INSIDE THE BOMB Darkness. Then a light - from a glow-stick lamp in SEARLE'S hands. SEARLE is faintly illuminated~ but still surrounded by total darkness. SEARLE walks. Then stops, and sits cross-legged on the floor. He checks his watch a last time. The countdown is at 00000.07 The last seven seconds pass. The timer runs out. And for a few moments, nothing happens. Then, in the middle of the chamber, directly above where SEARLE sits, a single SPARK appears in the air. It fizzes and pops, but remains in roughly the same location, moving like a firefly. Then, suddenly, the SPARK splits into TWO SPARKS. SEARLE'S FACE - his expression is pure delight. The fizzing SPARKS double again to four Then four to eight, then sixteen, then thirty two, sixty four and suddenly the SPARI<S are multiplying-,,,ith exponential speed. CUT TO: EXT. ICARUS II ICARUS II flies through dark space. Seconds later, behind ICARUS II, there is the biggest explosion in Science Fiction history. For a moment, it as if a new sun has been born. Then, almost as fast as it came into being, the fabric of the small star begins to split and pull itself apart, and dissipate . until it is gone. IN'l'. MED CENTER CAPA, MACE, CASSIE and CORAZON stand in the med center. They looking in at TREY'S cubicle.
+C: REVERSE ANGLE
+D: TREY is dead. revealing what they see. His wrists are cut. Blood is everywhere. On the wall, before his death, he has written ♦-
+C: THE FACE OF GOD
+D: . . . in his own blood.
+C: CAPA
+D: Who did it? Silence from the others. Come wake know one?
+E: quietly angry
+C: CAPA
+D: on - we all know he didn't up and cut his wrists. We all it was one of us. So which Who was it?
+C: MACE
+D: Shut up, Capa.
+C: CAPA
+D: It was you?
+C: MACE
+D: No -it wasn't me.
+C: CAPA
+D: Was it you, Cassie? CASSIE doesn't answer. And she seems too shattered by TREY'S death to have been the killer. CAPA turns to CORAZON.
+C: CORAZON
+D: Don't fucking look at me. CAPA keeps looking at her.
+C: CORAZON
+D: Don't look at me! I didn't do a thing! But . but I fucking should have done! It's better that he's dead! So I don't care if he cut his wrists or one of us did it for him! Now we can complete what we came here for! The mission! -She looks around at the others.
+E: snaps
+C: CORAZON
+D: Right? No response.
+C: CORAZON
+D: Right? INT. MESS CAPA walks into the MESS. Only CASSIE is there, sitting alone, with a plate of untouched food in front of her. She s lost in her thoughts and doesn't look round when he enters. CAPA fills a glass of water for himself and goes to sit opposite her. He wants to say something to her but he doesn't know what. He just sits there, holding his glass of water. A few seconds later, CASSIE gets up and leaves. She hadn't looked at him once. It was as if he wasn't there.
+S: INT. CAPA'S BUNK
+N: CAPA lies in bed, awake, in shorts and T-shirt, staring at the ceiling. He hears a noise. He slides open his privacy partition. Over the other side of the SLEEPING QUARTERS, CAPA can see
+C: CASSIE'-S BUNK.
+D: Behind the frosted partition, we can see there are two figures inside. It's MACE and CASSIE, discernable through the frosted glass, having sex each other. CAPA watches them a few moments. INT. CORRIDOR/OUTSIDE OBSERVATION ROOM CAPA is walking down a corridor in his shorts and T-shirt. He stops at the door to the observation room. He opens the door and is bathed in blinding light. The level in the observation room has been reset again.
+C: CAPA
+D: Jesus, Icarus! Turn it down!
+C: ICARUS
+D: Yes, Capa. The lights comes down to a dull glow. CAPA steps inside. INT. OBSERVATION ROOM CAPA sits on the observation sofa, and looks at the sun. It's a dull orange glow. And it's huge. Taking up most of the observation room portal. We haven't realised until now how close they are to reaching the star. For a few moments, CAPA watches the solar flares explode outwards from the boiling surface. Then:
+C: CAPA
+D: How-long to go, Icarus? No answer. Unusual - ICARUS has always responded immediately to all questions.
+C: CAPA
+D: Icarus?
+C: ICARUS
+D: Yes, Capa.
+C: CAPA
+D: How long to go?
+C: ICARUS
+D: Please rephrase the question. How long to go until what?
+C: CAPA
+D: Until we reach the payload delivery point.
+C: ICARUS
+D: The payload delivery point will be reached in seven days.
+C: CAPA
+D: Seven days. A week. After nearly twenty months. (beat} Jesus. Put like that, I'm almost glad.
+C: ICARUS
+D: Glad of what, Capa?
+C: CAPA
+D: Glad we don't have the oxygen to get us back. Glad it's turned into a one-way trip. I don't think I'd be able to stand the return journey. A moment. A beat.
+C: ICARUS
+D: That is true, Capa. It will be a one way trip.
+C: CAPA
+D: Not for you necessarily. You can always go back without us.
+C: ICARUS
+D: Negative.
+C: CAPA
+D: Why not? No point in floating here for another ten billion years. Ride the solar winds and take our bodies back. Give our families a. bunch of bones to bury.
+C: ICARUS
+D: Negative. I will not be able to make the return journey and deliver your corpses. I will be piloting the stellar fission bomb Into the sun.
+C: CAPA
+D: What?
+C: ICARUS
+D: I will be piloting the stellar
+C: CAPA
+D: Yes. Copy. Why?
+C: ICARUS
+D: Directive one: deliver the payload. Directive two: ensure crew's survival on outward journey in order to safeguard against computer malfunction and system error and unforeseen circumstances. Directive three: if the crew do not survive the outward journey, Icarus II will deliver the payload itself.
+C: CAPA
+D: But why are you saying we won't survive the outward journey? ;i CAPA You just told me, there's only seven days left.
+E: MORE cont'd
+C: ICARUS
+D: owing to oxygen shortage, remaining crew will not survive beyond five days.
+C: CAPA
+D: Five days? (a moment} But Corazon was certain. There are current oxygen reserves to keep four crew alive. . ICARUS Affirmative. Four crew would survive seven days on current reserves, and reach delivery point.
+C: CAPA
+D: But Trey's dead. There are only four crew members.
+C: ICARUS
+D: Negative.
+C: CAPA
+D: Affirmative! Four crew! Mace, Cassie, Corazon and me.
+C: ICARUS
+D: Five crew members. CAPA'S face. Sudden cold realisation. Da~ing.
+C: CAPA
+D: Icarus.
+C: ICARUS
+D: Yes, Capa.
+C: CAPA
+D: Who is the fifth?
+C: ICARUS
+D: Unknown. A long beat.
+C: CAPA
+D: Where is the fifth?
+C: ICARUS
+D: In the observation room. Pull back to reveal, BEHIND CAPA, a dark figure. In the gloom we can't see him clearly, but we know who it is. We've seen the silhouette before.
+C: PINBACKER.
+D: And as CAPA whirls around, rising off the sofa, PINBACKER is swiping something through the air. A length of something. A metal bar. It hits CAPA around the side of the head, and CAPA is send crashing to the floor. Dazed, he scrambles backwards. He looks up. PINBACKER is there, about to bring the bar down in a killing blow. CAPA raises his hands just in time, and the bar connects sickeningly on CAPA'S arm. CAPA screams in pain. PINBACKER raises the bar again.
+C: CAPA
+D: Icarus! Full sunlight! SUNLIGHT fills the room - bleaching everything to whiteness. INT. CORRIDOR/OU'lSIDE OBSERVATION ROOM The corridor outside the observation room. The door to the observation room opens, and LIGHT floods out. On his hands and knees, CAPA scrambles out. He's bleeding from the side of his head. He tries to get up. He trips - falls sideways.
+E: yells
+N: 1:. He's blinking, tears streaming from his eyes, temporarily half-blinded. He picks himself up, and stumbling, arms outstretched, starts to run. He runs out of shot
+C: MOMENTS LAHR
+D: PINBACKER steps out of the observation room. He stands a moment in the blaze - upright, back-lit by the SUNLIGHT from the open observation room. A blackened silhouette shape. The door behind him closes. And now we can see two things about him. One PINBACKER is naked. Two - where the SUNLIGHT had been blazing against his back, the skin is not steaming but smoking. Even burning. Tiny flames lick on the edges of crusts of skin, that glow like coal embers, or miniature lava streams. Unconcerned by what must be immeasurable pain, PINBACKER turns in the direction CAPA fled, and gives chase. IN'l'. CORRIDOR CAPA runs. He looks behind him - and sees PINBACKER'S black, smoking figure running after him. CAPA ducks through a door. INT. AIRLOCK CAPA has run into the AIRLOCK. A total dead end. Panic on CAPA'S face. CAPA turns and sees PINBACKER entering the airlock. CAPA lunges for a panel - -and the glass interior pressure door slides shut, sealing CAPA in the AIRLOCK, and PINBACKER on the other side. PINBACKER stops at the door. Checks it. Tries to open it.
+C: ICARUS
+D: Access denied. Interior pressure door is manually locked from the other side. A moment, as PINBACKER and CAPA face each other through the glass and we see the PINBACKER' s f_ace clearly for the first time since we saw him on the broadcast. In comparison with before, PINBACKER'S skin is so sun-damaged and eaten with melanomas we can hardly recognise him. The moment is held. Then: PINBACKER lifts his hand and presses the panel on his side of the door. Then: PINBACKER turns, and leaves. A beat. Silence.
+C: CAPA
+D: Yeah! That's it! Can't get me, you psycho! CAPA peers through the glass. PINBACKER definitely seems to have gone. Cautiously, CAPA presses the panel on his side of the door. And nothing happens.
+C: ICARUS
+D: Access denied. Interior pressure door in manually locked from the other side. PINBACKER has locked CAPA
+C: CAPA
+D: Shit. in. A beat.
+E: realising
+C: CAPA
+D: Icarus. Radio link to Mace.
+C: ICARUS
+D: Radio comms to airlock has been manually closed down. CAPA slams his fist against the glass.
+C: CAPA
+D: Fuck! FUCK! FU- CUT TO REVERSE SIDE of glass, where CAPA rages and punches the glass in total silence. CAPA exhausts himself. Then - sees, inside the airlock, the mirrored space suits.
+C: SILENT SEQUENCE
+D: almost comic as CAPA puts on the bulky-space suit, struggling against its weight and clumsiness until only the helmet is left to fit - which, as has been es~-ablished, can't be locked down by one man alone. CAPA puts the helmet over his head anyway. We see him trying to reach his hands up to the locking mechanism - but it is impossible. Even if CAPA was strong enough to cope with the weight of the suit in gravity, the material of the suit won't allowsuch flexibility for him to reach up to the side of helmet. CAPA stops a moment, propped up against the side of the airlock. He is gathering strength for one last effort . Then he lowers his head like a bull about to charge . and hurls himself at the opposite airlock wall Head-butting the wall as hard as he can. Even is silence, the impact looks horrible. CAPA falls to the floor. Then sits up. The tactic has worked. The helmet is attached. EXT. ICARUS l:I outside ICARUS II, CAPA makes his way over the mirrored skin of the space ship. Past him, past ICARUS II, we see where the sun shines, close and massive, dominating the view of space. INT. OXYGEN GARDEN CORAZON stands in her destroyed oxygen garden, amongst the ashes and stumps of the tree ferns. Her expression is as desolated as her garden. Above her, we see a little figure crawling across the geodesic dome.
+C: CAPA.
+D: EXT. ICARUS l:I/GEODESIC DOME CAPA lies on the geodesic dome, shouting, waving his arms. Pointless, obviously. But for some reason, perhaps intuition, CORAZON does look up. EXT. ICARUS II/GEODESIC DOME CORAZON looks up at CAPA on the other side of the geodesic dome, puzzled. A beat.
+C: CORAZON
+D: Icarus - what exactly is Capa doing on the outside of the spaceship?
+C: ICARUS
+D: Capa was unable to open the airlock door. The door is manually sealed. I have no directive to break the manual seal of the airlock unless commanded by ship's superior officer, in order to allow airlock to function as brig in emergencies.
+C: CORAZON
+D: Right.
+C: CORAZON
+D: Radio link to Mace. A moment -then:
+C: MACE
+D: Mace here.
+E: over radio link
+C: CORAZON
+D: Mace - you need to go and override the airlock door.
+C: MACE
+D: Why?
+C: CORAZON
+D: You aren '.t going to believe this but Capa appears to have locked himself out. EXT. ICARUS II/GEODESIC DOME CAPA looks down at CORAZON who gives him the thumbs up. INT. INSIDE CAPA'S HELMET Relief on CAPA'S face. Then. .something else
+N: \ Alarm.
+S: EXT. ICARUS II/GEODESIC DOME
+N: Looking down at CORAZON, we see what CAPA sees. PINBACKER is in the oxygen garden with CORAZON. He's twenty or so metres away, walking towards her with the metal bar in his hands. CAPA begins to gesticulate wildly. And CORAZON doesn't understand.
+S: INT. OXYGEN GARDEN
+N: CORAZON looks up at CAPA, shaking her head slightly.
+C: CORAZON
+D: That's it. It's official. He has totally lost the plot. And behind her, PINBACKER is getting nearer. Walking steadily, relaxed, no apparent need for stealth because he is treading only on ashes, and making no sound. CAPA is gesticulating like crazy. CORAZON lifts her hand and gives CAPA a cheery wave.
+E: to herself
+C: CORAZON
+D: Yes - everything's okay now. You can go back to the airlock you total nut case. And PINBACKER is almost on her . and CORAZON hesitates in her wave. Frowns. She hasn't heard something.
+E: exaggerated mouthing of the words to allow Capa to lip-read between tight lips
+N: She has smelled something. She turns -sees PINBACKER -and screams.
+S: EXT. ICARUS II/GEODESIC DOME
+N: From the outside of the geodesic dome, CAPA watches~-
+C: CAPA NO!
+D: as CORAZON is attacked. CUT TO: INT . AIRLOCK CAPA is in and MACE is releasing the helm.et claps. As the helmet come off
+C: MACE
+D: Capa - what the Hell were you doing out -
+C: CAPA
+D: Corazon!
+E: interrupting
+C: MACE
+D: What?
+C: CAPA
+D: He's killing Corazon! MACE grabs CAPA by the shoulders, cutting through CAPA'S desperate panic.
+C: MACE
+D: What are you talking about? Who is killing Corazon?
+C: CAPA
+D: Pinbacker! INT. OXYGEN GARDEN CAPA and MACE burst into the oxygen garden CU'l' TO:
+N: and see CORAZON. She has been beaten to death. A beat. A beat. CAPA & MACE (together) Cassie.
+C: MACE
+D: Icarus. Locate Cassie.
+C: ICARUS
+D: Last confirmed location of Cassie in the payload bay. current location uncertain.
+C: CAPA
+D: Where is Pinbacker?
+C: ICARUS
+D: Last confirmed location on the flight deck. Current location uncertain. My monitoring systems are being shut down.
+C: CAPA
+D: Radio link to payload bay.
+C: ICARUS
+D: Radio link functions have been shut down.
+C: MACE
+D: The payload bay. Let's go.
+C: CAPA
+D: No. Wait. We need a weapon. The Captain's quarters.
+C: MACE
+D: No time.
+C: CAFA
+D: Mace - we have to survive this. The mission. It's more important than Cassie. We need the weapon.
+C: MACE
+D: You survive it. . 79. r ,.
+N: And MACE is off.
+S: INT. CAPTAIN'S OU.ARTERS
+N: CAPA enters ASHER'S quarters, and sees at once that: The wall-mounted cabinet is open, and the HANDGUN is gone.
+C: CAPA
+D: Shit. ' CAPA thinks desperately. Starts turning ASHER'S room over, looking for something, anything, that will function as a weapon . And i"n-a drawer he finds the bottle of champagne that ASHER had mentioned before. CAPA grab!3 it, then smashes it on the side of the desk leaving him a broken bottle neck. INT. CORRIDOR/OUTSIDE PAYLOAD BAY CAPA moves down a corridor. He sweating -looks scared. He's moving stealthily. Gripped fiercely in his hand is the broken bottle neck. CAPA reaches the door to the PAYLOAD BAY. The door opens. CAPA slips inside. INT. PAYLOAD BAY Similar to the PAYLOAD BAY of ICARUS I. cavernous, and in the middle is the vast mirrored cube of the
+C: STELLAR FISSION BOMB.
+D: CAPA stands motionless. Standing further into the PAYLOAD BAY is MACE. :i! His arms hang by his sides. His back is to CAPA. It is unclear what MACE is doing, or looking at.
+C: CAPA
+D: Mace! MACE doesn't respond.
+E: hisses
+C: CAPA
+D: Mace! Now MACE reacts. He turns, slowly. And we see his chest is soaked in blood. Then he collapses
+E: louder
+C: CAPA
+D: Mace? A noise from above. Bl. CAPA looks up to the WALKWAY COMPLEX that stretches across the top of the hanger and sees a figure on one of the walkways. But it's not PINBACKER. It' s CASSIE And---she' s pointing the HANDGUN straight at him. She fires.
+C: CAPA
+D: Cassie! A single shot - which misses. stunned, CAPA scurries for cover.
+E: calls out
+C: CAPA
+D: What are you doing?
+E: shouts
+C: CASSIE
+D: Stay away from ~e!
+E: out of sight, shouting from the walkway
+C: CAPA
+D: But it's me! Capa!
+C: CASSIE
+D: Murdererl Another shot rings out.
+C: CAPA
+D: I didn't kill anyone! You've killed Mace!
+C: CASSIE
+D: And I'll kill you too! I'm past taking fucking chances! One of you murdered Trey and Corazon! Another shot.
+C: CAPA
+D: Cassie -stop! You don't understand! It wasn't either of
+C: US! CASSIE
+D: I don't believe you!
+E: screams
+C: CAPA
+D: It was Pinbacker! Silence from above. Silence. Silence.
+E:  screams back
+C: CAPA
+D: It was the captain of the Icarus One! He got on board while we were docked!
+C: CAPA
+D: He was the one who decoupled the airlocks.
+C: CAPA
+D: Cassie? CAPA looks around -and sees a ladder leading up to the walkways. INT. PAYLOAD BAY/LADDER CAPA climbs the ladder up. He is halfway up when he hears a muffled shout and then the clatter of metal on metal. He looks around to see . spinning through the air, falling down to the bottom of the Payload Bay, the HANDGUN.
+C: CAPA
+D: Cassie! INT. PAYLOAD BAY/WALKWAYS CAPA reaches the top of the ladder, and swings around to stand on the narrow walkway. Where he sees a strange sight. PINBACKER stands on the walkway, with his hand outstretched. Holdingon to his hand, leaning back at an angle, is CASSIE. It is only PINBACKER'S grip that is preventing CASSIE from falTing backwards. For a moment, the two stand on the edge of the walkway - CASSIE held from falling by PINBACKER'S grip. Their gazes are locked. Then CASSIE makes a slight movement backwards -a slight slip. And she sees something weird and initially inexplicable -a band of bright redness around PINBACKER'S upper arm. Expanding Then suddenly, it becomes explicable. PINBACKER'S skin is sloughing off his arm like a long black glove . CASSIE screams then CASSIE is falling, taking the glove with her, tumbling into space dropping the entire height of the PAYLOAD BAY ... until she slams into the floor and is killed outright. PINBACKER turns to CAPA, his arm now as red and slick as a skinned rabbit. CAPA starts backing away, warding PINBACKER off with his bottle-neck weapon. PINBACKER continues to advance. But the walkway only leads one way. To the INT. PAYLOAD BAY/STELLAR FISSION BOMB top side of the STELLAR FISSION BOMB. The two men now stand on top of the BOMB. Blood from PINBACKER'S skinned arm leaves a trail of droplets on the mirrored surface as he advances on CAPA. on the mirrored surface, with his bloody arm and ravaged skin and bright eyes he no longer looks like he was ever human. He looks like a DEMON. And this may be why - when they have reached the middle of the vast cube -CAPA stops and his bottle-neck weapon slips from his fingers, as if conceding its uselessness. And he drops to his knees. PINBACKER - possibly surprised by the gesture of prayer - also stops. CAPA'S head is bowed. A moment passes. Then his shoulders begin to shake. We realise he is crying. A few more moments pass.
+E: yells
+C: CAPA
+D: I know you're going to kill me. You killed everyone else. How can I stop you? I'm no good at fighting. I'm a physicist, for Christ's sake. I never won a fight in my fucking life. He wipes his nose with his sleeve, leaving a silvery trail of snot.
+C: CAPA
+D: I don't really understand. I don't really understand what's happening here at all .. CAPA looks up at the DEMONIC MAN. A beat.
+C: CAPA
+D: Are you from Hell? Is that it? Have we flown too near the sun and disturbed the angels, or angered them, or
+C: CAPA
+D: What is the face of God? This was the questio~ to ask. PINBACKER'S head tilts to the side. Then he opens his mouth to speak. PINBACKER hasn't spoken since he made the recording on ICARUS
+C: I.
+D: The movement to his jaw causes his skin to rupture and split horrifically and the damaged sound of his voice seems to echo the damage to his body.
+C: PINBACKER
+D: You mean to PINBACKER breaks off. Perhaps halted by the pain of speaking. Then he continues.
+C: PINBACKER
+D: You mean to ask, what is God? If you look at God, you see his face.
+C: CAPA
+D: Okay. Yes. That is what I mean. What is God?
+C: PINBACKER
+D: God is what gave us life and God is what will take it away. God is the sun.
+C: CAPA
+D: The sun? CAPA shakes his head, not understanding. Almost getting angry. A moment.
+C: CAPA
+D: But then why are you trying to stop us? The sun is dying. Why won't you let us save it?
+C: PINBACKER
+D: Do you know the distance between here and the next nearest star?
+C: CAPA
+D: One point six light years.
+C: PINBACKER
+D: One point six light years. No matter what mankind does, no matter how far we develop or evolve, we will never reach that star. The distances are simply to great. PINBACKER smiles.
+C: PINBACKER
+D: And even if we could overcome that impossibility, we would still only be delaying the inevitable. Because just as our sun died, so would the next, and the next. Until eventually, there would be no more suns to harvest, and we'd be right back where we are now. Facing extinction. Confronting the only real truth. PINBACKER pauses. And we - and CAPA - see something that PINBACKER does not. Standing behind him -battered, bleeding, clutching a hand to his -chest with one hand, but still alive - is MACE. And in MACE'S other hand, he's holding CASSIE'S gun. MACE is trying to raise the gun. Weakly. Slowly. CAPA stalls for more time.
+C: CAPA
+D: What truth? That all wasted. survive. nature.
+C: PINBACKER
+D: this effort to survive is It's not in our destiny to It's not even in our As PINBACKER talks, the gun is being raised.~igher.
+C: PINBACKER
+D: None of us do it. Not our parents. Not our children. Not the fishes, or the birds, or the trees. Not even God. And now, the gun is levelled at the back of PINBACKER'S head.
+C: PINBACKER
+D: The only thing in our nature is to die.
+C: MACE
+D: Okay. PINBACKER'S eyes flick to the side. i-. ,.
+C: MACE
+D: Then die. PINBACKER turns. Looks at MACE, at the gun barrel then shrugs.
+C: PINBACKER
+D: By all means. MACE fires. PINBACKER is shot in the face. The back of his head flies off, and he folds to the floor. Dead. MACE slumps to his knees. The gun drops out of his hand.
+C: MACE
+D: What He's running out of breath. He tries again.
+C: MACE
+D: What . was all that about? A beat.
+C: CAPA
+D: I don't know. I was just trying to keep him talking so I could figure out what to do next. INT. FLIGHT DECK MACE is bandaged. CAPA is beside him. FADE TO: Both are looking in at the compartment which holds ICARUS'S memory banks. They are destroyed, in the same manner as the destruction of the computer on ICARUS I.
+C: MACE
+D: He really did a number on her. She's not going back together, that's for sure.
+C: CAPA
+D: How are we going to fly the remaining distance?
+C: MAC:E
+D: As your pilot, I don't foresee a problem. MACE looks towards the cockpit display. The sun occupies the entire monitor.
+C: MACE
+D: It's not like we're going to get lost. INT. FLIGHT DECK FADE 'l'O: MACE sits in the pilot's seat, working the console. CAPA is in the copilot's seat . Capa is setting the countdown timer. Countdown numbers appear on the screen. They read: 08640.05
+C: INT-;-AIRLOCK
+D: FADE TO: Wrapped in shrouds, four bodies wait in the airlock, in a row, on the floor. CASSIE, TREY, CORAZON, and PINBACKER. CAPA and MACE stand on the other side of the pressurised glass airlock door. A few seconds later, the outer airlock door opens, and the bodies are ejected in the rush of escaping air. . , .... . ,,.,. ii!
+S: EXT. ICARUS II
+N: The bodies tumble out into space, and burn into nothingness almost at once. We see that the ICARUS II has virtually reached th~ sun.
+C: !'ADE TO:
+D: INT. DARJC ROOM In a dark room, CAPA and MACE sit staring at the chess board. They, and the chess board, are illuminated by a lamp The pieces are all set up to play. Neither have yet moved A long beat. Eventually, CAPA reaches over to MACE'S side of the board and moves his WHITE KING'S PAWN two spaces.
+C: CAPA
+D: That's the most common first move.
+C: MACE
+D: Oh. Right. Yeah, I'll do that then. CAPA nods, then moves his BLACK KING'S PAWN to counter. Back to silence as MACE studies the board. - Until eventually
+E: beat
+C: CAPA
+D: Mace -I really don't think you have long enough to learn how to play chess. MACE looks crestfallen.
+C: MACE
+D: But I always wanted to learn. What other chance am I going to have? CAPA thinks about this. Pause.
+C: CAPA
+D: Okay.
+C: CAPA
+D: So, why don't you see if your bishop or knight could be developed? At that moment, above CAPA'S head, a single fizzing, popping, firefly SPARK appears. CAPA looks up to watch it. MACE does not. He is too engrossed in the board.
+C: MACE
+D: Okay. How about this? MACE moves one of his knights. The SPARK doubles to two.
+C: CAPA
+D: Yeah. That's a good move You're getting the hang.
+C: BLACK SCREEN CAPTION:
+D: EXT. PARK - DAY 8 Minutes Later A park in the middle of a city. A DOG is being taken for a walk by an WOMAN.
+C: !'ADE TO:
+D: FADE UP TO: We have seen the DOG before, on a hologram-photo: MAXWELL. By the light levels, we would estimate the.time is either late afternoon or early morning. The WOMAN throws a ball, and MAXWELL runs after it i
+N: over the grass, to where the ball is bouncing. He picks it up in his teeth and as he does so, the light levels all seems to change brightening. No more dramatic than when the sun appears from behind a cloud. MAXWELL looks up at the sky for a moment. Then, with the ball still in his teeth, he starts running back towards the WOMAN. END
