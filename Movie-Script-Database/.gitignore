@@ -1,5 +1,4 @@
-# Large script data — not tracked in git, upload to Google Drive for Colab
-scripts/parsed/tagged/
+# Large intermediate/raw data — not needed for arc generation
 scripts/parsed/dialogue/
 scripts/filtered/
 scripts/temp/

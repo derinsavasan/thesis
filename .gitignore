@@ -20,8 +20,7 @@ huggingfacehub_cache/
 # macOS
 .DS_Store
 
-# Script corpus — large raw/processed data, not tracked in git
-Movie-Script-Database/scripts/parsed/tagged/
+# Script corpus — large intermediate/raw data, not needed for arc generation
 Movie-Script-Database/scripts/parsed/dialogue/
 Movie-Script-Database/scripts/filtered/
 Movie-Script-Database/scripts/temp/
