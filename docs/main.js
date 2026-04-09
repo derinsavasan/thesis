@@ -4,7 +4,7 @@
 //  with e.g. `python -m http.server 8000` then open /web/
 // ─────────────────────────────────────────────────────────
 
-const DATA = "../thesis-outputs";
+const DATA = "./thesis-outputs";
 
 // palette (mirrors CSS tokens in styles.css)
 const C = {
