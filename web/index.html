@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>The Shapes of Stories · Emotional arcs in Hollywood screenplays</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT@9..144,300..900,0..100&family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+<!-- ───────────────── HERO ───────────────── -->
+<section class="hero">
+  <svg class="hero-arc" aria-hidden="true"></svg>
+  <div class="hero-inner">
+    <p class="eyebrow">A thesis by Derin Savasan · Parsons · 2026</p>
+    <h1 class="hero-title">The&nbsp;Shapes<br/><em>of&nbsp;Stories</em></h1>
+    <p class="hero-sub">
+      Every screenplay is a line that rises and falls. This is what <span class="num">1,627</span> Hollywood films look like when you plot their feelings from first page to last.
+    </p>
+    <p class="scroll-hint">↓ scroll</p>
+  </div>
+  <p class="hero-film" id="hero-film"></p>
+</section>
+
+<!-- ───────────────── INTRO / VONNEGUT ───────────────── -->
+<section class="scrolly" id="intro">
+  <div class="sticky">
+    <div class="panel">
+      <svg class="intro-svg"></svg>
+      <div class="panel-caption">
+        <span class="caption-title" id="intro-title">Fight Club&nbsp;·&nbsp;1999</span>
+        <span class="caption-meta" id="intro-meta">z-score of sentiment over narrative time</span>
+      </div>
+    </div>
+  </div>
+  <div class="steps">
+    <div class="step" data-step="0">
+      <h2>Kurt Vonnegut was right.</h2>
+      <p>In a 1995 lecture, Vonnegut half-joked that every story has a shape, a line moving between good fortune and ill. He sketched them on a chalkboard: <em>Man in Hole</em>, <em>Boy Meets Girl</em>, <em>Cinderella</em>. Computers, he said, could probably find the rest.</p>
+    </div>
+    <div class="step" data-step="1">
+      <h3>Here's what one looks like.</h3>
+      <p>This is <em id="intro-film-ref">Fight Club</em>, page one to the end. The line is sentiment: how warmly or darkly the screenplay reads at each moment, standardized across the whole film so we can compare it to every other one.</p>
+    </div>
+    <div class="step" data-step="2">
+      <h3>Up means lighter. Down means darker.</h3>
+      <p>There are no happy or sad labels on the y-axis, just relative distance from the film's own average mood. Think of it as the emotional pulse of the text, not its plot.</p>
+    </div>
+    <div class="step" data-step="3">
+      <h3>Every peak and trough is a turn.</h3>
+      <p>The dots mark <em>reversals</em>, the moments the arc genuinely changes direction. A great screenplay doesn't need many. It needs the right ones.</p>
+    </div>
+    <div class="step" data-step="4">
+      <h3>So what happens if we do this to 1,627 of them?</h3>
+      <p>I pulled every screenplay I could from the Movie Script Database, scored each one sentence by sentence, and squeezed them all onto the same 20-point grid. Then I asked: <em>how many shapes are there, really?</em></p>
+    </div>
+  </div>
+</section>
+
+<!-- ───────────────── SIX ARCHETYPES ───────────────── -->
+<section class="scrolly" id="archetypes">
+  <div class="sticky">
+    <div class="panel panel-grid">
+      <svg class="archetypes-svg"></svg>
+    </div>
+  </div>
+  <div class="steps">
+    <div class="step" data-arch="all">
+      <h2>Six shapes. That's it.</h2>
+      <p>After clustering the 1,627 arcs, six visually distinct and narratively recognisable families emerged. They map onto the taxonomy from Reagan et al., with one caveat: these are not exact replicas of the literary shapes. They are the nearest structural equivalents in a screenplay corpus.</p>
+    </div>
+    <div class="step" data-arch="0">
+      <h3>① Oedipus <span class="arch-sub">fall · rise · fall</span></h3>
+      <p>Opens mildly positive, dips hard in the first quarter, recovers through the middle, peaks late around the 75% mark, then crashes to the lowest endpoint of any archetype. The defining feature is the terminal collapse: everything that was rebuilt gets torn down again. <em>Catch Me If You Can</em> (0.84) and <em>Kill Bill: Volume 1</em> (0.72) live here. The smallest cluster at <span class="num" data-count="0">…</span> films.</p>
+    </div>
+    <div class="step" data-arch="1">
+      <h3>② Icarus <span class="arch-sub">rise · fall</span></h3>
+      <p>Rises through the first half, peaks at the exact midpoint, then collapses into a deep trough around the 80% mark before a modest late recovery. <em>Heat</em> is the strongest example in the entire corpus at 0.93. <em>Fight Club</em> tracks the same shape at 0.56: the narrator builds something intoxicating, Project Mayhem peaks, and then the whole thing turns on him. <span class="num" data-count="1">…</span> films.</p>
+    </div>
+    <div class="step" data-arch="2">
+      <h3>③ Man in a Hole <span class="arch-sub">fall · rise</span></h3>
+      <p>Opens near zero, dips into a sustained trough just past the midpoint, then climbs steadily to the highest closing sentiment of any archetype. <em>Inception</em> carries a weight of 0.91: Cobb's emotional state deteriorates as the layers of the dream deepen, and the resolution pulls the arc up hard. The largest cluster, <span class="num" data-count="2">…</span> films.</p>
+    </div>
+    <div class="step" data-arch="3">
+      <h3>④ Tragedy <span class="arch-sub">fall</span></h3>
+      <p>Opens at the highest starting point of any archetype, peaks in the first 15% of the script, then falls steadily for the remaining 85%. No recovery. No turn. Just descent. <em>Anora</em> carries a perfect weight of 1.00. And <em>Wedding Crashers</em> is here too, at 0.58, which is the useful finding: genre does not automatically dictate shape. <span class="num" data-count="3">…</span> films.</p>
+    </div>
+    <div class="step" data-arch="4">
+      <h3>⑤ Rags to Riches <span class="arch-sub">rise</span></h3>
+      <p>Opens at the lowest starting point of any archetype, stays negative through the first half, then climbs through the second to the highest single endpoint across all six shapes. Start bad, end good. <em>The Truman Show</em> (0.76) is clean. <em>The Descendants</em> (0.86) is even stronger in the data. <span class="num" data-count="4">…</span> films.</p>
+    </div>
+    <div class="step" data-arch="5">
+      <h3>⑥ Cinderella <span class="arch-sub">rise · fall · rise</span></h3>
+      <p>Opens high, crashes to a deep trough in the first third, then slowly recovers through the back half and closes near its opening level. The structure is symmetrical: what was lost is restored. <em>Die Hard 2</em> (0.85) is the textbook version. <em>The Hangover</em> (0.61) runs the same pattern played for laughs. <span class="num" data-count="5">…</span> films.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ───────────────── DECADE / GENRE ───────────────── -->
+<section class="stationary" id="era">
+  <div class="era-text">
+    <h2>When do these shapes live?</h2>
+    <p>Some arcs get passed down like heirlooms. Others ebb and flow with the mood of a decade. Toggle between <em>decades</em> and <em>genres</em>. The two look less alike than you'd expect.</p>
+    <div class="toggle">
+      <button class="toggle-btn is-active" data-view="decade">By decade</button>
+      <button class="toggle-btn" data-view="genre">By genre</button>
+    </div>
+    <p class="era-note" id="era-note">Each bar shows how the six archetypes divide up films from that decade. Widths are the share of films; ordering is fixed so you can see the tide.</p>
+  </div>
+  <div class="era-chart">
+    <svg class="era-svg"></svg>
+    <div class="era-legend" id="era-legend"></div>
+  </div>
+</section>
+
+<!-- ───────────────── FILM EXPLORER ───────────────── -->
+<section class="explorer" id="explore">
+  <div class="explorer-head">
+    <h2>Pick one. Watch its pulse.</h2>
+    <p>Twenty-four films from the landing list. Click any title to watch its sentiment arc draw in, and the reversal points become hoverable. Peaks and troughs are the moments where the story visibly changes its mind.</p>
+  </div>
+  <div class="explorer-grid" id="film-grid"></div>
+  <div class="explorer-stage">
+    <svg class="explorer-svg"></svg>
+    <div class="explorer-meta">
+      <div class="stage-title" id="stage-title">Select a film</div>
+      <div class="stage-sub" id="stage-sub">Hover a dot for a reversal</div>
+      <div class="stage-blob" id="stage-blob"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ───────────────── OUTRO ───────────────── -->
+<section class="outro">
+  <h2>This is a prototype.</h2>
+  <p>
+    Coming: director signatures (Tarantino, Scorsese, Spielberg, Nolan, Anderson, Villeneuve, Lanthimos, Reiner),
+    live screenplay blobs at each reversal, syncable video clips for the monument films,
+    and a look at how sequels pick up where the previous arc ended.
+  </p>
+  <p class="colophon">
+    Data: 1,627 screenplays from the Movie Script Database · arcs computed over 20 normalized positions with VADER + a custom lexicon · archetypes from K-means on z-scored arcs · typography: Fraunces, Source Serif 4, Inter, JetBrains Mono.
+  </p>
+</section>
+
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script src="https://unpkg.com/intersection-observer@0.12.2/intersection-observer.js"></script>
+<script src="https://unpkg.com/scrollama@3"></script>
+<script src="main.js"></script>
+</body>
+</html>
