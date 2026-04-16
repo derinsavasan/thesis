@@ -378,7 +378,7 @@ async function drawEra() {
   // decade: already in CSV as shares
   const decadeRows = dec.map(d => {
     const row = { key: d.decade };
-    for (let i = 0; i < 6; i++) row[i] = d[`Arch ${i}`];
+    for (let i = 0; i < 6; i++) row[i] = d[ARCHETYPE_NAMES[i]];
     return row;
   });
 
