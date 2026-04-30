@@ -1,14 +1,19 @@
 /* ───────────────── tokens ───────────────── */
 :root {
-  --ink:        #1c1712;      /* warm near-black */
-  --ink-dim:    #5a5041;
-  --ink-faint:  #8e8370;
-  --bg:         #f3ead4;      /* warm screenplay manila */
-  --bg-raise:   #e8dcb8;      /* card */
-  --amber:      #a16a0c;      /* deep gold that holds on cream */
-  --amber-soft: #c48514;
-  --red:        #9a3027;
-  --rule:       #d6c694;
+  --ink:        #16191e;      /* cool near-black */
+  --ink-dim:    #3f4651;
+  --ink-faint:  #6c7585;
+  --bg:         #eef0e7;      /* cool paper, off-white with green-grey lift */
+  --bg-raise:   #e2e5db;      /* card */
+  --bg-deep:    #d6dbcf;      /* deepest tier */
+  --amber:      #8a5a14;      /* deeper gold that holds on cool paper */
+  --amber-soft: #b07a1f;
+  --red:        #8e2c25;
+  --rule:       #b7bdac;      /* lifted contrast vs bg */
+  --rule-soft:  #c8cdba;
+
+  --turn-warm:  #c25a18;      /* peak — single warm */
+  --turn-cool:  #2b4a6f;      /* trough — single cool */
 
   --serif-display: "Fraunces", "Source Serif 4", Georgia, serif;
   --serif-body:    "Source Serif 4", Georgia, serif;
@@ -35,7 +40,7 @@ body {
 em { font-style: italic; color: var(--amber-soft); font-weight: 500; }
 .num, .mono { font-family: var(--mono); font-variant-numeric: tabular-nums; color: var(--amber); }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
   font-family: var(--serif-display);
   font-weight: 400;
   font-variation-settings: "opsz" 120, "SOFT" 30;
@@ -45,6 +50,7 @@ h1, h2, h3 {
 }
 h2 { font-size: clamp(2.2rem, 5vw, 4rem); }
 h3 { font-size: clamp(1.4rem, 2.4vw, 2rem); font-variation-settings: "opsz" 48, "SOFT" 20; }
+h4 { font-size: 1.05rem; font-variation-settings: "opsz" 24, "SOFT" 30; margin-bottom: 0.4em; }
 p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
 
 .eyebrow {
@@ -55,6 +61,36 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
   color: var(--ink-dim);
   margin-bottom: 2rem;
 }
+/* Single-line variant for the hero passion-project credit. */
+.eyebrow-line { white-space: nowrap; }
+
+/* Section title reveal: only the italicized / .scramble words animate (via
+   ScrambleText). The rest of the title is plain text, no animation, so we
+   don't fight italic letterforms with a letter-rise.
+   Hide .scramble until JS adds is-revealed so the user never sees the final
+   text before the scramble plays. */
+.scramble { opacity: 0; }
+.scramble.is-revealed { opacity: 1; }
+/* Italic glyphs occasionally overshoot their advance width — pad the box on
+   inline scrambles so a "loose" character can't escape into the margin. */
+#intro-prelude-title { padding-right: 0.05em; }
+
+/* Hero entrance: subtle fade-up on eyebrow / title / subtitle. Hidden via
+   CSS-first so there's no flash before GSAP takes over. .no-gsap (set by JS
+   when GSAP fails to load) restores them so the page is still readable. */
+.hero .eyebrow,
+.hero-title,
+.hero-sub {
+  opacity: 0;
+  transform: translateY(16px);
+  will-change: opacity, transform;
+}
+.no-gsap .hero .eyebrow,
+.no-gsap .hero-title,
+.no-gsap .hero-sub {
+  opacity: 1;
+  transform: none;
+}
 
 /* ───────────────── hero ───────────────── */
 .hero {
@@ -62,16 +98,15 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
   position: relative;
   display: flex;
   align-items: center;
-  padding: 0 var(--gutter);
+  padding: 0 var(--gutter) 8rem;          /* 8rem bottom mirrors era's pattern */
   overflow: hidden;
-  border-bottom: 1px solid var(--rule);
 }
 .hero-arc {
   position: absolute;
   inset: 0;
   width: 100%;
   height: 100%;
-  opacity: 0.35;
+  opacity: 0.5;
   z-index: 0;
   pointer-events: none;
 }
@@ -103,15 +138,38 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
   max-width: 46ch;
   line-height: 1.5;
 }
+/* Bottom-center thin chevron. Hidden on initial paint; JS fades it in
+   AFTER the hero entrance animation finishes (so it doesn't compete with
+   the title for attention). The CSS animation drives only the transform —
+   opacity stays JS-controlled so fade-in / dismiss don't fight the keyframe. */
 .scroll-hint {
-  font-family: var(--sans);
-  font-size: 0.75rem;
-  letter-spacing: 0.25em;
-  text-transform: uppercase;
-  color: var(--ink-faint);
   position: absolute;
-  bottom: 2rem;
-  left: var(--gutter);
+  bottom: 2.4rem;
+  left: 50%;
+  width: 28px;
+  height: 16px;
+  color: var(--ink-faint);
+  z-index: 2;
+  pointer-events: none;
+  user-select: none;
+  opacity: 0;
+  transform: translate(-50%, 0);
+  animation: scroll-nudge 2.2s ease-in-out infinite;
+  transition: opacity 420ms ease;
+}
+.scroll-hint svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+.scroll-hint.is-revealed { opacity: 0.7; }
+.scroll-hint.is-dismissed { opacity: 0; animation: none; }
+@keyframes scroll-nudge {
+  0%, 100% { transform: translate(-50%, 0); }
+  50%      { transform: translate(-50%, 6px); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .scroll-hint { animation: none; }
 }
 .hero-film {
   position: absolute;
@@ -124,8 +182,27 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
   flex-direction: column;
   align-items: flex-end;
   gap: 0.35rem;
-  max-width: 24ch;
+  opacity: 0;        /* fades in as the hero arc nears completion */
 }
+.no-gsap .hero-film { opacity: 1; }
+
+/* Reshuffle button — sits under the warm-up intermission's body copy. */
+.warmup-shuffle {
+  background: transparent;
+  border: 0;
+  margin: 1.6rem 0 0;
+  padding: 0.4rem 0;
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  cursor: pointer;
+  align-self: flex-start;
+  transition: color 200ms;
+}
+.warmup-shuffle:hover { color: var(--amber); }
+.warmup-shuffle span { margin-right: 0.4em; }
 .hero-film-key {
   font-family: var(--sans);
   font-size: 0.7rem;
@@ -139,156 +216,693 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
   font-size: 1.1rem;
   line-height: 1.2;
   color: var(--ink);
+  white-space: nowrap;
 }
-.hero-film-val em {
-  color: var(--amber);
-  font-style: italic;
-}
+.hero-film-val em { color: var(--amber); font-style: italic; }
 
-/* ───────────────── scrollytelling shell ───────────────── */
-.scrolly {
-  position: relative;
-  max-width: var(--max);
+/* ───────────────── vonnegut intro ───────────────── */
+/* Vonnegut: two separate full-page sections. Subsection 1 has image+text
+   (one viewport tall) so the user reads it without seeing subsection 2.
+   Subsection 2 is text-only, full-width, fades in on scroll. */
+
+/* Shared block typography — both subsections use the same vibe (matches the
+   rest of the site: light weight, larger optical size, tighter tracking).
+   This was previously different between the two; now they're unified. */
+.vonnegut-1 .lede,
+.vonnegut-2 .lede {
+  font-family: var(--serif-display);
+  font-variation-settings: "opsz" 96, "SOFT" 25;
+  font-weight: 300;
+  letter-spacing: -0.01em;
+  line-height: 1.4;
+  color: var(--ink);
+  margin: 0 0 2rem;
+}
+.vonnegut-1 p,
+.vonnegut-2 p {
+  font-size: 1.18rem;
+  line-height: 1.65;
+  color: var(--ink-dim);
+  margin: 0 0 1.4rem;
+}
+.vonnegut-1 a,
+.vonnegut-2 a {
+  color: var(--amber);
+  text-decoration: none;
+  border-bottom: 1px solid var(--amber-soft);
+  transition: color 200ms, border-color 200ms;
+}
+.vonnegut-1 a:hover,
+.vonnegut-2 a:hover { color: var(--amber-soft); border-bottom-color: var(--amber); }
+
+/* Subsection 1 — image + text. Mirrors the intermission spacing pattern
+   (100vh, content vertically centered, no vertical padding) so the gap from
+   the hero matches the gap between era and the essay-prelude intermission. */
+.vonnegut-1 {
+  min-height: 100vh;
+  max-width: 1640px;
   margin: 0 auto;
-  padding: 6rem var(--gutter) 6rem;
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
-  gap: 3rem;
-}
-.sticky {
-  position: sticky;
-  top: 0;
-  height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.panel {
-  width: 100%;
-  height: 70vh;
-  background: var(--bg-raise);
-  border: 1px solid var(--rule);
-  border-radius: 4px;
-  position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 2rem;
-}
-.panel svg { width: 100%; height: 100%; display: block; }
-.panel-caption {
-  position: absolute;
-  left: 1.5rem;
-  top: 1.5rem;
+  padding: 0 clamp(0.75rem, 1vw, 1rem);  /* very tight side margins so the row has every pixel */
   display: flex;
   flex-direction: column;
+  justify-content: center;
 }
-.caption-title {
-  font-family: var(--serif-display);
-  font-size: 1.15rem;
-  color: var(--ink);
-  font-variation-settings: "opsz" 48, "SOFT" 30;
+/* Content-sized columns centered as a single unit. align-items: center so
+   the image's vertical center sits on the same horizontal line as the text's
+   vertical center — image hits the middle of the text block, not the top. */
+.von-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: clamp(3rem, 5vw, 5rem);
+  width: 100%;
+  flex-wrap: nowrap;
 }
-.caption-meta {
+.von-portrait {
+  margin: 0;
+  flex: 0 1 440px;       /* content-sized; can shrink, doesn't grow */
+  max-width: 440px;
+}
+.von-portrait img {
+  display: block;
+  width: 100%;
+  height: auto;          /* native aspect ratio, no crop */
+  background: var(--bg-raise);
+  filter: grayscale(0.15) contrast(1.02);
+}
+.von-portrait img.missing {
+  aspect-ratio: 4 / 3;
+  background: repeating-linear-gradient(45deg, var(--bg-raise), var(--bg-raise) 6px, var(--bg-deep) 6px, var(--bg-deep) 12px);
+}
+/* Caption inherits figure width so it tracks the image edge-to-edge. */
+.von-portrait figcaption {
   font-family: var(--mono);
   font-size: 0.7rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
   color: var(--ink-faint);
-  letter-spacing: 0.05em;
-  margin-top: 0.25rem;
+  line-height: 1.55;
+  margin-top: 0.8rem;
+  max-width: none;
 }
+/* Wider text column lets the lede break to 3 lines (instead of 4) without
+   shrinking the lede font. Lede max-width is in `ch` measured at the lede's
+   own font-size, so it caps roughly to the column edge. */
+.vonnegut-1 .von-copy { flex: 0 1 72ch; max-width: 72ch; }
+.vonnegut-1 .lede { font-size: clamp(1.9rem, 3.2vw, 2.7rem); max-width: 42ch; }
+.vonnegut-1 p { max-width: 62ch; }
 
-.steps { display: flex; flex-direction: column; }
-.step {
-  min-height: 85vh;
+/* Subsection 2 — full-page, text-only. Aligned to the same canvas as the
+   intermissions (`--max` width, `--gutter` padding) so the lede sits at the
+   same indentation as the editorial intermission copy elsewhere on the page. */
+.vonnegut-2 {
+  min-height: 100vh;
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 0 var(--gutter);
   display: flex;
   flex-direction: column;
   justify-content: center;
-  opacity: 0.28;
-  transition: opacity 400ms ease;
 }
-.step.is-active { opacity: 1; }
-.step p { color: var(--ink-dim); }
-.step.is-active p { color: var(--ink); }
-.arch-sub {
-  display: block;
-  font-family: var(--mono);
-  font-size: 0.68rem;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  color: var(--ink-faint);
-  margin-top: 0.35rem;
-  font-style: normal;
+.vonnegut-2 .von-copy { width: 100%; }
+.vonnegut-2 .lede {
+  font-size: clamp(1.9rem, 3.2vw, 2.7rem);  /* match vonnegut-1 */
+  max-width: 46ch;       /* wide enough to break the lede into two sentences */
+  margin-bottom: 2.2rem;
+}
+.vonnegut-2 p {
+  max-width: 80ch;
+  margin-bottom: 1.4rem;
 }
 
-/* ───────────────── era (decade/genre) ───────────────── */
-.stationary {
-  max-width: var(--max);
-  margin: 0 auto;
-  padding: 8rem var(--gutter);
-  display: grid;
-  grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr);
-  gap: 4rem;
-  align-items: start;
-  border-top: 1px solid var(--rule);
-  border-bottom: 1px solid var(--rule);
+/* ───────────────── intro pin (full-bleed canvas with floating beats) ───────────────── */
+/* The stage is pinned by ScrollTrigger (not CSS sticky) so it cooperates with
+   ScrollSmoother. Section height is added by ScrollTrigger's pinSpacing.
+   Beats are absolutely positioned — they float in DIFFERENT corners per beat
+   so the chart doesn't read as left-half-graph / right-half-text. */
+.intro-pin {
+  position: relative;
+  width: 100%;
+  background: var(--bg);
 }
-.era-text { position: sticky; top: 10vh; }
-.toggle {
-  display: inline-flex;
-  margin: 1.5rem 0 1rem;
-  border: 1px solid var(--rule);
-  border-radius: 2px;
+.intro-stage {
+  height: 100vh;
+  width: 100%;
+  display: block;
   overflow: hidden;
 }
-.toggle-btn {
-  font-family: var(--sans);
-  font-size: 0.78rem;
-  letter-spacing: 0.1em;
+.intro-stage .intro-svg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+.intro-beat {
+  position: absolute;
+  max-width: 36ch;
+  pointer-events: none;
+  opacity: 0;
+}
+.intro-beat h3 {
+  font-size: clamp(1.6rem, 3vw, 2.4rem);
+  margin: 0 0 0.6rem;
+  font-variation-settings: "opsz" 96, "SOFT" 25;
+  font-weight: 300;
+}
+.intro-beat p {
+  font-size: 1.02rem;
+  color: var(--ink-dim);
+  line-height: 1.5;
+}
+.intro-beat .hover-hint {
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.14em;
   text-transform: uppercase;
-  background: transparent;
-  color: var(--ink-dim);
-  border: 0;
-  padding: 0.7rem 1.1rem;
-  cursor: pointer;
-  transition: all 200ms;
-}
-.toggle-btn + .toggle-btn { border-left: 1px solid var(--rule); }
-.toggle-btn.is-active { background: var(--amber); color: #fff8e7; }
-.toggle-btn:hover:not(.is-active) { color: var(--ink); }
-.era-note {
-  font-family: var(--sans);
-  font-size: 0.82rem;
   color: var(--ink-faint);
-  max-width: 32ch;
+  margin-top: 0.6rem;
 }
-.era-chart { min-height: 540px; }
-.era-svg { width: 100%; height: 520px; display: block; }
-.era-legend {
+/* Both beats anchored to the same column (left), with vertical placement
+   driven by JS (placeIntroBeats) — JS swaps top↔bottom per beat based on
+   where the line actually is in that beat's horizontal range. */
+.intro-beat[data-beat="0"] { left: var(--gutter); top: 18vh; }
+.intro-beat[data-beat="1"] { left: var(--gutter); top: 18vh; }
+
+.intro-beat[data-beat="2"] { left: var(--gutter); bottom: 12vh; }
+
+/* ───────────────── intermission ───────────────── */
+.intermission {
+  min-height: 100vh;
   display: flex;
-  flex-wrap: wrap;
-  gap: 1rem 1.3rem;
-  font-family: var(--sans);
-  font-size: 0.78rem;
-  color: var(--ink-dim);
-  margin-top: 0.75rem;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 0 var(--gutter);
+  max-width: var(--max);
+  margin: 0 auto;
 }
-.era-legend .swatch {
-  display: inline-block;
-  width: 12px;
-  height: 12px;
-  border-radius: 2px;
-  margin-right: 0.5rem;
-  vertical-align: -1px;
+.intermission-eyebrow {
+  font-family: var(--mono);
+  text-transform: uppercase;
+  letter-spacing: 0.3em;
+  font-size: 0.72rem;
+  color: var(--ink-faint);
+  margin-bottom: 1.5rem;
+}
+.intermission-title {
+  font-size: clamp(2.8rem, 7vw, 6rem);
+  line-height: 1;
+  max-width: 18ch;
+  margin: 0 0 2rem;
+  font-variation-settings: "opsz" 144, "SOFT" 25;
+  font-weight: 300;
+}
+.intermission-title em {
+  font-style: italic;
+  color: var(--amber);
+}
+.intermission-sub {
+  font-size: 1.2rem;
+  color: var(--ink-dim);
+  max-width: 52ch;
+  line-height: 1.5;
+}
+/* Longer intermission sub paragraphs (archetypes and archpin-prelude) widen
+   to match vonnegut-2's body width so they don't read as narrow columns. */
+.intermission[data-intermission="archetypes"] .intermission-sub,
+.intermission[data-intermission="archpin-prelude"] .intermission-sub,
+.intermission[data-intermission="decade-rank"] .intermission-sub {
+  max-width: 80ch;
+}
+/* Warm-up sub — short sentence that should fit on 2 lines, slightly wider
+   than the 80ch group so the sentiment-model line doesn't break early. */
+.intermission[data-intermission="intro-prelude"] .intermission-sub {
+  max-width: 100ch;
+}
+
+
+/* Inline links inside intermission body copy — match the Vonnegut "on tape"
+   treatment: amber text, underlined with the soft amber, brightens on hover. */
+.intermission-sub a {
+  color: var(--amber);
+  text-decoration: none;
+  border-bottom: 1px solid var(--amber-soft);
+  transition: color 200ms, border-color 200ms;
+}
+.intermission-sub a:hover {
+  color: var(--amber-soft);
+  border-bottom-color: var(--amber);
+}
+
+/* ───────────────── cluster overview (all 6 at once) ───────────────── */
+/* Single column, tight stack: eyebrow → title → sub (with inline CTA) → board.
+   No more orphan headlines floating away from the chart. */
+.cluster-overview {
+  position: relative;
+  padding: 4rem var(--gutter) 2rem;
+  max-width: var(--max);
+  margin: 0 auto;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.cluster-overview .eyebrow { margin-bottom: 0.8rem; }
+.cluster-title {
+  font-size: clamp(2.4rem, 4.6vw, 4rem);
+  font-weight: 300;
+  font-variation-settings: "opsz" 144, "SOFT" 25;
+  line-height: 0.95;
+  margin: 0 0 1rem;
+  max-width: 16ch;
+}
+.cluster-title em { color: var(--amber); font-style: italic; }
+.cluster-sub {
+  max-width: 105ch;
+  font-size: 1.05rem;
+  color: var(--ink-dim);
+  line-height: 1.5;
+  margin-bottom: 1.4rem;
+}
+.cluster-cta-inline {
+  display: inline;
+  font-family: var(--mono);
+  font-size: 0.74rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  margin-left: 0.6rem;
+}
+.cluster-board {
+  width: 100%;
+  flex: 1 1 auto;
+  min-height: 360px;
+  background: var(--bg);
+  position: relative;
+}
+.cluster-board svg { width: 100%; height: 100%; display: block; }
+
+.cluster-grid {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 1px;
+  background: var(--rule-soft);
+  border: 1px solid var(--rule-soft);
+}
+.flip-card {
+  position: relative;
+  cursor: pointer;
+  perspective: 1400px;
+  background: var(--bg);
+  overflow: hidden;
+}
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  transition: transform 0.75s cubic-bezier(0.5, 0.05, 0.2, 1);
+  will-change: transform;
+}
+.flip-card.is-flipped .flip-card-inner { transform: rotateY(180deg); }
+.flip-front, .flip-back {
+  position: absolute;
+  inset: 0;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  overflow: hidden;
+}
+.flip-front svg { width: 100%; height: 100%; display: block; }
+.flip-back {
+  transform: rotateY(180deg);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 2.4rem 2.2rem;
+  color: rgba(255, 255, 255, 0.96);
+}
+.flip-back .arch-name {
+  font-family: "Fraunces", serif;
+  font-size: clamp(1.6rem, 2.4vw, 2.4rem);
+  font-weight: 400;
+  font-variation-settings: "opsz" 96, "SOFT" 30;
+  line-height: 1;
+  margin: 0 0 1rem;
+  color: #fff;
+}
+.flip-back .arch-blurb {
+  font-size: 0.95rem;
+  line-height: 1.55;
+  max-width: 38ch;
+  color: rgba(255, 255, 255, 0.88);
+  margin: 0;
+}
+
+/* ───────────────── archetypes pin (one big morphing chart) ───────────────── */
+/* Pinned by ScrollTrigger. Section length added by ScrollTrigger pinSpacing —
+   six segments × 100vh of scroll. */
+.archetypes-pin {
+  position: relative;
+  width: 100%;
+  background: var(--bg);
+}
+.pin-stage {
+  height: 100vh;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr;
+  align-items: stretch;
+  overflow: hidden;
+}
+.pin-stage .pin-svg {
+  grid-column: 1;
+  grid-row: 1;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+.pin-stage .pin-meta {
+  grid-column: 1;
+  grid-row: 1;
+  align-self: end;
+  justify-self: start;
+  padding: 4rem var(--gutter) 4vh;
+  max-width: 56ch;
+  pointer-events: none;
+  position: relative;
+  width: 100%;
+  /* Soft fade-to-bg so the caption stays readable over the chart that now
+     fills the full viewport. Sits behind the text, not over the chart edges. */
+  background: linear-gradient(to top, rgba(238,240,231,0.82) 0%, rgba(238,240,231,0.6) 60%, rgba(238,240,231,0) 100%);
+}
+/* Shape index (X of 6) lifted to the top-left corner — sits where POSITIVE
+   used to be on the left axis, freeing the lower-left text block from
+   overlap with the arc. Style mirrors the original .arch-progress treatment
+   inside .pin-meta. */
+.pin-stage .arch-progress.pin-progress-corner {
+  position: absolute;
+  top: 2.2rem;
+  left: var(--gutter);
+  margin: 0;
+  z-index: 2;
+  pointer-events: none;
+}
+/* Hover tooltip mirrors the corner count: same top inset, same gutter on the
+   opposite side. Mono uppercase tracking matches the count's typographic
+   treatment so the two corners read as a pair. */
+.pin-stage .pin-tip-corner {
+  position: absolute;
+  top: 2.2rem;
+  right: var(--gutter);
+  margin: 0;
+  z-index: 2;
+  pointer-events: none;
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-dim);
+  text-align: right;
+  /* Cap to viewport width minus the two gutters so long titles can't run
+     off-screen to the left. Stays on one line when it fits; wraps right-
+     aligned only for the rare extra-long combination. */
+  max-width: calc(100vw - 2 * var(--gutter));
+}
+.pin-stage .pin-tip-corner[hidden] { display: none; }
+.pin-stage .pin-tip-corner .pin-tip-title,
+.pin-stage .pin-tip-corner .pin-tip-match { display: block; }
+/* Title line — Fraunces in italic for the film name only; the year stays
+   upright. Override the mono uppercase + tracking that the corner element
+   sets. */
+.pin-stage .pin-tip-corner .pin-tip-title {
+  font-family: var(--serif-display);
+  font-weight: 400;
+  font-size: 1.05rem;
+  font-variation-settings: "opsz" 24, "SOFT" 30;
+  letter-spacing: 0;
+  text-transform: none;
+}
+.pin-stage .pin-tip-corner .pin-tip-name { font-style: italic; }
+.pin-stage .pin-tip-corner .pin-tip-year { font-style: normal; }
+.pin-stage .pin-tip-corner .pin-tip-match {
+  margin-top: 0.35rem;
+}
+.pin-stage .pin-tip-corner .pin-tip-pct { font-weight: 700; }
+.pin-stage .pin-tip-corner .pin-tip-tail { font-weight: 400; }
+.pin-stage h3 {
+  font-size: clamp(2.4rem, 6vw, 5rem);
+  margin: 0 0 0.5rem;
+  font-variation-settings: "opsz" 144, "SOFT" 25;
+  font-weight: 300;
+  letter-spacing: -0.02em;
+}
+.pin-stage .arch-shape {
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--amber);          /* default; JS overrides per-archetype */
+  margin: 0 0 1.4rem;
+  transition: color 380ms ease;
+}
+.pin-stage #pin-blurb {
+  max-width: 60ch;
+  font-size: 1.02rem;
+  color: var(--ink-dim);
+  line-height: 1.5;
+  margin-bottom: 1rem;
+}
+.pin-stage #pin-blurb em { color: var(--archetype-color, var(--ink)); font-style: italic; }
+.pin-stage .arch-count {
+  font-family: var(--sans);
+  font-size: 0.86rem;
+  color: var(--ink-faint);
+  margin-bottom: 0.4rem;
+}
+.pin-stage .arch-progress {
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  color: var(--ink-faint);
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+.pin-stage .arch-progress #pin-idx {
+  font-size: 1.6rem;
+  color: var(--ink);
+  letter-spacing: 0;
+}
+.pin-stage .arch-progress .of { color: var(--ink-faint); }
+
+/* ───────────────── decade rank ───────────────── */
+.decade-rank {
+  position: relative;
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 2rem var(--gutter);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.decade-rank-header { flex: 0 0 auto; margin-bottom: 1.25rem; }
+.decade-rank .eyebrow { margin-bottom: 0.8rem; }
+.decade-rank-title {
+  font-size: clamp(2.4rem, 4.6vw, 4rem);
+  font-weight: 300;
+  font-variation-settings: "opsz" 144, "SOFT" 25;
+  line-height: 0.95;
+  margin: 0 0 1rem;
+}
+.decade-rank-title em { color: var(--amber); font-style: italic; }
+.decade-rank-sub {
+  max-width: 105ch;
+  font-size: 1.05rem;
+  color: var(--ink-dim);
+  line-height: 1.5;
+  margin: 0 0 1.4rem;
+}
+.decade-rank-chart {
+  position: relative;
+  width: 100%;
+  flex: 1 1 auto;
+  min-height: 76vh;
+}
+.decade-rank-svg { width: 100%; height: 100%; display: block; overflow: visible; }
+.decade-rank-tooltip {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: var(--bg);
+  border: 1px solid var(--rule);
+  padding: 0.7rem 0.9rem;
+  font-family: var(--sans);
+  font-size: 0.84rem;
+  color: var(--ink);
+  pointer-events: none;
+  z-index: 6;
+  max-width: 240px;
+  line-height: 1.4;
+  opacity: 0;
+  transition: opacity 120ms ease-out;
+}
+.decade-rank-tooltip.is-visible { opacity: 1; }
+.decade-rank-tooltip strong { font-weight: 500; color: var(--ink); }
+.decade-rank-tooltip .films {
+  display: block;
+  margin-top: 0.4rem;
+  color: var(--ink-dim);
+  font-style: italic;
+}
+.decade-rank-tooltip .delta {
+  display: block;
+  margin-top: 0.3rem;
+  color: var(--ink-dim);
+  font-size: 0.78rem;
+  letter-spacing: 0.02em;
 }
 
 /* ───────────────── explorer ───────────────── */
 .explorer {
   max-width: var(--max);
   margin: 0 auto;
-  padding: 8rem var(--gutter);
+  padding: 6rem var(--gutter);
 }
-.explorer-head { max-width: 58ch; margin-bottom: 3rem; }
-.explorer-head p { max-width: 58ch; color: var(--ink-dim); }
+/* Two-column header band: copy on the left, search + filters + toggle on the
+   right filling the empty half of the row. The 24-film grid spans full width
+   below it. */
+.explorer-top {
+  display: grid;
+  grid-template-columns: minmax(0, 1.5fr) minmax(280px, 0.9fr);
+  gap: 4rem;
+  align-items: end;
+  margin-bottom: 3.5rem;
+}
+.explorer-head { max-width: 56ch; }
+.explorer-head .eyebrow { margin-bottom: 1.2rem; }
+.explorer-head h2 {
+  font-size: clamp(2.6rem, 6vw, 5rem);
+  font-weight: 300;
+  font-variation-settings: "opsz" 144, "SOFT" 25;
+  line-height: 0.98;
+  margin: 0 0 1.4rem;
+  max-width: 14ch;
+}
+.explorer-head h2 em { color: var(--amber); font-style: italic; }
+.explorer-intro {
+  max-width: 52ch;
+  font-size: 1.05rem;
+  color: var(--ink-dim);
+  line-height: 1.55;
+}
+/* Controls live in the right column of .explorer-top — stacked vertically
+   so the search bar takes the full column width and the filters/toggle sit
+   neatly under it. */
+.explorer-controls {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 1rem;
+  margin-bottom: 0;
+}
+.search { position: relative; width: 100%; max-width: none; }
+.search input { width: 100%; }
+.search input {
+  width: 100%;
+  padding: 0.7rem 1rem;
+  font-family: var(--serif-body);
+  font-size: 1rem;
+  background: var(--bg-raise);
+  color: var(--ink);
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  outline: none;
+  transition: border-color 150ms;
+}
+.search input:focus { border-color: var(--amber); }
+.search-results {
+  position: absolute;
+  top: 100%; left: 0; right: 0;
+  margin: 0; padding: 0.3rem 0;
+  list-style: none;
+  background: var(--bg);
+  border: 1px solid var(--rule);
+  max-height: 280px;
+  overflow-y: auto;
+  z-index: 5;
+}
+.search-results li {
+  padding: 0.5rem 1rem;
+  font-family: var(--serif-display);
+  font-size: 0.95rem;
+  cursor: pointer;
+  font-variation-settings: "opsz" 24, "SOFT" 30;
+}
+.search-results li:hover, .search-results li.is-focus { background: var(--bg-raise); color: var(--amber); }
+.search-results li .year { font-family: var(--mono); font-size: 0.7rem; color: var(--ink-faint); margin-left: 0.6rem; }
+
+.filters { display: flex; gap: 0.5rem; }
+.filter-tile {
+  font-family: var(--sans);
+  font-size: 0.74rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  background: transparent;
+  color: var(--ink-dim);
+  border: 1px solid var(--rule);
+  padding: 0.7rem 1rem;
+  cursor: pointer;
+  transition: all 150ms;
+}
+.filter-tile:hover { color: var(--ink); }
+.filter-tile.is-active { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+
+/* turning-points toggle (replaces emo-axis) */
+.turn-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.7rem;
+  cursor: pointer;
+  user-select: none;
+}
+.turn-toggle input { position: absolute; opacity: 0; pointer-events: none; }
+.turn-toggle-track {
+  width: 36px;
+  height: 20px;
+  border: 1px solid var(--rule);
+  background: var(--bg-raise);
+  border-radius: 999px;
+  position: relative;
+  transition: background 200ms, border-color 200ms;
+}
+.turn-toggle-track::before {
+  content: "";
+  position: absolute;
+  width: 14px; height: 14px;
+  background: var(--ink-dim);
+  border-radius: 50%;
+  top: 2px; left: 2px;
+  transition: transform 200ms, background 200ms;
+}
+.turn-toggle input:checked + .turn-toggle-track {
+  background: var(--amber);
+  border-color: var(--amber);
+}
+.turn-toggle input:checked + .turn-toggle-track::before {
+  transform: translateX(16px);
+  background: var(--bg);
+}
+.turn-toggle-label {
+  font-family: var(--sans);
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-dim);
+}
+.turn-toggle:hover .turn-toggle-label { color: var(--ink); }
+
 .explorer-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
@@ -309,7 +923,7 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
   line-height: 1.25;
 }
 .film-cell:hover { background: var(--bg-raise); color: var(--amber-soft); }
-.film-cell.is-active { background: var(--amber); color: #fff8e7; }
+.film-cell.is-active { background: var(--ink); color: var(--bg); }
 .film-cell .year {
   display: block;
   font-family: var(--mono);
@@ -318,11 +932,12 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
   margin-top: 0.35rem;
   letter-spacing: 0.05em;
 }
-.film-cell.is-active .year { color: rgba(255,248,231,0.75); }
+.film-cell.is-active .year { color: rgba(238, 240, 231, 0.7); }
+.film-cell.is-hidden { display: none; }
 
 .explorer-stage {
   display: grid;
-  grid-template-columns: 1fr 280px;
+  grid-template-columns: 1fr 320px;
   gap: 3rem;
   min-height: 460px;
   align-items: center;
@@ -338,49 +953,213 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
 .stage-title {
   font-family: var(--serif-display);
   font-variation-settings: "opsz" 72, "SOFT" 30;
-  font-size: 1.6rem;
+  font-size: 1.7rem;
   color: var(--ink);
   margin-bottom: 0.25rem;
 }
 .stage-sub {
   font-family: var(--mono);
   font-size: 0.72rem;
-  color: var(--ink-faint);
+  color: var(--ink-dim);
   letter-spacing: 0.08em;
   text-transform: uppercase;
   margin-bottom: 1.5rem;
 }
 .stage-blob {
   font-family: var(--serif-body);
-  font-size: 0.95rem;
-  color: var(--ink-dim);
+  font-size: 0.98rem;
+  color: var(--ink);
   border-left: 2px solid var(--amber);
   padding: 0.5rem 0 0.5rem 1rem;
   min-height: 4em;
+}
+.stage-blob em { color: var(--ink-dim); font-style: italic; }
+.stage-blob .note {
+  display: block;
+  margin-top: 0.4rem;
   font-style: italic;
+  color: var(--ink-dim);
 }
 
-/* ───────────────── outro ───────────────── */
-.outro {
+/* ───────────────── methodology drawer (optional, click to open) ───────────────── */
+.meth-drawer {
+  position: fixed;
+  top: 0; right: 0;
+  height: 100vh;
+  width: min(720px, 100vw);
+  background: var(--bg);
+  border-left: 1px solid var(--rule);
+  z-index: 200;
+  transform: translateX(100%);
+  transition: transform 380ms cubic-bezier(.4,.1,.2,1);
+  overflow-y: auto;
+  padding: 5rem 4rem;
+  box-shadow: -20px 0 40px rgba(22,25,30,0.04);
+}
+.meth-drawer.is-open { transform: translateX(0); }
+.meth-drawer .meth-close {
+  position: absolute;
+  top: 1.4rem; right: 1.6rem;
+  background: transparent;
+  border: 0;
+  font-size: 2rem;
+  line-height: 1;
+  color: var(--ink-dim);
+  cursor: pointer;
+  padding: 0.3rem 0.6rem;
+}
+.meth-drawer .meth-close:hover { color: var(--ink); }
+.meth-inner h2 {
+  font-size: clamp(2rem, 4vw, 3rem);
+  max-width: 18ch;
+  margin-bottom: 2.5rem;
+}
+.meth-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 2rem 2.5rem;
+}
+.meth-block { max-width: 38ch; }
+.meth-block h4 {
+  font-family: var(--mono);
+  font-size: 0.74rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--amber);
+  margin-bottom: 0.6rem;
+}
+.meth-block p { color: var(--ink-dim); font-size: 0.95rem; }
+.meth-scrim {
+  position: fixed;
+  inset: 0;
+  background: rgba(22,25,30,0.32);
+  z-index: 199;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 320ms ease;
+}
+.meth-scrim.is-open { opacity: 1; pointer-events: auto; }
+
+.closing .meth-link { margin: 2rem 0 4rem; }
+.closing .meth-link a {
+  font-family: var(--sans);
+  font-size: 0.84rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-dim);
+  text-decoration: none;
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 0.2rem;
+  transition: color 200ms;
+}
+.closing .meth-link a:hover { color: var(--amber); }
+
+/* ───────────────── closing ───────────────── */
+.closing {
   max-width: var(--max);
   margin: 0 auto;
-  padding: 8rem var(--gutter) 10rem;
-  border-top: 1px solid var(--rule);
+  padding: 12rem var(--gutter) 8rem;
+  text-align: left;
 }
-.outro p { max-width: 56ch; color: var(--ink-dim); }
+.closing-title {
+  font-size: clamp(3rem, 9vw, 8rem);
+  font-weight: 300;
+  font-variation-settings: "opsz" 144, "SOFT" 25;
+  line-height: 0.95;
+  margin: 0 0 1.5rem;
+}
+.closing-title em { color: var(--amber); font-style: italic; }
+.closing-line {
+  font-family: var(--serif-display);
+  font-variation-settings: "opsz" 60, "SOFT" 60;
+  font-style: italic;
+  font-size: clamp(1.4rem, 3vw, 2.2rem);
+  color: var(--ink-dim);
+  max-width: none;
+  margin-bottom: 5rem;
+}
 .colophon {
   font-family: var(--mono);
   font-size: 0.72rem;
   color: var(--ink-faint);
   line-height: 1.7;
-  margin-top: 3rem;
   max-width: 80ch;
 }
 
+/* ───────────────── shared SVG type ───────────────── */
+svg text.axis-end {
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  fill: var(--ink-dim);
+}
+svg .axis-y-side {
+  font-family: "JetBrains Mono", ui-monospace, monospace;
+  font-size: 10px;
+  letter-spacing: 0.18em;
+  fill: var(--ink-faint);
+  text-transform: uppercase;
+}
+
+/* ───────────────── essay section ───────────────── */
+.essay {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 6rem var(--gutter) 8rem;
+}
+.essay-inner {
+  max-width: 64ch;
+  margin: 0 auto;
+}
+.essay-lede {
+  font-family: var(--serif-display);
+  font-variation-settings: "opsz" 36, "SOFT" 30;
+  font-size: clamp(1.4rem, 2.3vw, 2rem);
+  line-height: 1.35;
+  color: var(--ink);
+  margin: 0 0 2.5rem;
+  max-width: none;
+}
+.essay p {
+  font-size: 1.15rem;
+  line-height: 1.7;
+  color: var(--ink);
+  margin: 0 0 1.4em;
+  max-width: none;
+}
+.essay .essay-h3 {
+  font-family: var(--serif-display);
+  font-variation-settings: "opsz" 48, "SOFT" 60;
+  font-style: italic;
+  font-size: 1.4rem;
+  font-weight: 400;
+  color: var(--amber);
+  margin: 2.5rem 0 0.8rem;
+}
+.essay .essay-close {
+  margin-top: 2.5rem;
+  font-family: var(--serif-display);
+  font-variation-settings: "opsz" 36, "SOFT" 30;
+  font-size: 1.15rem;
+}
+.essay .essay-close em { color: var(--amber); font-style: italic; }
+
 /* ───────────────── responsive ───────────────── */
 @media (max-width: 900px) {
-  .scrolly, .stationary, .explorer-stage { grid-template-columns: 1fr; }
-  .sticky { position: relative; height: 60vh; }
-  .step { min-height: 60vh; }
-  .era-text { position: relative; top: 0; }
+  .explorer-stage, .explorer-top {
+    grid-template-columns: 1fr;
+  }
+  .explorer-top { gap: 2rem; }
+  .von-row { flex-direction: column; align-items: stretch; gap: 2rem; }
+  .von-portrait { max-width: 320px; flex: 0 1 auto; }
+  .intro-pin { height: 360vh; }
+  .intro-beat[data-beat="1"] { left: var(--gutter); right: auto; text-align: left; top: 30vh; }
+  .cluster-board { min-height: 320px; }
+  .archetypes-pin { height: 600vh; }
+  .intermission-title { font-size: clamp(2.2rem, 9vw, 4rem); }
+  .meth-drawer { padding: 4rem 1.5rem; }
 }
+
+/* SplitText reveal helper — hide split lines/words/chars before GSAP animates them in */
+.split-mask { overflow: hidden; }
+.split-line, .split-word { display: inline-block; }
