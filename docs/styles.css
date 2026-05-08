@@ -38,6 +38,10 @@ body {
   overflow-x: hidden;
 }
 em { font-style: italic; color: var(--amber-soft); font-weight: 500; }
+/* Bold for inline UI instructions ("hover X", "click Y", "toggle Z").
+   Source Serif 4 supports a full weight axis — 700 reads as a clear
+   directive without shouting. Inherits color from surrounding copy. */
+strong { font-weight: 700; color: inherit; }
 .num, .mono { font-family: var(--mono); font-variant-numeric: tabular-nums; color: var(--amber); }
 
 h1, h2, h3, h4 {
@@ -283,6 +287,11 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
   flex: 0 1 440px;       /* content-sized; can shrink, doesn't grow */
   max-width: 440px;
 }
+.von-media {
+  position: relative;
+  width: 100%;
+  cursor: pointer;
+}
 .von-portrait img {
   display: block;
   width: 100%;
@@ -290,6 +299,17 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
   background: var(--bg-raise);
   filter: grayscale(0.15) contrast(1.02);
 }
+.von-media .von-video {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 320ms ease-out;
+}
+.von-media.is-playing .von-video { opacity: 1; }
 .von-portrait img.missing {
   aspect-ratio: 4 / 3;
   background: repeating-linear-gradient(45deg, var(--bg-raise), var(--bg-raise) 6px, var(--bg-deep) 6px, var(--bg-deep) 12px);
@@ -390,6 +410,57 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
 
 .intro-beat[data-beat="2"] { left: var(--gutter); bottom: 12vh; }
 
+/* Editorial progress bar — sits below the chart. Hairline rail, amber fill
+   traces left→right, small diamond marker rides the leading edge. No labels
+   — the bar reads as a quiet story-runner, not a UI control. */
+.intro-progress {
+  position: absolute;
+  left: var(--gutter);
+  right: var(--gutter);
+  bottom: 1.6rem;
+  height: 18px;
+  pointer-events: none;
+  z-index: 3;
+  display: flex;
+  align-items: center;
+}
+.intro-progress-rail {
+  position: relative;
+  flex: 1 1 auto;
+  height: 18px;
+  display: flex;
+  align-items: center;
+}
+.intro-progress-rail::before {
+  content: "";
+  position: absolute;
+  left: 0; right: 0;
+  height: 1px;
+  background: var(--rule-soft);
+}
+.intro-progress-fill {
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: var(--amber);
+  /* GPU-composited scaleX (no layout/paint per frame). The scrub itself
+     smooths the underlying progress; an extra CSS transition on top would
+     fight it and read as lag. */
+  transform: scaleX(0);
+  transform-origin: left center;
+  will-change: transform;
+}
+.intro-progress-marker {
+  position: absolute;
+  left: 0;
+  width: 8px;
+  height: 8px;
+  background: var(--amber);
+  transform: translate(-50%, 0) rotate(45deg);
+  will-change: left;
+}
+
 /* ───────────────── intermission ───────────────── */
 .intermission {
   min-height: 100vh;
@@ -427,11 +498,12 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
   max-width: 52ch;
   line-height: 1.5;
 }
-/* Longer intermission sub paragraphs (archetypes and archpin-prelude) widen
-   to match vonnegut-2's body width so they don't read as narrow columns. */
+/* Longer intermission sub paragraphs (archetypes, archpin-prelude, and the
+   "across time" weights prelude) widen to match vonnegut-2's body width so
+   they don't read as narrow columns. */
 .intermission[data-intermission="archetypes"] .intermission-sub,
 .intermission[data-intermission="archpin-prelude"] .intermission-sub,
-.intermission[data-intermission="decade-rank"] .intermission-sub {
+.intermission[data-intermission="weights-prelude"] .intermission-sub {
   max-width: 80ch;
 }
 /* Warm-up sub — short sentence that should fit on 2 lines, slightly wider
@@ -544,6 +616,18 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
   padding: 2.4rem 2.2rem;
   color: rgba(255, 255, 255, 0.96);
 }
+.flip-back .arch-icon {
+  position: absolute;
+  top: 1.6rem;
+  right: 1.6rem;
+  width: clamp(52px, 6vw, 80px);
+  height: auto;
+  /* Hand-drawn pen lines on a colored card — invert so the ink renders
+     as paper-color over the archetype's tile. */
+  filter: brightness(0) invert(1);
+  opacity: 0.92;
+  pointer-events: none;
+}
 .flip-back .arch-name {
   font-family: "Fraunces", serif;
   font-size: clamp(1.6rem, 2.4vw, 2.4rem);
@@ -596,7 +680,7 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
   width: 100%;
   /* Soft fade-to-bg so the caption stays readable over the chart that now
      fills the full viewport. Sits behind the text, not over the chart edges. */
-  background: linear-gradient(to top, rgba(238,240,231,0.82) 0%, rgba(238,240,231,0.6) 60%, rgba(238,240,231,0) 100%);
+  background: linear-gradient(to top, rgba(238,240,231,0.88) 0%, rgba(238,240,231,0.7) 55%, rgba(238,240,231,0) 100%);
 }
 /* Shape index (X of 6) lifted to the top-left corner — sits where POSITIVE
    used to be on the left axis, freeing the lower-left text block from
@@ -671,11 +755,23 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
 .pin-stage #pin-blurb {
   max-width: 60ch;
   font-size: 1.02rem;
-  color: var(--ink-dim);
+  color: var(--ink);
   line-height: 1.5;
   margin-bottom: 1rem;
 }
-.pin-stage #pin-blurb em { color: var(--archetype-color, var(--ink)); font-style: italic; }
+.pin-stage #pin-blurb em {
+  color: var(--archetype-color, var(--ink));
+  font-style: italic;
+  cursor: pointer;
+  /* .pin-meta sets pointer-events:none so hover passes through to the chart;
+     re-enable specifically on the canonical-film names so they can light
+     up the matching closest-15 line. */
+  pointer-events: auto;
+  transition: color 160ms ease, text-shadow 160ms ease;
+}
+.pin-stage #pin-blurb em.is-film-hover {
+  text-shadow: 0 0 0.01em currentColor;
+}
 .pin-stage .arch-count {
   font-family: var(--sans);
   font-size: 0.86rem;
@@ -696,42 +792,49 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
 }
 .pin-stage .arch-progress .of { color: var(--ink-faint); }
 
-/* ───────────────── decade rank ───────────────── */
-.decade-rank {
+/* ───────────────── weights over time (six shapes, five decades) ───────────────── */
+/* Establishes the "shapes haven't moved" finding before the essay-prelude
+   intermission. Six near-parallel lines, one per archetype, holding their
+   band across forty years. */
+.weights-time {
   position: relative;
   max-width: var(--max);
   margin: 0 auto;
-  padding: 2rem var(--gutter);
+  padding: 4rem var(--gutter) 2rem;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   box-sizing: border-box;
 }
-.decade-rank-header { flex: 0 0 auto; margin-bottom: 1.25rem; }
-.decade-rank .eyebrow { margin-bottom: 0.8rem; }
-.decade-rank-title {
+.weights-time-header { flex: 0 0 auto; margin-bottom: 1.25rem; }
+.weights-time .eyebrow { margin-bottom: 0.8rem; }
+.weights-time-title {
   font-size: clamp(2.4rem, 4.6vw, 4rem);
   font-weight: 300;
   font-variation-settings: "opsz" 144, "SOFT" 25;
   line-height: 0.95;
   margin: 0 0 1rem;
 }
-.decade-rank-title em { color: var(--amber); font-style: italic; }
-.decade-rank-sub {
+.weights-time-title em { color: var(--amber); font-style: italic; }
+.weights-time-sub {
   max-width: 105ch;
   font-size: 1.05rem;
   color: var(--ink-dim);
   line-height: 1.5;
   margin: 0 0 1.4rem;
 }
-.decade-rank-chart {
+.weights-time-chart {
   position: relative;
   width: 100%;
   flex: 1 1 auto;
-  min-height: 76vh;
+  min-height: 360px;
 }
-.decade-rank-svg { width: 100%; height: 100%; display: block; overflow: visible; }
-.decade-rank-tooltip {
+.weights-time-svg { width: 100%; height: 100%; display: block; overflow: visible; }
+
+/* Hover tooltip — mirrors the dialogue-density tooltip styling so the two
+   read as the same family. Used both for archetype-name hover (renders the
+   mini arc preview) and for cluster hover (rotates film titles). */
+.weights-time-tooltip {
   position: absolute;
   top: 0;
   left: 0;
@@ -743,63 +846,318 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
   color: var(--ink);
   pointer-events: none;
   z-index: 6;
-  max-width: 240px;
-  line-height: 1.4;
+  max-width: 290px;
+  line-height: 1.45;
   opacity: 0;
   transition: opacity 120ms ease-out;
 }
-.decade-rank-tooltip.is-visible { opacity: 1; }
-.decade-rank-tooltip strong { font-weight: 500; color: var(--ink); }
-.decade-rank-tooltip .films {
+.weights-time-tooltip.is-visible { opacity: 1; }
+.weights-time-tooltip strong {
+  display: block;
+  font-family: var(--sans);
+  font-weight: 500;
+  font-size: 0.92rem;
+  color: var(--ink);
+  margin-bottom: 0.2rem;
+}
+.weights-time-tooltip .stat {
+  display: block;
+  margin-top: 0.35rem;
+  color: var(--ink-dim);
+  font-size: 0.8rem;
+}
+.weights-time-tooltip .stat .num {
+  color: var(--amber);
+  font-family: var(--mono);
+  font-variant-numeric: tabular-nums;
+}
+.weights-time-tooltip .titles {
+  display: block;
+  margin-top: 0.45rem;
+  color: var(--ink-dim);
+  font-size: 0.8rem;
+  line-height: 1.5;
+}
+.weights-time-tooltip .titles em {
+  color: var(--ink-dim);
+  font-family: var(--serif-body);
+  font-style: italic;
+  font-size: 0.92rem;
+  display: block;
+}
+.weights-time-tooltip svg.arc-preview {
+  display: block;
+  width: 150px;
+  height: 80px;
+}
+.weights-time-tooltip .arc-shape {
+  display: block;
+  margin-top: 0.35rem;
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.14em;
+  color: var(--ink-faint);
+  text-transform: uppercase;
+}
+
+/* ───────────────── dialogue density (per-genre IQR + climb) ───────────────── */
+/* First "why do films feel different?" reason. Header band on top, full-width
+   chart below. The section locks to exactly one viewport and lets the chart
+   shrink against the remaining budget rather than enforcing a tall min-height
+   that would push the axis out of view. */
+.dialogue-density {
+  position: relative;
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 2rem var(--gutter);
+  min-height: 100vh;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.dialogue-density-header { flex: 0 0 auto; margin-bottom: 1.25rem; }
+.dialogue-density .eyebrow { margin-bottom: 0.8rem; }
+.dialogue-density-title {
+  font-size: clamp(2.4rem, 4.6vw, 4rem);
+  font-weight: 300;
+  font-variation-settings: "opsz" 144, "SOFT" 25;
+  line-height: 0.95;
+  margin: 0 0 1rem;
+}
+.dialogue-density-title em { color: var(--amber); font-style: italic; }
+.dialogue-density-sub {
+  max-width: 105ch;
+  font-size: 1.05rem;
+  color: var(--ink-dim);
+  line-height: 1.5;
+  margin: 0 0 1.4rem;
+}
+/* Movie names in the body copy stay italic but inherit the surrounding
+   ink-dim color — no amber accent, since they aren't an editorial em. */
+.dialogue-density-sub em {
+  color: inherit;
+  font-weight: inherit;
+}
+.dialogue-density-chart {
+  position: relative;
+  width: 100%;
+  flex: 1 1 0;          /* shrink/grow against the locked section height */
+  min-height: 0;
+  /* Use the available space — the section is locked to one viewport, so
+     the chart should fill whatever's left after the header copy. */
+  max-height: 56vh;
+}
+.dialogue-density-svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+  overflow: visible;
+}
+/* Hover tooltip — editorial styling, sans-serif body copy on a faint border. */
+.dialogue-density-tooltip {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: var(--bg);
+  border: 1px solid var(--rule);
+  padding: 0.7rem 0.9rem;
+  font-family: var(--sans);
+  font-size: 0.84rem;
+  color: var(--ink);
+  pointer-events: none;
+  z-index: 6;
+  max-width: 260px;
+  line-height: 1.45;
+  opacity: 0;
+  transition: opacity 120ms ease-out;
+}
+.dialogue-density-tooltip.is-visible { opacity: 1; }
+.dialogue-density-tooltip strong {
+  display: block;
+  font-family: var(--sans);
+  font-weight: 500;
+  font-size: 0.92rem;
+  color: var(--ink);
+  margin-bottom: 0.2rem;
+}
+.dialogue-density-tooltip .stat {
+  display: block;
+  margin-top: 0.35rem;
+  color: var(--ink-dim);
+  font-size: 0.8rem;
+}
+.dialogue-density-tooltip .stat .num {
+  color: var(--amber);
+  font-family: var(--mono);
+  font-variant-numeric: tabular-nums;
+}
+.dialogue-density-tooltip .delta {
   display: block;
   margin-top: 0.4rem;
   color: var(--ink-dim);
-  font-style: italic;
-}
-.decade-rank-tooltip .delta {
-  display: block;
-  margin-top: 0.3rem;
-  color: var(--ink-dim);
   font-size: 0.78rem;
   letter-spacing: 0.02em;
+}
+
+/* ───────────────── shape shift (second reason: barcode of films per archetype) ───────────────── */
+/* Two horizontal tick strips share a year axis. Top strip: every R2R film
+   plotted at its year as a gold vertical tick. Bottom strip: same for
+   Icarus films in red. The visual story is the density shift across the
+   year axis — gold is dense early and sparse late, red is the opposite. */
+.shape-shift {
+  position: relative;
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 3rem var(--gutter) 2rem;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.shape-shift-header { flex: 0 0 auto; margin-bottom: 0.4rem; }
+.shape-shift .eyebrow { margin-bottom: 0.8rem; }
+.shape-shift-title {
+  font-size: clamp(2.4rem, 4.6vw, 4rem);
+  font-weight: 300;
+  font-variation-settings: "opsz" 144, "SOFT" 25;
+  line-height: 0.95;
+  margin: 0 0 1rem;
+}
+.shape-shift-title em { color: var(--amber); font-style: italic; }
+.shape-shift-sub {
+  max-width: 105ch;
+  font-size: 1.05rem;
+  color: var(--ink-dim);
+  line-height: 1.5;
+  margin: 0 0 1.4rem;
+}
+.shape-shift-sub em {
+  color: inherit;
+  font-weight: inherit;
+}
+.shape-shift-chart {
+  position: relative;
+  width: 100%;
+  flex: 1 1 auto;
+  min-height: 360px;
+  max-height: 70vh;
+}
+.shape-shift-svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+  overflow: visible;
+}
+.shape-shift-tooltip {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: var(--bg);
+  border: 1px solid var(--rule);
+  padding: 0.7rem 0.9rem;
+  font-family: var(--sans);
+  font-size: 0.84rem;
+  color: var(--ink);
+  pointer-events: none;
+  z-index: 6;
+  max-width: 280px;
+  line-height: 1.45;
+  opacity: 0;
+  transition: opacity 120ms ease-out;
+}
+.shape-shift-tooltip.is-visible { opacity: 1; }
+.shape-shift-tooltip strong {
+  display: block;
+  font-family: var(--sans);
+  font-weight: 500;
+  font-size: 0.92rem;
+  color: var(--ink);
+  margin-bottom: 0.2rem;
+}
+.shape-shift-tooltip .shape {
+  display: block;
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.18em;
+  color: var(--ink-faint);
+  text-transform: uppercase;
+  margin-bottom: 0.45rem;
+}
+.shape-shift-tooltip .stat {
+  display: block;
+  margin-top: 0.35rem;
+  color: var(--ink-dim);
+  font-size: 0.8rem;
+}
+.shape-shift-tooltip .stat .num {
+  color: var(--amber);
+  font-family: var(--mono);
+  font-variant-numeric: tabular-nums;
+}
+.shape-shift-tooltip .titles {
+  display: block;
+  margin-top: 0.55rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid var(--rule);
+}
+.shape-shift-tooltip .titles em {
+  display: block;
+  color: var(--ink-dim);
+  font-family: var(--serif-body);
+  font-style: italic;
+  font-size: 0.88rem;
+  line-height: 1.45;
+}
+.shape-shift-tooltip .hint {
+  display: block;
+  margin-top: 0.55rem;
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--amber);
 }
 
 /* ───────────────── explorer ───────────────── */
 .explorer {
   max-width: var(--max);
   margin: 0 auto;
-  padding: 6rem var(--gutter);
+  padding: 4rem var(--gutter) 3rem;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
 }
-/* Two-column header band: copy on the left, search + filters + toggle on the
-   right filling the empty half of the row. The 24-film grid spans full width
-   below it. */
+/* Two-column header band: copy on the left, search + toggle on the right
+   filling the empty half of the row. The curated grid spans full width
+   below it; the chart stage sits beneath that. */
 .explorer-top {
   display: grid;
   grid-template-columns: minmax(0, 1.5fr) minmax(280px, 0.9fr);
   gap: 4rem;
   align-items: end;
-  margin-bottom: 3.5rem;
+  margin-bottom: 1.8rem;
 }
-.explorer-head { max-width: 56ch; }
-.explorer-head .eyebrow { margin-bottom: 1.2rem; }
+.explorer-head { max-width: 64ch; }
+.explorer-head .eyebrow { margin-bottom: 0.8rem; }
 .explorer-head h2 {
-  font-size: clamp(2.6rem, 6vw, 5rem);
+  font-size: clamp(2.2rem, 4.6vw, 3.6rem);
   font-weight: 300;
   font-variation-settings: "opsz" 144, "SOFT" 25;
-  line-height: 0.98;
-  margin: 0 0 1.4rem;
-  max-width: 14ch;
+  line-height: 1;
+  margin: 0 0 1rem;
+  white-space: nowrap;       /* keep "Pick one. Watch its pulse." on one line */
 }
 .explorer-head h2 em { color: var(--amber); font-style: italic; }
 .explorer-intro {
-  max-width: 52ch;
-  font-size: 1.05rem;
+  max-width: 60ch;
+  font-size: 0.95rem;
   color: var(--ink-dim);
-  line-height: 1.55;
+  line-height: 1.5;
 }
-/* Controls live in the right column of .explorer-top — stacked vertically
-   so the search bar takes the full column width and the filters/toggle sit
-   neatly under it. */
+/* Controls live in the right column of .explorer-top — search bar on top,
+   turn-toggle directly below it. */
 .explorer-controls {
   display: flex;
   flex-direction: column;
@@ -807,8 +1165,7 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
   gap: 1rem;
   margin-bottom: 0;
 }
-.search { position: relative; width: 100%; max-width: none; }
-.search input { width: 100%; }
+.search { position: relative; width: 100%; }
 .search input {
   width: 100%;
   padding: 0.7rem 1rem;
@@ -843,21 +1200,27 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
 .search-results li:hover, .search-results li.is-focus { background: var(--bg-raise); color: var(--amber); }
 .search-results li .year { font-family: var(--mono); font-size: 0.7rem; color: var(--ink-faint); margin-left: 0.6rem; }
 
-.filters { display: flex; gap: 0.5rem; }
-.filter-tile {
+/* Shuffle + turn-toggle live in a horizontal row beneath the search bar. */
+.explorer-actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+.explorer-shuffle {
+  background: transparent;
+  border: 1px solid var(--rule);
+  color: var(--ink-dim);
   font-family: var(--sans);
   font-size: 0.74rem;
-  letter-spacing: 0.12em;
+  letter-spacing: 0.16em;
   text-transform: uppercase;
-  background: transparent;
-  color: var(--ink-dim);
-  border: 1px solid var(--rule);
-  padding: 0.7rem 1rem;
+  padding: 0.6rem 1rem;
   cursor: pointer;
-  transition: all 150ms;
+  transition: color 200ms, border-color 200ms;
 }
-.filter-tile:hover { color: var(--ink); }
-.filter-tile.is-active { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.explorer-shuffle:hover { color: var(--amber); border-color: var(--amber); }
+.explorer-shuffle span { margin-right: 0.4em; }
 
 /* turning-points toggle (replaces emo-axis) */
 .turn-toggle {
@@ -905,22 +1268,22 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
 
 .explorer-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
   gap: 0;
   border-top: 1px solid var(--rule);
   border-left: 1px solid var(--rule);
-  margin-bottom: 4rem;
+  margin-bottom: 1.8rem;
 }
 .film-cell {
-  padding: 1.1rem 1rem;
+  padding: 0.7rem 0.85rem;
   border-right: 1px solid var(--rule);
   border-bottom: 1px solid var(--rule);
   cursor: pointer;
   transition: background 200ms;
   font-family: var(--serif-display);
   font-variation-settings: "opsz" 24, "SOFT" 30;
-  font-size: 0.98rem;
-  line-height: 1.25;
+  font-size: 0.88rem;
+  line-height: 1.2;
 }
 .film-cell:hover { background: var(--bg-raise); color: var(--amber-soft); }
 .film-cell.is-active { background: var(--ink); color: var(--bg); }
@@ -937,14 +1300,16 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
 
 .explorer-stage {
   display: grid;
-  grid-template-columns: 1fr 320px;
-  gap: 3rem;
-  min-height: 460px;
-  align-items: center;
+  grid-template-columns: 1fr 300px;
+  gap: 2.5rem;
+  align-items: stretch;
+  flex: 1 1 auto;
+  min-height: 0;
 }
 .explorer-svg {
   width: 100%;
-  height: 460px;
+  height: 100%;
+  min-height: 280px;
   display: block;
   background: var(--bg-raise);
   border: 1px solid var(--rule);

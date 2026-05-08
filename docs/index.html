@@ -35,7 +35,10 @@
 <section class="vonnegut-1" id="intro">
   <div class="von-row">
     <figure class="von-portrait">
-      <img src="vonnegut.png" alt="Kurt Vonnegut at the chalkboard, 2004" onerror="this.classList.add('missing')" />
+      <div class="von-media">
+        <img src="vonnegut.png" alt="Kurt Vonnegut at the chalkboard, 2004" onerror="this.classList.add('missing')" />
+        <video class="von-video" src="vonnegut.mp4" poster="vonnegut.png" muted loop playsinline preload="auto" aria-hidden="true"></video>
+      </div>
       <figcaption>
         The protagonist moves between good fortune (G) and ill fortune (I) from the beginning (B) to the end (E) of a story. The different arcs represent different stories.
       </figcaption>
@@ -49,7 +52,7 @@
         Every story ever written, he said, has a shape. We follow a character moving between good fortune and ill fortune, from the beginning to the end of a story.
       </p>
       <p>
-        He named a few of these shapes and drew them on chalkboards in lecture halls across the US. The 2004 version is one of the few that survived <a href="https://www.youtube.com/watch?v=4ec0lSd7qH4" target="_blank" rel="noopener">on tape</a>.
+        He named a few of these shapes and drew them on chalkboards in lecture halls across the US. The 2004 version is one of the few that survived <a href="https://www.youtube.com/watch?v=4ec0lSd7qH4" target="_blank" rel="noopener" data-von-trigger>on tape</a>.
       </p>
     </div>
   </div>
@@ -87,9 +90,16 @@
   <div class="intro-stage">
     <svg class="intro-svg"></svg>
 
+    <div class="intro-progress" aria-hidden="true">
+      <div class="intro-progress-rail">
+        <div class="intro-progress-fill"></div>
+        <div class="intro-progress-marker"></div>
+      </div>
+    </div>
+
     <div class="intro-beat" data-beat="0">
       <h3>Highs and lows.</h3>
-      <p>Peaks are <em id="intro-beat-film">…</em>’s emotional highs. Valleys are its emotional lows. Keep scrolling, and hover over either to watch the scene.</p>
+      <p>Peaks are <em id="intro-beat-film">…</em>’s emotional highs. Valleys are its emotional lows. <strong>Keep scrolling to follow the pulse.</strong></p>
     </div>
     <div class="intro-beat" data-beat="1">
       <h3>Watch where it turns.</h3>
@@ -110,9 +120,9 @@
 <!-- ───────────────── CLUSTER OVERVIEW (all 6 at once) ───────────────── -->
 <section class="cluster-overview" id="archetypes">
   <p class="eyebrow">the answer</p>
-  <h2 class="cluster-title">Six&nbsp;shapes.&nbsp;<em>That’s&nbsp;it.</em></h2>
+  <h2 class="cluster-title">Six&nbsp;shapes.&nbsp;That’s&nbsp;it.</h2>
   <p class="cluster-sub">
-    Six shapes came back for <span class="num">1,627</span> screenplays. They line up with the ones Vonnegut drew, give or take.<br>He named them. Click one to see what inspired their name.
+    Six shapes came back for <span class="num">1,627</span> screenplays. They line up with the ones Vonnegut drew, give or take.<br>He named them. <strong>Click one to see what inspired their name.</strong>
   </p>
   <div class="cluster-board">
     <div class="cluster-grid"></div>
@@ -122,7 +132,7 @@
 <!-- ───────────────── CLUSTER → PIN TRANSITION ───────────────── -->
 <section class="intermission" id="prelude-one-at-a-time" data-intermission="archpin-prelude">
   <p class="intermission-eyebrow">one by one</p>
-  <h2 class="intermission-title">Now, let’s look at <em>one shape at a time.</em></h2>
+  <h2 class="intermission-title">Now, let’s look at <em><span class="scramble">one shape at a time.</span></em></h2>
   <p class="intermission-sub">
     The bold line is the average across hundreds of screenplays. The faint lines are the twenty films that hug the average closest. Same shape, different stories.
   </p>
@@ -136,32 +146,34 @@
     <p class="pin-tip-corner" id="pin-tip" hidden></p>
     <div class="pin-meta">
       <h3 id="pin-title">Oedipus</h3>
-      <p class="arch-shape" id="pin-shape">fall · rise · fall</p>
+      <p class="arch-shape" id="pin-shape">fall → rise → fall</p>
       <p id="pin-blurb"></p>
       <p class="arch-count" id="pin-count"></p>
     </div>
   </div>
 </section>
 
-<!-- ───────────────── INTERMISSION ───────────────── -->
-<section class="intermission" id="prelude-decade-rank" data-intermission="decade-rank">
+<!-- ───────────────── INTERMISSION: across time ───────────────── -->
+<section class="intermission" id="prelude-weights" data-intermission="weights-prelude">
   <p class="intermission-eyebrow">across time</p>
-  <h2 class="intermission-title">Have the shapes <em>shifted</em> over the years?</h2>
+  <h2 class="intermission-title">Has Hollywood’s grip on these six shapes <em><span class="scramble">changed?</span></em></h2>
   <p class="intermission-sub">
-    Five decades of film, six shapes ranked by popularity in each one. The lines track each shape’s standing across the years. Watch where they hold and where they cross.
+    Every film leans most on one of the six shapes. Sort all <span class="num">1,627</span> of them by that shape, decade by decade. Has the mix Hollywood reaches for changed?
   </p>
 </section>
 
-<!-- ───────────────── DECADE RANK ───────────────── -->
-<section class="decade-rank" id="decade-rank">
-  <header class="decade-rank-header">
-    <p class="eyebrow">the standings</p>
-    <h2 class="decade-rank-title">The order holds. <em>Until the last decade.</em></h2>
-    <p class="decade-rank-sub">For four straight decades, Man in a Hole sat at the top. Then the 2020s arrived, and Tragedy took over.<br>Stories about climbing out of a hole made way for stories that don’t climb out at all.</p>
+<!-- ───────────────── WEIGHTS OVER TIME ───────────────── -->
+<section class="weights-time" id="weights-time">
+  <header class="weights-time-header">
+    <p class="eyebrow">the steady state</p>
+    <h2 class="weights-time-title">The grip holds.</h2>
+    <p class="weights-time-sub">
+      Every dot is a film, sorted by the shape it leans on most. Some decades have more films than others, but the proportions across shapes barely move. <strong>Hover over an archetype or a decade to compare across the grid.</strong>
+    </p>
   </header>
-  <div class="decade-rank-chart">
-    <svg class="decade-rank-svg"></svg>
-    <div class="decade-rank-tooltip" id="decade-rank-tooltip"></div>
+  <div class="weights-time-chart">
+    <svg class="weights-time-svg"></svg>
+    <div class="weights-time-tooltip" id="weights-time-tooltip"></div>
   </div>
 </section>
 
@@ -172,21 +184,33 @@
   <p class="intermission-sub">Data suggests it could be for a few reasons.</p>
 </section>
 
-<section class="essay" id="essay">
-  <div class="essay-inner">
-    <p class="essay-lede">The feeling is real. It just doesn’t come from where most people would point.</p>
+<!-- ───────────────── DIALOGUE DENSITY (first reason: per-genre dumbbell) ───────────────── -->
+<section class="dialogue-density" id="dialogue-density">
+  <header class="dialogue-density-header">
+    <p class="eyebrow">first reason</p>
+    <h2 class="dialogue-density-title">People talk a lot more now.</h2>
+    <p class="dialogue-density-sub">
+      Horror and thrillers used to leave room for things to happen without anyone talking. Not anymore. By the 2010s, nearly every genre runs on dialogue, catching up to Romance, which was already nearly all talk. The scripts that used to sit at the quiet end like <em>Friday the 13th</em> and <em>Body Heat</em> don’t get written anymore. <strong>Hover for the specifics.</strong>
+    </p>
+  </header>
+  <div class="dialogue-density-chart">
+    <svg class="dialogue-density-svg"></svg>
+    <div class="dialogue-density-tooltip" id="dialogue-density-tooltip"></div>
+  </div>
+</section>
 
-    <p>The deep machinery has held. The median film still contains about ten turning points, and that number sits within a single standard deviation across every decade from the 1980s onward. Closure strength has not moved either: decade means cluster between <span class="num">0.60</span> and <span class="num">0.65</span>, and the share of films ending above their own emotional baseline stays between <span class="num">75</span> and <span class="num">80&nbsp;percent</span> across forty-five years. The big six arc shapes still describe the corpus, and a chi-square test on dominant archetype by era returns <span class="num">p&nbsp;=&nbsp;0.36</span>. By those measures, nothing happened. The count of turns, the shape of the landing, the inventory of available story shapes — all stable.</p>
-
-    <p>The shift sits in two places.</p>
-
-    <h3 class="essay-h3">Emotional gravity.</h3>
-    <p>Films pull harder on Icarus and Tragedy now, and less on Rags to Riches. The redemptive arc loses about a fifth of its average mixture weight across the corpus. Icarus gains roughly an eighth. In the 2020s, Tragedy overtakes Man in a Hole as the largest mixture component for the first time in the dataset. Man in a Hole had led every previous decade. None of these movements would survive a stringent statistical correction on its own. They are modest. But they are directional, they are consistent, and they all point the same way: away from stories that finish in the light, toward stories that peak early or end unresolved.</p>
-
-    <h3 class="essay-h3">Verbal surface.</h3>
-    <p>Dialogue density climbs from <span class="num">88.5%</span> in the 1980s to <span class="num">92.3%</span> in the 2010s, then pulls back slightly in the 2020s. The more interesting move is in the spread, not the median. The 1980s had genuine outliers: scripts that were almost all action description, scripts that were almost all people talking. By the 2010s those outliers are gone. Scripts have become more verbal and more like each other.</p>
-
-    <p class="essay-close">So the answer to <em>why do movies feel different</em> is not that they have more twists, or weirder endings, or a structure unrecognisable to their predecessors. The number of turns is the same. The way stories land is the same. What has shifted is the weight the average film places on darker shapes, and the verbal texture of how stories get told. The shapes did not break. They bent. And the talking flattened out.</p>
+<!-- ───────────────── GENRE SHIFT (second reason: stacked area of genre mix over time) ───────────────── -->
+<section class="shape-shift" id="shape-shift">
+  <header class="shape-shift-header">
+    <p class="eyebrow">second reason</p>
+    <h2 class="shape-shift-title">Things are more dramatic and less forgiving.</h2>
+    <p class="shape-shift-sub">
+      The genre mix has bent toward drama. Comedy has halved. Adventure has nearly vanished. But the bigger story sits inside the genres themselves. In Drama, Rags to Riches has collapsed. In Horror, Icarus has surged. In other words, we’re watching heavier movies now. When things go well, it doesn’t last. When they go badly, our heroes don’t recover.
+    </p>
+  </header>
+  <div class="shape-shift-chart">
+    <svg class="shape-shift-svg"></svg>
+    <div class="shape-shift-tooltip" id="shape-shift-tooltip"></div>
   </div>
 </section>
 
@@ -195,9 +219,9 @@
   <div class="explorer-top">
     <header class="explorer-head">
       <p class="eyebrow">your turn</p>
-      <h2>Pick one. Watch its <em><span class="scramble">pulse</span></em>.</h2>
+      <h2>Pick one. Watch its <em><span class="scramble">pulse.</span></em></h2>
       <p class="explorer-intro">
-        Twenty-four films, curated from the corpus. Click a title to draw its arc. Search across all 1,627 to bring in any film. Toggle the turning points to see the moments where the story changes its mind.
+        <strong>Click any of the curated picks below to draw its arc.</strong> Or <strong>search across all <span class="num">1,627</span> films</strong> to bring in any title from the corpus. <strong>Toggle the turning points</strong> to see the moments where the story changes its mind.
       </p>
     </header>
 
@@ -206,15 +230,16 @@
         <input id="film-search" type="text" placeholder="Search all 1,627 films…" autocomplete="off" />
         <ul id="search-results" class="search-results" hidden></ul>
       </div>
-      <div class="filters">
-        <button class="filter-tile is-active" data-filter="all">All</button>
-        <button class="filter-tile" data-filter="directors">Directors only</button>
+      <div class="explorer-actions">
+        <button class="explorer-shuffle" id="explorer-shuffle" type="button" title="Pick a random film">
+          <span aria-hidden="true">↻</span> Shuffle
+        </button>
+        <label class="turn-toggle">
+          <input type="checkbox" id="turn-toggle" />
+          <span class="turn-toggle-track"></span>
+          <span class="turn-toggle-label">Show turning points</span>
+        </label>
       </div>
-      <label class="turn-toggle">
-        <input type="checkbox" id="turn-toggle" />
-        <span class="turn-toggle-track"></span>
-        <span class="turn-toggle-label">Show turning points</span>
-      </label>
     </div>
   </div>
 
