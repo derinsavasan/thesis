@@ -12,16 +12,11 @@
 
   <link rel="stylesheet" href="styles.css" />
 
-  <!-- Random la-linea favicon. Uses a SHUFFLED BAG, not naive random,
-       so all six archetypes cycle before any repeats — the previous
-       version (Math.random with last-pick rejection) could land on the
-       same two icons disproportionately over short sessions. Now: draw
-       the next icon from the bag; when the bag's empty, reshuffle the
-       full set. Guarantees every six picks include all six archetypes
-       in a different order each round.
-       We REMOVE and re-INSERT the link element on every refresh because
-       most browsers ignore href mutations on an existing favicon link
-       — only a brand-new element triggers a re-eval. -->
+  <!-- Random la-linea favicon, picked once per page load. Each fresh
+       reload draws a uniformly-random archetype icon. We REMOVE and
+       re-INSERT the link element because most browsers ignore href
+       mutations on an existing favicon link — only a brand-new element
+       triggers a re-eval. -->
   <script>
     (() => {
       const ICONS = [
@@ -32,41 +27,16 @@
         "la-linea/linea_rags_to_riches.png",
         "la-linea/linea_cinderella.png",
       ];
-      // Fisher–Yates shuffle on a copy of ICONS.
-      function shuffleBag() {
-        const a = ICONS.slice();
-        for (let i = a.length - 1; i > 0; i--) {
-          const j = Math.floor(Math.random() * (i + 1));
-          [a[i], a[j]] = [a[j], a[i]];
-        }
-        return a;
-      }
-      let bag = shuffleBag();
-      let lastPick = null;
-      function refresh() {
-        if (bag.length === 0) bag = shuffleBag();
-        // If the next item in a freshly-shuffled bag matches the last
-        // pick, swap it with another so two consecutive picks are never
-        // identical even across bag boundaries.
-        if (bag.length > 1 && bag[bag.length - 1] === lastPick) {
-          [bag[bag.length - 1], bag[0]] = [bag[0], bag[bag.length - 1]];
-        }
-        const pick = bag.pop();
-        lastPick = pick;
-        const old = document.getElementById("favicon");
-        if (old) old.remove();
-        const link = document.createElement("link");
-        link.id = "favicon";
-        link.rel = "icon";
-        link.type = "image/png";
-        // Cache-bust suffix nudges browsers that disk-cache the old icon.
-        link.href = pick + "?v=" + Date.now();
-        document.head.appendChild(link);
-      }
-      refresh();
-      document.addEventListener("visibilitychange", () => {
-        if (document.hidden) refresh();
-      });
+      const pick = ICONS[Math.floor(Math.random() * ICONS.length)];
+      const old = document.getElementById("favicon");
+      if (old) old.remove();
+      const link = document.createElement("link");
+      link.id = "favicon";
+      link.rel = "icon";
+      link.type = "image/png";
+      // Cache-bust suffix nudges browsers that disk-cache the old icon.
+      link.href = pick + "?v=" + Date.now();
+      document.head.appendChild(link);
     })();
   </script>
 </head>

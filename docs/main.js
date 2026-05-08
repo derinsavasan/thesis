@@ -2070,7 +2070,7 @@ function prettyTitle(t) {
   const parts = s.split(/(\s+)/);          // keep whitespace runs
   let wordIdx = 0;
   const wordCount = parts.filter(p => /\S/.test(p)).length;
-  return parts.map(p => {
+  const out = parts.map(p => {
     if (!/\S/.test(p)) return p;
     const isFirst = wordIdx === 0;
     const isLast  = wordIdx === wordCount - 1;
@@ -2082,6 +2082,10 @@ function prettyTitle(t) {
     }
     return p;
   }).join("");
+  // Decade suffix: a digit-pair "0S" should read as a lowercase decade
+  // marker — source data sometimes hands us "Mid90S" / "70S" with the S
+  // capitalized by an over-eager title-caser upstream.
+  return out.replace(/(\d0)S\b/g, "$1s");
 }
 
 // Normalize a film title for fuzzy matching between blurb <em>s and the
@@ -2951,7 +2955,7 @@ async function drawDialogueDensity() {
       .attr("font-size", 9)
       .style("letter-spacing", "0.18em")
       .style("text-transform", "uppercase")
-      .text("median dialogue · share of total words");
+      .text("dialogue as % of total script · genre median");
 
     // Climb-magnitude color, used by both the dumbbell and the outlier marks.
     const sortedDeltas = rows.map(r => r.delta).slice().sort(d3.ascending);
@@ -3719,7 +3723,7 @@ async function drawShapeShift() {
         const bandH = lastSeg[1] - lastSeg[0];
         return { key: s.key, midY, bandH };
       })
-      .filter(d => d.bandH >= 0.025);
+      .filter(d => d.bandH >= 0.025 || (view.mode === "genres" && SS_NAMED.has(d.key)));
     // Compute label x/y up front so entering labels land at the correct
     // coordinates immediately — no flash from (0, 0) before the
     // transition kicks in.
