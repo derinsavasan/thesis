@@ -88,6 +88,7 @@ const CURATED = [
   ["The Wolf of Wall Street", 2013, "the-wolf-of-wall-street-2013", ["Scorsese"]],
   ["Kill Bill: Volume 1", 2003, "kill-bill-vol-1-2003", ["Tarantino"]],
   ["Whiplash", 2014, "whiplash-2014", []],
+  ["Inglourious Basterds", 2009, "inglourious-basterds-2009", ["Tarantino"]],
   ["American Beauty", 1999, "american-beauty-1999", []],
   ["The Truman Show", 1998, "the-truman-show-1998", []],
   ["Dead Poets Society", 1989, "dead-poets-society-1989", []],
@@ -108,6 +109,7 @@ const CURATED = [
   ["The Lion King", 1994, "the-lion-king-1994", []],
   ["The Grand Budapest Hotel", 2014, "the-grand-budapest-hotel-2014", ["Wes Anderson"]],
   ["Get Out", 2017, "get-out-2017", ["Peele"]],
+  ["Top Gun", 1986, "top-gun-1986", ["Tony Scott"]],
 ];
 
 // Real theatrical runtimes (minutes) for the curated set. The chart's
@@ -123,6 +125,7 @@ const RUNTIMES = {
   "the-wolf-of-wall-street-2013": 180,
   "kill-bill-vol-1-2003": 111,
   "whiplash-2014": 107,
+  "inglourious-basterds-2009": 153,
   "american-beauty-1999": 122,
   "the-truman-show-1998": 103,
   "dead-poets-society-1989": 128,
@@ -143,6 +146,7 @@ const RUNTIMES = {
   "the-lion-king-1994": 88,
   "the-grand-budapest-hotel-2014": 99,
   "get-out-2017": 104,
+  "top-gun-1986": 110,
 };
 
 // Hand-written notes per turning point. Each list is ordered left-to-right
@@ -476,6 +480,31 @@ const NOTES = {
     "Captured. The TV reveal. The Coagula procedure explained.",
     "Escape. Cotton stuffed in the ears. Rod arriving in the TSA car.",
   ],
+  "inglourious-basterds-2009": [
+    "LaPadite pouring Landa a glass of milk at the kitchen table while Landa circles in.",
+    "Landa orders the squad to fire through the floorboards. The Dreyfus family underneath.",
+    "Shosanna running through the field. Landa lets her go.",
+    "Aldo Raine briefing the Basterds. \"I want my scalps.\"",
+    "Werner Rachtman won't talk. The Bear Jew stepping out of the tunnel with the bat.",
+    "Shosanna at her Paris cinema. Frederick Zoller refusing to leave her alone.",
+    "Lunch with Goebbels and Landa. Landa eating strudel like it's a confession.",
+    "Basement bar. Three fingers ordered the wrong way. Major Hellstrom counting them across the table.",
+    "Operation Kino in pieces. Aldo extracting the bullet from Bridget's leg with a wooden spoon.",
+    "Premiere at the cinema. Landa pulling Bridget's shoe out of his coat pocket.",
+  ],
+  "top-gun-1986": [
+    "Opening engagement over the Indian Ocean. Cougar freezes; Maverick covers him back to the carrier.",
+    "Stinger reads them in. Top Gun picked Maverick after Cougar handed in his wings.",
+    "First class at Miramar. Charlie sizing up the new pilots from the lectern.",
+    "O'Club bar. \"You've Lost That Lovin' Feelin'\" sung straight at Charlie's date.",
+    "Charlie's lecture review. Maverick's MiG report doesn't square with the official version.",
+    "Beach volleyball. Highway to the Danger Zone afternoon.",
+    "Charlie's house. Lasagna and an argument about flying. The kiss.",
+    "Aerial training back on top. Iceman boxed in.",
+    "Next hop. Iceman wins this one. Maverick eating ego on the carrier deck.",
+    "Goose ejecting through the canopy on the bad pull-out.",
+    "Maverick withdrawing from training. Alone in the locker room with the dog tags.",
+  ],
 };
 
 // ─────────────────────────────────────────────────────────
@@ -748,16 +777,19 @@ async function drawHero() {
 
   if (window.gsap) {
     if (window.ScrollTrigger) {
-      // Fade the whole hero out by ~70% of its scroll, so by the time the
-      // user is approaching vonnegut-1, hero is visually gone — no more
-      // "two sections in the same frame" feeling.
-      gsap.to(".hero-arc", {
+      // Fade the whole hero out by ~70% of its scroll, so by the time
+      // the user is approaching vonnegut-1, hero is visually gone — no
+      // more "two sections in the same frame" feeling.
+      //
+      // ONE scrub-driven trigger animating both targets together, with
+      // 0.5s of smoothing so GSAP's interpolation runs in rAF instead
+      // of synchronously on every scroll event. Used to be two separate
+      // `scrub: true` triggers — that was running the scroll math twice
+      // every wheel tick and was a meaningful contributor to the
+      // sitewide animation lag.
+      gsap.to([".hero-arc", ".hero-inner"], {
         opacity: 0, y: -80,
-        scrollTrigger: { trigger: ".hero", start: "top top", end: "70% top", scrub: true }
-      });
-      gsap.to(".hero-inner", {
-        y: -80, opacity: 0,
-        scrollTrigger: { trigger: ".hero", start: "top top", end: "70% top", scrub: true }
+        scrollTrigger: { trigger: ".hero", start: "top top", end: "70% top", scrub: 0.5 }
       });
       // Hero film label — one-shot scroll fade (initial opacity is 0 in CSS).
       // fromTo with immediateRender:false keeps it hidden until triggered.
@@ -1810,34 +1842,46 @@ function showArchpinFrame() {
   if (corner) corner.style.opacity = "";
 }
 
-// Wheel + touch scroll lock used by the archpin intro. Listener is attached
-// once at module load; flipping arch.introLocked toggles whether scroll input
-// is swallowed.
-window.addEventListener("wheel", e => {
-  if (arch.introLocked) e.preventDefault();
-}, { passive: false });
-window.addEventListener("touchmove", e => {
-  if (arch.introLocked) e.preventDefault();
-}, { passive: false });
-window.addEventListener("keydown", e => {
-  if (!arch.introLocked) return;
-  // Block keys that scroll the page during intro.
-  const blocked = ["ArrowDown", "ArrowUp", "PageDown", "PageUp", "Home", "End", " "];
-  if (blocked.includes(e.key)) e.preventDefault();
-}, { passive: false });
-// Belt-and-suspenders: trackpad inertia / scrollbar drag / browser-native
-// scroll restore can advance scrollY in ways the wheel and touchmove
-// listeners can't catch. While the intro is locked, snap scrollY back to
-// the morph trigger's start on every scroll event so the timeline can't
-// scrub forward and then "snap back" to Oedipus when the lock releases.
-window.addEventListener("scroll", () => {
-  if (!arch.introLocked) return;
-  const start = arch.timeline?.scrollTrigger?.start;
-  if (start == null) return;
-  if (Math.abs(window.scrollY - start) > 1) {
-    window.scrollTo(0, start);
+// Wheel + touch + key scroll lock for the archpin intro. Non-passive wheel/
+// touchmove listeners force the browser to round-trip through JS on every
+// scroll event — even when they no-op — which adds perceptible jank to
+// trackpad scrolling across the whole page. So instead of attaching at
+// module load, we only wire them up while the intro is actually locked,
+// then tear them down on unlock. setIntroLockListeners is the single
+// gate the lock toggles flow through.
+const introLockListeners = {
+  wheel: e => e.preventDefault(),
+  touchmove: e => e.preventDefault(),
+  keydown: e => {
+    const blocked = ["ArrowDown", "ArrowUp", "PageDown", "PageUp", "Home", "End", " "];
+    if (blocked.includes(e.key)) e.preventDefault();
+  },
+  // Belt-and-suspenders: trackpad inertia / scrollbar drag / browser-native
+  // scroll restore can advance scrollY in ways wheel/touchmove can't catch.
+  // Snap scrollY back to the morph trigger's start so the timeline can't
+  // scrub forward and then "snap back" to Oedipus when the lock releases.
+  scroll: () => {
+    const start = arch.timeline?.scrollTrigger?.start;
+    if (start == null) return;
+    if (Math.abs(window.scrollY - start) > 1) {
+      window.scrollTo(0, start);
+    }
+  },
+};
+function setIntroLock(on) {
+  arch.introLocked = on;
+  if (on) {
+    window.addEventListener("wheel", introLockListeners.wheel, { passive: false });
+    window.addEventListener("touchmove", introLockListeners.touchmove, { passive: false });
+    window.addEventListener("keydown", introLockListeners.keydown, { passive: false });
+    window.addEventListener("scroll", introLockListeners.scroll, { passive: true });
+  } else {
+    window.removeEventListener("wheel", introLockListeners.wheel, { passive: false });
+    window.removeEventListener("touchmove", introLockListeners.touchmove, { passive: false });
+    window.removeEventListener("keydown", introLockListeners.keydown, { passive: false });
+    window.removeEventListener("scroll", introLockListeners.scroll, { passive: true });
   }
-}, { passive: true });
+}
 
 function playArchpinIntro() {
   if (arch.introPlayed) return;
@@ -1848,7 +1892,7 @@ function playArchpinIntro() {
   // Lock scroll for the duration of the intro so the user can't scrub the
   // morph timeline into Icarus / Man in a Hole / etc. before the proxy lines
   // and average finish drawing.
-  arch.introLocked = true;
+  setIntroLock(true);
 
   // Freeze the morph timeline at progress 0 and disable its ScrollTrigger so
   // any incidental scroll (trackpad inertia from before the lock engaged,
@@ -1896,7 +1940,7 @@ function playArchpinIntro() {
         arch.timeline.invalidate();
         arch.timeline.progress(0);
       }
-      arch.introLocked = false;
+      setIntroLock(false);
       if (morphST) morphST.enable();
     },
   });
@@ -3812,7 +3856,11 @@ async function drawShapeShift() {
   if (window.ScrollTrigger) {
     ScrollTrigger.create({
       trigger: ".shape-shift-chart",
-      start: "top 65%",
+      // Fire when the chart is already substantially in view. Combined with
+      // the slowed-down chrome reveal below (~2.7s before bands start), this
+      // lets the user watch the axis write itself in instead of arriving to
+      // a finished frame.
+      start: "top 70%",
       once: true,
       onEnter: () => {
         try { ensureRendered(); }
@@ -3828,17 +3876,17 @@ async function drawShapeShift() {
 }
 
 // Phased reveal — chrome stages in, then bands GROW from the baseline up
-// into their stacked shape. Labels follow, with Drama (the hero) leading.
+// into their stacked shape one at a time, Drama leading. Labels and caption
+// follow once the stack has fully assembled.
 //
-//   t=0.00  GRID         y-grid + 0 baseline + tick labels stagger
-//   t=0.40  DECADES      decade labels stagger left→right
-//   t=0.80  BREADCRUMB   "ALL FILMS" eyebrow appears
-//   t=0.90  BANDS        each band's d animates from its flat-baseline
-//                          shape (y0=y1) to its full stacked shape, while
-//                          opacity fades 0 → 1. Stack appears to grow from
-//                          the bottom up, simultaneously and gracefully.
-//   t=2.40  LABELS       right-edge band labels fade in (Drama first)
-//   t=3.20  CAPTION      bottom caption fades in
+//   t=0.00  GRID         y-grid + 0 baseline draws in
+//   t=0.50  Y LABELS     y-axis tick labels fade in
+//   t=0.90  DECADES      decade labels stagger left→right (5 × 280ms)
+//   t=2.30  BREADCRUMB   "ALL FILMS" eyebrow appears
+//   t=3.00  BANDS        each band's d animates from flat baseline to its
+//                          full stacked shape, staggered in genre order
+//   t=6.30  LABELS       right-edge band labels fade in (Drama first)
+//   t=7.10  CAPTION      bottom caption fades in
 function playShapeShiftReveal() {
   if (shapeShift.played) return;
   shapeShift.played = true;
@@ -3846,24 +3894,25 @@ function playShapeShiftReveal() {
   if (svg.empty()) return;
   const ease = d3.easeCubicOut;
 
-  // Chrome.
+  // Chrome — paced so the user watches the axis write itself in rather than
+  // arriving to a finished frame. Mirrors the dialogue-density chart's slow
+  // axis reveal so neither chart "blinks" into place.
   svg.selectAll(".ss-y-grid")
-    .transition().duration(700).ease(ease)
+    .transition().duration(1200).ease(ease)
     .attr("opacity", function () {
       return +this.getAttribute("data-zero") ? 0.7 : 0.35;
     });
   svg.selectAll(".ss-y-label")
-    .transition().delay(200).duration(500).ease(ease).attr("opacity", 1);
+    .transition().delay(500).duration(800).ease(ease).attr("opacity", 1);
   svg.selectAll(".ss-decade-label").each(function (_, i) {
-    d3.select(this).transition().delay(400 + i * 120).duration(440).ease(ease)
+    d3.select(this).transition().delay(900 + i * 280).duration(700).ease(ease)
       .attr("opacity", 1);
   });
   svg.selectAll(".ss-crumb-root")
-    .transition().delay(800).duration(500).ease(ease).attr("opacity", 1);
+    .transition().delay(1700).duration(600).ease(ease).attr("opacity", 1);
 
   // Bands grow from baseline up into their stacked shape. Each band
   // currently has d = areaFlat (collapsed at y0=y1) and opacity = 0.
-  // We transition both simultaneously so they appear to BLOOM into place.
   const stage = svg.node().parentNode;
   const r = stage.getBoundingClientRect();
   const W = Math.max(r.width, 480);
@@ -3883,10 +3932,31 @@ function playShapeShiftReveal() {
   svg.select(".ss-clip-rect")
     .attr("width", innerW);
 
-  svg.selectAll(".ss-band")
-    .transition().delay(900).duration(1300).ease(d3.easeCubicInOut)
-    .attr("opacity", 1)
-    .attr("d", function (d) { return area(d); });
+  // Stagger each band so the stack assembles layer by layer in genre order
+  // (Drama first as the section's hero, then the rest in display order).
+  // Mirrors the row-by-row pacing of the dialogue-density chart so neither
+  // reveal "blinks" into place. Bands begin while the breadcrumb is still
+  // fading in (~2s) so the chrome → data handoff feels continuous instead
+  // of leaving an unintentional pause between them.
+  const BAND_DELAY_BASE = 2000;
+  const BAND_STAGGER = 280;
+  const BAND_DURATION = 800;
+  const bandDelay = key => {
+    const idx = Math.max(0, SS_GENRE_ORDER.indexOf(key));
+    return BAND_DELAY_BASE + idx * BAND_STAGGER;
+  };
+  svg.selectAll(".ss-band").each(function (d) {
+    d3.select(this)
+      .transition()
+      .delay(bandDelay(d.key))
+      .duration(BAND_DURATION)
+      .ease(d3.easeCubicInOut)
+      .attr("opacity", 1)
+      .attr("d", area(d));
+  });
+
+  // Bands finish revealing at:
+  const bandEnd = BAND_DELAY_BASE + (SS_GENRE_ORDER.length - 1) * BAND_STAGGER + BAND_DURATION;
 
   // Right-edge labels — Drama first (the hero), others stagger in.
   const labelOrderDelay = (key) => {
@@ -3897,12 +3967,12 @@ function playShapeShiftReveal() {
   svg.selectAll(".ss-band-label").each(function () {
     const k = this.getAttribute("data-key");
     d3.select(this).transition()
-      .delay(2400 + labelOrderDelay(k)).duration(500).ease(ease)
+      .delay(bandEnd + labelOrderDelay(k)).duration(500).ease(ease)
       .attr("opacity", 1);
   });
 
   svg.selectAll(".ss-caption")
-    .transition().delay(3200).duration(560).ease(ease).attr("opacity", 1);
+    .transition().delay(bandEnd + 800).duration(560).ease(ease).attr("opacity", 1);
 
   // Wake hover only after the reveal has fully settled. Bumping
   // revealComplete + enabling pointer-events on existing bands. Future
@@ -3911,12 +3981,12 @@ function playShapeShiftReveal() {
   d3.timeout(() => {
     shapeShift.revealComplete = true;
     svg.selectAll(".ss-band").style("pointer-events", "all");
-  }, 3800);
+  }, bandEnd + 1400);
 }
 
 // ─────────────────────────────────────────────────────────
 // EXPLORER
-const explorer = { current: null, filter: "all", showTurns: false };
+const explorer = { current: null, filter: "all" };
 
 // Full-corpus searchable index, built from the clustered CSV. Each entry
 // has { title, year, slug } so the search can return any of the 1,627 films.
@@ -4050,15 +4120,6 @@ function buildExplorer() {
   // (The director-filter tiles were dropped — search is now the primary
   // way to slice the corpus, so the filter row was clutter.)
 
-  // turning-points toggle: shows/hides the turning-point dots on the loaded arc
-  const turnInput = document.getElementById("turn-toggle");
-  if (turnInput) {
-    turnInput.addEventListener("change", e => {
-      explorer.showTurns = e.target.checked;
-      applyTurns();
-    });
-  }
-
   // Shuffle button — pick a random film from the FULL corpus and load it.
   const shuffleBtn = document.getElementById("explorer-shuffle");
   if (shuffleBtn) {
@@ -4073,28 +4134,25 @@ function buildExplorer() {
   }
 }
 
-function applyTurns() {
-  const dots = d3.select(".explorer-svg").select("g.turn-dots");
-  if (dots.empty()) return;
-  if (explorer.showTurns) {
-    dots.transition().duration(280).attr("opacity", 1)
-      .selectAll("circle").attr("r", 6);
-  } else {
-    dots.transition().duration(220).attr("opacity", 0)
-      .selectAll("circle").attr("r", 0);
-  }
-  d3.select("#stage-sub").text(
-    explorer.showTurns
-      ? "Hover a dot for the moment behind it"
-      : "Toggle turning points to see the dots"
-  );
-}
+
+// Minimal HTML-entity escaper for raw script text we inject into the
+// stage panel. Curated NOTES are trusted (we author them with intentional
+// <em> markup), but screenplay excerpts come straight from MSDB and can
+// contain & < > " characters that would otherwise break or open holes.
+const HTML_ESCAPE_MAP = { "&": "&amp;", "<": "&lt;", ">": "&gt;", "\"": "&quot;", "'": "&#39;" };
+const escapeHtml = s => String(s).replace(/[&<>"']/g, ch => HTML_ESCAPE_MAP[ch]);
 
 async function loadFilm(film) {
   explorer.current = film;
   const { title, year, slug } = film;
   const svg = d3.select(".explorer-svg");
-  svg.selectAll("*").remove();
+  // Selective removal: keep the persistent axis frame (.y-zero baseline,
+  // .axis-end BEGINNING/END labels, .axis-y-side POSITIVE/NEGATIVE
+  // labels) since it's identical across films thanks to the fixed
+  // y-domain. Only the film-specific path + turning-point dots +
+  // connectors + minute labels get cleared, so the chrome doesn't
+  // flicker on every pick.
+  svg.selectAll("path, g.turn-dots, g.turn-connectors, g.turn-minute-labels").remove();
 
   let arc, rev;
   try { arc = await d3.json(`${DATA}/arcs/${slug}_arc.json`); }
@@ -4107,16 +4165,138 @@ async function loadFilm(film) {
   const revAll = await d3.json(`${DATA}/reversals.json`);
   rev = revAll.find(r => r.slug === slug);
 
-  d3.select("#stage-title").text(`${title || prettyTitle(arc.title)} · ${arc.year}`);
+  // Lazy-load the screenplay excerpts sidecar for this film. Each entry
+  // pairs a turning-point position with a small window of script lines
+  // around that moment. Used as a fallback in the dot tooltip when no
+  // curated NOTES entry exists — shows real source context instead of
+  // the generic "[note pending]" placeholder. Films without a sidecar
+  // (older corpus entries, edge cases) just fall back to "[note pending]".
+  let excerpts = null;
+  try {
+    const ex = await d3.json(`${DATA}/excerpts/${slug}.json`).catch(() => null);
+    excerpts = ex?.excerpts || null;
+  } catch (_) { /* sidecar absent — handled below */ }
+
+  // Title in italic, year in parens upright — typographic convention for
+  // film/work titles in editorial copy.
+  d3.select("#stage-title").html(`<em>${title || prettyTitle(arc.title)}</em> (${arc.year})`);
   const nRev = rev?.reversals?.length ?? 0;
-  d3.select("#stage-sub").text(
-    explorer.showTurns
-      ? `${nRev} TURNING POINTS · HOVER A DOT`
-      : `${nRev} TURNING POINTS · TOGGLE TO REVEAL`
-  );
-  d3.select("#stage-blob").html(
-    `<em>${arc.token_count?.toLocaleString() ?? "?"} tokens · ${arc.year}.</em>`
-  );
+  d3.select("#stage-sub").text(`${nRev} TURNING POINTS · HOVER A DOT`);
+
+  // Look up the film's archetype-weight vector in the clustered CSV so we
+  // can characterize it by SHAPE (e.g. "63% Oedipus") instead of by token
+  // count, and tint the arc + side panel with the dominant archetype's
+  // color so the reader sees, at a glance, which of the six shapes this
+  // film belongs to. We also surface the 2 next-strongest archetypes
+  // beneath the dominant match — most films are blends, not pure types.
+  let domId = null, domWeight = 0;
+  let secondaryMatches = [];  // [{id, weight}, ...] sorted desc, excluding dominant
+  if (Array.isArray(CLUSTERED)) {
+    const target = normalizeFilmTitle(title || arc.title);
+    const row = CLUSTERED.find(r => normalizeFilmTitle(r.title) === target && r.year === arc.year);
+    if (row) {
+      domId = row.dominant_archetype;
+      domWeight = row[`arch_${domId}_weight`] || 0;
+      // Build sorted list of all 6 weights; drop dominant and any < 5%
+      // (numerical noise — those archetypes effectively don't apply).
+      secondaryMatches = ARCH_ORDER
+        .filter(id => id !== domId)
+        .map(id => ({ id, weight: row[`arch_${id}_weight`] || 0 }))
+        .filter(m => m.weight >= 0.05)
+        .sort((a, b) => b.weight - a.weight)
+        .slice(0, 2);  // at most two secondary matches
+    }
+  }
+  const archColor = domId != null ? ARCH_COLOR[domId] : C.ink;
+  const archName  = domId != null ? ARCHETYPE_NAMES[domId] : null;
+
+  // Build the default blob copy — shown on initial load and restored on
+  // mouseleave from any turning-point dot. Border-left + text mirror the
+  // arc color. Match-stat typography mirrors the one-at-a-time pin's
+  // "X% MATCH TO OEDIPUS" treatment: mono uppercase, bold percentage,
+  // normal-weight tail. Secondary matches sit underneath in the same
+  // family but smaller + lower opacity, each in its own archetype color.
+  // Primary line carries the archetype's color (matches the arc + icon);
+  // secondary lines stay neutral so they read as supporting context, not
+  // additional taxonomic claims with equal visual weight.
+  const matchLine = (pct, name, opts = {}) => {
+    const cls = opts.primary ? "arch-match" : "arch-match arch-match-secondary";
+    const style = opts.color ? ` style="color:${opts.color}"` : "";
+    return `<span class="${cls}"${style}>` +
+      `<span class="arch-match-pct">${pct}% match</span>` +
+      `<span class="arch-match-tail"> to ${name}</span>` +
+    `</span>`;
+  };
+  let defaultBlobHtml;
+  if (archName) {
+    defaultBlobHtml = matchLine(Math.round(domWeight * 100), archName, { primary: true, color: archColor });
+    for (const m of secondaryMatches) {
+      defaultBlobHtml += matchLine(
+        Math.round(m.weight * 100),
+        ARCHETYPE_NAMES[m.id],
+        { primary: false },
+      );
+    }
+  } else {
+    defaultBlobHtml = `<em>${arc.year}.</em>`;
+  }
+  // Show a quiet "..." loading state until the line has drawn AND turned
+  // color — only then do we reveal the match percentages. The reveal
+  // is triggered by the line-color tween's .on("end") callback below,
+  // so the verdict ("63% MATCH TO OEDIPUS") lands at the same moment
+  // the curve fully announces its archetype.
+  // Loading state: a stack of skeleton shimmer bars sized to roughly
+  // match the primary match line and one secondary line. A moving
+  // gradient sweeps across each bar in a slight stagger so the panel
+  // reads as deliberate scaffolding instead of a generic spinner.
+  d3.select("#stage-blob")
+    .style("border-left-color", "var(--rule)")
+    .html(
+      '<div class="arch-match-loading" aria-label="loading match data">' +
+      '<span class="skeleton skeleton-primary"></span>' +
+      '<span class="skeleton skeleton-secondary"></span>' +
+      '<span class="skeleton skeleton-secondary"></span>' +
+      '</div>'
+    );
+
+  // Pre-configure the upper-left la-linea mark for this film's archetype,
+  // but DON'T reveal it yet — we'll fade it in after the line draws and
+  // turns color (the icon's entrance is the punchline of the reveal).
+  // Same CSS mask trick: PNG alpha → mask, archetype color → ink.
+  //
+  // Bug fix sequence: when swapping films we have to SNAP the icon to
+  // invisible BEFORE swapping bg-color/mask. Otherwise the previous
+  // film's icon (still visible) flashes into the new color/shape for
+  // the duration of the fade-out transition. The trick:
+  //   1. transition: none (so the next opacity write doesn't animate)
+  //   2. opacity = 0 + scale = 0.85 (snaps invisible immediately)
+  //   3. force a reflow so the no-transition + opacity-0 state commits
+  //   4. swap color/mask (icon is invisible — no flash)
+  //   5. on next animation frame, restore the transition for the
+  //      eventual fade-in triggered by the line-draw .on("end") handler
+  const mark = document.getElementById("arc-arch-mark");
+  if (mark) {
+    if (domId != null && ARCHETYPE_ICONS[domId]) {
+      const url = `url("${ARCHETYPE_ICONS[domId]}")`;
+      mark.style.transition = "none";
+      mark.style.opacity = "0";
+      mark.style.transform = "scale(0.85)";
+      // Force layout flush so the snap commits before we swap content.
+      // eslint-disable-next-line no-unused-expressions
+      mark.offsetHeight;
+      mark.style.backgroundColor = archColor;
+      mark.style.webkitMaskImage = url;
+      mark.style.maskImage = url;
+      mark.style.display = "block";
+      // Restore the entrance transition on the next frame so the line-
+      // draw end handler's opacity/scale write animates cleanly.
+      requestAnimationFrame(() => {
+        mark.style.transition = "opacity 420ms ease-out, transform 480ms cubic-bezier(.2,.9,.3,1.2), max-height 420ms ease-out, margin-top 420ms ease-out";
+      });
+    } else {
+      mark.style.display = "none";
+    }
+  }
 
   const rect = svg.node().getBoundingClientRect();
   const W = Math.max(rect.width, 480), H = Math.max(rect.height, 360);
@@ -4125,19 +4305,45 @@ async function loadFilm(film) {
 
   const xs = arc.main_arc.map(p => p.position);
   const ys = arc.main_arc.map(p => p.z_score);
-  const yExt = d3.extent(ys);
-  const yPad = 0.6;
 
+  // Fixed y-domain so the axis frame — y(0) baseline, BEGINNING/END
+  // labels, POSITIVE/NEGATIVE side labels — stays put across film picks.
+  // Only the curve changes between selections, which feels less jittery
+  // and lets films be compared honestly on a shared scale.
+  //
+  // Tuned to ±2.5 (was ±3) so the typical curve fills more vertical
+  // space inside the chart. Distribution check on the corpus:
+  //   50% of films:  max |z| ≤ 2.08 (fits comfortably)
+  //   90% of films:  max |z| ≤ 2.55 (slight clip on one or two peaks)
+  //   99% of films:  max |z| ≤ 3.00 (clip on outlier moments)
+  // Outlier-peak clipping is acceptable — the overall shape still reads
+  // clearly, and the alternative (huge empty top/bottom) was the bigger
+  // visual cost.
+  const Y_MIN = -2.5, Y_MAX = 2.5;
   const x = d3.scaleLinear().domain([0, 1]).range([m.left, W - m.right]);
-  const y = d3.scaleLinear().domain([yExt[0] - yPad, yExt[1] + yPad]).range([H - m.bottom, m.top]);
+  const y = d3.scaleLinear().domain([Y_MIN, Y_MAX]).range([H - m.bottom, m.top]);
 
-  drawAxisFrame(svg, { x, y, x0: m.left, x1: W - m.right });
+  // Draw the axis frame on first load only. With the fixed y-domain it's
+  // identical across films, so re-creating these elements every pick was
+  // pure visual flicker. If the SVG ever resizes (responsive layout) the
+  // axis labels would land in stale positions — clear and let it redraw
+  // when the cached width/height no longer match the current rect.
+  const cached = svg.attr("data-axis-w") + "x" + svg.attr("data-axis-h");
+  const current = `${W}x${H}`;
+  if (svg.select(".y-zero").empty() || cached !== current) {
+    svg.selectAll(".y-zero, .axis-end, .axis-y-side").remove();
+    drawAxisFrame(svg, { x, y, x0: m.left, x1: W - m.right, ySide: "right" });
+    svg.attr("data-axis-w", W).attr("data-axis-h", H);
+  }
 
   const lineFn = d3.line()
     .x((_, i) => x(xs[i]))
     .y(d => y(d))
     .curve(d3.curveCatmullRom.alpha(0.6));
 
+  // The line draws in plain ink first, then once fully drawn it transitions
+  // into the archetype color — and only THEN does the la-linea icon pop in.
+  // Lets the user see the curve before the "verdict" lands.
   const path = svg.append("path")
     .datum(ys)
     .attr("d", lineFn)
@@ -4146,10 +4352,38 @@ async function loadFilm(film) {
     .attr("stroke-width", 2);
 
   const total = path.node().getTotalLength();
+  const DRAW_MS = 1300;
+  const COLOR_MS = 520;
   path.attr("stroke-dasharray", `${total} ${total}`)
       .attr("stroke-dashoffset", total)
-      .transition().duration(1300).ease(d3.easeCubicInOut)
-      .attr("stroke-dashoffset", 0);
+      .transition().duration(DRAW_MS).ease(d3.easeCubicInOut)
+      .attr("stroke-dashoffset", 0)
+      .transition().duration(COLOR_MS).ease(d3.easeCubicOut)
+      .attr("stroke", archColor)
+      .on("end", () => {
+        // Line is drawn AND colored — now reveal the la-linea icon as the
+        // payoff. CSS transition handles the actual fade + scale-up; here
+        // we just toggle the target values.
+        if (mark && domId != null) {
+          mark.style.opacity = "0.9";
+          mark.style.transform = "scale(1)";
+        }
+        // Swap the loading skeletons for the actual match percentages —
+        // the verdict lands at the same moment the curve declares its
+        // color. Each match line stagger-fades in (~80ms apart, ~280ms
+        // each) so the primary match is read first, then the secondary
+        // matches resolve under it.
+        const blob = d3.select("#stage-blob")
+          .style("border-left-color", archColor)
+          .html(defaultBlobHtml);
+        if (window.gsap) {
+          gsap.fromTo(
+            blob.node().querySelectorAll(".arch-match"),
+            { opacity: 0, y: 5 },
+            { opacity: 1, y: 0, duration: 0.32, stagger: 0.08, ease: "power2.out" }
+          );
+        }
+      });
 
   // Compute turning points the SAME WAY the intro pin does: local extrema
   // on the rendered z_score samples, with endpoints excluded. Identical
@@ -4186,52 +4420,298 @@ async function loadFilm(film) {
       return { cx: p.x, cy: p.y };
     });
 
+    // Dots are always visible and tinted with the same archetype color as
+    // the arc itself — a contrasting bg-raise stroke makes them legible
+    // against the line. Hover always works (no toggle gating); leaving a
+    // dot restores the default blob so the panel never holds stale state.
     const dotsG = svg.append("g")
       .attr("class", "turn-dots")
-      .attr("opacity", explorer.showTurns ? 1 : 0);
+      .attr("opacity", 1);
     dotsG.selectAll("circle")
       .data(extrema)
       .join("circle")
       .attr("cx", (_, i) => snapped[i].cx)
       .attr("cy", (_, i) => snapped[i].cy)
       .attr("r", 0)
-      .attr("fill", C.amber)
+      .attr("fill", archColor)
       .attr("stroke", C.bgRaise).attr("stroke-width", 2)
       .style("cursor", "pointer")
       .on("mouseenter", function (_, d) {
-        if (!explorer.showTurns) return;
         d3.select(this).transition().duration(120).attr("r", 9);
         const i = extrema.indexOf(d);
         const note = notes[i];
+        // Position label: prefer concrete minute marks ("MIN 136 / 169") when
+        // we know the runtime, fall back to "% IN" so the reader knows the
+        // percentage refers to position-through-the-film, not magnitude.
+        const runtimeMin = RUNTIMES[slug]
+          || (arc.token_count ? Math.max(60, Math.round(arc.token_count / 250)) : 0);
         const pct = Math.round(d.position * 100);
-        const label = d.type === "peak" ? "Peak" : "Trough";
+        const positionStr = runtimeMin
+          ? `MIN <span class="num">${Math.round(d.position * runtimeMin)}</span> / ${runtimeMin}`
+          : `<span class="num">${pct}%</span> IN`;
+        const label = d.type === "peak" ? "Peak" : "Valley";
+
+        // Detail: prefer hand-written curated note; fall back to a real
+        // screenplay excerpt around this turning point; only as a last
+        // resort show "[note pending]". Excerpts get rendered in a tight
+        // monospace block so they read as raw source rather than prose.
+        const excerpt = excerpts && excerpts[i] && excerpts[i].excerpt;
+        let detailHtml;
+        if (note) {
+          detailHtml = `<span class="note">${note}</span>`;
+        } else if (excerpt) {
+          // Match excerpt entries to extrema by position so a filtered or
+          // re-ordered list still pairs the right window with the right dot.
+          const match = excerpts.find(e => Math.abs(e.position - d.position) < 1e-6) || excerpts[i];
+          detailHtml = `<pre class="script-excerpt" tabindex="0">${escapeHtml(match.excerpt || excerpt)}</pre>`;
+        } else {
+          detailHtml = `<span class="note">[note pending]</span>`;
+        }
+
         d3.select("#stage-blob").html(
-          `<strong style="font-family:var(--sans);font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:var(--ink)">${label} · <span class="num">${pct}%</span></strong>` +
-          (note ? `<span class="note">${note}</span>` : `<span class="note">[note pending]</span>`)
+          `<strong style="font-family:var(--sans);font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:var(--ink)">${label} · ${positionStr}</strong>` +
+          detailHtml
         );
+        // Collapse the la-linea mark while the script excerpt is
+        // showing. Adds a class that zeroes out opacity AND height +
+        // margin, so the panel below shifts up cleanly into the freed
+        // space instead of leaving a 180px ghost rectangle.
+        if (mark && domId != null) {
+          mark.classList.add("is-collapsed");
+        }
       })
       .on("mouseleave", function () {
-        if (!explorer.showTurns) return;
         d3.select(this).transition().duration(120).attr("r", 6);
+        // Restore the default archetype blob so the side panel always has
+        // either the film's shape characterization or a peak/valley note —
+        // never lingering stale state from the last hover.
+        d3.select("#stage-blob").html(defaultBlobHtml);
+        // Expand the la-linea mark back in (height + opacity).
+        if (mark && domId != null) {
+          mark.classList.remove("is-collapsed");
+        }
       });
 
-    if (explorer.showTurns) {
-      dotsG.selectAll("circle")
-        .transition().delay(1100).duration(420).attr("r", 6);
-    }
+    // Pop the dots in AFTER the line has both drawn and turned color —
+    // they're the "where do the turns happen" beat that follows the
+    // line's "what shape is this film" reveal.
+    dotsG.selectAll("circle")
+      .transition().delay(DRAW_MS + COLOR_MS - 100).duration(420).attr("r", 6);
+
+    // Dashed connectors + minute labels at each turning point — same
+    // editorial treatment as the intro pin chart, but only on the
+    // extrema (not all 20 sample points) so the explorer reads as a
+    // narrative tool rather than a debug view. The connector grows from
+    // the dot DOWN to the y-zero baseline; the minute label sits on its
+    // own row underneath, mono numerals tinted faint.
+    const runtimeMin = RUNTIMES[slug]
+      || (arc.token_count ? Math.max(60, Math.round(arc.token_count / 250)) : 0);
+    const baselineY = y(0);
+    const connectorsG = svg.append("g").attr("class", "turn-connectors");
+    const minuteLabelsG = svg.append("g").attr("class", "turn-minute-labels");
+    const CONNECTOR_BASE_DELAY = DRAW_MS + COLOR_MS + 80;
+
+    extrema.forEach((d, i) => {
+      const px = x(d.position);
+      const py = snapped[i].cy;
+      // Connector — starts collapsed at the dot, grows down to baseline.
+      // Color matches the arc/dot for cohesion; opacity stays subtle so
+      // it reads as a guide rather than competing with the curve itself.
+      connectorsG.append("line")
+        .attr("x1", px).attr("x2", px)
+        .attr("y1", py).attr("y2", py)
+        .attr("stroke", archColor)
+        .attr("stroke-width", 1)
+        .attr("stroke-dasharray", "2 4")
+        .attr("opacity", 0)
+        .attr("pointer-events", "none")
+        .transition().delay(CONNECTOR_BASE_DELAY + i * 50).duration(380)
+        .ease(d3.easeCubicOut)
+        .attr("y2", baselineY)
+        .attr("opacity", 0.5);
+
+      // Minute label — only when we know the runtime, and only for
+      // turning points sufficiently far from the BEGINNING / END text
+      // so they don't crash into it. Sits ~20px below the y-zero
+      // baseline so it reads as part of the time axis (closer in than
+      // the intro pin's 36px offset, which is sized for that chart's
+      // much larger vertical footprint).
+      if (runtimeMin && d.position > 0.06 && d.position < 0.94) {
+        minuteLabelsG.append("text")
+          .attr("x", px)
+          .attr("y", baselineY + 18)
+          .attr("text-anchor", "middle")
+          .attr("font-family", "JetBrains Mono")
+          .attr("font-size", 9)
+          .attr("letter-spacing", "0.04em")
+          .attr("fill", C.inkFaint)
+          .attr("opacity", 0)
+          .text(`${Math.round(d.position * runtimeMin)}m`)
+          .transition().delay(CONNECTOR_BASE_DELAY + i * 50 + 250).duration(360)
+          .ease(d3.easeCubicOut)
+          .attr("opacity", 1);
+      }
+    });
   }
 
-  // Update sub copy with the new count so it reflects the inline extrema math
-  // rather than the precomputed reversals.json.
-  d3.select("#stage-sub").text(
-    explorer.showTurns
-      ? `${extrema.length} TURNING POINTS · HOVER A DOT`
-      : `${extrema.length} TURNING POINTS · TOGGLE TO REVEAL`
-  );
+  d3.select("#stage-sub").text(`${extrema.length} TURNING POINTS · HOVER A DOT`);
 }
 
 // ─────────────────────────────────────────────────────────
 // METHODOLOGY DRAWER
+// ─────────────────────────────────────────────────────────
+// Site nav (right-edge pip rail). Tracks the currently-active narrative
+// beat and toggles a ghost-opacity idle state so the rail fades out
+// while the user is reading and snaps back on any scroll motion.
+//
+// Several page sections share a single nav target (e.g. archetypes-pin
+// rolls under "Six shapes"; shape-shift rolls under "What changed"),
+// so the section-id → nav-anchor mapping is many-to-one.
+function wireSiteNav() {
+  const nav = document.querySelector(".site-nav");
+  if (!nav) return;
+
+  // section id → nav anchor's data-section value
+  const SECTION_TO_NAV = {
+    "top": "top",
+    "intro": "intro",
+    "intro-pin": "intro-pin",
+    "prelude-six-shapes": "intro-pin",
+    "archetypes": "archetypes",
+    "prelude-one-at-a-time": "archetypes",
+    "one-at-a-time": "archetypes",
+    "prelude-essay": "archetypes",
+    "dialogue-density": "what-changed",
+    "shape-shift": "what-changed",
+    "explore": "explore",
+    "closing": "closing",
+  };
+
+  // Build [{ id, el, navKey }] in DOM order, skipping any sections that
+  // aren't actually on the page (defensive — copy edits sometimes drop ids).
+  const sections = Object.entries(SECTION_TO_NAV)
+    .map(([id, navKey]) => ({ id, navKey, el: document.getElementById(id) }))
+    .filter(s => s.el);
+
+  const anchors = Array.from(nav.querySelectorAll("a[data-section]"));
+  const anchorByKey = new Map(anchors.map(a => [a.dataset.section, a]));
+
+  // Pick the section whose top edge most recently passed an anchor line
+  // 30% down the viewport — that's the one the reader is focused on.
+  let lastKey = null;
+  function updateCurrent() {
+    const anchorY = window.innerHeight * 0.30;
+    let bestTop = -Infinity;
+    let bestKey = null;
+    for (const { el, navKey } of sections) {
+      const top = el.getBoundingClientRect().top;
+      if (top <= anchorY && top > bestTop) {
+        bestTop = top;
+        bestKey = navKey;
+      }
+    }
+    // Below the last section (e.g. methodology drawer open, or hero
+    // before any section has crossed the line) — fall back to "top".
+    if (!bestKey) bestKey = "top";
+    if (bestKey === lastKey) return;
+    lastKey = bestKey;
+    anchors.forEach(a => {
+      const on = a.dataset.section === bestKey;
+      a.classList.toggle("is-current", on);
+      if (on) a.setAttribute("aria-current", "true");
+      else a.removeAttribute("aria-current");
+    });
+  }
+
+  // Reveal/hide is handled entirely by CSS: hovering the .site-nav-zone
+  // (the invisible top-right hot-spot) or the nav itself shows it; moving
+  // away hides it. JS used to drive this via a scroll-triggered nudge,
+  // but that overlaid the nav onto charts the user was trying to read.
+  // Now the nav stays out of the way until the user reaches for it.
+
+  // Land sections cleanly without the "cut-off heading" feel that
+  // scrollIntoView({ block: "start" }) can produce. Two cases:
+  //   • Section is at-or-near viewport height → align its top edge to
+  //     the viewport top. The section's own padding-top (typically 4rem)
+  //     handles the breathing room. No fudge offset, so we don't bleed
+  //     pixels of the previous section into the top of the frame.
+  //   • Section is meaningfully shorter than viewport → center it
+  //     vertically so it doesn't float at the top of an empty viewport.
+  function scrollToSection(target, id) {
+    if (id === "top") {
+      window.scrollTo({ top: 0, behavior: "smooth" });
+      return;
+    }
+    const top = target.getBoundingClientRect().top + window.scrollY;
+    const height = target.offsetHeight;
+    const vh = window.innerHeight;
+    let y;
+    if (height < vh * 0.85) {
+      // Genuinely short section — vertically center.
+      y = top - (vh - height) / 2;
+    } else {
+      // Approximately viewport-height (or taller) — flush to top.
+      y = top;
+    }
+    window.scrollTo({ top: Math.max(0, y), behavior: "smooth" });
+  }
+
+  // Sections that live AFTER the archetypes-pin in DOM order. Jumping
+  // to one of these via the menu means the smooth scroll passes through
+  // the archpin section, which would otherwise fire its intro animation
+  // and engage a wheel/touch scroll lock — hijacking the very navigation
+  // the user just initiated. For these targets only, we pre-empt the
+  // intro: mark it played (so ScrollTrigger's onEnter early-returns) and
+  // snap the archpin to its final frame so it still reads cleanly if the
+  // user later scrolls back. Normal scroll behavior is unchanged.
+  const POST_ARCHPIN = new Set(["dialogue-density", "shape-shift", "explore", "closing"]);
+
+  anchors.forEach(a => {
+    a.addEventListener("click", e => {
+      const id = a.getAttribute("href").slice(1);
+      const target = document.getElementById(id);
+      if (!target) return;
+      e.preventDefault();
+
+      if (POST_ARCHPIN.has(id) && typeof arch !== "undefined" && arch && !arch.introPlayed) {
+        arch.introPlayed = true;
+        if (typeof showArchpinFrame === "function") {
+          try { showArchpinFrame(); }
+          catch (err) { console.warn("[showArchpinFrame] failed:", err); }
+        }
+      }
+
+      scrollToSection(target, id);
+      history.pushState(null, "", `#${id}`);
+      // Force a current-state refresh once the smooth scroll has settled
+      // so the pip lands on the new section even if the user doesn't
+      // generate any further scroll events.
+      setTimeout(updateCurrent, 700);
+    });
+  });
+
+  // Throttle the scroll handler to one rAF tick (~16ms) so we don't
+  // stack up forced layouts on fast scroll. updateCurrent calls
+  // getBoundingClientRect on every section in SECTION_TO_NAV; without
+  // throttling, that runs dozens of times per second and shows up as
+  // animation jank elsewhere on the page (every layout read forces the
+  // browser to flush pending style/layout work, breaking GSAP/CSS
+  // transitions' frame budget).
+  let scrollTicking = false;
+  window.addEventListener("scroll", () => {
+    if (scrollTicking) return;
+    scrollTicking = true;
+    requestAnimationFrame(() => {
+      updateCurrent();
+      scrollTicking = false;
+    });
+  }, { passive: true });
+
+  // Initial state — make sure the right pip is highlighted before the
+  // user reveals the nav for the first time.
+  updateCurrent();
+}
+
 function wireMethodology() {
   const drawer = document.getElementById("meth-drawer");
   const scrim = document.getElementById("meth-scrim");
@@ -4522,6 +5002,7 @@ async function boot() {
   try { wireGsapReveals(); } catch (err) { console.error("[wireGsapReveals] failed:", err); }
   try { wireMethodology(); } catch (err) { console.error("[wireMethodology] failed:", err); }
   try { wireVonnegutVideo(); } catch (err) { console.error("[wireVonnegutVideo] failed:", err); }
+  try { wireSiteNav(); } catch (err) { console.error("[wireSiteNav] failed:", err); }
 
   // Re-render layout-sensitive views on resize
   let rT;

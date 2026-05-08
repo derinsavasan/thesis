@@ -379,7 +379,7 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
 }
 .intro-beat {
   position: absolute;
-  max-width: 36ch;
+  max-width: 42ch;
   pointer-events: none;
   opacity: 0;
 }
@@ -393,7 +393,12 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
   font-size: 1.02rem;
   color: var(--ink-dim);
   line-height: 1.5;
+  /* Avoid orphan widows on the body line ("lows" sitting alone). */
+  text-wrap: pretty;
 }
+/* The instruction line ("Keep scrolling …") must always render as one line
+   so the call-to-action reads cleanly — never wrapped, never orphaned. */
+.intro-beat p strong { white-space: nowrap; }
 .intro-beat .hover-hint {
   font-family: var(--mono);
   font-size: 0.72rem;
@@ -515,13 +520,15 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
 
 /* Inline links inside intermission body copy — match the Vonnegut "on tape"
    treatment: amber text, underlined with the soft amber, brightens on hover. */
-.intermission-sub a {
+.intermission-sub a,
+.cluster-sub a {
   color: var(--amber);
   text-decoration: none;
   border-bottom: 1px solid var(--amber-soft);
   transition: color 200ms, border-color 200ms;
 }
-.intermission-sub a:hover {
+.intermission-sub a:hover,
+.cluster-sub a:hover {
   color: var(--amber-soft);
   border-bottom-color: var(--amber);
 }
@@ -550,11 +557,14 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
 }
 .cluster-title em { color: var(--amber); font-style: italic; }
 .cluster-sub {
-  max-width: 105ch;
+  max-width: 120ch;
   font-size: 1.05rem;
   color: var(--ink-dim);
   line-height: 1.5;
   margin-bottom: 1.4rem;
+  /* Wide enough to fit in ≤3 lines, balanced so the last line never
+     orphans (e.g. "their name." sitting on its own line). */
+  text-wrap: balance;
 }
 .cluster-cta-inline {
   display: inline;
@@ -1026,11 +1036,14 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
 }
 .shape-shift-title em { color: var(--amber); font-style: italic; }
 .shape-shift-sub {
-  max-width: 105ch;
+  max-width: 120ch;
   font-size: 1.05rem;
   color: var(--ink-dim);
   line-height: 1.5;
   margin: 0 0 1.4rem;
+  /* Wide enough to fit in ≤3 lines, balanced so the last line never
+     orphans (e.g. "don't recover." sitting on its own line). */
+  text-wrap: balance;
 }
 .shape-shift-sub em {
   color: inherit;
@@ -1123,21 +1136,27 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
 .explorer {
   max-width: var(--max);
   margin: 0 auto;
-  padding: 4rem var(--gutter) 3rem;
+  /* Generous top breathing room so the "your turn" handoff feels like a
+     new beat after the second-reason chart, not a continuation. The
+     bottom padding ensures the closing section's title doesn't kiss the
+     explorer's chart on tall viewports. */
+  padding: 7rem var(--gutter) 6rem;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   box-sizing: border-box;
 }
-/* Two-column header band: copy on the left, search + toggle on the right
-   filling the empty half of the row. The curated grid spans full width
-   below it; the chart stage sits beneath that. */
+/* Two-column header band: copy on the left, search + shuffle on the right.
+   Tightened gap and a wider right column so the search bar sits closer to
+   the intro copy instead of being marooned at the page edge. Items align
+   to the top of the row so the search bar lands at the same level as the
+   h2 (offset by the eyebrow above it). */
 .explorer-top {
   display: grid;
-  grid-template-columns: minmax(0, 1.5fr) minmax(280px, 0.9fr);
-  gap: 4rem;
-  align-items: end;
-  margin-bottom: 1.8rem;
+  grid-template-columns: minmax(0, 1fr) minmax(320px, 1fr);
+  gap: 2rem;
+  align-items: start;
+  margin-bottom: 1.2rem;
 }
 .explorer-head { max-width: 64ch; }
 .explorer-head .eyebrow { margin-bottom: 0.8rem; }
@@ -1151,21 +1170,31 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
 }
 .explorer-head h2 em { color: var(--amber); font-style: italic; }
 .explorer-intro {
-  max-width: 60ch;
+  max-width: 120ch;
   font-size: 0.95rem;
   color: var(--ink-dim);
   line-height: 1.5;
+  margin-bottom: 0;
+  /* Wide enough to fit in ≤3 lines, balanced so the last line doesn't
+     orphan a tail of words. */
+  text-wrap: balance;
 }
-/* Controls live in the right column of .explorer-top — search bar on top,
-   turn-toggle directly below it. */
+/* Search input + shuffle live on a single row. Search takes all available
+   width; shuffle sits flush right against it. The turn-toggle has been
+   moved to the chart area so it lives next to the thing it controls. The
+   margin-top centers the search bar vertically with the h2 — accounts
+   for the eyebrow above the h2 plus roughly half the difference between
+   h2 line-height and the input's height, so the visual centers align
+   instead of the top edges (which read as "search slightly above title"
+   because Fraunces sets letters lower in their line-box). */
 .explorer-controls {
   display: flex;
-  flex-direction: column;
-  align-items: stretch;
-  gap: 1rem;
-  margin-bottom: 0;
+  flex-direction: row;
+  align-items: center;
+  gap: 0.8rem;
+  margin: 2.5rem 0 0;
 }
-.search { position: relative; width: 100%; }
+.search { position: relative; flex: 1 1 auto; min-width: 0; }
 .search input {
   width: 100%;
   padding: 0.7rem 1rem;
@@ -1200,14 +1229,8 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
 .search-results li:hover, .search-results li.is-focus { background: var(--bg-raise); color: var(--amber); }
 .search-results li .year { font-family: var(--mono); font-size: 0.7rem; color: var(--ink-faint); margin-left: 0.6rem; }
 
-/* Shuffle + turn-toggle live in a horizontal row beneath the search bar. */
-.explorer-actions {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 1rem;
-}
 .explorer-shuffle {
+  flex: 0 0 auto;
   background: transparent;
   border: 1px solid var(--rule);
   color: var(--ink-dim);
@@ -1215,56 +1238,13 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
   font-size: 0.74rem;
   letter-spacing: 0.16em;
   text-transform: uppercase;
-  padding: 0.6rem 1rem;
+  padding: 0.7rem 1rem;
   cursor: pointer;
   transition: color 200ms, border-color 200ms;
+  white-space: nowrap;
 }
 .explorer-shuffle:hover { color: var(--amber); border-color: var(--amber); }
 .explorer-shuffle span { margin-right: 0.4em; }
-
-/* turning-points toggle (replaces emo-axis) */
-.turn-toggle {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.7rem;
-  cursor: pointer;
-  user-select: none;
-}
-.turn-toggle input { position: absolute; opacity: 0; pointer-events: none; }
-.turn-toggle-track {
-  width: 36px;
-  height: 20px;
-  border: 1px solid var(--rule);
-  background: var(--bg-raise);
-  border-radius: 999px;
-  position: relative;
-  transition: background 200ms, border-color 200ms;
-}
-.turn-toggle-track::before {
-  content: "";
-  position: absolute;
-  width: 14px; height: 14px;
-  background: var(--ink-dim);
-  border-radius: 50%;
-  top: 2px; left: 2px;
-  transition: transform 200ms, background 200ms;
-}
-.turn-toggle input:checked + .turn-toggle-track {
-  background: var(--amber);
-  border-color: var(--amber);
-}
-.turn-toggle input:checked + .turn-toggle-track::before {
-  transform: translateX(16px);
-  background: var(--bg);
-}
-.turn-toggle-label {
-  font-family: var(--sans);
-  font-size: 0.78rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--ink-dim);
-}
-.turn-toggle:hover .turn-toggle-label { color: var(--ink); }
 
 .explorer-grid {
   display: grid;
@@ -1302,17 +1282,79 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
   display: grid;
   grid-template-columns: 1fr 300px;
   gap: 2.5rem;
-  align-items: stretch;
+  /* `start` instead of `stretch` so the chart cell never grows to match
+     the meta column when its stage-blob expands on hover (the script
+     excerpt block adds ~20em on hover; with `stretch` that pushed the
+     SVG taller mid-interaction, which read as the graph "stretching"). */
+  align-items: start;
   flex: 1 1 auto;
   min-height: 0;
+}
+/* The chart cell is its own positioning context so the turn-toggle can
+   float over the top-right of the arc without escaping into the meta
+   column. min-width/min-height: 0 keeps the SVG from blowing past its
+   grid track on narrow viewports. */
+.explorer-stage-chart {
+  position: relative;
+  min-width: 0;
+  min-height: 0;
+}
+/* Dominant-archetype mark: the la-linea icon for the loaded film's
+   shape, tinted to the archetype's color. Implemented as a CSS mask
+   so the same hand-drawn PNG can render in any of the six colors —
+   the PNG's alpha channel is the mask, the element's background-color
+   is the ink color. mask-image and background-color are set inline by
+   JS in loadFilm based on the film's dominant_archetype. */
+.arc-archetype-mark {
+  /* Lives in the meta column above the match-stats panel — appears as
+     the "verdict" once the line has drawn and turned color, hides while
+     a turning-point dot is hovered (the stage-blob fills with the
+     script excerpt at that moment, so the icon would crowd it). Sized
+     to roughly half the 300px meta column so it reads as a real
+     graphic, not a decorative chip.
+     On dot-hover we add `.is-collapsed` to ALSO zero out the icon's
+     vertical footprint so the excerpt panel doesn't sit below a 180px
+     ghost rectangle of empty space. */
+  margin-top: 1.4rem;
+  width: 180px;
+  height: 180px;
+  max-height: 200px;
+  pointer-events: none;
+  opacity: 0.9;
+  -webkit-mask-size: contain;
+          mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+          mask-repeat: no-repeat;
+  -webkit-mask-position: top left;
+          mask-position: top left;
+  /* Prefer alpha mask so a pure-black-ink PNG with transparent bg renders
+     the ink (not the absence of ink) in the archetype color. */
+  -webkit-mask-mode: alpha;
+          mask-mode: alpha;
+  /* Hidden by default — JS reveals once a film with a known dominant
+     archetype loads (avoids a flash of an unstyled mark). */
+  display: none;
+  overflow: hidden;
+}
+/* Collapsed state for dot-hover: zero out the vertical footprint AND
+   the margin so the panel below it shifts up cleanly while the script
+   excerpt expands. !important needed because JS sets opacity inline
+   for the initial reveal animation. */
+.arc-archetype-mark.is-collapsed {
+  opacity: 0 !important;
+  max-height: 0 !important;
+  margin-top: 0 !important;
+  pointer-events: none;
 }
 .explorer-svg {
   width: 100%;
   height: 100%;
-  min-height: 280px;
+  min-height: 440px;
   display: block;
-  background: var(--bg-raise);
-  border: 1px solid var(--rule);
+  /* No background or border — match the rest of the page's chart canvases
+     (intro pin, shape-shift, dialogue-density) which sit transparent on
+     the page bg. The explorer was the only chart with a darker raised
+     panel, which read as inconsistent. */
 }
 .explorer-meta { padding: 1rem 0; }
 .stage-title {
@@ -1322,6 +1364,10 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
   color: var(--ink);
   margin-bottom: 0.25rem;
 }
+/* Stage title italic = the film title itself; the year stays upright in
+   parens. Override the global em (amber-soft) so the title reads in the
+   panel's normal ink color. */
+.stage-title em { color: inherit; font-style: italic; font-weight: inherit; }
 .stage-sub {
   font-family: var(--mono);
   font-size: 0.72rem;
@@ -1339,6 +1385,104 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
   min-height: 4em;
 }
 .stage-blob em { color: var(--ink-dim); font-style: italic; }
+/* Match-stat: mono uppercase, bold percentage with a normal-weight tail.
+   Mirrors the .pin-tip-match / .pin-tip-pct / .pin-tip-tail treatment in
+   the one-at-a-time pin so the explore panel reads as the same family
+   of side annotation. Color is set inline per archetype in JS. */
+.stage-blob .arch-match {
+  display: block;
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+.stage-blob .arch-match-pct  { font-weight: 700; }
+.stage-blob .arch-match-tail { font-weight: 400; }
+/* Secondary match lines are supporting context — keep the percentage
+   at the same regular weight as its tail so the only visually bold
+   stat is the primary (dominant-archetype) line. */
+.stage-blob .arch-match-secondary .arch-match-pct { font-weight: 400; }
+/* Loading state: while the curve is drawing + colorizing, the match
+   panel shows a quiet pulsing "..." in the same mono family. Replaced
+   with the real percentages by JS once the line-color tween ends. */
+/* Loading state: a stack of three skeleton bars with a moving gradient
+   highlight that sweeps across each. The shimmer reads as editorial
+   scaffolding (think NYT / FT skeleton placeholders) rather than a
+   generic spinner. Bar heights mirror the typography they replace —
+   primary is taller (mono uppercase 0.78rem) and secondaries are
+   shorter (mono uppercase 0.7rem). The shimmer animation runs on each
+   bar with a small stagger so the panel feels alive but not noisy. */
+.stage-blob .arch-match-loading {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  padding-top: 0.15rem;
+}
+.stage-blob .arch-match-loading .skeleton {
+  display: block;
+  height: 0.62em;
+  border-radius: 1px;
+  background: linear-gradient(
+    90deg,
+    var(--rule-soft) 0%,
+    var(--rule-soft) 35%,
+    var(--ink-faint) 50%,
+    var(--rule-soft) 65%,
+    var(--rule-soft) 100%
+  );
+  background-size: 220% 100%;
+  background-position: 100% 0;
+  opacity: 0.55;
+  animation: arch-skeleton-shimmer 1.6s ease-in-out infinite;
+}
+.stage-blob .arch-match-loading .skeleton-primary   { width: 11rem; height: 0.7em; }
+.stage-blob .arch-match-loading .skeleton-secondary { width: 8.5rem; height: 0.55em; }
+.stage-blob .arch-match-loading .skeleton:nth-child(2) { animation-delay: 0.18s; }
+.stage-blob .arch-match-loading .skeleton:nth-child(3) { animation-delay: 0.36s; }
+@keyframes arch-skeleton-shimmer {
+  0%   { background-position: 120% 0; }
+  100% { background-position: -120% 0; }
+}
+/* Secondary matches: same typographic family as the primary line but
+   smaller, neutral-color, and tighter top-margin so they read clearly
+   as supporting context rather than parallel claims. */
+.stage-blob .arch-match-secondary {
+  font-size: 0.7rem;
+  margin-top: 0.25rem;
+  color: var(--ink-faint);
+}
+/* Raw screenplay excerpt — shown when a turning point has no curated
+   NOTES entry. Monospace + tight leading reads as source rather than
+   prose; max-height + overflow-y let the reader scroll within the box
+   without resizing the panel. */
+.stage-blob .script-excerpt {
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  /* Clean-number line-height makes max-height land on integer lines. */
+  line-height: 1.5;
+  color: var(--ink-dim);
+  white-space: pre-wrap;
+  margin: 0.4rem 0 0;
+  /* Top + bottom padding equal one line-height so the visible content
+     window snaps to whole lines when overflow kicks in (no mid-glyph
+     bottom slice). */
+  padding: 0.75em 0.7rem;
+  background: var(--bg);
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  /* 14 lines × 1.5em + 1.5em padding = 22.5em, so the content area
+     always closes on a clean line boundary. */
+  max-height: 22.5em;
+  overflow-y: auto;
+  outline: none;
+  /* Soft fade at the bottom edge as an affordance for "scroll to see
+     more" — even with the line snapping above, this signals that more
+     content is below and prevents any residual half-line cutoff from
+     reading as a visual error. */
+  mask-image: linear-gradient(to bottom, #000 calc(100% - 1.6em), transparent 100%);
+  -webkit-mask-image: linear-gradient(to bottom, #000 calc(100% - 1.6em), transparent 100%);
+}
+.stage-blob .script-excerpt:focus { border-color: var(--amber-soft); }
 .stage-blob .note {
   display: block;
   margin-top: 0.4rem;
@@ -1379,12 +1523,23 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
   max-width: 18ch;
   margin-bottom: 2.5rem;
 }
+/* Mosaic / magazine-column layout — blocks flow into two columns and
+   pack by height, so a long block (Sentiment, Clustering) sits next to
+   two shorter blocks rather than leaving a row-gap of empty space. The
+   `break-inside: avoid` rule keeps each .meth-block whole; varying
+   heights produce the staggered, packed-mosaic feel. Reading order is
+   newspaper-style: first column top-to-bottom, then second column. */
 .meth-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 2rem 2.5rem;
+  column-count: 2;
+  column-gap: 3rem;
+  column-rule: none;
 }
-.meth-block { max-width: 38ch; }
+.meth-block {
+  break-inside: avoid;
+  -webkit-column-break-inside: avoid;
+  page-break-inside: avoid;
+  margin: 0 0 2rem;
+}
 .meth-block h4 {
   font-family: var(--mono);
   font-size: 0.74rem;
@@ -1394,6 +1549,20 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
   margin-bottom: 0.6rem;
 }
 .meth-block p { color: var(--ink-dim); font-size: 0.95rem; }
+/* Inline links inside methodology body copy — same amber treatment as
+   the intermission-sub / cluster-sub treatment so external citations
+   read as part of the page's link family. */
+.meth-block a {
+  color: var(--amber);
+  text-decoration: none;
+  border-bottom: 1px solid var(--amber-soft);
+  transition: color 200ms, border-color 200ms;
+}
+.meth-block a:hover {
+  color: var(--amber-soft);
+  border-bottom-color: var(--amber);
+}
+.meth-block a em { color: inherit; font-style: italic; font-weight: inherit; }
 .meth-scrim {
   position: fixed;
   inset: 0;
@@ -1423,25 +1592,85 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
 .closing {
   max-width: var(--max);
   margin: 0 auto;
-  padding: 12rem var(--gutter) 8rem;
+  /* Bumped top from 12rem → 18rem so the closing feels like a clean
+     final beat after the explorer rather than tucked right behind it. */
+  padding: 18rem var(--gutter) 8rem;
   text-align: left;
 }
 .closing-title {
-  font-size: clamp(3rem, 9vw, 8rem);
+  /* Scaled down from the previous "Kurt Vonnegut was right." treatment
+     since the closing copy is now three sentences of expanding thought
+     rather than a single declarative line. Still substantial — feels
+     like a final beat — but doesn't dominate the screen with one
+     enormous run-on.
+     Width is set to comfortably hold three lines of the full text even
+     when the "equipment for living," scramble is cycling through wider-
+     than-target characters; otherwise the wrap would oscillate between
+     3 and 4 lines as the scramble runs. text-wrap: balance keeps the
+     three lines evenly distributed regardless of which chars are in
+     the scramble buffer at any frame. */
+  font-size: clamp(2.2rem, 5.2vw, 4.6rem);
   font-weight: 300;
   font-variation-settings: "opsz" 144, "SOFT" 25;
-  line-height: 0.95;
+  line-height: 1.05;
   margin: 0 0 1.5rem;
+  max-width: 52ch;
+  text-wrap: balance;
 }
 .closing-title em { color: var(--amber); font-style: italic; }
 .closing-line {
-  font-family: var(--serif-display);
-  font-variation-settings: "opsz" 60, "SOFT" 60;
-  font-style: italic;
-  font-size: clamp(1.4rem, 3vw, 2.2rem);
+  /* Matches the .intermission-sub treatment ("Data suggests it could be
+     for a few reasons.") — body serif, plain (no italic), modest size.
+     Reads as a quiet outro instead of a second display line. */
+  font-family: var(--serif-body);
+  font-size: 1.2rem;
   color: var(--ink-dim);
+  line-height: 1.5;
   max-width: none;
   margin-bottom: 5rem;
+}
+/* Italic-only override for "dark" inside the closing line — global em
+   adds amber + heavier weight, but here we want italic alone so the
+   word doesn't visually compete with the rest of the line. */
+.closing-line em { color: inherit; font-weight: inherit; font-style: italic; }
+
+/* ───────────────── footer ─────────────────
+   Quiet bio + colophon at the bottom of the page. Top rule separates
+   it from the closing section so it reads as a true footer rather
+   than another body paragraph. Matches the page's amber-link family
+   for the inline letterboxd hyperlink. */
+.site-footer {
+  /* Border + text share the same horizontal box now: gutter padding on
+     the OUTER footer, and the rule + body copy live on an inner block
+     that owns its own vertical padding. Text and rule start/end at the
+     same x position instead of the rule extending past the indented
+     text. */
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+}
+.site-footer p {
+  /* Span the full footer width — the bio reads as a single horizontal
+     band against the rule above it, mirroring the page's outer max
+     instead of being capped to a body-copy column width. */
+  max-width: none;
+  border-top: 1px solid var(--rule);
+  padding: 2.4rem 0 3.5rem;
+  font-family: var(--serif-body);
+  font-size: 0.9rem;
+  color: var(--ink-faint);
+  line-height: 1.6;
+  margin: 0;
+}
+.site-footer a {
+  color: var(--amber);
+  text-decoration: none;
+  border-bottom: 1px solid var(--amber-soft);
+  transition: color 200ms, border-color 200ms;
+}
+.site-footer a:hover {
+  color: var(--amber-soft);
+  border-bottom-color: var(--amber);
 }
 .colophon {
   font-family: var(--mono);
@@ -1509,6 +1738,114 @@ svg .axis-y-side {
 }
 .essay .essay-close em { color: var(--amber); font-style: italic; }
 
+/* ───────────────── site nav (top-right pip rail) ─────────────────
+   Editorial nav matched to the page's design tokens: bg-raise pip with
+   rule border, amber fill on the active section, mono uppercase label
+   that matches the section eyebrows.
+
+   Reveal model: the nav is FULLY HIDDEN until the user hovers the
+   top-right corner of the viewport. A transparent .site-nav-zone div
+   sits as a sibling above the nav in DOM order — when it's hovered, a
+   sibling combinator below shows the nav. While the user is reading
+   the storytelling, the nav stays out of the way. */
+.site-nav-zone {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 220px;
+  height: 220px;
+  z-index: 49;
+  pointer-events: auto;
+  /* Invisible — purely a hover trap. Uncomment background for debug. */
+  /* background: rgba(255, 0, 0, 0.08); */
+}
+.site-nav {
+  position: fixed;
+  right: 1.4rem;
+  top: 1.4rem;
+  z-index: 50;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 280ms ease;
+}
+/* Reveal when the corner hot-zone is hovered, OR when the nav itself is
+   hovered (so moving from zone onto a pip doesn't break the chain), OR
+   when keyboard focus lands inside it. */
+.site-nav-zone:hover ~ .site-nav,
+.site-nav:hover,
+.site-nav:focus-within {
+  opacity: 1;
+  pointer-events: auto;
+}
+.site-nav.is-active,
+.site-nav:hover,
+.site-nav:focus-within {
+  opacity: 1;
+}
+.site-nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.95rem;
+  align-items: flex-end;
+}
+.site-nav li { margin: 0; padding: 0; }
+.site-nav a {
+  display: flex;
+  /* row-reverse so the pip sits on the right (flush with the screen edge)
+     and the label extends leftward into the page when revealed. */
+  flex-direction: row-reverse;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0.7rem;
+  text-decoration: none;
+  outline: none;
+}
+.site-nav .pip {
+  flex: 0 0 auto;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--bg-raise);
+  border: 1px solid var(--ink-faint);
+  transition: background 220ms, border-color 220ms, transform 220ms;
+}
+.site-nav .label {
+  font-family: var(--mono);
+  font-size: 0.66rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--ink-dim);
+  white-space: nowrap;
+  opacity: 0;
+  transform: translateX(6px);
+  transition: opacity 220ms ease, transform 220ms ease, color 220ms;
+  pointer-events: none;
+}
+.site-nav:hover .label,
+.site-nav:focus-within .label,
+.site-nav.is-active .label {
+  opacity: 1;
+  transform: translateX(0);
+}
+.site-nav a:hover .pip,
+.site-nav a:focus-visible .pip {
+  border-color: var(--amber);
+  background: var(--amber-soft);
+}
+.site-nav a:hover .label,
+.site-nav a:focus-visible .label {
+  color: var(--amber);
+}
+.site-nav a.is-current .pip {
+  background: var(--amber);
+  border-color: var(--amber);
+  transform: scale(1.25);
+}
+.site-nav a.is-current .label { color: var(--ink); }
+
 /* ───────────────── responsive ───────────────── */
 @media (max-width: 900px) {
   .explorer-stage, .explorer-top {
@@ -1523,6 +1860,12 @@ svg .axis-y-side {
   .archetypes-pin { height: 600vh; }
   .intermission-title { font-size: clamp(2.2rem, 9vw, 4rem); }
   .meth-drawer { padding: 4rem 1.5rem; }
+  /* Single-column methodology on narrow drawer widths so the columns
+     aren't too narrow to read comfortably. */
+  .meth-grid { column-count: 1; }
+  /* Hide the desktop side-rail on narrow viewports — the page's intermissions
+     and prelude eyebrows already orient the reader vertically on mobile. */
+  .site-nav { display: none; }
 }
 
 /* SplitText reveal helper — hide split lines/words/chars before GSAP animates them in */

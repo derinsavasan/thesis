@@ -3,15 +3,92 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>The Shapes of Stories · Emotional arcs in Hollywood screenplays</title>
+  <title>Shapes of Stories</title>
+  <link id="favicon" rel="icon" type="image/png" href="la-linea/linea_oedipus.png">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT@9..144,300..900,0..100&family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT@9..144,300..900,0..100&family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=optional" rel="stylesheet">
 
   <link rel="stylesheet" href="styles.css" />
+
+  <!-- Random la-linea favicon. Uses a SHUFFLED BAG, not naive random,
+       so all six archetypes cycle before any repeats — the previous
+       version (Math.random with last-pick rejection) could land on the
+       same two icons disproportionately over short sessions. Now: draw
+       the next icon from the bag; when the bag's empty, reshuffle the
+       full set. Guarantees every six picks include all six archetypes
+       in a different order each round.
+       We REMOVE and re-INSERT the link element on every refresh because
+       most browsers ignore href mutations on an existing favicon link
+       — only a brand-new element triggers a re-eval. -->
+  <script>
+    (() => {
+      const ICONS = [
+        "la-linea/linea_oedipus.png",
+        "la-linea/linea_icarus.png",
+        "la-linea/linea_man_in_a_hole.png",
+        "la-linea/linea_tragedy.png",
+        "la-linea/linea_rags_to_riches.png",
+        "la-linea/linea_cinderella.png",
+      ];
+      // Fisher–Yates shuffle on a copy of ICONS.
+      function shuffleBag() {
+        const a = ICONS.slice();
+        for (let i = a.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [a[i], a[j]] = [a[j], a[i]];
+        }
+        return a;
+      }
+      let bag = shuffleBag();
+      let lastPick = null;
+      function refresh() {
+        if (bag.length === 0) bag = shuffleBag();
+        // If the next item in a freshly-shuffled bag matches the last
+        // pick, swap it with another so two consecutive picks are never
+        // identical even across bag boundaries.
+        if (bag.length > 1 && bag[bag.length - 1] === lastPick) {
+          [bag[bag.length - 1], bag[0]] = [bag[0], bag[bag.length - 1]];
+        }
+        const pick = bag.pop();
+        lastPick = pick;
+        const old = document.getElementById("favicon");
+        if (old) old.remove();
+        const link = document.createElement("link");
+        link.id = "favicon";
+        link.rel = "icon";
+        link.type = "image/png";
+        // Cache-bust suffix nudges browsers that disk-cache the old icon.
+        link.href = pick + "?v=" + Date.now();
+        document.head.appendChild(link);
+      }
+      refresh();
+      document.addEventListener("visibilitychange", () => {
+        if (document.hidden) refresh();
+      });
+    })();
+  </script>
 </head>
 <body>
+
+<!-- ───────────────── SITE NAV (right-edge pip rail) ─────────────────
+     The .site-nav-zone is an invisible top-right hover trap — entering
+     it triggers the CSS-only reveal of the nav (sibling combinator). The
+     nav stays hidden the rest of the time so it never overlays a chart
+     while the user is reading. -->
+<div class="site-nav-zone" aria-hidden="true"></div>
+<nav class="site-nav" aria-label="Section navigation">
+  <ul>
+    <li><a href="#top" data-section="top"><span class="pip" aria-hidden="true"></span><span class="label">Beginning</span></a></li>
+    <li><a href="#intro" data-section="intro"><span class="pip" aria-hidden="true"></span><span class="label">Vonnegut</span></a></li>
+    <li><a href="#intro-pin" data-section="intro-pin"><span class="pip" aria-hidden="true"></span><span class="label">One film</span></a></li>
+    <li><a href="#archetypes" data-section="archetypes"><span class="pip" aria-hidden="true"></span><span class="label">Six shapes</span></a></li>
+    <li><a href="#dialogue-density" data-section="what-changed"><span class="pip" aria-hidden="true"></span><span class="label">What changed</span></a></li>
+    <li><a href="#explore" data-section="explore"><span class="pip" aria-hidden="true"></span><span class="label">Explorer</span></a></li>
+    <li><a href="#closing" data-section="closing"><span class="pip" aria-hidden="true"></span><span class="label">End</span></a></li>
+  </ul>
+</nav>
 
 <!-- ───────────────── HERO ───────────────── -->
 <section class="hero" id="top">
@@ -36,8 +113,8 @@
   <div class="von-row">
     <figure class="von-portrait">
       <div class="von-media">
-        <img src="vonnegut.png" alt="Kurt Vonnegut at the chalkboard, 2004" onerror="this.classList.add('missing')" />
-        <video class="von-video" src="vonnegut.mp4" poster="vonnegut.png" muted loop playsinline preload="auto" aria-hidden="true"></video>
+        <img src="vonnegut.jpg" alt="Kurt Vonnegut at the chalkboard, 2004" loading="lazy" decoding="async" onerror="this.classList.add('missing')" />
+        <video class="von-video" src="vonnegut.mp4" poster="vonnegut.jpg" muted loop playsinline preload="none" aria-hidden="true"></video>
       </div>
       <figcaption>
         The protagonist moves between good fortune (G) and ill fortune (I) from the beginning (B) to the end (E) of a story. The different arcs represent different stories.
@@ -99,7 +176,7 @@
 
     <div class="intro-beat" data-beat="0">
       <h3>Highs and lows.</h3>
-      <p>Peaks are <em id="intro-beat-film">…</em>’s emotional highs. Valleys are its emotional lows. <strong>Keep scrolling to follow the pulse.</strong></p>
+      <p>Peaks are <em id="intro-beat-film">…</em>’s emotional highs. Valleys are its emotional lows.<br><strong>Keep scrolling to follow the pulse.</strong></p>
     </div>
     <div class="intro-beat" data-beat="1">
       <h3>Watch where it turns.</h3>
@@ -122,7 +199,7 @@
   <p class="eyebrow">the answer</p>
   <h2 class="cluster-title">Six&nbsp;shapes.&nbsp;That’s&nbsp;it.</h2>
   <p class="cluster-sub">
-    Six shapes came back for <span class="num">1,627</span> screenplays. They line up with the ones Vonnegut drew, give or take.<br>He named them. <strong>Click one to see what inspired their name.</strong>
+    Six shapes came back for <span class="num">1,627</span> screenplays. <a href="https://cdanfort.w3.uvm.edu/research/2016-reagan-epj.pdf" target="_blank" rel="noopener">Reagan et al.</a> found the same six for books back in 2016. They line up with what Vonnegut drew on the chalkboard, give or take. He named them. <strong>Click one to see what inspired their name.</strong>
   </p>
   <div class="cluster-board">
     <div class="cluster-grid"></div>
@@ -205,7 +282,7 @@
     <p class="eyebrow">second reason</p>
     <h2 class="shape-shift-title">Things are more dramatic and less forgiving.</h2>
     <p class="shape-shift-sub">
-      The genre mix has bent toward drama. Comedy has halved. Adventure has nearly vanished. But the bigger story sits inside the genres themselves. In Drama, Rags to Riches has collapsed. In Horror, Icarus has surged. In other words, we’re watching heavier movies now. When things go well, it doesn’t last. When they go badly, our heroes don’t recover.
+      The genre mix has bent toward drama. Comedy has halved. Adventure has nearly vanished. But the bigger story sits inside the genres themselves. In Drama, Rags to Riches has collapsed. In Horror, Icarus has surged. In other words, we’re watching heavier movies now. When things go well, it doesn’t last. When they go badly, our heroes don’t&nbsp;recover.
     </p>
   </header>
   <div class="shape-shift-chart">
@@ -221,7 +298,7 @@
       <p class="eyebrow">your turn</p>
       <h2>Pick one. Watch its <em><span class="scramble">pulse.</span></em></h2>
       <p class="explorer-intro">
-        <strong>Click any of the curated picks below to draw its arc.</strong> Or <strong>search across all <span class="num">1,627</span> films</strong> to bring in any title from the corpus. <strong>Toggle the turning points</strong> to see the moments where the story changes its mind.
+        Pick one. Or rummage through all <span class="num">1,627</span>. Dots mark the turning points.
       </p>
     </header>
 
@@ -230,43 +307,45 @@
         <input id="film-search" type="text" placeholder="Search all 1,627 films…" autocomplete="off" />
         <ul id="search-results" class="search-results" hidden></ul>
       </div>
-      <div class="explorer-actions">
-        <button class="explorer-shuffle" id="explorer-shuffle" type="button" title="Pick a random film">
-          <span aria-hidden="true">↻</span> Shuffle
-        </button>
-        <label class="turn-toggle">
-          <input type="checkbox" id="turn-toggle" />
-          <span class="turn-toggle-track"></span>
-          <span class="turn-toggle-label">Show turning points</span>
-        </label>
-      </div>
+      <button class="explorer-shuffle" id="explorer-shuffle" type="button" title="Pick a random film">
+        <span aria-hidden="true">↻</span> Shuffle
+      </button>
     </div>
   </div>
 
   <div class="explorer-grid" id="film-grid"></div>
 
   <div class="explorer-stage">
-    <svg class="explorer-svg"></svg>
+    <div class="explorer-stage-chart">
+      <svg class="explorer-svg"></svg>
+    </div>
     <div class="explorer-meta">
       <div class="stage-title" id="stage-title">Select a film</div>
-      <div class="stage-sub" id="stage-sub">Toggle turning points to see the dots</div>
+      <div class="stage-sub" id="stage-sub">Hover a dot for the moment behind it</div>
+      <!-- Icon sits ABOVE the stage-blob so the blob's variable height
+           (it expands when a script excerpt is shown on dot-hover) can
+           grow downward without dragging the icon along with it. -->
+      <div class="arc-archetype-mark" id="arc-arch-mark" aria-hidden="true"></div>
       <div class="stage-blob" id="stage-blob"></div>
     </div>
   </div>
 </section>
 
 <!-- ───────────────── CLOSING ───────────────── -->
-<section class="closing">
+<section class="closing" id="closing">
   <h2 class="closing-title">
-    <span class="scramble" data-final="Kurt Vonnegut">Kurt Vonnegut</span>
-    <em><span class="scramble" data-final="was right">was right</span></em>.
+    Kurt Vonnegut was right. Stories have shapes. And these shapes are <em><span class="scramble" data-final="equipment for living,">equipment for living,</span></em> kind of like practice runs for the future.
   </h2>
-  <p class="closing-line">Storylines are eternal.</p>
+  <p class="closing-line">So what kind of future are we practicing for? Judging by the shapes, it seems rather... <em>dark</em>.</p>
   <p class="meth-link"><a href="#" data-meth-open>Read the methodology →</a></p>
-  <p class="colophon">
-    1,627 screenplays · Movie Script Database · arcs over 20 normalized positions · k-means, k = 6 · typography Fraunces, Source Serif 4, Inter, JetBrains Mono.
-  </p>
 </section>
+
+<!-- ───────────────── FOOTER ───────────────── -->
+<footer class="site-footer">
+  <p>
+    Derin holds a B.A. in Psychology, Cognitive Science, and Art History from Georgetown University. She is a programmer, designer, and writer from Istanbul,<br>now based in New York. She is an avid <a href="https://letterboxd.com/derinsavasan/" target="_blank" rel="noopener">moviegoer</a>. She also hates writing in the third person.
+  </p>
+</footer>
 
 <!-- ───────────────── METHODOLOGY DRAWER ───────────────── -->
 <aside class="meth-drawer" id="meth-drawer" aria-hidden="true">
@@ -277,27 +356,27 @@
     <div class="meth-grid">
       <div class="meth-block">
         <h4>Corpus</h4>
-        <p>1,627 Hollywood feature screenplays, sourced from the Movie Script Database. Filtered to features with a complete script and a release year between 1980 and 2025.</p>
+        <p>1,627 screenplays scraped from <a href="https://www.scriptslug.com" target="_blank" rel="noopener">Script Slug</a> using a modified version of the Movie Script Database pipeline (<a href="https://github.com/Aveek-Saha/Movie-Script-Database" target="_blank" rel="noopener">Saha, 2021</a>). Final drafts only, 1980 to 2025. Titles and release years cross-checked against TMDb and IMDb.</p>
+      </div>
+      <div class="meth-block">
+        <h4>Parsing</h4>
+        <p>Each script is a PDF. Some are clean. Some are scans of scans. I pulled text out two ways: pypdf first, ocrmypdf for the ones that fought back. From there a rule-based parser from <a href="https://aclanthology.org/P17-1153.pdf" target="_blank" rel="noopener">Ramakrishna et al. (2017)</a> separates dialogue from action and character names from slug lines, so the script can be read by a machine the way it’s read by a person. I patched two edge cases the original parser misses.</p>
       </div>
       <div class="meth-block">
         <h4>Sentiment</h4>
-        <p>Sentence-level scoring with VADER plus a custom screenwriting lexicon to catch the genre-specific vocabulary the off-the-shelf model misses.</p>
-      </div>
-      <div class="meth-block">
-        <h4>Normalization</h4>
-        <p>Each script is resampled onto twenty equally spaced positions so a 90-page comedy and a 180-page epic can be compared on the same axis. The vertical axis is the film’s own standardized signal, not an absolute scale.</p>
+        <p>A <a href="https://huggingface.co/siebert/sentiment-roberta-large-english" target="_blank" rel="noopener">RoBERTa-based</a> sentiment model reads each script in twenty overlapping windows scaled to its length. (I tried various window sizes before settling on this one.)Each window gets a signed score: positive class probability minus negative. String the scores together and you get the arc. Each script is z-scored within itself, so a quiet drama and a loud thriller sit on the same axis. The approach extends <a href="https://cdanfort.w3.uvm.edu/research/2016-reagan-epj.pdf" target="_blank" rel="noopener">Reagan et al. (2016)</a>, who did this for 1,327 books in Project Gutenberg.</p>
       </div>
       <div class="meth-block">
         <h4>Clustering</h4>
-        <p>K-means on the standardized arcs, k = 6 chosen by silhouette and the elbow on within-cluster sum of squares. Each film carries a vector of weights — how strongly it belongs to each cluster — alongside its dominant assignment.</p>
+        <p>First I tried sorting the arcs into hard buckets. Ward’s hierarchical clustering, HDBSCAN, DP-GMM. The arcs refused. UMAP showed they sit on a smooth continuum, not in clean groups. So instead of forcing them into boxes, I used <a href="https://www.stat.cmu.edu/technometrics/90-00/vol-36-04/v3604338.pdf" target="_blank" rel="noopener"><em>Archetypal Analysis</em></a>. It finds the six most extreme shapes in the corpus and lets every film sit on a mixture of them. Most films are blends. A few are pure. The six archetypes map onto the shapes Reagan et al. found in literary fiction: Oedipus, Icarus, Man in a Hole, Tragedy, Rags to Riches, Cinderella.</p>
       </div>
       <div class="meth-block">
         <h4>Turning points</h4>
-        <p>Local extrema on a smoothed version of each arc, filtered for prominence so small wobbles do not register as story beats. The hand-written notes are mine, page-anchored, one per detected turn.</p>
+        <p>Local highs and lows on a <a href="https://agora.cs.wcu.edu/~huffman/figures/sgpaper1964.pdf" target="_blank" rel="noopener">Savitzky-Golay</a> smoothed version of the arc, filtered by prominence (threshold 0.5, tested across 0.3 to 0.7). Small wobbles get filtered out. Only the moments where the story visibly changes its mind survive. The notes on each turn are mine, written by hand, anchored to the page they happen on.</p>
       </div>
       <div class="meth-block">
         <h4>Caveats</h4>
-        <p>Sentiment is not plot. A war film can read positive on the page if the dialogue is hopeful. The shapes capture the emotional rhythm of the writing, not the events.</p>
+        <p>Sentiment is not plot. A war film can read positive on the page if the dialogue is hopeful. These shapes are the emotional rhythm of the writing. Not the events.</p>
       </div>
     </div>
   </div>
