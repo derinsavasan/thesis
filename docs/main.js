@@ -12,6 +12,21 @@ const _gsapPlugins = ["ScrollTrigger", "SplitText", "MorphSVGPlugin", "ScrambleT
   .map(n => window[n]).filter(Boolean);
 if (window.gsap && _gsapPlugins.length) gsap.registerPlugin(..._gsapPlugins);
 
+// Browsers default scrollRestoration to "auto", which restores the prior
+// scrollY on refresh / back-forward / bfcache BEFORE GSAP ScrollTrigger has
+// finished measuring pin spacers. On a long pinned scrollytelling page that
+// drops the user mid-section into content that hasn't mounted yet — reads as
+// an "empty" landing. Force manual control and snap to hash-or-top on every
+// load, including bfcache restores.
+if ("scrollRestoration" in history) history.scrollRestoration = "manual";
+window.addEventListener("pageshow", () => {
+  if (location.hash) {
+    document.getElementById(location.hash.slice(1))?.scrollIntoView();
+  } else {
+    window.scrollTo(0, 0);
+  }
+});
+
 // palette
 const C = {
   ink:       "#16191e",
