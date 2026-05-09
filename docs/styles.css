@@ -89,6 +89,16 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
   transform: translateY(16px);
   will-change: opacity, transform;
 }
+/* Lift the eyebrow above the title in .hero-inner's stacking context so the
+   .bio popover (a positioned descendant of the eyebrow) can paint over the
+   title. Without this, will-change on .hero .eyebrow creates a stacking
+   context that traps .bio's z-index inside the eyebrow, and the title —
+   another stacking context at z-index: auto, later in source order — paints
+   on top of anything coming out of the eyebrow. */
+.hero .eyebrow {
+  position: relative;
+  z-index: 2;
+}
 .no-gsap .hero .eyebrow,
 .no-gsap .hero-title,
 .no-gsap .hero-sub {
@@ -1598,86 +1608,300 @@ p  { margin: 0 0 1em; max-width: 38ch; color: var(--ink); }
   text-align: left;
 }
 .closing-title {
-  /* Scaled down from the previous "Kurt Vonnegut was right." treatment
-     since the closing copy is now three sentences of expanding thought
-     rather than a single declarative line. Still substantial — feels
-     like a final beat — but doesn't dominate the screen with one
-     enormous run-on.
-     Width is set to comfortably hold three lines of the full text even
-     when the "equipment for living," scramble is cycling through wider-
-     than-target characters; otherwise the wrap would oscillate between
-     3 and 4 lines as the scramble runs. text-wrap: balance keeps the
-     three lines evenly distributed regardless of which chars are in
-     the scramble buffer at any frame. */
-  font-size: clamp(2.2rem, 5.2vw, 4.6rem);
+  /* Matches .intermission-title — same display size, weight, optical-size,
+     and ch-width cap so the closing reads as a peer to the other section
+     beats (e.g., "Has Hollywood's grip on these six shapes changed?"),
+     not a louder finale. */
+  font-size: clamp(2.8rem, 7vw, 6rem);
   font-weight: 300;
   font-variation-settings: "opsz" 144, "SOFT" 25;
-  line-height: 1.05;
-  margin: 0 0 1.5rem;
-  max-width: 52ch;
-  text-wrap: balance;
+  line-height: 1;
+  margin: 0 0 2rem;
+  max-width: 18ch;
 }
 .closing-title em { color: var(--amber); font-style: italic; }
 .closing-line {
-  /* Matches the .intermission-sub treatment ("Data suggests it could be
-     for a few reasons.") — body serif, plain (no italic), modest size.
-     Reads as a quiet outro instead of a second display line. */
+  /* Body serif outro paragraph. Matches the wider .shape-shift-sub width
+     (120ch) — the closing copy is four sentences of expanding thought, so
+     a wider column lets it breathe in 2–3 lines instead of stacking into a
+     narrow column that drags the eye. */
   font-family: var(--serif-body);
   font-size: 1.2rem;
   color: var(--ink-dim);
   line-height: 1.5;
-  max-width: none;
+  max-width: 120ch;
   margin-bottom: 5rem;
 }
-/* Italic-only override for "dark" inside the closing line — global em
+/* Italic-only override for plain <em> inside the closing line — global em
    adds amber + heavier weight, but here we want italic alone so the
    word doesn't visually compete with the rest of the line. */
 .closing-line em { color: inherit; font-weight: inherit; font-style: italic; }
+/* Opt-in accent variant: the closing question reaches for the page's
+   amber treatment so it lands as the punctuating beat. */
+.closing-line em.accent { color: var(--amber); }
 
-/* ───────────────── footer ─────────────────
-   Quiet bio + colophon at the bottom of the page. Top rule separates
-   it from the closing section so it reads as a true footer rather
-   than another body paragraph. Matches the page's amber-link family
-   for the inline letterboxd hyperlink. */
+/* ───────────────── site footer / colophon ─────────────────
+   One thin tracked-mono line: copyright, source links, typeface credit.
+   Hairline rule above separates it from the closing section. The bio that
+   used to live here moved to the hero hover-reveal. */
 .site-footer {
-  /* Border + text share the same horizontal box now: gutter padding on
-     the OUTER footer, and the rule + body copy live on an inner block
-     that owns its own vertical padding. Text and rule start/end at the
-     same x position instead of the rule extending past the indented
-     text. */
   max-width: var(--max);
-  margin: 0 auto;
+  /* `auto` keeps horizontal centering inside --max; the explicit top/bottom
+     give breathing room above the hairline rule and trailing scroll space
+     below the colophon line. */
+  margin: 6rem auto;
   padding: 0 var(--gutter);
 }
 .site-footer p {
-  /* Span the full footer width — the bio reads as a single horizontal
-     band against the rule above it, mirroring the page's outer max
-     instead of being capped to a body-copy column width. */
-  max-width: none;
   border-top: 1px solid var(--rule);
-  padding: 2.4rem 0 3.5rem;
-  font-family: var(--serif-body);
-  font-size: 0.9rem;
+  padding: 1.5rem 0 0;
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
   color: var(--ink-faint);
   line-height: 1.6;
   margin: 0;
+  max-width: none;
 }
 .site-footer a {
+  color: var(--ink-dim);
+  text-decoration: none;
+  border-bottom: 1px solid var(--rule);
+  transition: color 200ms, border-color 200ms;
+}
+.site-footer a:hover {
+  color: var(--amber);
+  border-bottom-color: var(--amber-soft);
+}
+
+/* Footer quote info badge — same hover-reveal pattern as the hero .bio,
+   shrunk for the colophon line and flipped to open ABOVE the icon (the
+   footer is at the bottom of the page, so a downward popover would clip
+   off-screen). */
+.qinfo {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  vertical-align: 0.18em;
+  margin-left: 0.35em;
+  cursor: pointer;
+  outline: none;
+  z-index: 5;
+}
+.qinfo-mark {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.35em;
+  height: 1.35em;
+  border: 1px solid var(--ink-faint);
+  border-radius: 50%;
+  font-family: var(--serif-body);
+  font-style: italic;
+  font-size: 0.78em;
+  letter-spacing: 0;
+  text-transform: none;
+  color: var(--ink-dim);
+  line-height: 1;
+  transition: color 200ms, border-color 200ms, background-color 200ms;
+}
+.qinfo:hover .qinfo-mark,
+.qinfo:focus-visible .qinfo-mark,
+.qinfo:focus-within .qinfo-mark {
+  color: var(--amber);
+  border-color: var(--amber-soft);
+  background: rgba(176, 122, 31, 0.08);
+}
+/* Hover bridge so the cursor doesn't lose .qinfo:hover crossing the gap
+   between the icon and the popover. */
+.qinfo::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: 100%;
+  transform: translateX(-50%);
+  width: 2.4em;
+  height: 0.6rem;
+}
+.qinfo-pop {
+  position: absolute;
+  /* Open ABOVE the icon, anchored to its right edge so the box grows up
+     and to the left — never below (would clip off-page) and never further
+     right than the viewport. */
+  bottom: calc(100% + 0.6rem);
+  right: 0;
+  white-space: normal;
+  width: max-content;
+  max-width: min(40ch, calc(100vw - 2 * var(--gutter)));
+  padding: 0.6rem 0.85rem;
+  background: var(--bg-raise);
+  border: 1px solid var(--rule);
+  border-radius: 6px;
+  box-shadow: 0 -12px 28px -20px rgba(22, 25, 30, 0.35);
+  /* Match the .bio-pop treatment — mono, uppercase, tracked, ink-faint —
+     so both hover-revealed tooltips on the page read as the same family. */
+  font-family: var(--mono);
+  font-style: normal;
+  font-size: 0.7rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  line-height: 1.55;
+  opacity: 0;
+  transform: translateY(4px);
+  pointer-events: none;
+  transition: opacity 220ms ease, transform 220ms ease;
+}
+.qinfo:hover .qinfo-pop,
+.qinfo:focus-visible .qinfo-pop,
+.qinfo:focus-within .qinfo-pop {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+.qinfo-pop a {
   color: var(--amber);
   text-decoration: none;
   border-bottom: 1px solid var(--amber-soft);
   transition: color 200ms, border-color 200ms;
 }
-.site-footer a:hover {
+.qinfo-pop a:hover {
   color: var(--amber-soft);
   border-bottom-color: var(--amber);
 }
-.colophon {
+/* Hover/focus on the info badge tints the quote text amber, matching the
+   bio→author-name pairing in the hero so both info-reveal patterns share
+   the same interaction language. */
+.qinfo-text { transition: color 200ms; }
+#footer-quote:has(.qinfo:hover) .qinfo-text,
+#footer-quote:has(.qinfo:focus-visible) .qinfo-text,
+#footer-quote:has(.qinfo:focus-within) .qinfo-text {
+  color: var(--amber);
+}
+
+/* ───────────────── hero bio (hover-revealed) ─────────────────
+   The footer's long-form bio moved here. A small mono "i" sits next to
+   "Derin Savasan" in the hero eyebrow; hover/focus lifts a serif card
+   below it with the bio. Tap-to-toggle on touch via :focus (the wrapper
+   is tabindex=0 / role=button so a tap focuses it and reveals the pop). */
+.bio {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  /* Optical alignment with the eyebrow's UPPERCASE cap line. `vertical-align:
+     middle` aligns the box to the parent's x-height midpoint, which sits
+     LOWER than cap-mid for uppercase tracked text — so the "i" looked like
+     it was hanging below the line. A small positive length nudges it up
+     toward the optical center of the cap line. */
+  vertical-align: 0.18em;
+  /* Lift above .hero-title — the title creates a stacking context via
+     will-change, and as a later sibling it would otherwise paint on top
+     of the popover even with the popover's own z-index. */
+  z-index: 10;
+  margin-left: 0.55em;
+  cursor: pointer;
+  outline: none;
+}
+.bio-mark {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.25em;
+  height: 1.25em;
+  border: 1px solid var(--ink-faint);
+  border-radius: 50%;
+  font-family: var(--serif-body);
+  font-style: italic;
+  font-size: 0.78em;
+  letter-spacing: 0;
+  text-transform: none;
+  color: var(--ink-dim);
+  line-height: 1;
+  transition: color 200ms, border-color 200ms, background-color 200ms;
+}
+/* Invisible bridge between the icon and the popover so the cursor doesn't
+   lose .bio:hover when transiting the gap. Without it, :hover ends mid-gap,
+   the popover hides, and the user can never reach the moviegoer link inside. */
+.bio::after {
+  content: "";
+  position: absolute;
+  left: 100%;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 1.2rem;
+  height: 2.4em;
+}
+.bio:hover .bio-mark,
+.bio:focus-visible .bio-mark,
+.bio:focus-within .bio-mark {
+  color: var(--amber);
+  border-color: var(--amber-soft);
+  background: rgba(176, 122, 31, 0.08);
+}
+.bio-pop {
+  position: absolute;
+  /* To the RIGHT of the icon, top-aligned with it so the box can never
+     bulge upward past the eyebrow line into the page header. Earlier
+     `top: 50%` centered it on the icon, which pushed half the popover
+     above the eyebrow when the bio wrapped to many lines. */
+  left: calc(100% + 1.2rem);
+  top: 0;
+  /* Width: ~64ch makes the bio fit in 3–4 lines instead of 7+ at the old
+     36ch. Never push past the right edge of the viewport. The bio's parent
+     .eyebrow-line sets white-space: nowrap, which would otherwise inherit
+     and force the popover onto a single overflowing line. */
+  white-space: normal;
+  width: min(64ch, calc(100vw - 2 * var(--gutter) - 100%));
+  padding: 1.1rem 1.25rem;
+  background: var(--bg-raise);
+  border: 1px solid var(--rule);
+  border-radius: 6px;
+  box-shadow: 0 18px 40px -24px rgba(22, 25, 30, 0.35);
+  /* Mirrors the .von-portrait figcaption treatment — mono, uppercase, tracked,
+     small. Reads as a sibling of the page's other "tech" labels (axis ticks,
+     decade markers, image captions) rather than as body prose. */
   font-family: var(--mono);
-  font-size: 0.72rem;
+  font-style: normal;
+  font-size: 0.7rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
   color: var(--ink-faint);
-  line-height: 1.7;
-  max-width: 80ch;
+  line-height: 1.55;
+  opacity: 0;
+  /* Slight left-offset for the slide-in. Top-anchored, so no vertical
+     translate is needed — final hover state lands at translateX(0). */
+  transform: translateX(-4px);
+  pointer-events: none;
+  transition: opacity 220ms ease, transform 220ms ease;
+  z-index: 5;
+}
+.bio:hover .bio-pop,
+.bio:focus-visible .bio-pop,
+.bio:focus-within .bio-pop {
+  opacity: 1;
+  transform: translateX(0);
+  pointer-events: auto;
+}
+.bio-pop a {
+  color: var(--amber);
+  text-decoration: none;
+  border-bottom: 1px solid var(--amber-soft);
+  transition: color 200ms, border-color 200ms;
+}
+.bio-pop a:hover {
+  color: var(--amber-soft);
+  border-bottom-color: var(--amber);
+}
+/* Sync the author name's color to the bio control. Hovering / focusing the
+   "i" badge tints "Derin Savasan" in the same amber as the badge so the link
+   between the name and the hover-revealed bio is explicit. Uses :has() to
+   reach back to the earlier sibling .author-name from the .bio state. */
+.author-name { transition: color 200ms; }
+.eyebrow:has(.bio:hover) .author-name,
+.eyebrow:has(.bio:focus-visible) .author-name,
+.eyebrow:has(.bio:focus-within) .author-name {
+  color: var(--amber);
 }
 
 /* ───────────────── shared SVG type ───────────────── */
@@ -1858,7 +2082,8 @@ svg .axis-y-side {
   .intro-beat[data-beat="1"] { left: var(--gutter); right: auto; text-align: left; top: 30vh; }
   .cluster-board { min-height: 320px; }
   .archetypes-pin { height: 600vh; }
-  .intermission-title { font-size: clamp(2.2rem, 9vw, 4rem); }
+  .intermission-title,
+  .closing-title { font-size: clamp(2.2rem, 9vw, 4rem); }
   .meth-drawer { padding: 4rem 1.5rem; }
   /* Single-column methodology on narrow drawer widths so the columns
      aren't too narrow to read comfortably. */

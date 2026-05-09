@@ -3900,8 +3900,11 @@ async function drawShapeShift() {
 //
 //   t=0.00  GRID         y-grid + 0 baseline draws in
 //   t=0.50  Y LABELS     y-axis tick labels fade in
-//   t=0.90  DECADES      decade labels stagger left→right (5 × 280ms)
-//   t=2.30  BREADCRUMB   "ALL FILMS" eyebrow appears
+//   t=0.90  DECADES      decade labels stagger left→right (5 × 280ms,
+//                          last finishes ~2.72s)
+//   t=2.75  BREADCRUMB   "ALL FILMS" eyebrow appears AFTER the decade row
+//                          has fully written in — earlier timings had it
+//                          flashing in mid-stagger, before the x-axis
 //   t=3.00  BANDS        each band's d animates from flat baseline to its
 //                          full stacked shape, staggered in genre order
 //   t=6.30  LABELS       right-edge band labels fade in (Drama first)
@@ -3928,7 +3931,7 @@ function playShapeShiftReveal() {
       .attr("opacity", 1);
   });
   svg.selectAll(".ss-crumb-root")
-    .transition().delay(1700).duration(600).ease(ease).attr("opacity", 1);
+    .transition().delay(2750).duration(600).ease(ease).attr("opacity", 1);
 
   // Bands grow from baseline up into their stacked shape. Each band
   // currently has d = areaFlat (collapsed at y0=y1) and opacity = 0.
@@ -4654,22 +4657,34 @@ function wireSiteNav() {
   //     the viewport top. The section's own padding-top (typically 4rem)
   //     handles the breathing room. No fudge offset, so we don't bleed
   //     pixels of the previous section into the top of the frame.
-  //   • Section is meaningfully shorter than viewport → center it
-  //     vertically so it doesn't float at the top of an empty viewport.
+  //   • Section is meaningfully shorter than viewport → center its
+  //     CONTENT (box minus padding) vertically. Centering on the box
+  //     itself misaligns sections with heavy structural padding — e.g.
+  //     .closing has padding-top: 18rem to pace the natural scroll, and
+  //     centering on the box would drop the visible content low in the
+  //     viewport when the user clicks the "End" anchor.
   function scrollToSection(target, id) {
     if (id === "top") {
       window.scrollTo({ top: 0, behavior: "smooth" });
       return;
     }
-    const top = target.getBoundingClientRect().top + window.scrollY;
+    const top    = target.getBoundingClientRect().top + window.scrollY;
     const height = target.offsetHeight;
-    const vh = window.innerHeight;
+    const vh     = window.innerHeight;
+    // Compute content extent first (box minus padding), then decide. The
+    // "is this short enough to center?" check has to be against CONTENT
+    // height, not section height — .closing is short content inside an
+    // 18rem-padded box, so the box is taller than vh*0.85 even though
+    // the visible content sits comfortably inside the viewport.
+    const cs = window.getComputedStyle(target);
+    const padTop    = parseFloat(cs.paddingTop)    || 0;
+    const padBottom = parseFloat(cs.paddingBottom) || 0;
+    const contentH   = Math.max(0, height - padTop - padBottom);
+    const contentTop = top + padTop;
     let y;
-    if (height < vh * 0.85) {
-      // Genuinely short section — vertically center.
-      y = top - (vh - height) / 2;
+    if (contentH < vh * 0.85) {
+      y = contentTop - (vh - contentH) / 2;
     } else {
-      // Approximately viewport-height (or taller) — flush to top.
       y = top;
     }
     window.scrollTo({ top: Math.max(0, y), behavior: "smooth" });
@@ -4967,23 +4982,83 @@ function wireGsapReveals() {
 
   // Explorer — same fade-up cadence as the chart sections so the "your
   // turn" handoff lands consistently with the rest of the page.
-  gsap.from(".explorer .eyebrow, .explorer-head h2, .explorer-intro, .explorer-controls", {
+  gsap.from(".explorer .intermission-eyebrow, .explorer-head h2, .explorer-intro, .explorer-controls", {
     y: 22, opacity: 0, duration: 0.7, stagger: 0.12, ease: "power2.out",
-    scrollTrigger: { trigger: ".explorer .eyebrow", start: "top 85%", once: true }
+    scrollTrigger: { trigger: ".explorer .intermission-eyebrow", start: "top 85%", once: true }
   });
 
-  // Closing line — the .scramble spans on the closing title are handled by
-  // the universal .scramble loop above; here we just fade in the supporting
-  // line + methodology link.
-  gsap.from(".closing-line, .closing .meth-link", {
-    y: 30, opacity: 0, duration: 0.9, stagger: 0.15, ease: "power2.out",
-    scrollTrigger: { trigger: ".closing", start: "top 75%" }
+  // Closing — same fade-up cadence as the intermissions (eyebrow → title →
+  // sub) so the final beat matches the editorial rhythm of every other
+  // section header on the page. The .scramble inside the title still does
+  // its own letter-rise on top of this fade-up via the universal scramble
+  // loop above.
+  gsap.from(".closing .intermission-eyebrow, .closing-title, .closing-line, .closing .meth-link", {
+    y: 22, opacity: 0, duration: 0.7, stagger: 0.1, ease: "power2.out",
+    scrollTrigger: { trigger: ".closing-title", start: "top 85%" }
   });
 }
 
 
 // ─────────────────────────────────────────────────────────
 // boot
+// Footer quote roulette — every refresh, pick one famous one-liner from the
+// 1980+ corpus. The quote shows in plain quotes; an "i" badge after it reveals
+// the source film's title + year on hover, with the title linking out to its
+// Script Slug script page.
+const FOOTER_QUOTES = [
+  { text: "I’ll be back.",               title: "The Terminator",                              year: 1984, url: "https://www.scriptslug.com/script/the-terminator-1984" },
+  { text: "Hasta la vista, baby.",       title: "Terminator 2: Judgment Day",                  year: 1991, url: "https://www.scriptslug.com/script/terminator-2-judgment-day-1991" },
+  { text: "You can’t handle the truth!", title: "A Few Good Men",                              year: 1992, url: "https://www.scriptslug.com/script/a-few-good-men-1992" },
+  { text: "Show me the money!",          title: "Jerry Maguire",                               year: 1996, url: "https://www.scriptslug.com/script/jerry-maguire-1996" },
+  { text: "I see dead people.",          title: "The Sixth Sense",                             year: 1999, url: "https://www.scriptslug.com/script/the-sixth-sense-1999" },
+  { text: "Houston, we have a problem.", title: "Apollo 13",                                   year: 1995, url: "https://www.scriptslug.com/script/apollo-13-1995" },
+  { text: "Why so serious?",             title: "The Dark Knight",                             year: 2008, url: "https://www.scriptslug.com/script/the-dark-knight-2008" },
+  { text: "To infinity and beyond!",     title: "Toy Story",                                   year: 1995, url: "https://www.scriptslug.com/script/toy-story-1995" },
+  { text: "There is no spoon.",          title: "The Matrix",                                  year: 1999, url: "https://www.scriptslug.com/script/the-matrix-1999" },
+  { text: "My precious.",                title: "The Lord of the Rings: The Fellowship of the Ring", year: 2001, url: "https://www.scriptslug.com/script/the-lord-of-the-rings-the-fellowship-of-the-ring-2001" },
+  { text: "E.T. phone home.",            title: "E.T. the Extra-Terrestrial",                  year: 1982, url: "https://www.scriptslug.com/script/e-t-the-extra-terrestrial-1982" },
+  { text: "Greed is good.",              title: "Wall Street",                                 year: 1987, url: "https://www.scriptslug.com/script/wall-street-1987" },
+  { text: "Yippee-ki-yay.",              title: "Die Hard",                                    year: 1988, url: "https://www.scriptslug.com/script/die-hard-1988" },
+  { text: "I am Groot.",                 title: "Guardians of the Galaxy",                     year: 2014, url: "https://www.scriptslug.com/script/guardians-of-the-galaxy-2014" },
+  { text: "Get to the chopper!",         title: "Predator",                                    year: 1987, url: "https://www.scriptslug.com/script/predator-1987" },
+  { text: "Wax on, wax off.",            title: "The Karate Kid",                              year: 1984, url: "https://www.scriptslug.com/script/the-karate-kid-1984" },
+];
+function injectFooterQuote() {
+  const slot = document.getElementById("footer-quote");
+  if (!slot) return;
+  const q = FOOTER_QUOTES[Math.floor(Math.random() * FOOTER_QUOTES.length)];
+  // Plain quoted text + an info badge (mirrors the hero .bio pattern). The
+  // badge's popover shows the source film as a Script Slug link. Using
+  // textContent / setAttribute (not innerHTML) keeps any future change to
+  // the title/quote strings safe from accidental HTML injection.
+  slot.replaceChildren();
+  // Wrap the quote text so hover-on-the-badge can tint it via :has() in CSS.
+  const qtext = document.createElement("span");
+  qtext.className = "qinfo-text";
+  qtext.textContent = `“${q.text}” `;
+  slot.appendChild(qtext);
+  const wrap = document.createElement("span");
+  wrap.className = "qinfo";
+  wrap.tabIndex = 0;
+  wrap.setAttribute("role", "button");
+  wrap.setAttribute("aria-label", `${q.title} (${q.year})`);
+  const mark = document.createElement("span");
+  mark.className = "qinfo-mark";
+  mark.setAttribute("aria-hidden", "true");
+  mark.textContent = "i";
+  const pop = document.createElement("span");
+  pop.className = "qinfo-pop";
+  pop.setAttribute("role", "tooltip");
+  const link = document.createElement("a");
+  link.href = q.url;
+  link.target = "_blank";
+  link.rel = "noopener";
+  link.textContent = `${q.title} (${q.year})`;
+  pop.appendChild(link);
+  wrap.append(mark, pop);
+  slot.appendChild(wrap);
+}
+
 async function boot() {
   // Each prep step is independent — a failure in one MUST NOT cascade and
   // wipe out the rest of the page. A bad arc fetch shouldn't take the explorer
@@ -5022,6 +5097,7 @@ async function boot() {
   try { wireMethodology(); } catch (err) { console.error("[wireMethodology] failed:", err); }
   try { wireVonnegutVideo(); } catch (err) { console.error("[wireVonnegutVideo] failed:", err); }
   try { wireSiteNav(); } catch (err) { console.error("[wireSiteNav] failed:", err); }
+  try { injectFooterQuote(); } catch (err) { console.error("[injectFooterQuote] failed:", err); }
 
   // Re-render layout-sensitive views on resize
   let rT;

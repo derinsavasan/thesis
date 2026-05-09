@@ -64,7 +64,7 @@
 <section class="hero" id="top">
   <svg class="hero-arc" aria-hidden="true"></svg>
   <div class="hero-inner">
-    <p class="eyebrow eyebrow-line">A passion project by Derin Savasan</p>
+    <p class="eyebrow eyebrow-line">A passion project by <span class="author-name">Derin Savasan</span><span class="bio" tabindex="0" role="button" aria-label="About Derin"><span class="bio-mark" aria-hidden="true">i</span><span class="bio-pop" role="tooltip">Derin holds a B.A. in Psychology, Cognitive Science, and Art History from Georgetown University. She is a programmer, designer, and writer from Istanbul, now based in New York. She is an avid <a href="https://letterboxd.com/derinsavasan/" target="_blank" rel="noopener">moviegoer</a>. She also hates writing in the third person.</span></span></p>
     <h1 class="hero-title">The&nbsp;Shapes<br/><em>of&nbsp;Stories</em></h1>
     <p class="hero-sub">
       Every screenplay is a line that rises and falls. This is what <span class="num scramble">1,627</span> Hollywood films look like when you plot their feelings from first page to last.
@@ -125,7 +125,7 @@
   <p class="intermission-eyebrow">warm up</p>
   <h2 class="intermission-title">Here’s what <em><span class="scramble" id="intro-prelude-title">one</span></em> looks like as a line.</h2>
   <p class="intermission-sub">
-    A single screenplay, page one to the end, plotted as the emotional pulse of its writing. A <em>sentiment model</em> reads it in twenty chunks and scores each one. The line rises with joy and falls with sorrow.
+    A single screenplay, page one to the end, plotted as the emotional pulse of its writing. A <a href="https://huggingface.co/siebert/sentiment-roberta-large-english" target="_blank" rel="noopener">sentiment model</a> reads it in twenty chunks and scores each one. The line rises with joy and falls with sorrow.
   </p>
   <button class="warmup-shuffle" id="hero-shuffle" type="button">
     <span aria-hidden="true">↻</span> Haven’t seen, give me another
@@ -265,7 +265,7 @@
 <section class="explorer" id="explore">
   <div class="explorer-top">
     <header class="explorer-head">
-      <p class="eyebrow">your turn</p>
+      <p class="intermission-eyebrow">your turn</p>
       <h2>Pick one. Watch its <em><span class="scramble">pulse.</span></em></h2>
       <p class="explorer-intro">
         Pick one. Or rummage through all <span class="num">1,627</span>. Dots mark the turning points.
@@ -303,19 +303,13 @@
 
 <!-- ───────────────── CLOSING ───────────────── -->
 <section class="closing" id="closing">
+  <p class="intermission-eyebrow">coda</p>
   <h2 class="closing-title">
-    Kurt Vonnegut was right. Stories have shapes. And these shapes are <em><span class="scramble" data-final="equipment for living,">equipment for living,</span></em> kind of like practice runs for the future.
+    Kurt Vonnegut was <em><span class="scramble" data-final="right.">right.</span></em> Stories have shapes.
   </h2>
-  <p class="closing-line">So what kind of future are we practicing for? Judging by the shapes, it seems rather... <em>dark</em>.</p>
+  <p class="closing-line">And these shapes are equipment for living, kind of like practice runs for the future. The shapes haven’t changed.<br>But our heroes inside them aren’t recovering the way they used to. <em class="accent">So what kind of future are we practicing for?</em></p>
   <p class="meth-link"><a href="#" data-meth-open>Read the methodology →</a></p>
 </section>
-
-<!-- ───────────────── FOOTER ───────────────── -->
-<footer class="site-footer">
-  <p>
-    Derin holds a B.A. in Psychology, Cognitive Science, and Art History from Georgetown University. She is a programmer, designer, and writer from Istanbul,<br>now based in New York. She is an avid <a href="https://letterboxd.com/derinsavasan/" target="_blank" rel="noopener">moviegoer</a>. She also hates writing in the third person.
-  </p>
-</footer>
 
 <!-- ───────────────── METHODOLOGY DRAWER ───────────────── -->
 <aside class="meth-drawer" id="meth-drawer" aria-hidden="true">
@@ -352,6 +346,11 @@
   </div>
 </aside>
 <div class="meth-scrim" id="meth-scrim" hidden></div>
+
+<!-- ───────────────── COLOPHON ───────────────── -->
+<footer class="site-footer">
+  <p>© 2026 Derin Savasan · Read the <a href="https://docs.google.com/document/d/10IMgddjh7UiFmDRYE6F0zgCClSYszBbIejSpz-6CFew/edit?usp=sharing" target="_blank" rel="noopener">thesis paper</a> · Source code on <a href="https://github.com/derinsavasan/thesis" target="_blank" rel="noopener">GitHub</a> · Data from <a href="https://www.scriptslug.com" target="_blank" rel="noopener">Script Slug</a> · <span id="footer-quote"></span></p>
+</footer>
 
 <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
 <script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/gsap.min.js"></script>
