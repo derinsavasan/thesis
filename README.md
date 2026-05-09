@@ -1,4 +1,4 @@
-# Shapes of stories
+# Shapes of Stories
 
 Link to the WIP paper [here](https://docs.google.com/document/d/10IMgddjh7UiFmDRYE6F0zgCClSYszBbIejSpz-6CFew/edit?usp=sharing)
 
