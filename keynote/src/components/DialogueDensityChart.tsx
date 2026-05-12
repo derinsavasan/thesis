@@ -48,9 +48,20 @@ type Props = {
   width: number;
   height: number;
   seconds: number;
+  // Optional set of genres to highlight in the accent color. Other rows
+  // dim back so the eye is pulled to all of these at once.
+  focusGenres?: string[];
+  // 0 = no focus (default chart), 1 = full highlight.
+  focusT?: number;
 };
 
-export const DialogueDensityChart: React.FC<Props> = ({ width, height, seconds }) => {
+export const DialogueDensityChart: React.FC<Props> = ({
+  width,
+  height,
+  seconds,
+  focusGenres,
+  focusT = 0,
+}) => {
   const clustered = useClustered();
   const pacing = usePacing();
 
@@ -117,7 +128,9 @@ export const DialogueDensityChart: React.FC<Props> = ({ width, height, seconds }
   }, [clustered, pacing]);
 
   // Layout — mirrors main.js:2920-2935
-  const m = { top: 90, right: 130, bottom: 70, left: 130 };
+  // Bumped left margin: with the bigger 20px genre labels, "Science
+  // Fiction" overflowed the chart's viewbox on the left.
+  const m = { top: 90, right: 130, bottom: 70, left: 200 };
   const innerW = width - m.left - m.right;
   const innerH = height - m.top - m.bottom;
 
@@ -183,6 +196,16 @@ export const DialogueDensityChart: React.FC<Props> = ({ width, height, seconds }
   const niceTicks = xS.ticks(5);
   const axisY = m.top + innerH + 28;
 
+  // Focus state. The chart no longer zooms when an outlier is called
+  // out — instead the focused row briefly recolors to the accent
+  // (amber), other rows dim back. Less visually busy than a series of
+  // zoom in/out moves.
+  const focusSet =
+    focusGenres && focusGenres.some((g) => yS(g) !== undefined)
+      ? new Set(focusGenres)
+      : null;
+  const focusEffective = focusSet ? focusT : 0;
+
   return (
     <svg
       width={width}
@@ -201,7 +224,7 @@ export const DialogueDensityChart: React.FC<Props> = ({ width, height, seconds }
             y={m.top - 28}
             textAnchor="middle"
             fontFamily={fonts.mono}
-            fontSize={10}
+            fontSize={15}
             letterSpacing="0.18em"
             style={{ textTransform: "uppercase" }}
             fill={key === "late" ? theme.amber : theme.inkDim}
@@ -239,7 +262,7 @@ export const DialogueDensityChart: React.FC<Props> = ({ width, height, seconds }
               y={axisY}
               textAnchor="middle"
               fontFamily={fonts.mono}
-              fontSize={10}
+              fontSize={14}
               fill={theme.inkDim}
               letterSpacing="0.06em"
             >{`${Math.round(tv * 100)}%`}</text>
@@ -251,7 +274,7 @@ export const DialogueDensityChart: React.FC<Props> = ({ width, height, seconds }
         y={axisY + 24}
         textAnchor="middle"
         fontFamily={fonts.mono}
-        fontSize={9}
+        fontSize={13}
         letterSpacing="0.18em"
         style={{ textTransform: "uppercase" }}
         fill={theme.inkFaint}
@@ -263,7 +286,13 @@ export const DialogueDensityChart: React.FC<Props> = ({ width, height, seconds }
       {/* Rows */}
       {rows.map((d, i) => {
         const yy = rowY(d.genre);
-        const color = colorOf(d.delta);
+        const baseColor = colorOf(d.delta);
+        // When this row is in focus, shift to the accent color so it
+        // visually pops. Other rows dim back so the eye is pulled here.
+        const isFocus = focusSet?.has(d.genre) ?? false;
+        const color = isFocus
+          ? mixHexLite(baseColor, theme.amber, focusEffective)
+          : baseColor;
         const rev = rowReveal(i);
         const out = outliers.get(d.genre);
 
@@ -283,8 +312,13 @@ export const DialogueDensityChart: React.FC<Props> = ({ width, height, seconds }
           outlierTrailLeft = outlierTrailRight - (outlierTrailRight - fullLeft) * rev.outlierLeaderT;
         }
 
+        // When a focus set is active, fade non-focused rows back so the
+        // eye is pulled to the highlighted ones.
+        const rowFocusOp =
+          focusSet && !focusSet.has(d.genre) ? 1 - focusEffective * 0.7 : 1;
+
         return (
-          <g key={d.genre} className="dlg-row">
+          <g key={d.genre} className="dlg-row" opacity={rowFocusOp}>
             {/* Guide */}
             <line
               x1={m.left}
@@ -311,9 +345,9 @@ export const DialogueDensityChart: React.FC<Props> = ({ width, height, seconds }
                 <circle cx={outlierTrailLeft} cy={yy} r={3} fill={color} opacity={rev.outlierLeaderT} />
                 <text
                   x={outlierTrailLeft + 8}
-                  y={yy - 8}
+                  y={yy - 10}
                   fontFamily={fonts.display}
-                  fontSize={11}
+                  fontSize={16}
                   fill={color}
                   opacity={rev.outlierLabelOp}
                 >
@@ -351,7 +385,7 @@ export const DialogueDensityChart: React.FC<Props> = ({ width, height, seconds }
               y={yy + 4}
               textAnchor="end"
               fontFamily={fonts.display}
-              fontSize={14}
+              fontSize={20}
               fontWeight={400}
               style={{ fontVariationSettings: '"wght" 400, "opsz" 72, "SOFT" 30' }}
               fill={theme.ink}
@@ -364,7 +398,7 @@ export const DialogueDensityChart: React.FC<Props> = ({ width, height, seconds }
               x={m.left + innerW + 18}
               y={yy + 4}
               fontFamily={fonts.mono}
-              fontSize={11}
+              fontSize={15}
               letterSpacing="0.04em"
               fill={color}
               opacity={rev.deltaOp}
@@ -380,4 +414,28 @@ export const DialogueDensityChart: React.FC<Props> = ({ width, height, seconds }
 
 function clamp01(v: number): number {
   return Math.max(0, Math.min(1, v));
+}
+
+// Simple sRGB lerp between two color strings. Handles both hex (#rrggbb)
+// and `rgb(r, g, b)` inputs — palette tokens in theme.ts use both.
+function mixHexLite(a: string, b: string, t: number): string {
+  const pa = parseColor(a);
+  const pb = parseColor(b);
+  const r = Math.round(pa[0] + (pb[0] - pa[0]) * t);
+  const g = Math.round(pa[1] + (pb[1] - pa[1]) * t);
+  const bl = Math.round(pa[2] + (pb[2] - pa[2]) * t);
+  return `rgb(${r}, ${g}, ${bl})`;
+}
+function parseColor(s: string): [number, number, number] {
+  if (s.startsWith("#")) {
+    const h = s.slice(1);
+    return [
+      parseInt(h.slice(0, 2), 16),
+      parseInt(h.slice(2, 4), 16),
+      parseInt(h.slice(4, 6), 16),
+    ];
+  }
+  const m = s.match(/(\d+)[,\s]+(\d+)[,\s]+(\d+)/);
+  if (!m) return [0, 0, 0];
+  return [parseInt(m[1], 10), parseInt(m[2], 10), parseInt(m[3], 10)];
 }

@@ -123,8 +123,8 @@ export const ShapeShiftChart: React.FC<Props> = ({
     };
   }, [clustered, drilldownGenre]);
 
-  // Layout — mirrors main.js:3514-3520
-  const m = { top: 70, right: 200, bottom: 80, left: 80 };
+  // Layout — bumped right margin to fit the larger band labels (22px).
+  const m = { top: 70, right: 280, bottom: 90, left: 80 };
   const innerW = width - m.left - m.right;
   const innerH = height - m.top - m.bottom;
 
@@ -225,26 +225,29 @@ export const ShapeShiftChart: React.FC<Props> = ({
         </clipPath>
       </defs>
 
-      {/* Y-grid + labels */}
+      {/* Y-grid + labels — only the 0% baseline draws a visible line;
+          the 25/50/75/100% ticks contribute only their % label so the
+          colored stacked bands aren't crisscrossed by dashed gridlines. */}
       {[0, 0.25, 0.5, 0.75, 1].map((tv, i) => {
         const isZero = tv === 0;
         return (
           <g key={tv} opacity={gridOp(i)}>
-            <line
-              x1={m.left}
-              x2={m.left + innerW}
-              y1={yS(tv)}
-              y2={yS(tv)}
-              stroke={isZero ? theme.inkDim : theme.rule}
-              strokeWidth={isZero ? 1 : 0.5}
-              strokeDasharray={isZero ? undefined : "2 6"}
-            />
+            {isZero && (
+              <line
+                x1={m.left}
+                x2={m.left + innerW}
+                y1={yS(tv)}
+                y2={yS(tv)}
+                stroke={theme.inkDim}
+                strokeWidth={1}
+              />
+            )}
             <text
               x={m.left - 12}
               y={yS(tv) + 4}
               textAnchor="end"
               fontFamily={fonts.mono}
-              fontSize={10}
+              fontSize={14}
               fill={theme.inkFaint}
             >
               {`${Math.round(tv * 100)}%`}
@@ -258,10 +261,10 @@ export const ShapeShiftChart: React.FC<Props> = ({
         <text
           key={dec}
           x={xS(dec) as number}
-          y={height - m.bottom + 24}
+          y={height - m.bottom + 30}
           textAnchor="middle"
           fontFamily={fonts.mono}
-          fontSize={11}
+          fontSize={16}
           fill={theme.inkFaint}
           opacity={decLabelOp(i)}
         >
@@ -295,12 +298,12 @@ export const ShapeShiftChart: React.FC<Props> = ({
         return (
           <text
             key={e.key}
-            x={m.left + innerW + 12}
-            y={e.yMid + 4}
+            x={m.left + innerW + 14}
+            y={e.yMid + 6}
             fontFamily={fonts.body}
-            fontWeight={400}
-            fontSize={14}
-            style={{ fontVariationSettings: '"wght" 400, "opsz" 24, "SOFT" 30' }}
+            fontWeight={500}
+            fontSize={22}
+            style={{ fontVariationSettings: '"wght" 500, "opsz" 24, "SOFT" 30' }}
             fill={colorOf(e.key)}
             opacity={labelOp}
           >
@@ -312,9 +315,9 @@ export const ShapeShiftChart: React.FC<Props> = ({
       {/* Breadcrumb */}
       <text
         x={m.left}
-        y={m.top - 22}
+        y={m.top - 28}
         fontFamily={fonts.mono}
-        fontSize={10}
+        fontSize={14}
         letterSpacing="0.22em"
         fill={drilldownGenre ? theme.inkFaint : theme.ink}
         opacity={clamp01((t - 0.4) / 0.4)}
@@ -324,19 +327,19 @@ export const ShapeShiftChart: React.FC<Props> = ({
       {drilldownGenre && (
         <>
           <text
-            x={m.left + 92}
-            y={m.top - 22}
+            x={m.left + 130}
+            y={m.top - 28}
             fontFamily={fonts.mono}
-            fontSize={10}
+            fontSize={14}
             fill={theme.inkFaint}
           >
             /
           </text>
           <text
-            x={m.left + 110}
-            y={m.top - 22}
+            x={m.left + 150}
+            y={m.top - 28}
             fontFamily={fonts.mono}
-            fontSize={10}
+            fontSize={14}
             letterSpacing="0.22em"
             style={{ textTransform: "uppercase" }}
             fill={SS_GENRE_COLOR[drilldownGenre] || theme.ink}
@@ -352,7 +355,7 @@ export const ShapeShiftChart: React.FC<Props> = ({
         y={height - 18}
         textAnchor="middle"
         fontFamily={fonts.mono}
-        fontSize={9}
+        fontSize={13}
         letterSpacing="0.18em"
         fill={theme.inkFaint}
         opacity={captionOp}

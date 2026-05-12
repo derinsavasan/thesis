@@ -1189,13 +1189,17 @@ function drawIntro() {
           const boxH = innerH + padY * 2;
 
           // Anchor the tooltip beside the dot, flipping side / clamping to
-          // chart bounds so it never escapes the visible area.
+          // the chart's plot area so it never overlaps the body copy that
+          // sits to the left/right of the SVG.
           const cx = snapped[i].cx, cy = snapped[i].cy;
+          const plotL = m.left, plotR = W - m.right;
+          const plotT = m.top,  plotB = H - m.bottom;
           let tx = cx + 14;
-          if (tx + boxW > W - 8) tx = cx - boxW - 14;
-          tx = Math.max(8, tx);
+          if (tx + boxW > plotR) tx = cx - boxW - 14;
+          tx = Math.max(plotL, Math.min(tx, plotR - boxW));
           let ty = cy - boxH - 10;
-          if (ty < 8) ty = cy + 14;
+          if (ty < plotT) ty = cy + 14;
+          ty = Math.max(plotT, Math.min(ty, plotB - boxH));
 
           tipBg.attr("x", tx).attr("y", ty)
             .attr("width", boxW).attr("height", boxH);

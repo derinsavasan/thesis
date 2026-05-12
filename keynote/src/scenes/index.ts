@@ -14,9 +14,7 @@ import {
   GripHolds,
   WhyDifferent,
   DialogueDensity,
-  SoundingAlike,
   RisingFalling,
-  Bleaker,
   VonnegutWasRight,
   RehearseTheFall,
   FutureQuestion,
@@ -50,12 +48,8 @@ export function resolveScene(beat: Beat): React.ReactElement {
       return React.createElement(WhyDifferent);
     case "dialogue-density":
       return React.createElement(DialogueDensity);
-    case "sounding-alike":
-      return React.createElement(SoundingAlike);
     case "rising-falling":
       return React.createElement(RisingFalling);
-    case "bleaker":
-      return React.createElement(Bleaker);
     case "vonnegut-was-right":
       return React.createElement(VonnegutWasRight);
     case "rehearse-the-fall":

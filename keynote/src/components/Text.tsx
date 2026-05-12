@@ -158,8 +158,22 @@ export const Body: React.FC<{
 
 // Italic accent — styles.css uses var(--amber-soft) for em. Use this for
 // the specific emphasis words inside an otherwise-regular headline.
+//
+// Lock in explicit variable-font axes so the italic glyphs don't render
+// with the chunky display-soft variants Fraunces picks by default when
+// the parent's font-variation-settings inherit imperfectly across the
+// style change. SOFT 20 keeps the italic terminals tidy; opsz 60 reads
+// well at the ~72px sizes we use for partial-headline accents.
 export const Accent: React.FC<{ children: React.ReactNode }> = ({ children }) => (
-  <em style={{ fontStyle: "italic", color: theme.amberSoft, fontWeight: 500 }}>{children}</em>
+  <em
+    style={{
+      fontStyle: "italic",
+      color: theme.amberSoft,
+      fontVariationSettings: '"wght" 500, "opsz" 60, "SOFT" 20',
+    }}
+  >
+    {children}
+  </em>
 );
 
 // Plain italic inside a Title (Fraunces italic, no color change). For the
