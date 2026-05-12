@@ -1,0 +1,7 @@
+node_modules/
+out/
+.remotion/
+*.log
+
+# Source media assets — restore locally to re-render; final outputs live in docs/
+public/

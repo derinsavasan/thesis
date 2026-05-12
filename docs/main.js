@@ -124,7 +124,7 @@ const CURATED = [
   ["The Lion King", 1994, "the-lion-king-1994", []],
   ["The Grand Budapest Hotel", 2014, "the-grand-budapest-hotel-2014", ["Wes Anderson"]],
   ["Get Out", 2017, "get-out-2017", ["Peele"]],
-  ["Top Gun", 1986, "top-gun-1986", ["Tony Scott"]],
+  ["The Silence of the Lambs", 1991, "the-silence-of-the-lambs-1991", ["Demme"]],
 ];
 
 // Real theatrical runtimes (minutes) for the curated set. The chart's
@@ -161,7 +161,7 @@ const RUNTIMES = {
   "the-lion-king-1994": 88,
   "the-grand-budapest-hotel-2014": 99,
   "get-out-2017": 104,
-  "top-gun-1986": 110,
+  "the-silence-of-the-lambs-1991": 118,
 };
 
 // Hand-written notes per turning point. Each list is ordered left-to-right
@@ -172,6 +172,28 @@ const RUNTIMES = {
 // turning point that has no GIF yet — the tooltip will just show the note.
 // To remap, change which file lives at which array slot.
 const SCENE_GIFS = {
+  "500-days-of-summer-2009": [
+    "timeline-scenes/500days_1.mp4",  // 0   ~14m  trough  Tom's theory of love / Graduate misread
+    "timeline-scenes/500days_2.mp4",  // 1   ~24m  peak    Karaoke / electrodes argument / choir + organ
+    "timeline-scenes/500days_3.mp4",  // 2   ~28m  trough  Hall and Oates morning walk / Billie Jean sidewalk
+    "timeline-scenes/500days_4.mp4",  // 3   ~33m  peak    Sex with Summer / V.O. listing what he loves
+    "timeline-scenes/500days_5.mp4",  // 4   ~52m  trough  Bedroom morning / exes / Markus the rower
+    "timeline-scenes/500days_6.mp4",  // 5   ~57m  peak    On a date / cracking up about Summer
+    "timeline-scenes/500days_7.mp4",  // 6   ~62m  trough  Karaoke again / Train in Vain breakdown
+    "timeline-scenes/500days_8.mp4",  // 7   ~71m  peak    Tom tearing his room apart / supermarket in a robe
+    "timeline-scenes/500days_9.mp4",  // 8   ~76m  trough  Boardroom / Tom on the table / quitting speech
+  ],
+  "fight-club-1999": [
+    "timeline-scenes/fight_1.mp4",  // 0   ~24m  trough  Splitting groups / number on the palm
+    "timeline-scenes/fight_2.mp4",  // 1   ~37m  peak    First fight in Lou's parking lot
+    "timeline-scenes/fight_3.mp4",  // 2   ~43m  trough  Moving into Paper Street / dust on the bed
+    "timeline-scenes/fight_4.mp4",  // 3   ~52m  peak    First fight club / the rules speech
+    "timeline-scenes/fight_5.mp4",  // 4   ~58m  trough  Marla in Tyler's bed / "want to finish her off?"
+    "timeline-scenes/fight_6.mp4",  // 5   ~72m  peak    Lye burn / chemical kiss / "stay with the pain"
+    "timeline-scenes/fight_7.mp4",  // 6   ~80m  trough  Boss with the photocopy on the desk
+    "timeline-scenes/fight_8.mp4",  // 7   ~98m  peak    Bob's death / "His name is Robert Paulson"
+    "timeline-scenes/fight_9.mp4",  // 8   ~119m trough  Hotel reveal / the narrator on the floor
+  ],
   "interstellar-2014": [
     "timeline-scenes/interstellar_1.mp4",  // 0   ~17m  trough  Dust patterns
     "timeline-scenes/interstellar_2.mp4",  // 1   ~25m  peak    NASA reveal
@@ -189,19 +211,48 @@ const SCENE_GIFS = {
     "timeline-scenes/interstellar_14.mp4", // 13  ~144m peak    Inside the tesseract
     "timeline-scenes/interstellar_15.mp4", // 14  ~152m trough  Watch into binary
   ],
+  "the-shawshank-redemption-1994": [
+    "timeline-scenes/shawshank_1.mp4",  // 0   ~14m  trough  First night / Hadley + the new fish
+    "timeline-scenes/shawshank_2.mp4",  // 1   ~28m  peak    Rock hammer through Brooks's book cart
+    "timeline-scenes/shawshank_3.mp4",  // 2   ~43m  trough  Sisters in the projection booth
+    "timeline-scenes/shawshank_4.mp4",  // 3   ~50m  peak    Roof tarring with cold beers
+    "timeline-scenes/shawshank_5.mp4",  // 4   ~57m  trough  Bogs broken by Hadley
+    "timeline-scenes/shawshank_6.mp4",  // 5   ~71m  peak    Senate response / library books arrive
+    "timeline-scenes/shawshank_7.mp4",  // 6   ~99m  trough  Solitary after Tommy is killed
+  ],
+  "the-truman-show-1998": [
+    "timeline-scenes/truman_1.mp4",  // 0   ~10%  trough  Office cubicle / Lawrence pushing Harbor Island
+    "timeline-scenes/truman_2.mp4",  // 1   ~20%  peak    Childhood drowning flashback / Truman with Kirk's ring
+    "timeline-scenes/truman_3.mp4",  // 2   ~45%  trough  Mother + Meryl turning the photo album
+    "timeline-scenes/truman_4.mp4",  // 3   ~50%  peak    Travel agent's office / Fiji denied
+    "timeline-scenes/truman_5.mp4",  // 4   ~55%  trough  Bridge swerve into oncoming lanes
+    "timeline-scenes/truman_6.mp4",  // 5   ~70%  peak    Christof on the talk show
+    "timeline-scenes/truman_7.mp4",  // 6   ~85%  trough  Marlon finds the basement tunnel
+  ],
+  "groundhog-day-1993": [
+    "timeline-scenes/groundhog_1.mp4",  // 0   ~15m  trough  Late to Gobbler's Knob / snarking at Rita and Larry
+    "timeline-scenes/groundhog_2.mp4",  // 1   ~20m  peak    Day-one broadcast / groundhog squeaks back in
+    "timeline-scenes/groundhog_3.mp4",  // 2   ~25m  trough  Ned Ryerson ambush on the street / icy puddle
+    "timeline-scenes/groundhog_4.mp4",  // 3   ~30m  peak    Second morning realization at the clock radio
+    "timeline-scenes/groundhog_5.mp4",  // 4   ~35m  trough  Bowling alley with Gus and Ralph
+    "timeline-scenes/groundhog_6.mp4",  // 5   ~45m  peak    Nancy at Gobbler's Knob / Phil reciting yesterday back
+    "timeline-scenes/groundhog_7.mp4",  // 6   ~71m  trough  Pickup off Logger's Leap with the groundhog
+    "timeline-scenes/groundhog_8.mp4",  // 7   ~86m  peak    Candlemas speech on camera
+    "timeline-scenes/groundhog_9.mp4",  // 8   ~96m  peak    Bachelor auction / ice angel in the snow
+  ],
 };
 
 const NOTES = {
   "fight-club-1999": [
-    "Marla disrupts the support groups. The narrator can't sleep again.",
+    "Marla and the narrator splitting up the support groups. She writes her number on his palm.",
     "First fight in the parking lot of Lou's Tavern. Tyler swings, he swings back.",
-    "Tyler bringing the lye out of the closet. Soap-making in the kitchen.",
-    "The lye burn on the back of his hand. Stay with the pain. Don't shut this out.",
-    "Marla in the bath. The narrator caught between her and Tyler.",
-    "Project Mayhem recruits sleeping in the lawn. The first homework assignments.",
-    "Bob's death on the operation. His name was Robert Paulson.",
-    "Driving city to city, finding fight clubs in basements he never set up.",
-    "Hotel room. Marla on the phone. The pieces start to fit. Tyler is the narrator.",
+    "Moving into the Paper Street house. Dust drifting up from the bed.",
+    "First fight club in the basement. Tyler under the bare bulb. The first rule. The second rule.",
+    "Marla in Tyler's bed. The narrator frozen in the doorway.",
+    "Lye on the back of his hand. Tyler's chemical kiss. Stay with the pain. Don't shut this out.",
+    "Boss with the fight club rules photocopy on the desk. The narrator threatening him back.",
+    "Bob's death on the operation. The Space Monkeys carrying him home. His name was Robert Paulson.",
+    "Hotel room. The pieces fitting. Tyler is the narrator. The narrator on the floor.",
   ],
   "interstellar-2014": [
     "Dust drifting onto Murph's bedroom floor in patterns. Cooper crouches and reads them.",
@@ -280,13 +331,13 @@ const NOTES = {
     "The gunshot. Lester's last reflective monologue over the photograph.",
   ],
   "the-truman-show-1998": [
-    "The car radio briefly broadcasts the production crew tracking Truman's drive.",
-    "Truman's morning routine. Good morning, good afternoon, good evening to the neighbor.",
-    "His long-dead father walking past on a bus. The crew drags the man offscreen.",
-    "Truman briefly reunited with his manufactured father in the park.",
-    "Travel agent's office. Posters warning Truman about every disaster abroad.",
-    "Truman commandeering the sailboat. Heading toward the horizon.",
-    "Storm escalating. Christof pushing the weather from the studio control booth.",
+    "Office cubicle. Lawrence pushing the Harbor Island prospect. Truman can't cross water.",
+    "Childhood flashback. Kirk dragged under in the storm. Truman on the beach years later, holding his father's ring.",
+    "Mother and Meryl turning the photo album. Mount Rushmore, then the wedding photos. The happiest day of our lives.",
+    "Travel agent's office. Truman asking for Fiji today. Nothing for a month.",
+    "Driving with Meryl. The traffic moves with him. The overturned car staged on the bridge. Truman swerving into oncoming lanes.",
+    "Christof on the talk show. Praising Marlon's performance in the father reunion.",
+    "Marlon tearing open the basement tool closet. Truman's dug tunnel. The Fiji map still pinned to the door.",
   ],
   "dead-poets-society-1989": [
     "Welton's strict opening assembly. Tradition, honor, discipline, excellence.",
@@ -342,12 +393,12 @@ const NOTES = {
     "Inside the imagined alternate life. The version of their story where they stayed together.",
   ],
   "the-shawshank-redemption-1994": [
-    "The courtroom. Andy convicted of murdering his wife and her lover.",
+    "Andy's first night in the cellblock. Hadley beats the new fish to death for crying.",
     "Andy approaching Red on the yard. The rock hammer ordered through the underground.",
     "The Sisters cornering Andy in the projection booth. The infirmary aftermath.",
     "Roof tarring in the warm sun. Three cold beers per man on Andy's tab.",
     "Bogs broken by Hadley's club. The Sisters never touch Andy again.",
-    "Andy locks the warden's office and plays Mozart over the loudspeakers.",
+    "Years of letters finally answered. Crates of donated books arrive. Andy unwraps the records.",
     "Andy demanding a retrial. Warden Norton sends him to solitary instead.",
   ],
   "wall-e-2008": [
@@ -416,15 +467,15 @@ const NOTES = {
     "Skylar gone to Stanford. Will alone in the apartment with the file.",
   ],
   "500-days-of-summer-2009": [
-    "Day 1. The elevator. The Smiths on the headphones.",
-    "Karaoke. First kiss in the office copy room.",
-    "What are we. Tom asking. Summer not answering.",
-    "IKEA, the record store, dancing in the park. Hall and Oates on the way to work.",
-    "Pancake house. Summer ending it across the table.",
-    "Friend's wedding. Tom and Summer on the train back.",
-    "Rooftop party. Expectations on the left, reality on the right.",
-    "Tom's downward montage. Whiskey and Twinkies on the couch.",
-    "Park bench reveal. Summer is engaged. Tom alone on the wooden slats.",
+    "Tom's theory of love. Sad British pop. A misread of The Graduate.",
+    "Karaoke. Summer's electrodes-and-rock argument. Tom's choir and the church organ.",
+    "You Make My Dreams Come True on the way to work. Cartoon birds. Sidewalk lighting up like Billie Jean.",
+    "Sex with Summer. Tom in V.O. listing everything he loves. Her smile. Her crooked teeth. Her cock-eyed head.",
+    "Bedroom morning. The exes conversation. Markus the rower. Tom wishing he hadn't asked.",
+    "On a date. Tom cracking up to a stranger about Summer.",
+    "Karaoke again. Train in Vain. Tom on stage in a nervous breakdown.",
+    "Tom tearing his room apart. Posters down. Phone off the balcony. Supermarket in a robe.",
+    "Boardroom. Tom on the table. Greeting cards, movies, pop songs. Responsible for everything.",
   ],
   "black-swan-2010": [
     "Audition for Swan Lake. Thomas pulling Nina aside.",
@@ -437,15 +488,15 @@ const NOTES = {
     "The Black Swan dance. Nina becoming the role under the spotlight, mirror shard hidden in her costume.",
   ],
   "groundhog-day-1993": [
-    "Phil stuck in Punxsutawney. The clock radio. I Got You Babe.",
-    "Bowling alley philosophizing. Beer with the locals.",
-    "Robbing the armored car. The nihilism phase.",
-    "Gluttony at the diner. Rita watching him eat the whole table.",
-    "Suicide attempts. Toaster in the bathtub. Off the clocktower.",
-    "Self improvement. Piano lessons. French. Ice sculpting in the park.",
-    "Despite everything Rita rejects him on the bench. God this is awful.",
-    "Saving the boy from the tree. The flat tire. The Heimlich at the steakhouse.",
-    "The bachelor auction. Spring at last in the bed and breakfast.",
+    "Gobbler's Knob, day one. Rita and Larry waiting. Phil late. Prima donnas.",
+    "Police roadblock. The blizzard moving in. Sent back to Punxsutawney.",
+    "First loop. Ned Ryerson ambushing Phil on the street, swearing they went to high school. Phil's foot in the icy puddle trying to escape.",
+    "Second broadcast. Larry rolling. Groundhog Day, again.",
+    "Bowling alley with Gus and Ralph. Phil drunk on the lane, asking what they'd do if nothing mattered.",
+    "The nihilism phase. Slugging Ned. Robbing the armored car. Nancy at Gobbler's Knob.",
+    "Suicide attempts. The toaster. The clocktower. Phil and the groundhog off Logger's Leap.",
+    "The renaissance phase. Candlemas speech on camera. Sculpting a marble cherub at the cemetery.",
+    "The bachelor auction. Phil's confession to Rita. The piano piece for the room.",
   ],
   "the-matrix-1999": [
     "The bug implant. Smith interrogating Neo across the desk.",
@@ -506,19 +557,6 @@ const NOTES = {
     "Basement bar. Three fingers ordered the wrong way. Major Hellstrom counting them across the table.",
     "Operation Kino in pieces. Aldo extracting the bullet from Bridget's leg with a wooden spoon.",
     "Premiere at the cinema. Landa pulling Bridget's shoe out of his coat pocket.",
-  ],
-  "top-gun-1986": [
-    "Opening engagement over the Indian Ocean. Cougar freezes; Maverick covers him back to the carrier.",
-    "Stinger reads them in. Top Gun picked Maverick after Cougar handed in his wings.",
-    "First class at Miramar. Charlie sizing up the new pilots from the lectern.",
-    "O'Club bar. \"You've Lost That Lovin' Feelin'\" sung straight at Charlie's date.",
-    "Charlie's lecture review. Maverick's MiG report doesn't square with the official version.",
-    "Beach volleyball. Highway to the Danger Zone afternoon.",
-    "Charlie's house. Lasagna and an argument about flying. The kiss.",
-    "Aerial training back on top. Iceman boxed in.",
-    "Next hop. Iceman wins this one. Maverick eating ego on the carrier deck.",
-    "Goose ejecting through the canopy on the bad pull-out.",
-    "Maverick withdrawing from training. Alone in the locker room with the dog tags.",
   ],
 };
 

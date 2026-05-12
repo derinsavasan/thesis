@@ -20,6 +20,9 @@ huggingfacehub_cache/
 # macOS
 .DS_Store
 
+# Node
+node_modules/
+
 # Script corpus — large intermediate/raw data, not needed for arc generation
 Movie-Script-Database/scripts/parsed/dialogue/
 Movie-Script-Database/scripts/filtered/

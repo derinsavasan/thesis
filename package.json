@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@remotion/transitions": "^4.0.250"
+  }
+}
