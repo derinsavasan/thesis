@@ -3050,11 +3050,11 @@ export const FutureQuestion: React.FC = () => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const s = frame / fps;
-  const titleOp = interpolate(s, [6.5, 7.8], [1, 0], {
+  const titleOp = interpolate(s, [5.8, 6.8], [1, 0], {
     extrapolateLeft: "clamp",
     extrapolateRight: "clamp",
   });
-  const blackOp = interpolate(s, [7.0, 8.4], [0, 1], {
+  const blackOp = interpolate(s, [6.2, 7.4], [0, 1], {
     extrapolateLeft: "clamp",
     extrapolateRight: "clamp",
   });

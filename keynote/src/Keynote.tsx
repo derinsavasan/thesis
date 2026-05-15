@@ -1,8 +1,10 @@
 import React from "react";
 import {
   AbsoluteFill,
+  Audio,
   Sequence,
   interpolate,
+  staticFile,
   useCurrentFrame,
 } from "remotion";
 import { RESOLVED_BEATS } from "./timeline";
@@ -76,6 +78,10 @@ const ProgressStrip: React.FC = () => {
 export const Keynote: React.FC<{ showProgress?: boolean }> = ({ showProgress = false }) => {
   return (
     <AbsoluteFill style={{ background: theme.bg, fontFamily: fonts.body }}>
+      {/* Voiceover track — recorded against the video, plays from frame
+          0 to end. Cleaned up offline (high-pass, denoise, EQ, compress,
+          loudness normalize) so it sounds studio-ish. */}
+      <Audio src={staticFile("final-voice.m4a")} />
       {RESOLVED_BEATS.map((b) => (
         <Sequence
           key={b.id}
