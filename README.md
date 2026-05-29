@@ -10,6 +10,6 @@ American novelist Kurt Vonnegut once suggested that stories could be drawn as si
 **Keywords:** narrative structure; movie screenplays; sentiment analysis; clustering; streaming
 
 ## Acknowledgements
-I would like to thank my parents, who kept me curious, and who sat in McKee's seminar twenty years before I did. And Robert McKee, for fostering what they started.
+I would like to thank my parents, who kept me curious and sat in McKee's seminar twenty years before I did. And Robert McKee, for fostering what they started.
 
 You can read the full written thesis [here](https://docs.google.com/document/d/10IMgddjh7UiFmDRYE6F0zgCClSYszBbIejSpz-6CFew/edit?tab=t.0).
