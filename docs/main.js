@@ -240,6 +240,27 @@ const SCENE_GIFS = {
     "timeline-scenes/groundhog_8.mp4",  // 7   ~86m  peak    Candlemas speech on camera
     "timeline-scenes/groundhog_9.mp4",  // 8   ~96m  peak    Bachelor auction / ice angel in the snow
   ],
+  "the-wolf-of-wall-street-2013": [
+    "timeline-scenes/wolf_1.mp4",  // 0   ~45m  trough  Forbes hit piece / "twisted Robin Hood"
+    "timeline-scenes/wolf_2.mp4",  // 1   ~54m  peak    Office on ludes / Donnie slurring "Steve Madden"
+    "timeline-scenes/wolf_3.mp4",  // 2   ~81m  trough  Naomi fight / water glass / morning-erection standoff
+    "timeline-scenes/wolf_4.mp4",  // 3   ~89m  peak    "No nobility in poverty" / flinging the gold watch
+    "timeline-scenes/wolf_5.mp4",  // 4   ~125m trough Lemmon 714 / crawl to the white Lamborghini
+    "timeline-scenes/wolf_6.mp4",  // 5   ~143m peak    On the boat / dumping Steve Madden shares / "sell"
+    "timeline-scenes/wolf_7.mp4",  // 6   ~152m trough  Yacht sinking in the storm / "get the ludes"
+  ],
+  "american-beauty-1999": [
+    "timeline-scenes/beauty_1.mp4",   // 0   ~18m  peak    Angela cheering / roses bloom
+    "timeline-scenes/beauty_2.mp4",   // 1   ~9m   trough  Family dinner / candlelight / elevator music
+    "timeline-scenes/beauty_3.mp4",   // 2   ~43m  peak    Lester quits / blackmails his boss
+    "timeline-scenes/beauty_4.mp4",   // 3   ~55m  trough  Scoring weed in Ricky's room / Colonel watching
+    "timeline-scenes/beauty_5.mp4",   // 4   ~67m  peak    Top Hat Motel / Carolyn & Buddy / "I fire a gun"
+    "timeline-scenes/beauty_6.mp4",   // 5   ~79m  trough  Colonel cornering Ricky / "for your own good"
+    "timeline-scenes/beauty_7.mp4",   // 6   ~85m  peak    Jane filming Ricky / the hospital story
+    "timeline-scenes/beauty_8.mp4",   // 7   ~98m  trough  Buddy ends the affair / Carolyn screaming in the car
+    "timeline-scenes/beauty_9.mp4",   // 8   ~100m peak    Colonel watching the tape / Ricky & Lester misread
+    "timeline-scenes/beauty_10.mp4",  // 9   ~110m trough  Colonel kisses Lester in the rain / Lester refuses
+  ],
 };
 
 const NOTES = {
@@ -289,13 +310,13 @@ const NOTES = {
     "Harry running across the city to find her. The list of small things he loves about her.",
   ],
   "the-wolf-of-wall-street-2013": [
-    "Naomi confronting Jordan over an affair. The first crack in the marriage.",
-    "Stratton Oakmont peak hedonism. Cocaine, marching bands, chimpanzees in the office.",
-    "FBI agents on the yacht trying to flip Jordan over a deli sandwich.",
-    "Steve Madden IPO. Stratton makes him richer than he was the day before.",
-    "Lemmon-714 quaalude meltdown. Crawling to the white Lamborghini.",
-    "Geneva Swiss bank scheme. The brief delusion that he can outrun it.",
-    "FBI raid on the Stratton Oakmont sales floor. Phones still ringing as agents walk in.",
+    "The Forbes hit piece. A twisted Robin Hood. Jordan reading himself branded a scammer.",
+    "The office on ludes. Donnie drooling out Steve Madden's name. Jordan's tutorial on the high.",
+    "Naomi and Jordan tearing into each other. The water glass. The morning-erection standoff.",
+    "No nobility in poverty. Jordan rallying the floor, flinging his gold watch into the crowd.",
+    "Lemmon 714 kicking in. Jordan crawling to the white Lamborghini on the country-club steps.",
+    "On the boat, the Feds closing in. Jordan dumping his Steve Madden shares. Tell them to sell.",
+    "The yacht going down in the storm off Italy. Gale warnings. Get the fucking ludes.",
   ],
   "kill-bill-vol-1-2003": [
     "The Bride wakes from the coma and pulls the mosquito off her thigh.",
@@ -320,15 +341,15 @@ const NOTES = {
   ],
   "american-beauty-1999": [
     "Lester sees Angela cheering at the basketball game. Roses bloom in the air.",
-    "Family dinner. Carolyn's brittle politeness. Jane staring at the table.",
-    "Lester quits, blackmails his boss, buys the muscle car.",
-    "Carolyn at the shooting range learning to fire a pistol.",
-    "Lester driving with the windows down, music up, free.",
-    "Frank Fitts beating Ricky in the bedroom over a misread tape.",
-    "Lester smoking with Ricky in the garage. Easy laughter between them.",
-    "Frank kisses Lester in the rain. Lester refuses. Frank goes home cracked.",
-    "Angela in the kitchen. Lester realizes she is a virgin and puts his coat around her.",
-    "The gunshot. Lester's last reflective monologue over the photograph.",
+    "Family dinner by candlelight. Elevator music, brittle sniping, nobody meeting anyone's eyes.",
+    "Lester quits, blackmails his boss for a year's pay, buys the muscle car.",
+    "Lester scoring weed up in Ricky's room. The locked door, the Colonel's dark eyes following.",
+    "The Top Hat Motel. Carolyn and Buddy post-sex. He tells her how good it feels to fire a gun.",
+    "The Colonel cornering Ricky. On dope again? A girlfriend? This is for your own good, boy.",
+    "Jane turning the camera on Ricky. He tells her about the hospital, his father, the dope.",
+    "Buddy ends the affair in the motel lot. Carolyn alone in the car, slapping herself, screaming.",
+    "The Colonel watching the tape. Ricky bent over Lester in the garage, misread as sex.",
+    "The Colonel kisses Lester in the rainy garage. Lester turns him down. The Colonel breaks.",
   ],
   "the-truman-show-1998": [
     "Office cubicle. Lawrence pushing the Harbor Island prospect. Truman can't cross water.",
